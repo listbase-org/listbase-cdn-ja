@@ -1,0 +1,176 @@
+{
+  "id": "ja-toyama-shichoson",
+  "name": "富山県の市区町村一覧",
+  "title": "富山県の市区町村一覧",
+  "description": "富山県 (Toyama Prefecture) の全市区町村 15 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "16201",
+      "name": "富山市",
+      "full_name": "富山市",
+      "prefecture": "富山県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "16202",
+      "name": "高岡市",
+      "full_name": "高岡市",
+      "prefecture": "富山県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "16204",
+      "name": "魚津市",
+      "full_name": "魚津市",
+      "prefecture": "富山県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "16205",
+      "name": "氷見市",
+      "full_name": "氷見市",
+      "prefecture": "富山県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "16206",
+      "name": "滑川市",
+      "full_name": "滑川市",
+      "prefecture": "富山県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "16207",
+      "name": "黒部市",
+      "full_name": "黒部市",
+      "prefecture": "富山県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "16208",
+      "name": "砺波市",
+      "full_name": "砺波市",
+      "prefecture": "富山県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "16209",
+      "name": "小矢部市",
+      "full_name": "小矢部市",
+      "prefecture": "富山県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "16210",
+      "name": "南砺市",
+      "full_name": "南砺市",
+      "prefecture": "富山県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "16211",
+      "name": "射水市",
+      "full_name": "射水市",
+      "prefecture": "富山県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "16321",
+      "name": "舟橋村",
+      "full_name": "中新川郡舟橋村",
+      "prefecture": "富山県",
+      "county_or_designated_city": "中新川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "16322",
+      "name": "上市町",
+      "full_name": "中新川郡上市町",
+      "prefecture": "富山県",
+      "county_or_designated_city": "中新川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "16323",
+      "name": "立山町",
+      "full_name": "中新川郡立山町",
+      "prefecture": "富山県",
+      "county_or_designated_city": "中新川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "16342",
+      "name": "入善町",
+      "full_name": "下新川郡入善町",
+      "prefecture": "富山県",
+      "county_or_designated_city": "下新川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "16343",
+      "name": "朝日町",
+      "full_name": "下新川郡朝日町",
+      "prefecture": "富山県",
+      "county_or_designated_city": "下新川郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "富山県の市区町村一覧 - 無料ダウンロード",
+    "description": "富山県 (Toyama Prefecture) の全市区町村 15 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 15 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "富山県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 富山県の市区町村一覧 — 15 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 15 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

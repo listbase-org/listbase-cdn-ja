@@ -1,0 +1,224 @@
+{
+  "id": "ja-fukuoka-gun",
+  "name": "福岡県の郡一覧 (Fukuoka Prefecture — counties)",
+  "title": "福岡県の郡一覧 (Fukuoka Prefecture — counties)",
+  "description": "福岡県に属する郡（ぐん）の一覧（11件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Fukuoka Prefecture.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_hira",
+      "label": "Name Hira",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_short_ja",
+      "label": "Name Short Ja",
+      "type": "string"
+    },
+    {
+      "key": "name_short_en",
+      "label": "Name Short En",
+      "type": "string"
+    },
+    {
+      "key": "pref_code",
+      "label": "Pref Code",
+      "type": "number"
+    },
+    {
+      "key": "pref_name",
+      "label": "Pref Name",
+      "type": "string"
+    },
+    {
+      "key": "pref_name_en",
+      "label": "Pref Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ja",
+      "label": "Type Ja",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "40340",
+      "name": "糟屋郡",
+      "name_hira": "かすやぐん",
+      "name_en": "Kasuya County",
+      "name_short_ja": "糟屋",
+      "name_short_en": "Kasuya",
+      "pref_code": "40",
+      "pref_name": "福岡県",
+      "pref_name_en": "Fukuoka Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "40380",
+      "name": "遠賀郡",
+      "name_hira": "おんがぐん",
+      "name_en": "Onga County",
+      "name_short_ja": "遠賀",
+      "name_short_en": "Onga",
+      "pref_code": "40",
+      "pref_name": "福岡県",
+      "pref_name_en": "Fukuoka Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "40400",
+      "name": "鞍手郡",
+      "name_hira": "くらてぐん",
+      "name_en": "Kurate County",
+      "name_short_ja": "鞍手",
+      "name_short_en": "Kurate",
+      "pref_code": "40",
+      "pref_name": "福岡県",
+      "pref_name_en": "Fukuoka Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "40420",
+      "name": "嘉穂郡",
+      "name_hira": "かほぐん",
+      "name_en": "Kaho County",
+      "name_short_ja": "嘉穂",
+      "name_short_en": "Kaho",
+      "pref_code": "40",
+      "pref_name": "福岡県",
+      "pref_name_en": "Fukuoka Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "40440",
+      "name": "朝倉郡",
+      "name_hira": "あさくらぐん",
+      "name_en": "Asakura County",
+      "name_short_ja": "朝倉",
+      "name_short_en": "Asakura",
+      "pref_code": "40",
+      "pref_name": "福岡県",
+      "pref_name_en": "Fukuoka Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "40500",
+      "name": "三井郡",
+      "name_hira": "みいぐん",
+      "name_en": "Mii County",
+      "name_short_ja": "三井",
+      "name_short_en": "Mii",
+      "pref_code": "40",
+      "pref_name": "福岡県",
+      "pref_name_en": "Fukuoka Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "40520",
+      "name": "三潴郡",
+      "name_hira": "みづまぐん",
+      "name_en": "Mizuma County",
+      "name_short_ja": "三潴",
+      "name_short_en": "Mizuma",
+      "pref_code": "40",
+      "pref_name": "福岡県",
+      "pref_name_en": "Fukuoka Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "40540",
+      "name": "八女郡",
+      "name_hira": "やめぐん",
+      "name_en": "Yame County",
+      "name_short_ja": "八女",
+      "name_short_en": "Yame",
+      "pref_code": "40",
+      "pref_name": "福岡県",
+      "pref_name_en": "Fukuoka Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "40600",
+      "name": "田川郡",
+      "name_hira": "たがわぐん",
+      "name_en": "Tagawa County",
+      "name_short_ja": "田川",
+      "name_short_en": "Tagawa",
+      "pref_code": "40",
+      "pref_name": "福岡県",
+      "pref_name_en": "Fukuoka Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "40620",
+      "name": "京都郡",
+      "name_hira": "みやこぐん",
+      "name_en": "Miyako County",
+      "name_short_ja": "京都",
+      "name_short_en": "Miyako",
+      "pref_code": "40",
+      "pref_name": "福岡県",
+      "pref_name_en": "Fukuoka Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "40640",
+      "name": "築上郡",
+      "name_hira": "ちくじょうぐん",
+      "name_en": "Chikujo County",
+      "name_short_ja": "築上",
+      "name_short_en": "Chikujo",
+      "pref_code": "40",
+      "pref_name": "福岡県",
+      "pref_name_en": "Fukuoka Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    }
+  ],
+  "meta": {
+    "title": "福岡県の郡一覧 (Fukuoka Prefecture — counties) - 無料ダウンロード",
+    "description": "福岡県に属する郡（ぐん）の一覧（11件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Fukuoka Prefecture. 収録数 11 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "福岡県の郡一覧 (Fukuoka Prefecture — counties) | ListBase",
+    "seo_description": "ダウンロード 福岡県の郡一覧 (Fukuoka Prefecture — counties) — 11 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 11 件 / 11 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

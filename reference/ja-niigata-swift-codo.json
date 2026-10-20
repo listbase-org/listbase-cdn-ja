@@ -1,0 +1,64 @@
+{
+  "id": "ja-niigata-swift-codo",
+  "name": "SWIFT/BICコード — Niigata",
+  "title": "SWIFT/BICコード — Niigata",
+  "description": "日本の銀行および金融機関のSWIFT/BICコード。各レコードには機関名、都市、支店（該当する場合）、およびSWIFT/BICコードが含まれます。出典: PeterNotenboom/SwiftCodes（MITライセンス）。このサブセットには、出典が都市「NIIGATA」として記載している3件の機関が含まれます。",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "NIIGATA SECURITIES CO., LTD.",
+      "city": "NIIGATA",
+      "branch": "",
+      "swift_code": "NIGTJPJ1"
+    },
+    {
+      "bank": "NIIGATA STOCK EXCHANGE",
+      "city": "NIIGATA",
+      "branch": "",
+      "swift_code": "XNIIJPJ1"
+    },
+    {
+      "bank": "SHINWA SECURITIES CO., LTD.",
+      "city": "NIIGATA",
+      "branch": "",
+      "swift_code": "SINWJPJ1"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BICコード — Niigata - 無料ダウンロード",
+    "description": "日本の銀行および金融機関のSWIFT/BICコード。各レコードには機関名、都市、支店（該当する場合）、およびSWIFT/BICコードが含まれます。出典: PeterNotenboom/SwiftCodes（MITライセンス）。このサブセットには、出典が都市「NIIGATA」として記載している3件の機関が含まれます。 収録数 3 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "SWIFT/BICコード — Niigata | ListBase",
+    "seo_description": "ダウンロード SWIFT/BICコード — Niigata — 3 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 3 件 / 4 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

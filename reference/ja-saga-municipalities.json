@@ -1,0 +1,216 @@
+{
+  "id": "ja-saga-municipalities",
+  "name": "佐賀県の市区町村一覧 (Municipalities of Saga — JIS X 0402)",
+  "title": "佐賀県の市区町村一覧 (Municipalities of Saga — JIS X 0402)",
+  "description": "佐賀県 (Saga Prefecture) の市区町村一覧 20 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 20 active municipalities (cities/wards/towns/villages) of Saga Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "41201",
+      "prefecture_code": "41",
+      "prefecture": "佐賀県",
+      "prefecture_kana": "サガケン",
+      "city": "佐賀市",
+      "city_kana": "サガシ"
+    },
+    {
+      "jisx0402": "41202",
+      "prefecture_code": "41",
+      "prefecture": "佐賀県",
+      "prefecture_kana": "サガケン",
+      "city": "唐津市",
+      "city_kana": "カラツシ"
+    },
+    {
+      "jisx0402": "41203",
+      "prefecture_code": "41",
+      "prefecture": "佐賀県",
+      "prefecture_kana": "サガケン",
+      "city": "鳥栖市",
+      "city_kana": "トスシ"
+    },
+    {
+      "jisx0402": "41204",
+      "prefecture_code": "41",
+      "prefecture": "佐賀県",
+      "prefecture_kana": "サガケン",
+      "city": "多久市",
+      "city_kana": "タクシ"
+    },
+    {
+      "jisx0402": "41205",
+      "prefecture_code": "41",
+      "prefecture": "佐賀県",
+      "prefecture_kana": "サガケン",
+      "city": "伊万里市",
+      "city_kana": "イマリシ"
+    },
+    {
+      "jisx0402": "41206",
+      "prefecture_code": "41",
+      "prefecture": "佐賀県",
+      "prefecture_kana": "サガケン",
+      "city": "武雄市",
+      "city_kana": "タケオシ"
+    },
+    {
+      "jisx0402": "41207",
+      "prefecture_code": "41",
+      "prefecture": "佐賀県",
+      "prefecture_kana": "サガケン",
+      "city": "鹿島市",
+      "city_kana": "カシマシ"
+    },
+    {
+      "jisx0402": "41208",
+      "prefecture_code": "41",
+      "prefecture": "佐賀県",
+      "prefecture_kana": "サガケン",
+      "city": "小城市",
+      "city_kana": "オギシ"
+    },
+    {
+      "jisx0402": "41209",
+      "prefecture_code": "41",
+      "prefecture": "佐賀県",
+      "prefecture_kana": "サガケン",
+      "city": "嬉野市",
+      "city_kana": "ウレシノシ"
+    },
+    {
+      "jisx0402": "41210",
+      "prefecture_code": "41",
+      "prefecture": "佐賀県",
+      "prefecture_kana": "サガケン",
+      "city": "神埼市",
+      "city_kana": "カンザキシ"
+    },
+    {
+      "jisx0402": "41327",
+      "prefecture_code": "41",
+      "prefecture": "佐賀県",
+      "prefecture_kana": "サガケン",
+      "city": "神埼郡吉野ヶ里町",
+      "city_kana": "カンザキグンヨシノガリチョウ"
+    },
+    {
+      "jisx0402": "41341",
+      "prefecture_code": "41",
+      "prefecture": "佐賀県",
+      "prefecture_kana": "サガケン",
+      "city": "三養基郡基山町",
+      "city_kana": "ミヤキグンキヤマチョウ"
+    },
+    {
+      "jisx0402": "41345",
+      "prefecture_code": "41",
+      "prefecture": "佐賀県",
+      "prefecture_kana": "サガケン",
+      "city": "三養基郡上峰町",
+      "city_kana": "ミヤキグンカミミネチョウ"
+    },
+    {
+      "jisx0402": "41346",
+      "prefecture_code": "41",
+      "prefecture": "佐賀県",
+      "prefecture_kana": "サガケン",
+      "city": "三養基郡みやき町",
+      "city_kana": "ミヤキグンミヤキチョウ"
+    },
+    {
+      "jisx0402": "41387",
+      "prefecture_code": "41",
+      "prefecture": "佐賀県",
+      "prefecture_kana": "サガケン",
+      "city": "東松浦郡玄海町",
+      "city_kana": "ヒガシマツウラグンゲンカイチョウ"
+    },
+    {
+      "jisx0402": "41401",
+      "prefecture_code": "41",
+      "prefecture": "佐賀県",
+      "prefecture_kana": "サガケン",
+      "city": "西松浦郡有田町",
+      "city_kana": "ニシマツウラグンアリタチョウ"
+    },
+    {
+      "jisx0402": "41423",
+      "prefecture_code": "41",
+      "prefecture": "佐賀県",
+      "prefecture_kana": "サガケン",
+      "city": "杵島郡大町町",
+      "city_kana": "キシマグンオオマチチョウ"
+    },
+    {
+      "jisx0402": "41424",
+      "prefecture_code": "41",
+      "prefecture": "佐賀県",
+      "prefecture_kana": "サガケン",
+      "city": "杵島郡江北町",
+      "city_kana": "キシマグンコウホクマチ"
+    },
+    {
+      "jisx0402": "41425",
+      "prefecture_code": "41",
+      "prefecture": "佐賀県",
+      "prefecture_kana": "サガケン",
+      "city": "杵島郡白石町",
+      "city_kana": "キシマグンシロイシチョウ"
+    },
+    {
+      "jisx0402": "41441",
+      "prefecture_code": "41",
+      "prefecture": "佐賀県",
+      "prefecture_kana": "サガケン",
+      "city": "藤津郡太良町",
+      "city_kana": "フジツグンタラチョウ"
+    }
+  ],
+  "meta": {
+    "title": "佐賀県の市区町村一覧 (Municipalities of Saga — JIS X 0402) - 無料ダウンロード",
+    "description": "佐賀県 (Saga Prefecture) の市区町村一覧 20 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 20 active municipalities (cities/wards/towns/villages) of Saga Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 20 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "佐賀県の市区町村一覧 (Municipalities of Saga — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 佐賀県の市区町村一覧 (Municipalities of Saga — JIS X 0402) — 20 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 20 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

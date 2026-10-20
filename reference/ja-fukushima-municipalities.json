@@ -1,0 +1,528 @@
+{
+  "id": "ja-fukushima-municipalities",
+  "name": "福島県の市区町村一覧 (Municipalities of Fukushima — JIS X 0402)",
+  "title": "福島県の市区町村一覧 (Municipalities of Fukushima — JIS X 0402)",
+  "description": "福島県 (Fukushima Prefecture) の市区町村一覧 59 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 59 active municipalities (cities/wards/towns/villages) of Fukushima Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 59,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "07201",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "福島市",
+      "city_kana": "フクシマシ"
+    },
+    {
+      "jisx0402": "07202",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "会津若松市",
+      "city_kana": "アイヅワカマツシ"
+    },
+    {
+      "jisx0402": "07203",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "郡山市",
+      "city_kana": "コオリヤマシ"
+    },
+    {
+      "jisx0402": "07204",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "いわき市",
+      "city_kana": "イワキシ"
+    },
+    {
+      "jisx0402": "07205",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "白河市",
+      "city_kana": "シラカワシ"
+    },
+    {
+      "jisx0402": "07207",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "須賀川市",
+      "city_kana": "スカガワシ"
+    },
+    {
+      "jisx0402": "07208",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "喜多方市",
+      "city_kana": "キタカタシ"
+    },
+    {
+      "jisx0402": "07209",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "相馬市",
+      "city_kana": "ソウマシ"
+    },
+    {
+      "jisx0402": "07210",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "二本松市",
+      "city_kana": "ニホンマツシ"
+    },
+    {
+      "jisx0402": "07211",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "田村市",
+      "city_kana": "タムラシ"
+    },
+    {
+      "jisx0402": "07212",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "南相馬市",
+      "city_kana": "ミナミソウマシ"
+    },
+    {
+      "jisx0402": "07213",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "伊達市",
+      "city_kana": "ダテシ"
+    },
+    {
+      "jisx0402": "07214",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "本宮市",
+      "city_kana": "モトミヤシ"
+    },
+    {
+      "jisx0402": "07301",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "伊達郡桑折町",
+      "city_kana": "ダテグンコオリマチ"
+    },
+    {
+      "jisx0402": "07303",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "伊達郡国見町",
+      "city_kana": "ダテグンクニミマチ"
+    },
+    {
+      "jisx0402": "07308",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "伊達郡川俣町",
+      "city_kana": "ダテグンカワマタマチ"
+    },
+    {
+      "jisx0402": "07322",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "安達郡大玉村",
+      "city_kana": "アダチグンオオタマムラ"
+    },
+    {
+      "jisx0402": "07342",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "岩瀬郡鏡石町",
+      "city_kana": "イワセグンカガミイシマチ"
+    },
+    {
+      "jisx0402": "07344",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "岩瀬郡天栄村",
+      "city_kana": "イワセグンテンエイムラ"
+    },
+    {
+      "jisx0402": "07362",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "南会津郡下郷町",
+      "city_kana": "ミナミアイヅグンシモゴウマチ"
+    },
+    {
+      "jisx0402": "07364",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "南会津郡檜枝岐村",
+      "city_kana": "ミナミアイヅグンヒノエマタムラ"
+    },
+    {
+      "jisx0402": "07367",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "南会津郡只見町",
+      "city_kana": "ミナミアイヅグンタダミマチ"
+    },
+    {
+      "jisx0402": "07368",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "南会津郡南会津町",
+      "city_kana": "ミナミアイヅグンミナミアイヅマチ"
+    },
+    {
+      "jisx0402": "07402",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "耶麻郡北塩原村",
+      "city_kana": "ヤマグンキタシオバラムラ"
+    },
+    {
+      "jisx0402": "07405",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "耶麻郡西会津町",
+      "city_kana": "ヤマグンニシアイヅマチ"
+    },
+    {
+      "jisx0402": "07407",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "耶麻郡磐梯町",
+      "city_kana": "ヤマグンバンダイマチ"
+    },
+    {
+      "jisx0402": "07408",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "耶麻郡猪苗代町",
+      "city_kana": "ヤマグンイナワシロマチ"
+    },
+    {
+      "jisx0402": "07421",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "河沼郡会津坂下町",
+      "city_kana": "カワヌマグンアイヅバンゲマチ"
+    },
+    {
+      "jisx0402": "07422",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "河沼郡湯川村",
+      "city_kana": "カワヌマグンユガワムラ"
+    },
+    {
+      "jisx0402": "07423",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "河沼郡柳津町",
+      "city_kana": "カワヌマグンヤナイヅマチ"
+    },
+    {
+      "jisx0402": "07444",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "大沼郡三島町",
+      "city_kana": "オオヌマグンミシママチ"
+    },
+    {
+      "jisx0402": "07445",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "大沼郡金山町",
+      "city_kana": "オオヌマグンカネヤママチ"
+    },
+    {
+      "jisx0402": "07446",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "大沼郡昭和村",
+      "city_kana": "オオヌマグンショウワムラ"
+    },
+    {
+      "jisx0402": "07447",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "大沼郡会津美里町",
+      "city_kana": "オオヌマグンアイヅミサトマチ"
+    },
+    {
+      "jisx0402": "07461",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "西白河郡西郷村",
+      "city_kana": "ニシシラカワグンニシゴウムラ"
+    },
+    {
+      "jisx0402": "07464",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "西白河郡泉崎村",
+      "city_kana": "ニシシラカワグンイズミザキムラ"
+    },
+    {
+      "jisx0402": "07465",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "西白河郡中島村",
+      "city_kana": "ニシシラカワグンナカジマムラ"
+    },
+    {
+      "jisx0402": "07466",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "西白河郡矢吹町",
+      "city_kana": "ニシシラカワグンヤブキマチ"
+    },
+    {
+      "jisx0402": "07481",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "東白川郡棚倉町",
+      "city_kana": "ヒガシシラカワグンタナグラマチ"
+    },
+    {
+      "jisx0402": "07482",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "東白川郡矢祭町",
+      "city_kana": "ヒガシシラカワグンヤマツリマチ"
+    },
+    {
+      "jisx0402": "07483",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "東白川郡塙町",
+      "city_kana": "ヒガシシラカワグンハナワマチ"
+    },
+    {
+      "jisx0402": "07484",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "東白川郡鮫川村",
+      "city_kana": "ヒガシシラカワグンサメガワムラ"
+    },
+    {
+      "jisx0402": "07501",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "石川郡石川町",
+      "city_kana": "イシカワグンイシカワマチ"
+    },
+    {
+      "jisx0402": "07502",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "石川郡玉川村",
+      "city_kana": "イシカワグンタマカワムラ"
+    },
+    {
+      "jisx0402": "07503",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "石川郡平田村",
+      "city_kana": "イシカワグンヒラタムラ"
+    },
+    {
+      "jisx0402": "07504",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "石川郡浅川町",
+      "city_kana": "イシカワグンアサカワマチ"
+    },
+    {
+      "jisx0402": "07505",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "石川郡古殿町",
+      "city_kana": "イシカワグンフルドノマチ"
+    },
+    {
+      "jisx0402": "07521",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "田村郡三春町",
+      "city_kana": "タムラグンミハルマチ"
+    },
+    {
+      "jisx0402": "07522",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "田村郡小野町",
+      "city_kana": "タムラグンオノマチ"
+    },
+    {
+      "jisx0402": "07541",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "双葉郡広野町",
+      "city_kana": "フタバグンヒロノマチ"
+    },
+    {
+      "jisx0402": "07542",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "双葉郡楢葉町",
+      "city_kana": "フタバグンナラハマチ"
+    },
+    {
+      "jisx0402": "07543",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "双葉郡富岡町",
+      "city_kana": "フタバグントミオカマチ"
+    },
+    {
+      "jisx0402": "07544",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "双葉郡川内村",
+      "city_kana": "フタバグンカワウチムラ"
+    },
+    {
+      "jisx0402": "07545",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "双葉郡大熊町",
+      "city_kana": "フタバグンオオクママチ"
+    },
+    {
+      "jisx0402": "07546",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "双葉郡双葉町",
+      "city_kana": "フタバグンフタバマチ"
+    },
+    {
+      "jisx0402": "07547",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "双葉郡浪江町",
+      "city_kana": "フタバグンナミエマチ"
+    },
+    {
+      "jisx0402": "07548",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "双葉郡葛尾村",
+      "city_kana": "フタバグンカツラオムラ"
+    },
+    {
+      "jisx0402": "07561",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "相馬郡新地町",
+      "city_kana": "ソウマグンシンチマチ"
+    },
+    {
+      "jisx0402": "07564",
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "city": "相馬郡飯舘村",
+      "city_kana": "ソウマグンイイタテムラ"
+    }
+  ],
+  "meta": {
+    "title": "福島県の市区町村一覧 (Municipalities of Fukushima — JIS X 0402) - 無料ダウンロード",
+    "description": "福島県 (Fukushima Prefecture) の市区町村一覧 59 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 59 active municipalities (cities/wards/towns/villages) of Fukushima Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 59 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "福島県の市区町村一覧 (Municipalities of Fukushima — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 福島県の市区町村一覧 (Municipalities of Fukushima — JIS X 0402) — 59 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 59 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

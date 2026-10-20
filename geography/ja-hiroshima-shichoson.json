@@ -1,0 +1,296 @@
+{
+  "id": "ja-hiroshima-shichoson",
+  "name": "広島県の市区町村一覧",
+  "title": "広島県の市区町村一覧",
+  "description": "広島県 (Hiroshima Prefecture) の全市区町村 30 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "34101",
+      "name": "中区",
+      "full_name": "広島市中区",
+      "prefecture": "広島県",
+      "county_or_designated_city": "広島市",
+      "subprefecture": ""
+    },
+    {
+      "code": "34102",
+      "name": "東区",
+      "full_name": "広島市東区",
+      "prefecture": "広島県",
+      "county_or_designated_city": "広島市",
+      "subprefecture": ""
+    },
+    {
+      "code": "34103",
+      "name": "南区",
+      "full_name": "広島市南区",
+      "prefecture": "広島県",
+      "county_or_designated_city": "広島市",
+      "subprefecture": ""
+    },
+    {
+      "code": "34104",
+      "name": "西区",
+      "full_name": "広島市西区",
+      "prefecture": "広島県",
+      "county_or_designated_city": "広島市",
+      "subprefecture": ""
+    },
+    {
+      "code": "34105",
+      "name": "安佐南区",
+      "full_name": "広島市安佐南区",
+      "prefecture": "広島県",
+      "county_or_designated_city": "広島市",
+      "subprefecture": ""
+    },
+    {
+      "code": "34106",
+      "name": "安佐北区",
+      "full_name": "広島市安佐北区",
+      "prefecture": "広島県",
+      "county_or_designated_city": "広島市",
+      "subprefecture": ""
+    },
+    {
+      "code": "34107",
+      "name": "安芸区",
+      "full_name": "広島市安芸区",
+      "prefecture": "広島県",
+      "county_or_designated_city": "広島市",
+      "subprefecture": ""
+    },
+    {
+      "code": "34108",
+      "name": "佐伯区",
+      "full_name": "広島市佐伯区",
+      "prefecture": "広島県",
+      "county_or_designated_city": "広島市",
+      "subprefecture": ""
+    },
+    {
+      "code": "34202",
+      "name": "呉市",
+      "full_name": "呉市",
+      "prefecture": "広島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "34203",
+      "name": "竹原市",
+      "full_name": "竹原市",
+      "prefecture": "広島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "34204",
+      "name": "三原市",
+      "full_name": "三原市",
+      "prefecture": "広島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "34205",
+      "name": "尾道市",
+      "full_name": "尾道市",
+      "prefecture": "広島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "34207",
+      "name": "福山市",
+      "full_name": "福山市",
+      "prefecture": "広島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "34208",
+      "name": "府中市",
+      "full_name": "府中市",
+      "prefecture": "広島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "34209",
+      "name": "三次市",
+      "full_name": "三次市",
+      "prefecture": "広島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "34210",
+      "name": "庄原市",
+      "full_name": "庄原市",
+      "prefecture": "広島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "34211",
+      "name": "大竹市",
+      "full_name": "大竹市",
+      "prefecture": "広島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "34212",
+      "name": "東広島市",
+      "full_name": "東広島市",
+      "prefecture": "広島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "34213",
+      "name": "廿日市市",
+      "full_name": "廿日市市",
+      "prefecture": "広島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "34214",
+      "name": "安芸高田市",
+      "full_name": "安芸高田市",
+      "prefecture": "広島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "34215",
+      "name": "江田島市",
+      "full_name": "江田島市",
+      "prefecture": "広島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "34302",
+      "name": "府中町",
+      "full_name": "安芸郡府中町",
+      "prefecture": "広島県",
+      "county_or_designated_city": "安芸郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "34304",
+      "name": "海田町",
+      "full_name": "安芸郡海田町",
+      "prefecture": "広島県",
+      "county_or_designated_city": "安芸郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "34307",
+      "name": "熊野町",
+      "full_name": "安芸郡熊野町",
+      "prefecture": "広島県",
+      "county_or_designated_city": "安芸郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "34309",
+      "name": "坂町",
+      "full_name": "安芸郡坂町",
+      "prefecture": "広島県",
+      "county_or_designated_city": "安芸郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "34368",
+      "name": "安芸太田町",
+      "full_name": "山県郡安芸太田町",
+      "prefecture": "広島県",
+      "county_or_designated_city": "山県郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "34369",
+      "name": "北広島町",
+      "full_name": "山県郡北広島町",
+      "prefecture": "広島県",
+      "county_or_designated_city": "山県郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "34431",
+      "name": "大崎上島町",
+      "full_name": "豊田郡大崎上島町",
+      "prefecture": "広島県",
+      "county_or_designated_city": "豊田郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "34462",
+      "name": "世羅町",
+      "full_name": "世羅郡世羅町",
+      "prefecture": "広島県",
+      "county_or_designated_city": "世羅郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "34545",
+      "name": "神石高原町",
+      "full_name": "神石郡神石高原町",
+      "prefecture": "広島県",
+      "county_or_designated_city": "神石郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "広島県の市区町村一覧 - 無料ダウンロード",
+    "description": "広島県 (Hiroshima Prefecture) の全市区町村 30 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 30 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "広島県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 広島県の市区町村一覧 — 30 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 30 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

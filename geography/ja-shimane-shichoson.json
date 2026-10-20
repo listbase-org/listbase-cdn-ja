@@ -1,0 +1,208 @@
+{
+  "id": "ja-shimane-shichoson",
+  "name": "島根県の市区町村一覧",
+  "title": "島根県の市区町村一覧",
+  "description": "島根県 (Shimane Prefecture) の全市区町村 19 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "32201",
+      "name": "松江市",
+      "full_name": "松江市",
+      "prefecture": "島根県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "32202",
+      "name": "浜田市",
+      "full_name": "浜田市",
+      "prefecture": "島根県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "32203",
+      "name": "出雲市",
+      "full_name": "出雲市",
+      "prefecture": "島根県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "32204",
+      "name": "益田市",
+      "full_name": "益田市",
+      "prefecture": "島根県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "32205",
+      "name": "大田市",
+      "full_name": "大田市",
+      "prefecture": "島根県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "32206",
+      "name": "安来市",
+      "full_name": "安来市",
+      "prefecture": "島根県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "32207",
+      "name": "江津市",
+      "full_name": "江津市",
+      "prefecture": "島根県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "32209",
+      "name": "雲南市",
+      "full_name": "雲南市",
+      "prefecture": "島根県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "32343",
+      "name": "奥出雲町",
+      "full_name": "仁多郡奥出雲町",
+      "prefecture": "島根県",
+      "county_or_designated_city": "仁多郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "32386",
+      "name": "飯南町",
+      "full_name": "飯石郡飯南町",
+      "prefecture": "島根県",
+      "county_or_designated_city": "飯石郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "32441",
+      "name": "川本町",
+      "full_name": "邑智郡川本町",
+      "prefecture": "島根県",
+      "county_or_designated_city": "邑智郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "32448",
+      "name": "美郷町",
+      "full_name": "邑智郡美郷町",
+      "prefecture": "島根県",
+      "county_or_designated_city": "邑智郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "32449",
+      "name": "邑南町",
+      "full_name": "邑智郡邑南町",
+      "prefecture": "島根県",
+      "county_or_designated_city": "邑智郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "32501",
+      "name": "津和野町",
+      "full_name": "鹿足郡津和野町",
+      "prefecture": "島根県",
+      "county_or_designated_city": "鹿足郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "32505",
+      "name": "吉賀町",
+      "full_name": "鹿足郡吉賀町",
+      "prefecture": "島根県",
+      "county_or_designated_city": "鹿足郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "32525",
+      "name": "海士町",
+      "full_name": "隠岐郡海士町",
+      "prefecture": "島根県",
+      "county_or_designated_city": "隠岐郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "32526",
+      "name": "西ノ島町",
+      "full_name": "隠岐郡西ノ島町",
+      "prefecture": "島根県",
+      "county_or_designated_city": "隠岐郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "32527",
+      "name": "知夫村",
+      "full_name": "隠岐郡知夫村",
+      "prefecture": "島根県",
+      "county_or_designated_city": "隠岐郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "32528",
+      "name": "隠岐の島町",
+      "full_name": "隠岐郡隠岐の島町",
+      "prefecture": "島根県",
+      "county_or_designated_city": "隠岐郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "島根県の市区町村一覧 - 無料ダウンロード",
+    "description": "島根県 (Shimane Prefecture) の全市区町村 19 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 19 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "島根県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 島根県の市区町村一覧 — 19 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 19 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

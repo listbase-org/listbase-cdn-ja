@@ -1,0 +1,1336 @@
+{
+  "id": "ja-undersea-features",
+  "name": "海底地形一覧 (Undersea features around Japan)",
+  "title": "海底地形一覧 (Undersea features around Japan)",
+  "description": "国土地理院「日本地名集 (Gazetteer of Japan) 2007」に収録された海底地形 127 件。漢字・ひらがな・公式ローマ字表記と緯度経度を併記。127 undersea features listed in the Geospatial Information Authority of Japan's Gazetteer of Japan 2007 (with the 2018 update), each with kanji, kana and the official romanised name plus degree-minute coordinates in both original DMS and decimal form.",
+  "category": "geography",
+  "source": "https://github.com/piuccio/open-data-jp-municipalities",
+  "source_url": "https://github.com/piuccio/open-data-jp-municipalities",
+  "updated": "2026-04",
+  "record_count": 127,
+  "columns": [
+    {
+      "key": "name_kanji",
+      "label": "Name Kanji",
+      "type": "string"
+    },
+    {
+      "key": "name_kana",
+      "label": "Name Kana",
+      "type": "string"
+    },
+    {
+      "key": "name_romaji",
+      "label": "Name Romaji",
+      "type": "string"
+    },
+    {
+      "key": "classification",
+      "label": "Classification",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "org_latitude",
+      "label": "Org Latitude",
+      "type": "string"
+    },
+    {
+      "key": "org_longitude",
+      "label": "Org Longitude",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_kanji": "秋の七草海山群",
+      "name_kana": "あきのななくさかいざんぐん",
+      "name_romaji": "Akinonanakusa Kaizangun",
+      "classification": "Undersea feature",
+      "lat": 28.166667,
+      "lon": 147.833333,
+      "org_latitude": "28 ゚ 10’",
+      "org_longitude": "147 ゚ 50’"
+    },
+    {
+      "name_kanji": "奄美海台",
+      "name_kana": "あまみかいだい",
+      "name_romaji": "Amami Kaidai",
+      "classification": "Undersea feature",
+      "lat": 28.1,
+      "lon": 132.466667,
+      "org_latitude": "28 ゚ 06’",
+      "org_longitude": "132 ゚ 28’"
+    },
+    {
+      "name_kanji": "安永海山",
+      "name_kana": "あんえいかいざん",
+      "name_romaji": "An-ei Kaizan",
+      "classification": "Undersea feature",
+      "lat": 29.333333,
+      "lon": 138.666667,
+      "org_latitude": "29 ゚ 20’",
+      "org_longitude": "138 ゚ 40’"
+    },
+    {
+      "name_kanji": "米寿海山",
+      "name_kana": "べいじゅかいざん",
+      "name_romaji": "Beiju Kaizan",
+      "classification": "Undersea feature",
+      "lat": 24.516667,
+      "lon": 134.333333,
+      "org_latitude": "24 ゚ 31’",
+      "org_longitude": "134 ゚ 20’"
+    },
+    {
+      "name_kanji": "望星海山",
+      "name_kana": "ぼうせいかいざん",
+      "name_romaji": "Bosei Kaizan",
+      "classification": "Undersea feature",
+      "lat": 37.133333,
+      "lon": 145.333333,
+      "org_latitude": "37 ゚ 08’",
+      "org_longitude": "145 ゚ 20’"
+    },
+    {
+      "name_kanji": "千島海盆",
+      "name_kana": "ちしまかいぼん",
+      "name_romaji": "Chishima Kaibon",
+      "classification": "Undersea feature",
+      "lat": 46.633333,
+      "lon": 146.933333,
+      "org_latitude": "46 ゚ 38’",
+      "org_longitude": "146 ゚ 56’"
+    },
+    {
+      "name_kanji": "千島・カムチャツカ海溝",
+      "name_kana": "ちしまかむちゃつかかいこう",
+      "name_romaji": "Chishima-Kamuchatsuka Kaiko",
+      "classification": "Undersea feature",
+      "lat": 42.166667,
+      "lon": 147.033333,
+      "org_latitude": "42 ゚ 10’",
+      "org_longitude": "147 ゚ 02’"
+    },
+    {
+      "name_kanji": "朝陽海山",
+      "name_kana": "ちょうようかいざん",
+      "name_romaji": "Choyo Kaizan",
+      "classification": "Undersea feature",
+      "lat": 27,
+      "lon": 148.666667,
+      "org_latitude": "27 ゚ 00’",
+      "org_longitude": "148 ゚ 40’"
+    },
+    {
+      "name_kanji": "第5鹿島海山",
+      "name_kana": "だいごかしまかいざん",
+      "name_romaji": "Daigo-Kashima Kaizan",
+      "classification": "Undersea feature",
+      "lat": 35.783333,
+      "lon": 144.316667,
+      "org_latitude": "35 ゚ 47’",
+      "org_longitude": "144 ゚ 19’"
+    },
+    {
+      "name_kanji": "第1鹿島海山",
+      "name_kana": "だいいちかしまかいざん",
+      "name_romaji": "Daiichi-Kashima Kaizan",
+      "classification": "Undersea feature",
+      "lat": 35.8,
+      "lon": 142.666667,
+      "org_latitude": "35 ゚ 48’",
+      "org_longitude": "142 ゚ 40’"
+    },
+    {
+      "name_kanji": "第1紀南海山",
+      "name_kana": "だいいちきなんかいざん",
+      "name_romaji": "Daiichi-Kinan Kaizan",
+      "classification": "Undersea feature",
+      "lat": 30.466667,
+      "lon": 136.3,
+      "org_latitude": "30 ゚ 28’",
+      "org_longitude": "136 ゚ 18’"
+    },
+    {
+      "name_kanji": "第2鹿島海山",
+      "name_kana": "だいにかしまかいざん",
+      "name_romaji": "Daini-Kashima Kaizan",
+      "classification": "Undersea feature",
+      "lat": 36.066667,
+      "lon": 143.5,
+      "org_latitude": "36 ゚ 04’",
+      "org_longitude": "143 ゚ 30’"
+    },
+    {
+      "name_kanji": "第2紀南海山",
+      "name_kana": "だいにきなんかいざん",
+      "name_romaji": "Daini-Kinan Kaizan",
+      "classification": "Undersea feature",
+      "lat": 30.166667,
+      "lon": 136.733333,
+      "org_latitude": "30 ゚ 10’",
+      "org_longitude": "136 ゚ 44’"
+    },
+    {
+      "name_kanji": "大東海嶺",
+      "name_kana": "だいとうかいれい",
+      "name_romaji": "Daito Kairei",
+      "classification": "Undersea feature",
+      "lat": 25.966667,
+      "lon": 132.2,
+      "org_latitude": "25 ゚ 58’",
+      "org_longitude": "132 ゚ 12’"
+    },
+    {
+      "name_kanji": "第4鹿島海山",
+      "name_kana": "だいよんかしまかいざん",
+      "name_romaji": "Daiyon-Kashima Kaizan",
+      "classification": "Undersea feature",
+      "lat": 36.266667,
+      "lon": 144,
+      "org_latitude": "36 ゚ 16’",
+      "org_longitude": "144 ゚ 00’"
+    },
+    {
+      "name_kanji": "土曜海山",
+      "name_kana": "どようかいざん",
+      "name_romaji": "Doyo Kaizan",
+      "classification": "Undersea feature",
+      "lat": 27.683333,
+      "lon": 140.8,
+      "org_latitude": "27 ゚ 41’",
+      "org_longitude": "140 ゚ 48’"
+    },
+    {
+      "name_kanji": "襟裳海山",
+      "name_kana": "えりもかいざん",
+      "name_romaji": "Erimo Kaizan",
+      "classification": "Undersea feature",
+      "lat": 40.9,
+      "lon": 144.966667,
+      "org_latitude": "40 ゚ 54’",
+      "org_longitude": "144 ゚ 58’"
+    },
+    {
+      "name_kanji": "福徳海山",
+      "name_kana": "ふくとくかいざん",
+      "name_romaji": "Fukutoku Kaizan",
+      "classification": "Undersea feature",
+      "lat": 24.066667,
+      "lon": 141.633333,
+      "org_latitude": "24 ゚ 04’",
+      "org_longitude": "141 ゚ 38’"
+    },
+    {
+      "name_kanji": "元禄海山",
+      "name_kana": "げんろくかいざん",
+      "name_romaji": "Genroku Kaizan",
+      "classification": "Undersea feature",
+      "lat": 31.016667,
+      "lon": 139.016667,
+      "org_latitude": "31 ゚ 01’",
+      "org_longitude": "139 ゚ 01’"
+    },
+    {
+      "name_kanji": "月曜海山",
+      "name_kana": "げつようかいざん",
+      "name_romaji": "Getsuyo Kaizan",
+      "classification": "Undersea feature",
+      "lat": 29.3,
+      "lon": 140.466667,
+      "org_latitude": "29 ゚ 18’",
+      "org_longitude": "140 ゚ 28’"
+    },
+    {
+      "name_kanji": "母島海山",
+      "name_kana": "ははじまかいざん",
+      "name_romaji": "Hahajima Kaizan",
+      "classification": "Undersea feature",
+      "lat": 26.2,
+      "lon": 143.166667,
+      "org_latitude": "26 ゚ 12’",
+      "org_longitude": "143 ゚ 10’"
+    },
+    {
+      "name_kanji": "白鳳海山",
+      "name_kana": "はくほうかいざん",
+      "name_romaji": "Hakuho Kaizan",
+      "classification": "Undersea feature",
+      "lat": 27.95,
+      "lon": 137.516667,
+      "org_latitude": "27 ゚ 57’",
+      "org_longitude": "137 ゚ 31’"
+    },
+    {
+      "name_kanji": "白露海山",
+      "name_kana": "はくろかいざん",
+      "name_romaji": "Hakuro Kaizan",
+      "classification": "Undersea feature",
+      "lat": 22.166667,
+      "lon": 141.75,
+      "org_latitude": "22 ゚ 10’",
+      "org_longitude": "141 ゚ 45’"
+    },
+    {
+      "name_kanji": "白山瀬",
+      "name_kana": "はくさんせ",
+      "name_romaji": "Hakusan Se",
+      "classification": "Undersea feature",
+      "lat": 38.5,
+      "lon": 137.133333,
+      "org_latitude": "38 ゚ 30’",
+      "org_longitude": "137 ゚ 08’"
+    },
+    {
+      "name_kanji": "半沢海山",
+      "name_kana": "はんざわかいざん",
+      "name_romaji": "Hanzawa Kaizan",
+      "classification": "Undersea feature",
+      "lat": 25.833333,
+      "lon": 147,
+      "org_latitude": "25 ゚ 50’",
+      "org_longitude": "147 ゚ 00’"
+    },
+    {
+      "name_kanji": "春の七草海山群",
+      "name_kana": "はるのななくさかいざんぐん",
+      "name_romaji": "Harunonanakusa Kaizangun",
+      "classification": "Undersea feature",
+      "lat": 25.166667,
+      "lon": 149,
+      "org_latitude": "25 ゚ 10’",
+      "org_longitude": "149 ゚ 00’"
+    },
+    {
+      "name_kanji": "日高舟状海盆",
+      "name_kana": "ひだかしゅうじょうかいぼん",
+      "name_romaji": "Hidaka Shujokaibon",
+      "classification": "Undersea feature",
+      "lat": 41.8,
+      "lon": 142.15,
+      "org_latitude": "41 ゚ 48’",
+      "org_longitude": "142 ゚ 09’"
+    },
+    {
+      "name_kanji": "宝永海山",
+      "name_kana": "ほうえいかいざん",
+      "name_romaji": "Hoei Kaizan",
+      "classification": "Undersea feature",
+      "lat": 30.883333,
+      "lon": 138.733333,
+      "org_latitude": "30 ゚ 53’",
+      "org_longitude": "138 ゚ 44’"
+    },
+    {
+      "name_kanji": "北西太平洋海盆",
+      "name_kana": "ほくせいたいへいようかいぼん",
+      "name_romaji": "Hokusei-Taiheiyo Kaibon",
+      "classification": "Undersea feature",
+      "lat": 38.333333,
+      "lon": 152.5,
+      "org_latitude": "38 ゚ 20’",
+      "org_longitude": "152 ゚ 30’"
+    },
+    {
+      "name_kanji": "ほとけのざ海山",
+      "name_kana": "ほとけのざかいざん",
+      "name_romaji": "Hotokenoza Kaizan",
+      "classification": "Undersea feature",
+      "lat": 25.066667,
+      "lon": 148.583333,
+      "org_latitude": "25 ゚ 04’",
+      "org_longitude": "148 ゚ 35’"
+    },
+    {
+      "name_kanji": "堀田海山 ",
+      "name_kana": "ほったかいざん",
+      "name_romaji": "Hotta Kaizan",
+      "classification": "Undersea feature",
+      "lat": 37.716667,
+      "lon": 145.966667,
+      "org_latitude": "37 ゚ 43’",
+      "org_longitude": "145 ゚ 58’"
+    },
+    {
+      "name_kanji": "日向海盆",
+      "name_kana": "ひゅうがかいぼん",
+      "name_romaji": "Hyuga Kaibon",
+      "classification": "Undersea feature",
+      "lat": 32.083333,
+      "lon": 132.4,
+      "org_latitude": "32 ゚ 05’",
+      "org_longitude": "132 ゚ 24’"
+    },
+    {
+      "name_kanji": "磐城海山",
+      "name_kana": "いわきかいざん",
+      "name_romaji": "Iwaki Kaizan",
+      "classification": "Undersea feature",
+      "lat": 36.983333,
+      "lon": 144.85,
+      "org_latitude": "36 ゚ 59’",
+      "org_longitude": "144 ゚ 51’"
+    },
+    {
+      "name_kanji": "伊豆・小笠原海溝",
+      "name_kana": "いずおがさわらかいこう",
+      "name_romaji": "Izu-Ogasawara Kaiko",
+      "classification": "Undersea feature",
+      "lat": 31.2,
+      "lon": 142.266667,
+      "org_latitude": "31 ゚ 12’",
+      "org_longitude": "142 ゚ 16’"
+    },
+    {
+      "name_kanji": "海形海山",
+      "name_kana": "かいかたかいざん",
+      "name_romaji": "Kaikata Kaizan",
+      "classification": "Undersea feature",
+      "lat": 26.666667,
+      "lon": 141,
+      "org_latitude": "26 ゚ 40’",
+      "org_longitude": "141 ゚ 00’"
+    },
+    {
+      "name_kanji": "海徳海山",
+      "name_kana": "かいとくかいざん",
+      "name_romaji": "Kaitoku Kaizan",
+      "classification": "Undersea feature",
+      "lat": 26.083333,
+      "lon": 140.933333,
+      "org_latitude": "26 ゚ 05’",
+      "org_longitude": "140 ゚ 56’"
+    },
+    {
+      "name_kanji": "海洋海山",
+      "name_kana": "かいようかいざん",
+      "name_romaji": "Kaiyo Kaizan",
+      "classification": "Undersea feature",
+      "lat": 43.95,
+      "lon": 139.25,
+      "org_latitude": "43 ゚ 57’",
+      "org_longitude": "139 ゚ 15’"
+    },
+    {
+      "name_kanji": "咸臨海山",
+      "name_kana": "かんりんかいざん",
+      "name_romaji": "Kanrin Kaizan",
+      "classification": "Undersea feature",
+      "lat": 24.15,
+      "lon": 149.966667,
+      "org_latitude": "24 ゚ 09’",
+      "org_longitude": "149 ゚ 58’"
+    },
+    {
+      "name_kanji": "火星海山",
+      "name_kana": "かせいかいざん",
+      "name_romaji": "Kasei Kaizan",
+      "classification": "Undersea feature",
+      "lat": 21.8,
+      "lon": 136.6,
+      "org_latitude": "21 ゚ 48’",
+      "org_longitude": "136 ゚ 36’"
+    },
+    {
+      "name_kanji": "片山海山",
+      "name_kana": "かたやまかいざん",
+      "name_romaji": "Katayama Kaizan",
+      "classification": "Undersea feature",
+      "lat": 25.833333,
+      "lon": 147.833333,
+      "org_latitude": "25 ゚ 50’",
+      "org_longitude": "147 ゚ 50’"
+    },
+    {
+      "name_kanji": "香取海山",
+      "name_kana": "かとりかいざん",
+      "name_romaji": "Katori Kaizan",
+      "classification": "Undersea feature",
+      "lat": 36.1,
+      "lon": 143.033333,
+      "org_latitude": "36 ゚ 06’",
+      "org_longitude": "143 ゚ 02’"
+    },
+    {
+      "name_kanji": "一明海山",
+      "name_kana": "かずあきかいざん",
+      "name_romaji": "Kazuaki Kaizan",
+      "classification": "Undersea feature",
+      "lat": 33.833333,
+      "lon": 143.816667,
+      "org_latitude": "33 ゚ 50’",
+      "org_longitude": "143 ゚ 49’"
+    },
+    {
+      "name_kanji": "喜界海盆",
+      "name_kana": "きかいかいぼん",
+      "name_romaji": "Kikai Kaibon",
+      "classification": "Undersea feature",
+      "lat": 29.333333,
+      "lon": 132.166667,
+      "org_latitude": "29 ゚ 20’",
+      "org_longitude": "132 ゚ 10’"
+    },
+    {
+      "name_kanji": "きく海山",
+      "name_kana": "きくかいざん",
+      "name_romaji": "Kiku Kaizan",
+      "classification": "Undersea feature",
+      "lat": 27.833333,
+      "lon": 145.7,
+      "org_latitude": "27 ゚ 50’",
+      "org_longitude": "145 ゚ 42’"
+    },
+    {
+      "name_kanji": "ききょう海山",
+      "name_kana": "ききょうかいざん",
+      "name_romaji": "Kikyo Kaizan",
+      "classification": "Undersea feature",
+      "lat": 28,
+      "lon": 147.566667,
+      "org_latitude": "28 ゚ 00’",
+      "org_longitude": "147 ゚ 34’"
+    },
+    {
+      "name_kanji": "紀南海山列",
+      "name_kana": "きなんかいざんれつ",
+      "name_romaji": "Kinan Kaizanretsu",
+      "classification": "Undersea feature",
+      "lat": 29.633333,
+      "lon": 137.083333,
+      "org_latitude": "29 ゚ 38’",
+      "org_longitude": "137 ゚ 05’"
+    },
+    {
+      "name_kanji": "北大東海盆",
+      "name_kana": "きただいとうかいぼん",
+      "name_romaji": "Kita-Daito Kaibon",
+      "classification": "Undersea feature",
+      "lat": 26.5,
+      "lon": 133.5,
+      "org_latitude": "26 ゚ 30’",
+      "org_longitude": "133 ゚ 30’"
+    },
+    {
+      "name_kanji": "北日吉海山",
+      "name_kana": "きたひよしかいざん",
+      "name_romaji": "Kita-Hiyoshi Kaizan",
+      "classification": "Undersea feature",
+      "lat": 23.733333,
+      "lon": 141.733333,
+      "org_latitude": "23 ゚ 44’",
+      "org_longitude": "141 ゚ 44’"
+    },
+    {
+      "name_kanji": "北高鵬海山",
+      "name_kana": "きたこうほうかいざん",
+      "name_romaji": "Kita-Koho Kaizan",
+      "classification": "Undersea feature",
+      "lat": 26.766667,
+      "lon": 135.366667,
+      "org_latitude": "26 ゚ 46’",
+      "org_longitude": "135 ゚ 22’"
+    },
+    {
+      "name_kanji": "北隠岐堆",
+      "name_kana": "きたおきたい",
+      "name_romaji": "Kita-Oki Tai",
+      "classification": "Undersea feature",
+      "lat": 38.05,
+      "lon": 134.183333,
+      "org_latitude": "38 ゚ 03’",
+      "org_longitude": "134 ゚ 11’"
+    },
+    {
+      "name_kanji": "北大和堆",
+      "name_kana": "きたやまとたい",
+      "name_romaji": "Kita-Yamato Tai",
+      "classification": "Undersea feature",
+      "lat": 39.666667,
+      "lon": 133.8,
+      "org_latitude": "39 ゚ 40’",
+      "org_longitude": "133 ゚ 48’"
+    },
+    {
+      "name_kanji": "北見大和堆",
+      "name_kana": "きたみやまとたい",
+      "name_romaji": "Kitami-Yamato Tai",
+      "classification": "Undersea feature",
+      "lat": 44.666667,
+      "lon": 144.2,
+      "org_latitude": "44 ゚ 40’",
+      "org_longitude": "144 ゚ 12’"
+    },
+    {
+      "name_kanji": "駒橋海山",
+      "name_kana": "こまはしかいざん",
+      "name_romaji": "Komahashi Kaizan",
+      "classification": "Undersea feature",
+      "lat": 28.1,
+      "lon": 134.666667,
+      "org_latitude": "28 ゚ 06’",
+      "org_longitude": "134 ゚ 40’"
+    },
+    {
+      "name_kanji": "駒橋第2海山",
+      "name_kana": "こまはしだいにかいざん",
+      "name_romaji": "Komahashi-Daini Kaizan",
+      "classification": "Undersea feature",
+      "lat": 29.866667,
+      "lon": 133.333333,
+      "org_latitude": "29 ゚ 52’",
+      "org_longitude": "133 ゚ 20’"
+    },
+    {
+      "name_kanji": "駒橋第3海山",
+      "name_kana": "こまはしだいさんかいざん",
+      "name_romaji": "Komahashi-Daisan Kaizan",
+      "classification": "Undersea feature",
+      "lat": 31.633333,
+      "lon": 137.266667,
+      "org_latitude": "31 ゚ 38’",
+      "org_longitude": "137 ゚ 16’"
+    },
+    {
+      "name_kanji": "恒星海山",
+      "name_kana": "こうせいかいざん",
+      "name_romaji": "Kosei Kaizan",
+      "classification": "Undersea feature",
+      "lat": 25.133333,
+      "lon": 135.666667,
+      "org_latitude": "25 ゚ 08’",
+      "org_longitude": "135 ゚ 40’"
+    },
+    {
+      "name_kanji": "膠州海山",
+      "name_kana": "こうしゅうかいざん",
+      "name_romaji": "Koshu Kaizan",
+      "classification": "Undersea feature",
+      "lat": 31.433333,
+      "lon": 136.233333,
+      "org_latitude": "31 ゚ 26’",
+      "org_longitude": "136 ゚ 14’"
+    },
+    {
+      "name_kanji": "熊野舟状海盆",
+      "name_kana": "くまのしゅうじょうかいぼん",
+      "name_romaji": "Kumano Shujokaibon",
+      "classification": "Undersea feature",
+      "lat": 33.666667,
+      "lon": 136.666667,
+      "org_latitude": "33 ゚ 40’",
+      "org_longitude": "136 ゚ 40’"
+    },
+    {
+      "name_kanji": "釧路海底谷",
+      "name_kana": "くしろかいていこく",
+      "name_romaji": "Kushiro Kaiteikoku",
+      "classification": "Undersea feature",
+      "lat": 42.433333,
+      "lon": 144.85,
+      "org_latitude": "42 ゚ 26’",
+      "org_longitude": "144 ゚ 51’"
+    },
+    {
+      "name_kanji": "九州・パラオ海嶺",
+      "name_kana": "きゅうしゅうぱらおかいれい",
+      "name_romaji": "Kyushu-Parao Kairei",
+      "classification": "Undersea feature",
+      "lat": 27.5,
+      "lon": 135.966667,
+      "org_latitude": "27 ゚ 30’",
+      "org_longitude": "135 ゚ 58’"
+    },
+    {
+      "name_kanji": "満月海盆",
+      "name_kana": "まんげつかいぼん",
+      "name_romaji": "Mangetsu Kaibon",
+      "classification": "Undersea feature",
+      "lat": 22.916667,
+      "lon": 135.916667,
+      "org_latitude": "22 ゚ 55’",
+      "org_longitude": "135 ゚ 55’"
+    },
+    {
+      "name_kanji": "まつ海山",
+      "name_kana": "まつかいざん",
+      "name_romaji": "Matsu Kaizan",
+      "classification": "Undersea feature",
+      "lat": 39.533333,
+      "lon": 138.166667,
+      "org_latitude": "39 ゚ 32’",
+      "org_longitude": "138 ゚ 10’"
+    },
+    {
+      "name_kanji": "松原海山",
+      "name_kana": "まつばらかいざん",
+      "name_romaji": "Matsubara Kaizan",
+      "classification": "Undersea feature",
+      "lat": 27.5,
+      "lon": 145.5,
+      "org_latitude": "27 ゚ 30’",
+      "org_longitude": "145 ゚ 30’"
+    },
+    {
+      "name_kanji": "明洋海山",
+      "name_kana": "めいようかいざん",
+      "name_romaji": "Meiyo Kaizan",
+      "classification": "Undersea feature",
+      "lat": 39.1,
+      "lon": 136.966667,
+      "org_latitude": "39 ゚ 06’",
+      "org_longitude": "136 ゚ 58’"
+    },
+    {
+      "name_kanji": "明洋堆",
+      "name_kana": "めいようたい",
+      "name_romaji": "Meiyo Tai",
+      "classification": "Undersea feature",
+      "lat": 37.166667,
+      "lon": 132.05,
+      "org_latitude": "37 ゚ 10’",
+      "org_longitude": "132 ゚ 03’"
+    },
+    {
+      "name_kanji": "明洋第2海山",
+      "name_kana": "めいようだいにかいざん",
+      "name_romaji": "Meiyo-Daini Kaizan",
+      "classification": "Undersea feature",
+      "lat": 39.6,
+      "lon": 137.7,
+      "org_latitude": "39 ゚ 36’",
+      "org_longitude": "137 ゚ 42’"
+    },
+    {
+      "name_kanji": "明洋第3海山",
+      "name_kana": "めいようだいさんかいざん",
+      "name_romaji": "Meiyo-Daisan Kaizan",
+      "classification": "Undersea feature",
+      "lat": 40.166667,
+      "lon": 137.933333,
+      "org_latitude": "40 ゚ 10’",
+      "org_longitude": "137 ゚ 56’"
+    },
+    {
+      "name_kanji": "南日吉海山",
+      "name_kana": "みなみひよしかいざん",
+      "name_romaji": "Minami-Hiyoshi Kaizan",
+      "classification": "Undersea feature",
+      "lat": 23.5,
+      "lon": 141.933333,
+      "org_latitude": "23 ゚ 30’",
+      "org_longitude": "141 ゚ 56’"
+    },
+    {
+      "name_kanji": "南高鵬海山",
+      "name_kana": "みなみこうほうかいざん",
+      "name_romaji": "Minami-Koho Kaizan",
+      "classification": "Undersea feature",
+      "lat": 26.233333,
+      "lon": 135.8,
+      "org_latitude": "26 ゚ 14’",
+      "org_longitude": "135 ゚ 48’"
+    },
+    {
+      "name_kanji": "最上舟状海盆",
+      "name_kana": "もがみしゅうじょうかいぼん",
+      "name_romaji": "Mogami Shujokaibon",
+      "classification": "Undersea feature",
+      "lat": 39.233333,
+      "lon": 139.25,
+      "org_latitude": "39 ゚ 14’",
+      "org_longitude": "139 ゚ 15’"
+    },
+    {
+      "name_kanji": "室戸舟状海盆",
+      "name_kana": "むろとしゅうじょうかいぼん",
+      "name_romaji": "Muroto Shujokaibon",
+      "classification": "Undersea feature",
+      "lat": 33.333333,
+      "lon": 135,
+      "org_latitude": "33 ゚ 20’",
+      "org_longitude": "135 ゚ 00’"
+    },
+    {
+      "name_kanji": "武蔵堆",
+      "name_kana": "むさしたい",
+      "name_romaji": "Musashi Tai",
+      "classification": "Undersea feature",
+      "lat": 44.633333,
+      "lon": 140.5,
+      "org_latitude": "44 ゚ 38’",
+      "org_longitude": "140 ゚ 30’"
+    },
+    {
+      "name_kanji": "明神礁",
+      "name_kana": "みょうじんしょう",
+      "name_romaji": "Myojin Sho",
+      "classification": "Undersea feature",
+      "lat": 31.833333,
+      "lon": 140.083333,
+      "org_latitude": "31 ゚ 50’",
+      "org_longitude": "140 ゚ 05’"
+    },
+    {
+      "name_kanji": "明星海山",
+      "name_kana": "みょうじょうかいざん",
+      "name_romaji": "Myojo Kaizan",
+      "classification": "Undersea feature",
+      "lat": 23.7,
+      "lon": 136.783333,
+      "org_latitude": "23 ゚ 42’",
+      "org_longitude": "136 ゚ 47’"
+    },
+    {
+      "name_kanji": "南海舟状海盆",
+      "name_kana": "なんかいしゅうじょうかいぼん",
+      "name_romaji": "Nankai Shujokaibon",
+      "classification": "Undersea feature",
+      "lat": 32.6,
+      "lon": 136.1,
+      "org_latitude": "32 ゚ 36’",
+      "org_longitude": "136 ゚ 06’"
+    },
+    {
+      "name_kanji": "南西諸島海溝",
+      "name_kana": "なんせいしょとうかいこう",
+      "name_romaji": "Nanseishoto Kaiko",
+      "classification": "Undersea feature",
+      "lat": 24.733333,
+      "lon": 127.833333,
+      "org_latitude": "24 ゚ 44’",
+      "org_longitude": "127 ゚ 50’"
+    },
+    {
+      "name_kanji": "日本海盆",
+      "name_kana": "にほんかいぼん",
+      "name_romaji": "Nihon Kaibon",
+      "classification": "Undersea feature",
+      "lat": 41.3,
+      "lon": 137.633333,
+      "org_latitude": "41 ゚ 18’",
+      "org_longitude": "137 ゚ 38’"
+    },
+    {
+      "name_kanji": "日本海溝",
+      "name_kana": "にほんかいこう",
+      "name_romaji": "Nihon Kaiko",
+      "classification": "Undersea feature",
+      "lat": 37.466667,
+      "lon": 143.733333,
+      "org_latitude": "37 ゚ 28’",
+      "org_longitude": "143 ゚ 44’"
+    },
+    {
+      "name_kanji": "日光海山",
+      "name_kana": "にっこうかいざん",
+      "name_romaji": "Nikko Kaizan",
+      "classification": "Undersea feature",
+      "lat": 23.066667,
+      "lon": 142.333333,
+      "org_latitude": "23 ゚ 04’",
+      "org_longitude": "142 ゚ 20’"
+    },
+    {
+      "name_kanji": "西海徳海山",
+      "name_kana": "にしかいとくかいざん",
+      "name_romaji": "Nishi-Kaitoku Kaizan",
+      "classification": "Undersea feature",
+      "lat": 25.933333,
+      "lon": 139.816667,
+      "org_latitude": "25 ゚ 56’",
+      "org_longitude": "139 ゚ 49’"
+    },
+    {
+      "name_kanji": "西七島海嶺",
+      "name_kana": "にししちとうかいれい",
+      "name_romaji": "Nishi-Shichito Kairei",
+      "classification": "Undersea feature",
+      "lat": 30.166667,
+      "lon": 138.583333,
+      "org_latitude": "30 ゚ 10’",
+      "org_longitude": "138 ゚ 35’"
+    },
+    {
+      "name_kanji": "西大和海山",
+      "name_kana": "にしやまとかいざん",
+      "name_romaji": "Nishi-Yamato Kaizan",
+      "classification": "Undersea feature",
+      "lat": 38.7,
+      "lon": 135.366667,
+      "org_latitude": "38 ゚ 42’",
+      "org_longitude": "135 ゚ 22’"
+    },
+    {
+      "name_kanji": "小笠原海台",
+      "name_kana": "おがさわらかいだい",
+      "name_romaji": "Ogasawara Kaidai",
+      "classification": "Undersea feature",
+      "lat": 26.066667,
+      "lon": 144.066667,
+      "org_latitude": "26 ゚ 04’",
+      "org_longitude": "144 ゚ 04’"
+    },
+    {
+      "name_kanji": "小笠原舟状海盆",
+      "name_kana": "おがさわらしゅうじょうかいぼん",
+      "name_romaji": "Ogasawara Shujokaibon",
+      "classification": "Undersea feature",
+      "lat": 27.2,
+      "lon": 141.5,
+      "org_latitude": "27 ゚ 12’",
+      "org_longitude": "141 ゚ 30’"
+    },
+    {
+      "name_kanji": "隠岐海嶺(隠岐堆)",
+      "name_kana": "おきかいれい(おきたい)",
+      "name_romaji": "Oki Kairei(Oki Tai)",
+      "classification": "Undersea feature",
+      "lat": 36.833333,
+      "lon": 134.466667,
+      "org_latitude": "36 ゚ 50’",
+      "org_longitude": "134 ゚ 28’"
+    },
+    {
+      "name_kanji": "隠岐海裂",
+      "name_kana": "おきかいれつ",
+      "name_romaji": "Oki Kairetsu",
+      "classification": "Undersea feature",
+      "lat": 37.75,
+      "lon": 132,
+      "org_latitude": "37 ゚ 45’",
+      "org_longitude": "132 ゚ 00’"
+    },
+    {
+      "name_kanji": "隠岐舟状海盆",
+      "name_kana": "おきしゅうじょうかいぼん",
+      "name_romaji": "Oki Shujokaibon",
+      "classification": "Undersea feature",
+      "lat": 36.75,
+      "lon": 135.033333,
+      "org_latitude": "36 ゚ 45’",
+      "org_longitude": "135 ゚ 02’"
+    },
+    {
+      "name_kanji": "沖大東海嶺",
+      "name_kana": "おきだいとうかいれい",
+      "name_romaji": "Oki-Daito Kairei",
+      "classification": "Undersea feature",
+      "lat": 23.766667,
+      "lon": 133.166667,
+      "org_latitude": "23 ゚ 46’",
+      "org_longitude": "133 ゚ 10’"
+    },
+    {
+      "name_kanji": "沖縄舟状海盆",
+      "name_kana": "おきなわしゅうじょうかいぼん",
+      "name_romaji": "Okinawa Shujokaibon",
+      "classification": "Undersea feature",
+      "lat": 26.833333,
+      "lon": 126.466667,
+      "org_latitude": "26 ゚ 50’",
+      "org_longitude": "126 ゚ 28’"
+    },
+    {
+      "name_kanji": "沖縄・宮古深海平坦面",
+      "name_kana": "おきなわみやこしんかいへいたんめん",
+      "name_romaji": "Okinawa-Miyako Shinkaiheitanmen",
+      "classification": "Undersea feature",
+      "lat": 25.1,
+      "lon": 127.15,
+      "org_latitude": "25 ゚ 06’",
+      "org_longitude": "127 ゚ 09’"
+    },
+    {
+      "name_kanji": "奥尻海嶺",
+      "name_kana": "おくしりかいれい",
+      "name_romaji": "Okushiri Kairei",
+      "classification": "Undersea feature",
+      "lat": 41.883333,
+      "lon": 139.516667,
+      "org_latitude": "41 ゚ 53’",
+      "org_longitude": "139 ゚ 31’"
+    },
+    {
+      "name_kanji": "忍路海山 ",
+      "name_kana": "おしょろかいざん",
+      "name_romaji": "Oshoro Kaizan",
+      "classification": "Undersea feature",
+      "lat": 44.416667,
+      "lon": 139.533333,
+      "org_latitude": "44 ゚ 25’",
+      "org_longitude": "139 ゚ 32’"
+    },
+    {
+      "name_kanji": "立冬海山",
+      "name_kana": "りっとうかいざん",
+      "name_romaji": "Ritto Kaizan",
+      "classification": "Undersea feature",
+      "lat": 21.766667,
+      "lon": 142.066667,
+      "org_latitude": "21 ゚ 46’",
+      "org_longitude": "142 ゚ 04’"
+    },
+    {
+      "name_kanji": "凌風海山",
+      "name_kana": "りょうふうかいざん",
+      "name_romaji": "Ryofu Kaizan",
+      "classification": "Undersea feature",
+      "lat": 38,
+      "lon": 146,
+      "org_latitude": "38 ゚ 00’",
+      "org_longitude": "146 ゚ 00’"
+    },
+    {
+      "name_kanji": "凌風第2海山",
+      "name_kana": "りょうふうだいにかいざん",
+      "name_romaji": "Ryofu-Daini Kaizan",
+      "classification": "Undersea feature",
+      "lat": 40.633333,
+      "lon": 146.866667,
+      "org_latitude": "40 ゚ 38’",
+      "org_longitude": "146 ゚ 52’"
+    },
+    {
+      "name_kanji": "流星海山",
+      "name_kana": "りゅうせいかいざん",
+      "name_romaji": "Ryusei Kaizan",
+      "classification": "Undersea feature",
+      "lat": 25.566667,
+      "lon": 135.6,
+      "org_latitude": "25 ゚ 34’",
+      "org_longitude": "135 ゚ 36’"
+    },
+    {
+      "name_kanji": "佐渡海嶺",
+      "name_kana": "さどかいれい",
+      "name_romaji": "Sado Kairei",
+      "classification": "Undersea feature",
+      "lat": 39.25,
+      "lon": 138.883333,
+      "org_latitude": "39 ゚ 15’",
+      "org_longitude": "138 ゚ 53’"
+    },
+    {
+      "name_kanji": "相模舟状海盆",
+      "name_kana": "さがみしゅうじょうかいぼん",
+      "name_romaji": "Sagami Shujokaibon",
+      "classification": "Undersea feature",
+      "lat": 34.75,
+      "lon": 139.583333,
+      "org_latitude": "34 ゚ 45’",
+      "org_longitude": "139 ゚ 35’"
+    },
+    {
+      "name_kanji": "三福海山",
+      "name_kana": "さんぷくかいざん",
+      "name_romaji": "Sanpuku Kaizan",
+      "classification": "Undersea feature",
+      "lat": 22.866667,
+      "lon": 142.666667,
+      "org_latitude": "22 ゚ 52’",
+      "org_longitude": "142 ゚ 40’"
+    },
+    {
+      "name_kanji": "清風海山    ",
+      "name_kana": "せいふうかいざん",
+      "name_romaji": "Seifu Kaizan",
+      "classification": "Undersea feature",
+      "lat": 38.216667,
+      "lon": 132.6,
+      "org_latitude": "38 ゚ 13’",
+      "org_longitude": "132 ゚ 36’"
+    },
+    {
+      "name_kanji": "七島・硫黄島海嶺",
+      "name_kana": "しちとういおうとうかいれい",
+      "name_romaji": "Shichito-Ioto Kairei",
+      "classification": "Undersea feature",
+      "lat": 29.416667,
+      "lon": 140.333333,
+      "org_latitude": "29 ゚ 25’",
+      "org_longitude": "140 ゚ 20’"
+    },
+    {
+      "name_kanji": "四国海盆",
+      "name_kana": "しこくかいぼん",
+      "name_romaji": "Shikoku Kaibon",
+      "classification": "Undersea feature",
+      "lat": 30.5,
+      "lon": 135.933333,
+      "org_latitude": "30 ゚ 30’",
+      "org_longitude": "135 ゚ 56’"
+    },
+    {
+      "name_kanji": "新星海山",
+      "name_kana": "しんせいかいざん",
+      "name_romaji": "Shinsei Kaizan",
+      "classification": "Undersea feature",
+      "lat": 24.6,
+      "lon": 136.466667,
+      "org_latitude": "24 ゚ 36’",
+      "org_longitude": "136 ゚ 28’"
+    },
+    {
+      "name_kanji": "後志海山",
+      "name_kana": "しりべしかいざん",
+      "name_romaji": "Shiribeshi Kaizan",
+      "classification": "Undersea feature",
+      "lat": 43.533333,
+      "lon": 139.566667,
+      "org_latitude": "43 ゚ 32’",
+      "org_longitude": "139 ゚ 34’"
+    },
+    {
+      "name_kanji": "昭洋海山",
+      "name_kana": "しょうようかいざん",
+      "name_romaji": "Shoyo Kaizan",
+      "classification": "Undersea feature",
+      "lat": 22.466667,
+      "lon": 143,
+      "org_latitude": "22 ゚ 28’",
+      "org_longitude": "143 ゚ 00’"
+    },
+    {
+      "name_kanji": "俊鷹堆",
+      "name_kana": "しゅんようたい",
+      "name_romaji": "Shun-yo Tai",
+      "classification": "Undersea feature",
+      "lat": 37.166667,
+      "lon": 132.333333,
+      "org_latitude": "37 ゚ 10’",
+      "org_longitude": "132 ゚ 20’"
+    },
+    {
+      "name_kanji": "水曜海山",
+      "name_kana": "すいようかいざん",
+      "name_romaji": "Suiyo Kaizan",
+      "classification": "Undersea feature",
+      "lat": 28.6,
+      "lon": 140.633333,
+      "org_latitude": "28 ゚ 36’",
+      "org_longitude": "140 ゚ 38’"
+    },
+    {
+      "name_kanji": "任弘海山",
+      "name_kana": "たかひろかいざん",
+      "name_romaji": "Takahiro Kaizan",
+      "classification": "Undersea feature",
+      "lat": 33.016667,
+      "lon": 143.4,
+      "org_latitude": "33 ゚ 01’",
+      "org_longitude": "143 ゚ 24’"
+    },
+    {
+      "name_kanji": "鷹寿海山",
+      "name_kana": "たかすかいざん",
+      "name_romaji": "Takasu Kaizan",
+      "classification": "Undersea feature",
+      "lat": 23.2,
+      "lon": 141.533333,
+      "org_latitude": "23 ゚ 12’",
+      "org_longitude": "141 ゚ 32’"
+    },
+    {
+      "name_kanji": "拓洋第5海山",
+      "name_kana": "たくようだいごかいざん",
+      "name_romaji": "Takuyo-Daigo Kaizan",
+      "classification": "Undersea feature",
+      "lat": 22.933333,
+      "lon": 153.333333,
+      "org_latitude": "22 ゚ 56’",
+      "org_longitude": "153 ゚ 20’"
+    },
+    {
+      "name_kanji": "拓洋第1海山",
+      "name_kana": "たくようだいいちかいざん",
+      "name_romaji": "Takuyo-Daiichi Kaizan",
+      "classification": "Undersea feature",
+      "lat": 41.266667,
+      "lon": 145.966667,
+      "org_latitude": "41 ゚ 16’",
+      "org_longitude": "145 ゚ 58’"
+    },
+    {
+      "name_kanji": "拓洋第2海山",
+      "name_kana": "たくようだいにかいざん",
+      "name_romaji": "Takuyo-Daini Kaizan",
+      "classification": "Undersea feature",
+      "lat": 34.266667,
+      "lon": 143.866667,
+      "org_latitude": "34 ゚ 16’",
+      "org_longitude": "143 ゚ 52’"
+    },
+    {
+      "name_kanji": "拓洋第3海山",
+      "name_kana": "たくようだいさんかいざん",
+      "name_romaji": "Takuyo-Daisan Kaizan",
+      "classification": "Undersea feature",
+      "lat": 34.2,
+      "lon": 144.333333,
+      "org_latitude": "34 ゚ 12’",
+      "org_longitude": "144 ゚ 20’"
+    },
+    {
+      "name_kanji": "拓洋第4海山",
+      "name_kana": "たくようだいよんかいざん",
+      "name_romaji": "Takuyo-Daiyon Kaizan",
+      "classification": "Undersea feature",
+      "lat": 23.633333,
+      "lon": 151.9,
+      "org_latitude": "23 ゚ 38’",
+      "org_longitude": "151 ゚ 54’"
+    },
+    {
+      "name_kanji": "天保海山",
+      "name_kana": "てんぽうかいざん",
+      "name_romaji": "Tenpo Kaizan",
+      "classification": "Undersea feature",
+      "lat": 27.166667,
+      "lon": 139.666667,
+      "org_latitude": "27 ゚ 10’",
+      "org_longitude": "139 ゚ 40’"
+    },
+    {
+      "name_kanji": "天竜海底谷",
+      "name_kana": "てんりゅうかいていこく",
+      "name_romaji": "Tenryu Kaiteikoku",
+      "classification": "Undersea feature",
+      "lat": 34,
+      "lon": 137.583333,
+      "org_latitude": "34 ゚ 00’",
+      "org_longitude": "137 ゚ 35’"
+    },
+    {
+      "name_kanji": "土佐海盆",
+      "name_kana": "とさかいぼん",
+      "name_romaji": "Tosa Kaibon",
+      "classification": "Undersea feature",
+      "lat": 32.833333,
+      "lon": 133.75,
+      "org_latitude": "32 ゚ 50’",
+      "org_longitude": "133 ゚ 45’"
+    },
+    {
+      "name_kanji": "富山深海長谷",
+      "name_kana": "とやましんかいちょうこく",
+      "name_romaji": "Toyama Shinkaichokoku",
+      "classification": "Undersea feature",
+      "lat": 38.15,
+      "lon": 137.816667,
+      "org_latitude": "38 ゚ 09’",
+      "org_longitude": "137 ゚ 49’"
+    },
+    {
+      "name_kanji": "富山舟状海盆",
+      "name_kana": "とやましゅうじょうかいぼん",
+      "name_romaji": "Toyama Shujokaibon",
+      "classification": "Undersea feature",
+      "lat": 38.15,
+      "lon": 137.966667,
+      "org_latitude": "38 ゚ 09’",
+      "org_longitude": "137 ゚ 58’"
+    },
+    {
+      "name_kanji": "対馬海盆",
+      "name_kana": "つしまかいぼん",
+      "name_romaji": "Tsushima Kaibon",
+      "classification": "Undersea feature",
+      "lat": 36.866667,
+      "lon": 131.5,
+      "org_latitude": "36 ゚ 52’",
+      "org_longitude": "131 ゚ 30’"
+    },
+    {
+      "name_kanji": "矢部海山",
+      "name_kana": "やべかいざん",
+      "name_romaji": "Yabe Kaizan",
+      "classification": "Undersea feature",
+      "lat": 26.133333,
+      "lon": 145.366667,
+      "org_latitude": "26 ゚ 08’",
+      "org_longitude": "145 ゚ 22’"
+    },
+    {
+      "name_kanji": "大和海盆",
+      "name_kana": "やまとかいぼん",
+      "name_romaji": "Yamato Kaibon",
+      "classification": "Undersea feature",
+      "lat": 38.966667,
+      "lon": 136.566667,
+      "org_latitude": "38 ゚ 58’",
+      "org_longitude": "136 ゚ 34’"
+    },
+    {
+      "name_kanji": "大和海嶺",
+      "name_kana": "やまとかいれい",
+      "name_romaji": "Yamato Kairei",
+      "classification": "Undersea feature",
+      "lat": 39.966667,
+      "lon": 135.4,
+      "org_latitude": "39 ゚ 58’",
+      "org_longitude": "135 ゚ 24’"
+    },
+    {
+      "name_kanji": "大和海山",
+      "name_kana": "やまとかいざん",
+      "name_romaji": "Yamato Kaizan",
+      "classification": "Undersea feature",
+      "lat": 38.866667,
+      "lon": 135.966667,
+      "org_latitude": "38 ゚ 52’",
+      "org_longitude": "135 ゚ 58’"
+    },
+    {
+      "name_kanji": "大和堆",
+      "name_kana": "やまとたい",
+      "name_romaji": "Yamato Tai",
+      "classification": "Undersea feature",
+      "lat": 39.3,
+      "lon": 134.8,
+      "org_latitude": "39 ゚ 18’",
+      "org_longitude": "134 ゚ 48’"
+    },
+    {
+      "name_kanji": "湯湾海山",
+      "name_kana": "ゆわんかいざん",
+      "name_romaji": "Yuwan Kaizan",
+      "classification": "Undersea feature",
+      "lat": 27.933333,
+      "lon": 133.05,
+      "org_latitude": "27 ゚ 56’",
+      "org_longitude": "133 ゚ 03’"
+    },
+    {
+      "name_kanji": "銭洲海嶺",
+      "name_kana": "ぜにすかいれい",
+      "name_romaji": "Zenisu Kairei",
+      "classification": "Undersea feature",
+      "lat": 33.55,
+      "lon": 138.25,
+      "org_latitude": "33 ゚ 33’",
+      "org_longitude": "138 ゚ 15’"
+    }
+  ],
+  "meta": {
+    "title": "海底地形一覧 (Undersea features around Japan) - 無料ダウンロード",
+    "description": "国土地理院「日本地名集 (Gazetteer of Japan) 2007」に収録された海底地形 127 件。漢字・ひらがな・公式ローマ字表記と緯度経度を併記。127 undersea features listed in the Geospatial Information Authority of Japan's Gazetteer of Japan 2007 (with the 2018 update), each with kanji, kana and the official romanised name plus degree-minute coordinates in both original DMS and decimal form. 収録数 127 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "海底地形一覧 (Undersea features around Japan) | ListBase",
+    "seo_description": "ダウンロード 海底地形一覧 (Undersea features around Japan) — 127 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 127 件 / 8 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/piuccio/open-data-jp-municipalities"
+    ]
+  }
+}

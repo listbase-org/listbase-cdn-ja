@@ -1,0 +1,88 @@
+{
+  "id": "ja-kyoto-swift-codo",
+  "name": "SWIFT/BICコード — Kyoto",
+  "title": "SWIFT/BICコード — Kyoto",
+  "description": "日本の銀行および金融機関のSWIFT/BICコード。各レコードには機関名、都市、支店（該当する場合）、およびSWIFT/BICコードが含まれます。出典: PeterNotenboom/SwiftCodes（MITライセンス）。このサブセットには、出典が都市「KYOTO」として記載している7件の機関が含まれます。",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "BANK OF KYOTO,LTD.,THE",
+      "city": "KYOTO",
+      "branch": "",
+      "swift_code": "BOKFJPJZ"
+    },
+    {
+      "bank": "BANSEI PRIME CAPITAL SECURITES CO., LTD.",
+      "city": "KYOTO",
+      "branch": "",
+      "swift_code": "BSPCJPJ1"
+    },
+    {
+      "bank": "KYOTO CHUO SHINKIN BANK, THE",
+      "city": "KYOTO",
+      "branch": "",
+      "swift_code": "KCHUJPJY"
+    },
+    {
+      "bank": "KYOTO SHINKIN BANK,THE",
+      "city": "KYOTO",
+      "branch": "",
+      "swift_code": "KYSBJPJZ"
+    },
+    {
+      "bank": "KYOTO STOCK EXCHANGE",
+      "city": "KYOTO",
+      "branch": "",
+      "swift_code": "XKYOJPJ1"
+    },
+    {
+      "bank": "NISHIMURA SECURITIES CO., LTD",
+      "city": "KYOTO",
+      "branch": "",
+      "swift_code": "NISMJPJ1"
+    },
+    {
+      "bank": "OMRON CORPORATION",
+      "city": "KYOTO",
+      "branch": "",
+      "swift_code": "OMRNJPJT"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BICコード — Kyoto - 無料ダウンロード",
+    "description": "日本の銀行および金融機関のSWIFT/BICコード。各レコードには機関名、都市、支店（該当する場合）、およびSWIFT/BICコードが含まれます。出典: PeterNotenboom/SwiftCodes（MITライセンス）。このサブセットには、出典が都市「KYOTO」として記載している7件の機関が含まれます。 収録数 7 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "SWIFT/BICコード — Kyoto | ListBase",
+    "seo_description": "ダウンロード SWIFT/BICコード — Kyoto — 7 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 7 件 / 4 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

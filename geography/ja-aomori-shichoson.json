@@ -1,0 +1,376 @@
+{
+  "id": "ja-aomori-shichoson",
+  "name": "青森県の市区町村一覧",
+  "title": "青森県の市区町村一覧",
+  "description": "青森県 (Aomori Prefecture) の全市区町村 40 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "02201",
+      "name": "青森市",
+      "full_name": "青森市",
+      "prefecture": "青森県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "02202",
+      "name": "弘前市",
+      "full_name": "弘前市",
+      "prefecture": "青森県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "02203",
+      "name": "八戸市",
+      "full_name": "八戸市",
+      "prefecture": "青森県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "02204",
+      "name": "黒石市",
+      "full_name": "黒石市",
+      "prefecture": "青森県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "02205",
+      "name": "五所川原市",
+      "full_name": "五所川原市",
+      "prefecture": "青森県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "02206",
+      "name": "十和田市",
+      "full_name": "十和田市",
+      "prefecture": "青森県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "02207",
+      "name": "三沢市",
+      "full_name": "三沢市",
+      "prefecture": "青森県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "02208",
+      "name": "むつ市",
+      "full_name": "むつ市",
+      "prefecture": "青森県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "02209",
+      "name": "つがる市",
+      "full_name": "つがる市",
+      "prefecture": "青森県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "02210",
+      "name": "平川市",
+      "full_name": "平川市",
+      "prefecture": "青森県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "02301",
+      "name": "平内町",
+      "full_name": "東津軽郡平内町",
+      "prefecture": "青森県",
+      "county_or_designated_city": "東津軽郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02303",
+      "name": "今別町",
+      "full_name": "東津軽郡今別町",
+      "prefecture": "青森県",
+      "county_or_designated_city": "東津軽郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02304",
+      "name": "蓬田村",
+      "full_name": "東津軽郡蓬田村",
+      "prefecture": "青森県",
+      "county_or_designated_city": "東津軽郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02307",
+      "name": "外ヶ浜町",
+      "full_name": "東津軽郡外ヶ浜町",
+      "prefecture": "青森県",
+      "county_or_designated_city": "東津軽郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02321",
+      "name": "鰺ヶ沢町",
+      "full_name": "西津軽郡鰺ヶ沢町",
+      "prefecture": "青森県",
+      "county_or_designated_city": "西津軽郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02323",
+      "name": "深浦町",
+      "full_name": "西津軽郡深浦町",
+      "prefecture": "青森県",
+      "county_or_designated_city": "西津軽郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02343",
+      "name": "西目屋村",
+      "full_name": "中津軽郡西目屋村",
+      "prefecture": "青森県",
+      "county_or_designated_city": "中津軽郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02361",
+      "name": "藤崎町",
+      "full_name": "南津軽郡藤崎町",
+      "prefecture": "青森県",
+      "county_or_designated_city": "南津軽郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02362",
+      "name": "大鰐町",
+      "full_name": "南津軽郡大鰐町",
+      "prefecture": "青森県",
+      "county_or_designated_city": "南津軽郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02367",
+      "name": "田舎館村",
+      "full_name": "南津軽郡田舎館村",
+      "prefecture": "青森県",
+      "county_or_designated_city": "南津軽郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02381",
+      "name": "板柳町",
+      "full_name": "北津軽郡板柳町",
+      "prefecture": "青森県",
+      "county_or_designated_city": "北津軽郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02384",
+      "name": "鶴田町",
+      "full_name": "北津軽郡鶴田町",
+      "prefecture": "青森県",
+      "county_or_designated_city": "北津軽郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02387",
+      "name": "中泊町",
+      "full_name": "北津軽郡中泊町",
+      "prefecture": "青森県",
+      "county_or_designated_city": "北津軽郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02401",
+      "name": "野辺地町",
+      "full_name": "上北郡野辺地町",
+      "prefecture": "青森県",
+      "county_or_designated_city": "上北郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02402",
+      "name": "七戸町",
+      "full_name": "上北郡七戸町",
+      "prefecture": "青森県",
+      "county_or_designated_city": "上北郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02405",
+      "name": "六戸町",
+      "full_name": "上北郡六戸町",
+      "prefecture": "青森県",
+      "county_or_designated_city": "上北郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02406",
+      "name": "横浜町",
+      "full_name": "上北郡横浜町",
+      "prefecture": "青森県",
+      "county_or_designated_city": "上北郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02408",
+      "name": "東北町",
+      "full_name": "上北郡東北町",
+      "prefecture": "青森県",
+      "county_or_designated_city": "上北郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02411",
+      "name": "六ヶ所村",
+      "full_name": "上北郡六ヶ所村",
+      "prefecture": "青森県",
+      "county_or_designated_city": "上北郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02412",
+      "name": "おいらせ町",
+      "full_name": "上北郡おいらせ町",
+      "prefecture": "青森県",
+      "county_or_designated_city": "上北郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02423",
+      "name": "大間町",
+      "full_name": "下北郡大間町",
+      "prefecture": "青森県",
+      "county_or_designated_city": "下北郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02424",
+      "name": "東通村",
+      "full_name": "下北郡東通村",
+      "prefecture": "青森県",
+      "county_or_designated_city": "下北郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02425",
+      "name": "風間浦村",
+      "full_name": "下北郡風間浦村",
+      "prefecture": "青森県",
+      "county_or_designated_city": "下北郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02426",
+      "name": "佐井村",
+      "full_name": "下北郡佐井村",
+      "prefecture": "青森県",
+      "county_or_designated_city": "下北郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02441",
+      "name": "三戸町",
+      "full_name": "三戸郡三戸町",
+      "prefecture": "青森県",
+      "county_or_designated_city": "三戸郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02442",
+      "name": "五戸町",
+      "full_name": "三戸郡五戸町",
+      "prefecture": "青森県",
+      "county_or_designated_city": "三戸郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02443",
+      "name": "田子町",
+      "full_name": "三戸郡田子町",
+      "prefecture": "青森県",
+      "county_or_designated_city": "三戸郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02445",
+      "name": "南部町",
+      "full_name": "三戸郡南部町",
+      "prefecture": "青森県",
+      "county_or_designated_city": "三戸郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02446",
+      "name": "階上町",
+      "full_name": "三戸郡階上町",
+      "prefecture": "青森県",
+      "county_or_designated_city": "三戸郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "02450",
+      "name": "新郷村",
+      "full_name": "三戸郡新郷村",
+      "prefecture": "青森県",
+      "county_or_designated_city": "三戸郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "青森県の市区町村一覧 - 無料ダウンロード",
+    "description": "青森県 (Aomori Prefecture) の全市区町村 40 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 40 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "青森県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 青森県の市区町村一覧 — 40 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 40 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "ja-kagoshima-shugiin-senkyoku",
+  "name": "鹿児島県衆議院小選挙区 (Kagoshima House of Representatives Electoral Districts)",
+  "title": "鹿児島県衆議院小選挙区 (Kagoshima House of Representatives Electoral Districts)",
+  "description": "鹿児島県内の衆議院小選挙区 4 件。ja-shugiin-senkyoku（全国 289 件）から都道府県コード 46 のレコードのみを抽出。スキーマは同一。4 single-member electoral districts in Kagoshima Prefecture, filtered from the national list (289). Same schema.",
+  "category": "politics",
+  "source": "https://github.com/smartnews-smri/japan-topography",
+  "source_url": "https://github.com/smartnews-smri/japan-topography",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "kucode",
+      "label": "Kucode",
+      "type": "number"
+    },
+    {
+      "key": "constituency",
+      "label": "Constituency",
+      "type": "string"
+    },
+    {
+      "key": "constituency_en",
+      "label": "Constituency En",
+      "type": "string"
+    },
+    {
+      "key": "district_number",
+      "label": "District Number",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_en",
+      "label": "Prefecture En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kucode": 4601,
+      "constituency": "鹿児島1区",
+      "constituency_en": "Kagoshima 1",
+      "district_number": 1,
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_en": "Kagoshima"
+    },
+    {
+      "kucode": 4602,
+      "constituency": "鹿児島2区",
+      "constituency_en": "Kagoshima 2",
+      "district_number": 2,
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_en": "Kagoshima"
+    },
+    {
+      "kucode": 4603,
+      "constituency": "鹿児島3区",
+      "constituency_en": "Kagoshima 3",
+      "district_number": 3,
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_en": "Kagoshima"
+    },
+    {
+      "kucode": 4604,
+      "constituency": "鹿児島4区",
+      "constituency_en": "Kagoshima 4",
+      "district_number": 4,
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_en": "Kagoshima"
+    }
+  ],
+  "meta": {
+    "title": "鹿児島県衆議院小選挙区 (Kagoshima House of Representatives Electoral Districts) - 無料ダウンロード",
+    "description": "鹿児島県内の衆議院小選挙区 4 件。ja-shugiin-senkyoku（全国 289 件）から都道府県コード 46 のレコードのみを抽出。スキーマは同一。4 single-member electoral districts in Kagoshima Prefecture, filtered from the national list (289). Same schema. 収録数 4 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "鹿児島県衆議院小選挙区 (Kagoshima House of Representatives Electoral Districts) | ListBase",
+    "seo_description": "ダウンロード 鹿児島県衆議院小選挙区 (Kagoshima House of Representatives Electoral Districts) — 4 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 4 件 / 7 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/smartnews-smri/japan-topography"
+    ]
+  }
+}

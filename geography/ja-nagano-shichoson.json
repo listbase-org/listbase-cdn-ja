@@ -1,0 +1,672 @@
+{
+  "id": "ja-nagano-shichoson",
+  "name": "長野県の市区町村一覧",
+  "title": "長野県の市区町村一覧",
+  "description": "長野県 (Nagano Prefecture) の全市区町村 77 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 77,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "20201",
+      "name": "長野市",
+      "full_name": "長野市",
+      "prefecture": "長野県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "20202",
+      "name": "松本市",
+      "full_name": "松本市",
+      "prefecture": "長野県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "20203",
+      "name": "上田市",
+      "full_name": "上田市",
+      "prefecture": "長野県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "20204",
+      "name": "岡谷市",
+      "full_name": "岡谷市",
+      "prefecture": "長野県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "20205",
+      "name": "飯田市",
+      "full_name": "飯田市",
+      "prefecture": "長野県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "20206",
+      "name": "諏訪市",
+      "full_name": "諏訪市",
+      "prefecture": "長野県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "20207",
+      "name": "須坂市",
+      "full_name": "須坂市",
+      "prefecture": "長野県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "20208",
+      "name": "小諸市",
+      "full_name": "小諸市",
+      "prefecture": "長野県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "20209",
+      "name": "伊那市",
+      "full_name": "伊那市",
+      "prefecture": "長野県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "20210",
+      "name": "駒ヶ根市",
+      "full_name": "駒ヶ根市",
+      "prefecture": "長野県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "20211",
+      "name": "中野市",
+      "full_name": "中野市",
+      "prefecture": "長野県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "20212",
+      "name": "大町市",
+      "full_name": "大町市",
+      "prefecture": "長野県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "20213",
+      "name": "飯山市",
+      "full_name": "飯山市",
+      "prefecture": "長野県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "20214",
+      "name": "茅野市",
+      "full_name": "茅野市",
+      "prefecture": "長野県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "20215",
+      "name": "塩尻市",
+      "full_name": "塩尻市",
+      "prefecture": "長野県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "20217",
+      "name": "佐久市",
+      "full_name": "佐久市",
+      "prefecture": "長野県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "20218",
+      "name": "千曲市",
+      "full_name": "千曲市",
+      "prefecture": "長野県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "20219",
+      "name": "東御市",
+      "full_name": "東御市",
+      "prefecture": "長野県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "20220",
+      "name": "安曇野市",
+      "full_name": "安曇野市",
+      "prefecture": "長野県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "20303",
+      "name": "小海町",
+      "full_name": "南佐久郡小海町",
+      "prefecture": "長野県",
+      "county_or_designated_city": "南佐久郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20304",
+      "name": "川上村",
+      "full_name": "南佐久郡川上村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "南佐久郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20305",
+      "name": "南牧村",
+      "full_name": "南佐久郡南牧村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "南佐久郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20306",
+      "name": "南相木村",
+      "full_name": "南佐久郡南相木村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "南佐久郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20307",
+      "name": "北相木村",
+      "full_name": "南佐久郡北相木村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "南佐久郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20309",
+      "name": "佐久穂町",
+      "full_name": "南佐久郡佐久穂町",
+      "prefecture": "長野県",
+      "county_or_designated_city": "南佐久郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20321",
+      "name": "軽井沢町",
+      "full_name": "北佐久郡軽井沢町",
+      "prefecture": "長野県",
+      "county_or_designated_city": "北佐久郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20323",
+      "name": "御代田町",
+      "full_name": "北佐久郡御代田町",
+      "prefecture": "長野県",
+      "county_or_designated_city": "北佐久郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20324",
+      "name": "立科町",
+      "full_name": "北佐久郡立科町",
+      "prefecture": "長野県",
+      "county_or_designated_city": "北佐久郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20349",
+      "name": "青木村",
+      "full_name": "小県郡青木村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "小県郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20350",
+      "name": "長和町",
+      "full_name": "小県郡長和町",
+      "prefecture": "長野県",
+      "county_or_designated_city": "小県郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20361",
+      "name": "下諏訪町",
+      "full_name": "諏訪郡下諏訪町",
+      "prefecture": "長野県",
+      "county_or_designated_city": "諏訪郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20362",
+      "name": "富士見町",
+      "full_name": "諏訪郡富士見町",
+      "prefecture": "長野県",
+      "county_or_designated_city": "諏訪郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20363",
+      "name": "原村",
+      "full_name": "諏訪郡原村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "諏訪郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20382",
+      "name": "辰野町",
+      "full_name": "上伊那郡辰野町",
+      "prefecture": "長野県",
+      "county_or_designated_city": "上伊那郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20383",
+      "name": "箕輪町",
+      "full_name": "上伊那郡箕輪町",
+      "prefecture": "長野県",
+      "county_or_designated_city": "上伊那郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20384",
+      "name": "飯島町",
+      "full_name": "上伊那郡飯島町",
+      "prefecture": "長野県",
+      "county_or_designated_city": "上伊那郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20385",
+      "name": "南箕輪村",
+      "full_name": "上伊那郡南箕輪村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "上伊那郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20386",
+      "name": "中川村",
+      "full_name": "上伊那郡中川村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "上伊那郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20388",
+      "name": "宮田村",
+      "full_name": "上伊那郡宮田村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "上伊那郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20402",
+      "name": "松川町",
+      "full_name": "下伊那郡松川町",
+      "prefecture": "長野県",
+      "county_or_designated_city": "下伊那郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20403",
+      "name": "高森町",
+      "full_name": "下伊那郡高森町",
+      "prefecture": "長野県",
+      "county_or_designated_city": "下伊那郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20404",
+      "name": "阿南町",
+      "full_name": "下伊那郡阿南町",
+      "prefecture": "長野県",
+      "county_or_designated_city": "下伊那郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20407",
+      "name": "阿智村",
+      "full_name": "下伊那郡阿智村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "下伊那郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20409",
+      "name": "平谷村",
+      "full_name": "下伊那郡平谷村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "下伊那郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20410",
+      "name": "根羽村",
+      "full_name": "下伊那郡根羽村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "下伊那郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20411",
+      "name": "下條村",
+      "full_name": "下伊那郡下條村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "下伊那郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20412",
+      "name": "売木村",
+      "full_name": "下伊那郡売木村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "下伊那郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20413",
+      "name": "天龍村",
+      "full_name": "下伊那郡天龍村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "下伊那郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20414",
+      "name": "泰阜村",
+      "full_name": "下伊那郡泰阜村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "下伊那郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20415",
+      "name": "喬木村",
+      "full_name": "下伊那郡喬木村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "下伊那郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20416",
+      "name": "豊丘村",
+      "full_name": "下伊那郡豊丘村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "下伊那郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20417",
+      "name": "大鹿村",
+      "full_name": "下伊那郡大鹿村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "下伊那郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20422",
+      "name": "上松町",
+      "full_name": "木曽郡上松町",
+      "prefecture": "長野県",
+      "county_or_designated_city": "木曽郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20423",
+      "name": "南木曽町",
+      "full_name": "木曽郡南木曽町",
+      "prefecture": "長野県",
+      "county_or_designated_city": "木曽郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20425",
+      "name": "木祖村",
+      "full_name": "木曽郡木祖村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "木曽郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20429",
+      "name": "王滝村",
+      "full_name": "木曽郡王滝村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "木曽郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20430",
+      "name": "大桑村",
+      "full_name": "木曽郡大桑村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "木曽郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20432",
+      "name": "木曽町",
+      "full_name": "木曽郡木曽町",
+      "prefecture": "長野県",
+      "county_or_designated_city": "木曽郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20446",
+      "name": "麻績村",
+      "full_name": "東筑摩郡麻績村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "東筑摩郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20448",
+      "name": "生坂村",
+      "full_name": "東筑摩郡生坂村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "東筑摩郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20450",
+      "name": "山形村",
+      "full_name": "東筑摩郡山形村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "東筑摩郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20451",
+      "name": "朝日村",
+      "full_name": "東筑摩郡朝日村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "東筑摩郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20452",
+      "name": "筑北村",
+      "full_name": "東筑摩郡筑北村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "東筑摩郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20481",
+      "name": "池田町",
+      "full_name": "北安曇郡池田町",
+      "prefecture": "長野県",
+      "county_or_designated_city": "北安曇郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20482",
+      "name": "松川村",
+      "full_name": "北安曇郡松川村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "北安曇郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20485",
+      "name": "白馬村",
+      "full_name": "北安曇郡白馬村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "北安曇郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20486",
+      "name": "小谷村",
+      "full_name": "北安曇郡小谷村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "北安曇郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20521",
+      "name": "坂城町",
+      "full_name": "埴科郡坂城町",
+      "prefecture": "長野県",
+      "county_or_designated_city": "埴科郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20541",
+      "name": "小布施町",
+      "full_name": "上高井郡小布施町",
+      "prefecture": "長野県",
+      "county_or_designated_city": "上高井郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20543",
+      "name": "高山村",
+      "full_name": "上高井郡高山村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "上高井郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20561",
+      "name": "山ノ内町",
+      "full_name": "下高井郡山ノ内町",
+      "prefecture": "長野県",
+      "county_or_designated_city": "下高井郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20562",
+      "name": "木島平村",
+      "full_name": "下高井郡木島平村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "下高井郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20563",
+      "name": "野沢温泉村",
+      "full_name": "下高井郡野沢温泉村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "下高井郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20583",
+      "name": "信濃町",
+      "full_name": "上水内郡信濃町",
+      "prefecture": "長野県",
+      "county_or_designated_city": "上水内郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20588",
+      "name": "小川村",
+      "full_name": "上水内郡小川村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "上水内郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20590",
+      "name": "飯綱町",
+      "full_name": "上水内郡飯綱町",
+      "prefecture": "長野県",
+      "county_or_designated_city": "上水内郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "20602",
+      "name": "栄村",
+      "full_name": "下水内郡栄村",
+      "prefecture": "長野県",
+      "county_or_designated_city": "下水内郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "長野県の市区町村一覧 - 無料ダウンロード",
+    "description": "長野県 (Nagano Prefecture) の全市区町村 77 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 77 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "長野県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 長野県の市区町村一覧 — 77 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 77 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

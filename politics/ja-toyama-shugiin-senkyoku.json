@@ -1,0 +1,88 @@
+{
+  "id": "ja-toyama-shugiin-senkyoku",
+  "name": "富山県衆議院小選挙区 (Toyama House of Representatives Electoral Districts)",
+  "title": "富山県衆議院小選挙区 (Toyama House of Representatives Electoral Districts)",
+  "description": "富山県内の衆議院小選挙区 3 件。ja-shugiin-senkyoku（全国 289 件）から都道府県コード 16 のレコードのみを抽出。スキーマは同一。3 single-member electoral districts in Toyama Prefecture, filtered from the national list (289). Same schema.",
+  "category": "politics",
+  "source": "https://github.com/smartnews-smri/japan-topography",
+  "source_url": "https://github.com/smartnews-smri/japan-topography",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "kucode",
+      "label": "Kucode",
+      "type": "number"
+    },
+    {
+      "key": "constituency",
+      "label": "Constituency",
+      "type": "string"
+    },
+    {
+      "key": "constituency_en",
+      "label": "Constituency En",
+      "type": "string"
+    },
+    {
+      "key": "district_number",
+      "label": "District Number",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_en",
+      "label": "Prefecture En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kucode": 1601,
+      "constituency": "富山1区",
+      "constituency_en": "Toyama 1",
+      "district_number": 1,
+      "prefecture_code": "16",
+      "prefecture": "富山県",
+      "prefecture_en": "Toyama"
+    },
+    {
+      "kucode": 1602,
+      "constituency": "富山2区",
+      "constituency_en": "Toyama 2",
+      "district_number": 2,
+      "prefecture_code": "16",
+      "prefecture": "富山県",
+      "prefecture_en": "Toyama"
+    },
+    {
+      "kucode": 1603,
+      "constituency": "富山3区",
+      "constituency_en": "Toyama 3",
+      "district_number": 3,
+      "prefecture_code": "16",
+      "prefecture": "富山県",
+      "prefecture_en": "Toyama"
+    }
+  ],
+  "meta": {
+    "title": "富山県衆議院小選挙区 (Toyama House of Representatives Electoral Districts) - 無料ダウンロード",
+    "description": "富山県内の衆議院小選挙区 3 件。ja-shugiin-senkyoku（全国 289 件）から都道府県コード 16 のレコードのみを抽出。スキーマは同一。3 single-member electoral districts in Toyama Prefecture, filtered from the national list (289). Same schema. 収録数 3 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "富山県衆議院小選挙区 (Toyama House of Representatives Electoral Districts) | ListBase",
+    "seo_description": "ダウンロード 富山県衆議院小選挙区 (Toyama House of Representatives Electoral Districts) — 3 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 3 件 / 7 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/smartnews-smri/japan-topography"
+    ]
+  }
+}

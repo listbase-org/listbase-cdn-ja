@@ -1,0 +1,336 @@
+{
+  "id": "ja-gunma-municipalities",
+  "name": "群馬県の市区町村一覧 (Municipalities of Gunma — JIS X 0402)",
+  "title": "群馬県の市区町村一覧 (Municipalities of Gunma — JIS X 0402)",
+  "description": "群馬県 (Gunma Prefecture) の市区町村一覧 35 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 35 active municipalities (cities/wards/towns/villages) of Gunma Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "10201",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "前橋市",
+      "city_kana": "マエバシシ"
+    },
+    {
+      "jisx0402": "10202",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "高崎市",
+      "city_kana": "タカサキシ"
+    },
+    {
+      "jisx0402": "10203",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "桐生市",
+      "city_kana": "キリュウシ"
+    },
+    {
+      "jisx0402": "10204",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "伊勢崎市",
+      "city_kana": "イセサキシ"
+    },
+    {
+      "jisx0402": "10205",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "太田市",
+      "city_kana": "オオタシ"
+    },
+    {
+      "jisx0402": "10206",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "沼田市",
+      "city_kana": "ヌマタシ"
+    },
+    {
+      "jisx0402": "10207",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "館林市",
+      "city_kana": "タテバヤシシ"
+    },
+    {
+      "jisx0402": "10208",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "渋川市",
+      "city_kana": "シブカワシ"
+    },
+    {
+      "jisx0402": "10209",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "藤岡市",
+      "city_kana": "フジオカシ"
+    },
+    {
+      "jisx0402": "10210",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "富岡市",
+      "city_kana": "トミオカシ"
+    },
+    {
+      "jisx0402": "10211",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "安中市",
+      "city_kana": "アンナカシ"
+    },
+    {
+      "jisx0402": "10212",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "みどり市",
+      "city_kana": "ミドリシ"
+    },
+    {
+      "jisx0402": "10344",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "北群馬郡榛東村",
+      "city_kana": "キタグンマグンシントウムラ"
+    },
+    {
+      "jisx0402": "10345",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "北群馬郡吉岡町",
+      "city_kana": "キタグンマグンヨシオカマチ"
+    },
+    {
+      "jisx0402": "10366",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "多野郡上野村",
+      "city_kana": "タノグンウエノムラ"
+    },
+    {
+      "jisx0402": "10367",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "多野郡神流町",
+      "city_kana": "タノグンカンナマチ"
+    },
+    {
+      "jisx0402": "10382",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "甘楽郡下仁田町",
+      "city_kana": "カンラグンシモニタマチ"
+    },
+    {
+      "jisx0402": "10383",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "甘楽郡南牧村",
+      "city_kana": "カンラグンナンモクムラ"
+    },
+    {
+      "jisx0402": "10384",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "甘楽郡甘楽町",
+      "city_kana": "カンラグンカンラマチ"
+    },
+    {
+      "jisx0402": "10421",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "吾妻郡中之条町",
+      "city_kana": "アガツマグンナカノジョウマチ"
+    },
+    {
+      "jisx0402": "10424",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "吾妻郡長野原町",
+      "city_kana": "アガツマグンナガノハラマチ"
+    },
+    {
+      "jisx0402": "10425",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "吾妻郡嬬恋村",
+      "city_kana": "アガツマグンツマゴイムラ"
+    },
+    {
+      "jisx0402": "10426",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "吾妻郡草津町",
+      "city_kana": "アガツマグンクサツマチ"
+    },
+    {
+      "jisx0402": "10428",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "吾妻郡高山村",
+      "city_kana": "アガツマグンタカヤマムラ"
+    },
+    {
+      "jisx0402": "10429",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "吾妻郡東吾妻町",
+      "city_kana": "アガツマグンヒガシアガツママチ"
+    },
+    {
+      "jisx0402": "10443",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "利根郡片品村",
+      "city_kana": "トネグンカタシナムラ"
+    },
+    {
+      "jisx0402": "10444",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "利根郡川場村",
+      "city_kana": "トネグンカワバムラ"
+    },
+    {
+      "jisx0402": "10448",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "利根郡昭和村",
+      "city_kana": "トネグンショウワムラ"
+    },
+    {
+      "jisx0402": "10449",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "利根郡みなかみ町",
+      "city_kana": "トネグンミナカミマチ"
+    },
+    {
+      "jisx0402": "10464",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "佐波郡玉村町",
+      "city_kana": "サワグンタマムラマチ"
+    },
+    {
+      "jisx0402": "10521",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "邑楽郡板倉町",
+      "city_kana": "オウラグンイタクラマチ"
+    },
+    {
+      "jisx0402": "10522",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "邑楽郡明和町",
+      "city_kana": "オウラグンメイワマチ"
+    },
+    {
+      "jisx0402": "10523",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "邑楽郡千代田町",
+      "city_kana": "オウラグンチヨダマチ"
+    },
+    {
+      "jisx0402": "10524",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "邑楽郡大泉町",
+      "city_kana": "オウラグンオオイズミマチ"
+    },
+    {
+      "jisx0402": "10525",
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_kana": "グンマケン",
+      "city": "邑楽郡邑楽町",
+      "city_kana": "オウラグンオウラマチ"
+    }
+  ],
+  "meta": {
+    "title": "群馬県の市区町村一覧 (Municipalities of Gunma — JIS X 0402) - 無料ダウンロード",
+    "description": "群馬県 (Gunma Prefecture) の市区町村一覧 35 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 35 active municipalities (cities/wards/towns/villages) of Gunma Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 35 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "群馬県の市区町村一覧 (Municipalities of Gunma — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 群馬県の市区町村一覧 (Municipalities of Gunma — JIS X 0402) — 35 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 35 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

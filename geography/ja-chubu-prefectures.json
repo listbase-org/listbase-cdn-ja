@@ -1,0 +1,282 @@
+{
+  "id": "ja-chubu-prefectures",
+  "name": "中部地方の都道府県 (Chubu region — prefectures)",
+  "title": "中部地方の都道府県 (Chubu region — prefectures)",
+  "description": "中部地方（ちゅうぶ）に属する都道府県の一覧。 Prefectures belonging to the Chubu region (地方 / 'chihō') of Japan — 9 prefecture(s).",
+  "category": "geography",
+  "source": "https://github.com/diverse-inc/jp_prefecture",
+  "source_url": "https://github.com/diverse-inc/jp_prefecture",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "jis_code",
+      "label": "Jis Code",
+      "type": "number"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name_kana",
+      "label": "Name Kana",
+      "type": "string"
+    },
+    {
+      "key": "name_kana_short",
+      "label": "Name Kana Short",
+      "type": "string"
+    },
+    {
+      "key": "name_roma",
+      "label": "Name Roma",
+      "type": "string"
+    },
+    {
+      "key": "name_roma_short",
+      "label": "Name Roma Short",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "region_kanji",
+      "label": "Region Kanji",
+      "type": "string"
+    },
+    {
+      "key": "region_kana",
+      "label": "Region Kana",
+      "type": "string"
+    },
+    {
+      "key": "region_roma",
+      "label": "Region Roma",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "region_name_en",
+      "label": "Region Name En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": 15,
+      "jis_code": "15",
+      "iso_3166_2": "JP-15",
+      "slug": "niigata",
+      "name": "新潟県",
+      "name_short": "新潟",
+      "name_kana": "にいがたけん",
+      "name_kana_short": "にいがた",
+      "name_roma": "niigata-ken",
+      "name_roma_short": "niigata",
+      "name_en": "Niigata",
+      "type": "県",
+      "region_kanji": "中部",
+      "region_kana": "ちゅうぶ",
+      "region_roma": "chubu",
+      "region_slug": "chubu",
+      "region_name_en": "Chubu"
+    },
+    {
+      "code": 16,
+      "jis_code": "16",
+      "iso_3166_2": "JP-16",
+      "slug": "toyama",
+      "name": "富山県",
+      "name_short": "富山",
+      "name_kana": "とやまけん",
+      "name_kana_short": "とやま",
+      "name_roma": "toyama-ken",
+      "name_roma_short": "toyama",
+      "name_en": "Toyama",
+      "type": "県",
+      "region_kanji": "中部",
+      "region_kana": "ちゅうぶ",
+      "region_roma": "chubu",
+      "region_slug": "chubu",
+      "region_name_en": "Chubu"
+    },
+    {
+      "code": 17,
+      "jis_code": "17",
+      "iso_3166_2": "JP-17",
+      "slug": "ishikawa",
+      "name": "石川県",
+      "name_short": "石川",
+      "name_kana": "いしかわけん",
+      "name_kana_short": "いしかわ",
+      "name_roma": "ishikawa-ken",
+      "name_roma_short": "ishikawa",
+      "name_en": "Ishikawa",
+      "type": "県",
+      "region_kanji": "中部",
+      "region_kana": "ちゅうぶ",
+      "region_roma": "chubu",
+      "region_slug": "chubu",
+      "region_name_en": "Chubu"
+    },
+    {
+      "code": 18,
+      "jis_code": "18",
+      "iso_3166_2": "JP-18",
+      "slug": "fukui",
+      "name": "福井県",
+      "name_short": "福井",
+      "name_kana": "ふくいけん",
+      "name_kana_short": "ふくい",
+      "name_roma": "fukui-ken",
+      "name_roma_short": "fukui",
+      "name_en": "Fukui",
+      "type": "県",
+      "region_kanji": "中部",
+      "region_kana": "ちゅうぶ",
+      "region_roma": "chubu",
+      "region_slug": "chubu",
+      "region_name_en": "Chubu"
+    },
+    {
+      "code": 19,
+      "jis_code": "19",
+      "iso_3166_2": "JP-19",
+      "slug": "yamanashi",
+      "name": "山梨県",
+      "name_short": "山梨",
+      "name_kana": "やまなしけん",
+      "name_kana_short": "やまなし",
+      "name_roma": "yamanashi-ken",
+      "name_roma_short": "yamanashi",
+      "name_en": "Yamanashi",
+      "type": "県",
+      "region_kanji": "中部",
+      "region_kana": "ちゅうぶ",
+      "region_roma": "chubu",
+      "region_slug": "chubu",
+      "region_name_en": "Chubu"
+    },
+    {
+      "code": 20,
+      "jis_code": "20",
+      "iso_3166_2": "JP-20",
+      "slug": "nagano",
+      "name": "長野県",
+      "name_short": "長野",
+      "name_kana": "ながのけん",
+      "name_kana_short": "ながの",
+      "name_roma": "nagano-ken",
+      "name_roma_short": "nagano",
+      "name_en": "Nagano",
+      "type": "県",
+      "region_kanji": "中部",
+      "region_kana": "ちゅうぶ",
+      "region_roma": "chubu",
+      "region_slug": "chubu",
+      "region_name_en": "Chubu"
+    },
+    {
+      "code": 21,
+      "jis_code": "21",
+      "iso_3166_2": "JP-21",
+      "slug": "gifu",
+      "name": "岐阜県",
+      "name_short": "岐阜",
+      "name_kana": "ぎふけん",
+      "name_kana_short": "ぎふ",
+      "name_roma": "gifu-ken",
+      "name_roma_short": "gifu",
+      "name_en": "Gifu",
+      "type": "県",
+      "region_kanji": "中部",
+      "region_kana": "ちゅうぶ",
+      "region_roma": "chubu",
+      "region_slug": "chubu",
+      "region_name_en": "Chubu"
+    },
+    {
+      "code": 22,
+      "jis_code": "22",
+      "iso_3166_2": "JP-22",
+      "slug": "shizuoka",
+      "name": "静岡県",
+      "name_short": "静岡",
+      "name_kana": "しずおかけん",
+      "name_kana_short": "しずおか",
+      "name_roma": "shizuoka-ken",
+      "name_roma_short": "shizuoka",
+      "name_en": "Shizuoka",
+      "type": "県",
+      "region_kanji": "中部",
+      "region_kana": "ちゅうぶ",
+      "region_roma": "chubu",
+      "region_slug": "chubu",
+      "region_name_en": "Chubu"
+    },
+    {
+      "code": 23,
+      "jis_code": "23",
+      "iso_3166_2": "JP-23",
+      "slug": "aichi",
+      "name": "愛知県",
+      "name_short": "愛知",
+      "name_kana": "あいちけん",
+      "name_kana_short": "あいち",
+      "name_roma": "aichi-ken",
+      "name_roma_short": "aichi",
+      "name_en": "Aichi",
+      "type": "県",
+      "region_kanji": "中部",
+      "region_kana": "ちゅうぶ",
+      "region_roma": "chubu",
+      "region_slug": "chubu",
+      "region_name_en": "Chubu"
+    }
+  ],
+  "meta": {
+    "title": "中部地方の都道府県 (Chubu region — prefectures) - 無料ダウンロード",
+    "description": "中部地方（ちゅうぶ）に属する都道府県の一覧。 Prefectures belonging to the Chubu region (地方 / 'chihō') of Japan — 9 prefecture(s). 収録数 9 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "中部地方の都道府県 (Chubu region — prefectures) | ListBase",
+    "seo_description": "ダウンロード 中部地方の都道府県 (Chubu region — prefectures) — 9 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 9 件 / 17 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/diverse-inc/jp_prefecture"
+    ]
+  }
+}

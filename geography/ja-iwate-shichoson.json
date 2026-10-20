@@ -1,0 +1,320 @@
+{
+  "id": "ja-iwate-shichoson",
+  "name": "岩手県の市区町村一覧",
+  "title": "岩手県の市区町村一覧",
+  "description": "岩手県 (Iwate Prefecture) の全市区町村 33 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "03201",
+      "name": "盛岡市",
+      "full_name": "盛岡市",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "03202",
+      "name": "宮古市",
+      "full_name": "宮古市",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "03203",
+      "name": "大船渡市",
+      "full_name": "大船渡市",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "03205",
+      "name": "花巻市",
+      "full_name": "花巻市",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "03206",
+      "name": "北上市",
+      "full_name": "北上市",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "03207",
+      "name": "久慈市",
+      "full_name": "久慈市",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "03208",
+      "name": "遠野市",
+      "full_name": "遠野市",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "03209",
+      "name": "一関市",
+      "full_name": "一関市",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "03210",
+      "name": "陸前高田市",
+      "full_name": "陸前高田市",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "03211",
+      "name": "釜石市",
+      "full_name": "釜石市",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "03213",
+      "name": "二戸市",
+      "full_name": "二戸市",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "03214",
+      "name": "八幡平市",
+      "full_name": "八幡平市",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "03215",
+      "name": "奥州市",
+      "full_name": "奥州市",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "03216",
+      "name": "滝沢市",
+      "full_name": "滝沢市",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "03301",
+      "name": "雫石町",
+      "full_name": "岩手郡雫石町",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "岩手郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "03302",
+      "name": "葛巻町",
+      "full_name": "岩手郡葛巻町",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "岩手郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "03303",
+      "name": "岩手町",
+      "full_name": "岩手郡岩手町",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "岩手郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "03321",
+      "name": "紫波町",
+      "full_name": "紫波郡紫波町",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "紫波郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "03322",
+      "name": "矢巾町",
+      "full_name": "紫波郡矢巾町",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "紫波郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "03366",
+      "name": "西和賀町",
+      "full_name": "和賀郡西和賀町",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "和賀郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "03381",
+      "name": "金ケ崎町",
+      "full_name": "胆沢郡金ケ崎町",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "胆沢郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "03402",
+      "name": "平泉町",
+      "full_name": "西磐井郡平泉町",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "西磐井郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "03441",
+      "name": "住田町",
+      "full_name": "気仙郡住田町",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "気仙郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "03461",
+      "name": "大槌町",
+      "full_name": "上閉伊郡大槌町",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "上閉伊郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "03482",
+      "name": "山田町",
+      "full_name": "下閉伊郡山田町",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "下閉伊郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "03483",
+      "name": "岩泉町",
+      "full_name": "下閉伊郡岩泉町",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "下閉伊郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "03484",
+      "name": "田野畑村",
+      "full_name": "下閉伊郡田野畑村",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "下閉伊郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "03485",
+      "name": "普代村",
+      "full_name": "下閉伊郡普代村",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "下閉伊郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "03501",
+      "name": "軽米町",
+      "full_name": "九戸郡軽米町",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "九戸郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "03503",
+      "name": "野田村",
+      "full_name": "九戸郡野田村",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "九戸郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "03506",
+      "name": "九戸村",
+      "full_name": "九戸郡九戸村",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "九戸郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "03507",
+      "name": "洋野町",
+      "full_name": "九戸郡洋野町",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "九戸郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "03524",
+      "name": "一戸町",
+      "full_name": "二戸郡一戸町",
+      "prefecture": "岩手県",
+      "county_or_designated_city": "二戸郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "岩手県の市区町村一覧 - 無料ダウンロード",
+    "description": "岩手県 (Iwate Prefecture) の全市区町村 33 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 33 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "岩手県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 岩手県の市区町村一覧 — 33 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 33 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

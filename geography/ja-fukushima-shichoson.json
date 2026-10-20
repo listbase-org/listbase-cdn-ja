@@ -1,0 +1,528 @@
+{
+  "id": "ja-fukushima-shichoson",
+  "name": "福島県の市区町村一覧",
+  "title": "福島県の市区町村一覧",
+  "description": "福島県 (Fukushima Prefecture) の全市区町村 59 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 59,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "07201",
+      "name": "福島市",
+      "full_name": "福島市",
+      "prefecture": "福島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "07202",
+      "name": "会津若松市",
+      "full_name": "会津若松市",
+      "prefecture": "福島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "07203",
+      "name": "郡山市",
+      "full_name": "郡山市",
+      "prefecture": "福島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "07204",
+      "name": "いわき市",
+      "full_name": "いわき市",
+      "prefecture": "福島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "07205",
+      "name": "白河市",
+      "full_name": "白河市",
+      "prefecture": "福島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "07207",
+      "name": "須賀川市",
+      "full_name": "須賀川市",
+      "prefecture": "福島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "07208",
+      "name": "喜多方市",
+      "full_name": "喜多方市",
+      "prefecture": "福島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "07209",
+      "name": "相馬市",
+      "full_name": "相馬市",
+      "prefecture": "福島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "07210",
+      "name": "二本松市",
+      "full_name": "二本松市",
+      "prefecture": "福島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "07211",
+      "name": "田村市",
+      "full_name": "田村市",
+      "prefecture": "福島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "07212",
+      "name": "南相馬市",
+      "full_name": "南相馬市",
+      "prefecture": "福島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "07213",
+      "name": "伊達市",
+      "full_name": "伊達市",
+      "prefecture": "福島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "07214",
+      "name": "本宮市",
+      "full_name": "本宮市",
+      "prefecture": "福島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "07301",
+      "name": "桑折町",
+      "full_name": "伊達郡桑折町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "伊達郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07303",
+      "name": "国見町",
+      "full_name": "伊達郡国見町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "伊達郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07308",
+      "name": "川俣町",
+      "full_name": "伊達郡川俣町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "伊達郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07322",
+      "name": "大玉村",
+      "full_name": "安達郡大玉村",
+      "prefecture": "福島県",
+      "county_or_designated_city": "安達郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07342",
+      "name": "鏡石町",
+      "full_name": "岩瀬郡鏡石町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "岩瀬郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07344",
+      "name": "天栄村",
+      "full_name": "岩瀬郡天栄村",
+      "prefecture": "福島県",
+      "county_or_designated_city": "岩瀬郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07362",
+      "name": "下郷町",
+      "full_name": "南会津郡下郷町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "南会津郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07364",
+      "name": "檜枝岐村",
+      "full_name": "南会津郡檜枝岐村",
+      "prefecture": "福島県",
+      "county_or_designated_city": "南会津郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07367",
+      "name": "只見町",
+      "full_name": "南会津郡只見町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "南会津郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07368",
+      "name": "南会津町",
+      "full_name": "南会津郡南会津町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "南会津郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07402",
+      "name": "北塩原村",
+      "full_name": "耶麻郡北塩原村",
+      "prefecture": "福島県",
+      "county_or_designated_city": "耶麻郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07405",
+      "name": "西会津町",
+      "full_name": "耶麻郡西会津町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "耶麻郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07407",
+      "name": "磐梯町",
+      "full_name": "耶麻郡磐梯町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "耶麻郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07408",
+      "name": "猪苗代町",
+      "full_name": "耶麻郡猪苗代町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "耶麻郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07421",
+      "name": "会津坂下町",
+      "full_name": "河沼郡会津坂下町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "河沼郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07422",
+      "name": "湯川村",
+      "full_name": "河沼郡湯川村",
+      "prefecture": "福島県",
+      "county_or_designated_city": "河沼郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07423",
+      "name": "柳津町",
+      "full_name": "河沼郡柳津町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "河沼郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07444",
+      "name": "三島町",
+      "full_name": "大沼郡三島町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "大沼郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07445",
+      "name": "金山町",
+      "full_name": "大沼郡金山町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "大沼郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07446",
+      "name": "昭和村",
+      "full_name": "大沼郡昭和村",
+      "prefecture": "福島県",
+      "county_or_designated_city": "大沼郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07447",
+      "name": "会津美里町",
+      "full_name": "大沼郡会津美里町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "大沼郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07461",
+      "name": "西郷村",
+      "full_name": "西白河郡西郷村",
+      "prefecture": "福島県",
+      "county_or_designated_city": "西白河郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07464",
+      "name": "泉崎村",
+      "full_name": "西白河郡泉崎村",
+      "prefecture": "福島県",
+      "county_or_designated_city": "西白河郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07465",
+      "name": "中島村",
+      "full_name": "西白河郡中島村",
+      "prefecture": "福島県",
+      "county_or_designated_city": "西白河郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07466",
+      "name": "矢吹町",
+      "full_name": "西白河郡矢吹町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "西白河郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07481",
+      "name": "棚倉町",
+      "full_name": "東白川郡棚倉町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "東白川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07482",
+      "name": "矢祭町",
+      "full_name": "東白川郡矢祭町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "東白川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07483",
+      "name": "塙町",
+      "full_name": "東白川郡塙町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "東白川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07484",
+      "name": "鮫川村",
+      "full_name": "東白川郡鮫川村",
+      "prefecture": "福島県",
+      "county_or_designated_city": "東白川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07501",
+      "name": "石川町",
+      "full_name": "石川郡石川町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "石川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07502",
+      "name": "玉川村",
+      "full_name": "石川郡玉川村",
+      "prefecture": "福島県",
+      "county_or_designated_city": "石川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07503",
+      "name": "平田村",
+      "full_name": "石川郡平田村",
+      "prefecture": "福島県",
+      "county_or_designated_city": "石川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07504",
+      "name": "浅川町",
+      "full_name": "石川郡浅川町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "石川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07505",
+      "name": "古殿町",
+      "full_name": "石川郡古殿町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "石川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07521",
+      "name": "三春町",
+      "full_name": "田村郡三春町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "田村郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07522",
+      "name": "小野町",
+      "full_name": "田村郡小野町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "田村郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07541",
+      "name": "広野町",
+      "full_name": "双葉郡広野町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "双葉郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07542",
+      "name": "楢葉町",
+      "full_name": "双葉郡楢葉町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "双葉郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07543",
+      "name": "富岡町",
+      "full_name": "双葉郡富岡町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "双葉郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07544",
+      "name": "川内村",
+      "full_name": "双葉郡川内村",
+      "prefecture": "福島県",
+      "county_or_designated_city": "双葉郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07545",
+      "name": "大熊町",
+      "full_name": "双葉郡大熊町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "双葉郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07546",
+      "name": "双葉町",
+      "full_name": "双葉郡双葉町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "双葉郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07547",
+      "name": "浪江町",
+      "full_name": "双葉郡浪江町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "双葉郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07548",
+      "name": "葛尾村",
+      "full_name": "双葉郡葛尾村",
+      "prefecture": "福島県",
+      "county_or_designated_city": "双葉郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07561",
+      "name": "新地町",
+      "full_name": "相馬郡新地町",
+      "prefecture": "福島県",
+      "county_or_designated_city": "相馬郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "07564",
+      "name": "飯舘村",
+      "full_name": "相馬郡飯舘村",
+      "prefecture": "福島県",
+      "county_or_designated_city": "相馬郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "福島県の市区町村一覧 - 無料ダウンロード",
+    "description": "福島県 (Fukushima Prefecture) の全市区町村 59 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 59 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "福島県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 福島県の市区町村一覧 — 59 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 59 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

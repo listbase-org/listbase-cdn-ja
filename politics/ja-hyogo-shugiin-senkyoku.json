@@ -1,0 +1,169 @@
+{
+  "id": "ja-hyogo-shugiin-senkyoku",
+  "name": "兵庫県衆議院小選挙区 (Hyogo House of Representatives Electoral Districts)",
+  "title": "兵庫県衆議院小選挙区 (Hyogo House of Representatives Electoral Districts)",
+  "description": "兵庫県内の衆議院小選挙区 12 件。ja-shugiin-senkyoku（全国 289 件）から都道府県コード 28 のレコードのみを抽出。スキーマは同一。12 single-member electoral districts in Hyogo Prefecture, filtered from the national list (289). Same schema.",
+  "category": "politics",
+  "source": "https://github.com/smartnews-smri/japan-topography",
+  "source_url": "https://github.com/smartnews-smri/japan-topography",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "kucode",
+      "label": "Kucode",
+      "type": "number"
+    },
+    {
+      "key": "constituency",
+      "label": "Constituency",
+      "type": "string"
+    },
+    {
+      "key": "constituency_en",
+      "label": "Constituency En",
+      "type": "string"
+    },
+    {
+      "key": "district_number",
+      "label": "District Number",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_en",
+      "label": "Prefecture En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kucode": 2801,
+      "constituency": "兵庫1区",
+      "constituency_en": "Hyogo 1",
+      "district_number": 1,
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_en": "Hyogo"
+    },
+    {
+      "kucode": 2802,
+      "constituency": "兵庫2区",
+      "constituency_en": "Hyogo 2",
+      "district_number": 2,
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_en": "Hyogo"
+    },
+    {
+      "kucode": 2803,
+      "constituency": "兵庫3区",
+      "constituency_en": "Hyogo 3",
+      "district_number": 3,
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_en": "Hyogo"
+    },
+    {
+      "kucode": 2804,
+      "constituency": "兵庫4区",
+      "constituency_en": "Hyogo 4",
+      "district_number": 4,
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_en": "Hyogo"
+    },
+    {
+      "kucode": 2805,
+      "constituency": "兵庫5区",
+      "constituency_en": "Hyogo 5",
+      "district_number": 5,
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_en": "Hyogo"
+    },
+    {
+      "kucode": 2806,
+      "constituency": "兵庫6区",
+      "constituency_en": "Hyogo 6",
+      "district_number": 6,
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_en": "Hyogo"
+    },
+    {
+      "kucode": 2807,
+      "constituency": "兵庫7区",
+      "constituency_en": "Hyogo 7",
+      "district_number": 7,
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_en": "Hyogo"
+    },
+    {
+      "kucode": 2808,
+      "constituency": "兵庫8区",
+      "constituency_en": "Hyogo 8",
+      "district_number": 8,
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_en": "Hyogo"
+    },
+    {
+      "kucode": 2809,
+      "constituency": "兵庫9区",
+      "constituency_en": "Hyogo 9",
+      "district_number": 9,
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_en": "Hyogo"
+    },
+    {
+      "kucode": 2810,
+      "constituency": "兵庫10区",
+      "constituency_en": "Hyogo 10",
+      "district_number": 10,
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_en": "Hyogo"
+    },
+    {
+      "kucode": 2811,
+      "constituency": "兵庫11区",
+      "constituency_en": "Hyogo 11",
+      "district_number": 11,
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_en": "Hyogo"
+    },
+    {
+      "kucode": 2812,
+      "constituency": "兵庫12区",
+      "constituency_en": "Hyogo 12",
+      "district_number": 12,
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_en": "Hyogo"
+    }
+  ],
+  "meta": {
+    "title": "兵庫県衆議院小選挙区 (Hyogo House of Representatives Electoral Districts) - 無料ダウンロード",
+    "description": "兵庫県内の衆議院小選挙区 12 件。ja-shugiin-senkyoku（全国 289 件）から都道府県コード 28 のレコードのみを抽出。スキーマは同一。12 single-member electoral districts in Hyogo Prefecture, filtered from the national list (289). Same schema. 収録数 12 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "兵庫県衆議院小選挙区 (Hyogo House of Representatives Electoral Districts) | ListBase",
+    "seo_description": "ダウンロード 兵庫県衆議院小選挙区 (Hyogo House of Representatives Electoral Districts) — 12 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 12 件 / 7 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/smartnews-smri/japan-topography"
+    ]
+  }
+}

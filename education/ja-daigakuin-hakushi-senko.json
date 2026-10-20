@@ -1,0 +1,3784 @@
+{
+  "id": "ja-daigakuin-hakushi-senko",
+  "name": "日本の大学院（博士課程）専攻一覧 (Japan — Doctoral Graduate-School Programs)",
+  "title": "日本の大学院（博士課程）専攻一覧 (Japan — Doctoral Graduate-School Programs)",
+  "description": "日本の大学院（博士課程）の専攻一覧。各レコードは大学院名（name）・学校コード（name_id）・専攻名（subject）・専攻コード（subject_id）・文理区分（bunri）・かな読み（kana）を収録。出典 abekdwight/japanese-universities-list。※出典データはかな行 ア・イ・ウ・エ のみ収録の部分リストであり、本データセットも同範囲。 List of doctoral (博士課程) graduate-school programs (専攻) in Japan; native Japanese graduate-school and program names carried verbatim from source. Source is a partial scrape covering only the kana initials ア/イ/ウ/エ.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 466,
+  "columns": [
+    {
+      "key": "kana",
+      "label": "Kana",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_id",
+      "label": "Name Id",
+      "type": "number"
+    },
+    {
+      "key": "subject",
+      "label": "Subject",
+      "type": "string"
+    },
+    {
+      "key": "subject_id",
+      "label": "Subject Id",
+      "type": "string"
+    },
+    {
+      "key": "bunri",
+      "label": "Bunri",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kana": "ア",
+      "name": "愛知医科大学大学院",
+      "name_id": "7915",
+      "subject": "医学研究科 基礎医学系専攻",
+      "subject_id": "79156642T7",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知医科大学大学院",
+      "name_id": "7915",
+      "subject": "医学研究科 臨床医学系専攻",
+      "subject_id": "79156648Z2",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知医科大学大学院",
+      "name_id": "7915",
+      "subject": "医学研究科 その他専攻",
+      "subject_id": "7915664HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知医科大学大学院",
+      "name_id": "7915",
+      "subject": "看護学研究科 看護学専攻",
+      "subject_id": "79156922R9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知医科大学大学院",
+      "name_id": "7915",
+      "subject": "看護学研究科 その他専攻",
+      "subject_id": "7915692HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "心身科学研究科 健康科学専攻",
+      "subject_id": "748504Z3M3",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "心身科学研究科 心理学専攻",
+      "subject_id": "748504Z5H2",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "心身科学研究科 その他専攻",
+      "subject_id": "748504ZHZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "薬科学研究科 薬科学専攻",
+      "subject_id": "748509Z07C",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "薬科学研究科 その他専攻",
+      "subject_id": "748509ZHZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "法務研究科 法務専攻",
+      "subject_id": "74852194KN",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "法務研究科 その他専攻",
+      "subject_id": "7485219HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "経営学研究科 経営学専攻",
+      "subject_id": "7485702619",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "経営学研究科 その他専攻",
+      "subject_id": "7485702HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "経済学研究科 経済学専攻",
+      "subject_id": "74857143G6",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "経済学研究科 その他専攻",
+      "subject_id": "7485714HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "歯学研究科 歯科基礎系専攻",
+      "subject_id": "74857734M5",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "歯学研究科 歯科臨床系専攻",
+      "subject_id": "74857734M8",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "歯学研究科 歯学専攻",
+      "subject_id": "74857734N2",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "歯学研究科 その他専攻",
+      "subject_id": "7485773HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "商学研究科 商学専攻",
+      "subject_id": "74857924X8",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "商学研究科 その他専攻",
+      "subject_id": "7485792HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "総合政策研究科 総合政策専攻",
+      "subject_id": "74858786S1",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "総合政策研究科 その他専攻",
+      "subject_id": "7485878HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "文学研究科 英語圏文化専攻",
+      "subject_id": "74859291U3",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "文学研究科 宗教学仏教学専攻",
+      "subject_id": "748592925P",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "文学研究科 日本文化専攻",
+      "subject_id": "74859297W6",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "文学研究科 歴史学専攻",
+      "subject_id": "74859299A4",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "文学研究科 その他専攻",
+      "subject_id": "7485929HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "法学研究科 法律学専攻",
+      "subject_id": "74859428T5",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "法学研究科 その他専攻",
+      "subject_id": "7485942HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "薬学研究科 医療薬学専攻",
+      "subject_id": "74859551R8",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知学院大学大学院",
+      "name_id": "7485",
+      "subject": "薬学研究科 その他専攻",
+      "subject_id": "7485955HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知教育大学大学院",
+      "name_id": "7080",
+      "subject": "教育実践研究科 教職実践専攻",
+      "subject_id": "708010L24S",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知教育大学大学院",
+      "name_id": "7080",
+      "subject": "教育実践研究科 その他専攻",
+      "subject_id": "708010LHZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知教育大学大学院",
+      "name_id": "7080",
+      "subject": "教育学研究科 英語教育専攻",
+      "subject_id": "70806971U2",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知教育大学大学院",
+      "name_id": "7080",
+      "subject": "教育学研究科 発達教育科学専攻",
+      "subject_id": "708069720L",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知教育大学大学院",
+      "name_id": "7080",
+      "subject": "教育学研究科 特別支援教育科学専攻",
+      "subject_id": "708069724M",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知教育大学大学院",
+      "name_id": "7080",
+      "subject": "教育学研究科 家政教育専攻",
+      "subject_id": "70806972G0",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知教育大学大学院",
+      "name_id": "7080",
+      "subject": "教育学研究科 技術教育専攻",
+      "subject_id": "70806972Z2",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知教育大学大学院",
+      "name_id": "7080",
+      "subject": "教育学研究科 芸術教育専攻",
+      "subject_id": "70806973L1",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知教育大学大学院",
+      "name_id": "7080",
+      "subject": "教育学研究科 国語教育専攻",
+      "subject_id": "70806973X9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知教育大学大学院",
+      "name_id": "7080",
+      "subject": "教育学研究科 社会科教育専攻",
+      "subject_id": "70806974R4",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知教育大学大学院",
+      "name_id": "7080",
+      "subject": "教育学研究科 共同教科開発学専攻",
+      "subject_id": "708069754U",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知教育大学大学院",
+      "name_id": "7080",
+      "subject": "教育学研究科 数学教育専攻",
+      "subject_id": "70806975R9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知教育大学大学院",
+      "name_id": "7080",
+      "subject": "教育学研究科 保健体育専攻",
+      "subject_id": "70806978S2",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知教育大学大学院",
+      "name_id": "7080",
+      "subject": "教育学研究科 養護教育専攻",
+      "subject_id": "70806978W5",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知教育大学大学院",
+      "name_id": "7080",
+      "subject": "教育学研究科 理科教育専攻",
+      "subject_id": "70806978X1",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知教育大学大学院",
+      "name_id": "7080",
+      "subject": "教育学研究科 学校教育臨床専攻",
+      "subject_id": "7080697938",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知教育大学大学院",
+      "name_id": "7080",
+      "subject": "教育学研究科 その他専攻",
+      "subject_id": "7080697HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知県立芸術大学大学院",
+      "name_id": "7082",
+      "subject": "音楽研究科 音楽専攻",
+      "subject_id": "7082676H7X",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知県立芸術大学大学院",
+      "name_id": "7082",
+      "subject": "音楽研究科 その他専攻",
+      "subject_id": "7082676HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知県立芸術大学大学院",
+      "name_id": "7082",
+      "subject": "美術研究科 美術専攻",
+      "subject_id": "7082915HNI",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知県立芸術大学大学院",
+      "name_id": "7082",
+      "subject": "美術研究科 その他専攻",
+      "subject_id": "7082915HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知県立大学大学院",
+      "name_id": "7081",
+      "subject": "人間発達学研究科 人間発達学専攻",
+      "subject_id": "708102B5N7",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知県立大学大学院",
+      "name_id": "7081",
+      "subject": "人間発達学研究科 その他専攻",
+      "subject_id": "708102BHZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知県立大学大学院",
+      "name_id": "7081",
+      "subject": "看護学研究科 看護学専攻",
+      "subject_id": "70816922R9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知県立大学大学院",
+      "name_id": "7081",
+      "subject": "看護学研究科 その他専攻",
+      "subject_id": "7081692HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知県立大学大学院",
+      "name_id": "7081",
+      "subject": "国際文化研究科 国際文化専攻",
+      "subject_id": "70817684D6",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知県立大学大学院",
+      "name_id": "7081",
+      "subject": "国際文化研究科 日本文化専攻",
+      "subject_id": "70817687W6",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知県立大学大学院",
+      "name_id": "7081",
+      "subject": "国際文化研究科 その他専攻",
+      "subject_id": "7081768HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知県立大学大学院",
+      "name_id": "7081",
+      "subject": "情報科学研究科 システム科学専攻",
+      "subject_id": "7081807H1J",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知県立大学大学院",
+      "name_id": "7081",
+      "subject": "情報科学研究科 情報システム専攻",
+      "subject_id": "7081807HDJ",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知県立大学大学院",
+      "name_id": "7081",
+      "subject": "情報科学研究科 情報科学専攻",
+      "subject_id": "7081807HE5",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知県立大学大学院",
+      "name_id": "7081",
+      "subject": "情報科学研究科 メディア情報専攻",
+      "subject_id": "7081807HPA",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知県立大学大学院",
+      "name_id": "7081",
+      "subject": "情報科学研究科 その他専攻",
+      "subject_id": "7081807HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知工科大学大学院",
+      "name_id": "7517",
+      "subject": "工学研究科 システム工学専攻",
+      "subject_id": "7517739H1M",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知工科大学大学院",
+      "name_id": "7517",
+      "subject": "工学研究科 その他専攻",
+      "subject_id": "7517739HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知工業大学大学院",
+      "name_id": "7487",
+      "subject": "経営情報科学研究科 経営情報科学専攻",
+      "subject_id": "748700X641",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知工業大学大学院",
+      "name_id": "7487",
+      "subject": "経営情報科学研究科 その他専攻",
+      "subject_id": "748700XHZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知工業大学大学院",
+      "name_id": "7487",
+      "subject": "工学研究科 機械工学専攻",
+      "subject_id": "74877392W4",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知工業大学大学院",
+      "name_id": "7487",
+      "subject": "工学研究科 建設システム工学専攻",
+      "subject_id": "74877393N1",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知工業大学大学院",
+      "name_id": "7487",
+      "subject": "工学研究科 材料化学専攻",
+      "subject_id": "74877394F0",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知工業大学大学院",
+      "name_id": "7487",
+      "subject": "工学研究科 生産・建設工学専攻",
+      "subject_id": "74877395Y5",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知工業大学大学院",
+      "name_id": "7487",
+      "subject": "工学研究科 電気・材料工学専攻",
+      "subject_id": "74877397H3",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知工業大学大学院",
+      "name_id": "7487",
+      "subject": "工学研究科 電気電子工学専攻",
+      "subject_id": "7487739HKV",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知工業大学大学院",
+      "name_id": "7487",
+      "subject": "工学研究科 その他専攻",
+      "subject_id": "7487739HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知産業大学大学院",
+      "name_id": "7484",
+      "subject": "造形学研究科 建築学専攻",
+      "subject_id": "748402I3P3",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知産業大学大学院",
+      "name_id": "7484",
+      "subject": "造形学研究科 デザイン学専攻",
+      "subject_id": "748402IH37",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知産業大学大学院",
+      "name_id": "7484",
+      "subject": "造形学研究科 その他専攻",
+      "subject_id": "748402IHZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知淑徳大学大学院",
+      "name_id": "7488",
+      "subject": "グローバルカルチャー・コミュニケーション研究科 グローバルカルチャー・コミュニケーション専攻",
+      "subject_id": "748807I1SJ",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知淑徳大学大学院",
+      "name_id": "7488",
+      "subject": "グローバルカルチャー・コミュニケーション研究科 その他専攻",
+      "subject_id": "748807IHZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知淑徳大学大学院",
+      "name_id": "7488",
+      "subject": "ビジネス研究科 ビジネス専攻",
+      "subject_id": "748819707O",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知淑徳大学大学院",
+      "name_id": "7488",
+      "subject": "ビジネス研究科 その他専攻",
+      "subject_id": "7488197HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知淑徳大学大学院",
+      "name_id": "7488",
+      "subject": "文化創造研究科 文化創造専攻",
+      "subject_id": "748822561M",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知淑徳大学大学院",
+      "name_id": "7488",
+      "subject": "文化創造研究科 その他専攻",
+      "subject_id": "7488225HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知淑徳大学大学院",
+      "name_id": "7488",
+      "subject": "心理医療科学研究科 心理医療科学専攻",
+      "subject_id": "748859271Y",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知淑徳大学大学院",
+      "name_id": "7488",
+      "subject": "心理医療科学研究科 その他専攻",
+      "subject_id": "7488592HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知淑徳大学大学院",
+      "name_id": "7488",
+      "subject": "教育学研究科 発達教育専攻",
+      "subject_id": "7488697743",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知淑徳大学大学院",
+      "name_id": "7488",
+      "subject": "教育学研究科 その他専攻",
+      "subject_id": "7488697HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知大学大学院",
+      "name_id": "7483",
+      "subject": "法務研究科 法務専攻",
+      "subject_id": "74832194KN",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知大学大学院",
+      "name_id": "7483",
+      "subject": "法務研究科 その他専攻",
+      "subject_id": "7483219HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知大学大学院",
+      "name_id": "7483",
+      "subject": "経営学研究科 経営学専攻",
+      "subject_id": "7483702619",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知大学大学院",
+      "name_id": "7483",
+      "subject": "経営学研究科 その他専攻",
+      "subject_id": "7483702HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知大学大学院",
+      "name_id": "7483",
+      "subject": "経済学研究科 経済学専攻",
+      "subject_id": "74837143G6",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知大学大学院",
+      "name_id": "7483",
+      "subject": "経済学研究科 その他専攻",
+      "subject_id": "7483714HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知大学大学院",
+      "name_id": "7483",
+      "subject": "国際コミュニケーション研究科 国際コミュニケーション専攻",
+      "subject_id": "74837553Y4",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知大学大学院",
+      "name_id": "7483",
+      "subject": "国際コミュニケーション研究科 その他専攻",
+      "subject_id": "7483755HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知大学大学院",
+      "name_id": "7483",
+      "subject": "中国研究科 中国研究専攻",
+      "subject_id": "7483902730",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知大学大学院",
+      "name_id": "7483",
+      "subject": "中国研究科 その他専攻",
+      "subject_id": "7483902HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知大学大学院",
+      "name_id": "7483",
+      "subject": "文学研究科 欧米文化専攻",
+      "subject_id": "74839292A5",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知大学大学院",
+      "name_id": "7483",
+      "subject": "文学研究科 地域社会システム専攻",
+      "subject_id": "74839296Z6",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知大学大学院",
+      "name_id": "7483",
+      "subject": "文学研究科 日本文化専攻",
+      "subject_id": "74839297W6",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知大学大学院",
+      "name_id": "7483",
+      "subject": "文学研究科 その他専攻",
+      "subject_id": "7483929HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知大学大学院",
+      "name_id": "7483",
+      "subject": "法学研究科 公法学専攻",
+      "subject_id": "74839423U0",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知大学大学院",
+      "name_id": "7483",
+      "subject": "法学研究科 私法学専攻",
+      "subject_id": "74839424L2",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知大学大学院",
+      "name_id": "7483",
+      "subject": "法学研究科 その他専攻",
+      "subject_id": "7483942HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知文教大学大学院",
+      "name_id": "7515",
+      "subject": "国際文化研究科 国際文化専攻",
+      "subject_id": "75157684D6",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知文教大学大学院",
+      "name_id": "7515",
+      "subject": "国際文化研究科 その他専攻",
+      "subject_id": "7515768HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知みずほ大学大学院",
+      "name_id": "7496",
+      "subject": "人間科学研究科 心身健康科学専攻",
+      "subject_id": "749682342U",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "愛知みずほ大学大学院",
+      "name_id": "7496",
+      "subject": "人間科学研究科 その他専攻",
+      "subject_id": "7496823HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "会津大学大学院",
+      "name_id": "7025",
+      "subject": "コンピュータ理工学研究科 コンピュータ・情報システム学専攻",
+      "subject_id": "7025654H0Q",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "会津大学大学院",
+      "name_id": "7025",
+      "subject": "コンピュータ理工学研究科 情報技術・プロジェクトマネジメント専攻",
+      "subject_id": "7025654HEM",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "会津大学大学院",
+      "name_id": "7025",
+      "subject": "コンピュータ理工学研究科 その他専攻",
+      "subject_id": "7025654HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "藍野大学大学院",
+      "name_id": "7267",
+      "subject": "看護学研究科 看護学専攻",
+      "subject_id": "72676922R9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "藍野大学大学院",
+      "name_id": "7267",
+      "subject": "看護学研究科 その他専攻",
+      "subject_id": "7267692HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "青森県立保健大学大学院",
+      "name_id": "7752",
+      "subject": "健康科学研究科 健康科学専攻",
+      "subject_id": "77527293M3",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青森県立保健大学大学院",
+      "name_id": "7752",
+      "subject": "健康科学研究科 その他専攻",
+      "subject_id": "7752729HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青森公立大学大学院",
+      "name_id": "7014",
+      "subject": "経営経済学研究科 経営経済学専攻",
+      "subject_id": "7014708631",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青森公立大学大学院",
+      "name_id": "7014",
+      "subject": "経営経済学研究科 その他専攻",
+      "subject_id": "7014708HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青森中央学院大学大学院",
+      "name_id": "7220",
+      "subject": "地域マネジメント研究科 地域マネジメント専攻",
+      "subject_id": "722023012L",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青森中央学院大学大学院",
+      "name_id": "7220",
+      "subject": "地域マネジメント研究科 その他専攻",
+      "subject_id": "7220230HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "会計プロフェッション研究科 会計プロフェッション専攻",
+      "subject_id": "732500R0OO",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "会計プロフェッション研究科 プロフェッショナル会計学専攻",
+      "subject_id": "732500R1OL",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "会計プロフェッション研究科 その他専攻",
+      "subject_id": "732500RHZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "総合文化政策学研究科 総合文化政策学専攻",
+      "subject_id": "732509R1ZN",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "総合文化政策学研究科 文化創造マネジメント専攻",
+      "subject_id": "732509R61L",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "総合文化政策学研究科 その他専攻",
+      "subject_id": "732509RHZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "教育人間科学研究科 教育学専攻",
+      "subject_id": "732511T3A5",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "教育人間科学研究科 心理学専攻",
+      "subject_id": "732511T5H2",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "教育人間科学研究科 その他専攻",
+      "subject_id": "732511THZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "法務研究科 法務専攻",
+      "subject_id": "73252194KN",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "法務研究科 その他専攻",
+      "subject_id": "7325219HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "国際マネジメント研究科 国際マネジメントサイエンス専攻",
+      "subject_id": "732560814K",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "国際マネジメント研究科 国際マネジメント専攻",
+      "subject_id": "73256084FN",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "国際マネジメント研究科 その他専攻",
+      "subject_id": "7325608HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "社会情報学研究科 社会情報学専攻",
+      "subject_id": "7325640HCS",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "社会情報学研究科 その他専攻",
+      "subject_id": "7325640HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "経営学研究科 経営学専攻",
+      "subject_id": "7325702619",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "経営学研究科 その他専攻",
+      "subject_id": "7325702HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "経済学研究科 公共・地域マネジメント専攻",
+      "subject_id": "73257141WR",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "経済学研究科 経済学専攻",
+      "subject_id": "73257143G6",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "経済学研究科 その他専攻",
+      "subject_id": "7325714HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "国際政治経済学研究科 国際コミュニケーション専攻",
+      "subject_id": "73257673Y4",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "国際政治経済学研究科 国際経済学専攻",
+      "subject_id": "73257674A6",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "国際政治経済学研究科 国際政治学専攻",
+      "subject_id": "73257674C0",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "国際政治経済学研究科 その他専攻",
+      "subject_id": "7325767HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "文学研究科 フランス文学・語学専攻",
+      "subject_id": "73259291L0",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "文学研究科 英米文学専攻",
+      "subject_id": "73259291V0",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "文学研究科 史学専攻",
+      "subject_id": "73259294J9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "文学研究科 日本文学・日本語専攻",
+      "subject_id": "73259297W7",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "文学研究科 比較芸術学専攻",
+      "subject_id": "7325929HMV",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "文学研究科 その他専攻",
+      "subject_id": "7325929HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "法学研究科 ビジネス法務専攻",
+      "subject_id": "73259420NM",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "法学研究科 公法専攻",
+      "subject_id": "73259423U1",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "法学研究科 私法専攻",
+      "subject_id": "73259424L3",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "法学研究科 その他専攻",
+      "subject_id": "7325942HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "理工学研究科 理工学専攻　基礎科学コース",
+      "subject_id": "732596343E",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "理工学研究科 理工学専攻　機能物質創成コース",
+      "subject_id": "732596343O",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "理工学研究科 理工学専攻　生命科学コース",
+      "subject_id": "732596343U",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "理工学研究科 理工学専攻　電気電子工学コース",
+      "subject_id": "732596343V",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "理工学研究科 理工学専攻　機械創造コース",
+      "subject_id": "732596343Y",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "理工学研究科 理工学専攻　知能情報コース",
+      "subject_id": "732596343Z",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "理工学研究科 理工学専攻　マネジメントテクノロジーコース",
+      "subject_id": "732596344D",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "理工学研究科 理工学専攻　化学コース",
+      "subject_id": "732596364U",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "理工学研究科 理工学専攻",
+      "subject_id": "7325963HOZ",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "青山学院大学大学院",
+      "name_id": "7325",
+      "subject": "理工学研究科 その他専攻",
+      "subject_id": "7325963HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田県立大学大学院",
+      "name_id": "7753",
+      "subject": "生物資源科学研究科 生物資源科学専攻",
+      "subject_id": "77533306G0",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田県立大学大学院",
+      "name_id": "7753",
+      "subject": "生物資源科学研究科 その他専攻",
+      "subject_id": "7753330HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田県立大学大学院",
+      "name_id": "7753",
+      "subject": "システム科学技術研究科 共同ライフサイクルデザイン工学専攻",
+      "subject_id": "775345740Z",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田県立大学大学院",
+      "name_id": "7753",
+      "subject": "システム科学技術研究科 機械知能システム学専攻",
+      "subject_id": "77534574PW",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田県立大学大学院",
+      "name_id": "7753",
+      "subject": "システム科学技術研究科 建築環境システム学専攻",
+      "subject_id": "77534574QN",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田県立大学大学院",
+      "name_id": "7753",
+      "subject": "システム科学技術研究科 経営システム工学専攻",
+      "subject_id": "7753457H9U",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田県立大学大学院",
+      "name_id": "7753",
+      "subject": "システム科学技術研究科 総合システム科学専攻",
+      "subject_id": "7753457HHW",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田県立大学大学院",
+      "name_id": "7753",
+      "subject": "システム科学技術研究科 電子情報システム学専攻",
+      "subject_id": "7753457HLV",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田県立大学大学院",
+      "name_id": "7753",
+      "subject": "システム科学技術研究科 その他専攻",
+      "subject_id": "7753457HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田公立美術大学大学院",
+      "name_id": "7189",
+      "subject": "複合芸術研究科 複合芸術専攻",
+      "subject_id": "7189400614",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田公立美術大学大学院",
+      "name_id": "7189",
+      "subject": "複合芸術研究科 その他専攻",
+      "subject_id": "7189400HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "工学資源学研究科 機械工学専攻",
+      "subject_id": "70174862W4",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "工学資源学研究科 機能物質工学専攻",
+      "subject_id": "70174862Y9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "工学資源学研究科 共同ライフサイクルデザイン工学専攻",
+      "subject_id": "701748640Z",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "工学資源学研究科 材料工学専攻",
+      "subject_id": "70174864F8",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "工学資源学研究科 資源学専攻",
+      "subject_id": "70174864SR",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "工学資源学研究科 地球資源学専攻",
+      "subject_id": "701748651S",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "工学資源学研究科 環境応用化学専攻",
+      "subject_id": "701748654P",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "工学資源学研究科 生産・建設工学専攻",
+      "subject_id": "70174865Y5",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "工学資源学研究科 生命科学専攻",
+      "subject_id": "70174866K0",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "工学資源学研究科 土木環境工学専攻",
+      "subject_id": "70174867Q3",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "工学資源学研究科 情報工学専攻",
+      "subject_id": "7017486HEQ",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "工学資源学研究科 電気電子工学専攻",
+      "subject_id": "7017486HKV",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "工学資源学研究科 電気電子情報システム工学専攻",
+      "subject_id": "7017486HKW",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "工学資源学研究科 その他専攻",
+      "subject_id": "7017486HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "医学系研究科 医科学専攻",
+      "subject_id": "70176631P8",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "医学系研究科 医学専攻",
+      "subject_id": "70176631Q0",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "医学系研究科 保健学専攻",
+      "subject_id": "70176638S0",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "医学系研究科 その他専攻",
+      "subject_id": "7017663HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "教育学研究科 教職実践専攻",
+      "subject_id": "701769724S",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "教育学研究科 学校教育専攻",
+      "subject_id": "70176972M1",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "教育学研究科 教科教育専攻",
+      "subject_id": "70176973B7",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "教育学研究科 心理教育実践専攻",
+      "subject_id": "701769791Q",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "教育学研究科 その他専攻",
+      "subject_id": "7017697HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "国際資源学研究科 資源学専攻",
+      "subject_id": "70177814SR",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "国際資源学研究科 資源地球科学専攻",
+      "subject_id": "701778180T",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "国際資源学研究科 資源開発環境学専攻",
+      "subject_id": "701778180U",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "国際資源学研究科 その他専攻",
+      "subject_id": "7017781HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "理工学研究科 共同ライフサイクルデザイン工学専攻",
+      "subject_id": "701796340Z",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "理工学研究科 生命科学専攻",
+      "subject_id": "70179636K0",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "理工学研究科 生命科学専攻　生命科学コース",
+      "subject_id": "7017963771",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "理工学研究科 数理・電気電子情報学専攻　数理科学コース",
+      "subject_id": "7017963777",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "理工学研究科 数理・電気電子情報学専攻　電気電子工学コース",
+      "subject_id": "7017963779",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "理工学研究科 数理・電気電子情報学専攻　人間情報工学コース",
+      "subject_id": "7017963788",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "理工学研究科 システムデザイン工学専攻　機械工学コース",
+      "subject_id": "7017963789",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "理工学研究科 システムデザイン工学専攻　創造生産工学コース",
+      "subject_id": "7017963793",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "理工学研究科 システムデザイン工学専攻　土木環境工学コース",
+      "subject_id": "7017963794",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "理工学研究科 物質科学専攻　応用化学コース",
+      "subject_id": "7017963795",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "理工学研究科 物質科学専攻　材料理工学コース",
+      "subject_id": "7017963799",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "理工学研究科 総合理工学専攻　生命科学領域",
+      "subject_id": "7017963806",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "理工学研究科 総合理工学専攻　物質科学領域",
+      "subject_id": "7017963809",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "理工学研究科 数理・電気電子情報学専攻",
+      "subject_id": "701796380V",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "理工学研究科 システムデザイン工学専攻",
+      "subject_id": "701796380W",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "理工学研究科 総合理工学専攻　数理・電気電子情報学領域",
+      "subject_id": "7017963811",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "理工学研究科 総合理工学専攻　システムデザイン工学領域",
+      "subject_id": "7017963813",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "理工学研究科 物質科学専攻",
+      "subject_id": "70179638H0",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "理工学研究科 総合理工学専攻",
+      "subject_id": "7017963HI8",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "秋田大学大学院",
+      "name_id": "7017",
+      "subject": "理工学研究科 その他専攻",
+      "subject_id": "7017963HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "旭川医科大学大学院",
+      "name_id": "7850",
+      "subject": "医学系研究科 医学専攻",
+      "subject_id": "78506631Q0",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "旭川医科大学大学院",
+      "name_id": "7850",
+      "subject": "医学系研究科 看護学専攻",
+      "subject_id": "78506632R9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "旭川医科大学大学院",
+      "name_id": "7850",
+      "subject": "医学系研究科 その他専攻",
+      "subject_id": "7850663HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "旭川大学大学院",
+      "name_id": "7201",
+      "subject": "地域政策研究科 地域政策専攻",
+      "subject_id": "72013357A3",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "旭川大学大学院",
+      "name_id": "7201",
+      "subject": "地域政策研究科 その他専攻",
+      "subject_id": "7201335HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "旭川大学大学院",
+      "name_id": "7201",
+      "subject": "経済学研究科 地域政策専攻",
+      "subject_id": "72017147A3",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "旭川大学大学院",
+      "name_id": "7201",
+      "subject": "経済学研究科 その他専攻",
+      "subject_id": "7201714HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "朝日大学大学院",
+      "name_id": "7478",
+      "subject": "経営学研究科 経営学専攻",
+      "subject_id": "7478702619",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "朝日大学大学院",
+      "name_id": "7478",
+      "subject": "経営学研究科 その他専攻",
+      "subject_id": "7478702HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "朝日大学大学院",
+      "name_id": "7478",
+      "subject": "歯学研究科 歯学専攻",
+      "subject_id": "74787734N2",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "朝日大学大学院",
+      "name_id": "7478",
+      "subject": "歯学研究科 その他専攻",
+      "subject_id": "7478773HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "朝日大学大学院",
+      "name_id": "7478",
+      "subject": "法学研究科 法学専攻",
+      "subject_id": "74789428T0",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "朝日大学大学院",
+      "name_id": "7478",
+      "subject": "法学研究科 その他専攻",
+      "subject_id": "7478942HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "麻布大学大学院",
+      "name_id": "7431",
+      "subject": "環境保健学研究科 環境保健科学専攻",
+      "subject_id": "74316912R8",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "麻布大学大学院",
+      "name_id": "7431",
+      "subject": "環境保健学研究科 環境衛生政策専攻",
+      "subject_id": "7431691A47",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "麻布大学大学院",
+      "name_id": "7431",
+      "subject": "環境保健学研究科 その他専攻",
+      "subject_id": "7431691HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "麻布大学大学院",
+      "name_id": "7431",
+      "subject": "獣医学研究科 獣医学専攻",
+      "subject_id": "74317904X4",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "麻布大学大学院",
+      "name_id": "7431",
+      "subject": "獣医学研究科 動物応用科学専攻",
+      "subject_id": "74317907R5",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "麻布大学大学院",
+      "name_id": "7431",
+      "subject": "獣医学研究科 その他専攻",
+      "subject_id": "7431790HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "足利工業大学大学院",
+      "name_id": "7251",
+      "subject": "工学研究科 建設・環境工学専攻",
+      "subject_id": "72517393M9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "足利工業大学大学院",
+      "name_id": "7251",
+      "subject": "工学研究科 情報・生産工学専攻",
+      "subject_id": "7251739HD3",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "足利工業大学大学院",
+      "name_id": "7251",
+      "subject": "工学研究科 その他専攻",
+      "subject_id": "7251739HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "足利大学大学院",
+      "name_id": "7209",
+      "subject": "工学研究科 建設・環境工学専攻",
+      "subject_id": "72097393M9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "足利大学大学院",
+      "name_id": "7209",
+      "subject": "工学研究科 情報・生産工学専攻",
+      "subject_id": "7209739HD3",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "足利大学大学院",
+      "name_id": "7209",
+      "subject": "工学研究科 その他専攻",
+      "subject_id": "7209739HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ア",
+      "name": "芦屋大学大学院",
+      "name_id": "7601",
+      "subject": "教育学研究科 英語英文学教育専攻",
+      "subject_id": "76016971T4",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "芦屋大学大学院",
+      "name_id": "7601",
+      "subject": "教育学研究科 技術教育専攻",
+      "subject_id": "76016972Z2",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "芦屋大学大学院",
+      "name_id": "7601",
+      "subject": "教育学研究科 教育学専攻",
+      "subject_id": "76016973A5",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "芦屋大学大学院",
+      "name_id": "7601",
+      "subject": "教育学研究科 その他専攻",
+      "subject_id": "7601697HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "亜細亜大学大学院",
+      "name_id": "7326",
+      "subject": "アジア・国際経営戦略研究科 アジア・国際経営戦略専攻",
+      "subject_id": "732603F0XN",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "亜細亜大学大学院",
+      "name_id": "7326",
+      "subject": "アジア・国際経営戦略研究科 その他専攻",
+      "subject_id": "732603FHZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "亜細亜大学大学院",
+      "name_id": "7326",
+      "subject": "経済学研究科 経済学専攻",
+      "subject_id": "73267143G6",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "亜細亜大学大学院",
+      "name_id": "7326",
+      "subject": "経済学研究科 その他専攻",
+      "subject_id": "7326714HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "亜細亜大学大学院",
+      "name_id": "7326",
+      "subject": "法学研究科 法律学専攻",
+      "subject_id": "73269428T5",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "亜細亜大学大学院",
+      "name_id": "7326",
+      "subject": "法学研究科 その他専攻",
+      "subject_id": "7326942HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "跡見学園女子大学大学院",
+      "name_id": "7301",
+      "subject": "マネジメント研究科 マネジメント専攻",
+      "subject_id": "73014613CC",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "跡見学園女子大学大学院",
+      "name_id": "7301",
+      "subject": "マネジメント研究科 その他専攻",
+      "subject_id": "7301461HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "跡見学園女子大学大学院",
+      "name_id": "7301",
+      "subject": "人文科学研究科 日本文化専攻",
+      "subject_id": "73018327W6",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "跡見学園女子大学大学院",
+      "name_id": "7301",
+      "subject": "人文科学研究科 臨床心理学専攻",
+      "subject_id": "73018329A0",
+      "bunri": "1"
+    },
+    {
+      "kana": "ア",
+      "name": "跡見学園女子大学大学院",
+      "name_id": "7301",
+      "subject": "人文科学研究科 その他専攻",
+      "subject_id": "7301832HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "石川県立看護大学大学院",
+      "name_id": "7921",
+      "subject": "看護学研究科 看護学専攻",
+      "subject_id": "79216922R9",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "石川県立看護大学大学院",
+      "name_id": "7921",
+      "subject": "看護学研究科 その他専攻",
+      "subject_id": "7921692HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "石川県立大学大学院",
+      "name_id": "7782",
+      "subject": "生物資源環境学研究科 応用生命科学専攻",
+      "subject_id": "778212E1Y7",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "石川県立大学大学院",
+      "name_id": "7782",
+      "subject": "生物資源環境学研究科 環境科学専攻",
+      "subject_id": "778212E2P0",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "石川県立大学大学院",
+      "name_id": "7782",
+      "subject": "生物資源環境学研究科 食品科学専攻",
+      "subject_id": "778212E375",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "石川県立大学大学院",
+      "name_id": "7782",
+      "subject": "生物資源環境学研究科 自然人間共生科学専攻",
+      "subject_id": "778212E58N",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "石川県立大学大学院",
+      "name_id": "7782",
+      "subject": "生物資源環境学研究科 生物機能開発科学専攻",
+      "subject_id": "778212E59Q",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "石川県立大学大学院",
+      "name_id": "7782",
+      "subject": "生物資源環境学研究科 生産科学専攻",
+      "subject_id": "778212E5Z2",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "石川県立大学大学院",
+      "name_id": "7782",
+      "subject": "生物資源環境学研究科 その他専攻",
+      "subject_id": "778212EHZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "石巻専修大学大学院",
+      "name_id": "7234",
+      "subject": "経営学研究科 経営学専攻",
+      "subject_id": "7234702619",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "石巻専修大学大学院",
+      "name_id": "7234",
+      "subject": "経営学研究科 その他専攻",
+      "subject_id": "7234702HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "石巻専修大学大学院",
+      "name_id": "7234",
+      "subject": "理工学研究科 機械システム工学専攻",
+      "subject_id": "72349632V3",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "石巻専修大学大学院",
+      "name_id": "7234",
+      "subject": "理工学研究科 生命科学専攻",
+      "subject_id": "72349636K0",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "石巻専修大学大学院",
+      "name_id": "7234",
+      "subject": "理工学研究科 生命環境科学専攻",
+      "subject_id": "72349636K1",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "石巻専修大学大学院",
+      "name_id": "7234",
+      "subject": "理工学研究科 物質機能工学専攻",
+      "subject_id": "72349638H4",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "石巻専修大学大学院",
+      "name_id": "7234",
+      "subject": "理工学研究科 物質工学専攻",
+      "subject_id": "72349638H8",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "石巻専修大学大学院",
+      "name_id": "7234",
+      "subject": "理工学研究科 その他専攻",
+      "subject_id": "7234963HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城キリスト教大学大学院",
+      "name_id": "7257",
+      "subject": "看護学研究科 看護学専攻",
+      "subject_id": "72576922R9",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城キリスト教大学大学院",
+      "name_id": "7257",
+      "subject": "看護学研究科 その他専攻",
+      "subject_id": "7257692HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城キリスト教大学大学院",
+      "name_id": "7257",
+      "subject": "生活科学研究科 食物健康科学専攻",
+      "subject_id": "725785636V",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城キリスト教大学大学院",
+      "name_id": "7257",
+      "subject": "生活科学研究科 その他専攻",
+      "subject_id": "7257856HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城キリスト教大学大学院",
+      "name_id": "7257",
+      "subject": "文学研究科 英語英米文学専攻",
+      "subject_id": "72579291T6",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城キリスト教大学大学院",
+      "name_id": "7257",
+      "subject": "文学研究科 教育学専攻",
+      "subject_id": "72579293A5",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城キリスト教大学大学院",
+      "name_id": "7257",
+      "subject": "文学研究科 その他専攻",
+      "subject_id": "7257929HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城県立医療大学大学院",
+      "name_id": "7870",
+      "subject": "保健医療科学研究科 看護学専攻",
+      "subject_id": "78706032R9",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城県立医療大学大学院",
+      "name_id": "7870",
+      "subject": "保健医療科学研究科 放射線技術科学専攻",
+      "subject_id": "78706034GW",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城県立医療大学大学院",
+      "name_id": "7870",
+      "subject": "保健医療科学研究科 保健医療科学専攻",
+      "subject_id": "7870603756",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城県立医療大学大学院",
+      "name_id": "7870",
+      "subject": "保健医療科学研究科 理学療法学・作業療法学専攻",
+      "subject_id": "78706039F2",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城県立医療大学大学院",
+      "name_id": "7870",
+      "subject": "保健医療科学研究科 その他専攻",
+      "subject_id": "7870603HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "教育学研究科 教育実践高度化専攻",
+      "subject_id": "70356971JX",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "教育学研究科 学校教育専攻",
+      "subject_id": "70356972M1",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "教育学研究科 教科教育専攻",
+      "subject_id": "70356973B7",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "教育学研究科 学校臨床心理専攻",
+      "subject_id": "703569740X",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "教育学研究科 障害児教育専攻",
+      "subject_id": "70356974Z0",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "教育学研究科 養護教育専攻",
+      "subject_id": "70356978W5",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "教育学研究科 その他専攻",
+      "subject_id": "7035697HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "人文科学研究科 社会科学専攻",
+      "subject_id": "70358324R3",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "人文科学研究科 文化科学専攻",
+      "subject_id": "70358328N1",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "人文科学研究科 その他専攻",
+      "subject_id": "7035832HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "人文社会科学研究科 社会科学専攻",
+      "subject_id": "70358384R3",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "人文社会科学研究科 文化科学専攻",
+      "subject_id": "70358388N1",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "人文社会科学研究科 その他専攻",
+      "subject_id": "7035838HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "農学研究科 資源生物科学専攻",
+      "subject_id": "70359104M2",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "農学研究科 生物生産科学専攻",
+      "subject_id": "70359106H2",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "農学研究科 地域環境科学専攻",
+      "subject_id": "70359106Y6",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "農学研究科 農学専攻",
+      "subject_id": "70359107X6",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "農学研究科 その他専攻",
+      "subject_id": "7035910HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "理工学研究科 応用粒子線科学専攻",
+      "subject_id": "70359630GZ",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "理工学研究科 宇宙地球システム科学専攻",
+      "subject_id": "70359631S0",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "理工学研究科 環境機能科学専攻",
+      "subject_id": "70359632P4",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "理工学研究科 機械システム工学専攻",
+      "subject_id": "70359632V3",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "理工学研究科 機械工学専攻",
+      "subject_id": "70359632W4",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "理工学研究科 生産科学専攻",
+      "subject_id": "70359635Z2",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "理工学研究科 都市システム工学専攻",
+      "subject_id": "70359637P3",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "理工学研究科 物質科学専攻",
+      "subject_id": "70359638H0",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "理工学研究科 物質工学専攻",
+      "subject_id": "70359638H8",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "理工学研究科 量子線科学専攻",
+      "subject_id": "703596391R",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "理工学研究科 複雑系システム科学専攻",
+      "subject_id": "703596391S",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "理工学研究科 社会インフラシステム科学専攻",
+      "subject_id": "703596391T",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "理工学研究科 メディア通信工学専攻",
+      "subject_id": "7035963H4Y",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "理工学研究科 情報・システム科学専攻",
+      "subject_id": "7035963HCX",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "理工学研究科 情報工学専攻",
+      "subject_id": "7035963HEQ",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "理工学研究科 知能システム工学専攻",
+      "subject_id": "7035963HJA",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "理工学研究科 電気電子システム工学専攻",
+      "subject_id": "7035963HKS",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "理工学研究科 電気電子工学専攻",
+      "subject_id": "7035963HKV",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "理工学研究科 理学専攻",
+      "subject_id": "7035963HOL",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "茨城大学大学院",
+      "name_id": "7035",
+      "subject": "理工学研究科 その他専攻",
+      "subject_id": "7035963HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "いわき明星大学大学院",
+      "name_id": "7242",
+      "subject": "人文学研究科 英米文学専攻",
+      "subject_id": "72428331V0",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "いわき明星大学大学院",
+      "name_id": "7242",
+      "subject": "人文学研究科 社会学専攻",
+      "subject_id": "72428334S7",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "いわき明星大学大学院",
+      "name_id": "7242",
+      "subject": "人文学研究科 日本文学専攻",
+      "subject_id": "72428337W8",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "いわき明星大学大学院",
+      "name_id": "7242",
+      "subject": "人文学研究科 臨床心理学専攻",
+      "subject_id": "72428339A0",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "いわき明星大学大学院",
+      "name_id": "7242",
+      "subject": "人文学研究科 その他専攻",
+      "subject_id": "7242833HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "いわき明星大学大学院",
+      "name_id": "7242",
+      "subject": "理工学研究科 物質理学専攻",
+      "subject_id": "72429638K0",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "いわき明星大学大学院",
+      "name_id": "7242",
+      "subject": "理工学研究科 物質理工学専攻",
+      "subject_id": "72429638K1",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "いわき明星大学大学院",
+      "name_id": "7242",
+      "subject": "理工学研究科 物理工学専攻",
+      "subject_id": "72429638L0",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "いわき明星大学大学院",
+      "name_id": "7242",
+      "subject": "理工学研究科 その他専攻",
+      "subject_id": "7242963HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手医科大学大学院",
+      "name_id": "7861",
+      "subject": "医学研究科 医科学専攻",
+      "subject_id": "78616641P8",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手医科大学大学院",
+      "name_id": "7861",
+      "subject": "医学研究科 外科系専攻",
+      "subject_id": "78616642K7",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手医科大学大学院",
+      "name_id": "7861",
+      "subject": "医学研究科 社会医学系専攻",
+      "subject_id": "78616644Q9",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手医科大学大学院",
+      "name_id": "7861",
+      "subject": "医学研究科 生理系専攻",
+      "subject_id": "78616646L3",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手医科大学大学院",
+      "name_id": "7861",
+      "subject": "医学研究科 内科系専攻",
+      "subject_id": "78616647T4",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手医科大学大学院",
+      "name_id": "7861",
+      "subject": "医学研究科 病理系専攻",
+      "subject_id": "78616648D9",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手医科大学大学院",
+      "name_id": "7861",
+      "subject": "医学研究科 その他専攻",
+      "subject_id": "7861664HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手医科大学大学院",
+      "name_id": "7861",
+      "subject": "歯学研究科 歯学専攻",
+      "subject_id": "78617734N2",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手医科大学大学院",
+      "name_id": "7861",
+      "subject": "歯学研究科 その他専攻",
+      "subject_id": "7861773HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手医科大学大学院",
+      "name_id": "7861",
+      "subject": "薬学研究科 薬科学専攻",
+      "subject_id": "786195507C",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手医科大学大学院",
+      "name_id": "7861",
+      "subject": "薬学研究科 医療薬学専攻",
+      "subject_id": "78619551R8",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手医科大学大学院",
+      "name_id": "7861",
+      "subject": "薬学研究科 その他専攻",
+      "subject_id": "7861955HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手県立大学大学院",
+      "name_id": "7018",
+      "subject": "ソフトウェア情報学研究科 ソフトウェア情報学専攻",
+      "subject_id": "7018306H2V",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手県立大学大学院",
+      "name_id": "7018",
+      "subject": "ソフトウェア情報学研究科 その他専攻",
+      "subject_id": "7018306HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手県立大学大学院",
+      "name_id": "7018",
+      "subject": "看護学研究科 看護学専攻",
+      "subject_id": "70186922R9",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手県立大学大学院",
+      "name_id": "7018",
+      "subject": "看護学研究科 その他専攻",
+      "subject_id": "7018692HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手県立大学大学院",
+      "name_id": "7018",
+      "subject": "社会福祉学研究科 社会福祉学専攻",
+      "subject_id": "70187834V3",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手県立大学大学院",
+      "name_id": "7018",
+      "subject": "社会福祉学研究科 その他専攻",
+      "subject_id": "7018783HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手県立大学大学院",
+      "name_id": "7018",
+      "subject": "総合政策研究科 総合政策専攻",
+      "subject_id": "70188786S1",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手県立大学大学院",
+      "name_id": "7018",
+      "subject": "総合政策研究科 その他専攻",
+      "subject_id": "7018878HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "教育学研究科 教職実践専攻",
+      "subject_id": "701669724S",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "教育学研究科 教科教育専攻",
+      "subject_id": "70166973B7",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "教育学研究科 学校教育実践専攻",
+      "subject_id": "701669756C",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "教育学研究科 その他専攻",
+      "subject_id": "7016697HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "工学研究科 フロンティア材料機能工学専攻",
+      "subject_id": "70167390G9",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "工学研究科 金型・鋳造工学専攻",
+      "subject_id": "701673911L",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "工学研究科 社会環境工学専攻",
+      "subject_id": "701673915I",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "工学研究科 機械システム工学専攻",
+      "subject_id": "70167392V3",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "工学研究科 フロンティア物質機能工学専攻",
+      "subject_id": "701673963M",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "工学研究科 応用化学・生命工学専攻",
+      "subject_id": "701673963N",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "工学研究科 機械・社会環境システム工学専攻",
+      "subject_id": "701673963O",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "工学研究科 デザイン・メディア工学専攻",
+      "subject_id": "7016739HPZ",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "工学研究科 電気電子・情報システム工学専攻",
+      "subject_id": "7016739HQC",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "工学研究科 その他専攻",
+      "subject_id": "7016739HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "獣医学研究科 共同獣医学専攻",
+      "subject_id": "701679001Z",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "獣医学研究科 その他専攻",
+      "subject_id": "7016790HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "人文社会科学研究科 社会・環境システム専攻",
+      "subject_id": "70168380IC",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "人文社会科学研究科 国際文化学専攻",
+      "subject_id": "70168384D1",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "人文社会科学研究科 人間科学専攻",
+      "subject_id": "70168385K0",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "人文社会科学研究科 その他専攻",
+      "subject_id": "7016838HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "総合科学研究科 総合文化学専攻",
+      "subject_id": "7016874262",
+      "bunri": "1"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "総合科学研究科 地域創生専攻",
+      "subject_id": "701687469W",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "総合科学研究科 農学専攻",
+      "subject_id": "70168747X6",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "総合科学研究科 理工学専攻",
+      "subject_id": "7016874HOZ",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "総合科学研究科 その他専攻",
+      "subject_id": "7016874HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "農学研究科 応用生物化学専攻",
+      "subject_id": "70169101Y1",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "農学研究科 バイオフロンティア専攻",
+      "subject_id": "701691028Z",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "農学研究科 共生環境専攻",
+      "subject_id": "701691056U",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "農学研究科 動物科学専攻",
+      "subject_id": "701691060U",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "農学研究科 農学生命専攻",
+      "subject_id": "701691060W",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "農学研究科 その他専攻",
+      "subject_id": "7016910HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "理工学研究科 自然・応用科学専攻",
+      "subject_id": "701696353T",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "理工学研究科 システム創生工学専攻",
+      "subject_id": "7016963H22",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "理工学研究科 デザイン・メディア工学専攻",
+      "subject_id": "7016963HPZ",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "理工学研究科 その他専攻",
+      "subject_id": "7016963HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "連合農学研究科 地域環境創生学専攻",
+      "subject_id": "701697307W",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "連合農学研究科 寒冷圏生命システム学専攻",
+      "subject_id": "701697310N",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "連合農学研究科 生物環境科学専攻",
+      "subject_id": "70169736D8",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "連合農学研究科 生物資源科学専攻",
+      "subject_id": "70169736G0",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "連合農学研究科 生物生産科学専攻",
+      "subject_id": "70169736H2",
+      "bunri": "2"
+    },
+    {
+      "kana": "イ",
+      "name": "岩手大学大学院",
+      "name_id": "7016",
+      "subject": "連合農学研究科 その他専攻",
+      "subject_id": "7016973HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ウ",
+      "name": "宇都宮大学大学院",
+      "name_id": "7031",
+      "subject": "教育学研究科 教育実践高度化専攻",
+      "subject_id": "70316971JX",
+      "bunri": "1"
+    },
+    {
+      "kana": "ウ",
+      "name": "宇都宮大学大学院",
+      "name_id": "7031",
+      "subject": "教育学研究科 学校教育専攻",
+      "subject_id": "70316972M1",
+      "bunri": "1"
+    },
+    {
+      "kana": "ウ",
+      "name": "宇都宮大学大学院",
+      "name_id": "7031",
+      "subject": "教育学研究科 その他専攻",
+      "subject_id": "7031697HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ウ",
+      "name": "宇都宮大学大学院",
+      "name_id": "7031",
+      "subject": "工学研究科 物質環境化学専攻",
+      "subject_id": "70317390WJ",
+      "bunri": "2"
+    },
+    {
+      "kana": "ウ",
+      "name": "宇都宮大学大学院",
+      "name_id": "7031",
+      "subject": "工学研究科 地球環境デザイン学専攻",
+      "subject_id": "70317391ZU",
+      "bunri": "2"
+    },
+    {
+      "kana": "ウ",
+      "name": "宇都宮大学大学院",
+      "name_id": "7031",
+      "subject": "工学研究科 機械知能工学専攻",
+      "subject_id": "70317392X1",
+      "bunri": "2"
+    },
+    {
+      "kana": "ウ",
+      "name": "宇都宮大学大学院",
+      "name_id": "7031",
+      "subject": "工学研究科 先端光工学専攻",
+      "subject_id": "703173982K",
+      "bunri": "2"
+    },
+    {
+      "kana": "ウ",
+      "name": "宇都宮大学大学院",
+      "name_id": "7031",
+      "subject": "工学研究科 システム創成工学専攻",
+      "subject_id": "7031739H1Z",
+      "bunri": "2"
+    },
+    {
+      "kana": "ウ",
+      "name": "宇都宮大学大学院",
+      "name_id": "7031",
+      "subject": "工学研究科 情報システム科学専攻",
+      "subject_id": "7031739HDC",
+      "bunri": "2"
+    },
+    {
+      "kana": "ウ",
+      "name": "宇都宮大学大学院",
+      "name_id": "7031",
+      "subject": "工学研究科 電気電子システム工学専攻",
+      "subject_id": "7031739HKS",
+      "bunri": "2"
+    },
+    {
+      "kana": "ウ",
+      "name": "宇都宮大学大学院",
+      "name_id": "7031",
+      "subject": "工学研究科 その他専攻",
+      "subject_id": "7031739HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ウ",
+      "name": "宇都宮大学大学院",
+      "name_id": "7031",
+      "subject": "国際学研究科 国際交流研究専攻",
+      "subject_id": "70317570HW",
+      "bunri": "1"
+    },
+    {
+      "kana": "ウ",
+      "name": "宇都宮大学大学院",
+      "name_id": "7031",
+      "subject": "国際学研究科 国際学研究専攻",
+      "subject_id": "70317571KH",
+      "bunri": "1"
+    },
+    {
+      "kana": "ウ",
+      "name": "宇都宮大学大学院",
+      "name_id": "7031",
+      "subject": "国際学研究科 国際文化研究専攻",
+      "subject_id": "70317574D3",
+      "bunri": "1"
+    },
+    {
+      "kana": "ウ",
+      "name": "宇都宮大学大学院",
+      "name_id": "7031",
+      "subject": "国際学研究科 国際社会研究専攻",
+      "subject_id": "7031757951",
+      "bunri": "1"
+    },
+    {
+      "kana": "ウ",
+      "name": "宇都宮大学大学院",
+      "name_id": "7031",
+      "subject": "国際学研究科 その他専攻",
+      "subject_id": "7031757HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "ウ",
+      "name": "宇都宮大学大学院",
+      "name_id": "7031",
+      "subject": "農学研究科 森林科学専攻",
+      "subject_id": "70319105H5",
+      "bunri": "2"
+    },
+    {
+      "kana": "ウ",
+      "name": "宇都宮大学大学院",
+      "name_id": "7031",
+      "subject": "農学研究科 生物生産科学専攻",
+      "subject_id": "70319106H2",
+      "bunri": "2"
+    },
+    {
+      "kana": "ウ",
+      "name": "宇都宮大学大学院",
+      "name_id": "7031",
+      "subject": "農学研究科 農業環境工学専攻",
+      "subject_id": "70319107Y0",
+      "bunri": "2"
+    },
+    {
+      "kana": "ウ",
+      "name": "宇都宮大学大学院",
+      "name_id": "7031",
+      "subject": "農学研究科 農業経済学専攻",
+      "subject_id": "70319107Y2",
+      "bunri": "2"
+    },
+    {
+      "kana": "ウ",
+      "name": "宇都宮大学大学院",
+      "name_id": "7031",
+      "subject": "農学研究科 その他専攻",
+      "subject_id": "7031910HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ウ",
+      "name": "宇都宮大学大学院",
+      "name_id": "7031",
+      "subject": "地域創生科学研究科 社会デザイン科学専攻",
+      "subject_id": "703194655N",
+      "bunri": "2"
+    },
+    {
+      "kana": "ウ",
+      "name": "宇都宮大学大学院",
+      "name_id": "7031",
+      "subject": "地域創生科学研究科 工農総合科学専攻",
+      "subject_id": "703194656O",
+      "bunri": "2"
+    },
+    {
+      "kana": "ウ",
+      "name": "宇都宮大学大学院",
+      "name_id": "7031",
+      "subject": "地域創生科学研究科 その他専攻",
+      "subject_id": "7031946HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "ウ",
+      "name": "宇部フロンティア大学大学院",
+      "name_id": "7667",
+      "subject": "人間科学研究科 臨床心理学専攻",
+      "subject_id": "76678239A0",
+      "bunri": "1"
+    },
+    {
+      "kana": "ウ",
+      "name": "宇部フロンティア大学大学院",
+      "name_id": "7667",
+      "subject": "人間科学研究科 その他専攻",
+      "subject_id": "7667823HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "エ",
+      "name": "ＳＢＩ大学院大学",
+      "name_id": "7728",
+      "subject": "経営管理研究科 アントレプレナー専攻",
+      "subject_id": "77287070F9",
+      "bunri": "1"
+    },
+    {
+      "kana": "エ",
+      "name": "ＳＢＩ大学院大学",
+      "name_id": "7728",
+      "subject": "経営管理研究科 その他専攻",
+      "subject_id": "7728707HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛県立医療技術大学大学院",
+      "name_id": "7197",
+      "subject": "保健医療学研究科 看護学専攻",
+      "subject_id": "71976492R9",
+      "bunri": "2"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛県立医療技術大学大学院",
+      "name_id": "7197",
+      "subject": "保健医療学研究科 医療技術科学専攻",
+      "subject_id": "719764975C",
+      "bunri": "2"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛県立医療技術大学大学院",
+      "name_id": "7197",
+      "subject": "保健医療学研究科 その他専攻",
+      "subject_id": "7197649HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "法文学研究科 人文科学専攻",
+      "subject_id": "714963908L",
+      "bunri": "1"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "法文学研究科 総合法政策専攻",
+      "subject_id": "714963909G",
+      "bunri": "1"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "法文学研究科 その他専攻",
+      "subject_id": "7149639HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "医学系研究科 医学専攻",
+      "subject_id": "71496631Q0",
+      "bunri": "2"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "医学系研究科 看護学専攻",
+      "subject_id": "71496632R9",
+      "bunri": "2"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "医学系研究科 その他専攻",
+      "subject_id": "7149663HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "教育学研究科 特別支援教育専攻",
+      "subject_id": "71496970LM",
+      "bunri": "1"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "教育学研究科 教育実践高度化専攻",
+      "subject_id": "71496971JX",
+      "bunri": "1"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "教育学研究科 学校教育専攻",
+      "subject_id": "71496972M1",
+      "bunri": "1"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "教育学研究科 教科教育専攻",
+      "subject_id": "71496973B7",
+      "bunri": "1"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "教育学研究科 学校臨床心理専攻",
+      "subject_id": "714969740X",
+      "bunri": "1"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "教育学研究科 その他専攻",
+      "subject_id": "7149697HZ9",
+      "bunri": "1"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "農学研究科 生物環境学専攻",
+      "subject_id": "71499106D9",
+      "bunri": "2"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "農学研究科 生物資源学専攻",
+      "subject_id": "71499106G3",
+      "bunri": "2"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "農学研究科 食料生産学専攻",
+      "subject_id": "714991092Q",
+      "bunri": "2"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "農学研究科 生命機能学専攻",
+      "subject_id": "7149910954",
+      "bunri": "2"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "農学研究科 その他専攻",
+      "subject_id": "7149910HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "理工学研究科 数理物質科学専攻",
+      "subject_id": "714996316U",
+      "bunri": "2"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "理工学研究科 環境機能科学専攻",
+      "subject_id": "71499632P4",
+      "bunri": "2"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "理工学研究科 生産環境工学専攻",
+      "subject_id": "71499635Z9",
+      "bunri": "2"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "理工学研究科 物質生命工学専攻",
+      "subject_id": "7149963988",
+      "bunri": "2"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "理工学研究科 電子情報工学専攻",
+      "subject_id": "7149963HMA",
+      "bunri": "2"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "理工学研究科 その他専攻",
+      "subject_id": "7149963HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "連合農学研究科 生物資源生産学専攻",
+      "subject_id": "71499736G6",
+      "bunri": "2"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "連合農学研究科 生物資源利用学専攻",
+      "subject_id": "71499736G8",
+      "bunri": "2"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "連合農学研究科 生物環境保全学専攻",
+      "subject_id": "7149973704",
+      "bunri": "2"
+    },
+    {
+      "kana": "エ",
+      "name": "愛媛大学大学院",
+      "name_id": "7149",
+      "subject": "連合農学研究科 その他専攻",
+      "subject_id": "7149973HZ9",
+      "bunri": "2"
+    },
+    {
+      "kana": "エ",
+      "name": "エリザベト音楽大学大学院",
+      "name_id": "7955",
+      "subject": "音楽研究科 音楽学専攻",
+      "subject_id": "7955676H7J",
+      "bunri": "1"
+    },
+    {
+      "kana": "エ",
+      "name": "エリザベト音楽大学大学院",
+      "name_id": "7955",
+      "subject": "音楽研究科 音楽専攻",
+      "subject_id": "7955676H7X",
+      "bunri": "1"
+    },
+    {
+      "kana": "エ",
+      "name": "エリザベト音楽大学大学院",
+      "name_id": "7955",
+      "subject": "音楽研究科 器楽専攻",
+      "subject_id": "7955676H97",
+      "bunri": "1"
+    },
+    {
+      "kana": "エ",
+      "name": "エリザベト音楽大学大学院",
+      "name_id": "7955",
+      "subject": "音楽研究科 宗教音楽学専攻",
+      "subject_id": "7955676HCV",
+      "bunri": "1"
+    },
+    {
+      "kana": "エ",
+      "name": "エリザベト音楽大学大学院",
+      "name_id": "7955",
+      "subject": "音楽研究科 声楽専攻",
+      "subject_id": "7955676HHC",
+      "bunri": "1"
+    },
+    {
+      "kana": "エ",
+      "name": "エリザベト音楽大学大学院",
+      "name_id": "7955",
+      "subject": "音楽研究科 その他専攻",
+      "subject_id": "7955676HZ9",
+      "bunri": "1"
+    }
+  ],
+  "meta": {
+    "title": "日本の大学院（博士課程）専攻一覧 (Japan — Doctoral Graduate-School Programs) - 無料ダウンロード",
+    "description": "日本の大学院（博士課程）の専攻一覧。各レコードは大学院名（name）・学校コード（name_id）・専攻名（subject）・専攻コード（subject_id）・文理区分（bunri）・かな読み（kana）を収録。出典 abekdwight/japanese-universities-list。※出典データはかな行 ア・イ・ウ・エ のみ収録の部分リストであり、本データセットも同範囲。 List of doctoral (博士課程) graduate-school programs (専攻) in Japan; native Japanese graduate-school and program names carried verbatim from source. Source is a partial scrape covering only the kana initials ア/イ/ウ/エ. 収録数 466 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "日本の大学院（博士課程）専攻一覧 (Japan — Doctoral Graduate-School Programs) | ListBase",
+    "seo_description": "ダウンロード 日本の大学院（博士課程）専攻一覧 (Japan — Doctoral Graduate-School Programs) — 466 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 466 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

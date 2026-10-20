@@ -1,0 +1,248 @@
+{
+  "id": "ja-tokushima-municipalities",
+  "name": "徳島県の市区町村一覧 (Municipalities of Tokushima — JIS X 0402)",
+  "title": "徳島県の市区町村一覧 (Municipalities of Tokushima — JIS X 0402)",
+  "description": "徳島県 (Tokushima Prefecture) の市区町村一覧 24 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 24 active municipalities (cities/wards/towns/villages) of Tokushima Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "36201",
+      "prefecture_code": "36",
+      "prefecture": "徳島県",
+      "prefecture_kana": "トクシマケン",
+      "city": "徳島市",
+      "city_kana": "トクシマシ"
+    },
+    {
+      "jisx0402": "36202",
+      "prefecture_code": "36",
+      "prefecture": "徳島県",
+      "prefecture_kana": "トクシマケン",
+      "city": "鳴門市",
+      "city_kana": "ナルトシ"
+    },
+    {
+      "jisx0402": "36203",
+      "prefecture_code": "36",
+      "prefecture": "徳島県",
+      "prefecture_kana": "トクシマケン",
+      "city": "小松島市",
+      "city_kana": "コマツシマシ"
+    },
+    {
+      "jisx0402": "36204",
+      "prefecture_code": "36",
+      "prefecture": "徳島県",
+      "prefecture_kana": "トクシマケン",
+      "city": "阿南市",
+      "city_kana": "アナンシ"
+    },
+    {
+      "jisx0402": "36205",
+      "prefecture_code": "36",
+      "prefecture": "徳島県",
+      "prefecture_kana": "トクシマケン",
+      "city": "吉野川市",
+      "city_kana": "ヨシノガワシ"
+    },
+    {
+      "jisx0402": "36206",
+      "prefecture_code": "36",
+      "prefecture": "徳島県",
+      "prefecture_kana": "トクシマケン",
+      "city": "阿波市",
+      "city_kana": "アワシ"
+    },
+    {
+      "jisx0402": "36207",
+      "prefecture_code": "36",
+      "prefecture": "徳島県",
+      "prefecture_kana": "トクシマケン",
+      "city": "美馬市",
+      "city_kana": "ミマシ"
+    },
+    {
+      "jisx0402": "36208",
+      "prefecture_code": "36",
+      "prefecture": "徳島県",
+      "prefecture_kana": "トクシマケン",
+      "city": "三好市",
+      "city_kana": "ミヨシシ"
+    },
+    {
+      "jisx0402": "36301",
+      "prefecture_code": "36",
+      "prefecture": "徳島県",
+      "prefecture_kana": "トクシマケン",
+      "city": "勝浦郡勝浦町",
+      "city_kana": "カツウラグンカツウラチョウ"
+    },
+    {
+      "jisx0402": "36302",
+      "prefecture_code": "36",
+      "prefecture": "徳島県",
+      "prefecture_kana": "トクシマケン",
+      "city": "勝浦郡上勝町",
+      "city_kana": "カツウラグンカミカツチョウ"
+    },
+    {
+      "jisx0402": "36321",
+      "prefecture_code": "36",
+      "prefecture": "徳島県",
+      "prefecture_kana": "トクシマケン",
+      "city": "名東郡佐那河内村",
+      "city_kana": "ミョウドウグンサナゴウチソン"
+    },
+    {
+      "jisx0402": "36341",
+      "prefecture_code": "36",
+      "prefecture": "徳島県",
+      "prefecture_kana": "トクシマケン",
+      "city": "名西郡石井町",
+      "city_kana": "ミョウザイグンイシイチョウ"
+    },
+    {
+      "jisx0402": "36342",
+      "prefecture_code": "36",
+      "prefecture": "徳島県",
+      "prefecture_kana": "トクシマケン",
+      "city": "名西郡神山町",
+      "city_kana": "ミョウザイグンカミヤマチョウ"
+    },
+    {
+      "jisx0402": "36368",
+      "prefecture_code": "36",
+      "prefecture": "徳島県",
+      "prefecture_kana": "トクシマケン",
+      "city": "那賀郡那賀町",
+      "city_kana": "ナカグンナカチョウ"
+    },
+    {
+      "jisx0402": "36383",
+      "prefecture_code": "36",
+      "prefecture": "徳島県",
+      "prefecture_kana": "トクシマケン",
+      "city": "海部郡牟岐町",
+      "city_kana": "カイフグンムギチョウ"
+    },
+    {
+      "jisx0402": "36387",
+      "prefecture_code": "36",
+      "prefecture": "徳島県",
+      "prefecture_kana": "トクシマケン",
+      "city": "海部郡美波町",
+      "city_kana": "カイフグンミナミチョウ"
+    },
+    {
+      "jisx0402": "36388",
+      "prefecture_code": "36",
+      "prefecture": "徳島県",
+      "prefecture_kana": "トクシマケン",
+      "city": "海部郡海陽町",
+      "city_kana": "カイフグンカイヨウチョウ"
+    },
+    {
+      "jisx0402": "36401",
+      "prefecture_code": "36",
+      "prefecture": "徳島県",
+      "prefecture_kana": "トクシマケン",
+      "city": "板野郡松茂町",
+      "city_kana": "イタノグンマツシゲチョウ"
+    },
+    {
+      "jisx0402": "36402",
+      "prefecture_code": "36",
+      "prefecture": "徳島県",
+      "prefecture_kana": "トクシマケン",
+      "city": "板野郡北島町",
+      "city_kana": "イタノグンキタジマチョウ"
+    },
+    {
+      "jisx0402": "36403",
+      "prefecture_code": "36",
+      "prefecture": "徳島県",
+      "prefecture_kana": "トクシマケン",
+      "city": "板野郡藍住町",
+      "city_kana": "イタノグンアイズミチョウ"
+    },
+    {
+      "jisx0402": "36404",
+      "prefecture_code": "36",
+      "prefecture": "徳島県",
+      "prefecture_kana": "トクシマケン",
+      "city": "板野郡板野町",
+      "city_kana": "イタノグンイタノチョウ"
+    },
+    {
+      "jisx0402": "36405",
+      "prefecture_code": "36",
+      "prefecture": "徳島県",
+      "prefecture_kana": "トクシマケン",
+      "city": "板野郡上板町",
+      "city_kana": "イタノグンカミイタチョウ"
+    },
+    {
+      "jisx0402": "36468",
+      "prefecture_code": "36",
+      "prefecture": "徳島県",
+      "prefecture_kana": "トクシマケン",
+      "city": "美馬郡つるぎ町",
+      "city_kana": "ミマグンツルギチョウ"
+    },
+    {
+      "jisx0402": "36489",
+      "prefecture_code": "36",
+      "prefecture": "徳島県",
+      "prefecture_kana": "トクシマケン",
+      "city": "三好郡東みよし町",
+      "city_kana": "ミヨシグンヒガシミヨシチョウ"
+    }
+  ],
+  "meta": {
+    "title": "徳島県の市区町村一覧 (Municipalities of Tokushima — JIS X 0402) - 無料ダウンロード",
+    "description": "徳島県 (Tokushima Prefecture) の市区町村一覧 24 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 24 active municipalities (cities/wards/towns/villages) of Tokushima Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 24 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "徳島県の市区町村一覧 (Municipalities of Tokushima — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 徳島県の市区町村一覧 (Municipalities of Tokushima — JIS X 0402) — 24 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 24 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

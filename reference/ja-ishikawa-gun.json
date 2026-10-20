@@ -1,0 +1,146 @@
+{
+  "id": "ja-ishikawa-gun",
+  "name": "石川県の郡一覧 (Ishikawa Prefecture — counties)",
+  "title": "石川県の郡一覧 (Ishikawa Prefecture — counties)",
+  "description": "石川県に属する郡（ぐん）の一覧（5件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Ishikawa Prefecture.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_hira",
+      "label": "Name Hira",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_short_ja",
+      "label": "Name Short Ja",
+      "type": "string"
+    },
+    {
+      "key": "name_short_en",
+      "label": "Name Short En",
+      "type": "string"
+    },
+    {
+      "key": "pref_code",
+      "label": "Pref Code",
+      "type": "number"
+    },
+    {
+      "key": "pref_name",
+      "label": "Pref Name",
+      "type": "string"
+    },
+    {
+      "key": "pref_name_en",
+      "label": "Pref Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ja",
+      "label": "Type Ja",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "17320",
+      "name": "能美郡",
+      "name_hira": "のみぐん",
+      "name_en": "Nomi County",
+      "name_short_ja": "能美",
+      "name_short_en": "Nomi",
+      "pref_code": "17",
+      "pref_name": "石川県",
+      "pref_name_en": "Ishikawa Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "17360",
+      "name": "河北郡",
+      "name_hira": "かほくぐん",
+      "name_en": "Kahoku County",
+      "name_short_ja": "河北",
+      "name_short_en": "Kahoku",
+      "pref_code": "17",
+      "pref_name": "石川県",
+      "pref_name_en": "Ishikawa Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "17380",
+      "name": "羽咋郡",
+      "name_hira": "はくいぐん",
+      "name_en": "Hakui County",
+      "name_short_ja": "羽咋",
+      "name_short_en": "Hakui",
+      "pref_code": "17",
+      "pref_name": "石川県",
+      "pref_name_en": "Ishikawa Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "17400",
+      "name": "鹿島郡",
+      "name_hira": "かしまぐん",
+      "name_en": "Kashima County",
+      "name_short_ja": "鹿島",
+      "name_short_en": "Kashima",
+      "pref_code": "17",
+      "pref_name": "石川県",
+      "pref_name_en": "Ishikawa Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "17460",
+      "name": "鳳珠郡",
+      "name_hira": "ほうすぐん",
+      "name_en": "Hosu County",
+      "name_short_ja": "鳳珠",
+      "name_short_en": "Hosu",
+      "pref_code": "17",
+      "pref_name": "石川県",
+      "pref_name_en": "Ishikawa Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    }
+  ],
+  "meta": {
+    "title": "石川県の郡一覧 (Ishikawa Prefecture — counties) - 無料ダウンロード",
+    "description": "石川県に属する郡（ぐん）の一覧（5件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Ishikawa Prefecture. 収録数 5 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "石川県の郡一覧 (Ishikawa Prefecture — counties) | ListBase",
+    "seo_description": "ダウンロード 石川県の郡一覧 (Ishikawa Prefecture — counties) — 5 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 5 件 / 11 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

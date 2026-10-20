@@ -1,0 +1,272 @@
+{
+  "id": "ja-yamanashi-municipalities",
+  "name": "山梨県の市区町村一覧 (Municipalities of Yamanashi — JIS X 0402)",
+  "title": "山梨県の市区町村一覧 (Municipalities of Yamanashi — JIS X 0402)",
+  "description": "山梨県 (Yamanashi Prefecture) の市区町村一覧 27 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 27 active municipalities (cities/wards/towns/villages) of Yamanashi Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "19201",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "甲府市",
+      "city_kana": "コウフシ"
+    },
+    {
+      "jisx0402": "19202",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "富士吉田市",
+      "city_kana": "フジヨシダシ"
+    },
+    {
+      "jisx0402": "19204",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "都留市",
+      "city_kana": "ツルシ"
+    },
+    {
+      "jisx0402": "19205",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "山梨市",
+      "city_kana": "ヤマナシシ"
+    },
+    {
+      "jisx0402": "19206",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "大月市",
+      "city_kana": "オオツキシ"
+    },
+    {
+      "jisx0402": "19207",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "韮崎市",
+      "city_kana": "ニラサキシ"
+    },
+    {
+      "jisx0402": "19208",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "南アルプス市",
+      "city_kana": "ミナミアルプスシ"
+    },
+    {
+      "jisx0402": "19209",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "北杜市",
+      "city_kana": "ホクトシ"
+    },
+    {
+      "jisx0402": "19210",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "甲斐市",
+      "city_kana": "カイシ"
+    },
+    {
+      "jisx0402": "19211",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "笛吹市",
+      "city_kana": "フエフキシ"
+    },
+    {
+      "jisx0402": "19212",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "上野原市",
+      "city_kana": "ウエノハラシ"
+    },
+    {
+      "jisx0402": "19213",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "甲州市",
+      "city_kana": "コウシュウシ"
+    },
+    {
+      "jisx0402": "19214",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "中央市",
+      "city_kana": "チュウオウシ"
+    },
+    {
+      "jisx0402": "19346",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "西八代郡市川三郷町",
+      "city_kana": "ニシヤツシログンイチカワミサトチョウ"
+    },
+    {
+      "jisx0402": "19364",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "南巨摩郡早川町",
+      "city_kana": "ミナミコマグンハヤカワチョウ"
+    },
+    {
+      "jisx0402": "19365",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "南巨摩郡身延町",
+      "city_kana": "ミナミコマグンミノブチョウ"
+    },
+    {
+      "jisx0402": "19366",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "南巨摩郡南部町",
+      "city_kana": "ミナミコマグンナンブチョウ"
+    },
+    {
+      "jisx0402": "19368",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "南巨摩郡富士川町",
+      "city_kana": "ミナミコマグンフジカワチョウ"
+    },
+    {
+      "jisx0402": "19384",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "中巨摩郡昭和町",
+      "city_kana": "ナカコマグンショウワチョウ"
+    },
+    {
+      "jisx0402": "19422",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "南都留郡道志村",
+      "city_kana": "ミナミツルグンドウシムラ"
+    },
+    {
+      "jisx0402": "19423",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "南都留郡西桂町",
+      "city_kana": "ミナミツルグンニシカツラチョウ"
+    },
+    {
+      "jisx0402": "19424",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "南都留郡忍野村",
+      "city_kana": "ミナミツルグンオシノムラ"
+    },
+    {
+      "jisx0402": "19425",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "南都留郡山中湖村",
+      "city_kana": "ミナミツルグンヤマナカコムラ"
+    },
+    {
+      "jisx0402": "19429",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "南都留郡鳴沢村",
+      "city_kana": "ミナミツルグンナルサワムラ"
+    },
+    {
+      "jisx0402": "19430",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "南都留郡富士河口湖町",
+      "city_kana": "ミナミツルグンフジカワグチコマチ"
+    },
+    {
+      "jisx0402": "19442",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "北都留郡小菅村",
+      "city_kana": "キタツルグンコスゲムラ"
+    },
+    {
+      "jisx0402": "19443",
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_kana": "ヤマナシケン",
+      "city": "北都留郡丹波山村",
+      "city_kana": "キタツルグンタバヤマムラ"
+    }
+  ],
+  "meta": {
+    "title": "山梨県の市区町村一覧 (Municipalities of Yamanashi — JIS X 0402) - 無料ダウンロード",
+    "description": "山梨県 (Yamanashi Prefecture) の市区町村一覧 27 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 27 active municipalities (cities/wards/towns/villages) of Yamanashi Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 27 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "山梨県の市区町村一覧 (Municipalities of Yamanashi — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 山梨県の市区町村一覧 (Municipalities of Yamanashi — JIS X 0402) — 27 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 27 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

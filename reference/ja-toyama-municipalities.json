@@ -1,0 +1,176 @@
+{
+  "id": "ja-toyama-municipalities",
+  "name": "富山県の市区町村一覧 (Municipalities of Toyama — JIS X 0402)",
+  "title": "富山県の市区町村一覧 (Municipalities of Toyama — JIS X 0402)",
+  "description": "富山県 (Toyama Prefecture) の市区町村一覧 15 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 15 active municipalities (cities/wards/towns/villages) of Toyama Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "16201",
+      "prefecture_code": "16",
+      "prefecture": "富山県",
+      "prefecture_kana": "トヤマケン",
+      "city": "富山市",
+      "city_kana": "トヤマシ"
+    },
+    {
+      "jisx0402": "16202",
+      "prefecture_code": "16",
+      "prefecture": "富山県",
+      "prefecture_kana": "トヤマケン",
+      "city": "高岡市",
+      "city_kana": "タカオカシ"
+    },
+    {
+      "jisx0402": "16204",
+      "prefecture_code": "16",
+      "prefecture": "富山県",
+      "prefecture_kana": "トヤマケン",
+      "city": "魚津市",
+      "city_kana": "ウオヅシ"
+    },
+    {
+      "jisx0402": "16205",
+      "prefecture_code": "16",
+      "prefecture": "富山県",
+      "prefecture_kana": "トヤマケン",
+      "city": "氷見市",
+      "city_kana": "ヒミシ"
+    },
+    {
+      "jisx0402": "16206",
+      "prefecture_code": "16",
+      "prefecture": "富山県",
+      "prefecture_kana": "トヤマケン",
+      "city": "滑川市",
+      "city_kana": "ナメリカワシ"
+    },
+    {
+      "jisx0402": "16207",
+      "prefecture_code": "16",
+      "prefecture": "富山県",
+      "prefecture_kana": "トヤマケン",
+      "city": "黒部市",
+      "city_kana": "クロベシ"
+    },
+    {
+      "jisx0402": "16208",
+      "prefecture_code": "16",
+      "prefecture": "富山県",
+      "prefecture_kana": "トヤマケン",
+      "city": "砺波市",
+      "city_kana": "トナミシ"
+    },
+    {
+      "jisx0402": "16209",
+      "prefecture_code": "16",
+      "prefecture": "富山県",
+      "prefecture_kana": "トヤマケン",
+      "city": "小矢部市",
+      "city_kana": "オヤベシ"
+    },
+    {
+      "jisx0402": "16210",
+      "prefecture_code": "16",
+      "prefecture": "富山県",
+      "prefecture_kana": "トヤマケン",
+      "city": "南砺市",
+      "city_kana": "ナントシ"
+    },
+    {
+      "jisx0402": "16211",
+      "prefecture_code": "16",
+      "prefecture": "富山県",
+      "prefecture_kana": "トヤマケン",
+      "city": "射水市",
+      "city_kana": "イミズシ"
+    },
+    {
+      "jisx0402": "16321",
+      "prefecture_code": "16",
+      "prefecture": "富山県",
+      "prefecture_kana": "トヤマケン",
+      "city": "中新川郡舟橋村",
+      "city_kana": "ナカニイカワグンフナハシムラ"
+    },
+    {
+      "jisx0402": "16322",
+      "prefecture_code": "16",
+      "prefecture": "富山県",
+      "prefecture_kana": "トヤマケン",
+      "city": "中新川郡上市町",
+      "city_kana": "ナカニイカワグンカミイチマチ"
+    },
+    {
+      "jisx0402": "16323",
+      "prefecture_code": "16",
+      "prefecture": "富山県",
+      "prefecture_kana": "トヤマケン",
+      "city": "中新川郡立山町",
+      "city_kana": "ナカニイカワグンタテヤママチ"
+    },
+    {
+      "jisx0402": "16342",
+      "prefecture_code": "16",
+      "prefecture": "富山県",
+      "prefecture_kana": "トヤマケン",
+      "city": "下新川郡入善町",
+      "city_kana": "シモニイカワグンニュウゼンマチ"
+    },
+    {
+      "jisx0402": "16343",
+      "prefecture_code": "16",
+      "prefecture": "富山県",
+      "prefecture_kana": "トヤマケン",
+      "city": "下新川郡朝日町",
+      "city_kana": "シモニイカワグンアサヒマチ"
+    }
+  ],
+  "meta": {
+    "title": "富山県の市区町村一覧 (Municipalities of Toyama — JIS X 0402) - 無料ダウンロード",
+    "description": "富山県 (Toyama Prefecture) の市区町村一覧 15 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 15 active municipalities (cities/wards/towns/villages) of Toyama Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 15 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "富山県の市区町村一覧 (Municipalities of Toyama — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 富山県の市区町村一覧 (Municipalities of Toyama — JIS X 0402) — 15 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 15 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

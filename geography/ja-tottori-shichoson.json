@@ -1,0 +1,208 @@
+{
+  "id": "ja-tottori-shichoson",
+  "name": "鳥取県の市区町村一覧",
+  "title": "鳥取県の市区町村一覧",
+  "description": "鳥取県 (Tottori Prefecture) の全市区町村 19 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "31201",
+      "name": "鳥取市",
+      "full_name": "鳥取市",
+      "prefecture": "鳥取県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "31202",
+      "name": "米子市",
+      "full_name": "米子市",
+      "prefecture": "鳥取県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "31203",
+      "name": "倉吉市",
+      "full_name": "倉吉市",
+      "prefecture": "鳥取県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "31204",
+      "name": "境港市",
+      "full_name": "境港市",
+      "prefecture": "鳥取県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "31302",
+      "name": "岩美町",
+      "full_name": "岩美郡岩美町",
+      "prefecture": "鳥取県",
+      "county_or_designated_city": "岩美郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "31325",
+      "name": "若桜町",
+      "full_name": "八頭郡若桜町",
+      "prefecture": "鳥取県",
+      "county_or_designated_city": "八頭郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "31328",
+      "name": "智頭町",
+      "full_name": "八頭郡智頭町",
+      "prefecture": "鳥取県",
+      "county_or_designated_city": "八頭郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "31329",
+      "name": "八頭町",
+      "full_name": "八頭郡八頭町",
+      "prefecture": "鳥取県",
+      "county_or_designated_city": "八頭郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "31364",
+      "name": "三朝町",
+      "full_name": "東伯郡三朝町",
+      "prefecture": "鳥取県",
+      "county_or_designated_city": "東伯郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "31370",
+      "name": "湯梨浜町",
+      "full_name": "東伯郡湯梨浜町",
+      "prefecture": "鳥取県",
+      "county_or_designated_city": "東伯郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "31371",
+      "name": "琴浦町",
+      "full_name": "東伯郡琴浦町",
+      "prefecture": "鳥取県",
+      "county_or_designated_city": "東伯郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "31372",
+      "name": "北栄町",
+      "full_name": "東伯郡北栄町",
+      "prefecture": "鳥取県",
+      "county_or_designated_city": "東伯郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "31384",
+      "name": "日吉津村",
+      "full_name": "西伯郡日吉津村",
+      "prefecture": "鳥取県",
+      "county_or_designated_city": "西伯郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "31386",
+      "name": "大山町",
+      "full_name": "西伯郡大山町",
+      "prefecture": "鳥取県",
+      "county_or_designated_city": "西伯郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "31389",
+      "name": "南部町",
+      "full_name": "西伯郡南部町",
+      "prefecture": "鳥取県",
+      "county_or_designated_city": "西伯郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "31390",
+      "name": "伯耆町",
+      "full_name": "西伯郡伯耆町",
+      "prefecture": "鳥取県",
+      "county_or_designated_city": "西伯郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "31401",
+      "name": "日南町",
+      "full_name": "日野郡日南町",
+      "prefecture": "鳥取県",
+      "county_or_designated_city": "日野郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "31402",
+      "name": "日野町",
+      "full_name": "日野郡日野町",
+      "prefecture": "鳥取県",
+      "county_or_designated_city": "日野郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "31403",
+      "name": "江府町",
+      "full_name": "日野郡江府町",
+      "prefecture": "鳥取県",
+      "county_or_designated_city": "日野郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "鳥取県の市区町村一覧 - 無料ダウンロード",
+    "description": "鳥取県 (Tottori Prefecture) の全市区町村 19 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 19 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "鳥取県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 鳥取県の市区町村一覧 — 19 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 19 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

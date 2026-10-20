@@ -1,0 +1,130 @@
+{
+  "id": "ja-hokkaido-prefectures",
+  "name": "北海道地方の都道府県 (Hokkaido region — prefectures)",
+  "title": "北海道地方の都道府県 (Hokkaido region — prefectures)",
+  "description": "北海道地方（ほっかいどう）に属する都道府県の一覧。 Prefectures belonging to the Hokkaido region (地方 / 'chihō') of Japan — 1 prefecture(s).",
+  "category": "geography",
+  "source": "https://github.com/diverse-inc/jp_prefecture",
+  "source_url": "https://github.com/diverse-inc/jp_prefecture",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "jis_code",
+      "label": "Jis Code",
+      "type": "number"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name_kana",
+      "label": "Name Kana",
+      "type": "string"
+    },
+    {
+      "key": "name_kana_short",
+      "label": "Name Kana Short",
+      "type": "string"
+    },
+    {
+      "key": "name_roma",
+      "label": "Name Roma",
+      "type": "string"
+    },
+    {
+      "key": "name_roma_short",
+      "label": "Name Roma Short",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "region_kanji",
+      "label": "Region Kanji",
+      "type": "string"
+    },
+    {
+      "key": "region_kana",
+      "label": "Region Kana",
+      "type": "string"
+    },
+    {
+      "key": "region_roma",
+      "label": "Region Roma",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "region_name_en",
+      "label": "Region Name En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": 1,
+      "jis_code": "01",
+      "iso_3166_2": "JP-01",
+      "slug": "hokkaido",
+      "name": "北海道",
+      "name_short": "北海道",
+      "name_kana": "ほっかいどう",
+      "name_kana_short": "ほっかいどう",
+      "name_roma": "hokkaido",
+      "name_roma_short": "hokkaido",
+      "name_en": "Hokkaido",
+      "type": "道",
+      "region_kanji": "北海道",
+      "region_kana": "ほっかいどう",
+      "region_roma": "hokkaidou",
+      "region_slug": "hokkaido",
+      "region_name_en": "Hokkaido"
+    }
+  ],
+  "meta": {
+    "title": "北海道地方の都道府県 (Hokkaido region — prefectures) - 無料ダウンロード",
+    "description": "北海道地方（ほっかいどう）に属する都道府県の一覧。 Prefectures belonging to the Hokkaido region (地方 / 'chihō') of Japan — 1 prefecture(s). 収録数 1 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "北海道地方の都道府県 (Hokkaido region — prefectures) | ListBase",
+    "seo_description": "ダウンロード 北海道地方の都道府県 (Hokkaido region — prefectures) — 1 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 1 件 / 17 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/diverse-inc/jp_prefecture"
+    ]
+  }
+}

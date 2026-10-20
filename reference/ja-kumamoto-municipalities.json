@@ -1,0 +1,448 @@
+{
+  "id": "ja-kumamoto-municipalities",
+  "name": "熊本県の市区町村一覧 (Municipalities of Kumamoto — JIS X 0402)",
+  "title": "熊本県の市区町村一覧 (Municipalities of Kumamoto — JIS X 0402)",
+  "description": "熊本県 (Kumamoto Prefecture) の市区町村一覧 49 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 49 active municipalities (cities/wards/towns/villages) of Kumamoto Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "43101",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "熊本市中央区",
+      "city_kana": "クマモトシチュウオウク"
+    },
+    {
+      "jisx0402": "43102",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "熊本市東区",
+      "city_kana": "クマモトシヒガシク"
+    },
+    {
+      "jisx0402": "43103",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "熊本市西区",
+      "city_kana": "クマモトシニシク"
+    },
+    {
+      "jisx0402": "43104",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "熊本市南区",
+      "city_kana": "クマモトシミナミク"
+    },
+    {
+      "jisx0402": "43105",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "熊本市北区",
+      "city_kana": "クマモトシキタク"
+    },
+    {
+      "jisx0402": "43202",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "八代市",
+      "city_kana": "ヤツシロシ"
+    },
+    {
+      "jisx0402": "43203",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "人吉市",
+      "city_kana": "ヒトヨシシ"
+    },
+    {
+      "jisx0402": "43204",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "荒尾市",
+      "city_kana": "アラオシ"
+    },
+    {
+      "jisx0402": "43205",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "水俣市",
+      "city_kana": "ミナマタシ"
+    },
+    {
+      "jisx0402": "43206",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "玉名市",
+      "city_kana": "タマナシ"
+    },
+    {
+      "jisx0402": "43208",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "山鹿市",
+      "city_kana": "ヤマガシ"
+    },
+    {
+      "jisx0402": "43210",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "菊池市",
+      "city_kana": "キクチシ"
+    },
+    {
+      "jisx0402": "43211",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "宇土市",
+      "city_kana": "ウトシ"
+    },
+    {
+      "jisx0402": "43212",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "上天草市",
+      "city_kana": "カミアマクサシ"
+    },
+    {
+      "jisx0402": "43213",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "宇城市",
+      "city_kana": "ウキシ"
+    },
+    {
+      "jisx0402": "43214",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "阿蘇市",
+      "city_kana": "アソシ"
+    },
+    {
+      "jisx0402": "43215",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "天草市",
+      "city_kana": "アマクサシ"
+    },
+    {
+      "jisx0402": "43216",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "合志市",
+      "city_kana": "コウシシ"
+    },
+    {
+      "jisx0402": "43348",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "下益城郡美里町",
+      "city_kana": "シモマシキグンミサトマチ"
+    },
+    {
+      "jisx0402": "43364",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "玉名郡玉東町",
+      "city_kana": "タマナグンギョクトウマチ"
+    },
+    {
+      "jisx0402": "43367",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "玉名郡南関町",
+      "city_kana": "タマナグンナンカンマチ"
+    },
+    {
+      "jisx0402": "43368",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "玉名郡長洲町",
+      "city_kana": "タマナグンナガスマチ"
+    },
+    {
+      "jisx0402": "43369",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "玉名郡和水町",
+      "city_kana": "タマナグンナゴミマチ"
+    },
+    {
+      "jisx0402": "43403",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "菊池郡大津町",
+      "city_kana": "キクチグンオオヅマチ"
+    },
+    {
+      "jisx0402": "43404",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "菊池郡菊陽町",
+      "city_kana": "キクチグンキクヨウマチ"
+    },
+    {
+      "jisx0402": "43423",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "阿蘇郡南小国町",
+      "city_kana": "アソグンミナミオグニマチ"
+    },
+    {
+      "jisx0402": "43424",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "阿蘇郡小国町",
+      "city_kana": "アソグンオグニマチ"
+    },
+    {
+      "jisx0402": "43425",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "阿蘇郡産山村",
+      "city_kana": "アソグンウブヤマムラ"
+    },
+    {
+      "jisx0402": "43428",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "阿蘇郡高森町",
+      "city_kana": "アソグンタカモリマチ"
+    },
+    {
+      "jisx0402": "43432",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "阿蘇郡西原村",
+      "city_kana": "アソグンニシハラムラ"
+    },
+    {
+      "jisx0402": "43433",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "阿蘇郡南阿蘇村",
+      "city_kana": "アソグンミナミアソムラ"
+    },
+    {
+      "jisx0402": "43441",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "上益城郡御船町",
+      "city_kana": "カミマシキグンミフネマチ"
+    },
+    {
+      "jisx0402": "43442",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "上益城郡嘉島町",
+      "city_kana": "カミマシキグンカシママチ"
+    },
+    {
+      "jisx0402": "43443",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "上益城郡益城町",
+      "city_kana": "カミマシキグンマシキマチ"
+    },
+    {
+      "jisx0402": "43444",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "上益城郡甲佐町",
+      "city_kana": "カミマシキグンコウサマチ"
+    },
+    {
+      "jisx0402": "43447",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "上益城郡山都町",
+      "city_kana": "カミマシキグンヤマトチョウ"
+    },
+    {
+      "jisx0402": "43468",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "八代郡氷川町",
+      "city_kana": "ヤツシログンヒカワチョウ"
+    },
+    {
+      "jisx0402": "43482",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "葦北郡芦北町",
+      "city_kana": "アシキタグンアシキタマチ"
+    },
+    {
+      "jisx0402": "43484",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "葦北郡津奈木町",
+      "city_kana": "アシキタグンツナギマチ"
+    },
+    {
+      "jisx0402": "43501",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "球磨郡錦町",
+      "city_kana": "クマグンニシキマチ"
+    },
+    {
+      "jisx0402": "43505",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "球磨郡多良木町",
+      "city_kana": "クマグンタラギマチ"
+    },
+    {
+      "jisx0402": "43506",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "球磨郡湯前町",
+      "city_kana": "クマグンユノマエマチ"
+    },
+    {
+      "jisx0402": "43507",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "球磨郡水上村",
+      "city_kana": "クマグンミズカミムラ"
+    },
+    {
+      "jisx0402": "43510",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "球磨郡相良村",
+      "city_kana": "クマグンサガラムラ"
+    },
+    {
+      "jisx0402": "43511",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "球磨郡五木村",
+      "city_kana": "クマグンイツキムラ"
+    },
+    {
+      "jisx0402": "43512",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "球磨郡山江村",
+      "city_kana": "クマグンヤマエムラ"
+    },
+    {
+      "jisx0402": "43513",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "球磨郡球磨村",
+      "city_kana": "クマグンクマムラ"
+    },
+    {
+      "jisx0402": "43514",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "球磨郡あさぎり町",
+      "city_kana": "クマグンアサギリチョウ"
+    },
+    {
+      "jisx0402": "43531",
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "city": "天草郡苓北町",
+      "city_kana": "アマクサグンレイホクマチ"
+    }
+  ],
+  "meta": {
+    "title": "熊本県の市区町村一覧 (Municipalities of Kumamoto — JIS X 0402) - 無料ダウンロード",
+    "description": "熊本県 (Kumamoto Prefecture) の市区町村一覧 49 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 49 active municipalities (cities/wards/towns/villages) of Kumamoto Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 49 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "熊本県の市区町村一覧 (Municipalities of Kumamoto — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 熊本県の市区町村一覧 (Municipalities of Kumamoto — JIS X 0402) — 49 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 49 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

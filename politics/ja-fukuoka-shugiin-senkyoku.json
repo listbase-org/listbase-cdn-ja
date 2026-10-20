@@ -1,0 +1,160 @@
+{
+  "id": "ja-fukuoka-shugiin-senkyoku",
+  "name": "福岡県衆議院小選挙区 (Fukuoka House of Representatives Electoral Districts)",
+  "title": "福岡県衆議院小選挙区 (Fukuoka House of Representatives Electoral Districts)",
+  "description": "福岡県内の衆議院小選挙区 11 件。ja-shugiin-senkyoku（全国 289 件）から都道府県コード 40 のレコードのみを抽出。スキーマは同一。11 single-member electoral districts in Fukuoka Prefecture, filtered from the national list (289). Same schema.",
+  "category": "politics",
+  "source": "https://github.com/smartnews-smri/japan-topography",
+  "source_url": "https://github.com/smartnews-smri/japan-topography",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "kucode",
+      "label": "Kucode",
+      "type": "number"
+    },
+    {
+      "key": "constituency",
+      "label": "Constituency",
+      "type": "string"
+    },
+    {
+      "key": "constituency_en",
+      "label": "Constituency En",
+      "type": "string"
+    },
+    {
+      "key": "district_number",
+      "label": "District Number",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_en",
+      "label": "Prefecture En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kucode": 4001,
+      "constituency": "福岡1区",
+      "constituency_en": "Fukuoka 1",
+      "district_number": 1,
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_en": "Fukuoka"
+    },
+    {
+      "kucode": 4002,
+      "constituency": "福岡2区",
+      "constituency_en": "Fukuoka 2",
+      "district_number": 2,
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_en": "Fukuoka"
+    },
+    {
+      "kucode": 4003,
+      "constituency": "福岡3区",
+      "constituency_en": "Fukuoka 3",
+      "district_number": 3,
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_en": "Fukuoka"
+    },
+    {
+      "kucode": 4004,
+      "constituency": "福岡4区",
+      "constituency_en": "Fukuoka 4",
+      "district_number": 4,
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_en": "Fukuoka"
+    },
+    {
+      "kucode": 4005,
+      "constituency": "福岡5区",
+      "constituency_en": "Fukuoka 5",
+      "district_number": 5,
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_en": "Fukuoka"
+    },
+    {
+      "kucode": 4006,
+      "constituency": "福岡6区",
+      "constituency_en": "Fukuoka 6",
+      "district_number": 6,
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_en": "Fukuoka"
+    },
+    {
+      "kucode": 4007,
+      "constituency": "福岡7区",
+      "constituency_en": "Fukuoka 7",
+      "district_number": 7,
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_en": "Fukuoka"
+    },
+    {
+      "kucode": 4008,
+      "constituency": "福岡8区",
+      "constituency_en": "Fukuoka 8",
+      "district_number": 8,
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_en": "Fukuoka"
+    },
+    {
+      "kucode": 4009,
+      "constituency": "福岡9区",
+      "constituency_en": "Fukuoka 9",
+      "district_number": 9,
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_en": "Fukuoka"
+    },
+    {
+      "kucode": 4010,
+      "constituency": "福岡10区",
+      "constituency_en": "Fukuoka 10",
+      "district_number": 10,
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_en": "Fukuoka"
+    },
+    {
+      "kucode": 4011,
+      "constituency": "福岡11区",
+      "constituency_en": "Fukuoka 11",
+      "district_number": 11,
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_en": "Fukuoka"
+    }
+  ],
+  "meta": {
+    "title": "福岡県衆議院小選挙区 (Fukuoka House of Representatives Electoral Districts) - 無料ダウンロード",
+    "description": "福岡県内の衆議院小選挙区 11 件。ja-shugiin-senkyoku（全国 289 件）から都道府県コード 40 のレコードのみを抽出。スキーマは同一。11 single-member electoral districts in Fukuoka Prefecture, filtered from the national list (289). Same schema. 収録数 11 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "福岡県衆議院小選挙区 (Fukuoka House of Representatives Electoral Districts) | ListBase",
+    "seo_description": "ダウンロード 福岡県衆議院小選挙区 (Fukuoka House of Representatives Electoral Districts) — 11 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 11 件 / 7 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/smartnews-smri/japan-topography"
+    ]
+  }
+}

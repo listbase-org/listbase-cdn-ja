@@ -1,0 +1,296 @@
+{
+  "id": "ja-wakayama-shichoson",
+  "name": "和歌山県の市区町村一覧",
+  "title": "和歌山県の市区町村一覧",
+  "description": "和歌山県 (Wakayama Prefecture) の全市区町村 30 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "30201",
+      "name": "和歌山市",
+      "full_name": "和歌山市",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "30202",
+      "name": "海南市",
+      "full_name": "海南市",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "30203",
+      "name": "橋本市",
+      "full_name": "橋本市",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "30204",
+      "name": "有田市",
+      "full_name": "有田市",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "30205",
+      "name": "御坊市",
+      "full_name": "御坊市",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "30206",
+      "name": "田辺市",
+      "full_name": "田辺市",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "30207",
+      "name": "新宮市",
+      "full_name": "新宮市",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "30208",
+      "name": "紀の川市",
+      "full_name": "紀の川市",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "30209",
+      "name": "岩出市",
+      "full_name": "岩出市",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "30304",
+      "name": "紀美野町",
+      "full_name": "海草郡紀美野町",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "海草郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "30341",
+      "name": "かつらぎ町",
+      "full_name": "伊都郡かつらぎ町",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "伊都郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "30343",
+      "name": "九度山町",
+      "full_name": "伊都郡九度山町",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "伊都郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "30344",
+      "name": "高野町",
+      "full_name": "伊都郡高野町",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "伊都郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "30361",
+      "name": "湯浅町",
+      "full_name": "有田郡湯浅町",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "有田郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "30362",
+      "name": "広川町",
+      "full_name": "有田郡広川町",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "有田郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "30366",
+      "name": "有田川町",
+      "full_name": "有田郡有田川町",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "有田郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "30381",
+      "name": "美浜町",
+      "full_name": "日高郡美浜町",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "日高郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "30382",
+      "name": "日高町",
+      "full_name": "日高郡日高町",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "日高郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "30383",
+      "name": "由良町",
+      "full_name": "日高郡由良町",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "日高郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "30390",
+      "name": "印南町",
+      "full_name": "日高郡印南町",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "日高郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "30391",
+      "name": "みなべ町",
+      "full_name": "日高郡みなべ町",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "日高郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "30392",
+      "name": "日高川町",
+      "full_name": "日高郡日高川町",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "日高郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "30401",
+      "name": "白浜町",
+      "full_name": "西牟婁郡白浜町",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "西牟婁郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "30404",
+      "name": "上富田町",
+      "full_name": "西牟婁郡上富田町",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "西牟婁郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "30406",
+      "name": "すさみ町",
+      "full_name": "西牟婁郡すさみ町",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "西牟婁郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "30421",
+      "name": "那智勝浦町",
+      "full_name": "東牟婁郡那智勝浦町",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "東牟婁郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "30422",
+      "name": "太地町",
+      "full_name": "東牟婁郡太地町",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "東牟婁郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "30424",
+      "name": "古座川町",
+      "full_name": "東牟婁郡古座川町",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "東牟婁郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "30427",
+      "name": "北山村",
+      "full_name": "東牟婁郡北山村",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "東牟婁郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "30428",
+      "name": "串本町",
+      "full_name": "東牟婁郡串本町",
+      "prefecture": "和歌山県",
+      "county_or_designated_city": "東牟婁郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "和歌山県の市区町村一覧 - 無料ダウンロード",
+    "description": "和歌山県 (Wakayama Prefecture) の全市区町村 30 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 30 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "和歌山県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 和歌山県の市区町村一覧 — 30 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 30 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

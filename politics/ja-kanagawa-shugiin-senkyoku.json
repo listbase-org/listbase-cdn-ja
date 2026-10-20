@@ -1,0 +1,223 @@
+{
+  "id": "ja-kanagawa-shugiin-senkyoku",
+  "name": "神奈川県衆議院小選挙区 (Kanagawa House of Representatives Electoral Districts)",
+  "title": "神奈川県衆議院小選挙区 (Kanagawa House of Representatives Electoral Districts)",
+  "description": "神奈川県内の衆議院小選挙区 18 件。ja-shugiin-senkyoku（全国 289 件）から都道府県コード 14 のレコードのみを抽出。スキーマは同一。18 single-member electoral districts in Kanagawa Prefecture, filtered from the national list (289). Same schema.",
+  "category": "politics",
+  "source": "https://github.com/smartnews-smri/japan-topography",
+  "source_url": "https://github.com/smartnews-smri/japan-topography",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "kucode",
+      "label": "Kucode",
+      "type": "number"
+    },
+    {
+      "key": "constituency",
+      "label": "Constituency",
+      "type": "string"
+    },
+    {
+      "key": "constituency_en",
+      "label": "Constituency En",
+      "type": "string"
+    },
+    {
+      "key": "district_number",
+      "label": "District Number",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_en",
+      "label": "Prefecture En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kucode": 1401,
+      "constituency": "神奈川1区",
+      "constituency_en": "Kanagawa 1",
+      "district_number": 1,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1402,
+      "constituency": "神奈川2区",
+      "constituency_en": "Kanagawa 2",
+      "district_number": 2,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1403,
+      "constituency": "神奈川3区",
+      "constituency_en": "Kanagawa 3",
+      "district_number": 3,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1404,
+      "constituency": "神奈川4区",
+      "constituency_en": "Kanagawa 4",
+      "district_number": 4,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1405,
+      "constituency": "神奈川5区",
+      "constituency_en": "Kanagawa 5",
+      "district_number": 5,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1406,
+      "constituency": "神奈川6区",
+      "constituency_en": "Kanagawa 6",
+      "district_number": 6,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1407,
+      "constituency": "神奈川7区",
+      "constituency_en": "Kanagawa 7",
+      "district_number": 7,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1408,
+      "constituency": "神奈川8区",
+      "constituency_en": "Kanagawa 8",
+      "district_number": 8,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1409,
+      "constituency": "神奈川9区",
+      "constituency_en": "Kanagawa 9",
+      "district_number": 9,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1410,
+      "constituency": "神奈川10区",
+      "constituency_en": "Kanagawa 10",
+      "district_number": 10,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1411,
+      "constituency": "神奈川11区",
+      "constituency_en": "Kanagawa 11",
+      "district_number": 11,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1412,
+      "constituency": "神奈川12区",
+      "constituency_en": "Kanagawa 12",
+      "district_number": 12,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1413,
+      "constituency": "神奈川13区",
+      "constituency_en": "Kanagawa 13",
+      "district_number": 13,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1414,
+      "constituency": "神奈川14区",
+      "constituency_en": "Kanagawa 14",
+      "district_number": 14,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1415,
+      "constituency": "神奈川15区",
+      "constituency_en": "Kanagawa 15",
+      "district_number": 15,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1416,
+      "constituency": "神奈川16区",
+      "constituency_en": "Kanagawa 16",
+      "district_number": 16,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1417,
+      "constituency": "神奈川17区",
+      "constituency_en": "Kanagawa 17",
+      "district_number": 17,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1418,
+      "constituency": "神奈川18区",
+      "constituency_en": "Kanagawa 18",
+      "district_number": 18,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    }
+  ],
+  "meta": {
+    "title": "神奈川県衆議院小選挙区 (Kanagawa House of Representatives Electoral Districts) - 無料ダウンロード",
+    "description": "神奈川県内の衆議院小選挙区 18 件。ja-shugiin-senkyoku（全国 289 件）から都道府県コード 14 のレコードのみを抽出。スキーマは同一。18 single-member electoral districts in Kanagawa Prefecture, filtered from the national list (289). Same schema. 収録数 18 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "神奈川県衆議院小選挙区 (Kanagawa House of Representatives Electoral Districts) | ListBase",
+    "seo_description": "ダウンロード 神奈川県衆議院小選挙区 (Kanagawa House of Representatives Electoral Districts) — 18 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 18 件 / 7 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/smartnews-smri/japan-topography"
+    ]
+  }
+}

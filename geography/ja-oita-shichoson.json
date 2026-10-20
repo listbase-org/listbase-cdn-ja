@@ -1,0 +1,200 @@
+{
+  "id": "ja-oita-shichoson",
+  "name": "大分県の市区町村一覧",
+  "title": "大分県の市区町村一覧",
+  "description": "大分県 (Oita Prefecture) の全市区町村 18 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "44201",
+      "name": "大分市",
+      "full_name": "大分市",
+      "prefecture": "大分県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "44202",
+      "name": "別府市",
+      "full_name": "別府市",
+      "prefecture": "大分県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "44203",
+      "name": "中津市",
+      "full_name": "中津市",
+      "prefecture": "大分県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "44204",
+      "name": "日田市",
+      "full_name": "日田市",
+      "prefecture": "大分県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "44205",
+      "name": "佐伯市",
+      "full_name": "佐伯市",
+      "prefecture": "大分県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "44206",
+      "name": "臼杵市",
+      "full_name": "臼杵市",
+      "prefecture": "大分県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "44207",
+      "name": "津久見市",
+      "full_name": "津久見市",
+      "prefecture": "大分県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "44208",
+      "name": "竹田市",
+      "full_name": "竹田市",
+      "prefecture": "大分県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "44209",
+      "name": "豊後高田市",
+      "full_name": "豊後高田市",
+      "prefecture": "大分県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "44210",
+      "name": "杵築市",
+      "full_name": "杵築市",
+      "prefecture": "大分県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "44211",
+      "name": "宇佐市",
+      "full_name": "宇佐市",
+      "prefecture": "大分県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "44212",
+      "name": "豊後大野市",
+      "full_name": "豊後大野市",
+      "prefecture": "大分県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "44213",
+      "name": "由布市",
+      "full_name": "由布市",
+      "prefecture": "大分県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "44214",
+      "name": "国東市",
+      "full_name": "国東市",
+      "prefecture": "大分県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "44322",
+      "name": "姫島村",
+      "full_name": "東国東郡姫島村",
+      "prefecture": "大分県",
+      "county_or_designated_city": "東国東郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "44341",
+      "name": "日出町",
+      "full_name": "速見郡日出町",
+      "prefecture": "大分県",
+      "county_or_designated_city": "速見郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "44461",
+      "name": "九重町",
+      "full_name": "玖珠郡九重町",
+      "prefecture": "大分県",
+      "county_or_designated_city": "玖珠郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "44462",
+      "name": "玖珠町",
+      "full_name": "玖珠郡玖珠町",
+      "prefecture": "大分県",
+      "county_or_designated_city": "玖珠郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "大分県の市区町村一覧 - 無料ダウンロード",
+    "description": "大分県 (Oita Prefecture) の全市区町村 18 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 18 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "大分県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 大分県の市区町村一覧 — 18 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 18 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

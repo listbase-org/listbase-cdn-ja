@@ -1,0 +1,118 @@
+{
+  "id": "ja-chiyoda-ku-swift-codo",
+  "name": "SWIFT/BICコード — Chiyoda-Ku",
+  "title": "SWIFT/BICコード — Chiyoda-Ku",
+  "description": "日本の銀行および金融機関のSWIFT/BICコード。各レコードには機関名、都市、支店（該当する場合）、およびSWIFT/BICコードが含まれます。出典: PeterNotenboom/SwiftCodes（MITライセンス）。このサブセットには、出典が都市「CHIYODA-KU」として記載している12件の機関が含まれます。",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "AGRICULTURAL BANK OF CHINA TOKYO BRANCH",
+      "city": "CHIYODA-KU",
+      "branch": "",
+      "swift_code": "ABOCJPJT"
+    },
+    {
+      "bank": "DAIWA NEXT BANK, LTD.",
+      "city": "CHIYODA-KU",
+      "branch": "",
+      "swift_code": "DNEXJPJT"
+    },
+    {
+      "bank": "E.SUN COMMERCIAL BANK, LTD.",
+      "city": "CHIYODA-KU",
+      "branch": "",
+      "swift_code": "ESUNJPJT"
+    },
+    {
+      "bank": "GAITAMEONLINE CO.,LTD",
+      "city": "CHIYODA-KU",
+      "branch": "",
+      "swift_code": "GACTJPJ1"
+    },
+    {
+      "bank": "ITAU UNIBANCO S.A., TOKYO BRANCH",
+      "city": "CHIYODA-KU",
+      "branch": "",
+      "swift_code": "ITAUJPJT"
+    },
+    {
+      "bank": "JEFFERIES JAPAN LIMITED",
+      "city": "CHIYODA-KU",
+      "branch": "",
+      "swift_code": "JEJAJPJ1"
+    },
+    {
+      "bank": "KDDI CORPORATION",
+      "city": "CHIYODA-KU",
+      "branch": "",
+      "swift_code": "KDDIJPJT"
+    },
+    {
+      "bank": "MANULIFE ASSET MANAGEMENT (JAPAN) LIMITED",
+      "city": "CHIYODA-KU",
+      "branch": "",
+      "swift_code": "MAMJJPJ1"
+    },
+    {
+      "bank": "MITSUBISHI UFJ SECURITIES HOLDINGS CO., LTD.",
+      "city": "CHIYODA-KU",
+      "branch": "",
+      "swift_code": "MUSHJP22"
+    },
+    {
+      "bank": "NIPPON LIFE INSURANCE COMPANY",
+      "city": "CHIYODA-KU",
+      "branch": "",
+      "swift_code": "NLICJP22"
+    },
+    {
+      "bank": "NN LIFE INSURANCE COMPANY, LTD.",
+      "city": "CHIYODA-KU",
+      "branch": "",
+      "swift_code": "ILICJPJ1"
+    },
+    {
+      "bank": "SUMITOMO MITSUI TRUST BANK,LIMITED",
+      "city": "CHIYODA-KU",
+      "branch": "",
+      "swift_code": "STBCJPJ2"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BICコード — Chiyoda-Ku - 無料ダウンロード",
+    "description": "日本の銀行および金融機関のSWIFT/BICコード。各レコードには機関名、都市、支店（該当する場合）、およびSWIFT/BICコードが含まれます。出典: PeterNotenboom/SwiftCodes（MITライセンス）。このサブセットには、出典が都市「CHIYODA-KU」として記載している12件の機関が含まれます。 収録数 12 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "SWIFT/BICコード — Chiyoda-Ku | ListBase",
+    "seo_description": "ダウンロード SWIFT/BICコード — Chiyoda-Ku — 12 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 12 件 / 4 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

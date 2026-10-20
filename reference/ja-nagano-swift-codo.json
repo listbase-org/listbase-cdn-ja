@@ -1,0 +1,64 @@
+{
+  "id": "ja-nagano-swift-codo",
+  "name": "SWIFT/BICコード — Nagano",
+  "title": "SWIFT/BICコード — Nagano",
+  "description": "日本の銀行および金融機関のSWIFT/BICコード。各レコードには機関名、都市、支店（該当する場合）、およびSWIFT/BICコードが含まれます。出典: PeterNotenboom/SwiftCodes（MITライセンス）。このサブセットには、出典が都市「NAGANO」として記載している3件の機関が含まれます。",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "HACHIJUNI SECURITIES CO., LTD.",
+      "city": "NAGANO",
+      "branch": "",
+      "swift_code": "UEDAJPJ1"
+    },
+    {
+      "bank": "NAGANO BANK, LTD.",
+      "city": "NAGANO",
+      "branch": "",
+      "swift_code": "NAGAJPJZ"
+    },
+    {
+      "bank": "NAGANO SECURITIES CO. ,LTD.",
+      "city": "NAGANO",
+      "branch": "",
+      "swift_code": "NGNOJPJ1"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BICコード — Nagano - 無料ダウンロード",
+    "description": "日本の銀行および金融機関のSWIFT/BICコード。各レコードには機関名、都市、支店（該当する場合）、およびSWIFT/BICコードが含まれます。出典: PeterNotenboom/SwiftCodes（MITライセンス）。このサブセットには、出典が都市「NAGANO」として記載している3件の機関が含まれます。 収録数 3 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "SWIFT/BICコード — Nagano | ListBase",
+    "seo_description": "ダウンロード SWIFT/BICコード — Nagano — 3 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 3 件 / 4 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "id": "ja-yamagata-gun",
+  "name": "山形県の郡一覧 (Yamagata Prefecture — counties)",
+  "title": "山形県の郡一覧 (Yamagata Prefecture — counties)",
+  "description": "山形県に属する郡（ぐん）の一覧（8件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Yamagata Prefecture.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_hira",
+      "label": "Name Hira",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_short_ja",
+      "label": "Name Short Ja",
+      "type": "string"
+    },
+    {
+      "key": "name_short_en",
+      "label": "Name Short En",
+      "type": "string"
+    },
+    {
+      "key": "pref_code",
+      "label": "Pref Code",
+      "type": "number"
+    },
+    {
+      "key": "pref_name",
+      "label": "Pref Name",
+      "type": "string"
+    },
+    {
+      "key": "pref_name_en",
+      "label": "Pref Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ja",
+      "label": "Type Ja",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "06300",
+      "name": "東村山郡",
+      "name_hira": "ひがしむらやまぐん",
+      "name_en": "Higashimurayama County",
+      "name_short_ja": "東村山",
+      "name_short_en": "Higashimurayama",
+      "pref_code": "06",
+      "pref_name": "山形県",
+      "pref_name_en": "Yamagata Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "06320",
+      "name": "西村山郡",
+      "name_hira": "にしむらやまぐん",
+      "name_en": "Nishimurayama County",
+      "name_short_ja": "西村山",
+      "name_short_en": "Nishimurayama",
+      "pref_code": "06",
+      "pref_name": "山形県",
+      "pref_name_en": "Yamagata Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "06340",
+      "name": "北村山郡",
+      "name_hira": "きたむらやまぐん",
+      "name_en": "Kitamurayama County",
+      "name_short_ja": "北村山",
+      "name_short_en": "Kitamurayama",
+      "pref_code": "06",
+      "pref_name": "山形県",
+      "pref_name_en": "Yamagata Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "06360",
+      "name": "最上郡",
+      "name_hira": "もがみぐん",
+      "name_en": "Mogami County",
+      "name_short_ja": "最上",
+      "name_short_en": "Mogami",
+      "pref_code": "06",
+      "pref_name": "山形県",
+      "pref_name_en": "Yamagata Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "06380",
+      "name": "東置賜郡",
+      "name_hira": "ひがしおきたまぐん",
+      "name_en": "Higashiokitama County",
+      "name_short_ja": "東置賜",
+      "name_short_en": "Higashiokitama",
+      "pref_code": "06",
+      "pref_name": "山形県",
+      "pref_name_en": "Yamagata Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "06400",
+      "name": "西置賜郡",
+      "name_hira": "にしおきたまぐん",
+      "name_en": "Nishiokitama County",
+      "name_short_ja": "西置賜",
+      "name_short_en": "Nishiokitama",
+      "pref_code": "06",
+      "pref_name": "山形県",
+      "pref_name_en": "Yamagata Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "06420",
+      "name": "東田川郡",
+      "name_hira": "ひがしたがわぐん",
+      "name_en": "Higashitagawa County",
+      "name_short_ja": "東田川",
+      "name_short_en": "Higashitagawa",
+      "pref_code": "06",
+      "pref_name": "山形県",
+      "pref_name_en": "Yamagata Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "06460",
+      "name": "飽海郡",
+      "name_hira": "あくみぐん",
+      "name_en": "Akumi County",
+      "name_short_ja": "飽海",
+      "name_short_en": "Akumi",
+      "pref_code": "06",
+      "pref_name": "山形県",
+      "pref_name_en": "Yamagata Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    }
+  ],
+  "meta": {
+    "title": "山形県の郡一覧 (Yamagata Prefecture — counties) - 無料ダウンロード",
+    "description": "山形県に属する郡（ぐん）の一覧（8件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Yamagata Prefecture. 収録数 8 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "山形県の郡一覧 (Yamagata Prefecture — counties) | ListBase",
+    "seo_description": "ダウンロード 山形県の郡一覧 (Yamagata Prefecture — counties) — 8 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 8 件 / 11 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

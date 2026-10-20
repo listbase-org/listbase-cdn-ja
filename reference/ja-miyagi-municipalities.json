@@ -1,0 +1,368 @@
+{
+  "id": "ja-miyagi-municipalities",
+  "name": "宮城県の市区町村一覧 (Municipalities of Miyagi — JIS X 0402)",
+  "title": "宮城県の市区町村一覧 (Municipalities of Miyagi — JIS X 0402)",
+  "description": "宮城県 (Miyagi Prefecture) の市区町村一覧 39 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 39 active municipalities (cities/wards/towns/villages) of Miyagi Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "04101",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "仙台市青葉区",
+      "city_kana": "センダイシアオバク"
+    },
+    {
+      "jisx0402": "04102",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "仙台市宮城野区",
+      "city_kana": "センダイシミヤギノク"
+    },
+    {
+      "jisx0402": "04103",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "仙台市若林区",
+      "city_kana": "センダイシワカバヤシク"
+    },
+    {
+      "jisx0402": "04104",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "仙台市太白区",
+      "city_kana": "センダイシタイハクク"
+    },
+    {
+      "jisx0402": "04105",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "仙台市泉区",
+      "city_kana": "センダイシイズミク"
+    },
+    {
+      "jisx0402": "04202",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "石巻市",
+      "city_kana": "イシノマキシ"
+    },
+    {
+      "jisx0402": "04203",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "塩竈市",
+      "city_kana": "シオガマシ"
+    },
+    {
+      "jisx0402": "04205",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "気仙沼市",
+      "city_kana": "ケセンヌマシ"
+    },
+    {
+      "jisx0402": "04206",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "白石市",
+      "city_kana": "シロイシシ"
+    },
+    {
+      "jisx0402": "04207",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "名取市",
+      "city_kana": "ナトリシ"
+    },
+    {
+      "jisx0402": "04208",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "角田市",
+      "city_kana": "カクダシ"
+    },
+    {
+      "jisx0402": "04209",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "多賀城市",
+      "city_kana": "タガジョウシ"
+    },
+    {
+      "jisx0402": "04211",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "岩沼市",
+      "city_kana": "イワヌマシ"
+    },
+    {
+      "jisx0402": "04212",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "登米市",
+      "city_kana": "トメシ"
+    },
+    {
+      "jisx0402": "04213",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "栗原市",
+      "city_kana": "クリハラシ"
+    },
+    {
+      "jisx0402": "04214",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "東松島市",
+      "city_kana": "ヒガシマツシマシ"
+    },
+    {
+      "jisx0402": "04215",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "大崎市",
+      "city_kana": "オオサキシ"
+    },
+    {
+      "jisx0402": "04216",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "富谷市",
+      "city_kana": "トミヤシ"
+    },
+    {
+      "jisx0402": "04301",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "刈田郡蔵王町",
+      "city_kana": "カッタグンザオウマチ"
+    },
+    {
+      "jisx0402": "04302",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "刈田郡七ヶ宿町",
+      "city_kana": "カッタグンシチカシュクマチ"
+    },
+    {
+      "jisx0402": "04321",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "柴田郡大河原町",
+      "city_kana": "シバタグンオオガワラマチ"
+    },
+    {
+      "jisx0402": "04322",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "柴田郡村田町",
+      "city_kana": "シバタグンムラタマチ"
+    },
+    {
+      "jisx0402": "04323",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "柴田郡柴田町",
+      "city_kana": "シバタグンシバタマチ"
+    },
+    {
+      "jisx0402": "04324",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "柴田郡川崎町",
+      "city_kana": "シバタグンカワサキマチ"
+    },
+    {
+      "jisx0402": "04341",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "伊具郡丸森町",
+      "city_kana": "イググンマルモリマチ"
+    },
+    {
+      "jisx0402": "04361",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "亘理郡亘理町",
+      "city_kana": "ワタリグンワタリチョウ"
+    },
+    {
+      "jisx0402": "04362",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "亘理郡山元町",
+      "city_kana": "ワタリグンヤマモトチョウ"
+    },
+    {
+      "jisx0402": "04401",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "宮城郡松島町",
+      "city_kana": "ミヤギグンマツシママチ"
+    },
+    {
+      "jisx0402": "04404",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "宮城郡七ヶ浜町",
+      "city_kana": "ミヤギグンシチガハママチ"
+    },
+    {
+      "jisx0402": "04406",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "宮城郡利府町",
+      "city_kana": "ミヤギグンリフチョウ"
+    },
+    {
+      "jisx0402": "04421",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "黒川郡大和町",
+      "city_kana": "クロカワグンタイワチョウ"
+    },
+    {
+      "jisx0402": "04422",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "黒川郡大郷町",
+      "city_kana": "クロカワグンオオサトチョウ"
+    },
+    {
+      "jisx0402": "04424",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "黒川郡大衡村",
+      "city_kana": "クロカワグンオオヒラムラ"
+    },
+    {
+      "jisx0402": "04444",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "加美郡色麻町",
+      "city_kana": "カミグンシカマチョウ"
+    },
+    {
+      "jisx0402": "04445",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "加美郡加美町",
+      "city_kana": "カミグンカミマチ"
+    },
+    {
+      "jisx0402": "04501",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "遠田郡涌谷町",
+      "city_kana": "トオダグンワクヤチョウ"
+    },
+    {
+      "jisx0402": "04505",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "遠田郡美里町",
+      "city_kana": "トオダグンミサトマチ"
+    },
+    {
+      "jisx0402": "04581",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "牡鹿郡女川町",
+      "city_kana": "オシカグンオナガワチョウ"
+    },
+    {
+      "jisx0402": "04606",
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "city": "本吉郡南三陸町",
+      "city_kana": "モトヨシグンミナミサンリクチョウ"
+    }
+  ],
+  "meta": {
+    "title": "宮城県の市区町村一覧 (Municipalities of Miyagi — JIS X 0402) - 無料ダウンロード",
+    "description": "宮城県 (Miyagi Prefecture) の市区町村一覧 39 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 39 active municipalities (cities/wards/towns/villages) of Miyagi Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 39 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "宮城県の市区町村一覧 (Municipalities of Miyagi — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 宮城県の市区町村一覧 (Municipalities of Miyagi — JIS X 0402) — 39 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 39 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

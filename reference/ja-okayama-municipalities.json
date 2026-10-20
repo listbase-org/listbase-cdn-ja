@@ -1,0 +1,296 @@
+{
+  "id": "ja-okayama-municipalities",
+  "name": "岡山県の市区町村一覧 (Municipalities of Okayama — JIS X 0402)",
+  "title": "岡山県の市区町村一覧 (Municipalities of Okayama — JIS X 0402)",
+  "description": "岡山県 (Okayama Prefecture) の市区町村一覧 30 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 30 active municipalities (cities/wards/towns/villages) of Okayama Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "33101",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "岡山市北区",
+      "city_kana": "オカヤマシキタク"
+    },
+    {
+      "jisx0402": "33102",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "岡山市中区",
+      "city_kana": "オカヤマシナカク"
+    },
+    {
+      "jisx0402": "33103",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "岡山市東区",
+      "city_kana": "オカヤマシヒガシク"
+    },
+    {
+      "jisx0402": "33104",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "岡山市南区",
+      "city_kana": "オカヤマシミナミク"
+    },
+    {
+      "jisx0402": "33202",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "倉敷市",
+      "city_kana": "クラシキシ"
+    },
+    {
+      "jisx0402": "33203",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "津山市",
+      "city_kana": "ツヤマシ"
+    },
+    {
+      "jisx0402": "33204",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "玉野市",
+      "city_kana": "タマノシ"
+    },
+    {
+      "jisx0402": "33205",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "笠岡市",
+      "city_kana": "カサオカシ"
+    },
+    {
+      "jisx0402": "33207",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "井原市",
+      "city_kana": "イバラシ"
+    },
+    {
+      "jisx0402": "33208",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "総社市",
+      "city_kana": "ソウジャシ"
+    },
+    {
+      "jisx0402": "33209",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "高梁市",
+      "city_kana": "タカハシシ"
+    },
+    {
+      "jisx0402": "33210",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "新見市",
+      "city_kana": "ニイミシ"
+    },
+    {
+      "jisx0402": "33211",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "備前市",
+      "city_kana": "ビゼンシ"
+    },
+    {
+      "jisx0402": "33212",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "瀬戸内市",
+      "city_kana": "セトウチシ"
+    },
+    {
+      "jisx0402": "33213",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "赤磐市",
+      "city_kana": "アカイワシ"
+    },
+    {
+      "jisx0402": "33214",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "真庭市",
+      "city_kana": "マニワシ"
+    },
+    {
+      "jisx0402": "33215",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "美作市",
+      "city_kana": "ミマサカシ"
+    },
+    {
+      "jisx0402": "33216",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "浅口市",
+      "city_kana": "アサクチシ"
+    },
+    {
+      "jisx0402": "33346",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "和気郡和気町",
+      "city_kana": "ワケグンワケチョウ"
+    },
+    {
+      "jisx0402": "33423",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "都窪郡早島町",
+      "city_kana": "ツクボグンハヤシマチョウ"
+    },
+    {
+      "jisx0402": "33445",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "浅口郡里庄町",
+      "city_kana": "アサクチグンサトショウチョウ"
+    },
+    {
+      "jisx0402": "33461",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "小田郡矢掛町",
+      "city_kana": "オダグンヤカゲチョウ"
+    },
+    {
+      "jisx0402": "33586",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "真庭郡新庄村",
+      "city_kana": "マニワグンシンジョウソン"
+    },
+    {
+      "jisx0402": "33606",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "苫田郡鏡野町",
+      "city_kana": "トマタグンカガミノチョウ"
+    },
+    {
+      "jisx0402": "33622",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "勝田郡勝央町",
+      "city_kana": "カツタグンショウオウチョウ"
+    },
+    {
+      "jisx0402": "33623",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "勝田郡奈義町",
+      "city_kana": "カツタグンナギチョウ"
+    },
+    {
+      "jisx0402": "33643",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "英田郡西粟倉村",
+      "city_kana": "アイダグンニシアワクラソン"
+    },
+    {
+      "jisx0402": "33663",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "久米郡久米南町",
+      "city_kana": "クメグンクメナンチョウ"
+    },
+    {
+      "jisx0402": "33666",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "久米郡美咲町",
+      "city_kana": "クメグンミサキチョウ"
+    },
+    {
+      "jisx0402": "33681",
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_kana": "オカヤマケン",
+      "city": "加賀郡吉備中央町",
+      "city_kana": "カガグンキビチュウオウチョウ"
+    }
+  ],
+  "meta": {
+    "title": "岡山県の市区町村一覧 (Municipalities of Okayama — JIS X 0402) - 無料ダウンロード",
+    "description": "岡山県 (Okayama Prefecture) の市区町村一覧 30 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 30 active municipalities (cities/wards/towns/villages) of Okayama Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 30 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "岡山県の市区町村一覧 (Municipalities of Okayama — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 岡山県の市区町村一覧 (Municipalities of Okayama — JIS X 0402) — 30 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 30 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

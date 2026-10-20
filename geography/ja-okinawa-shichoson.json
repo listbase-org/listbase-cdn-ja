@@ -1,0 +1,384 @@
+{
+  "id": "ja-okinawa-shichoson",
+  "name": "沖縄県の市区町村一覧",
+  "title": "沖縄県の市区町村一覧",
+  "description": "沖縄県 (Okinawa Prefecture) の全市区町村 41 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "47201",
+      "name": "那覇市",
+      "full_name": "那覇市",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "47205",
+      "name": "宜野湾市",
+      "full_name": "宜野湾市",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "47207",
+      "name": "石垣市",
+      "full_name": "石垣市",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "47208",
+      "name": "浦添市",
+      "full_name": "浦添市",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "47209",
+      "name": "名護市",
+      "full_name": "名護市",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "47210",
+      "name": "糸満市",
+      "full_name": "糸満市",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "47211",
+      "name": "沖縄市",
+      "full_name": "沖縄市",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "47212",
+      "name": "豊見城市",
+      "full_name": "豊見城市",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "47213",
+      "name": "うるま市",
+      "full_name": "うるま市",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "47214",
+      "name": "宮古島市",
+      "full_name": "宮古島市",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "47215",
+      "name": "南城市",
+      "full_name": "南城市",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "47301",
+      "name": "国頭村",
+      "full_name": "国頭郡国頭村",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "国頭郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47302",
+      "name": "大宜味村",
+      "full_name": "国頭郡大宜味村",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "国頭郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47303",
+      "name": "東村",
+      "full_name": "国頭郡東村",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "国頭郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47306",
+      "name": "今帰仁村",
+      "full_name": "国頭郡今帰仁村",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "国頭郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47308",
+      "name": "本部町",
+      "full_name": "国頭郡本部町",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "国頭郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47311",
+      "name": "恩納村",
+      "full_name": "国頭郡恩納村",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "国頭郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47313",
+      "name": "宜野座村",
+      "full_name": "国頭郡宜野座村",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "国頭郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47314",
+      "name": "金武町",
+      "full_name": "国頭郡金武町",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "国頭郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47315",
+      "name": "伊江村",
+      "full_name": "国頭郡伊江村",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "国頭郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47324",
+      "name": "読谷村",
+      "full_name": "中頭郡読谷村",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "中頭郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47325",
+      "name": "嘉手納町",
+      "full_name": "中頭郡嘉手納町",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "中頭郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47326",
+      "name": "北谷町",
+      "full_name": "中頭郡北谷町",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "中頭郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47327",
+      "name": "北中城村",
+      "full_name": "中頭郡北中城村",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "中頭郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47328",
+      "name": "中城村",
+      "full_name": "中頭郡中城村",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "中頭郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47329",
+      "name": "西原町",
+      "full_name": "中頭郡西原町",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "中頭郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47348",
+      "name": "与那原町",
+      "full_name": "島尻郡与那原町",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "島尻郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47350",
+      "name": "南風原町",
+      "full_name": "島尻郡南風原町",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "島尻郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47353",
+      "name": "渡嘉敷村",
+      "full_name": "島尻郡渡嘉敷村",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "島尻郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47354",
+      "name": "座間味村",
+      "full_name": "島尻郡座間味村",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "島尻郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47355",
+      "name": "粟国村",
+      "full_name": "島尻郡粟国村",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "島尻郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47356",
+      "name": "渡名喜村",
+      "full_name": "島尻郡渡名喜村",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "島尻郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47357",
+      "name": "南大東村",
+      "full_name": "島尻郡南大東村",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "島尻郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47358",
+      "name": "北大東村",
+      "full_name": "島尻郡北大東村",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "島尻郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47359",
+      "name": "伊平屋村",
+      "full_name": "島尻郡伊平屋村",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "島尻郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47360",
+      "name": "伊是名村",
+      "full_name": "島尻郡伊是名村",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "島尻郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47361",
+      "name": "久米島町",
+      "full_name": "島尻郡久米島町",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "島尻郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47362",
+      "name": "八重瀬町",
+      "full_name": "島尻郡八重瀬町",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "島尻郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47375",
+      "name": "多良間村",
+      "full_name": "宮古郡多良間村",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "宮古郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47381",
+      "name": "竹富町",
+      "full_name": "八重山郡竹富町",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "八重山郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "47382",
+      "name": "与那国町",
+      "full_name": "八重山郡与那国町",
+      "prefecture": "沖縄県",
+      "county_or_designated_city": "八重山郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "沖縄県の市区町村一覧 - 無料ダウンロード",
+    "description": "沖縄県 (Okinawa Prefecture) の全市区町村 41 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 41 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "沖縄県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 沖縄県の市区町村一覧 — 41 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 41 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

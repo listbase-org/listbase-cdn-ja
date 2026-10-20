@@ -1,0 +1,154 @@
+{
+  "id": "ja-nagoya-swift-codo",
+  "name": "SWIFT/BICコード — Nagoya",
+  "title": "SWIFT/BICコード — Nagoya",
+  "description": "日本の銀行および金融機関のSWIFT/BICコード。各レコードには機関名、都市、支店（該当する場合）、およびSWIFT/BICコードが含まれます。出典: PeterNotenboom/SwiftCodes（MITライセンス）。このサブセットには、出典が都市「NAGOYA」として記載している18件の機関が含まれます。",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "AICHI BANK, LTD., THE",
+      "city": "NAGOYA",
+      "branch": "",
+      "swift_code": "AICHJPJN"
+    },
+    {
+      "bank": "ANDO SECURITIES CO., LTD",
+      "city": "NAGOYA",
+      "branch": "",
+      "swift_code": "ANOOJPJ1"
+    },
+    {
+      "bank": "BANK OF CHINA",
+      "city": "NAGOYA",
+      "branch": "(NAGOYA BRANCH)",
+      "swift_code": "BKCHJPJTNGY"
+    },
+    {
+      "bank": "BANK OF NAGOYA, LTD. , THE",
+      "city": "NAGOYA",
+      "branch": "",
+      "swift_code": "NAGOJPJN"
+    },
+    {
+      "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+      "city": "NAGOYA",
+      "branch": "",
+      "swift_code": "BOTKJPJTNGY"
+    },
+    {
+      "bank": "CHUBU COMMODITY EXCHANGE",
+      "city": "NAGOYA",
+      "branch": "",
+      "swift_code": "XCCEJPJ1"
+    },
+    {
+      "bank": "CHUKYO BANK, LIMITED, THE",
+      "city": "NAGOYA",
+      "branch": "",
+      "swift_code": "CKBKJPJN"
+    },
+    {
+      "bank": "HAGIWARA ELECTRIC CO.,LTD.",
+      "city": "NAGOYA",
+      "branch": "",
+      "swift_code": "HAELJPJN"
+    },
+    {
+      "bank": "KIMURA SECURITIES CO., LTD.",
+      "city": "NAGOYA",
+      "branch": "",
+      "swift_code": "KIMUJPJ1"
+    },
+    {
+      "bank": "MARUHACHI SECURITIES CO",
+      "city": "NAGOYA",
+      "branch": "",
+      "swift_code": "MARCJPJ1NGY"
+    },
+    {
+      "bank": "NADEX CO.,LTD.",
+      "city": "NAGOYA",
+      "branch": "",
+      "swift_code": "NDXEJPJT"
+    },
+    {
+      "bank": "NAGOYA KOKUMOTSU SATOU TORIHIKIJO (GRAIN AND SUGAR EXCHANGE)",
+      "city": "NAGOYA",
+      "branch": "",
+      "swift_code": "XNKSJPJ1"
+    },
+    {
+      "bank": "NAGOYA SENI TORIHIKIJO (TEXTILE EXCHANGE)",
+      "city": "NAGOYA",
+      "branch": "",
+      "swift_code": "XNSTJPJ1"
+    },
+    {
+      "bank": "NAGOYA STOCK EXCHANGE",
+      "city": "NAGOYA",
+      "branch": "",
+      "swift_code": "XNGOJPJ1"
+    },
+    {
+      "bank": "OKACHI SECURITIES CO., LTD.",
+      "city": "NAGOYA",
+      "branch": "",
+      "swift_code": "OKSEJPJ1"
+    },
+    {
+      "bank": "TOKAI SECURITIES CO",
+      "city": "NAGOYA",
+      "branch": "",
+      "swift_code": "TOKSJPJ10JN"
+    },
+    {
+      "bank": "TOYOTA FINANCIAL SERVICES SECURITIES CORPORATION",
+      "city": "NAGOYA",
+      "branch": "",
+      "swift_code": "TFSCJPJ1"
+    },
+    {
+      "bank": "YUTAKA SECURITIES CO., LTD.",
+      "city": "NAGOYA",
+      "branch": "",
+      "swift_code": "YUTEJPJ1NGY"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BICコード — Nagoya - 無料ダウンロード",
+    "description": "日本の銀行および金融機関のSWIFT/BICコード。各レコードには機関名、都市、支店（該当する場合）、およびSWIFT/BICコードが含まれます。出典: PeterNotenboom/SwiftCodes（MITライセンス）。このサブセットには、出典が都市「NAGOYA」として記載している18件の機関が含まれます。 収録数 18 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "SWIFT/BICコード — Nagoya | ListBase",
+    "seo_description": "ダウンロード SWIFT/BICコード — Nagoya — 18 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 18 件 / 4 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

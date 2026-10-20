@@ -1,0 +1,296 @@
+{
+  "id": "ja-hiroshima-municipalities",
+  "name": "広島県の市区町村一覧 (Municipalities of Hiroshima — JIS X 0402)",
+  "title": "広島県の市区町村一覧 (Municipalities of Hiroshima — JIS X 0402)",
+  "description": "広島県 (Hiroshima Prefecture) の市区町村一覧 30 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 30 active municipalities (cities/wards/towns/villages) of Hiroshima Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "34101",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "広島市中区",
+      "city_kana": "ヒロシマシナカク"
+    },
+    {
+      "jisx0402": "34102",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "広島市東区",
+      "city_kana": "ヒロシマシヒガシク"
+    },
+    {
+      "jisx0402": "34103",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "広島市南区",
+      "city_kana": "ヒロシマシミナミク"
+    },
+    {
+      "jisx0402": "34104",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "広島市西区",
+      "city_kana": "ヒロシマシニシク"
+    },
+    {
+      "jisx0402": "34105",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "広島市安佐南区",
+      "city_kana": "ヒロシマシアサミナミク"
+    },
+    {
+      "jisx0402": "34106",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "広島市安佐北区",
+      "city_kana": "ヒロシマシアサキタク"
+    },
+    {
+      "jisx0402": "34107",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "広島市安芸区",
+      "city_kana": "ヒロシマシアキク"
+    },
+    {
+      "jisx0402": "34108",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "広島市佐伯区",
+      "city_kana": "ヒロシマシサエキク"
+    },
+    {
+      "jisx0402": "34202",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "呉市",
+      "city_kana": "クレシ"
+    },
+    {
+      "jisx0402": "34203",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "竹原市",
+      "city_kana": "タケハラシ"
+    },
+    {
+      "jisx0402": "34204",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "三原市",
+      "city_kana": "ミハラシ"
+    },
+    {
+      "jisx0402": "34205",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "尾道市",
+      "city_kana": "オノミチシ"
+    },
+    {
+      "jisx0402": "34207",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "福山市",
+      "city_kana": "フクヤマシ"
+    },
+    {
+      "jisx0402": "34208",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "府中市",
+      "city_kana": "フチュウシ"
+    },
+    {
+      "jisx0402": "34209",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "三次市",
+      "city_kana": "ミヨシシ"
+    },
+    {
+      "jisx0402": "34210",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "庄原市",
+      "city_kana": "ショウバラシ"
+    },
+    {
+      "jisx0402": "34211",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "大竹市",
+      "city_kana": "オオタケシ"
+    },
+    {
+      "jisx0402": "34212",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "東広島市",
+      "city_kana": "ヒガシヒロシマシ"
+    },
+    {
+      "jisx0402": "34213",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "廿日市市",
+      "city_kana": "ハツカイチシ"
+    },
+    {
+      "jisx0402": "34214",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "安芸高田市",
+      "city_kana": "アキタカタシ"
+    },
+    {
+      "jisx0402": "34215",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "江田島市",
+      "city_kana": "エタジマシ"
+    },
+    {
+      "jisx0402": "34302",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "安芸郡府中町",
+      "city_kana": "アキグンフチュウチョウ"
+    },
+    {
+      "jisx0402": "34304",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "安芸郡海田町",
+      "city_kana": "アキグンカイタチョウ"
+    },
+    {
+      "jisx0402": "34307",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "安芸郡熊野町",
+      "city_kana": "アキグンクマノチョウ"
+    },
+    {
+      "jisx0402": "34309",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "安芸郡坂町",
+      "city_kana": "アキグンサカチョウ"
+    },
+    {
+      "jisx0402": "34368",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "山県郡安芸太田町",
+      "city_kana": "ヤマガタグンアキオオタチョウ"
+    },
+    {
+      "jisx0402": "34369",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "山県郡北広島町",
+      "city_kana": "ヤマガタグンキタヒロシマチョウ"
+    },
+    {
+      "jisx0402": "34431",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "豊田郡大崎上島町",
+      "city_kana": "トヨタグンオオサキカミジマチョウ"
+    },
+    {
+      "jisx0402": "34462",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "世羅郡世羅町",
+      "city_kana": "セラグンセラチョウ"
+    },
+    {
+      "jisx0402": "34545",
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "city": "神石郡神石高原町",
+      "city_kana": "ジンセキグンジンセキコウゲンチョウ"
+    }
+  ],
+  "meta": {
+    "title": "広島県の市区町村一覧 (Municipalities of Hiroshima — JIS X 0402) - 無料ダウンロード",
+    "description": "広島県 (Hiroshima Prefecture) の市区町村一覧 30 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 30 active municipalities (cities/wards/towns/villages) of Hiroshima Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 30 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "広島県の市区町村一覧 (Municipalities of Hiroshima — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 広島県の市区町村一覧 (Municipalities of Hiroshima — JIS X 0402) — 30 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 30 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

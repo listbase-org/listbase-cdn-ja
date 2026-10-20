@@ -1,0 +1,8 @@
+﻿"Icao","Iata","Name En","Name Slug","City En","City Slug","Prefecture Ja","Prefecture Ja Full","Prefecture En","Prefecture Code","Region En","Region Ja","Country","Country Ja","Elevation Ft","Lat","Lon","Timezone","Has Iata"
+"RJBB","KIX","Kansai International Airport","kansai-international-airport","Osaka","osaka","大阪","大阪府","Osaka","JP-27","Kansai","関西","JP","日本","26","34.4272994995","135.2440032959","Asia/Tokyo","true"
+"RJBD","SHM","Nanki Shirahama Airport","nanki-shirahama-airport","Shirahama","shirahama","和歌山","和歌山県","Wakayama","JP-30","Kansai","関西","JP","日本","298","33.6622009277","135.363998413","Asia/Tokyo","true"
+"RJBE","UKB","Kobe Airport","kobe-airport","Kobe","kobe","兵庫","兵庫県","Hyogo","JP-28","Kansai","関西","JP","日本","22","34.6328010559","135.2239990234","Asia/Tokyo","true"
+"RJBT","TJH","Tajima Airport","tajima-airport","Tajima","tajima","兵庫","兵庫県","Hyogo","JP-28","Kansai","関西","JP","日本","584","35.5127983093","134.7870025635","Asia/Tokyo","true"
+"RJOE","","Akeno Airport","akeno-airport","","","三重","三重県","Mie","JP-24","Kansai","関西","JP","日本","20","34.5332984924","136.6719970703","Asia/Tokyo","false"
+"RJOO","ITM","Osaka International Airport","osaka-international-airport","Osaka","osaka","兵庫","兵庫県","Hyogo","JP-28","Kansai","関西","JP","日本","50","34.7854995728","135.43800354","Asia/Tokyo","true"
+"RJOY","","Yao Airport","yao-airport","Yao","yao","大阪","大阪府","Osaka","JP-27","Kansai","関西","JP","日本","39","34.5962982178","135.6029968262","Asia/Tokyo","false"

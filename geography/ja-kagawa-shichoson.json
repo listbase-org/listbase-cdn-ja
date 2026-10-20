@@ -1,0 +1,192 @@
+{
+  "id": "ja-kagawa-shichoson",
+  "name": "香川県の市区町村一覧",
+  "title": "香川県の市区町村一覧",
+  "description": "香川県 (Kagawa Prefecture) の全市区町村 17 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "37201",
+      "name": "高松市",
+      "full_name": "高松市",
+      "prefecture": "香川県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "37202",
+      "name": "丸亀市",
+      "full_name": "丸亀市",
+      "prefecture": "香川県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "37203",
+      "name": "坂出市",
+      "full_name": "坂出市",
+      "prefecture": "香川県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "37204",
+      "name": "善通寺市",
+      "full_name": "善通寺市",
+      "prefecture": "香川県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "37205",
+      "name": "観音寺市",
+      "full_name": "観音寺市",
+      "prefecture": "香川県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "37206",
+      "name": "さぬき市",
+      "full_name": "さぬき市",
+      "prefecture": "香川県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "37207",
+      "name": "東かがわ市",
+      "full_name": "東かがわ市",
+      "prefecture": "香川県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "37208",
+      "name": "三豊市",
+      "full_name": "三豊市",
+      "prefecture": "香川県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "37322",
+      "name": "土庄町",
+      "full_name": "小豆郡土庄町",
+      "prefecture": "香川県",
+      "county_or_designated_city": "小豆郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "37324",
+      "name": "小豆島町",
+      "full_name": "小豆郡小豆島町",
+      "prefecture": "香川県",
+      "county_or_designated_city": "小豆郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "37341",
+      "name": "三木町",
+      "full_name": "木田郡三木町",
+      "prefecture": "香川県",
+      "county_or_designated_city": "木田郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "37364",
+      "name": "直島町",
+      "full_name": "香川郡直島町",
+      "prefecture": "香川県",
+      "county_or_designated_city": "香川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "37386",
+      "name": "宇多津町",
+      "full_name": "綾歌郡宇多津町",
+      "prefecture": "香川県",
+      "county_or_designated_city": "綾歌郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "37387",
+      "name": "綾川町",
+      "full_name": "綾歌郡綾川町",
+      "prefecture": "香川県",
+      "county_or_designated_city": "綾歌郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "37403",
+      "name": "琴平町",
+      "full_name": "仲多度郡琴平町",
+      "prefecture": "香川県",
+      "county_or_designated_city": "仲多度郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "37404",
+      "name": "多度津町",
+      "full_name": "仲多度郡多度津町",
+      "prefecture": "香川県",
+      "county_or_designated_city": "仲多度郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "37406",
+      "name": "まんのう町",
+      "full_name": "仲多度郡まんのう町",
+      "prefecture": "香川県",
+      "county_or_designated_city": "仲多度郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "香川県の市区町村一覧 - 無料ダウンロード",
+    "description": "香川県 (Kagawa Prefecture) の全市区町村 17 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 17 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "香川県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 香川県の市区町村一覧 — 17 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 17 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

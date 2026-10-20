@@ -1,0 +1,621 @@
+{
+  "id": "ja-sakka-kurabu",
+  "name": "日本のサッカークラブ (Japanese football clubs)",
+  "title": "日本のサッカークラブ (Japanese football clubs)",
+  "description": "Japanese football clubs across J1 / J2 / J3 League and the Japan Football League tiers. Each record carries the canonical Latin/English club name, the Japanese-script name where available (joined from openfootball's jp.clubs.lang.jp.txt — currently covers J1 2013 sides), founded year, defunct year, host city/prefecture, and alternative spellings (aliases). Sourced from the openfootball/clubs registry.",
+  "category": "sports",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_native",
+      "label": "Name Native",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "defunct",
+      "label": "Defunct",
+      "type": "string"
+    },
+    {
+      "key": "stadium",
+      "label": "Stadium",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "AC Nagano Parceiro",
+      "name_native": "",
+      "slug": "ac-nagano-parceiro",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Nagano",
+      "aliases": "Nagano Parceiro"
+    },
+    {
+      "id": 2,
+      "name": "Albirex Niigata",
+      "name_native": "アルビレックス新潟",
+      "slug": "albirex-niigata",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Niigata",
+      "aliases": "Niigata Albirex"
+    },
+    {
+      "id": 3,
+      "name": "Avispa Fukuoka",
+      "name_native": "",
+      "slug": "avispa-fukuoka",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Hakata",
+      "aliases": ""
+    },
+    {
+      "id": 4,
+      "name": "Blaublitz Akita",
+      "name_native": "",
+      "slug": "blaublitz-akita",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Akita",
+      "aliases": ""
+    },
+    {
+      "id": 5,
+      "name": "Cerezo Osaka",
+      "name_native": "セレッソ大阪",
+      "slug": "cerezo-osaka",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Osaka",
+      "aliases": "C-Osaka"
+    },
+    {
+      "id": 6,
+      "name": "Ehime FC",
+      "name_native": "",
+      "slug": "ehime-fc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Matsuyama",
+      "aliases": "Ehime Football Club"
+    },
+    {
+      "id": 7,
+      "name": "Fagiano Okayama",
+      "name_native": "",
+      "slug": "fagiano-okayama",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Okayama",
+      "aliases": ""
+    },
+    {
+      "id": 8,
+      "name": "FC Gifu",
+      "name_native": "",
+      "slug": "fc-gifu",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Gifu",
+      "aliases": "Football Club Gifu"
+    },
+    {
+      "id": 9,
+      "name": "FC Ryukyu",
+      "name_native": "",
+      "slug": "fc-ryukyu",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Okinawa",
+      "aliases": ""
+    },
+    {
+      "id": 10,
+      "name": "FC Tokyo",
+      "name_native": "FC東京",
+      "slug": "fc-tokyo",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Tokyo",
+      "aliases": "Tokyo"
+    },
+    {
+      "id": 11,
+      "name": "Fujieda MYFC",
+      "name_native": "",
+      "slug": "fujieda-myfc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Fujieda",
+      "aliases": ""
+    },
+    {
+      "id": 12,
+      "name": "Gamba Osaka",
+      "name_native": "",
+      "slug": "gamba-osaka",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Suita",
+      "aliases": "G-Osaka"
+    },
+    {
+      "id": 13,
+      "name": "Giravanz Kitakyushu",
+      "name_native": "",
+      "slug": "giravanz-kitakyushu",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Kitakyushu",
+      "aliases": "Giravanz Kitakyush"
+    },
+    {
+      "id": 14,
+      "name": "Hokkaido Consadole Sapporo",
+      "name_native": "",
+      "slug": "hokkaido-consadole-sapporo",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Sapporo",
+      "aliases": "Sapporo, Consa Sapporo, Consadole Sapporo, Hokkaido Consadole, Hokkaido Consadol"
+    },
+    {
+      "id": 15,
+      "name": "Honda FC",
+      "name_native": "",
+      "slug": "honda-fc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Hamamatsu",
+      "aliases": ""
+    },
+    {
+      "id": 16,
+      "name": "Iwaki FC",
+      "name_native": "",
+      "slug": "iwaki-fc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Iwaki",
+      "aliases": ""
+    },
+    {
+      "id": 17,
+      "name": "Iwate Grulla Morioka",
+      "name_native": "",
+      "slug": "iwate-grulla-morioka",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Morioka",
+      "aliases": "Iwate Grulla Morio"
+    },
+    {
+      "id": 18,
+      "name": "JEF United Chiba",
+      "name_native": "",
+      "slug": "jef-united-chiba",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Chiba",
+      "aliases": "JEF Utd Ichihara, JEF United Ichihara Chiba, JEF Chiba"
+    },
+    {
+      "id": 19,
+      "name": "Júbilo Iwata",
+      "name_native": "ジュビロ磐田",
+      "slug": "jubilo-iwata",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Iwata",
+      "aliases": "Iwata"
+    },
+    {
+      "id": 20,
+      "name": "Kagoshima United",
+      "name_native": "",
+      "slug": "kagoshima-united",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Kagoshima",
+      "aliases": "Kagoshima United FC"
+    },
+    {
+      "id": 21,
+      "name": "Kashima Antlers",
+      "name_native": "鹿島アントラーズ",
+      "slug": "kashima-antlers",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "",
+      "aliases": "Kashima, Kashima A."
+    },
+    {
+      "id": 22,
+      "name": "Kashiwa Reysol",
+      "name_native": "柏レイソル",
+      "slug": "kashiwa-reysol",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Kashiwa",
+      "aliases": "Kashiwa"
+    },
+    {
+      "id": 23,
+      "name": "Kawasaki Frontale",
+      "name_native": "川崎フロンターレ",
+      "slug": "kawasaki-frontale",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Kawasaki",
+      "aliases": "Kawa Frontale"
+    },
+    {
+      "id": 24,
+      "name": "Kyoto Sanga",
+      "name_native": "",
+      "slug": "kyoto-sanga",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Kyoto",
+      "aliases": "Kyoto Sanga FC, Kyoto Sanga Football Club"
+    },
+    {
+      "id": 25,
+      "name": "Machida Zelvia",
+      "name_native": "",
+      "slug": "machida-zelvia",
+      "founded": 1989,
+      "defunct": "",
+      "stadium": "",
+      "city": "Tokyo",
+      "aliases": "FC Machida Zelvia, Football Club Machida Zelvia"
+    },
+    {
+      "id": 26,
+      "name": "Matsumoto Yamaga",
+      "name_native": "",
+      "slug": "matsumoto-yamaga",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Matsumoto",
+      "aliases": "Yamaga, Matsumoto Yamaga FC"
+    },
+    {
+      "id": 27,
+      "name": "Mito HollyHock",
+      "name_native": "",
+      "slug": "mito-hollyhock",
+      "founded": 1994,
+      "defunct": "",
+      "stadium": "",
+      "city": "Mito",
+      "aliases": "Football Club Mito HollyHock Ibaraki"
+    },
+    {
+      "id": 28,
+      "name": "Montedio Yamagata",
+      "name_native": "",
+      "slug": "montedio-yamagata",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "",
+      "aliases": ""
+    },
+    {
+      "id": 29,
+      "name": "Nagoya Grampus",
+      "name_native": "名古屋グランパス",
+      "slug": "nagoya-grampus",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Nagoya",
+      "aliases": "Nagoya, Grampus"
+    },
+    {
+      "id": 30,
+      "name": "Oita Trinita",
+      "name_native": "大分トリニータ",
+      "slug": "oita-trinita",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "",
+      "aliases": "Oita"
+    },
+    {
+      "id": 31,
+      "name": "Omiya Ardija",
+      "name_native": "大宮アルディージャ",
+      "slug": "omiya-ardija",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Omiya",
+      "aliases": ""
+    },
+    {
+      "id": 32,
+      "name": "Renofa Yamaguchi",
+      "name_native": "",
+      "slug": "renofa-yamaguchi",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Yamaguchi",
+      "aliases": "Renofa Yamaguchi FC"
+    },
+    {
+      "id": 33,
+      "name": "Roasso Kumamoto",
+      "name_native": "",
+      "slug": "roasso-kumamoto",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Kumamoto",
+      "aliases": ""
+    },
+    {
+      "id": 34,
+      "name": "Sagan Tosu",
+      "name_native": "サガン鳥栖",
+      "slug": "sagan-tosu",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Tosu",
+      "aliases": ""
+    },
+    {
+      "id": 35,
+      "name": "Sanfrecce Hiroshima",
+      "name_native": "サンフレッチェ広島",
+      "slug": "sanfrecce-hiroshima",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Hiroshima",
+      "aliases": "Hiroshima, Sanfrecce, S. Hiroshima, Sanfr. Hiroshima"
+    },
+    {
+      "id": 36,
+      "name": "Shimizu S-Pulse",
+      "name_native": "清水エスパルス",
+      "slug": "shimizu-s-pulse",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Shizuoka",
+      "aliases": "Shimizu, S-Pulse"
+    },
+    {
+      "id": 37,
+      "name": "Shonan Bellmare",
+      "name_native": "湘南ベルマーレ",
+      "slug": "shonan-bellmare",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "",
+      "aliases": "Shonan"
+    },
+    {
+      "id": 38,
+      "name": "Tegevajaro Miyazaki",
+      "name_native": "",
+      "slug": "tegevajaro-miyazaki",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Miyazaki",
+      "aliases": "Tegevajaro Miyazak"
+    },
+    {
+      "id": 39,
+      "name": "Thespa Gunma",
+      "name_native": "",
+      "slug": "thespa-gunma",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Maebashi",
+      "aliases": "Thespakusatsu Gunma, Thespakusatsu"
+    },
+    {
+      "id": 40,
+      "name": "Tochigi SC",
+      "name_native": "",
+      "slug": "tochigi-sc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Utsunomiya",
+      "aliases": "Tochigi Soccer Club"
+    },
+    {
+      "id": 41,
+      "name": "Tokushima Vortis",
+      "name_native": "",
+      "slug": "tokushima-vortis",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "",
+      "aliases": "Tokushima"
+    },
+    {
+      "id": 42,
+      "name": "Tokyo Verdy",
+      "name_native": "",
+      "slug": "tokyo-verdy",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Tokyo",
+      "aliases": "Verdy"
+    },
+    {
+      "id": 43,
+      "name": "Urawa Red Diamonds",
+      "name_native": "浦和レッドダイヤモンズ",
+      "slug": "urawa-red-diamonds",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Urawa",
+      "aliases": "Urawa, Urawa RD, Urawa Reds"
+    },
+    {
+      "id": 44,
+      "name": "V-Varen Nagasaki",
+      "name_native": "",
+      "slug": "v-varen-nagasaki",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "",
+      "aliases": ""
+    },
+    {
+      "id": 45,
+      "name": "Vegalta Sendai",
+      "name_native": "ベガルタ仙台",
+      "slug": "vegalta-sendai",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Sendai",
+      "aliases": ""
+    },
+    {
+      "id": 46,
+      "name": "Ventforet Kofu",
+      "name_native": "ヴァンフォーレ甲府",
+      "slug": "ventforet-kofu",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "",
+      "aliases": "Kofu"
+    },
+    {
+      "id": 47,
+      "name": "Vissel Kobe",
+      "name_native": "",
+      "slug": "vissel-kobe",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "",
+      "aliases": "Kobe"
+    },
+    {
+      "id": 48,
+      "name": "Yokohama F. Marinos",
+      "name_native": "横浜F・マリノス",
+      "slug": "yokohama-f-marinos",
+      "founded": 1972,
+      "defunct": "",
+      "stadium": "",
+      "city": "Yokohama",
+      "aliases": "Yokohama, Yokohama M., Marinos, Yokohama FM"
+    },
+    {
+      "id": 49,
+      "name": "Yokohama FC",
+      "name_native": "",
+      "slug": "yokohama-fc",
+      "founded": 1999,
+      "defunct": "",
+      "stadium": "",
+      "city": "Yokohama",
+      "aliases": ""
+    },
+    {
+      "id": 50,
+      "name": "Zweigen Kanazawa",
+      "name_native": "",
+      "slug": "zweigen-kanazawa",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Kanazawa",
+      "aliases": ""
+    }
+  ],
+  "meta": {
+    "title": "日本のサッカークラブ (Japanese football clubs) - 無料ダウンロード",
+    "description": "Japanese football clubs across J1 / J2 / J3 League and the Japan Football League tiers. Each record carries the canonical Latin/English club name, the Japanese-script name where available (joined from openfootball's jp.clubs.lang.jp.txt — currently covers J1 2013 sides), founded year, defunct year, host city/prefecture, and alternative spellings (aliases). Sourced from the openfootball/clubs registry. 収録数 50 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "日本のサッカークラブ (Japanese football clubs) | ListBase",
+    "seo_description": "ダウンロード 日本のサッカークラブ (Japanese football clubs) — 50 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 50 件 / 9 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

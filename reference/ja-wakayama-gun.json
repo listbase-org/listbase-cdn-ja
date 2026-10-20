@@ -1,0 +1,159 @@
+{
+  "id": "ja-wakayama-gun",
+  "name": "和歌山県の郡一覧 (Wakayama Prefecture — counties)",
+  "title": "和歌山県の郡一覧 (Wakayama Prefecture — counties)",
+  "description": "和歌山県に属する郡（ぐん）の一覧（6件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Wakayama Prefecture.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_hira",
+      "label": "Name Hira",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_short_ja",
+      "label": "Name Short Ja",
+      "type": "string"
+    },
+    {
+      "key": "name_short_en",
+      "label": "Name Short En",
+      "type": "string"
+    },
+    {
+      "key": "pref_code",
+      "label": "Pref Code",
+      "type": "number"
+    },
+    {
+      "key": "pref_name",
+      "label": "Pref Name",
+      "type": "string"
+    },
+    {
+      "key": "pref_name_en",
+      "label": "Pref Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ja",
+      "label": "Type Ja",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "30300",
+      "name": "海草郡",
+      "name_hira": "かいそうぐん",
+      "name_en": "Kaiso County",
+      "name_short_ja": "海草",
+      "name_short_en": "Kaiso",
+      "pref_code": "30",
+      "pref_name": "和歌山県",
+      "pref_name_en": "Wakayama Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "30340",
+      "name": "伊都郡",
+      "name_hira": "いとぐん",
+      "name_en": "Ito County",
+      "name_short_ja": "伊都",
+      "name_short_en": "Ito",
+      "pref_code": "30",
+      "pref_name": "和歌山県",
+      "pref_name_en": "Wakayama Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "30360",
+      "name": "有田郡",
+      "name_hira": "ありだぐん",
+      "name_en": "Arida County",
+      "name_short_ja": "有田",
+      "name_short_en": "Arida",
+      "pref_code": "30",
+      "pref_name": "和歌山県",
+      "pref_name_en": "Wakayama Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "30380",
+      "name": "日高郡",
+      "name_hira": "ひだかぐん",
+      "name_en": "Hidaka County",
+      "name_short_ja": "日高",
+      "name_short_en": "Hidaka",
+      "pref_code": "30",
+      "pref_name": "和歌山県",
+      "pref_name_en": "Wakayama Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "30400",
+      "name": "西牟婁郡",
+      "name_hira": "にしむろぐん",
+      "name_en": "Nishimuro County",
+      "name_short_ja": "西牟婁",
+      "name_short_en": "Nishimuro",
+      "pref_code": "30",
+      "pref_name": "和歌山県",
+      "pref_name_en": "Wakayama Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "30420",
+      "name": "東牟婁郡",
+      "name_hira": "ひがしむろぐん",
+      "name_en": "Higashimuro County",
+      "name_short_ja": "東牟婁",
+      "name_short_en": "Higashimuro",
+      "pref_code": "30",
+      "pref_name": "和歌山県",
+      "pref_name_en": "Wakayama Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    }
+  ],
+  "meta": {
+    "title": "和歌山県の郡一覧 (Wakayama Prefecture — counties) - 無料ダウンロード",
+    "description": "和歌山県に属する郡（ぐん）の一覧（6件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Wakayama Prefecture. 収録数 6 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "和歌山県の郡一覧 (Wakayama Prefecture — counties) | ListBase",
+    "seo_description": "ダウンロード 和歌山県の郡一覧 (Wakayama Prefecture — counties) — 6 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 6 件 / 11 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

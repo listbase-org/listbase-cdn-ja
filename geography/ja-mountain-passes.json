@@ -1,0 +1,566 @@
+{
+  "id": "ja-mountain-passes",
+  "name": "峠一覧 (Mountain passes of Japan)",
+  "title": "峠一覧 (Mountain passes of Japan)",
+  "description": "国土地理院「日本地名集 (Gazetteer of Japan) 2007」に収録された峠 50 件。漢字・ひらがな・公式ローマ字表記と緯度経度を併記。50 mountain passes listed in the Geospatial Information Authority of Japan's Gazetteer of Japan 2007 (with the 2018 update), each with kanji, kana and the official romanised name plus degree-minute coordinates in both original DMS and decimal form.",
+  "category": "geography",
+  "source": "https://github.com/piuccio/open-data-jp-municipalities",
+  "source_url": "https://github.com/piuccio/open-data-jp-municipalities",
+  "updated": "2026-04",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "name_kanji",
+      "label": "Name Kanji",
+      "type": "string"
+    },
+    {
+      "key": "name_kana",
+      "label": "Name Kana",
+      "type": "string"
+    },
+    {
+      "key": "name_romaji",
+      "label": "Name Romaji",
+      "type": "string"
+    },
+    {
+      "key": "classification",
+      "label": "Classification",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "org_latitude",
+      "label": "Org Latitude",
+      "type": "string"
+    },
+    {
+      "key": "org_longitude",
+      "label": "Org Longitude",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_kanji": "安房峠",
+      "name_kana": "あぼうとうげ",
+      "name_romaji": "Abo Toge",
+      "classification": "Pass",
+      "lat": 36.183333,
+      "lon": 137.566667,
+      "org_latitude": "36 ゚ 11’",
+      "org_longitude": "137 ゚ 34’"
+    },
+    {
+      "name_kanji": "天城峠",
+      "name_kana": "あまぎとうげ",
+      "name_romaji": "Amagi Toge",
+      "classification": "Pass",
+      "lat": 34.816667,
+      "lon": 138.933333,
+      "org_latitude": "34 ゚ 49’",
+      "org_longitude": "138 ゚ 56’"
+    },
+    {
+      "name_kanji": "美幌峠",
+      "name_kana": "びほろとうげ",
+      "name_romaji": "Bihoro Toge",
+      "classification": "Pass",
+      "lat": 43.633333,
+      "lon": 144.233333,
+      "org_latitude": "43 ゚ 38’",
+      "org_longitude": "144 ゚ 14’"
+    },
+    {
+      "name_kanji": "舞台峠",
+      "name_kana": "ぶたいとうげ",
+      "name_romaji": "Butai Toge",
+      "classification": "Pass",
+      "lat": 35.733333,
+      "lon": 137.316667,
+      "org_latitude": "35 ゚ 44’",
+      "org_longitude": "137 ゚ 19’"
+    },
+    {
+      "name_kanji": "発荷峠",
+      "name_kana": "はっかとうげ",
+      "name_romaji": "Hakka Toge",
+      "classification": "Pass",
+      "lat": 40.4,
+      "lon": 140.866667,
+      "org_latitude": "40 ゚ 24’",
+      "org_longitude": "140 ゚ 52’"
+    },
+    {
+      "name_kanji": "早坂峠",
+      "name_kana": "はやさかとうげ",
+      "name_romaji": "Hayasaka Toge",
+      "classification": "Pass",
+      "lat": 39.85,
+      "lon": 141.5,
+      "org_latitude": "39 ゚ 51’",
+      "org_longitude": "141 ゚ 30’"
+    },
+    {
+      "name_kanji": "細尾峠",
+      "name_kana": "ほそおとうげ",
+      "name_romaji": "Hosoo Toge",
+      "classification": "Pass",
+      "lat": 36.7,
+      "lon": 139.5,
+      "org_latitude": "36 ゚ 42’",
+      "org_longitude": "139 ゚ 30’"
+    },
+    {
+      "name_kanji": "兵戸峠",
+      "name_kana": "ひょうどとうげ",
+      "name_romaji": "Hyodo Toge",
+      "classification": "Pass",
+      "lat": 33.05,
+      "lon": 130.9,
+      "org_latitude": "33 ゚ 03’",
+      "org_longitude": "130 ゚ 54’"
+    },
+    {
+      "name_kanji": "十国峠",
+      "name_kana": "じっこくとうげ",
+      "name_romaji": "Jikkoku Toge",
+      "classification": "Pass",
+      "lat": 35.116667,
+      "lon": 139.033333,
+      "org_latitude": "35 ゚ 07’",
+      "org_longitude": "139 ゚ 02’"
+    },
+    {
+      "name_kanji": "十石峠",
+      "name_kana": "じっこくとうげ",
+      "name_romaji": "Jikkoku Toge",
+      "classification": "Pass",
+      "lat": 36.1,
+      "lon": 138.65,
+      "org_latitude": "36 ゚ 06’",
+      "org_longitude": "138 ゚ 39’"
+    },
+    {
+      "name_kanji": "地芳峠",
+      "name_kana": "ぢよしとうげ",
+      "name_romaji": "Jiyoshi Toge",
+      "classification": "Pass",
+      "lat": 33.466667,
+      "lon": 132.933333,
+      "org_latitude": "33 ゚ 28’",
+      "org_longitude": "132 ゚ 56’"
+    },
+    {
+      "name_kanji": "十三本木峠",
+      "name_kana": "じゅうさんぼんぎとうげ",
+      "name_romaji": "Jusanbongi Toge",
+      "classification": "Pass",
+      "lat": 40.066667,
+      "lon": 141.233333,
+      "org_latitude": "40 ゚ 04’",
+      "org_longitude": "141 ゚ 14’"
+    },
+    {
+      "name_kanji": "篭坂峠",
+      "name_kana": "かごさかとうげ",
+      "name_romaji": "Kagosaka Toge",
+      "classification": "Pass",
+      "lat": 35.383333,
+      "lon": 138.866667,
+      "org_latitude": "35 ゚ 23’",
+      "org_longitude": "138 ゚ 52’"
+    },
+    {
+      "name_kanji": "狩勝峠",
+      "name_kana": "かりかちとうげ",
+      "name_romaji": "Karikachi Toge",
+      "classification": "Pass",
+      "lat": 43.133333,
+      "lon": 142.75,
+      "org_latitude": "43 ゚ 08’",
+      "org_longitude": "142 ゚ 45’"
+    },
+    {
+      "name_kanji": "雁坂峠",
+      "name_kana": "かりさかとうげ",
+      "name_romaji": "Karisaka Toge",
+      "classification": "Pass",
+      "lat": 35.883333,
+      "lon": 138.783333,
+      "org_latitude": "35 ゚ 53’",
+      "org_longitude": "138 ゚ 47’"
+    },
+    {
+      "name_kanji": "紀見峠",
+      "name_kana": "きみとうげ",
+      "name_romaji": "Kimi Toge",
+      "classification": "Pass",
+      "lat": 34.366667,
+      "lon": 135.6,
+      "org_latitude": "34 ゚ 22’",
+      "org_longitude": "135 ゚ 36’"
+    },
+    {
+      "name_kanji": "北見峠",
+      "name_kana": "きたみとうげ",
+      "name_romaji": "Kitami Toge",
+      "classification": "Pass",
+      "lat": 43.866667,
+      "lon": 143.016667,
+      "org_latitude": "43 ゚ 52’",
+      "org_longitude": "143 ゚ 01’"
+    },
+    {
+      "name_kanji": "金精峠",
+      "name_kana": "こんせいとうげ",
+      "name_romaji": "Konsei Toge",
+      "classification": "Pass",
+      "lat": 36.8,
+      "lon": 139.4,
+      "org_latitude": "36 ゚ 48’",
+      "org_longitude": "139 ゚ 24’"
+    },
+    {
+      "name_kanji": "三坂峠",
+      "name_kana": "みさかとうげ",
+      "name_romaji": "Misaka Toge",
+      "classification": "Pass",
+      "lat": 33.7,
+      "lon": 132.85,
+      "org_latitude": "33 ゚ 42’",
+      "org_longitude": "132 ゚ 51’"
+    },
+    {
+      "name_kanji": "物見峠",
+      "name_kana": "ものみとうげ",
+      "name_romaji": "Monomi Toge",
+      "classification": "Pass",
+      "lat": 35.216667,
+      "lon": 134.15,
+      "org_latitude": "35 ゚ 13’",
+      "org_longitude": "134 ゚ 09’"
+    },
+    {
+      "name_kanji": "麦草峠",
+      "name_kana": "むぎくさとうげ",
+      "name_romaji": "Mugikusa Toge",
+      "classification": "Pass",
+      "lat": 36.05,
+      "lon": 138.333333,
+      "org_latitude": "36 ゚ 03’",
+      "org_longitude": "138 ゚ 20’"
+    },
+    {
+      "name_kanji": "長野峠",
+      "name_kana": "ながのとうげ",
+      "name_romaji": "Nagano Toge",
+      "classification": "Pass",
+      "lat": 34.75,
+      "lon": 136.316667,
+      "org_latitude": "34 ゚ 45’",
+      "org_longitude": "136 ゚ 19’"
+    },
+    {
+      "name_kanji": "中山峠",
+      "name_kana": "なかやまとうげ",
+      "name_romaji": "Nakayama Toge",
+      "classification": "Pass",
+      "lat": 42.85,
+      "lon": 141.1,
+      "org_latitude": "42 ゚ 51’",
+      "org_longitude": "141 ゚ 06’"
+    },
+    {
+      "name_kanji": "人形峠",
+      "name_kana": "にんぎょうとうげ",
+      "name_romaji": "Ningyo Toge",
+      "classification": "Pass",
+      "lat": 35.3,
+      "lon": 133.916667,
+      "org_latitude": "35 ゚ 18’",
+      "org_longitude": "133 ゚ 55’"
+    },
+    {
+      "name_kanji": "日勝峠",
+      "name_kana": "にっしょうとうげ",
+      "name_romaji": "Nissho Toge",
+      "classification": "Pass",
+      "lat": 42.95,
+      "lon": 142.683333,
+      "org_latitude": "42 ゚ 57’",
+      "org_longitude": "142 ゚ 41’"
+    },
+    {
+      "name_kanji": "野麦峠",
+      "name_kana": "のむぎとうげ",
+      "name_romaji": "Nomugi Toge",
+      "classification": "Pass",
+      "lat": 36.033333,
+      "lon": 137.583333,
+      "org_latitude": "36 ゚ 02’",
+      "org_longitude": "137 ゚ 35’"
+    },
+    {
+      "name_kanji": "大平峠",
+      "name_kana": "おおだいらとうげ",
+      "name_romaji": "Odaira Toge",
+      "classification": "Pass",
+      "lat": 35.55,
+      "lon": 137.683333,
+      "org_latitude": "35 ゚ 33’",
+      "org_longitude": "137 ゚ 41’"
+    },
+    {
+      "name_kanji": "大越",
+      "name_kana": "おおごし",
+      "name_romaji": "Ogoshi",
+      "classification": "Pass",
+      "lat": 38.5,
+      "lon": 139.95,
+      "org_latitude": "38 ゚ 30’",
+      "org_longitude": "139 ゚ 57’"
+    },
+    {
+      "name_kanji": "小栗峠",
+      "name_kana": "おぐりとうげ",
+      "name_romaji": "Oguri Toge",
+      "classification": "Pass",
+      "lat": 33.116667,
+      "lon": 130.65,
+      "org_latitude": "33 ゚ 07’",
+      "org_longitude": "130 ゚ 39’"
+    },
+    {
+      "name_kanji": "礼文華峠",
+      "name_kana": "れぶんげとうげ",
+      "name_romaji": "Rebunge Toge",
+      "classification": "Pass",
+      "lat": 42.583333,
+      "lon": 140.55,
+      "org_latitude": "42 ゚ 35’",
+      "org_longitude": "140 ゚ 33’"
+    },
+    {
+      "name_kanji": "笹子峠",
+      "name_kana": "ささごとうげ",
+      "name_romaji": "Sasago Toge",
+      "classification": "Pass",
+      "lat": 35.616667,
+      "lon": 138.766667,
+      "org_latitude": "35 ゚ 37’",
+      "org_longitude": "138 ゚ 46’"
+    },
+    {
+      "name_kanji": "笹谷峠",
+      "name_kana": "ささやとうげ",
+      "name_romaji": "Sasaya Toge",
+      "classification": "Pass",
+      "lat": 38.216667,
+      "lon": 140.466667,
+      "org_latitude": "38 ゚ 13’",
+      "org_longitude": "140 ゚ 28’"
+    },
+    {
+      "name_kanji": "石北峠",
+      "name_kana": "せきほくとうげ",
+      "name_romaji": "Sekihoku Toge",
+      "classification": "Pass",
+      "lat": 43.65,
+      "lon": 143.15,
+      "org_latitude": "43 ゚ 39’",
+      "org_longitude": "143 ゚ 09’"
+    },
+    {
+      "name_kanji": "関山峠",
+      "name_kana": "せきやまとうげ",
+      "name_romaji": "Sekiyama Toge",
+      "classification": "Pass",
+      "lat": 38.366667,
+      "lon": 140.55,
+      "org_latitude": "38 ゚ 22’",
+      "org_longitude": "140 ゚ 33’"
+    },
+    {
+      "name_kanji": "釧北峠",
+      "name_kana": "せんぽくとうげ",
+      "name_romaji": "Senpoku Toge",
+      "classification": "Pass",
+      "lat": 43.45,
+      "lon": 144.016667,
+      "org_latitude": "43 ゚ 27’",
+      "org_longitude": "144 ゚ 01’"
+    },
+    {
+      "name_kanji": "士別峠",
+      "name_kana": "しべつとうげ",
+      "name_romaji": "Shibetsu Toge",
+      "classification": "Pass",
+      "lat": 44.2,
+      "lon": 142.183333,
+      "org_latitude": "44 ゚ 12’",
+      "org_longitude": "142 ゚ 11’"
+    },
+    {
+      "name_kanji": "渋峠",
+      "name_kana": "しぶとうげ",
+      "name_romaji": "Shibu Toge",
+      "classification": "Pass",
+      "lat": 36.65,
+      "lon": 138.533333,
+      "org_latitude": "36 ゚ 39’",
+      "org_longitude": "138 ゚ 32’"
+    },
+    {
+      "name_kanji": "四十曲峠",
+      "name_kana": "しじゅうまがりとうげ",
+      "name_romaji": "Shijumagari Toge",
+      "classification": "Pass",
+      "lat": 35.183333,
+      "lon": 133.516667,
+      "org_latitude": "35 ゚ 11’",
+      "org_longitude": "133 ゚ 31’"
+    },
+    {
+      "name_kanji": "塩尻峠",
+      "name_kana": "しおじりとうげ",
+      "name_romaji": "Shiojiri Toge",
+      "classification": "Pass",
+      "lat": 36.066667,
+      "lon": 138.016667,
+      "org_latitude": "36 ゚ 04’",
+      "org_longitude": "138 ゚ 01’"
+    },
+    {
+      "name_kanji": "鈴鹿峠",
+      "name_kana": "すずかとうげ",
+      "name_romaji": "Suzuka Toge",
+      "classification": "Pass",
+      "lat": 34.883333,
+      "lon": 136.333333,
+      "org_latitude": "34 ゚ 53’",
+      "org_longitude": "136 ゚ 20’"
+    },
+    {
+      "name_kanji": "立丸峠",
+      "name_kana": "たちまるとうげ",
+      "name_romaji": "Tachimaru Toge",
+      "classification": "Pass",
+      "lat": 39.433333,
+      "lon": 141.666667,
+      "org_latitude": "39 ゚ 26’",
+      "org_longitude": "141 ゚ 40’"
+    },
+    {
+      "name_kanji": "栃ノ木峠",
+      "name_kana": "とちのきとうげ",
+      "name_romaji": "Tochinoki Toge",
+      "classification": "Pass",
+      "lat": 35.683333,
+      "lon": 136.15,
+      "org_latitude": "35 ゚ 41’",
+      "org_longitude": "136 ゚ 09’"
+    },
+    {
+      "name_kanji": "戸倉峠",
+      "name_kana": "とくらとうげ",
+      "name_romaji": "Tokura Toge",
+      "classification": "Pass",
+      "lat": 35.3,
+      "lon": 134.5,
+      "org_latitude": "35 ゚ 18’",
+      "org_longitude": "134 ゚ 30’"
+    },
+    {
+      "name_kanji": "鳥居峠",
+      "name_kana": "とりいとうげ",
+      "name_romaji": "Torii Toge",
+      "classification": "Pass",
+      "lat": 35.95,
+      "lon": 137.783333,
+      "org_latitude": "35 ゚ 57’",
+      "org_longitude": "137 ゚ 47’"
+    },
+    {
+      "name_kanji": "鳥居峠",
+      "name_kana": "とりいとうげ",
+      "name_romaji": "Torii Toge",
+      "classification": "Pass",
+      "lat": 36.483333,
+      "lon": 138.4,
+      "org_latitude": "36 ゚ 29’",
+      "org_longitude": "138 ゚ 24’"
+    },
+    {
+      "name_kanji": "内山峠",
+      "name_kana": "うちやまとうげ",
+      "name_romaji": "Uchiyama Toge",
+      "classification": "Pass",
+      "lat": 36.216667,
+      "lon": 138.616667,
+      "org_latitude": "36 ゚ 13’",
+      "org_longitude": "138 ゚ 37’"
+    },
+    {
+      "name_kanji": "碓氷峠",
+      "name_kana": "うすいとうげ",
+      "name_romaji": "Usui Toge",
+      "classification": "Pass",
+      "lat": 36.333333,
+      "lon": 138.65,
+      "org_latitude": "36 ゚ 20’",
+      "org_longitude": "138 ゚ 39’"
+    },
+    {
+      "name_kanji": "宇津ノ谷峠",
+      "name_kana": "うつのやとうげ",
+      "name_romaji": "Utsunoya Toge",
+      "classification": "Pass",
+      "lat": 34.916667,
+      "lon": 138.283333,
+      "org_latitude": "34 ゚ 55’",
+      "org_longitude": "138 ゚ 17’"
+    },
+    {
+      "name_kanji": "和田峠",
+      "name_kana": "わだとうげ",
+      "name_romaji": "Wada Toge",
+      "classification": "Pass",
+      "lat": 36.133333,
+      "lon": 138.133333,
+      "org_latitude": "36 ゚ 08’",
+      "org_longitude": "138 ゚ 08’"
+    },
+    {
+      "name_kanji": "湯山峠",
+      "name_kana": "ゆやまとうげ",
+      "name_romaji": "Yuyama Toge",
+      "classification": "Pass",
+      "lat": 32.333333,
+      "lon": 131.083333,
+      "org_latitude": "32 ゚ 20’",
+      "org_longitude": "131 ゚ 05’"
+    }
+  ],
+  "meta": {
+    "title": "峠一覧 (Mountain passes of Japan) - 無料ダウンロード",
+    "description": "国土地理院「日本地名集 (Gazetteer of Japan) 2007」に収録された峠 50 件。漢字・ひらがな・公式ローマ字表記と緯度経度を併記。50 mountain passes listed in the Geospatial Information Authority of Japan's Gazetteer of Japan 2007 (with the 2018 update), each with kanji, kana and the official romanised name plus degree-minute coordinates in both original DMS and decimal form. 収録数 50 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "峠一覧 (Mountain passes of Japan) | ListBase",
+    "seo_description": "ダウンロード 峠一覧 (Mountain passes of Japan) — 50 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 50 件 / 8 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/piuccio/open-data-jp-municipalities"
+    ]
+  }
+}

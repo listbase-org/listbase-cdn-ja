@@ -1,0 +1,5 @@
+﻿"Icao","Iata","Name En","Name Slug","City En","City Slug","Prefecture Ja","Prefecture Ja Full","Prefecture En","Prefecture Code","Region En","Region Ja","Country","Country Ja","Elevation Ft","Lat","Lon","Timezone","Has Iata"
+"RJOK","KCZ","Kochi Ryoma Airport","kochi-ryoma-airport","Nankoku","nankoku","高知","高知県","Kochi","JP-39","Shikoku","四国","JP","日本","42","33.5461006165","133.669006348","Asia/Tokyo","true"
+"RJOM","MYJ","Matsuyama Airport","matsuyama-airport","Matsuyama","matsuyama","愛媛","愛媛県","Ehime","JP-38","Shikoku","四国","JP","日本","25","33.8272018433","132.6999969482","Asia/Tokyo","true"
+"RJOS","TKS","Tokushima Airport","tokushima-airport","Tokushima","tokushima","徳島","徳島県","Tokushima","JP-36","Shikoku","四国","JP","日本","26","34.1328010559","134.606994629","Asia/Tokyo","true"
+"RJOT","TAK","Takamatsu Airport","takamatsu-airport","Takamatsu","takamatsu","香川","香川県","Kagawa","JP-37","Shikoku","四国","JP","日本","607","34.2141990662","134.01600647","Asia/Tokyo","true"

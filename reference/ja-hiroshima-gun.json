@@ -1,0 +1,146 @@
+{
+  "id": "ja-hiroshima-gun",
+  "name": "広島県の郡一覧 (Hiroshima Prefecture — counties)",
+  "title": "広島県の郡一覧 (Hiroshima Prefecture — counties)",
+  "description": "広島県に属する郡（ぐん）の一覧（5件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Hiroshima Prefecture.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_hira",
+      "label": "Name Hira",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_short_ja",
+      "label": "Name Short Ja",
+      "type": "string"
+    },
+    {
+      "key": "name_short_en",
+      "label": "Name Short En",
+      "type": "string"
+    },
+    {
+      "key": "pref_code",
+      "label": "Pref Code",
+      "type": "number"
+    },
+    {
+      "key": "pref_name",
+      "label": "Pref Name",
+      "type": "string"
+    },
+    {
+      "key": "pref_name_en",
+      "label": "Pref Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ja",
+      "label": "Type Ja",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "34300",
+      "name": "安芸郡",
+      "name_hira": "あきぐん",
+      "name_en": "Aki County",
+      "name_short_ja": "安芸",
+      "name_short_en": "Aki",
+      "pref_code": "34",
+      "pref_name": "広島県",
+      "pref_name_en": "Hiroshima Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "34360",
+      "name": "山県郡",
+      "name_hira": "やまがたぐん",
+      "name_en": "Yamagata County",
+      "name_short_ja": "山県",
+      "name_short_en": "Yamagata",
+      "pref_code": "34",
+      "pref_name": "広島県",
+      "pref_name_en": "Hiroshima Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "34420",
+      "name": "豊田郡",
+      "name_hira": "とよたぐん",
+      "name_en": "Toyota County",
+      "name_short_ja": "豊田",
+      "name_short_en": "Toyota",
+      "pref_code": "34",
+      "pref_name": "広島県",
+      "pref_name_en": "Hiroshima Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "34460",
+      "name": "世羅郡",
+      "name_hira": "せらぐん",
+      "name_en": "Sera County",
+      "name_short_ja": "世羅",
+      "name_short_en": "Sera",
+      "pref_code": "34",
+      "pref_name": "広島県",
+      "pref_name_en": "Hiroshima Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "34540",
+      "name": "神石郡",
+      "name_hira": "じんせきぐん",
+      "name_en": "Jinseki County",
+      "name_short_ja": "神石",
+      "name_short_en": "Jinseki",
+      "pref_code": "34",
+      "pref_name": "広島県",
+      "pref_name_en": "Hiroshima Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    }
+  ],
+  "meta": {
+    "title": "広島県の郡一覧 (Hiroshima Prefecture — counties) - 無料ダウンロード",
+    "description": "広島県に属する郡（ぐん）の一覧（5件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Hiroshima Prefecture. 収録数 5 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "広島県の郡一覧 (Hiroshima Prefecture — counties) | ListBase",
+    "seo_description": "ダウンロード 広島県の郡一覧 (Hiroshima Prefecture — counties) — 5 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 5 件 / 11 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

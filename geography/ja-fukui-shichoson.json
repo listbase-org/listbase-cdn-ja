@@ -1,0 +1,192 @@
+{
+  "id": "ja-fukui-shichoson",
+  "name": "福井県の市区町村一覧",
+  "title": "福井県の市区町村一覧",
+  "description": "福井県 (Fukui Prefecture) の全市区町村 17 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "18201",
+      "name": "福井市",
+      "full_name": "福井市",
+      "prefecture": "福井県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "18202",
+      "name": "敦賀市",
+      "full_name": "敦賀市",
+      "prefecture": "福井県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "18204",
+      "name": "小浜市",
+      "full_name": "小浜市",
+      "prefecture": "福井県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "18205",
+      "name": "大野市",
+      "full_name": "大野市",
+      "prefecture": "福井県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "18206",
+      "name": "勝山市",
+      "full_name": "勝山市",
+      "prefecture": "福井県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "18207",
+      "name": "鯖江市",
+      "full_name": "鯖江市",
+      "prefecture": "福井県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "18208",
+      "name": "あわら市",
+      "full_name": "あわら市",
+      "prefecture": "福井県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "18209",
+      "name": "越前市",
+      "full_name": "越前市",
+      "prefecture": "福井県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "18210",
+      "name": "坂井市",
+      "full_name": "坂井市",
+      "prefecture": "福井県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "18322",
+      "name": "永平寺町",
+      "full_name": "吉田郡永平寺町",
+      "prefecture": "福井県",
+      "county_or_designated_city": "吉田郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "18382",
+      "name": "池田町",
+      "full_name": "今立郡池田町",
+      "prefecture": "福井県",
+      "county_or_designated_city": "今立郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "18404",
+      "name": "南越前町",
+      "full_name": "南条郡南越前町",
+      "prefecture": "福井県",
+      "county_or_designated_city": "南条郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "18423",
+      "name": "越前町",
+      "full_name": "丹生郡越前町",
+      "prefecture": "福井県",
+      "county_or_designated_city": "丹生郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "18442",
+      "name": "美浜町",
+      "full_name": "三方郡美浜町",
+      "prefecture": "福井県",
+      "county_or_designated_city": "三方郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "18481",
+      "name": "高浜町",
+      "full_name": "大飯郡高浜町",
+      "prefecture": "福井県",
+      "county_or_designated_city": "大飯郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "18483",
+      "name": "おおい町",
+      "full_name": "大飯郡おおい町",
+      "prefecture": "福井県",
+      "county_or_designated_city": "大飯郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "18501",
+      "name": "若狭町",
+      "full_name": "三方上中郡若狭町",
+      "prefecture": "福井県",
+      "county_or_designated_city": "三方上中郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "福井県の市区町村一覧 - 無料ダウンロード",
+    "description": "福井県 (Fukui Prefecture) の全市区町村 17 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 17 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "福井県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 福井県の市区町村一覧 — 17 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 17 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

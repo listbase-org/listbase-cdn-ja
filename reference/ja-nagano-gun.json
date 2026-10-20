@@ -1,0 +1,263 @@
+{
+  "id": "ja-nagano-gun",
+  "name": "長野県の郡一覧 (Nagano Prefecture — counties)",
+  "title": "長野県の郡一覧 (Nagano Prefecture — counties)",
+  "description": "長野県に属する郡（ぐん）の一覧（14件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Nagano Prefecture.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_hira",
+      "label": "Name Hira",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_short_ja",
+      "label": "Name Short Ja",
+      "type": "string"
+    },
+    {
+      "key": "name_short_en",
+      "label": "Name Short En",
+      "type": "string"
+    },
+    {
+      "key": "pref_code",
+      "label": "Pref Code",
+      "type": "number"
+    },
+    {
+      "key": "pref_name",
+      "label": "Pref Name",
+      "type": "string"
+    },
+    {
+      "key": "pref_name_en",
+      "label": "Pref Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ja",
+      "label": "Type Ja",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "20300",
+      "name": "南佐久郡",
+      "name_hira": "みなみさくぐん",
+      "name_en": "Minamisaku County",
+      "name_short_ja": "南佐久",
+      "name_short_en": "Minamisaku",
+      "pref_code": "20",
+      "pref_name": "長野県",
+      "pref_name_en": "Nagano Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "20320",
+      "name": "北佐久郡",
+      "name_hira": "きたさくぐん",
+      "name_en": "Kitasaku County",
+      "name_short_ja": "北佐久",
+      "name_short_en": "Kitasaku",
+      "pref_code": "20",
+      "pref_name": "長野県",
+      "pref_name_en": "Nagano Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "20340",
+      "name": "小県郡",
+      "name_hira": "ちいさがたぐん",
+      "name_en": "Chiisagata County",
+      "name_short_ja": "小県",
+      "name_short_en": "Chiisagata",
+      "pref_code": "20",
+      "pref_name": "長野県",
+      "pref_name_en": "Nagano Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "20360",
+      "name": "諏訪郡",
+      "name_hira": "すわぐん",
+      "name_en": "Suwa County",
+      "name_short_ja": "諏訪",
+      "name_short_en": "Suwa",
+      "pref_code": "20",
+      "pref_name": "長野県",
+      "pref_name_en": "Nagano Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "20380",
+      "name": "上伊那郡",
+      "name_hira": "かみいなぐん",
+      "name_en": "Kamiina County",
+      "name_short_ja": "上伊那",
+      "name_short_en": "Kamiina",
+      "pref_code": "20",
+      "pref_name": "長野県",
+      "pref_name_en": "Nagano Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "20400",
+      "name": "下伊那郡",
+      "name_hira": "しもいなぐん",
+      "name_en": "Shimoina County",
+      "name_short_ja": "下伊那",
+      "name_short_en": "Shimoina",
+      "pref_code": "20",
+      "pref_name": "長野県",
+      "pref_name_en": "Nagano Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "20420",
+      "name": "木曽郡",
+      "name_hira": "きそぐん",
+      "name_en": "Kiso County",
+      "name_short_ja": "木曽",
+      "name_short_en": "Kiso",
+      "pref_code": "20",
+      "pref_name": "長野県",
+      "pref_name_en": "Nagano Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "20440",
+      "name": "東筑摩郡",
+      "name_hira": "ひがしちくまぐん",
+      "name_en": "Higashichikuma County",
+      "name_short_ja": "東筑摩",
+      "name_short_en": "Higashichikuma",
+      "pref_code": "20",
+      "pref_name": "長野県",
+      "pref_name_en": "Nagano Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "20480",
+      "name": "北安曇郡",
+      "name_hira": "きたあづみぐん",
+      "name_en": "Kitaazumi County",
+      "name_short_ja": "北安曇",
+      "name_short_en": "Kitaazumi",
+      "pref_code": "20",
+      "pref_name": "長野県",
+      "pref_name_en": "Nagano Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "20520",
+      "name": "埴科郡",
+      "name_hira": "はにしなぐん",
+      "name_en": "Hanishina County",
+      "name_short_ja": "埴科",
+      "name_short_en": "Hanishina",
+      "pref_code": "20",
+      "pref_name": "長野県",
+      "pref_name_en": "Nagano Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "20540",
+      "name": "上高井郡",
+      "name_hira": "かみたかいぐん",
+      "name_en": "Kamitakai County",
+      "name_short_ja": "上高井",
+      "name_short_en": "Kamitakai",
+      "pref_code": "20",
+      "pref_name": "長野県",
+      "pref_name_en": "Nagano Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "20560",
+      "name": "下高井郡",
+      "name_hira": "しもたかいぐん",
+      "name_en": "Shimotakai County",
+      "name_short_ja": "下高井",
+      "name_short_en": "Shimotakai",
+      "pref_code": "20",
+      "pref_name": "長野県",
+      "pref_name_en": "Nagano Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "20580",
+      "name": "上水内郡",
+      "name_hira": "かみみのちぐん",
+      "name_en": "Kamiminochi County",
+      "name_short_ja": "上水内",
+      "name_short_en": "Kamiminochi",
+      "pref_code": "20",
+      "pref_name": "長野県",
+      "pref_name_en": "Nagano Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "20600",
+      "name": "下水内郡",
+      "name_hira": "しもみのちぐん",
+      "name_en": "Shimominochi County",
+      "name_short_ja": "下水内",
+      "name_short_en": "Shimominochi",
+      "pref_code": "20",
+      "pref_name": "長野県",
+      "pref_name_en": "Nagano Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    }
+  ],
+  "meta": {
+    "title": "長野県の郡一覧 (Nagano Prefecture — counties) - 無料ダウンロード",
+    "description": "長野県に属する郡（ぐん）の一覧（14件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Nagano Prefecture. 収録数 14 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "長野県の郡一覧 (Nagano Prefecture — counties) | ListBase",
+    "seo_description": "ダウンロード 長野県の郡一覧 (Nagano Prefecture — counties) — 14 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 14 件 / 11 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "id": "ja-kansai-kuko",
+  "name": "関西地方の空港",
+  "title": "関西地方の空港",
+  "description": "関西地方の空港一覧（三重・滋賀・京都・大阪・兵庫・奈良・和歌山） — ICAO/IATAコード、空港名、所在市町村、所在都道府県、緯度経度（WGS84）、標高（フィート）、タイムゾーン（Asia/Tokyo）を収録。 (Airports of the Kansai region (Mie, Shiga, Kyoto, Osaka, Hyogo, Nara, Wakayama) with ICAO/IATA codes, anglicized airport and city names, native Japanese prefecture names with ISO 3166-2:JP codes, WGS84 coordinates, elevation in feet, and IANA timezone.)",
+  "category": "geography",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_ja",
+      "label": "Prefecture Ja",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_ja_full",
+      "label": "Prefecture Ja Full",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_en",
+      "label": "Prefecture En",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    },
+    {
+      "key": "region_ja",
+      "label": "Region Ja",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_ja",
+      "label": "Country Ja",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "RJBB",
+      "iata": "KIX",
+      "name_en": "Kansai International Airport",
+      "name_slug": "kansai-international-airport",
+      "city_en": "Osaka",
+      "city_slug": "osaka",
+      "prefecture_ja": "大阪",
+      "prefecture_ja_full": "大阪府",
+      "prefecture_en": "Osaka",
+      "prefecture_code": "JP-27",
+      "region_en": "Kansai",
+      "region_ja": "関西",
+      "country": "JP",
+      "country_ja": "日本",
+      "elevation_ft": 26,
+      "lat": 34.4272994995,
+      "lon": 135.2440032959,
+      "timezone": "Asia/Tokyo",
+      "has_iata": true
+    },
+    {
+      "icao": "RJBD",
+      "iata": "SHM",
+      "name_en": "Nanki Shirahama Airport",
+      "name_slug": "nanki-shirahama-airport",
+      "city_en": "Shirahama",
+      "city_slug": "shirahama",
+      "prefecture_ja": "和歌山",
+      "prefecture_ja_full": "和歌山県",
+      "prefecture_en": "Wakayama",
+      "prefecture_code": "JP-30",
+      "region_en": "Kansai",
+      "region_ja": "関西",
+      "country": "JP",
+      "country_ja": "日本",
+      "elevation_ft": 298,
+      "lat": 33.6622009277,
+      "lon": 135.363998413,
+      "timezone": "Asia/Tokyo",
+      "has_iata": true
+    },
+    {
+      "icao": "RJBE",
+      "iata": "UKB",
+      "name_en": "Kobe Airport",
+      "name_slug": "kobe-airport",
+      "city_en": "Kobe",
+      "city_slug": "kobe",
+      "prefecture_ja": "兵庫",
+      "prefecture_ja_full": "兵庫県",
+      "prefecture_en": "Hyogo",
+      "prefecture_code": "JP-28",
+      "region_en": "Kansai",
+      "region_ja": "関西",
+      "country": "JP",
+      "country_ja": "日本",
+      "elevation_ft": 22,
+      "lat": 34.6328010559,
+      "lon": 135.2239990234,
+      "timezone": "Asia/Tokyo",
+      "has_iata": true
+    },
+    {
+      "icao": "RJBT",
+      "iata": "TJH",
+      "name_en": "Tajima Airport",
+      "name_slug": "tajima-airport",
+      "city_en": "Tajima",
+      "city_slug": "tajima",
+      "prefecture_ja": "兵庫",
+      "prefecture_ja_full": "兵庫県",
+      "prefecture_en": "Hyogo",
+      "prefecture_code": "JP-28",
+      "region_en": "Kansai",
+      "region_ja": "関西",
+      "country": "JP",
+      "country_ja": "日本",
+      "elevation_ft": 584,
+      "lat": 35.5127983093,
+      "lon": 134.7870025635,
+      "timezone": "Asia/Tokyo",
+      "has_iata": true
+    },
+    {
+      "icao": "RJOE",
+      "iata": "",
+      "name_en": "Akeno Airport",
+      "name_slug": "akeno-airport",
+      "city_en": "",
+      "city_slug": "",
+      "prefecture_ja": "三重",
+      "prefecture_ja_full": "三重県",
+      "prefecture_en": "Mie",
+      "prefecture_code": "JP-24",
+      "region_en": "Kansai",
+      "region_ja": "関西",
+      "country": "JP",
+      "country_ja": "日本",
+      "elevation_ft": 20,
+      "lat": 34.5332984924,
+      "lon": 136.6719970703,
+      "timezone": "Asia/Tokyo",
+      "has_iata": false
+    },
+    {
+      "icao": "RJOO",
+      "iata": "ITM",
+      "name_en": "Osaka International Airport",
+      "name_slug": "osaka-international-airport",
+      "city_en": "Osaka",
+      "city_slug": "osaka",
+      "prefecture_ja": "兵庫",
+      "prefecture_ja_full": "兵庫県",
+      "prefecture_en": "Hyogo",
+      "prefecture_code": "JP-28",
+      "region_en": "Kansai",
+      "region_ja": "関西",
+      "country": "JP",
+      "country_ja": "日本",
+      "elevation_ft": 50,
+      "lat": 34.7854995728,
+      "lon": 135.43800354,
+      "timezone": "Asia/Tokyo",
+      "has_iata": true
+    },
+    {
+      "icao": "RJOY",
+      "iata": "",
+      "name_en": "Yao Airport",
+      "name_slug": "yao-airport",
+      "city_en": "Yao",
+      "city_slug": "yao",
+      "prefecture_ja": "大阪",
+      "prefecture_ja_full": "大阪府",
+      "prefecture_en": "Osaka",
+      "prefecture_code": "JP-27",
+      "region_en": "Kansai",
+      "region_ja": "関西",
+      "country": "JP",
+      "country_ja": "日本",
+      "elevation_ft": 39,
+      "lat": 34.5962982178,
+      "lon": 135.6029968262,
+      "timezone": "Asia/Tokyo",
+      "has_iata": false
+    }
+  ],
+  "meta": {
+    "title": "関西地方の空港 - 無料ダウンロード",
+    "description": "関西地方の空港一覧（三重・滋賀・京都・大阪・兵庫・奈良・和歌山） — ICAO/IATAコード、空港名、所在市町村、所在都道府県、緯度経度（WGS84）、標高（フィート）、タイムゾーン（Asia/Tokyo）を収録。 (Airports of the Kansai region (Mie, Shiga, Kyoto, Osaka, Hyogo, Nara, Wakayama) with ICAO/IATA codes, anglicized airport and city names, native Japanese prefecture names with ISO 3166-2:JP codes, WGS84 coordinates, elevation in feet, and IANA timezone.) 収録数 7 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "関西地方の空港 | ListBase",
+    "seo_description": "ダウンロード 関西地方の空港 — 7 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 7 件 / 19 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/mwgg/Airports"
+    ]
+  }
+}

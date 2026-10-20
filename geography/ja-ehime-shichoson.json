@@ -1,0 +1,216 @@
+{
+  "id": "ja-ehime-shichoson",
+  "name": "愛媛県の市区町村一覧",
+  "title": "愛媛県の市区町村一覧",
+  "description": "愛媛県 (Ehime Prefecture) の全市区町村 20 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "38201",
+      "name": "松山市",
+      "full_name": "松山市",
+      "prefecture": "愛媛県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "38202",
+      "name": "今治市",
+      "full_name": "今治市",
+      "prefecture": "愛媛県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "38203",
+      "name": "宇和島市",
+      "full_name": "宇和島市",
+      "prefecture": "愛媛県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "38204",
+      "name": "八幡浜市",
+      "full_name": "八幡浜市",
+      "prefecture": "愛媛県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "38205",
+      "name": "新居浜市",
+      "full_name": "新居浜市",
+      "prefecture": "愛媛県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "38206",
+      "name": "西条市",
+      "full_name": "西条市",
+      "prefecture": "愛媛県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "38207",
+      "name": "大洲市",
+      "full_name": "大洲市",
+      "prefecture": "愛媛県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "38210",
+      "name": "伊予市",
+      "full_name": "伊予市",
+      "prefecture": "愛媛県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "38213",
+      "name": "四国中央市",
+      "full_name": "四国中央市",
+      "prefecture": "愛媛県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "38214",
+      "name": "西予市",
+      "full_name": "西予市",
+      "prefecture": "愛媛県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "38215",
+      "name": "東温市",
+      "full_name": "東温市",
+      "prefecture": "愛媛県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "38356",
+      "name": "上島町",
+      "full_name": "越智郡上島町",
+      "prefecture": "愛媛県",
+      "county_or_designated_city": "越智郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "38386",
+      "name": "久万高原町",
+      "full_name": "上浮穴郡久万高原町",
+      "prefecture": "愛媛県",
+      "county_or_designated_city": "上浮穴郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "38401",
+      "name": "松前町",
+      "full_name": "伊予郡松前町",
+      "prefecture": "愛媛県",
+      "county_or_designated_city": "伊予郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "38402",
+      "name": "砥部町",
+      "full_name": "伊予郡砥部町",
+      "prefecture": "愛媛県",
+      "county_or_designated_city": "伊予郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "38422",
+      "name": "内子町",
+      "full_name": "喜多郡内子町",
+      "prefecture": "愛媛県",
+      "county_or_designated_city": "喜多郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "38442",
+      "name": "伊方町",
+      "full_name": "西宇和郡伊方町",
+      "prefecture": "愛媛県",
+      "county_or_designated_city": "西宇和郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "38484",
+      "name": "松野町",
+      "full_name": "北宇和郡松野町",
+      "prefecture": "愛媛県",
+      "county_or_designated_city": "北宇和郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "38488",
+      "name": "鬼北町",
+      "full_name": "北宇和郡鬼北町",
+      "prefecture": "愛媛県",
+      "county_or_designated_city": "北宇和郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "38506",
+      "name": "愛南町",
+      "full_name": "南宇和郡愛南町",
+      "prefecture": "愛媛県",
+      "county_or_designated_city": "南宇和郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "愛媛県の市区町村一覧 - 無料ダウンロード",
+    "description": "愛媛県 (Ehime Prefecture) の全市区町村 20 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 20 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "愛媛県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 愛媛県の市区町村一覧 — 20 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 20 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

@@ -1,0 +1,5786 @@
+{
+  "id": "ja-daigaku",
+  "name": "Japan — Universities (大学)",
+  "title": "Japan — Universities (大学)",
+  "description": "List of accredited universities and higher-education institutions in Japan. Each record carries the institution's English/Latin name, primary registered domain, full domain-alias list, primary web page, country code (ISO-3166-1 alpha-2), and sub-national region where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Japan\").",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 572,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "domain",
+      "label": "Domain",
+      "type": "string"
+    },
+    {
+      "key": "domains",
+      "label": "Domains",
+      "type": "string"
+    },
+    {
+      "key": "web_page",
+      "label": "Web Page",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "state_province",
+      "label": "State Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aichi Bunkyo University",
+      "slug": "abu",
+      "domain": "abu.ac.jp",
+      "domains": "abu.ac.jp",
+      "web_page": "http://www.abu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Aichi Gakuin University",
+      "slug": "aichi-gakuin",
+      "domain": "aichi-gakuin.ac.jp",
+      "domains": "aichi-gakuin.ac.jp",
+      "web_page": "http://www.aichi-gakuin.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Aichi Gakusen University",
+      "slug": "gakusen",
+      "domain": "gakusen.ac.jp",
+      "domains": "gakusen.ac.jp",
+      "web_page": "http://www.gakusen.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Aichi Institute of Technology",
+      "slug": "aitech",
+      "domain": "aitech.ac.jp",
+      "domains": "aitech.ac.jp",
+      "web_page": "http://www.aitech.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Aichi Medical University",
+      "slug": "aichi-med-u",
+      "domain": "aichi-med-u.ac.jp",
+      "domains": "aichi-med-u.ac.jp",
+      "web_page": "http://www.aichi-med-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Aichi Prefectural University",
+      "slug": "aichi-pu",
+      "domain": "aichi-pu.ac.jp",
+      "domains": "aichi-pu.ac.jp",
+      "web_page": "http://www.aichi-pu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Aichi Prefectural University of Fine Arts & Music",
+      "slug": "aichi-fam-u",
+      "domain": "aichi-fam-u.ac.jp",
+      "domains": "aichi-fam-u.ac.jp",
+      "web_page": "http://www.aichi-fam-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Aichi Sangyo University",
+      "slug": "asu",
+      "domain": "asu.ac.jp",
+      "domains": "asu.ac.jp",
+      "web_page": "http://www.asu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Aichi Shukutoku University",
+      "slug": "aasa",
+      "domain": "aasa.ac.jp",
+      "domains": "aasa.ac.jp",
+      "web_page": "http://www.aasa.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Aichi University",
+      "slug": "aichi-u",
+      "domain": "aichi-u.ac.jp",
+      "domains": "aichi-u.ac.jp",
+      "web_page": "http://www.aichi-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Aichi University of Education",
+      "slug": "aichi-edu",
+      "domain": "aichi-edu.ac.jp",
+      "domains": "aichi-edu.ac.jp",
+      "web_page": "http://www.aichi-edu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Aikoku Gakuen University",
+      "slug": "aikoku-u",
+      "domain": "aikoku-u.ac.jp",
+      "domains": "aikoku-u.ac.jp",
+      "web_page": "http://www.aikoku-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Akita University",
+      "slug": "akita-u",
+      "domain": "akita-u.ac.jp",
+      "domains": "akita-u.ac.jp",
+      "web_page": "http://www.akita-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Akita University of Economics and Law",
+      "slug": "akeihou-u",
+      "domain": "akeihou-u.ac.jp",
+      "domains": "akeihou-u.ac.jp",
+      "web_page": "http://www.akeihou-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "American University Extension, Okinawa",
+      "slug": "aue-okinawa",
+      "domain": "aue-okinawa.ac.jp",
+      "domains": "aue-okinawa.ac.jp",
+      "web_page": "http://www.aue-okinawa.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Aomori Chuoh Gakuin University",
+      "slug": "aomoricgu",
+      "domain": "aomoricgu.ac.jp",
+      "domains": "aomoricgu.ac.jp",
+      "web_page": "http://www.aomoricgu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Aomori Public College",
+      "slug": "nebuta",
+      "domain": "nebuta.ac.jp",
+      "domains": "nebuta.ac.jp",
+      "web_page": "http://www.nebuta.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Aomori University",
+      "slug": "aomori-u",
+      "domain": "aomori-u.ac.jp",
+      "domains": "aomori-u.ac.jp",
+      "web_page": "http://www.aomori-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Aomori University of Health and Welfare",
+      "slug": "auhw",
+      "domain": "auhw.ac.jp",
+      "domains": "auhw.ac.jp",
+      "web_page": "http://www.auhw.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Aoyama Gakuin University",
+      "slug": "aoyama",
+      "domain": "aoyama.ac.jp",
+      "domains": "aoyama.ac.jp",
+      "web_page": "http://www.aoyama.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Asahi University",
+      "slug": "asahi-u",
+      "domain": "asahi-u.ac.jp",
+      "domains": "asahi-u.ac.jp",
+      "web_page": "http://www.asahi-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Asahikawa Medical College",
+      "slug": "asahikawa-med",
+      "domain": "asahikawa-med.ac.jp",
+      "domains": "asahikawa-med.ac.jp",
+      "web_page": "http://www.asahikawa-med.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Asahikawa University",
+      "slug": "asahikawa-u",
+      "domain": "asahikawa-u.ac.jp",
+      "domains": "asahikawa-u.ac.jp",
+      "web_page": "http://www.asahikawa-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Ashikaga Institute of Technology",
+      "slug": "ashitech",
+      "domain": "ashitech.ac.jp",
+      "domains": "ashitech.ac.jp",
+      "web_page": "http://www.ashitech.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Ashiya University",
+      "slug": "ashiya-u",
+      "domain": "ashiya-u.ac.jp",
+      "domains": "ashiya-u.ac.jp",
+      "web_page": "http://www.ashiya-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Asia University",
+      "slug": "asia-u",
+      "domain": "asia-u.ac.jp",
+      "domains": "asia-u.ac.jp",
+      "web_page": "http://www.asia-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Atomi College",
+      "slug": "atomi",
+      "domain": "atomi.ac.jp",
+      "domains": "atomi.ac.jp",
+      "web_page": "http://www.atomi.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Azabu University",
+      "slug": "azabu-u",
+      "domain": "azabu-u.ac.jp",
+      "domains": "azabu-u.ac.jp",
+      "web_page": "http://www.azabu-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Baika Women's College",
+      "slug": "baika",
+      "domain": "baika.ac.jp",
+      "domains": "baika.ac.jp",
+      "web_page": "http://www.baika.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Baiko Women's College",
+      "slug": "baiko",
+      "domain": "baiko.ac.jp",
+      "domains": "baiko.ac.jp",
+      "web_page": "http://www.baiko.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Beppu University",
+      "slug": "beppu-u",
+      "domain": "beppu-u.ac.jp",
+      "domains": "beppu-u.ac.jp",
+      "web_page": "http://www.beppu-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Bukkyo University",
+      "slug": "bukkyo-u",
+      "domain": "bukkyo-u.ac.jp",
+      "domains": "bukkyo-u.ac.jp",
+      "web_page": "http://www.bukkyo-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Bunka Women's University",
+      "slug": "bunka-wu",
+      "domain": "bunka-wu.ac.jp",
+      "domains": "bunka-wu.ac.jp",
+      "web_page": "http://www.bunka-wu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Bunkyo Gakuin University",
+      "slug": "bgu",
+      "domain": "bgu.ac.jp",
+      "domains": "bgu.ac.jp",
+      "web_page": "https://www.bgu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Bunkyo University",
+      "slug": "bunkyo",
+      "domain": "bunkyo.ac.jp",
+      "domains": "bunkyo.ac.jp",
+      "web_page": "http://www.bunkyo.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Chiba Institute of Technology",
+      "slug": "it-chiba",
+      "domain": "it-chiba.ac.jp",
+      "domains": "it-chiba.ac.jp",
+      "web_page": "http://www.it-chiba.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Chiba Keizai University",
+      "slug": "cku",
+      "domain": "cku.ac.jp",
+      "domains": "cku.ac.jp",
+      "web_page": "http://www.cku.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Chiba University",
+      "slug": "chiba-u",
+      "domain": "chiba-u.ac.jp",
+      "domains": "chiba-u.ac.jp",
+      "web_page": "http://www.chiba-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Chiba University",
+      "slug": "chiba-u-chiba-u-jp",
+      "domain": "chiba-u.jp",
+      "domains": "chiba-u.jp",
+      "web_page": "https://chiba-u.jp",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Chiba University of Commerce",
+      "slug": "cuc",
+      "domain": "cuc.ac.jp",
+      "domains": "cuc.ac.jp",
+      "web_page": "http://www.cuc.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Chikushi Jogakuen University",
+      "slug": "chikushi",
+      "domain": "chikushi.ac.jp",
+      "domains": "chikushi.ac.jp",
+      "web_page": "http://www.chikushi.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Chubu Gakuin University & Chubu Women's College",
+      "slug": "chubu-gu",
+      "domain": "chubu-gu.ac.jp",
+      "domains": "chubu-gu.ac.jp",
+      "web_page": "http://www.chubu-gu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Chubu University",
+      "slug": "chubu",
+      "domain": "chubu.ac.jp",
+      "domains": "chubu.ac.jp",
+      "web_page": "http://www.chubu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Chukyo Gakuin University",
+      "slug": "chukyogakuin-u",
+      "domain": "chukyogakuin-u.ac.jp",
+      "domains": "chukyogakuin-u.ac.jp",
+      "web_page": "http://www.chukyogakuin-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Chukyo University",
+      "slug": "chukyo-u",
+      "domain": "chukyo-u.ac.jp",
+      "domains": "chukyo-u.ac.jp",
+      "web_page": "http://www.chukyo-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Chukyo Women's University",
+      "slug": "chujo-u",
+      "domain": "chujo-u.ac.jp",
+      "domains": "chujo-u.ac.jp",
+      "web_page": "http://www.chujo-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Chuo Gakuin University",
+      "slug": "cgu",
+      "domain": "cgu.ac.jp",
+      "domains": "cgu.ac.jp",
+      "web_page": "http://www.cgu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Chuo University",
+      "slug": "chuo-u",
+      "domain": "chuo-u.ac.jp",
+      "domains": "chuo-u.ac.jp",
+      "web_page": "http://www.chuo-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Dai Ichi University, College of Technology",
+      "slug": "daiichi-koudai",
+      "domain": "daiichi-koudai.ac.jp",
+      "domains": "daiichi-koudai.ac.jp",
+      "web_page": "http://www.daiichi-koudai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Daido Institute of Technology",
+      "slug": "daido-it",
+      "domain": "daido-it.ac.jp",
+      "domains": "daido-it.ac.jp",
+      "web_page": "http://www.daido-it.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Daiichi College of Pharmaceutical Sciences",
+      "slug": "daiichi-cps",
+      "domain": "daiichi-cps.ac.jp",
+      "domains": "daiichi-cps.ac.jp",
+      "web_page": "http://www.daiichi-cps.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Daiichi University of Economics",
+      "slug": "daiichi-ue",
+      "domain": "daiichi-ue.ac.jp",
+      "domains": "daiichi-ue.ac.jp",
+      "web_page": "http://www.daiichi-ue.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Daito Bunka University",
+      "slug": "daito",
+      "domain": "daito.ac.jp",
+      "domains": "daito.ac.jp",
+      "web_page": "http://www.daito.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Doho University",
+      "slug": "doho",
+      "domain": "doho.ac.jp",
+      "domains": "doho.ac.jp",
+      "web_page": "http://www.doho.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Dohto University",
+      "slug": "dohto",
+      "domain": "dohto.ac.jp",
+      "domains": "dohto.ac.jp",
+      "web_page": "http://www.dohto.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Dokkyo University",
+      "slug": "dokkyo",
+      "domain": "dokkyo.ac.jp",
+      "domains": "dokkyo.ac.jp",
+      "web_page": "http://www.dokkyo.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Dokkyo University School of Medicine",
+      "slug": "dokkyomed",
+      "domain": "dokkyomed.ac.jp",
+      "domains": "dokkyomed.ac.jp",
+      "web_page": "http://www.dokkyomed.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Doshisha University",
+      "slug": "doshisha",
+      "domain": "doshisha.ac.jp",
+      "domains": "doshisha.ac.jp",
+      "web_page": "http://www.doshisha.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Doshisha Women's College of Liberal Arts",
+      "slug": "dwc",
+      "domain": "dwc.doshisha.ac.jp",
+      "domains": "dwc.doshisha.ac.jp",
+      "web_page": "http://www.dwc.doshisha.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Edogawa University",
+      "slug": "edogawa-u",
+      "domain": "edogawa-u.ac.jp",
+      "domains": "edogawa-u.ac.jp",
+      "web_page": "http://www.edogawa-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Ehime University",
+      "slug": "ehime-u",
+      "domain": "ehime-u.ac.jp",
+      "domains": "ehime-u.ac.jp",
+      "web_page": "http://www.ehime-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Eichi University",
+      "slug": "eichi-u",
+      "domain": "eichi-u.ac.jp",
+      "domains": "eichi-u.ac.jp",
+      "web_page": "http://www.eichi-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Elisabeth University of Music",
+      "slug": "eum",
+      "domain": "eum.ac.jp",
+      "domains": "eum.ac.jp",
+      "web_page": "http://www.eum.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Ferris University",
+      "slug": "ferris",
+      "domain": "ferris.ac.jp",
+      "domains": "ferris.ac.jp",
+      "web_page": "http://www.ferris.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Fuji University",
+      "slug": "termnet",
+      "domain": "termnet.co.jp",
+      "domains": "termnet.co.jp",
+      "web_page": "http://www.termnet.co.jp/fujidai/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Fuji Women's College",
+      "slug": "fujijoshi",
+      "domain": "fujijoshi.ac.jp",
+      "domains": "fujijoshi.ac.jp",
+      "web_page": "http://www.fujijoshi.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Fujita Health University",
+      "slug": "fujita-hu",
+      "domain": "fujita-hu.ac.jp",
+      "domains": "fujita-hu.ac.jp",
+      "web_page": "http://www.fujita-hu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Fukui Medical School",
+      "slug": "fukui-med",
+      "domain": "fukui-med.ac.jp",
+      "domains": "fukui-med.ac.jp",
+      "web_page": "http://www.fukui-med.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Fukui Prefectural University",
+      "slug": "fpu",
+      "domain": "fpu.ac.jp",
+      "domains": "fpu.ac.jp",
+      "web_page": "http://www.fpu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Fukui University",
+      "slug": "fukui-u",
+      "domain": "fukui-u.ac.jp",
+      "domains": "fukui-u.ac.jp",
+      "web_page": "http://www.fukui-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Fukui University of Technology",
+      "slug": "fukui-ut",
+      "domain": "fukui-ut.ac.jp",
+      "domains": "fukui-ut.ac.jp",
+      "web_page": "http://www.fukui-ut.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Fukuoka Dental College",
+      "slug": "fdcnet",
+      "domain": "fdcnet.ac.jp",
+      "domains": "fdcnet.ac.jp",
+      "web_page": "http://www.fdcnet.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Fukuoka Institute of Technology",
+      "slug": "fit",
+      "domain": "fit.ac.jp",
+      "domains": "fit.ac.jp",
+      "web_page": "http://www.fit.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Fukuoka International University",
+      "slug": "fukuoka-int-u",
+      "domain": "fukuoka-int-u.ac.jp",
+      "domains": "fukuoka-int-u.ac.jp",
+      "web_page": "http://www.fukuoka-int-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Fukuoka Prefectural University",
+      "slug": "fukuoka-pu",
+      "domain": "fukuoka-pu.ac.jp",
+      "domains": "fukuoka-pu.ac.jp",
+      "web_page": "http://www.fukuoka-pu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Fukuoka University",
+      "slug": "fukuoka-u",
+      "domain": "fukuoka-u.ac.jp",
+      "domains": "fukuoka-u.ac.jp",
+      "web_page": "http://www.fukuoka-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Fukuoka University of Education",
+      "slug": "fukuoka-edu",
+      "domain": "fukuoka-edu.ac.jp",
+      "domains": "fukuoka-edu.ac.jp",
+      "web_page": "http://www.fukuoka-edu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Fukuoka Women's University",
+      "slug": "fwu",
+      "domain": "fwu.ac.jp",
+      "domains": "fwu.ac.jp",
+      "web_page": "http://www.fwu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Fukushima Medical College",
+      "slug": "fmu",
+      "domain": "fmu.ac.jp",
+      "domains": "fmu.ac.jp",
+      "web_page": "http://www.fmu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Fukushima University",
+      "slug": "fukushima-u",
+      "domain": "fukushima-u.ac.jp",
+      "domains": "fukushima-u.ac.jp",
+      "web_page": "http://www.fukushima-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Fukuyama Heisei University",
+      "slug": "heisei-u",
+      "domain": "heisei-u.ac.jp",
+      "domains": "heisei-u.ac.jp",
+      "web_page": "http://www.heisei-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Fukuyama University",
+      "slug": "fukuyama-u",
+      "domain": "fukuyama-u.ac.jp",
+      "domains": "fukuyama-u.ac.jp",
+      "web_page": "http://www.fukuyama-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Gakushuin University",
+      "slug": "gakushuin",
+      "domain": "gakushuin.ac.jp",
+      "domains": "gakushuin.ac.jp",
+      "web_page": "http://www.gakushuin.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Gifu Keizai University",
+      "slug": "gifu-keizai",
+      "domain": "gifu-keizai.ac.jp",
+      "domains": "gifu-keizai.ac.jp",
+      "web_page": "http://www.gifu-keizai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Gifu Pharmaceutical University",
+      "slug": "gifu-pu",
+      "domain": "gifu-pu.ac.jp",
+      "domains": "gifu-pu.ac.jp",
+      "web_page": "http://www.gifu-pu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Gifu Shotoku Gakuen University",
+      "slug": "shotoku",
+      "domain": "shotoku.ac.jp",
+      "domains": "shotoku.ac.jp",
+      "web_page": "http://www.shotoku.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Gifu University",
+      "slug": "gifu-u",
+      "domain": "gifu-u.ac.jp",
+      "domains": "gifu-u.ac.jp",
+      "web_page": "http://www.gifu-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Gifu University for Education and Languages",
+      "slug": "gifu-kyoiku",
+      "domain": "gifu-kyoiku.ac.jp",
+      "domains": "gifu-kyoiku.ac.jp",
+      "web_page": "http://www.gifu-kyoiku.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Gifu Women's University",
+      "slug": "gijodai",
+      "domain": "gijodai.ac.jp",
+      "domains": "gijodai.ac.jp",
+      "web_page": "http://www.gijodai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Graduate University for Advanced Studies",
+      "slug": "soken",
+      "domain": "soken.ac.jp",
+      "domains": "soken.ac.jp",
+      "web_page": "http://www.soken.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Gunma Prefectural Women's University",
+      "slug": "gpwu",
+      "domain": "gpwu.ac.jp",
+      "domains": "gpwu.ac.jp",
+      "web_page": "http://www.gpwu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Gunma University",
+      "slug": "gunma-u",
+      "domain": "gunma-u.ac.jp",
+      "domains": "gunma-u.ac.jp",
+      "web_page": "http://www.gunma-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hachinohe Institute of Technology",
+      "slug": "hi-tech",
+      "domain": "hi-tech.ac.jp",
+      "domains": "hi-tech.ac.jp",
+      "web_page": "http://www.hi-tech.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hachinohe University",
+      "slug": "hachinohe-u",
+      "domain": "hachinohe-u.ac.jp",
+      "domains": "hachinohe-u.ac.jp",
+      "web_page": "http://www.hachinohe-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hakodate University",
+      "slug": "hakodate-u",
+      "domain": "hakodate-u.ac.jp",
+      "domains": "hakodate-u.ac.jp",
+      "web_page": "http://www.hakodate-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hakuoh University",
+      "slug": "hakuoh",
+      "domain": "hakuoh.ac.jp",
+      "domains": "hakuoh.ac.jp",
+      "web_page": "http://www.hakuoh.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hamamatsu University",
+      "slug": "hamamatsu-u",
+      "domain": "hamamatsu-u.ac.jp",
+      "domains": "hamamatsu-u.ac.jp",
+      "web_page": "http://www.hamamatsu-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hamamatsu University School of Medicine",
+      "slug": "hama-med",
+      "domain": "hama-med.ac.jp",
+      "domains": "hama-med.ac.jp",
+      "web_page": "http://www.hama-med.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hanazono University",
+      "slug": "hanazono",
+      "domain": "hanazono.ac.jp",
+      "domains": "hanazono.ac.jp",
+      "web_page": "http://www.hanazono.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hannan University",
+      "slug": "hannan-u",
+      "domain": "hannan-u.ac.jp",
+      "domains": "hannan-u.ac.jp",
+      "web_page": "http://www.hannan-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Heisei International University",
+      "slug": "hiu",
+      "domain": "hiu.ac.jp",
+      "domains": "hiu.ac.jp",
+      "web_page": "http://www.hiu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Higashi Nippon International University",
+      "slug": "tonichi-kokusai-u",
+      "domain": "tonichi-kokusai-u.ac.jp",
+      "domains": "tonichi-kokusai-u.ac.jp",
+      "web_page": "http://www.tonichi-kokusai-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hijiyama University",
+      "slug": "hijiyama-u",
+      "domain": "hijiyama-u.ac.jp",
+      "domains": "hijiyama-u.ac.jp",
+      "web_page": "http://www.hijiyama-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Himeji Dokkyo University",
+      "slug": "himeji-du",
+      "domain": "himeji-du.ac.jp",
+      "domains": "himeji-du.ac.jp",
+      "web_page": "http://www.himeji-du.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Himeji Institute of Technology",
+      "slug": "himeji-tech",
+      "domain": "himeji-tech.ac.jp",
+      "domains": "himeji-tech.ac.jp",
+      "web_page": "http://www.himeji-tech.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hirosaki Gakuin University",
+      "slug": "hirogaku-u",
+      "domain": "hirogaku-u.ac.jp",
+      "domains": "hirogaku-u.ac.jp",
+      "web_page": "http://www.hirogaku-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hirosaki University",
+      "slug": "hirosaki-u",
+      "domain": "hirosaki-u.ac.jp",
+      "domains": "hirosaki-u.ac.jp",
+      "web_page": "http://www.hirosaki-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hiroshima Bunkyo Women's University",
+      "slug": "h-bunkyo",
+      "domain": "h-bunkyo.ac.jp",
+      "domains": "h-bunkyo.ac.jp",
+      "web_page": "http://www.h-bunkyo.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hiroshima City University",
+      "slug": "hiroshima-cu",
+      "domain": "hiroshima-cu.ac.jp",
+      "domains": "hiroshima-cu.ac.jp",
+      "web_page": "http://www.hiroshima-cu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hiroshima Institute of Technology",
+      "slug": "it-hiroshima",
+      "domain": "it-hiroshima.ac.jp",
+      "domains": "it-hiroshima.ac.jp",
+      "web_page": "http://www.it-hiroshima.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hiroshima International University",
+      "slug": "hirokoku-u",
+      "domain": "hirokoku-u.ac.jp",
+      "domains": "hirokoku-u.ac.jp",
+      "web_page": "http://www.hirokoku-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hiroshima Jogakuin University",
+      "slug": "hju",
+      "domain": "hju.ac.jp",
+      "domains": "hju.ac.jp",
+      "web_page": "http://www.hju.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hiroshima Kokusai Gakuin University",
+      "slug": "hkg",
+      "domain": "hkg.ac.jp",
+      "domains": "hkg.ac.jp",
+      "web_page": "http://www.hkg.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hiroshima Prefectural University",
+      "slug": "hiroshima-pu",
+      "domain": "hiroshima-pu.ac.jp",
+      "domains": "hiroshima-pu.ac.jp",
+      "web_page": "http://www.hiroshima-pu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hiroshima Shudo University",
+      "slug": "shudo-u",
+      "domain": "shudo-u.ac.jp",
+      "domains": "shudo-u.ac.jp",
+      "web_page": "http://www.shudo-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hiroshima University",
+      "slug": "hiroshima-u",
+      "domain": "hiroshima-u.ac.jp",
+      "domains": "hiroshima-u.ac.jp",
+      "web_page": "http://www.hiroshima-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hiroshima University of Economics",
+      "slug": "hue",
+      "domain": "hue.ac.jp",
+      "domains": "hue.ac.jp",
+      "web_page": "http://www.hue.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hiroshima Women's University",
+      "slug": "hirojo-u",
+      "domain": "hirojo-u.ac.jp",
+      "domains": "hirojo-u.ac.jp",
+      "web_page": "http://www.hirojo-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hitotsubashi University",
+      "slug": "hit-u",
+      "domain": "hit-u.ac.jp",
+      "domains": "hit-u.ac.jp",
+      "web_page": "http://www.hit-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hokkaido Information University",
+      "slug": "do-johodai",
+      "domain": "do-johodai.ac.jp",
+      "domains": "do-johodai.ac.jp",
+      "web_page": "http://www.do-johodai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hokkaido Institute of Pharmaceutical Sciences",
+      "slug": "hokuyakudai",
+      "domain": "hokuyakudai.ac.jp",
+      "domains": "hokuyakudai.ac.jp",
+      "web_page": "http://www.hokuyakudai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hokkaido Institute of Technology",
+      "slug": "hit",
+      "domain": "hit.ac.jp",
+      "domains": "hit.ac.jp",
+      "web_page": "http://www.hit.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hokkaido Tokai University",
+      "slug": "u-tokai",
+      "domain": "u-tokai.ac.jp",
+      "domains": "u-tokai.ac.jp",
+      "web_page": "http://www.u-tokai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hokkaido University",
+      "slug": "hokudai",
+      "domain": "hokudai.ac.jp",
+      "domains": "hokudai.ac.jp",
+      "web_page": "http://www.hokudai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hokkaido University of Education",
+      "slug": "hokkyodai",
+      "domain": "hokkyodai.ac.jp",
+      "domains": "hokkyodai.ac.jp",
+      "web_page": "http://www.hokkyodai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hokkaido University of Health Sciences",
+      "slug": "hoku-iryo-u",
+      "domain": "hoku-iryo-u.ac.jp",
+      "domains": "hoku-iryo-u.ac.jp",
+      "web_page": "http://www.hoku-iryo-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hokkaigakuen University",
+      "slug": "hokkai-s-u",
+      "domain": "hokkai-s-u.ac.jp",
+      "domains": "hokkai-s-u.ac.jp",
+      "web_page": "http://www.hokkai-s-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hokkaigakuen University of Kitami",
+      "slug": "hokkai-k-u",
+      "domain": "hokkai-k-u.ac.jp",
+      "domains": "hokkai-k-u.ac.jp",
+      "web_page": "http://www.hokkai-k-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hokuriku University",
+      "slug": "hokuriku-u",
+      "domain": "hokuriku-u.ac.jp",
+      "domains": "hokuriku-u.ac.jp",
+      "web_page": "http://www.hokuriku-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hokusei Gakuen University",
+      "slug": "hokusei",
+      "domain": "hokusei.ac.jp",
+      "domains": "hokusei.ac.jp",
+      "web_page": "http://www.hokusei.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hosei University",
+      "slug": "hosei",
+      "domain": "hosei.ac.jp",
+      "domains": "hosei.ac.jp",
+      "web_page": "http://www.hosei.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hoshi University",
+      "slug": "hoshi",
+      "domain": "hoshi.ac.jp",
+      "domains": "hoshi.ac.jp",
+      "web_page": "http://www.hoshi.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hyogo College of Medicine",
+      "slug": "hyo-med",
+      "domain": "hyo-med.ac.jp",
+      "domains": "hyo-med.ac.jp",
+      "web_page": "http://www.hyo-med.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hyogo University",
+      "slug": "hyogo-dai",
+      "domain": "hyogo-dai.ac.jp",
+      "domains": "hyogo-dai.ac.jp",
+      "web_page": "http://www.hyogo-dai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Hyogo University of Education",
+      "slug": "hyogo-u",
+      "domain": "hyogo-u.ac.jp",
+      "domains": "hyogo-u.ac.jp",
+      "web_page": "http://www.hyogo-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Ibaraki Christian College",
+      "slug": "icc",
+      "domain": "icc.ac.jp",
+      "domains": "icc.ac.jp",
+      "web_page": "http://www.icc.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Ibaraki Prefectural University of Health Sciences",
+      "slug": "ipu",
+      "domain": "ipu.ac.jp",
+      "domains": "ipu.ac.jp",
+      "web_page": "http://www.ipu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Ibaraki University",
+      "slug": "ibaraki",
+      "domain": "ibaraki.ac.jp",
+      "domains": "ibaraki.ac.jp",
+      "web_page": "http://www.ibaraki.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "International Buddhist University",
+      "slug": "shitennoji",
+      "domain": "shitennoji.ac.jp",
+      "domains": "shitennoji.ac.jp",
+      "web_page": "http://www.shitennoji.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "International Budo University",
+      "slug": "budo-u",
+      "domain": "budo-u.ac.jp",
+      "domains": "budo-u.ac.jp",
+      "web_page": "http://www.budo-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "International Christian University",
+      "slug": "icu",
+      "domain": "icu.ac.jp",
+      "domains": "icu.ac.jp",
+      "web_page": "http://www.icu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "International University of Health and Welfare",
+      "slug": "iuhw",
+      "domain": "iuhw.ac.jp",
+      "domains": "iuhw.ac.jp",
+      "web_page": "http://www.iuhw.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "International University of Japan",
+      "slug": "iuj",
+      "domain": "iuj.ac.jp",
+      "domains": "iuj.ac.jp",
+      "web_page": "http://www.iuj.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "International University of Kagoshima",
+      "slug": "iuk",
+      "domain": "iuk.ac.jp",
+      "domains": "iuk.ac.jp",
+      "web_page": "http://www.iuk.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Ishinomaki Senshu University",
+      "slug": "isenshu-u",
+      "domain": "isenshu-u.ac.jp",
+      "domains": "isenshu-u.ac.jp",
+      "web_page": "http://www.isenshu-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Iwaki Meisei University",
+      "slug": "iwakimu",
+      "domain": "iwakimu.ac.jp",
+      "domains": "iwakimu.ac.jp",
+      "web_page": "http://www.iwakimu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Iwate Medical University",
+      "slug": "iwate-med",
+      "domain": "iwate-med.ac.jp",
+      "domains": "iwate-med.ac.jp",
+      "web_page": "http://www.iwate-med.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Iwate Prefectural University",
+      "slug": "iwate-pu",
+      "domain": "iwate-pu.ac.jp",
+      "domains": "iwate-pu.ac.jp",
+      "web_page": "http://www.iwate-pu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Iwate University",
+      "slug": "iwate-u",
+      "domain": "iwate-u.ac.jp",
+      "domains": "iwate-u.ac.jp",
+      "web_page": "http://www.iwate-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Japan Advanced Institute of Science and Technology",
+      "slug": "jaist",
+      "domain": "jaist.ac.jp",
+      "domains": "jaist.ac.jp",
+      "web_page": "http://www.jaist.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Japan College of Social Work",
+      "slug": "shakaijigyo",
+      "domain": "shakaijigyo.ac.jp",
+      "domains": "shakaijigyo.ac.jp",
+      "web_page": "http://www.shakaijigyo.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Japan Women's University",
+      "slug": "jwu",
+      "domain": "jwu.ac.jp",
+      "domains": "jwu.ac.jp",
+      "web_page": "http://www.jwu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Japanese Red Cross College of Nursing",
+      "slug": "redcross",
+      "domain": "redcross.ac.jp",
+      "domains": "redcross.ac.jp",
+      "web_page": "http://www.redcross.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Jichi Medical School",
+      "slug": "jichi",
+      "domain": "jichi.ac.jp",
+      "domains": "jichi.ac.jp",
+      "web_page": "http://www.jichi.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Jikei University School of Medicine",
+      "slug": "jikei",
+      "domain": "jikei.ac.jp",
+      "domains": "jikei.ac.jp",
+      "web_page": "http://www.jikei.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Jissen Women's University",
+      "slug": "jissen",
+      "domain": "jissen.ac.jp",
+      "domains": "jissen.ac.jp",
+      "web_page": "http://www.jissen.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Jobu University",
+      "slug": "jobu",
+      "domain": "jobu.ac.jp",
+      "domains": "jobu.ac.jp",
+      "web_page": "http://www.jobu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Joetsu University of Education",
+      "slug": "juen",
+      "domain": "juen.ac.jp",
+      "domains": "juen.ac.jp",
+      "web_page": "http://www.juen.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Josai International University",
+      "slug": "jiu",
+      "domain": "jiu.ac.jp",
+      "domains": "jiu.ac.jp",
+      "web_page": "http://www.jiu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Josai University",
+      "slug": "josai",
+      "domain": "josai.ac.jp",
+      "domains": "josai.ac.jp",
+      "web_page": "http://www.josai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Juntendo University",
+      "slug": "juntendo",
+      "domain": "juntendo.ac.jp",
+      "domains": "juntendo.ac.jp",
+      "web_page": "http://www.juntendo.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kagawa Institute of Nutrition",
+      "slug": "eiyo",
+      "domain": "eiyo.ac.jp",
+      "domains": "eiyo.ac.jp",
+      "web_page": "http://www.eiyo.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kagawa Medical School",
+      "slug": "kms",
+      "domain": "kms.ac.jp",
+      "domains": "kms.ac.jp",
+      "web_page": "http://www.kms.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kagawa University",
+      "slug": "kagawa-u",
+      "domain": "kagawa-u.ac.jp",
+      "domains": "kagawa-u.ac.jp",
+      "web_page": "http://www.kagawa-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kagoshima Immaculate Heart University",
+      "slug": "juntan",
+      "domain": "juntan.k-junshin.ac.jp",
+      "domains": "juntan.k-junshin.ac.jp",
+      "web_page": "http://www.juntan.k-junshin.ac.jp/jundai/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kagoshima University",
+      "slug": "kagoshima-u",
+      "domain": "kagoshima-u.ac.jp",
+      "domains": "kagoshima-u.ac.jp",
+      "web_page": "http://www.kagoshima-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kagoshima Women's College",
+      "slug": "kwc-u",
+      "domain": "kwc-u.ac.jp",
+      "domains": "kwc-u.ac.jp",
+      "web_page": "http://www.kwc-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kamakura Women's College",
+      "slug": "kamakura-u",
+      "domain": "kamakura-u.ac.jp",
+      "domains": "kamakura-u.ac.jp",
+      "web_page": "http://www.kamakura-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kanagawa Dental College",
+      "slug": "kdcnet",
+      "domain": "kdcnet.ac.jp",
+      "domains": "kdcnet.ac.jp",
+      "web_page": "http://www.kdcnet.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kanagawa Institute of Technology",
+      "slug": "kanagawa-it",
+      "domain": "kanagawa-it.ac.jp",
+      "domains": "kanagawa-it.ac.jp",
+      "web_page": "http://www.kanagawa-it.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kanagawa University",
+      "slug": "kanagawa-u",
+      "domain": "kanagawa-u.ac.jp",
+      "domains": "kanagawa-u.ac.jp",
+      "web_page": "http://www.kanagawa-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kanazawa College of Art",
+      "slug": "kanazawa-bidai",
+      "domain": "kanazawa-bidai.ac.jp",
+      "domains": "kanazawa-bidai.ac.jp",
+      "web_page": "http://www.kanazawa-bidai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kanazawa College of Economics",
+      "slug": "kanazawa-eco",
+      "domain": "kanazawa-eco.ac.jp",
+      "domains": "kanazawa-eco.ac.jp",
+      "web_page": "http://www.kanazawa-eco.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kanazawa Gakuin University",
+      "slug": "kanazawa-gu",
+      "domain": "kanazawa-gu.ac.jp",
+      "domains": "kanazawa-gu.ac.jp",
+      "web_page": "http://www.kanazawa-gu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kanazawa Institute of Technology",
+      "slug": "kanazawa-it",
+      "domain": "kanazawa-it.ac.jp",
+      "domains": "kanazawa-it.ac.jp",
+      "web_page": "http://www.kanazawa-it.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kanazawa Medical University",
+      "slug": "kanazawa-med",
+      "domain": "kanazawa-med.ac.jp",
+      "domains": "kanazawa-med.ac.jp",
+      "web_page": "http://www.kanazawa-med.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kanazawa University",
+      "slug": "kanazawa-u",
+      "domain": "kanazawa-u.ac.jp",
+      "domains": "kanazawa-u.ac.jp",
+      "web_page": "http://www.kanazawa-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kanda University of International Studies",
+      "slug": "kuis",
+      "domain": "kuis.ac.jp",
+      "domains": "kuis.ac.jp",
+      "web_page": "http://www.kuis.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kansai Gaidai University",
+      "slug": "kansai-gaidai-u",
+      "domain": "kansai-gaidai-u.ac.jp",
+      "domains": "kansai-gaidai-u.ac.jp",
+      "web_page": "http://www.kansai-gaidai-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kansai Medical University",
+      "slug": "kmu",
+      "domain": "kmu.ac.jp",
+      "domains": "kmu.ac.jp",
+      "web_page": "http://www.kmu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kansai University",
+      "slug": "kansai-u",
+      "domain": "kansai-u.ac.jp",
+      "domains": "kansai-u.ac.jp",
+      "web_page": "http://www.kansai-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kansai University of International Studies",
+      "slug": "kuins",
+      "domain": "kuins.ac.jp",
+      "domains": "kuins.ac.jp",
+      "web_page": "http://www.kuins.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kansai University of Social Welfare",
+      "slug": "kusw",
+      "domain": "kusw.ac.jp",
+      "domains": "kusw.ac.jp",
+      "web_page": "http://www.kusw.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kanto Gakuen University",
+      "slug": "kanto-gakuen",
+      "domain": "kanto-gakuen.ac.jp",
+      "domains": "kanto-gakuen.ac.jp",
+      "web_page": "http://www.kanto-gakuen.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kanto Gakuin University",
+      "slug": "kanto-gakuin",
+      "domain": "kanto-gakuin.ac.jp",
+      "domains": "kanto-gakuin.ac.jp",
+      "web_page": "http://www.kanto-gakuin.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kawamura Gakuen Woman's University",
+      "slug": "kgwu",
+      "domain": "kgwu.ac.jp",
+      "domains": "kgwu.ac.jp",
+      "web_page": "http://www.kgwu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kawasaki Medical School",
+      "slug": "kawasaki-m",
+      "domain": "kawasaki-m.ac.jp",
+      "domains": "kawasaki-m.ac.jp",
+      "web_page": "http://www.kawasaki-m.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Keiai University",
+      "slug": "u-keiai",
+      "domain": "u-keiai.ac.jp",
+      "domains": "u-keiai.ac.jp",
+      "web_page": "http://www.u-keiai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Keio University",
+      "slug": "a2",
+      "domain": "a2.keio.jp",
+      "domains": "a2.keio.jp",
+      "web_page": "https://www.keio.ac.jp",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Keio University",
+      "slug": "keio",
+      "domain": "keio.ac.jp",
+      "domains": "keio.ac.jp",
+      "web_page": "http://www.keio.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Keisen Jogaku-en College",
+      "slug": "keisen",
+      "domain": "keisen.ac.jp",
+      "domains": "keisen.ac.jp",
+      "web_page": "http://www.keisen.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Keiwa College",
+      "slug": "keiwa-c",
+      "domain": "keiwa-c.ac.jp",
+      "domains": "keiwa-c.ac.jp",
+      "web_page": "http://www.keiwa-c.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kibi International University",
+      "slug": "kiui",
+      "domain": "kiui.ac.jp",
+      "domains": "kiui.ac.jp",
+      "web_page": "http://www.kiui.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kinjo Gakuin University",
+      "slug": "kinjo-u",
+      "domain": "kinjo-u.ac.jp",
+      "domains": "kinjo-u.ac.jp",
+      "web_page": "http://www.kinjo-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kinki University",
+      "slug": "kindai",
+      "domain": "kindai.ac.jp",
+      "domains": "kindai.ac.jp",
+      "web_page": "http://www.kindai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kitakyushu University",
+      "slug": "kitakyu-u",
+      "domain": "kitakyu-u.ac.jp",
+      "domains": "kitakyu-u.ac.jp",
+      "web_page": "http://www.kitakyu-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kitami Institute of Technology",
+      "slug": "kitami-it",
+      "domain": "kitami-it.ac.jp",
+      "domains": "kitami-it.ac.jp",
+      "web_page": "http://www.kitami-it.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kitasato University",
+      "slug": "kitasato-u",
+      "domain": "kitasato-u.ac.jp",
+      "domains": "kitasato-u.ac.jp",
+      "web_page": "http://www.kitasato-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kobe City University of ForeignStudies",
+      "slug": "kobe-cufs",
+      "domain": "kobe-cufs.ac.jp",
+      "domains": "kobe-cufs.ac.jp",
+      "web_page": "http://www.kobe-cufs.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kobe Design University",
+      "slug": "kobe-du",
+      "domain": "kobe-du.ac.jp",
+      "domains": "kobe-du.ac.jp",
+      "web_page": "http://www.kobe-du.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kobe Gakuin University",
+      "slug": "kobegakuin",
+      "domain": "kobegakuin.ac.jp",
+      "domains": "kobegakuin.ac.jp",
+      "web_page": "http://www.kobegakuin.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kobe International University",
+      "slug": "kobe-kiu",
+      "domain": "kobe-kiu.ac.jp",
+      "domains": "kobe-kiu.ac.jp",
+      "web_page": "http://www.kobe-kiu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kobe Jogakuin University",
+      "slug": "kobe-c",
+      "domain": "kobe-c.ac.jp",
+      "domains": "kobe-c.ac.jp",
+      "web_page": "http://www.kobe-c.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kobe Pharmaceutical University",
+      "slug": "kobepharma-u",
+      "domain": "kobepharma-u.ac.jp",
+      "domains": "kobepharma-u.ac.jp",
+      "web_page": "http://www.kobepharma-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kobe Shinwa Women's University",
+      "slug": "kobe-shinwa",
+      "domain": "kobe-shinwa.ac.jp",
+      "domains": "kobe-shinwa.ac.jp",
+      "web_page": "http://www.kobe-shinwa.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kobe Shoin Women's University",
+      "slug": "shoin",
+      "domain": "shoin.ac.jp",
+      "domains": "shoin.ac.jp",
+      "web_page": "http://www.shoin.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kobe University",
+      "slug": "kobe-u",
+      "domain": "kobe-u.ac.jp",
+      "domains": "kobe-u.ac.jp",
+      "web_page": "http://www.kobe-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kobe University of Mercantile Marine",
+      "slug": "kshosen",
+      "domain": "kshosen.ac.jp",
+      "domains": "kshosen.ac.jp",
+      "web_page": "http://www.kshosen.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kobe Women's University",
+      "slug": "suma",
+      "domain": "suma.kobe-wu.ac.jp",
+      "domains": "suma.kobe-wu.ac.jp",
+      "web_page": "http://www.suma.kobe-wu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kochi Medical School",
+      "slug": "kochi-ms",
+      "domain": "kochi-ms.ac.jp",
+      "domains": "kochi-ms.ac.jp",
+      "web_page": "http://www.kochi-ms.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kochi University",
+      "slug": "kochi-u",
+      "domain": "kochi-u.ac.jp",
+      "domains": "kochi-u.ac.jp",
+      "web_page": "http://www.kochi-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kochi University of Technology",
+      "slug": "kochi-tech",
+      "domain": "kochi-tech.ac.jp",
+      "domains": "kochi-tech.ac.jp",
+      "web_page": "http://www.kochi-tech.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kochi Women's University",
+      "slug": "kochi-wu",
+      "domain": "kochi-wu.ac.jp",
+      "domains": "kochi-wu.ac.jp",
+      "web_page": "http://www.kochi-wu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kogakkan University",
+      "slug": "kogakkan-u",
+      "domain": "kogakkan-u.ac.jp",
+      "domains": "kogakkan-u.ac.jp",
+      "web_page": "http://www.kogakkan-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kogakuin University",
+      "slug": "kogakuin",
+      "domain": "kogakuin.ac.jp",
+      "domains": "kogakuin.ac.jp",
+      "web_page": "http://www.kogakuin.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Koka Women's College",
+      "slug": "koka",
+      "domain": "koka.ac.jp",
+      "domains": "koka.ac.jp",
+      "web_page": "http://www.koka.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kokugakuin University",
+      "slug": "kokugakuin",
+      "domain": "kokugakuin.ac.jp",
+      "domains": "kokugakuin.ac.jp",
+      "web_page": "http://www.kokugakuin.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kokushikan University",
+      "slug": "kokushikan",
+      "domain": "kokushikan.ac.jp",
+      "domains": "kokushikan.ac.jp",
+      "web_page": "http://www.kokushikan.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Komazawa University",
+      "slug": "komazawa-u",
+      "domain": "komazawa-u.ac.jp",
+      "domains": "komazawa-u.ac.jp",
+      "web_page": "http://www.komazawa-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Konan University",
+      "slug": "konan-u",
+      "domain": "konan-u.ac.jp",
+      "domains": "konan-u.ac.jp",
+      "web_page": "http://www.konan-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Konan Women's University",
+      "slug": "konan-wu",
+      "domain": "konan-wu.ac.jp",
+      "domains": "konan-wu.ac.jp",
+      "web_page": "http://www.konan-wu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Korea University",
+      "slug": "korea-u",
+      "domain": "korea-u.ac.jp",
+      "domains": "korea-u.ac.jp",
+      "web_page": "http://www.korea-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Koriyama Women's University and College",
+      "slug": "koriyama-kgc",
+      "domain": "koriyama-kgc.ac.jp",
+      "domains": "koriyama-kgc.ac.jp",
+      "web_page": "http://www.koriyama-kgc.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Koshien University",
+      "slug": "koshien",
+      "domain": "koshien.ac.jp",
+      "domains": "koshien.ac.jp",
+      "web_page": "http://www.koshien.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Koyasan University",
+      "slug": "koyasan-u",
+      "domain": "koyasan-u.ac.jp",
+      "domains": "koyasan-u.ac.jp",
+      "web_page": "http://www.koyasan-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kumamoto Gakuen University",
+      "slug": "kumagaku",
+      "domain": "kumagaku.ac.jp",
+      "domains": "kumagaku.ac.jp",
+      "web_page": "http://www.kumagaku.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kumamoto Institute of Technology",
+      "slug": "knct",
+      "domain": "knct.ac.jp",
+      "domains": "knct.ac.jp",
+      "web_page": "http://www.knct.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kumamoto Prefectural University",
+      "slug": "pu-kumamoto",
+      "domain": "pu-kumamoto.ac.jp",
+      "domains": "pu-kumamoto.ac.jp",
+      "web_page": "http://www.pu-kumamoto.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kumamoto University",
+      "slug": "kumamoto-u",
+      "domain": "kumamoto-u.ac.jp",
+      "domains": "kumamoto-u.ac.jp",
+      "web_page": "http://www.kumamoto-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kunitachi College of Music",
+      "slug": "kunitachi",
+      "domain": "kunitachi.ac.jp",
+      "domains": "kunitachi.ac.jp",
+      "web_page": "http://www.kunitachi.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kurashiki Sakuyo University",
+      "slug": "ksu",
+      "domain": "ksu.ac.jp",
+      "domains": "ksu.ac.jp",
+      "web_page": "http://www.ksu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kurashiki University of Science and the Arts",
+      "slug": "kusa",
+      "domain": "kusa.ac.jp",
+      "domains": "kusa.ac.jp",
+      "web_page": "http://www.kusa.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kure University",
+      "slug": "kure-u",
+      "domain": "kure-u.ac.jp",
+      "domains": "kure-u.ac.jp",
+      "web_page": "http://www.kure-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kurume Institute of Technology",
+      "slug": "kurume-it",
+      "domain": "kurume-it.ac.jp",
+      "domains": "kurume-it.ac.jp",
+      "web_page": "http://www.kurume-it.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kurume University",
+      "slug": "kurume-u",
+      "domain": "kurume-u.ac.jp",
+      "domains": "kurume-u.ac.jp",
+      "web_page": "http://www.kurume-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kushiro Public University of Economics",
+      "slug": "kushiro-pu",
+      "domain": "kushiro-pu.ac.jp",
+      "domains": "kushiro-pu.ac.jp",
+      "web_page": "http://www.kushiro-pu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kwansei Gakuin University",
+      "slug": "kwansei",
+      "domain": "kwansei.ac.jp",
+      "domains": "kwansei.ac.jp",
+      "web_page": "http://www.kwansei.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kwassui Women's College",
+      "slug": "kwassui",
+      "domain": "kwassui.ac.jp",
+      "domains": "kwassui.ac.jp",
+      "web_page": "http://www.kwassui.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyorin University",
+      "slug": "kyorin-u",
+      "domain": "kyorin-u.ac.jp",
+      "domains": "kyorin-u.ac.jp",
+      "web_page": "http://www.kyorin-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyoritsu Pharmaceutical University",
+      "slug": "kyoritsu-ph",
+      "domain": "kyoritsu-ph.ac.jp",
+      "domains": "kyoritsu-ph.ac.jp",
+      "web_page": "http://www.kyoritsu-ph.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyoritsu Woman's University",
+      "slug": "kyoritsu-wu",
+      "domain": "kyoritsu-wu.ac.jp",
+      "domains": "kyoritsu-wu.ac.jp",
+      "web_page": "http://www.kyoritsu-wu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyoto Bunkyo University",
+      "slug": "kbu",
+      "domain": "kbu.ac.jp",
+      "domains": "kbu.ac.jp",
+      "web_page": "http://www.kbu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyoto City University of Arts",
+      "slug": "kcua",
+      "domain": "kcua.ac.jp",
+      "domains": "kcua.ac.jp",
+      "web_page": "http://www.kcua.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyoto Gakuen University",
+      "slug": "kyotogakuen-u",
+      "domain": "kyotogakuen-u.ac.jp",
+      "domains": "kyotogakuen-u.ac.jp",
+      "web_page": "http://www.kyotogakuen-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyoto Institute of Technology",
+      "slug": "kit",
+      "domain": "kit.ac.jp",
+      "domains": "kit.ac.jp",
+      "web_page": "http://www.kit.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyoto Notre Dame University",
+      "slug": "notredame",
+      "domain": "notredame.ac.jp",
+      "domains": "notredame.ac.jp",
+      "web_page": "https://www.notredame.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyoto Pharmaceutical University",
+      "slug": "kyoto-phu",
+      "domain": "kyoto-phu.ac.jp",
+      "domains": "kyoto-phu.ac.jp",
+      "web_page": "http://www.kyoto-phu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyoto Prefectural University",
+      "slug": "kpu",
+      "domain": "kpu.ac.jp",
+      "domains": "kpu.ac.jp",
+      "web_page": "http://www.kpu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyoto Prefectural University of Medicine",
+      "slug": "kpu-m",
+      "domain": "kpu-m.ac.jp",
+      "domains": "kpu-m.ac.jp",
+      "web_page": "http://www.kpu-m.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyoto Sangyo University",
+      "slug": "kyoto-su",
+      "domain": "kyoto-su.ac.jp",
+      "domains": "kyoto-su.ac.jp",
+      "web_page": "http://www.kyoto-su.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyoto Seika University",
+      "slug": "kyoto-seika",
+      "domain": "kyoto-seika.ac.jp",
+      "domains": "kyoto-seika.ac.jp",
+      "web_page": "http://www.kyoto-seika.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyoto Tachibana Women's University",
+      "slug": "tachibana-u",
+      "domain": "tachibana-u.ac.jp",
+      "domains": "tachibana-u.ac.jp",
+      "web_page": "http://www.tachibana-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyoto University",
+      "slug": "kyoto-u",
+      "domain": "kyoto-u.ac.jp",
+      "domains": "kyoto-u.ac.jp",
+      "web_page": "http://www.kyoto-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyoto University of Art and Design",
+      "slug": "kyoto-art",
+      "domain": "kyoto-art.ac.jp",
+      "domains": "kyoto-art.ac.jp",
+      "web_page": "http://www.kyoto-art.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyoto University of Education",
+      "slug": "kyokyo-u",
+      "domain": "kyokyo-u.ac.jp",
+      "domains": "kyokyo-u.ac.jp",
+      "web_page": "http://www.kyokyo-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyoto University of Foreign Studies",
+      "slug": "kufs",
+      "domain": "kufs.ac.jp",
+      "domains": "kufs.ac.jp",
+      "web_page": "http://www.kufs.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyoto Women's University",
+      "slug": "kyoto-wu",
+      "domain": "kyoto-wu.ac.jp",
+      "domains": "kyoto-wu.ac.jp",
+      "web_page": "http://www.kyoto-wu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyushu Dental College",
+      "slug": "kyu-dent",
+      "domain": "kyu-dent.ac.jp",
+      "domains": "kyu-dent.ac.jp",
+      "web_page": "http://www.kyu-dent.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyushu Institute of Design",
+      "slug": "kyushu-id",
+      "domain": "kyushu-id.ac.jp",
+      "domains": "kyushu-id.ac.jp",
+      "web_page": "http://www.kyushu-id.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyushu Institute of Technology",
+      "slug": "kyutech",
+      "domain": "kyutech.ac.jp",
+      "domains": "kyutech.ac.jp",
+      "web_page": "http://www.kyutech.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyushu International University",
+      "slug": "kiu",
+      "domain": "kiu.ac.jp",
+      "domains": "kiu.ac.jp",
+      "web_page": "http://www.kiu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyushu Kyoritsu University",
+      "slug": "kyukyo-u",
+      "domain": "kyukyo-u.ac.jp",
+      "domains": "kyukyo-u.ac.jp",
+      "web_page": "http://www.kyukyo-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyushu Sangyo University",
+      "slug": "ip",
+      "domain": "ip.kyusan-u.ac.jp",
+      "domains": "ip.kyusan-u.ac.jp",
+      "web_page": "http://www.ip.kyusan-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyushu Tokai University",
+      "slug": "ktokai-u",
+      "domain": "ktokai-u.ac.jp",
+      "domains": "ktokai-u.ac.jp",
+      "web_page": "http://www.ktokai-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyushu University",
+      "slug": "kyushu-u",
+      "domain": "kyushu-u.ac.jp",
+      "domains": "kyushu-u.ac.jp",
+      "web_page": "http://www.kyushu-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyushu University of Nursing and SocialWelfare",
+      "slug": "kyushu-ns",
+      "domain": "kyushu-ns.ac.jp",
+      "domains": "kyushu-ns.ac.jp",
+      "web_page": "http://www.kyushu-ns.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Kyushu Women's University",
+      "slug": "kwuc",
+      "domain": "kwuc.ac.jp",
+      "domains": "kwuc.ac.jp",
+      "web_page": "http://www.kwuc.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Matsumoto Dental University",
+      "slug": "mdu",
+      "domain": "mdu.ac.jp",
+      "domains": "mdu.ac.jp",
+      "web_page": "http://www.mdu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Matsusaka University",
+      "slug": "mie-chukyo-u",
+      "domain": "mie-chukyo-u.ac.jp",
+      "domains": "mie-chukyo-u.ac.jp",
+      "web_page": "http://www.mie-chukyo-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Matsuyama University",
+      "slug": "matsuyama-u",
+      "domain": "matsuyama-u.ac.jp",
+      "domains": "matsuyama-u.ac.jp",
+      "web_page": "http://www.matsuyama-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Meiji College of Pharmacy",
+      "slug": "my-pharm",
+      "domain": "my-pharm.ac.jp",
+      "domains": "my-pharm.ac.jp",
+      "web_page": "http://www.my-pharm.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Meiji Gakuin University",
+      "slug": "meijigakuin",
+      "domain": "meijigakuin.ac.jp",
+      "domains": "meijigakuin.ac.jp",
+      "web_page": "http://www.meijigakuin.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Meiji University",
+      "slug": "meiji",
+      "domain": "meiji.ac.jp",
+      "domains": "meiji.ac.jp",
+      "web_page": "http://www.meiji.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Meiji University of Oriental Medicine",
+      "slug": "meiji-u",
+      "domain": "meiji-u.ac.jp",
+      "domains": "meiji-u.ac.jp",
+      "web_page": "http://www.meiji-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Meijo University",
+      "slug": "meijo-u",
+      "domain": "meijo-u.ac.jp",
+      "domains": "meijo-u.ac.jp",
+      "web_page": "http://www.meijo-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Meikai University",
+      "slug": "meikai",
+      "domain": "meikai.ac.jp",
+      "domains": "meikai.ac.jp",
+      "web_page": "http://www.meikai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Meio University",
+      "slug": "meio-u",
+      "domain": "meio-u.ac.jp",
+      "domains": "meio-u.ac.jp",
+      "web_page": "http://www.meio-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Meisei University",
+      "slug": "meisei-u",
+      "domain": "meisei-u.ac.jp",
+      "domains": "meisei-u.ac.jp",
+      "web_page": "http://www.meisei-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Mejiro University",
+      "slug": "mejiro",
+      "domain": "mejiro.ac.jp",
+      "domains": "mejiro.ac.jp",
+      "web_page": "http://www.mejiro.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Mie University",
+      "slug": "mie-u",
+      "domain": "mie-u.ac.jp",
+      "domains": "mie-u.ac.jp",
+      "web_page": "http://www.mie-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Mimasaka Women's College",
+      "slug": "mimasaka",
+      "domain": "mimasaka.ac.jp",
+      "domains": "mimasaka.ac.jp",
+      "web_page": "http://www.mimasaka.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Minamikyushu University",
+      "slug": "nankyudai",
+      "domain": "nankyudai.ac.jp",
+      "domains": "nankyudai.ac.jp",
+      "web_page": "http://www.nankyudai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Miyagi Gakuin Women's College",
+      "slug": "mgu",
+      "domain": "mgu.ac.jp",
+      "domains": "mgu.ac.jp",
+      "web_page": "http://www.mgu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Miyagi University",
+      "slug": "myu",
+      "domain": "myu.ac.jp",
+      "domains": "myu.ac.jp",
+      "web_page": "http://www.myu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Miyagi University of Education",
+      "slug": "miyakyo-u",
+      "domain": "miyakyo-u.ac.jp",
+      "domains": "miyakyo-u.ac.jp",
+      "web_page": "http://www.miyakyo-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Miyazaki Medical College",
+      "slug": "miyazaki-med",
+      "domain": "miyazaki-med.ac.jp",
+      "domains": "miyazaki-med.ac.jp",
+      "web_page": "http://www.miyazaki-med.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Miyazaki Municipal University",
+      "slug": "miyazaki-mu",
+      "domain": "miyazaki-mu.ac.jp",
+      "domains": "miyazaki-mu.ac.jp",
+      "web_page": "http://www.miyazaki-mu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Miyazaki Prefectural Nursing University",
+      "slug": "mpu",
+      "domain": "mpu.ac.jp",
+      "domains": "mpu.ac.jp",
+      "web_page": "http://www.mpu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Miyazaki University",
+      "slug": "miyazaki-u",
+      "domain": "miyazaki-u.ac.jp",
+      "domains": "miyazaki-u.ac.jp",
+      "web_page": "http://www.miyazaki-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Morioka College",
+      "slug": "morioka-u",
+      "domain": "morioka-u.ac.jp",
+      "domains": "morioka-u.ac.jp",
+      "web_page": "http://www.morioka-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Mukogawa Women's University",
+      "slug": "mukogawa-u",
+      "domain": "mukogawa-u.ac.jp",
+      "domains": "mukogawa-u.ac.jp",
+      "web_page": "http://www.mukogawa-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Muroran Institute of Technology",
+      "slug": "muroran-it",
+      "domain": "muroran-it.ac.jp",
+      "domains": "muroran-it.ac.jp",
+      "web_page": "http://www.muroran-it.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Musashi Institute of Technology",
+      "slug": "musashi-tech",
+      "domain": "musashi-tech.ac.jp",
+      "domains": "musashi-tech.ac.jp",
+      "web_page": "http://www.musashi-tech.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Musashi University",
+      "slug": "musashi",
+      "domain": "musashi.ac.jp",
+      "domains": "musashi.ac.jp",
+      "web_page": "http://www.musashi.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Musashino Academy of Music",
+      "slug": "musashino-music",
+      "domain": "musashino-music.ac.jp",
+      "domains": "musashino-music.ac.jp",
+      "web_page": "http://www.musashino-music.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Musashino Art University",
+      "slug": "musabi",
+      "domain": "musabi.ac.jp",
+      "domains": "musabi.ac.jp",
+      "web_page": "http://www.musabi.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Musashino Women's University",
+      "slug": "musashino-wu",
+      "domain": "musashino-wu.ac.jp",
+      "domains": "musashino-wu.ac.jp",
+      "web_page": "http://www.musashino-wu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nagano University",
+      "slug": "nagano",
+      "domain": "nagano.ac.jp",
+      "domains": "nagano.ac.jp",
+      "web_page": "http://www.nagano.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nagaoka University of Technology",
+      "slug": "nagaokaut",
+      "domain": "nagaokaut.ac.jp",
+      "domains": "nagaokaut.ac.jp",
+      "web_page": "http://www.nagaokaut.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nagasaki Institute of Applied Science",
+      "slug": "nias",
+      "domain": "nias.ac.jp",
+      "domains": "nias.ac.jp",
+      "web_page": "http://www.nias.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nagasaki Prefectural University",
+      "slug": "nagasakipu",
+      "domain": "nagasakipu.ac.jp",
+      "domains": "nagasakipu.ac.jp",
+      "web_page": "http://www.nagasakipu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nagasaki University",
+      "slug": "nagasaki-u",
+      "domain": "nagasaki-u.ac.jp",
+      "domains": "nagasaki-u.ac.jp",
+      "web_page": "http://www.nagasaki-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nagoya City University",
+      "slug": "nagoya-cu",
+      "domain": "nagoya-cu.ac.jp",
+      "domains": "nagoya-cu.ac.jp",
+      "web_page": "http://www.nagoya-cu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nagoya Economics University",
+      "slug": "nagoya-ku",
+      "domain": "nagoya-ku.ac.jp",
+      "domains": "nagoya-ku.ac.jp",
+      "web_page": "http://www.nagoya-ku.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nagoya Gakuin University",
+      "slug": "ngu",
+      "domain": "ngu.ac.jp",
+      "domains": "ngu.ac.jp",
+      "web_page": "http://www.ngu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nagoya Institute of Technology",
+      "slug": "nitech",
+      "domain": "nitech.ac.jp",
+      "domains": "nitech.ac.jp",
+      "web_page": "http://www.nitech.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nagoya University",
+      "slug": "nagoya-u",
+      "domain": "nagoya-u.ac.jp",
+      "domains": "nagoya-u.ac.jp",
+      "web_page": "http://www.nagoya-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nagoya University of Arts",
+      "slug": "nua",
+      "domain": "nua.ac.jp",
+      "domains": "nua.ac.jp",
+      "web_page": "http://www.nua.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nagoya University of Commerce and Business Administration",
+      "slug": "nucba",
+      "domain": "nucba.ac.jp",
+      "domains": "nucba.ac.jp",
+      "web_page": "http://www.nucba.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nagoya University of Foreign Studies",
+      "slug": "nufs",
+      "domain": "nufs.nakanishi.ac.jp",
+      "domains": "nufs.nakanishi.ac.jp",
+      "web_page": "http://www.nufs.nakanishi.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nagoya Women's University",
+      "slug": "nagoya-wu",
+      "domain": "nagoya-wu.ac.jp",
+      "domains": "nagoya-wu.ac.jp",
+      "web_page": "http://www.nagoya-wu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nakamura Gakuen University",
+      "slug": "nakamura-u",
+      "domain": "nakamura-u.ac.jp",
+      "domains": "nakamura-u.ac.jp",
+      "web_page": "http://www.nakamura-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nanzan University",
+      "slug": "nanzan-u",
+      "domain": "nanzan-u.ac.jp",
+      "domains": "nanzan-u.ac.jp",
+      "web_page": "http://www.nanzan-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nara Institute of Science and Technology",
+      "slug": "bs",
+      "domain": "bs.naist.jp",
+      "domains": "bs.naist.jp",
+      "web_page": "https://www.naist.jp",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nara Medical University",
+      "slug": "naramed-u",
+      "domain": "naramed-u.ac.jp",
+      "domains": "naramed-u.ac.jp",
+      "web_page": "http://www.naramed-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nara Sangyo University",
+      "slug": "nara-su",
+      "domain": "nara-su.ac.jp",
+      "domains": "nara-su.ac.jp",
+      "web_page": "http://www.nara-su.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nara University",
+      "slug": "nara-u",
+      "domain": "nara-u.ac.jp",
+      "domains": "nara-u.ac.jp",
+      "web_page": "http://www.nara-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nara University of Commerce",
+      "slug": "narauc",
+      "domain": "narauc.ac.jp",
+      "domains": "narauc.ac.jp",
+      "web_page": "http://www.narauc.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nara University of Education",
+      "slug": "nara-edu",
+      "domain": "nara-edu.ac.jp",
+      "domains": "nara-edu.ac.jp",
+      "web_page": "http://www.nara-edu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nara Women's University",
+      "slug": "nara-wu",
+      "domain": "nara-wu.ac.jp",
+      "domains": "nara-wu.ac.jp",
+      "web_page": "http://www.nara-wu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Naruto University of Education",
+      "slug": "naruto-u",
+      "domain": "naruto-u.ac.jp",
+      "domains": "naruto-u.ac.jp",
+      "web_page": "http://www.naruto-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "National Defence Medical College",
+      "slug": "ndmc",
+      "domain": "ndmc.ac.jp",
+      "domains": "ndmc.ac.jp",
+      "web_page": "http://www.ndmc.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "National Fisheries University",
+      "slug": "fish-u",
+      "domain": "fish-u.ac.jp",
+      "domains": "fish-u.ac.jp",
+      "web_page": "http://www.fish-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "National Institute of Fitness and Sports Kanoya",
+      "slug": "nifs-k",
+      "domain": "nifs-k.ac.jp",
+      "domains": "nifs-k.ac.jp",
+      "web_page": "http://www.nifs-k.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "National Institute of Technology, Asahikawa College",
+      "slug": "edu",
+      "domain": "edu.asahikawa-nct.ac.jp",
+      "domains": "edu.asahikawa-nct.ac.jp, asahikawa-nct.ac.jp",
+      "web_page": "https://asahikawa-nct.ac.jp",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nihon Fukushi University",
+      "slug": "n-fukushi",
+      "domain": "n-fukushi.ac.jp",
+      "domains": "n-fukushi.ac.jp",
+      "web_page": "http://www.n-fukushi.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nihon University",
+      "slug": "nihon-u",
+      "domain": "nihon-u.ac.jp",
+      "domains": "nihon-u.ac.jp",
+      "web_page": "http://www.nihon-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Niigata College of Pharmacy",
+      "slug": "niigata-pharm",
+      "domain": "niigata-pharm.ac.jp",
+      "domains": "niigata-pharm.ac.jp",
+      "web_page": "http://www.niigata-pharm.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Niigata Sangyo University",
+      "slug": "nsu",
+      "domain": "nsu.ac.jp",
+      "domains": "nsu.ac.jp",
+      "web_page": "http://www.nsu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Niigata University",
+      "slug": "niigata-u",
+      "domain": "niigata-u.ac.jp",
+      "domains": "niigata-u.ac.jp",
+      "web_page": "http://www.niigata-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Niigata University of International and Information Studies",
+      "slug": "nuis",
+      "domain": "nuis.ac.jp",
+      "domains": "nuis.ac.jp",
+      "web_page": "http://www.nuis.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Niigata University of Management",
+      "slug": "niigataum",
+      "domain": "niigataum.ac.jp",
+      "domains": "niigataum.ac.jp",
+      "web_page": "http://www.niigataum.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nippon Bunri University",
+      "slug": "nbu",
+      "domain": "nbu.ac.jp",
+      "domains": "nbu.ac.jp",
+      "web_page": "http://www.nbu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nippon Dental University",
+      "slug": "ndu",
+      "domain": "ndu.ac.jp",
+      "domains": "ndu.ac.jp",
+      "web_page": "http://www.ndu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nippon Institute of Technology",
+      "slug": "nit",
+      "domain": "nit.ac.jp",
+      "domains": "nit.ac.jp",
+      "web_page": "http://www.nit.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nippon Medical School",
+      "slug": "nms",
+      "domain": "nms.ac.jp",
+      "domains": "nms.ac.jp",
+      "web_page": "http://www.nms.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nippon Sport Science University",
+      "slug": "nittai",
+      "domain": "nittai.ac.jp",
+      "domains": "nittai.ac.jp",
+      "web_page": "http://www.nittai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nippon Veterinary and Animalscience University",
+      "slug": "nvau",
+      "domain": "nvau.ac.jp",
+      "domains": "nvau.ac.jp",
+      "web_page": "http://www.nvau.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nishikyushu University",
+      "slug": "nisikyu-u",
+      "domain": "nisikyu-u.ac.jp",
+      "domains": "nisikyu-u.ac.jp",
+      "web_page": "http://www.nisikyu-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nishinippon Institute of Technology",
+      "slug": "nishitech",
+      "domain": "nishitech.ac.jp",
+      "domains": "nishitech.ac.jp",
+      "web_page": "http://www.nishitech.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nisho Gakusha University",
+      "slug": "nishogakusha-u",
+      "domain": "nishogakusha-u.ac.jp",
+      "domains": "nishogakusha-u.ac.jp",
+      "web_page": "http://www.nishogakusha-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Nortre Dame Seishin University",
+      "slug": "ndsu",
+      "domain": "ndsu.ac.jp",
+      "domains": "ndsu.ac.jp",
+      "web_page": "http://www.ndsu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Obihiro University of Agriculture and Veterinary Medicine",
+      "slug": "obihiro",
+      "domain": "obihiro.ac.jp",
+      "domains": "obihiro.ac.jp",
+      "web_page": "http://www.obihiro.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Obirin University",
+      "slug": "obirin",
+      "domain": "obirin.ac.jp",
+      "domains": "obirin.ac.jp",
+      "web_page": "http://www.obirin.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Ochanomizu Women's University",
+      "slug": "ocha",
+      "domain": "ocha.ac.jp",
+      "domains": "ocha.ac.jp",
+      "web_page": "http://www.ocha.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Ohka Gakuen University",
+      "slug": "ohkagakuen-u",
+      "domain": "ohkagakuen-u.ac.jp",
+      "domains": "ohkagakuen-u.ac.jp",
+      "web_page": "http://www.ohkagakuen-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Ohtani Women's University",
+      "slug": "ohtani-w",
+      "domain": "ohtani-w.ac.jp",
+      "domains": "ohtani-w.ac.jp",
+      "web_page": "http://www.ohtani-w.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Ohu University",
+      "slug": "ohu-u",
+      "domain": "ohu-u.ac.jp",
+      "domains": "ohu-u.ac.jp",
+      "web_page": "http://www.ohu-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Oita Medical University",
+      "slug": "oita-med",
+      "domain": "oita-med.ac.jp",
+      "domains": "oita-med.ac.jp",
+      "web_page": "http://www.oita-med.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Oita University",
+      "slug": "oita-u",
+      "domain": "oita-u.ac.jp",
+      "domains": "oita-u.ac.jp",
+      "web_page": "http://www.oita-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Oita University of Nursing and Health Sciences",
+      "slug": "oita-nhs",
+      "domain": "oita-nhs.ac.jp",
+      "domains": "oita-nhs.ac.jp",
+      "web_page": "http://www.oita-nhs.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Okayama Prefectural University",
+      "slug": "oka-pu",
+      "domain": "oka-pu.ac.jp",
+      "domains": "oka-pu.ac.jp",
+      "web_page": "http://www.oka-pu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Okayama Shoka University",
+      "slug": "osu",
+      "domain": "osu.ac.jp",
+      "domains": "osu.ac.jp",
+      "web_page": "http://www.osu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Okayama University",
+      "slug": "okayama-u",
+      "domain": "okayama-u.ac.jp",
+      "domains": "okayama-u.ac.jp",
+      "web_page": "http://www.okayama-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Okayama University of Science",
+      "slug": "ous",
+      "domain": "ous.ac.jp",
+      "domains": "ous.ac.jp",
+      "web_page": "http://www.ous.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Okinawa Institute of Science and Technology",
+      "slug": "oist",
+      "domain": "oist.jp",
+      "domains": "oist.jp",
+      "web_page": "https://www.oist.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Okinawa International University",
+      "slug": "okiu",
+      "domain": "okiu.ac.jp",
+      "domains": "okiu.ac.jp",
+      "web_page": "http://www.okiu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Okinawa Prefectural University of Fine Arts",
+      "slug": "okigei",
+      "domain": "okigei.ac.jp",
+      "domains": "okigei.ac.jp",
+      "web_page": "http://www.okigei.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Okinawa University",
+      "slug": "okinawa-u",
+      "domain": "okinawa-u.ac.jp",
+      "domains": "okinawa-u.ac.jp",
+      "web_page": "http://www.okinawa-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Osaka City University",
+      "slug": "osaka-cu",
+      "domain": "osaka-cu.ac.jp",
+      "domains": "osaka-cu.ac.jp",
+      "web_page": "http://www.osaka-cu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Osaka College of Music",
+      "slug": "daion",
+      "domain": "daion.ac.jp",
+      "domains": "daion.ac.jp",
+      "web_page": "http://www.daion.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Osaka Dental University",
+      "slug": "osaka-dent",
+      "domain": "osaka-dent.ac.jp",
+      "domains": "osaka-dent.ac.jp",
+      "web_page": "http://www.osaka-dent.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Osaka Electro-Communication University",
+      "slug": "osakac",
+      "domain": "osakac.ac.jp",
+      "domains": "osakac.ac.jp, oecu.jp",
+      "web_page": "http://www.osakac.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Osaka Gakuin University",
+      "slug": "osaka-gu",
+      "domain": "osaka-gu.ac.jp",
+      "domains": "osaka-gu.ac.jp",
+      "web_page": "http://www.osaka-gu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Osaka Institute of Technology",
+      "slug": "oit",
+      "domain": "oit.ac.jp",
+      "domains": "oit.ac.jp",
+      "web_page": "http://www.oit.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Osaka International University",
+      "slug": "oiu",
+      "domain": "oiu.oiu.ac.jp",
+      "domains": "oiu.oiu.ac.jp",
+      "web_page": "http://www.oiu.oiu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Osaka International University for Women",
+      "slug": "oiuw",
+      "domain": "oiuw.oiu.ac.jp",
+      "domains": "oiuw.oiu.ac.jp",
+      "web_page": "http://www.oiuw.oiu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Osaka Jogakuin University",
+      "slug": "wilmina",
+      "domain": "wilmina.ac.jp",
+      "domains": "wilmina.ac.jp",
+      "web_page": "https://www.wilmina.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Osaka Medical College",
+      "slug": "osaka-med",
+      "domain": "osaka-med.ac.jp",
+      "domains": "osaka-med.ac.jp",
+      "web_page": "http://www.osaka-med.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Osaka Prefectural University",
+      "slug": "osakafu-u",
+      "domain": "osakafu-u.ac.jp",
+      "domains": "osakafu-u.ac.jp",
+      "web_page": "http://www.osakafu-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Osaka Sangyo University",
+      "slug": "osaka-sandai",
+      "domain": "osaka-sandai.ac.jp",
+      "domains": "osaka-sandai.ac.jp",
+      "web_page": "http://www.osaka-sandai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Osaka Shoin Women's College",
+      "slug": "osaka-shoin",
+      "domain": "osaka-shoin.ac.jp",
+      "domains": "osaka-shoin.ac.jp",
+      "web_page": "http://www.osaka-shoin.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Osaka University",
+      "slug": "osaka-u",
+      "domain": "osaka-u.ac.jp",
+      "domains": "osaka-u.ac.jp",
+      "web_page": "http://www.osaka-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Osaka University of Arts",
+      "slug": "osaka-geidai",
+      "domain": "osaka-geidai.ac.jp",
+      "domains": "osaka-geidai.ac.jp",
+      "web_page": "http://www.osaka-geidai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Osaka University of Commerce",
+      "slug": "daishodai",
+      "domain": "daishodai.ac.jp",
+      "domains": "daishodai.ac.jp",
+      "web_page": "http://www.daishodai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Osaka University of Economics",
+      "slug": "osaka-ue",
+      "domain": "osaka-ue.ac.jp",
+      "domains": "osaka-ue.ac.jp",
+      "web_page": "http://www.osaka-ue.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Osaka University of Economics & Law",
+      "slug": "keiho-u",
+      "domain": "keiho-u.ac.jp",
+      "domains": "keiho-u.ac.jp",
+      "web_page": "http://www.keiho-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Osaka University of Education",
+      "slug": "osaka-kyoiku",
+      "domain": "osaka-kyoiku.ac.jp",
+      "domains": "osaka-kyoiku.ac.jp",
+      "web_page": "http://www.osaka-kyoiku.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Osaka University of Foreign Studies",
+      "slug": "osaka-gaidai",
+      "domain": "osaka-gaidai.ac.jp",
+      "domains": "osaka-gaidai.ac.jp",
+      "web_page": "http://www.osaka-gaidai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Osaka University of Health and Sport Sciences",
+      "slug": "ouhs",
+      "domain": "ouhs.ac.jp",
+      "domains": "ouhs.ac.jp",
+      "web_page": "http://www.ouhs.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Osaka University of Pharmaceutical Sciences",
+      "slug": "oups",
+      "domain": "oups.ac.jp",
+      "domains": "oups.ac.jp",
+      "web_page": "http://www.oups.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Osaka Women's University",
+      "slug": "osaka-wu",
+      "domain": "osaka-wu.ac.jp",
+      "domains": "osaka-wu.ac.jp",
+      "web_page": "http://www.osaka-wu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Otani University",
+      "slug": "otani",
+      "domain": "otani.ac.jp",
+      "domains": "otani.ac.jp",
+      "web_page": "http://www.otani.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Otaru University of Commerce",
+      "slug": "otaru-uc",
+      "domain": "otaru-uc.ac.jp",
+      "domains": "otaru-uc.ac.jp",
+      "web_page": "http://www.otaru-uc.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Otemae University",
+      "slug": "otemae",
+      "domain": "otemae.ac.jp",
+      "domains": "otemae.ac.jp",
+      "web_page": "http://www.otemae.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Otemon Gakuin University",
+      "slug": "otemon",
+      "domain": "otemon.ac.jp",
+      "domains": "otemon.ac.jp",
+      "web_page": "http://www.otemon.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Otsuma Women's University",
+      "slug": "otsuma",
+      "domain": "otsuma.ac.jp",
+      "domains": "otsuma.ac.jp",
+      "web_page": "http://www.otsuma.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Polytechnic University",
+      "slug": "uitec",
+      "domain": "uitec.ac.jp",
+      "domains": "uitec.ac.jp",
+      "web_page": "http://www.uitec.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Poole Gakuin University",
+      "slug": "poole",
+      "domain": "poole.ac.jp",
+      "domains": "poole.ac.jp",
+      "web_page": "http://www.poole.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Rakuno Gakuen University",
+      "slug": "rakuno",
+      "domain": "rakuno.ac.jp",
+      "domains": "rakuno.ac.jp",
+      "web_page": "http://www.rakuno.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Reitaku University",
+      "slug": "reitaku-u",
+      "domain": "reitaku-u.ac.jp",
+      "domains": "reitaku-u.ac.jp",
+      "web_page": "http://www.reitaku-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Rikkyo University (St. Paul's University)",
+      "slug": "rikkyo",
+      "domain": "rikkyo.ac.jp",
+      "domains": "rikkyo.ac.jp",
+      "web_page": "http://www.rikkyo.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Rissho University",
+      "slug": "ris",
+      "domain": "ris.ac.jp",
+      "domains": "ris.ac.jp",
+      "web_page": "http://www.ris.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Ritsumeikan Asia Pacific University",
+      "slug": "apu",
+      "domain": "apu.ac.jp",
+      "domains": "apu.ac.jp",
+      "web_page": "http://www.apu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Ritsumeikan University",
+      "slug": "ritsumei",
+      "domain": "ritsumei.ac.jp",
+      "domains": "ritsumei.ac.jp",
+      "web_page": "http://www.ritsumei.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Ryukoku University",
+      "slug": "ryukoku",
+      "domain": "ryukoku.ac.jp",
+      "domains": "ryukoku.ac.jp",
+      "web_page": "http://www.ryukoku.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Ryutsu Keizai University",
+      "slug": "rku",
+      "domain": "rku.ac.jp",
+      "domains": "rku.ac.jp",
+      "web_page": "http://www.rku.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Saga Medical School",
+      "slug": "saga-med",
+      "domain": "saga-med.ac.jp",
+      "domains": "saga-med.ac.jp",
+      "web_page": "http://www.saga-med.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Saga University",
+      "slug": "saga-u",
+      "domain": "saga-u.ac.jp",
+      "domains": "saga-u.ac.jp",
+      "web_page": "http://www.saga-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Sagami Women's University",
+      "slug": "sagami-wu",
+      "domain": "sagami-wu.ac.jp",
+      "domains": "sagami-wu.ac.jp",
+      "web_page": "http://www.sagami-wu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Saitama Institute of Technology",
+      "slug": "sit",
+      "domain": "sit.ac.jp",
+      "domains": "sit.ac.jp",
+      "web_page": "http://www.sit.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Saitama Medical School",
+      "slug": "saitama-med",
+      "domain": "saitama-med.ac.jp",
+      "domains": "saitama-med.ac.jp",
+      "web_page": "http://www.saitama-med.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Saitama Prefectural University",
+      "slug": "spu",
+      "domain": "spu.ac.jp",
+      "domains": "spu.ac.jp",
+      "web_page": "http://www.spu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Saitama University",
+      "slug": "saitama-u",
+      "domain": "saitama-u.ac.jp",
+      "domains": "saitama-u.ac.jp",
+      "web_page": "http://www.saitama-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Sakushin Gakuin University",
+      "slug": "sakushin-u",
+      "domain": "sakushin-u.ac.jp",
+      "domains": "sakushin-u.ac.jp",
+      "web_page": "http://www.sakushin-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Sankei University",
+      "slug": "miyasankei-u",
+      "domain": "miyasankei-u.ac.jp",
+      "domains": "miyasankei-u.ac.jp",
+      "web_page": "http://www.miyasankei-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Sanno University",
+      "slug": "sanno",
+      "domain": "sanno.ac.jp",
+      "domains": "sanno.ac.jp",
+      "web_page": "http://www.sanno.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Sanyo Gakuen University",
+      "slug": "sguc",
+      "domain": "sguc.ac.jp",
+      "domains": "sguc.ac.jp",
+      "web_page": "http://www.sguc.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Sapporo Gakuin University",
+      "slug": "sgu",
+      "domain": "sgu.ac.jp",
+      "domains": "sgu.ac.jp",
+      "web_page": "http://www.sgu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Sapporo International University",
+      "slug": "siu",
+      "domain": "siu.ac.jp",
+      "domains": "siu.ac.jp",
+      "web_page": "http://www.siu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Sapporo Medical University",
+      "slug": "sapmed",
+      "domain": "sapmed.ac.jp",
+      "domains": "sapmed.ac.jp",
+      "web_page": "http://www.sapmed.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Sapporo University",
+      "slug": "sapporo-u",
+      "domain": "sapporo-u.ac.jp",
+      "domains": "sapporo-u.ac.jp",
+      "web_page": "http://www.sapporo-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Science University of Tokyo",
+      "slug": "sut",
+      "domain": "sut.ac.jp",
+      "domains": "sut.ac.jp",
+      "web_page": "http://www.sut.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Science University of Tokyo in Yamaguchi",
+      "slug": "yama",
+      "domain": "yama.sut.ac.jp",
+      "domains": "yama.sut.ac.jp",
+      "web_page": "http://www.yama.sut.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Seian University of Art & Design",
+      "slug": "seian",
+      "domain": "seian.ac.jp",
+      "domains": "seian.ac.jp",
+      "web_page": "http://www.seian.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Seigakuin University",
+      "slug": "seigakuin-univ",
+      "domain": "seigakuin-univ.ac.jp",
+      "domains": "seigakuin-univ.ac.jp",
+      "web_page": "http://www.seigakuin-univ.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Seijo University",
+      "slug": "seijo",
+      "domain": "seijo.ac.jp",
+      "domains": "seijo.ac.jp",
+      "web_page": "http://www.seijo.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Seikei University",
+      "slug": "seikei",
+      "domain": "seikei.ac.jp",
+      "domains": "seikei.ac.jp",
+      "web_page": "http://www.seikei.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Seinan Gakuin University",
+      "slug": "seinan-gu",
+      "domain": "seinan-gu.ac.jp",
+      "domains": "seinan-gu.ac.jp",
+      "web_page": "http://www.seinan-gu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Seisen University",
+      "slug": "seisen-u",
+      "domain": "seisen-u.ac.jp",
+      "domains": "seisen-u.ac.jp",
+      "web_page": "http://www.seisen-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Seiwa College",
+      "slug": "seiwa-u",
+      "domain": "seiwa-u.ac.jp",
+      "domains": "seiwa-u.ac.jp",
+      "web_page": "http://www.seiwa-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Sendai University",
+      "slug": "sendaidaigaku",
+      "domain": "sendaidaigaku.jp",
+      "domains": "sendaidaigaku.jp",
+      "web_page": "http://www.sendaidaigaku.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Senshu University",
+      "slug": "senshu-u",
+      "domain": "senshu-u.ac.jp",
+      "domains": "senshu-u.ac.jp",
+      "web_page": "http://www.senshu-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Senzoku Gakuen College",
+      "slug": "senzoku",
+      "domain": "senzoku.ac.jp",
+      "domains": "senzoku.ac.jp",
+      "web_page": "http://www.senzoku.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Setsunan University",
+      "slug": "setsunan",
+      "domain": "setsunan.ac.jp",
+      "domains": "setsunan.ac.jp",
+      "web_page": "http://www.setsunan.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Shibaura Institute of Technology",
+      "slug": "shibaura-it",
+      "domain": "shibaura-it.ac.jp",
+      "domains": "shibaura-it.ac.jp",
+      "web_page": "http://www.shibaura-it.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Shiga Prefecture Agricultural Technology Promotion Center",
+      "slug": "pref",
+      "domain": "pref.shiga.lg.jp",
+      "domains": "pref.shiga.lg.jp",
+      "web_page": "https://www.pref.shiga.lg.jp/nougicenter/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": "Shiga"
+    },
+    {
+      "name": "Shiga University",
+      "slug": "shiga-u",
+      "domain": "shiga-u.ac.jp",
+      "domains": "shiga-u.ac.jp",
+      "web_page": "http://www.shiga-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Shiga University of Medical Science",
+      "slug": "shiga-med",
+      "domain": "shiga-med.ac.jp",
+      "domains": "shiga-med.ac.jp",
+      "web_page": "http://www.shiga-med.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Shikoku Christian College",
+      "slug": "sg-u",
+      "domain": "sg-u.ac.jp",
+      "domains": "sg-u.ac.jp",
+      "web_page": "http://www.sg-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Shikoku University",
+      "slug": "shikoku-u",
+      "domain": "shikoku-u.ac.jp",
+      "domains": "shikoku-u.ac.jp",
+      "web_page": "http://www.shikoku-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Shimane University",
+      "slug": "shimane-u",
+      "domain": "shimane-u.ac.jp",
+      "domains": "shimane-u.ac.jp",
+      "web_page": "http://www.shimane-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Shimane University, Faculty of Medicine",
+      "slug": "shimane-med",
+      "domain": "shimane-med.ac.jp",
+      "domains": "shimane-med.ac.jp",
+      "web_page": "http://www.shimane-med.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Shimonoseki City University",
+      "slug": "shimonoseki-cu",
+      "domain": "shimonoseki-cu.ac.jp",
+      "domains": "shimonoseki-cu.ac.jp",
+      "web_page": "http://www.shimonoseki-cu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Shinshu University",
+      "slug": "shinshu-u",
+      "domain": "shinshu-u.ac.jp",
+      "domains": "shinshu-u.ac.jp",
+      "web_page": "http://www.shinshu-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Shirayuri Women's College",
+      "slug": "shirayuri",
+      "domain": "shirayuri.ac.jp",
+      "domains": "shirayuri.ac.jp",
+      "web_page": "http://www.shirayuri.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Shizuoka Prefectural University",
+      "slug": "u-shizuoka-ken",
+      "domain": "u-shizuoka-ken.ac.jp",
+      "domains": "u-shizuoka-ken.ac.jp",
+      "web_page": "http://www.u-shizuoka-ken.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Shizuoka Sangyo University",
+      "slug": "ssu",
+      "domain": "ssu.ac.jp",
+      "domains": "ssu.ac.jp",
+      "web_page": "http://www.ssu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Shizuoka University",
+      "slug": "shizuoka",
+      "domain": "shizuoka.ac.jp",
+      "domains": "shizuoka.ac.jp",
+      "web_page": "http://www.shizuoka.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Shokei College",
+      "slug": "shokei-gakuen",
+      "domain": "shokei-gakuen.ac.jp",
+      "domains": "shokei-gakuen.ac.jp",
+      "web_page": "http://www.shokei-gakuen.ac.jp/shokeicol/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Shonan Institute of Technology",
+      "slug": "shonan-it",
+      "domain": "shonan-it.ac.jp",
+      "domains": "shonan-it.ac.jp",
+      "web_page": "http://www.shonan-it.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Showa College of Pharmaceutical Sciences",
+      "slug": "shoyaku",
+      "domain": "shoyaku.ac.jp",
+      "domains": "shoyaku.ac.jp",
+      "web_page": "http://www.shoyaku.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Showa University",
+      "slug": "showa-u",
+      "domain": "showa-u.ac.jp",
+      "domains": "showa-u.ac.jp",
+      "web_page": "http://www.showa-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Showa Women's University",
+      "slug": "swu",
+      "domain": "swu.ac.jp",
+      "domains": "swu.ac.jp",
+      "web_page": "http://www.swu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Shuchiin College",
+      "slug": "shuchiin",
+      "domain": "shuchiin.ac.jp",
+      "domains": "shuchiin.ac.jp",
+      "web_page": "http://www.shuchiin.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Shujitsu Women's University",
+      "slug": "shujitsu",
+      "domain": "shujitsu.ac.jp",
+      "domains": "shujitsu.ac.jp",
+      "web_page": "http://www.shujitsu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Shukutoku University",
+      "slug": "shukutoku",
+      "domain": "shukutoku.ac.jp",
+      "domains": "shukutoku.ac.jp",
+      "web_page": "http://www.shukutoku.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Shumei University",
+      "slug": "shumei-u",
+      "domain": "shumei-u.ac.jp",
+      "domains": "shumei-u.ac.jp",
+      "web_page": "http://www.shumei-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Siebold University of Nagasaki",
+      "slug": "sun",
+      "domain": "sun.ac.jp",
+      "domains": "sun.ac.jp",
+      "web_page": "http://www.sun.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Soai University",
+      "slug": "soai",
+      "domain": "soai.ac.jp",
+      "domains": "soai.ac.jp",
+      "web_page": "http://www.soai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Soka University",
+      "slug": "soka",
+      "domain": "soka.ac.jp",
+      "domains": "soka.ac.jp",
+      "web_page": "http://www.soka.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Sonoda Women's University",
+      "slug": "sonoda-u",
+      "domain": "sonoda-u.ac.jp",
+      "domains": "sonoda-u.ac.jp",
+      "web_page": "http://www.sonoda-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Sophia University",
+      "slug": "sophia",
+      "domain": "sophia.ac.jp",
+      "domains": "sophia.ac.jp",
+      "web_page": "http://www.sophia.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "St. Andrew's University",
+      "slug": "andrew",
+      "domain": "andrew.ac.jp",
+      "domains": "andrew.ac.jp",
+      "web_page": "http://www.andrew.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "St. Luke' s College of Nursing",
+      "slug": "slcn",
+      "domain": "slcn.ac.jp",
+      "domains": "slcn.ac.jp",
+      "web_page": "http://www.slcn.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "St. Marianna University School of Medicine",
+      "slug": "marianna-u",
+      "domain": "marianna-u.ac.jp",
+      "domains": "marianna-u.ac.jp",
+      "web_page": "http://www.marianna-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Sugino Women's College",
+      "slug": "sugino",
+      "domain": "sugino.ac.jp",
+      "domains": "sugino.ac.jp",
+      "web_page": "http://www.sugino.ac.jp/daiindex.html",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Sugiyama Jogakuen University",
+      "slug": "sugiyama-u",
+      "domain": "sugiyama-u.ac.jp",
+      "domains": "sugiyama-u.ac.jp",
+      "web_page": "http://www.sugiyama-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Surugadai University",
+      "slug": "surugadai",
+      "domain": "surugadai.ac.jp",
+      "domains": "surugadai.ac.jp",
+      "web_page": "http://www.surugadai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Suzuka International University",
+      "slug": "suzuka-iu",
+      "domain": "suzuka-iu.ac.jp",
+      "domains": "suzuka-iu.ac.jp",
+      "web_page": "http://www.suzuka-iu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Suzuka University of Medical Science",
+      "slug": "suzuka-u",
+      "domain": "suzuka-u.ac.jp",
+      "domains": "suzuka-u.ac.jp",
+      "web_page": "http://www.suzuka-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Taisho University",
+      "slug": "tais",
+      "domain": "tais.ac.jp",
+      "domains": "tais.ac.jp",
+      "web_page": "http://www.tais.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Takachiho University",
+      "slug": "takachiho",
+      "domain": "takachiho.ac.jp",
+      "domains": "takachiho.ac.jp",
+      "web_page": "http://www.takachiho.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Takamatsu University",
+      "slug": "takamatsu-u",
+      "domain": "takamatsu-u.ac.jp",
+      "domains": "takamatsu-u.ac.jp",
+      "web_page": "http://www.takamatsu-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Takarazuka University of Art and Design",
+      "slug": "takara-univ",
+      "domain": "takara-univ.ac.jp",
+      "domains": "takara-univ.ac.jp",
+      "web_page": "http://www.takara-univ.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Takasaki City University of Economics",
+      "slug": "tcue",
+      "domain": "tcue.ac.jp",
+      "domains": "tcue.ac.jp",
+      "web_page": "http://www.tcue.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Takushoku University",
+      "slug": "takushoku-u",
+      "domain": "takushoku-u.ac.jp",
+      "domains": "takushoku-u.ac.jp",
+      "web_page": "http://www.takushoku-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tama Art University",
+      "slug": "tamabi",
+      "domain": "tamabi.ac.jp",
+      "domains": "tamabi.ac.jp",
+      "web_page": "http://www.tamabi.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tama Institute of Management and Information Sciences",
+      "slug": "timis",
+      "domain": "timis.ac.jp",
+      "domains": "timis.ac.jp",
+      "web_page": "http://www.timis.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tamagawa University",
+      "slug": "tamagawa",
+      "domain": "tamagawa.ac.jp",
+      "domains": "tamagawa.ac.jp",
+      "web_page": "http://www.tamagawa.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Teikyo Heisei University",
+      "slug": "teikyo-u",
+      "domain": "teikyo-u.ac.jp",
+      "domains": "teikyo-u.ac.jp",
+      "web_page": "http://www.teikyo-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Teikyo University of Science and Technology",
+      "slug": "ntu",
+      "domain": "ntu.ac.jp",
+      "domains": "ntu.ac.jp",
+      "web_page": "http://www.ntu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Temple University Japan",
+      "slug": "tuj",
+      "domain": "tuj.ac.jp",
+      "domains": "tuj.ac.jp",
+      "web_page": "http://www.tuj.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tenri University",
+      "slug": "tenri-u",
+      "domain": "tenri-u.ac.jp",
+      "domains": "tenri-u.ac.jp",
+      "web_page": "http://www.tenri-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tezukayama Gakuin University",
+      "slug": "tezuka-gu",
+      "domain": "tezuka-gu.ac.jp",
+      "domains": "tezuka-gu.ac.jp",
+      "web_page": "http://www.tezuka-gu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tezukayama University",
+      "slug": "tezukayama-u",
+      "domain": "tezukayama-u.ac.jp",
+      "domains": "tezukayama-u.ac.jp",
+      "web_page": "http://www.tezukayama-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Toho College of Music",
+      "slug": "toho-music",
+      "domain": "toho-music.ac.jp",
+      "domains": "toho-music.ac.jp",
+      "web_page": "http://www.toho-music.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Toho Gakuen School of Music",
+      "slug": "tohomusic",
+      "domain": "tohomusic.ac.jp",
+      "domains": "tohomusic.ac.jp",
+      "web_page": "http://www.tohomusic.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Toho University",
+      "slug": "toho-u",
+      "domain": "toho-u.ac.jp",
+      "domains": "toho-u.ac.jp",
+      "web_page": "http://www.toho-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tohoku Bunka Gakuen University",
+      "slug": "tbgu",
+      "domain": "tbgu.ac.jp",
+      "domains": "tbgu.ac.jp",
+      "web_page": "http://www.tbgu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tohoku College of Pharmacy",
+      "slug": "tohoku-pharm",
+      "domain": "tohoku-pharm.ac.jp",
+      "domains": "tohoku-pharm.ac.jp",
+      "web_page": "http://www.tohoku-pharm.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tohoku Fukushi University",
+      "slug": "tfu",
+      "domain": "tfu.ac.jp",
+      "domains": "tfu.ac.jp",
+      "web_page": "http://www.tfu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tohoku Gakuin University",
+      "slug": "tohoku-gakuin",
+      "domain": "tohoku-gakuin.ac.jp",
+      "domains": "tohoku-gakuin.ac.jp",
+      "web_page": "http://www.tohoku-gakuin.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tohoku Institute of Technology",
+      "slug": "tohtech",
+      "domain": "tohtech.ac.jp",
+      "domains": "tohtech.ac.jp",
+      "web_page": "http://www.tohtech.ac.jp",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tohoku University",
+      "slug": "tohoku",
+      "domain": "tohoku.ac.jp",
+      "domains": "tohoku.ac.jp",
+      "web_page": "http://www.tohoku.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tohoku University of Art and Design",
+      "slug": "tuad",
+      "domain": "tuad.ac.jp",
+      "domains": "tuad.ac.jp",
+      "web_page": "http://www.tuad.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tohoku Women's College",
+      "slug": "tojo",
+      "domain": "tojo.ac.jp",
+      "domains": "tojo.ac.jp",
+      "web_page": "http://www.tojo.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tohwa University",
+      "slug": "tohwa-u",
+      "domain": "tohwa-u.ac.jp",
+      "domains": "tohwa-u.ac.jp",
+      "web_page": "http://www.tohwa-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Toin University of Yokohama",
+      "slug": "toin",
+      "domain": "toin.ac.jp",
+      "domains": "toin.ac.jp",
+      "web_page": "http://www.toin.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokai Gakuen University",
+      "slug": "tokaigakuen-u",
+      "domain": "tokaigakuen-u.ac.jp",
+      "domains": "tokaigakuen-u.ac.jp",
+      "web_page": "http://www.tokaigakuen-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokai University Educational System",
+      "slug": "tokai",
+      "domain": "tokai.ac.jp",
+      "domains": "tokai.ac.jp",
+      "web_page": "http://www.tokai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokai Women's College",
+      "slug": "tokaijoshi-u",
+      "domain": "tokaijoshi-u.ac.jp",
+      "domains": "tokaijoshi-u.ac.jp",
+      "web_page": "http://www.tokaijoshi-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokiwa University",
+      "slug": "tokiwa",
+      "domain": "tokiwa.ac.jp",
+      "domains": "tokiwa.ac.jp",
+      "web_page": "http://www.tokiwa.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokoha Gakuen University",
+      "slug": "tokoha-u",
+      "domain": "tokoha-u.ac.jp",
+      "domains": "tokoha-u.ac.jp",
+      "web_page": "http://www.tokoha-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokushima Bunri University",
+      "slug": "bunri-u",
+      "domain": "bunri-u.ac.jp",
+      "domains": "bunri-u.ac.jp",
+      "web_page": "http://www.bunri-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokushima University",
+      "slug": "tokushima-u",
+      "domain": "tokushima-u.ac.jp",
+      "domains": "tokushima-u.ac.jp",
+      "web_page": "http://www.tokushima-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokuyama University",
+      "slug": "tokuyama-u",
+      "domain": "tokuyama-u.ac.jp",
+      "domains": "tokuyama-u.ac.jp",
+      "web_page": "http://www.tokuyama-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo College of Music",
+      "slug": "tokyo-ondai",
+      "domain": "tokyo-ondai.ac.jp",
+      "domains": "tokyo-ondai.ac.jp",
+      "web_page": "http://www.tokyo-ondai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo Denki University",
+      "slug": "dendai",
+      "domain": "dendai.ac.jp",
+      "domains": "dendai.ac.jp",
+      "web_page": "http://www.dendai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo Dental College",
+      "slug": "tdc",
+      "domain": "tdc.ac.jp",
+      "domains": "tdc.ac.jp",
+      "web_page": "http://www.tdc.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo Engineering University",
+      "slug": "teu",
+      "domain": "teu.ac.jp",
+      "domains": "teu.ac.jp",
+      "web_page": "http://www.teu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo Gakugei University",
+      "slug": "u-gakugei",
+      "domain": "u-gakugei.ac.jp",
+      "domains": "u-gakugei.ac.jp",
+      "web_page": "http://www.u-gakugei.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo Institute of Polytechnics",
+      "slug": "t-kougei",
+      "domain": "t-kougei.ac.jp",
+      "domains": "t-kougei.ac.jp",
+      "web_page": "http://www.t-kougei.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo Institute of Technology",
+      "slug": "titech",
+      "domain": "titech.ac.jp",
+      "domains": "titech.ac.jp",
+      "web_page": "http://www.titech.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo International University",
+      "slug": "tiu",
+      "domain": "tiu.ac.jp",
+      "domains": "tiu.ac.jp",
+      "web_page": "http://www.tiu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo Kasei University",
+      "slug": "tokyo-kasei",
+      "domain": "tokyo-kasei.ac.jp",
+      "domains": "tokyo-kasei.ac.jp",
+      "web_page": "http://www.tokyo-kasei.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo Keizai University",
+      "slug": "tku",
+      "domain": "tku.ac.jp",
+      "domains": "tku.ac.jp",
+      "web_page": "http://www.tku.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo Medical and Dental University",
+      "slug": "tmd",
+      "domain": "tmd.ac.jp",
+      "domains": "tmd.ac.jp",
+      "web_page": "http://www.tmd.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo Medical College",
+      "slug": "tokyo-med",
+      "domain": "tokyo-med.ac.jp",
+      "domains": "tokyo-med.ac.jp",
+      "web_page": "http://www.tokyo-med.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo Metropolitan Institute of Technology",
+      "slug": "tmit",
+      "domain": "tmit.ac.jp",
+      "domains": "tmit.ac.jp",
+      "web_page": "http://www.tmit.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo Metropolitan University",
+      "slug": "metro-u",
+      "domain": "metro-u.ac.jp",
+      "domains": "metro-u.ac.jp",
+      "web_page": "http://www.metro-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo Metropolitan University of Health Sciences",
+      "slug": "metro-hs",
+      "domain": "metro-hs.ac.jp",
+      "domains": "metro-hs.ac.jp",
+      "web_page": "http://www.metro-hs.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo National University of Fine Arts and Music",
+      "slug": "geidai",
+      "domain": "geidai.ac.jp",
+      "domains": "geidai.ac.jp",
+      "web_page": "http://www.geidai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo University of Agriculture",
+      "slug": "nodai",
+      "domain": "nodai.ac.jp",
+      "domains": "nodai.ac.jp",
+      "web_page": "http://www.nodai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo University of Agriculture and Technology",
+      "slug": "tuat",
+      "domain": "tuat.ac.jp",
+      "domains": "tuat.ac.jp",
+      "web_page": "http://www.tuat.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo University of Art and Design",
+      "slug": "zokei",
+      "domain": "zokei.ac.jp",
+      "domains": "zokei.ac.jp",
+      "web_page": "http://www.zokei.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo University of Fisheries",
+      "slug": "tokyo-u-fish",
+      "domain": "tokyo-u-fish.ac.jp",
+      "domains": "tokyo-u-fish.ac.jp",
+      "web_page": "http://www.tokyo-u-fish.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo University of Foreign Studies",
+      "slug": "tufs",
+      "domain": "tufs.ac.jp",
+      "domains": "tufs.ac.jp",
+      "web_page": "http://www.tufs.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo University of Information Sciences",
+      "slug": "tuis",
+      "domain": "tuis.ac.jp",
+      "domains": "tuis.ac.jp",
+      "web_page": "http://www.tuis.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo University of Mercantile Marine",
+      "slug": "tosho-u",
+      "domain": "tosho-u.ac.jp",
+      "domains": "tosho-u.ac.jp",
+      "web_page": "http://www.tosho-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo University of Pharmacy and Life Science",
+      "slug": "toyaku",
+      "domain": "toyaku.ac.jp",
+      "domains": "toyaku.ac.jp",
+      "web_page": "http://www.toyaku.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo Woman's Christian University",
+      "slug": "twcu",
+      "domain": "twcu.ac.jp",
+      "domains": "twcu.ac.jp",
+      "web_page": "http://www.twcu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo Women's College of Physical Education",
+      "slug": "twcpe",
+      "domain": "twcpe.ac.jp",
+      "domains": "twcpe.ac.jp",
+      "web_page": "http://www.twcpe.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tokyo Women's Medial College",
+      "slug": "twmu",
+      "domain": "twmu.ac.jp",
+      "domains": "twmu.ac.jp",
+      "web_page": "http://www.twmu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tomakomai Komazawa University",
+      "slug": "t-komazawa",
+      "domain": "t-komazawa.ac.jp",
+      "domains": "t-komazawa.ac.jp",
+      "web_page": "http://www.t-komazawa.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tottori University",
+      "slug": "tottori-u",
+      "domain": "tottori-u.ac.jp",
+      "domains": "tottori-u.ac.jp",
+      "web_page": "http://www.tottori-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tottori University of Environmental Studies",
+      "slug": "kankyo-u",
+      "domain": "kankyo-u.ac.jp",
+      "domains": "kankyo-u.ac.jp",
+      "web_page": "http://www.kankyo-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Toyama Medical and Pharmaceutical University",
+      "slug": "toyama-mpu",
+      "domain": "toyama-mpu.ac.jp",
+      "domains": "toyama-mpu.ac.jp",
+      "web_page": "http://www.toyama-mpu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Toyama Prefectural University",
+      "slug": "pu-toyama",
+      "domain": "pu-toyama.ac.jp",
+      "domains": "pu-toyama.ac.jp",
+      "web_page": "http://www.pu-toyama.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Toyama University",
+      "slug": "toyama-u",
+      "domain": "toyama-u.ac.jp",
+      "domains": "toyama-u.ac.jp",
+      "web_page": "http://www.toyama-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Toyama University of International Studies",
+      "slug": "tuins",
+      "domain": "tuins.ac.jp",
+      "domains": "tuins.ac.jp",
+      "web_page": "http://www.tuins.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Toyo Eiwa Women's University",
+      "slug": "toyoeiwa",
+      "domain": "toyoeiwa.ac.jp",
+      "domains": "toyoeiwa.ac.jp",
+      "web_page": "http://www.toyoeiwa.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Toyo Gakuen University",
+      "slug": "toyogakuen-u",
+      "domain": "toyogakuen-u.ac.jp",
+      "domains": "toyogakuen-u.ac.jp",
+      "web_page": "http://www.toyogakuen-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Toyo University",
+      "slug": "toyo",
+      "domain": "toyo.ac.jp",
+      "domains": "toyo.ac.jp",
+      "web_page": "http://www.toyo.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Toyohashi University of Technology",
+      "slug": "tut",
+      "domain": "tut.ac.jp",
+      "domains": "tut.ac.jp",
+      "web_page": "http://www.tut.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Toyota Technological Institute",
+      "slug": "toyota-ti",
+      "domain": "toyota-ti.ac.jp",
+      "domains": "toyota-ti.ac.jp",
+      "web_page": "http://www.toyota-ti.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tsuda College",
+      "slug": "tsuda",
+      "domain": "tsuda.ac.jp",
+      "domains": "tsuda.ac.jp",
+      "web_page": "http://www.tsuda.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tsukuba University",
+      "slug": "tsukuba",
+      "domain": "tsukuba.ac.jp",
+      "domains": "tsukuba.ac.jp",
+      "web_page": "http://www.tsukuba.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tsuru University",
+      "slug": "tsuru",
+      "domain": "tsuru.ac.jp",
+      "domains": "tsuru.ac.jp",
+      "web_page": "http://www.tsuru.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Tsurumi University",
+      "slug": "tsurumi-u",
+      "domain": "tsurumi-u.ac.jp",
+      "domains": "tsurumi-u.ac.jp",
+      "web_page": "http://www.tsurumi-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Ueno Gakuen College",
+      "slug": "uenogakuen",
+      "domain": "uenogakuen.ac.jp",
+      "domains": "uenogakuen.ac.jp",
+      "web_page": "http://www.uenogakuen.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "United Nations University",
+      "slug": "unu",
+      "domain": "unu.edu",
+      "domains": "unu.edu",
+      "web_page": "http://www.unu.edu/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "University of Aizu",
+      "slug": "u-aizu",
+      "domain": "u-aizu.ac.jp",
+      "domains": "u-aizu.ac.jp",
+      "web_page": "http://www.u-aizu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "University of Bunkyo",
+      "slug": "u-bunkyo",
+      "domain": "u-bunkyo.ac.jp",
+      "domains": "u-bunkyo.ac.jp",
+      "web_page": "http://www.u-bunkyo.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "University of East Asia",
+      "slug": "toua-u",
+      "domain": "toua-u.ac.jp",
+      "domains": "toua-u.ac.jp",
+      "web_page": "http://www.toua-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "University of Electro-Communications",
+      "slug": "uec",
+      "domain": "uec.ac.jp",
+      "domains": "uec.ac.jp",
+      "web_page": "http://www.uec.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "University of Marketing and Distribution Sciences",
+      "slug": "umds",
+      "domain": "umds.ac.jp",
+      "domains": "umds.ac.jp",
+      "web_page": "http://www.umds.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "University of Occupational and Environmental Health, Japan",
+      "slug": "uoeh-u",
+      "domain": "uoeh-u.ac.jp",
+      "domains": "uoeh-u.ac.jp",
+      "web_page": "http://www.uoeh-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "University of Shiga Prefecture",
+      "slug": "usp",
+      "domain": "usp.ac.jp",
+      "domains": "usp.ac.jp",
+      "web_page": "http://www.usp.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "University of the Air",
+      "slug": "u-air",
+      "domain": "u-air.ac.jp",
+      "domains": "u-air.ac.jp",
+      "web_page": "http://www.u-air.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "University of the Ryukyus",
+      "slug": "u-ryukyu",
+      "domain": "u-ryukyu.ac.jp",
+      "domains": "u-ryukyu.ac.jp",
+      "web_page": "http://www.u-ryukyu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "University of the Sacred Heart Tokyo",
+      "slug": "u-sacred-heart",
+      "domain": "u-sacred-heart.ac.jp",
+      "domains": "u-sacred-heart.ac.jp",
+      "web_page": "http://www.u-sacred-heart.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "University of Tokyo",
+      "slug": "u-tokyo",
+      "domain": "u-tokyo.ac.jp",
+      "domains": "u-tokyo.ac.jp",
+      "web_page": "http://www.u-tokyo.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Utsunomiya University",
+      "slug": "utsunomiya-u",
+      "domain": "utsunomiya-u.ac.jp",
+      "domains": "utsunomiya-u.ac.jp",
+      "web_page": "http://www.utsunomiya-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Wakayama Medical College",
+      "slug": "wakayama-med",
+      "domain": "wakayama-med.ac.jp",
+      "domains": "wakayama-med.ac.jp",
+      "web_page": "http://www.wakayama-med.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Wakayama University",
+      "slug": "wakayama-u",
+      "domain": "wakayama-u.ac.jp",
+      "domains": "wakayama-u.ac.jp",
+      "web_page": "http://www.wakayama-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Wakkanai Hokusei Gakuen University",
+      "slug": "wakhok",
+      "domain": "wakhok.ac.jp",
+      "domains": "wakhok.ac.jp",
+      "web_page": "http://www.wakhok.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Wako University",
+      "slug": "wako",
+      "domain": "wako.ac.jp",
+      "domains": "wako.ac.jp",
+      "web_page": "http://www.wako.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Waseda University",
+      "slug": "waseda",
+      "domain": "waseda.ac.jp",
+      "domains": "waseda.ac.jp",
+      "web_page": "http://www.waseda.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Wayo Women's University",
+      "slug": "wayo",
+      "domain": "wayo.ac.jp",
+      "domains": "wayo.ac.jp",
+      "web_page": "http://www.wayo.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Women's College of Fine Arts",
+      "slug": "joshibi",
+      "domain": "joshibi.ac.jp",
+      "domains": "joshibi.ac.jp",
+      "web_page": "http://www.joshibi.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Yamagata University",
+      "slug": "yamagata-u",
+      "domain": "yamagata-u.ac.jp",
+      "domains": "yamagata-u.ac.jp",
+      "web_page": "http://www.yamagata-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Yamaguchi Prefectural University",
+      "slug": "yamaguchi-pu",
+      "domain": "yamaguchi-pu.ac.jp",
+      "domains": "yamaguchi-pu.ac.jp",
+      "web_page": "http://www.yamaguchi-pu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Yamaguchi University",
+      "slug": "yamaguchi-u",
+      "domain": "yamaguchi-u.ac.jp",
+      "domains": "yamaguchi-u.ac.jp",
+      "web_page": "http://www.yamaguchi-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Yamanashi Gakuin University",
+      "slug": "ygu",
+      "domain": "ygu.ac.jp",
+      "domains": "ygu.ac.jp",
+      "web_page": "http://www.ygu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Yamanashi Medical University",
+      "slug": "yamanashi-med",
+      "domain": "yamanashi-med.ac.jp",
+      "domains": "yamanashi-med.ac.jp",
+      "web_page": "http://www.yamanashi-med.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Yamanashi University",
+      "slug": "yamanashi",
+      "domain": "yamanashi.ac.jp",
+      "domains": "yamanashi.ac.jp",
+      "web_page": "http://www.yamanashi.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Yasuda Women's University",
+      "slug": "yasuda-u",
+      "domain": "yasuda-u.ac.jp",
+      "domains": "yasuda-u.ac.jp",
+      "web_page": "http://www.yasuda-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Yokkaichi University",
+      "slug": "yokkaichi-u",
+      "domain": "yokkaichi-u.ac.jp",
+      "domains": "yokkaichi-u.ac.jp",
+      "web_page": "http://www.yokkaichi-u.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Yokohama City University",
+      "slug": "yokohama-cu",
+      "domain": "yokohama-cu.ac.jp",
+      "domains": "yokohama-cu.ac.jp",
+      "web_page": "http://www.yokohama-cu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Yokohama College of Commerce",
+      "slug": "shodai",
+      "domain": "shodai.ac.jp",
+      "domains": "shodai.ac.jp",
+      "web_page": "http://www.shodai.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    },
+    {
+      "name": "Yokohama National University",
+      "slug": "ynu",
+      "domain": "ynu.ac.jp",
+      "domains": "ynu.ac.jp",
+      "web_page": "http://www.ynu.ac.jp/",
+      "country": "Japan",
+      "country_code": "JP",
+      "state_province": ""
+    }
+  ],
+  "meta": {
+    "title": "Japan — Universities (大学) - 無料ダウンロード",
+    "description": "List of accredited universities and higher-education institutions in Japan. Each record carries the institution's English/Latin name, primary registered domain, full domain-alias list, primary web page, country code (ISO-3166-1 alpha-2), and sub-national region where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Japan\"). 収録数 572 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "Japan — Universities (大学) | ListBase",
+    "seo_description": "ダウンロード Japan — Universities (大学) — 572 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 572 件 / 8 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

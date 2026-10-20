@@ -1,0 +1,2662 @@
+{
+  "id": "ja-shugiin-senkyoku",
+  "name": "衆議院小選挙区一覧 (House of Representatives Single-Member Electoral Districts)",
+  "title": "衆議院小選挙区一覧 (House of Representatives Single-Member Electoral Districts)",
+  "description": "日本の衆議院小選挙区 289 件の一覧。smartnews-smri/japan-topography の senkyoku289 ポリゴンデータから、行政属性（区コード kucode、選挙区名 kuname、都道府県コード ken、区番号 ku）のみを抽出し、ポリゴン座標は除外。都道府県名（漢字・ローマ字）を JIS X 0401 で付与。 289 single-member electoral districts (小選挙区) of the Japanese House of Representatives, extracted as a clean attribute list (geometry dropped) from smartnews-smri/japan-topography. Source lineage: MLIT 国土数値情報 衆議院小選挙区データ.",
+  "category": "politics",
+  "source": "https://github.com/smartnews-smri/japan-topography",
+  "source_url": "https://github.com/smartnews-smri/japan-topography",
+  "updated": "2026-04",
+  "record_count": 289,
+  "columns": [
+    {
+      "key": "kucode",
+      "label": "Kucode",
+      "type": "number"
+    },
+    {
+      "key": "constituency",
+      "label": "Constituency",
+      "type": "string"
+    },
+    {
+      "key": "constituency_en",
+      "label": "Constituency En",
+      "type": "string"
+    },
+    {
+      "key": "district_number",
+      "label": "District Number",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_en",
+      "label": "Prefecture En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kucode": 101,
+      "constituency": "北海道1区",
+      "constituency_en": "Hokkaido 1",
+      "district_number": 1,
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_en": "Hokkaido"
+    },
+    {
+      "kucode": 102,
+      "constituency": "北海道2区",
+      "constituency_en": "Hokkaido 2",
+      "district_number": 2,
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_en": "Hokkaido"
+    },
+    {
+      "kucode": 103,
+      "constituency": "北海道3区",
+      "constituency_en": "Hokkaido 3",
+      "district_number": 3,
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_en": "Hokkaido"
+    },
+    {
+      "kucode": 104,
+      "constituency": "北海道4区",
+      "constituency_en": "Hokkaido 4",
+      "district_number": 4,
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_en": "Hokkaido"
+    },
+    {
+      "kucode": 105,
+      "constituency": "北海道5区",
+      "constituency_en": "Hokkaido 5",
+      "district_number": 5,
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_en": "Hokkaido"
+    },
+    {
+      "kucode": 106,
+      "constituency": "北海道6区",
+      "constituency_en": "Hokkaido 6",
+      "district_number": 6,
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_en": "Hokkaido"
+    },
+    {
+      "kucode": 107,
+      "constituency": "北海道7区",
+      "constituency_en": "Hokkaido 7",
+      "district_number": 7,
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_en": "Hokkaido"
+    },
+    {
+      "kucode": 108,
+      "constituency": "北海道8区",
+      "constituency_en": "Hokkaido 8",
+      "district_number": 8,
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_en": "Hokkaido"
+    },
+    {
+      "kucode": 109,
+      "constituency": "北海道9区",
+      "constituency_en": "Hokkaido 9",
+      "district_number": 9,
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_en": "Hokkaido"
+    },
+    {
+      "kucode": 110,
+      "constituency": "北海道10区",
+      "constituency_en": "Hokkaido 10",
+      "district_number": 10,
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_en": "Hokkaido"
+    },
+    {
+      "kucode": 111,
+      "constituency": "北海道11区",
+      "constituency_en": "Hokkaido 11",
+      "district_number": 11,
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_en": "Hokkaido"
+    },
+    {
+      "kucode": 112,
+      "constituency": "北海道12区",
+      "constituency_en": "Hokkaido 12",
+      "district_number": 12,
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_en": "Hokkaido"
+    },
+    {
+      "kucode": 201,
+      "constituency": "青森1区",
+      "constituency_en": "Aomori 1",
+      "district_number": 1,
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_en": "Aomori"
+    },
+    {
+      "kucode": 202,
+      "constituency": "青森2区",
+      "constituency_en": "Aomori 2",
+      "district_number": 2,
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_en": "Aomori"
+    },
+    {
+      "kucode": 203,
+      "constituency": "青森3区",
+      "constituency_en": "Aomori 3",
+      "district_number": 3,
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_en": "Aomori"
+    },
+    {
+      "kucode": 301,
+      "constituency": "岩手1区",
+      "constituency_en": "Iwate 1",
+      "district_number": 1,
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_en": "Iwate"
+    },
+    {
+      "kucode": 302,
+      "constituency": "岩手2区",
+      "constituency_en": "Iwate 2",
+      "district_number": 2,
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_en": "Iwate"
+    },
+    {
+      "kucode": 303,
+      "constituency": "岩手3区",
+      "constituency_en": "Iwate 3",
+      "district_number": 3,
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_en": "Iwate"
+    },
+    {
+      "kucode": 401,
+      "constituency": "宮城1区",
+      "constituency_en": "Miyagi 1",
+      "district_number": 1,
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_en": "Miyagi"
+    },
+    {
+      "kucode": 402,
+      "constituency": "宮城2区",
+      "constituency_en": "Miyagi 2",
+      "district_number": 2,
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_en": "Miyagi"
+    },
+    {
+      "kucode": 403,
+      "constituency": "宮城3区",
+      "constituency_en": "Miyagi 3",
+      "district_number": 3,
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_en": "Miyagi"
+    },
+    {
+      "kucode": 404,
+      "constituency": "宮城4区",
+      "constituency_en": "Miyagi 4",
+      "district_number": 4,
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_en": "Miyagi"
+    },
+    {
+      "kucode": 405,
+      "constituency": "宮城5区",
+      "constituency_en": "Miyagi 5",
+      "district_number": 5,
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_en": "Miyagi"
+    },
+    {
+      "kucode": 406,
+      "constituency": "宮城6区",
+      "constituency_en": "Miyagi 6",
+      "district_number": 6,
+      "prefecture_code": "04",
+      "prefecture": "宮城県",
+      "prefecture_en": "Miyagi"
+    },
+    {
+      "kucode": 501,
+      "constituency": "秋田1区",
+      "constituency_en": "Akita 1",
+      "district_number": 1,
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_en": "Akita"
+    },
+    {
+      "kucode": 502,
+      "constituency": "秋田2区",
+      "constituency_en": "Akita 2",
+      "district_number": 2,
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_en": "Akita"
+    },
+    {
+      "kucode": 503,
+      "constituency": "秋田3区",
+      "constituency_en": "Akita 3",
+      "district_number": 3,
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_en": "Akita"
+    },
+    {
+      "kucode": 601,
+      "constituency": "山形1区",
+      "constituency_en": "Yamagata 1",
+      "district_number": 1,
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_en": "Yamagata"
+    },
+    {
+      "kucode": 602,
+      "constituency": "山形2区",
+      "constituency_en": "Yamagata 2",
+      "district_number": 2,
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_en": "Yamagata"
+    },
+    {
+      "kucode": 603,
+      "constituency": "山形3区",
+      "constituency_en": "Yamagata 3",
+      "district_number": 3,
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_en": "Yamagata"
+    },
+    {
+      "kucode": 701,
+      "constituency": "福島1区",
+      "constituency_en": "Fukushima 1",
+      "district_number": 1,
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_en": "Fukushima"
+    },
+    {
+      "kucode": 702,
+      "constituency": "福島2区",
+      "constituency_en": "Fukushima 2",
+      "district_number": 2,
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_en": "Fukushima"
+    },
+    {
+      "kucode": 703,
+      "constituency": "福島3区",
+      "constituency_en": "Fukushima 3",
+      "district_number": 3,
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_en": "Fukushima"
+    },
+    {
+      "kucode": 704,
+      "constituency": "福島4区",
+      "constituency_en": "Fukushima 4",
+      "district_number": 4,
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_en": "Fukushima"
+    },
+    {
+      "kucode": 705,
+      "constituency": "福島5区",
+      "constituency_en": "Fukushima 5",
+      "district_number": 5,
+      "prefecture_code": "07",
+      "prefecture": "福島県",
+      "prefecture_en": "Fukushima"
+    },
+    {
+      "kucode": 801,
+      "constituency": "茨城1区",
+      "constituency_en": "Ibaraki 1",
+      "district_number": 1,
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_en": "Ibaraki"
+    },
+    {
+      "kucode": 802,
+      "constituency": "茨城2区",
+      "constituency_en": "Ibaraki 2",
+      "district_number": 2,
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_en": "Ibaraki"
+    },
+    {
+      "kucode": 803,
+      "constituency": "茨城3区",
+      "constituency_en": "Ibaraki 3",
+      "district_number": 3,
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_en": "Ibaraki"
+    },
+    {
+      "kucode": 804,
+      "constituency": "茨城4区",
+      "constituency_en": "Ibaraki 4",
+      "district_number": 4,
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_en": "Ibaraki"
+    },
+    {
+      "kucode": 805,
+      "constituency": "茨城5区",
+      "constituency_en": "Ibaraki 5",
+      "district_number": 5,
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_en": "Ibaraki"
+    },
+    {
+      "kucode": 806,
+      "constituency": "茨城6区",
+      "constituency_en": "Ibaraki 6",
+      "district_number": 6,
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_en": "Ibaraki"
+    },
+    {
+      "kucode": 807,
+      "constituency": "茨城7区",
+      "constituency_en": "Ibaraki 7",
+      "district_number": 7,
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_en": "Ibaraki"
+    },
+    {
+      "kucode": 901,
+      "constituency": "栃木1区",
+      "constituency_en": "Tochigi 1",
+      "district_number": 1,
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_en": "Tochigi"
+    },
+    {
+      "kucode": 902,
+      "constituency": "栃木2区",
+      "constituency_en": "Tochigi 2",
+      "district_number": 2,
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_en": "Tochigi"
+    },
+    {
+      "kucode": 903,
+      "constituency": "栃木3区",
+      "constituency_en": "Tochigi 3",
+      "district_number": 3,
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_en": "Tochigi"
+    },
+    {
+      "kucode": 904,
+      "constituency": "栃木4区",
+      "constituency_en": "Tochigi 4",
+      "district_number": 4,
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_en": "Tochigi"
+    },
+    {
+      "kucode": 905,
+      "constituency": "栃木5区",
+      "constituency_en": "Tochigi 5",
+      "district_number": 5,
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_en": "Tochigi"
+    },
+    {
+      "kucode": 1001,
+      "constituency": "群馬1区",
+      "constituency_en": "Gunma 1",
+      "district_number": 1,
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_en": "Gunma"
+    },
+    {
+      "kucode": 1002,
+      "constituency": "群馬2区",
+      "constituency_en": "Gunma 2",
+      "district_number": 2,
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_en": "Gunma"
+    },
+    {
+      "kucode": 1003,
+      "constituency": "群馬3区",
+      "constituency_en": "Gunma 3",
+      "district_number": 3,
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_en": "Gunma"
+    },
+    {
+      "kucode": 1004,
+      "constituency": "群馬4区",
+      "constituency_en": "Gunma 4",
+      "district_number": 4,
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_en": "Gunma"
+    },
+    {
+      "kucode": 1005,
+      "constituency": "群馬5区",
+      "constituency_en": "Gunma 5",
+      "district_number": 5,
+      "prefecture_code": "10",
+      "prefecture": "群馬県",
+      "prefecture_en": "Gunma"
+    },
+    {
+      "kucode": 1101,
+      "constituency": "埼玉1区",
+      "constituency_en": "Saitama 1",
+      "district_number": 1,
+      "prefecture_code": "11",
+      "prefecture": "埼玉県",
+      "prefecture_en": "Saitama"
+    },
+    {
+      "kucode": 1102,
+      "constituency": "埼玉2区",
+      "constituency_en": "Saitama 2",
+      "district_number": 2,
+      "prefecture_code": "11",
+      "prefecture": "埼玉県",
+      "prefecture_en": "Saitama"
+    },
+    {
+      "kucode": 1103,
+      "constituency": "埼玉3区",
+      "constituency_en": "Saitama 3",
+      "district_number": 3,
+      "prefecture_code": "11",
+      "prefecture": "埼玉県",
+      "prefecture_en": "Saitama"
+    },
+    {
+      "kucode": 1104,
+      "constituency": "埼玉4区",
+      "constituency_en": "Saitama 4",
+      "district_number": 4,
+      "prefecture_code": "11",
+      "prefecture": "埼玉県",
+      "prefecture_en": "Saitama"
+    },
+    {
+      "kucode": 1105,
+      "constituency": "埼玉5区",
+      "constituency_en": "Saitama 5",
+      "district_number": 5,
+      "prefecture_code": "11",
+      "prefecture": "埼玉県",
+      "prefecture_en": "Saitama"
+    },
+    {
+      "kucode": 1106,
+      "constituency": "埼玉6区",
+      "constituency_en": "Saitama 6",
+      "district_number": 6,
+      "prefecture_code": "11",
+      "prefecture": "埼玉県",
+      "prefecture_en": "Saitama"
+    },
+    {
+      "kucode": 1107,
+      "constituency": "埼玉7区",
+      "constituency_en": "Saitama 7",
+      "district_number": 7,
+      "prefecture_code": "11",
+      "prefecture": "埼玉県",
+      "prefecture_en": "Saitama"
+    },
+    {
+      "kucode": 1108,
+      "constituency": "埼玉8区",
+      "constituency_en": "Saitama 8",
+      "district_number": 8,
+      "prefecture_code": "11",
+      "prefecture": "埼玉県",
+      "prefecture_en": "Saitama"
+    },
+    {
+      "kucode": 1109,
+      "constituency": "埼玉9区",
+      "constituency_en": "Saitama 9",
+      "district_number": 9,
+      "prefecture_code": "11",
+      "prefecture": "埼玉県",
+      "prefecture_en": "Saitama"
+    },
+    {
+      "kucode": 1110,
+      "constituency": "埼玉10区",
+      "constituency_en": "Saitama 10",
+      "district_number": 10,
+      "prefecture_code": "11",
+      "prefecture": "埼玉県",
+      "prefecture_en": "Saitama"
+    },
+    {
+      "kucode": 1111,
+      "constituency": "埼玉11区",
+      "constituency_en": "Saitama 11",
+      "district_number": 11,
+      "prefecture_code": "11",
+      "prefecture": "埼玉県",
+      "prefecture_en": "Saitama"
+    },
+    {
+      "kucode": 1112,
+      "constituency": "埼玉12区",
+      "constituency_en": "Saitama 12",
+      "district_number": 12,
+      "prefecture_code": "11",
+      "prefecture": "埼玉県",
+      "prefecture_en": "Saitama"
+    },
+    {
+      "kucode": 1113,
+      "constituency": "埼玉13区",
+      "constituency_en": "Saitama 13",
+      "district_number": 13,
+      "prefecture_code": "11",
+      "prefecture": "埼玉県",
+      "prefecture_en": "Saitama"
+    },
+    {
+      "kucode": 1114,
+      "constituency": "埼玉14区",
+      "constituency_en": "Saitama 14",
+      "district_number": 14,
+      "prefecture_code": "11",
+      "prefecture": "埼玉県",
+      "prefecture_en": "Saitama"
+    },
+    {
+      "kucode": 1115,
+      "constituency": "埼玉15区",
+      "constituency_en": "Saitama 15",
+      "district_number": 15,
+      "prefecture_code": "11",
+      "prefecture": "埼玉県",
+      "prefecture_en": "Saitama"
+    },
+    {
+      "kucode": 1201,
+      "constituency": "千葉1区",
+      "constituency_en": "Chiba 1",
+      "district_number": 1,
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_en": "Chiba"
+    },
+    {
+      "kucode": 1202,
+      "constituency": "千葉2区",
+      "constituency_en": "Chiba 2",
+      "district_number": 2,
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_en": "Chiba"
+    },
+    {
+      "kucode": 1203,
+      "constituency": "千葉3区",
+      "constituency_en": "Chiba 3",
+      "district_number": 3,
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_en": "Chiba"
+    },
+    {
+      "kucode": 1204,
+      "constituency": "千葉4区",
+      "constituency_en": "Chiba 4",
+      "district_number": 4,
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_en": "Chiba"
+    },
+    {
+      "kucode": 1205,
+      "constituency": "千葉5区",
+      "constituency_en": "Chiba 5",
+      "district_number": 5,
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_en": "Chiba"
+    },
+    {
+      "kucode": 1206,
+      "constituency": "千葉6区",
+      "constituency_en": "Chiba 6",
+      "district_number": 6,
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_en": "Chiba"
+    },
+    {
+      "kucode": 1207,
+      "constituency": "千葉7区",
+      "constituency_en": "Chiba 7",
+      "district_number": 7,
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_en": "Chiba"
+    },
+    {
+      "kucode": 1208,
+      "constituency": "千葉8区",
+      "constituency_en": "Chiba 8",
+      "district_number": 8,
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_en": "Chiba"
+    },
+    {
+      "kucode": 1209,
+      "constituency": "千葉9区",
+      "constituency_en": "Chiba 9",
+      "district_number": 9,
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_en": "Chiba"
+    },
+    {
+      "kucode": 1210,
+      "constituency": "千葉10区",
+      "constituency_en": "Chiba 10",
+      "district_number": 10,
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_en": "Chiba"
+    },
+    {
+      "kucode": 1211,
+      "constituency": "千葉11区",
+      "constituency_en": "Chiba 11",
+      "district_number": 11,
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_en": "Chiba"
+    },
+    {
+      "kucode": 1212,
+      "constituency": "千葉12区",
+      "constituency_en": "Chiba 12",
+      "district_number": 12,
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_en": "Chiba"
+    },
+    {
+      "kucode": 1213,
+      "constituency": "千葉13区",
+      "constituency_en": "Chiba 13",
+      "district_number": 13,
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_en": "Chiba"
+    },
+    {
+      "kucode": 1301,
+      "constituency": "東京1区",
+      "constituency_en": "Tokyo 1",
+      "district_number": 1,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1302,
+      "constituency": "東京2区",
+      "constituency_en": "Tokyo 2",
+      "district_number": 2,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1303,
+      "constituency": "東京3区",
+      "constituency_en": "Tokyo 3",
+      "district_number": 3,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1304,
+      "constituency": "東京4区",
+      "constituency_en": "Tokyo 4",
+      "district_number": 4,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1305,
+      "constituency": "東京5区",
+      "constituency_en": "Tokyo 5",
+      "district_number": 5,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1306,
+      "constituency": "東京6区",
+      "constituency_en": "Tokyo 6",
+      "district_number": 6,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1307,
+      "constituency": "東京7区",
+      "constituency_en": "Tokyo 7",
+      "district_number": 7,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1308,
+      "constituency": "東京8区",
+      "constituency_en": "Tokyo 8",
+      "district_number": 8,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1309,
+      "constituency": "東京9区",
+      "constituency_en": "Tokyo 9",
+      "district_number": 9,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1310,
+      "constituency": "東京10区",
+      "constituency_en": "Tokyo 10",
+      "district_number": 10,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1311,
+      "constituency": "東京11区",
+      "constituency_en": "Tokyo 11",
+      "district_number": 11,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1312,
+      "constituency": "東京12区",
+      "constituency_en": "Tokyo 12",
+      "district_number": 12,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1313,
+      "constituency": "東京13区",
+      "constituency_en": "Tokyo 13",
+      "district_number": 13,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1314,
+      "constituency": "東京14区",
+      "constituency_en": "Tokyo 14",
+      "district_number": 14,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1315,
+      "constituency": "東京15区",
+      "constituency_en": "Tokyo 15",
+      "district_number": 15,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1316,
+      "constituency": "東京16区",
+      "constituency_en": "Tokyo 16",
+      "district_number": 16,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1317,
+      "constituency": "東京17区",
+      "constituency_en": "Tokyo 17",
+      "district_number": 17,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1318,
+      "constituency": "東京18区",
+      "constituency_en": "Tokyo 18",
+      "district_number": 18,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1319,
+      "constituency": "東京19区",
+      "constituency_en": "Tokyo 19",
+      "district_number": 19,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1320,
+      "constituency": "東京20区",
+      "constituency_en": "Tokyo 20",
+      "district_number": 20,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1321,
+      "constituency": "東京21区",
+      "constituency_en": "Tokyo 21",
+      "district_number": 21,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1322,
+      "constituency": "東京22区",
+      "constituency_en": "Tokyo 22",
+      "district_number": 22,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1323,
+      "constituency": "東京23区",
+      "constituency_en": "Tokyo 23",
+      "district_number": 23,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1324,
+      "constituency": "東京24区",
+      "constituency_en": "Tokyo 24",
+      "district_number": 24,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1325,
+      "constituency": "東京25区",
+      "constituency_en": "Tokyo 25",
+      "district_number": 25,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1401,
+      "constituency": "神奈川1区",
+      "constituency_en": "Kanagawa 1",
+      "district_number": 1,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1402,
+      "constituency": "神奈川2区",
+      "constituency_en": "Kanagawa 2",
+      "district_number": 2,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1403,
+      "constituency": "神奈川3区",
+      "constituency_en": "Kanagawa 3",
+      "district_number": 3,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1404,
+      "constituency": "神奈川4区",
+      "constituency_en": "Kanagawa 4",
+      "district_number": 4,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1405,
+      "constituency": "神奈川5区",
+      "constituency_en": "Kanagawa 5",
+      "district_number": 5,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1406,
+      "constituency": "神奈川6区",
+      "constituency_en": "Kanagawa 6",
+      "district_number": 6,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1407,
+      "constituency": "神奈川7区",
+      "constituency_en": "Kanagawa 7",
+      "district_number": 7,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1408,
+      "constituency": "神奈川8区",
+      "constituency_en": "Kanagawa 8",
+      "district_number": 8,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1409,
+      "constituency": "神奈川9区",
+      "constituency_en": "Kanagawa 9",
+      "district_number": 9,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1410,
+      "constituency": "神奈川10区",
+      "constituency_en": "Kanagawa 10",
+      "district_number": 10,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1411,
+      "constituency": "神奈川11区",
+      "constituency_en": "Kanagawa 11",
+      "district_number": 11,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1412,
+      "constituency": "神奈川12区",
+      "constituency_en": "Kanagawa 12",
+      "district_number": 12,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1413,
+      "constituency": "神奈川13区",
+      "constituency_en": "Kanagawa 13",
+      "district_number": 13,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1414,
+      "constituency": "神奈川14区",
+      "constituency_en": "Kanagawa 14",
+      "district_number": 14,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1415,
+      "constituency": "神奈川15区",
+      "constituency_en": "Kanagawa 15",
+      "district_number": 15,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1416,
+      "constituency": "神奈川16区",
+      "constituency_en": "Kanagawa 16",
+      "district_number": 16,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1417,
+      "constituency": "神奈川17区",
+      "constituency_en": "Kanagawa 17",
+      "district_number": 17,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1418,
+      "constituency": "神奈川18区",
+      "constituency_en": "Kanagawa 18",
+      "district_number": 18,
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_en": "Kanagawa"
+    },
+    {
+      "kucode": 1501,
+      "constituency": "新潟1区",
+      "constituency_en": "Niigata 1",
+      "district_number": 1,
+      "prefecture_code": "15",
+      "prefecture": "新潟県",
+      "prefecture_en": "Niigata"
+    },
+    {
+      "kucode": 1502,
+      "constituency": "新潟2区",
+      "constituency_en": "Niigata 2",
+      "district_number": 2,
+      "prefecture_code": "15",
+      "prefecture": "新潟県",
+      "prefecture_en": "Niigata"
+    },
+    {
+      "kucode": 1503,
+      "constituency": "新潟3区",
+      "constituency_en": "Niigata 3",
+      "district_number": 3,
+      "prefecture_code": "15",
+      "prefecture": "新潟県",
+      "prefecture_en": "Niigata"
+    },
+    {
+      "kucode": 1504,
+      "constituency": "新潟4区",
+      "constituency_en": "Niigata 4",
+      "district_number": 4,
+      "prefecture_code": "15",
+      "prefecture": "新潟県",
+      "prefecture_en": "Niigata"
+    },
+    {
+      "kucode": 1505,
+      "constituency": "新潟5区",
+      "constituency_en": "Niigata 5",
+      "district_number": 5,
+      "prefecture_code": "15",
+      "prefecture": "新潟県",
+      "prefecture_en": "Niigata"
+    },
+    {
+      "kucode": 1506,
+      "constituency": "新潟6区",
+      "constituency_en": "Niigata 6",
+      "district_number": 6,
+      "prefecture_code": "15",
+      "prefecture": "新潟県",
+      "prefecture_en": "Niigata"
+    },
+    {
+      "kucode": 1601,
+      "constituency": "富山1区",
+      "constituency_en": "Toyama 1",
+      "district_number": 1,
+      "prefecture_code": "16",
+      "prefecture": "富山県",
+      "prefecture_en": "Toyama"
+    },
+    {
+      "kucode": 1602,
+      "constituency": "富山2区",
+      "constituency_en": "Toyama 2",
+      "district_number": 2,
+      "prefecture_code": "16",
+      "prefecture": "富山県",
+      "prefecture_en": "Toyama"
+    },
+    {
+      "kucode": 1603,
+      "constituency": "富山3区",
+      "constituency_en": "Toyama 3",
+      "district_number": 3,
+      "prefecture_code": "16",
+      "prefecture": "富山県",
+      "prefecture_en": "Toyama"
+    },
+    {
+      "kucode": 1701,
+      "constituency": "石川1区",
+      "constituency_en": "Ishikawa 1",
+      "district_number": 1,
+      "prefecture_code": "17",
+      "prefecture": "石川県",
+      "prefecture_en": "Ishikawa"
+    },
+    {
+      "kucode": 1702,
+      "constituency": "石川2区",
+      "constituency_en": "Ishikawa 2",
+      "district_number": 2,
+      "prefecture_code": "17",
+      "prefecture": "石川県",
+      "prefecture_en": "Ishikawa"
+    },
+    {
+      "kucode": 1703,
+      "constituency": "石川3区",
+      "constituency_en": "Ishikawa 3",
+      "district_number": 3,
+      "prefecture_code": "17",
+      "prefecture": "石川県",
+      "prefecture_en": "Ishikawa"
+    },
+    {
+      "kucode": 1801,
+      "constituency": "福井1区",
+      "constituency_en": "Fukui 1",
+      "district_number": 1,
+      "prefecture_code": "18",
+      "prefecture": "福井県",
+      "prefecture_en": "Fukui"
+    },
+    {
+      "kucode": 1802,
+      "constituency": "福井2区",
+      "constituency_en": "Fukui 2",
+      "district_number": 2,
+      "prefecture_code": "18",
+      "prefecture": "福井県",
+      "prefecture_en": "Fukui"
+    },
+    {
+      "kucode": 1901,
+      "constituency": "山梨1区",
+      "constituency_en": "Yamanashi 1",
+      "district_number": 1,
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_en": "Yamanashi"
+    },
+    {
+      "kucode": 1902,
+      "constituency": "山梨2区",
+      "constituency_en": "Yamanashi 2",
+      "district_number": 2,
+      "prefecture_code": "19",
+      "prefecture": "山梨県",
+      "prefecture_en": "Yamanashi"
+    },
+    {
+      "kucode": 2001,
+      "constituency": "長野1区",
+      "constituency_en": "Nagano 1",
+      "district_number": 1,
+      "prefecture_code": "20",
+      "prefecture": "長野県",
+      "prefecture_en": "Nagano"
+    },
+    {
+      "kucode": 2002,
+      "constituency": "長野2区",
+      "constituency_en": "Nagano 2",
+      "district_number": 2,
+      "prefecture_code": "20",
+      "prefecture": "長野県",
+      "prefecture_en": "Nagano"
+    },
+    {
+      "kucode": 2003,
+      "constituency": "長野3区",
+      "constituency_en": "Nagano 3",
+      "district_number": 3,
+      "prefecture_code": "20",
+      "prefecture": "長野県",
+      "prefecture_en": "Nagano"
+    },
+    {
+      "kucode": 2004,
+      "constituency": "長野4区",
+      "constituency_en": "Nagano 4",
+      "district_number": 4,
+      "prefecture_code": "20",
+      "prefecture": "長野県",
+      "prefecture_en": "Nagano"
+    },
+    {
+      "kucode": 2005,
+      "constituency": "長野5区",
+      "constituency_en": "Nagano 5",
+      "district_number": 5,
+      "prefecture_code": "20",
+      "prefecture": "長野県",
+      "prefecture_en": "Nagano"
+    },
+    {
+      "kucode": 2101,
+      "constituency": "岐阜1区",
+      "constituency_en": "Gifu 1",
+      "district_number": 1,
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_en": "Gifu"
+    },
+    {
+      "kucode": 2102,
+      "constituency": "岐阜2区",
+      "constituency_en": "Gifu 2",
+      "district_number": 2,
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_en": "Gifu"
+    },
+    {
+      "kucode": 2103,
+      "constituency": "岐阜3区",
+      "constituency_en": "Gifu 3",
+      "district_number": 3,
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_en": "Gifu"
+    },
+    {
+      "kucode": 2104,
+      "constituency": "岐阜4区",
+      "constituency_en": "Gifu 4",
+      "district_number": 4,
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_en": "Gifu"
+    },
+    {
+      "kucode": 2105,
+      "constituency": "岐阜5区",
+      "constituency_en": "Gifu 5",
+      "district_number": 5,
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_en": "Gifu"
+    },
+    {
+      "kucode": 2201,
+      "constituency": "静岡1区",
+      "constituency_en": "Shizuoka 1",
+      "district_number": 1,
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_en": "Shizuoka"
+    },
+    {
+      "kucode": 2202,
+      "constituency": "静岡2区",
+      "constituency_en": "Shizuoka 2",
+      "district_number": 2,
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_en": "Shizuoka"
+    },
+    {
+      "kucode": 2203,
+      "constituency": "静岡3区",
+      "constituency_en": "Shizuoka 3",
+      "district_number": 3,
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_en": "Shizuoka"
+    },
+    {
+      "kucode": 2204,
+      "constituency": "静岡4区",
+      "constituency_en": "Shizuoka 4",
+      "district_number": 4,
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_en": "Shizuoka"
+    },
+    {
+      "kucode": 2205,
+      "constituency": "静岡5区",
+      "constituency_en": "Shizuoka 5",
+      "district_number": 5,
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_en": "Shizuoka"
+    },
+    {
+      "kucode": 2206,
+      "constituency": "静岡6区",
+      "constituency_en": "Shizuoka 6",
+      "district_number": 6,
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_en": "Shizuoka"
+    },
+    {
+      "kucode": 2207,
+      "constituency": "静岡7区",
+      "constituency_en": "Shizuoka 7",
+      "district_number": 7,
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_en": "Shizuoka"
+    },
+    {
+      "kucode": 2208,
+      "constituency": "静岡8区",
+      "constituency_en": "Shizuoka 8",
+      "district_number": 8,
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_en": "Shizuoka"
+    },
+    {
+      "kucode": 2301,
+      "constituency": "愛知1区",
+      "constituency_en": "Aichi 1",
+      "district_number": 1,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2302,
+      "constituency": "愛知2区",
+      "constituency_en": "Aichi 2",
+      "district_number": 2,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2303,
+      "constituency": "愛知3区",
+      "constituency_en": "Aichi 3",
+      "district_number": 3,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2304,
+      "constituency": "愛知4区",
+      "constituency_en": "Aichi 4",
+      "district_number": 4,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2305,
+      "constituency": "愛知5区",
+      "constituency_en": "Aichi 5",
+      "district_number": 5,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2306,
+      "constituency": "愛知6区",
+      "constituency_en": "Aichi 6",
+      "district_number": 6,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2307,
+      "constituency": "愛知7区",
+      "constituency_en": "Aichi 7",
+      "district_number": 7,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2308,
+      "constituency": "愛知8区",
+      "constituency_en": "Aichi 8",
+      "district_number": 8,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2309,
+      "constituency": "愛知9区",
+      "constituency_en": "Aichi 9",
+      "district_number": 9,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2310,
+      "constituency": "愛知10区",
+      "constituency_en": "Aichi 10",
+      "district_number": 10,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2311,
+      "constituency": "愛知11区",
+      "constituency_en": "Aichi 11",
+      "district_number": 11,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2312,
+      "constituency": "愛知12区",
+      "constituency_en": "Aichi 12",
+      "district_number": 12,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2313,
+      "constituency": "愛知13区",
+      "constituency_en": "Aichi 13",
+      "district_number": 13,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2314,
+      "constituency": "愛知14区",
+      "constituency_en": "Aichi 14",
+      "district_number": 14,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2315,
+      "constituency": "愛知15区",
+      "constituency_en": "Aichi 15",
+      "district_number": 15,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2401,
+      "constituency": "三重1区",
+      "constituency_en": "Mie 1",
+      "district_number": 1,
+      "prefecture_code": "24",
+      "prefecture": "三重県",
+      "prefecture_en": "Mie"
+    },
+    {
+      "kucode": 2402,
+      "constituency": "三重2区",
+      "constituency_en": "Mie 2",
+      "district_number": 2,
+      "prefecture_code": "24",
+      "prefecture": "三重県",
+      "prefecture_en": "Mie"
+    },
+    {
+      "kucode": 2403,
+      "constituency": "三重3区",
+      "constituency_en": "Mie 3",
+      "district_number": 3,
+      "prefecture_code": "24",
+      "prefecture": "三重県",
+      "prefecture_en": "Mie"
+    },
+    {
+      "kucode": 2404,
+      "constituency": "三重4区",
+      "constituency_en": "Mie 4",
+      "district_number": 4,
+      "prefecture_code": "24",
+      "prefecture": "三重県",
+      "prefecture_en": "Mie"
+    },
+    {
+      "kucode": 2501,
+      "constituency": "滋賀1区",
+      "constituency_en": "Shiga 1",
+      "district_number": 1,
+      "prefecture_code": "25",
+      "prefecture": "滋賀県",
+      "prefecture_en": "Shiga"
+    },
+    {
+      "kucode": 2502,
+      "constituency": "滋賀2区",
+      "constituency_en": "Shiga 2",
+      "district_number": 2,
+      "prefecture_code": "25",
+      "prefecture": "滋賀県",
+      "prefecture_en": "Shiga"
+    },
+    {
+      "kucode": 2503,
+      "constituency": "滋賀3区",
+      "constituency_en": "Shiga 3",
+      "district_number": 3,
+      "prefecture_code": "25",
+      "prefecture": "滋賀県",
+      "prefecture_en": "Shiga"
+    },
+    {
+      "kucode": 2504,
+      "constituency": "滋賀4区",
+      "constituency_en": "Shiga 4",
+      "district_number": 4,
+      "prefecture_code": "25",
+      "prefecture": "滋賀県",
+      "prefecture_en": "Shiga"
+    },
+    {
+      "kucode": 2601,
+      "constituency": "京都1区",
+      "constituency_en": "Kyoto 1",
+      "district_number": 1,
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_en": "Kyoto"
+    },
+    {
+      "kucode": 2602,
+      "constituency": "京都2区",
+      "constituency_en": "Kyoto 2",
+      "district_number": 2,
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_en": "Kyoto"
+    },
+    {
+      "kucode": 2603,
+      "constituency": "京都3区",
+      "constituency_en": "Kyoto 3",
+      "district_number": 3,
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_en": "Kyoto"
+    },
+    {
+      "kucode": 2604,
+      "constituency": "京都4区",
+      "constituency_en": "Kyoto 4",
+      "district_number": 4,
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_en": "Kyoto"
+    },
+    {
+      "kucode": 2605,
+      "constituency": "京都5区",
+      "constituency_en": "Kyoto 5",
+      "district_number": 5,
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_en": "Kyoto"
+    },
+    {
+      "kucode": 2606,
+      "constituency": "京都6区",
+      "constituency_en": "Kyoto 6",
+      "district_number": 6,
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_en": "Kyoto"
+    },
+    {
+      "kucode": 2701,
+      "constituency": "大阪1区",
+      "constituency_en": "Osaka 1",
+      "district_number": 1,
+      "prefecture_code": "27",
+      "prefecture": "大阪府",
+      "prefecture_en": "Osaka"
+    },
+    {
+      "kucode": 2702,
+      "constituency": "大阪2区",
+      "constituency_en": "Osaka 2",
+      "district_number": 2,
+      "prefecture_code": "27",
+      "prefecture": "大阪府",
+      "prefecture_en": "Osaka"
+    },
+    {
+      "kucode": 2703,
+      "constituency": "大阪3区",
+      "constituency_en": "Osaka 3",
+      "district_number": 3,
+      "prefecture_code": "27",
+      "prefecture": "大阪府",
+      "prefecture_en": "Osaka"
+    },
+    {
+      "kucode": 2704,
+      "constituency": "大阪4区",
+      "constituency_en": "Osaka 4",
+      "district_number": 4,
+      "prefecture_code": "27",
+      "prefecture": "大阪府",
+      "prefecture_en": "Osaka"
+    },
+    {
+      "kucode": 2705,
+      "constituency": "大阪5区",
+      "constituency_en": "Osaka 5",
+      "district_number": 5,
+      "prefecture_code": "27",
+      "prefecture": "大阪府",
+      "prefecture_en": "Osaka"
+    },
+    {
+      "kucode": 2706,
+      "constituency": "大阪6区",
+      "constituency_en": "Osaka 6",
+      "district_number": 6,
+      "prefecture_code": "27",
+      "prefecture": "大阪府",
+      "prefecture_en": "Osaka"
+    },
+    {
+      "kucode": 2707,
+      "constituency": "大阪7区",
+      "constituency_en": "Osaka 7",
+      "district_number": 7,
+      "prefecture_code": "27",
+      "prefecture": "大阪府",
+      "prefecture_en": "Osaka"
+    },
+    {
+      "kucode": 2708,
+      "constituency": "大阪8区",
+      "constituency_en": "Osaka 8",
+      "district_number": 8,
+      "prefecture_code": "27",
+      "prefecture": "大阪府",
+      "prefecture_en": "Osaka"
+    },
+    {
+      "kucode": 2709,
+      "constituency": "大阪9区",
+      "constituency_en": "Osaka 9",
+      "district_number": 9,
+      "prefecture_code": "27",
+      "prefecture": "大阪府",
+      "prefecture_en": "Osaka"
+    },
+    {
+      "kucode": 2710,
+      "constituency": "大阪10区",
+      "constituency_en": "Osaka 10",
+      "district_number": 10,
+      "prefecture_code": "27",
+      "prefecture": "大阪府",
+      "prefecture_en": "Osaka"
+    },
+    {
+      "kucode": 2711,
+      "constituency": "大阪11区",
+      "constituency_en": "Osaka 11",
+      "district_number": 11,
+      "prefecture_code": "27",
+      "prefecture": "大阪府",
+      "prefecture_en": "Osaka"
+    },
+    {
+      "kucode": 2712,
+      "constituency": "大阪12区",
+      "constituency_en": "Osaka 12",
+      "district_number": 12,
+      "prefecture_code": "27",
+      "prefecture": "大阪府",
+      "prefecture_en": "Osaka"
+    },
+    {
+      "kucode": 2713,
+      "constituency": "大阪13区",
+      "constituency_en": "Osaka 13",
+      "district_number": 13,
+      "prefecture_code": "27",
+      "prefecture": "大阪府",
+      "prefecture_en": "Osaka"
+    },
+    {
+      "kucode": 2714,
+      "constituency": "大阪14区",
+      "constituency_en": "Osaka 14",
+      "district_number": 14,
+      "prefecture_code": "27",
+      "prefecture": "大阪府",
+      "prefecture_en": "Osaka"
+    },
+    {
+      "kucode": 2715,
+      "constituency": "大阪15区",
+      "constituency_en": "Osaka 15",
+      "district_number": 15,
+      "prefecture_code": "27",
+      "prefecture": "大阪府",
+      "prefecture_en": "Osaka"
+    },
+    {
+      "kucode": 2716,
+      "constituency": "大阪16区",
+      "constituency_en": "Osaka 16",
+      "district_number": 16,
+      "prefecture_code": "27",
+      "prefecture": "大阪府",
+      "prefecture_en": "Osaka"
+    },
+    {
+      "kucode": 2717,
+      "constituency": "大阪17区",
+      "constituency_en": "Osaka 17",
+      "district_number": 17,
+      "prefecture_code": "27",
+      "prefecture": "大阪府",
+      "prefecture_en": "Osaka"
+    },
+    {
+      "kucode": 2718,
+      "constituency": "大阪18区",
+      "constituency_en": "Osaka 18",
+      "district_number": 18,
+      "prefecture_code": "27",
+      "prefecture": "大阪府",
+      "prefecture_en": "Osaka"
+    },
+    {
+      "kucode": 2719,
+      "constituency": "大阪19区",
+      "constituency_en": "Osaka 19",
+      "district_number": 19,
+      "prefecture_code": "27",
+      "prefecture": "大阪府",
+      "prefecture_en": "Osaka"
+    },
+    {
+      "kucode": 2801,
+      "constituency": "兵庫1区",
+      "constituency_en": "Hyogo 1",
+      "district_number": 1,
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_en": "Hyogo"
+    },
+    {
+      "kucode": 2802,
+      "constituency": "兵庫2区",
+      "constituency_en": "Hyogo 2",
+      "district_number": 2,
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_en": "Hyogo"
+    },
+    {
+      "kucode": 2803,
+      "constituency": "兵庫3区",
+      "constituency_en": "Hyogo 3",
+      "district_number": 3,
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_en": "Hyogo"
+    },
+    {
+      "kucode": 2804,
+      "constituency": "兵庫4区",
+      "constituency_en": "Hyogo 4",
+      "district_number": 4,
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_en": "Hyogo"
+    },
+    {
+      "kucode": 2805,
+      "constituency": "兵庫5区",
+      "constituency_en": "Hyogo 5",
+      "district_number": 5,
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_en": "Hyogo"
+    },
+    {
+      "kucode": 2806,
+      "constituency": "兵庫6区",
+      "constituency_en": "Hyogo 6",
+      "district_number": 6,
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_en": "Hyogo"
+    },
+    {
+      "kucode": 2807,
+      "constituency": "兵庫7区",
+      "constituency_en": "Hyogo 7",
+      "district_number": 7,
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_en": "Hyogo"
+    },
+    {
+      "kucode": 2808,
+      "constituency": "兵庫8区",
+      "constituency_en": "Hyogo 8",
+      "district_number": 8,
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_en": "Hyogo"
+    },
+    {
+      "kucode": 2809,
+      "constituency": "兵庫9区",
+      "constituency_en": "Hyogo 9",
+      "district_number": 9,
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_en": "Hyogo"
+    },
+    {
+      "kucode": 2810,
+      "constituency": "兵庫10区",
+      "constituency_en": "Hyogo 10",
+      "district_number": 10,
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_en": "Hyogo"
+    },
+    {
+      "kucode": 2811,
+      "constituency": "兵庫11区",
+      "constituency_en": "Hyogo 11",
+      "district_number": 11,
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_en": "Hyogo"
+    },
+    {
+      "kucode": 2812,
+      "constituency": "兵庫12区",
+      "constituency_en": "Hyogo 12",
+      "district_number": 12,
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_en": "Hyogo"
+    },
+    {
+      "kucode": 2901,
+      "constituency": "奈良1区",
+      "constituency_en": "Nara 1",
+      "district_number": 1,
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_en": "Nara"
+    },
+    {
+      "kucode": 2902,
+      "constituency": "奈良2区",
+      "constituency_en": "Nara 2",
+      "district_number": 2,
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_en": "Nara"
+    },
+    {
+      "kucode": 2903,
+      "constituency": "奈良3区",
+      "constituency_en": "Nara 3",
+      "district_number": 3,
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_en": "Nara"
+    },
+    {
+      "kucode": 3001,
+      "constituency": "和歌山1区",
+      "constituency_en": "Wakayama 1",
+      "district_number": 1,
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_en": "Wakayama"
+    },
+    {
+      "kucode": 3002,
+      "constituency": "和歌山2区",
+      "constituency_en": "Wakayama 2",
+      "district_number": 2,
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_en": "Wakayama"
+    },
+    {
+      "kucode": 3003,
+      "constituency": "和歌山3区",
+      "constituency_en": "Wakayama 3",
+      "district_number": 3,
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_en": "Wakayama"
+    },
+    {
+      "kucode": 3101,
+      "constituency": "鳥取1区",
+      "constituency_en": "Tottori 1",
+      "district_number": 1,
+      "prefecture_code": "31",
+      "prefecture": "鳥取県",
+      "prefecture_en": "Tottori"
+    },
+    {
+      "kucode": 3102,
+      "constituency": "鳥取2区",
+      "constituency_en": "Tottori 2",
+      "district_number": 2,
+      "prefecture_code": "31",
+      "prefecture": "鳥取県",
+      "prefecture_en": "Tottori"
+    },
+    {
+      "kucode": 3201,
+      "constituency": "島根1区",
+      "constituency_en": "Shimane 1",
+      "district_number": 1,
+      "prefecture_code": "32",
+      "prefecture": "島根県",
+      "prefecture_en": "Shimane"
+    },
+    {
+      "kucode": 3202,
+      "constituency": "島根2区",
+      "constituency_en": "Shimane 2",
+      "district_number": 2,
+      "prefecture_code": "32",
+      "prefecture": "島根県",
+      "prefecture_en": "Shimane"
+    },
+    {
+      "kucode": 3301,
+      "constituency": "岡山1区",
+      "constituency_en": "Okayama 1",
+      "district_number": 1,
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_en": "Okayama"
+    },
+    {
+      "kucode": 3302,
+      "constituency": "岡山2区",
+      "constituency_en": "Okayama 2",
+      "district_number": 2,
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_en": "Okayama"
+    },
+    {
+      "kucode": 3303,
+      "constituency": "岡山3区",
+      "constituency_en": "Okayama 3",
+      "district_number": 3,
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_en": "Okayama"
+    },
+    {
+      "kucode": 3304,
+      "constituency": "岡山4区",
+      "constituency_en": "Okayama 4",
+      "district_number": 4,
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_en": "Okayama"
+    },
+    {
+      "kucode": 3305,
+      "constituency": "岡山5区",
+      "constituency_en": "Okayama 5",
+      "district_number": 5,
+      "prefecture_code": "33",
+      "prefecture": "岡山県",
+      "prefecture_en": "Okayama"
+    },
+    {
+      "kucode": 3401,
+      "constituency": "広島1区",
+      "constituency_en": "Hiroshima 1",
+      "district_number": 1,
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_en": "Hiroshima"
+    },
+    {
+      "kucode": 3402,
+      "constituency": "広島2区",
+      "constituency_en": "Hiroshima 2",
+      "district_number": 2,
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_en": "Hiroshima"
+    },
+    {
+      "kucode": 3403,
+      "constituency": "広島3区",
+      "constituency_en": "Hiroshima 3",
+      "district_number": 3,
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_en": "Hiroshima"
+    },
+    {
+      "kucode": 3404,
+      "constituency": "広島4区",
+      "constituency_en": "Hiroshima 4",
+      "district_number": 4,
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_en": "Hiroshima"
+    },
+    {
+      "kucode": 3405,
+      "constituency": "広島5区",
+      "constituency_en": "Hiroshima 5",
+      "district_number": 5,
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_en": "Hiroshima"
+    },
+    {
+      "kucode": 3406,
+      "constituency": "広島6区",
+      "constituency_en": "Hiroshima 6",
+      "district_number": 6,
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_en": "Hiroshima"
+    },
+    {
+      "kucode": 3407,
+      "constituency": "広島7区",
+      "constituency_en": "Hiroshima 7",
+      "district_number": 7,
+      "prefecture_code": "34",
+      "prefecture": "広島県",
+      "prefecture_en": "Hiroshima"
+    },
+    {
+      "kucode": 3501,
+      "constituency": "山口1区",
+      "constituency_en": "Yamaguchi 1",
+      "district_number": 1,
+      "prefecture_code": "35",
+      "prefecture": "山口県",
+      "prefecture_en": "Yamaguchi"
+    },
+    {
+      "kucode": 3502,
+      "constituency": "山口2区",
+      "constituency_en": "Yamaguchi 2",
+      "district_number": 2,
+      "prefecture_code": "35",
+      "prefecture": "山口県",
+      "prefecture_en": "Yamaguchi"
+    },
+    {
+      "kucode": 3503,
+      "constituency": "山口3区",
+      "constituency_en": "Yamaguchi 3",
+      "district_number": 3,
+      "prefecture_code": "35",
+      "prefecture": "山口県",
+      "prefecture_en": "Yamaguchi"
+    },
+    {
+      "kucode": 3504,
+      "constituency": "山口4区",
+      "constituency_en": "Yamaguchi 4",
+      "district_number": 4,
+      "prefecture_code": "35",
+      "prefecture": "山口県",
+      "prefecture_en": "Yamaguchi"
+    },
+    {
+      "kucode": 3601,
+      "constituency": "徳島1区",
+      "constituency_en": "Tokushima 1",
+      "district_number": 1,
+      "prefecture_code": "36",
+      "prefecture": "徳島県",
+      "prefecture_en": "Tokushima"
+    },
+    {
+      "kucode": 3602,
+      "constituency": "徳島2区",
+      "constituency_en": "Tokushima 2",
+      "district_number": 2,
+      "prefecture_code": "36",
+      "prefecture": "徳島県",
+      "prefecture_en": "Tokushima"
+    },
+    {
+      "kucode": 3701,
+      "constituency": "香川1区",
+      "constituency_en": "Kagawa 1",
+      "district_number": 1,
+      "prefecture_code": "37",
+      "prefecture": "香川県",
+      "prefecture_en": "Kagawa"
+    },
+    {
+      "kucode": 3702,
+      "constituency": "香川2区",
+      "constituency_en": "Kagawa 2",
+      "district_number": 2,
+      "prefecture_code": "37",
+      "prefecture": "香川県",
+      "prefecture_en": "Kagawa"
+    },
+    {
+      "kucode": 3703,
+      "constituency": "香川3区",
+      "constituency_en": "Kagawa 3",
+      "district_number": 3,
+      "prefecture_code": "37",
+      "prefecture": "香川県",
+      "prefecture_en": "Kagawa"
+    },
+    {
+      "kucode": 3801,
+      "constituency": "愛媛1区",
+      "constituency_en": "Ehime 1",
+      "district_number": 1,
+      "prefecture_code": "38",
+      "prefecture": "愛媛県",
+      "prefecture_en": "Ehime"
+    },
+    {
+      "kucode": 3802,
+      "constituency": "愛媛2区",
+      "constituency_en": "Ehime 2",
+      "district_number": 2,
+      "prefecture_code": "38",
+      "prefecture": "愛媛県",
+      "prefecture_en": "Ehime"
+    },
+    {
+      "kucode": 3803,
+      "constituency": "愛媛3区",
+      "constituency_en": "Ehime 3",
+      "district_number": 3,
+      "prefecture_code": "38",
+      "prefecture": "愛媛県",
+      "prefecture_en": "Ehime"
+    },
+    {
+      "kucode": 3804,
+      "constituency": "愛媛4区",
+      "constituency_en": "Ehime 4",
+      "district_number": 4,
+      "prefecture_code": "38",
+      "prefecture": "愛媛県",
+      "prefecture_en": "Ehime"
+    },
+    {
+      "kucode": 3901,
+      "constituency": "高知1区",
+      "constituency_en": "Kochi 1",
+      "district_number": 1,
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_en": "Kochi"
+    },
+    {
+      "kucode": 3902,
+      "constituency": "高知2区",
+      "constituency_en": "Kochi 2",
+      "district_number": 2,
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_en": "Kochi"
+    },
+    {
+      "kucode": 4001,
+      "constituency": "福岡1区",
+      "constituency_en": "Fukuoka 1",
+      "district_number": 1,
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_en": "Fukuoka"
+    },
+    {
+      "kucode": 4002,
+      "constituency": "福岡2区",
+      "constituency_en": "Fukuoka 2",
+      "district_number": 2,
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_en": "Fukuoka"
+    },
+    {
+      "kucode": 4003,
+      "constituency": "福岡3区",
+      "constituency_en": "Fukuoka 3",
+      "district_number": 3,
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_en": "Fukuoka"
+    },
+    {
+      "kucode": 4004,
+      "constituency": "福岡4区",
+      "constituency_en": "Fukuoka 4",
+      "district_number": 4,
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_en": "Fukuoka"
+    },
+    {
+      "kucode": 4005,
+      "constituency": "福岡5区",
+      "constituency_en": "Fukuoka 5",
+      "district_number": 5,
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_en": "Fukuoka"
+    },
+    {
+      "kucode": 4006,
+      "constituency": "福岡6区",
+      "constituency_en": "Fukuoka 6",
+      "district_number": 6,
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_en": "Fukuoka"
+    },
+    {
+      "kucode": 4007,
+      "constituency": "福岡7区",
+      "constituency_en": "Fukuoka 7",
+      "district_number": 7,
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_en": "Fukuoka"
+    },
+    {
+      "kucode": 4008,
+      "constituency": "福岡8区",
+      "constituency_en": "Fukuoka 8",
+      "district_number": 8,
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_en": "Fukuoka"
+    },
+    {
+      "kucode": 4009,
+      "constituency": "福岡9区",
+      "constituency_en": "Fukuoka 9",
+      "district_number": 9,
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_en": "Fukuoka"
+    },
+    {
+      "kucode": 4010,
+      "constituency": "福岡10区",
+      "constituency_en": "Fukuoka 10",
+      "district_number": 10,
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_en": "Fukuoka"
+    },
+    {
+      "kucode": 4011,
+      "constituency": "福岡11区",
+      "constituency_en": "Fukuoka 11",
+      "district_number": 11,
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_en": "Fukuoka"
+    },
+    {
+      "kucode": 4101,
+      "constituency": "佐賀1区",
+      "constituency_en": "Saga 1",
+      "district_number": 1,
+      "prefecture_code": "41",
+      "prefecture": "佐賀県",
+      "prefecture_en": "Saga"
+    },
+    {
+      "kucode": 4102,
+      "constituency": "佐賀2区",
+      "constituency_en": "Saga 2",
+      "district_number": 2,
+      "prefecture_code": "41",
+      "prefecture": "佐賀県",
+      "prefecture_en": "Saga"
+    },
+    {
+      "kucode": 4201,
+      "constituency": "長崎1区",
+      "constituency_en": "Nagasaki 1",
+      "district_number": 1,
+      "prefecture_code": "42",
+      "prefecture": "長崎県",
+      "prefecture_en": "Nagasaki"
+    },
+    {
+      "kucode": 4202,
+      "constituency": "長崎2区",
+      "constituency_en": "Nagasaki 2",
+      "district_number": 2,
+      "prefecture_code": "42",
+      "prefecture": "長崎県",
+      "prefecture_en": "Nagasaki"
+    },
+    {
+      "kucode": 4203,
+      "constituency": "長崎3区",
+      "constituency_en": "Nagasaki 3",
+      "district_number": 3,
+      "prefecture_code": "42",
+      "prefecture": "長崎県",
+      "prefecture_en": "Nagasaki"
+    },
+    {
+      "kucode": 4204,
+      "constituency": "長崎4区",
+      "constituency_en": "Nagasaki 4",
+      "district_number": 4,
+      "prefecture_code": "42",
+      "prefecture": "長崎県",
+      "prefecture_en": "Nagasaki"
+    },
+    {
+      "kucode": 4301,
+      "constituency": "熊本1区",
+      "constituency_en": "Kumamoto 1",
+      "district_number": 1,
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_en": "Kumamoto"
+    },
+    {
+      "kucode": 4302,
+      "constituency": "熊本2区",
+      "constituency_en": "Kumamoto 2",
+      "district_number": 2,
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_en": "Kumamoto"
+    },
+    {
+      "kucode": 4303,
+      "constituency": "熊本3区",
+      "constituency_en": "Kumamoto 3",
+      "district_number": 3,
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_en": "Kumamoto"
+    },
+    {
+      "kucode": 4304,
+      "constituency": "熊本4区",
+      "constituency_en": "Kumamoto 4",
+      "district_number": 4,
+      "prefecture_code": "43",
+      "prefecture": "熊本県",
+      "prefecture_en": "Kumamoto"
+    },
+    {
+      "kucode": 4401,
+      "constituency": "大分1区",
+      "constituency_en": "Oita 1",
+      "district_number": 1,
+      "prefecture_code": "44",
+      "prefecture": "大分県",
+      "prefecture_en": "Oita"
+    },
+    {
+      "kucode": 4402,
+      "constituency": "大分2区",
+      "constituency_en": "Oita 2",
+      "district_number": 2,
+      "prefecture_code": "44",
+      "prefecture": "大分県",
+      "prefecture_en": "Oita"
+    },
+    {
+      "kucode": 4403,
+      "constituency": "大分3区",
+      "constituency_en": "Oita 3",
+      "district_number": 3,
+      "prefecture_code": "44",
+      "prefecture": "大分県",
+      "prefecture_en": "Oita"
+    },
+    {
+      "kucode": 4501,
+      "constituency": "宮崎1区",
+      "constituency_en": "Miyazaki 1",
+      "district_number": 1,
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_en": "Miyazaki"
+    },
+    {
+      "kucode": 4502,
+      "constituency": "宮崎2区",
+      "constituency_en": "Miyazaki 2",
+      "district_number": 2,
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_en": "Miyazaki"
+    },
+    {
+      "kucode": 4503,
+      "constituency": "宮崎3区",
+      "constituency_en": "Miyazaki 3",
+      "district_number": 3,
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_en": "Miyazaki"
+    },
+    {
+      "kucode": 4601,
+      "constituency": "鹿児島1区",
+      "constituency_en": "Kagoshima 1",
+      "district_number": 1,
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_en": "Kagoshima"
+    },
+    {
+      "kucode": 4602,
+      "constituency": "鹿児島2区",
+      "constituency_en": "Kagoshima 2",
+      "district_number": 2,
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_en": "Kagoshima"
+    },
+    {
+      "kucode": 4603,
+      "constituency": "鹿児島3区",
+      "constituency_en": "Kagoshima 3",
+      "district_number": 3,
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_en": "Kagoshima"
+    },
+    {
+      "kucode": 4604,
+      "constituency": "鹿児島4区",
+      "constituency_en": "Kagoshima 4",
+      "district_number": 4,
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_en": "Kagoshima"
+    },
+    {
+      "kucode": 4701,
+      "constituency": "沖縄1区",
+      "constituency_en": "Okinawa 1",
+      "district_number": 1,
+      "prefecture_code": "47",
+      "prefecture": "沖縄県",
+      "prefecture_en": "Okinawa"
+    },
+    {
+      "kucode": 4702,
+      "constituency": "沖縄2区",
+      "constituency_en": "Okinawa 2",
+      "district_number": 2,
+      "prefecture_code": "47",
+      "prefecture": "沖縄県",
+      "prefecture_en": "Okinawa"
+    },
+    {
+      "kucode": 4703,
+      "constituency": "沖縄3区",
+      "constituency_en": "Okinawa 3",
+      "district_number": 3,
+      "prefecture_code": "47",
+      "prefecture": "沖縄県",
+      "prefecture_en": "Okinawa"
+    },
+    {
+      "kucode": 4704,
+      "constituency": "沖縄4区",
+      "constituency_en": "Okinawa 4",
+      "district_number": 4,
+      "prefecture_code": "47",
+      "prefecture": "沖縄県",
+      "prefecture_en": "Okinawa"
+    }
+  ],
+  "meta": {
+    "title": "衆議院小選挙区一覧 (House of Representatives Single-Member Electoral Districts) - 無料ダウンロード",
+    "description": "日本の衆議院小選挙区 289 件の一覧。smartnews-smri/japan-topography の senkyoku289 ポリゴンデータから、行政属性（区コード kucode、選挙区名 kuname、都道府県コード ken、区番号 ku）のみを抽出し、ポリゴン座標は除外。都道府県名（漢字・ローマ字）を JIS X 0401 で付与。 289 single-member electoral districts (小選挙区) of the Japanese House of Representatives, extracted as a clean attribute list (geometry dropped) from smartnews-smri/japan-topography. Source lineage: MLIT 国土数値情報 衆議院小選挙区データ. 収録数 289 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "衆議院小選挙区一覧 (House of Representatives Single-Member Electoral Districts) | ListBase",
+    "seo_description": "ダウンロード 衆議院小選挙区一覧 (House of Representatives Single-Member Electoral Districts) — 289 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 289 件 / 7 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/smartnews-smri/japan-topography"
+    ]
+  }
+}

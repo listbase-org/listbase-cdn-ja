@@ -1,0 +1,224 @@
+{
+  "id": "ja-nagasaki-shichoson",
+  "name": "長崎県の市区町村一覧",
+  "title": "長崎県の市区町村一覧",
+  "description": "長崎県 (Nagasaki Prefecture) の全市区町村 21 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "42201",
+      "name": "長崎市",
+      "full_name": "長崎市",
+      "prefecture": "長崎県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "42202",
+      "name": "佐世保市",
+      "full_name": "佐世保市",
+      "prefecture": "長崎県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "42203",
+      "name": "島原市",
+      "full_name": "島原市",
+      "prefecture": "長崎県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "42204",
+      "name": "諫早市",
+      "full_name": "諫早市",
+      "prefecture": "長崎県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "42205",
+      "name": "大村市",
+      "full_name": "大村市",
+      "prefecture": "長崎県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "42207",
+      "name": "平戸市",
+      "full_name": "平戸市",
+      "prefecture": "長崎県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "42208",
+      "name": "松浦市",
+      "full_name": "松浦市",
+      "prefecture": "長崎県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "42209",
+      "name": "対馬市",
+      "full_name": "対馬市",
+      "prefecture": "長崎県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "42210",
+      "name": "壱岐市",
+      "full_name": "壱岐市",
+      "prefecture": "長崎県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "42211",
+      "name": "五島市",
+      "full_name": "五島市",
+      "prefecture": "長崎県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "42212",
+      "name": "西海市",
+      "full_name": "西海市",
+      "prefecture": "長崎県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "42213",
+      "name": "雲仙市",
+      "full_name": "雲仙市",
+      "prefecture": "長崎県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "42214",
+      "name": "南島原市",
+      "full_name": "南島原市",
+      "prefecture": "長崎県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "42307",
+      "name": "長与町",
+      "full_name": "西彼杵郡長与町",
+      "prefecture": "長崎県",
+      "county_or_designated_city": "西彼杵郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "42308",
+      "name": "時津町",
+      "full_name": "西彼杵郡時津町",
+      "prefecture": "長崎県",
+      "county_or_designated_city": "西彼杵郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "42321",
+      "name": "東彼杵町",
+      "full_name": "東彼杵郡東彼杵町",
+      "prefecture": "長崎県",
+      "county_or_designated_city": "東彼杵郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "42322",
+      "name": "川棚町",
+      "full_name": "東彼杵郡川棚町",
+      "prefecture": "長崎県",
+      "county_or_designated_city": "東彼杵郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "42323",
+      "name": "波佐見町",
+      "full_name": "東彼杵郡波佐見町",
+      "prefecture": "長崎県",
+      "county_or_designated_city": "東彼杵郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "42383",
+      "name": "小値賀町",
+      "full_name": "北松浦郡小値賀町",
+      "prefecture": "長崎県",
+      "county_or_designated_city": "北松浦郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "42391",
+      "name": "佐々町",
+      "full_name": "北松浦郡佐々町",
+      "prefecture": "長崎県",
+      "county_or_designated_city": "北松浦郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "42411",
+      "name": "新上五島町",
+      "full_name": "南松浦郡新上五島町",
+      "prefecture": "長崎県",
+      "county_or_designated_city": "南松浦郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "長崎県の市区町村一覧 - 無料ダウンロード",
+    "description": "長崎県 (Nagasaki Prefecture) の全市区町村 21 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 21 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "長崎県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 長崎県の市区町村一覧 — 21 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 21 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

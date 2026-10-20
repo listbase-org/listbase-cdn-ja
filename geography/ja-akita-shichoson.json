@@ -1,0 +1,256 @@
+{
+  "id": "ja-akita-shichoson",
+  "name": "秋田県の市区町村一覧",
+  "title": "秋田県の市区町村一覧",
+  "description": "秋田県 (Akita Prefecture) の全市区町村 25 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "05201",
+      "name": "秋田市",
+      "full_name": "秋田市",
+      "prefecture": "秋田県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "05202",
+      "name": "能代市",
+      "full_name": "能代市",
+      "prefecture": "秋田県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "05203",
+      "name": "横手市",
+      "full_name": "横手市",
+      "prefecture": "秋田県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "05204",
+      "name": "大館市",
+      "full_name": "大館市",
+      "prefecture": "秋田県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "05206",
+      "name": "男鹿市",
+      "full_name": "男鹿市",
+      "prefecture": "秋田県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "05207",
+      "name": "湯沢市",
+      "full_name": "湯沢市",
+      "prefecture": "秋田県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "05209",
+      "name": "鹿角市",
+      "full_name": "鹿角市",
+      "prefecture": "秋田県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "05210",
+      "name": "由利本荘市",
+      "full_name": "由利本荘市",
+      "prefecture": "秋田県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "05211",
+      "name": "潟上市",
+      "full_name": "潟上市",
+      "prefecture": "秋田県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "05212",
+      "name": "大仙市",
+      "full_name": "大仙市",
+      "prefecture": "秋田県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "05213",
+      "name": "北秋田市",
+      "full_name": "北秋田市",
+      "prefecture": "秋田県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "05214",
+      "name": "にかほ市",
+      "full_name": "にかほ市",
+      "prefecture": "秋田県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "05215",
+      "name": "仙北市",
+      "full_name": "仙北市",
+      "prefecture": "秋田県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "05303",
+      "name": "小坂町",
+      "full_name": "鹿角郡小坂町",
+      "prefecture": "秋田県",
+      "county_or_designated_city": "鹿角郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "05327",
+      "name": "上小阿仁村",
+      "full_name": "北秋田郡上小阿仁村",
+      "prefecture": "秋田県",
+      "county_or_designated_city": "北秋田郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "05346",
+      "name": "藤里町",
+      "full_name": "山本郡藤里町",
+      "prefecture": "秋田県",
+      "county_or_designated_city": "山本郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "05348",
+      "name": "三種町",
+      "full_name": "山本郡三種町",
+      "prefecture": "秋田県",
+      "county_or_designated_city": "山本郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "05349",
+      "name": "八峰町",
+      "full_name": "山本郡八峰町",
+      "prefecture": "秋田県",
+      "county_or_designated_city": "山本郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "05361",
+      "name": "五城目町",
+      "full_name": "南秋田郡五城目町",
+      "prefecture": "秋田県",
+      "county_or_designated_city": "南秋田郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "05363",
+      "name": "八郎潟町",
+      "full_name": "南秋田郡八郎潟町",
+      "prefecture": "秋田県",
+      "county_or_designated_city": "南秋田郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "05366",
+      "name": "井川町",
+      "full_name": "南秋田郡井川町",
+      "prefecture": "秋田県",
+      "county_or_designated_city": "南秋田郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "05368",
+      "name": "大潟村",
+      "full_name": "南秋田郡大潟村",
+      "prefecture": "秋田県",
+      "county_or_designated_city": "南秋田郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "05434",
+      "name": "美郷町",
+      "full_name": "仙北郡美郷町",
+      "prefecture": "秋田県",
+      "county_or_designated_city": "仙北郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "05463",
+      "name": "羽後町",
+      "full_name": "雄勝郡羽後町",
+      "prefecture": "秋田県",
+      "county_or_designated_city": "雄勝郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "05464",
+      "name": "東成瀬村",
+      "full_name": "雄勝郡東成瀬村",
+      "prefecture": "秋田県",
+      "county_or_designated_city": "雄勝郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "秋田県の市区町村一覧 - 無料ダウンロード",
+    "description": "秋田県 (Akita Prefecture) の全市区町村 25 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 25 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "秋田県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 秋田県の市区町村一覧 — 25 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 25 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "id": "ja-ehime-municipalities",
+  "name": "愛媛県の市区町村一覧 (Municipalities of Ehime — JIS X 0402)",
+  "title": "愛媛県の市区町村一覧 (Municipalities of Ehime — JIS X 0402)",
+  "description": "愛媛県 (Ehime Prefecture) の市区町村一覧 20 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 20 active municipalities (cities/wards/towns/villages) of Ehime Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "38201",
+      "prefecture_code": "38",
+      "prefecture": "愛媛県",
+      "prefecture_kana": "エヒメケン",
+      "city": "松山市",
+      "city_kana": "マツヤマシ"
+    },
+    {
+      "jisx0402": "38202",
+      "prefecture_code": "38",
+      "prefecture": "愛媛県",
+      "prefecture_kana": "エヒメケン",
+      "city": "今治市",
+      "city_kana": "イマバリシ"
+    },
+    {
+      "jisx0402": "38203",
+      "prefecture_code": "38",
+      "prefecture": "愛媛県",
+      "prefecture_kana": "エヒメケン",
+      "city": "宇和島市",
+      "city_kana": "ウワジマシ"
+    },
+    {
+      "jisx0402": "38204",
+      "prefecture_code": "38",
+      "prefecture": "愛媛県",
+      "prefecture_kana": "エヒメケン",
+      "city": "八幡浜市",
+      "city_kana": "ヤワタハマシ"
+    },
+    {
+      "jisx0402": "38205",
+      "prefecture_code": "38",
+      "prefecture": "愛媛県",
+      "prefecture_kana": "エヒメケン",
+      "city": "新居浜市",
+      "city_kana": "ニイハマシ"
+    },
+    {
+      "jisx0402": "38206",
+      "prefecture_code": "38",
+      "prefecture": "愛媛県",
+      "prefecture_kana": "エヒメケン",
+      "city": "西条市",
+      "city_kana": "サイジョウシ"
+    },
+    {
+      "jisx0402": "38207",
+      "prefecture_code": "38",
+      "prefecture": "愛媛県",
+      "prefecture_kana": "エヒメケン",
+      "city": "大洲市",
+      "city_kana": "オオズシ"
+    },
+    {
+      "jisx0402": "38210",
+      "prefecture_code": "38",
+      "prefecture": "愛媛県",
+      "prefecture_kana": "エヒメケン",
+      "city": "伊予市",
+      "city_kana": "イヨシ"
+    },
+    {
+      "jisx0402": "38213",
+      "prefecture_code": "38",
+      "prefecture": "愛媛県",
+      "prefecture_kana": "エヒメケン",
+      "city": "四国中央市",
+      "city_kana": "シコクチュウオウシ"
+    },
+    {
+      "jisx0402": "38214",
+      "prefecture_code": "38",
+      "prefecture": "愛媛県",
+      "prefecture_kana": "エヒメケン",
+      "city": "西予市",
+      "city_kana": "セイヨシ"
+    },
+    {
+      "jisx0402": "38215",
+      "prefecture_code": "38",
+      "prefecture": "愛媛県",
+      "prefecture_kana": "エヒメケン",
+      "city": "東温市",
+      "city_kana": "トウオンシ"
+    },
+    {
+      "jisx0402": "38356",
+      "prefecture_code": "38",
+      "prefecture": "愛媛県",
+      "prefecture_kana": "エヒメケン",
+      "city": "越智郡上島町",
+      "city_kana": "オチグンカミジマチョウ"
+    },
+    {
+      "jisx0402": "38386",
+      "prefecture_code": "38",
+      "prefecture": "愛媛県",
+      "prefecture_kana": "エヒメケン",
+      "city": "上浮穴郡久万高原町",
+      "city_kana": "カミウケナグンクマコウゲンチョウ"
+    },
+    {
+      "jisx0402": "38401",
+      "prefecture_code": "38",
+      "prefecture": "愛媛県",
+      "prefecture_kana": "エヒメケン",
+      "city": "伊予郡松前町",
+      "city_kana": "イヨグンマサキチョウ"
+    },
+    {
+      "jisx0402": "38402",
+      "prefecture_code": "38",
+      "prefecture": "愛媛県",
+      "prefecture_kana": "エヒメケン",
+      "city": "伊予郡砥部町",
+      "city_kana": "イヨグントベチョウ"
+    },
+    {
+      "jisx0402": "38422",
+      "prefecture_code": "38",
+      "prefecture": "愛媛県",
+      "prefecture_kana": "エヒメケン",
+      "city": "喜多郡内子町",
+      "city_kana": "キタグンウチコチョウ"
+    },
+    {
+      "jisx0402": "38442",
+      "prefecture_code": "38",
+      "prefecture": "愛媛県",
+      "prefecture_kana": "エヒメケン",
+      "city": "西宇和郡伊方町",
+      "city_kana": "ニシウワグンイカタチョウ"
+    },
+    {
+      "jisx0402": "38484",
+      "prefecture_code": "38",
+      "prefecture": "愛媛県",
+      "prefecture_kana": "エヒメケン",
+      "city": "北宇和郡松野町",
+      "city_kana": "キタウワグンマツノチョウ"
+    },
+    {
+      "jisx0402": "38488",
+      "prefecture_code": "38",
+      "prefecture": "愛媛県",
+      "prefecture_kana": "エヒメケン",
+      "city": "北宇和郡鬼北町",
+      "city_kana": "キタウワグンキホクチョウ"
+    },
+    {
+      "jisx0402": "38506",
+      "prefecture_code": "38",
+      "prefecture": "愛媛県",
+      "prefecture_kana": "エヒメケン",
+      "city": "南宇和郡愛南町",
+      "city_kana": "ミナミウワグンアイナンチョウ"
+    }
+  ],
+  "meta": {
+    "title": "愛媛県の市区町村一覧 (Municipalities of Ehime — JIS X 0402) - 無料ダウンロード",
+    "description": "愛媛県 (Ehime Prefecture) の市区町村一覧 20 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 20 active municipalities (cities/wards/towns/villages) of Ehime Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 20 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "愛媛県の市区町村一覧 (Municipalities of Ehime — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 愛媛県の市区町村一覧 (Municipalities of Ehime — JIS X 0402) — 20 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 20 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

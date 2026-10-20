@@ -1,0 +1,400 @@
+{
+  "id": "ja-kagoshima-shichoson",
+  "name": "鹿児島県の市区町村一覧",
+  "title": "鹿児島県の市区町村一覧",
+  "description": "鹿児島県 (Kagoshima Prefecture) の全市区町村 43 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "46201",
+      "name": "鹿児島市",
+      "full_name": "鹿児島市",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "46203",
+      "name": "鹿屋市",
+      "full_name": "鹿屋市",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "46204",
+      "name": "枕崎市",
+      "full_name": "枕崎市",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "46206",
+      "name": "阿久根市",
+      "full_name": "阿久根市",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "46208",
+      "name": "出水市",
+      "full_name": "出水市",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "46210",
+      "name": "指宿市",
+      "full_name": "指宿市",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "46213",
+      "name": "西之表市",
+      "full_name": "西之表市",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "46214",
+      "name": "垂水市",
+      "full_name": "垂水市",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "46215",
+      "name": "薩摩川内市",
+      "full_name": "薩摩川内市",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "46216",
+      "name": "日置市",
+      "full_name": "日置市",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "46217",
+      "name": "曽於市",
+      "full_name": "曽於市",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "46218",
+      "name": "霧島市",
+      "full_name": "霧島市",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "46219",
+      "name": "いちき串木野市",
+      "full_name": "いちき串木野市",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "46220",
+      "name": "南さつま市",
+      "full_name": "南さつま市",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "46221",
+      "name": "志布志市",
+      "full_name": "志布志市",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "46222",
+      "name": "奄美市",
+      "full_name": "奄美市",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "46223",
+      "name": "南九州市",
+      "full_name": "南九州市",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "46224",
+      "name": "伊佐市",
+      "full_name": "伊佐市",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "46225",
+      "name": "姶良市",
+      "full_name": "姶良市",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "46303",
+      "name": "三島村",
+      "full_name": "鹿児島郡三島村",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "鹿児島郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "46304",
+      "name": "十島村",
+      "full_name": "鹿児島郡十島村",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "鹿児島郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "46392",
+      "name": "さつま町",
+      "full_name": "薩摩郡さつま町",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "薩摩郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "46404",
+      "name": "長島町",
+      "full_name": "出水郡長島町",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "出水郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "46452",
+      "name": "湧水町",
+      "full_name": "姶良郡湧水町",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "姶良郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "46468",
+      "name": "大崎町",
+      "full_name": "曽於郡大崎町",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "曽於郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "46482",
+      "name": "東串良町",
+      "full_name": "肝属郡東串良町",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "肝属郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "46490",
+      "name": "錦江町",
+      "full_name": "肝属郡錦江町",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "肝属郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "46491",
+      "name": "南大隅町",
+      "full_name": "肝属郡南大隅町",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "肝属郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "46492",
+      "name": "肝付町",
+      "full_name": "肝属郡肝付町",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "肝属郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "46501",
+      "name": "中種子町",
+      "full_name": "熊毛郡中種子町",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "熊毛郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "46502",
+      "name": "南種子町",
+      "full_name": "熊毛郡南種子町",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "熊毛郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "46505",
+      "name": "屋久島町",
+      "full_name": "熊毛郡屋久島町",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "熊毛郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "46523",
+      "name": "大和村",
+      "full_name": "大島郡大和村",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "大島郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "46524",
+      "name": "宇検村",
+      "full_name": "大島郡宇検村",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "大島郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "46525",
+      "name": "瀬戸内町",
+      "full_name": "大島郡瀬戸内町",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "大島郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "46527",
+      "name": "龍郷町",
+      "full_name": "大島郡龍郷町",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "大島郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "46529",
+      "name": "喜界町",
+      "full_name": "大島郡喜界町",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "大島郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "46530",
+      "name": "徳之島町",
+      "full_name": "大島郡徳之島町",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "大島郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "46531",
+      "name": "天城町",
+      "full_name": "大島郡天城町",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "大島郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "46532",
+      "name": "伊仙町",
+      "full_name": "大島郡伊仙町",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "大島郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "46533",
+      "name": "和泊町",
+      "full_name": "大島郡和泊町",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "大島郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "46534",
+      "name": "知名町",
+      "full_name": "大島郡知名町",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "大島郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "46535",
+      "name": "与論町",
+      "full_name": "大島郡与論町",
+      "prefecture": "鹿児島県",
+      "county_or_designated_city": "大島郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "鹿児島県の市区町村一覧 - 無料ダウンロード",
+    "description": "鹿児島県 (Kagoshima Prefecture) の全市区町村 43 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 43 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "鹿児島県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 鹿児島県の市区町村一覧 — 43 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 43 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

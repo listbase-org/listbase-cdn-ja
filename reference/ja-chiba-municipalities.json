@@ -1,0 +1,528 @@
+{
+  "id": "ja-chiba-municipalities",
+  "name": "千葉県の市区町村一覧 (Municipalities of Chiba — JIS X 0402)",
+  "title": "千葉県の市区町村一覧 (Municipalities of Chiba — JIS X 0402)",
+  "description": "千葉県 (Chiba Prefecture) の市区町村一覧 59 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 59 active municipalities (cities/wards/towns/villages) of Chiba Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 59,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "12101",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "千葉市中央区",
+      "city_kana": "チバシチュウオウク"
+    },
+    {
+      "jisx0402": "12102",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "千葉市花見川区",
+      "city_kana": "チバシハナミガワク"
+    },
+    {
+      "jisx0402": "12103",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "千葉市稲毛区",
+      "city_kana": "チバシイナゲク"
+    },
+    {
+      "jisx0402": "12104",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "千葉市若葉区",
+      "city_kana": "チバシワカバク"
+    },
+    {
+      "jisx0402": "12105",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "千葉市緑区",
+      "city_kana": "チバシミドリク"
+    },
+    {
+      "jisx0402": "12106",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "千葉市美浜区",
+      "city_kana": "チバシミハマク"
+    },
+    {
+      "jisx0402": "12202",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "銚子市",
+      "city_kana": "チョウシシ"
+    },
+    {
+      "jisx0402": "12203",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "市川市",
+      "city_kana": "イチカワシ"
+    },
+    {
+      "jisx0402": "12204",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "船橋市",
+      "city_kana": "フナバシシ"
+    },
+    {
+      "jisx0402": "12205",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "館山市",
+      "city_kana": "タテヤマシ"
+    },
+    {
+      "jisx0402": "12206",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "木更津市",
+      "city_kana": "キサラヅシ"
+    },
+    {
+      "jisx0402": "12207",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "松戸市",
+      "city_kana": "マツドシ"
+    },
+    {
+      "jisx0402": "12208",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "野田市",
+      "city_kana": "ノダシ"
+    },
+    {
+      "jisx0402": "12210",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "茂原市",
+      "city_kana": "モバラシ"
+    },
+    {
+      "jisx0402": "12211",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "成田市",
+      "city_kana": "ナリタシ"
+    },
+    {
+      "jisx0402": "12212",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "佐倉市",
+      "city_kana": "サクラシ"
+    },
+    {
+      "jisx0402": "12213",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "東金市",
+      "city_kana": "トウガネシ"
+    },
+    {
+      "jisx0402": "12215",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "旭市",
+      "city_kana": "アサヒシ"
+    },
+    {
+      "jisx0402": "12216",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "習志野市",
+      "city_kana": "ナラシノシ"
+    },
+    {
+      "jisx0402": "12217",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "柏市",
+      "city_kana": "カシワシ"
+    },
+    {
+      "jisx0402": "12218",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "勝浦市",
+      "city_kana": "カツウラシ"
+    },
+    {
+      "jisx0402": "12219",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "市原市",
+      "city_kana": "イチハラシ"
+    },
+    {
+      "jisx0402": "12220",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "流山市",
+      "city_kana": "ナガレヤマシ"
+    },
+    {
+      "jisx0402": "12221",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "八千代市",
+      "city_kana": "ヤチヨシ"
+    },
+    {
+      "jisx0402": "12222",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "我孫子市",
+      "city_kana": "アビコシ"
+    },
+    {
+      "jisx0402": "12223",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "鴨川市",
+      "city_kana": "カモガワシ"
+    },
+    {
+      "jisx0402": "12224",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "鎌ケ谷市",
+      "city_kana": "カマガヤシ"
+    },
+    {
+      "jisx0402": "12225",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "君津市",
+      "city_kana": "キミツシ"
+    },
+    {
+      "jisx0402": "12226",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "富津市",
+      "city_kana": "フッツシ"
+    },
+    {
+      "jisx0402": "12227",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "浦安市",
+      "city_kana": "ウラヤスシ"
+    },
+    {
+      "jisx0402": "12228",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "四街道市",
+      "city_kana": "ヨツカイドウシ"
+    },
+    {
+      "jisx0402": "12229",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "袖ケ浦市",
+      "city_kana": "ソデガウラシ"
+    },
+    {
+      "jisx0402": "12230",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "八街市",
+      "city_kana": "ヤチマタシ"
+    },
+    {
+      "jisx0402": "12231",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "印西市",
+      "city_kana": "インザイシ"
+    },
+    {
+      "jisx0402": "12232",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "白井市",
+      "city_kana": "シロイシ"
+    },
+    {
+      "jisx0402": "12233",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "富里市",
+      "city_kana": "トミサトシ"
+    },
+    {
+      "jisx0402": "12234",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "南房総市",
+      "city_kana": "ミナミボウソウシ"
+    },
+    {
+      "jisx0402": "12235",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "匝瑳市",
+      "city_kana": "ソウサシ"
+    },
+    {
+      "jisx0402": "12236",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "香取市",
+      "city_kana": "カトリシ"
+    },
+    {
+      "jisx0402": "12237",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "山武市",
+      "city_kana": "サンムシ"
+    },
+    {
+      "jisx0402": "12238",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "いすみ市",
+      "city_kana": "イスミシ"
+    },
+    {
+      "jisx0402": "12239",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "大網白里市",
+      "city_kana": "オオアミシラサトシ"
+    },
+    {
+      "jisx0402": "12322",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "印旛郡酒々井町",
+      "city_kana": "インバグンシスイマチ"
+    },
+    {
+      "jisx0402": "12329",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "印旛郡栄町",
+      "city_kana": "インバグンサカエマチ"
+    },
+    {
+      "jisx0402": "12342",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "香取郡神崎町",
+      "city_kana": "カトリグンコウザキマチ"
+    },
+    {
+      "jisx0402": "12347",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "香取郡多古町",
+      "city_kana": "カトリグンタコマチ"
+    },
+    {
+      "jisx0402": "12349",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "香取郡東庄町",
+      "city_kana": "カトリグントウノショウマチ"
+    },
+    {
+      "jisx0402": "12403",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "山武郡九十九里町",
+      "city_kana": "サンブグンクジュウクリマチ"
+    },
+    {
+      "jisx0402": "12409",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "山武郡芝山町",
+      "city_kana": "サンブグンシバヤママチ"
+    },
+    {
+      "jisx0402": "12410",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "山武郡横芝光町",
+      "city_kana": "サンブグンヨコシバヒカリマチ"
+    },
+    {
+      "jisx0402": "12421",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "長生郡一宮町",
+      "city_kana": "チョウセイグンイチノミヤマチ"
+    },
+    {
+      "jisx0402": "12422",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "長生郡睦沢町",
+      "city_kana": "チョウセイグンムツザワマチ"
+    },
+    {
+      "jisx0402": "12423",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "長生郡長生村",
+      "city_kana": "チョウセイグンチョウセイムラ"
+    },
+    {
+      "jisx0402": "12424",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "長生郡白子町",
+      "city_kana": "チョウセイグンシラコマチ"
+    },
+    {
+      "jisx0402": "12426",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "長生郡長柄町",
+      "city_kana": "チョウセイグンナガラマチ"
+    },
+    {
+      "jisx0402": "12427",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "長生郡長南町",
+      "city_kana": "チョウセイグンチョウナンマチ"
+    },
+    {
+      "jisx0402": "12441",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "夷隅郡大多喜町",
+      "city_kana": "イスミグンオオタキマチ"
+    },
+    {
+      "jisx0402": "12443",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "夷隅郡御宿町",
+      "city_kana": "イスミグンオンジュクマチ"
+    },
+    {
+      "jisx0402": "12463",
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "city": "安房郡鋸南町",
+      "city_kana": "アワグンキョナンマチ"
+    }
+  ],
+  "meta": {
+    "title": "千葉県の市区町村一覧 (Municipalities of Chiba — JIS X 0402) - 無料ダウンロード",
+    "description": "千葉県 (Chiba Prefecture) の市区町村一覧 59 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 59 active municipalities (cities/wards/towns/villages) of Chiba Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 59 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "千葉県の市区町村一覧 (Municipalities of Chiba — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 千葉県の市区町村一覧 (Municipalities of Chiba — JIS X 0402) — 59 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 59 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

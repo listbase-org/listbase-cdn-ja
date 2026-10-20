@@ -1,0 +1,256 @@
+{
+  "id": "ja-akita-municipalities",
+  "name": "秋田県の市区町村一覧 (Municipalities of Akita — JIS X 0402)",
+  "title": "秋田県の市区町村一覧 (Municipalities of Akita — JIS X 0402)",
+  "description": "秋田県 (Akita Prefecture) の市区町村一覧 25 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 25 active municipalities (cities/wards/towns/villages) of Akita Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "05201",
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_kana": "アキタケン",
+      "city": "秋田市",
+      "city_kana": "アキタシ"
+    },
+    {
+      "jisx0402": "05202",
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_kana": "アキタケン",
+      "city": "能代市",
+      "city_kana": "ノシロシ"
+    },
+    {
+      "jisx0402": "05203",
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_kana": "アキタケン",
+      "city": "横手市",
+      "city_kana": "ヨコテシ"
+    },
+    {
+      "jisx0402": "05204",
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_kana": "アキタケン",
+      "city": "大館市",
+      "city_kana": "オオダテシ"
+    },
+    {
+      "jisx0402": "05206",
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_kana": "アキタケン",
+      "city": "男鹿市",
+      "city_kana": "オガシ"
+    },
+    {
+      "jisx0402": "05207",
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_kana": "アキタケン",
+      "city": "湯沢市",
+      "city_kana": "ユザワシ"
+    },
+    {
+      "jisx0402": "05209",
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_kana": "アキタケン",
+      "city": "鹿角市",
+      "city_kana": "カヅノシ"
+    },
+    {
+      "jisx0402": "05210",
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_kana": "アキタケン",
+      "city": "由利本荘市",
+      "city_kana": "ユリホンジョウシ"
+    },
+    {
+      "jisx0402": "05211",
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_kana": "アキタケン",
+      "city": "潟上市",
+      "city_kana": "カタガミシ"
+    },
+    {
+      "jisx0402": "05212",
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_kana": "アキタケン",
+      "city": "大仙市",
+      "city_kana": "ダイセンシ"
+    },
+    {
+      "jisx0402": "05213",
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_kana": "アキタケン",
+      "city": "北秋田市",
+      "city_kana": "キタアキタシ"
+    },
+    {
+      "jisx0402": "05214",
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_kana": "アキタケン",
+      "city": "にかほ市",
+      "city_kana": "ニカホシ"
+    },
+    {
+      "jisx0402": "05215",
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_kana": "アキタケン",
+      "city": "仙北市",
+      "city_kana": "センボクシ"
+    },
+    {
+      "jisx0402": "05303",
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_kana": "アキタケン",
+      "city": "鹿角郡小坂町",
+      "city_kana": "カヅノグンコサカマチ"
+    },
+    {
+      "jisx0402": "05327",
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_kana": "アキタケン",
+      "city": "北秋田郡上小阿仁村",
+      "city_kana": "キタアキタグンカミコアニムラ"
+    },
+    {
+      "jisx0402": "05346",
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_kana": "アキタケン",
+      "city": "山本郡藤里町",
+      "city_kana": "ヤマモトグンフジサトマチ"
+    },
+    {
+      "jisx0402": "05348",
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_kana": "アキタケン",
+      "city": "山本郡三種町",
+      "city_kana": "ヤマモトグンミタネチョウ"
+    },
+    {
+      "jisx0402": "05349",
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_kana": "アキタケン",
+      "city": "山本郡八峰町",
+      "city_kana": "ヤマモトグンハッポウチョウ"
+    },
+    {
+      "jisx0402": "05361",
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_kana": "アキタケン",
+      "city": "南秋田郡五城目町",
+      "city_kana": "ミナミアキタグンゴジョウメマチ"
+    },
+    {
+      "jisx0402": "05363",
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_kana": "アキタケン",
+      "city": "南秋田郡八郎潟町",
+      "city_kana": "ミナミアキタグンハチロウガタマチ"
+    },
+    {
+      "jisx0402": "05366",
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_kana": "アキタケン",
+      "city": "南秋田郡井川町",
+      "city_kana": "ミナミアキタグンイカワマチ"
+    },
+    {
+      "jisx0402": "05368",
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_kana": "アキタケン",
+      "city": "南秋田郡大潟村",
+      "city_kana": "ミナミアキタグンオオガタムラ"
+    },
+    {
+      "jisx0402": "05434",
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_kana": "アキタケン",
+      "city": "仙北郡美郷町",
+      "city_kana": "センボクグンミサトチョウ"
+    },
+    {
+      "jisx0402": "05463",
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_kana": "アキタケン",
+      "city": "雄勝郡羽後町",
+      "city_kana": "オガチグンウゴマチ"
+    },
+    {
+      "jisx0402": "05464",
+      "prefecture_code": "05",
+      "prefecture": "秋田県",
+      "prefecture_kana": "アキタケン",
+      "city": "雄勝郡東成瀬村",
+      "city_kana": "オガチグンヒガシナルセムラ"
+    }
+  ],
+  "meta": {
+    "title": "秋田県の市区町村一覧 (Municipalities of Akita — JIS X 0402) - 無料ダウンロード",
+    "description": "秋田県 (Akita Prefecture) の市区町村一覧 25 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 25 active municipalities (cities/wards/towns/villages) of Akita Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 25 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "秋田県の市区町村一覧 (Municipalities of Akita — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 秋田県の市区町村一覧 (Municipalities of Akita — JIS X 0402) — 25 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 25 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

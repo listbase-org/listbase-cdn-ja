@@ -1,0 +1,116 @@
+{
+  "id": "ja-banks-city",
+  "name": "都市銀行一覧 (City banks of Japan)",
+  "title": "都市銀行一覧 (City banks of Japan)",
+  "description": "日本の都市銀行（メガバンクを含む）の一覧。みずほ・三菱ＵＦＪ・三井住友・りそな・埼玉りそな等。 List of Japanese city banks (toshi-ginko / megabanks): Mizuho, MUFG, SMBC, Resona, Saitama Resona.",
+  "category": "reference",
+  "source": "https://github.com/zengin-code/source-data",
+  "source_url": "https://github.com/zengin-code/source-data",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "kana",
+      "label": "Kana",
+      "type": "string"
+    },
+    {
+      "key": "hira",
+      "label": "Hira",
+      "type": "string"
+    },
+    {
+      "key": "roma",
+      "label": "Roma",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "category_ja",
+      "label": "Category Ja",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "0001",
+      "name": "みずほ",
+      "kana": "ミズホ",
+      "hira": "みずほ",
+      "roma": "mizuho",
+      "slug": "mizuho",
+      "category": "city_bank",
+      "category_ja": "都市銀行"
+    },
+    {
+      "code": "0005",
+      "name": "三菱ＵＦＪ",
+      "kana": "ミツビシユ－エフジエイ",
+      "hira": "みつびしゆ－えふじえい",
+      "roma": "mitsubishiyu-efujiei",
+      "slug": "mitsubishiyu-efujiei",
+      "category": "city_bank",
+      "category_ja": "都市銀行"
+    },
+    {
+      "code": "0009",
+      "name": "三井住友",
+      "kana": "ミツイスミトモ",
+      "hira": "みついすみとも",
+      "roma": "mitsuisumitomo",
+      "slug": "mitsuisumitomo",
+      "category": "city_bank",
+      "category_ja": "都市銀行"
+    },
+    {
+      "code": "0010",
+      "name": "りそな",
+      "kana": "リソナ",
+      "hira": "りそな",
+      "roma": "risona",
+      "slug": "risona",
+      "category": "city_bank",
+      "category_ja": "都市銀行"
+    },
+    {
+      "code": "0017",
+      "name": "埼玉りそな",
+      "kana": "サイタマリソナ",
+      "hira": "さいたまりそな",
+      "roma": "saitamarisona",
+      "slug": "saitamarisona",
+      "category": "city_bank",
+      "category_ja": "都市銀行"
+    }
+  ],
+  "meta": {
+    "title": "都市銀行一覧 (City banks of Japan) - 無料ダウンロード",
+    "description": "日本の都市銀行（メガバンクを含む）の一覧。みずほ・三菱ＵＦＪ・三井住友・りそな・埼玉りそな等。 List of Japanese city banks (toshi-ginko / megabanks): Mizuho, MUFG, SMBC, Resona, Saitama Resona. 収録数 5 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "都市銀行一覧 (City banks of Japan) | ListBase",
+    "seo_description": "ダウンロード 都市銀行一覧 (City banks of Japan) — 5 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 5 件 / 8 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/zengin-code/source-data"
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "id": "ja-osaka-swift-codo",
+  "name": "SWIFT/BICコード — Osaka",
+  "title": "SWIFT/BICコード — Osaka",
+  "description": "日本の銀行および金融機関のSWIFT/BICコード。各レコードには機関名、都市、支店（該当する場合）、およびSWIFT/BICコードが含まれます。出典: PeterNotenboom/SwiftCodes（MITライセンス）。このサブセットには、出典が都市「OSAKA」として記載している37件の機関が含まれます。",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "ACE SECURITIES CO., LTD.",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "ACSRJPJ1"
+    },
+    {
+      "bank": "AICHI BANK, LTD., THE",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "AICHJPJ10JS"
+    },
+    {
+      "bank": "BANGKOK BANK PUBLIC COMPANY LTD.",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "BKKBJPJTOSA"
+    },
+    {
+      "bank": "BANK OF CHINA",
+      "city": "OSAKA",
+      "branch": "(OSAKA BRANCH)",
+      "swift_code": "BKCHJPJTOSA"
+    },
+    {
+      "bank": "BANK OF INDIA",
+      "city": "OSAKA",
+      "branch": "(OSAKA BRANCH)",
+      "swift_code": "BKIDJPJTOSK"
+    },
+    {
+      "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "BOTKJPJTOSA"
+    },
+    {
+      "bank": "DAICEL INTERNATIONAL FINANCE BV",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "DAIIJPJ1"
+    },
+    {
+      "bank": "DAICHU SECURITIES COMPANY",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "DACYJPJ1"
+    },
+    {
+      "bank": "HINODE SECURITIES CO., LTD.",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "HISEJPJ1"
+    },
+    {
+      "bank": "HIROTA SECURITIES CO., LTD.",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "HIRTJPJ1"
+    },
+    {
+      "bank": "ISUKAMOTO SECURITES COMP.",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "TKMTJPJ1"
+    },
+    {
+      "bank": "IWAI SECURITIES LTD.",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "IWAIJPJ1"
+    },
+    {
+      "bank": "JAPAN ELECTRONIC SECURITIES CO., LTD.",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "JESCJPJ1"
+    },
+    {
+      "bank": "KANSAI AGRICULTURAL COMMODITIES EXCHANGE",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "XKACJPJ1"
+    },
+    {
+      "bank": "KANSAI URBAN BANKING CORPORATION",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "KSBJJPJS"
+    },
+    {
+      "bank": "KEB HANA BANK",
+      "city": "OSAKA",
+      "branch": "(OSAKA BRANCH)",
+      "swift_code": "KOEXJPJTOSA"
+    },
+    {
+      "bank": "KINKI OSAKA BANK, LTD., THE",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "OSABJPJS"
+    },
+    {
+      "bank": "KOBE GOMU TORIHIKIJO (RUBBER EXCHANGE)",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "XKGTJPJ1"
+    },
+    {
+      "bank": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.,",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "ICBCJPJTOSA"
+    },
+    {
+      "bank": "NAITO SECURITIES CO",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "NAIEJPJ1OSA"
+    },
+    {
+      "bank": "NATIONAL BANK OF PAKISTAN",
+      "city": "OSAKA",
+      "branch": "(OSAKA BRANCH)",
+      "swift_code": "NBPAJPJTOSK"
+    },
+    {
+      "bank": "NIPPON SECURITIES",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "NISEJPJ1"
+    },
+    {
+      "bank": "NIS SECURITIES CO., LTD.",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "YAMEJPJ1OSA"
+    },
+    {
+      "bank": "ONKYO CORPORATION",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "ONCPJPJT"
+    },
+    {
+      "bank": "OSAKA CITY SHINKIN BANK, THE",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "OSACJPJS"
+    },
+    {
+      "bank": "OSAKA MERCANTILE EXCHANGE",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "XOSMJPJ1"
+    },
+    {
+      "bank": "OSAKA SECURITIES EXCHANGE CO., LTD",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "XOSEJPJ1"
+    },
+    {
+      "bank": "OSAKA SENI TORIHIKIJO (TEXTILE EXCHANGE)",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "XOSTJPJ1"
+    },
+    {
+      "bank": "PANASONIC CORPORATION",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "PANAJPJS"
+    },
+    {
+      "bank": "SEKISUI FINANCE COMPANY LIMITED",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "SEFCJPJ1"
+    },
+    {
+      "bank": "STATE BANK OF INDIA",
+      "city": "OSAKA",
+      "branch": "(OSAKA BRANCH)",
+      "swift_code": "SBINJPJTOSA"
+    },
+    {
+      "bank": "SUMITOMO MITSUI BANKING CORPORATION",
+      "city": "OSAKA",
+      "branch": "(OSAKA)",
+      "swift_code": "SMBCJPJTOSA"
+    },
+    {
+      "bank": "TAKAGI SECURITIES CO.",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "TAKAJPJ1"
+    },
+    {
+      "bank": "THE FUKUHO BANK LTD",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "FUHOJPJ1"
+    },
+    {
+      "bank": "THE SENSHU IKEDA BANK, LTD.",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "BIKEJPJS"
+    },
+    {
+      "bank": "THE TAISHO BANK,LTD",
+      "city": "OSAKA",
+      "branch": "",
+      "swift_code": "TASHJPJ1"
+    },
+    {
+      "bank": "U.B.A.F. - UNION DE BANQUES ARABES ET FRANCAISES TOKYO BRANCH",
+      "city": "OSAKA",
+      "branch": "(OSAKA BRANCH)",
+      "swift_code": "UBAFJPJXOSA"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BICコード — Osaka - 無料ダウンロード",
+    "description": "日本の銀行および金融機関のSWIFT/BICコード。各レコードには機関名、都市、支店（該当する場合）、およびSWIFT/BICコードが含まれます。出典: PeterNotenboom/SwiftCodes（MITライセンス）。このサブセットには、出典が都市「OSAKA」として記載している37件の機関が含まれます。 収録数 37 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "SWIFT/BICコード — Osaka | ListBase",
+    "seo_description": "ダウンロード SWIFT/BICコード — Osaka — 37 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 37 件 / 4 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

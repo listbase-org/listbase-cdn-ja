@@ -1,0 +1,208 @@
+{
+  "id": "ja-yamaguchi-municipalities",
+  "name": "山口県の市区町村一覧 (Municipalities of Yamaguchi — JIS X 0402)",
+  "title": "山口県の市区町村一覧 (Municipalities of Yamaguchi — JIS X 0402)",
+  "description": "山口県 (Yamaguchi Prefecture) の市区町村一覧 19 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 19 active municipalities (cities/wards/towns/villages) of Yamaguchi Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "35201",
+      "prefecture_code": "35",
+      "prefecture": "山口県",
+      "prefecture_kana": "ヤマグチケン",
+      "city": "下関市",
+      "city_kana": "シモノセキシ"
+    },
+    {
+      "jisx0402": "35202",
+      "prefecture_code": "35",
+      "prefecture": "山口県",
+      "prefecture_kana": "ヤマグチケン",
+      "city": "宇部市",
+      "city_kana": "ウベシ"
+    },
+    {
+      "jisx0402": "35203",
+      "prefecture_code": "35",
+      "prefecture": "山口県",
+      "prefecture_kana": "ヤマグチケン",
+      "city": "山口市",
+      "city_kana": "ヤマグチシ"
+    },
+    {
+      "jisx0402": "35204",
+      "prefecture_code": "35",
+      "prefecture": "山口県",
+      "prefecture_kana": "ヤマグチケン",
+      "city": "萩市",
+      "city_kana": "ハギシ"
+    },
+    {
+      "jisx0402": "35206",
+      "prefecture_code": "35",
+      "prefecture": "山口県",
+      "prefecture_kana": "ヤマグチケン",
+      "city": "防府市",
+      "city_kana": "ホウフシ"
+    },
+    {
+      "jisx0402": "35207",
+      "prefecture_code": "35",
+      "prefecture": "山口県",
+      "prefecture_kana": "ヤマグチケン",
+      "city": "下松市",
+      "city_kana": "クダマツシ"
+    },
+    {
+      "jisx0402": "35208",
+      "prefecture_code": "35",
+      "prefecture": "山口県",
+      "prefecture_kana": "ヤマグチケン",
+      "city": "岩国市",
+      "city_kana": "イワクニシ"
+    },
+    {
+      "jisx0402": "35210",
+      "prefecture_code": "35",
+      "prefecture": "山口県",
+      "prefecture_kana": "ヤマグチケン",
+      "city": "光市",
+      "city_kana": "ヒカリシ"
+    },
+    {
+      "jisx0402": "35211",
+      "prefecture_code": "35",
+      "prefecture": "山口県",
+      "prefecture_kana": "ヤマグチケン",
+      "city": "長門市",
+      "city_kana": "ナガトシ"
+    },
+    {
+      "jisx0402": "35212",
+      "prefecture_code": "35",
+      "prefecture": "山口県",
+      "prefecture_kana": "ヤマグチケン",
+      "city": "柳井市",
+      "city_kana": "ヤナイシ"
+    },
+    {
+      "jisx0402": "35213",
+      "prefecture_code": "35",
+      "prefecture": "山口県",
+      "prefecture_kana": "ヤマグチケン",
+      "city": "美祢市",
+      "city_kana": "ミネシ"
+    },
+    {
+      "jisx0402": "35215",
+      "prefecture_code": "35",
+      "prefecture": "山口県",
+      "prefecture_kana": "ヤマグチケン",
+      "city": "周南市",
+      "city_kana": "シュウナンシ"
+    },
+    {
+      "jisx0402": "35216",
+      "prefecture_code": "35",
+      "prefecture": "山口県",
+      "prefecture_kana": "ヤマグチケン",
+      "city": "山陽小野田市",
+      "city_kana": "サンヨウオノダシ"
+    },
+    {
+      "jisx0402": "35305",
+      "prefecture_code": "35",
+      "prefecture": "山口県",
+      "prefecture_kana": "ヤマグチケン",
+      "city": "大島郡周防大島町",
+      "city_kana": "オオシマグンスオウオオシマチョウ"
+    },
+    {
+      "jisx0402": "35321",
+      "prefecture_code": "35",
+      "prefecture": "山口県",
+      "prefecture_kana": "ヤマグチケン",
+      "city": "玖珂郡和木町",
+      "city_kana": "クガグンワキチョウ"
+    },
+    {
+      "jisx0402": "35341",
+      "prefecture_code": "35",
+      "prefecture": "山口県",
+      "prefecture_kana": "ヤマグチケン",
+      "city": "熊毛郡上関町",
+      "city_kana": "クマゲグンカミノセキチョウ"
+    },
+    {
+      "jisx0402": "35343",
+      "prefecture_code": "35",
+      "prefecture": "山口県",
+      "prefecture_kana": "ヤマグチケン",
+      "city": "熊毛郡田布施町",
+      "city_kana": "クマゲグンタブセチョウ"
+    },
+    {
+      "jisx0402": "35344",
+      "prefecture_code": "35",
+      "prefecture": "山口県",
+      "prefecture_kana": "ヤマグチケン",
+      "city": "熊毛郡平生町",
+      "city_kana": "クマゲグンヒラオチョウ"
+    },
+    {
+      "jisx0402": "35502",
+      "prefecture_code": "35",
+      "prefecture": "山口県",
+      "prefecture_kana": "ヤマグチケン",
+      "city": "阿武郡阿武町",
+      "city_kana": "アブグンアブチョウ"
+    }
+  ],
+  "meta": {
+    "title": "山口県の市区町村一覧 (Municipalities of Yamaguchi — JIS X 0402) - 無料ダウンロード",
+    "description": "山口県 (Yamaguchi Prefecture) の市区町村一覧 19 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 19 active municipalities (cities/wards/towns/villages) of Yamaguchi Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 19 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "山口県の市区町村一覧 (Municipalities of Yamaguchi — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 山口県の市区町村一覧 (Municipalities of Yamaguchi — JIS X 0402) — 19 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 19 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

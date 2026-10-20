@@ -1,0 +1,376 @@
+{
+  "id": "ja-aomori-municipalities",
+  "name": "青森県の市区町村一覧 (Municipalities of Aomori — JIS X 0402)",
+  "title": "青森県の市区町村一覧 (Municipalities of Aomori — JIS X 0402)",
+  "description": "青森県 (Aomori Prefecture) の市区町村一覧 40 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 40 active municipalities (cities/wards/towns/villages) of Aomori Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "02201",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "青森市",
+      "city_kana": "アオモリシ"
+    },
+    {
+      "jisx0402": "02202",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "弘前市",
+      "city_kana": "ヒロサキシ"
+    },
+    {
+      "jisx0402": "02203",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "八戸市",
+      "city_kana": "ハチノヘシ"
+    },
+    {
+      "jisx0402": "02204",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "黒石市",
+      "city_kana": "クロイシシ"
+    },
+    {
+      "jisx0402": "02205",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "五所川原市",
+      "city_kana": "ゴショガワラシ"
+    },
+    {
+      "jisx0402": "02206",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "十和田市",
+      "city_kana": "トワダシ"
+    },
+    {
+      "jisx0402": "02207",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "三沢市",
+      "city_kana": "ミサワシ"
+    },
+    {
+      "jisx0402": "02208",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "むつ市",
+      "city_kana": "ムツシ"
+    },
+    {
+      "jisx0402": "02209",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "つがる市",
+      "city_kana": "ツガルシ"
+    },
+    {
+      "jisx0402": "02210",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "平川市",
+      "city_kana": "ヒラカワシ"
+    },
+    {
+      "jisx0402": "02301",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "東津軽郡平内町",
+      "city_kana": "ヒガシツガルグンヒラナイマチ"
+    },
+    {
+      "jisx0402": "02303",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "東津軽郡今別町",
+      "city_kana": "ヒガシツガルグンイマベツマチ"
+    },
+    {
+      "jisx0402": "02304",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "東津軽郡蓬田村",
+      "city_kana": "ヒガシツガルグンヨモギタムラ"
+    },
+    {
+      "jisx0402": "02307",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "東津軽郡外ヶ浜町",
+      "city_kana": "ヒガシツガルグンソトガハママチ"
+    },
+    {
+      "jisx0402": "02321",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "西津軽郡鰺ヶ沢町",
+      "city_kana": "ニシツガルグンアジガサワマチ"
+    },
+    {
+      "jisx0402": "02323",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "西津軽郡深浦町",
+      "city_kana": "ニシツガルグンフカウラマチ"
+    },
+    {
+      "jisx0402": "02343",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "中津軽郡西目屋村",
+      "city_kana": "ナカツガルグンニシメヤムラ"
+    },
+    {
+      "jisx0402": "02361",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "南津軽郡藤崎町",
+      "city_kana": "ミナミツガルグンフジサキマチ"
+    },
+    {
+      "jisx0402": "02362",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "南津軽郡大鰐町",
+      "city_kana": "ミナミツガルグンオオワニマチ"
+    },
+    {
+      "jisx0402": "02367",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "南津軽郡田舎館村",
+      "city_kana": "ミナミツガルグンイナカダテムラ"
+    },
+    {
+      "jisx0402": "02381",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "北津軽郡板柳町",
+      "city_kana": "キタツガルグンイタヤナギマチ"
+    },
+    {
+      "jisx0402": "02384",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "北津軽郡鶴田町",
+      "city_kana": "キタツガルグンツルタマチ"
+    },
+    {
+      "jisx0402": "02387",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "北津軽郡中泊町",
+      "city_kana": "キタツガルグンナカドマリマチ"
+    },
+    {
+      "jisx0402": "02401",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "上北郡野辺地町",
+      "city_kana": "カミキタグンノヘジマチ"
+    },
+    {
+      "jisx0402": "02402",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "上北郡七戸町",
+      "city_kana": "カミキタグンシチノヘマチ"
+    },
+    {
+      "jisx0402": "02405",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "上北郡六戸町",
+      "city_kana": "カミキタグンロクノヘマチ"
+    },
+    {
+      "jisx0402": "02406",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "上北郡横浜町",
+      "city_kana": "カミキタグンヨコハママチ"
+    },
+    {
+      "jisx0402": "02408",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "上北郡東北町",
+      "city_kana": "カミキタグントウホクマチ"
+    },
+    {
+      "jisx0402": "02411",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "上北郡六ヶ所村",
+      "city_kana": "カミキタグンロッカショムラ"
+    },
+    {
+      "jisx0402": "02412",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "上北郡おいらせ町",
+      "city_kana": "カミキタグンオイラセチョウ"
+    },
+    {
+      "jisx0402": "02423",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "下北郡大間町",
+      "city_kana": "シモキタグンオオママチ"
+    },
+    {
+      "jisx0402": "02424",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "下北郡東通村",
+      "city_kana": "シモキタグンヒガシドオリムラ"
+    },
+    {
+      "jisx0402": "02425",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "下北郡風間浦村",
+      "city_kana": "シモキタグンカザマウラムラ"
+    },
+    {
+      "jisx0402": "02426",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "下北郡佐井村",
+      "city_kana": "シモキタグンサイムラ"
+    },
+    {
+      "jisx0402": "02441",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "三戸郡三戸町",
+      "city_kana": "サンノヘグンサンノヘマチ"
+    },
+    {
+      "jisx0402": "02442",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "三戸郡五戸町",
+      "city_kana": "サンノヘグンゴノヘマチ"
+    },
+    {
+      "jisx0402": "02443",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "三戸郡田子町",
+      "city_kana": "サンノヘグンタッコマチ"
+    },
+    {
+      "jisx0402": "02445",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "三戸郡南部町",
+      "city_kana": "サンノヘグンナンブチョウ"
+    },
+    {
+      "jisx0402": "02446",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "三戸郡階上町",
+      "city_kana": "サンノヘグンハシカミチョウ"
+    },
+    {
+      "jisx0402": "02450",
+      "prefecture_code": "02",
+      "prefecture": "青森県",
+      "prefecture_kana": "アオモリケン",
+      "city": "三戸郡新郷村",
+      "city_kana": "サンノヘグンシンゴウムラ"
+    }
+  ],
+  "meta": {
+    "title": "青森県の市区町村一覧 (Municipalities of Aomori — JIS X 0402) - 無料ダウンロード",
+    "description": "青森県 (Aomori Prefecture) の市区町村一覧 40 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 40 active municipalities (cities/wards/towns/villages) of Aomori Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 40 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "青森県の市区町村一覧 (Municipalities of Aomori — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 青森県の市区町村一覧 (Municipalities of Aomori — JIS X 0402) — 40 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 40 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "id": "ja-kyushu-prefectures",
+  "name": "九州地方の都道府県 (Kyushu region — prefectures)",
+  "title": "九州地方の都道府県 (Kyushu region — prefectures)",
+  "description": "九州地方（きゅうしゅう）に属する都道府県の一覧。 Prefectures belonging to the Kyushu region (地方 / 'chihō') of Japan — 8 prefecture(s).",
+  "category": "geography",
+  "source": "https://github.com/diverse-inc/jp_prefecture",
+  "source_url": "https://github.com/diverse-inc/jp_prefecture",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "jis_code",
+      "label": "Jis Code",
+      "type": "number"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name_kana",
+      "label": "Name Kana",
+      "type": "string"
+    },
+    {
+      "key": "name_kana_short",
+      "label": "Name Kana Short",
+      "type": "string"
+    },
+    {
+      "key": "name_roma",
+      "label": "Name Roma",
+      "type": "string"
+    },
+    {
+      "key": "name_roma_short",
+      "label": "Name Roma Short",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "region_kanji",
+      "label": "Region Kanji",
+      "type": "string"
+    },
+    {
+      "key": "region_kana",
+      "label": "Region Kana",
+      "type": "string"
+    },
+    {
+      "key": "region_roma",
+      "label": "Region Roma",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "region_name_en",
+      "label": "Region Name En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": 40,
+      "jis_code": "40",
+      "iso_3166_2": "JP-40",
+      "slug": "fukuoka",
+      "name": "福岡県",
+      "name_short": "福岡",
+      "name_kana": "ふくおかけん",
+      "name_kana_short": "ふくおか",
+      "name_roma": "fukuoka-ken",
+      "name_roma_short": "fukuoka",
+      "name_en": "Fukuoka",
+      "type": "県",
+      "region_kanji": "九州",
+      "region_kana": "きゅうしゅう",
+      "region_roma": "kyushu",
+      "region_slug": "kyushu",
+      "region_name_en": "Kyushu"
+    },
+    {
+      "code": 41,
+      "jis_code": "41",
+      "iso_3166_2": "JP-41",
+      "slug": "saga",
+      "name": "佐賀県",
+      "name_short": "佐賀",
+      "name_kana": "さがけん",
+      "name_kana_short": "さが",
+      "name_roma": "saga-ken",
+      "name_roma_short": "saga",
+      "name_en": "Saga",
+      "type": "県",
+      "region_kanji": "九州",
+      "region_kana": "きゅうしゅう",
+      "region_roma": "kyushu",
+      "region_slug": "kyushu",
+      "region_name_en": "Kyushu"
+    },
+    {
+      "code": 42,
+      "jis_code": "42",
+      "iso_3166_2": "JP-42",
+      "slug": "nagasaki",
+      "name": "長崎県",
+      "name_short": "長崎",
+      "name_kana": "ながさきけん",
+      "name_kana_short": "ながさき",
+      "name_roma": "nagasaki-ken",
+      "name_roma_short": "nagasaki",
+      "name_en": "Nagasaki",
+      "type": "県",
+      "region_kanji": "九州",
+      "region_kana": "きゅうしゅう",
+      "region_roma": "kyushu",
+      "region_slug": "kyushu",
+      "region_name_en": "Kyushu"
+    },
+    {
+      "code": 43,
+      "jis_code": "43",
+      "iso_3166_2": "JP-43",
+      "slug": "kumamoto",
+      "name": "熊本県",
+      "name_short": "熊本",
+      "name_kana": "くまもとけん",
+      "name_kana_short": "くまもと",
+      "name_roma": "kumamoto-ken",
+      "name_roma_short": "kumamoto",
+      "name_en": "Kumamoto",
+      "type": "県",
+      "region_kanji": "九州",
+      "region_kana": "きゅうしゅう",
+      "region_roma": "kyushu",
+      "region_slug": "kyushu",
+      "region_name_en": "Kyushu"
+    },
+    {
+      "code": 44,
+      "jis_code": "44",
+      "iso_3166_2": "JP-44",
+      "slug": "oita",
+      "name": "大分県",
+      "name_short": "大分",
+      "name_kana": "おおいたけん",
+      "name_kana_short": "おおいた",
+      "name_roma": "oita-ken",
+      "name_roma_short": "oita",
+      "name_en": "Oita",
+      "type": "県",
+      "region_kanji": "九州",
+      "region_kana": "きゅうしゅう",
+      "region_roma": "kyushu",
+      "region_slug": "kyushu",
+      "region_name_en": "Kyushu"
+    },
+    {
+      "code": 45,
+      "jis_code": "45",
+      "iso_3166_2": "JP-45",
+      "slug": "miyazaki",
+      "name": "宮崎県",
+      "name_short": "宮崎",
+      "name_kana": "みやざきけん",
+      "name_kana_short": "みやざき",
+      "name_roma": "miyazaki-ken",
+      "name_roma_short": "miyazaki",
+      "name_en": "Miyazaki",
+      "type": "県",
+      "region_kanji": "九州",
+      "region_kana": "きゅうしゅう",
+      "region_roma": "kyushu",
+      "region_slug": "kyushu",
+      "region_name_en": "Kyushu"
+    },
+    {
+      "code": 46,
+      "jis_code": "46",
+      "iso_3166_2": "JP-46",
+      "slug": "kagoshima",
+      "name": "鹿児島県",
+      "name_short": "鹿児島",
+      "name_kana": "かごしまけん",
+      "name_kana_short": "かごしま",
+      "name_roma": "kagoshima-ken",
+      "name_roma_short": "kagoshima",
+      "name_en": "Kagoshima",
+      "type": "県",
+      "region_kanji": "九州",
+      "region_kana": "きゅうしゅう",
+      "region_roma": "kyushu",
+      "region_slug": "kyushu",
+      "region_name_en": "Kyushu"
+    },
+    {
+      "code": 47,
+      "jis_code": "47",
+      "iso_3166_2": "JP-47",
+      "slug": "okinawa",
+      "name": "沖縄県",
+      "name_short": "沖縄",
+      "name_kana": "おきなわけん",
+      "name_kana_short": "おきなわ",
+      "name_roma": "okinawa-ken",
+      "name_roma_short": "okinawa",
+      "name_en": "Okinawa",
+      "type": "県",
+      "region_kanji": "九州",
+      "region_kana": "きゅうしゅう",
+      "region_roma": "kyushu",
+      "region_slug": "kyushu",
+      "region_name_en": "Kyushu"
+    }
+  ],
+  "meta": {
+    "title": "九州地方の都道府県 (Kyushu region — prefectures) - 無料ダウンロード",
+    "description": "九州地方（きゅうしゅう）に属する都道府県の一覧。 Prefectures belonging to the Kyushu region (地方 / 'chihō') of Japan — 8 prefecture(s). 収録数 8 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "九州地方の都道府県 (Kyushu region — prefectures) | ListBase",
+    "seo_description": "ダウンロード 九州地方の都道府県 (Kyushu region — prefectures) — 8 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 8 件 / 17 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/diverse-inc/jp_prefecture"
+    ]
+  }
+}

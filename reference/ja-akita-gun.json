@@ -1,0 +1,159 @@
+{
+  "id": "ja-akita-gun",
+  "name": "秋田県の郡一覧 (Akita Prefecture — counties)",
+  "title": "秋田県の郡一覧 (Akita Prefecture — counties)",
+  "description": "秋田県に属する郡（ぐん）の一覧（6件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Akita Prefecture.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_hira",
+      "label": "Name Hira",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_short_ja",
+      "label": "Name Short Ja",
+      "type": "string"
+    },
+    {
+      "key": "name_short_en",
+      "label": "Name Short En",
+      "type": "string"
+    },
+    {
+      "key": "pref_code",
+      "label": "Pref Code",
+      "type": "number"
+    },
+    {
+      "key": "pref_name",
+      "label": "Pref Name",
+      "type": "string"
+    },
+    {
+      "key": "pref_name_en",
+      "label": "Pref Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ja",
+      "label": "Type Ja",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "05300",
+      "name": "鹿角郡",
+      "name_hira": "かづのぐん",
+      "name_en": "Kazuno County",
+      "name_short_ja": "鹿角",
+      "name_short_en": "Kazuno",
+      "pref_code": "05",
+      "pref_name": "秋田県",
+      "pref_name_en": "Akita Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "05320",
+      "name": "北秋田郡",
+      "name_hira": "きたあきたぐん",
+      "name_en": "Kitaakita County",
+      "name_short_ja": "北秋田",
+      "name_short_en": "Kitaakita",
+      "pref_code": "05",
+      "pref_name": "秋田県",
+      "pref_name_en": "Akita Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "05340",
+      "name": "山本郡",
+      "name_hira": "やまもとぐん",
+      "name_en": "Yamamoto County",
+      "name_short_ja": "山本",
+      "name_short_en": "Yamamoto",
+      "pref_code": "05",
+      "pref_name": "秋田県",
+      "pref_name_en": "Akita Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "05360",
+      "name": "南秋田郡",
+      "name_hira": "みなみあきたぐん",
+      "name_en": "Minamiakita County",
+      "name_short_ja": "南秋田",
+      "name_short_en": "Minamiakita",
+      "pref_code": "05",
+      "pref_name": "秋田県",
+      "pref_name_en": "Akita Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "05420",
+      "name": "仙北郡",
+      "name_hira": "せんぼくぐん",
+      "name_en": "Senboku County",
+      "name_short_ja": "仙北",
+      "name_short_en": "Senboku",
+      "pref_code": "05",
+      "pref_name": "秋田県",
+      "pref_name_en": "Akita Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "05460",
+      "name": "雄勝郡",
+      "name_hira": "おがちぐん",
+      "name_en": "Ogachi County",
+      "name_short_ja": "雄勝",
+      "name_short_en": "Ogachi",
+      "pref_code": "05",
+      "pref_name": "秋田県",
+      "pref_name_en": "Akita Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    }
+  ],
+  "meta": {
+    "title": "秋田県の郡一覧 (Akita Prefecture — counties) - 無料ダウンロード",
+    "description": "秋田県に属する郡（ぐん）の一覧（6件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Akita Prefecture. 収録数 6 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "秋田県の郡一覧 (Akita Prefecture — counties) | ListBase",
+    "seo_description": "ダウンロード 秋田県の郡一覧 (Akita Prefecture — counties) — 6 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 6 件 / 11 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

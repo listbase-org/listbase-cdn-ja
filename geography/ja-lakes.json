@@ -1,0 +1,576 @@
+{
+  "id": "ja-lakes",
+  "name": "湖沼一覧 (Lakes of Japan)",
+  "title": "湖沼一覧 (Lakes of Japan)",
+  "description": "国土地理院「日本地名集 (Gazetteer of Japan) 2007」に収録された湖沼 51 件。漢字・ひらがな・公式ローマ字表記と緯度経度を併記。51 lakes listed in the Geospatial Information Authority of Japan's Gazetteer of Japan 2007 (with the 2018 update), each with kanji, kana and the official romanised name plus degree-minute coordinates in both original DMS and decimal form.",
+  "category": "geography",
+  "source": "https://github.com/piuccio/open-data-jp-municipalities",
+  "source_url": "https://github.com/piuccio/open-data-jp-municipalities",
+  "updated": "2026-04",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "name_kanji",
+      "label": "Name Kanji",
+      "type": "string"
+    },
+    {
+      "key": "name_kana",
+      "label": "Name Kana",
+      "type": "string"
+    },
+    {
+      "key": "name_romaji",
+      "label": "Name Romaji",
+      "type": "string"
+    },
+    {
+      "key": "classification",
+      "label": "Classification",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "org_latitude",
+      "label": "Org Latitude",
+      "type": "string"
+    },
+    {
+      "key": "org_longitude",
+      "label": "Org Longitude",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_kanji": "網走湖",
+      "name_kana": "あばしりこ",
+      "name_romaji": "Abashiri Ko",
+      "classification": "Lake",
+      "lat": 43.966667,
+      "lon": 144.166667,
+      "org_latitude": "43 ゚ 58’",
+      "org_longitude": "144 ゚ 10’"
+    },
+    {
+      "name_kanji": "阿寒湖",
+      "name_kana": "あかんこ",
+      "name_romaji": "Akan Ko",
+      "classification": "Lake",
+      "lat": 43.45,
+      "lon": 144.083333,
+      "org_latitude": "43 ゚ 27’",
+      "org_longitude": "144 ゚ 05’"
+    },
+    {
+      "name_kanji": "厚岸湖",
+      "name_kana": "あっけしこ",
+      "name_romaji": "Akkeshi Ko",
+      "classification": "Lake",
+      "lat": 43.033333,
+      "lon": 144.866667,
+      "org_latitude": "43 ゚ 02’",
+      "org_longitude": "144 ゚ 52’"
+    },
+    {
+      "name_kanji": "芦ノ湖",
+      "name_kana": "あしのこ",
+      "name_romaji": "Ashinoko",
+      "classification": "Lake",
+      "lat": 35.183333,
+      "lon": 139,
+      "org_latitude": "35 ゚ 11’",
+      "org_longitude": "139 ゚ 00’"
+    },
+    {
+      "name_kanji": "琵琶湖",
+      "name_kana": "びわこ",
+      "name_romaji": "Biwa Ko",
+      "classification": "Lake",
+      "lat": 35.25,
+      "lon": 136.066667,
+      "org_latitude": "35 ゚ 15’",
+      "org_longitude": "136 ゚ 04’"
+    },
+    {
+      "name_kanji": "中禅寺湖",
+      "name_kana": "ちゅうぜんじこ",
+      "name_romaji": "Chuzenji Ko",
+      "classification": "Lake",
+      "lat": 36.733333,
+      "lon": 139.416667,
+      "org_latitude": "36 ゚ 44’",
+      "org_longitude": "139 ゚ 25’"
+    },
+    {
+      "name_kanji": "風蓮湖",
+      "name_kana": "ふうれんこ",
+      "name_romaji": "Furen Ko",
+      "classification": "Lake",
+      "lat": 43.283333,
+      "lon": 145.316667,
+      "org_latitude": "43 ゚ 17’",
+      "org_longitude": "145 ゚ 19’"
+    },
+    {
+      "name_kanji": "八郎潟調整池",
+      "name_kana": "はちろうがたちょうせいち",
+      "name_romaji": "Hachirogata Choseichi",
+      "classification": "Lake",
+      "lat": 39.916667,
+      "lon": 139.95,
+      "org_latitude": "39 ゚ 55’",
+      "org_longitude": "139 ゚ 57’"
+    },
+    {
+      "name_kanji": "浜名湖",
+      "name_kana": "はまなこ",
+      "name_romaji": "Hamana Ko",
+      "classification": "Lake",
+      "lat": 34.733333,
+      "lon": 137.566667,
+      "org_latitude": "34 ゚ 44’",
+      "org_longitude": "137 ゚ 34’"
+    },
+    {
+      "name_kanji": "涸沼",
+      "name_kana": "ひぬま",
+      "name_romaji": "Hi Numa",
+      "classification": "Lake",
+      "lat": 36.266667,
+      "lon": 140.483333,
+      "org_latitude": "36 ゚ 16’",
+      "org_longitude": "140 ゚ 29’"
+    },
+    {
+      "name_kanji": "檜原湖",
+      "name_kana": "ひばらこ",
+      "name_romaji": "Hibara Ko",
+      "classification": "Lake",
+      "lat": 37.683333,
+      "lon": 140.05,
+      "org_latitude": "37 ゚ 41’",
+      "org_longitude": "140 ゚ 03’"
+    },
+    {
+      "name_kanji": "一菱内湖",
+      "name_kana": "いちひしないこ",
+      "name_romaji": "Ichihishinai Ko",
+      "classification": "Lake",
+      "lat": 43.866667,
+      "lon": 145.483333,
+      "org_latitude": "43 ゚ 52’",
+      "org_longitude": "145 ゚ 29’"
+    },
+    {
+      "name_kanji": "一ノ目潟",
+      "name_kana": "いちのめがた",
+      "name_romaji": "Ichinome Gata",
+      "classification": "Lake",
+      "lat": 39.95,
+      "lon": 139.733333,
+      "org_latitude": "39 ゚ 57’",
+      "org_longitude": "139 ゚ 44’"
+    },
+    {
+      "name_kanji": "池田湖",
+      "name_kana": "いけだこ",
+      "name_romaji": "Ikeda Ko",
+      "classification": "Lake",
+      "lat": 31.233333,
+      "lon": 130.55,
+      "org_latitude": "31 ゚ 14’",
+      "org_longitude": "130 ゚ 33’"
+    },
+    {
+      "name_kanji": "猪苗代湖",
+      "name_kana": "いなわしろこ",
+      "name_romaji": "Inawashiro Ko",
+      "classification": "Lake",
+      "lat": 37.466667,
+      "lon": 140.066667,
+      "org_latitude": "37 ゚ 28’",
+      "org_longitude": "140 ゚ 04’"
+    },
+    {
+      "name_kanji": "印旛沼",
+      "name_kana": "いんばぬま",
+      "name_romaji": "Inba Numa",
+      "classification": "Lake",
+      "lat": 35.75,
+      "lon": 140.183333,
+      "org_latitude": "35 ゚ 45’",
+      "org_longitude": "140 ゚ 11’"
+    },
+    {
+      "name_kanji": "十三湖",
+      "name_kana": "じゅうさんこ",
+      "name_romaji": "Jusanko",
+      "classification": "Lake",
+      "lat": 41.016667,
+      "lon": 140.35,
+      "org_latitude": "41 ゚ 01’",
+      "org_longitude": "140 ゚ 21’"
+    },
+    {
+      "name_kanji": "河北潟",
+      "name_kana": "かほくがた",
+      "name_romaji": "Kahoku Gata",
+      "classification": "Lake",
+      "lat": 36.633333,
+      "lon": 136.65,
+      "org_latitude": "36 ゚ 38’",
+      "org_longitude": "136 ゚ 39’"
+    },
+    {
+      "name_kanji": "霞ヶ浦",
+      "name_kana": "かすみがうら",
+      "name_romaji": "Kasumigaura",
+      "classification": "Lake",
+      "lat": 36.033333,
+      "lon": 140.3,
+      "org_latitude": "36 ゚ 02’",
+      "org_longitude": "140 ゚ 18’"
+    },
+    {
+      "name_kanji": "河口湖",
+      "name_kana": "かわぐちこ",
+      "name_romaji": "Kawaguchi Ko",
+      "classification": "Lake",
+      "lat": 35.5,
+      "lon": 138.75,
+      "org_latitude": "35 ゚ 30’",
+      "org_longitude": "138 ゚ 45’"
+    },
+    {
+      "name_kanji": "北浦",
+      "name_kana": "きたうら",
+      "name_romaji": "Kitaura",
+      "classification": "Lake",
+      "lat": 36.033333,
+      "lon": 140.55,
+      "org_latitude": "36 ゚ 02’",
+      "org_longitude": "140 ゚ 33’"
+    },
+    {
+      "name_kanji": "コムケ湖",
+      "name_kana": "こむけこ",
+      "name_romaji": "Komuke Ko",
+      "classification": "Lake",
+      "lat": 44.25,
+      "lon": 143.483333,
+      "org_latitude": "44 ゚ 15’",
+      "org_longitude": "143 ゚ 29’"
+    },
+    {
+      "name_kanji": "湖山池",
+      "name_kana": "こやまいけ",
+      "name_romaji": "Koyama Ike",
+      "classification": "Lake",
+      "lat": 35.5,
+      "lon": 134.133333,
+      "org_latitude": "35 ゚ 30’",
+      "org_longitude": "134 ゚ 08’"
+    },
+    {
+      "name_kanji": "屈斜路湖",
+      "name_kana": "くっしゃろこ",
+      "name_romaji": "Kussharo Ko",
+      "classification": "Lake",
+      "lat": 43.633333,
+      "lon": 144.316667,
+      "org_latitude": "43 ゚ 38’",
+      "org_longitude": "144 ゚ 19’"
+    },
+    {
+      "name_kanji": "クッチャロ湖",
+      "name_kana": "くっちゃろこ",
+      "name_romaji": "Kutcharo Ko",
+      "classification": "Lake",
+      "lat": 45.116667,
+      "lon": 142.3,
+      "org_latitude": "45 ゚ 07’",
+      "org_longitude": "142 ゚ 18’"
+    },
+    {
+      "name_kanji": "倶多楽湖",
+      "name_kana": "くったらこ",
+      "name_romaji": "Kuttara Ko",
+      "classification": "Lake",
+      "lat": 42.5,
+      "lon": 141.166667,
+      "org_latitude": "42 ゚ 30’",
+      "org_longitude": "141 ゚ 10’"
+    },
+    {
+      "name_kanji": "摩周湖",
+      "name_kana": "ましゅうこ",
+      "name_romaji": "Mashu Ko",
+      "classification": "Lake",
+      "lat": 43.583333,
+      "lon": 144.533333,
+      "org_latitude": "43 ゚ 35’",
+      "org_longitude": "144 ゚ 32’"
+    },
+    {
+      "name_kanji": "本栖湖",
+      "name_kana": "もとすこ",
+      "name_romaji": "Motosu Ko",
+      "classification": "Lake",
+      "lat": 35.45,
+      "lon": 138.566667,
+      "org_latitude": "35 ゚ 27’",
+      "org_longitude": "138 ゚ 34’"
+    },
+    {
+      "name_kanji": "中海",
+      "name_kana": "なかうみ",
+      "name_romaji": "Nakaumi",
+      "classification": "Lake",
+      "lat": 35.45,
+      "lon": 133.166667,
+      "org_latitude": "35 ゚ 27’",
+      "org_longitude": "133 ゚ 10’"
+    },
+    {
+      "name_kanji": "能取湖",
+      "name_kana": "のとろこ",
+      "name_romaji": "Notoro Ko",
+      "classification": "Lake",
+      "lat": 44.05,
+      "lon": 144.133333,
+      "org_latitude": "44 ゚ 03’",
+      "org_longitude": "144 ゚ 08’"
+    },
+    {
+      "name_kanji": "小川原湖",
+      "name_kana": "おがわらこ",
+      "name_romaji": "Ogawara Ko",
+      "classification": "Lake",
+      "lat": 40.8,
+      "lon": 141.316667,
+      "org_latitude": "40 ゚ 48’",
+      "org_longitude": "141 ゚ 19’"
+    },
+    {
+      "name_kanji": "温根沼",
+      "name_kana": "おんねとう",
+      "name_romaji": "Onne To",
+      "classification": "Lake",
+      "lat": 43.25,
+      "lon": 145.5,
+      "org_latitude": "43 ゚ 15’",
+      "org_longitude": "145 ゚ 30’"
+    },
+    {
+      "name_kanji": "大沼",
+      "name_kana": "おおぬま",
+      "name_romaji": "Onuma",
+      "classification": "Lake",
+      "lat": 42,
+      "lon": 140.7,
+      "org_latitude": "42 ゚ 00’",
+      "org_longitude": "140 ゚ 42’"
+    },
+    {
+      "name_kanji": "パンケ沼",
+      "name_kana": "ぱんけとう",
+      "name_romaji": "Panke To",
+      "classification": "Lake",
+      "lat": 45.016667,
+      "lon": 141.7,
+      "org_latitude": "45 ゚ 01’",
+      "org_longitude": "141 ゚ 42’"
+    },
+    {
+      "name_kanji": "サロマ湖",
+      "name_kana": "さろまこ",
+      "name_romaji": "Saroma Ko",
+      "classification": "Lake",
+      "lat": 44.133333,
+      "lon": 143.783333,
+      "org_latitude": "44 ゚ 08’",
+      "org_longitude": "143 ゚ 47’"
+    },
+    {
+      "name_kanji": "然別湖",
+      "name_kana": "しかりべつこ",
+      "name_romaji": "Shikaribetsu Ko",
+      "classification": "Lake",
+      "lat": 43.266667,
+      "lon": 143.116667,
+      "org_latitude": "43 ゚ 16’",
+      "org_longitude": "143 ゚ 07’"
+    },
+    {
+      "name_kanji": "支笏湖",
+      "name_kana": "しこつこ",
+      "name_romaji": "Shikotsu Ko",
+      "classification": "Lake",
+      "lat": 42.75,
+      "lon": 141.3,
+      "org_latitude": "42 ゚ 45’",
+      "org_longitude": "141 ゚ 18’"
+    },
+    {
+      "name_kanji": "宍道湖",
+      "name_kana": "しんじこ",
+      "name_romaji": "Shinji Ko",
+      "classification": "Lake",
+      "lat": 35.433333,
+      "lon": 132.916667,
+      "org_latitude": "35 ゚ 26’",
+      "org_longitude": "132 ゚ 55’"
+    },
+    {
+      "name_kanji": "朱鞠内湖",
+      "name_kana": "しゅまりないこ",
+      "name_romaji": "Shumarinai Ko",
+      "classification": "Lake",
+      "lat": 44.333333,
+      "lon": 142.2,
+      "org_latitude": "44 ゚ 20’",
+      "org_longitude": "142 ゚ 12’"
+    },
+    {
+      "name_kanji": "諏訪湖",
+      "name_kana": "すわこ",
+      "name_romaji": "Suwa Ko",
+      "classification": "Lake",
+      "lat": 36.033333,
+      "lon": 138.066667,
+      "org_latitude": "36 ゚ 02’",
+      "org_longitude": "138 ゚ 04’"
+    },
+    {
+      "name_kanji": "鷹架沼",
+      "name_kana": "たかほこぬま",
+      "name_romaji": "Takahoko Numa",
+      "classification": "Lake",
+      "lat": 40.933333,
+      "lon": 141.316667,
+      "org_latitude": "40 ゚ 56’",
+      "org_longitude": "141 ゚ 19’"
+    },
+    {
+      "name_kanji": "田沢湖",
+      "name_kana": "たざわこ",
+      "name_romaji": "Tazawa Ko",
+      "classification": "Lake",
+      "lat": 39.716667,
+      "lon": 140.65,
+      "org_latitude": "39 ゚ 43’",
+      "org_longitude": "140 ゚ 39’"
+    },
+    {
+      "name_kanji": "東沸湖",
+      "name_kana": "とうふつこ",
+      "name_romaji": "Tofutsu Ko",
+      "classification": "Lake",
+      "lat": 43.916667,
+      "lon": 145.6,
+      "org_latitude": "43 ゚ 55’",
+      "org_longitude": "145 ゚ 36’"
+    },
+    {
+      "name_kanji": "涛沸湖",
+      "name_kana": "とうふつこ",
+      "name_romaji": "Tofutsu Ko",
+      "classification": "Lake",
+      "lat": 43.916667,
+      "lon": 144.383333,
+      "org_latitude": "43 ゚ 55’",
+      "org_longitude": "144 ゚ 23’"
+    },
+    {
+      "name_kanji": "東郷池",
+      "name_kana": "とうごういけ",
+      "name_romaji": "Togo Ike",
+      "classification": "Lake",
+      "lat": 35.466667,
+      "lon": 133.883333,
+      "org_latitude": "35 ゚ 28’",
+      "org_longitude": "133 ゚ 53’"
+    },
+    {
+      "name_kanji": "塘路湖",
+      "name_kana": "とうろこ",
+      "name_romaji": "Toro Ko",
+      "classification": "Lake",
+      "lat": 43.133333,
+      "lon": 144.533333,
+      "org_latitude": "43 ゚ 08’",
+      "org_longitude": "144 ゚ 32’"
+    },
+    {
+      "name_kanji": "十和田湖",
+      "name_kana": "とわだこ",
+      "name_romaji": "Towada Ko",
+      "classification": "Lake",
+      "lat": 40.45,
+      "lon": 140.85,
+      "org_latitude": "40 ゚ 27’",
+      "org_longitude": "140 ゚ 51’"
+    },
+    {
+      "name_kanji": "洞爺湖",
+      "name_kana": "とうやこ",
+      "name_romaji": "Toya Ko",
+      "classification": "Lake",
+      "lat": 42.6,
+      "lon": 140.833333,
+      "org_latitude": "42 ゚ 36’",
+      "org_longitude": "140 ゚ 50’"
+    },
+    {
+      "name_kanji": "得茂別湖",
+      "name_kana": "うるもんべつこ",
+      "name_romaji": "Urumonbetsu Ko",
+      "classification": "Lake",
+      "lat": 44.616667,
+      "lon": 147.183333,
+      "org_latitude": "44 ゚ 37’",
+      "org_longitude": "147 ゚ 11’"
+    },
+    {
+      "name_kanji": "山中湖",
+      "name_kana": "やまなかこ",
+      "name_romaji": "Yamanaka Ko",
+      "classification": "Lake",
+      "lat": 35.4,
+      "lon": 138.866667,
+      "org_latitude": "35 ゚ 24’",
+      "org_longitude": "138 ゚ 52’"
+    },
+    {
+      "name_kanji": "湧洞沼",
+      "name_kana": "ゆうどうぬま",
+      "name_romaji": "Yudo Numa",
+      "classification": "Lake",
+      "lat": 42.6,
+      "lon": 143.533333,
+      "org_latitude": "42 ゚ 36’",
+      "org_longitude": "143 ゚ 32’"
+    }
+  ],
+  "meta": {
+    "title": "湖沼一覧 (Lakes of Japan) - 無料ダウンロード",
+    "description": "国土地理院「日本地名集 (Gazetteer of Japan) 2007」に収録された湖沼 51 件。漢字・ひらがな・公式ローマ字表記と緯度経度を併記。51 lakes listed in the Geospatial Information Authority of Japan's Gazetteer of Japan 2007 (with the 2018 update), each with kanji, kana and the official romanised name plus degree-minute coordinates in both original DMS and decimal form. 収録数 51 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "湖沼一覧 (Lakes of Japan) | ListBase",
+    "seo_description": "ダウンロード 湖沼一覧 (Lakes of Japan) — 51 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 51 件 / 8 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/piuccio/open-data-jp-municipalities"
+    ]
+  }
+}

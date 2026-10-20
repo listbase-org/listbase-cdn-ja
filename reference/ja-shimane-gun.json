@@ -1,0 +1,146 @@
+{
+  "id": "ja-shimane-gun",
+  "name": "島根県の郡一覧 (Shimane Prefecture — counties)",
+  "title": "島根県の郡一覧 (Shimane Prefecture — counties)",
+  "description": "島根県に属する郡（ぐん）の一覧（5件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Shimane Prefecture.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_hira",
+      "label": "Name Hira",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_short_ja",
+      "label": "Name Short Ja",
+      "type": "string"
+    },
+    {
+      "key": "name_short_en",
+      "label": "Name Short En",
+      "type": "string"
+    },
+    {
+      "key": "pref_code",
+      "label": "Pref Code",
+      "type": "number"
+    },
+    {
+      "key": "pref_name",
+      "label": "Pref Name",
+      "type": "string"
+    },
+    {
+      "key": "pref_name_en",
+      "label": "Pref Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ja",
+      "label": "Type Ja",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "32340",
+      "name": "仁多郡",
+      "name_hira": "にたぐん",
+      "name_en": "Nita County",
+      "name_short_ja": "仁多",
+      "name_short_en": "Nita",
+      "pref_code": "32",
+      "pref_name": "島根県",
+      "pref_name_en": "Shimane Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "32380",
+      "name": "飯石郡",
+      "name_hira": "いいしぐん",
+      "name_en": "Iishi County",
+      "name_short_ja": "飯石",
+      "name_short_en": "Iishi",
+      "pref_code": "32",
+      "pref_name": "島根県",
+      "pref_name_en": "Shimane Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "32440",
+      "name": "邑智郡",
+      "name_hira": "おおちぐん",
+      "name_en": "Ochi County",
+      "name_short_ja": "邑智",
+      "name_short_en": "Ochi",
+      "pref_code": "32",
+      "pref_name": "島根県",
+      "pref_name_en": "Shimane Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "32500",
+      "name": "鹿足郡",
+      "name_hira": "かのあしぐん",
+      "name_en": "Kanoashi County",
+      "name_short_ja": "鹿足",
+      "name_short_en": "Kanoashi",
+      "pref_code": "32",
+      "pref_name": "島根県",
+      "pref_name_en": "Shimane Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "32520",
+      "name": "隠岐郡",
+      "name_hira": "おきぐん",
+      "name_en": "Oki County",
+      "name_short_ja": "隠岐",
+      "name_short_en": "Oki",
+      "pref_code": "32",
+      "pref_name": "島根県",
+      "pref_name_en": "Shimane Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    }
+  ],
+  "meta": {
+    "title": "島根県の郡一覧 (Shimane Prefecture — counties) - 無料ダウンロード",
+    "description": "島根県に属する郡（ぐん）の一覧（5件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Shimane Prefecture. 収録数 5 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "島根県の郡一覧 (Shimane Prefecture — counties) | ListBase",
+    "seo_description": "ダウンロード 島根県の郡一覧 (Shimane Prefecture — counties) — 5 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 5 件 / 11 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

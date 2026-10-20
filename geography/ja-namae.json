@@ -1,0 +1,240 @@
+{
+  "id": "ja-namae",
+  "name": "人気の日本人の名前 (Popular Japanese Forenames)",
+  "title": "人気の日本人の名前 (Popular Japanese Forenames)",
+  "description": "日本で人気のある女の子と男の子の名前ランキング。2022年集計データ。漢字表記とローマ字表記(複数あり)を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "gender",
+      "label": "Gender",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "M-JP-1-F-1",
+      "gender": "F",
+      "rank": 1,
+      "localized": "陽葵",
+      "romanized": "Himari, Hinata, Hina",
+      "year": 2022
+    },
+    {
+      "name_group": "M-JP-1-F-2",
+      "gender": "F",
+      "rank": 2,
+      "localized": "凛",
+      "romanized": "Rin",
+      "year": 2022
+    },
+    {
+      "name_group": "M-JP-1-F-3",
+      "gender": "F",
+      "rank": 3,
+      "localized": "詩",
+      "romanized": "Uta",
+      "year": 2022
+    },
+    {
+      "name_group": "M-JP-1-F-4",
+      "gender": "F",
+      "rank": 4,
+      "localized": "陽菜",
+      "romanized": "Hina, Haruna",
+      "year": 2022
+    },
+    {
+      "name_group": "M-JP-1-F-5",
+      "gender": "F",
+      "rank": 5,
+      "localized": "結菜",
+      "romanized": "Yuina, Yuna, Yūna",
+      "year": 2022
+    },
+    {
+      "name_group": "M-JP-1-F-6",
+      "gender": "F",
+      "rank": 6,
+      "localized": "杏",
+      "romanized": "An, Anzu",
+      "year": 2022
+    },
+    {
+      "name_group": "M-JP-1-F-7",
+      "gender": "F",
+      "rank": 7,
+      "localized": "澪",
+      "romanized": "Mio, Rei",
+      "year": 2022
+    },
+    {
+      "name_group": "M-JP-1-F-8",
+      "gender": "F",
+      "rank": 8,
+      "localized": "結愛",
+      "romanized": "Yua",
+      "year": 2022
+    },
+    {
+      "name_group": "M-JP-1-F-9",
+      "gender": "F",
+      "rank": 9,
+      "localized": "芽依",
+      "romanized": "Mei",
+      "year": 2022
+    },
+    {
+      "name_group": "M-JP-1-F-10",
+      "gender": "F",
+      "rank": 10,
+      "localized": "莉子",
+      "romanized": "Riko",
+      "year": 2022
+    },
+    {
+      "name_group": "M-JP-1-F-11",
+      "gender": "F",
+      "rank": 11,
+      "localized": "さくら",
+      "romanized": "Sakura",
+      "year": 2022
+    },
+    {
+      "name_group": "M-JP-1-F-12",
+      "gender": "F",
+      "rank": 12,
+      "localized": "咲茉",
+      "romanized": "Ema",
+      "year": 2022
+    },
+    {
+      "name_group": "M-JP-1-M-1",
+      "gender": "M",
+      "rank": 1,
+      "localized": "蒼",
+      "romanized": "Aoi, Sō, Ao",
+      "year": 2022
+    },
+    {
+      "name_group": "M-JP-1-M-2",
+      "gender": "M",
+      "rank": 2,
+      "localized": "凪",
+      "romanized": "Nagi, Nagisa",
+      "year": 2022
+    },
+    {
+      "name_group": "M-JP-1-M-3",
+      "gender": "M",
+      "rank": 3,
+      "localized": "蓮",
+      "romanized": "Ren",
+      "year": 2022
+    },
+    {
+      "name_group": "M-JP-1-M-4",
+      "gender": "M",
+      "rank": 4,
+      "localized": "陽翔",
+      "romanized": "Haruto, Hinato",
+      "year": 2022
+    },
+    {
+      "name_group": "M-JP-1-M-5",
+      "gender": "M",
+      "rank": 5,
+      "localized": "湊",
+      "romanized": "Minato",
+      "year": 2022
+    },
+    {
+      "name_group": "M-JP-1-M-6",
+      "gender": "M",
+      "rank": 6,
+      "localized": "颯真",
+      "romanized": "Sōma, Fūma",
+      "year": 2022
+    },
+    {
+      "name_group": "M-JP-1-M-7",
+      "gender": "M",
+      "rank": 7,
+      "localized": "碧",
+      "romanized": "Ao, Aoi",
+      "year": 2022
+    },
+    {
+      "name_group": "M-JP-1-M-8",
+      "gender": "M",
+      "rank": 8,
+      "localized": "樹",
+      "romanized": "Itsuki, Tatsuki",
+      "year": 2022
+    },
+    {
+      "name_group": "M-JP-1-M-9",
+      "gender": "M",
+      "rank": 9,
+      "localized": "大和",
+      "romanized": "Yamato",
+      "year": 2022
+    },
+    {
+      "name_group": "M-JP-1-M-10",
+      "gender": "M",
+      "rank": 10,
+      "localized": "悠真",
+      "romanized": "Yūma, Haruma",
+      "year": 2022
+    },
+    {
+      "name_group": "M-JP-1-M-11",
+      "gender": "M",
+      "rank": 11,
+      "localized": "暖",
+      "romanized": "Dan, Haru",
+      "year": 2022
+    }
+  ],
+  "meta": {
+    "title": "人気の日本人の名前 (Popular Japanese Forenames) - 無料ダウンロード",
+    "description": "日本で人気のある女の子と男の子の名前ランキング。2022年集計データ。漢字表記とローマ字表記(複数あり)を含む。 収録数 23 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "人気の日本人の名前 (Popular Japanese Forenames) | ListBase",
+    "seo_description": "ダウンロード 人気の日本人の名前 (Popular Japanese Forenames) — 23 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 23 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

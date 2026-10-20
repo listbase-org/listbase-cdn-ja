@@ -1,0 +1,408 @@
+{
+  "id": "ja-ibaraki-municipalities",
+  "name": "茨城県の市区町村一覧 (Municipalities of Ibaraki — JIS X 0402)",
+  "title": "茨城県の市区町村一覧 (Municipalities of Ibaraki — JIS X 0402)",
+  "description": "茨城県 (Ibaraki Prefecture) の市区町村一覧 44 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 44 active municipalities (cities/wards/towns/villages) of Ibaraki Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "08201",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "水戸市",
+      "city_kana": "ミトシ"
+    },
+    {
+      "jisx0402": "08202",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "日立市",
+      "city_kana": "ヒタチシ"
+    },
+    {
+      "jisx0402": "08203",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "土浦市",
+      "city_kana": "ツチウラシ"
+    },
+    {
+      "jisx0402": "08204",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "古河市",
+      "city_kana": "コガシ"
+    },
+    {
+      "jisx0402": "08205",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "石岡市",
+      "city_kana": "イシオカシ"
+    },
+    {
+      "jisx0402": "08207",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "結城市",
+      "city_kana": "ユウキシ"
+    },
+    {
+      "jisx0402": "08208",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "龍ケ崎市",
+      "city_kana": "リュウガサキシ"
+    },
+    {
+      "jisx0402": "08210",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "下妻市",
+      "city_kana": "シモツマシ"
+    },
+    {
+      "jisx0402": "08211",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "常総市",
+      "city_kana": "ジョウソウシ"
+    },
+    {
+      "jisx0402": "08212",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "常陸太田市",
+      "city_kana": "ヒタチオオタシ"
+    },
+    {
+      "jisx0402": "08214",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "高萩市",
+      "city_kana": "タカハギシ"
+    },
+    {
+      "jisx0402": "08215",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "北茨城市",
+      "city_kana": "キタイバラキシ"
+    },
+    {
+      "jisx0402": "08216",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "笠間市",
+      "city_kana": "カサマシ"
+    },
+    {
+      "jisx0402": "08217",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "取手市",
+      "city_kana": "トリデシ"
+    },
+    {
+      "jisx0402": "08219",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "牛久市",
+      "city_kana": "ウシクシ"
+    },
+    {
+      "jisx0402": "08220",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "つくば市",
+      "city_kana": "ツクバシ"
+    },
+    {
+      "jisx0402": "08221",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "ひたちなか市",
+      "city_kana": "ヒタチナカシ"
+    },
+    {
+      "jisx0402": "08222",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "鹿嶋市",
+      "city_kana": "カシマシ"
+    },
+    {
+      "jisx0402": "08223",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "潮来市",
+      "city_kana": "イタコシ"
+    },
+    {
+      "jisx0402": "08224",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "守谷市",
+      "city_kana": "モリヤシ"
+    },
+    {
+      "jisx0402": "08225",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "常陸大宮市",
+      "city_kana": "ヒタチオオミヤシ"
+    },
+    {
+      "jisx0402": "08226",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "那珂市",
+      "city_kana": "ナカシ"
+    },
+    {
+      "jisx0402": "08227",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "筑西市",
+      "city_kana": "チクセイシ"
+    },
+    {
+      "jisx0402": "08228",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "坂東市",
+      "city_kana": "バンドウシ"
+    },
+    {
+      "jisx0402": "08229",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "稲敷市",
+      "city_kana": "イナシキシ"
+    },
+    {
+      "jisx0402": "08230",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "かすみがうら市",
+      "city_kana": "カスミガウラシ"
+    },
+    {
+      "jisx0402": "08231",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "桜川市",
+      "city_kana": "サクラガワシ"
+    },
+    {
+      "jisx0402": "08232",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "神栖市",
+      "city_kana": "カミスシ"
+    },
+    {
+      "jisx0402": "08233",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "行方市",
+      "city_kana": "ナメガタシ"
+    },
+    {
+      "jisx0402": "08234",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "鉾田市",
+      "city_kana": "ホコタシ"
+    },
+    {
+      "jisx0402": "08235",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "つくばみらい市",
+      "city_kana": "ツクバミライシ"
+    },
+    {
+      "jisx0402": "08236",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "小美玉市",
+      "city_kana": "オミタマシ"
+    },
+    {
+      "jisx0402": "08302",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "東茨城郡茨城町",
+      "city_kana": "ヒガシイバラキグンイバラキマチ"
+    },
+    {
+      "jisx0402": "08309",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "東茨城郡大洗町",
+      "city_kana": "ヒガシイバラキグンオオアライマチ"
+    },
+    {
+      "jisx0402": "08310",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "東茨城郡城里町",
+      "city_kana": "ヒガシイバラキグンシロサトマチ"
+    },
+    {
+      "jisx0402": "08341",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "那珂郡東海村",
+      "city_kana": "ナカグントウカイムラ"
+    },
+    {
+      "jisx0402": "08364",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "久慈郡大子町",
+      "city_kana": "クジグンダイゴマチ"
+    },
+    {
+      "jisx0402": "08442",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "稲敷郡美浦村",
+      "city_kana": "イナシキグンミホムラ"
+    },
+    {
+      "jisx0402": "08443",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "稲敷郡阿見町",
+      "city_kana": "イナシキグンアミマチ"
+    },
+    {
+      "jisx0402": "08447",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "稲敷郡河内町",
+      "city_kana": "イナシキグンカワチマチ"
+    },
+    {
+      "jisx0402": "08521",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "結城郡八千代町",
+      "city_kana": "ユウキグンヤチヨマチ"
+    },
+    {
+      "jisx0402": "08542",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "猿島郡五霞町",
+      "city_kana": "サシマグンゴカマチ"
+    },
+    {
+      "jisx0402": "08546",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "猿島郡境町",
+      "city_kana": "サシマグンサカイマチ"
+    },
+    {
+      "jisx0402": "08564",
+      "prefecture_code": "08",
+      "prefecture": "茨城県",
+      "prefecture_kana": "イバラキケン",
+      "city": "北相馬郡利根町",
+      "city_kana": "キタソウマグントネマチ"
+    }
+  ],
+  "meta": {
+    "title": "茨城県の市区町村一覧 (Municipalities of Ibaraki — JIS X 0402) - 無料ダウンロード",
+    "description": "茨城県 (Ibaraki Prefecture) の市区町村一覧 44 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 44 active municipalities (cities/wards/towns/villages) of Ibaraki Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 44 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "茨城県の市区町村一覧 (Municipalities of Ibaraki — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 茨城県の市区町村一覧 (Municipalities of Ibaraki — JIS X 0402) — 44 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 44 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

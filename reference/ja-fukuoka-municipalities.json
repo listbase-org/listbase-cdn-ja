@@ -1,0 +1,632 @@
+{
+  "id": "ja-fukuoka-municipalities",
+  "name": "福岡県の市区町村一覧 (Municipalities of Fukuoka — JIS X 0402)",
+  "title": "福岡県の市区町村一覧 (Municipalities of Fukuoka — JIS X 0402)",
+  "description": "福岡県 (Fukuoka Prefecture) の市区町村一覧 72 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 72 active municipalities (cities/wards/towns/villages) of Fukuoka Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 72,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "40101",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "北九州市門司区",
+      "city_kana": "キタキュウシュウシモジク"
+    },
+    {
+      "jisx0402": "40103",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "北九州市若松区",
+      "city_kana": "キタキュウシュウシワカマツク"
+    },
+    {
+      "jisx0402": "40105",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "北九州市戸畑区",
+      "city_kana": "キタキュウシュウシトバタク"
+    },
+    {
+      "jisx0402": "40106",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "北九州市小倉北区",
+      "city_kana": "キタキュウシュウシコクラキタク"
+    },
+    {
+      "jisx0402": "40107",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "北九州市小倉南区",
+      "city_kana": "キタキュウシュウシコクラミナミク"
+    },
+    {
+      "jisx0402": "40108",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "北九州市八幡東区",
+      "city_kana": "キタキュウシュウシヤハタヒガシク"
+    },
+    {
+      "jisx0402": "40109",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "北九州市八幡西区",
+      "city_kana": "キタキュウシュウシヤハタニシク"
+    },
+    {
+      "jisx0402": "40131",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "福岡市東区",
+      "city_kana": "フクオカシヒガシク"
+    },
+    {
+      "jisx0402": "40132",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "福岡市博多区",
+      "city_kana": "フクオカシハカタク"
+    },
+    {
+      "jisx0402": "40133",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "福岡市中央区",
+      "city_kana": "フクオカシチュウオウク"
+    },
+    {
+      "jisx0402": "40134",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "福岡市南区",
+      "city_kana": "フクオカシミナミク"
+    },
+    {
+      "jisx0402": "40135",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "福岡市西区",
+      "city_kana": "フクオカシニシク"
+    },
+    {
+      "jisx0402": "40136",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "福岡市城南区",
+      "city_kana": "フクオカシジョウナンク"
+    },
+    {
+      "jisx0402": "40137",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "福岡市早良区",
+      "city_kana": "フクオカシサワラク"
+    },
+    {
+      "jisx0402": "40202",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "大牟田市",
+      "city_kana": "オオムタシ"
+    },
+    {
+      "jisx0402": "40203",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "久留米市",
+      "city_kana": "クルメシ"
+    },
+    {
+      "jisx0402": "40204",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "直方市",
+      "city_kana": "ノオガタシ"
+    },
+    {
+      "jisx0402": "40205",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "飯塚市",
+      "city_kana": "イイヅカシ"
+    },
+    {
+      "jisx0402": "40206",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "田川市",
+      "city_kana": "タガワシ"
+    },
+    {
+      "jisx0402": "40207",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "柳川市",
+      "city_kana": "ヤナガワシ"
+    },
+    {
+      "jisx0402": "40210",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "八女市",
+      "city_kana": "ヤメシ"
+    },
+    {
+      "jisx0402": "40211",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "筑後市",
+      "city_kana": "チクゴシ"
+    },
+    {
+      "jisx0402": "40212",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "大川市",
+      "city_kana": "オオカワシ"
+    },
+    {
+      "jisx0402": "40213",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "行橋市",
+      "city_kana": "ユクハシシ"
+    },
+    {
+      "jisx0402": "40214",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "豊前市",
+      "city_kana": "ブゼンシ"
+    },
+    {
+      "jisx0402": "40215",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "中間市",
+      "city_kana": "ナカマシ"
+    },
+    {
+      "jisx0402": "40216",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "小郡市",
+      "city_kana": "オゴオリシ"
+    },
+    {
+      "jisx0402": "40217",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "筑紫野市",
+      "city_kana": "チクシノシ"
+    },
+    {
+      "jisx0402": "40218",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "春日市",
+      "city_kana": "カスガシ"
+    },
+    {
+      "jisx0402": "40219",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "大野城市",
+      "city_kana": "オオノジョウシ"
+    },
+    {
+      "jisx0402": "40220",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "宗像市",
+      "city_kana": "ムナカタシ"
+    },
+    {
+      "jisx0402": "40221",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "太宰府市",
+      "city_kana": "ダザイフシ"
+    },
+    {
+      "jisx0402": "40223",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "古賀市",
+      "city_kana": "コガシ"
+    },
+    {
+      "jisx0402": "40224",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "福津市",
+      "city_kana": "フクツシ"
+    },
+    {
+      "jisx0402": "40225",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "うきは市",
+      "city_kana": "ウキハシ"
+    },
+    {
+      "jisx0402": "40226",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "宮若市",
+      "city_kana": "ミヤワカシ"
+    },
+    {
+      "jisx0402": "40227",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "嘉麻市",
+      "city_kana": "カマシ"
+    },
+    {
+      "jisx0402": "40228",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "朝倉市",
+      "city_kana": "アサクラシ"
+    },
+    {
+      "jisx0402": "40229",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "みやま市",
+      "city_kana": "ミヤマシ"
+    },
+    {
+      "jisx0402": "40230",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "糸島市",
+      "city_kana": "イトシマシ"
+    },
+    {
+      "jisx0402": "40231",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "那珂川市",
+      "city_kana": "ナカガワシ"
+    },
+    {
+      "jisx0402": "40341",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "糟屋郡宇美町",
+      "city_kana": "カスヤグンウミマチ"
+    },
+    {
+      "jisx0402": "40342",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "糟屋郡篠栗町",
+      "city_kana": "カスヤグンササグリマチ"
+    },
+    {
+      "jisx0402": "40343",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "糟屋郡志免町",
+      "city_kana": "カスヤグンシメマチ"
+    },
+    {
+      "jisx0402": "40344",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "糟屋郡須惠町",
+      "city_kana": "カスヤグンスエマチ"
+    },
+    {
+      "jisx0402": "40345",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "糟屋郡新宮町",
+      "city_kana": "カスヤグンシングウマチ"
+    },
+    {
+      "jisx0402": "40348",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "糟屋郡久山町",
+      "city_kana": "カスヤグンヒサヤママチ"
+    },
+    {
+      "jisx0402": "40349",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "糟屋郡粕屋町",
+      "city_kana": "カスヤグンカスヤマチ"
+    },
+    {
+      "jisx0402": "40381",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "遠賀郡芦屋町",
+      "city_kana": "オンガグンアシヤマチ"
+    },
+    {
+      "jisx0402": "40382",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "遠賀郡水巻町",
+      "city_kana": "オンガグンミズマキマチ"
+    },
+    {
+      "jisx0402": "40383",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "遠賀郡岡垣町",
+      "city_kana": "オンガグンオカガキマチ"
+    },
+    {
+      "jisx0402": "40384",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "遠賀郡遠賀町",
+      "city_kana": "オンガグンオンガチョウ"
+    },
+    {
+      "jisx0402": "40401",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "鞍手郡小竹町",
+      "city_kana": "クラテグンコタケマチ"
+    },
+    {
+      "jisx0402": "40402",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "鞍手郡鞍手町",
+      "city_kana": "クラテグンクラテマチ"
+    },
+    {
+      "jisx0402": "40421",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "嘉穂郡桂川町",
+      "city_kana": "カホグンケイセンマチ"
+    },
+    {
+      "jisx0402": "40447",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "朝倉郡筑前町",
+      "city_kana": "アサクラグンチクゼンマチ"
+    },
+    {
+      "jisx0402": "40448",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "朝倉郡東峰村",
+      "city_kana": "アサクラグントウホウムラ"
+    },
+    {
+      "jisx0402": "40503",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "三井郡大刀洗町",
+      "city_kana": "ミイグンタチアライマチ"
+    },
+    {
+      "jisx0402": "40522",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "三潴郡大木町",
+      "city_kana": "ミズマグンオオキマチ"
+    },
+    {
+      "jisx0402": "40544",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "八女郡広川町",
+      "city_kana": "ヤメグンヒロカワマチ"
+    },
+    {
+      "jisx0402": "40601",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "田川郡香春町",
+      "city_kana": "タガワグンカワラマチ"
+    },
+    {
+      "jisx0402": "40602",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "田川郡添田町",
+      "city_kana": "タガワグンソエダマチ"
+    },
+    {
+      "jisx0402": "40604",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "田川郡糸田町",
+      "city_kana": "タガワグンイトダマチ"
+    },
+    {
+      "jisx0402": "40605",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "田川郡川崎町",
+      "city_kana": "タガワグンカワサキマチ"
+    },
+    {
+      "jisx0402": "40608",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "田川郡大任町",
+      "city_kana": "タガワグンオオトウマチ"
+    },
+    {
+      "jisx0402": "40609",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "田川郡赤村",
+      "city_kana": "タガワグンアカムラ"
+    },
+    {
+      "jisx0402": "40610",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "田川郡福智町",
+      "city_kana": "タガワグンフクチマチ"
+    },
+    {
+      "jisx0402": "40621",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "京都郡苅田町",
+      "city_kana": "ミヤコグンカンダマチ"
+    },
+    {
+      "jisx0402": "40625",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "京都郡みやこ町",
+      "city_kana": "ミヤコグンミヤコマチ"
+    },
+    {
+      "jisx0402": "40642",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "築上郡吉富町",
+      "city_kana": "チクジョウグンヨシトミマチ"
+    },
+    {
+      "jisx0402": "40646",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "築上郡上毛町",
+      "city_kana": "チクジョウグンコウゲマチ"
+    },
+    {
+      "jisx0402": "40647",
+      "prefecture_code": "40",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "city": "築上郡築上町",
+      "city_kana": "チクジョウグンチクジョウマチ"
+    }
+  ],
+  "meta": {
+    "title": "福岡県の市区町村一覧 (Municipalities of Fukuoka — JIS X 0402) - 無料ダウンロード",
+    "description": "福岡県 (Fukuoka Prefecture) の市区町村一覧 72 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 72 active municipalities (cities/wards/towns/villages) of Fukuoka Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 72 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "福岡県の市区町村一覧 (Municipalities of Fukuoka — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 福岡県の市区町村一覧 (Municipalities of Fukuoka — JIS X 0402) — 72 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 72 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

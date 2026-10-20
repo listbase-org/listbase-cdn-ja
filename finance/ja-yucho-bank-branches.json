@@ -1,0 +1,1006 @@
+{
+  "id": "ja-yucho-bank-branches",
+  "name": "ゆうちょ銀行支店コード一覧 (Branch codes of Japan Post Bank (Yucho))",
+  "title": "ゆうちょ銀行支店コード一覧 (Branch codes of Japan Post Bank (Yucho))",
+  "description": "ゆうちょ銀行の全支店コード一覧（コード 9900）。各支店の 3 桁支店番号（branch code）+ 支店名（漢字 / カタカナ / ひらがな / ローマ字）。 Full list of branch codes for ゆうちょ銀行 (zengin code 9900).",
+  "category": "finance",
+  "source": "https://github.com/zengin-code/source-data",
+  "source_url": "https://github.com/zengin-code/source-data",
+  "updated": "2026-04",
+  "record_count": 94,
+  "columns": [
+    {
+      "key": "bank_code",
+      "label": "Bank Code",
+      "type": "number"
+    },
+    {
+      "key": "bank_name",
+      "label": "Bank Name",
+      "type": "string"
+    },
+    {
+      "key": "bank_slug",
+      "label": "Bank Slug",
+      "type": "string"
+    },
+    {
+      "key": "branch_code",
+      "label": "Branch Code",
+      "type": "number"
+    },
+    {
+      "key": "branch_name",
+      "label": "Branch Name",
+      "type": "string"
+    },
+    {
+      "key": "branch_kana",
+      "label": "Branch Kana",
+      "type": "string"
+    },
+    {
+      "key": "branch_hira",
+      "label": "Branch Hira",
+      "type": "string"
+    },
+    {
+      "key": "branch_roma",
+      "label": "Branch Roma",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "008",
+      "branch_name": "〇〇八",
+      "branch_kana": "ゼロゼロハチ",
+      "branch_hira": "ぜろぜろはち",
+      "branch_roma": "zerozerohachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "018",
+      "branch_name": "〇一八",
+      "branch_kana": "ゼロイチハチ",
+      "branch_hira": "ぜろいちはち",
+      "branch_roma": "zeroichihachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "019",
+      "branch_name": "〇一九",
+      "branch_kana": "ゼロイチキユウ",
+      "branch_hira": "ぜろいちきゆう",
+      "branch_roma": "zeroichikiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "028",
+      "branch_name": "〇二八",
+      "branch_kana": "ゼロニハチ",
+      "branch_hira": "ぜろにはち",
+      "branch_roma": "zeronihachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "029",
+      "branch_name": "〇二九",
+      "branch_kana": "ゼロニキユウ",
+      "branch_hira": "ぜろにきゆう",
+      "branch_roma": "zeronikiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "038",
+      "branch_name": "〇三八",
+      "branch_kana": "ゼロサンハチ",
+      "branch_hira": "ぜろさんはち",
+      "branch_roma": "zerosanhachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "039",
+      "branch_name": "〇三九",
+      "branch_kana": "ゼロサンキユウ",
+      "branch_hira": "ぜろさんきゆう",
+      "branch_roma": "zerosankiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "048",
+      "branch_name": "〇四八",
+      "branch_kana": "ゼロヨンハチ",
+      "branch_hira": "ぜろよんはち",
+      "branch_roma": "zeroyonhachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "049",
+      "branch_name": "〇四九",
+      "branch_kana": "ゼロヨンキユウ",
+      "branch_hira": "ぜろよんきゆう",
+      "branch_roma": "zeroyonkiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "058",
+      "branch_name": "〇五八",
+      "branch_kana": "ゼロゴハチ",
+      "branch_hira": "ぜろごはち",
+      "branch_roma": "zerogohachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "059",
+      "branch_name": "〇五九",
+      "branch_kana": "ゼロゴキユウ",
+      "branch_hira": "ぜろごきゆう",
+      "branch_roma": "zerogokiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "068",
+      "branch_name": "〇六八",
+      "branch_kana": "ゼロロクハチ",
+      "branch_hira": "ぜろろくはち",
+      "branch_roma": "zerorokuhachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "069",
+      "branch_name": "〇六九",
+      "branch_kana": "ゼロロクキユウ",
+      "branch_hira": "ぜろろくきゆう",
+      "branch_roma": "zerorokukiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "078",
+      "branch_name": "〇七八",
+      "branch_kana": "ゼロナナハチ",
+      "branch_hira": "ぜろななはち",
+      "branch_roma": "zeronanahachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "079",
+      "branch_name": "〇七九",
+      "branch_kana": "ゼロナナキユウ",
+      "branch_hira": "ぜろななきゆう",
+      "branch_roma": "zeronanakiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "088",
+      "branch_name": "〇八八",
+      "branch_kana": "ゼロハチハチ",
+      "branch_hira": "ぜろはちはち",
+      "branch_roma": "zerohachihachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "089",
+      "branch_name": "〇八九",
+      "branch_kana": "ゼロハチキユウ",
+      "branch_hira": "ぜろはちきゆう",
+      "branch_roma": "zerohachikiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "098",
+      "branch_name": "〇九八",
+      "branch_kana": "ゼロキユウハチ",
+      "branch_hira": "ぜろきゆうはち",
+      "branch_roma": "zerokiyuuhachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "099",
+      "branch_name": "〇九九",
+      "branch_kana": "ゼロキユウキユウ",
+      "branch_hira": "ぜろきゆうきゆう",
+      "branch_roma": "zerokiyuukiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "108",
+      "branch_name": "一〇八",
+      "branch_kana": "イチゼロハチ",
+      "branch_hira": "いちぜろはち",
+      "branch_roma": "ichizerohachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "109",
+      "branch_name": "一〇九",
+      "branch_kana": "イチゼロキユウ",
+      "branch_hira": "いちぜろきゆう",
+      "branch_roma": "ichizerokiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "118",
+      "branch_name": "一一八",
+      "branch_kana": "イチイチハチ",
+      "branch_hira": "いちいちはち",
+      "branch_roma": "ichiichihachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "119",
+      "branch_name": "一一九",
+      "branch_kana": "イチイチキユウ",
+      "branch_hira": "いちいちきゆう",
+      "branch_roma": "ichiichikiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "128",
+      "branch_name": "一二八",
+      "branch_kana": "イチニハチ",
+      "branch_hira": "いちにはち",
+      "branch_roma": "ichinihachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "129",
+      "branch_name": "一二九",
+      "branch_kana": "イチニキユウ",
+      "branch_hira": "いちにきゆう",
+      "branch_roma": "ichinikiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "138",
+      "branch_name": "一三八",
+      "branch_kana": "イチサンハチ",
+      "branch_hira": "いちさんはち",
+      "branch_roma": "ichisanhachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "139",
+      "branch_name": "一三九",
+      "branch_kana": "イチサンキユウ",
+      "branch_hira": "いちさんきゆう",
+      "branch_roma": "ichisankiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "148",
+      "branch_name": "一四八",
+      "branch_kana": "イチヨンハチ",
+      "branch_hira": "いちよんはち",
+      "branch_roma": "ichiyonhachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "149",
+      "branch_name": "一四九",
+      "branch_kana": "イチヨンキユウ",
+      "branch_hira": "いちよんきゆう",
+      "branch_roma": "ichiyonkiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "159",
+      "branch_name": "一五九",
+      "branch_kana": "イチゴキユウ",
+      "branch_hira": "いちごきゆう",
+      "branch_roma": "ichigokiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "169",
+      "branch_name": "一六九",
+      "branch_kana": "イチロクキユウ",
+      "branch_hira": "いちろくきゆう",
+      "branch_roma": "ichirokukiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "179",
+      "branch_name": "一七九",
+      "branch_kana": "イチナナキユウ",
+      "branch_hira": "いちななきゆう",
+      "branch_roma": "ichinanakiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "189",
+      "branch_name": "一八九",
+      "branch_kana": "イチハチキユウ",
+      "branch_hira": "いちはちきゆう",
+      "branch_roma": "ichihachikiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "199",
+      "branch_name": "一九九",
+      "branch_kana": "イチキユウキユウ",
+      "branch_hira": "いちきゆうきゆう",
+      "branch_roma": "ichikiyuukiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "208",
+      "branch_name": "二〇八",
+      "branch_kana": "ニゼロハチ",
+      "branch_hira": "にぜろはち",
+      "branch_roma": "nizerohachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "209",
+      "branch_name": "二〇九",
+      "branch_kana": "ニゼロキユウ",
+      "branch_hira": "にぜろきゆう",
+      "branch_roma": "nizerokiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "218",
+      "branch_name": "二一八",
+      "branch_kana": "ニイチハチ",
+      "branch_hira": "にいちはち",
+      "branch_roma": "niichihachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "219",
+      "branch_name": "二一九",
+      "branch_kana": "ニイチキユウ",
+      "branch_hira": "にいちきゆう",
+      "branch_roma": "niichikiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "228",
+      "branch_name": "二二八",
+      "branch_kana": "ニニハチ",
+      "branch_hira": "ににはち",
+      "branch_roma": "ninihachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "229",
+      "branch_name": "二二九",
+      "branch_kana": "ニニキユウ",
+      "branch_hira": "ににきゆう",
+      "branch_roma": "ninikiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "238",
+      "branch_name": "二三八",
+      "branch_kana": "ニサンハチ",
+      "branch_hira": "にさんはち",
+      "branch_roma": "nisanhachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "239",
+      "branch_name": "二三九",
+      "branch_kana": "ニサンキユウ",
+      "branch_hira": "にさんきゆう",
+      "branch_roma": "nisankiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "248",
+      "branch_name": "二四八",
+      "branch_kana": "ニヨンハチ",
+      "branch_hira": "によんはち",
+      "branch_roma": "niyonhachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "249",
+      "branch_name": "二四九",
+      "branch_kana": "ニヨンキユウ",
+      "branch_hira": "によんきゆう",
+      "branch_roma": "niyonkiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "259",
+      "branch_name": "二五九",
+      "branch_kana": "ニゴキユウ",
+      "branch_hira": "にごきゆう",
+      "branch_roma": "nigokiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "269",
+      "branch_name": "二六九",
+      "branch_kana": "ニロクキユウ",
+      "branch_hira": "にろくきゆう",
+      "branch_roma": "nirokukiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "279",
+      "branch_name": "二七九",
+      "branch_kana": "ニナナキユウ",
+      "branch_hira": "にななきゆう",
+      "branch_roma": "ninanakiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "289",
+      "branch_name": "二八九",
+      "branch_kana": "ニハチキユウ",
+      "branch_hira": "にはちきゆう",
+      "branch_roma": "nihachikiyuu"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "318",
+      "branch_name": "三一八",
+      "branch_kana": "サンイチハチ",
+      "branch_hira": "さんいちはち",
+      "branch_roma": "sanichihachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "328",
+      "branch_name": "三二八",
+      "branch_kana": "サンニハチ",
+      "branch_hira": "さんにはち",
+      "branch_roma": "sannihachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "338",
+      "branch_name": "三三八",
+      "branch_kana": "サンサンハチ",
+      "branch_hira": "さんさんはち",
+      "branch_roma": "sansanhachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "408",
+      "branch_name": "四〇八",
+      "branch_kana": "ヨンゼロハチ",
+      "branch_hira": "よんぜろはち",
+      "branch_roma": "yonzerohachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "418",
+      "branch_name": "四一八",
+      "branch_kana": "ヨンイチハチ",
+      "branch_hira": "よんいちはち",
+      "branch_roma": "yonichihachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "428",
+      "branch_name": "四二八",
+      "branch_kana": "ヨンニハチ",
+      "branch_hira": "よんにはち",
+      "branch_roma": "yonnihachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "438",
+      "branch_name": "四三八",
+      "branch_kana": "ヨンサンハチ",
+      "branch_hira": "よんさんはち",
+      "branch_roma": "yonsanhachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "448",
+      "branch_name": "四四八",
+      "branch_kana": "ヨンヨンハチ",
+      "branch_hira": "よんよんはち",
+      "branch_roma": "yonyonhachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "458",
+      "branch_name": "四五八",
+      "branch_kana": "ヨンゴハチ",
+      "branch_hira": "よんごはち",
+      "branch_roma": "yongohachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "468",
+      "branch_name": "四六八",
+      "branch_kana": "ヨンロクハチ",
+      "branch_hira": "よんろくはち",
+      "branch_roma": "yonrokuhachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "478",
+      "branch_name": "四七八",
+      "branch_kana": "ヨンナナハチ",
+      "branch_hira": "よんななはち",
+      "branch_roma": "yonnanahachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "518",
+      "branch_name": "五一八",
+      "branch_kana": "ゴイチハチ",
+      "branch_hira": "ごいちはち",
+      "branch_roma": "goichihachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "528",
+      "branch_name": "五二八",
+      "branch_kana": "ゴニハチ",
+      "branch_hira": "ごにはち",
+      "branch_roma": "gonihachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "538",
+      "branch_name": "五三八",
+      "branch_kana": "ゴサンハチ",
+      "branch_hira": "ごさんはち",
+      "branch_roma": "gosanhachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "548",
+      "branch_name": "五四八",
+      "branch_kana": "ゴヨンハチ",
+      "branch_hira": "ごよんはち",
+      "branch_roma": "goyonhachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "558",
+      "branch_name": "五五八",
+      "branch_kana": "ゴゴハチ",
+      "branch_hira": "ごごはち",
+      "branch_roma": "gogohachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "618",
+      "branch_name": "六一八",
+      "branch_kana": "ロクイチハチ",
+      "branch_hira": "ろくいちはち",
+      "branch_roma": "rokuichihachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "628",
+      "branch_name": "六二八",
+      "branch_kana": "ロクニハチ",
+      "branch_hira": "ろくにはち",
+      "branch_roma": "rokunihachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "638",
+      "branch_name": "六三八",
+      "branch_kana": "ロクサンハチ",
+      "branch_hira": "ろくさんはち",
+      "branch_roma": "rokusanhachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "648",
+      "branch_name": "六四八",
+      "branch_kana": "ロクヨンハチ",
+      "branch_hira": "ろくよんはち",
+      "branch_roma": "rokuyonhachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "708",
+      "branch_name": "七〇八",
+      "branch_kana": "ナナゼロハチ",
+      "branch_hira": "ななぜろはち",
+      "branch_roma": "nanazerohachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "718",
+      "branch_name": "七一八",
+      "branch_kana": "ナナイチハチ",
+      "branch_hira": "なないちはち",
+      "branch_roma": "nanaichihachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "728",
+      "branch_name": "七二八",
+      "branch_kana": "ナナニハチ",
+      "branch_hira": "ななにはち",
+      "branch_roma": "nananihachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "738",
+      "branch_name": "七三八",
+      "branch_kana": "ナナサンハチ",
+      "branch_hira": "ななさんはち",
+      "branch_roma": "nanasanhachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "748",
+      "branch_name": "七四八",
+      "branch_kana": "ナナヨンハチ",
+      "branch_hira": "ななよんはち",
+      "branch_roma": "nanayonhachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "758",
+      "branch_name": "七五八",
+      "branch_kana": "ナナゴハチ",
+      "branch_hira": "ななごはち",
+      "branch_roma": "nanagohachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "768",
+      "branch_name": "七六八",
+      "branch_kana": "ナナロクハチ",
+      "branch_hira": "ななろくはち",
+      "branch_roma": "nanarokuhachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "778",
+      "branch_name": "七七八",
+      "branch_kana": "ナナナナハチ",
+      "branch_hira": "ななななはち",
+      "branch_roma": "nanananahachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "788",
+      "branch_name": "七八八",
+      "branch_kana": "ナナハチハチ",
+      "branch_hira": "ななはちはち",
+      "branch_roma": "nanahachihachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "798",
+      "branch_name": "七九八",
+      "branch_kana": "ナナキユウハチ",
+      "branch_hira": "ななきゆうはち",
+      "branch_roma": "nanakiyuuhachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "818",
+      "branch_name": "八一八",
+      "branch_kana": "ハチイチハチ",
+      "branch_hira": "はちいちはち",
+      "branch_roma": "hachiichihachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "828",
+      "branch_name": "八二八",
+      "branch_kana": "ハチニハチ",
+      "branch_hira": "はちにはち",
+      "branch_roma": "hachinihachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "838",
+      "branch_name": "八三八",
+      "branch_kana": "ハチサンハチ",
+      "branch_hira": "はちさんはち",
+      "branch_roma": "hachisanhachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "848",
+      "branch_name": "八四八",
+      "branch_kana": "ハチヨンハチ",
+      "branch_hira": "はちよんはち",
+      "branch_roma": "hachiyonhachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "858",
+      "branch_name": "八五八",
+      "branch_kana": "ハチゴハチ",
+      "branch_hira": "はちごはち",
+      "branch_roma": "hachigohachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "868",
+      "branch_name": "八六八",
+      "branch_kana": "ハチロクハチ",
+      "branch_hira": "はちろくはち",
+      "branch_roma": "hachirokuhachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "908",
+      "branch_name": "九〇八",
+      "branch_kana": "キユウゼロハチ",
+      "branch_hira": "きゆうぜろはち",
+      "branch_roma": "kiyuuzerohachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "918",
+      "branch_name": "九一八",
+      "branch_kana": "キユウイチハチ",
+      "branch_hira": "きゆういちはち",
+      "branch_roma": "kiyuuichihachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "928",
+      "branch_name": "九二八",
+      "branch_kana": "キユウニハチ",
+      "branch_hira": "きゆうにはち",
+      "branch_roma": "kiyuunihachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "938",
+      "branch_name": "九三八",
+      "branch_kana": "キユウサンハチ",
+      "branch_hira": "きゆうさんはち",
+      "branch_roma": "kiyuusanhachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "948",
+      "branch_name": "九四八",
+      "branch_kana": "キユウヨンハチ",
+      "branch_hira": "きゆうよんはち",
+      "branch_roma": "kiyuuyonhachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "958",
+      "branch_name": "九五八",
+      "branch_kana": "キユウゴハチ",
+      "branch_hira": "きゆうごはち",
+      "branch_roma": "kiyuugohachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "968",
+      "branch_name": "九六八",
+      "branch_kana": "キユウロクハチ",
+      "branch_hira": "きゆうろくはち",
+      "branch_roma": "kiyuurokuhachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "978",
+      "branch_name": "九七八",
+      "branch_kana": "キユウナナハチ",
+      "branch_hira": "きゆうななはち",
+      "branch_roma": "kiyuunanahachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "988",
+      "branch_name": "九八八",
+      "branch_kana": "キユウハチハチ",
+      "branch_hira": "きゆうはちはち",
+      "branch_roma": "kiyuuhachihachi"
+    },
+    {
+      "bank_code": "9900",
+      "bank_name": "ゆうちょ",
+      "bank_slug": "yuuchiyo",
+      "branch_code": "998",
+      "branch_name": "九九八",
+      "branch_kana": "キユウキユウハチ",
+      "branch_hira": "きゆうきゆうはち",
+      "branch_roma": "kiyuukiyuuhachi"
+    }
+  ],
+  "meta": {
+    "title": "ゆうちょ銀行支店コード一覧 (Branch codes of Japan Post Bank (Yucho)) - 無料ダウンロード",
+    "description": "ゆうちょ銀行の全支店コード一覧（コード 9900）。各支店の 3 桁支店番号（branch code）+ 支店名（漢字 / カタカナ / ひらがな / ローマ字）。 Full list of branch codes for ゆうちょ銀行 (zengin code 9900). 収録数 94 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "ゆうちょ銀行支店コード一覧 (Branch codes of Japan Post Bank (Yucho)) | ListBase",
+    "seo_description": "ダウンロード ゆうちょ銀行支店コード一覧 (Branch codes of Japan Post Bank (Yucho)) — 94 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 94 件 / 8 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/zengin-code/source-data"
+    ]
+  }
+}

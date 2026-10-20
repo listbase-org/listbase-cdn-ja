@@ -1,0 +1,3056 @@
+{
+  "id": "ja-islands",
+  "name": "島嶼一覧 (Islands of Japan)",
+  "title": "島嶼一覧 (Islands of Japan)",
+  "description": "国土地理院「日本地名集 (Gazetteer of Japan) 2007」に収録された島嶼 299 件。漢字・ひらがな・公式ローマ字表記と緯度経度を併記。299 islands listed in the Geospatial Information Authority of Japan's Gazetteer of Japan 2007 (with the 2018 update), each with kanji, kana and the official romanised name plus degree-minute coordinates in both original DMS and decimal form.",
+  "category": "geography",
+  "source": "https://github.com/piuccio/open-data-jp-municipalities",
+  "source_url": "https://github.com/piuccio/open-data-jp-municipalities",
+  "updated": "2026-04",
+  "record_count": 299,
+  "columns": [
+    {
+      "key": "name_kanji",
+      "label": "Name Kanji",
+      "type": "string"
+    },
+    {
+      "key": "name_kana",
+      "label": "Name Kana",
+      "type": "string"
+    },
+    {
+      "key": "name_romaji",
+      "label": "Name Romaji",
+      "type": "string"
+    },
+    {
+      "key": "classification",
+      "label": "Classification",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "org_latitude",
+      "label": "Org Latitude",
+      "type": "string"
+    },
+    {
+      "key": "org_longitude",
+      "label": "Org Longitude",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_kanji": "粟国島",
+      "name_kana": "あぐにじま",
+      "name_romaji": "Aguni Jima",
+      "classification": "Island",
+      "lat": 26.6,
+      "lon": 127.216667,
+      "org_latitude": "26 ゚ 36’",
+      "org_longitude": "127 ゚ 13’"
+    },
+    {
+      "name_kanji": "相島",
+      "name_kana": "あいしま",
+      "name_romaji": "Ai Shima",
+      "classification": "Island",
+      "lat": 34.5,
+      "lon": 131.266667,
+      "org_latitude": "34 ゚ 30’",
+      "org_longitude": "131 ゚ 16’"
+    },
+    {
+      "name_kanji": "相ノ島",
+      "name_kana": "あいのしま",
+      "name_romaji": "Ainoshima",
+      "classification": "Island",
+      "lat": 32.916667,
+      "lon": 129.166667,
+      "org_latitude": "32 ゚ 55’",
+      "org_longitude": "129 ゚ 10’"
+    },
+    {
+      "name_kanji": "相ノ島",
+      "name_kana": "あいのしま",
+      "name_romaji": "Ainoshima",
+      "classification": "Island",
+      "lat": 33.75,
+      "lon": 130.35,
+      "org_latitude": "33 ゚ 45’",
+      "org_longitude": "130 ゚ 21’"
+    },
+    {
+      "name_kanji": "網地島",
+      "name_kana": "あじしま",
+      "name_romaji": "Aji Shima",
+      "classification": "Island",
+      "lat": 38.25,
+      "lon": 141.466667,
+      "org_latitude": "38 ゚ 15’",
+      "org_longitude": "141 ゚ 28’"
+    },
+    {
+      "name_kanji": "阿嘉島",
+      "name_kana": "あかじま",
+      "name_romaji": "Aka Jima",
+      "classification": "Island",
+      "lat": 26.183333,
+      "lon": 127.25,
+      "org_latitude": "26 ゚ 11’",
+      "org_longitude": "127 ゚ 15’"
+    },
+    {
+      "name_kanji": "赤島",
+      "name_kana": "あかしま",
+      "name_romaji": "Akashima",
+      "classification": "Island",
+      "lat": 32.583333,
+      "lon": 128.916667,
+      "org_latitude": "32 ゚ 35’",
+      "org_longitude": "128 ゚ 55’"
+    },
+    {
+      "name_kanji": "赤島",
+      "name_kana": "あかしま",
+      "name_romaji": "Akashima",
+      "classification": "Island",
+      "lat": 33.183333,
+      "lon": 128.966667,
+      "org_latitude": "33 ゚ 11’",
+      "org_longitude": "128 ゚ 58’"
+    },
+    {
+      "name_kanji": "秋勇留島",
+      "name_kana": "あきゆりとう",
+      "name_romaji": "Akiyuri To",
+      "classification": "Island",
+      "lat": 43.35,
+      "lon": 146,
+      "org_latitude": "43 ゚ 21’",
+      "org_longitude": "146 ゚ 00’"
+    },
+    {
+      "name_kanji": "悪石島",
+      "name_kana": "あくせきじま",
+      "name_romaji": "Akuseki Jima",
+      "classification": "Island",
+      "lat": 29.45,
+      "lon": 129.583333,
+      "org_latitude": "29 ゚ 27’",
+      "org_longitude": "129 ゚ 35’"
+    },
+    {
+      "name_kanji": "姉島",
+      "name_kana": "あねじま",
+      "name_romaji": "Ane Jima",
+      "classification": "Island",
+      "lat": 26.55,
+      "lon": 142.15,
+      "org_latitude": "26 ゚ 33’",
+      "org_longitude": "142 ゚ 09’"
+    },
+    {
+      "name_kanji": "兄島",
+      "name_kana": "あにじま",
+      "name_romaji": "Ani Jima",
+      "classification": "Island",
+      "lat": 27.116667,
+      "lon": 142.2,
+      "org_latitude": "27 ゚ 07’",
+      "org_longitude": "142 ゚ 12’"
+    },
+    {
+      "name_kanji": "青ヶ島",
+      "name_kana": "あおがしま",
+      "name_romaji": "Aogashima",
+      "classification": "Island",
+      "lat": 32.466667,
+      "lon": 139.75,
+      "org_latitude": "32 ゚ 28’",
+      "org_longitude": "139 ゚ 45’"
+    },
+    {
+      "name_kanji": "青島",
+      "name_kana": "あおしま",
+      "name_romaji": "Aoshima",
+      "classification": "Island",
+      "lat": 31.8,
+      "lon": 131.466667,
+      "org_latitude": "31 ゚ 48’",
+      "org_longitude": "131 ゚ 28’"
+    },
+    {
+      "name_kanji": "青島",
+      "name_kana": "あおしま",
+      "name_romaji": "Aoshima",
+      "classification": "Island",
+      "lat": 33.733333,
+      "lon": 132.466667,
+      "org_latitude": "33 ゚ 44’",
+      "org_longitude": "132 ゚ 28’"
+    },
+    {
+      "name_kanji": "新城島",
+      "name_kana": "あらぐすくしま",
+      "name_romaji": "Aragusuku Shima",
+      "classification": "Island",
+      "lat": 24.2,
+      "lon": 123.933333,
+      "org_latitude": "24 ゚ 12’",
+      "org_longitude": "123 ゚ 56’"
+    },
+    {
+      "name_kanji": "有福島",
+      "name_kana": "ありふくじま",
+      "name_romaji": "Arifuku Jima",
+      "classification": "Island",
+      "lat": 32.9,
+      "lon": 128.933333,
+      "org_latitude": "32 ゚ 54’",
+      "org_longitude": "128 ゚ 56’"
+    },
+    {
+      "name_kanji": "粟島",
+      "name_kana": "あわしま",
+      "name_romaji": "Awa Shima",
+      "classification": "Island",
+      "lat": 34.266667,
+      "lon": 133.633333,
+      "org_latitude": "34 ゚ 16’",
+      "org_longitude": "133 ゚ 38’"
+    },
+    {
+      "name_kanji": "粟島",
+      "name_kana": "あわしま",
+      "name_romaji": "Awa Shima",
+      "classification": "Island",
+      "lat": 38.45,
+      "lon": 139.233333,
+      "org_latitude": "38 ゚ 27’",
+      "org_longitude": "139 ゚ 14’"
+    },
+    {
+      "name_kanji": "淡路島",
+      "name_kana": "あわじしま",
+      "name_romaji": "Awaji Shima",
+      "classification": "Island",
+      "lat": 34.4,
+      "lon": 134.833333,
+      "org_latitude": "34 ゚ 24’",
+      "org_longitude": "134 ゚ 50’"
+    },
+    {
+      "name_kanji": "的山大島",
+      "name_kana": "あずちおおしま",
+      "name_romaji": "Azuchi-oshima",
+      "classification": "Island",
+      "lat": 33.483333,
+      "lon": 129.533333,
+      "org_latitude": "33 ゚ 29’",
+      "org_longitude": "129 ゚ 32’"
+    },
+    {
+      "name_kanji": "ベヨネース列岩",
+      "name_kana": "べよねえすれつがん",
+      "name_romaji": "Beyonesu Retsugan",
+      "classification": "Island",
+      "lat": 31.883333,
+      "lon": 139.9,
+      "org_latitude": "31 ゚ 53’",
+      "org_longitude": "139 ゚ 54’"
+    },
+    {
+      "name_kanji": "枇榔島",
+      "name_kana": "びろうじま",
+      "name_romaji": "Biro Jima",
+      "classification": "Island",
+      "lat": 31.416667,
+      "lon": 131.1,
+      "org_latitude": "31 ゚ 25’",
+      "org_longitude": "131 ゚ 06’"
+    },
+    {
+      "name_kanji": "美良島",
+      "name_kana": "びりょうじま",
+      "name_romaji": "Biryo Jima",
+      "classification": "Island",
+      "lat": 33.15,
+      "lon": 128.9,
+      "org_latitude": "33 ゚ 09’",
+      "org_longitude": "128 ゚ 54’"
+    },
+    {
+      "name_kanji": "知夫里島",
+      "name_kana": "ちぶりしま",
+      "name_romaji": "Chiburi Shima",
+      "classification": "Island",
+      "lat": 36,
+      "lon": 133.016667,
+      "org_latitude": "36 ゚ 00’",
+      "org_longitude": "133 ゚ 01’"
+    },
+    {
+      "name_kanji": "父島",
+      "name_kana": "ちちじま",
+      "name_romaji": "Chichi Jima",
+      "classification": "Island",
+      "lat": 27.05,
+      "lon": 142.2,
+      "org_latitude": "27 ゚ 03’",
+      "org_longitude": "142 ゚ 12’"
+    },
+    {
+      "name_kanji": "知林ヶ島",
+      "name_kana": "ちりんがしま",
+      "name_romaji": "Chiringashima",
+      "classification": "Island",
+      "lat": 31.266667,
+      "lon": 130.683333,
+      "org_latitude": "31 ゚ 16’",
+      "org_longitude": "130 ゚ 41’"
+    },
+    {
+      "name_kanji": "大黒島",
+      "name_kana": "だいこくじま",
+      "name_romaji": "Daikoku Jima",
+      "classification": "Island",
+      "lat": 42.95,
+      "lon": 144.85,
+      "org_latitude": "42 ゚ 57’",
+      "org_longitude": "144 ゚ 51’"
+    },
+    {
+      "name_kanji": "デン島",
+      "name_kana": "でんしま",
+      "name_romaji": "Den Shima",
+      "classification": "Island",
+      "lat": 30.733333,
+      "lon": 130.1,
+      "org_latitude": "30 ゚ 44’",
+      "org_longitude": "130 ゚ 06’"
+    },
+    {
+      "name_kanji": "島後",
+      "name_kana": "どうご",
+      "name_romaji": "Dogo",
+      "classification": "Island",
+      "lat": 36.233333,
+      "lon": 133.266667,
+      "org_latitude": "36 ゚ 14’",
+      "org_longitude": "133 ゚ 16’"
+    },
+    {
+      "name_kanji": "烏帽子島",
+      "name_kana": "えぼししま",
+      "name_romaji": "Eboshi Shima",
+      "classification": "Island",
+      "lat": 33.683333,
+      "lon": 129.966667,
+      "org_latitude": "33 ゚ 41’",
+      "org_longitude": "129 ゚ 58’"
+    },
+    {
+      "name_kanji": "江ノ島",
+      "name_kana": "えのしま",
+      "name_romaji": "Enoshima",
+      "classification": "Island",
+      "lat": 33,
+      "lon": 129.333333,
+      "org_latitude": "33 ゚ 00’",
+      "org_longitude": "129 ゚ 20’"
+    },
+    {
+      "name_kanji": "江の島",
+      "name_kana": "えのしま",
+      "name_romaji": "Enoshima",
+      "classification": "Island",
+      "lat": 35.283333,
+      "lon": 139.466667,
+      "org_latitude": "35 ゚ 17’",
+      "org_longitude": "139 ゚ 28’"
+    },
+    {
+      "name_kanji": "択捉島",
+      "name_kana": "えとろふとう",
+      "name_romaji": "Etorofu To",
+      "classification": "Island",
+      "lat": 44.966667,
+      "lon": 147.533333,
+      "org_latitude": "44 ゚ 58’",
+      "org_longitude": "147 ゚ 32’"
+    },
+    {
+      "name_kanji": "深島",
+      "name_kana": "ふかしま",
+      "name_romaji": "Fukashima",
+      "classification": "Island",
+      "lat": 32.7,
+      "lon": 131.916667,
+      "org_latitude": "32 ゚ 42’",
+      "org_longitude": "131 ゚ 55’"
+    },
+    {
+      "name_kanji": "福江島",
+      "name_kana": "ふくえじま",
+      "name_romaji": "Fukue Jima",
+      "classification": "Island",
+      "lat": 32.7,
+      "lon": 128.716667,
+      "org_latitude": "32 ゚ 42’",
+      "org_longitude": "128 ゚ 43’"
+    },
+    {
+      "name_kanji": "二神島",
+      "name_kana": "ふたがみしま",
+      "name_romaji": "Futagami Shima",
+      "classification": "Island",
+      "lat": 33.6,
+      "lon": 129.55,
+      "org_latitude": "33 ゚ 36’",
+      "org_longitude": "129 ゚ 33’"
+    },
+    {
+      "name_kanji": "蓋井島",
+      "name_kana": "ふたおいじま",
+      "name_romaji": "Futaoi Jima",
+      "classification": "Island",
+      "lat": 34.083333,
+      "lon": 130.783333,
+      "org_latitude": "34 ゚ 05’",
+      "org_longitude": "130 ゚ 47’"
+    },
+    {
+      "name_kanji": "臥蛇島",
+      "name_kana": "がじゃじま",
+      "name_romaji": "Gaja Jima",
+      "classification": "Island",
+      "lat": 29.9,
+      "lon": 129.533333,
+      "org_latitude": "29 ゚ 54’",
+      "org_longitude": "129 ゚ 32’"
+    },
+    {
+      "name_kanji": "玄界島",
+      "name_kana": "げんかいじま",
+      "name_romaji": "Genkai Jima",
+      "classification": "Island",
+      "lat": 33.666667,
+      "lon": 130.233333,
+      "org_latitude": "33 ゚ 40’",
+      "org_longitude": "130 ゚ 14’"
+    },
+    {
+      "name_kanji": "興居島",
+      "name_kana": "ごごしま",
+      "name_romaji": "Gogo Shima",
+      "classification": "Island",
+      "lat": 33.883333,
+      "lon": 132.65,
+      "org_latitude": "33 ゚ 53’",
+      "org_longitude": "132 ゚ 39’"
+    },
+    {
+      "name_kanji": "八丈島",
+      "name_kana": "はちじょうじま",
+      "name_romaji": "Hachijo Jima",
+      "classification": "Island",
+      "lat": 33.1,
+      "lon": 139.8,
+      "org_latitude": "33 ゚ 06’",
+      "org_longitude": "139 ゚ 48’"
+    },
+    {
+      "name_kanji": "母島",
+      "name_kana": "ははじま",
+      "name_romaji": "Haha Jima",
+      "classification": "Island",
+      "lat": 26.633333,
+      "lon": 142.15,
+      "org_latitude": "26 ゚ 38’",
+      "org_longitude": "142 ゚ 09’"
+    },
+    {
+      "name_kanji": "柱島",
+      "name_kana": "はしらじま",
+      "name_romaji": "Hashira Jima",
+      "classification": "Island",
+      "lat": 34.016667,
+      "lon": 132.4,
+      "org_latitude": "34 ゚ 01’",
+      "org_longitude": "132 ゚ 24’"
+    },
+    {
+      "name_kanji": "走島",
+      "name_kana": "はしりじま",
+      "name_romaji": "Hashiri Jima",
+      "classification": "Island",
+      "lat": 34.333333,
+      "lon": 133.433333,
+      "org_latitude": "34 ゚ 20’",
+      "org_longitude": "133 ゚ 26’"
+    },
+    {
+      "name_kanji": "波照間島",
+      "name_kana": "はてるまじま",
+      "name_romaji": "Hateruma Jima",
+      "classification": "Island",
+      "lat": 24.033333,
+      "lon": 123.766667,
+      "org_latitude": "24 ゚ 02’",
+      "org_longitude": "123 ゚ 46’"
+    },
+    {
+      "name_kanji": "鳩間島",
+      "name_kana": "はとまじま",
+      "name_romaji": "Hatoma Jima",
+      "classification": "Island",
+      "lat": 24.466667,
+      "lon": 123.8,
+      "org_latitude": "24 ゚ 28’",
+      "org_longitude": "123 ゚ 48’"
+    },
+    {
+      "name_kanji": "初島",
+      "name_kana": "はつしま",
+      "name_romaji": "Hatsu Shima",
+      "classification": "Island",
+      "lat": 35.033333,
+      "lon": 139.166667,
+      "org_latitude": "35 ゚ 02’",
+      "org_longitude": "139 ゚ 10’"
+    },
+    {
+      "name_kanji": "舳倉島",
+      "name_kana": "へぐらじま",
+      "name_romaji": "Hegura Jima",
+      "classification": "Island",
+      "lat": 37.85,
+      "lon": 136.9,
+      "org_latitude": "37 ゚ 51’",
+      "org_longitude": "136 ゚ 54’"
+    },
+    {
+      "name_kanji": "平郡島",
+      "name_kana": "へいぐんとう",
+      "name_romaji": "Heigun To",
+      "classification": "Island",
+      "lat": 33.783333,
+      "lon": 132.216667,
+      "org_latitude": "33 ゚ 47’",
+      "org_longitude": "132 ゚ 13’"
+    },
+    {
+      "name_kanji": "日振島",
+      "name_kana": "ひぶりしま",
+      "name_romaji": "Hiburi Shima",
+      "classification": "Island",
+      "lat": 33.15,
+      "lon": 132.283333,
+      "org_latitude": "33 ゚ 09’",
+      "org_longitude": "132 ゚ 17’"
+    },
+    {
+      "name_kanji": "東島",
+      "name_kana": "ひがしじま",
+      "name_romaji": "Higashijima",
+      "classification": "Island",
+      "lat": 27.083333,
+      "lon": 142.233333,
+      "org_latitude": "27 ゚ 05’",
+      "org_longitude": "142 ゚ 14’"
+    },
+    {
+      "name_kanji": "姫島",
+      "name_kana": "ひめしま",
+      "name_romaji": "Hime Shima",
+      "classification": "Island",
+      "lat": 32.783333,
+      "lon": 128.683333,
+      "org_latitude": "32 ゚ 47’",
+      "org_longitude": "128 ゚ 41’"
+    },
+    {
+      "name_kanji": "姫島",
+      "name_kana": "ひめしま",
+      "name_romaji": "Hime Shima",
+      "classification": "Island",
+      "lat": 33.716667,
+      "lon": 131.65,
+      "org_latitude": "33 ゚ 43’",
+      "org_longitude": "131 ゚ 39’"
+    },
+    {
+      "name_kanji": "平島",
+      "name_kana": "ひらじま",
+      "name_romaji": "Hira Jima",
+      "classification": "Island",
+      "lat": 26.566667,
+      "lon": 142.133333,
+      "org_latitude": "26 ゚ 34’",
+      "org_longitude": "142 ゚ 08’"
+    },
+    {
+      "name_kanji": "平瀬",
+      "name_kana": "ひらせ",
+      "name_romaji": "Hira Se",
+      "classification": "Island",
+      "lat": 30.033333,
+      "lon": 130.05,
+      "org_latitude": "30 ゚ 02’",
+      "org_longitude": "130 ゚ 03’"
+    },
+    {
+      "name_kanji": "平島",
+      "name_kana": "ひらしま",
+      "name_romaji": "Hira Shima",
+      "classification": "Island",
+      "lat": 33,
+      "lon": 129.216667,
+      "org_latitude": "33 ゚ 00’",
+      "org_longitude": "129 ゚ 13’"
+    },
+    {
+      "name_kanji": "平戸島",
+      "name_kana": "ひらどしま",
+      "name_romaji": "Hirado Shima",
+      "classification": "Island",
+      "lat": 33.25,
+      "lon": 129.45,
+      "org_latitude": "33 ゚ 15’",
+      "org_longitude": "129 ゚ 27’"
+    },
+    {
+      "name_kanji": "広島",
+      "name_kana": "ひろしま",
+      "name_romaji": "Hiroshima",
+      "classification": "Island",
+      "lat": 34.366667,
+      "lon": 133.7,
+      "org_latitude": "34 ゚ 22’",
+      "org_longitude": "133 ゚ 42’"
+    },
+    {
+      "name_kanji": "久賀島",
+      "name_kana": "ひさかじま",
+      "name_romaji": "Hisaka Jima",
+      "classification": "Island",
+      "lat": 32.8,
+      "lon": 128.85,
+      "org_latitude": "32 ゚ 48’",
+      "org_longitude": "128 ゚ 51’"
+    },
+    {
+      "name_kanji": "本島",
+      "name_kana": "ほんじま",
+      "name_romaji": "Hon Jima",
+      "classification": "Island",
+      "lat": 34.366667,
+      "lon": 133.766667,
+      "org_latitude": "34 ゚ 22’",
+      "org_longitude": "133 ゚ 46’"
+    },
+    {
+      "name_kanji": "伊島",
+      "name_kana": "いしま",
+      "name_romaji": "I Shima",
+      "classification": "Island",
+      "lat": 33.833333,
+      "lon": 134.8,
+      "org_latitude": "33 ゚ 50’",
+      "org_longitude": "134 ゚ 48’"
+    },
+    {
+      "name_kanji": "伊吹島",
+      "name_kana": "いぶきじま",
+      "name_romaji": "Ibuki Jima",
+      "classification": "Island",
+      "lat": 34.116667,
+      "lon": 133.516667,
+      "org_latitude": "34 ゚ 07’",
+      "org_longitude": "133 ゚ 31’"
+    },
+    {
+      "name_kanji": "伊江島",
+      "name_kana": "いえしま",
+      "name_romaji": "Ie Shima",
+      "classification": "Island",
+      "lat": 26.733333,
+      "lon": 127.766667,
+      "org_latitude": "26 ゚ 44’",
+      "org_longitude": "127 ゚ 46’"
+    },
+    {
+      "name_kanji": "伊平屋島",
+      "name_kana": "いへやじま",
+      "name_romaji": "Iheya Jima",
+      "classification": "Island",
+      "lat": 27.05,
+      "lon": 127.966667,
+      "org_latitude": "27 ゚ 03’",
+      "org_longitude": "127 ゚ 58’"
+    },
+    {
+      "name_kanji": "池島",
+      "name_kana": "いけしま",
+      "name_romaji": "Ike Shima",
+      "classification": "Island",
+      "lat": 32.866667,
+      "lon": 129.583333,
+      "org_latitude": "32 ゚ 52’",
+      "org_longitude": "129 ゚ 35’"
+    },
+    {
+      "name_kanji": "池間島",
+      "name_kana": "いけまじま",
+      "name_romaji": "Ikema Jima",
+      "classification": "Island",
+      "lat": 24.916667,
+      "lon": 125.216667,
+      "org_latitude": "24 ゚ 55’",
+      "org_longitude": "125 ゚ 13’"
+    },
+    {
+      "name_kanji": "壱岐島",
+      "name_kana": "いきしま",
+      "name_romaji": "Iki Shima",
+      "classification": "Island",
+      "lat": 33.783333,
+      "lon": 129.683333,
+      "org_latitude": "33 ゚ 47’",
+      "org_longitude": "129 ゚ 41’"
+    },
+    {
+      "name_kanji": "生月島",
+      "name_kana": "いきつきしま",
+      "name_romaji": "Ikitsuki Shima",
+      "classification": "Island",
+      "lat": 33.383333,
+      "lon": 129.416667,
+      "org_latitude": "33 ゚ 23’",
+      "org_longitude": "129 ゚ 25’"
+    },
+    {
+      "name_kanji": "生口島",
+      "name_kana": "いくちしま",
+      "name_romaji": "Ikuchi Shima",
+      "classification": "Island",
+      "lat": 34.283333,
+      "lon": 133.083333,
+      "org_latitude": "34 ゚ 17’",
+      "org_longitude": "133 ゚ 05’"
+    },
+    {
+      "name_kanji": "妹島",
+      "name_kana": "いもうとじま",
+      "name_romaji": "Imoto Jima",
+      "classification": "Island",
+      "lat": 26.55,
+      "lon": 142.2,
+      "org_latitude": "26 ゚ 33’",
+      "org_longitude": "142 ゚ 12’"
+    },
+    {
+      "name_kanji": "藺灘波島",
+      "name_kana": "いなんばじま",
+      "name_romaji": "Inanba Jima",
+      "classification": "Island",
+      "lat": 33.65,
+      "lon": 139.283333,
+      "org_latitude": "33 ゚ 39’",
+      "org_longitude": "139 ゚ 17’"
+    },
+    {
+      "name_kanji": "硫黄島",
+      "name_kana": "いおうじま",
+      "name_romaji": "Io Jima",
+      "classification": "Island",
+      "lat": 30.8,
+      "lon": 130.266667,
+      "org_latitude": "30 ゚ 48’",
+      "org_longitude": "130 ゚ 16’"
+    },
+    {
+      "name_kanji": "硫黄島",
+      "name_kana": "いおうとう",
+      "name_romaji": "Io To",
+      "classification": "Island",
+      "lat": 24.783333,
+      "lon": 141.3,
+      "org_latitude": "24 ゚ 47’",
+      "org_longitude": "141 ゚ 18’"
+    },
+    {
+      "name_kanji": "硫黄鳥島",
+      "name_kana": "いおうとりしま",
+      "name_romaji": "Iotori Shima",
+      "classification": "Island",
+      "lat": 27.866667,
+      "lon": 128.216667,
+      "org_latitude": "27 ゚ 52’",
+      "org_longitude": "128 ゚ 13’"
+    },
+    {
+      "name_kanji": "伊良部島",
+      "name_kana": "いらぶじま",
+      "name_romaji": "Irabu Jima",
+      "classification": "Island",
+      "lat": 24.816667,
+      "lon": 125.183333,
+      "org_latitude": "24 ゚ 49’",
+      "org_longitude": "125 ゚ 11’"
+    },
+    {
+      "name_kanji": "西表島",
+      "name_kana": "いりおもてじま",
+      "name_romaji": "Iriomote Jima",
+      "classification": "Island",
+      "lat": 24.316667,
+      "lon": 123.783333,
+      "org_latitude": "24 ゚ 19’",
+      "org_longitude": "123 ゚ 47’"
+    },
+    {
+      "name_kanji": "入砂島",
+      "name_kana": "いりすなじま",
+      "name_romaji": "Irisuna Jima",
+      "classification": "Island",
+      "lat": 26.383333,
+      "lon": 127.1,
+      "org_latitude": "26 ゚ 23’",
+      "org_longitude": "127 ゚ 06’"
+    },
+    {
+      "name_kanji": "石垣島",
+      "name_kana": "いしがきじま",
+      "name_romaji": "Ishigaki Jima",
+      "classification": "Island",
+      "lat": 24.4,
+      "lon": 124.166667,
+      "org_latitude": "24 ゚ 24’",
+      "org_longitude": "124 ゚ 10’"
+    },
+    {
+      "name_kanji": "厳島(宮島)",
+      "name_kana": "いつくしま(みやじま)",
+      "name_romaji": "Itsuku Shima (Miyajima)",
+      "classification": "Island",
+      "lat": 34.25,
+      "lon": 132.3,
+      "org_latitude": "34 ゚ 15’",
+      "org_longitude": "132 ゚ 18’"
+    },
+    {
+      "name_kanji": "祝島",
+      "name_kana": "いわいしま",
+      "name_romaji": "Iwai Shima",
+      "classification": "Island",
+      "lat": 33.766667,
+      "lon": 131.966667,
+      "org_latitude": "33 ゚ 46’",
+      "org_longitude": "131 ゚ 58’"
+    },
+    {
+      "name_kanji": "伊是名島",
+      "name_kana": "いぜなじま",
+      "name_romaji": "Izena Jima",
+      "classification": "Island",
+      "lat": 26.916667,
+      "lon": 127.95,
+      "org_latitude": "26 ゚ 55’",
+      "org_longitude": "127 ゚ 57’"
+    },
+    {
+      "name_kanji": "出島",
+      "name_kana": "いずしま",
+      "name_romaji": "Izu Shima",
+      "classification": "Island",
+      "lat": 38.433333,
+      "lon": 141.516667,
+      "org_latitude": "38 ゚ 26’",
+      "org_longitude": "141 ゚ 31’"
+    },
+    {
+      "name_kanji": "城ヶ島",
+      "name_kana": "じょうがしま",
+      "name_romaji": "Jogashima",
+      "classification": "Island",
+      "lat": 35.116667,
+      "lon": 139.6,
+      "org_latitude": "35 ゚ 07’",
+      "org_longitude": "139 ゚ 36’"
+    },
+    {
+      "name_kanji": "椛島",
+      "name_kana": "かばしま",
+      "name_romaji": "Kaba Shima",
+      "classification": "Island",
+      "lat": 32.766667,
+      "lon": 128.966667,
+      "org_latitude": "32 ゚ 46’",
+      "org_longitude": "128 ゚ 58’"
+    },
+    {
+      "name_kanji": "樺島",
+      "name_kana": "かばしま",
+      "name_romaji": "Kaba Shima",
+      "classification": "Island",
+      "lat": 32.55,
+      "lon": 129.783333,
+      "org_latitude": "32 ゚ 33’",
+      "org_longitude": "129 ゚ 47’"
+    },
+    {
+      "name_kanji": "加唐島",
+      "name_kana": "かからしま",
+      "name_romaji": "Kakara Shima",
+      "classification": "Island",
+      "lat": 33.583333,
+      "lon": 129.85,
+      "org_latitude": "33 ゚ 35’",
+      "org_longitude": "129 ゚ 51’"
+    },
+    {
+      "name_kanji": "加計呂麻島",
+      "name_kana": "かけろまじま",
+      "name_romaji": "Kakeroma Jima",
+      "classification": "Island",
+      "lat": 28.1,
+      "lon": 129.233333,
+      "org_latitude": "28 ゚ 06’",
+      "org_longitude": "129 ゚ 14’"
+    },
+    {
+      "name_kanji": "鹿久居島",
+      "name_kana": "かくいしま",
+      "name_romaji": "Kakui Shima",
+      "classification": "Island",
+      "lat": 34.7,
+      "lon": 134.283333,
+      "org_latitude": "34 ゚ 42’",
+      "org_longitude": "134 ゚ 17’"
+    },
+    {
+      "name_kanji": "神島",
+      "name_kana": "かみじま",
+      "name_romaji": "Kami Jima",
+      "classification": "Island",
+      "lat": 34.533333,
+      "lon": 136.966667,
+      "org_latitude": "34 ゚ 32’",
+      "org_longitude": "136 ゚ 58’"
+    },
+    {
+      "name_kanji": "上阿値賀島",
+      "name_kana": "かみあじかしま",
+      "name_romaji": "Kamiajika Shima",
+      "classification": "Island",
+      "lat": 33.233333,
+      "lon": 129.316667,
+      "org_latitude": "33 ゚ 14’",
+      "org_longitude": "129 ゚ 19’"
+    },
+    {
+      "name_kanji": "上蒲刈島",
+      "name_kana": "かみかまがりじま",
+      "name_romaji": "Kamikamagari Jima",
+      "classification": "Island",
+      "lat": 34.183333,
+      "lon": 132.7,
+      "org_latitude": "34 ゚ 11’",
+      "org_longitude": "132 ゚ 42’"
+    },
+    {
+      "name_kanji": "上甑島",
+      "name_kana": "かみこしきじま",
+      "name_romaji": "Kamikoshiki Jima",
+      "classification": "Island",
+      "lat": 31.833333,
+      "lon": 129.833333,
+      "org_latitude": "31 ゚ 50’",
+      "org_longitude": "129 ゚ 50’"
+    },
+    {
+      "name_kanji": "上ノ根島",
+      "name_kana": "かみのねじま",
+      "name_romaji": "Kaminone Jima",
+      "classification": "Island",
+      "lat": 28.833333,
+      "lon": 128.983333,
+      "org_latitude": "28 ゚ 50’",
+      "org_longitude": "128 ゚ 59’"
+    },
+    {
+      "name_kanji": "上ノ島",
+      "name_kana": "かみのしま",
+      "name_romaji": "Kaminoshima",
+      "classification": "Island",
+      "lat": 30.85,
+      "lon": 129.45,
+      "org_latitude": "30 ゚ 51’",
+      "org_longitude": "129 ゚ 27’"
+    },
+    {
+      "name_kanji": "上島",
+      "name_kana": "かみしま",
+      "name_romaji": "Kamishima",
+      "classification": "Island",
+      "lat": 32.433333,
+      "lon": 130.316667,
+      "org_latitude": "32 ゚ 26’",
+      "org_longitude": "130 ゚ 19’"
+    },
+    {
+      "name_kanji": "神山島",
+      "name_kana": "かみやまじま",
+      "name_romaji": "Kamiyama Jima",
+      "classification": "Island",
+      "lat": 26.25,
+      "lon": 127.566667,
+      "org_latitude": "26 ゚ 15’",
+      "org_longitude": "127 ゚ 34’"
+    },
+    {
+      "name_kanji": "鷗島",
+      "name_kana": "かもめじま",
+      "name_romaji": "Kamome Jima",
+      "classification": "Island",
+      "lat": 41.866667,
+      "lon": 140.1,
+      "org_latitude": "41 ゚ 52’",
+      "org_longitude": "140 ゚ 06’"
+    },
+    {
+      "name_kanji": "冠島",
+      "name_kana": "かんむりじま",
+      "name_romaji": "Kanmuri Jima",
+      "classification": "Island",
+      "lat": 35.666667,
+      "lon": 135.433333,
+      "org_latitude": "35 ゚ 40’",
+      "org_longitude": "135 ゚ 26’"
+    },
+    {
+      "name_kanji": "笠戸島",
+      "name_kana": "かさどしま",
+      "name_romaji": "Kasado Shima",
+      "classification": "Island",
+      "lat": 33.933333,
+      "lon": 131.816667,
+      "org_latitude": "33 ゚ 56’",
+      "org_longitude": "131 ゚ 49’"
+    },
+    {
+      "name_kanji": "嶮暮帰島",
+      "name_kana": "けんぼっけとう",
+      "name_romaji": "Kenbokke To",
+      "classification": "Island",
+      "lat": 43.05,
+      "lon": 145.1,
+      "org_latitude": "43 ゚ 03’",
+      "org_longitude": "145 ゚ 06’"
+    },
+    {
+      "name_kanji": "喜界島",
+      "name_kana": "きかいしま",
+      "name_romaji": "Kikai Shima",
+      "classification": "Island",
+      "lat": 28.333333,
+      "lon": 129.983333,
+      "org_latitude": "28 ゚ 20’",
+      "org_longitude": "129 ゚ 59’"
+    },
+    {
+      "name_kanji": "金華山",
+      "name_kana": "きんかさん",
+      "name_romaji": "Kinkasan",
+      "classification": "Island",
+      "lat": 38.283333,
+      "lon": 141.566667,
+      "org_latitude": "38 ゚ 17’",
+      "org_longitude": "141 ゚ 34’"
+    },
+    {
+      "name_kanji": "北大東島",
+      "name_kana": "きただいとうじま",
+      "name_romaji": "Kitadaito Jima",
+      "classification": "Island",
+      "lat": 25.933333,
+      "lon": 131.25,
+      "org_latitude": "25 ゚ 56’",
+      "org_longitude": "131 ゚ 15’"
+    },
+    {
+      "name_kanji": "北木島",
+      "name_kana": "きたぎしま",
+      "name_romaji": "Kitagi Shima",
+      "classification": "Island",
+      "lat": 34.366667,
+      "lon": 133.516667,
+      "org_latitude": "34 ゚ 22’",
+      "org_longitude": "133 ゚ 31’"
+    },
+    {
+      "name_kanji": "北硫黄島",
+      "name_kana": "きたいおうとう",
+      "name_romaji": "Kitaio To",
+      "classification": "Island",
+      "lat": 25.433333,
+      "lon": 141.266667,
+      "org_latitude": "25 ゚ 26’",
+      "org_longitude": "141 ゚ 16’"
+    },
+    {
+      "name_kanji": "北之島",
+      "name_kana": "きたのしま",
+      "name_romaji": "Kitanoshima",
+      "classification": "Island",
+      "lat": 27.7,
+      "lon": 142.083333,
+      "org_latitude": "27 ゚ 42’",
+      "org_longitude": "142 ゚ 05’"
+    },
+    {
+      "name_kanji": "小宝島",
+      "name_kana": "こだからじま",
+      "name_romaji": "Kodakara Jima",
+      "classification": "Island",
+      "lat": 29.216667,
+      "lon": 129.316667,
+      "org_latitude": "29 ゚ 13’",
+      "org_longitude": "129 ゚ 19’"
+    },
+    {
+      "name_kanji": "小臥蛇島",
+      "name_kana": "こがじゃじま",
+      "name_romaji": "Kogaja Jima",
+      "classification": "Island",
+      "lat": 29.883333,
+      "lon": 129.6,
+      "org_latitude": "29 ゚ 53’",
+      "org_longitude": "129 ゚ 36’"
+    },
+    {
+      "name_kanji": "小浜島",
+      "name_kana": "こはまじま",
+      "name_romaji": "Kohama Jima",
+      "classification": "Island",
+      "lat": 24.316667,
+      "lon": 123.966667,
+      "org_latitude": "24 ゚ 19’",
+      "org_longitude": "123 ゚ 58’"
+    },
+    {
+      "name_kanji": "小島",
+      "name_kana": "こじま",
+      "name_romaji": "Kojima",
+      "classification": "Island",
+      "lat": 41.35,
+      "lon": 139.783333,
+      "org_latitude": "41 ゚ 21’",
+      "org_longitude": "139 ゚ 47’"
+    },
+    {
+      "name_kanji": "古志岐島",
+      "name_kana": "こしきじま",
+      "name_romaji": "Koshiki Jima",
+      "classification": "Island",
+      "lat": 33.283333,
+      "lon": 129.166667,
+      "org_latitude": "33 ゚ 17’",
+      "org_longitude": "129 ゚ 10’"
+    },
+    {
+      "name_kanji": "小島",
+      "name_kana": "こしま",
+      "name_romaji": "Koshima",
+      "classification": "Island",
+      "lat": 29.216667,
+      "lon": 129.333333,
+      "org_latitude": "29 ゚ 13’",
+      "org_longitude": "129 ゚ 20’"
+    },
+    {
+      "name_kanji": "神津島",
+      "name_kana": "こうづしま",
+      "name_romaji": "Kozu Shima",
+      "classification": "Island",
+      "lat": 34.216667,
+      "lon": 139.133333,
+      "org_latitude": "34 ゚ 13’",
+      "org_longitude": "139 ゚ 08’"
+    },
+    {
+      "name_kanji": "久場島",
+      "name_kana": "くばしま",
+      "name_romaji": "Kuba Shima",
+      "classification": "Island",
+      "lat": 25.916667,
+      "lon": 123.683333,
+      "org_latitude": "25 ゚ 55’",
+      "org_longitude": "123 ゚ 41’"
+    },
+    {
+      "name_kanji": "久場島",
+      "name_kana": "くばしま",
+      "name_romaji": "Kuba Shima",
+      "classification": "Island",
+      "lat": 26.166667,
+      "lon": 127.216667,
+      "org_latitude": "26 ゚ 10’",
+      "org_longitude": "127 ゚ 13’"
+    },
+    {
+      "name_kanji": "口永良部島",
+      "name_kana": "くちのえらぶじま",
+      "name_romaji": "Kuchinoerabu Jima",
+      "classification": "Island",
+      "lat": 30.483333,
+      "lon": 130.183333,
+      "org_latitude": "30 ゚ 29’",
+      "org_longitude": "130 ゚ 11’"
+    },
+    {
+      "name_kanji": "口之島",
+      "name_kana": "くちのしま",
+      "name_romaji": "Kuchinoshima",
+      "classification": "Island",
+      "lat": 29.966667,
+      "lon": 129.9,
+      "org_latitude": "29 ゚ 58’",
+      "org_longitude": "129 ゚ 54’"
+    },
+    {
+      "name_kanji": "久高島",
+      "name_kana": "くだかじま",
+      "name_romaji": "Kudaka Jima",
+      "classification": "Island",
+      "lat": 26.15,
+      "lon": 127.883333,
+      "org_latitude": "26 ゚ 09’",
+      "org_longitude": "127 ゚ 53’"
+    },
+    {
+      "name_kanji": "久米島",
+      "name_kana": "くめじま",
+      "name_romaji": "Kume Jima",
+      "classification": "Island",
+      "lat": 26.35,
+      "lon": 126.75,
+      "org_latitude": "26 ゚ 21’",
+      "org_longitude": "126 ゚ 45’"
+    },
+    {
+      "name_kanji": "国後島",
+      "name_kana": "くなしりとう",
+      "name_romaji": "Kunashiri To",
+      "classification": "Island",
+      "lat": 44.1,
+      "lon": 145.783333,
+      "org_latitude": "44 ゚ 06’",
+      "org_longitude": "145 ゚ 47’"
+    },
+    {
+      "name_kanji": "倉橋島",
+      "name_kana": "くらはしじま",
+      "name_romaji": "Kurahashi Jima",
+      "classification": "Island",
+      "lat": 34.133333,
+      "lon": 132.516667,
+      "org_latitude": "34 ゚ 08’",
+      "org_longitude": "132 ゚ 31’"
+    },
+    {
+      "name_kanji": "来間島",
+      "name_kana": "くりまじま",
+      "name_romaji": "Kurima Jima",
+      "classification": "Island",
+      "lat": 24.716667,
+      "lon": 125.233333,
+      "org_latitude": "24 ゚ 43’",
+      "org_longitude": "125 ゚ 14’"
+    },
+    {
+      "name_kanji": "黒島",
+      "name_kana": "くろしま",
+      "name_romaji": "Kuroshima",
+      "classification": "Island",
+      "lat": 24.216667,
+      "lon": 124,
+      "org_latitude": "24 ゚ 13’",
+      "org_longitude": "124 ゚ 00’"
+    },
+    {
+      "name_kanji": "黒島",
+      "name_kana": "くろしま",
+      "name_romaji": "Kuroshima",
+      "classification": "Island",
+      "lat": 30.816667,
+      "lon": 129.916667,
+      "org_latitude": "30 ゚ 49’",
+      "org_longitude": "129 ゚ 55’"
+    },
+    {
+      "name_kanji": "黒島",
+      "name_kana": "くろしま",
+      "name_romaji": "Kuroshima",
+      "classification": "Island",
+      "lat": 32.583333,
+      "lon": 128.816667,
+      "org_latitude": "32 ゚ 35’",
+      "org_longitude": "128 ゚ 49’"
+    },
+    {
+      "name_kanji": "黒島",
+      "name_kana": "くろしま",
+      "name_romaji": "Kuroshima",
+      "classification": "Island",
+      "lat": 33.133333,
+      "lon": 129.533333,
+      "org_latitude": "33 ゚ 08’",
+      "org_longitude": "129 ゚ 32’"
+    },
+    {
+      "name_kanji": "黒島",
+      "name_kana": "くろしま",
+      "name_romaji": "Kuroshima",
+      "classification": "Island",
+      "lat": 34.3,
+      "lon": 129.383333,
+      "org_latitude": "34 ゚ 18’",
+      "org_longitude": "129 ゚ 23’"
+    },
+    {
+      "name_kanji": "久多島",
+      "name_kana": "くたしま",
+      "name_romaji": "Kuta Shima",
+      "classification": "Island",
+      "lat": 31.533333,
+      "lon": 130.216667,
+      "org_latitude": "31 ゚ 32’",
+      "org_longitude": "130 ゚ 13’"
+    },
+    {
+      "name_kanji": "久六島",
+      "name_kana": "きゅうろくじま",
+      "name_romaji": "Kyuroku Jima",
+      "classification": "Island",
+      "lat": 40.516667,
+      "lon": 139.5,
+      "org_latitude": "40 ゚ 31’",
+      "org_longitude": "139 ゚ 30’"
+    },
+    {
+      "name_kanji": "馬渡島",
+      "name_kana": "まだらしま",
+      "name_romaji": "Madara Shima",
+      "classification": "Island",
+      "lat": 33.566667,
+      "lon": 129.75,
+      "org_latitude": "33 ゚ 34’",
+      "org_longitude": "129 ゚ 45’"
+    },
+    {
+      "name_kanji": "前島",
+      "name_kana": "まえしま",
+      "name_romaji": "Maeshima",
+      "classification": "Island",
+      "lat": 26.2,
+      "lon": 127.433333,
+      "org_latitude": "26 ゚ 12’",
+      "org_longitude": "127 ゚ 26’"
+    },
+    {
+      "name_kanji": "馬毛島",
+      "name_kana": "まげしま",
+      "name_romaji": "Mage Shima",
+      "classification": "Island",
+      "lat": 30.733333,
+      "lon": 130.85,
+      "org_latitude": "30 ゚ 44’",
+      "org_longitude": "130 ゚ 51’"
+    },
+    {
+      "name_kanji": "孫島",
+      "name_kana": "まごじま",
+      "name_romaji": "Mago Jima",
+      "classification": "Island",
+      "lat": 27.183333,
+      "lon": 142.183333,
+      "org_latitude": "27 ゚ 11’",
+      "org_longitude": "142 ゚ 11’"
+    },
+    {
+      "name_kanji": "松島",
+      "name_kana": "まつしま",
+      "name_romaji": "Matsu Shima",
+      "classification": "Island",
+      "lat": 32.916667,
+      "lon": 129.6,
+      "org_latitude": "32 ゚ 55’",
+      "org_longitude": "129 ゚ 36’"
+    },
+    {
+      "name_kanji": "松島",
+      "name_kana": "まつしま",
+      "name_romaji": "Matsu Shima",
+      "classification": "Island",
+      "lat": 36.1,
+      "lon": 133.15,
+      "org_latitude": "36 ゚ 06’",
+      "org_longitude": "133 ゚ 09’"
+    },
+    {
+      "name_kanji": "女島",
+      "name_kana": "めしま",
+      "name_romaji": "Me Shima",
+      "classification": "Island",
+      "lat": 31.983333,
+      "lon": 128.35,
+      "org_latitude": "31 ゚ 59’",
+      "org_longitude": "128 ゚ 21’"
+    },
+    {
+      "name_kanji": "女木島",
+      "name_kana": "めぎじま",
+      "name_romaji": "Megi Jima",
+      "classification": "Island",
+      "lat": 34.383333,
+      "lon": 134.05,
+      "org_latitude": "34 ゚ 23’",
+      "org_longitude": "134 ゚ 03’"
+    },
+    {
+      "name_kanji": "姪島",
+      "name_kana": "めいじま",
+      "name_romaji": "Mei Jima",
+      "classification": "Island",
+      "lat": 26.55,
+      "lon": 142.216667,
+      "org_latitude": "26 ゚ 33’",
+      "org_longitude": "142 ゚ 13’"
+    },
+    {
+      "name_kanji": "見島",
+      "name_kana": "みしま",
+      "name_romaji": "Mi Shima",
+      "classification": "Island",
+      "lat": 34.766667,
+      "lon": 131.133333,
+      "org_latitude": "34 ゚ 46’",
+      "org_longitude": "131 ゚ 08’"
+    },
+    {
+      "name_kanji": "神子元島",
+      "name_kana": "みこもとじま",
+      "name_romaji": "Mikomoto Jima",
+      "classification": "Island",
+      "lat": 34.566667,
+      "lon": 138.933333,
+      "org_latitude": "34 ゚ 34’",
+      "org_longitude": "138 ゚ 56’"
+    },
+    {
+      "name_kanji": "御蔵島",
+      "name_kana": "みくらじま",
+      "name_romaji": "Mikura Jima",
+      "classification": "Island",
+      "lat": 33.85,
+      "lon": 139.583333,
+      "org_latitude": "33 ゚ 51’",
+      "org_longitude": "139 ゚ 35’"
+    },
+    {
+      "name_kanji": "南大東島",
+      "name_kana": "みなみだいとうじま",
+      "name_romaji": "Minamidaito Jima",
+      "classification": "Island",
+      "lat": 25.833333,
+      "lon": 131.266667,
+      "org_latitude": "25 ゚ 50’",
+      "org_longitude": "131 ゚ 16’"
+    },
+    {
+      "name_kanji": "南硫黄島",
+      "name_kana": "みなみいおうとう",
+      "name_romaji": "Minamiio To",
+      "classification": "Island",
+      "lat": 24.233333,
+      "lon": 141.45,
+      "org_latitude": "24 ゚ 14’",
+      "org_longitude": "141 ゚ 27’"
+    },
+    {
+      "name_kanji": "南島",
+      "name_kana": "みなみじま",
+      "name_romaji": "Minamijima",
+      "classification": "Island",
+      "lat": 27.033333,
+      "lon": 142.166667,
+      "org_latitude": "27 ゚ 02’",
+      "org_longitude": "142 ゚ 10’"
+    },
+    {
+      "name_kanji": "南鳥島",
+      "name_kana": "みなみとりしま",
+      "name_romaji": "Minamitori Shima",
+      "classification": "Island",
+      "lat": 24.283333,
+      "lon": 153.966667,
+      "org_latitude": "24 ゚ 17’",
+      "org_longitude": "153 ゚ 58’"
+    },
+    {
+      "name_kanji": "水納島",
+      "name_kana": "みんなしま",
+      "name_romaji": "Minna Shima",
+      "classification": "Island",
+      "lat": 24.733333,
+      "lon": 124.683333,
+      "org_latitude": "24 ゚ 44’",
+      "org_longitude": "124 ゚ 41’"
+    },
+    {
+      "name_kanji": "三ツ島",
+      "name_kana": "みつしま",
+      "name_romaji": "Mitsushima",
+      "classification": "Island",
+      "lat": 34.716667,
+      "lon": 129.433333,
+      "org_latitude": "34 ゚ 43’",
+      "org_longitude": "129 ゚ 26’"
+    },
+    {
+      "name_kanji": "宮城島",
+      "name_kana": "みやぎじま",
+      "name_romaji": "Miyagi Jima",
+      "classification": "Island",
+      "lat": 26.35,
+      "lon": 127.95,
+      "org_latitude": "26 ゚ 21’",
+      "org_longitude": "127 ゚ 57’"
+    },
+    {
+      "name_kanji": "三宅島",
+      "name_kana": "みやけじま",
+      "name_romaji": "Miyake Jima",
+      "classification": "Island",
+      "lat": 34.066667,
+      "lon": 139.5,
+      "org_latitude": "34 ゚ 04’",
+      "org_longitude": "139 ゚ 30’"
+    },
+    {
+      "name_kanji": "宮古島",
+      "name_kana": "みやこじま",
+      "name_romaji": "Miyako Jima",
+      "classification": "Island",
+      "lat": 24.766667,
+      "lon": 125.283333,
+      "org_latitude": "24 ゚ 46’",
+      "org_longitude": "125 ゚ 17’"
+    },
+    {
+      "name_kanji": "水ノ子島",
+      "name_kana": "みずのこじま",
+      "name_romaji": "Mizunoko Jima",
+      "classification": "Island",
+      "lat": 33.033333,
+      "lon": 132.166667,
+      "org_latitude": "33 ゚ 02’",
+      "org_longitude": "132 ゚ 10’"
+    },
+    {
+      "name_kanji": "向島",
+      "name_kana": "むこうじま",
+      "name_romaji": "Muko Jima",
+      "classification": "Island",
+      "lat": 26.583333,
+      "lon": 142.116667,
+      "org_latitude": "26 ゚ 35’",
+      "org_longitude": "142 ゚ 07’"
+    },
+    {
+      "name_kanji": "聟島",
+      "name_kana": "むこじま",
+      "name_romaji": "Muko Jima",
+      "classification": "Island",
+      "lat": 27.683333,
+      "lon": 142.116667,
+      "org_latitude": "27 ゚ 41’",
+      "org_longitude": "142 ゚ 07’"
+    },
+    {
+      "name_kanji": "室津島",
+      "name_kana": "むろつしま",
+      "name_romaji": "Murotsu Shima",
+      "classification": "Island",
+      "lat": 42.016667,
+      "lon": 139.45,
+      "org_latitude": "42 ゚ 01’",
+      "org_longitude": "139 ゚ 27’"
+    },
+    {
+      "name_kanji": "長島",
+      "name_kana": "ながしま",
+      "name_romaji": "Nagashima",
+      "classification": "Island",
+      "lat": 32.166667,
+      "lon": 130.15,
+      "org_latitude": "32 ゚ 10’",
+      "org_longitude": "130 ゚ 09’"
+    },
+    {
+      "name_kanji": "長島",
+      "name_kana": "ながしま",
+      "name_romaji": "Nagashima",
+      "classification": "Island",
+      "lat": 33.816667,
+      "lon": 132.066667,
+      "org_latitude": "33 ゚ 49’",
+      "org_longitude": "132 ゚ 04’"
+    },
+    {
+      "name_kanji": "長島",
+      "name_kana": "ながしま",
+      "name_romaji": "Nagashima",
+      "classification": "Island",
+      "lat": 34.666667,
+      "lon": 134.216667,
+      "org_latitude": "34 ゚ 40’",
+      "org_longitude": "134 ゚ 13’"
+    },
+    {
+      "name_kanji": "中通島",
+      "name_kana": "なかどおりしま",
+      "name_romaji": "Nakadori Shima",
+      "classification": "Island",
+      "lat": 32.966667,
+      "lon": 129.083333,
+      "org_latitude": "32 ゚ 58’",
+      "org_longitude": "129 ゚ 05’"
+    },
+    {
+      "name_kanji": "中島",
+      "name_kana": "なかじま",
+      "name_romaji": "Nakajima",
+      "classification": "Island",
+      "lat": 33.966667,
+      "lon": 132.6,
+      "org_latitude": "33 ゚ 58’",
+      "org_longitude": "132 ゚ 36’"
+    },
+    {
+      "name_kanji": "中島",
+      "name_kana": "なかじま",
+      "name_romaji": "Nakajima",
+      "classification": "Island",
+      "lat": 42.583333,
+      "lon": 140.85,
+      "org_latitude": "42 ゚ 35’",
+      "org_longitude": "140 ゚ 51’"
+    },
+    {
+      "name_kanji": "中甑島",
+      "name_kana": "なかこしきじま",
+      "name_romaji": "Nakakoshiki Jima",
+      "classification": "Island",
+      "lat": 31.783333,
+      "lon": 129.816667,
+      "org_latitude": "31 ゚ 47’",
+      "org_longitude": "129 ゚ 49’"
+    },
+    {
+      "name_kanji": "中ノ島",
+      "name_kana": "なかのしま",
+      "name_romaji": "Nakanoshima",
+      "classification": "Island",
+      "lat": 36.066667,
+      "lon": 133.083333,
+      "org_latitude": "36 ゚ 04’",
+      "org_longitude": "133 ゚ 05’"
+    },
+    {
+      "name_kanji": "中之島",
+      "name_kana": "なかのしま",
+      "name_romaji": "Nakanoshima",
+      "classification": "Island",
+      "lat": 29.833333,
+      "lon": 129.85,
+      "org_latitude": "29 ゚ 50’",
+      "org_longitude": "129 ゚ 51’"
+    },
+    {
+      "name_kanji": "仲ノ御神島",
+      "name_kana": "なかのうがんじま",
+      "name_romaji": "Nakanougan Jima",
+      "classification": "Island",
+      "lat": 24.183333,
+      "lon": 123.55,
+      "org_latitude": "24 ゚ 11’",
+      "org_longitude": "123 ゚ 33’"
+    },
+    {
+      "name_kanji": "媒島",
+      "name_kana": "なこうどじま",
+      "name_romaji": "Nakodo Jima",
+      "classification": "Island",
+      "lat": 27.616667,
+      "lon": 142.166667,
+      "org_latitude": "27 ゚ 37’",
+      "org_longitude": "142 ゚ 10’"
+    },
+    {
+      "name_kanji": "七ツ島",
+      "name_kana": "ななつじま",
+      "name_romaji": "Nanatsujima",
+      "classification": "Island",
+      "lat": 37.583333,
+      "lon": 136.866667,
+      "org_latitude": "37 ゚ 35’",
+      "org_longitude": "136 ゚ 52’"
+    },
+    {
+      "name_kanji": "奈留島",
+      "name_kana": "なるしま",
+      "name_romaji": "Naru Shima",
+      "classification": "Island",
+      "lat": 32.833333,
+      "lon": 128.916667,
+      "org_latitude": "32 ゚ 50’",
+      "org_longitude": "128 ゚ 55’"
+    },
+    {
+      "name_kanji": "新島",
+      "name_kana": "にいじま",
+      "name_romaji": "Niijima",
+      "classification": "Island",
+      "lat": 34.366667,
+      "lon": 139.25,
+      "org_latitude": "34 ゚ 22’",
+      "org_longitude": "139 ゚ 15’"
+    },
+    {
+      "name_kanji": "西島",
+      "name_kana": "にしじま",
+      "name_romaji": "Nishijima",
+      "classification": "Island",
+      "lat": 34.633333,
+      "lon": 134.466667,
+      "org_latitude": "34 ゚ 38’",
+      "org_longitude": "134 ゚ 28’"
+    },
+    {
+      "name_kanji": "西ノ島",
+      "name_kana": "にしのしま",
+      "name_romaji": "Nishinoshima",
+      "classification": "Island",
+      "lat": 36.1,
+      "lon": 132.983333,
+      "org_latitude": "36 ゚ 06’",
+      "org_longitude": "132 ゚ 59’"
+    },
+    {
+      "name_kanji": "西之島",
+      "name_kana": "にしのしま",
+      "name_romaji": "Nishinoshima",
+      "classification": "Island",
+      "lat": 27.233333,
+      "lon": 140.866667,
+      "org_latitude": "27 ゚ 14’",
+      "org_longitude": "140 ゚ 52’"
+    },
+    {
+      "name_kanji": "野崎島",
+      "name_kana": "のざきしま",
+      "name_romaji": "Nozaki Shima",
+      "classification": "Island",
+      "lat": 33.183333,
+      "lon": 129.116667,
+      "org_latitude": "33 ゚ 11’",
+      "org_longitude": "129 ゚ 07’"
+    },
+    {
+      "name_kanji": "沼島",
+      "name_kana": "ぬしま",
+      "name_romaji": "Nu Shima",
+      "classification": "Island",
+      "lat": 34.15,
+      "lon": 134.816667,
+      "org_latitude": "34 ゚ 09’",
+      "org_longitude": "134 ゚ 49’"
+    },
+    {
+      "name_kanji": "怒和島",
+      "name_kana": "ぬわじま",
+      "name_romaji": "Nuwa Jima",
+      "classification": "Island",
+      "lat": 33.966667,
+      "lon": 132.533333,
+      "org_latitude": "33 ゚ 58’",
+      "org_longitude": "132 ゚ 32’"
+    },
+    {
+      "name_kanji": "男島",
+      "name_kana": "おしま",
+      "name_romaji": "O Shima",
+      "classification": "Island",
+      "lat": 32.033333,
+      "lon": 128.383333,
+      "org_latitude": "32 ゚ 02’",
+      "org_longitude": "128 ゚ 23’"
+    },
+    {
+      "name_kanji": "雄島",
+      "name_kana": "おしま",
+      "name_romaji": "O Shima",
+      "classification": "Island",
+      "lat": 36.25,
+      "lon": 136.116667,
+      "org_latitude": "36 ゚ 15’",
+      "org_longitude": "136 ゚ 07’"
+    },
+    {
+      "name_kanji": "大毛島",
+      "name_kana": "おおげじま",
+      "name_romaji": "Oge Jima",
+      "classification": "Island",
+      "lat": 34.2,
+      "lon": 134.616667,
+      "org_latitude": "34 ゚ 12’",
+      "org_longitude": "134 ゚ 37’"
+    },
+    {
+      "name_kanji": "男木島",
+      "name_kana": "おぎじま",
+      "name_romaji": "Ogi Jima",
+      "classification": "Island",
+      "lat": 34.416667,
+      "lon": 134.066667,
+      "org_latitude": "34 ゚ 25’",
+      "org_longitude": "134 ゚ 04’"
+    },
+    {
+      "name_kanji": "大蟇島",
+      "name_kana": "おおひきしま",
+      "name_romaji": "Ohiki Shima",
+      "classification": "Island",
+      "lat": 32.85,
+      "lon": 129.55,
+      "org_latitude": "32 ゚ 51’",
+      "org_longitude": "129 ゚ 33’"
+    },
+    {
+      "name_kanji": "小値賀島",
+      "name_kana": "おじかじま",
+      "name_romaji": "Ojika Jima",
+      "classification": "Island",
+      "lat": 33.183333,
+      "lon": 129.033333,
+      "org_latitude": "33 ゚ 11’",
+      "org_longitude": "129 ゚ 02’"
+    },
+    {
+      "name_kanji": "沖大東島",
+      "name_kana": "おきだいとうじま",
+      "name_romaji": "Okidaito Jima",
+      "classification": "Island",
+      "lat": 24.45,
+      "lon": 131.016667,
+      "org_latitude": "24 ゚ 27’",
+      "org_longitude": "131 ゚ 01’"
+    },
+    {
+      "name_kanji": "沖縄島",
+      "name_kana": "おきなわじま",
+      "name_romaji": "Okinawa Jima",
+      "classification": "Island",
+      "lat": 26.466667,
+      "lon": 128.016667,
+      "org_latitude": "26 ゚ 28’",
+      "org_longitude": "128 ゚ 01’"
+    },
+    {
+      "name_kanji": "沖永良部島",
+      "name_kana": "おきのえらぶじま",
+      "name_romaji": "Okinoerabu Jima",
+      "classification": "Island",
+      "lat": 27.366667,
+      "lon": 128.566667,
+      "org_latitude": "27 ゚ 22’",
+      "org_longitude": "128 ゚ 34’"
+    },
+    {
+      "name_kanji": "沖ノ島",
+      "name_kana": "おきのしま",
+      "name_romaji": "Okinoshima",
+      "classification": "Island",
+      "lat": 32.716667,
+      "lon": 132.533333,
+      "org_latitude": "32 ゚ 43’",
+      "org_longitude": "132 ゚ 32’"
+    },
+    {
+      "name_kanji": "沖ノ島",
+      "name_kana": "おきのしま",
+      "name_romaji": "Okinoshima",
+      "classification": "Island",
+      "lat": 34.1,
+      "lon": 135.066667,
+      "org_latitude": "34 ゚ 06’",
+      "org_longitude": "135 ゚ 04’"
+    },
+    {
+      "name_kanji": "沖島",
+      "name_kana": "おきのしま",
+      "name_romaji": "Okinoshima",
+      "classification": "Island",
+      "lat": 34.233333,
+      "lon": 130.1,
+      "org_latitude": "34 ゚ 14’",
+      "org_longitude": "130 ゚ 06’"
+    },
+    {
+      "name_kanji": "沖島",
+      "name_kana": "おきのしま",
+      "name_romaji": "Okinoshima",
+      "classification": "Island",
+      "lat": 35.2,
+      "lon": 136.05,
+      "org_latitude": "35 ゚ 12’",
+      "org_longitude": "136 ゚ 03’"
+    },
+    {
+      "name_kanji": "沖ノ鳥島",
+      "name_kana": "おきのとりしま",
+      "name_romaji": "Okinotori Shima",
+      "classification": "Island",
+      "lat": 20.416667,
+      "lon": 136.066667,
+      "org_latitude": "20 ゚ 25’",
+      "org_longitude": "136 ゚ 04’"
+    },
+    {
+      "name_kanji": "奥尻島",
+      "name_kana": "おくしりとう",
+      "name_romaji": "Okushiri To",
+      "classification": "Island",
+      "lat": 42.133333,
+      "lon": 139.45,
+      "org_latitude": "42 ゚ 08’",
+      "org_longitude": "139 ゚ 27’"
+    },
+    {
+      "name_kanji": "青海島",
+      "name_kana": "おうみしま",
+      "name_romaji": "Omi Shima",
+      "classification": "Island",
+      "lat": 34.4,
+      "lon": 131.183333,
+      "org_latitude": "34 ゚ 24’",
+      "org_longitude": "131 ゚ 11’"
+    },
+    {
+      "name_kanji": "恩馳島",
+      "name_kana": "おんばせじま",
+      "name_romaji": "Onbase Jima",
+      "classification": "Island",
+      "lat": 34.166667,
+      "lon": 139.05,
+      "org_latitude": "34 ゚ 10’",
+      "org_longitude": "139 ゚ 03’"
+    },
+    {
+      "name_kanji": "大野原島",
+      "name_kana": "おおのはらじま",
+      "name_romaji": "Onohara Jima",
+      "classification": "Island",
+      "lat": 34.05,
+      "lon": 139.366667,
+      "org_latitude": "34 ゚ 03’",
+      "org_longitude": "139 ゚ 22’"
+    },
+    {
+      "name_kanji": "小呂島",
+      "name_kana": "おろしま",
+      "name_romaji": "Oro Shima",
+      "classification": "Island",
+      "lat": 33.85,
+      "lon": 130.033333,
+      "org_latitude": "33 ゚ 51’",
+      "org_longitude": "130 ゚ 02’"
+    },
+    {
+      "name_kanji": "大崎上島",
+      "name_kana": "おおさきかみじま",
+      "name_romaji": "Osaki-kamijima",
+      "classification": "Island",
+      "lat": 34.216667,
+      "lon": 132.866667,
+      "org_latitude": "34 ゚ 13’",
+      "org_longitude": "132 ゚ 52’"
+    },
+    {
+      "name_kanji": "大崎下島",
+      "name_kana": "おおさきしもじま",
+      "name_romaji": "Osaki-shimojima",
+      "classification": "Island",
+      "lat": 34.15,
+      "lon": 132.816667,
+      "org_latitude": "34 ゚ 09’",
+      "org_longitude": "132 ゚ 49’"
+    },
+    {
+      "name_kanji": "黄島",
+      "name_kana": "おうしま",
+      "name_romaji": "Oshima",
+      "classification": "Island",
+      "lat": 32.566667,
+      "lon": 128.883333,
+      "org_latitude": "32 ゚ 34’",
+      "org_longitude": "128 ゚ 53’"
+    },
+    {
+      "name_kanji": "大島",
+      "name_kana": "おおしま",
+      "name_romaji": "Oshima",
+      "classification": "Island",
+      "lat": 28.3,
+      "lon": 129.333333,
+      "org_latitude": "28 ゚ 18’",
+      "org_longitude": "129 ゚ 20’"
+    },
+    {
+      "name_kanji": "大島",
+      "name_kana": "おおしま",
+      "name_romaji": "Oshima",
+      "classification": "Island",
+      "lat": 31.516667,
+      "lon": 131.416667,
+      "org_latitude": "31 ゚ 31’",
+      "org_longitude": "131 ゚ 25’"
+    },
+    {
+      "name_kanji": "大島",
+      "name_kana": "おおしま",
+      "name_romaji": "Oshima",
+      "classification": "Island",
+      "lat": 32.166667,
+      "lon": 129.966667,
+      "org_latitude": "32 ゚ 10’",
+      "org_longitude": "129 ゚ 58’"
+    },
+    {
+      "name_kanji": "大島",
+      "name_kana": "おおしま",
+      "name_romaji": "Oshima",
+      "classification": "Island",
+      "lat": 33.883333,
+      "lon": 130.4,
+      "org_latitude": "33 ゚ 53’",
+      "org_longitude": "130 ゚ 24’"
+    },
+    {
+      "name_kanji": "大島",
+      "name_kana": "おおしま",
+      "name_romaji": "Oshima",
+      "classification": "Island",
+      "lat": 33.983333,
+      "lon": 133.35,
+      "org_latitude": "33 ゚ 59’",
+      "org_longitude": "133 ゚ 21’"
+    },
+    {
+      "name_kanji": "大島",
+      "name_kana": "おおしま",
+      "name_romaji": "Oshima",
+      "classification": "Island",
+      "lat": 33.616667,
+      "lon": 134.483333,
+      "org_latitude": "33 ゚ 37’",
+      "org_longitude": "134 ゚ 29’"
+    },
+    {
+      "name_kanji": "大島",
+      "name_kana": "おおしま",
+      "name_romaji": "Oshima",
+      "classification": "Island",
+      "lat": 33.466667,
+      "lon": 135.816667,
+      "org_latitude": "33 ゚ 28’",
+      "org_longitude": "135 ゚ 49’"
+    },
+    {
+      "name_kanji": "大島",
+      "name_kana": "おおしま",
+      "name_romaji": "Oshima",
+      "classification": "Island",
+      "lat": 34.5,
+      "lon": 131.4,
+      "org_latitude": "34 ゚ 30’",
+      "org_longitude": "131 ゚ 24’"
+    },
+    {
+      "name_kanji": "大島",
+      "name_kana": "おおしま",
+      "name_romaji": "Oshima",
+      "classification": "Island",
+      "lat": 34.15,
+      "lon": 133.033333,
+      "org_latitude": "34 ゚ 09’",
+      "org_longitude": "133 ゚ 02’"
+    },
+    {
+      "name_kanji": "大島",
+      "name_kana": "おおしま",
+      "name_romaji": "Oshima",
+      "classification": "Island",
+      "lat": 34.733333,
+      "lon": 139.366667,
+      "org_latitude": "34 ゚ 44’",
+      "org_longitude": "139 ゚ 22’"
+    },
+    {
+      "name_kanji": "大島",
+      "name_kana": "おおしま",
+      "name_romaji": "Oshima",
+      "classification": "Island",
+      "lat": 41.5,
+      "lon": 139.333333,
+      "org_latitude": "41 ゚ 30’",
+      "org_longitude": "139 ゚ 20’"
+    },
+    {
+      "name_kanji": "大立島",
+      "name_kana": "おおたてしま",
+      "name_romaji": "Otate Shima",
+      "classification": "Island",
+      "lat": 33,
+      "lon": 129.416667,
+      "org_latitude": "33 ゚ 00’",
+      "org_longitude": "129 ゚ 25’"
+    },
+    {
+      "name_kanji": "弟島",
+      "name_kana": "おとうとじま",
+      "name_romaji": "Ototo Jima",
+      "classification": "Island",
+      "lat": 27.166667,
+      "lon": 142.183333,
+      "org_latitude": "27 ゚ 10’",
+      "org_longitude": "142 ゚ 11’"
+    },
+    {
+      "name_kanji": "大築島",
+      "name_kana": "おおつくしま",
+      "name_romaji": "Otsuku Shima",
+      "classification": "Island",
+      "lat": 32.483333,
+      "lon": 130.483333,
+      "org_latitude": "32 ゚ 29’",
+      "org_longitude": "130 ゚ 29’"
+    },
+    {
+      "name_kanji": "大矢野島",
+      "name_kana": "おおやのしま",
+      "name_romaji": "Oyano Shima",
+      "classification": "Island",
+      "lat": 32.566667,
+      "lon": 130.433333,
+      "org_latitude": "32 ゚ 34’",
+      "org_longitude": "130 ゚ 26’"
+    },
+    {
+      "name_kanji": "礼文島",
+      "name_kana": "れぶんとう",
+      "name_romaji": "Rebun To",
+      "classification": "Island",
+      "lat": 45.4,
+      "lon": 141.016667,
+      "org_latitude": "45 ゚ 24’",
+      "org_longitude": "141 ゚ 01’"
+    },
+    {
+      "name_kanji": "利尻島",
+      "name_kana": "りしりとう",
+      "name_romaji": "Rishiri To",
+      "classification": "Island",
+      "lat": 45.166667,
+      "lon": 141.2,
+      "org_latitude": "45 ゚ 10’",
+      "org_longitude": "141 ゚ 12’"
+    },
+    {
+      "name_kanji": "佐渡島",
+      "name_kana": "さどしま",
+      "name_romaji": "Sado Shima",
+      "classification": "Island",
+      "lat": 38.083333,
+      "lon": 138.3,
+      "org_latitude": "38 ゚ 05’",
+      "org_longitude": "138 ゚ 18’"
+    },
+    {
+      "name_kanji": "嵯峨ノ島",
+      "name_kana": "さがのしま",
+      "name_romaji": "Saganoshima",
+      "classification": "Island",
+      "lat": 32.716667,
+      "lon": 128.583333,
+      "org_latitude": "32 ゚ 43’",
+      "org_longitude": "128 ゚ 35’"
+    },
+    {
+      "name_kanji": "佐久島",
+      "name_kana": "さくしま",
+      "name_romaji": "Saku Shima",
+      "classification": "Island",
+      "lat": 34.716667,
+      "lon": 137.033333,
+      "org_latitude": "34 ゚ 43’",
+      "org_longitude": "137 ゚ 02’"
+    },
+    {
+      "name_kanji": "志発島",
+      "name_kana": "しぼつとう",
+      "name_romaji": "Shibotsu To",
+      "classification": "Island",
+      "lat": 43.5,
+      "lon": 146.116667,
+      "org_latitude": "43 ゚ 30’",
+      "org_longitude": "146 ゚ 07’"
+    },
+    {
+      "name_kanji": "志賀島",
+      "name_kana": "しかのしま",
+      "name_romaji": "Shikanoshima",
+      "classification": "Island",
+      "lat": 33.666667,
+      "lon": 130.283333,
+      "org_latitude": "33 ゚ 40’",
+      "org_longitude": "130 ゚ 17’"
+    },
+    {
+      "name_kanji": "式根島",
+      "name_kana": "しきねじま",
+      "name_romaji": "Shikine Jima",
+      "classification": "Island",
+      "lat": 34.333333,
+      "lon": 139.2,
+      "org_latitude": "34 ゚ 20’",
+      "org_longitude": "139 ゚ 12’"
+    },
+    {
+      "name_kanji": "色丹島",
+      "name_kana": "しこたんとう",
+      "name_romaji": "Shikotan To",
+      "classification": "Island",
+      "lat": 43.8,
+      "lon": 146.733333,
+      "org_latitude": "43 ゚ 48’",
+      "org_longitude": "146 ゚ 44’"
+    },
+    {
+      "name_kanji": "島浦島",
+      "name_kana": "しまうらとう",
+      "name_romaji": "Shimaura To",
+      "classification": "Island",
+      "lat": 32.65,
+      "lon": 131.816667,
+      "org_latitude": "32 ゚ 39’",
+      "org_longitude": "131 ゚ 49’"
+    },
+    {
+      "name_kanji": "島山島",
+      "name_kana": "しまやまじま",
+      "name_romaji": "Shimayama Jima",
+      "classification": "Island",
+      "lat": 32.65,
+      "lon": 128.616667,
+      "org_latitude": "32 ゚ 39’",
+      "org_longitude": "128 ゚ 37’"
+    },
+    {
+      "name_kanji": "下地島",
+      "name_kana": "しもじしま",
+      "name_romaji": "Shimoji Shima",
+      "classification": "Island",
+      "lat": 24.8,
+      "lon": 125.133333,
+      "org_latitude": "24 ゚ 48’",
+      "org_longitude": "125 ゚ 08’"
+    },
+    {
+      "name_kanji": "下甑島",
+      "name_kana": "しもこしきじま",
+      "name_romaji": "Shimokoshiki Jima",
+      "classification": "Island",
+      "lat": 31.683333,
+      "lon": 129.75,
+      "org_latitude": "31 ゚ 41’",
+      "org_longitude": "129 ゚ 45’"
+    },
+    {
+      "name_kanji": "下ノ島",
+      "name_kana": "しものしま",
+      "name_romaji": "Shimonoshima",
+      "classification": "Island",
+      "lat": 30.833333,
+      "lon": 129.433333,
+      "org_latitude": "30 ゚ 50’",
+      "org_longitude": "129 ゚ 26’"
+    },
+    {
+      "name_kanji": "下島",
+      "name_kana": "しもしま",
+      "name_romaji": "Shimoshima",
+      "classification": "Island",
+      "lat": 32.383333,
+      "lon": 130.1,
+      "org_latitude": "32 ゚ 23’",
+      "org_longitude": "130 ゚ 06’"
+    },
+    {
+      "name_kanji": "篠島",
+      "name_kana": "しのじま",
+      "name_romaji": "Shino Jima",
+      "classification": "Island",
+      "lat": 34.666667,
+      "lon": 137,
+      "org_latitude": "34 ゚ 40’",
+      "org_longitude": "137 ゚ 00’"
+    },
+    {
+      "name_kanji": "白瀬",
+      "name_kana": "しろぜ",
+      "name_romaji": "Shiroze",
+      "classification": "Island",
+      "lat": 33.166667,
+      "lon": 128.8,
+      "org_latitude": "33 ゚ 10’",
+      "org_longitude": "128 ゚ 48’"
+    },
+    {
+      "name_kanji": "四阪島",
+      "name_kana": "しさかじま",
+      "name_romaji": "Shisaka Jima",
+      "classification": "Island",
+      "lat": 34.1,
+      "lon": 133.15,
+      "org_latitude": "34 ゚ 06’",
+      "org_longitude": "133 ゚ 09’"
+    },
+    {
+      "name_kanji": "獅子島",
+      "name_kana": "ししじま",
+      "name_romaji": "Shishi Jima",
+      "classification": "Island",
+      "lat": 32.266667,
+      "lon": 130.216667,
+      "org_latitude": "32 ゚ 16’",
+      "org_longitude": "130 ゚ 13’"
+    },
+    {
+      "name_kanji": "小豆島",
+      "name_kana": "しょうどしま",
+      "name_romaji": "Shodo Shima",
+      "classification": "Island",
+      "lat": 34.483333,
+      "lon": 134.233333,
+      "org_latitude": "34 ゚ 29’",
+      "org_longitude": "134 ゚ 14’"
+    },
+    {
+      "name_kanji": "孀婦岩",
+      "name_kana": "そうふがん",
+      "name_romaji": "Sofu Gan",
+      "classification": "Island",
+      "lat": 29.783333,
+      "lon": 140.333333,
+      "org_latitude": "29 ゚ 47’",
+      "org_longitude": "140 ゚ 20’"
+    },
+    {
+      "name_kanji": "菅島",
+      "name_kana": "すがしま",
+      "name_romaji": "Suga Shima",
+      "classification": "Island",
+      "lat": 34.466667,
+      "lon": 136.883333,
+      "org_latitude": "34 ゚ 28’",
+      "org_longitude": "136 ゚ 53’"
+    },
+    {
+      "name_kanji": "水晶島",
+      "name_kana": "すいしょうとう",
+      "name_romaji": "Suisho To",
+      "classification": "Island",
+      "lat": 43.416667,
+      "lon": 145.9,
+      "org_latitude": "43 ゚ 25’",
+      "org_longitude": "145 ゚ 54’"
+    },
+    {
+      "name_kanji": "須美寿島",
+      "name_kana": "すみすじま",
+      "name_romaji": "Sumisu Jima",
+      "classification": "Island",
+      "lat": 31.433333,
+      "lon": 140.033333,
+      "org_latitude": "31 ゚ 26’",
+      "org_longitude": "140 ゚ 02’"
+    },
+    {
+      "name_kanji": "諏訪瀬島",
+      "name_kana": "すわのせじま",
+      "name_romaji": "Suwanose Jima",
+      "classification": "Island",
+      "lat": 29.616667,
+      "lon": 129.683333,
+      "org_latitude": "29 ゚ 37’",
+      "org_longitude": "129 ゚ 41’"
+    },
+    {
+      "name_kanji": "平島",
+      "name_kana": "たいらしま",
+      "name_romaji": "Taira Shima",
+      "classification": "Island",
+      "lat": 29.683333,
+      "lon": 129.533333,
+      "org_latitude": "29 ゚ 41’",
+      "org_longitude": "129 ゚ 32’"
+    },
+    {
+      "name_kanji": "大正島",
+      "name_kana": "たいしょうとう",
+      "name_romaji": "Taisho To",
+      "classification": "Island",
+      "lat": 25.9,
+      "lon": 124.55,
+      "org_latitude": "25 ゚ 54’",
+      "org_longitude": "124 ゚ 33’"
+    },
+    {
+      "name_kanji": "鷹島",
+      "name_kana": "たかしま",
+      "name_romaji": "Taka Shima",
+      "classification": "Island",
+      "lat": 31.433333,
+      "lon": 129.733333,
+      "org_latitude": "31 ゚ 26’",
+      "org_longitude": "129 ゚ 44’"
+    },
+    {
+      "name_kanji": "高井神島",
+      "name_kana": "たかいかみじま",
+      "name_romaji": "Takaikami Jima",
+      "classification": "Island",
+      "lat": 34.183333,
+      "lon": 133.266667,
+      "org_latitude": "34 ゚ 11’",
+      "org_longitude": "133 ゚ 16’"
+    },
+    {
+      "name_kanji": "高見島",
+      "name_kana": "たかみしま",
+      "name_romaji": "Takami Shima",
+      "classification": "Island",
+      "lat": 34.3,
+      "lon": 133.666667,
+      "org_latitude": "34 ゚ 18’",
+      "org_longitude": "133 ゚ 40’"
+    },
+    {
+      "name_kanji": "宝島",
+      "name_kana": "たからじま",
+      "name_romaji": "Takara Jima",
+      "classification": "Island",
+      "lat": 29.133333,
+      "lon": 129.2,
+      "org_latitude": "29 ゚ 08’",
+      "org_longitude": "129 ゚ 12’"
+    },
+    {
+      "name_kanji": "高島",
+      "name_kana": "たかしま",
+      "name_romaji": "Takashima",
+      "classification": "Island",
+      "lat": 33.166667,
+      "lon": 129.583333,
+      "org_latitude": "33 ゚ 10’",
+      "org_longitude": "129 ゚ 35’"
+    },
+    {
+      "name_kanji": "高島",
+      "name_kana": "たかしま",
+      "name_romaji": "Takashima",
+      "classification": "Island",
+      "lat": 34.833333,
+      "lon": 131.816667,
+      "org_latitude": "34 ゚ 50’",
+      "org_longitude": "131 ゚ 49’"
+    },
+    {
+      "name_kanji": "竹島",
+      "name_kana": "たけしま",
+      "name_romaji": "Take Shima",
+      "classification": "Island",
+      "lat": 30.783333,
+      "lon": 130.416667,
+      "org_latitude": "30 ゚ 47’",
+      "org_longitude": "130 ゚ 25’"
+    },
+    {
+      "name_kanji": "竹島",
+      "name_kana": "たけしま",
+      "name_romaji": "Take Shima",
+      "classification": "Island",
+      "lat": 37.233333,
+      "lon": 131.866667,
+      "org_latitude": "37 ゚ 14’",
+      "org_longitude": "131 ゚ 52’"
+    },
+    {
+      "name_kanji": "竹富島",
+      "name_kana": "たけとみじま",
+      "name_romaji": "Taketomi Jima",
+      "classification": "Island",
+      "lat": 24.3,
+      "lon": 124.066667,
+      "org_latitude": "24 ゚ 18’",
+      "org_longitude": "124 ゚ 04’"
+    },
+    {
+      "name_kanji": "度島",
+      "name_kana": "たくしま",
+      "name_romaji": "Taku Shima",
+      "classification": "Island",
+      "lat": 33.433333,
+      "lon": 129.5,
+      "org_latitude": "33 ゚ 26’",
+      "org_longitude": "129 ゚ 30’"
+    },
+    {
+      "name_kanji": "種子島",
+      "name_kana": "たねがしま",
+      "name_romaji": "Tanegashima",
+      "classification": "Island",
+      "lat": 30.55,
+      "lon": 130.95,
+      "org_latitude": "30 ゚ 33’",
+      "org_longitude": "130 ゚ 57’"
+    },
+    {
+      "name_kanji": "男鹿島",
+      "name_kana": "たんがしま",
+      "name_romaji": "Tanga Shima",
+      "classification": "Island",
+      "lat": 34.65,
+      "lon": 134.566667,
+      "org_latitude": "34 ゚ 39’",
+      "org_longitude": "134 ゚ 34’"
+    },
+    {
+      "name_kanji": "多楽島",
+      "name_kana": "たらくとう",
+      "name_romaji": "Taraku To",
+      "classification": "Island",
+      "lat": 43.616667,
+      "lon": 146.3,
+      "org_latitude": "43 ゚ 37’",
+      "org_longitude": "146 ゚ 18’"
+    },
+    {
+      "name_kanji": "多良間島",
+      "name_kana": "たらましま",
+      "name_romaji": "Tarama Shima",
+      "classification": "Island",
+      "lat": 24.633333,
+      "lon": 124.683333,
+      "org_latitude": "24 ゚ 38’",
+      "org_longitude": "124 ゚ 41’"
+    },
+    {
+      "name_kanji": "田代島",
+      "name_kana": "たしろじま",
+      "name_romaji": "Tashiro Jima",
+      "classification": "Island",
+      "lat": 38.283333,
+      "lon": 141.4,
+      "org_latitude": "38 ゚ 17’",
+      "org_longitude": "141 ゚ 24’"
+    },
+    {
+      "name_kanji": "手島",
+      "name_kana": "てしま",
+      "name_romaji": "Te Shima",
+      "classification": "Island",
+      "lat": 34.383333,
+      "lon": 133.666667,
+      "org_latitude": "34 ゚ 23’",
+      "org_longitude": "133 ゚ 40’"
+    },
+    {
+      "name_kanji": "豊島",
+      "name_kana": "てしま",
+      "name_romaji": "Te Shima",
+      "classification": "Island",
+      "lat": 34.466667,
+      "lon": 134.066667,
+      "org_latitude": "34 ゚ 28’",
+      "org_longitude": "134 ゚ 04’"
+    },
+    {
+      "name_kanji": "寺島",
+      "name_kana": "てらしま",
+      "name_romaji": "Tera Shima",
+      "classification": "Island",
+      "lat": 33.233333,
+      "lon": 129.05,
+      "org_latitude": "33 ゚ 14’",
+      "org_longitude": "129 ゚ 03’"
+    },
+    {
+      "name_kanji": "天売島",
+      "name_kana": "てうりとう",
+      "name_romaji": "Teuri To",
+      "classification": "Island",
+      "lat": 44.416667,
+      "lon": 141.283333,
+      "org_latitude": "44 ゚ 25’",
+      "org_longitude": "141 ゚ 17’"
+    },
+    {
+      "name_kanji": "戸島",
+      "name_kana": "とじま",
+      "name_romaji": "To Jima",
+      "classification": "Island",
+      "lat": 33.2,
+      "lon": 132.35,
+      "org_latitude": "33 ゚ 12’",
+      "org_longitude": "132 ゚ 21’"
+    },
+    {
+      "name_kanji": "利島",
+      "name_kana": "としま",
+      "name_romaji": "To Shima",
+      "classification": "Island",
+      "lat": 34.516667,
+      "lon": 139.266667,
+      "org_latitude": "34 ゚ 31’",
+      "org_longitude": "139 ゚ 16’"
+    },
+    {
+      "name_kanji": "飛島",
+      "name_kana": "とびしま",
+      "name_romaji": "Tobi Shima",
+      "classification": "Island",
+      "lat": 39.183333,
+      "lon": 139.533333,
+      "org_latitude": "39 ゚ 11’",
+      "org_longitude": "139 ゚ 32’"
+    },
+    {
+      "name_kanji": "海驢島",
+      "name_kana": "とどしま",
+      "name_romaji": "Todo Shima",
+      "classification": "Island",
+      "lat": 45.466667,
+      "lon": 140.966667,
+      "org_latitude": "45 ゚ 28’",
+      "org_longitude": "140 ゚ 58’"
+    },
+    {
+      "name_kanji": "渡嘉敷島",
+      "name_kana": "とかしきじま",
+      "name_romaji": "Tokashiki Jima",
+      "classification": "Island",
+      "lat": 26.183333,
+      "lon": 127.35,
+      "org_latitude": "26 ゚ 11’",
+      "org_longitude": "127 ゚ 21’"
+    },
+    {
+      "name_kanji": "徳之島",
+      "name_kana": "とくのしま",
+      "name_romaji": "Tokunoshima",
+      "classification": "Island",
+      "lat": 27.783333,
+      "lon": 128.933333,
+      "org_latitude": "27 ゚ 47’",
+      "org_longitude": "128 ゚ 56’"
+    },
+    {
+      "name_kanji": "渡名喜島",
+      "name_kana": "となきじま",
+      "name_romaji": "Tonaki Jima",
+      "classification": "Island",
+      "lat": 26.366667,
+      "lon": 127.133333,
+      "org_latitude": "26 ゚ 22’",
+      "org_longitude": "127 ゚ 08’"
+    },
+    {
+      "name_kanji": "鳥島",
+      "name_kana": "とりしま",
+      "name_romaji": "Tori Shima",
+      "classification": "Island",
+      "lat": 26.583333,
+      "lon": 126.816667,
+      "org_latitude": "26 ゚ 35’",
+      "org_longitude": "126 ゚ 49’"
+    },
+    {
+      "name_kanji": "鳥島",
+      "name_kana": "とりしま",
+      "name_romaji": "Tori Shima",
+      "classification": "Island",
+      "lat": 30.466667,
+      "lon": 140.3,
+      "org_latitude": "30 ゚ 28’",
+      "org_longitude": "140 ゚ 18’"
+    },
+    {
+      "name_kanji": "鳥島",
+      "name_kana": "とりしま",
+      "name_romaji": "Tori Shima",
+      "classification": "Island",
+      "lat": 32.233333,
+      "lon": 128.1,
+      "org_latitude": "32 ゚ 14’",
+      "org_longitude": "128 ゚ 06’"
+    },
+    {
+      "name_kanji": "答志島",
+      "name_kana": "とうしじま",
+      "name_romaji": "Toshi Jima",
+      "classification": "Island",
+      "lat": 34.5,
+      "lon": 136.866667,
+      "org_latitude": "34 ゚ 30’",
+      "org_longitude": "136 ゚ 52’"
+    },
+    {
+      "name_kanji": "津堅島",
+      "name_kana": "つけんじま",
+      "name_romaji": "Tsuken Jima",
+      "classification": "Island",
+      "lat": 26.233333,
+      "lon": 127.933333,
+      "org_latitude": "26 ゚ 14’",
+      "org_longitude": "127 ゚ 56’"
+    },
+    {
+      "name_kanji": "築島",
+      "name_kana": "つきしま",
+      "name_romaji": "Tsuki Shima",
+      "classification": "Island",
+      "lat": 31.466667,
+      "lon": 131.366667,
+      "org_latitude": "31 ゚ 28’",
+      "org_longitude": "131 ゚ 22’"
+    },
+    {
+      "name_kanji": "津倉瀬",
+      "name_kana": "つくらせ",
+      "name_romaji": "Tsukura Se",
+      "classification": "Island",
+      "lat": 31.3,
+      "lon": 129.716667,
+      "org_latitude": "31 ゚ 18’",
+      "org_longitude": "129 ゚ 43’"
+    },
+    {
+      "name_kanji": "角島",
+      "name_kana": "つのしま",
+      "name_romaji": "Tsuno Shima",
+      "classification": "Island",
+      "lat": 34.35,
+      "lon": 130.85,
+      "org_latitude": "34 ゚ 21’",
+      "org_longitude": "130 ゚ 51’"
+    },
+    {
+      "name_kanji": "対馬",
+      "name_kana": "つしま",
+      "name_romaji": "Tsushima",
+      "classification": "Island",
+      "lat": 34.4,
+      "lon": 129.416667,
+      "org_latitude": "34 ゚ 24’",
+      "org_longitude": "129 ゚ 25’"
+    },
+    {
+      "name_kanji": "鵜渡根島",
+      "name_kana": "うどねじま",
+      "name_romaji": "Udone Jima",
+      "classification": "Island",
+      "lat": 34.466667,
+      "lon": 139.283333,
+      "org_latitude": "34 ゚ 28’",
+      "org_longitude": "139 ゚ 17’"
+    },
+    {
+      "name_kanji": "鵜来島",
+      "name_kana": "うぐるしま",
+      "name_romaji": "Uguru Shima",
+      "classification": "Island",
+      "lat": 32.783333,
+      "lon": 132.483333,
+      "org_latitude": "32 ゚ 47’",
+      "org_longitude": "132 ゚ 29’"
+    },
+    {
+      "name_kanji": "宇治島",
+      "name_kana": "うじしま",
+      "name_romaji": "Uji Shima",
+      "classification": "Island",
+      "lat": 31.2,
+      "lon": 129.466667,
+      "org_latitude": "31 ゚ 12’",
+      "org_longitude": "129 ゚ 28’"
+    },
+    {
+      "name_kanji": "宇治向島",
+      "name_kana": "うじむかえしま",
+      "name_romaji": "Ujimukae Shima",
+      "classification": "Island",
+      "lat": 31.183333,
+      "lon": 129.416667,
+      "org_latitude": "31 ゚ 11’",
+      "org_longitude": "129 ゚ 25’"
+    },
+    {
+      "name_kanji": "請島",
+      "name_kana": "うけしま",
+      "name_romaji": "Uke Shima",
+      "classification": "Island",
+      "lat": 28.016667,
+      "lon": 129.216667,
+      "org_latitude": "28 ゚ 01’",
+      "org_longitude": "129 ゚ 13’"
+    },
+    {
+      "name_kanji": "宇久島",
+      "name_kana": "うくじま",
+      "name_romaji": "Uku Jima",
+      "classification": "Island",
+      "lat": 33.266667,
+      "lon": 129.1,
+      "org_latitude": "33 ゚ 16’",
+      "org_longitude": "129 ゚ 06’"
+    },
+    {
+      "name_kanji": "魚釣島",
+      "name_kana": "うおつりしま",
+      "name_romaji": "Uotsuri Shima",
+      "classification": "Island",
+      "lat": 25.766667,
+      "lon": 123.516667,
+      "org_latitude": "25 ゚ 46’",
+      "org_longitude": "123 ゚ 31’"
+    },
+    {
+      "name_kanji": "若松島",
+      "name_kana": "わかまつじま",
+      "name_romaji": "Wakamatsu Jima",
+      "classification": "Island",
+      "lat": 32.9,
+      "lon": 128.966667,
+      "org_latitude": "32 ゚ 54’",
+      "org_longitude": "128 ゚ 58’"
+    },
+    {
+      "name_kanji": "若宮島",
+      "name_kana": "わかみやじま",
+      "name_romaji": "Wakamiya Jima",
+      "classification": "Island",
+      "lat": 33.866667,
+      "lon": 129.683333,
+      "org_latitude": "33 ゚ 52’",
+      "org_longitude": "129 ゚ 41’"
+    },
+    {
+      "name_kanji": "焼尻島",
+      "name_kana": "やぎしりとう",
+      "name_romaji": "Yagishiri To",
+      "classification": "Island",
+      "lat": 44.416667,
+      "lon": 141.383333,
+      "org_latitude": "44 ゚ 25’",
+      "org_longitude": "141 ゚ 23’"
+    },
+    {
+      "name_kanji": "屋久島",
+      "name_kana": "やくしま",
+      "name_romaji": "Yaku Shima",
+      "classification": "Island",
+      "lat": 30.35,
+      "lon": 130.483333,
+      "org_latitude": "30 ゚ 21’",
+      "org_longitude": "130 ゚ 29’"
+    },
+    {
+      "name_kanji": "八島",
+      "name_kana": "やしま",
+      "name_romaji": "Yashima",
+      "classification": "Island",
+      "lat": 33.716667,
+      "lon": 132.133333,
+      "org_latitude": "33 ゚ 43’",
+      "org_longitude": "132 ゚ 08’"
+    },
+    {
+      "name_kanji": "屋代島",
+      "name_kana": "やしろじま",
+      "name_romaji": "Yashiro Jima",
+      "classification": "Island",
+      "lat": 33.9,
+      "lon": 132.216667,
+      "org_latitude": "33 ゚ 54’",
+      "org_longitude": "132 ゚ 13’"
+    },
+    {
+      "name_kanji": "横島",
+      "name_kana": "よこしま",
+      "name_romaji": "Yoko Shima",
+      "classification": "Island",
+      "lat": 32.933333,
+      "lon": 132.4,
+      "org_latitude": "32 ゚ 56’",
+      "org_longitude": "132 ゚ 24’"
+    },
+    {
+      "name_kanji": "横当島",
+      "name_kana": "よこあてじま",
+      "name_romaji": "Yokoate Jima",
+      "classification": "Island",
+      "lat": 28.8,
+      "lon": 128.983333,
+      "org_latitude": "28 ゚ 48’",
+      "org_longitude": "128 ゚ 59’"
+    },
+    {
+      "name_kanji": "嫁島",
+      "name_kana": "よめじま",
+      "name_romaji": "Yome Jima",
+      "classification": "Island",
+      "lat": 27.5,
+      "lon": 142.2,
+      "org_latitude": "27 ゚ 30’",
+      "org_longitude": "142 ゚ 12’"
+    },
+    {
+      "name_kanji": "与那国島",
+      "name_kana": "よなぐにじま",
+      "name_romaji": "Yonaguni Jima",
+      "classification": "Island",
+      "lat": 24.433333,
+      "lon": 122.966667,
+      "org_latitude": "24 ゚ 26’",
+      "org_longitude": "122 ゚ 58’"
+    },
+    {
+      "name_kanji": "与路島",
+      "name_kana": "よろしま",
+      "name_romaji": "Yoro Shima",
+      "classification": "Island",
+      "lat": 28.033333,
+      "lon": 129.15,
+      "org_latitude": "28 ゚ 02’",
+      "org_longitude": "129 ゚ 09’"
+    },
+    {
+      "name_kanji": "与論島",
+      "name_kana": "よろんじま",
+      "name_romaji": "Yoron Jima",
+      "classification": "Island",
+      "lat": 27.033333,
+      "lon": 128.4,
+      "org_latitude": "27 ゚ 02’",
+      "org_longitude": "128 ゚ 24’"
+    },
+    {
+      "name_kanji": "湯島",
+      "name_kana": "ゆしま",
+      "name_romaji": "Yu Shima",
+      "classification": "Island",
+      "lat": 32.6,
+      "lon": 130.333333,
+      "org_latitude": "32 ゚ 36’",
+      "org_longitude": "130 ゚ 20’"
+    },
+    {
+      "name_kanji": "由利島",
+      "name_kana": "ゆりじま",
+      "name_romaji": "Yuri Jima",
+      "classification": "Island",
+      "lat": 33.85,
+      "lon": 132.516667,
+      "org_latitude": "33 ゚ 51’",
+      "org_longitude": "132 ゚ 31’"
+    },
+    {
+      "name_kanji": "勇留島",
+      "name_kana": "ゆりとう",
+      "name_romaji": "Yuri To",
+      "classification": "Island",
+      "lat": 43.383333,
+      "lon": 146.05,
+      "org_latitude": "43 ゚ 23’",
+      "org_longitude": "146 ゚ 03’"
+    },
+    {
+      "name_kanji": "ユルリ島",
+      "name_kana": "ゆるりとう",
+      "name_romaji": "Yururi To",
+      "classification": "Island",
+      "lat": 43.2,
+      "lon": 145.583333,
+      "org_latitude": "43 ゚ 12’",
+      "org_longitude": "145 ゚ 35’"
+    },
+    {
+      "name_kanji": "座間味島",
+      "name_kana": "ざまみじま",
+      "name_romaji": "Zamami Jima",
+      "classification": "Island",
+      "lat": 26.233333,
+      "lon": 127.283333,
+      "org_latitude": "26 ゚ 14’",
+      "org_longitude": "127 ゚ 17’"
+    },
+    {
+      "name_kanji": "銭洲",
+      "name_kana": "ぜにす",
+      "name_romaji": "Zeni Su",
+      "classification": "Island",
+      "lat": 33.933333,
+      "lon": 138.816667,
+      "org_latitude": "33 ゚ 56’",
+      "org_longitude": "138 ゚ 49’"
+    }
+  ],
+  "meta": {
+    "title": "島嶼一覧 (Islands of Japan) - 無料ダウンロード",
+    "description": "国土地理院「日本地名集 (Gazetteer of Japan) 2007」に収録された島嶼 299 件。漢字・ひらがな・公式ローマ字表記と緯度経度を併記。299 islands listed in the Geospatial Information Authority of Japan's Gazetteer of Japan 2007 (with the 2018 update), each with kanji, kana and the official romanised name plus degree-minute coordinates in both original DMS and decimal form. 収録数 299 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "島嶼一覧 (Islands of Japan) | ListBase",
+    "seo_description": "ダウンロード 島嶼一覧 (Islands of Japan) — 299 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 299 件 / 8 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/piuccio/open-data-jp-municipalities"
+    ]
+  }
+}

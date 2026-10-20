@@ -1,0 +1,185 @@
+{
+  "id": "ja-hyogo-gun",
+  "name": "兵庫県の郡一覧 (Hyogo Prefecture — counties)",
+  "title": "兵庫県の郡一覧 (Hyogo Prefecture — counties)",
+  "description": "兵庫県に属する郡（ぐん）の一覧（8件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Hyogo Prefecture.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_hira",
+      "label": "Name Hira",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_short_ja",
+      "label": "Name Short Ja",
+      "type": "string"
+    },
+    {
+      "key": "name_short_en",
+      "label": "Name Short En",
+      "type": "string"
+    },
+    {
+      "key": "pref_code",
+      "label": "Pref Code",
+      "type": "number"
+    },
+    {
+      "key": "pref_name",
+      "label": "Pref Name",
+      "type": "string"
+    },
+    {
+      "key": "pref_name_en",
+      "label": "Pref Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ja",
+      "label": "Type Ja",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "28300",
+      "name": "川辺郡",
+      "name_hira": "かわべぐん",
+      "name_en": "Kawabe County",
+      "name_short_ja": "川辺",
+      "name_short_en": "Kawabe",
+      "pref_code": "28",
+      "pref_name": "兵庫県",
+      "pref_name_en": "Hyogo Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "28360",
+      "name": "多可郡",
+      "name_hira": "たかぐん",
+      "name_en": "Taka County",
+      "name_short_ja": "多可",
+      "name_short_en": "Taka",
+      "pref_code": "28",
+      "pref_name": "兵庫県",
+      "pref_name_en": "Hyogo Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "28380",
+      "name": "加古郡",
+      "name_hira": "かこぐん",
+      "name_en": "Kako County",
+      "name_short_ja": "加古",
+      "name_short_en": "Kako",
+      "pref_code": "28",
+      "pref_name": "兵庫県",
+      "pref_name_en": "Hyogo Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "28440",
+      "name": "神崎郡",
+      "name_hira": "かんざきぐん",
+      "name_en": "Kanzaki County",
+      "name_short_ja": "神崎",
+      "name_short_en": "Kanzaki",
+      "pref_code": "28",
+      "pref_name": "兵庫県",
+      "pref_name_en": "Hyogo Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "28460",
+      "name": "揖保郡",
+      "name_hira": "いぼぐん",
+      "name_en": "Ibo County",
+      "name_short_ja": "揖保",
+      "name_short_en": "Ibo",
+      "pref_code": "28",
+      "pref_name": "兵庫県",
+      "pref_name_en": "Hyogo Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "28480",
+      "name": "赤穂郡",
+      "name_hira": "あこうぐん",
+      "name_en": "Ako County",
+      "name_short_ja": "赤穂",
+      "name_short_en": "Ako",
+      "pref_code": "28",
+      "pref_name": "兵庫県",
+      "pref_name_en": "Hyogo Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "28500",
+      "name": "佐用郡",
+      "name_hira": "さようぐん",
+      "name_en": "Sayo County",
+      "name_short_ja": "佐用",
+      "name_short_en": "Sayo",
+      "pref_code": "28",
+      "pref_name": "兵庫県",
+      "pref_name_en": "Hyogo Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "28580",
+      "name": "美方郡",
+      "name_hira": "みかたぐん",
+      "name_en": "Mikata County",
+      "name_short_ja": "美方",
+      "name_short_en": "Mikata",
+      "pref_code": "28",
+      "pref_name": "兵庫県",
+      "pref_name_en": "Hyogo Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    }
+  ],
+  "meta": {
+    "title": "兵庫県の郡一覧 (Hyogo Prefecture — counties) - 無料ダウンロード",
+    "description": "兵庫県に属する郡（ぐん）の一覧（8件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Hyogo Prefecture. 収録数 8 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "兵庫県の郡一覧 (Hyogo Prefecture — counties) | ListBase",
+    "seo_description": "ダウンロード 兵庫県の郡一覧 (Hyogo Prefecture — counties) — 8 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 8 件 / 11 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

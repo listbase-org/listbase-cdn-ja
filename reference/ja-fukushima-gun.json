@@ -1,0 +1,250 @@
+{
+  "id": "ja-fukushima-gun",
+  "name": "福島県の郡一覧 (Fukushima Prefecture — counties)",
+  "title": "福島県の郡一覧 (Fukushima Prefecture — counties)",
+  "description": "福島県に属する郡（ぐん）の一覧（13件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Fukushima Prefecture.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_hira",
+      "label": "Name Hira",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_short_ja",
+      "label": "Name Short Ja",
+      "type": "string"
+    },
+    {
+      "key": "name_short_en",
+      "label": "Name Short En",
+      "type": "string"
+    },
+    {
+      "key": "pref_code",
+      "label": "Pref Code",
+      "type": "number"
+    },
+    {
+      "key": "pref_name",
+      "label": "Pref Name",
+      "type": "string"
+    },
+    {
+      "key": "pref_name_en",
+      "label": "Pref Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ja",
+      "label": "Type Ja",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "07300",
+      "name": "伊達郡",
+      "name_hira": "だてぐん",
+      "name_en": "Date County",
+      "name_short_ja": "伊達",
+      "name_short_en": "Date",
+      "pref_code": "07",
+      "pref_name": "福島県",
+      "pref_name_en": "Fukushima Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "07320",
+      "name": "安達郡",
+      "name_hira": "あだちぐん",
+      "name_en": "Adachi County",
+      "name_short_ja": "安達",
+      "name_short_en": "Adachi",
+      "pref_code": "07",
+      "pref_name": "福島県",
+      "pref_name_en": "Fukushima Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "07340",
+      "name": "岩瀬郡",
+      "name_hira": "いわせぐん",
+      "name_en": "Iwase County",
+      "name_short_ja": "岩瀬",
+      "name_short_en": "Iwase",
+      "pref_code": "07",
+      "pref_name": "福島県",
+      "pref_name_en": "Fukushima Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "07360",
+      "name": "南会津郡",
+      "name_hira": "みなみあいづぐん",
+      "name_en": "Minamiaizu County",
+      "name_short_ja": "南会津",
+      "name_short_en": "Minamiaizu",
+      "pref_code": "07",
+      "pref_name": "福島県",
+      "pref_name_en": "Fukushima Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "07400",
+      "name": "耶麻郡",
+      "name_hira": "やまぐん",
+      "name_en": "Yama County",
+      "name_short_ja": "耶麻",
+      "name_short_en": "Yama",
+      "pref_code": "07",
+      "pref_name": "福島県",
+      "pref_name_en": "Fukushima Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "07420",
+      "name": "河沼郡",
+      "name_hira": "かわぬまぐん",
+      "name_en": "Kawanuma County",
+      "name_short_ja": "河沼",
+      "name_short_en": "Kawanuma",
+      "pref_code": "07",
+      "pref_name": "福島県",
+      "pref_name_en": "Fukushima Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "07440",
+      "name": "大沼郡",
+      "name_hira": "おおぬまぐん",
+      "name_en": "Onuma County",
+      "name_short_ja": "大沼",
+      "name_short_en": "Onuma",
+      "pref_code": "07",
+      "pref_name": "福島県",
+      "pref_name_en": "Fukushima Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "07460",
+      "name": "西白河郡",
+      "name_hira": "にししらかわぐん",
+      "name_en": "Nishishirakawa County",
+      "name_short_ja": "西白河",
+      "name_short_en": "Nishishirakawa",
+      "pref_code": "07",
+      "pref_name": "福島県",
+      "pref_name_en": "Fukushima Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "07480",
+      "name": "東白川郡",
+      "name_hira": "ひがししらかわぐん",
+      "name_en": "Higashishirakawa County",
+      "name_short_ja": "東白川",
+      "name_short_en": "Higashishirakawa",
+      "pref_code": "07",
+      "pref_name": "福島県",
+      "pref_name_en": "Fukushima Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "07500",
+      "name": "石川郡",
+      "name_hira": "いしかわぐん",
+      "name_en": "Ishikawa County",
+      "name_short_ja": "石川",
+      "name_short_en": "Ishikawa",
+      "pref_code": "07",
+      "pref_name": "福島県",
+      "pref_name_en": "Fukushima Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "07520",
+      "name": "田村郡",
+      "name_hira": "たむらぐん",
+      "name_en": "Tamura County",
+      "name_short_ja": "田村",
+      "name_short_en": "Tamura",
+      "pref_code": "07",
+      "pref_name": "福島県",
+      "pref_name_en": "Fukushima Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "07540",
+      "name": "双葉郡",
+      "name_hira": "ふたばぐん",
+      "name_en": "Futaba County",
+      "name_short_ja": "双葉",
+      "name_short_en": "Futaba",
+      "pref_code": "07",
+      "pref_name": "福島県",
+      "pref_name_en": "Fukushima Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "07560",
+      "name": "相馬郡",
+      "name_hira": "そうまぐん",
+      "name_en": "Soma County",
+      "name_short_ja": "相馬",
+      "name_short_en": "Soma",
+      "pref_code": "07",
+      "pref_name": "福島県",
+      "pref_name_en": "Fukushima Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    }
+  ],
+  "meta": {
+    "title": "福島県の郡一覧 (Fukushima Prefecture — counties) - 無料ダウンロード",
+    "description": "福島県に属する郡（ぐん）の一覧（13件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Fukushima Prefecture. 収録数 13 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "福島県の郡一覧 (Fukushima Prefecture — counties) | ListBase",
+    "seo_description": "ダウンロード 福島県の郡一覧 (Fukushima Prefecture — counties) — 13 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 13 件 / 11 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

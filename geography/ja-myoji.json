@@ -1,0 +1,856 @@
+{
+  "id": "ja-myoji",
+  "name": "人気の日本人の名字 (Popular Japanese Surnames)",
+  "title": "人気の日本人の名字 (Popular Japanese Surnames)",
+  "description": "日本で最も多い名字(苗字)の上位100位。漢字表記、ローマ字表記の異形(例:斎藤/斉藤、佐々木/Sasaki)、世帯数(推計)、人口比を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "count",
+      "label": "Count",
+      "type": "number"
+    },
+    {
+      "key": "percent",
+      "label": "Percent",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "JP-1",
+      "rank": 1,
+      "localized": "佐藤",
+      "romanized": "Satō",
+      "count": 1990000,
+      "percent": 0.0157
+    },
+    {
+      "name_group": "JP-2",
+      "rank": 2,
+      "localized": "鈴木",
+      "romanized": "Suzuki",
+      "count": 1900000,
+      "percent": 0.015
+    },
+    {
+      "name_group": "JP-3",
+      "rank": 3,
+      "localized": "高橋",
+      "romanized": "Takahashi",
+      "count": 1470000,
+      "percent": 0.0116
+    },
+    {
+      "name_group": "JP-4",
+      "rank": 4,
+      "localized": "田中",
+      "romanized": "Tanaka",
+      "count": 1340000,
+      "percent": 0.0106
+    },
+    {
+      "name_group": "JP-5",
+      "rank": 5,
+      "localized": "渡辺",
+      "romanized": "Watanabe",
+      "count": 1200000,
+      "percent": 0.0095
+    },
+    {
+      "name_group": "JP-6",
+      "rank": 6,
+      "localized": "伊藤",
+      "romanized": "Itō",
+      "count": 1150000,
+      "percent": 0.0091
+    },
+    {
+      "name_group": "JP-7",
+      "rank": 7,
+      "localized": "中村",
+      "romanized": "Nakamura",
+      "count": 1080000,
+      "percent": 0.0085
+    },
+    {
+      "name_group": "JP-8",
+      "rank": 8,
+      "localized": "小林",
+      "romanized": "Kobayashi",
+      "count": 1060000,
+      "percent": 0.0084
+    },
+    {
+      "name_group": "JP-9",
+      "rank": 9,
+      "localized": "山本",
+      "romanized": "Yamamoto",
+      "count": 1020000,
+      "percent": 0.0081
+    },
+    {
+      "name_group": "JP-10",
+      "rank": 10,
+      "localized": "加藤",
+      "romanized": "Katō",
+      "count": 920000,
+      "percent": 0.0073
+    },
+    {
+      "name_group": "JP-11",
+      "rank": 11,
+      "localized": "吉田",
+      "romanized": "Yoshida",
+      "count": 850000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-12",
+      "rank": 12,
+      "localized": "山田",
+      "romanized": "Yamada",
+      "count": 820000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-13",
+      "rank": 13,
+      "localized": "佐々木",
+      "romanized": "Sasaki",
+      "count": 710000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-14",
+      "rank": 14,
+      "localized": "山口",
+      "romanized": "Yamaguchi",
+      "count": 640000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-15",
+      "rank": 15,
+      "localized": "松本",
+      "romanized": "Matsumoto",
+      "count": 630000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-16",
+      "rank": 16,
+      "localized": "井上",
+      "romanized": "Inoue",
+      "count": 600000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-17",
+      "rank": 17,
+      "localized": "木村",
+      "romanized": "Kimura",
+      "count": 580000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-18",
+      "rank": 18,
+      "localized": "清水",
+      "romanized": "Shimizu",
+      "count": 560000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-19",
+      "rank": 19,
+      "localized": "林",
+      "romanized": "Hayashi",
+      "count": 550000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-20",
+      "rank": 20,
+      "localized": "斉藤",
+      "romanized": "Saitō",
+      "count": 530000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-21",
+      "rank": 21,
+      "localized": "斎藤",
+      "romanized": "Saitō",
+      "count": 520000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-22",
+      "rank": 22,
+      "localized": "山崎",
+      "romanized": "Yamazaki, Yamasaki",
+      "count": 490000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-23",
+      "rank": 23,
+      "localized": "中島",
+      "romanized": "Nakajima, Nakashima",
+      "count": 480000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-24",
+      "rank": 24,
+      "localized": "森",
+      "romanized": "Mori",
+      "count": 470000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-25",
+      "rank": 25,
+      "localized": "阿部",
+      "romanized": "Abe",
+      "count": 470000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-26",
+      "rank": 26,
+      "localized": "池田",
+      "romanized": "Ikeda",
+      "count": 450000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-27",
+      "rank": 27,
+      "localized": "橋本",
+      "romanized": "Hashimoto",
+      "count": 450000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-28",
+      "rank": 28,
+      "localized": "石川",
+      "romanized": "Ishikawa",
+      "count": 440000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-29",
+      "rank": 29,
+      "localized": "山下",
+      "romanized": "Yamashita",
+      "count": 410000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-30",
+      "rank": 30,
+      "localized": "小川",
+      "romanized": "Ogawa",
+      "count": 410000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-31",
+      "rank": 31,
+      "localized": "石井",
+      "romanized": "Ishii",
+      "count": 400000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-32",
+      "rank": 32,
+      "localized": "長谷川",
+      "romanized": "Hasegawa",
+      "count": 390000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-33",
+      "rank": 33,
+      "localized": "後藤",
+      "romanized": "Gotō",
+      "count": 390000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-34",
+      "rank": 34,
+      "localized": "岡田",
+      "romanized": "Okada",
+      "count": 380000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-35",
+      "rank": 35,
+      "localized": "近藤",
+      "romanized": "Kondō",
+      "count": 370000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-36",
+      "rank": 36,
+      "localized": "前田",
+      "romanized": "Maeda",
+      "count": 370000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-37",
+      "rank": 37,
+      "localized": "藤田",
+      "romanized": "Fujita",
+      "count": 370000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-38",
+      "rank": 38,
+      "localized": "遠藤",
+      "romanized": "Endō",
+      "count": 360000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-39",
+      "rank": 39,
+      "localized": "青木",
+      "romanized": "Aoki",
+      "count": 350000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-40",
+      "rank": 40,
+      "localized": "坂本",
+      "romanized": "Sakamoto",
+      "count": 350000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-41",
+      "rank": 41,
+      "localized": "村上",
+      "romanized": "Murakami",
+      "count": 340000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-42",
+      "rank": 42,
+      "localized": "太田",
+      "romanized": "Ōta",
+      "count": 320000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-43",
+      "rank": 43,
+      "localized": "金子",
+      "romanized": "Kaneko",
+      "count": 310000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-44",
+      "rank": 44,
+      "localized": "藤井",
+      "romanized": "Fujii",
+      "count": 310000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-45",
+      "rank": 45,
+      "localized": "福田",
+      "romanized": "Fukuda",
+      "count": 300000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-46",
+      "rank": 46,
+      "localized": "西村",
+      "romanized": "Nishimura",
+      "count": 300000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-47",
+      "rank": 47,
+      "localized": "三浦",
+      "romanized": "Miura",
+      "count": 300000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-48",
+      "rank": 48,
+      "localized": "竹内",
+      "romanized": "Takeuchi",
+      "count": 290000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-49",
+      "rank": 49,
+      "localized": "中川",
+      "romanized": "Nakagawa",
+      "count": 290000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-50",
+      "rank": 50,
+      "localized": "岡本",
+      "romanized": "Okamoto",
+      "count": 290000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-51",
+      "rank": 51,
+      "localized": "松田",
+      "romanized": "Matsuda",
+      "count": 290000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-52",
+      "rank": 52,
+      "localized": "原田",
+      "romanized": "Harada",
+      "count": 290000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-53",
+      "rank": 53,
+      "localized": "中野",
+      "romanized": "Nakano",
+      "count": 290000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-54",
+      "rank": 54,
+      "localized": "小野",
+      "romanized": "Ono",
+      "count": 280000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-55",
+      "rank": 55,
+      "localized": "田村",
+      "romanized": "Tamura",
+      "count": 280000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-56",
+      "rank": 56,
+      "localized": "藤原",
+      "romanized": "Fujiwara, Fujihara",
+      "count": 270000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-57",
+      "rank": 57,
+      "localized": "中山",
+      "romanized": "Nakayama",
+      "count": 270000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-58",
+      "rank": 58,
+      "localized": "石田",
+      "romanized": "Ishida",
+      "count": 270000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-59",
+      "rank": 59,
+      "localized": "小島",
+      "romanized": "Kojima",
+      "count": 260000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-60",
+      "rank": 60,
+      "localized": "和田",
+      "romanized": "Wada",
+      "count": 260000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-61",
+      "rank": 61,
+      "localized": "森田",
+      "romanized": "Morita",
+      "count": 250000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-62",
+      "rank": 62,
+      "localized": "内田",
+      "romanized": "Uchida",
+      "count": 250000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-63",
+      "rank": 63,
+      "localized": "柴田",
+      "romanized": "Shibata",
+      "count": 250000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-64",
+      "rank": 64,
+      "localized": "酒井",
+      "romanized": "Sakai",
+      "count": 240000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-65",
+      "rank": 65,
+      "localized": "原",
+      "romanized": "Hara",
+      "count": 240000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-66",
+      "rank": 66,
+      "localized": "高木",
+      "romanized": "Takagi, Takaki",
+      "count": 240000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-67",
+      "rank": 67,
+      "localized": "横山",
+      "romanized": "Yokoyama",
+      "count": 240000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-68",
+      "rank": 68,
+      "localized": "安藤",
+      "romanized": "Andō",
+      "count": 240000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-69",
+      "rank": 69,
+      "localized": "宮崎",
+      "romanized": "Miyazaki, Miyasaki",
+      "count": 240000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-70",
+      "rank": 70,
+      "localized": "上田",
+      "romanized": "Ueda, Ueta",
+      "count": 240000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-71",
+      "rank": 71,
+      "localized": "島田",
+      "romanized": "Shimada",
+      "count": 230000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-72",
+      "rank": 72,
+      "localized": "工藤",
+      "romanized": "Kudō",
+      "count": 230000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-73",
+      "rank": 73,
+      "localized": "大野",
+      "romanized": "Ōno",
+      "count": 220000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-74",
+      "rank": 74,
+      "localized": "宮本",
+      "romanized": "Miyamoto",
+      "count": 220000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-75",
+      "rank": 75,
+      "localized": "杉山",
+      "romanized": "Sugiyama",
+      "count": 220000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-76",
+      "rank": 76,
+      "localized": "今井",
+      "romanized": "Imai",
+      "count": 220000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-77",
+      "rank": 77,
+      "localized": "丸山",
+      "romanized": "Maruyama",
+      "count": 210000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-78",
+      "rank": 78,
+      "localized": "増田",
+      "romanized": "Masuda",
+      "count": 210000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-79",
+      "rank": 79,
+      "localized": "高田",
+      "romanized": "Takada, Takata",
+      "count": 210000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-80",
+      "rank": 80,
+      "localized": "村田",
+      "romanized": "Murata",
+      "count": 210000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-81",
+      "rank": 81,
+      "localized": "平野",
+      "romanized": "Hirano",
+      "count": 210000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-82",
+      "rank": 82,
+      "localized": "大塚",
+      "romanized": "Ōtsuka",
+      "count": 210000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-83",
+      "rank": 83,
+      "localized": "菅原",
+      "romanized": "Sugawara, Sugahara",
+      "count": 210000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-84",
+      "rank": 84,
+      "localized": "武田",
+      "romanized": "Takeda, Taketa",
+      "count": 200000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-85",
+      "rank": 85,
+      "localized": "新井",
+      "romanized": "Arai",
+      "count": 200000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-86",
+      "rank": 86,
+      "localized": "小山",
+      "romanized": "Koyama, Oyama",
+      "count": 200000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-87",
+      "rank": 87,
+      "localized": "野口",
+      "romanized": "Noguchi",
+      "count": 200000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-88",
+      "rank": 88,
+      "localized": "桜井",
+      "romanized": "Sakurai",
+      "count": 200000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-89",
+      "rank": 89,
+      "localized": "千葉",
+      "romanized": "Chiba",
+      "count": 200000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-90",
+      "rank": 90,
+      "localized": "岩崎",
+      "romanized": "Iwasaki",
+      "count": 200000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-91",
+      "rank": 91,
+      "localized": "佐野",
+      "romanized": "Sano",
+      "count": 200000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-92",
+      "rank": 92,
+      "localized": "谷口",
+      "romanized": "Taniguchi",
+      "count": 200000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-93",
+      "rank": 93,
+      "localized": "上野",
+      "romanized": "Ueno",
+      "count": 200000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-94",
+      "rank": 94,
+      "localized": "松井",
+      "romanized": "Matsui",
+      "count": 190000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-95",
+      "rank": 95,
+      "localized": "河野",
+      "romanized": "Kōno, Kawano",
+      "count": 190000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-96",
+      "rank": 96,
+      "localized": "市川",
+      "romanized": "Ichikawa",
+      "count": 190000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-97",
+      "rank": 97,
+      "localized": "渡部",
+      "romanized": "Watanabe, Watabe",
+      "count": 190000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-98",
+      "rank": 98,
+      "localized": "野村",
+      "romanized": "Nomura",
+      "count": 180000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-99",
+      "rank": 99,
+      "localized": "菊地",
+      "romanized": "Kikuchi",
+      "count": 180000,
+      "percent": ""
+    },
+    {
+      "name_group": "JP-100",
+      "rank": 100,
+      "localized": "木下",
+      "romanized": "Kinoshita",
+      "count": 180000,
+      "percent": ""
+    }
+  ],
+  "meta": {
+    "title": "人気の日本人の名字 (Popular Japanese Surnames) - 無料ダウンロード",
+    "description": "日本で最も多い名字(苗字)の上位100位。漢字表記、ローマ字表記の異形(例:斎藤/斉藤、佐々木/Sasaki)、世帯数(推計)、人口比を含む。 収録数 100 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "人気の日本人の名字 (Popular Japanese Surnames) | ListBase",
+    "seo_description": "ダウンロード 人気の日本人の名字 (Popular Japanese Surnames) — 100 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 100 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

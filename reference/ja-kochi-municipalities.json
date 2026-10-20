@@ -1,0 +1,328 @@
+{
+  "id": "ja-kochi-municipalities",
+  "name": "高知県の市区町村一覧 (Municipalities of Kochi — JIS X 0402)",
+  "title": "高知県の市区町村一覧 (Municipalities of Kochi — JIS X 0402)",
+  "description": "高知県 (Kochi Prefecture) の市区町村一覧 34 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 34 active municipalities (cities/wards/towns/villages) of Kochi Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "39201",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "高知市",
+      "city_kana": "コウチシ"
+    },
+    {
+      "jisx0402": "39202",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "室戸市",
+      "city_kana": "ムロトシ"
+    },
+    {
+      "jisx0402": "39203",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "安芸市",
+      "city_kana": "アキシ"
+    },
+    {
+      "jisx0402": "39204",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "南国市",
+      "city_kana": "ナンコクシ"
+    },
+    {
+      "jisx0402": "39205",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "土佐市",
+      "city_kana": "トサシ"
+    },
+    {
+      "jisx0402": "39206",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "須崎市",
+      "city_kana": "スサキシ"
+    },
+    {
+      "jisx0402": "39208",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "宿毛市",
+      "city_kana": "スクモシ"
+    },
+    {
+      "jisx0402": "39209",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "土佐清水市",
+      "city_kana": "トサシミズシ"
+    },
+    {
+      "jisx0402": "39210",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "四万十市",
+      "city_kana": "シマントシ"
+    },
+    {
+      "jisx0402": "39211",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "香南市",
+      "city_kana": "コウナンシ"
+    },
+    {
+      "jisx0402": "39212",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "香美市",
+      "city_kana": "カミシ"
+    },
+    {
+      "jisx0402": "39301",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "安芸郡東洋町",
+      "city_kana": "アキグントウヨウチョウ"
+    },
+    {
+      "jisx0402": "39302",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "安芸郡奈半利町",
+      "city_kana": "アキグンナハリチョウ"
+    },
+    {
+      "jisx0402": "39303",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "安芸郡田野町",
+      "city_kana": "アキグンタノチョウ"
+    },
+    {
+      "jisx0402": "39304",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "安芸郡安田町",
+      "city_kana": "アキグンヤスダチョウ"
+    },
+    {
+      "jisx0402": "39305",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "安芸郡北川村",
+      "city_kana": "アキグンキタガワムラ"
+    },
+    {
+      "jisx0402": "39306",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "安芸郡馬路村",
+      "city_kana": "アキグンウマジムラ"
+    },
+    {
+      "jisx0402": "39307",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "安芸郡芸西村",
+      "city_kana": "アキグンゲイセイムラ"
+    },
+    {
+      "jisx0402": "39341",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "長岡郡本山町",
+      "city_kana": "ナガオカグンモトヤマチョウ"
+    },
+    {
+      "jisx0402": "39344",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "長岡郡大豊町",
+      "city_kana": "ナガオカグンオオトヨチョウ"
+    },
+    {
+      "jisx0402": "39363",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "土佐郡土佐町",
+      "city_kana": "トサグントサチョウ"
+    },
+    {
+      "jisx0402": "39364",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "土佐郡大川村",
+      "city_kana": "トサグンオオカワムラ"
+    },
+    {
+      "jisx0402": "39386",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "吾川郡いの町",
+      "city_kana": "アガワグンイノチョウ"
+    },
+    {
+      "jisx0402": "39387",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "吾川郡仁淀川町",
+      "city_kana": "アガワグンニヨドガワチョウ"
+    },
+    {
+      "jisx0402": "39401",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "高岡郡中土佐町",
+      "city_kana": "タカオカグンナカトサチョウ"
+    },
+    {
+      "jisx0402": "39402",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "高岡郡佐川町",
+      "city_kana": "タカオカグンサカワチョウ"
+    },
+    {
+      "jisx0402": "39403",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "高岡郡越知町",
+      "city_kana": "タカオカグンオチチョウ"
+    },
+    {
+      "jisx0402": "39405",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "高岡郡檮原町",
+      "city_kana": "タカオカグンユスハラチョウ"
+    },
+    {
+      "jisx0402": "39410",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "高岡郡日高村",
+      "city_kana": "タカオカグンヒダカムラ"
+    },
+    {
+      "jisx0402": "39411",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "高岡郡津野町",
+      "city_kana": "タカオカグンツノチョウ"
+    },
+    {
+      "jisx0402": "39412",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "高岡郡四万十町",
+      "city_kana": "タカオカグンシマントチョウ"
+    },
+    {
+      "jisx0402": "39424",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "幡多郡大月町",
+      "city_kana": "ハタグンオオツキチョウ"
+    },
+    {
+      "jisx0402": "39427",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "幡多郡三原村",
+      "city_kana": "ハタグンミハラムラ"
+    },
+    {
+      "jisx0402": "39428",
+      "prefecture_code": "39",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "city": "幡多郡黒潮町",
+      "city_kana": "ハタグンクロシオチョウ"
+    }
+  ],
+  "meta": {
+    "title": "高知県の市区町村一覧 (Municipalities of Kochi — JIS X 0402) - 無料ダウンロード",
+    "description": "高知県 (Kochi Prefecture) の市区町村一覧 34 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 34 active municipalities (cities/wards/towns/villages) of Kochi Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 34 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "高知県の市区町村一覧 (Municipalities of Kochi — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 高知県の市区町村一覧 (Municipalities of Kochi — JIS X 0402) — 34 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 34 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

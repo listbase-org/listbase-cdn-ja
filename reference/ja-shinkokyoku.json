@@ -1,0 +1,315 @@
+{
+  "id": "ja-shinkokyoku",
+  "name": "振興局・支庁一覧（日本の広域行政区）(Subprefectures of Japan)",
+  "title": "振興局・支庁一覧（日本の広域行政区）(Subprefectures of Japan)",
+  "description": "日本の振興局・総合振興局・支庁の一覧（北海道14振興局＋東京都4支庁）。都道府県と管内を跨ぐ広域行政区。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Japanese subprefectures (振興局/総合振興局) and branch offices (支庁): Hokkaido's 14 subprefectures and Tokyo's 4 island branch offices.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_hira",
+      "label": "Name Hira",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_short_ja",
+      "label": "Name Short Ja",
+      "type": "string"
+    },
+    {
+      "key": "name_short_en",
+      "label": "Name Short En",
+      "type": "string"
+    },
+    {
+      "key": "pref_code",
+      "label": "Pref Code",
+      "type": "number"
+    },
+    {
+      "key": "pref_name",
+      "label": "Pref Name",
+      "type": "string"
+    },
+    {
+      "key": "pref_name_en",
+      "label": "Pref Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ja",
+      "label": "Type Ja",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "01300",
+      "name": "石狩振興局",
+      "name_hira": "いしかりしんこうきょく",
+      "name_en": "Ishikari Subprefecture",
+      "name_short_ja": "石狩",
+      "name_short_en": "Ishikari",
+      "pref_code": "01",
+      "pref_name": "北海道",
+      "pref_name_en": "Hokkaido Prefecture",
+      "type_ja": "振興局",
+      "type_en": "Subprefecture"
+    },
+    {
+      "code": "01330",
+      "name": "渡島総合振興局",
+      "name_hira": "おしまそうごうしんこうきょく",
+      "name_en": "Oshima Subprefecture",
+      "name_short_ja": "渡島",
+      "name_short_en": "Oshima",
+      "pref_code": "01",
+      "pref_name": "北海道",
+      "pref_name_en": "Hokkaido Prefecture",
+      "type_ja": "総合振興局",
+      "type_en": "Subprefecture"
+    },
+    {
+      "code": "01360",
+      "name": "檜山振興局",
+      "name_hira": "ひやましんこうきょく",
+      "name_en": "Hiyama Subprefecture",
+      "name_short_ja": "檜山",
+      "name_short_en": "Hiyama",
+      "pref_code": "01",
+      "pref_name": "北海道",
+      "pref_name_en": "Hokkaido Prefecture",
+      "type_ja": "振興局",
+      "type_en": "Subprefecture"
+    },
+    {
+      "code": "01390",
+      "name": "後志総合振興局",
+      "name_hira": "しりべしそうごうしんこうきょく",
+      "name_en": "Shiribeshi Subprefecture",
+      "name_short_ja": "後志",
+      "name_short_en": "Shiribeshi",
+      "pref_code": "01",
+      "pref_name": "北海道",
+      "pref_name_en": "Hokkaido Prefecture",
+      "type_ja": "総合振興局",
+      "type_en": "Subprefecture"
+    },
+    {
+      "code": "01420",
+      "name": "空知総合振興局",
+      "name_hira": "そらちそうごうしんこうきょく",
+      "name_en": "Sorachi Subprefecture",
+      "name_short_ja": "空知",
+      "name_short_en": "Sorachi",
+      "pref_code": "01",
+      "pref_name": "北海道",
+      "pref_name_en": "Hokkaido Prefecture",
+      "type_ja": "総合振興局",
+      "type_en": "Subprefecture"
+    },
+    {
+      "code": "01450",
+      "name": "上川総合振興局",
+      "name_hira": "かみかわそうごうしんこうきょく",
+      "name_en": "Kamikawa Subprefecture",
+      "name_short_ja": "上川",
+      "name_short_en": "Kamikawa",
+      "pref_code": "01",
+      "pref_name": "北海道",
+      "pref_name_en": "Hokkaido Prefecture",
+      "type_ja": "総合振興局",
+      "type_en": "Subprefecture"
+    },
+    {
+      "code": "01480",
+      "name": "留萌振興局",
+      "name_hira": "るもいしんこうきょく",
+      "name_en": "Rumoi Subprefecture",
+      "name_short_ja": "留萌",
+      "name_short_en": "Rumoi",
+      "pref_code": "01",
+      "pref_name": "北海道",
+      "pref_name_en": "Hokkaido Prefecture",
+      "type_ja": "振興局",
+      "type_en": "Subprefecture"
+    },
+    {
+      "code": "01510",
+      "name": "宗谷総合振興局",
+      "name_hira": "そうやそうごうしんこうきょく",
+      "name_en": "Soya Subprefecture",
+      "name_short_ja": "宗谷",
+      "name_short_en": "Soya",
+      "pref_code": "01",
+      "pref_name": "北海道",
+      "pref_name_en": "Hokkaido Prefecture",
+      "type_ja": "総合振興局",
+      "type_en": "Subprefecture"
+    },
+    {
+      "code": "01540",
+      "name": "オホーツク総合振興局",
+      "name_hira": "おほーつくそうごうしんこうきょく",
+      "name_en": "Okhotsk Subprefecture",
+      "name_short_ja": "オホーツク",
+      "name_short_en": "Okhotsk",
+      "pref_code": "01",
+      "pref_name": "北海道",
+      "pref_name_en": "Hokkaido Prefecture",
+      "type_ja": "総合振興局",
+      "type_en": "Subprefecture"
+    },
+    {
+      "code": "01570",
+      "name": "胆振総合振興局",
+      "name_hira": "いぶりそうごうしんこうきょく",
+      "name_en": "Iburi Subprefecture",
+      "name_short_ja": "胆振",
+      "name_short_en": "Iburi",
+      "pref_code": "01",
+      "pref_name": "北海道",
+      "pref_name_en": "Hokkaido Prefecture",
+      "type_ja": "総合振興局",
+      "type_en": "Subprefecture"
+    },
+    {
+      "code": "01600",
+      "name": "日高振興局",
+      "name_hira": "ひだかしんこうきょく",
+      "name_en": "Hidaka Subprefecture",
+      "name_short_ja": "日高",
+      "name_short_en": "Hidaka",
+      "pref_code": "01",
+      "pref_name": "北海道",
+      "pref_name_en": "Hokkaido Prefecture",
+      "type_ja": "振興局",
+      "type_en": "Subprefecture"
+    },
+    {
+      "code": "01630",
+      "name": "十勝総合振興局",
+      "name_hira": "とかちそうごうしんこうきょく",
+      "name_en": "Tokachi Subprefecture",
+      "name_short_ja": "十勝",
+      "name_short_en": "Tokachi",
+      "pref_code": "01",
+      "pref_name": "北海道",
+      "pref_name_en": "Hokkaido Prefecture",
+      "type_ja": "総合振興局",
+      "type_en": "Subprefecture"
+    },
+    {
+      "code": "01660",
+      "name": "釧路総合振興局",
+      "name_hira": "くしろそうごうしんこうきょく",
+      "name_en": "Kushiro Subprefecture",
+      "name_short_ja": "釧路",
+      "name_short_en": "Kushiro",
+      "pref_code": "01",
+      "pref_name": "北海道",
+      "pref_name_en": "Hokkaido Prefecture",
+      "type_ja": "総合振興局",
+      "type_en": "Subprefecture"
+    },
+    {
+      "code": "01690",
+      "name": "根室振興局",
+      "name_hira": "ねむろしんこうきょく",
+      "name_en": "Nemuro Subprefecture",
+      "name_short_ja": "根室",
+      "name_short_en": "Nemuro",
+      "pref_code": "01",
+      "pref_name": "北海道",
+      "pref_name_en": "Hokkaido Prefecture",
+      "type_ja": "振興局",
+      "type_en": "Subprefecture"
+    },
+    {
+      "code": "13360",
+      "name": "大島支庁",
+      "name_hira": "おおしましちょう",
+      "name_en": "Oshima Branch Office",
+      "name_short_ja": "大島",
+      "name_short_en": "Oshima",
+      "pref_code": "13",
+      "pref_name": "東京都",
+      "pref_name_en": "Tokyo Metropolis",
+      "type_ja": "支庁",
+      "type_en": "Branch Office"
+    },
+    {
+      "code": "13380",
+      "name": "三宅支庁",
+      "name_hira": "みやけしちょう",
+      "name_en": "Miyake Branch Office",
+      "name_short_ja": "三宅",
+      "name_short_en": "Miyake",
+      "pref_code": "13",
+      "pref_name": "東京都",
+      "pref_name_en": "Tokyo Metropolis",
+      "type_ja": "支庁",
+      "type_en": "Branch Office"
+    },
+    {
+      "code": "13400",
+      "name": "八丈支庁",
+      "name_hira": "はちじょうしちょう",
+      "name_en": "Hachijo Branch Office",
+      "name_short_ja": "八丈",
+      "name_short_en": "Hachijo",
+      "pref_code": "13",
+      "pref_name": "東京都",
+      "pref_name_en": "Tokyo Metropolis",
+      "type_ja": "支庁",
+      "type_en": "Branch Office"
+    },
+    {
+      "code": "13420",
+      "name": "小笠原支庁",
+      "name_hira": "おがさわらしちょう",
+      "name_en": "Ogasawara Branch Office",
+      "name_short_ja": "小笠原",
+      "name_short_en": "Ogasawara",
+      "pref_code": "13",
+      "pref_name": "東京都",
+      "pref_name_en": "Tokyo Metropolis",
+      "type_ja": "支庁",
+      "type_en": "Branch Office"
+    }
+  ],
+  "meta": {
+    "title": "振興局・支庁一覧（日本の広域行政区）(Subprefectures of Japan) - 無料ダウンロード",
+    "description": "日本の振興局・総合振興局・支庁の一覧（北海道14振興局＋東京都4支庁）。都道府県と管内を跨ぐ広域行政区。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Japanese subprefectures (振興局/総合振興局) and branch offices (支庁): Hokkaido's 14 subprefectures and Tokyo's 4 island branch offices. 収録数 18 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "振興局・支庁一覧（日本の広域行政区）(Subprefectures of Japan) | ListBase",
+    "seo_description": "ダウンロード 振興局・支庁一覧（日本の広域行政区）(Subprefectures of Japan) — 18 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 18 件 / 11 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

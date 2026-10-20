@@ -1,0 +1,224 @@
+{
+  "id": "ja-nagasaki-municipalities",
+  "name": "長崎県の市区町村一覧 (Municipalities of Nagasaki — JIS X 0402)",
+  "title": "長崎県の市区町村一覧 (Municipalities of Nagasaki — JIS X 0402)",
+  "description": "長崎県 (Nagasaki Prefecture) の市区町村一覧 21 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 21 active municipalities (cities/wards/towns/villages) of Nagasaki Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "42201",
+      "prefecture_code": "42",
+      "prefecture": "長崎県",
+      "prefecture_kana": "ナガサキケン",
+      "city": "長崎市",
+      "city_kana": "ナガサキシ"
+    },
+    {
+      "jisx0402": "42202",
+      "prefecture_code": "42",
+      "prefecture": "長崎県",
+      "prefecture_kana": "ナガサキケン",
+      "city": "佐世保市",
+      "city_kana": "サセボシ"
+    },
+    {
+      "jisx0402": "42203",
+      "prefecture_code": "42",
+      "prefecture": "長崎県",
+      "prefecture_kana": "ナガサキケン",
+      "city": "島原市",
+      "city_kana": "シマバラシ"
+    },
+    {
+      "jisx0402": "42204",
+      "prefecture_code": "42",
+      "prefecture": "長崎県",
+      "prefecture_kana": "ナガサキケン",
+      "city": "諫早市",
+      "city_kana": "イサハヤシ"
+    },
+    {
+      "jisx0402": "42205",
+      "prefecture_code": "42",
+      "prefecture": "長崎県",
+      "prefecture_kana": "ナガサキケン",
+      "city": "大村市",
+      "city_kana": "オオムラシ"
+    },
+    {
+      "jisx0402": "42207",
+      "prefecture_code": "42",
+      "prefecture": "長崎県",
+      "prefecture_kana": "ナガサキケン",
+      "city": "平戸市",
+      "city_kana": "ヒラドシ"
+    },
+    {
+      "jisx0402": "42208",
+      "prefecture_code": "42",
+      "prefecture": "長崎県",
+      "prefecture_kana": "ナガサキケン",
+      "city": "松浦市",
+      "city_kana": "マツウラシ"
+    },
+    {
+      "jisx0402": "42209",
+      "prefecture_code": "42",
+      "prefecture": "長崎県",
+      "prefecture_kana": "ナガサキケン",
+      "city": "対馬市",
+      "city_kana": "ツシマシ"
+    },
+    {
+      "jisx0402": "42210",
+      "prefecture_code": "42",
+      "prefecture": "長崎県",
+      "prefecture_kana": "ナガサキケン",
+      "city": "壱岐市",
+      "city_kana": "イキシ"
+    },
+    {
+      "jisx0402": "42211",
+      "prefecture_code": "42",
+      "prefecture": "長崎県",
+      "prefecture_kana": "ナガサキケン",
+      "city": "五島市",
+      "city_kana": "ゴトウシ"
+    },
+    {
+      "jisx0402": "42212",
+      "prefecture_code": "42",
+      "prefecture": "長崎県",
+      "prefecture_kana": "ナガサキケン",
+      "city": "西海市",
+      "city_kana": "サイカイシ"
+    },
+    {
+      "jisx0402": "42213",
+      "prefecture_code": "42",
+      "prefecture": "長崎県",
+      "prefecture_kana": "ナガサキケン",
+      "city": "雲仙市",
+      "city_kana": "ウンゼンシ"
+    },
+    {
+      "jisx0402": "42214",
+      "prefecture_code": "42",
+      "prefecture": "長崎県",
+      "prefecture_kana": "ナガサキケン",
+      "city": "南島原市",
+      "city_kana": "ミナミシマバラシ"
+    },
+    {
+      "jisx0402": "42307",
+      "prefecture_code": "42",
+      "prefecture": "長崎県",
+      "prefecture_kana": "ナガサキケン",
+      "city": "西彼杵郡長与町",
+      "city_kana": "ニシソノギグンナガヨチョウ"
+    },
+    {
+      "jisx0402": "42308",
+      "prefecture_code": "42",
+      "prefecture": "長崎県",
+      "prefecture_kana": "ナガサキケン",
+      "city": "西彼杵郡時津町",
+      "city_kana": "ニシソノギグントギツチョウ"
+    },
+    {
+      "jisx0402": "42321",
+      "prefecture_code": "42",
+      "prefecture": "長崎県",
+      "prefecture_kana": "ナガサキケン",
+      "city": "東彼杵郡東彼杵町",
+      "city_kana": "ヒガシソノギグンヒガシソノギチョウ"
+    },
+    {
+      "jisx0402": "42322",
+      "prefecture_code": "42",
+      "prefecture": "長崎県",
+      "prefecture_kana": "ナガサキケン",
+      "city": "東彼杵郡川棚町",
+      "city_kana": "ヒガシソノギグンカワタナチョウ"
+    },
+    {
+      "jisx0402": "42323",
+      "prefecture_code": "42",
+      "prefecture": "長崎県",
+      "prefecture_kana": "ナガサキケン",
+      "city": "東彼杵郡波佐見町",
+      "city_kana": "ヒガシソノギグンハサミチョウ"
+    },
+    {
+      "jisx0402": "42383",
+      "prefecture_code": "42",
+      "prefecture": "長崎県",
+      "prefecture_kana": "ナガサキケン",
+      "city": "北松浦郡小値賀町",
+      "city_kana": "キタマツウラグンオヂカチョウ"
+    },
+    {
+      "jisx0402": "42391",
+      "prefecture_code": "42",
+      "prefecture": "長崎県",
+      "prefecture_kana": "ナガサキケン",
+      "city": "北松浦郡佐々町",
+      "city_kana": "キタマツウラグンサザチョウ"
+    },
+    {
+      "jisx0402": "42411",
+      "prefecture_code": "42",
+      "prefecture": "長崎県",
+      "prefecture_kana": "ナガサキケン",
+      "city": "南松浦郡新上五島町",
+      "city_kana": "ミナミマツウラグンシンカミゴトウチョウ"
+    }
+  ],
+  "meta": {
+    "title": "長崎県の市区町村一覧 (Municipalities of Nagasaki — JIS X 0402) - 無料ダウンロード",
+    "description": "長崎県 (Nagasaki Prefecture) の市区町村一覧 21 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 21 active municipalities (cities/wards/towns/villages) of Nagasaki Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 21 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "長崎県の市区町村一覧 (Municipalities of Nagasaki — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 長崎県の市区町村一覧 (Municipalities of Nagasaki — JIS X 0402) — 21 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 21 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

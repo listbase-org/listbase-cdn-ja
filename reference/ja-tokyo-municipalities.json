@@ -1,0 +1,552 @@
+{
+  "id": "ja-tokyo-municipalities",
+  "name": "東京都の市区町村一覧 (Municipalities of Tokyo — JIS X 0402)",
+  "title": "東京都の市区町村一覧 (Municipalities of Tokyo — JIS X 0402)",
+  "description": "東京都 (Tokyo Prefecture) の市区町村一覧 62 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 62 active municipalities (cities/wards/towns/villages) of Tokyo Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "13101",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "千代田区",
+      "city_kana": "チヨダク"
+    },
+    {
+      "jisx0402": "13102",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "中央区",
+      "city_kana": "チュウオウク"
+    },
+    {
+      "jisx0402": "13103",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "港区",
+      "city_kana": "ミナトク"
+    },
+    {
+      "jisx0402": "13104",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "新宿区",
+      "city_kana": "シンジュクク"
+    },
+    {
+      "jisx0402": "13105",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "文京区",
+      "city_kana": "ブンキョウク"
+    },
+    {
+      "jisx0402": "13106",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "台東区",
+      "city_kana": "タイトウク"
+    },
+    {
+      "jisx0402": "13107",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "墨田区",
+      "city_kana": "スミダク"
+    },
+    {
+      "jisx0402": "13108",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "江東区",
+      "city_kana": "コウトウク"
+    },
+    {
+      "jisx0402": "13109",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "品川区",
+      "city_kana": "シナガワク"
+    },
+    {
+      "jisx0402": "13110",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "目黒区",
+      "city_kana": "メグロク"
+    },
+    {
+      "jisx0402": "13111",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "大田区",
+      "city_kana": "オオタク"
+    },
+    {
+      "jisx0402": "13112",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "世田谷区",
+      "city_kana": "セタガヤク"
+    },
+    {
+      "jisx0402": "13113",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "渋谷区",
+      "city_kana": "シブヤク"
+    },
+    {
+      "jisx0402": "13114",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "中野区",
+      "city_kana": "ナカノク"
+    },
+    {
+      "jisx0402": "13115",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "杉並区",
+      "city_kana": "スギナミク"
+    },
+    {
+      "jisx0402": "13116",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "豊島区",
+      "city_kana": "トシマク"
+    },
+    {
+      "jisx0402": "13117",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "北区",
+      "city_kana": "キタク"
+    },
+    {
+      "jisx0402": "13118",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "荒川区",
+      "city_kana": "アラカワク"
+    },
+    {
+      "jisx0402": "13119",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "板橋区",
+      "city_kana": "イタバシク"
+    },
+    {
+      "jisx0402": "13120",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "練馬区",
+      "city_kana": "ネリマク"
+    },
+    {
+      "jisx0402": "13121",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "足立区",
+      "city_kana": "アダチク"
+    },
+    {
+      "jisx0402": "13122",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "葛飾区",
+      "city_kana": "カツシカク"
+    },
+    {
+      "jisx0402": "13123",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "江戸川区",
+      "city_kana": "エドガワク"
+    },
+    {
+      "jisx0402": "13201",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "八王子市",
+      "city_kana": "ハチオウジシ"
+    },
+    {
+      "jisx0402": "13202",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "立川市",
+      "city_kana": "タチカワシ"
+    },
+    {
+      "jisx0402": "13203",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "武蔵野市",
+      "city_kana": "ムサシノシ"
+    },
+    {
+      "jisx0402": "13204",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "三鷹市",
+      "city_kana": "ミタカシ"
+    },
+    {
+      "jisx0402": "13205",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "青梅市",
+      "city_kana": "オウメシ"
+    },
+    {
+      "jisx0402": "13206",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "府中市",
+      "city_kana": "フチュウシ"
+    },
+    {
+      "jisx0402": "13207",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "昭島市",
+      "city_kana": "アキシマシ"
+    },
+    {
+      "jisx0402": "13208",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "調布市",
+      "city_kana": "チョウフシ"
+    },
+    {
+      "jisx0402": "13209",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "町田市",
+      "city_kana": "マチダシ"
+    },
+    {
+      "jisx0402": "13210",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "小金井市",
+      "city_kana": "コガネイシ"
+    },
+    {
+      "jisx0402": "13211",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "小平市",
+      "city_kana": "コダイラシ"
+    },
+    {
+      "jisx0402": "13212",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "日野市",
+      "city_kana": "ヒノシ"
+    },
+    {
+      "jisx0402": "13213",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "東村山市",
+      "city_kana": "ヒガシムラヤマシ"
+    },
+    {
+      "jisx0402": "13214",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "国分寺市",
+      "city_kana": "コクブンジシ"
+    },
+    {
+      "jisx0402": "13215",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "国立市",
+      "city_kana": "クニタチシ"
+    },
+    {
+      "jisx0402": "13218",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "福生市",
+      "city_kana": "フッサシ"
+    },
+    {
+      "jisx0402": "13219",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "狛江市",
+      "city_kana": "コマエシ"
+    },
+    {
+      "jisx0402": "13220",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "東大和市",
+      "city_kana": "ヒガシヤマトシ"
+    },
+    {
+      "jisx0402": "13221",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "清瀬市",
+      "city_kana": "キヨセシ"
+    },
+    {
+      "jisx0402": "13222",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "東久留米市",
+      "city_kana": "ヒガシクルメシ"
+    },
+    {
+      "jisx0402": "13223",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "武蔵村山市",
+      "city_kana": "ムサシムラヤマシ"
+    },
+    {
+      "jisx0402": "13224",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "多摩市",
+      "city_kana": "タマシ"
+    },
+    {
+      "jisx0402": "13225",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "稲城市",
+      "city_kana": "イナギシ"
+    },
+    {
+      "jisx0402": "13227",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "羽村市",
+      "city_kana": "ハムラシ"
+    },
+    {
+      "jisx0402": "13228",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "あきる野市",
+      "city_kana": "アキルノシ"
+    },
+    {
+      "jisx0402": "13229",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "西東京市",
+      "city_kana": "ニシトウキョウシ"
+    },
+    {
+      "jisx0402": "13303",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "西多摩郡瑞穂町",
+      "city_kana": "ニシタマグンミズホマチ"
+    },
+    {
+      "jisx0402": "13305",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "西多摩郡日の出町",
+      "city_kana": "ニシタマグンヒノデマチ"
+    },
+    {
+      "jisx0402": "13307",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "西多摩郡檜原村",
+      "city_kana": "ニシタマグンヒノハラムラ"
+    },
+    {
+      "jisx0402": "13308",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "西多摩郡奥多摩町",
+      "city_kana": "ニシタマグンオクタママチ"
+    },
+    {
+      "jisx0402": "13361",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "大島町",
+      "city_kana": "オオシママチ"
+    },
+    {
+      "jisx0402": "13362",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "利島村",
+      "city_kana": "トシマムラ"
+    },
+    {
+      "jisx0402": "13363",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "新島村",
+      "city_kana": "ニイジマムラ"
+    },
+    {
+      "jisx0402": "13364",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "神津島村",
+      "city_kana": "コウヅシマムラ"
+    },
+    {
+      "jisx0402": "13381",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "三宅島三宅村",
+      "city_kana": "ミヤケジマミヤケムラ"
+    },
+    {
+      "jisx0402": "13382",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "御蔵島村",
+      "city_kana": "ミクラジマムラ"
+    },
+    {
+      "jisx0402": "13401",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "八丈島八丈町",
+      "city_kana": "ハチジョウジマハチジョウマチ"
+    },
+    {
+      "jisx0402": "13402",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "青ヶ島村",
+      "city_kana": "アオガシマムラ"
+    },
+    {
+      "jisx0402": "13421",
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "city": "小笠原村",
+      "city_kana": "オガサワラムラ"
+    }
+  ],
+  "meta": {
+    "title": "東京都の市区町村一覧 (Municipalities of Tokyo — JIS X 0402) - 無料ダウンロード",
+    "description": "東京都 (Tokyo Prefecture) の市区町村一覧 62 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 62 active municipalities (cities/wards/towns/villages) of Tokyo Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 62 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "東京都の市区町村一覧 (Municipalities of Tokyo — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 東京都の市区町村一覧 (Municipalities of Tokyo — JIS X 0402) — 62 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 62 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

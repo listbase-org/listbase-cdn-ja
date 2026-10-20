@@ -1,0 +1,256 @@
+{
+  "id": "ja-tochigi-municipalities",
+  "name": "栃木県の市区町村一覧 (Municipalities of Tochigi — JIS X 0402)",
+  "title": "栃木県の市区町村一覧 (Municipalities of Tochigi — JIS X 0402)",
+  "description": "栃木県 (Tochigi Prefecture) の市区町村一覧 25 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 25 active municipalities (cities/wards/towns/villages) of Tochigi Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "09201",
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "city": "宇都宮市",
+      "city_kana": "ウツノミヤシ"
+    },
+    {
+      "jisx0402": "09202",
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "city": "足利市",
+      "city_kana": "アシカガシ"
+    },
+    {
+      "jisx0402": "09203",
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "city": "栃木市",
+      "city_kana": "トチギシ"
+    },
+    {
+      "jisx0402": "09204",
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "city": "佐野市",
+      "city_kana": "サノシ"
+    },
+    {
+      "jisx0402": "09205",
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "city": "鹿沼市",
+      "city_kana": "カヌマシ"
+    },
+    {
+      "jisx0402": "09206",
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "city": "日光市",
+      "city_kana": "ニッコウシ"
+    },
+    {
+      "jisx0402": "09208",
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "city": "小山市",
+      "city_kana": "オヤマシ"
+    },
+    {
+      "jisx0402": "09209",
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "city": "真岡市",
+      "city_kana": "モオカシ"
+    },
+    {
+      "jisx0402": "09210",
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "city": "大田原市",
+      "city_kana": "オオタワラシ"
+    },
+    {
+      "jisx0402": "09211",
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "city": "矢板市",
+      "city_kana": "ヤイタシ"
+    },
+    {
+      "jisx0402": "09213",
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "city": "那須塩原市",
+      "city_kana": "ナスシオバラシ"
+    },
+    {
+      "jisx0402": "09214",
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "city": "さくら市",
+      "city_kana": "サクラシ"
+    },
+    {
+      "jisx0402": "09215",
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "city": "那須烏山市",
+      "city_kana": "ナスカラスヤマシ"
+    },
+    {
+      "jisx0402": "09216",
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "city": "下野市",
+      "city_kana": "シモツケシ"
+    },
+    {
+      "jisx0402": "09301",
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "city": "河内郡上三川町",
+      "city_kana": "カワチグンカミノカワマチ"
+    },
+    {
+      "jisx0402": "09342",
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "city": "芳賀郡益子町",
+      "city_kana": "ハガグンマシコマチ"
+    },
+    {
+      "jisx0402": "09343",
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "city": "芳賀郡茂木町",
+      "city_kana": "ハガグンモテギマチ"
+    },
+    {
+      "jisx0402": "09344",
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "city": "芳賀郡市貝町",
+      "city_kana": "ハガグンイチカイマチ"
+    },
+    {
+      "jisx0402": "09345",
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "city": "芳賀郡芳賀町",
+      "city_kana": "ハガグンハガマチ"
+    },
+    {
+      "jisx0402": "09361",
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "city": "下都賀郡壬生町",
+      "city_kana": "シモツガグンミブマチ"
+    },
+    {
+      "jisx0402": "09364",
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "city": "下都賀郡野木町",
+      "city_kana": "シモツガグンノギマチ"
+    },
+    {
+      "jisx0402": "09384",
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "city": "塩谷郡塩谷町",
+      "city_kana": "シオヤグンシオヤマチ"
+    },
+    {
+      "jisx0402": "09386",
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "city": "塩谷郡高根沢町",
+      "city_kana": "シオヤグンタカネザワマチ"
+    },
+    {
+      "jisx0402": "09407",
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "city": "那須郡那須町",
+      "city_kana": "ナスグンナスマチ"
+    },
+    {
+      "jisx0402": "09411",
+      "prefecture_code": "09",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "city": "那須郡那珂川町",
+      "city_kana": "ナスグンナカガワマチ"
+    }
+  ],
+  "meta": {
+    "title": "栃木県の市区町村一覧 (Municipalities of Tochigi — JIS X 0402) - 無料ダウンロード",
+    "description": "栃木県 (Tochigi Prefecture) の市区町村一覧 25 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 25 active municipalities (cities/wards/towns/villages) of Tochigi Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 25 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "栃木県の市区町村一覧 (Municipalities of Tochigi — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 栃木県の市区町村一覧 (Municipalities of Tochigi — JIS X 0402) — 25 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 25 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

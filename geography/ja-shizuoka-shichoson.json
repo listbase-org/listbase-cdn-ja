@@ -1,0 +1,400 @@
+{
+  "id": "ja-shizuoka-shichoson",
+  "name": "静岡県の市区町村一覧",
+  "title": "静岡県の市区町村一覧",
+  "description": "静岡県 (Shizuoka Prefecture) の全市区町村 43 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "22101",
+      "name": "葵区",
+      "full_name": "静岡市葵区",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "静岡市",
+      "subprefecture": ""
+    },
+    {
+      "code": "22102",
+      "name": "駿河区",
+      "full_name": "静岡市駿河区",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "静岡市",
+      "subprefecture": ""
+    },
+    {
+      "code": "22103",
+      "name": "清水区",
+      "full_name": "静岡市清水区",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "静岡市",
+      "subprefecture": ""
+    },
+    {
+      "code": "22131",
+      "name": "中区",
+      "full_name": "浜松市中区",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "浜松市",
+      "subprefecture": ""
+    },
+    {
+      "code": "22132",
+      "name": "東区",
+      "full_name": "浜松市東区",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "浜松市",
+      "subprefecture": ""
+    },
+    {
+      "code": "22133",
+      "name": "西区",
+      "full_name": "浜松市西区",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "浜松市",
+      "subprefecture": ""
+    },
+    {
+      "code": "22134",
+      "name": "南区",
+      "full_name": "浜松市南区",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "浜松市",
+      "subprefecture": ""
+    },
+    {
+      "code": "22135",
+      "name": "北区",
+      "full_name": "浜松市北区",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "浜松市",
+      "subprefecture": ""
+    },
+    {
+      "code": "22136",
+      "name": "浜北区",
+      "full_name": "浜松市浜北区",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "浜松市",
+      "subprefecture": ""
+    },
+    {
+      "code": "22137",
+      "name": "天竜区",
+      "full_name": "浜松市天竜区",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "浜松市",
+      "subprefecture": ""
+    },
+    {
+      "code": "22203",
+      "name": "沼津市",
+      "full_name": "沼津市",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "22205",
+      "name": "熱海市",
+      "full_name": "熱海市",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "22206",
+      "name": "三島市",
+      "full_name": "三島市",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "22207",
+      "name": "富士宮市",
+      "full_name": "富士宮市",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "22208",
+      "name": "伊東市",
+      "full_name": "伊東市",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "22209",
+      "name": "島田市",
+      "full_name": "島田市",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "22210",
+      "name": "富士市",
+      "full_name": "富士市",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "22211",
+      "name": "磐田市",
+      "full_name": "磐田市",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "22212",
+      "name": "焼津市",
+      "full_name": "焼津市",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "22213",
+      "name": "掛川市",
+      "full_name": "掛川市",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "22214",
+      "name": "藤枝市",
+      "full_name": "藤枝市",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "22215",
+      "name": "御殿場市",
+      "full_name": "御殿場市",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "22216",
+      "name": "袋井市",
+      "full_name": "袋井市",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "22219",
+      "name": "下田市",
+      "full_name": "下田市",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "22220",
+      "name": "裾野市",
+      "full_name": "裾野市",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "22221",
+      "name": "湖西市",
+      "full_name": "湖西市",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "22222",
+      "name": "伊豆市",
+      "full_name": "伊豆市",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "22223",
+      "name": "御前崎市",
+      "full_name": "御前崎市",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "22224",
+      "name": "菊川市",
+      "full_name": "菊川市",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "22225",
+      "name": "伊豆の国市",
+      "full_name": "伊豆の国市",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "22226",
+      "name": "牧之原市",
+      "full_name": "牧之原市",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "22301",
+      "name": "東伊豆町",
+      "full_name": "賀茂郡東伊豆町",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "賀茂郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "22302",
+      "name": "河津町",
+      "full_name": "賀茂郡河津町",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "賀茂郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "22304",
+      "name": "南伊豆町",
+      "full_name": "賀茂郡南伊豆町",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "賀茂郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "22305",
+      "name": "松崎町",
+      "full_name": "賀茂郡松崎町",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "賀茂郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "22306",
+      "name": "西伊豆町",
+      "full_name": "賀茂郡西伊豆町",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "賀茂郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "22325",
+      "name": "函南町",
+      "full_name": "田方郡函南町",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "田方郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "22341",
+      "name": "清水町",
+      "full_name": "駿東郡清水町",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "駿東郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "22342",
+      "name": "長泉町",
+      "full_name": "駿東郡長泉町",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "駿東郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "22344",
+      "name": "小山町",
+      "full_name": "駿東郡小山町",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "駿東郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "22424",
+      "name": "吉田町",
+      "full_name": "榛原郡吉田町",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "榛原郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "22429",
+      "name": "川根本町",
+      "full_name": "榛原郡川根本町",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "榛原郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "22461",
+      "name": "森町",
+      "full_name": "周智郡森町",
+      "prefecture": "静岡県",
+      "county_or_designated_city": "周智郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "静岡県の市区町村一覧 - 無料ダウンロード",
+    "description": "静岡県 (Shizuoka Prefecture) の全市区町村 43 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 43 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "静岡県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 静岡県の市区町村一覧 — 43 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 43 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

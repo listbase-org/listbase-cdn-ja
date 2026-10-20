@@ -1,0 +1,341 @@
+{
+  "id": "ja-nara-unlocode",
+  "name": "UN/LOCODE 地点コード — 奈良県（港湾・空港・ターミナル）",
+  "title": "UN/LOCODE 地点コード — 奈良県（港湾・空港・ターミナル）",
+  "description": "奈良県内の UN/LOCODE 地点コード 8 件。UNECE の United Nations Code for Trade and Transport Locations から、日本（JP）・subdivision 29 のレコードを抽出。LOCODE、地名（ダイアクリティカルマーク付き/なし）、輸送機能分類（海港・鉄道・道路・空港・郵便・複合輸送）、承認ステータス、IATA コード、座標を収録。 — 8 UN/LOCODE entries in Nara Prefecture, Japan: LOCODE, place name, function classifiers, approval status, IATA code and coordinates.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "number"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_slug",
+      "label": "Prefecture Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "locode": "JPFSR",
+      "country": "JP",
+      "location": "FSR",
+      "name": "Katsuragi, Nara",
+      "name_wo_diacritics": "Katsuragi, Nara",
+      "subdivision_code": "29",
+      "subdivision_name": "Nara",
+      "subdivision_type": "Prefecture",
+      "status": "AF",
+      "status_description": "Approved by national facilitation body",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "3429N 13544E",
+      "latitude": 34.4833,
+      "longitude": 135.7333,
+      "date_updated": "2016-01",
+      "remarks": "",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "prefecture_slug": "nara"
+    },
+    {
+      "id": 2,
+      "locode": "JPGSE",
+      "country": "JP",
+      "location": "GSE",
+      "name": "Gose",
+      "name_wo_diacritics": "Gose",
+      "subdivision_code": "29",
+      "subdivision_name": "Nara",
+      "subdivision_type": "Prefecture",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "3427N 13544E",
+      "latitude": 34.45,
+      "longitude": 135.7333,
+      "date_updated": "2016-01",
+      "remarks": "",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "prefecture_slug": "nara"
+    },
+    {
+      "id": 3,
+      "locode": "JPKAS",
+      "country": "JP",
+      "location": "KAS",
+      "name": "Kashihara, Nara",
+      "name_wo_diacritics": "Kashihara, Nara",
+      "subdivision_code": "29",
+      "subdivision_name": "Nara",
+      "subdivision_type": "Prefecture",
+      "status": "AF",
+      "status_description": "Approved by national facilitation body",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "3430N 13547E",
+      "latitude": 34.5,
+      "longitude": 135.7833,
+      "date_updated": "2016-01",
+      "remarks": "",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "prefecture_slug": "nara"
+    },
+    {
+      "id": 4,
+      "locode": "JPOQM",
+      "country": "JP",
+      "location": "OQM",
+      "name": "Ikoma",
+      "name_wo_diacritics": "Ikoma",
+      "subdivision_code": "29",
+      "subdivision_name": "Nara",
+      "subdivision_type": "Prefecture",
+      "status": "AF",
+      "status_description": "Approved by national facilitation body",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "3441N 13542E",
+      "latitude": 34.6833,
+      "longitude": 135.7,
+      "date_updated": "2015-01",
+      "remarks": "",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "prefecture_slug": "nara"
+    },
+    {
+      "id": 5,
+      "locode": "JPQNZ",
+      "country": "JP",
+      "location": "QNZ",
+      "name": "Nara City",
+      "name_wo_diacritics": "Nara City",
+      "subdivision_code": "29",
+      "subdivision_name": "Nara",
+      "subdivision_type": "Prefecture",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "3441N 13548E",
+      "latitude": 34.6833,
+      "longitude": 135.8,
+      "date_updated": "2009-07",
+      "remarks": "",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "prefecture_slug": "nara"
+    },
+    {
+      "id": 6,
+      "locode": "JPTRI",
+      "country": "JP",
+      "location": "TRI",
+      "name": "Tenri",
+      "name_wo_diacritics": "Tenri",
+      "subdivision_code": "29",
+      "subdivision_name": "Nara",
+      "subdivision_type": "Prefecture",
+      "status": "AF",
+      "status_description": "Approved by national facilitation body",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "3435N 13550E",
+      "latitude": 34.5833,
+      "longitude": 135.8333,
+      "date_updated": "2012-07",
+      "remarks": "",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "prefecture_slug": "nara"
+    },
+    {
+      "id": 7,
+      "locode": "JPWYA",
+      "country": "JP",
+      "location": "WYA",
+      "name": "Yamatokoriyama",
+      "name_wo_diacritics": "Yamatokoriyama",
+      "subdivision_code": "29",
+      "subdivision_name": "Nara",
+      "subdivision_type": "Prefecture",
+      "status": "AF",
+      "status_description": "Approved by national facilitation body",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "3439N 13547E",
+      "latitude": 34.65,
+      "longitude": 135.7833,
+      "date_updated": "2015-01",
+      "remarks": "",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "prefecture_slug": "nara"
+    },
+    {
+      "id": 8,
+      "locode": "JPYOZ",
+      "country": "JP",
+      "location": "YOZ",
+      "name": "Yoshino, Nara",
+      "name_wo_diacritics": "Yoshino, Nara",
+      "subdivision_code": "29",
+      "subdivision_name": "Nara",
+      "subdivision_type": "Prefecture",
+      "status": "AF",
+      "status_description": "Approved by national facilitation body",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "3424N 13551E",
+      "latitude": 34.4,
+      "longitude": 135.85,
+      "date_updated": "2016-07",
+      "remarks": "",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "prefecture_slug": "nara"
+    }
+  ],
+  "meta": {
+    "title": "UN/LOCODE 地点コード — 奈良県（港湾・空港・ターミナル） - 無料ダウンロード",
+    "description": "奈良県内の UN/LOCODE 地点コード 8 件。UNECE の United Nations Code for Trade and Transport Locations から、日本（JP）・subdivision 29 のレコードを抽出。LOCODE、地名（ダイアクリティカルマーク付き/なし）、輸送機能分類（海港・鉄道・道路・空港・郵便・複合輸送）、承認ステータス、IATA コード、座標を収録。 — 8 UN/LOCODE entries in Nara Prefecture, Japan: LOCODE, place name, function classifiers, approval status, IATA code and coordinates. 収録数 8 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "UN/LOCODE 地点コード — 奈良県（港湾・空港・ターミナル） | ListBase",
+    "seo_description": "ダウンロード UN/LOCODE 地点コード — 奈良県（港湾・空港・ターミナル） — 8 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 8 件 / 23 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

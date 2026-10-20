@@ -1,0 +1,120 @@
+{
+  "id": "ja-shiga-gun",
+  "name": "滋賀県の郡一覧 (Shiga Prefecture — counties)",
+  "title": "滋賀県の郡一覧 (Shiga Prefecture — counties)",
+  "description": "滋賀県に属する郡（ぐん）の一覧（3件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Shiga Prefecture.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_hira",
+      "label": "Name Hira",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_short_ja",
+      "label": "Name Short Ja",
+      "type": "string"
+    },
+    {
+      "key": "name_short_en",
+      "label": "Name Short En",
+      "type": "string"
+    },
+    {
+      "key": "pref_code",
+      "label": "Pref Code",
+      "type": "number"
+    },
+    {
+      "key": "pref_name",
+      "label": "Pref Name",
+      "type": "string"
+    },
+    {
+      "key": "pref_name_en",
+      "label": "Pref Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ja",
+      "label": "Type Ja",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "25380",
+      "name": "蒲生郡",
+      "name_hira": "がもうぐん",
+      "name_en": "Gamo County",
+      "name_short_ja": "蒲生",
+      "name_short_en": "Gamo",
+      "pref_code": "25",
+      "pref_name": "滋賀県",
+      "pref_name_en": "Shiga Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "25420",
+      "name": "愛知郡",
+      "name_hira": "えちぐん",
+      "name_en": "Echi County",
+      "name_short_ja": "愛知",
+      "name_short_en": "Echi",
+      "pref_code": "25",
+      "pref_name": "滋賀県",
+      "pref_name_en": "Shiga Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "25440",
+      "name": "犬上郡",
+      "name_hira": "いぬかみぐん",
+      "name_en": "Inukami County",
+      "name_short_ja": "犬上",
+      "name_short_en": "Inukami",
+      "pref_code": "25",
+      "pref_name": "滋賀県",
+      "pref_name_en": "Shiga Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    }
+  ],
+  "meta": {
+    "title": "滋賀県の郡一覧 (Shiga Prefecture — counties) - 無料ダウンロード",
+    "description": "滋賀県に属する郡（ぐん）の一覧（3件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Shiga Prefecture. 収録数 3 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "滋賀県の郡一覧 (Shiga Prefecture — counties) | ListBase",
+    "seo_description": "ダウンロード 滋賀県の郡一覧 (Shiga Prefecture — counties) — 3 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 3 件 / 11 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

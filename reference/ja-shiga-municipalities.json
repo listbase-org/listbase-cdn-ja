@@ -1,0 +1,208 @@
+{
+  "id": "ja-shiga-municipalities",
+  "name": "滋賀県の市区町村一覧 (Municipalities of Shiga — JIS X 0402)",
+  "title": "滋賀県の市区町村一覧 (Municipalities of Shiga — JIS X 0402)",
+  "description": "滋賀県 (Shiga Prefecture) の市区町村一覧 19 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 19 active municipalities (cities/wards/towns/villages) of Shiga Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "25201",
+      "prefecture_code": "25",
+      "prefecture": "滋賀県",
+      "prefecture_kana": "シガケン",
+      "city": "大津市",
+      "city_kana": "オオツシ"
+    },
+    {
+      "jisx0402": "25202",
+      "prefecture_code": "25",
+      "prefecture": "滋賀県",
+      "prefecture_kana": "シガケン",
+      "city": "彦根市",
+      "city_kana": "ヒコネシ"
+    },
+    {
+      "jisx0402": "25203",
+      "prefecture_code": "25",
+      "prefecture": "滋賀県",
+      "prefecture_kana": "シガケン",
+      "city": "長浜市",
+      "city_kana": "ナガハマシ"
+    },
+    {
+      "jisx0402": "25204",
+      "prefecture_code": "25",
+      "prefecture": "滋賀県",
+      "prefecture_kana": "シガケン",
+      "city": "近江八幡市",
+      "city_kana": "オウミハチマンシ"
+    },
+    {
+      "jisx0402": "25206",
+      "prefecture_code": "25",
+      "prefecture": "滋賀県",
+      "prefecture_kana": "シガケン",
+      "city": "草津市",
+      "city_kana": "クサツシ"
+    },
+    {
+      "jisx0402": "25207",
+      "prefecture_code": "25",
+      "prefecture": "滋賀県",
+      "prefecture_kana": "シガケン",
+      "city": "守山市",
+      "city_kana": "モリヤマシ"
+    },
+    {
+      "jisx0402": "25208",
+      "prefecture_code": "25",
+      "prefecture": "滋賀県",
+      "prefecture_kana": "シガケン",
+      "city": "栗東市",
+      "city_kana": "リットウシ"
+    },
+    {
+      "jisx0402": "25209",
+      "prefecture_code": "25",
+      "prefecture": "滋賀県",
+      "prefecture_kana": "シガケン",
+      "city": "甲賀市",
+      "city_kana": "コウカシ"
+    },
+    {
+      "jisx0402": "25210",
+      "prefecture_code": "25",
+      "prefecture": "滋賀県",
+      "prefecture_kana": "シガケン",
+      "city": "野洲市",
+      "city_kana": "ヤスシ"
+    },
+    {
+      "jisx0402": "25211",
+      "prefecture_code": "25",
+      "prefecture": "滋賀県",
+      "prefecture_kana": "シガケン",
+      "city": "湖南市",
+      "city_kana": "コナンシ"
+    },
+    {
+      "jisx0402": "25212",
+      "prefecture_code": "25",
+      "prefecture": "滋賀県",
+      "prefecture_kana": "シガケン",
+      "city": "高島市",
+      "city_kana": "タカシマシ"
+    },
+    {
+      "jisx0402": "25213",
+      "prefecture_code": "25",
+      "prefecture": "滋賀県",
+      "prefecture_kana": "シガケン",
+      "city": "東近江市",
+      "city_kana": "ヒガシオウミシ"
+    },
+    {
+      "jisx0402": "25214",
+      "prefecture_code": "25",
+      "prefecture": "滋賀県",
+      "prefecture_kana": "シガケン",
+      "city": "米原市",
+      "city_kana": "マイバラシ"
+    },
+    {
+      "jisx0402": "25383",
+      "prefecture_code": "25",
+      "prefecture": "滋賀県",
+      "prefecture_kana": "シガケン",
+      "city": "蒲生郡日野町",
+      "city_kana": "ガモウグンヒノチョウ"
+    },
+    {
+      "jisx0402": "25384",
+      "prefecture_code": "25",
+      "prefecture": "滋賀県",
+      "prefecture_kana": "シガケン",
+      "city": "蒲生郡竜王町",
+      "city_kana": "ガモウグンリュウオウチョウ"
+    },
+    {
+      "jisx0402": "25425",
+      "prefecture_code": "25",
+      "prefecture": "滋賀県",
+      "prefecture_kana": "シガケン",
+      "city": "愛知郡愛荘町",
+      "city_kana": "エチグンアイショウチョウ"
+    },
+    {
+      "jisx0402": "25441",
+      "prefecture_code": "25",
+      "prefecture": "滋賀県",
+      "prefecture_kana": "シガケン",
+      "city": "犬上郡豊郷町",
+      "city_kana": "イヌカミグントヨサトチョウ"
+    },
+    {
+      "jisx0402": "25442",
+      "prefecture_code": "25",
+      "prefecture": "滋賀県",
+      "prefecture_kana": "シガケン",
+      "city": "犬上郡甲良町",
+      "city_kana": "イヌカミグンコウラチョウ"
+    },
+    {
+      "jisx0402": "25443",
+      "prefecture_code": "25",
+      "prefecture": "滋賀県",
+      "prefecture_kana": "シガケン",
+      "city": "犬上郡多賀町",
+      "city_kana": "イヌカミグンタガチョウ"
+    }
+  ],
+  "meta": {
+    "title": "滋賀県の市区町村一覧 (Municipalities of Shiga — JIS X 0402) - 無料ダウンロード",
+    "description": "滋賀県 (Shiga Prefecture) の市区町村一覧 19 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 19 active municipalities (cities/wards/towns/villages) of Shiga Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 19 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "滋賀県の市区町村一覧 (Municipalities of Shiga — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 滋賀県の市区町村一覧 (Municipalities of Shiga — JIS X 0402) — 19 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 19 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

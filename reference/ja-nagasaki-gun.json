@@ -1,0 +1,133 @@
+{
+  "id": "ja-nagasaki-gun",
+  "name": "長崎県の郡一覧 (Nagasaki Prefecture — counties)",
+  "title": "長崎県の郡一覧 (Nagasaki Prefecture — counties)",
+  "description": "長崎県に属する郡（ぐん）の一覧（4件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Nagasaki Prefecture.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_hira",
+      "label": "Name Hira",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_short_ja",
+      "label": "Name Short Ja",
+      "type": "string"
+    },
+    {
+      "key": "name_short_en",
+      "label": "Name Short En",
+      "type": "string"
+    },
+    {
+      "key": "pref_code",
+      "label": "Pref Code",
+      "type": "number"
+    },
+    {
+      "key": "pref_name",
+      "label": "Pref Name",
+      "type": "string"
+    },
+    {
+      "key": "pref_name_en",
+      "label": "Pref Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ja",
+      "label": "Type Ja",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "42300",
+      "name": "西彼杵郡",
+      "name_hira": "にしそのぎぐん",
+      "name_en": "Nishisonogi County",
+      "name_short_ja": "西彼杵",
+      "name_short_en": "Nishisonogi",
+      "pref_code": "42",
+      "pref_name": "長崎県",
+      "pref_name_en": "Nagasaki Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "42320",
+      "name": "東彼杵郡",
+      "name_hira": "ひがしそのぎぐん",
+      "name_en": "Higashisonogi County",
+      "name_short_ja": "東彼杵",
+      "name_short_en": "Higashisonogi",
+      "pref_code": "42",
+      "pref_name": "長崎県",
+      "pref_name_en": "Nagasaki Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "42380",
+      "name": "北松浦郡",
+      "name_hira": "きたまつうらぐん",
+      "name_en": "Kitamatsuura County",
+      "name_short_ja": "北松浦",
+      "name_short_en": "Kitamatsuura",
+      "pref_code": "42",
+      "pref_name": "長崎県",
+      "pref_name_en": "Nagasaki Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "42400",
+      "name": "南松浦郡",
+      "name_hira": "みなみまつうらぐん",
+      "name_en": "Minamimatsuura County",
+      "name_short_ja": "南松浦",
+      "name_short_en": "Minamimatsuura",
+      "pref_code": "42",
+      "pref_name": "長崎県",
+      "pref_name_en": "Nagasaki Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    }
+  ],
+  "meta": {
+    "title": "長崎県の郡一覧 (Nagasaki Prefecture — counties) - 無料ダウンロード",
+    "description": "長崎県に属する郡（ぐん）の一覧（4件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Nagasaki Prefecture. 収録数 4 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "長崎県の郡一覧 (Nagasaki Prefecture — counties) | ListBase",
+    "seo_description": "ダウンロード 長崎県の郡一覧 (Nagasaki Prefecture — counties) — 4 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 4 件 / 11 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "id": "ja-mie-gun",
+  "name": "三重県の郡一覧 (Mie Prefecture — counties)",
+  "title": "三重県の郡一覧 (Mie Prefecture — counties)",
+  "description": "三重県に属する郡（ぐん）の一覧（7件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Mie Prefecture.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_hira",
+      "label": "Name Hira",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_short_ja",
+      "label": "Name Short Ja",
+      "type": "string"
+    },
+    {
+      "key": "name_short_en",
+      "label": "Name Short En",
+      "type": "string"
+    },
+    {
+      "key": "pref_code",
+      "label": "Pref Code",
+      "type": "number"
+    },
+    {
+      "key": "pref_name",
+      "label": "Pref Name",
+      "type": "string"
+    },
+    {
+      "key": "pref_name_en",
+      "label": "Pref Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ja",
+      "label": "Type Ja",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "24300",
+      "name": "桑名郡",
+      "name_hira": "くわなぐん",
+      "name_en": "Kuwana County",
+      "name_short_ja": "桑名",
+      "name_short_en": "Kuwana",
+      "pref_code": "24",
+      "pref_name": "三重県",
+      "pref_name_en": "Mie Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "24320",
+      "name": "員弁郡",
+      "name_hira": "いなべぐん",
+      "name_en": "Inabe County",
+      "name_short_ja": "員弁",
+      "name_short_en": "Inabe",
+      "pref_code": "24",
+      "pref_name": "三重県",
+      "pref_name_en": "Mie Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "24340",
+      "name": "三重郡",
+      "name_hira": "みえぐん",
+      "name_en": "Mie County",
+      "name_short_ja": "三重",
+      "name_short_en": "Mie",
+      "pref_code": "24",
+      "pref_name": "三重県",
+      "pref_name_en": "Mie Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "24440",
+      "name": "多気郡",
+      "name_hira": "たきぐん",
+      "name_en": "Taki County",
+      "name_short_ja": "多気",
+      "name_short_en": "Taki",
+      "pref_code": "24",
+      "pref_name": "三重県",
+      "pref_name_en": "Mie Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "24460",
+      "name": "度会郡",
+      "name_hira": "わたらいぐん",
+      "name_en": "Watarai County",
+      "name_short_ja": "度会",
+      "name_short_en": "Watarai",
+      "pref_code": "24",
+      "pref_name": "三重県",
+      "pref_name_en": "Mie Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "24540",
+      "name": "北牟婁郡",
+      "name_hira": "きたむろぐん",
+      "name_en": "Kitamuro County",
+      "name_short_ja": "北牟婁",
+      "name_short_en": "Kitamuro",
+      "pref_code": "24",
+      "pref_name": "三重県",
+      "pref_name_en": "Mie Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "24560",
+      "name": "南牟婁郡",
+      "name_hira": "みなみむろぐん",
+      "name_en": "Minamimuro County",
+      "name_short_ja": "南牟婁",
+      "name_short_en": "Minamimuro",
+      "pref_code": "24",
+      "pref_name": "三重県",
+      "pref_name_en": "Mie Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    }
+  ],
+  "meta": {
+    "title": "三重県の郡一覧 (Mie Prefecture — counties) - 無料ダウンロード",
+    "description": "三重県に属する郡（ぐん）の一覧（7件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Mie Prefecture. 収録数 7 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "三重県の郡一覧 (Mie Prefecture — counties) | ListBase",
+    "seo_description": "ダウンロード 三重県の郡一覧 (Mie Prefecture — counties) — 7 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 7 件 / 11 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

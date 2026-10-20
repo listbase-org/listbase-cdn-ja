@@ -1,0 +1,328 @@
+{
+  "id": "ja-kochi-shichoson",
+  "name": "高知県の市区町村一覧",
+  "title": "高知県の市区町村一覧",
+  "description": "高知県 (Kochi Prefecture) の全市区町村 34 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "39201",
+      "name": "高知市",
+      "full_name": "高知市",
+      "prefecture": "高知県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "39202",
+      "name": "室戸市",
+      "full_name": "室戸市",
+      "prefecture": "高知県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "39203",
+      "name": "安芸市",
+      "full_name": "安芸市",
+      "prefecture": "高知県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "39204",
+      "name": "南国市",
+      "full_name": "南国市",
+      "prefecture": "高知県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "39205",
+      "name": "土佐市",
+      "full_name": "土佐市",
+      "prefecture": "高知県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "39206",
+      "name": "須崎市",
+      "full_name": "須崎市",
+      "prefecture": "高知県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "39208",
+      "name": "宿毛市",
+      "full_name": "宿毛市",
+      "prefecture": "高知県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "39209",
+      "name": "土佐清水市",
+      "full_name": "土佐清水市",
+      "prefecture": "高知県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "39210",
+      "name": "四万十市",
+      "full_name": "四万十市",
+      "prefecture": "高知県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "39211",
+      "name": "香南市",
+      "full_name": "香南市",
+      "prefecture": "高知県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "39212",
+      "name": "香美市",
+      "full_name": "香美市",
+      "prefecture": "高知県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "39301",
+      "name": "東洋町",
+      "full_name": "安芸郡東洋町",
+      "prefecture": "高知県",
+      "county_or_designated_city": "安芸郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "39302",
+      "name": "奈半利町",
+      "full_name": "安芸郡奈半利町",
+      "prefecture": "高知県",
+      "county_or_designated_city": "安芸郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "39303",
+      "name": "田野町",
+      "full_name": "安芸郡田野町",
+      "prefecture": "高知県",
+      "county_or_designated_city": "安芸郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "39304",
+      "name": "安田町",
+      "full_name": "安芸郡安田町",
+      "prefecture": "高知県",
+      "county_or_designated_city": "安芸郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "39305",
+      "name": "北川村",
+      "full_name": "安芸郡北川村",
+      "prefecture": "高知県",
+      "county_or_designated_city": "安芸郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "39306",
+      "name": "馬路村",
+      "full_name": "安芸郡馬路村",
+      "prefecture": "高知県",
+      "county_or_designated_city": "安芸郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "39307",
+      "name": "芸西村",
+      "full_name": "安芸郡芸西村",
+      "prefecture": "高知県",
+      "county_or_designated_city": "安芸郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "39341",
+      "name": "本山町",
+      "full_name": "長岡郡本山町",
+      "prefecture": "高知県",
+      "county_or_designated_city": "長岡郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "39344",
+      "name": "大豊町",
+      "full_name": "長岡郡大豊町",
+      "prefecture": "高知県",
+      "county_or_designated_city": "長岡郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "39363",
+      "name": "土佐町",
+      "full_name": "土佐郡土佐町",
+      "prefecture": "高知県",
+      "county_or_designated_city": "土佐郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "39364",
+      "name": "大川村",
+      "full_name": "土佐郡大川村",
+      "prefecture": "高知県",
+      "county_or_designated_city": "土佐郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "39386",
+      "name": "いの町",
+      "full_name": "吾川郡いの町",
+      "prefecture": "高知県",
+      "county_or_designated_city": "吾川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "39387",
+      "name": "仁淀川町",
+      "full_name": "吾川郡仁淀川町",
+      "prefecture": "高知県",
+      "county_or_designated_city": "吾川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "39401",
+      "name": "中土佐町",
+      "full_name": "高岡郡中土佐町",
+      "prefecture": "高知県",
+      "county_or_designated_city": "高岡郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "39402",
+      "name": "佐川町",
+      "full_name": "高岡郡佐川町",
+      "prefecture": "高知県",
+      "county_or_designated_city": "高岡郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "39403",
+      "name": "越知町",
+      "full_name": "高岡郡越知町",
+      "prefecture": "高知県",
+      "county_or_designated_city": "高岡郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "39405",
+      "name": "梼原町",
+      "full_name": "高岡郡梼原町",
+      "prefecture": "高知県",
+      "county_or_designated_city": "高岡郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "39410",
+      "name": "日高村",
+      "full_name": "高岡郡日高村",
+      "prefecture": "高知県",
+      "county_or_designated_city": "高岡郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "39411",
+      "name": "津野町",
+      "full_name": "高岡郡津野町",
+      "prefecture": "高知県",
+      "county_or_designated_city": "高岡郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "39412",
+      "name": "四万十町",
+      "full_name": "高岡郡四万十町",
+      "prefecture": "高知県",
+      "county_or_designated_city": "高岡郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "39424",
+      "name": "大月町",
+      "full_name": "幡多郡大月町",
+      "prefecture": "高知県",
+      "county_or_designated_city": "幡多郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "39427",
+      "name": "三原村",
+      "full_name": "幡多郡三原村",
+      "prefecture": "高知県",
+      "county_or_designated_city": "幡多郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "39428",
+      "name": "黒潮町",
+      "full_name": "幡多郡黒潮町",
+      "prefecture": "高知県",
+      "county_or_designated_city": "幡多郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "高知県の市区町村一覧 - 無料ダウンロード",
+    "description": "高知県 (Kochi Prefecture) の全市区町村 34 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 34 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "高知県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 高知県の市区町村一覧 — 34 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 34 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

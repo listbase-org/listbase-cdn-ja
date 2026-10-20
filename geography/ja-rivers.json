@@ -1,0 +1,3306 @@
+{
+  "id": "ja-rivers",
+  "name": "河川一覧 (Rivers of Japan)",
+  "title": "河川一覧 (Rivers of Japan)",
+  "description": "国土地理院「日本地名集 (Gazetteer of Japan) 2007」に収録された河川 324 件。漢字・ひらがな・公式ローマ字表記と緯度経度を併記。324 rivers listed in the Geospatial Information Authority of Japan's Gazetteer of Japan 2007 (with the 2018 update), each with kanji, kana and the official romanised name plus degree-minute coordinates in both original DMS and decimal form.",
+  "category": "geography",
+  "source": "https://github.com/piuccio/open-data-jp-municipalities",
+  "source_url": "https://github.com/piuccio/open-data-jp-municipalities",
+  "updated": "2026-04",
+  "record_count": 324,
+  "columns": [
+    {
+      "key": "name_kanji",
+      "label": "Name Kanji",
+      "type": "string"
+    },
+    {
+      "key": "name_kana",
+      "label": "Name Kana",
+      "type": "string"
+    },
+    {
+      "key": "name_romaji",
+      "label": "Name Romaji",
+      "type": "string"
+    },
+    {
+      "key": "classification",
+      "label": "Classification",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "org_latitude",
+      "label": "Org Latitude",
+      "type": "string"
+    },
+    {
+      "key": "org_longitude",
+      "label": "Org Longitude",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_kanji": "網走川",
+      "name_kana": "あばしりがわ",
+      "name_romaji": "Abashiri Gawa",
+      "classification": "River",
+      "lat": 44,
+      "lon": 144.233333,
+      "org_latitude": "44 ゚ 00’",
+      "org_longitude": "144 ゚ 14’"
+    },
+    {
+      "name_kanji": "安倍川",
+      "name_kana": "あべかわ",
+      "name_romaji": "Abe Kawa",
+      "classification": "River",
+      "lat": 35.05,
+      "lon": 138.35,
+      "org_latitude": "35 ゚ 03’",
+      "org_longitude": "138 ゚ 21’"
+    },
+    {
+      "name_kanji": "安平川",
+      "name_kana": "あびらがわ",
+      "name_romaji": "Abira Gawa",
+      "classification": "River",
+      "lat": 42.783333,
+      "lon": 141.816667,
+      "org_latitude": "42 ゚ 47’",
+      "org_longitude": "141 ゚ 49’"
+    },
+    {
+      "name_kanji": "阿武川",
+      "name_kana": "あぶがわ",
+      "name_romaji": "Abu Gawa",
+      "classification": "River",
+      "lat": 34.383333,
+      "lon": 131.416667,
+      "org_latitude": "34 ゚ 23’",
+      "org_longitude": "131 ゚ 25’"
+    },
+    {
+      "name_kanji": "阿武隈川",
+      "name_kana": "あぶくまがわ",
+      "name_romaji": "Abukuma Gawa",
+      "classification": "River",
+      "lat": 38.033333,
+      "lon": 140.916667,
+      "org_latitude": "38 ゚ 02’",
+      "org_longitude": "140 ゚ 55’"
+    },
+    {
+      "name_kanji": "安曇川",
+      "name_kana": "あどがわ",
+      "name_romaji": "Ado Gawa",
+      "classification": "River",
+      "lat": 35.35,
+      "lon": 135.966667,
+      "org_latitude": "35 ゚ 21’",
+      "org_longitude": "135 ゚ 58’"
+    },
+    {
+      "name_kanji": "阿賀野川",
+      "name_kana": "あがのがわ",
+      "name_romaji": "Agano Gawa",
+      "classification": "River",
+      "lat": 37.966667,
+      "lon": 139.116667,
+      "org_latitude": "37 ゚ 58’",
+      "org_longitude": "139 ゚ 07’"
+    },
+    {
+      "name_kanji": "吾妻川",
+      "name_kana": "あがつまがわ",
+      "name_romaji": "Agatsuma Gawa",
+      "classification": "River",
+      "lat": 36.533333,
+      "lon": 138.916667,
+      "org_latitude": "36 ゚ 32’",
+      "org_longitude": "138 ゚ 55’"
+    },
+    {
+      "name_kanji": "愛知用水",
+      "name_kana": "あいちようすい",
+      "name_romaji": "Aichi Yosui",
+      "classification": "River",
+      "lat": 35.15,
+      "lon": 137.05,
+      "org_latitude": "35 ゚ 09’",
+      "org_longitude": "137 ゚ 03’"
+    },
+    {
+      "name_kanji": "相坂川(奥入瀬川)",
+      "name_kana": "あいさかがわ(おいらせがわ)",
+      "name_romaji": "Aisaka Gawa (Oirase Gawa)",
+      "classification": "River",
+      "lat": 40.516667,
+      "lon": 140.966667,
+      "org_latitude": "40 ゚ 31’",
+      "org_longitude": "140 ゚ 58’"
+    },
+    {
+      "name_kanji": "赤川",
+      "name_kana": "あかがわ",
+      "name_romaji": "Akagawa",
+      "classification": "River",
+      "lat": 38.833333,
+      "lon": 139.766667,
+      "org_latitude": "38 ゚ 50’",
+      "org_longitude": "139 ゚ 46’"
+    },
+    {
+      "name_kanji": "赤石川",
+      "name_kana": "あかいしがわ",
+      "name_romaji": "Akaishi Gawa",
+      "classification": "River",
+      "lat": 40.75,
+      "lon": 140.15,
+      "org_latitude": "40 ゚ 45’",
+      "org_longitude": "140 ゚ 09’"
+    },
+    {
+      "name_kanji": "阿寒川",
+      "name_kana": "あかんがわ",
+      "name_romaji": "Akan Gawa",
+      "classification": "River",
+      "lat": 42.983333,
+      "lon": 144.266667,
+      "org_latitude": "42 ゚ 59’",
+      "org_longitude": "144 ゚ 16’"
+    },
+    {
+      "name_kanji": "安芸川",
+      "name_kana": "あきがわ",
+      "name_romaji": "Aki Gawa",
+      "classification": "River",
+      "lat": 33.483333,
+      "lon": 133.9,
+      "org_latitude": "33 ゚ 29’",
+      "org_longitude": "133 ゚ 54’"
+    },
+    {
+      "name_kanji": "秋川",
+      "name_kana": "あきがわ",
+      "name_romaji": "Aki Gawa",
+      "classification": "River",
+      "lat": 35.7,
+      "lon": 139.266667,
+      "org_latitude": "35 ゚ 42’",
+      "org_longitude": "139 ゚ 16’"
+    },
+    {
+      "name_kanji": "安家川",
+      "name_kana": "あっかがわ",
+      "name_romaji": "Akka Gawa",
+      "classification": "River",
+      "lat": 40.05,
+      "lon": 141.85,
+      "org_latitude": "40 ゚ 03’",
+      "org_longitude": "141 ゚ 51’"
+    },
+    {
+      "name_kanji": "天ノ川",
+      "name_kana": "あまのがわ",
+      "name_romaji": "Amanogawa",
+      "classification": "River",
+      "lat": 41.75,
+      "lon": 140.183333,
+      "org_latitude": "41 ゚ 45’",
+      "org_longitude": "140 ゚ 11’"
+    },
+    {
+      "name_kanji": "天降川",
+      "name_kana": "あもりがわ",
+      "name_romaji": "Amori Gawa",
+      "classification": "River",
+      "lat": 31.7,
+      "lon": 130.733333,
+      "org_latitude": "31 ゚ 42’",
+      "org_longitude": "130 ゚ 44’"
+    },
+    {
+      "name_kanji": "安房川",
+      "name_kana": "あんぼうがわ",
+      "name_romaji": "Anbo Gawa",
+      "classification": "River",
+      "lat": 30.316667,
+      "lon": 130.6,
+      "org_latitude": "30 ゚ 19’",
+      "org_longitude": "130 ゚ 36’"
+    },
+    {
+      "name_kanji": "阿仁川",
+      "name_kana": "あにがわ",
+      "name_romaji": "Ani Gawa",
+      "classification": "River",
+      "lat": 40.133333,
+      "lon": 140.333333,
+      "org_latitude": "40 ゚ 08’",
+      "org_longitude": "140 ゚ 20’"
+    },
+    {
+      "name_kanji": "厚別川",
+      "name_kana": "あっぺつがわ",
+      "name_romaji": "Appetsu Gawa",
+      "classification": "River",
+      "lat": 42.416667,
+      "lon": 142.2,
+      "org_latitude": "42 ゚ 25’",
+      "org_longitude": "142 ゚ 12’"
+    },
+    {
+      "name_kanji": "荒川",
+      "name_kana": "あらかわ",
+      "name_romaji": "Arakawa",
+      "classification": "River",
+      "lat": 35.633333,
+      "lon": 139.833333,
+      "org_latitude": "35 ゚ 38’",
+      "org_longitude": "139 ゚ 50’"
+    },
+    {
+      "name_kanji": "荒川",
+      "name_kana": "あらかわ",
+      "name_romaji": "Arakawa",
+      "classification": "River",
+      "lat": 38.133333,
+      "lon": 139.383333,
+      "org_latitude": "38 ゚ 08’",
+      "org_longitude": "139 ゚ 23’"
+    },
+    {
+      "name_kanji": "有田川",
+      "name_kana": "ありだがわ",
+      "name_romaji": "Arida Gawa",
+      "classification": "River",
+      "lat": 34.066667,
+      "lon": 135.066667,
+      "org_latitude": "34 ゚ 04’",
+      "org_longitude": "135 ゚ 04’"
+    },
+    {
+      "name_kanji": "厚狭川",
+      "name_kana": "あさがわ",
+      "name_romaji": "Asa Gawa",
+      "classification": "River",
+      "lat": 34.016667,
+      "lon": 131.15,
+      "org_latitude": "34 ゚ 01’",
+      "org_longitude": "131 ゚ 09’"
+    },
+    {
+      "name_kanji": "旭川",
+      "name_kana": "あさひがわ",
+      "name_romaji": "Asahi Gawa",
+      "classification": "River",
+      "lat": 34.6,
+      "lon": 133.966667,
+      "org_latitude": "34 ゚ 36’",
+      "org_longitude": "133 ゚ 58’"
+    },
+    {
+      "name_kanji": "浅瀬石川",
+      "name_kana": "あせいしがわ",
+      "name_romaji": "Aseishi Gawa",
+      "classification": "River",
+      "lat": 40.616667,
+      "lon": 140.616667,
+      "org_latitude": "40 ゚ 37’",
+      "org_longitude": "140 ゚ 37’"
+    },
+    {
+      "name_kanji": "芦別川",
+      "name_kana": "あしべつがわ",
+      "name_romaji": "Ashibetsu Gawa",
+      "classification": "River",
+      "lat": 43.45,
+      "lon": 142.15,
+      "org_latitude": "43 ゚ 27’",
+      "org_longitude": "142 ゚ 09’"
+    },
+    {
+      "name_kanji": "芦田川",
+      "name_kana": "あしだがわ",
+      "name_romaji": "Ashida Gawa",
+      "classification": "River",
+      "lat": 34.416667,
+      "lon": 133.4,
+      "org_latitude": "34 ゚ 25’",
+      "org_longitude": "133 ゚ 24’"
+    },
+    {
+      "name_kanji": "足寄川",
+      "name_kana": "あしょろがわ",
+      "name_romaji": "Ashoro Gawa",
+      "classification": "River",
+      "lat": 43.266667,
+      "lon": 143.65,
+      "org_latitude": "43 ゚ 16’",
+      "org_longitude": "143 ゚ 39’"
+    },
+    {
+      "name_kanji": "厚沢部川",
+      "name_kana": "あっさぶがわ",
+      "name_romaji": "Assabu Gawa",
+      "classification": "River",
+      "lat": 41.883333,
+      "lon": 140.25,
+      "org_latitude": "41 ゚ 53’",
+      "org_longitude": "140 ゚ 15’"
+    },
+    {
+      "name_kanji": "足羽川",
+      "name_kana": "あすわがわ",
+      "name_romaji": "Asuwa Gawa",
+      "classification": "River",
+      "lat": 36.016667,
+      "lon": 136.25,
+      "org_latitude": "36 ゚ 01’",
+      "org_longitude": "136 ゚ 15’"
+    },
+    {
+      "name_kanji": "厚真川",
+      "name_kana": "あつまがわ",
+      "name_romaji": "Atsuma Gawa",
+      "classification": "River",
+      "lat": 42.6,
+      "lon": 141.8,
+      "org_latitude": "42 ゚ 36’",
+      "org_longitude": "141 ゚ 48’"
+    },
+    {
+      "name_kanji": "梓川",
+      "name_kana": "あずさがわ",
+      "name_romaji": "Azusa Gawa",
+      "classification": "River",
+      "lat": 36.266667,
+      "lon": 137.683333,
+      "org_latitude": "36 ゚ 16’",
+      "org_longitude": "137 ゚ 41’"
+    },
+    {
+      "name_kanji": "番匠川",
+      "name_kana": "ばんじょうがわ",
+      "name_romaji": "Banjo Gawa",
+      "classification": "River",
+      "lat": 32.966667,
+      "lon": 131.916667,
+      "org_latitude": "32 ゚ 58’",
+      "org_longitude": "131 ゚ 55’"
+    },
+    {
+      "name_kanji": "別寒辺牛川",
+      "name_kana": "べかんべうしがわ",
+      "name_romaji": "Bekanbeushi Gawa",
+      "classification": "River",
+      "lat": 43.066667,
+      "lon": 144.85,
+      "org_latitude": "43 ゚ 04’",
+      "org_longitude": "144 ゚ 51’"
+    },
+    {
+      "name_kanji": "茶路川",
+      "name_kana": "ちゃろがわ",
+      "name_romaji": "Charo Gawa",
+      "classification": "River",
+      "lat": 42.933333,
+      "lon": 144.066667,
+      "org_latitude": "42 ゚ 56’",
+      "org_longitude": "144 ゚ 04’"
+    },
+    {
+      "name_kanji": "筑後川",
+      "name_kana": "ちくごがわ",
+      "name_romaji": "Chikugo Gawa",
+      "classification": "River",
+      "lat": 33.133333,
+      "lon": 130.35,
+      "org_latitude": "33 ゚ 08’",
+      "org_longitude": "130 ゚ 21’"
+    },
+    {
+      "name_kanji": "千曲川",
+      "name_kana": "ちくまがわ",
+      "name_romaji": "Chikuma Gawa",
+      "classification": "River",
+      "lat": 36.916667,
+      "lon": 138.416667,
+      "org_latitude": "36 ゚ 55’",
+      "org_longitude": "138 ゚ 25’"
+    },
+    {
+      "name_kanji": "千種川",
+      "name_kana": "ちくさがわ",
+      "name_romaji": "Chikusa Gawa",
+      "classification": "River",
+      "lat": 34.933333,
+      "lon": 134.316667,
+      "org_latitude": "34 ゚ 56’",
+      "org_longitude": "134 ゚ 19’"
+    },
+    {
+      "name_kanji": "千歳川",
+      "name_kana": "ちとせがわ",
+      "name_romaji": "Chitose Gawa",
+      "classification": "River",
+      "lat": 42.966667,
+      "lon": 141.616667,
+      "org_latitude": "42 ゚ 58’",
+      "org_longitude": "141 ゚ 37’"
+    },
+    {
+      "name_kanji": "忠別川",
+      "name_kana": "ちゅうべつがわ",
+      "name_romaji": "Chubetsu Gawa",
+      "classification": "River",
+      "lat": 43.716667,
+      "lon": 142.4,
+      "org_latitude": "43 ゚ 43’",
+      "org_longitude": "142 ゚ 24’"
+    },
+    {
+      "name_kanji": "忠類川",
+      "name_kana": "ちゅうるいがわ",
+      "name_romaji": "Churui Gawa",
+      "classification": "River",
+      "lat": 43.716667,
+      "lon": 145.083333,
+      "org_latitude": "43 ゚ 43’",
+      "org_longitude": "145 ゚ 05’"
+    },
+    {
+      "name_kanji": "大聖寺川",
+      "name_kana": "だいしょうじがわ",
+      "name_romaji": "Daishoji Gawa",
+      "classification": "River",
+      "lat": 36.283333,
+      "lon": 136.333333,
+      "org_latitude": "36 ゚ 17’",
+      "org_longitude": "136 ゚ 20’"
+    },
+    {
+      "name_kanji": "大谷川",
+      "name_kana": "だいやがわ",
+      "name_romaji": "Daiya Gawa",
+      "classification": "River",
+      "lat": 36.733333,
+      "lon": 139.75,
+      "org_latitude": "36 ゚ 44’",
+      "org_longitude": "139 ゚ 45’"
+    },
+    {
+      "name_kanji": "土器川",
+      "name_kana": "どきがわ",
+      "name_romaji": "Doki Gawa",
+      "classification": "River",
+      "lat": 34.25,
+      "lon": 133.833333,
+      "org_latitude": "34 ゚ 15’",
+      "org_longitude": "133 ゚ 50’"
+    },
+    {
+      "name_kanji": "銅山川",
+      "name_kana": "どうざんがわ",
+      "name_romaji": "Dozan Gawa",
+      "classification": "River",
+      "lat": 33.933333,
+      "lon": 133.566667,
+      "org_latitude": "33 ゚ 56’",
+      "org_longitude": "133 ゚ 34’"
+    },
+    {
+      "name_kanji": "江合川",
+      "name_kana": "えあいがわ",
+      "name_romaji": "Eai Gawa",
+      "classification": "River",
+      "lat": 38.516667,
+      "lon": 141.15,
+      "org_latitude": "38 ゚ 31’",
+      "org_longitude": "141 ゚ 09’"
+    },
+    {
+      "name_kanji": "愛知川",
+      "name_kana": "えちがわ",
+      "name_romaji": "Echi Gawa",
+      "classification": "River",
+      "lat": 35.116667,
+      "lon": 136.2,
+      "org_latitude": "35 ゚ 07’",
+      "org_longitude": "136 ゚ 12’"
+    },
+    {
+      "name_kanji": "江戸川",
+      "name_kana": "えどがわ",
+      "name_romaji": "Edo Gawa",
+      "classification": "River",
+      "lat": 35.666667,
+      "lon": 139.933333,
+      "org_latitude": "35 ゚ 40’",
+      "org_longitude": "139 ゚ 56’"
+    },
+    {
+      "name_kanji": "遠別川",
+      "name_kana": "えんべつがわ",
+      "name_romaji": "Enbetsu Gawa",
+      "classification": "River",
+      "lat": 44.583333,
+      "lon": 141.95,
+      "org_latitude": "44 ゚ 35’",
+      "org_longitude": "141 ゚ 57’"
+    },
+    {
+      "name_kanji": "笛吹川",
+      "name_kana": "ふえふきがわ",
+      "name_romaji": "Fuefuki Gawa",
+      "classification": "River",
+      "lat": 35.6,
+      "lon": 138.6,
+      "org_latitude": "35 ゚ 36’",
+      "org_longitude": "138 ゚ 36’"
+    },
+    {
+      "name_kanji": "富士川",
+      "name_kana": "ふじかわ",
+      "name_romaji": "Fuji Kawa",
+      "classification": "River",
+      "lat": 35.416667,
+      "lon": 138.433333,
+      "org_latitude": "35 ゚ 25’",
+      "org_longitude": "138 ゚ 26’"
+    },
+    {
+      "name_kanji": "風蓮川",
+      "name_kana": "ふうれんがわ",
+      "name_romaji": "Furen Gawa",
+      "classification": "River",
+      "lat": 43.316667,
+      "lon": 145.25,
+      "org_latitude": "43 ゚ 19’",
+      "org_longitude": "145 ゚ 15’"
+    },
+    {
+      "name_kanji": "椹野川",
+      "name_kana": "ふしのがわ",
+      "name_romaji": "Fushino Gawa",
+      "classification": "River",
+      "lat": 34.033333,
+      "lon": 131.383333,
+      "org_latitude": "34 ゚ 02’",
+      "org_longitude": "131 ゚ 23’"
+    },
+    {
+      "name_kanji": "五ヶ瀬川",
+      "name_kana": "ごかせがわ",
+      "name_romaji": "Gokase Gawa",
+      "classification": "River",
+      "lat": 32.566667,
+      "lon": 131.716667,
+      "org_latitude": "32 ゚ 34’",
+      "org_longitude": "131 ゚ 43’"
+    },
+    {
+      "name_kanji": "五戸川",
+      "name_kana": "ごのへがわ",
+      "name_romaji": "Gonohe Gawa",
+      "classification": "River",
+      "lat": 40.583333,
+      "lon": 141.466667,
+      "org_latitude": "40 ゚ 35’",
+      "org_longitude": "141 ゚ 28’"
+    },
+    {
+      "name_kanji": "江の川",
+      "name_kana": "ごうのかわ",
+      "name_romaji": "Gonokawa",
+      "classification": "River",
+      "lat": 35.033333,
+      "lon": 132.216667,
+      "org_latitude": "35 ゚ 02’",
+      "org_longitude": "132 ゚ 13’"
+    },
+    {
+      "name_kanji": "江の川(可愛川)",
+      "name_kana": "ごうのかわ(えのかわ)",
+      "name_romaji": "Gonokawa (Eno kawa)",
+      "classification": "River",
+      "lat": 34.716667,
+      "lon": 132.55,
+      "org_latitude": "34 ゚ 43’",
+      "org_longitude": "132 ゚ 33’"
+    },
+    {
+      "name_kanji": "羽幌川",
+      "name_kana": "はぼろがわ",
+      "name_romaji": "Haboro Gawa",
+      "classification": "River",
+      "lat": 44.366667,
+      "lon": 141.7,
+      "org_latitude": "44 ゚ 22’",
+      "org_longitude": "141 ゚ 42’"
+    },
+    {
+      "name_kanji": "伯太川",
+      "name_kana": "はくたがわ",
+      "name_romaji": "Hakuta Gawa",
+      "classification": "River",
+      "lat": 35.45,
+      "lon": 133.233333,
+      "org_latitude": "35 ゚ 27’",
+      "org_longitude": "133 ゚ 14’"
+    },
+    {
+      "name_kanji": "迫川",
+      "name_kana": "はさまがわ",
+      "name_romaji": "Hasama Gawa",
+      "classification": "River",
+      "lat": 38.6,
+      "lon": 141.2,
+      "org_latitude": "38 ゚ 36’",
+      "org_longitude": "141 ゚ 12’"
+    },
+    {
+      "name_kanji": "早出川",
+      "name_kana": "はやでがわ",
+      "name_romaji": "Hayade Gawa",
+      "classification": "River",
+      "lat": 37.7,
+      "lon": 139.2,
+      "org_latitude": "37 ゚ 42’",
+      "org_longitude": "139 ゚ 12’"
+    },
+    {
+      "name_kanji": "早川",
+      "name_kana": "はやかわ",
+      "name_romaji": "Hayakawa",
+      "classification": "River",
+      "lat": 35.416667,
+      "lon": 138.416667,
+      "org_latitude": "35 ゚ 25’",
+      "org_longitude": "138 ゚ 25’"
+    },
+    {
+      "name_kanji": "閉伊川",
+      "name_kana": "へいがわ",
+      "name_romaji": "Hei Gawa",
+      "classification": "River",
+      "lat": 39.616667,
+      "lon": 141.883333,
+      "org_latitude": "39 ゚ 37’",
+      "org_longitude": "141 ゚ 53’"
+    },
+    {
+      "name_kanji": "飛驒川",
+      "name_kana": "ひだがわ",
+      "name_romaji": "Hida Gawa",
+      "classification": "River",
+      "lat": 35.766667,
+      "lon": 137.216667,
+      "org_latitude": "35 ゚ 46’",
+      "org_longitude": "137 ゚ 13’"
+    },
+    {
+      "name_kanji": "日高川",
+      "name_kana": "ひだかがわ",
+      "name_romaji": "Hidaka Gawa",
+      "classification": "River",
+      "lat": 33.866667,
+      "lon": 135.133333,
+      "org_latitude": "33 ゚ 52’",
+      "org_longitude": "135 ゚ 08’"
+    },
+    {
+      "name_kanji": "日高幌別川",
+      "name_kana": "ひだかほろべつがわ",
+      "name_romaji": "Hidaka-horobetsu Gawa",
+      "classification": "River",
+      "lat": 42.183333,
+      "lon": 142.883333,
+      "org_latitude": "42 ゚ 11’",
+      "org_longitude": "142 ゚ 53’"
+    },
+    {
+      "name_kanji": "斐伊川",
+      "name_kana": "ひいかわ",
+      "name_romaji": "Hii Kawa",
+      "classification": "River",
+      "lat": 35.416667,
+      "lon": 132.866667,
+      "org_latitude": "35 ゚ 25’",
+      "org_longitude": "132 ゚ 52’"
+    },
+    {
+      "name_kanji": "肱川",
+      "name_kana": "ひじかわ",
+      "name_romaji": "Hiji Kawa",
+      "classification": "River",
+      "lat": 33.6,
+      "lon": 132.466667,
+      "org_latitude": "33 ゚ 36’",
+      "org_longitude": "132 ゚ 28’"
+    },
+    {
+      "name_kanji": "日置川",
+      "name_kana": "ひきがわ",
+      "name_romaji": "Hiki Gawa",
+      "classification": "River",
+      "lat": 33.55,
+      "lon": 135.433333,
+      "org_latitude": "33 ゚ 33’",
+      "org_longitude": "135 ゚ 26’"
+    },
+    {
+      "name_kanji": "姫川",
+      "name_kana": "ひめかわ",
+      "name_romaji": "Hime Kawa",
+      "classification": "River",
+      "lat": 37.033333,
+      "lon": 137.816667,
+      "org_latitude": "37 ゚ 02’",
+      "org_longitude": "137 ゚ 49’"
+    },
+    {
+      "name_kanji": "日野川",
+      "name_kana": "ひのがわ",
+      "name_romaji": "Hino Gawa",
+      "classification": "River",
+      "lat": 35.15,
+      "lon": 136.016667,
+      "org_latitude": "35 ゚ 09’",
+      "org_longitude": "136 ゚ 01’"
+    },
+    {
+      "name_kanji": "日野川",
+      "name_kana": "ひのがわ",
+      "name_romaji": "Hino Gawa",
+      "classification": "River",
+      "lat": 35.45,
+      "lon": 133.366667,
+      "org_latitude": "35 ゚ 27’",
+      "org_longitude": "133 ゚ 22’"
+    },
+    {
+      "name_kanji": "日野川",
+      "name_kana": "ひのがわ",
+      "name_romaji": "Hino Gawa",
+      "classification": "River",
+      "lat": 35.766667,
+      "lon": 136.2,
+      "org_latitude": "35 ゚ 46’",
+      "org_longitude": "136 ゚ 12’"
+    },
+    {
+      "name_kanji": "広瀬川",
+      "name_kana": "ひろせがわ",
+      "name_romaji": "Hirose Gawa",
+      "classification": "River",
+      "lat": 38.266667,
+      "lon": 140.683333,
+      "org_latitude": "38 ゚ 16’",
+      "org_longitude": "140 ゚ 41’"
+    },
+    {
+      "name_kanji": "広渡川",
+      "name_kana": "ひろとがわ",
+      "name_romaji": "Hiroto Gawa",
+      "classification": "River",
+      "lat": 31.583333,
+      "lon": 131.4,
+      "org_latitude": "31 ゚ 35’",
+      "org_longitude": "131 ゚ 24’"
+    },
+    {
+      "name_kanji": "菱田川",
+      "name_kana": "ひしだがわ",
+      "name_romaji": "Hishida Gawa",
+      "classification": "River",
+      "lat": 31.433333,
+      "lon": 131.05,
+      "org_latitude": "31 ゚ 26’",
+      "org_longitude": "131 ゚ 03’"
+    },
+    {
+      "name_kanji": "一ツ瀬川",
+      "name_kana": "ひとつせがわ",
+      "name_romaji": "Hitotsuse Gawa",
+      "classification": "River",
+      "lat": 32.033333,
+      "lon": 131.5,
+      "org_latitude": "32 ゚ 02’",
+      "org_longitude": "131 ゚ 30’"
+    },
+    {
+      "name_kanji": "箒川",
+      "name_kana": "ほうきがわ",
+      "name_romaji": "Hoki Gawa",
+      "classification": "River",
+      "lat": 36.783333,
+      "lon": 140.066667,
+      "org_latitude": "36 ゚ 47’",
+      "org_longitude": "140 ゚ 04’"
+    },
+    {
+      "name_kanji": "保倉川",
+      "name_kana": "ほくらがわ",
+      "name_romaji": "Hokura Gawa",
+      "classification": "River",
+      "lat": 37.15,
+      "lon": 138.383333,
+      "org_latitude": "37 ゚ 09’",
+      "org_longitude": "138 ゚ 23’"
+    },
+    {
+      "name_kanji": "本庄川",
+      "name_kana": "ほんじょうがわ",
+      "name_romaji": "Honjo Gawa",
+      "classification": "River",
+      "lat": 31.966667,
+      "lon": 131.316667,
+      "org_latitude": "31 ゚ 58’",
+      "org_longitude": "131 ゚ 19’"
+    },
+    {
+      "name_kanji": "堀株川",
+      "name_kana": "ほりかっぷかわ",
+      "name_romaji": "Horikappu Kawa",
+      "classification": "River",
+      "lat": 43.016667,
+      "lon": 140.5,
+      "org_latitude": "43 ゚ 01’",
+      "org_longitude": "140 ゚ 30’"
+    },
+    {
+      "name_kanji": "幌向川",
+      "name_kana": "ほろむいがわ",
+      "name_romaji": "Horomui Gawa",
+      "classification": "River",
+      "lat": 43.15,
+      "lon": 141.833333,
+      "org_latitude": "43 ゚ 09’",
+      "org_longitude": "141 ゚ 50’"
+    },
+    {
+      "name_kanji": "幌内川",
+      "name_kana": "ほろないがわ",
+      "name_romaji": "Horonai Gawa",
+      "classification": "River",
+      "lat": 44.583333,
+      "lon": 142.766667,
+      "org_latitude": "44 ゚ 35’",
+      "org_longitude": "142 ゚ 46’"
+    },
+    {
+      "name_kanji": "揖斐川",
+      "name_kana": "いびがわ",
+      "name_romaji": "Ibi Gawa",
+      "classification": "River",
+      "lat": 35.033333,
+      "lon": 136.7,
+      "org_latitude": "35 ゚ 02’",
+      "org_longitude": "136 ゚ 42’"
+    },
+    {
+      "name_kanji": "揖保川",
+      "name_kana": "いぼがわ",
+      "name_romaji": "Ibo Gawa",
+      "classification": "River",
+      "lat": 34.733333,
+      "lon": 134.566667,
+      "org_latitude": "34 ゚ 44’",
+      "org_longitude": "134 ゚ 34’"
+    },
+    {
+      "name_kanji": "市川",
+      "name_kana": "いちかわ",
+      "name_romaji": "Ichi Kawa",
+      "classification": "River",
+      "lat": 34.75,
+      "lon": 134.666667,
+      "org_latitude": "34 ゚ 45’",
+      "org_longitude": "134 ゚ 40’"
+    },
+    {
+      "name_kanji": "五十嵐川",
+      "name_kana": "いがらしがわ",
+      "name_romaji": "Igarashi Gawa",
+      "classification": "River",
+      "lat": 37.566667,
+      "lon": 139.033333,
+      "org_latitude": "37 ゚ 34’",
+      "org_longitude": "139 ゚ 02’"
+    },
+    {
+      "name_kanji": "飯梨川",
+      "name_kana": "いいなしがわ",
+      "name_romaji": "Iinashi Gawa",
+      "classification": "River",
+      "lat": 35.45,
+      "lon": 133.216667,
+      "org_latitude": "35 ゚ 27’",
+      "org_longitude": "133 ゚ 13’"
+    },
+    {
+      "name_kanji": "今川",
+      "name_kana": "いまがわ",
+      "name_romaji": "Ima Gawa",
+      "classification": "River",
+      "lat": 33.7,
+      "lon": 130.95,
+      "org_latitude": "33 ゚ 42’",
+      "org_longitude": "130 ゚ 57’"
+    },
+    {
+      "name_kanji": "伊南川",
+      "name_kana": "いながわ",
+      "name_romaji": "Ina Gawa",
+      "classification": "River",
+      "lat": 37.283333,
+      "lon": 139.466667,
+      "org_latitude": "37 ゚ 17’",
+      "org_longitude": "139 ゚ 28’"
+    },
+    {
+      "name_kanji": "入間川",
+      "name_kana": "いるまがわ",
+      "name_romaji": "Iruma Gawa",
+      "classification": "River",
+      "lat": 35.883333,
+      "lon": 139.416667,
+      "org_latitude": "35 ゚ 53’",
+      "org_longitude": "139 ゚ 25’"
+    },
+    {
+      "name_kanji": "胆沢川",
+      "name_kana": "いさわがわ",
+      "name_romaji": "Isawa Gawa",
+      "classification": "River",
+      "lat": 39.15,
+      "lon": 141.083333,
+      "org_latitude": "39 ゚ 09’",
+      "org_longitude": "141 ゚ 05’"
+    },
+    {
+      "name_kanji": "石狩川",
+      "name_kana": "いしかりがわ",
+      "name_romaji": "Ishikari Gawa",
+      "classification": "River",
+      "lat": 43.3,
+      "lon": 141.666667,
+      "org_latitude": "43 ゚ 18’",
+      "org_longitude": "141 ゚ 40’"
+    },
+    {
+      "name_kanji": "夷隅川",
+      "name_kana": "いすみがわ",
+      "name_romaji": "Isumi Gawa",
+      "classification": "River",
+      "lat": 35.283333,
+      "lon": 140.4,
+      "org_latitude": "35 ゚ 17’",
+      "org_longitude": "140 ゚ 24’"
+    },
+    {
+      "name_kanji": "五十鈴川",
+      "name_kana": "いすずがわ",
+      "name_romaji": "Isuzu Gawa",
+      "classification": "River",
+      "lat": 34.416667,
+      "lon": 136.716667,
+      "org_latitude": "34 ゚ 25’",
+      "org_longitude": "136 ゚ 43’"
+    },
+    {
+      "name_kanji": "磐井川",
+      "name_kana": "いわいがわ",
+      "name_romaji": "Iwai Gawa",
+      "classification": "River",
+      "lat": 38.933333,
+      "lon": 141.15,
+      "org_latitude": "38 ゚ 56’",
+      "org_longitude": "141 ゚ 09’"
+    },
+    {
+      "name_kanji": "岩木川",
+      "name_kana": "いわきがわ",
+      "name_romaji": "Iwaki Gawa",
+      "classification": "River",
+      "lat": 40.766667,
+      "lon": 140.416667,
+      "org_latitude": "40 ゚ 46’",
+      "org_longitude": "140 ゚ 25’"
+    },
+    {
+      "name_kanji": "祖谷川",
+      "name_kana": "いやがわ",
+      "name_romaji": "Iya Gawa",
+      "classification": "River",
+      "lat": 33.883333,
+      "lon": 133.85,
+      "org_latitude": "33 ゚ 53’",
+      "org_longitude": "133 ゚ 51’"
+    },
+    {
+      "name_kanji": "神通川",
+      "name_kana": "じんづうがわ",
+      "name_romaji": "Jinzu Gawa",
+      "classification": "River",
+      "lat": 36.75,
+      "lon": 137.216667,
+      "org_latitude": "36 ゚ 45’",
+      "org_longitude": "137 ゚ 13’"
+    },
+    {
+      "name_kanji": "常願寺川",
+      "name_kana": "じょうがんじがわ",
+      "name_romaji": "Joganji Gawa",
+      "classification": "River",
+      "lat": 36.766667,
+      "lon": 137.283333,
+      "org_latitude": "36 ゚ 46’",
+      "org_longitude": "137 ゚ 17’"
+    },
+    {
+      "name_kanji": "海部川",
+      "name_kana": "かいふがわ",
+      "name_romaji": "Kaifu Gawa",
+      "classification": "River",
+      "lat": 33.65,
+      "lon": 134.316667,
+      "org_latitude": "33 ゚ 39’",
+      "org_longitude": "134 ゚ 19’"
+    },
+    {
+      "name_kanji": "加治川",
+      "name_kana": "かじがわ",
+      "name_romaji": "Kaji Gawa",
+      "classification": "River",
+      "lat": 37.983333,
+      "lon": 139.283333,
+      "org_latitude": "37 ゚ 59’",
+      "org_longitude": "139 ゚ 17’"
+    },
+    {
+      "name_kanji": "梯川",
+      "name_kana": "かけはしがわ",
+      "name_romaji": "Kakehashi Gawa",
+      "classification": "River",
+      "lat": 36.416667,
+      "lon": 136.4,
+      "org_latitude": "36 ゚ 25’",
+      "org_longitude": "136 ゚ 24’"
+    },
+    {
+      "name_kanji": "加古川",
+      "name_kana": "かこがわ",
+      "name_romaji": "Kako Gawa",
+      "classification": "River",
+      "lat": 34.866667,
+      "lon": 134.933333,
+      "org_latitude": "34 ゚ 52’",
+      "org_longitude": "134 ゚ 56’"
+    },
+    {
+      "name_kanji": "釜無川",
+      "name_kana": "かまなしがわ",
+      "name_romaji": "Kamanashi Gawa",
+      "classification": "River",
+      "lat": 35.65,
+      "lon": 138.483333,
+      "org_latitude": "35 ゚ 39’",
+      "org_longitude": "138 ゚ 29’"
+    },
+    {
+      "name_kanji": "加茂川",
+      "name_kana": "かもがわ",
+      "name_romaji": "Kamo Gawa",
+      "classification": "River",
+      "lat": 33.916667,
+      "lon": 133.15,
+      "org_latitude": "33 ゚ 55’",
+      "org_longitude": "133 ゚ 09’"
+    },
+    {
+      "name_kanji": "神戸川",
+      "name_kana": "かんどがわ",
+      "name_romaji": "Kando Gawa",
+      "classification": "River",
+      "lat": 35.366667,
+      "lon": 132.65,
+      "org_latitude": "35 ゚ 22’",
+      "org_longitude": "132 ゚ 39’"
+    },
+    {
+      "name_kanji": "神流川",
+      "name_kana": "かんながわ",
+      "name_romaji": "Kanna Gawa",
+      "classification": "River",
+      "lat": 36.216667,
+      "lon": 139.083333,
+      "org_latitude": "36 ゚ 13’",
+      "org_longitude": "139 ゚ 05’"
+    },
+    {
+      "name_kanji": "神野瀬川",
+      "name_kana": "かんのせがわ",
+      "name_romaji": "Kannose Gawa",
+      "classification": "River",
+      "lat": 34.9,
+      "lon": 132.833333,
+      "org_latitude": "34 ゚ 54’",
+      "org_longitude": "132 ゚ 50’"
+    },
+    {
+      "name_kanji": "狩野川",
+      "name_kana": "かのがわ",
+      "name_romaji": "Kano Gawa",
+      "classification": "River",
+      "lat": 35.066667,
+      "lon": 138.833333,
+      "org_latitude": "35 ゚ 04’",
+      "org_longitude": "138 ゚ 50’"
+    },
+    {
+      "name_kanji": "烏川",
+      "name_kana": "からすがわ",
+      "name_romaji": "Karasu Gawa",
+      "classification": "River",
+      "lat": 36.4,
+      "lon": 138.783333,
+      "org_latitude": "36 ゚ 24’",
+      "org_longitude": "138 ゚ 47’"
+    },
+    {
+      "name_kanji": "嘉瀬川",
+      "name_kana": "かせがわ",
+      "name_romaji": "Kase Gawa",
+      "classification": "River",
+      "lat": 33.183333,
+      "lon": 130.25,
+      "org_latitude": "33 ゚ 11’",
+      "org_longitude": "130 ゚ 15’"
+    },
+    {
+      "name_kanji": "片品川",
+      "name_kana": "かたしながわ",
+      "name_romaji": "Katashina Gawa",
+      "classification": "River",
+      "lat": 36.633333,
+      "lon": 139.116667,
+      "org_latitude": "36 ゚ 38’",
+      "org_longitude": "139 ゚ 07’"
+    },
+    {
+      "name_kanji": "勝浦川",
+      "name_kana": "かつうらがわ",
+      "name_romaji": "Katsuura Gawa",
+      "classification": "River",
+      "lat": 33.916667,
+      "lon": 134.516667,
+      "org_latitude": "33 ゚ 55’",
+      "org_longitude": "134 ゚ 31’"
+    },
+    {
+      "name_kanji": "川辺川",
+      "name_kana": "かわべがわ",
+      "name_romaji": "Kawabe Gawa",
+      "classification": "River",
+      "lat": 32.283333,
+      "lon": 130.833333,
+      "org_latitude": "32 ゚ 17’",
+      "org_longitude": "130 ゚ 50’"
+    },
+    {
+      "name_kanji": "気仙川",
+      "name_kana": "けせんがわ",
+      "name_romaji": "Kesen Gawa",
+      "classification": "River",
+      "lat": 38.983333,
+      "lon": 141.616667,
+      "org_latitude": "38 ゚ 59’",
+      "org_longitude": "141 ゚ 37’"
+    },
+    {
+      "name_kanji": "気田川",
+      "name_kana": "けたがわ",
+      "name_romaji": "Keta Gawa",
+      "classification": "River",
+      "lat": 35.083333,
+      "lon": 137.916667,
+      "org_latitude": "35 ゚ 05’",
+      "org_longitude": "137 ゚ 55’"
+    },
+    {
+      "name_kanji": "木戸川",
+      "name_kana": "きどがわ",
+      "name_romaji": "Kido Gawa",
+      "classification": "River",
+      "lat": 37.25,
+      "lon": 141.016667,
+      "org_latitude": "37 ゚ 15’",
+      "org_longitude": "141 ゚ 01’"
+    },
+    {
+      "name_kanji": "菊川",
+      "name_kana": "きくがわ",
+      "name_romaji": "Kiku Gawa",
+      "classification": "River",
+      "lat": 34.633333,
+      "lon": 138.05,
+      "org_latitude": "34 ゚ 38’",
+      "org_longitude": "138 ゚ 03’"
+    },
+    {
+      "name_kanji": "菊池川",
+      "name_kana": "きくちがわ",
+      "name_romaji": "Kikuchi Gawa",
+      "classification": "River",
+      "lat": 32.866667,
+      "lon": 130.516667,
+      "org_latitude": "32 ゚ 52’",
+      "org_longitude": "130 ゚ 31’"
+    },
+    {
+      "name_kanji": "肝属川",
+      "name_kana": "きもつきがわ",
+      "name_romaji": "Kimotsuki Gawa",
+      "classification": "River",
+      "lat": 31.35,
+      "lon": 131.016667,
+      "org_latitude": "31 ゚ 21’",
+      "org_longitude": "131 ゚ 01’"
+    },
+    {
+      "name_kanji": "紀ノ川",
+      "name_kana": "きのかわ",
+      "name_romaji": "Kinokawa",
+      "classification": "River",
+      "lat": 34.2,
+      "lon": 135.116667,
+      "org_latitude": "34 ゚ 12’",
+      "org_longitude": "135 ゚ 07’"
+    },
+    {
+      "name_kanji": "鬼怒川",
+      "name_kana": "きぬがわ",
+      "name_romaji": "Kinu Gawa",
+      "classification": "River",
+      "lat": 35.95,
+      "lon": 139.95,
+      "org_latitude": "35 ゚ 57’",
+      "org_longitude": "139 ゚ 57’"
+    },
+    {
+      "name_kanji": "木曽川",
+      "name_kana": "きそがわ",
+      "name_romaji": "Kiso Gawa",
+      "classification": "River",
+      "lat": 35.05,
+      "lon": 136.716667,
+      "org_latitude": "35 ゚ 03’",
+      "org_longitude": "136 ゚ 43’"
+    },
+    {
+      "name_kanji": "北上川",
+      "name_kana": "きたかみがわ",
+      "name_romaji": "Kitakami Gawa",
+      "classification": "River",
+      "lat": 38.5,
+      "lon": 141.333333,
+      "org_latitude": "38 ゚ 30’",
+      "org_longitude": "141 ゚ 20’"
+    },
+    {
+      "name_kanji": "北見幌別川",
+      "name_kana": "きたみほろべつがわ",
+      "name_romaji": "Kitami-horobetsu Gawa",
+      "classification": "River",
+      "lat": 44.883333,
+      "lon": 142.616667,
+      "org_latitude": "44 ゚ 53’",
+      "org_longitude": "142 ゚ 37’"
+    },
+    {
+      "name_kanji": "清津川",
+      "name_kana": "きよつがわ",
+      "name_romaji": "Kiyotsu Gawa",
+      "classification": "River",
+      "lat": 36.9,
+      "lon": 138.766667,
+      "org_latitude": "36 ゚ 54’",
+      "org_longitude": "138 ゚ 46’"
+    },
+    {
+      "name_kanji": "木津川",
+      "name_kana": "きづがわ",
+      "name_romaji": "Kizu Gawa",
+      "classification": "River",
+      "lat": 34.783333,
+      "lon": 135.783333,
+      "org_latitude": "34 ゚ 47’",
+      "org_longitude": "135 ゚ 47’"
+    },
+    {
+      "name_kanji": "声問川",
+      "name_kana": "こえといがわ",
+      "name_romaji": "Koetoi Gawa",
+      "classification": "River",
+      "lat": 45.4,
+      "lon": 141.75,
+      "org_latitude": "45 ゚ 24’",
+      "org_longitude": "141 ゚ 45’"
+    },
+    {
+      "name_kanji": "小糸川",
+      "name_kana": "こいとがわ",
+      "name_romaji": "Koito Gawa",
+      "classification": "River",
+      "lat": 35.35,
+      "lon": 139.833333,
+      "org_latitude": "35 ゚ 21’",
+      "org_longitude": "139 ゚ 50’"
+    },
+    {
+      "name_kanji": "小貝川",
+      "name_kana": "こかいがわ",
+      "name_romaji": "Kokai Gawa",
+      "classification": "River",
+      "lat": 35.933333,
+      "lon": 140.083333,
+      "org_latitude": "35 ゚ 56’",
+      "org_longitude": "140 ゚ 05’"
+    },
+    {
+      "name_kanji": "古丹別川",
+      "name_kana": "こたんべつがわ",
+      "name_romaji": "Kotanbetsu Gawa",
+      "classification": "River",
+      "lat": 44.266667,
+      "lon": 141.633333,
+      "org_latitude": "44 ゚ 16’",
+      "org_longitude": "141 ゚ 38’"
+    },
+    {
+      "name_kanji": "厚東川",
+      "name_kana": "ことうがわ",
+      "name_romaji": "Koto Gawa",
+      "classification": "River",
+      "lat": 33.95,
+      "lon": 131.2,
+      "org_latitude": "33 ゚ 57’",
+      "org_longitude": "131 ゚ 12’"
+    },
+    {
+      "name_kanji": "香東川",
+      "name_kana": "ことうがわ",
+      "name_romaji": "Koto Gawa",
+      "classification": "River",
+      "lat": 34.35,
+      "lon": 134.016667,
+      "org_latitude": "34 ゚ 21’",
+      "org_longitude": "134 ゚ 01’"
+    },
+    {
+      "name_kanji": "木屋川",
+      "name_kana": "こやがわ",
+      "name_romaji": "Koya Gawa",
+      "classification": "River",
+      "lat": 34.15,
+      "lon": 131.033333,
+      "org_latitude": "34 ゚ 09’",
+      "org_longitude": "131 ゚ 02’"
+    },
+    {
+      "name_kanji": "子吉川",
+      "name_kana": "こよしがわ",
+      "name_romaji": "Koyoshi Gawa",
+      "classification": "River",
+      "lat": 39.383333,
+      "lon": 140,
+      "org_latitude": "39 ゚ 23’",
+      "org_longitude": "140 ゚ 00’"
+    },
+    {
+      "name_kanji": "古座川",
+      "name_kana": "こざがわ",
+      "name_romaji": "Koza Gawa",
+      "classification": "River",
+      "lat": 33.516667,
+      "lon": 135.783333,
+      "org_latitude": "33 ゚ 31’",
+      "org_longitude": "135 ゚ 47’"
+    },
+    {
+      "name_kanji": "久慈川",
+      "name_kana": "くじがわ",
+      "name_romaji": "Kuji Gawa",
+      "classification": "River",
+      "lat": 36.566667,
+      "lon": 140.416667,
+      "org_latitude": "36 ゚ 34’",
+      "org_longitude": "140 ゚ 25’"
+    },
+    {
+      "name_kanji": "久慈川",
+      "name_kana": "くじがわ",
+      "name_romaji": "Kuji Gawa",
+      "classification": "River",
+      "lat": 40.2,
+      "lon": 141.8,
+      "org_latitude": "40 ゚ 12’",
+      "org_longitude": "141 ゚ 48’"
+    },
+    {
+      "name_kanji": "球磨川",
+      "name_kana": "くまがわ",
+      "name_romaji": "Kuma Gawa",
+      "classification": "River",
+      "lat": 32.483333,
+      "lon": 130.533333,
+      "org_latitude": "32 ゚ 29’",
+      "org_longitude": "130 ゚ 32’"
+    },
+    {
+      "name_kanji": "熊野川",
+      "name_kana": "くまのがわ",
+      "name_romaji": "Kumano Gawa",
+      "classification": "River",
+      "lat": 33.716667,
+      "lon": 136.016667,
+      "org_latitude": "33 ゚ 43’",
+      "org_longitude": "136 ゚ 01’"
+    },
+    {
+      "name_kanji": "雲出川",
+      "name_kana": "くもずがわ",
+      "name_romaji": "Kumozu Gawa",
+      "classification": "River",
+      "lat": 34.616667,
+      "lon": 136.55,
+      "org_latitude": "34 ゚ 37’",
+      "org_longitude": "136 ゚ 33’"
+    },
+    {
+      "name_kanji": "黒部川",
+      "name_kana": "くろべがわ",
+      "name_romaji": "Kurobe Gawa",
+      "classification": "River",
+      "lat": 36.916667,
+      "lon": 137.4,
+      "org_latitude": "36 ゚ 55’",
+      "org_longitude": "137 ゚ 24’"
+    },
+    {
+      "name_kanji": "黒瀬川",
+      "name_kana": "くろせがわ",
+      "name_romaji": "Kurose Gawa",
+      "classification": "River",
+      "lat": 34.216667,
+      "lon": 132.6,
+      "org_latitude": "34 ゚ 13’",
+      "org_longitude": "132 ゚ 36’"
+    },
+    {
+      "name_kanji": "櫛田川",
+      "name_kana": "くしだがわ",
+      "name_romaji": "Kushida Gawa",
+      "classification": "River",
+      "lat": 34.616667,
+      "lon": 136.566667,
+      "org_latitude": "34 ゚ 37’",
+      "org_longitude": "136 ゚ 34’"
+    },
+    {
+      "name_kanji": "釧路川",
+      "name_kana": "くしろがわ",
+      "name_romaji": "Kushiro Gawa",
+      "classification": "River",
+      "lat": 43.033333,
+      "lon": 144.383333,
+      "org_latitude": "43 ゚ 02’",
+      "org_longitude": "144 ゚ 23’"
+    },
+    {
+      "name_kanji": "九頭竜川",
+      "name_kana": "くずりゅうがわ",
+      "name_romaji": "Kuzuryu Gawa",
+      "classification": "River",
+      "lat": 36.183333,
+      "lon": 136.133333,
+      "org_latitude": "36 ゚ 11’",
+      "org_longitude": "136 ゚ 08’"
+    },
+    {
+      "name_kanji": "馬淵川",
+      "name_kana": "まべちがわ",
+      "name_romaji": "Mabechi Gawa",
+      "classification": "River",
+      "lat": 40.533333,
+      "lon": 141.5,
+      "org_latitude": "40 ゚ 32’",
+      "org_longitude": "141 ゚ 30’"
+    },
+    {
+      "name_kanji": "真野川",
+      "name_kana": "まのがわ",
+      "name_romaji": "Mano Gawa",
+      "classification": "River",
+      "lat": 37.666667,
+      "lon": 141.016667,
+      "org_latitude": "37 ゚ 40’",
+      "org_longitude": "141 ゚ 01’"
+    },
+    {
+      "name_kanji": "万之瀬川",
+      "name_kana": "まのせがわ",
+      "name_romaji": "Manose Gawa",
+      "classification": "River",
+      "lat": 31.433333,
+      "lon": 130.266667,
+      "org_latitude": "31 ゚ 26’",
+      "org_longitude": "130 ゚ 16’"
+    },
+    {
+      "name_kanji": "円山川",
+      "name_kana": "まるやまがわ",
+      "name_romaji": "Maruyama Gawa",
+      "classification": "River",
+      "lat": 35.566667,
+      "lon": 134.8,
+      "org_latitude": "35 ゚ 34’",
+      "org_longitude": "134 ゚ 48’"
+    },
+    {
+      "name_kanji": "松田川",
+      "name_kana": "まつだがわ",
+      "name_romaji": "Matsuda Gawa",
+      "classification": "River",
+      "lat": 33.016667,
+      "lon": 132.7,
+      "org_latitude": "33 ゚ 01’",
+      "org_longitude": "132 ゚ 42’"
+    },
+    {
+      "name_kanji": "松浦川",
+      "name_kana": "まつうらがわ",
+      "name_romaji": "Matsuura Gawa",
+      "classification": "River",
+      "lat": 33.416667,
+      "lon": 129.983333,
+      "org_latitude": "33 ゚ 25’",
+      "org_longitude": "129 ゚ 59’"
+    },
+    {
+      "name_kanji": "馬瀬川",
+      "name_kana": "まぜがわ",
+      "name_romaji": "Maze Gawa",
+      "classification": "River",
+      "lat": 35.833333,
+      "lon": 137.166667,
+      "org_latitude": "35 ゚ 50’",
+      "org_longitude": "137 ゚ 10’"
+    },
+    {
+      "name_kanji": "三峰川",
+      "name_kana": "みぶがわ",
+      "name_romaji": "Mibu Gawa",
+      "classification": "River",
+      "lat": 35.816667,
+      "lon": 138,
+      "org_latitude": "35 ゚ 49’",
+      "org_longitude": "138 ゚ 00’"
+    },
+    {
+      "name_kanji": "緑川",
+      "name_kana": "みどりかわ",
+      "name_romaji": "Midorikawa",
+      "classification": "River",
+      "lat": 32.7,
+      "lon": 130.583333,
+      "org_latitude": "32 ゚ 42’",
+      "org_longitude": "130 ゚ 35’"
+    },
+    {
+      "name_kanji": "耳川",
+      "name_kana": "みみがわ",
+      "name_romaji": "Mimi Gawa",
+      "classification": "River",
+      "lat": 32.316667,
+      "lon": 131.616667,
+      "org_latitude": "32 ゚ 19’",
+      "org_longitude": "131 ゚ 37’"
+    },
+    {
+      "name_kanji": "皆瀬川",
+      "name_kana": "みなせがわ",
+      "name_romaji": "Minase Gawa",
+      "classification": "River",
+      "lat": 39.116667,
+      "lon": 140.566667,
+      "org_latitude": "39 ゚ 07’",
+      "org_longitude": "140 ゚ 34’"
+    },
+    {
+      "name_kanji": "三面川",
+      "name_kana": "みおもてがわ",
+      "name_romaji": "Miomote Gawa",
+      "classification": "River",
+      "lat": 38.233333,
+      "lon": 139.433333,
+      "org_latitude": "38 ゚ 14’",
+      "org_longitude": "139 ゚ 26’"
+    },
+    {
+      "name_kanji": "宮川",
+      "name_kana": "みやがわ",
+      "name_romaji": "Miya Gawa",
+      "classification": "River",
+      "lat": 34.533333,
+      "lon": 136.716667,
+      "org_latitude": "34 ゚ 32’",
+      "org_longitude": "136 ゚ 43’"
+    },
+    {
+      "name_kanji": "宮川",
+      "name_kana": "みやがわ",
+      "name_romaji": "Miya Gawa",
+      "classification": "River",
+      "lat": 36.4,
+      "lon": 137.183333,
+      "org_latitude": "36 ゚ 24’",
+      "org_longitude": "137 ゚ 11’"
+    },
+    {
+      "name_kanji": "藻鼈川",
+      "name_kana": "もべつがわ",
+      "name_romaji": "Mobetsu Gawa",
+      "classification": "River",
+      "lat": 44.316667,
+      "lon": 143.383333,
+      "org_latitude": "44 ゚ 19’",
+      "org_longitude": "143 ゚ 23’"
+    },
+    {
+      "name_kanji": "最上川",
+      "name_kana": "もがみがわ",
+      "name_romaji": "Mogami Gawa",
+      "classification": "River",
+      "lat": 38.916667,
+      "lon": 139.783333,
+      "org_latitude": "38 ゚ 55’",
+      "org_longitude": "139 ゚ 47’"
+    },
+    {
+      "name_kanji": "藻琴川",
+      "name_kana": "もことがわ",
+      "name_romaji": "Mokoto Gawa",
+      "classification": "River",
+      "lat": 43.966667,
+      "lon": 144.316667,
+      "org_latitude": "43 ゚ 58’",
+      "org_longitude": "144 ゚ 19’"
+    },
+    {
+      "name_kanji": "物部川",
+      "name_kana": "ものべがわ",
+      "name_romaji": "Monobe Gawa",
+      "classification": "River",
+      "lat": 33.7,
+      "lon": 133.916667,
+      "org_latitude": "33 ゚ 42’",
+      "org_longitude": "133 ゚ 55’"
+    },
+    {
+      "name_kanji": "藻興部川",
+      "name_kana": "もおこっぺがわ",
+      "name_romaji": "Mookoppe Gawa",
+      "classification": "River",
+      "lat": 44.45,
+      "lon": 143.15,
+      "org_latitude": "44 ゚ 27’",
+      "org_longitude": "143 ゚ 09’"
+    },
+    {
+      "name_kanji": "元荒川",
+      "name_kana": "もとあらかわ",
+      "name_romaji": "Moto-arakawa",
+      "classification": "River",
+      "lat": 35.933333,
+      "lon": 139.716667,
+      "org_latitude": "35 ゚ 56’",
+      "org_longitude": "139 ゚ 43’"
+    },
+    {
+      "name_kanji": "元浦川",
+      "name_kana": "もとうらかわ",
+      "name_romaji": "Motoura Kawa",
+      "classification": "River",
+      "lat": 42.183333,
+      "lon": 142.666667,
+      "org_latitude": "42 ゚ 11’",
+      "org_longitude": "142 ゚ 40’"
+    },
+    {
+      "name_kanji": "鵡川",
+      "name_kana": "むかわ",
+      "name_romaji": "Mu Kawa",
+      "classification": "River",
+      "lat": 42.55,
+      "lon": 141.916667,
+      "org_latitude": "42 ゚ 33’",
+      "org_longitude": "141 ゚ 55’"
+    },
+    {
+      "name_kanji": "無加川",
+      "name_kana": "むかがわ",
+      "name_romaji": "Muka Gawa",
+      "classification": "River",
+      "lat": 43.766667,
+      "lon": 143.55,
+      "org_latitude": "43 ゚ 46’",
+      "org_longitude": "143 ゚ 33’"
+    },
+    {
+      "name_kanji": "武庫川",
+      "name_kana": "むこがわ",
+      "name_romaji": "Muko Gawa",
+      "classification": "River",
+      "lat": 34.683333,
+      "lon": 135.366667,
+      "org_latitude": "34 ゚ 41’",
+      "org_longitude": "135 ゚ 22’"
+    },
+    {
+      "name_kanji": "長良川",
+      "name_kana": "ながらがわ",
+      "name_romaji": "Nagara Gawa",
+      "classification": "River",
+      "lat": 35.283333,
+      "lon": 136.65,
+      "org_latitude": "35 ゚ 17’",
+      "org_longitude": "136 ゚ 39’"
+    },
+    {
+      "name_kanji": "奈半利川",
+      "name_kana": "なはりがわ",
+      "name_romaji": "Nahari Gawa",
+      "classification": "River",
+      "lat": 33.466667,
+      "lon": 134.066667,
+      "org_latitude": "33 ゚ 28’",
+      "org_longitude": "134 ゚ 04’"
+    },
+    {
+      "name_kanji": "那珂川",
+      "name_kana": "なかがわ",
+      "name_romaji": "Naka Gawa",
+      "classification": "River",
+      "lat": 36.516667,
+      "lon": 140.35,
+      "org_latitude": "36 ゚ 31’",
+      "org_longitude": "140 ゚ 21’"
+    },
+    {
+      "name_kanji": "那賀川",
+      "name_kana": "なかがわ",
+      "name_romaji": "Naka Gawa",
+      "classification": "River",
+      "lat": 33.883333,
+      "lon": 134.5,
+      "org_latitude": "33 ゚ 53’",
+      "org_longitude": "134 ゚ 30’"
+    },
+    {
+      "name_kanji": "中津川",
+      "name_kana": "なかつがわ",
+      "name_romaji": "Nakatsu Gawa",
+      "classification": "River",
+      "lat": 36.9,
+      "lon": 138.633333,
+      "org_latitude": "36 ゚ 54’",
+      "org_longitude": "138 ゚ 38’"
+    },
+    {
+      "name_kanji": "七北田川",
+      "name_kana": "ななきたがわ",
+      "name_romaji": "Nanakita Gawa",
+      "classification": "River",
+      "lat": 38.233333,
+      "lon": 141.016667,
+      "org_latitude": "38 ゚ 14’",
+      "org_longitude": "141 ゚ 01’"
+    },
+    {
+      "name_kanji": "奈良井川",
+      "name_kana": "ならいがわ",
+      "name_romaji": "Narai Gawa",
+      "classification": "River",
+      "lat": 36.133333,
+      "lon": 137.916667,
+      "org_latitude": "36 ゚ 08’",
+      "org_longitude": "137 ゚ 55’"
+    },
+    {
+      "name_kanji": "成羽川",
+      "name_kana": "なりわがわ",
+      "name_romaji": "Nariwa Gawa",
+      "classification": "River",
+      "lat": 34.816667,
+      "lon": 133.333333,
+      "org_latitude": "34 ゚ 49’",
+      "org_longitude": "133 ゚ 20’"
+    },
+    {
+      "name_kanji": "鳴瀬川",
+      "name_kana": "なるせがわ",
+      "name_romaji": "Naruse Gawa",
+      "classification": "River",
+      "lat": 38.366667,
+      "lon": 141.166667,
+      "org_latitude": "38 ゚ 22’",
+      "org_longitude": "141 ゚ 10’"
+    },
+    {
+      "name_kanji": "名取川",
+      "name_kana": "なとりがわ",
+      "name_romaji": "Natori Gawa",
+      "classification": "River",
+      "lat": 38.166667,
+      "lon": 140.95,
+      "org_latitude": "38 ゚ 10’",
+      "org_longitude": "140 ゚ 57’"
+    },
+    {
+      "name_kanji": "夏井川",
+      "name_kana": "なついがわ",
+      "name_romaji": "Natsui Gawa",
+      "classification": "River",
+      "lat": 37.05,
+      "lon": 140.966667,
+      "org_latitude": "37 ゚ 03’",
+      "org_longitude": "140 ゚ 58’"
+    },
+    {
+      "name_kanji": "名寄川",
+      "name_kana": "なよろがわ",
+      "name_romaji": "Nayoro Gawa",
+      "classification": "River",
+      "lat": 44.316667,
+      "lon": 142.583333,
+      "org_latitude": "44 ゚ 19’",
+      "org_longitude": "142 ゚ 35’"
+    },
+    {
+      "name_kanji": "新田川",
+      "name_kana": "にいだがわ",
+      "name_romaji": "Niida Gawa",
+      "classification": "River",
+      "lat": 37.633333,
+      "lon": 141.016667,
+      "org_latitude": "37 ゚ 38’",
+      "org_longitude": "141 ゚ 01’"
+    },
+    {
+      "name_kanji": "新冠川",
+      "name_kana": "にいかっぷがわ",
+      "name_romaji": "Niikappu Gawa",
+      "classification": "River",
+      "lat": 42.35,
+      "lon": 142.283333,
+      "org_latitude": "42 ゚ 21’",
+      "org_longitude": "142 ゚ 17’"
+    },
+    {
+      "name_kanji": "日光川",
+      "name_kana": "にっこうがわ",
+      "name_romaji": "Nikko Gawa",
+      "classification": "River",
+      "lat": 35.066667,
+      "lon": 136.816667,
+      "org_latitude": "35 ゚ 04’",
+      "org_longitude": "136 ゚ 49’"
+    },
+    {
+      "name_kanji": "日向川",
+      "name_kana": "にっこうがわ",
+      "name_romaji": "Nikko Gawa",
+      "classification": "River",
+      "lat": 38.983333,
+      "lon": 139.833333,
+      "org_latitude": "38 ゚ 59’",
+      "org_longitude": "139 ゚ 50’"
+    },
+    {
+      "name_kanji": "西別川",
+      "name_kana": "にしべつがわ",
+      "name_romaji": "Nishibetsu Gawa",
+      "classification": "River",
+      "lat": 43.383333,
+      "lon": 145.183333,
+      "org_latitude": "43 ゚ 23’",
+      "org_longitude": "145 ゚ 11’"
+    },
+    {
+      "name_kanji": "錦川",
+      "name_kana": "にしきがわ",
+      "name_romaji": "Nishiki Gawa",
+      "classification": "River",
+      "lat": 34.166667,
+      "lon": 132.116667,
+      "org_latitude": "34 ゚ 10’",
+      "org_longitude": "132 ゚ 07’"
+    },
+    {
+      "name_kanji": "仁淀川",
+      "name_kana": "によどがわ",
+      "name_romaji": "Niyodo Gawa",
+      "classification": "River",
+      "lat": 33.45,
+      "lon": 133.483333,
+      "org_latitude": "33 ゚ 27’",
+      "org_longitude": "133 ゚ 29’"
+    },
+    {
+      "name_kanji": "沼田川",
+      "name_kana": "ぬたがわ",
+      "name_romaji": "Nuta Gawa",
+      "classification": "River",
+      "lat": 34.366667,
+      "lon": 133.083333,
+      "org_latitude": "34 ゚ 22’",
+      "org_longitude": "133 ゚ 05’"
+    },
+    {
+      "name_kanji": "小平蕊川",
+      "name_kana": "おびらしべがわ",
+      "name_romaji": "Obirashibe Gawa",
+      "classification": "River",
+      "lat": 44.016667,
+      "lon": 141.633333,
+      "org_latitude": "44 ゚ 01’",
+      "org_longitude": "141 ゚ 38’"
+    },
+    {
+      "name_kanji": "小櫃川",
+      "name_kana": "おびつがわ",
+      "name_romaji": "Obitsu Gawa",
+      "classification": "River",
+      "lat": 35.416667,
+      "lon": 139.916667,
+      "org_latitude": "35 ゚ 25’",
+      "org_longitude": "139 ゚ 55’"
+    },
+    {
+      "name_kanji": "大井川",
+      "name_kana": "おおいがわ",
+      "name_romaji": "Oi Gawa",
+      "classification": "River",
+      "lat": 34.75,
+      "lon": 138.3,
+      "org_latitude": "34 ゚ 45’",
+      "org_longitude": "138 ゚ 18’"
+    },
+    {
+      "name_kanji": "大分川",
+      "name_kana": "おおいたがわ",
+      "name_romaji": "Oita Gawa",
+      "classification": "River",
+      "lat": 33.266667,
+      "lon": 131.616667,
+      "org_latitude": "33 ゚ 16’",
+      "org_longitude": "131 ゚ 37’"
+    },
+    {
+      "name_kanji": "大川",
+      "name_kana": "おおかわ",
+      "name_romaji": "Okawa",
+      "classification": "River",
+      "lat": 37.466667,
+      "lon": 139.9,
+      "org_latitude": "37 ゚ 28’",
+      "org_longitude": "139 ゚ 54’"
+    },
+    {
+      "name_kanji": "興部川",
+      "name_kana": "おこっぺがわ",
+      "name_romaji": "Okoppe Gawa",
+      "classification": "River",
+      "lat": 44.466667,
+      "lon": 143.133333,
+      "org_latitude": "44 ゚ 28’",
+      "org_longitude": "143 ゚ 08’"
+    },
+    {
+      "name_kanji": "小丸川",
+      "name_kana": "おまるがわ",
+      "name_romaji": "Omaru Gawa",
+      "classification": "River",
+      "lat": 32.116667,
+      "lon": 131.533333,
+      "org_latitude": "32 ゚ 07’",
+      "org_longitude": "131 ゚ 32’"
+    },
+    {
+      "name_kanji": "思川",
+      "name_kana": "おもいがわ",
+      "name_romaji": "Omoi Gawa",
+      "classification": "River",
+      "lat": 36.433333,
+      "lon": 139.766667,
+      "org_latitude": "36 ゚ 26’",
+      "org_longitude": "139 ゚ 46’"
+    },
+    {
+      "name_kanji": "雄物川",
+      "name_kana": "おものがわ",
+      "name_romaji": "Omono Gawa",
+      "classification": "River",
+      "lat": 39.683333,
+      "lon": 140.033333,
+      "org_latitude": "39 ゚ 41’",
+      "org_longitude": "140 ゚ 02’"
+    },
+    {
+      "name_kanji": "小本川",
+      "name_kana": "おもとがわ",
+      "name_romaji": "Omoto Gawa",
+      "classification": "River",
+      "lat": 39.833333,
+      "lon": 141.833333,
+      "org_latitude": "39 ゚ 50’",
+      "org_longitude": "141 ゚ 50’"
+    },
+    {
+      "name_kanji": "音別川",
+      "name_kana": "おんべつがわ",
+      "name_romaji": "Onbetsu Gawa",
+      "classification": "River",
+      "lat": 42.866667,
+      "lon": 143.916667,
+      "org_latitude": "42 ゚ 52’",
+      "org_longitude": "143 ゚ 55’"
+    },
+    {
+      "name_kanji": "遠賀川",
+      "name_kana": "おんががわ",
+      "name_romaji": "Onga Gawa",
+      "classification": "River",
+      "lat": 33.883333,
+      "lon": 130.633333,
+      "org_latitude": "33 ゚ 53’",
+      "org_longitude": "130 ゚ 38’"
+    },
+    {
+      "name_kanji": "大野川",
+      "name_kana": "おおのがわ",
+      "name_romaji": "Ono Gawa",
+      "classification": "River",
+      "lat": 33.266667,
+      "lon": 131.683333,
+      "org_latitude": "33 ゚ 16’",
+      "org_longitude": "131 ゚ 41’"
+    },
+    {
+      "name_kanji": "大野川",
+      "name_kana": "おおのがわ",
+      "name_romaji": "Ono Gawa",
+      "classification": "River",
+      "lat": 41.8,
+      "lon": 140.65,
+      "org_latitude": "41 ゚ 48’",
+      "org_longitude": "140 ゚ 39’"
+    },
+    {
+      "name_kanji": "長流川",
+      "name_kana": "おさるがわ",
+      "name_romaji": "Osaru Gawa",
+      "classification": "River",
+      "lat": 42.45,
+      "lon": 140.833333,
+      "org_latitude": "42 ゚ 27’",
+      "org_longitude": "140 ゚ 50’"
+    },
+    {
+      "name_kanji": "太田川",
+      "name_kana": "おおたがわ",
+      "name_romaji": "Ota Gawa",
+      "classification": "River",
+      "lat": 34.35,
+      "lon": 132.433333,
+      "org_latitude": "34 ゚ 21’",
+      "org_longitude": "132 ゚ 26’"
+    },
+    {
+      "name_kanji": "太田川",
+      "name_kana": "おおたがわ",
+      "name_romaji": "Ota Gawa",
+      "classification": "River",
+      "lat": 34.65,
+      "lon": 137.9,
+      "org_latitude": "34 ゚ 39’",
+      "org_longitude": "137 ゚ 54’"
+    },
+    {
+      "name_kanji": "王滝川",
+      "name_kana": "おうたきがわ",
+      "name_romaji": "Otaki Gawa",
+      "classification": "River",
+      "lat": 35.8,
+      "lon": 137.416667,
+      "org_latitude": "35 ゚ 48’",
+      "org_longitude": "137 ゚ 25’"
+    },
+    {
+      "name_kanji": "音更川",
+      "name_kana": "おとふけがわ",
+      "name_romaji": "Otofuke Gawa",
+      "classification": "River",
+      "lat": 43.15,
+      "lon": 143.2,
+      "org_latitude": "43 ゚ 09’",
+      "org_longitude": "143 ゚ 12’"
+    },
+    {
+      "name_kanji": "小矢部川",
+      "name_kana": "おやべがわ",
+      "name_romaji": "Oyabe Gawa",
+      "classification": "River",
+      "lat": 36.783333,
+      "lon": 137.066667,
+      "org_latitude": "36 ゚ 47’",
+      "org_longitude": "137 ゚ 04’"
+    },
+    {
+      "name_kanji": "大淀川",
+      "name_kana": "おおよどがわ",
+      "name_romaji": "Oyodo Gawa",
+      "classification": "River",
+      "lat": 31.883333,
+      "lon": 131.466667,
+      "org_latitude": "31 ゚ 53’",
+      "org_longitude": "131 ゚ 28’"
+    },
+    {
+      "name_kanji": "小瀬川(木野川)",
+      "name_kana": "おぜがわ(このがわ)",
+      "name_romaji": "Oze Gawa (Kono Gawa)",
+      "classification": "River",
+      "lat": 34.266667,
+      "lon": 132.133333,
+      "org_latitude": "34 ゚ 16’",
+      "org_longitude": "132 ゚ 08’"
+    },
+    {
+      "name_kanji": "歴舟川",
+      "name_kana": "れきふねがわ",
+      "name_romaji": "Rekifune Gawa",
+      "classification": "River",
+      "lat": 42.466667,
+      "lon": 143.316667,
+      "org_latitude": "42 ゚ 28’",
+      "org_longitude": "143 ゚ 19’"
+    },
+    {
+      "name_kanji": "留萌川",
+      "name_kana": "るもいがわ",
+      "name_romaji": "Rumoi Gawa",
+      "classification": "River",
+      "lat": 43.883333,
+      "lon": 141.7,
+      "org_latitude": "43 ゚ 53’",
+      "org_longitude": "141 ゚ 42’"
+    },
+    {
+      "name_kanji": "佐波川",
+      "name_kana": "さばがわ",
+      "name_romaji": "Saba Gawa",
+      "classification": "River",
+      "lat": 34.033333,
+      "lon": 131.5,
+      "org_latitude": "34 ゚ 02’",
+      "org_longitude": "131 ゚ 30’"
+    },
+    {
+      "name_kanji": "鯖石川",
+      "name_kana": "さばいしがわ",
+      "name_romaji": "Sabaishi Gawa",
+      "classification": "River",
+      "lat": 37.183333,
+      "lon": 138.633333,
+      "org_latitude": "37 ゚ 11’",
+      "org_longitude": "138 ゚ 38’"
+    },
+    {
+      "name_kanji": "相模川",
+      "name_kana": "さがみがわ",
+      "name_romaji": "Sagami Gawa",
+      "classification": "River",
+      "lat": 35.3,
+      "lon": 139.366667,
+      "org_latitude": "35 ゚ 18’",
+      "org_longitude": "139 ゚ 22’"
+    },
+    {
+      "name_kanji": "佐幌川",
+      "name_kana": "さほろがわ",
+      "name_romaji": "Sahoro Gawa",
+      "classification": "River",
+      "lat": 43,
+      "lon": 142.916667,
+      "org_latitude": "43 ゚ 00’",
+      "org_longitude": "142 ゚ 55’"
+    },
+    {
+      "name_kanji": "犀川",
+      "name_kana": "さいがわ",
+      "name_romaji": "Sai Gawa",
+      "classification": "River",
+      "lat": 36.6,
+      "lon": 136.566667,
+      "org_latitude": "36 ゚ 36’",
+      "org_longitude": "136 ゚ 34’"
+    },
+    {
+      "name_kanji": "犀川",
+      "name_kana": "さいがわ",
+      "name_romaji": "Sai Gawa",
+      "classification": "River",
+      "lat": 36.616667,
+      "lon": 138.083333,
+      "org_latitude": "36 ゚ 37’",
+      "org_longitude": "138 ゚ 05’"
+    },
+    {
+      "name_kanji": "西城川",
+      "name_kana": "さいじょうがわ",
+      "name_romaji": "Saijo Gawa",
+      "classification": "River",
+      "lat": 34.85,
+      "lon": 132.933333,
+      "org_latitude": "34 ゚ 51’",
+      "org_longitude": "132 ゚ 56’"
+    },
+    {
+      "name_kanji": "酒匂川",
+      "name_kana": "さかわがわ",
+      "name_romaji": "Sakawa Gawa",
+      "classification": "River",
+      "lat": 35.25,
+      "lon": 139.183333,
+      "org_latitude": "35 ゚ 15’",
+      "org_longitude": "139 ゚ 11’"
+    },
+    {
+      "name_kanji": "鮭川",
+      "name_kana": "さけがわ",
+      "name_romaji": "Sake Gawa",
+      "classification": "River",
+      "lat": 38.783333,
+      "lon": 140.216667,
+      "org_latitude": "38 ゚ 47’",
+      "org_longitude": "140 ゚ 13’"
+    },
+    {
+      "name_kanji": "桜川",
+      "name_kana": "さくらがわ",
+      "name_romaji": "Sakura Gawa",
+      "classification": "River",
+      "lat": 36.25,
+      "lon": 140.066667,
+      "org_latitude": "36 ゚ 15’",
+      "org_longitude": "140 ゚ 04’"
+    },
+    {
+      "name_kanji": "鮫川",
+      "name_kana": "さめがわ",
+      "name_romaji": "Same Gawa",
+      "classification": "River",
+      "lat": 36.9,
+      "lon": 140.816667,
+      "org_latitude": "36 ゚ 54’",
+      "org_longitude": "140 ゚ 49’"
+    },
+    {
+      "name_kanji": "サロベツ川",
+      "name_kana": "さろべつがわ",
+      "name_romaji": "Sarobetsu Gawa",
+      "classification": "River",
+      "lat": 45.05,
+      "lon": 141.683333,
+      "org_latitude": "45 ゚ 03’",
+      "org_longitude": "141 ゚ 41’"
+    },
+    {
+      "name_kanji": "佐呂間別川",
+      "name_kana": "さろまべつがわ",
+      "name_romaji": "Saromabetsu Gawa",
+      "classification": "River",
+      "lat": 44.1,
+      "lon": 143.933333,
+      "org_latitude": "44 ゚ 06’",
+      "org_longitude": "143 ゚ 56’"
+    },
+    {
+      "name_kanji": "沙流川",
+      "name_kana": "さるがわ",
+      "name_romaji": "Saru Gawa",
+      "classification": "River",
+      "lat": 42.483333,
+      "lon": 142,
+      "org_latitude": "42 ゚ 29’",
+      "org_longitude": "142 ゚ 00’"
+    },
+    {
+      "name_kanji": "猿払川",
+      "name_kana": "さるふつがわ",
+      "name_romaji": "Sarufutsu Gawa",
+      "classification": "River",
+      "lat": 45.266667,
+      "lon": 142.216667,
+      "org_latitude": "45 ゚ 16’",
+      "org_longitude": "142 ゚ 13’"
+    },
+    {
+      "name_kanji": "猿ヶ石川",
+      "name_kana": "さるがいしがわ",
+      "name_romaji": "Sarugaishi Gawa",
+      "classification": "River",
+      "lat": 39.35,
+      "lon": 141.183333,
+      "org_latitude": "39 ゚ 21’",
+      "org_longitude": "141 ゚ 11’"
+    },
+    {
+      "name_kanji": "札内川",
+      "name_kana": "さつないがわ",
+      "name_romaji": "Satsunai Gawa",
+      "classification": "River",
+      "lat": 42.816667,
+      "lon": 143.166667,
+      "org_latitude": "42 ゚ 49’",
+      "org_longitude": "143 ゚ 10’"
+    },
+    {
+      "name_kanji": "関川",
+      "name_kana": "せきがわ",
+      "name_romaji": "Seki Gawa",
+      "classification": "River",
+      "lat": 37.066667,
+      "lon": 138.266667,
+      "org_latitude": "37 ゚ 04’",
+      "org_longitude": "138 ゚ 16’"
+    },
+    {
+      "name_kanji": "千代川",
+      "name_kana": "せんだいがわ",
+      "name_romaji": "Sendai Gawa",
+      "classification": "River",
+      "lat": 35.466667,
+      "lon": 134.216667,
+      "org_latitude": "35 ゚ 28’",
+      "org_longitude": "134 ゚ 13’"
+    },
+    {
+      "name_kanji": "川内川",
+      "name_kana": "せんだいがわ",
+      "name_romaji": "Sendai Gawa",
+      "classification": "River",
+      "lat": 31.833333,
+      "lon": 130.166667,
+      "org_latitude": "31 ゚ 50’",
+      "org_longitude": "130 ゚ 10’"
+    },
+    {
+      "name_kanji": "雪裡川",
+      "name_kana": "せつりがわ",
+      "name_romaji": "Setsuri Gawa",
+      "classification": "River",
+      "lat": 43.2,
+      "lon": 144.333333,
+      "org_latitude": "43 ゚ 12’",
+      "org_longitude": "144 ゚ 20’"
+    },
+    {
+      "name_kanji": "斜里川",
+      "name_kana": "しゃりがわ",
+      "name_romaji": "Shari Gawa",
+      "classification": "River",
+      "lat": 43.916667,
+      "lon": 144.65,
+      "org_latitude": "43 ゚ 55’",
+      "org_longitude": "144 ゚ 39’"
+    },
+    {
+      "name_kanji": "標津川",
+      "name_kana": "しべつがわ",
+      "name_romaji": "Shibetsu Gawa",
+      "classification": "River",
+      "lat": 43.616667,
+      "lon": 145.083333,
+      "org_latitude": "43 ゚ 37’",
+      "org_longitude": "145 ゚ 05’"
+    },
+    {
+      "name_kanji": "渋海川",
+      "name_kana": "しぶみがわ",
+      "name_romaji": "Shibumi Gawa",
+      "classification": "River",
+      "lat": 37.25,
+      "lon": 138.7,
+      "org_latitude": "37 ゚ 15’",
+      "org_longitude": "138 ゚ 42’"
+    },
+    {
+      "name_kanji": "重信川",
+      "name_kana": "しげのぶがわ",
+      "name_romaji": "Shigenobu Gawa",
+      "classification": "River",
+      "lat": 33.783333,
+      "lon": 132.666667,
+      "org_latitude": "33 ゚ 47’",
+      "org_longitude": "132 ゚ 40’"
+    },
+    {
+      "name_kanji": "然別川",
+      "name_kana": "しかりべつがわ",
+      "name_romaji": "Shikaribetsu Gawa",
+      "classification": "River",
+      "lat": 43.016667,
+      "lon": 143.133333,
+      "org_latitude": "43 ゚ 01’",
+      "org_longitude": "143 ゚ 08’"
+    },
+    {
+      "name_kanji": "四万十川",
+      "name_kana": "しまんとがわ",
+      "name_romaji": "Shimanto Gawa",
+      "classification": "River",
+      "lat": 33.233333,
+      "lon": 133.133333,
+      "org_latitude": "33 ゚ 14’",
+      "org_longitude": "133 ゚ 08’"
+    },
+    {
+      "name_kanji": "島田川",
+      "name_kana": "しまたがわ",
+      "name_romaji": "Shimata Gawa",
+      "classification": "River",
+      "lat": 34.066667,
+      "lon": 132.016667,
+      "org_latitude": "34 ゚ 04’",
+      "org_longitude": "132 ゚ 01’"
+    },
+    {
+      "name_kanji": "信濃川",
+      "name_kana": "しなのがわ",
+      "name_romaji": "Shinano Gawa",
+      "classification": "River",
+      "lat": 37.95,
+      "lon": 139.066667,
+      "org_latitude": "37 ゚ 57’",
+      "org_longitude": "139 ゚ 04’"
+    },
+    {
+      "name_kanji": "白川",
+      "name_kana": "しらかわ",
+      "name_romaji": "Shirakawa",
+      "classification": "River",
+      "lat": 32.766667,
+      "lon": 130.583333,
+      "org_latitude": "32 ゚ 46’",
+      "org_longitude": "130 ゚ 35’"
+    },
+    {
+      "name_kanji": "白老川",
+      "name_kana": "しらおいがわ",
+      "name_romaji": "Shiraoi Gawa",
+      "classification": "River",
+      "lat": 42.516667,
+      "lon": 141.333333,
+      "org_latitude": "42 ゚ 31’",
+      "org_longitude": "141 ゚ 20’"
+    },
+    {
+      "name_kanji": "後志利別川",
+      "name_kana": "しりべしとしべつがわ",
+      "name_romaji": "Shiribeshi-toshibetsu Gawa",
+      "classification": "River",
+      "lat": 42.416667,
+      "lon": 139.8,
+      "org_latitude": "42 ゚ 25’",
+      "org_longitude": "139 ゚ 48’"
+    },
+    {
+      "name_kanji": "尻別川",
+      "name_kana": "しりべつがわ",
+      "name_romaji": "Shiribetsu Gawa",
+      "classification": "River",
+      "lat": 42.866667,
+      "lon": 140.333333,
+      "org_latitude": "42 ゚ 52’",
+      "org_longitude": "140 ゚ 20’"
+    },
+    {
+      "name_kanji": "知内川",
+      "name_kana": "しりうちがわ",
+      "name_romaji": "Shiriuchi Gawa",
+      "classification": "River",
+      "lat": 41.583333,
+      "lon": 140.416667,
+      "org_latitude": "41 ゚ 35’",
+      "org_longitude": "140 ゚ 25’"
+    },
+    {
+      "name_kanji": "白石川",
+      "name_kana": "しろいしがわ",
+      "name_romaji": "Shiroishi Gawa",
+      "classification": "River",
+      "lat": 37.966667,
+      "lon": 140.483333,
+      "org_latitude": "37 ゚ 58’",
+      "org_longitude": "140 ゚ 29’"
+    },
+    {
+      "name_kanji": "静間川",
+      "name_kana": "しずまがわ",
+      "name_romaji": "Shizuma Gawa",
+      "classification": "River",
+      "lat": 35.166667,
+      "lon": 132.466667,
+      "org_latitude": "35 ゚ 10’",
+      "org_longitude": "132 ゚ 28’"
+    },
+    {
+      "name_kanji": "静内川",
+      "name_kana": "しずないがわ",
+      "name_romaji": "Shizunai Gawa",
+      "classification": "River",
+      "lat": 42.316667,
+      "lon": 142.35,
+      "org_latitude": "42 ゚ 19’",
+      "org_longitude": "142 ゚ 21’"
+    },
+    {
+      "name_kanji": "庄川",
+      "name_kana": "しょうがわ",
+      "name_romaji": "Sho Gawa",
+      "classification": "River",
+      "lat": 36.766667,
+      "lon": 137.05,
+      "org_latitude": "36 ゚ 46’",
+      "org_longitude": "137 ゚ 03’"
+    },
+    {
+      "name_kanji": "滑川",
+      "name_kana": "しょこつがわ",
+      "name_romaji": "Shokotsu Gawa",
+      "classification": "River",
+      "lat": 44.366667,
+      "lon": 143.316667,
+      "org_latitude": "44 ゚ 22’",
+      "org_longitude": "143 ゚ 19’"
+    },
+    {
+      "name_kanji": "庄内川",
+      "name_kana": "しょうないがわ",
+      "name_romaji": "Shonai Gawa",
+      "classification": "River",
+      "lat": 35.066667,
+      "lon": 136.833333,
+      "org_latitude": "35 ゚ 04’",
+      "org_longitude": "136 ゚ 50’"
+    },
+    {
+      "name_kanji": "庶路川",
+      "name_kana": "しょろがわ",
+      "name_romaji": "Shoro Gawa",
+      "classification": "River",
+      "lat": 42.966667,
+      "lon": 144.15,
+      "org_latitude": "42 ゚ 58’",
+      "org_longitude": "144 ゚ 09’"
+    },
+    {
+      "name_kanji": "朱太川",
+      "name_kana": "しゅぶとかわ",
+      "name_romaji": "Shubuto Kawa",
+      "classification": "River",
+      "lat": 42.766667,
+      "lon": 140.25,
+      "org_latitude": "42 ゚ 46’",
+      "org_longitude": "140 ゚ 15’"
+    },
+    {
+      "name_kanji": "春別川",
+      "name_kana": "しゅんべつがわ",
+      "name_romaji": "Shunbetsu Gawa",
+      "classification": "River",
+      "lat": 43.483333,
+      "lon": 145.083333,
+      "org_latitude": "43 ゚ 29’",
+      "org_longitude": "145 ゚ 05’"
+    },
+    {
+      "name_kanji": "空知川",
+      "name_kana": "そらちがわ",
+      "name_romaji": "Sorachi Gawa",
+      "classification": "River",
+      "lat": 43.533333,
+      "lon": 141.933333,
+      "org_latitude": "43 ゚ 32’",
+      "org_longitude": "141 ゚ 56’"
+    },
+    {
+      "name_kanji": "須川",
+      "name_kana": "すかわ",
+      "name_romaji": "Su Kawa",
+      "classification": "River",
+      "lat": 38.1,
+      "lon": 140.283333,
+      "org_latitude": "38 ゚ 06’",
+      "org_longitude": "140 ゚ 17’"
+    },
+    {
+      "name_kanji": "周布川",
+      "name_kana": "すふがわ",
+      "name_romaji": "Sufu Gawa",
+      "classification": "River",
+      "lat": 34.816667,
+      "lon": 132.083333,
+      "org_latitude": "34 ゚ 49’",
+      "org_longitude": "132 ゚ 05’"
+    },
+    {
+      "name_kanji": "裾花川",
+      "name_kana": "すそばながわ",
+      "name_romaji": "Susobana Gawa",
+      "classification": "River",
+      "lat": 36.666667,
+      "lon": 138,
+      "org_latitude": "36 ゚ 40’",
+      "org_longitude": "138 ゚ 00’"
+    },
+    {
+      "name_kanji": "鈴鹿川",
+      "name_kana": "すずかがわ",
+      "name_romaji": "Suzuka Gawa",
+      "classification": "River",
+      "lat": 34.916667,
+      "lon": 136.633333,
+      "org_latitude": "34 ゚ 55’",
+      "org_longitude": "136 ゚ 38’"
+    },
+    {
+      "name_kanji": "田川",
+      "name_kana": "たがわ",
+      "name_romaji": "Ta Gawa",
+      "classification": "River",
+      "lat": 36.433333,
+      "lon": 139.883333,
+      "org_latitude": "36 ゚ 26’",
+      "org_longitude": "139 ゚ 53’"
+    },
+    {
+      "name_kanji": "只見川",
+      "name_kana": "ただみがわ",
+      "name_romaji": "Tadami Gawa",
+      "classification": "River",
+      "lat": 37.433333,
+      "lon": 139.483333,
+      "org_latitude": "37 ゚ 26’",
+      "org_longitude": "139 ゚ 29’"
+    },
+    {
+      "name_kanji": "胎内川",
+      "name_kana": "たいないがわ",
+      "name_romaji": "Tainai Gawa",
+      "classification": "River",
+      "lat": 38.083333,
+      "lon": 139.35,
+      "org_latitude": "38 ゚ 05’",
+      "org_longitude": "139 ゚ 21’"
+    },
+    {
+      "name_kanji": "高原川",
+      "name_kana": "たかはらがわ",
+      "name_romaji": "Takahara Gawa",
+      "classification": "River",
+      "lat": 36.416667,
+      "lon": 137.283333,
+      "org_latitude": "36 ゚ 25’",
+      "org_longitude": "137 ゚ 17’"
+    },
+    {
+      "name_kanji": "高梁川",
+      "name_kana": "たかはしがわ",
+      "name_romaji": "Takahashi Gawa",
+      "classification": "River",
+      "lat": 34.516667,
+      "lon": 133.683333,
+      "org_latitude": "34 ゚ 31’",
+      "org_longitude": "133 ゚ 41’"
+    },
+    {
+      "name_kanji": "高瀬川",
+      "name_kana": "たかせがわ",
+      "name_romaji": "Takase Gawa",
+      "classification": "River",
+      "lat": 36.45,
+      "lon": 137.866667,
+      "org_latitude": "36 ゚ 27’",
+      "org_longitude": "137 ゚ 52’"
+    },
+    {
+      "name_kanji": "高瀬川",
+      "name_kana": "たかせがわ",
+      "name_romaji": "Takase Gawa",
+      "classification": "River",
+      "lat": 40.883333,
+      "lon": 141.383333,
+      "org_latitude": "40 ゚ 53’",
+      "org_longitude": "141 ゚ 23’"
+    },
+    {
+      "name_kanji": "高津川",
+      "name_kana": "たかつがわ",
+      "name_romaji": "Takatsu Gawa",
+      "classification": "River",
+      "lat": 34.683333,
+      "lon": 131.8,
+      "org_latitude": "34 ゚ 41’",
+      "org_longitude": "131 ゚ 48’"
+    },
+    {
+      "name_kanji": "竹野川",
+      "name_kana": "たけのがわ",
+      "name_romaji": "Takeno Gawa",
+      "classification": "River",
+      "lat": 35.733333,
+      "lon": 135.1,
+      "org_latitude": "35 ゚ 44’",
+      "org_longitude": "135 ゚ 06’"
+    },
+    {
+      "name_kanji": "多摩川",
+      "name_kana": "たまがわ",
+      "name_romaji": "Tama Gawa",
+      "classification": "River",
+      "lat": 35.516667,
+      "lon": 139.766667,
+      "org_latitude": "35 ゚ 31’",
+      "org_longitude": "139 ゚ 46’"
+    },
+    {
+      "name_kanji": "田名部川",
+      "name_kana": "たなぶがわ",
+      "name_romaji": "Tanabu Gawa",
+      "classification": "River",
+      "lat": 41.266667,
+      "lon": 141.183333,
+      "org_latitude": "41 ゚ 16’",
+      "org_longitude": "141 ゚ 11’"
+    },
+    {
+      "name_kanji": "手取川",
+      "name_kana": "てどりがわ",
+      "name_romaji": "Tedori Gawa",
+      "classification": "River",
+      "lat": 36.483333,
+      "lon": 136.466667,
+      "org_latitude": "36 ゚ 29’",
+      "org_longitude": "136 ゚ 28’"
+    },
+    {
+      "name_kanji": "天神川",
+      "name_kana": "てんじんがわ",
+      "name_romaji": "Tenjin Gawa",
+      "classification": "River",
+      "lat": 35.5,
+      "lon": 133.85,
+      "org_latitude": "35 ゚ 30’",
+      "org_longitude": "133 ゚ 51’"
+    },
+    {
+      "name_kanji": "天竜川",
+      "name_kana": "てんりゅうがわ",
+      "name_romaji": "Tenryu Gawa",
+      "classification": "River",
+      "lat": 34.633333,
+      "lon": 137.8,
+      "org_latitude": "34 ゚ 38’",
+      "org_longitude": "137 ゚ 48’"
+    },
+    {
+      "name_kanji": "天塩川",
+      "name_kana": "てしおがわ",
+      "name_romaji": "Teshio Gawa",
+      "classification": "River",
+      "lat": 44.95,
+      "lon": 141.866667,
+      "org_latitude": "44 ゚ 57’",
+      "org_longitude": "141 ゚ 52’"
+    },
+    {
+      "name_kanji": "当別川",
+      "name_kana": "とうべつがわ",
+      "name_romaji": "Tobetsu Gawa",
+      "classification": "River",
+      "lat": 43.433333,
+      "lon": 141.566667,
+      "org_latitude": "43 ゚ 26’",
+      "org_longitude": "141 ゚ 34’"
+    },
+    {
+      "name_kanji": "当幌川",
+      "name_kana": "とうほろがわ",
+      "name_romaji": "Tohoro Gawa",
+      "classification": "River",
+      "lat": 43.533333,
+      "lon": 145.066667,
+      "org_latitude": "43 ゚ 32’",
+      "org_longitude": "145 ゚ 04’"
+    },
+    {
+      "name_kanji": "十勝川",
+      "name_kana": "とかちがわ",
+      "name_romaji": "Tokachi Gawa",
+      "classification": "River",
+      "lat": 42.683333,
+      "lon": 143.666667,
+      "org_latitude": "42 ゚ 41’",
+      "org_longitude": "143 ゚ 40’"
+    },
+    {
+      "name_kanji": "土岐川",
+      "name_kana": "ときがわ",
+      "name_romaji": "Toki Gawa",
+      "classification": "River",
+      "lat": 35.316667,
+      "lon": 137.1,
+      "org_latitude": "35 ゚ 19’",
+      "org_longitude": "137 ゚ 06’"
+    },
+    {
+      "name_kanji": "常浪川",
+      "name_kana": "とこなみがわ",
+      "name_romaji": "Tokonami Gawa",
+      "classification": "River",
+      "lat": 37.65,
+      "lon": 139.466667,
+      "org_latitude": "37 ゚ 39’",
+      "org_longitude": "139 ゚ 28’"
+    },
+    {
+      "name_kanji": "常呂川",
+      "name_kana": "ところがわ",
+      "name_romaji": "Tokoro Gawa",
+      "classification": "River",
+      "lat": 44.133333,
+      "lon": 144.083333,
+      "org_latitude": "44 ゚ 08’",
+      "org_longitude": "144 ゚ 05’"
+    },
+    {
+      "name_kanji": "床丹川",
+      "name_kana": "とこたんがわ",
+      "name_romaji": "Tokotan Gawa",
+      "classification": "River",
+      "lat": 43.433333,
+      "lon": 145.15,
+      "org_latitude": "43 ゚ 26’",
+      "org_longitude": "145 ゚ 09’"
+    },
+    {
+      "name_kanji": "徳志別川",
+      "name_kana": "とくしべつがわ",
+      "name_romaji": "Tokushibetsu Gawa",
+      "classification": "River",
+      "lat": 44.65,
+      "lon": 142.533333,
+      "org_latitude": "44 ゚ 39’",
+      "org_longitude": "142 ゚ 32’"
+    },
+    {
+      "name_kanji": "頓別川",
+      "name_kana": "とんべつがわ",
+      "name_romaji": "Tonbetsu Gawa",
+      "classification": "River",
+      "lat": 45.116667,
+      "lon": 142.383333,
+      "org_latitude": "45 ゚ 07’",
+      "org_longitude": "142 ゚ 23’"
+    },
+    {
+      "name_kanji": "富田川",
+      "name_kana": "とんだがわ",
+      "name_romaji": "Tonda Gawa",
+      "classification": "River",
+      "lat": 33.633333,
+      "lon": 135.366667,
+      "org_latitude": "33 ゚ 38’",
+      "org_longitude": "135 ゚ 22’"
+    },
+    {
+      "name_kanji": "利根川",
+      "name_kana": "とねがわ",
+      "name_romaji": "Tone Gawa",
+      "classification": "River",
+      "lat": 35.75,
+      "lon": 140.85,
+      "org_latitude": "35 ゚ 45’",
+      "org_longitude": "140 ゚ 51’"
+    },
+    {
+      "name_kanji": "利別川",
+      "name_kana": "としべつがわ",
+      "name_romaji": "Toshibetsu Gawa",
+      "classification": "River",
+      "lat": 43.1,
+      "lon": 143.533333,
+      "org_latitude": "43 ゚ 06’",
+      "org_longitude": "143 ゚ 32’"
+    },
+    {
+      "name_kanji": "十津川",
+      "name_kana": "とつかわ",
+      "name_romaji": "Totsu Kawa",
+      "classification": "River",
+      "lat": 33.9,
+      "lon": 135.783333,
+      "org_latitude": "33 ゚ 54’",
+      "org_longitude": "135 ゚ 47’"
+    },
+    {
+      "name_kanji": "豊川",
+      "name_kana": "とよがわ",
+      "name_romaji": "Toyo Gawa",
+      "classification": "River",
+      "lat": 34.766667,
+      "lon": 137.3,
+      "org_latitude": "34 ゚ 46’",
+      "org_longitude": "137 ゚ 18’"
+    },
+    {
+      "name_kanji": "豊平川",
+      "name_kana": "とよひらがわ",
+      "name_romaji": "Toyohira Gawa",
+      "classification": "River",
+      "lat": 43.133333,
+      "lon": 141.433333,
+      "org_latitude": "43 ゚ 08’",
+      "org_longitude": "141 ゚ 26’"
+    },
+    {
+      "name_kanji": "豊似川",
+      "name_kana": "とよにがわ",
+      "name_romaji": "Toyoni Gawa",
+      "classification": "River",
+      "lat": 42.4,
+      "lon": 143.216667,
+      "org_latitude": "42 ゚ 24’",
+      "org_longitude": "143 ゚ 13’"
+    },
+    {
+      "name_kanji": "堤川",
+      "name_kana": "つつみがわ",
+      "name_romaji": "Tsutsumi Gawa",
+      "classification": "River",
+      "lat": 40.716667,
+      "lon": 140.733333,
+      "org_latitude": "40 ゚ 43’",
+      "org_longitude": "140 ゚ 44’"
+    },
+    {
+      "name_kanji": "有家川",
+      "name_kana": "うげがわ",
+      "name_romaji": "Uge Gawa",
+      "classification": "River",
+      "lat": 40.3,
+      "lon": 141.783333,
+      "org_latitude": "40 ゚ 18’",
+      "org_longitude": "141 ゚ 47’"
+    },
+    {
+      "name_kanji": "請戸川",
+      "name_kana": "うけどがわ",
+      "name_romaji": "Ukedo Gawa",
+      "classification": "River",
+      "lat": 37.5,
+      "lon": 140.883333,
+      "org_latitude": "37 ゚ 30’",
+      "org_longitude": "140 ゚ 53’"
+    },
+    {
+      "name_kanji": "魚野川",
+      "name_kana": "うおのがわ",
+      "name_romaji": "Uono Gawa",
+      "classification": "River",
+      "lat": 37.166667,
+      "lon": 138.916667,
+      "org_latitude": "37 ゚ 10’",
+      "org_longitude": "138 ゚ 55’"
+    },
+    {
+      "name_kanji": "浦幌川",
+      "name_kana": "うらほろがわ",
+      "name_romaji": "Urahoro Gawa",
+      "classification": "River",
+      "lat": 42.783333,
+      "lon": 143.65,
+      "org_latitude": "42 ゚ 47’",
+      "org_longitude": "143 ゚ 39’"
+    },
+    {
+      "name_kanji": "雨竜川",
+      "name_kana": "うりゅうがわ",
+      "name_romaji": "Uryu Gawa",
+      "classification": "River",
+      "lat": 43.75,
+      "lon": 141.9,
+      "org_latitude": "43 ゚ 45’",
+      "org_longitude": "141 ゚ 54’"
+    },
+    {
+      "name_kanji": "和賀川",
+      "name_kana": "わがかわ",
+      "name_romaji": "Waga Kawa",
+      "classification": "River",
+      "lat": 39.416667,
+      "lon": 140.75,
+      "org_latitude": "39 ゚ 25’",
+      "org_longitude": "140 ゚ 45’"
+    },
+    {
+      "name_kanji": "渡良瀬川",
+      "name_kana": "わたらせがわ",
+      "name_romaji": "Watarase Gawa",
+      "classification": "River",
+      "lat": 36.366667,
+      "lon": 139.333333,
+      "org_latitude": "36 ゚ 22’",
+      "org_longitude": "139 ゚ 20’"
+    },
+    {
+      "name_kanji": "矢部川",
+      "name_kana": "やべがわ",
+      "name_romaji": "Yabe Gawa",
+      "classification": "River",
+      "lat": 33.083333,
+      "lon": 130.416667,
+      "org_latitude": "33 ゚ 05’",
+      "org_longitude": "130 ゚ 25’"
+    },
+    {
+      "name_kanji": "矢作川",
+      "name_kana": "やはぎがわ",
+      "name_romaji": "Yahagi Gawa",
+      "classification": "River",
+      "lat": 34.816667,
+      "lon": 136.966667,
+      "org_latitude": "34 ゚ 49’",
+      "org_longitude": "136 ゚ 58’"
+    },
+    {
+      "name_kanji": "駅館川",
+      "name_kana": "やっかんがわ",
+      "name_romaji": "Yakkan Gawa",
+      "classification": "River",
+      "lat": 33.566667,
+      "lon": 131.366667,
+      "org_latitude": "33 ゚ 34’",
+      "org_longitude": "131 ゚ 22’"
+    },
+    {
+      "name_kanji": "山国川",
+      "name_kana": "やまくにがわ",
+      "name_romaji": "Yamakuni Gawa",
+      "classification": "River",
+      "lat": 33.616667,
+      "lon": 131.183333,
+      "org_latitude": "33 ゚ 37’",
+      "org_longitude": "131 ゚ 11’"
+    },
+    {
+      "name_kanji": "大和川",
+      "name_kana": "やまとがわ",
+      "name_romaji": "Yamato Gawa",
+      "classification": "River",
+      "lat": 34.6,
+      "lon": 135.416667,
+      "org_latitude": "34 ゚ 36’",
+      "org_longitude": "135 ゚ 25’"
+    },
+    {
+      "name_kanji": "止別川",
+      "name_kana": "やんべつがわ",
+      "name_romaji": "Yanbetsu Gawa",
+      "classification": "River",
+      "lat": 43.933333,
+      "lon": 144.483333,
+      "org_latitude": "43 ゚ 56’",
+      "org_longitude": "144 ゚ 29’"
+    },
+    {
+      "name_kanji": "野洲川",
+      "name_kana": "やすがわ",
+      "name_romaji": "Yasu Gawa",
+      "classification": "River",
+      "lat": 35.116667,
+      "lon": 135.966667,
+      "org_latitude": "35 ゚ 07’",
+      "org_longitude": "135 ゚ 58’"
+    },
+    {
+      "name_kanji": "淀川",
+      "name_kana": "よどがわ",
+      "name_romaji": "Yodo Gawa",
+      "classification": "River",
+      "lat": 34.75,
+      "lon": 135.55,
+      "org_latitude": "34 ゚ 45’",
+      "org_longitude": "135 ゚ 33’"
+    },
+    {
+      "name_kanji": "余市川",
+      "name_kana": "よいちがわ",
+      "name_romaji": "Yoichi Gawa",
+      "classification": "River",
+      "lat": 43.183333,
+      "lon": 140.783333,
+      "org_latitude": "43 ゚ 11’",
+      "org_longitude": "140 ゚ 47’"
+    },
+    {
+      "name_kanji": "米代川",
+      "name_kana": "よねしろがわ",
+      "name_romaji": "Yoneshiro Gawa",
+      "classification": "River",
+      "lat": 40.2,
+      "lon": 140.1,
+      "org_latitude": "40 ゚ 12’",
+      "org_longitude": "140 ゚ 06’"
+    },
+    {
+      "name_kanji": "養老川",
+      "name_kana": "ようろうがわ",
+      "name_romaji": "Yoro Gawa",
+      "classification": "River",
+      "lat": 35.55,
+      "lon": 140.05,
+      "org_latitude": "35 ゚ 33’",
+      "org_longitude": "140 ゚ 03’"
+    },
+    {
+      "name_kanji": "吉田川",
+      "name_kana": "よしだがわ",
+      "name_romaji": "Yoshida Gawa",
+      "classification": "River",
+      "lat": 38.433333,
+      "lon": 141.05,
+      "org_latitude": "38 ゚ 26’",
+      "org_longitude": "141 ゚ 03’"
+    },
+    {
+      "name_kanji": "吉井川",
+      "name_kana": "よしいがわ",
+      "name_romaji": "Yoshii Gawa",
+      "classification": "River",
+      "lat": 34.6,
+      "lon": 134.033333,
+      "org_latitude": "34 ゚ 36’",
+      "org_longitude": "134 ゚ 02’"
+    },
+    {
+      "name_kanji": "吉野川",
+      "name_kana": "よしのがわ",
+      "name_romaji": "Yoshino Gawa",
+      "classification": "River",
+      "lat": 34.066667,
+      "lon": 134.6,
+      "org_latitude": "34 ゚ 04’",
+      "org_longitude": "134 ゚ 36’"
+    },
+    {
+      "name_kanji": "夕張川",
+      "name_kana": "ゆうばりがわ",
+      "name_romaji": "Yubari Gawa",
+      "classification": "River",
+      "lat": 43.083333,
+      "lon": 141.633333,
+      "org_latitude": "43 ゚ 05’",
+      "org_longitude": "141 ゚ 38’"
+    },
+    {
+      "name_kanji": "湧別川",
+      "name_kana": "ゆうべつがわ",
+      "name_romaji": "Yubetsu Gawa",
+      "classification": "River",
+      "lat": 44.216667,
+      "lon": 143.616667,
+      "org_latitude": "44 ゚ 13’",
+      "org_longitude": "143 ゚ 37’"
+    },
+    {
+      "name_kanji": "勇払川",
+      "name_kana": "ゆうふつがわ",
+      "name_romaji": "Yufutsu Gawa",
+      "classification": "River",
+      "lat": 42.65,
+      "lon": 141.733333,
+      "org_latitude": "42 ゚ 39’",
+      "org_longitude": "141 ゚ 44’"
+    },
+    {
+      "name_kanji": "由良川",
+      "name_kana": "ゆらがわ",
+      "name_romaji": "Yura Gawa",
+      "classification": "River",
+      "lat": 35.516667,
+      "lon": 135.283333,
+      "org_latitude": "35 ゚ 31’",
+      "org_longitude": "135 ゚ 17’"
+    },
+    {
+      "name_kanji": "遊楽部川",
+      "name_kana": "ゆうらっぷがわ",
+      "name_romaji": "Yurappu Gawa",
+      "classification": "River",
+      "lat": 42.25,
+      "lon": 140.283333,
+      "org_latitude": "42 ゚ 15’",
+      "org_longitude": "140 ゚ 17’"
+    },
+    {
+      "name_kanji": "梼原川",
+      "name_kana": "ゆすはらがわ",
+      "name_romaji": "Yusuhara Gawa",
+      "classification": "River",
+      "lat": 33.283333,
+      "lon": 132.933333,
+      "org_latitude": "33 ゚ 17’",
+      "org_longitude": "132 ゚ 56’"
+    }
+  ],
+  "meta": {
+    "title": "河川一覧 (Rivers of Japan) - 無料ダウンロード",
+    "description": "国土地理院「日本地名集 (Gazetteer of Japan) 2007」に収録された河川 324 件。漢字・ひらがな・公式ローマ字表記と緯度経度を併記。324 rivers listed in the Geospatial Information Authority of Japan's Gazetteer of Japan 2007 (with the 2018 update), each with kanji, kana and the official romanised name plus degree-minute coordinates in both original DMS and decimal form. 収録数 324 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "河川一覧 (Rivers of Japan) | ListBase",
+    "seo_description": "ダウンロード 河川一覧 (Rivers of Japan) — 324 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 324 件 / 8 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/piuccio/open-data-jp-municipalities"
+    ]
+  }
+}

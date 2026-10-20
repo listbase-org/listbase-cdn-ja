@@ -1,0 +1,192 @@
+{
+  "id": "ja-fukui-municipalities",
+  "name": "福井県の市区町村一覧 (Municipalities of Fukui — JIS X 0402)",
+  "title": "福井県の市区町村一覧 (Municipalities of Fukui — JIS X 0402)",
+  "description": "福井県 (Fukui Prefecture) の市区町村一覧 17 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 17 active municipalities (cities/wards/towns/villages) of Fukui Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "18201",
+      "prefecture_code": "18",
+      "prefecture": "福井県",
+      "prefecture_kana": "フクイケン",
+      "city": "福井市",
+      "city_kana": "フクイシ"
+    },
+    {
+      "jisx0402": "18202",
+      "prefecture_code": "18",
+      "prefecture": "福井県",
+      "prefecture_kana": "フクイケン",
+      "city": "敦賀市",
+      "city_kana": "ツルガシ"
+    },
+    {
+      "jisx0402": "18204",
+      "prefecture_code": "18",
+      "prefecture": "福井県",
+      "prefecture_kana": "フクイケン",
+      "city": "小浜市",
+      "city_kana": "オバマシ"
+    },
+    {
+      "jisx0402": "18205",
+      "prefecture_code": "18",
+      "prefecture": "福井県",
+      "prefecture_kana": "フクイケン",
+      "city": "大野市",
+      "city_kana": "オオノシ"
+    },
+    {
+      "jisx0402": "18206",
+      "prefecture_code": "18",
+      "prefecture": "福井県",
+      "prefecture_kana": "フクイケン",
+      "city": "勝山市",
+      "city_kana": "カツヤマシ"
+    },
+    {
+      "jisx0402": "18207",
+      "prefecture_code": "18",
+      "prefecture": "福井県",
+      "prefecture_kana": "フクイケン",
+      "city": "鯖江市",
+      "city_kana": "サバエシ"
+    },
+    {
+      "jisx0402": "18208",
+      "prefecture_code": "18",
+      "prefecture": "福井県",
+      "prefecture_kana": "フクイケン",
+      "city": "あわら市",
+      "city_kana": "アワラシ"
+    },
+    {
+      "jisx0402": "18209",
+      "prefecture_code": "18",
+      "prefecture": "福井県",
+      "prefecture_kana": "フクイケン",
+      "city": "越前市",
+      "city_kana": "エチゼンシ"
+    },
+    {
+      "jisx0402": "18210",
+      "prefecture_code": "18",
+      "prefecture": "福井県",
+      "prefecture_kana": "フクイケン",
+      "city": "坂井市",
+      "city_kana": "サカイシ"
+    },
+    {
+      "jisx0402": "18322",
+      "prefecture_code": "18",
+      "prefecture": "福井県",
+      "prefecture_kana": "フクイケン",
+      "city": "吉田郡永平寺町",
+      "city_kana": "ヨシダグンエイヘイジチョウ"
+    },
+    {
+      "jisx0402": "18382",
+      "prefecture_code": "18",
+      "prefecture": "福井県",
+      "prefecture_kana": "フクイケン",
+      "city": "今立郡池田町",
+      "city_kana": "イマダテグンイケダチョウ"
+    },
+    {
+      "jisx0402": "18404",
+      "prefecture_code": "18",
+      "prefecture": "福井県",
+      "prefecture_kana": "フクイケン",
+      "city": "南条郡南越前町",
+      "city_kana": "ナンジョウグンミナミエチゼンチョウ"
+    },
+    {
+      "jisx0402": "18423",
+      "prefecture_code": "18",
+      "prefecture": "福井県",
+      "prefecture_kana": "フクイケン",
+      "city": "丹生郡越前町",
+      "city_kana": "ニュウグンエチゼンチョウ"
+    },
+    {
+      "jisx0402": "18442",
+      "prefecture_code": "18",
+      "prefecture": "福井県",
+      "prefecture_kana": "フクイケン",
+      "city": "三方郡美浜町",
+      "city_kana": "ミカタグンミハマチョウ"
+    },
+    {
+      "jisx0402": "18481",
+      "prefecture_code": "18",
+      "prefecture": "福井県",
+      "prefecture_kana": "フクイケン",
+      "city": "大飯郡高浜町",
+      "city_kana": "オオイグンタカハマチョウ"
+    },
+    {
+      "jisx0402": "18483",
+      "prefecture_code": "18",
+      "prefecture": "福井県",
+      "prefecture_kana": "フクイケン",
+      "city": "大飯郡おおい町",
+      "city_kana": "オオイグンオオイチョウ"
+    },
+    {
+      "jisx0402": "18501",
+      "prefecture_code": "18",
+      "prefecture": "福井県",
+      "prefecture_kana": "フクイケン",
+      "city": "三方上中郡若狭町",
+      "city_kana": "ミカタカミナカグンワカサチョウ"
+    }
+  ],
+  "meta": {
+    "title": "福井県の市区町村一覧 (Municipalities of Fukui — JIS X 0402) - 無料ダウンロード",
+    "description": "福井県 (Fukui Prefecture) の市区町村一覧 17 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 17 active municipalities (cities/wards/towns/villages) of Fukui Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 17 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "福井県の市区町村一覧 (Municipalities of Fukui — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 福井県の市区町村一覧 (Municipalities of Fukui — JIS X 0402) — 17 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 17 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "id": "ja-niigata-gun",
+  "name": "新潟県の郡一覧 (Niigata Prefecture — counties)",
+  "title": "新潟県の郡一覧 (Niigata Prefecture — counties)",
+  "description": "新潟県に属する郡（ぐん）の一覧（9件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Niigata Prefecture.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_hira",
+      "label": "Name Hira",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_short_ja",
+      "label": "Name Short Ja",
+      "type": "string"
+    },
+    {
+      "key": "name_short_en",
+      "label": "Name Short En",
+      "type": "string"
+    },
+    {
+      "key": "pref_code",
+      "label": "Pref Code",
+      "type": "number"
+    },
+    {
+      "key": "pref_name",
+      "label": "Pref Name",
+      "type": "string"
+    },
+    {
+      "key": "pref_name_en",
+      "label": "Pref Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ja",
+      "label": "Type Ja",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "15300",
+      "name": "北蒲原郡",
+      "name_hira": "きたかんばらぐん",
+      "name_en": "Kitakanbara County",
+      "name_short_ja": "北蒲原",
+      "name_short_en": "Kitakanbara",
+      "pref_code": "15",
+      "pref_name": "新潟県",
+      "pref_name_en": "Niigata Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "15340",
+      "name": "西蒲原郡",
+      "name_hira": "にしかんばらぐん",
+      "name_en": "Nishikanbara County",
+      "name_short_ja": "西蒲原",
+      "name_short_en": "Nishikanbara",
+      "pref_code": "15",
+      "pref_name": "新潟県",
+      "pref_name_en": "Niigata Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "15360",
+      "name": "南蒲原郡",
+      "name_hira": "みなみかんばらぐん",
+      "name_en": "Minamikanbara County",
+      "name_short_ja": "南蒲原",
+      "name_short_en": "Minamikanbara",
+      "pref_code": "15",
+      "pref_name": "新潟県",
+      "pref_name_en": "Niigata Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "15380",
+      "name": "東蒲原郡",
+      "name_hira": "ひがしかんばらぐん",
+      "name_en": "Higashikanbara County",
+      "name_short_ja": "東蒲原",
+      "name_short_en": "Higashikanbara",
+      "pref_code": "15",
+      "pref_name": "新潟県",
+      "pref_name_en": "Niigata Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "15400",
+      "name": "三島郡",
+      "name_hira": "さんとうぐん",
+      "name_en": "Santo County",
+      "name_short_ja": "三島",
+      "name_short_en": "Santo",
+      "pref_code": "15",
+      "pref_name": "新潟県",
+      "pref_name_en": "Niigata Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "15460",
+      "name": "南魚沼郡",
+      "name_hira": "みなみうおぬまぐん",
+      "name_en": "Minamiuonuma County",
+      "name_short_ja": "南魚沼",
+      "name_short_en": "Minamiuonuma",
+      "pref_code": "15",
+      "pref_name": "新潟県",
+      "pref_name_en": "Niigata Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "15480",
+      "name": "中魚沼郡",
+      "name_hira": "なかうおぬまぐん",
+      "name_en": "Nakauonuma County",
+      "name_short_ja": "中魚沼",
+      "name_short_en": "Nakauonuma",
+      "pref_code": "15",
+      "pref_name": "新潟県",
+      "pref_name_en": "Niigata Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "15500",
+      "name": "刈羽郡",
+      "name_hira": "かりわぐん",
+      "name_en": "Kariwa County",
+      "name_short_ja": "刈羽",
+      "name_short_en": "Kariwa",
+      "pref_code": "15",
+      "pref_name": "新潟県",
+      "pref_name_en": "Niigata Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "15580",
+      "name": "岩船郡",
+      "name_hira": "いわふねぐん",
+      "name_en": "Iwafune County",
+      "name_short_ja": "岩船",
+      "name_short_en": "Iwafune",
+      "pref_code": "15",
+      "pref_name": "新潟県",
+      "pref_name_en": "Niigata Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    }
+  ],
+  "meta": {
+    "title": "新潟県の郡一覧 (Niigata Prefecture — counties) - 無料ダウンロード",
+    "description": "新潟県に属する郡（ぐん）の一覧（9件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Niigata Prefecture. 収録数 9 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "新潟県の郡一覧 (Niigata Prefecture — counties) | ListBase",
+    "seo_description": "ダウンロード 新潟県の郡一覧 (Niigata Prefecture — counties) — 9 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 9 件 / 11 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

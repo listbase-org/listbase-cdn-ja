@@ -1,0 +1,133 @@
+{
+  "id": "ja-regions",
+  "name": "日本の8地方区分 (Regions of Japan — 8地方)",
+  "title": "日本の8地方区分 (Regions of Japan — 8地方)",
+  "description": "日本の8地方区分。北海道・東北・関東・中部・関西・中国・四国・九州 の8つに、47都道府県を割り当てた標準的な分類。 Standard 8-region 地方 grouping of Japan's 47 prefectures: Hokkaido (1), Tohoku (6), Kanto (7), Chubu (9), Kansai (7), Chugoku (5), Shikoku (4), Kyushu (8 — incl. Okinawa under the 8-region convention).",
+  "category": "geography",
+  "source": "https://github.com/diverse-inc/jp_prefecture",
+  "source_url": "https://github.com/diverse-inc/jp_prefecture",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_kana",
+      "label": "Name Kana",
+      "type": "string"
+    },
+    {
+      "key": "name_roma",
+      "label": "Name Roma",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_count",
+      "label": "Prefecture Count",
+      "type": "number"
+    },
+    {
+      "key": "prefectures",
+      "label": "Prefectures",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "slug": "hokkaido",
+      "name": "北海道",
+      "name_kana": "ほっかいどう",
+      "name_roma": "hokkaidou",
+      "name_en": "Hokkaido",
+      "prefecture_count": 1,
+      "prefectures": "1: hokkaido: 北海道: Hokkaido"
+    },
+    {
+      "slug": "tohoku",
+      "name": "東北",
+      "name_kana": "とうほく",
+      "name_roma": "tohoku",
+      "name_en": "Tohoku",
+      "prefecture_count": 6,
+      "prefectures": "2: aomori: 青森県: Aomori, 3: iwate: 岩手県: Iwate, 4: miyagi: 宮城県: Miyagi, 5: akita: 秋田県: Akita, 6: yamagata: 山形県: Yamagata, 7: fukushima: 福島県: Fukushima"
+    },
+    {
+      "slug": "kanto",
+      "name": "関東",
+      "name_kana": "かんとう",
+      "name_roma": "kanto",
+      "name_en": "Kanto",
+      "prefecture_count": 7,
+      "prefectures": "8: ibaraki: 茨城県: Ibaraki, 9: tochigi: 栃木県: Tochigi, 10: gunma: 群馬県: Gunma, 11: saitama: 埼玉県: Saitama, 12: chiba: 千葉県: Chiba, 13: tokyo: 東京都: Tokyo, 14: kanagawa: 神奈川県: Kanagawa"
+    },
+    {
+      "slug": "chubu",
+      "name": "中部",
+      "name_kana": "ちゅうぶ",
+      "name_roma": "chubu",
+      "name_en": "Chubu",
+      "prefecture_count": 9,
+      "prefectures": "15: niigata: 新潟県: Niigata, 16: toyama: 富山県: Toyama, 17: ishikawa: 石川県: Ishikawa, 18: fukui: 福井県: Fukui, 19: yamanashi: 山梨県: Yamanashi, 20: nagano: 長野県: Nagano, 21: gifu: 岐阜県: Gifu, 22: shizuoka: 静岡県: Shizuoka, 23: aichi: 愛知県: Aichi"
+    },
+    {
+      "slug": "kansai",
+      "name": "関西",
+      "name_kana": "かんさい",
+      "name_roma": "kansai",
+      "name_en": "Kansai",
+      "prefecture_count": 7,
+      "prefectures": "24: mie: 三重県: Mie, 25: shiga: 滋賀県: Shiga, 26: kyoto: 京都府: Kyoto, 27: osaka: 大阪府: Osaka, 28: hyogo: 兵庫県: Hyogo, 29: nara: 奈良県: Nara, 30: wakayama: 和歌山県: Wakayama"
+    },
+    {
+      "slug": "chugoku",
+      "name": "中国",
+      "name_kana": "ちゅうごく",
+      "name_roma": "chugoku",
+      "name_en": "Chugoku",
+      "prefecture_count": 5,
+      "prefectures": "31: tottori: 鳥取県: Tottori, 32: shimane: 島根県: Shimane, 33: okayama: 岡山県: Okayama, 34: hiroshima: 広島県: Hiroshima, 35: yamaguchi: 山口県: Yamaguchi"
+    },
+    {
+      "slug": "shikoku",
+      "name": "四国",
+      "name_kana": "しこく",
+      "name_roma": "shikoku",
+      "name_en": "Shikoku",
+      "prefecture_count": 4,
+      "prefectures": "36: tokushima: 徳島県: Tokushima, 37: kagawa: 香川県: Kagawa, 38: ehime: 愛媛県: Ehime, 39: kochi: 高知県: Kochi"
+    },
+    {
+      "slug": "kyushu",
+      "name": "九州",
+      "name_kana": "きゅうしゅう",
+      "name_roma": "kyushu",
+      "name_en": "Kyushu",
+      "prefecture_count": 8,
+      "prefectures": "40: fukuoka: 福岡県: Fukuoka, 41: saga: 佐賀県: Saga, 42: nagasaki: 長崎県: Nagasaki, 43: kumamoto: 熊本県: Kumamoto, 44: oita: 大分県: Oita, 45: miyazaki: 宮崎県: Miyazaki, 46: kagoshima: 鹿児島県: Kagoshima, 47: okinawa: 沖縄県: Okinawa"
+    }
+  ],
+  "meta": {
+    "title": "日本の8地方区分 (Regions of Japan — 8地方) - 無料ダウンロード",
+    "description": "日本の8地方区分。北海道・東北・関東・中部・関西・中国・四国・九州 の8つに、47都道府県を割り当てた標準的な分類。 Standard 8-region 地方 grouping of Japan's 47 prefectures: Hokkaido (1), Tohoku (6), Kanto (7), Chubu (9), Kansai (7), Chugoku (5), Shikoku (4), Kyushu (8 — incl. Okinawa under the 8-region convention). 収録数 8 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "日本の8地方区分 (Regions of Japan — 8地方) | ListBase",
+    "seo_description": "ダウンロード 日本の8地方区分 (Regions of Japan — 8地方) — 8 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 8 件 / 7 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/diverse-inc/jp_prefecture"
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "id": "ja-yamanashi-gun",
+  "name": "山梨県の郡一覧 (Yamanashi Prefecture — counties)",
+  "title": "山梨県の郡一覧 (Yamanashi Prefecture — counties)",
+  "description": "山梨県に属する郡（ぐん）の一覧（5件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Yamanashi Prefecture.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_hira",
+      "label": "Name Hira",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_short_ja",
+      "label": "Name Short Ja",
+      "type": "string"
+    },
+    {
+      "key": "name_short_en",
+      "label": "Name Short En",
+      "type": "string"
+    },
+    {
+      "key": "pref_code",
+      "label": "Pref Code",
+      "type": "number"
+    },
+    {
+      "key": "pref_name",
+      "label": "Pref Name",
+      "type": "string"
+    },
+    {
+      "key": "pref_name_en",
+      "label": "Pref Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ja",
+      "label": "Type Ja",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "19340",
+      "name": "西八代郡",
+      "name_hira": "にしやつしろぐん",
+      "name_en": "Nishiyatsushiro County",
+      "name_short_ja": "西八代",
+      "name_short_en": "Nishiyatsushiro",
+      "pref_code": "19",
+      "pref_name": "山梨県",
+      "pref_name_en": "Yamanashi Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "19360",
+      "name": "南巨摩郡",
+      "name_hira": "みなみこまぐん",
+      "name_en": "Minamikoma County",
+      "name_short_ja": "南巨摩",
+      "name_short_en": "Minamikoma",
+      "pref_code": "19",
+      "pref_name": "山梨県",
+      "pref_name_en": "Yamanashi Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "19380",
+      "name": "中巨摩郡",
+      "name_hira": "なかこまぐん",
+      "name_en": "Nakakoma County",
+      "name_short_ja": "中巨摩",
+      "name_short_en": "Nakakoma",
+      "pref_code": "19",
+      "pref_name": "山梨県",
+      "pref_name_en": "Yamanashi Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "19420",
+      "name": "南都留郡",
+      "name_hira": "みなみつるぐん",
+      "name_en": "Minamitsuru County",
+      "name_short_ja": "南都留",
+      "name_short_en": "Minamitsuru",
+      "pref_code": "19",
+      "pref_name": "山梨県",
+      "pref_name_en": "Yamanashi Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "19440",
+      "name": "北都留郡",
+      "name_hira": "きたつるぐん",
+      "name_en": "Kitatsuru County",
+      "name_short_ja": "北都留",
+      "name_short_en": "Kitatsuru",
+      "pref_code": "19",
+      "pref_name": "山梨県",
+      "pref_name_en": "Yamanashi Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    }
+  ],
+  "meta": {
+    "title": "山梨県の郡一覧 (Yamanashi Prefecture — counties) - 無料ダウンロード",
+    "description": "山梨県に属する郡（ぐん）の一覧（5件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Yamanashi Prefecture. 収録数 5 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "山梨県の郡一覧 (Yamanashi Prefecture — counties) | ListBase",
+    "seo_description": "ダウンロード 山梨県の郡一覧 (Yamanashi Prefecture — counties) — 5 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 5 件 / 11 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

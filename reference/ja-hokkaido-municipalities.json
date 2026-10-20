@@ -1,0 +1,1560 @@
+{
+  "id": "ja-hokkaido-municipalities",
+  "name": "北海道の市区町村一覧 (Municipalities of Hokkaido — JIS X 0402)",
+  "title": "北海道の市区町村一覧 (Municipalities of Hokkaido — JIS X 0402)",
+  "description": "北海道 (Hokkaido Prefecture) の市区町村一覧 188 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 188 active municipalities (cities/wards/towns/villages) of Hokkaido Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 188,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "01101",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "札幌市中央区",
+      "city_kana": "サッポロシチュウオウク"
+    },
+    {
+      "jisx0402": "01102",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "札幌市北区",
+      "city_kana": "サッポロシキタク"
+    },
+    {
+      "jisx0402": "01103",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "札幌市東区",
+      "city_kana": "サッポロシヒガシク"
+    },
+    {
+      "jisx0402": "01104",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "札幌市白石区",
+      "city_kana": "サッポロシシロイシク"
+    },
+    {
+      "jisx0402": "01105",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "札幌市豊平区",
+      "city_kana": "サッポロシトヨヒラク"
+    },
+    {
+      "jisx0402": "01106",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "札幌市南区",
+      "city_kana": "サッポロシミナミク"
+    },
+    {
+      "jisx0402": "01107",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "札幌市西区",
+      "city_kana": "サッポロシニシク"
+    },
+    {
+      "jisx0402": "01108",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "札幌市厚別区",
+      "city_kana": "サッポロシアツベツク"
+    },
+    {
+      "jisx0402": "01109",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "札幌市手稲区",
+      "city_kana": "サッポロシテイネク"
+    },
+    {
+      "jisx0402": "01110",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "札幌市清田区",
+      "city_kana": "サッポロシキヨタク"
+    },
+    {
+      "jisx0402": "01202",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "函館市",
+      "city_kana": "ハコダテシ"
+    },
+    {
+      "jisx0402": "01203",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "小樽市",
+      "city_kana": "オタルシ"
+    },
+    {
+      "jisx0402": "01204",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "旭川市",
+      "city_kana": "アサヒカワシ"
+    },
+    {
+      "jisx0402": "01205",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "室蘭市",
+      "city_kana": "ムロランシ"
+    },
+    {
+      "jisx0402": "01206",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "釧路市",
+      "city_kana": "クシロシ"
+    },
+    {
+      "jisx0402": "01207",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "帯広市",
+      "city_kana": "オビヒロシ"
+    },
+    {
+      "jisx0402": "01208",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "北見市",
+      "city_kana": "キタミシ"
+    },
+    {
+      "jisx0402": "01209",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "夕張市",
+      "city_kana": "ユウバリシ"
+    },
+    {
+      "jisx0402": "01210",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "岩見沢市",
+      "city_kana": "イワミザワシ"
+    },
+    {
+      "jisx0402": "01211",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "網走市",
+      "city_kana": "アバシリシ"
+    },
+    {
+      "jisx0402": "01212",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "留萌市",
+      "city_kana": "ルモイシ"
+    },
+    {
+      "jisx0402": "01213",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "苫小牧市",
+      "city_kana": "トマコマイシ"
+    },
+    {
+      "jisx0402": "01214",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "稚内市",
+      "city_kana": "ワッカナイシ"
+    },
+    {
+      "jisx0402": "01215",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "美唄市",
+      "city_kana": "ビバイシ"
+    },
+    {
+      "jisx0402": "01216",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "芦別市",
+      "city_kana": "アシベツシ"
+    },
+    {
+      "jisx0402": "01217",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "江別市",
+      "city_kana": "エベツシ"
+    },
+    {
+      "jisx0402": "01218",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "赤平市",
+      "city_kana": "アカビラシ"
+    },
+    {
+      "jisx0402": "01219",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "紋別市",
+      "city_kana": "モンベツシ"
+    },
+    {
+      "jisx0402": "01220",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "士別市",
+      "city_kana": "シベツシ"
+    },
+    {
+      "jisx0402": "01221",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "名寄市",
+      "city_kana": "ナヨロシ"
+    },
+    {
+      "jisx0402": "01222",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "三笠市",
+      "city_kana": "ミカサシ"
+    },
+    {
+      "jisx0402": "01223",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "根室市",
+      "city_kana": "ネムロシ"
+    },
+    {
+      "jisx0402": "01224",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "千歳市",
+      "city_kana": "チトセシ"
+    },
+    {
+      "jisx0402": "01225",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "滝川市",
+      "city_kana": "タキカワシ"
+    },
+    {
+      "jisx0402": "01226",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "砂川市",
+      "city_kana": "スナガワシ"
+    },
+    {
+      "jisx0402": "01227",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "歌志内市",
+      "city_kana": "ウタシナイシ"
+    },
+    {
+      "jisx0402": "01228",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "深川市",
+      "city_kana": "フカガワシ"
+    },
+    {
+      "jisx0402": "01229",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "富良野市",
+      "city_kana": "フラノシ"
+    },
+    {
+      "jisx0402": "01230",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "登別市",
+      "city_kana": "ノボリベツシ"
+    },
+    {
+      "jisx0402": "01231",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "恵庭市",
+      "city_kana": "エニワシ"
+    },
+    {
+      "jisx0402": "01233",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "伊達市",
+      "city_kana": "ダテシ"
+    },
+    {
+      "jisx0402": "01234",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "北広島市",
+      "city_kana": "キタヒロシマシ"
+    },
+    {
+      "jisx0402": "01235",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "石狩市",
+      "city_kana": "イシカリシ"
+    },
+    {
+      "jisx0402": "01236",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "北斗市",
+      "city_kana": "ホクトシ"
+    },
+    {
+      "jisx0402": "01303",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "石狩郡当別町",
+      "city_kana": "イシカリグントウベツチョウ"
+    },
+    {
+      "jisx0402": "01304",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "石狩郡新篠津村",
+      "city_kana": "イシカリグンシンシノツムラ"
+    },
+    {
+      "jisx0402": "01331",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "松前郡松前町",
+      "city_kana": "マツマエグンマツマエチョウ"
+    },
+    {
+      "jisx0402": "01332",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "松前郡福島町",
+      "city_kana": "マツマエグンフクシマチョウ"
+    },
+    {
+      "jisx0402": "01333",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "上磯郡知内町",
+      "city_kana": "カミイソグンシリウチチョウ"
+    },
+    {
+      "jisx0402": "01334",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "上磯郡木古内町",
+      "city_kana": "カミイソグンキコナイチョウ"
+    },
+    {
+      "jisx0402": "01337",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "亀田郡七飯町",
+      "city_kana": "カメダグンナナエチョウ"
+    },
+    {
+      "jisx0402": "01343",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "茅部郡鹿部町",
+      "city_kana": "カヤベグンシカベチョウ"
+    },
+    {
+      "jisx0402": "01345",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "茅部郡森町",
+      "city_kana": "カヤベグンモリマチ"
+    },
+    {
+      "jisx0402": "01346",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "二海郡八雲町",
+      "city_kana": "フタミグンヤクモチョウ"
+    },
+    {
+      "jisx0402": "01347",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "山越郡長万部町",
+      "city_kana": "ヤマコシグンオシャマンベチョウ"
+    },
+    {
+      "jisx0402": "01361",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "檜山郡江差町",
+      "city_kana": "ヒヤマグンエサシチョウ"
+    },
+    {
+      "jisx0402": "01362",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "檜山郡上ノ国町",
+      "city_kana": "ヒヤマグンカミノクニチョウ"
+    },
+    {
+      "jisx0402": "01363",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "檜山郡厚沢部町",
+      "city_kana": "ヒヤマグンアッサブチョウ"
+    },
+    {
+      "jisx0402": "01364",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "爾志郡乙部町",
+      "city_kana": "ニシグンオトベチョウ"
+    },
+    {
+      "jisx0402": "01367",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "奥尻郡奥尻町",
+      "city_kana": "オクシリグンオクシリチョウ"
+    },
+    {
+      "jisx0402": "01370",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "瀬棚郡今金町",
+      "city_kana": "セタナグンイマカネチョウ"
+    },
+    {
+      "jisx0402": "01371",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "久遠郡せたな町",
+      "city_kana": "クドウグンセタナチョウ"
+    },
+    {
+      "jisx0402": "01391",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "島牧郡島牧村",
+      "city_kana": "シママキグンシママキムラ"
+    },
+    {
+      "jisx0402": "01392",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "寿都郡寿都町",
+      "city_kana": "スッツグンスッツチョウ"
+    },
+    {
+      "jisx0402": "01393",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "寿都郡黒松内町",
+      "city_kana": "スッツグンクロマツナイチョウ"
+    },
+    {
+      "jisx0402": "01394",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "磯谷郡蘭越町",
+      "city_kana": "イソヤグンランコシチョウ"
+    },
+    {
+      "jisx0402": "01395",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "虻田郡ニセコ町",
+      "city_kana": "アブタグンニセコチョウ"
+    },
+    {
+      "jisx0402": "01396",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "虻田郡真狩村",
+      "city_kana": "アブタグンマッカリムラ"
+    },
+    {
+      "jisx0402": "01397",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "虻田郡留寿都村",
+      "city_kana": "アブタグンルスツムラ"
+    },
+    {
+      "jisx0402": "01398",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "虻田郡喜茂別町",
+      "city_kana": "アブタグンキモベツチョウ"
+    },
+    {
+      "jisx0402": "01399",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "虻田郡京極町",
+      "city_kana": "アブタグンキョウゴクチョウ"
+    },
+    {
+      "jisx0402": "01400",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "虻田郡倶知安町",
+      "city_kana": "アブタグンクッチャンチョウ"
+    },
+    {
+      "jisx0402": "01401",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "岩内郡共和町",
+      "city_kana": "イワナイグンキョウワチョウ"
+    },
+    {
+      "jisx0402": "01402",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "岩内郡岩内町",
+      "city_kana": "イワナイグンイワナイチョウ"
+    },
+    {
+      "jisx0402": "01403",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "古宇郡泊村",
+      "city_kana": "フルウグントマリムラ"
+    },
+    {
+      "jisx0402": "01404",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "古宇郡神恵内村",
+      "city_kana": "フルウグンカモエナイムラ"
+    },
+    {
+      "jisx0402": "01405",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "積丹郡積丹町",
+      "city_kana": "シャコタングンシャコタンチョウ"
+    },
+    {
+      "jisx0402": "01406",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "古平郡古平町",
+      "city_kana": "フルビラグンフルビラチョウ"
+    },
+    {
+      "jisx0402": "01407",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "余市郡仁木町",
+      "city_kana": "ヨイチグンニキチョウ"
+    },
+    {
+      "jisx0402": "01408",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "余市郡余市町",
+      "city_kana": "ヨイチグンヨイチチョウ"
+    },
+    {
+      "jisx0402": "01409",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "余市郡赤井川村",
+      "city_kana": "ヨイチグンアカイガワムラ"
+    },
+    {
+      "jisx0402": "01423",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "空知郡南幌町",
+      "city_kana": "ソラチグンナンポロチョウ"
+    },
+    {
+      "jisx0402": "01424",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "空知郡奈井江町",
+      "city_kana": "ソラチグンナイエチョウ"
+    },
+    {
+      "jisx0402": "01425",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "空知郡上砂川町",
+      "city_kana": "ソラチグンカミスナガワチョウ"
+    },
+    {
+      "jisx0402": "01427",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "夕張郡由仁町",
+      "city_kana": "ユウバリグンユニチョウ"
+    },
+    {
+      "jisx0402": "01428",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "夕張郡長沼町",
+      "city_kana": "ユウバリグンナガヌマチョウ"
+    },
+    {
+      "jisx0402": "01429",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "夕張郡栗山町",
+      "city_kana": "ユウバリグンクリヤマチョウ"
+    },
+    {
+      "jisx0402": "01430",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "樺戸郡月形町",
+      "city_kana": "カバトグンツキガタチョウ"
+    },
+    {
+      "jisx0402": "01431",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "樺戸郡浦臼町",
+      "city_kana": "カバトグンウラウスチョウ"
+    },
+    {
+      "jisx0402": "01432",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "樺戸郡新十津川町",
+      "city_kana": "カバトグンシントツカワチョウ"
+    },
+    {
+      "jisx0402": "01433",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "雨竜郡妹背牛町",
+      "city_kana": "ウリュウグンモセウシチョウ"
+    },
+    {
+      "jisx0402": "01434",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "雨竜郡秩父別町",
+      "city_kana": "ウリュウグンチップベツチョウ"
+    },
+    {
+      "jisx0402": "01436",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "雨竜郡雨竜町",
+      "city_kana": "ウリュウグンウリュウチョウ"
+    },
+    {
+      "jisx0402": "01437",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "雨竜郡北竜町",
+      "city_kana": "ウリュウグンホクリュウチョウ"
+    },
+    {
+      "jisx0402": "01438",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "雨竜郡沼田町",
+      "city_kana": "ウリュウグンヌマタチョウ"
+    },
+    {
+      "jisx0402": "01452",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "上川郡鷹栖町",
+      "city_kana": "カミカワグンタカスチョウ"
+    },
+    {
+      "jisx0402": "01453",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "上川郡東神楽町",
+      "city_kana": "カミカワグンヒガシカグラチョウ"
+    },
+    {
+      "jisx0402": "01454",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "上川郡当麻町",
+      "city_kana": "カミカワグントウマチョウ"
+    },
+    {
+      "jisx0402": "01455",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "上川郡比布町",
+      "city_kana": "カミカワグンピップチョウ"
+    },
+    {
+      "jisx0402": "01456",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "上川郡愛別町",
+      "city_kana": "カミカワグンアイベツチョウ"
+    },
+    {
+      "jisx0402": "01457",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "上川郡上川町",
+      "city_kana": "カミカワグンカミカワチョウ"
+    },
+    {
+      "jisx0402": "01458",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "上川郡東川町",
+      "city_kana": "カミカワグンヒガシカワチョウ"
+    },
+    {
+      "jisx0402": "01459",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "上川郡美瑛町",
+      "city_kana": "カミカワグンビエイチョウ"
+    },
+    {
+      "jisx0402": "01460",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "空知郡上富良野町",
+      "city_kana": "ソラチグンカミフラノチョウ"
+    },
+    {
+      "jisx0402": "01461",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "空知郡中富良野町",
+      "city_kana": "ソラチグンナカフラノチョウ"
+    },
+    {
+      "jisx0402": "01462",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "空知郡南富良野町",
+      "city_kana": "ソラチグンミナミフラノチョウ"
+    },
+    {
+      "jisx0402": "01463",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "勇払郡占冠村",
+      "city_kana": "ユウフツグンシムカップムラ"
+    },
+    {
+      "jisx0402": "01464",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "上川郡和寒町",
+      "city_kana": "カミカワグンワッサムチョウ"
+    },
+    {
+      "jisx0402": "01465",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "上川郡剣淵町",
+      "city_kana": "カミカワグンケンブチチョウ"
+    },
+    {
+      "jisx0402": "01468",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "上川郡下川町",
+      "city_kana": "カミカワグンシモカワチョウ"
+    },
+    {
+      "jisx0402": "01469",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "中川郡美深町",
+      "city_kana": "ナカガワグンビフカチョウ"
+    },
+    {
+      "jisx0402": "01470",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "中川郡音威子府村",
+      "city_kana": "ナカガワグンオトイネップムラ"
+    },
+    {
+      "jisx0402": "01471",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "中川郡中川町",
+      "city_kana": "ナカガワグンナカガワチョウ"
+    },
+    {
+      "jisx0402": "01472",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "雨竜郡幌加内町",
+      "city_kana": "ウリュウグンホロカナイチョウ"
+    },
+    {
+      "jisx0402": "01481",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "増毛郡増毛町",
+      "city_kana": "マシケグンマシケチョウ"
+    },
+    {
+      "jisx0402": "01482",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "留萌郡小平町",
+      "city_kana": "ルモイグンオビラチョウ"
+    },
+    {
+      "jisx0402": "01483",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "苫前郡苫前町",
+      "city_kana": "トママエグントママエチョウ"
+    },
+    {
+      "jisx0402": "01484",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "苫前郡羽幌町",
+      "city_kana": "トママエグンハボロチョウ"
+    },
+    {
+      "jisx0402": "01485",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "苫前郡初山別村",
+      "city_kana": "トママエグンショサンベツムラ"
+    },
+    {
+      "jisx0402": "01486",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "天塩郡遠別町",
+      "city_kana": "テシオグンエンベツチョウ"
+    },
+    {
+      "jisx0402": "01487",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "天塩郡天塩町",
+      "city_kana": "テシオグンテシオチョウ"
+    },
+    {
+      "jisx0402": "01511",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "宗谷郡猿払村",
+      "city_kana": "ソウヤグンサルフツムラ"
+    },
+    {
+      "jisx0402": "01512",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "枝幸郡浜頓別町",
+      "city_kana": "エサシグンハマトンベツチョウ"
+    },
+    {
+      "jisx0402": "01513",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "枝幸郡中頓別町",
+      "city_kana": "エサシグンナカトンベツチョウ"
+    },
+    {
+      "jisx0402": "01514",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "枝幸郡枝幸町",
+      "city_kana": "エサシグンエサシチョウ"
+    },
+    {
+      "jisx0402": "01516",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "天塩郡豊富町",
+      "city_kana": "テシオグントヨトミチョウ"
+    },
+    {
+      "jisx0402": "01517",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "礼文郡礼文町",
+      "city_kana": "レブングンレブンチョウ"
+    },
+    {
+      "jisx0402": "01518",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "利尻郡利尻町",
+      "city_kana": "リシリグンリシリチョウ"
+    },
+    {
+      "jisx0402": "01519",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "利尻郡利尻富士町",
+      "city_kana": "リシリグンリシリフジチョウ"
+    },
+    {
+      "jisx0402": "01520",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "天塩郡幌延町",
+      "city_kana": "テシオグンホロノベチョウ"
+    },
+    {
+      "jisx0402": "01543",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "網走郡美幌町",
+      "city_kana": "アバシリグンビホロチョウ"
+    },
+    {
+      "jisx0402": "01544",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "網走郡津別町",
+      "city_kana": "アバシリグンツベツチョウ"
+    },
+    {
+      "jisx0402": "01545",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "斜里郡斜里町",
+      "city_kana": "シャリグンシャリチョウ"
+    },
+    {
+      "jisx0402": "01546",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "斜里郡清里町",
+      "city_kana": "シャリグンキヨサトチョウ"
+    },
+    {
+      "jisx0402": "01547",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "斜里郡小清水町",
+      "city_kana": "シャリグンコシミズチョウ"
+    },
+    {
+      "jisx0402": "01549",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "常呂郡訓子府町",
+      "city_kana": "トコログンクンネップチョウ"
+    },
+    {
+      "jisx0402": "01550",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "常呂郡置戸町",
+      "city_kana": "トコログンオケトチョウ"
+    },
+    {
+      "jisx0402": "01552",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "常呂郡佐呂間町",
+      "city_kana": "トコログンサロマチョウ"
+    },
+    {
+      "jisx0402": "01555",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "紋別郡遠軽町",
+      "city_kana": "モンベツグンエンガルチョウ"
+    },
+    {
+      "jisx0402": "01559",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "紋別郡湧別町",
+      "city_kana": "モンベツグンユウベツチョウ"
+    },
+    {
+      "jisx0402": "01560",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "紋別郡滝上町",
+      "city_kana": "モンベツグンタキノウエチョウ"
+    },
+    {
+      "jisx0402": "01561",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "紋別郡興部町",
+      "city_kana": "モンベツグンオコッペチョウ"
+    },
+    {
+      "jisx0402": "01562",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "紋別郡西興部村",
+      "city_kana": "モンベツグンニシオコッペムラ"
+    },
+    {
+      "jisx0402": "01563",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "紋別郡雄武町",
+      "city_kana": "モンベツグンオウムチョウ"
+    },
+    {
+      "jisx0402": "01564",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "網走郡大空町",
+      "city_kana": "アバシリグンオオゾラチョウ"
+    },
+    {
+      "jisx0402": "01571",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "虻田郡豊浦町",
+      "city_kana": "アブタグントヨウラチョウ"
+    },
+    {
+      "jisx0402": "01575",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "有珠郡壮瞥町",
+      "city_kana": "ウスグンソウベツチョウ"
+    },
+    {
+      "jisx0402": "01578",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "白老郡白老町",
+      "city_kana": "シラオイグンシラオイチョウ"
+    },
+    {
+      "jisx0402": "01581",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "勇払郡厚真町",
+      "city_kana": "ユウフツグンアツマチョウ"
+    },
+    {
+      "jisx0402": "01584",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "虻田郡洞爺湖町",
+      "city_kana": "アブタグントウヤコチョウ"
+    },
+    {
+      "jisx0402": "01585",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "勇払郡安平町",
+      "city_kana": "ユウフツグンアビラチョウ"
+    },
+    {
+      "jisx0402": "01586",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "勇払郡むかわ町",
+      "city_kana": "ユウフツグンムカワチョウ"
+    },
+    {
+      "jisx0402": "01601",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "沙流郡日高町",
+      "city_kana": "サルグンヒダカチョウ"
+    },
+    {
+      "jisx0402": "01602",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "沙流郡平取町",
+      "city_kana": "サルグンビラトリチョウ"
+    },
+    {
+      "jisx0402": "01604",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "新冠郡新冠町",
+      "city_kana": "ニイカップグンニイカップチョウ"
+    },
+    {
+      "jisx0402": "01607",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "浦河郡浦河町",
+      "city_kana": "ウラカワグンウラカワチョウ"
+    },
+    {
+      "jisx0402": "01608",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "様似郡様似町",
+      "city_kana": "サマニグンサマニチョウ"
+    },
+    {
+      "jisx0402": "01609",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "幌泉郡えりも町",
+      "city_kana": "ホロイズミグンエリモチョウ"
+    },
+    {
+      "jisx0402": "01610",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "日高郡新ひだか町",
+      "city_kana": "ヒダカグンシンヒダカチョウ"
+    },
+    {
+      "jisx0402": "01631",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "河東郡音更町",
+      "city_kana": "カトウグンオトフケチョウ"
+    },
+    {
+      "jisx0402": "01632",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "河東郡士幌町",
+      "city_kana": "カトウグンシホロチョウ"
+    },
+    {
+      "jisx0402": "01633",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "河東郡上士幌町",
+      "city_kana": "カトウグンカミシホロチョウ"
+    },
+    {
+      "jisx0402": "01634",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "河東郡鹿追町",
+      "city_kana": "カトウグンシカオイチョウ"
+    },
+    {
+      "jisx0402": "01635",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "上川郡新得町",
+      "city_kana": "カミカワグンシントクチョウ"
+    },
+    {
+      "jisx0402": "01636",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "上川郡清水町",
+      "city_kana": "カミカワグンシミズチョウ"
+    },
+    {
+      "jisx0402": "01637",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "河西郡芽室町",
+      "city_kana": "カサイグンメムロチョウ"
+    },
+    {
+      "jisx0402": "01638",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "河西郡中札内村",
+      "city_kana": "カサイグンナカサツナイムラ"
+    },
+    {
+      "jisx0402": "01639",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "河西郡更別村",
+      "city_kana": "カサイグンサラベツムラ"
+    },
+    {
+      "jisx0402": "01641",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "広尾郡大樹町",
+      "city_kana": "ヒロオグンタイキチョウ"
+    },
+    {
+      "jisx0402": "01642",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "広尾郡広尾町",
+      "city_kana": "ヒロオグンヒロオチョウ"
+    },
+    {
+      "jisx0402": "01643",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "中川郡幕別町",
+      "city_kana": "ナカガワグンマクベツチョウ"
+    },
+    {
+      "jisx0402": "01644",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "中川郡池田町",
+      "city_kana": "ナカガワグンイケダチョウ"
+    },
+    {
+      "jisx0402": "01645",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "中川郡豊頃町",
+      "city_kana": "ナカガワグントヨコロチョウ"
+    },
+    {
+      "jisx0402": "01646",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "中川郡本別町",
+      "city_kana": "ナカガワグンホンベツチョウ"
+    },
+    {
+      "jisx0402": "01647",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "足寄郡足寄町",
+      "city_kana": "アショログンアショロチョウ"
+    },
+    {
+      "jisx0402": "01648",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "足寄郡陸別町",
+      "city_kana": "アショログンリクベツチョウ"
+    },
+    {
+      "jisx0402": "01649",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "十勝郡浦幌町",
+      "city_kana": "トカチグンウラホロチョウ"
+    },
+    {
+      "jisx0402": "01661",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "釧路郡釧路町",
+      "city_kana": "クシログンクシロチョウ"
+    },
+    {
+      "jisx0402": "01662",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "厚岸郡厚岸町",
+      "city_kana": "アッケシグンアッケシチョウ"
+    },
+    {
+      "jisx0402": "01663",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "厚岸郡浜中町",
+      "city_kana": "アッケシグンハマナカチョウ"
+    },
+    {
+      "jisx0402": "01664",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "川上郡標茶町",
+      "city_kana": "カワカミグンシベチャチョウ"
+    },
+    {
+      "jisx0402": "01665",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "川上郡弟子屈町",
+      "city_kana": "カワカミグンテシカガチョウ"
+    },
+    {
+      "jisx0402": "01667",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "阿寒郡鶴居村",
+      "city_kana": "アカングンツルイムラ"
+    },
+    {
+      "jisx0402": "01668",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "白糠郡白糠町",
+      "city_kana": "シラヌカグンシラヌカチョウ"
+    },
+    {
+      "jisx0402": "01691",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "野付郡別海町",
+      "city_kana": "ノツケグンベツカイチョウ"
+    },
+    {
+      "jisx0402": "01692",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "標津郡中標津町",
+      "city_kana": "シベツグンナカシベツチョウ"
+    },
+    {
+      "jisx0402": "01693",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "標津郡標津町",
+      "city_kana": "シベツグンシベツチョウ"
+    },
+    {
+      "jisx0402": "01694",
+      "prefecture_code": "01",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "city": "目梨郡羅臼町",
+      "city_kana": "メナシグンラウスチョウ"
+    }
+  ],
+  "meta": {
+    "title": "北海道の市区町村一覧 (Municipalities of Hokkaido — JIS X 0402) - 無料ダウンロード",
+    "description": "北海道 (Hokkaido Prefecture) の市区町村一覧 188 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 188 active municipalities (cities/wards/towns/villages) of Hokkaido Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 188 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "北海道の市区町村一覧 (Municipalities of Hokkaido — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 北海道の市区町村一覧 (Municipalities of Hokkaido — JIS X 0402) — 188 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 188 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

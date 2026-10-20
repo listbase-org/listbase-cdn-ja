@@ -1,0 +1,344 @@
+{
+  "id": "ja-kyoto-municipalities",
+  "name": "京都府の市区町村一覧 (Municipalities of Kyoto — JIS X 0402)",
+  "title": "京都府の市区町村一覧 (Municipalities of Kyoto — JIS X 0402)",
+  "description": "京都府 (Kyoto Prefecture) の市区町村一覧 36 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 36 active municipalities (cities/wards/towns/villages) of Kyoto Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "26101",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "京都市北区",
+      "city_kana": "キョウトシキタク"
+    },
+    {
+      "jisx0402": "26102",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "京都市上京区",
+      "city_kana": "キョウトシカミギョウク"
+    },
+    {
+      "jisx0402": "26103",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "京都市左京区",
+      "city_kana": "キョウトシサキョウク"
+    },
+    {
+      "jisx0402": "26104",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "京都市中京区",
+      "city_kana": "キョウトシナカギョウク"
+    },
+    {
+      "jisx0402": "26105",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "京都市東山区",
+      "city_kana": "キョウトシヒガシヤマク"
+    },
+    {
+      "jisx0402": "26106",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "京都市下京区",
+      "city_kana": "キョウトシシモギョウク"
+    },
+    {
+      "jisx0402": "26107",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "京都市南区",
+      "city_kana": "キョウトシミナミク"
+    },
+    {
+      "jisx0402": "26108",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "京都市右京区",
+      "city_kana": "キョウトシウキョウク"
+    },
+    {
+      "jisx0402": "26109",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "京都市伏見区",
+      "city_kana": "キョウトシフシミク"
+    },
+    {
+      "jisx0402": "26110",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "京都市山科区",
+      "city_kana": "キョウトシヤマシナク"
+    },
+    {
+      "jisx0402": "26111",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "京都市西京区",
+      "city_kana": "キョウトシニシキョウク"
+    },
+    {
+      "jisx0402": "26201",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "福知山市",
+      "city_kana": "フクチヤマシ"
+    },
+    {
+      "jisx0402": "26202",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "舞鶴市",
+      "city_kana": "マイヅルシ"
+    },
+    {
+      "jisx0402": "26203",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "綾部市",
+      "city_kana": "アヤベシ"
+    },
+    {
+      "jisx0402": "26204",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "宇治市",
+      "city_kana": "ウジシ"
+    },
+    {
+      "jisx0402": "26205",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "宮津市",
+      "city_kana": "ミヤヅシ"
+    },
+    {
+      "jisx0402": "26206",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "亀岡市",
+      "city_kana": "カメオカシ"
+    },
+    {
+      "jisx0402": "26207",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "城陽市",
+      "city_kana": "ジョウヨウシ"
+    },
+    {
+      "jisx0402": "26208",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "向日市",
+      "city_kana": "ムコウシ"
+    },
+    {
+      "jisx0402": "26209",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "長岡京市",
+      "city_kana": "ナガオカキョウシ"
+    },
+    {
+      "jisx0402": "26210",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "八幡市",
+      "city_kana": "ヤワタシ"
+    },
+    {
+      "jisx0402": "26211",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "京田辺市",
+      "city_kana": "キョウタナベシ"
+    },
+    {
+      "jisx0402": "26212",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "京丹後市",
+      "city_kana": "キョウタンゴシ"
+    },
+    {
+      "jisx0402": "26213",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "南丹市",
+      "city_kana": "ナンタンシ"
+    },
+    {
+      "jisx0402": "26214",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "木津川市",
+      "city_kana": "キヅガワシ"
+    },
+    {
+      "jisx0402": "26303",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "乙訓郡大山崎町",
+      "city_kana": "オトクニグンオオヤマザキチョウ"
+    },
+    {
+      "jisx0402": "26322",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "久世郡久御山町",
+      "city_kana": "クセグンクミヤマチョウ"
+    },
+    {
+      "jisx0402": "26343",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "綴喜郡井手町",
+      "city_kana": "ツヅキグンイデチョウ"
+    },
+    {
+      "jisx0402": "26344",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "綴喜郡宇治田原町",
+      "city_kana": "ツヅキグンウジタワラチョウ"
+    },
+    {
+      "jisx0402": "26364",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "相楽郡笠置町",
+      "city_kana": "ソウラクグンカサギチョウ"
+    },
+    {
+      "jisx0402": "26365",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "相楽郡和束町",
+      "city_kana": "ソウラクグンワヅカチョウ"
+    },
+    {
+      "jisx0402": "26366",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "相楽郡精華町",
+      "city_kana": "ソウラクグンセイカチョウ"
+    },
+    {
+      "jisx0402": "26367",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "相楽郡南山城村",
+      "city_kana": "ソウラクグンミナミヤマシロムラ"
+    },
+    {
+      "jisx0402": "26407",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "船井郡京丹波町",
+      "city_kana": "フナイグンキョウタンバチョウ"
+    },
+    {
+      "jisx0402": "26463",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "与謝郡伊根町",
+      "city_kana": "ヨサグンイネチョウ"
+    },
+    {
+      "jisx0402": "26465",
+      "prefecture_code": "26",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "city": "与謝郡与謝野町",
+      "city_kana": "ヨサグンヨサノチョウ"
+    }
+  ],
+  "meta": {
+    "title": "京都府の市区町村一覧 (Municipalities of Kyoto — JIS X 0402) - 無料ダウンロード",
+    "description": "京都府 (Kyoto Prefecture) の市区町村一覧 36 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 36 active municipalities (cities/wards/towns/villages) of Kyoto Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 36 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "京都府の市区町村一覧 (Municipalities of Kyoto — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 京都府の市区町村一覧 (Municipalities of Kyoto — JIS X 0402) — 36 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 36 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

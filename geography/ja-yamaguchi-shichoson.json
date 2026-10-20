@@ -1,0 +1,208 @@
+{
+  "id": "ja-yamaguchi-shichoson",
+  "name": "山口県の市区町村一覧",
+  "title": "山口県の市区町村一覧",
+  "description": "山口県 (Yamaguchi Prefecture) の全市区町村 19 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "35201",
+      "name": "下関市",
+      "full_name": "下関市",
+      "prefecture": "山口県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "35202",
+      "name": "宇部市",
+      "full_name": "宇部市",
+      "prefecture": "山口県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "35203",
+      "name": "山口市",
+      "full_name": "山口市",
+      "prefecture": "山口県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "35204",
+      "name": "萩市",
+      "full_name": "萩市",
+      "prefecture": "山口県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "35206",
+      "name": "防府市",
+      "full_name": "防府市",
+      "prefecture": "山口県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "35207",
+      "name": "下松市",
+      "full_name": "下松市",
+      "prefecture": "山口県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "35208",
+      "name": "岩国市",
+      "full_name": "岩国市",
+      "prefecture": "山口県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "35210",
+      "name": "光市",
+      "full_name": "光市",
+      "prefecture": "山口県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "35211",
+      "name": "長門市",
+      "full_name": "長門市",
+      "prefecture": "山口県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "35212",
+      "name": "柳井市",
+      "full_name": "柳井市",
+      "prefecture": "山口県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "35213",
+      "name": "美祢市",
+      "full_name": "美祢市",
+      "prefecture": "山口県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "35215",
+      "name": "周南市",
+      "full_name": "周南市",
+      "prefecture": "山口県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "35216",
+      "name": "山陽小野田市",
+      "full_name": "山陽小野田市",
+      "prefecture": "山口県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "35305",
+      "name": "周防大島町",
+      "full_name": "大島郡周防大島町",
+      "prefecture": "山口県",
+      "county_or_designated_city": "大島郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "35321",
+      "name": "和木町",
+      "full_name": "玖珂郡和木町",
+      "prefecture": "山口県",
+      "county_or_designated_city": "玖珂郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "35341",
+      "name": "上関町",
+      "full_name": "熊毛郡上関町",
+      "prefecture": "山口県",
+      "county_or_designated_city": "熊毛郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "35343",
+      "name": "田布施町",
+      "full_name": "熊毛郡田布施町",
+      "prefecture": "山口県",
+      "county_or_designated_city": "熊毛郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "35344",
+      "name": "平生町",
+      "full_name": "熊毛郡平生町",
+      "prefecture": "山口県",
+      "county_or_designated_city": "熊毛郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "35502",
+      "name": "阿武町",
+      "full_name": "阿武郡阿武町",
+      "prefecture": "山口県",
+      "county_or_designated_city": "阿武郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "山口県の市区町村一覧 - 無料ダウンロード",
+    "description": "山口県 (Yamaguchi Prefecture) の全市区町村 19 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 19 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "山口県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 山口県の市区町村一覧 — 19 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 19 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

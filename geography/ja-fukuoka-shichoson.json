@@ -1,0 +1,632 @@
+{
+  "id": "ja-fukuoka-shichoson",
+  "name": "福岡県の市区町村一覧",
+  "title": "福岡県の市区町村一覧",
+  "description": "福岡県 (Fukuoka Prefecture) の全市区町村 72 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 72,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "40101",
+      "name": "門司区",
+      "full_name": "北九州市門司区",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "北九州市",
+      "subprefecture": ""
+    },
+    {
+      "code": "40103",
+      "name": "若松区",
+      "full_name": "北九州市若松区",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "北九州市",
+      "subprefecture": ""
+    },
+    {
+      "code": "40105",
+      "name": "戸畑区",
+      "full_name": "北九州市戸畑区",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "北九州市",
+      "subprefecture": ""
+    },
+    {
+      "code": "40106",
+      "name": "小倉北区",
+      "full_name": "北九州市小倉北区",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "北九州市",
+      "subprefecture": ""
+    },
+    {
+      "code": "40107",
+      "name": "小倉南区",
+      "full_name": "北九州市小倉南区",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "北九州市",
+      "subprefecture": ""
+    },
+    {
+      "code": "40108",
+      "name": "八幡東区",
+      "full_name": "北九州市八幡東区",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "北九州市",
+      "subprefecture": ""
+    },
+    {
+      "code": "40109",
+      "name": "八幡西区",
+      "full_name": "北九州市八幡西区",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "北九州市",
+      "subprefecture": ""
+    },
+    {
+      "code": "40131",
+      "name": "東区",
+      "full_name": "福岡市東区",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "福岡市",
+      "subprefecture": ""
+    },
+    {
+      "code": "40132",
+      "name": "博多区",
+      "full_name": "福岡市博多区",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "福岡市",
+      "subprefecture": ""
+    },
+    {
+      "code": "40133",
+      "name": "中央区",
+      "full_name": "福岡市中央区",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "福岡市",
+      "subprefecture": ""
+    },
+    {
+      "code": "40134",
+      "name": "南区",
+      "full_name": "福岡市南区",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "福岡市",
+      "subprefecture": ""
+    },
+    {
+      "code": "40135",
+      "name": "西区",
+      "full_name": "福岡市西区",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "福岡市",
+      "subprefecture": ""
+    },
+    {
+      "code": "40136",
+      "name": "城南区",
+      "full_name": "福岡市城南区",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "福岡市",
+      "subprefecture": ""
+    },
+    {
+      "code": "40137",
+      "name": "早良区",
+      "full_name": "福岡市早良区",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "福岡市",
+      "subprefecture": ""
+    },
+    {
+      "code": "40202",
+      "name": "大牟田市",
+      "full_name": "大牟田市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40203",
+      "name": "久留米市",
+      "full_name": "久留米市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40204",
+      "name": "直方市",
+      "full_name": "直方市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40205",
+      "name": "飯塚市",
+      "full_name": "飯塚市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40206",
+      "name": "田川市",
+      "full_name": "田川市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40207",
+      "name": "柳川市",
+      "full_name": "柳川市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40210",
+      "name": "八女市",
+      "full_name": "八女市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40211",
+      "name": "筑後市",
+      "full_name": "筑後市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40212",
+      "name": "大川市",
+      "full_name": "大川市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40213",
+      "name": "行橋市",
+      "full_name": "行橋市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40214",
+      "name": "豊前市",
+      "full_name": "豊前市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40215",
+      "name": "中間市",
+      "full_name": "中間市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40216",
+      "name": "小郡市",
+      "full_name": "小郡市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40217",
+      "name": "筑紫野市",
+      "full_name": "筑紫野市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40218",
+      "name": "春日市",
+      "full_name": "春日市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40219",
+      "name": "大野城市",
+      "full_name": "大野城市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40220",
+      "name": "宗像市",
+      "full_name": "宗像市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40221",
+      "name": "太宰府市",
+      "full_name": "太宰府市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40223",
+      "name": "古賀市",
+      "full_name": "古賀市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40224",
+      "name": "福津市",
+      "full_name": "福津市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40225",
+      "name": "うきは市",
+      "full_name": "うきは市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40226",
+      "name": "宮若市",
+      "full_name": "宮若市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40227",
+      "name": "嘉麻市",
+      "full_name": "嘉麻市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40228",
+      "name": "朝倉市",
+      "full_name": "朝倉市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40229",
+      "name": "みやま市",
+      "full_name": "みやま市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40230",
+      "name": "糸島市",
+      "full_name": "糸島市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40231",
+      "name": "那珂川市",
+      "full_name": "那珂川市",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "40341",
+      "name": "宇美町",
+      "full_name": "糟屋郡宇美町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "糟屋郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40342",
+      "name": "篠栗町",
+      "full_name": "糟屋郡篠栗町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "糟屋郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40343",
+      "name": "志免町",
+      "full_name": "糟屋郡志免町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "糟屋郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40344",
+      "name": "須恵町",
+      "full_name": "糟屋郡須恵町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "糟屋郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40345",
+      "name": "新宮町",
+      "full_name": "糟屋郡新宮町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "糟屋郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40348",
+      "name": "久山町",
+      "full_name": "糟屋郡久山町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "糟屋郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40349",
+      "name": "粕屋町",
+      "full_name": "糟屋郡粕屋町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "糟屋郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40381",
+      "name": "芦屋町",
+      "full_name": "遠賀郡芦屋町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "遠賀郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40382",
+      "name": "水巻町",
+      "full_name": "遠賀郡水巻町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "遠賀郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40383",
+      "name": "岡垣町",
+      "full_name": "遠賀郡岡垣町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "遠賀郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40384",
+      "name": "遠賀町",
+      "full_name": "遠賀郡遠賀町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "遠賀郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40401",
+      "name": "小竹町",
+      "full_name": "鞍手郡小竹町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "鞍手郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40402",
+      "name": "鞍手町",
+      "full_name": "鞍手郡鞍手町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "鞍手郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40421",
+      "name": "桂川町",
+      "full_name": "嘉穂郡桂川町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "嘉穂郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40447",
+      "name": "筑前町",
+      "full_name": "朝倉郡筑前町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "朝倉郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40448",
+      "name": "東峰村",
+      "full_name": "朝倉郡東峰村",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "朝倉郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40503",
+      "name": "大刀洗町",
+      "full_name": "三井郡大刀洗町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "三井郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40522",
+      "name": "大木町",
+      "full_name": "三潴郡大木町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "三潴郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40544",
+      "name": "広川町",
+      "full_name": "八女郡広川町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "八女郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40601",
+      "name": "香春町",
+      "full_name": "田川郡香春町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "田川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40602",
+      "name": "添田町",
+      "full_name": "田川郡添田町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "田川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40604",
+      "name": "糸田町",
+      "full_name": "田川郡糸田町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "田川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40605",
+      "name": "川崎町",
+      "full_name": "田川郡川崎町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "田川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40608",
+      "name": "大任町",
+      "full_name": "田川郡大任町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "田川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40609",
+      "name": "赤村",
+      "full_name": "田川郡赤村",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "田川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40610",
+      "name": "福智町",
+      "full_name": "田川郡福智町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "田川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40621",
+      "name": "苅田町",
+      "full_name": "京都郡苅田町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "京都郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40625",
+      "name": "みやこ町",
+      "full_name": "京都郡みやこ町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "京都郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40642",
+      "name": "吉富町",
+      "full_name": "築上郡吉富町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "築上郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40646",
+      "name": "上毛町",
+      "full_name": "築上郡上毛町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "築上郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "40647",
+      "name": "築上町",
+      "full_name": "築上郡築上町",
+      "prefecture": "福岡県",
+      "county_or_designated_city": "築上郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "福岡県の市区町村一覧 - 無料ダウンロード",
+    "description": "福岡県 (Fukuoka Prefecture) の全市区町村 72 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 72 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "福岡県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 福岡県の市区町村一覧 — 72 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 72 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

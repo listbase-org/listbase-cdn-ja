@@ -1,0 +1,400 @@
+{
+  "id": "ja-kagoshima-municipalities",
+  "name": "鹿児島県の市区町村一覧 (Municipalities of Kagoshima — JIS X 0402)",
+  "title": "鹿児島県の市区町村一覧 (Municipalities of Kagoshima — JIS X 0402)",
+  "description": "鹿児島県 (Kagoshima Prefecture) の市区町村一覧 43 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 43 active municipalities (cities/wards/towns/villages) of Kagoshima Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "46201",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "鹿児島市",
+      "city_kana": "カゴシマシ"
+    },
+    {
+      "jisx0402": "46203",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "鹿屋市",
+      "city_kana": "カノヤシ"
+    },
+    {
+      "jisx0402": "46204",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "枕崎市",
+      "city_kana": "マクラザキシ"
+    },
+    {
+      "jisx0402": "46206",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "阿久根市",
+      "city_kana": "アクネシ"
+    },
+    {
+      "jisx0402": "46208",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "出水市",
+      "city_kana": "イズミシ"
+    },
+    {
+      "jisx0402": "46210",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "指宿市",
+      "city_kana": "イブスキシ"
+    },
+    {
+      "jisx0402": "46213",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "西之表市",
+      "city_kana": "ニシノオモテシ"
+    },
+    {
+      "jisx0402": "46214",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "垂水市",
+      "city_kana": "タルミズシ"
+    },
+    {
+      "jisx0402": "46215",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "薩摩川内市",
+      "city_kana": "サツマセンダイシ"
+    },
+    {
+      "jisx0402": "46216",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "日置市",
+      "city_kana": "ヒオキシ"
+    },
+    {
+      "jisx0402": "46217",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "曽於市",
+      "city_kana": "ソオシ"
+    },
+    {
+      "jisx0402": "46218",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "霧島市",
+      "city_kana": "キリシマシ"
+    },
+    {
+      "jisx0402": "46219",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "いちき串木野市",
+      "city_kana": "イチキクシキノシ"
+    },
+    {
+      "jisx0402": "46220",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "南さつま市",
+      "city_kana": "ミナミサツマシ"
+    },
+    {
+      "jisx0402": "46221",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "志布志市",
+      "city_kana": "シブシシ"
+    },
+    {
+      "jisx0402": "46222",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "奄美市",
+      "city_kana": "アマミシ"
+    },
+    {
+      "jisx0402": "46223",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "南九州市",
+      "city_kana": "ミナミキュウシュウシ"
+    },
+    {
+      "jisx0402": "46224",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "伊佐市",
+      "city_kana": "イサシ"
+    },
+    {
+      "jisx0402": "46225",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "姶良市",
+      "city_kana": "アイラシ"
+    },
+    {
+      "jisx0402": "46303",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "鹿児島郡三島村",
+      "city_kana": "カゴシマグンミシマムラ"
+    },
+    {
+      "jisx0402": "46304",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "鹿児島郡十島村",
+      "city_kana": "カゴシマグントシマムラ"
+    },
+    {
+      "jisx0402": "46392",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "薩摩郡さつま町",
+      "city_kana": "サツマグンサツマチョウ"
+    },
+    {
+      "jisx0402": "46404",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "出水郡長島町",
+      "city_kana": "イズミグンナガシマチョウ"
+    },
+    {
+      "jisx0402": "46452",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "姶良郡湧水町",
+      "city_kana": "アイラグンユウスイチョウ"
+    },
+    {
+      "jisx0402": "46468",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "曽於郡大崎町",
+      "city_kana": "ソオグンオオサキチョウ"
+    },
+    {
+      "jisx0402": "46482",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "肝属郡東串良町",
+      "city_kana": "キモツキグンヒガシクシラチョウ"
+    },
+    {
+      "jisx0402": "46490",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "肝属郡錦江町",
+      "city_kana": "キモツキグンキンコウチョウ"
+    },
+    {
+      "jisx0402": "46491",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "肝属郡南大隅町",
+      "city_kana": "キモツキグンミナミオオスミチョウ"
+    },
+    {
+      "jisx0402": "46492",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "肝属郡肝付町",
+      "city_kana": "キモツキグンキモツキチョウ"
+    },
+    {
+      "jisx0402": "46501",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "熊毛郡中種子町",
+      "city_kana": "クマゲグンナカタネチョウ"
+    },
+    {
+      "jisx0402": "46502",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "熊毛郡南種子町",
+      "city_kana": "クマゲグンミナミタネチョウ"
+    },
+    {
+      "jisx0402": "46505",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "熊毛郡屋久島町",
+      "city_kana": "クマゲグンヤクシマチョウ"
+    },
+    {
+      "jisx0402": "46523",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "大島郡大和村",
+      "city_kana": "オオシマグンヤマトソン"
+    },
+    {
+      "jisx0402": "46524",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "大島郡宇検村",
+      "city_kana": "オオシマグンウケンソン"
+    },
+    {
+      "jisx0402": "46525",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "大島郡瀬戸内町",
+      "city_kana": "オオシマグンセトウチチョウ"
+    },
+    {
+      "jisx0402": "46527",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "大島郡龍郷町",
+      "city_kana": "オオシマグンタツゴウチョウ"
+    },
+    {
+      "jisx0402": "46529",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "大島郡喜界町",
+      "city_kana": "オオシマグンキカイチョウ"
+    },
+    {
+      "jisx0402": "46530",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "大島郡徳之島町",
+      "city_kana": "オオシマグントクノシマチョウ"
+    },
+    {
+      "jisx0402": "46531",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "大島郡天城町",
+      "city_kana": "オオシマグンアマギチョウ"
+    },
+    {
+      "jisx0402": "46532",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "大島郡伊仙町",
+      "city_kana": "オオシマグンイセンチョウ"
+    },
+    {
+      "jisx0402": "46533",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "大島郡和泊町",
+      "city_kana": "オオシマグンワドマリチョウ"
+    },
+    {
+      "jisx0402": "46534",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "大島郡知名町",
+      "city_kana": "オオシマグンチナチョウ"
+    },
+    {
+      "jisx0402": "46535",
+      "prefecture_code": "46",
+      "prefecture": "鹿児島県",
+      "prefecture_kana": "カゴシマケン",
+      "city": "大島郡与論町",
+      "city_kana": "オオシマグンヨロンチョウ"
+    }
+  ],
+  "meta": {
+    "title": "鹿児島県の市区町村一覧 (Municipalities of Kagoshima — JIS X 0402) - 無料ダウンロード",
+    "description": "鹿児島県 (Kagoshima Prefecture) の市区町村一覧 43 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 43 active municipalities (cities/wards/towns/villages) of Kagoshima Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 43 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "鹿児島県の市区町村一覧 (Municipalities of Kagoshima — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 鹿児島県の市区町村一覧 (Municipalities of Kagoshima — JIS X 0402) — 43 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 43 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

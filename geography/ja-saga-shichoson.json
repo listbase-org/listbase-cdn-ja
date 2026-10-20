@@ -1,0 +1,216 @@
+{
+  "id": "ja-saga-shichoson",
+  "name": "佐賀県の市区町村一覧",
+  "title": "佐賀県の市区町村一覧",
+  "description": "佐賀県 (Saga Prefecture) の全市区町村 20 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "41201",
+      "name": "佐賀市",
+      "full_name": "佐賀市",
+      "prefecture": "佐賀県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "41202",
+      "name": "唐津市",
+      "full_name": "唐津市",
+      "prefecture": "佐賀県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "41203",
+      "name": "鳥栖市",
+      "full_name": "鳥栖市",
+      "prefecture": "佐賀県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "41204",
+      "name": "多久市",
+      "full_name": "多久市",
+      "prefecture": "佐賀県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "41205",
+      "name": "伊万里市",
+      "full_name": "伊万里市",
+      "prefecture": "佐賀県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "41206",
+      "name": "武雄市",
+      "full_name": "武雄市",
+      "prefecture": "佐賀県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "41207",
+      "name": "鹿島市",
+      "full_name": "鹿島市",
+      "prefecture": "佐賀県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "41208",
+      "name": "小城市",
+      "full_name": "小城市",
+      "prefecture": "佐賀県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "41209",
+      "name": "嬉野市",
+      "full_name": "嬉野市",
+      "prefecture": "佐賀県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "41210",
+      "name": "神埼市",
+      "full_name": "神埼市",
+      "prefecture": "佐賀県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "41327",
+      "name": "吉野ヶ里町",
+      "full_name": "神埼郡吉野ヶ里町",
+      "prefecture": "佐賀県",
+      "county_or_designated_city": "神埼郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "41341",
+      "name": "基山町",
+      "full_name": "三養基郡基山町",
+      "prefecture": "佐賀県",
+      "county_or_designated_city": "三養基郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "41345",
+      "name": "上峰町",
+      "full_name": "三養基郡上峰町",
+      "prefecture": "佐賀県",
+      "county_or_designated_city": "三養基郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "41346",
+      "name": "みやき町",
+      "full_name": "三養基郡みやき町",
+      "prefecture": "佐賀県",
+      "county_or_designated_city": "三養基郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "41387",
+      "name": "玄海町",
+      "full_name": "東松浦郡玄海町",
+      "prefecture": "佐賀県",
+      "county_or_designated_city": "東松浦郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "41401",
+      "name": "有田町",
+      "full_name": "西松浦郡有田町",
+      "prefecture": "佐賀県",
+      "county_or_designated_city": "西松浦郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "41423",
+      "name": "大町町",
+      "full_name": "杵島郡大町町",
+      "prefecture": "佐賀県",
+      "county_or_designated_city": "杵島郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "41424",
+      "name": "江北町",
+      "full_name": "杵島郡江北町",
+      "prefecture": "佐賀県",
+      "county_or_designated_city": "杵島郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "41425",
+      "name": "白石町",
+      "full_name": "杵島郡白石町",
+      "prefecture": "佐賀県",
+      "county_or_designated_city": "杵島郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "41441",
+      "name": "太良町",
+      "full_name": "藤津郡太良町",
+      "prefecture": "佐賀県",
+      "county_or_designated_city": "藤津郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "佐賀県の市区町村一覧 - 無料ダウンロード",
+    "description": "佐賀県 (Saga Prefecture) の全市区町村 20 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 20 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "佐賀県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 佐賀県の市区町村一覧 — 20 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 20 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

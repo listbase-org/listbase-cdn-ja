@@ -1,0 +1,264 @@
+{
+  "id": "ja-miyazaki-municipalities",
+  "name": "宮崎県の市区町村一覧 (Municipalities of Miyazaki — JIS X 0402)",
+  "title": "宮崎県の市区町村一覧 (Municipalities of Miyazaki — JIS X 0402)",
+  "description": "宮崎県 (Miyazaki Prefecture) の市区町村一覧 26 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 26 active municipalities (cities/wards/towns/villages) of Miyazaki Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "45201",
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_kana": "ミヤザキケン",
+      "city": "宮崎市",
+      "city_kana": "ミヤザキシ"
+    },
+    {
+      "jisx0402": "45202",
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_kana": "ミヤザキケン",
+      "city": "都城市",
+      "city_kana": "ミヤコノジョウシ"
+    },
+    {
+      "jisx0402": "45203",
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_kana": "ミヤザキケン",
+      "city": "延岡市",
+      "city_kana": "ノベオカシ"
+    },
+    {
+      "jisx0402": "45204",
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_kana": "ミヤザキケン",
+      "city": "日南市",
+      "city_kana": "ニチナンシ"
+    },
+    {
+      "jisx0402": "45205",
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_kana": "ミヤザキケン",
+      "city": "小林市",
+      "city_kana": "コバヤシシ"
+    },
+    {
+      "jisx0402": "45206",
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_kana": "ミヤザキケン",
+      "city": "日向市",
+      "city_kana": "ヒュウガシ"
+    },
+    {
+      "jisx0402": "45207",
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_kana": "ミヤザキケン",
+      "city": "串間市",
+      "city_kana": "クシマシ"
+    },
+    {
+      "jisx0402": "45208",
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_kana": "ミヤザキケン",
+      "city": "西都市",
+      "city_kana": "サイトシ"
+    },
+    {
+      "jisx0402": "45209",
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_kana": "ミヤザキケン",
+      "city": "えびの市",
+      "city_kana": "エビノシ"
+    },
+    {
+      "jisx0402": "45341",
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_kana": "ミヤザキケン",
+      "city": "北諸県郡三股町",
+      "city_kana": "キタモロカタグンミマタチョウ"
+    },
+    {
+      "jisx0402": "45361",
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_kana": "ミヤザキケン",
+      "city": "西諸県郡高原町",
+      "city_kana": "ニシモロカタグンタカハルチョウ"
+    },
+    {
+      "jisx0402": "45382",
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_kana": "ミヤザキケン",
+      "city": "東諸県郡国富町",
+      "city_kana": "ヒガシモロカタグンクニトミチョウ"
+    },
+    {
+      "jisx0402": "45383",
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_kana": "ミヤザキケン",
+      "city": "東諸県郡綾町",
+      "city_kana": "ヒガシモロカタグンアヤチョウ"
+    },
+    {
+      "jisx0402": "45401",
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_kana": "ミヤザキケン",
+      "city": "児湯郡高鍋町",
+      "city_kana": "コユグンタカナベチョウ"
+    },
+    {
+      "jisx0402": "45402",
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_kana": "ミヤザキケン",
+      "city": "児湯郡新富町",
+      "city_kana": "コユグンシントミチョウ"
+    },
+    {
+      "jisx0402": "45403",
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_kana": "ミヤザキケン",
+      "city": "児湯郡西米良村",
+      "city_kana": "コユグンニシメラソン"
+    },
+    {
+      "jisx0402": "45404",
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_kana": "ミヤザキケン",
+      "city": "児湯郡木城町",
+      "city_kana": "コユグンキジョウチョウ"
+    },
+    {
+      "jisx0402": "45405",
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_kana": "ミヤザキケン",
+      "city": "児湯郡川南町",
+      "city_kana": "コユグンカワミナミチョウ"
+    },
+    {
+      "jisx0402": "45406",
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_kana": "ミヤザキケン",
+      "city": "児湯郡都農町",
+      "city_kana": "コユグンツノチョウ"
+    },
+    {
+      "jisx0402": "45421",
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_kana": "ミヤザキケン",
+      "city": "東臼杵郡門川町",
+      "city_kana": "ヒガシウスキグンカドガワチョウ"
+    },
+    {
+      "jisx0402": "45429",
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_kana": "ミヤザキケン",
+      "city": "東臼杵郡諸塚村",
+      "city_kana": "ヒガシウスキグンモロツカソン"
+    },
+    {
+      "jisx0402": "45430",
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_kana": "ミヤザキケン",
+      "city": "東臼杵郡椎葉村",
+      "city_kana": "ヒガシウスキグンシイバソン"
+    },
+    {
+      "jisx0402": "45431",
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_kana": "ミヤザキケン",
+      "city": "東臼杵郡美郷町",
+      "city_kana": "ヒガシウスキグンミサトチョウ"
+    },
+    {
+      "jisx0402": "45441",
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_kana": "ミヤザキケン",
+      "city": "西臼杵郡高千穂町",
+      "city_kana": "ニシウスキグンタカチホチョウ"
+    },
+    {
+      "jisx0402": "45442",
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_kana": "ミヤザキケン",
+      "city": "西臼杵郡日之影町",
+      "city_kana": "ニシウスキグンヒノカゲチョウ"
+    },
+    {
+      "jisx0402": "45443",
+      "prefecture_code": "45",
+      "prefecture": "宮崎県",
+      "prefecture_kana": "ミヤザキケン",
+      "city": "西臼杵郡五ヶ瀬町",
+      "city_kana": "ニシウスキグンゴカセチョウ"
+    }
+  ],
+  "meta": {
+    "title": "宮崎県の市区町村一覧 (Municipalities of Miyazaki — JIS X 0402) - 無料ダウンロード",
+    "description": "宮崎県 (Miyazaki Prefecture) の市区町村一覧 26 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 26 active municipalities (cities/wards/towns/villages) of Miyazaki Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 26 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "宮崎県の市区町村一覧 (Municipalities of Miyazaki — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 宮崎県の市区町村一覧 (Municipalities of Miyazaki — JIS X 0402) — 26 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 26 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

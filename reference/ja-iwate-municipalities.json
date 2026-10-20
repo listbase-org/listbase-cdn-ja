@@ -1,0 +1,320 @@
+{
+  "id": "ja-iwate-municipalities",
+  "name": "岩手県の市区町村一覧 (Municipalities of Iwate — JIS X 0402)",
+  "title": "岩手県の市区町村一覧 (Municipalities of Iwate — JIS X 0402)",
+  "description": "岩手県 (Iwate Prefecture) の市区町村一覧 33 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 33 active municipalities (cities/wards/towns/villages) of Iwate Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "03201",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "盛岡市",
+      "city_kana": "モリオカシ"
+    },
+    {
+      "jisx0402": "03202",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "宮古市",
+      "city_kana": "ミヤコシ"
+    },
+    {
+      "jisx0402": "03203",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "大船渡市",
+      "city_kana": "オオフナトシ"
+    },
+    {
+      "jisx0402": "03205",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "花巻市",
+      "city_kana": "ハナマキシ"
+    },
+    {
+      "jisx0402": "03206",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "北上市",
+      "city_kana": "キタカミシ"
+    },
+    {
+      "jisx0402": "03207",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "久慈市",
+      "city_kana": "クジシ"
+    },
+    {
+      "jisx0402": "03208",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "遠野市",
+      "city_kana": "トオノシ"
+    },
+    {
+      "jisx0402": "03209",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "一関市",
+      "city_kana": "イチノセキシ"
+    },
+    {
+      "jisx0402": "03210",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "陸前高田市",
+      "city_kana": "リクゼンタカタシ"
+    },
+    {
+      "jisx0402": "03211",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "釜石市",
+      "city_kana": "カマイシシ"
+    },
+    {
+      "jisx0402": "03213",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "二戸市",
+      "city_kana": "ニノヘシ"
+    },
+    {
+      "jisx0402": "03214",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "八幡平市",
+      "city_kana": "ハチマンタイシ"
+    },
+    {
+      "jisx0402": "03215",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "奥州市",
+      "city_kana": "オウシュウシ"
+    },
+    {
+      "jisx0402": "03216",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "滝沢市",
+      "city_kana": "タキザワシ"
+    },
+    {
+      "jisx0402": "03301",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "岩手郡雫石町",
+      "city_kana": "イワテグンシズクイシチョウ"
+    },
+    {
+      "jisx0402": "03302",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "岩手郡葛巻町",
+      "city_kana": "イワテグンクズマキマチ"
+    },
+    {
+      "jisx0402": "03303",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "岩手郡岩手町",
+      "city_kana": "イワテグンイワテマチ"
+    },
+    {
+      "jisx0402": "03321",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "紫波郡紫波町",
+      "city_kana": "シワグンシワチョウ"
+    },
+    {
+      "jisx0402": "03322",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "紫波郡矢巾町",
+      "city_kana": "シワグンヤハバチョウ"
+    },
+    {
+      "jisx0402": "03366",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "和賀郡西和賀町",
+      "city_kana": "ワガグンニシワガマチ"
+    },
+    {
+      "jisx0402": "03381",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "胆沢郡金ケ崎町",
+      "city_kana": "イサワグンカネガサキチョウ"
+    },
+    {
+      "jisx0402": "03402",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "西磐井郡平泉町",
+      "city_kana": "ニシイワイグンヒライズミチョウ"
+    },
+    {
+      "jisx0402": "03441",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "気仙郡住田町",
+      "city_kana": "ケセングンスミタチョウ"
+    },
+    {
+      "jisx0402": "03461",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "上閉伊郡大槌町",
+      "city_kana": "カミヘイグンオオツチチョウ"
+    },
+    {
+      "jisx0402": "03482",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "下閉伊郡山田町",
+      "city_kana": "シモヘイグンヤマダマチ"
+    },
+    {
+      "jisx0402": "03483",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "下閉伊郡岩泉町",
+      "city_kana": "シモヘイグンイワイズミチョウ"
+    },
+    {
+      "jisx0402": "03484",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "下閉伊郡田野畑村",
+      "city_kana": "シモヘイグンタノハタムラ"
+    },
+    {
+      "jisx0402": "03485",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "下閉伊郡普代村",
+      "city_kana": "シモヘイグンフダイムラ"
+    },
+    {
+      "jisx0402": "03501",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "九戸郡軽米町",
+      "city_kana": "クノヘグンカルマイマチ"
+    },
+    {
+      "jisx0402": "03503",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "九戸郡野田村",
+      "city_kana": "クノヘグンノダムラ"
+    },
+    {
+      "jisx0402": "03506",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "九戸郡九戸村",
+      "city_kana": "クノヘグンクノヘムラ"
+    },
+    {
+      "jisx0402": "03507",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "九戸郡洋野町",
+      "city_kana": "クノヘグンヒロノチョウ"
+    },
+    {
+      "jisx0402": "03524",
+      "prefecture_code": "03",
+      "prefecture": "岩手県",
+      "prefecture_kana": "イワテケン",
+      "city": "二戸郡一戸町",
+      "city_kana": "ニノヘグンイチノヘマチ"
+    }
+  ],
+  "meta": {
+    "title": "岩手県の市区町村一覧 (Municipalities of Iwate — JIS X 0402) - 無料ダウンロード",
+    "description": "岩手県 (Iwate Prefecture) の市区町村一覧 33 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 33 active municipalities (cities/wards/towns/villages) of Iwate Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 33 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "岩手県の市区町村一覧 (Municipalities of Iwate — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 岩手県の市区町村一覧 (Municipalities of Iwate — JIS X 0402) — 33 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 33 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

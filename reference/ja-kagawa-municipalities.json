@@ -1,0 +1,192 @@
+{
+  "id": "ja-kagawa-municipalities",
+  "name": "香川県の市区町村一覧 (Municipalities of Kagawa — JIS X 0402)",
+  "title": "香川県の市区町村一覧 (Municipalities of Kagawa — JIS X 0402)",
+  "description": "香川県 (Kagawa Prefecture) の市区町村一覧 17 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 17 active municipalities (cities/wards/towns/villages) of Kagawa Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "37201",
+      "prefecture_code": "37",
+      "prefecture": "香川県",
+      "prefecture_kana": "カガワケン",
+      "city": "高松市",
+      "city_kana": "タカマツシ"
+    },
+    {
+      "jisx0402": "37202",
+      "prefecture_code": "37",
+      "prefecture": "香川県",
+      "prefecture_kana": "カガワケン",
+      "city": "丸亀市",
+      "city_kana": "マルガメシ"
+    },
+    {
+      "jisx0402": "37203",
+      "prefecture_code": "37",
+      "prefecture": "香川県",
+      "prefecture_kana": "カガワケン",
+      "city": "坂出市",
+      "city_kana": "サカイデシ"
+    },
+    {
+      "jisx0402": "37204",
+      "prefecture_code": "37",
+      "prefecture": "香川県",
+      "prefecture_kana": "カガワケン",
+      "city": "善通寺市",
+      "city_kana": "ゼンツウジシ"
+    },
+    {
+      "jisx0402": "37205",
+      "prefecture_code": "37",
+      "prefecture": "香川県",
+      "prefecture_kana": "カガワケン",
+      "city": "観音寺市",
+      "city_kana": "カンオンジシ"
+    },
+    {
+      "jisx0402": "37206",
+      "prefecture_code": "37",
+      "prefecture": "香川県",
+      "prefecture_kana": "カガワケン",
+      "city": "さぬき市",
+      "city_kana": "サヌキシ"
+    },
+    {
+      "jisx0402": "37207",
+      "prefecture_code": "37",
+      "prefecture": "香川県",
+      "prefecture_kana": "カガワケン",
+      "city": "東かがわ市",
+      "city_kana": "ヒガシカガワシ"
+    },
+    {
+      "jisx0402": "37208",
+      "prefecture_code": "37",
+      "prefecture": "香川県",
+      "prefecture_kana": "カガワケン",
+      "city": "三豊市",
+      "city_kana": "ミトヨシ"
+    },
+    {
+      "jisx0402": "37322",
+      "prefecture_code": "37",
+      "prefecture": "香川県",
+      "prefecture_kana": "カガワケン",
+      "city": "小豆郡土庄町",
+      "city_kana": "ショウズグントノショウチョウ"
+    },
+    {
+      "jisx0402": "37324",
+      "prefecture_code": "37",
+      "prefecture": "香川県",
+      "prefecture_kana": "カガワケン",
+      "city": "小豆郡小豆島町",
+      "city_kana": "ショウズグンショウドシマチョウ"
+    },
+    {
+      "jisx0402": "37341",
+      "prefecture_code": "37",
+      "prefecture": "香川県",
+      "prefecture_kana": "カガワケン",
+      "city": "木田郡三木町",
+      "city_kana": "キタグンミキチョウ"
+    },
+    {
+      "jisx0402": "37364",
+      "prefecture_code": "37",
+      "prefecture": "香川県",
+      "prefecture_kana": "カガワケン",
+      "city": "香川郡直島町",
+      "city_kana": "カガワグンナオシマチョウ"
+    },
+    {
+      "jisx0402": "37386",
+      "prefecture_code": "37",
+      "prefecture": "香川県",
+      "prefecture_kana": "カガワケン",
+      "city": "綾歌郡宇多津町",
+      "city_kana": "アヤウタグンウタヅチョウ"
+    },
+    {
+      "jisx0402": "37387",
+      "prefecture_code": "37",
+      "prefecture": "香川県",
+      "prefecture_kana": "カガワケン",
+      "city": "綾歌郡綾川町",
+      "city_kana": "アヤウタグンアヤガワチョウ"
+    },
+    {
+      "jisx0402": "37403",
+      "prefecture_code": "37",
+      "prefecture": "香川県",
+      "prefecture_kana": "カガワケン",
+      "city": "仲多度郡琴平町",
+      "city_kana": "ナカタドグンコトヒラチョウ"
+    },
+    {
+      "jisx0402": "37404",
+      "prefecture_code": "37",
+      "prefecture": "香川県",
+      "prefecture_kana": "カガワケン",
+      "city": "仲多度郡多度津町",
+      "city_kana": "ナカタドグンタドツチョウ"
+    },
+    {
+      "jisx0402": "37406",
+      "prefecture_code": "37",
+      "prefecture": "香川県",
+      "prefecture_kana": "カガワケン",
+      "city": "仲多度郡まんのう町",
+      "city_kana": "ナカタドグンマンノウチョウ"
+    }
+  ],
+  "meta": {
+    "title": "香川県の市区町村一覧 (Municipalities of Kagawa — JIS X 0402) - 無料ダウンロード",
+    "description": "香川県 (Kagawa Prefecture) の市区町村一覧 17 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 17 active municipalities (cities/wards/towns/villages) of Kagawa Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 17 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "香川県の市区町村一覧 (Municipalities of Kagawa — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 香川県の市区町村一覧 (Municipalities of Kagawa — JIS X 0402) — 17 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 17 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

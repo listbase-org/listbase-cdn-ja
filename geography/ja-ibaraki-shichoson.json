@@ -1,0 +1,408 @@
+{
+  "id": "ja-ibaraki-shichoson",
+  "name": "茨城県の市区町村一覧",
+  "title": "茨城県の市区町村一覧",
+  "description": "茨城県 (Ibaraki Prefecture) の全市区町村 44 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "08201",
+      "name": "水戸市",
+      "full_name": "水戸市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08202",
+      "name": "日立市",
+      "full_name": "日立市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08203",
+      "name": "土浦市",
+      "full_name": "土浦市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08204",
+      "name": "古河市",
+      "full_name": "古河市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08205",
+      "name": "石岡市",
+      "full_name": "石岡市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08207",
+      "name": "結城市",
+      "full_name": "結城市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08208",
+      "name": "龍ケ崎市",
+      "full_name": "龍ケ崎市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08210",
+      "name": "下妻市",
+      "full_name": "下妻市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08211",
+      "name": "常総市",
+      "full_name": "常総市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08212",
+      "name": "常陸太田市",
+      "full_name": "常陸太田市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08214",
+      "name": "高萩市",
+      "full_name": "高萩市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08215",
+      "name": "北茨城市",
+      "full_name": "北茨城市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08216",
+      "name": "笠間市",
+      "full_name": "笠間市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08217",
+      "name": "取手市",
+      "full_name": "取手市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08219",
+      "name": "牛久市",
+      "full_name": "牛久市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08220",
+      "name": "つくば市",
+      "full_name": "つくば市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08221",
+      "name": "ひたちなか市",
+      "full_name": "ひたちなか市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08222",
+      "name": "鹿嶋市",
+      "full_name": "鹿嶋市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08223",
+      "name": "潮来市",
+      "full_name": "潮来市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08224",
+      "name": "守谷市",
+      "full_name": "守谷市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08225",
+      "name": "常陸大宮市",
+      "full_name": "常陸大宮市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08226",
+      "name": "那珂市",
+      "full_name": "那珂市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08227",
+      "name": "筑西市",
+      "full_name": "筑西市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08228",
+      "name": "坂東市",
+      "full_name": "坂東市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08229",
+      "name": "稲敷市",
+      "full_name": "稲敷市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08230",
+      "name": "かすみがうら市",
+      "full_name": "かすみがうら市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08231",
+      "name": "桜川市",
+      "full_name": "桜川市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08232",
+      "name": "神栖市",
+      "full_name": "神栖市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08233",
+      "name": "行方市",
+      "full_name": "行方市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08234",
+      "name": "鉾田市",
+      "full_name": "鉾田市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08235",
+      "name": "つくばみらい市",
+      "full_name": "つくばみらい市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08236",
+      "name": "小美玉市",
+      "full_name": "小美玉市",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "08302",
+      "name": "茨城町",
+      "full_name": "東茨城郡茨城町",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "東茨城郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "08309",
+      "name": "大洗町",
+      "full_name": "東茨城郡大洗町",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "東茨城郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "08310",
+      "name": "城里町",
+      "full_name": "東茨城郡城里町",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "東茨城郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "08341",
+      "name": "東海村",
+      "full_name": "那珂郡東海村",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "那珂郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "08364",
+      "name": "大子町",
+      "full_name": "久慈郡大子町",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "久慈郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "08442",
+      "name": "美浦村",
+      "full_name": "稲敷郡美浦村",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "稲敷郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "08443",
+      "name": "阿見町",
+      "full_name": "稲敷郡阿見町",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "稲敷郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "08447",
+      "name": "河内町",
+      "full_name": "稲敷郡河内町",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "稲敷郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "08521",
+      "name": "八千代町",
+      "full_name": "結城郡八千代町",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "結城郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "08542",
+      "name": "五霞町",
+      "full_name": "猿島郡五霞町",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "猿島郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "08546",
+      "name": "境町",
+      "full_name": "猿島郡境町",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "猿島郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "08564",
+      "name": "利根町",
+      "full_name": "北相馬郡利根町",
+      "prefecture": "茨城県",
+      "county_or_designated_city": "北相馬郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "茨城県の市区町村一覧 - 無料ダウンロード",
+    "description": "茨城県 (Ibaraki Prefecture) の全市区町村 44 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 44 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "茨城県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 茨城県の市区町村一覧 — 44 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 44 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

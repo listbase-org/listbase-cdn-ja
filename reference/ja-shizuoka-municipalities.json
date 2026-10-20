@@ -1,0 +1,368 @@
+{
+  "id": "ja-shizuoka-municipalities",
+  "name": "静岡県の市区町村一覧 (Municipalities of Shizuoka — JIS X 0402)",
+  "title": "静岡県の市区町村一覧 (Municipalities of Shizuoka — JIS X 0402)",
+  "description": "静岡県 (Shizuoka Prefecture) の市区町村一覧 39 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 39 active municipalities (cities/wards/towns/villages) of Shizuoka Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "22101",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "静岡市葵区",
+      "city_kana": "シズオカシアオイク"
+    },
+    {
+      "jisx0402": "22102",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "静岡市駿河区",
+      "city_kana": "シズオカシスルガク"
+    },
+    {
+      "jisx0402": "22103",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "静岡市清水区",
+      "city_kana": "シズオカシシミズク"
+    },
+    {
+      "jisx0402": "22138",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "浜松市中央区",
+      "city_kana": "ハママツシチュウオウク"
+    },
+    {
+      "jisx0402": "22139",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "浜松市浜名区",
+      "city_kana": "ハママツシハマナク"
+    },
+    {
+      "jisx0402": "22140",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "浜松市天竜区",
+      "city_kana": "ハママツシテンリュウク"
+    },
+    {
+      "jisx0402": "22203",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "沼津市",
+      "city_kana": "ヌマヅシ"
+    },
+    {
+      "jisx0402": "22205",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "熱海市",
+      "city_kana": "アタミシ"
+    },
+    {
+      "jisx0402": "22206",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "三島市",
+      "city_kana": "ミシマシ"
+    },
+    {
+      "jisx0402": "22207",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "富士宮市",
+      "city_kana": "フジノミヤシ"
+    },
+    {
+      "jisx0402": "22208",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "伊東市",
+      "city_kana": "イトウシ"
+    },
+    {
+      "jisx0402": "22209",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "島田市",
+      "city_kana": "シマダシ"
+    },
+    {
+      "jisx0402": "22210",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "富士市",
+      "city_kana": "フジシ"
+    },
+    {
+      "jisx0402": "22211",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "磐田市",
+      "city_kana": "イワタシ"
+    },
+    {
+      "jisx0402": "22212",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "焼津市",
+      "city_kana": "ヤイヅシ"
+    },
+    {
+      "jisx0402": "22213",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "掛川市",
+      "city_kana": "カケガワシ"
+    },
+    {
+      "jisx0402": "22214",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "藤枝市",
+      "city_kana": "フジエダシ"
+    },
+    {
+      "jisx0402": "22215",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "御殿場市",
+      "city_kana": "ゴテンバシ"
+    },
+    {
+      "jisx0402": "22216",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "袋井市",
+      "city_kana": "フクロイシ"
+    },
+    {
+      "jisx0402": "22219",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "下田市",
+      "city_kana": "シモダシ"
+    },
+    {
+      "jisx0402": "22220",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "裾野市",
+      "city_kana": "スソノシ"
+    },
+    {
+      "jisx0402": "22221",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "湖西市",
+      "city_kana": "コサイシ"
+    },
+    {
+      "jisx0402": "22222",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "伊豆市",
+      "city_kana": "イズシ"
+    },
+    {
+      "jisx0402": "22223",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "御前崎市",
+      "city_kana": "オマエザキシ"
+    },
+    {
+      "jisx0402": "22224",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "菊川市",
+      "city_kana": "キクガワシ"
+    },
+    {
+      "jisx0402": "22225",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "伊豆の国市",
+      "city_kana": "イズノクニシ"
+    },
+    {
+      "jisx0402": "22226",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "牧之原市",
+      "city_kana": "マキノハラシ"
+    },
+    {
+      "jisx0402": "22301",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "賀茂郡東伊豆町",
+      "city_kana": "カモグンヒガシイズチョウ"
+    },
+    {
+      "jisx0402": "22302",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "賀茂郡河津町",
+      "city_kana": "カモグンカワヅチョウ"
+    },
+    {
+      "jisx0402": "22304",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "賀茂郡南伊豆町",
+      "city_kana": "カモグンミナミイズチョウ"
+    },
+    {
+      "jisx0402": "22305",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "賀茂郡松崎町",
+      "city_kana": "カモグンマツザキチョウ"
+    },
+    {
+      "jisx0402": "22306",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "賀茂郡西伊豆町",
+      "city_kana": "カモグンニシイズチョウ"
+    },
+    {
+      "jisx0402": "22325",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "田方郡函南町",
+      "city_kana": "タガタグンカンナミチョウ"
+    },
+    {
+      "jisx0402": "22341",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "駿東郡清水町",
+      "city_kana": "スントウグンシミズチョウ"
+    },
+    {
+      "jisx0402": "22342",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "駿東郡長泉町",
+      "city_kana": "スントウグンナガイズミチョウ"
+    },
+    {
+      "jisx0402": "22344",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "駿東郡小山町",
+      "city_kana": "スントウグンオヤマチョウ"
+    },
+    {
+      "jisx0402": "22424",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "榛原郡吉田町",
+      "city_kana": "ハイバラグンヨシダチョウ"
+    },
+    {
+      "jisx0402": "22429",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "榛原郡川根本町",
+      "city_kana": "ハイバラグンカワネホンチョウ"
+    },
+    {
+      "jisx0402": "22461",
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_kana": "シズオカケン",
+      "city": "周智郡森町",
+      "city_kana": "シュウチグンモリマチ"
+    }
+  ],
+  "meta": {
+    "title": "静岡県の市区町村一覧 (Municipalities of Shizuoka — JIS X 0402) - 無料ダウンロード",
+    "description": "静岡県 (Shizuoka Prefecture) の市区町村一覧 39 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 39 active municipalities (cities/wards/towns/villages) of Shizuoka Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 39 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "静岡県の市区町村一覧 (Municipalities of Shizuoka — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 静岡県の市区町村一覧 (Municipalities of Shizuoka — JIS X 0402) — 39 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 39 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

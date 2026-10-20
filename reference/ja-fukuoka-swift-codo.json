@@ -1,0 +1,94 @@
+{
+  "id": "ja-fukuoka-swift-codo",
+  "name": "SWIFT/BICコード — Fukuoka",
+  "title": "SWIFT/BICコード — Fukuoka",
+  "description": "日本の銀行および金融機関のSWIFT/BICコード。各レコードには機関名、都市、支店（該当する場合）、およびSWIFT/BICコードが含まれます。出典: PeterNotenboom/SwiftCodes（MITライセンス）。このサブセットには、出典が都市「FUKUOKA」として記載している8件の機関が含まれます。",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "BANK OF FUKUOKA, LTD., THE",
+      "city": "FUKUOKA",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "FKBKJPJT100"
+    },
+    {
+      "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+      "city": "FUKUOKA",
+      "branch": "",
+      "swift_code": "BOTKJPJTFUK"
+    },
+    {
+      "bank": "FUKUOKA STOCK EXCHANGE",
+      "city": "FUKUOKA",
+      "branch": "",
+      "swift_code": "XFKAJPJ1"
+    },
+    {
+      "bank": "MAEDA SECURITIES LTD.",
+      "city": "FUKUOKA",
+      "branch": "",
+      "swift_code": "MAESJPJ1"
+    },
+    {
+      "bank": "THE CHIKUHO BANK LTD",
+      "city": "FUKUOKA",
+      "branch": "",
+      "swift_code": "CHIHJPJT"
+    },
+    {
+      "bank": "THE NISHI-NIPPON CITY BANK, LTD",
+      "city": "FUKUOKA",
+      "branch": "(INTERNATIONAL DEPT.)",
+      "swift_code": "NISIJPJTFKK"
+    },
+    {
+      "bank": "THE NISHI-NIPPON CITY BANK, LTD",
+      "city": "FUKUOKA",
+      "branch": "",
+      "swift_code": "NISIJPJT"
+    },
+    {
+      "bank": "THE OHKAWA SHINKIN BANK FUKUOKA JAPAN",
+      "city": "FUKUOKA",
+      "branch": "",
+      "swift_code": "OHSHJPJ1"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BICコード — Fukuoka - 無料ダウンロード",
+    "description": "日本の銀行および金融機関のSWIFT/BICコード。各レコードには機関名、都市、支店（該当する場合）、およびSWIFT/BICコードが含まれます。出典: PeterNotenboom/SwiftCodes（MITライセンス）。このサブセットには、出典が都市「FUKUOKA」として記載している8件の機関が含まれます。 収録数 8 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "SWIFT/BICコード — Fukuoka | ListBase",
+    "seo_description": "ダウンロード SWIFT/BICコード — Fukuoka — 8 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 8 件 / 4 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

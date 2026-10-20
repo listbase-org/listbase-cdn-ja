@@ -1,0 +1,336 @@
+{
+  "id": "ja-yamagata-shichoson",
+  "name": "山形県の市区町村一覧",
+  "title": "山形県の市区町村一覧",
+  "description": "山形県 (Yamagata Prefecture) の全市区町村 35 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "06201",
+      "name": "山形市",
+      "full_name": "山形市",
+      "prefecture": "山形県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "06202",
+      "name": "米沢市",
+      "full_name": "米沢市",
+      "prefecture": "山形県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "06203",
+      "name": "鶴岡市",
+      "full_name": "鶴岡市",
+      "prefecture": "山形県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "06204",
+      "name": "酒田市",
+      "full_name": "酒田市",
+      "prefecture": "山形県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "06205",
+      "name": "新庄市",
+      "full_name": "新庄市",
+      "prefecture": "山形県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "06206",
+      "name": "寒河江市",
+      "full_name": "寒河江市",
+      "prefecture": "山形県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "06207",
+      "name": "上山市",
+      "full_name": "上山市",
+      "prefecture": "山形県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "06208",
+      "name": "村山市",
+      "full_name": "村山市",
+      "prefecture": "山形県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "06209",
+      "name": "長井市",
+      "full_name": "長井市",
+      "prefecture": "山形県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "06210",
+      "name": "天童市",
+      "full_name": "天童市",
+      "prefecture": "山形県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "06211",
+      "name": "東根市",
+      "full_name": "東根市",
+      "prefecture": "山形県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "06212",
+      "name": "尾花沢市",
+      "full_name": "尾花沢市",
+      "prefecture": "山形県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "06213",
+      "name": "南陽市",
+      "full_name": "南陽市",
+      "prefecture": "山形県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "06301",
+      "name": "山辺町",
+      "full_name": "東村山郡山辺町",
+      "prefecture": "山形県",
+      "county_or_designated_city": "東村山郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "06302",
+      "name": "中山町",
+      "full_name": "東村山郡中山町",
+      "prefecture": "山形県",
+      "county_or_designated_city": "東村山郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "06321",
+      "name": "河北町",
+      "full_name": "西村山郡河北町",
+      "prefecture": "山形県",
+      "county_or_designated_city": "西村山郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "06322",
+      "name": "西川町",
+      "full_name": "西村山郡西川町",
+      "prefecture": "山形県",
+      "county_or_designated_city": "西村山郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "06323",
+      "name": "朝日町",
+      "full_name": "西村山郡朝日町",
+      "prefecture": "山形県",
+      "county_or_designated_city": "西村山郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "06324",
+      "name": "大江町",
+      "full_name": "西村山郡大江町",
+      "prefecture": "山形県",
+      "county_or_designated_city": "西村山郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "06341",
+      "name": "大石田町",
+      "full_name": "北村山郡大石田町",
+      "prefecture": "山形県",
+      "county_or_designated_city": "北村山郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "06361",
+      "name": "金山町",
+      "full_name": "最上郡金山町",
+      "prefecture": "山形県",
+      "county_or_designated_city": "最上郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "06362",
+      "name": "最上町",
+      "full_name": "最上郡最上町",
+      "prefecture": "山形県",
+      "county_or_designated_city": "最上郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "06363",
+      "name": "舟形町",
+      "full_name": "最上郡舟形町",
+      "prefecture": "山形県",
+      "county_or_designated_city": "最上郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "06364",
+      "name": "真室川町",
+      "full_name": "最上郡真室川町",
+      "prefecture": "山形県",
+      "county_or_designated_city": "最上郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "06365",
+      "name": "大蔵村",
+      "full_name": "最上郡大蔵村",
+      "prefecture": "山形県",
+      "county_or_designated_city": "最上郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "06366",
+      "name": "鮭川村",
+      "full_name": "最上郡鮭川村",
+      "prefecture": "山形県",
+      "county_or_designated_city": "最上郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "06367",
+      "name": "戸沢村",
+      "full_name": "最上郡戸沢村",
+      "prefecture": "山形県",
+      "county_or_designated_city": "最上郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "06381",
+      "name": "高畠町",
+      "full_name": "東置賜郡高畠町",
+      "prefecture": "山形県",
+      "county_or_designated_city": "東置賜郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "06382",
+      "name": "川西町",
+      "full_name": "東置賜郡川西町",
+      "prefecture": "山形県",
+      "county_or_designated_city": "東置賜郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "06401",
+      "name": "小国町",
+      "full_name": "西置賜郡小国町",
+      "prefecture": "山形県",
+      "county_or_designated_city": "西置賜郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "06402",
+      "name": "白鷹町",
+      "full_name": "西置賜郡白鷹町",
+      "prefecture": "山形県",
+      "county_or_designated_city": "西置賜郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "06403",
+      "name": "飯豊町",
+      "full_name": "西置賜郡飯豊町",
+      "prefecture": "山形県",
+      "county_or_designated_city": "西置賜郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "06426",
+      "name": "三川町",
+      "full_name": "東田川郡三川町",
+      "prefecture": "山形県",
+      "county_or_designated_city": "東田川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "06428",
+      "name": "庄内町",
+      "full_name": "東田川郡庄内町",
+      "prefecture": "山形県",
+      "county_or_designated_city": "東田川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "06461",
+      "name": "遊佐町",
+      "full_name": "飽海郡遊佐町",
+      "prefecture": "山形県",
+      "county_or_designated_city": "飽海郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "山形県の市区町村一覧 - 無料ダウンロード",
+    "description": "山形県 (Yamagata Prefecture) の全市区町村 35 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 35 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "山形県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 山形県の市区町村一覧 — 35 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 35 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

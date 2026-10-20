@@ -1,0 +1,208 @@
+{
+  "id": "ja-ishikawa-shichoson",
+  "name": "石川県の市区町村一覧",
+  "title": "石川県の市区町村一覧",
+  "description": "石川県 (Ishikawa Prefecture) の全市区町村 19 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "17201",
+      "name": "金沢市",
+      "full_name": "金沢市",
+      "prefecture": "石川県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "17202",
+      "name": "七尾市",
+      "full_name": "七尾市",
+      "prefecture": "石川県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "17203",
+      "name": "小松市",
+      "full_name": "小松市",
+      "prefecture": "石川県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "17204",
+      "name": "輪島市",
+      "full_name": "輪島市",
+      "prefecture": "石川県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "17205",
+      "name": "珠洲市",
+      "full_name": "珠洲市",
+      "prefecture": "石川県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "17206",
+      "name": "加賀市",
+      "full_name": "加賀市",
+      "prefecture": "石川県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "17207",
+      "name": "羽咋市",
+      "full_name": "羽咋市",
+      "prefecture": "石川県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "17209",
+      "name": "かほく市",
+      "full_name": "かほく市",
+      "prefecture": "石川県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "17210",
+      "name": "白山市",
+      "full_name": "白山市",
+      "prefecture": "石川県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "17211",
+      "name": "能美市",
+      "full_name": "能美市",
+      "prefecture": "石川県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "17212",
+      "name": "野々市市",
+      "full_name": "野々市市",
+      "prefecture": "石川県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "17324",
+      "name": "川北町",
+      "full_name": "能美郡川北町",
+      "prefecture": "石川県",
+      "county_or_designated_city": "能美郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "17361",
+      "name": "津幡町",
+      "full_name": "河北郡津幡町",
+      "prefecture": "石川県",
+      "county_or_designated_city": "河北郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "17365",
+      "name": "内灘町",
+      "full_name": "河北郡内灘町",
+      "prefecture": "石川県",
+      "county_or_designated_city": "河北郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "17384",
+      "name": "志賀町",
+      "full_name": "羽咋郡志賀町",
+      "prefecture": "石川県",
+      "county_or_designated_city": "羽咋郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "17386",
+      "name": "宝達志水町",
+      "full_name": "羽咋郡宝達志水町",
+      "prefecture": "石川県",
+      "county_or_designated_city": "羽咋郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "17407",
+      "name": "中能登町",
+      "full_name": "鹿島郡中能登町",
+      "prefecture": "石川県",
+      "county_or_designated_city": "鹿島郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "17461",
+      "name": "穴水町",
+      "full_name": "鳳珠郡穴水町",
+      "prefecture": "石川県",
+      "county_or_designated_city": "鳳珠郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "17463",
+      "name": "能登町",
+      "full_name": "鳳珠郡能登町",
+      "prefecture": "石川県",
+      "county_or_designated_city": "鳳珠郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "石川県の市区町村一覧 - 無料ダウンロード",
+    "description": "石川県 (Ishikawa Prefecture) の全市区町村 19 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 19 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "石川県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 石川県の市区町村一覧 — 19 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 19 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

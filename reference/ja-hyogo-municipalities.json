@@ -1,0 +1,448 @@
+{
+  "id": "ja-hyogo-municipalities",
+  "name": "兵庫県の市区町村一覧 (Municipalities of Hyogo — JIS X 0402)",
+  "title": "兵庫県の市区町村一覧 (Municipalities of Hyogo — JIS X 0402)",
+  "description": "兵庫県 (Hyogo Prefecture) の市区町村一覧 49 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 49 active municipalities (cities/wards/towns/villages) of Hyogo Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "28101",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "神戸市東灘区",
+      "city_kana": "コウベシヒガシナダク"
+    },
+    {
+      "jisx0402": "28102",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "神戸市灘区",
+      "city_kana": "コウベシナダク"
+    },
+    {
+      "jisx0402": "28105",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "神戸市兵庫区",
+      "city_kana": "コウベシヒョウゴク"
+    },
+    {
+      "jisx0402": "28106",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "神戸市長田区",
+      "city_kana": "コウベシナガタク"
+    },
+    {
+      "jisx0402": "28107",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "神戸市須磨区",
+      "city_kana": "コウベシスマク"
+    },
+    {
+      "jisx0402": "28108",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "神戸市垂水区",
+      "city_kana": "コウベシタルミク"
+    },
+    {
+      "jisx0402": "28109",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "神戸市北区",
+      "city_kana": "コウベシキタク"
+    },
+    {
+      "jisx0402": "28110",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "神戸市中央区",
+      "city_kana": "コウベシチュウオウク"
+    },
+    {
+      "jisx0402": "28111",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "神戸市西区",
+      "city_kana": "コウベシニシク"
+    },
+    {
+      "jisx0402": "28201",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "姫路市",
+      "city_kana": "ヒメジシ"
+    },
+    {
+      "jisx0402": "28202",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "尼崎市",
+      "city_kana": "アマガサキシ"
+    },
+    {
+      "jisx0402": "28203",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "明石市",
+      "city_kana": "アカシシ"
+    },
+    {
+      "jisx0402": "28204",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "西宮市",
+      "city_kana": "ニシノミヤシ"
+    },
+    {
+      "jisx0402": "28205",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "洲本市",
+      "city_kana": "スモトシ"
+    },
+    {
+      "jisx0402": "28206",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "芦屋市",
+      "city_kana": "アシヤシ"
+    },
+    {
+      "jisx0402": "28207",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "伊丹市",
+      "city_kana": "イタミシ"
+    },
+    {
+      "jisx0402": "28208",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "相生市",
+      "city_kana": "アイオイシ"
+    },
+    {
+      "jisx0402": "28209",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "豊岡市",
+      "city_kana": "トヨオカシ"
+    },
+    {
+      "jisx0402": "28210",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "加古川市",
+      "city_kana": "カコガワシ"
+    },
+    {
+      "jisx0402": "28212",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "赤穂市",
+      "city_kana": "アコウシ"
+    },
+    {
+      "jisx0402": "28213",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "西脇市",
+      "city_kana": "ニシワキシ"
+    },
+    {
+      "jisx0402": "28214",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "宝塚市",
+      "city_kana": "タカラヅカシ"
+    },
+    {
+      "jisx0402": "28215",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "三木市",
+      "city_kana": "ミキシ"
+    },
+    {
+      "jisx0402": "28216",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "高砂市",
+      "city_kana": "タカサゴシ"
+    },
+    {
+      "jisx0402": "28217",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "川西市",
+      "city_kana": "カワニシシ"
+    },
+    {
+      "jisx0402": "28218",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "小野市",
+      "city_kana": "オノシ"
+    },
+    {
+      "jisx0402": "28219",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "三田市",
+      "city_kana": "サンダシ"
+    },
+    {
+      "jisx0402": "28220",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "加西市",
+      "city_kana": "カサイシ"
+    },
+    {
+      "jisx0402": "28221",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "丹波篠山市",
+      "city_kana": "タンバササヤマシ"
+    },
+    {
+      "jisx0402": "28222",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "養父市",
+      "city_kana": "ヤブシ"
+    },
+    {
+      "jisx0402": "28223",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "丹波市",
+      "city_kana": "タンバシ"
+    },
+    {
+      "jisx0402": "28224",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "南あわじ市",
+      "city_kana": "ミナミアワジシ"
+    },
+    {
+      "jisx0402": "28225",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "朝来市",
+      "city_kana": "アサゴシ"
+    },
+    {
+      "jisx0402": "28226",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "淡路市",
+      "city_kana": "アワジシ"
+    },
+    {
+      "jisx0402": "28227",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "宍粟市",
+      "city_kana": "シソウシ"
+    },
+    {
+      "jisx0402": "28228",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "加東市",
+      "city_kana": "カトウシ"
+    },
+    {
+      "jisx0402": "28229",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "たつの市",
+      "city_kana": "タツノシ"
+    },
+    {
+      "jisx0402": "28301",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "川辺郡猪名川町",
+      "city_kana": "カワベグンイナガワチョウ"
+    },
+    {
+      "jisx0402": "28365",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "多可郡多可町",
+      "city_kana": "タカグンタカチョウ"
+    },
+    {
+      "jisx0402": "28381",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "加古郡稲美町",
+      "city_kana": "カコグンイナミチョウ"
+    },
+    {
+      "jisx0402": "28382",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "加古郡播磨町",
+      "city_kana": "カコグンハリマチョウ"
+    },
+    {
+      "jisx0402": "28442",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "神崎郡市川町",
+      "city_kana": "カンザキグンイチカワチョウ"
+    },
+    {
+      "jisx0402": "28443",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "神崎郡福崎町",
+      "city_kana": "カンザキグンフクサキチョウ"
+    },
+    {
+      "jisx0402": "28446",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "神崎郡神河町",
+      "city_kana": "カンザキグンカミカワチョウ"
+    },
+    {
+      "jisx0402": "28464",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "揖保郡太子町",
+      "city_kana": "イボグンタイシチョウ"
+    },
+    {
+      "jisx0402": "28481",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "赤穂郡上郡町",
+      "city_kana": "アコウグンカミゴオリチョウ"
+    },
+    {
+      "jisx0402": "28501",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "佐用郡佐用町",
+      "city_kana": "サヨウグンサヨウチョウ"
+    },
+    {
+      "jisx0402": "28585",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "美方郡香美町",
+      "city_kana": "ミカタグンカミチョウ"
+    },
+    {
+      "jisx0402": "28586",
+      "prefecture_code": "28",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "city": "美方郡新温泉町",
+      "city_kana": "ミカタグンシンオンセンチョウ"
+    }
+  ],
+  "meta": {
+    "title": "兵庫県の市区町村一覧 (Municipalities of Hyogo — JIS X 0402) - 無料ダウンロード",
+    "description": "兵庫県 (Hyogo Prefecture) の市区町村一覧 49 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 49 active municipalities (cities/wards/towns/villages) of Hyogo Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 49 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "兵庫県の市区町村一覧 (Municipalities of Hyogo — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 兵庫県の市区町村一覧 (Municipalities of Hyogo — JIS X 0402) — 49 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 49 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

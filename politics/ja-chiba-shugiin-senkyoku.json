@@ -1,0 +1,178 @@
+{
+  "id": "ja-chiba-shugiin-senkyoku",
+  "name": "千葉県衆議院小選挙区 (Chiba House of Representatives Electoral Districts)",
+  "title": "千葉県衆議院小選挙区 (Chiba House of Representatives Electoral Districts)",
+  "description": "千葉県内の衆議院小選挙区 13 件。ja-shugiin-senkyoku（全国 289 件）から都道府県コード 12 のレコードのみを抽出。スキーマは同一。13 single-member electoral districts in Chiba Prefecture, filtered from the national list (289). Same schema.",
+  "category": "politics",
+  "source": "https://github.com/smartnews-smri/japan-topography",
+  "source_url": "https://github.com/smartnews-smri/japan-topography",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "kucode",
+      "label": "Kucode",
+      "type": "number"
+    },
+    {
+      "key": "constituency",
+      "label": "Constituency",
+      "type": "string"
+    },
+    {
+      "key": "constituency_en",
+      "label": "Constituency En",
+      "type": "string"
+    },
+    {
+      "key": "district_number",
+      "label": "District Number",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_en",
+      "label": "Prefecture En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kucode": 1201,
+      "constituency": "千葉1区",
+      "constituency_en": "Chiba 1",
+      "district_number": 1,
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_en": "Chiba"
+    },
+    {
+      "kucode": 1202,
+      "constituency": "千葉2区",
+      "constituency_en": "Chiba 2",
+      "district_number": 2,
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_en": "Chiba"
+    },
+    {
+      "kucode": 1203,
+      "constituency": "千葉3区",
+      "constituency_en": "Chiba 3",
+      "district_number": 3,
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_en": "Chiba"
+    },
+    {
+      "kucode": 1204,
+      "constituency": "千葉4区",
+      "constituency_en": "Chiba 4",
+      "district_number": 4,
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_en": "Chiba"
+    },
+    {
+      "kucode": 1205,
+      "constituency": "千葉5区",
+      "constituency_en": "Chiba 5",
+      "district_number": 5,
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_en": "Chiba"
+    },
+    {
+      "kucode": 1206,
+      "constituency": "千葉6区",
+      "constituency_en": "Chiba 6",
+      "district_number": 6,
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_en": "Chiba"
+    },
+    {
+      "kucode": 1207,
+      "constituency": "千葉7区",
+      "constituency_en": "Chiba 7",
+      "district_number": 7,
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_en": "Chiba"
+    },
+    {
+      "kucode": 1208,
+      "constituency": "千葉8区",
+      "constituency_en": "Chiba 8",
+      "district_number": 8,
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_en": "Chiba"
+    },
+    {
+      "kucode": 1209,
+      "constituency": "千葉9区",
+      "constituency_en": "Chiba 9",
+      "district_number": 9,
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_en": "Chiba"
+    },
+    {
+      "kucode": 1210,
+      "constituency": "千葉10区",
+      "constituency_en": "Chiba 10",
+      "district_number": 10,
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_en": "Chiba"
+    },
+    {
+      "kucode": 1211,
+      "constituency": "千葉11区",
+      "constituency_en": "Chiba 11",
+      "district_number": 11,
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_en": "Chiba"
+    },
+    {
+      "kucode": 1212,
+      "constituency": "千葉12区",
+      "constituency_en": "Chiba 12",
+      "district_number": 12,
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_en": "Chiba"
+    },
+    {
+      "kucode": 1213,
+      "constituency": "千葉13区",
+      "constituency_en": "Chiba 13",
+      "district_number": 13,
+      "prefecture_code": "12",
+      "prefecture": "千葉県",
+      "prefecture_en": "Chiba"
+    }
+  ],
+  "meta": {
+    "title": "千葉県衆議院小選挙区 (Chiba House of Representatives Electoral Districts) - 無料ダウンロード",
+    "description": "千葉県内の衆議院小選挙区 13 件。ja-shugiin-senkyoku（全国 289 件）から都道府県コード 12 のレコードのみを抽出。スキーマは同一。13 single-member electoral districts in Chiba Prefecture, filtered from the national list (289). Same schema. 収録数 13 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "千葉県衆議院小選挙区 (Chiba House of Representatives Electoral Districts) | ListBase",
+    "seo_description": "ダウンロード 千葉県衆議院小選挙区 (Chiba House of Representatives Electoral Districts) — 13 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 13 件 / 7 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/smartnews-smri/japan-topography"
+    ]
+  }
+}

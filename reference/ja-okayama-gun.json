@@ -1,0 +1,211 @@
+{
+  "id": "ja-okayama-gun",
+  "name": "岡山県の郡一覧 (Okayama Prefecture — counties)",
+  "title": "岡山県の郡一覧 (Okayama Prefecture — counties)",
+  "description": "岡山県に属する郡（ぐん）の一覧（10件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Okayama Prefecture.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_hira",
+      "label": "Name Hira",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_short_ja",
+      "label": "Name Short Ja",
+      "type": "string"
+    },
+    {
+      "key": "name_short_en",
+      "label": "Name Short En",
+      "type": "string"
+    },
+    {
+      "key": "pref_code",
+      "label": "Pref Code",
+      "type": "number"
+    },
+    {
+      "key": "pref_name",
+      "label": "Pref Name",
+      "type": "string"
+    },
+    {
+      "key": "pref_name_en",
+      "label": "Pref Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ja",
+      "label": "Type Ja",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "33340",
+      "name": "和気郡",
+      "name_hira": "わけぐん",
+      "name_en": "Wake County",
+      "name_short_ja": "和気",
+      "name_short_en": "Wake",
+      "pref_code": "33",
+      "pref_name": "岡山県",
+      "pref_name_en": "Okayama Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "33420",
+      "name": "都窪郡",
+      "name_hira": "つくぼぐん",
+      "name_en": "Tsukubo County",
+      "name_short_ja": "都窪",
+      "name_short_en": "Tsukubo",
+      "pref_code": "33",
+      "pref_name": "岡山県",
+      "pref_name_en": "Okayama Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "33440",
+      "name": "浅口郡",
+      "name_hira": "あさくちぐん",
+      "name_en": "Asakuchi County",
+      "name_short_ja": "浅口",
+      "name_short_en": "Asakuchi",
+      "pref_code": "33",
+      "pref_name": "岡山県",
+      "pref_name_en": "Okayama Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "33460",
+      "name": "小田郡",
+      "name_hira": "おだぐん",
+      "name_en": "Oda County",
+      "name_short_ja": "小田",
+      "name_short_en": "Oda",
+      "pref_code": "33",
+      "pref_name": "岡山県",
+      "pref_name_en": "Okayama Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "33580",
+      "name": "真庭郡",
+      "name_hira": "まにわぐん",
+      "name_en": "Maniwa County",
+      "name_short_ja": "真庭",
+      "name_short_en": "Maniwa",
+      "pref_code": "33",
+      "pref_name": "岡山県",
+      "pref_name_en": "Okayama Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "33600",
+      "name": "苫田郡",
+      "name_hira": "とまたぐん",
+      "name_en": "Tomata County",
+      "name_short_ja": "苫田",
+      "name_short_en": "Tomata",
+      "pref_code": "33",
+      "pref_name": "岡山県",
+      "pref_name_en": "Okayama Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "33620",
+      "name": "勝田郡",
+      "name_hira": "かつたぐん",
+      "name_en": "Katsuta County",
+      "name_short_ja": "勝田",
+      "name_short_en": "Katsuta",
+      "pref_code": "33",
+      "pref_name": "岡山県",
+      "pref_name_en": "Okayama Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "33640",
+      "name": "英田郡",
+      "name_hira": "あいだぐん",
+      "name_en": "Aida County",
+      "name_short_ja": "英田",
+      "name_short_en": "Aida",
+      "pref_code": "33",
+      "pref_name": "岡山県",
+      "pref_name_en": "Okayama Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "33660",
+      "name": "久米郡",
+      "name_hira": "くめぐん",
+      "name_en": "Kume County",
+      "name_short_ja": "久米",
+      "name_short_en": "Kume",
+      "pref_code": "33",
+      "pref_name": "岡山県",
+      "pref_name_en": "Okayama Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "33680",
+      "name": "加賀郡",
+      "name_hira": "かがぐん",
+      "name_en": "Kaga County",
+      "name_short_ja": "加賀",
+      "name_short_en": "Kaga",
+      "pref_code": "33",
+      "pref_name": "岡山県",
+      "pref_name_en": "Okayama Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    }
+  ],
+  "meta": {
+    "title": "岡山県の郡一覧 (Okayama Prefecture — counties) - 無料ダウンロード",
+    "description": "岡山県に属する郡（ぐん）の一覧（10件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Okayama Prefecture. 収録数 10 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "岡山県の郡一覧 (Okayama Prefecture — counties) | ListBase",
+    "seo_description": "ダウンロード 岡山県の郡一覧 (Okayama Prefecture — counties) — 10 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 10 件 / 11 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

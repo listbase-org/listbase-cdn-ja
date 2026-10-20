@@ -1,0 +1,528 @@
+{
+  "id": "ja-chiba-shichoson",
+  "name": "千葉県の市区町村一覧",
+  "title": "千葉県の市区町村一覧",
+  "description": "千葉県 (Chiba Prefecture) の全市区町村 59 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 59,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "12101",
+      "name": "中央区",
+      "full_name": "千葉市中央区",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "千葉市",
+      "subprefecture": ""
+    },
+    {
+      "code": "12102",
+      "name": "花見川区",
+      "full_name": "千葉市花見川区",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "千葉市",
+      "subprefecture": ""
+    },
+    {
+      "code": "12103",
+      "name": "稲毛区",
+      "full_name": "千葉市稲毛区",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "千葉市",
+      "subprefecture": ""
+    },
+    {
+      "code": "12104",
+      "name": "若葉区",
+      "full_name": "千葉市若葉区",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "千葉市",
+      "subprefecture": ""
+    },
+    {
+      "code": "12105",
+      "name": "緑区",
+      "full_name": "千葉市緑区",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "千葉市",
+      "subprefecture": ""
+    },
+    {
+      "code": "12106",
+      "name": "美浜区",
+      "full_name": "千葉市美浜区",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "千葉市",
+      "subprefecture": ""
+    },
+    {
+      "code": "12202",
+      "name": "銚子市",
+      "full_name": "銚子市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12203",
+      "name": "市川市",
+      "full_name": "市川市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12204",
+      "name": "船橋市",
+      "full_name": "船橋市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12205",
+      "name": "館山市",
+      "full_name": "館山市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12206",
+      "name": "木更津市",
+      "full_name": "木更津市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12207",
+      "name": "松戸市",
+      "full_name": "松戸市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12208",
+      "name": "野田市",
+      "full_name": "野田市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12210",
+      "name": "茂原市",
+      "full_name": "茂原市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12211",
+      "name": "成田市",
+      "full_name": "成田市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12212",
+      "name": "佐倉市",
+      "full_name": "佐倉市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12213",
+      "name": "東金市",
+      "full_name": "東金市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12215",
+      "name": "旭市",
+      "full_name": "旭市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12216",
+      "name": "習志野市",
+      "full_name": "習志野市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12217",
+      "name": "柏市",
+      "full_name": "柏市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12218",
+      "name": "勝浦市",
+      "full_name": "勝浦市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12219",
+      "name": "市原市",
+      "full_name": "市原市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12220",
+      "name": "流山市",
+      "full_name": "流山市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12221",
+      "name": "八千代市",
+      "full_name": "八千代市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12222",
+      "name": "我孫子市",
+      "full_name": "我孫子市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12223",
+      "name": "鴨川市",
+      "full_name": "鴨川市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12224",
+      "name": "鎌ケ谷市",
+      "full_name": "鎌ケ谷市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12225",
+      "name": "君津市",
+      "full_name": "君津市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12226",
+      "name": "富津市",
+      "full_name": "富津市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12227",
+      "name": "浦安市",
+      "full_name": "浦安市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12228",
+      "name": "四街道市",
+      "full_name": "四街道市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12229",
+      "name": "袖ケ浦市",
+      "full_name": "袖ケ浦市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12230",
+      "name": "八街市",
+      "full_name": "八街市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12231",
+      "name": "印西市",
+      "full_name": "印西市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12232",
+      "name": "白井市",
+      "full_name": "白井市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12233",
+      "name": "富里市",
+      "full_name": "富里市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12234",
+      "name": "南房総市",
+      "full_name": "南房総市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12235",
+      "name": "匝瑳市",
+      "full_name": "匝瑳市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12236",
+      "name": "香取市",
+      "full_name": "香取市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12237",
+      "name": "山武市",
+      "full_name": "山武市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12238",
+      "name": "いすみ市",
+      "full_name": "いすみ市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12239",
+      "name": "大網白里市",
+      "full_name": "大網白里市",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "12322",
+      "name": "酒々井町",
+      "full_name": "印旛郡酒々井町",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "印旛郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "12329",
+      "name": "栄町",
+      "full_name": "印旛郡栄町",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "印旛郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "12342",
+      "name": "神崎町",
+      "full_name": "香取郡神崎町",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "香取郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "12347",
+      "name": "多古町",
+      "full_name": "香取郡多古町",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "香取郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "12349",
+      "name": "東庄町",
+      "full_name": "香取郡東庄町",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "香取郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "12403",
+      "name": "九十九里町",
+      "full_name": "山武郡九十九里町",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "山武郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "12409",
+      "name": "芝山町",
+      "full_name": "山武郡芝山町",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "山武郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "12410",
+      "name": "横芝光町",
+      "full_name": "山武郡横芝光町",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "山武郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "12421",
+      "name": "一宮町",
+      "full_name": "長生郡一宮町",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "長生郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "12422",
+      "name": "睦沢町",
+      "full_name": "長生郡睦沢町",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "長生郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "12423",
+      "name": "長生村",
+      "full_name": "長生郡長生村",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "長生郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "12424",
+      "name": "白子町",
+      "full_name": "長生郡白子町",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "長生郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "12426",
+      "name": "長柄町",
+      "full_name": "長生郡長柄町",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "長生郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "12427",
+      "name": "長南町",
+      "full_name": "長生郡長南町",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "長生郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "12441",
+      "name": "大多喜町",
+      "full_name": "夷隅郡大多喜町",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "夷隅郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "12443",
+      "name": "御宿町",
+      "full_name": "夷隅郡御宿町",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "夷隅郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "12463",
+      "name": "鋸南町",
+      "full_name": "安房郡鋸南町",
+      "prefecture": "千葉県",
+      "county_or_designated_city": "安房郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "千葉県の市区町村一覧 - 無料ダウンロード",
+    "description": "千葉県 (Chiba Prefecture) の全市区町村 59 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 59 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "千葉県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 千葉県の市区町村一覧 — 59 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 59 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

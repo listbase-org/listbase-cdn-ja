@@ -1,0 +1,159 @@
+{
+  "id": "ja-kyoto-gun",
+  "name": "京都府の郡一覧 (Kyoto Prefecture — counties)",
+  "title": "京都府の郡一覧 (Kyoto Prefecture — counties)",
+  "description": "京都府に属する郡（ぐん）の一覧（6件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Kyoto Prefecture.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_hira",
+      "label": "Name Hira",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_short_ja",
+      "label": "Name Short Ja",
+      "type": "string"
+    },
+    {
+      "key": "name_short_en",
+      "label": "Name Short En",
+      "type": "string"
+    },
+    {
+      "key": "pref_code",
+      "label": "Pref Code",
+      "type": "number"
+    },
+    {
+      "key": "pref_name",
+      "label": "Pref Name",
+      "type": "string"
+    },
+    {
+      "key": "pref_name_en",
+      "label": "Pref Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_ja",
+      "label": "Type Ja",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "26300",
+      "name": "乙訓郡",
+      "name_hira": "おとくにぐん",
+      "name_en": "Otokuni County",
+      "name_short_ja": "乙訓",
+      "name_short_en": "Otokuni",
+      "pref_code": "26",
+      "pref_name": "京都府",
+      "pref_name_en": "Kyoto Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "26320",
+      "name": "久世郡",
+      "name_hira": "くせぐん",
+      "name_en": "Kuse County",
+      "name_short_ja": "久世",
+      "name_short_en": "Kuse",
+      "pref_code": "26",
+      "pref_name": "京都府",
+      "pref_name_en": "Kyoto Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "26340",
+      "name": "綴喜郡",
+      "name_hira": "つづきぐん",
+      "name_en": "Tsuzuki County",
+      "name_short_ja": "綴喜",
+      "name_short_en": "Tsuzuki",
+      "pref_code": "26",
+      "pref_name": "京都府",
+      "pref_name_en": "Kyoto Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "26360",
+      "name": "相楽郡",
+      "name_hira": "そうらくぐん",
+      "name_en": "Soraku County",
+      "name_short_ja": "相楽",
+      "name_short_en": "Soraku",
+      "pref_code": "26",
+      "pref_name": "京都府",
+      "pref_name_en": "Kyoto Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "26400",
+      "name": "船井郡",
+      "name_hira": "ふないぐん",
+      "name_en": "Funai County",
+      "name_short_ja": "船井",
+      "name_short_en": "Funai",
+      "pref_code": "26",
+      "pref_name": "京都府",
+      "pref_name_en": "Kyoto Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    },
+    {
+      "code": "26460",
+      "name": "与謝郡",
+      "name_hira": "よさぐん",
+      "name_en": "Yosa County",
+      "name_short_ja": "与謝",
+      "name_short_en": "Yosa",
+      "pref_code": "26",
+      "pref_name": "京都府",
+      "pref_name_en": "Kyoto Prefecture",
+      "type_ja": "郡",
+      "type_en": "County"
+    }
+  ],
+  "meta": {
+    "title": "京都府の郡一覧 (Kyoto Prefecture — counties) - 無料ダウンロード",
+    "description": "京都府に属する郡（ぐん）の一覧（6件）。漢字名・ひらがな読み・英語名を収録。出典 OtterSou/japan-municipalities。Counties (郡) of Kyoto Prefecture. 収録数 6 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "京都府の郡一覧 (Kyoto Prefecture — counties) | ListBase",
+    "seo_description": "ダウンロード 京都府の郡一覧 (Kyoto Prefecture — counties) — 6 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 6 件 / 11 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "id": "ja-kanagawa-municipalities",
+  "name": "神奈川県の市区町村一覧 (Municipalities of Kanagawa — JIS X 0402)",
+  "title": "神奈川県の市区町村一覧 (Municipalities of Kanagawa — JIS X 0402)",
+  "description": "神奈川県 (Kanagawa Prefecture) の市区町村一覧 58 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 58 active municipalities (cities/wards/towns/villages) of Kanagawa Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 58,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "14101",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "横浜市鶴見区",
+      "city_kana": "ヨコハマシツルミク"
+    },
+    {
+      "jisx0402": "14102",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "横浜市神奈川区",
+      "city_kana": "ヨコハマシカナガワク"
+    },
+    {
+      "jisx0402": "14103",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "横浜市西区",
+      "city_kana": "ヨコハマシニシク"
+    },
+    {
+      "jisx0402": "14104",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "横浜市中区",
+      "city_kana": "ヨコハマシナカク"
+    },
+    {
+      "jisx0402": "14105",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "横浜市南区",
+      "city_kana": "ヨコハマシミナミク"
+    },
+    {
+      "jisx0402": "14106",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "横浜市保土ケ谷区",
+      "city_kana": "ヨコハマシホドガヤク"
+    },
+    {
+      "jisx0402": "14107",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "横浜市磯子区",
+      "city_kana": "ヨコハマシイソゴク"
+    },
+    {
+      "jisx0402": "14108",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "横浜市金沢区",
+      "city_kana": "ヨコハマシカナザワク"
+    },
+    {
+      "jisx0402": "14109",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "横浜市港北区",
+      "city_kana": "ヨコハマシコウホクク"
+    },
+    {
+      "jisx0402": "14110",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "横浜市戸塚区",
+      "city_kana": "ヨコハマシトツカク"
+    },
+    {
+      "jisx0402": "14111",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "横浜市港南区",
+      "city_kana": "ヨコハマシコウナンク"
+    },
+    {
+      "jisx0402": "14112",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "横浜市旭区",
+      "city_kana": "ヨコハマシアサヒク"
+    },
+    {
+      "jisx0402": "14113",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "横浜市緑区",
+      "city_kana": "ヨコハマシミドリク"
+    },
+    {
+      "jisx0402": "14114",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "横浜市瀬谷区",
+      "city_kana": "ヨコハマシセヤク"
+    },
+    {
+      "jisx0402": "14115",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "横浜市栄区",
+      "city_kana": "ヨコハマシサカエク"
+    },
+    {
+      "jisx0402": "14116",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "横浜市泉区",
+      "city_kana": "ヨコハマシイズミク"
+    },
+    {
+      "jisx0402": "14117",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "横浜市青葉区",
+      "city_kana": "ヨコハマシアオバク"
+    },
+    {
+      "jisx0402": "14118",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "横浜市都筑区",
+      "city_kana": "ヨコハマシツヅキク"
+    },
+    {
+      "jisx0402": "14131",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "川崎市川崎区",
+      "city_kana": "カワサキシカワサキク"
+    },
+    {
+      "jisx0402": "14132",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "川崎市幸区",
+      "city_kana": "カワサキシサイワイク"
+    },
+    {
+      "jisx0402": "14133",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "川崎市中原区",
+      "city_kana": "カワサキシナカハラク"
+    },
+    {
+      "jisx0402": "14134",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "川崎市高津区",
+      "city_kana": "カワサキシタカツク"
+    },
+    {
+      "jisx0402": "14135",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "川崎市多摩区",
+      "city_kana": "カワサキシタマク"
+    },
+    {
+      "jisx0402": "14136",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "川崎市宮前区",
+      "city_kana": "カワサキシミヤマエク"
+    },
+    {
+      "jisx0402": "14137",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "川崎市麻生区",
+      "city_kana": "カワサキシアサオク"
+    },
+    {
+      "jisx0402": "14151",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "相模原市緑区",
+      "city_kana": "サガミハラシミドリク"
+    },
+    {
+      "jisx0402": "14152",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "相模原市中央区",
+      "city_kana": "サガミハラシチュウオウク"
+    },
+    {
+      "jisx0402": "14153",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "相模原市南区",
+      "city_kana": "サガミハラシミナミク"
+    },
+    {
+      "jisx0402": "14201",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "横須賀市",
+      "city_kana": "ヨコスカシ"
+    },
+    {
+      "jisx0402": "14203",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "平塚市",
+      "city_kana": "ヒラツカシ"
+    },
+    {
+      "jisx0402": "14204",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "鎌倉市",
+      "city_kana": "カマクラシ"
+    },
+    {
+      "jisx0402": "14205",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "藤沢市",
+      "city_kana": "フジサワシ"
+    },
+    {
+      "jisx0402": "14206",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "小田原市",
+      "city_kana": "オダワラシ"
+    },
+    {
+      "jisx0402": "14207",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "茅ヶ崎市",
+      "city_kana": "チガサキシ"
+    },
+    {
+      "jisx0402": "14208",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "逗子市",
+      "city_kana": "ズシシ"
+    },
+    {
+      "jisx0402": "14210",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "三浦市",
+      "city_kana": "ミウラシ"
+    },
+    {
+      "jisx0402": "14211",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "秦野市",
+      "city_kana": "ハダノシ"
+    },
+    {
+      "jisx0402": "14212",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "厚木市",
+      "city_kana": "アツギシ"
+    },
+    {
+      "jisx0402": "14213",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "大和市",
+      "city_kana": "ヤマトシ"
+    },
+    {
+      "jisx0402": "14214",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "伊勢原市",
+      "city_kana": "イセハラシ"
+    },
+    {
+      "jisx0402": "14215",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "海老名市",
+      "city_kana": "エビナシ"
+    },
+    {
+      "jisx0402": "14216",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "座間市",
+      "city_kana": "ザマシ"
+    },
+    {
+      "jisx0402": "14217",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "南足柄市",
+      "city_kana": "ミナミアシガラシ"
+    },
+    {
+      "jisx0402": "14218",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "綾瀬市",
+      "city_kana": "アヤセシ"
+    },
+    {
+      "jisx0402": "14301",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "三浦郡葉山町",
+      "city_kana": "ミウラグンハヤママチ"
+    },
+    {
+      "jisx0402": "14321",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "高座郡寒川町",
+      "city_kana": "コウザグンサムカワマチ"
+    },
+    {
+      "jisx0402": "14341",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "中郡大磯町",
+      "city_kana": "ナカグンオオイソマチ"
+    },
+    {
+      "jisx0402": "14342",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "中郡二宮町",
+      "city_kana": "ナカグンニノミヤマチ"
+    },
+    {
+      "jisx0402": "14361",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "足柄上郡中井町",
+      "city_kana": "アシガラカミグンナカイマチ"
+    },
+    {
+      "jisx0402": "14362",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "足柄上郡大井町",
+      "city_kana": "アシガラカミグンオオイマチ"
+    },
+    {
+      "jisx0402": "14363",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "足柄上郡松田町",
+      "city_kana": "アシガラカミグンマツダマチ"
+    },
+    {
+      "jisx0402": "14364",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "足柄上郡山北町",
+      "city_kana": "アシガラカミグンヤマキタマチ"
+    },
+    {
+      "jisx0402": "14366",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "足柄上郡開成町",
+      "city_kana": "アシガラカミグンカイセイマチ"
+    },
+    {
+      "jisx0402": "14382",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "足柄下郡箱根町",
+      "city_kana": "アシガラシモグンハコネマチ"
+    },
+    {
+      "jisx0402": "14383",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "足柄下郡真鶴町",
+      "city_kana": "アシガラシモグンマナヅルマチ"
+    },
+    {
+      "jisx0402": "14384",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "足柄下郡湯河原町",
+      "city_kana": "アシガラシモグンユガワラマチ"
+    },
+    {
+      "jisx0402": "14401",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "愛甲郡愛川町",
+      "city_kana": "アイコウグンアイカワマチ"
+    },
+    {
+      "jisx0402": "14402",
+      "prefecture_code": "14",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "city": "愛甲郡清川村",
+      "city_kana": "アイコウグンキヨカワムラ"
+    }
+  ],
+  "meta": {
+    "title": "神奈川県の市区町村一覧 (Municipalities of Kanagawa — JIS X 0402) - 無料ダウンロード",
+    "description": "神奈川県 (Kanagawa Prefecture) の市区町村一覧 58 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 58 active municipalities (cities/wards/towns/villages) of Kanagawa Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 58 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "神奈川県の市区町村一覧 (Municipalities of Kanagawa — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 神奈川県の市区町村一覧 (Municipalities of Kanagawa — JIS X 0402) — 58 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 58 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

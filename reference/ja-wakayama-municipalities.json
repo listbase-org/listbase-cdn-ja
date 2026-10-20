@@ -1,0 +1,296 @@
+{
+  "id": "ja-wakayama-municipalities",
+  "name": "和歌山県の市区町村一覧 (Municipalities of Wakayama — JIS X 0402)",
+  "title": "和歌山県の市区町村一覧 (Municipalities of Wakayama — JIS X 0402)",
+  "description": "和歌山県 (Wakayama Prefecture) の市区町村一覧 30 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 30 active municipalities (cities/wards/towns/villages) of Wakayama Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "30201",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "和歌山市",
+      "city_kana": "ワカヤマシ"
+    },
+    {
+      "jisx0402": "30202",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "海南市",
+      "city_kana": "カイナンシ"
+    },
+    {
+      "jisx0402": "30203",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "橋本市",
+      "city_kana": "ハシモトシ"
+    },
+    {
+      "jisx0402": "30204",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "有田市",
+      "city_kana": "アリダシ"
+    },
+    {
+      "jisx0402": "30205",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "御坊市",
+      "city_kana": "ゴボウシ"
+    },
+    {
+      "jisx0402": "30206",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "田辺市",
+      "city_kana": "タナベシ"
+    },
+    {
+      "jisx0402": "30207",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "新宮市",
+      "city_kana": "シングウシ"
+    },
+    {
+      "jisx0402": "30208",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "紀の川市",
+      "city_kana": "キノカワシ"
+    },
+    {
+      "jisx0402": "30209",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "岩出市",
+      "city_kana": "イワデシ"
+    },
+    {
+      "jisx0402": "30304",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "海草郡紀美野町",
+      "city_kana": "カイソウグンキミノチョウ"
+    },
+    {
+      "jisx0402": "30341",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "伊都郡かつらぎ町",
+      "city_kana": "イトグンカツラギチョウ"
+    },
+    {
+      "jisx0402": "30343",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "伊都郡九度山町",
+      "city_kana": "イトグンクドヤマチョウ"
+    },
+    {
+      "jisx0402": "30344",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "伊都郡高野町",
+      "city_kana": "イトグンコウヤチョウ"
+    },
+    {
+      "jisx0402": "30361",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "有田郡湯浅町",
+      "city_kana": "アリダグンユアサチョウ"
+    },
+    {
+      "jisx0402": "30362",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "有田郡広川町",
+      "city_kana": "アリダグンヒロガワチョウ"
+    },
+    {
+      "jisx0402": "30366",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "有田郡有田川町",
+      "city_kana": "アリダグンアリダガワチョウ"
+    },
+    {
+      "jisx0402": "30381",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "日高郡美浜町",
+      "city_kana": "ヒダカグンミハマチョウ"
+    },
+    {
+      "jisx0402": "30382",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "日高郡日高町",
+      "city_kana": "ヒダカグンヒダカチョウ"
+    },
+    {
+      "jisx0402": "30383",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "日高郡由良町",
+      "city_kana": "ヒダカグンユラチョウ"
+    },
+    {
+      "jisx0402": "30390",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "日高郡印南町",
+      "city_kana": "ヒダカグンイナミチョウ"
+    },
+    {
+      "jisx0402": "30391",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "日高郡みなべ町",
+      "city_kana": "ヒダカグンミナベチョウ"
+    },
+    {
+      "jisx0402": "30392",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "日高郡日高川町",
+      "city_kana": "ヒダカグンヒダカガワチョウ"
+    },
+    {
+      "jisx0402": "30401",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "西牟婁郡白浜町",
+      "city_kana": "ニシムログンシラハマチョウ"
+    },
+    {
+      "jisx0402": "30404",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "西牟婁郡上富田町",
+      "city_kana": "ニシムログンカミトンダチョウ"
+    },
+    {
+      "jisx0402": "30406",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "西牟婁郡すさみ町",
+      "city_kana": "ニシムログンスサミチョウ"
+    },
+    {
+      "jisx0402": "30421",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "東牟婁郡那智勝浦町",
+      "city_kana": "ヒガシムログンナチカツウラチョウ"
+    },
+    {
+      "jisx0402": "30422",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "東牟婁郡太地町",
+      "city_kana": "ヒガシムログンタイジチョウ"
+    },
+    {
+      "jisx0402": "30424",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "東牟婁郡古座川町",
+      "city_kana": "ヒガシムログンコザガワチョウ"
+    },
+    {
+      "jisx0402": "30427",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "東牟婁郡北山村",
+      "city_kana": "ヒガシムログンキタヤマムラ"
+    },
+    {
+      "jisx0402": "30428",
+      "prefecture_code": "30",
+      "prefecture": "和歌山県",
+      "prefecture_kana": "ワカヤマケン",
+      "city": "東牟婁郡串本町",
+      "city_kana": "ヒガシムログンクシモトチョウ"
+    }
+  ],
+  "meta": {
+    "title": "和歌山県の市区町村一覧 (Municipalities of Wakayama — JIS X 0402) - 無料ダウンロード",
+    "description": "和歌山県 (Wakayama Prefecture) の市区町村一覧 30 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 30 active municipalities (cities/wards/towns/villages) of Wakayama Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 30 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "和歌山県の市区町村一覧 (Municipalities of Wakayama — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 和歌山県の市区町村一覧 (Municipalities of Wakayama — JIS X 0402) — 30 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 30 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "id": "ja-gifu-municipalities",
+  "name": "岐阜県の市区町村一覧 (Municipalities of Gifu — JIS X 0402)",
+  "title": "岐阜県の市区町村一覧 (Municipalities of Gifu — JIS X 0402)",
+  "description": "岐阜県 (Gifu Prefecture) の市区町村一覧 42 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 42 active municipalities (cities/wards/towns/villages) of Gifu Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "21201",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "岐阜市",
+      "city_kana": "ギフシ"
+    },
+    {
+      "jisx0402": "21202",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "大垣市",
+      "city_kana": "オオガキシ"
+    },
+    {
+      "jisx0402": "21203",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "高山市",
+      "city_kana": "タカヤマシ"
+    },
+    {
+      "jisx0402": "21204",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "多治見市",
+      "city_kana": "タジミシ"
+    },
+    {
+      "jisx0402": "21205",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "関市",
+      "city_kana": "セキシ"
+    },
+    {
+      "jisx0402": "21206",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "中津川市",
+      "city_kana": "ナカツガワシ"
+    },
+    {
+      "jisx0402": "21207",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "美濃市",
+      "city_kana": "ミノシ"
+    },
+    {
+      "jisx0402": "21208",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "瑞浪市",
+      "city_kana": "ミズナミシ"
+    },
+    {
+      "jisx0402": "21209",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "羽島市",
+      "city_kana": "ハシマシ"
+    },
+    {
+      "jisx0402": "21210",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "恵那市",
+      "city_kana": "エナシ"
+    },
+    {
+      "jisx0402": "21211",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "美濃加茂市",
+      "city_kana": "ミノカモシ"
+    },
+    {
+      "jisx0402": "21212",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "土岐市",
+      "city_kana": "トキシ"
+    },
+    {
+      "jisx0402": "21213",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "各務原市",
+      "city_kana": "カカミガハラシ"
+    },
+    {
+      "jisx0402": "21214",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "可児市",
+      "city_kana": "カニシ"
+    },
+    {
+      "jisx0402": "21215",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "山県市",
+      "city_kana": "ヤマガタシ"
+    },
+    {
+      "jisx0402": "21216",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "瑞穂市",
+      "city_kana": "ミズホシ"
+    },
+    {
+      "jisx0402": "21217",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "飛騨市",
+      "city_kana": "ヒダシ"
+    },
+    {
+      "jisx0402": "21218",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "本巣市",
+      "city_kana": "モトスシ"
+    },
+    {
+      "jisx0402": "21219",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "郡上市",
+      "city_kana": "グジョウシ"
+    },
+    {
+      "jisx0402": "21220",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "下呂市",
+      "city_kana": "ゲロシ"
+    },
+    {
+      "jisx0402": "21221",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "海津市",
+      "city_kana": "カイヅシ"
+    },
+    {
+      "jisx0402": "21302",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "羽島郡岐南町",
+      "city_kana": "ハシマグンギナンチョウ"
+    },
+    {
+      "jisx0402": "21303",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "羽島郡笠松町",
+      "city_kana": "ハシマグンカサマツチョウ"
+    },
+    {
+      "jisx0402": "21341",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "養老郡養老町",
+      "city_kana": "ヨウロウグンヨウロウチョウ"
+    },
+    {
+      "jisx0402": "21361",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "不破郡垂井町",
+      "city_kana": "フワグンタルイチョウ"
+    },
+    {
+      "jisx0402": "21362",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "不破郡関ケ原町",
+      "city_kana": "フワグンセキガハラチョウ"
+    },
+    {
+      "jisx0402": "21381",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "安八郡神戸町",
+      "city_kana": "アンパチグンゴウドチョウ"
+    },
+    {
+      "jisx0402": "21382",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "安八郡輪之内町",
+      "city_kana": "アンパチグンワノウチチョウ"
+    },
+    {
+      "jisx0402": "21383",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "安八郡安八町",
+      "city_kana": "アンパチグンアンパチチョウ"
+    },
+    {
+      "jisx0402": "21401",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "揖斐郡揖斐川町",
+      "city_kana": "イビグンイビガワチョウ"
+    },
+    {
+      "jisx0402": "21403",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "揖斐郡大野町",
+      "city_kana": "イビグンオオノチョウ"
+    },
+    {
+      "jisx0402": "21404",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "揖斐郡池田町",
+      "city_kana": "イビグンイケダチョウ"
+    },
+    {
+      "jisx0402": "21421",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "本巣郡北方町",
+      "city_kana": "モトスグンキタガタチョウ"
+    },
+    {
+      "jisx0402": "21501",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "加茂郡坂祝町",
+      "city_kana": "カモグンサカホギチョウ"
+    },
+    {
+      "jisx0402": "21502",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "加茂郡富加町",
+      "city_kana": "カモグントミカチョウ"
+    },
+    {
+      "jisx0402": "21503",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "加茂郡川辺町",
+      "city_kana": "カモグンカワベチョウ"
+    },
+    {
+      "jisx0402": "21504",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "加茂郡七宗町",
+      "city_kana": "カモグンヒチソウチョウ"
+    },
+    {
+      "jisx0402": "21505",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "加茂郡八百津町",
+      "city_kana": "カモグンヤオツチョウ"
+    },
+    {
+      "jisx0402": "21506",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "加茂郡白川町",
+      "city_kana": "カモグンシラカワチョウ"
+    },
+    {
+      "jisx0402": "21507",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "加茂郡東白川村",
+      "city_kana": "カモグンヒガシシラカワムラ"
+    },
+    {
+      "jisx0402": "21521",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "可児郡御嵩町",
+      "city_kana": "カニグンミタケチョウ"
+    },
+    {
+      "jisx0402": "21604",
+      "prefecture_code": "21",
+      "prefecture": "岐阜県",
+      "prefecture_kana": "ギフケン",
+      "city": "大野郡白川村",
+      "city_kana": "オオノグンシラカワムラ"
+    }
+  ],
+  "meta": {
+    "title": "岐阜県の市区町村一覧 (Municipalities of Gifu — JIS X 0402) - 無料ダウンロード",
+    "description": "岐阜県 (Gifu Prefecture) の市区町村一覧 42 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 42 active municipalities (cities/wards/towns/villages) of Gifu Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 42 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "岐阜県の市区町村一覧 (Municipalities of Gifu — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 岐阜県の市区町村一覧 (Municipalities of Gifu — JIS X 0402) — 42 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 42 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

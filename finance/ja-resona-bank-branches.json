@@ -1,0 +1,3256 @@
+{
+  "id": "ja-resona-bank-branches",
+  "name": "りそな銀行支店コード一覧 (Branch codes of Resona Bank)",
+  "title": "りそな銀行支店コード一覧 (Branch codes of Resona Bank)",
+  "description": "りそな銀行の全支店コード一覧（コード 0010）。各支店の 3 桁支店番号（branch code）+ 支店名（漢字 / カタカナ / ひらがな / ローマ字）。 Full list of branch codes for りそな銀行 (zengin code 0010).",
+  "category": "finance",
+  "source": "https://github.com/zengin-code/source-data",
+  "source_url": "https://github.com/zengin-code/source-data",
+  "updated": "2026-04",
+  "record_count": 319,
+  "columns": [
+    {
+      "key": "bank_code",
+      "label": "Bank Code",
+      "type": "number"
+    },
+    {
+      "key": "bank_name",
+      "label": "Bank Name",
+      "type": "string"
+    },
+    {
+      "key": "bank_slug",
+      "label": "Bank Slug",
+      "type": "string"
+    },
+    {
+      "key": "branch_code",
+      "label": "Branch Code",
+      "type": "number"
+    },
+    {
+      "key": "branch_name",
+      "label": "Branch Name",
+      "type": "string"
+    },
+    {
+      "key": "branch_kana",
+      "label": "Branch Kana",
+      "type": "string"
+    },
+    {
+      "key": "branch_hira",
+      "label": "Branch Hira",
+      "type": "string"
+    },
+    {
+      "key": "branch_roma",
+      "label": "Branch Roma",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "005",
+      "branch_name": "天理",
+      "branch_kana": "テンリ",
+      "branch_hira": "てんり",
+      "branch_roma": "tenri"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "008",
+      "branch_name": "吉野",
+      "branch_kana": "ヨシノ",
+      "branch_hira": "よしの",
+      "branch_roma": "yoshino"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "010",
+      "branch_name": "東生駒",
+      "branch_kana": "ヒガシイコマ",
+      "branch_hira": "ひがしいこま",
+      "branch_roma": "higashiikoma"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "013",
+      "branch_name": "小泉",
+      "branch_kana": "コイズミ",
+      "branch_hira": "こいずみ",
+      "branch_roma": "koizumi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "015",
+      "branch_name": "学園大和町",
+      "branch_kana": "ガクエンダイワチヨウ",
+      "branch_hira": "がくえんだいわちよう",
+      "branch_roma": "gakuendaiwachiyou"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "045",
+      "branch_name": "年金管理サービス",
+      "branch_kana": "ネンキンカンリサ－ビス",
+      "branch_hira": "ねんきんかんりさ－びす",
+      "branch_roma": "nenkinkanrisa-bisu"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "050",
+      "branch_name": "新奈良営業部",
+      "branch_kana": "シンナラ",
+      "branch_hira": "しんなら",
+      "branch_roma": "shinnara"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "051",
+      "branch_name": "大阪営業部",
+      "branch_kana": "オオサカ",
+      "branch_hira": "おおさか",
+      "branch_roma": "oosaka"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "053",
+      "branch_name": "大阪公務部",
+      "branch_kana": "オオサカコウムブ",
+      "branch_hira": "おおさかこうむぶ",
+      "branch_roma": "oosakakoumubu"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "054",
+      "branch_name": "大阪不動産部",
+      "branch_kana": "オオサカフドウサンブ",
+      "branch_hira": "おおさかふどうさんぶ",
+      "branch_roma": "oosakafudousambu"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "055",
+      "branch_name": "ＪＲ西日本出張所",
+      "branch_kana": "ジエ－ア－ルニシニホン",
+      "branch_hira": "じえ－あ－るにしにほん",
+      "branch_roma": "jie-a-runishinihon"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "100",
+      "branch_name": "証券信託業務",
+      "branch_kana": "シヨウケンシンタクギヨウム",
+      "branch_hira": "しようけんしんたくぎようむ",
+      "branch_roma": "shiyoukenshintakugiyoumu"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "101",
+      "branch_name": "船場",
+      "branch_kana": "センバ",
+      "branch_hira": "せんば",
+      "branch_roma": "semba"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "103",
+      "branch_name": "北浜",
+      "branch_kana": "キタハマ",
+      "branch_hira": "きたはま",
+      "branch_roma": "kitahama"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "104",
+      "branch_name": "堂島",
+      "branch_kana": "ドウジマ",
+      "branch_hira": "どうじま",
+      "branch_roma": "doujima"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "106",
+      "branch_name": "鶴橋",
+      "branch_kana": "ツルハシ",
+      "branch_hira": "つるはし",
+      "branch_roma": "tsuruhashi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "107",
+      "branch_name": "阿倍野橋",
+      "branch_kana": "アベノバシ",
+      "branch_hira": "あべのばし",
+      "branch_roma": "abenobashi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "108",
+      "branch_name": "大阪西区",
+      "branch_kana": "オオサカニシク",
+      "branch_hira": "おおさかにしく",
+      "branch_roma": "oosakanishiku"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "109",
+      "branch_name": "京阪京橋",
+      "branch_kana": "ケイハンキヨウバシ",
+      "branch_hira": "けいはんきようばし",
+      "branch_roma": "keihankiyoubashi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "111",
+      "branch_name": "梅田",
+      "branch_kana": "ウメダ",
+      "branch_hira": "うめだ",
+      "branch_roma": "umeda"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "112",
+      "branch_name": "天六",
+      "branch_kana": "テンロク",
+      "branch_hira": "てんろく",
+      "branch_roma": "tenroku"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "113",
+      "branch_name": "上六",
+      "branch_kana": "ウエロク",
+      "branch_hira": "うえろく",
+      "branch_roma": "ueroku"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "114",
+      "branch_name": "御堂筋",
+      "branch_kana": "ミドウスジ",
+      "branch_hira": "みどうすじ",
+      "branch_roma": "midousuji"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "115",
+      "branch_name": "歌島橋",
+      "branch_kana": "ウタジマバシ",
+      "branch_hira": "うたじまばし",
+      "branch_roma": "utajimabashi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "116",
+      "branch_name": "萩ノ茶屋",
+      "branch_kana": "ハギノチヤヤ",
+      "branch_hira": "はぎのちやや",
+      "branch_roma": "haginochiyaya"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "117",
+      "branch_name": "大正",
+      "branch_kana": "タイシヨウ",
+      "branch_hira": "たいしよう",
+      "branch_roma": "taishiyou"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "118",
+      "branch_name": "野田",
+      "branch_kana": "ノダ",
+      "branch_hira": "のだ",
+      "branch_roma": "noda"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "119",
+      "branch_name": "野江",
+      "branch_kana": "ノエ",
+      "branch_hira": "のえ",
+      "branch_roma": "noe"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "120",
+      "branch_name": "布施口",
+      "branch_kana": "フセグチ",
+      "branch_hira": "ふせぐち",
+      "branch_roma": "fuseguchi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "121",
+      "branch_name": "大手",
+      "branch_kana": "オオテ",
+      "branch_hira": "おおて",
+      "branch_roma": "oote"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "122",
+      "branch_name": "生野",
+      "branch_kana": "イクノ",
+      "branch_hira": "いくの",
+      "branch_roma": "ikuno"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "123",
+      "branch_name": "三国",
+      "branch_kana": "ミクニ",
+      "branch_hira": "みくに",
+      "branch_roma": "mikuni"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "124",
+      "branch_name": "桜川",
+      "branch_kana": "サクラガワ",
+      "branch_hira": "さくらがわ",
+      "branch_roma": "sakuragawa"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "125",
+      "branch_name": "難波",
+      "branch_kana": "ナンバ",
+      "branch_hira": "なんば",
+      "branch_roma": "namba"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "128",
+      "branch_name": "都島",
+      "branch_kana": "ミヤコジマ",
+      "branch_hira": "みやこじま",
+      "branch_roma": "miyakojima"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "130",
+      "branch_name": "南森町",
+      "branch_kana": "ミナミモリマチ",
+      "branch_hira": "みなみもりまち",
+      "branch_roma": "minamimorimachi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "131",
+      "branch_name": "我孫子",
+      "branch_kana": "アビコ",
+      "branch_hira": "あびこ",
+      "branch_roma": "abiko"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "132",
+      "branch_name": "城東",
+      "branch_kana": "ジヨウトウ",
+      "branch_hira": "じようとう",
+      "branch_roma": "jiyoutou"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "133",
+      "branch_name": "新大阪駅前",
+      "branch_kana": "シンオオサカエキマエ",
+      "branch_hira": "しんおおさかえきまえ",
+      "branch_roma": "shinoosakaekimae"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "134",
+      "branch_name": "市岡",
+      "branch_kana": "イチオカ",
+      "branch_hira": "いちおか",
+      "branch_roma": "ichioka"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "137",
+      "branch_name": "平野",
+      "branch_kana": "ヒラノ",
+      "branch_hira": "ひらの",
+      "branch_roma": "hirano"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "139",
+      "branch_name": "平林",
+      "branch_kana": "ヒラバヤシ",
+      "branch_hira": "ひらばやし",
+      "branch_roma": "hirabayashi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "140",
+      "branch_name": "長吉",
+      "branch_kana": "ナガヨシ",
+      "branch_hira": "ながよし",
+      "branch_roma": "nagayoshi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "142",
+      "branch_name": "上新庄",
+      "branch_kana": "カミシンジヨウ",
+      "branch_hira": "かみしんじよう",
+      "branch_roma": "kamishinjiyou"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "151",
+      "branch_name": "あきる野",
+      "branch_kana": "アキルノ",
+      "branch_hira": "あきるの",
+      "branch_roma": "akiruno"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "153",
+      "branch_name": "荻窪",
+      "branch_kana": "オギクボ",
+      "branch_hira": "おぎくぼ",
+      "branch_roma": "ogikubo"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "157",
+      "branch_name": "セブンデイズ",
+      "branch_kana": "セブンデイズ",
+      "branch_hira": "せぶんでいず",
+      "branch_roma": "sebundeizu"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "172",
+      "branch_name": "金町",
+      "branch_kana": "カナマチ",
+      "branch_hira": "かなまち",
+      "branch_roma": "kanamachi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "187",
+      "branch_name": "海老名",
+      "branch_kana": "エビナ",
+      "branch_hira": "えびな",
+      "branch_roma": "ebina"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "201",
+      "branch_name": "吹田",
+      "branch_kana": "スイタ",
+      "branch_hira": "すいた",
+      "branch_roma": "suita"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "202",
+      "branch_name": "住道",
+      "branch_kana": "スミノドウ",
+      "branch_hira": "すみのどう",
+      "branch_roma": "suminodou"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "203",
+      "branch_name": "枚方",
+      "branch_kana": "ヒラカタ",
+      "branch_hira": "ひらかた",
+      "branch_roma": "hirakata"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "204",
+      "branch_name": "富田林",
+      "branch_kana": "トンダバヤシ",
+      "branch_hira": "とんだばやし",
+      "branch_roma": "tondabayashi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "205",
+      "branch_name": "柏原",
+      "branch_kana": "カシワラ",
+      "branch_hira": "かしわら",
+      "branch_roma": "kashiwara"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "206",
+      "branch_name": "羽曳野",
+      "branch_kana": "ハビキノ",
+      "branch_hira": "はびきの",
+      "branch_roma": "habikino"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "207",
+      "branch_name": "茨木",
+      "branch_kana": "イバラキ",
+      "branch_hira": "いばらき",
+      "branch_roma": "ibaraki"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "208",
+      "branch_name": "高槻",
+      "branch_kana": "タカツキ",
+      "branch_hira": "たかつき",
+      "branch_roma": "takatsuki"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "209",
+      "branch_name": "八尾",
+      "branch_kana": "ヤオ",
+      "branch_hira": "やお",
+      "branch_roma": "yao"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "210",
+      "branch_name": "泉大津",
+      "branch_kana": "イズミオオツ",
+      "branch_hira": "いずみおおつ",
+      "branch_roma": "izumiootsu"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "211",
+      "branch_name": "守口",
+      "branch_kana": "モリグチ",
+      "branch_hira": "もりぐち",
+      "branch_roma": "moriguchi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "212",
+      "branch_name": "佐野",
+      "branch_kana": "サノ",
+      "branch_hira": "さの",
+      "branch_roma": "sano"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "213",
+      "branch_name": "堺東",
+      "branch_kana": "サカイヒガシ",
+      "branch_hira": "さかいひがし",
+      "branch_roma": "sakaihigashi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "214",
+      "branch_name": "堺",
+      "branch_kana": "サカイ",
+      "branch_hira": "さかい",
+      "branch_roma": "sakai"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "215",
+      "branch_name": "貝塚",
+      "branch_kana": "カイヅカ",
+      "branch_hira": "かいづか",
+      "branch_roma": "kaiduka"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "216",
+      "branch_name": "寝屋川",
+      "branch_kana": "ネヤガワ",
+      "branch_hira": "ねやがわ",
+      "branch_roma": "neyagawa"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "217",
+      "branch_name": "豊中",
+      "branch_kana": "トヨナカ",
+      "branch_hira": "とよなか",
+      "branch_roma": "toyonaka"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "218",
+      "branch_name": "千里",
+      "branch_kana": "センリ",
+      "branch_hira": "せんり",
+      "branch_roma": "senri"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "219",
+      "branch_name": "香里",
+      "branch_kana": "コウリ",
+      "branch_hira": "こうり",
+      "branch_roma": "kouri"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "220",
+      "branch_name": "箕面",
+      "branch_kana": "ミノオ",
+      "branch_hira": "みのお",
+      "branch_roma": "minoo"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "221",
+      "branch_name": "金岡",
+      "branch_kana": "カナオカ",
+      "branch_hira": "かなおか",
+      "branch_roma": "kanaoka"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "222",
+      "branch_name": "千里北",
+      "branch_kana": "センリキタ",
+      "branch_hira": "せんりきた",
+      "branch_roma": "senrikita"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "223",
+      "branch_name": "東大阪",
+      "branch_kana": "ヒガシオオサカ",
+      "branch_hira": "ひがしおおさか",
+      "branch_roma": "higashioosaka"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "224",
+      "branch_name": "金剛",
+      "branch_kana": "コンゴウ",
+      "branch_hira": "こんごう",
+      "branch_roma": "kongou"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "225",
+      "branch_name": "千里中央",
+      "branch_kana": "センリチユウオウ",
+      "branch_hira": "せんりちゆうおう",
+      "branch_roma": "senrichiyuuou"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "226",
+      "branch_name": "茨木西",
+      "branch_kana": "イバラキニシ",
+      "branch_hira": "いばらきにし",
+      "branch_roma": "ibarakinishi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "227",
+      "branch_name": "泉北",
+      "branch_kana": "センボク",
+      "branch_hira": "せんぼく",
+      "branch_roma": "semboku"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "228",
+      "branch_name": "泉北とが",
+      "branch_kana": "センボクトガ",
+      "branch_hira": "せんぼくとが",
+      "branch_roma": "sembokutoga"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "229",
+      "branch_name": "久米田",
+      "branch_kana": "クメダ",
+      "branch_hira": "くめだ",
+      "branch_roma": "kumeda"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "230",
+      "branch_name": "光明池",
+      "branch_kana": "コウミヨウイケ",
+      "branch_hira": "こうみよういけ",
+      "branch_roma": "koumiyouike"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "232",
+      "branch_name": "江坂",
+      "branch_kana": "エサカ",
+      "branch_hira": "えさか",
+      "branch_roma": "esaka"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "234",
+      "branch_name": "鶴間",
+      "branch_kana": "ツルマ",
+      "branch_hira": "つるま",
+      "branch_roma": "tsuruma"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "235",
+      "branch_name": "新金岡",
+      "branch_kana": "シンカナオカ",
+      "branch_hira": "しんかなおか",
+      "branch_roma": "shinkanaoka"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "238",
+      "branch_name": "深井",
+      "branch_kana": "フカイ",
+      "branch_hira": "ふかい",
+      "branch_roma": "fukai"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "239",
+      "branch_name": "みいが丘出張所",
+      "branch_kana": "ミイガオカ",
+      "branch_hira": "みいがおか",
+      "branch_roma": "miigaoka"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "240",
+      "branch_name": "千里丘",
+      "branch_kana": "センリオカ",
+      "branch_hira": "せんりおか",
+      "branch_roma": "senrioka"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "241",
+      "branch_name": "交野出張所",
+      "branch_kana": "カタノ",
+      "branch_hira": "かたの",
+      "branch_roma": "katano"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "243",
+      "branch_name": "島本",
+      "branch_kana": "シマモト",
+      "branch_hira": "しまもと",
+      "branch_roma": "shimamoto"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "247",
+      "branch_name": "初芝",
+      "branch_kana": "ハツシバ",
+      "branch_hira": "はつしば",
+      "branch_roma": "hatsushiba"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "250",
+      "branch_name": "くずは",
+      "branch_kana": "クズハ",
+      "branch_hira": "くずは",
+      "branch_roma": "kuzuha"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "252",
+      "branch_name": "四條畷",
+      "branch_kana": "シジヨウナワテ",
+      "branch_hira": "しじようなわて",
+      "branch_roma": "shijiyounawate"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "253",
+      "branch_name": "河内松原",
+      "branch_kana": "カワチマツバラ",
+      "branch_hira": "かわちまつばら",
+      "branch_roma": "kawachimatsubara"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "254",
+      "branch_name": "小阪",
+      "branch_kana": "コサカ",
+      "branch_hira": "こさか",
+      "branch_roma": "kosaka"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "257",
+      "branch_name": "瓢箪山",
+      "branch_kana": "ヒヨウタンヤマ",
+      "branch_hira": "ひようたんやま",
+      "branch_roma": "hiyoutanyama"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "258",
+      "branch_name": "熊取",
+      "branch_kana": "クマトリ",
+      "branch_hira": "くまとり",
+      "branch_roma": "kumatori"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "260",
+      "branch_name": "天美出張所",
+      "branch_kana": "アマミ",
+      "branch_hira": "あまみ",
+      "branch_roma": "amami"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "265",
+      "branch_name": "芝",
+      "branch_kana": "シバ",
+      "branch_hira": "しば",
+      "branch_roma": "shiba"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "268",
+      "branch_name": "新橋",
+      "branch_kana": "シンバシ",
+      "branch_hira": "しんばし",
+      "branch_roma": "shimbashi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "269",
+      "branch_name": "赤坂",
+      "branch_kana": "アカサカ",
+      "branch_hira": "あかさか",
+      "branch_roma": "akasaka"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "274",
+      "branch_name": "九段",
+      "branch_kana": "クダン",
+      "branch_hira": "くだん",
+      "branch_roma": "kudan"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "275",
+      "branch_name": "秋葉原",
+      "branch_kana": "アキハバラ",
+      "branch_hira": "あきはばら",
+      "branch_roma": "akihabara"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "276",
+      "branch_name": "神田",
+      "branch_kana": "カンダ",
+      "branch_hira": "かんだ",
+      "branch_roma": "kanda"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "280",
+      "branch_name": "本所",
+      "branch_kana": "ホンジヨ",
+      "branch_hira": "ほんじよ",
+      "branch_roma": "honjiyo"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "285",
+      "branch_name": "田町",
+      "branch_kana": "タマチ",
+      "branch_hira": "たまち",
+      "branch_roma": "tamachi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "294",
+      "branch_name": "亀戸",
+      "branch_kana": "カメイド",
+      "branch_hira": "かめいど",
+      "branch_roma": "kameido"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "295",
+      "branch_name": "東京公務部",
+      "branch_kana": "トウキヨウコウムブ",
+      "branch_hira": "とうきようこうむぶ",
+      "branch_roma": "toukiyoukoumubu"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "299",
+      "branch_name": "新宿",
+      "branch_kana": "シンジユク",
+      "branch_hira": "しんじゆく",
+      "branch_roma": "shinjiyuku"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "300",
+      "branch_name": "東京営業部",
+      "branch_kana": "トウキヨウ",
+      "branch_hira": "とうきよう",
+      "branch_roma": "toukiyou"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "302",
+      "branch_name": "日本橋",
+      "branch_kana": "ニホンバシ",
+      "branch_hira": "にほんばし",
+      "branch_roma": "nihombashi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "304",
+      "branch_name": "神楽坂",
+      "branch_kana": "カグラザカ",
+      "branch_hira": "かぐらざか",
+      "branch_roma": "kagurazaka"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "306",
+      "branch_name": "品川",
+      "branch_kana": "シナガワ",
+      "branch_hira": "しながわ",
+      "branch_roma": "shinagawa"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "310",
+      "branch_name": "札幌",
+      "branch_kana": "サツポロ",
+      "branch_hira": "さつぽろ",
+      "branch_roma": "satsuporo"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "311",
+      "branch_name": "世田谷",
+      "branch_kana": "セタガヤ",
+      "branch_hira": "せたがや",
+      "branch_roma": "setagaya"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "313",
+      "branch_name": "大塚出張所",
+      "branch_kana": "オオツカ",
+      "branch_hira": "おおつか",
+      "branch_roma": "ootsuka"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "314",
+      "branch_name": "目白出張所",
+      "branch_kana": "メジロ",
+      "branch_hira": "めじろ",
+      "branch_roma": "mejiro"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "315",
+      "branch_name": "錦糸町",
+      "branch_kana": "キンシチヨウ",
+      "branch_hira": "きんしちよう",
+      "branch_roma": "kinshichiyou"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "317",
+      "branch_name": "宇都宮",
+      "branch_kana": "ウツノミヤ",
+      "branch_hira": "うつのみや",
+      "branch_roma": "utsunomiya"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "320",
+      "branch_name": "虎ノ門",
+      "branch_kana": "トラノモン",
+      "branch_hira": "とらのもん",
+      "branch_roma": "toranomon"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "328",
+      "branch_name": "衆議院",
+      "branch_kana": "シユウギイン",
+      "branch_hira": "しゆうぎいん",
+      "branch_roma": "shiyuugiin"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "329",
+      "branch_name": "参議院",
+      "branch_kana": "サンギイン",
+      "branch_hira": "さんぎいん",
+      "branch_roma": "sangiin"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "330",
+      "branch_name": "井荻",
+      "branch_kana": "イオギ",
+      "branch_hira": "いおぎ",
+      "branch_roma": "iogi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "338",
+      "branch_name": "江戸川南",
+      "branch_kana": "エドガワミナミ",
+      "branch_hira": "えどがわみなみ",
+      "branch_roma": "edogawaminami"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "339",
+      "branch_name": "新井薬師出張所",
+      "branch_kana": "アライヤクシ",
+      "branch_hira": "あらいやくし",
+      "branch_roma": "araiyakushi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "340",
+      "branch_name": "国立",
+      "branch_kana": "クニタチ",
+      "branch_hira": "くにたち",
+      "branch_roma": "kunitachi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "346",
+      "branch_name": "小岩",
+      "branch_kana": "コイワ",
+      "branch_hira": "こいわ",
+      "branch_roma": "koiwa"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "347",
+      "branch_name": "花小金井",
+      "branch_kana": "ハナコガネイ",
+      "branch_hira": "はなこがねい",
+      "branch_roma": "hanakoganei"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "348",
+      "branch_name": "西葛西",
+      "branch_kana": "ニシカサイ",
+      "branch_hira": "にしかさい",
+      "branch_roma": "nishikasai"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "354",
+      "branch_name": "東陽町出張所",
+      "branch_kana": "トウヨウチヨウ",
+      "branch_hira": "とうようちよう",
+      "branch_roma": "touyouchiyou"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "373",
+      "branch_name": "戸塚",
+      "branch_kana": "トツカ",
+      "branch_hira": "とつか",
+      "branch_roma": "totsuka"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "375",
+      "branch_name": "厚木",
+      "branch_kana": "アツギ",
+      "branch_hira": "あつぎ",
+      "branch_roma": "atsugi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "382",
+      "branch_name": "柏",
+      "branch_kana": "カシワ",
+      "branch_hira": "かしわ",
+      "branch_roma": "kashiwa"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "383",
+      "branch_name": "成田",
+      "branch_kana": "ナリタ",
+      "branch_hira": "なりた",
+      "branch_roma": "narita"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "384",
+      "branch_name": "船橋",
+      "branch_kana": "フナバシ",
+      "branch_hira": "ふなばし",
+      "branch_roma": "funabashi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "386",
+      "branch_name": "行徳",
+      "branch_kana": "ギヨウトク",
+      "branch_hira": "ぎようとく",
+      "branch_roma": "giyoutoku"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "393",
+      "branch_name": "朝霞台",
+      "branch_kana": "アサカダイ",
+      "branch_hira": "あさかだい",
+      "branch_roma": "asakadai"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "402",
+      "branch_name": "前橋",
+      "branch_kana": "マエバシ",
+      "branch_hira": "まえばし",
+      "branch_roma": "maebashi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "409",
+      "branch_name": "中野",
+      "branch_kana": "ナカノ",
+      "branch_hira": "なかの",
+      "branch_roma": "nakano"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "414",
+      "branch_name": "梅田北口",
+      "branch_kana": "ウメダキタグチ",
+      "branch_hira": "うめだきたぐち",
+      "branch_roma": "umedakitaguchi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "415",
+      "branch_name": "高円寺",
+      "branch_kana": "コウエンジ",
+      "branch_hira": "こうえんじ",
+      "branch_roma": "kouenji"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "416",
+      "branch_name": "吉祥寺",
+      "branch_kana": "キチジヨウジ",
+      "branch_hira": "きちじようじ",
+      "branch_roma": "kichijiyouji"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "417",
+      "branch_name": "立川",
+      "branch_kana": "タチカワ",
+      "branch_hira": "たちかわ",
+      "branch_roma": "tachikawa"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "419",
+      "branch_name": "玉造",
+      "branch_kana": "タマツクリ",
+      "branch_hira": "たまつくり",
+      "branch_roma": "tamatsukuri"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "420",
+      "branch_name": "早稲田",
+      "branch_kana": "ワセダ",
+      "branch_hira": "わせだ",
+      "branch_roma": "waseda"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "422",
+      "branch_name": "長瀬",
+      "branch_kana": "ナガセ",
+      "branch_hira": "ながせ",
+      "branch_roma": "nagase"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "427",
+      "branch_name": "八王子",
+      "branch_kana": "ハチオウジ",
+      "branch_hira": "はちおうじ",
+      "branch_roma": "hachiouji"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "429",
+      "branch_name": "福島",
+      "branch_kana": "フクシマ",
+      "branch_hira": "ふくしま",
+      "branch_roma": "fukushima"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "432",
+      "branch_name": "上野",
+      "branch_kana": "ウエノ",
+      "branch_hira": "うえの",
+      "branch_roma": "ueno"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "433",
+      "branch_name": "仙台",
+      "branch_kana": "センダイ",
+      "branch_hira": "せんだい",
+      "branch_roma": "sendai"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "435",
+      "branch_name": "田辺",
+      "branch_kana": "タナベ",
+      "branch_hira": "たなべ",
+      "branch_roma": "tanabe"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "436",
+      "branch_name": "王子",
+      "branch_kana": "オウジ",
+      "branch_hira": "おうじ",
+      "branch_roma": "ouji"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "442",
+      "branch_name": "高槻富田",
+      "branch_kana": "タカツキトンダ",
+      "branch_hira": "たかつきとんだ",
+      "branch_roma": "takatsukitonda"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "450",
+      "branch_name": "河内千代田",
+      "branch_kana": "カワチチヨダ",
+      "branch_hira": "かわちちよだ",
+      "branch_roma": "kawachichiyoda"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "451",
+      "branch_name": "豊中服部",
+      "branch_kana": "トヨナカハツトリ",
+      "branch_hira": "とよなかはつとり",
+      "branch_roma": "toyonakahatsutori"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "453",
+      "branch_name": "本郷",
+      "branch_kana": "ホンゴウ",
+      "branch_hira": "ほんごう",
+      "branch_roma": "hongou"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "454",
+      "branch_name": "住吉",
+      "branch_kana": "スミヨシ",
+      "branch_hira": "すみよし",
+      "branch_roma": "sumiyoshi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "461",
+      "branch_name": "茗荷谷",
+      "branch_kana": "ミヨウガダニ",
+      "branch_hira": "みようがだに",
+      "branch_roma": "miyougadani"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "466",
+      "branch_name": "日暮里",
+      "branch_kana": "ニツポリ",
+      "branch_hira": "につぽり",
+      "branch_roma": "nitsupori"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "467",
+      "branch_name": "千住",
+      "branch_kana": "センジユ",
+      "branch_hira": "せんじゆ",
+      "branch_roma": "senjiyu"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "468",
+      "branch_name": "堀切",
+      "branch_kana": "ホリキリ",
+      "branch_hira": "ほりきり",
+      "branch_roma": "horikiri"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "470",
+      "branch_name": "青戸",
+      "branch_kana": "アオト",
+      "branch_hira": "あおと",
+      "branch_roma": "aoto"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "473",
+      "branch_name": "渋谷",
+      "branch_kana": "シブヤ",
+      "branch_hira": "しぶや",
+      "branch_roma": "shibuya"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "475",
+      "branch_name": "中目黒",
+      "branch_kana": "ナカメグロ",
+      "branch_hira": "なかめぐろ",
+      "branch_roma": "nakameguro"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "476",
+      "branch_name": "学芸大学駅前",
+      "branch_kana": "ガクダイマエ",
+      "branch_hira": "がくだいまえ",
+      "branch_roma": "gakudaimae"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "477",
+      "branch_name": "豪徳寺",
+      "branch_kana": "ゴウトクジ",
+      "branch_hira": "ごうとくじ",
+      "branch_roma": "goutokuji"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "478",
+      "branch_name": "祖師谷",
+      "branch_kana": "ソシガヤ",
+      "branch_hira": "そしがや",
+      "branch_roma": "soshigaya"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "479",
+      "branch_name": "等々力",
+      "branch_kana": "トドロキ",
+      "branch_hira": "とどろき",
+      "branch_roma": "todoroki"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "501",
+      "branch_name": "京都",
+      "branch_kana": "キヨウト",
+      "branch_hira": "きようと",
+      "branch_roma": "kiyouto"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "502",
+      "branch_name": "四条大宮",
+      "branch_kana": "シジヨウオオミヤ",
+      "branch_hira": "しじようおおみや",
+      "branch_roma": "shijiyouoomiya"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "509",
+      "branch_name": "長岡天神",
+      "branch_kana": "ナガオカテンジン",
+      "branch_hira": "ながおかてんじん",
+      "branch_roma": "nagaokatenjin"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "512",
+      "branch_name": "和歌山",
+      "branch_kana": "ワカヤマ",
+      "branch_hira": "わかやま",
+      "branch_roma": "wakayama"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "513",
+      "branch_name": "大森",
+      "branch_kana": "オオモリ",
+      "branch_hira": "おおもり",
+      "branch_roma": "oomori"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "515",
+      "branch_name": "蒲田",
+      "branch_kana": "カマタ",
+      "branch_hira": "かまた",
+      "branch_roma": "kamata"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "518",
+      "branch_name": "目黒駅前",
+      "branch_kana": "メグロエキマエ",
+      "branch_hira": "めぐろえきまえ",
+      "branch_roma": "meguroekimae"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "519",
+      "branch_name": "五反田",
+      "branch_kana": "ゴタンダ",
+      "branch_hira": "ごたんだ",
+      "branch_roma": "gotanda"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "521",
+      "branch_name": "近鉄西大寺",
+      "branch_kana": "キンテツサイダイジ",
+      "branch_hira": "きんてつさいだいじ",
+      "branch_roma": "kintetsusaidaiji"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "523",
+      "branch_name": "西やまと",
+      "branch_kana": "ニシヤマト",
+      "branch_hira": "にしやまと",
+      "branch_roma": "nishiyamato"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "524",
+      "branch_name": "やまと郡山",
+      "branch_kana": "ヤマトコオリヤマ",
+      "branch_hira": "やまとこおりやま",
+      "branch_roma": "yamatokooriyama"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "526",
+      "branch_name": "香芝",
+      "branch_kana": "カシバ",
+      "branch_hira": "かしば",
+      "branch_roma": "kashiba"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "527",
+      "branch_name": "近鉄学園前",
+      "branch_kana": "キンテツガクエンマエ",
+      "branch_hira": "きんてつがくえんまえ",
+      "branch_roma": "kintetsugakuemmae"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "528",
+      "branch_name": "西宮北口",
+      "branch_kana": "ニシノミヤキタグチ",
+      "branch_hira": "にしのみやきたぐち",
+      "branch_roma": "nishinomiyakitaguchi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "529",
+      "branch_name": "伊丹",
+      "branch_kana": "イタミ",
+      "branch_hira": "いたみ",
+      "branch_roma": "itami"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "532",
+      "branch_name": "垂水",
+      "branch_kana": "タルミ",
+      "branch_hira": "たるみ",
+      "branch_roma": "tarumi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "535",
+      "branch_name": "久米川",
+      "branch_kana": "クメガワ",
+      "branch_hira": "くめがわ",
+      "branch_roma": "kumegawa"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "536",
+      "branch_name": "府中中河原",
+      "branch_kana": "フチユウナカガワラ",
+      "branch_hira": "ふちゆうなかがわら",
+      "branch_roma": "fuchiyuunakagawara"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "539",
+      "branch_name": "浦安",
+      "branch_kana": "ウラヤス",
+      "branch_hira": "うらやす",
+      "branch_roma": "urayasu"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "540",
+      "branch_name": "茂原",
+      "branch_kana": "モバラ",
+      "branch_hira": "もばら",
+      "branch_roma": "mobara"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "542",
+      "branch_name": "北習志野",
+      "branch_kana": "キタナラシノ",
+      "branch_hira": "きたならしの",
+      "branch_roma": "kitanarashino"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "543",
+      "branch_name": "北小金",
+      "branch_kana": "キタコガネ",
+      "branch_hira": "きたこがね",
+      "branch_roma": "kitakogane"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "545",
+      "branch_name": "千葉",
+      "branch_kana": "チバ",
+      "branch_hira": "ちば",
+      "branch_roma": "chiba"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "546",
+      "branch_name": "市川",
+      "branch_kana": "イチカワ",
+      "branch_hira": "いちかわ",
+      "branch_roma": "ichikawa"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "557",
+      "branch_name": "橿原",
+      "branch_kana": "カシハラ",
+      "branch_hira": "かしはら",
+      "branch_roma": "kashihara"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "593",
+      "branch_name": "東京中央",
+      "branch_kana": "トウキヨウチユウオウ",
+      "branch_hira": "とうきようちゆうおう",
+      "branch_roma": "toukiyouchiyuuou"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "594",
+      "branch_name": "室町",
+      "branch_kana": "ムロマチ",
+      "branch_hira": "むろまち",
+      "branch_roma": "muromachi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "595",
+      "branch_name": "浅草",
+      "branch_kana": "アサクサ",
+      "branch_hira": "あさくさ",
+      "branch_roma": "asakusa"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "598",
+      "branch_name": "板橋",
+      "branch_kana": "イタバシ",
+      "branch_hira": "いたばし",
+      "branch_roma": "itabashi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "601",
+      "branch_name": "神戸",
+      "branch_kana": "コウベ",
+      "branch_hira": "こうべ",
+      "branch_roma": "koube"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "603",
+      "branch_name": "西神戸",
+      "branch_kana": "ニシコウベ",
+      "branch_hira": "にしこうべ",
+      "branch_roma": "nishikoube"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "605",
+      "branch_name": "竹ノ塚",
+      "branch_kana": "タケノヅカ",
+      "branch_hira": "たけのづか",
+      "branch_roma": "takenoduka"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "607",
+      "branch_name": "神戸岡本",
+      "branch_kana": "コウベオカモト",
+      "branch_hira": "こうべおかもと",
+      "branch_roma": "koubeokamoto"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "608",
+      "branch_name": "北鈴蘭台",
+      "branch_kana": "キタスズランダイ",
+      "branch_hira": "きたすずらんだい",
+      "branch_roma": "kitasuzurandai"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "609",
+      "branch_name": "押部谷出張所",
+      "branch_kana": "オシベダニ",
+      "branch_hira": "おしべだに",
+      "branch_roma": "oshibedani"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "611",
+      "branch_name": "塚口",
+      "branch_kana": "ツカグチ",
+      "branch_hira": "つかぐち",
+      "branch_roma": "tsukaguchi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "612",
+      "branch_name": "尼崎北",
+      "branch_kana": "アマガサキキタ",
+      "branch_hira": "あまがさききた",
+      "branch_roma": "amagasakikita"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "613",
+      "branch_name": "西宮",
+      "branch_kana": "ニシノミヤ",
+      "branch_hira": "にしのみや",
+      "branch_roma": "nishinomiya"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "614",
+      "branch_name": "姫路",
+      "branch_kana": "ヒメジ",
+      "branch_hira": "ひめじ",
+      "branch_roma": "himeji"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "615",
+      "branch_name": "川西",
+      "branch_kana": "カワニシ",
+      "branch_hira": "かわにし",
+      "branch_roma": "kawanishi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "616",
+      "branch_name": "明石",
+      "branch_kana": "アカシ",
+      "branch_hira": "あかし",
+      "branch_roma": "akashi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "618",
+      "branch_name": "三田",
+      "branch_kana": "サンダ",
+      "branch_hira": "さんだ",
+      "branch_roma": "sanda"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "619",
+      "branch_name": "仁川出張所",
+      "branch_kana": "ニガワ",
+      "branch_hira": "にがわ",
+      "branch_roma": "nigawa"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "620",
+      "branch_name": "川西北",
+      "branch_kana": "カワニシキタ",
+      "branch_hira": "かわにしきた",
+      "branch_roma": "kawanishikita"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "627",
+      "branch_name": "長後",
+      "branch_kana": "チヨウゴ",
+      "branch_hira": "ちようご",
+      "branch_roma": "chiyougo"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "628",
+      "branch_name": "戸部出張所",
+      "branch_kana": "トベ",
+      "branch_hira": "とべ",
+      "branch_roma": "tobe"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "629",
+      "branch_name": "磯子",
+      "branch_kana": "イソゴ",
+      "branch_hira": "いそご",
+      "branch_roma": "isogo"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "630",
+      "branch_name": "弘明寺",
+      "branch_kana": "グミヨウジ",
+      "branch_hira": "ぐみようじ",
+      "branch_roma": "gumiyouji"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "631",
+      "branch_name": "川崎",
+      "branch_kana": "カワサキ",
+      "branch_hira": "かわさき",
+      "branch_roma": "kawasaki"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "632",
+      "branch_name": "横須賀",
+      "branch_kana": "ヨコスカ",
+      "branch_hira": "よこすか",
+      "branch_roma": "yokosuka"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "633",
+      "branch_name": "小田原",
+      "branch_kana": "オダワラ",
+      "branch_hira": "おだわら",
+      "branch_roma": "odawara"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "634",
+      "branch_name": "藤沢",
+      "branch_kana": "フジサワ",
+      "branch_hira": "ふじさわ",
+      "branch_roma": "fujisawa"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "635",
+      "branch_name": "上大岡",
+      "branch_kana": "カミオオオカ",
+      "branch_hira": "かみおおおか",
+      "branch_roma": "kamioooka"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "636",
+      "branch_name": "大船",
+      "branch_kana": "オオフナ",
+      "branch_hira": "おおふな",
+      "branch_roma": "oofuna"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "637",
+      "branch_name": "綱島",
+      "branch_kana": "ツナシマ",
+      "branch_hira": "つなしま",
+      "branch_roma": "tsunashima"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "638",
+      "branch_name": "橋本",
+      "branch_kana": "ハシモト",
+      "branch_hira": "はしもと",
+      "branch_roma": "hashimoto"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "639",
+      "branch_name": "三ツ境",
+      "branch_kana": "ミツキヨウ",
+      "branch_hira": "みつきよう",
+      "branch_roma": "mitsukiyou"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "640",
+      "branch_name": "金沢文庫出張所",
+      "branch_kana": "カナザワブンコ",
+      "branch_hira": "かなざわぶんこ",
+      "branch_roma": "kanazawabunko"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "641",
+      "branch_name": "相模大野",
+      "branch_kana": "サガミオオノ",
+      "branch_hira": "さがみおおの",
+      "branch_roma": "sagamioono"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "642",
+      "branch_name": "西鎌倉出張所",
+      "branch_kana": "ニシカマクラ",
+      "branch_hira": "にしかまくら",
+      "branch_roma": "nishikamakura"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "643",
+      "branch_name": "たまプラーザ",
+      "branch_kana": "タマプラ－ザ",
+      "branch_hira": "たまぷら－ざ",
+      "branch_roma": "tamapura-za"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "644",
+      "branch_name": "妙蓮寺出張所",
+      "branch_kana": "ミヨウレンジ",
+      "branch_hira": "みようれんじ",
+      "branch_roma": "miyourenji"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "646",
+      "branch_name": "伊勢原",
+      "branch_kana": "イセハラ",
+      "branch_hira": "いせはら",
+      "branch_roma": "isehara"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "647",
+      "branch_name": "成瀬",
+      "branch_kana": "ナルセ",
+      "branch_hira": "なるせ",
+      "branch_roma": "naruse"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "649",
+      "branch_name": "新百合ケ丘",
+      "branch_kana": "シンユリガオカ",
+      "branch_hira": "しんゆりがおか",
+      "branch_roma": "shinyurigaoka"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "653",
+      "branch_name": "長岡",
+      "branch_kana": "ナガオカ",
+      "branch_hira": "ながおか",
+      "branch_roma": "nagaoka"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "654",
+      "branch_name": "松本",
+      "branch_kana": "マツモト",
+      "branch_hira": "まつもと",
+      "branch_roma": "matsumoto"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "657",
+      "branch_name": "甲府",
+      "branch_kana": "コウフ",
+      "branch_hira": "こうふ",
+      "branch_roma": "koufu"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "659",
+      "branch_name": "浜松",
+      "branch_kana": "ハママツ",
+      "branch_hira": "はままつ",
+      "branch_roma": "hamamatsu"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "660",
+      "branch_name": "土浦",
+      "branch_kana": "ツチウラ",
+      "branch_hira": "つちうら",
+      "branch_roma": "tsuchiura"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "662",
+      "branch_name": "北九州",
+      "branch_kana": "キタキユウシユウ",
+      "branch_hira": "きたきゆうしゆう",
+      "branch_roma": "kitakiyuushiyuu"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "669",
+      "branch_name": "新横浜",
+      "branch_kana": "シンヨコハマ",
+      "branch_hira": "しんよこはま",
+      "branch_roma": "shinyokohama"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "670",
+      "branch_name": "横浜西口",
+      "branch_kana": "ヨコハマニシグチ",
+      "branch_hira": "よこはまにしぐち",
+      "branch_roma": "yokohamanishiguchi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "671",
+      "branch_name": "町田中央",
+      "branch_kana": "マチダチユウオウ",
+      "branch_hira": "まちだちゆうおう",
+      "branch_roma": "machidachiyuuou"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "675",
+      "branch_name": "新都心営業部",
+      "branch_kana": "シントシン",
+      "branch_hira": "しんとしん",
+      "branch_roma": "shintoshin"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "680",
+      "branch_name": "港北ニュータウン",
+      "branch_kana": "コウホクニユ－タウン",
+      "branch_hira": "こうほくにゆ－たうん",
+      "branch_roma": "kouhokuniyu-taun"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "685",
+      "branch_name": "新川崎",
+      "branch_kana": "シンカワサキ",
+      "branch_hira": "しんかわさき",
+      "branch_roma": "shinkawasaki"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "687",
+      "branch_name": "信託ＳＲオフィス出張所",
+      "branch_kana": "シンタクＳＲオフイス",
+      "branch_hira": "しんたくＳＲおふいす",
+      "branch_roma": "shintakusrofuisu"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "688",
+      "branch_name": "信託ＫＭオフィス出張所",
+      "branch_kana": "シンタクＫＭオフイス",
+      "branch_hira": "しんたくＫＭおふいす",
+      "branch_roma": "shintakukmofuisu"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "700",
+      "branch_name": "麻布",
+      "branch_kana": "アザブ",
+      "branch_hira": "あざぶ",
+      "branch_roma": "azabu"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "703",
+      "branch_name": "加古川",
+      "branch_kana": "カコガワ",
+      "branch_hira": "かこがわ",
+      "branch_roma": "kakogawa"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "705",
+      "branch_name": "尼崎",
+      "branch_kana": "アマガサキ",
+      "branch_hira": "あまがさき",
+      "branch_roma": "amagasaki"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "707",
+      "branch_name": "西新井",
+      "branch_kana": "ニシアライ",
+      "branch_hira": "にしあらい",
+      "branch_roma": "nishiarai"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "708",
+      "branch_name": "彦根",
+      "branch_kana": "ヒコネ",
+      "branch_hira": "ひこね",
+      "branch_roma": "hikone"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "709",
+      "branch_name": "横浜",
+      "branch_kana": "ヨコハマ",
+      "branch_hira": "よこはま",
+      "branch_roma": "yokohama"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "710",
+      "branch_name": "名古屋",
+      "branch_kana": "ナゴヤ",
+      "branch_hira": "なごや",
+      "branch_roma": "nagoya"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "711",
+      "branch_name": "福岡",
+      "branch_kana": "フクオカ",
+      "branch_hira": "ふくおか",
+      "branch_roma": "fukuoka"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "718",
+      "branch_name": "赤門通",
+      "branch_kana": "アカモンドオリ",
+      "branch_hira": "あかもんどおり",
+      "branch_roma": "akamondoori"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "719",
+      "branch_name": "千本",
+      "branch_kana": "センボン",
+      "branch_hira": "せんぼん",
+      "branch_roma": "sembon"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "720",
+      "branch_name": "鶴見",
+      "branch_kana": "ツルミ",
+      "branch_hira": "つるみ",
+      "branch_roma": "tsurumi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "721",
+      "branch_name": "名古屋駅前",
+      "branch_kana": "ナゴヤエキマエ",
+      "branch_hira": "なごやえきまえ",
+      "branch_roma": "nagoyaekimae"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "722",
+      "branch_name": "久留米",
+      "branch_kana": "クルメ",
+      "branch_hira": "くるめ",
+      "branch_roma": "kurume"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "725",
+      "branch_name": "市ヶ谷",
+      "branch_kana": "イチガヤ",
+      "branch_hira": "いちがや",
+      "branch_roma": "ichigaya"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "727",
+      "branch_name": "今池",
+      "branch_kana": "イマイケ",
+      "branch_hira": "いまいけ",
+      "branch_roma": "imaike"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "728",
+      "branch_name": "東京ミッドタウン",
+      "branch_kana": "トウキヨウミツドタウン",
+      "branch_hira": "とうきようみつどたうん",
+      "branch_roma": "toukiyoumitsudotaun"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "731",
+      "branch_name": "熊本",
+      "branch_kana": "クマモト",
+      "branch_hira": "くまもと",
+      "branch_roma": "kumamoto"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "736",
+      "branch_name": "学園前ローンプラザ出張所",
+      "branch_kana": "ガクエンマエロ－ンプラザ",
+      "branch_hira": "がくえんまえろ－んぷらざ",
+      "branch_roma": "gakuemmaero-mpuraza"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "744",
+      "branch_name": "津",
+      "branch_kana": "ツ",
+      "branch_hira": "つ",
+      "branch_roma": "tsu"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "749",
+      "branch_name": "ひばりケ丘ローンプラザ出張所",
+      "branch_kana": "ヒバリガオカロ－ンプラ",
+      "branch_hira": "ひばりがおかろ－んぷら",
+      "branch_roma": "hibarigaokaro-mpura"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "752",
+      "branch_name": "枚方ローンプラザ出張所",
+      "branch_kana": "ヒラカタロ－ンプラザ",
+      "branch_hira": "ひらかたろ－んぷらざ",
+      "branch_roma": "hirakataro-mpuraza"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "753",
+      "branch_name": "和泉中央",
+      "branch_kana": "イズミチユウオウ",
+      "branch_hira": "いずみちゆうおう",
+      "branch_roma": "izumichiyuuou"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "755",
+      "branch_name": "咲洲出張所",
+      "branch_kana": "サキシマ",
+      "branch_hira": "さきしま",
+      "branch_roma": "sakishima"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "760",
+      "branch_name": "池袋",
+      "branch_kana": "イケブクロ",
+      "branch_hira": "いけぶくろ",
+      "branch_roma": "ikebukuro"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "761",
+      "branch_name": "常盤台",
+      "branch_kana": "トキワダイ",
+      "branch_hira": "ときわだい",
+      "branch_roma": "tokiwadai"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "762",
+      "branch_name": "成増",
+      "branch_kana": "ナリマス",
+      "branch_hira": "なります",
+      "branch_roma": "narimasu"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "763",
+      "branch_name": "練馬",
+      "branch_kana": "ネリマ",
+      "branch_hira": "ねりま",
+      "branch_roma": "nerima"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "764",
+      "branch_name": "石神井",
+      "branch_kana": "シヤクジイ",
+      "branch_hira": "しやくじい",
+      "branch_roma": "shiyakujii"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "765",
+      "branch_name": "田無",
+      "branch_kana": "タナシ",
+      "branch_hira": "たなし",
+      "branch_roma": "tanashi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "766",
+      "branch_name": "東村山",
+      "branch_kana": "ヒガシムラヤマ",
+      "branch_hira": "ひがしむらやま",
+      "branch_roma": "higashimurayama"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "767",
+      "branch_name": "ひばりケ丘",
+      "branch_kana": "ヒバリガオカ",
+      "branch_hira": "ひばりがおか",
+      "branch_roma": "hibarigaoka"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "768",
+      "branch_name": "小平",
+      "branch_kana": "コダイラ",
+      "branch_hira": "こだいら",
+      "branch_roma": "kodaira"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "769",
+      "branch_name": "調布",
+      "branch_kana": "チヨウフ",
+      "branch_hira": "ちようふ",
+      "branch_roma": "chiyoufu"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "771",
+      "branch_name": "東青梅",
+      "branch_kana": "ヒガシオウメ",
+      "branch_hira": "ひがしおうめ",
+      "branch_roma": "higashioume"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "772",
+      "branch_name": "福生",
+      "branch_kana": "フツサ",
+      "branch_hira": "ふつさ",
+      "branch_roma": "futsusa"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "773",
+      "branch_name": "五日市出張所",
+      "branch_kana": "イツカイチ",
+      "branch_hira": "いつかいち",
+      "branch_roma": "itsukaichi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "775",
+      "branch_name": "村山",
+      "branch_kana": "ムラヤマ",
+      "branch_hira": "むらやま",
+      "branch_roma": "murayama"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "779",
+      "branch_name": "東久留米",
+      "branch_kana": "ヒガシクルメ",
+      "branch_hira": "ひがしくるめ",
+      "branch_roma": "higashikurume"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "780",
+      "branch_name": "昭島",
+      "branch_kana": "アキシマ",
+      "branch_hira": "あきしま",
+      "branch_roma": "akishima"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "781",
+      "branch_name": "清瀬",
+      "branch_kana": "キヨセ",
+      "branch_hira": "きよせ",
+      "branch_roma": "kiyose"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "782",
+      "branch_name": "東府中",
+      "branch_kana": "ヒガシフチユウ",
+      "branch_hira": "ひがしふちゆう",
+      "branch_roma": "higashifuchiyuu"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "783",
+      "branch_name": "東久留米滝山",
+      "branch_kana": "ヒガシクルメタキヤマ",
+      "branch_hira": "ひがしくるめたきやま",
+      "branch_roma": "higashikurumetakiyama"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "785",
+      "branch_name": "東大和",
+      "branch_kana": "ヒガシヤマト",
+      "branch_hira": "ひがしやまと",
+      "branch_roma": "higashiyamato"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "787",
+      "branch_name": "河辺",
+      "branch_kana": "カベ",
+      "branch_hira": "かべ",
+      "branch_roma": "kabe"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "797",
+      "branch_name": "津田沼",
+      "branch_kana": "ツダヌマ",
+      "branch_hira": "つだぬま",
+      "branch_roma": "tsudanuma"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "800",
+      "branch_name": "ローンサポート",
+      "branch_kana": "ロ－ンサポ－ト",
+      "branch_hira": "ろ－んさぽ－と",
+      "branch_roma": "ro-nsapo-to"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "801",
+      "branch_name": "広島",
+      "branch_kana": "ヒロシマ",
+      "branch_hira": "ひろしま",
+      "branch_roma": "hiroshima"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "830",
+      "branch_name": "信託ＭＢオフィス出張所",
+      "branch_kana": "シンタクＭＢオフイス",
+      "branch_hira": "しんたくＭＢおふいす",
+      "branch_roma": "shintakumbofuisu"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "839",
+      "branch_name": "アルファ",
+      "branch_kana": "アルフア",
+      "branch_hira": "あるふあ",
+      "branch_roma": "arufua"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "841",
+      "branch_name": "ベータ",
+      "branch_kana": "ベ－タ",
+      "branch_hira": "べ－た",
+      "branch_roma": "be-ta"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "849",
+      "branch_name": "上野ローンプラザ出張所",
+      "branch_kana": "ウエノロ－ンプラザ",
+      "branch_hira": "うえのろ－んぷらざ",
+      "branch_roma": "uenoro-mpuraza"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "865",
+      "branch_name": "池袋ローンプラザ出張所",
+      "branch_kana": "イケブクロロ－ンプラザ",
+      "branch_hira": "いけぶくろろ－んぷらざ",
+      "branch_roma": "ikebukuroro-mpuraza"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "866",
+      "branch_name": "新都心ローンプラザ出張所",
+      "branch_kana": "シントシンロ－ンプラザ",
+      "branch_hira": "しんとしんろ－んぷらざ",
+      "branch_roma": "shintoshinro-mpuraza"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "868",
+      "branch_name": "千住ローンプラザ出張所",
+      "branch_kana": "センジユロ－ンプラザ",
+      "branch_hira": "せんじゆろ－んぷらざ",
+      "branch_roma": "senjiyuro-mpuraza"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "869",
+      "branch_name": "新橋ローンプラザ出張所",
+      "branch_kana": "シンバシロ－ンプラザ",
+      "branch_hira": "しんばしろ－んぷらざ",
+      "branch_roma": "shimbashiro-mpuraza"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "872",
+      "branch_name": "渋谷ローンプラザ出張所",
+      "branch_kana": "シブヤロ－ンプラザ",
+      "branch_hira": "しぶやろ－んぷらざ",
+      "branch_roma": "shibuyaro-mpuraza"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "873",
+      "branch_name": "立川ローンプラザ出張所",
+      "branch_kana": "タチカワロ－ンプラザ",
+      "branch_hira": "たちかわろ－んぷらざ",
+      "branch_roma": "tachikawaro-mpuraza"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "874",
+      "branch_name": "梅田ローンプラザ出張所",
+      "branch_kana": "ウメダロ－ンプラザ",
+      "branch_hira": "うめだろ－んぷらざ",
+      "branch_roma": "umedaro-mpuraza"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "875",
+      "branch_name": "難波ローンプラザ出張所",
+      "branch_kana": "ナンバロ－ンプラザ",
+      "branch_hira": "なんばろ－んぷらざ",
+      "branch_roma": "nambaro-mpuraza"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "876",
+      "branch_name": "横浜西口ローンプラザ出張所",
+      "branch_kana": "ヨコハマニシグチロ－ンプラ",
+      "branch_hira": "よこはまにしぐちろ－んぷら",
+      "branch_roma": "yokohamanishiguchiro-mpura"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "877",
+      "branch_name": "町田ローンプラザ出張所",
+      "branch_kana": "マチダロ－ンプラザ",
+      "branch_hira": "まちだろ－んぷらざ",
+      "branch_roma": "machidaro-mpuraza"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "878",
+      "branch_name": "海老名ローンプラザ出張所",
+      "branch_kana": "エビナロ－ンプラザ",
+      "branch_hira": "えびなろ－んぷらざ",
+      "branch_roma": "ebinaro-mpuraza"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "879",
+      "branch_name": "船橋ローンプラザ出張所",
+      "branch_kana": "フナバシロ－ンプラザ",
+      "branch_hira": "ふなばしろ－んぷらざ",
+      "branch_roma": "funabashiro-mpuraza"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "882",
+      "branch_name": "堺東ローンプラザ出張所",
+      "branch_kana": "サカイヒガシロ－ンプラザ",
+      "branch_hira": "さかいひがしろ－んぷらざ",
+      "branch_roma": "sakaihigashiro-mpuraza"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "884",
+      "branch_name": "神戸ローンプラザ出張所",
+      "branch_kana": "コウベロ－ンプラザ",
+      "branch_hira": "こうべろ－んぷらざ",
+      "branch_roma": "koubero-mpuraza"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "886",
+      "branch_name": "京橋ローンプラザ",
+      "branch_kana": "キヨウバシロ－ンプラザ",
+      "branch_hira": "きようばしろ－んぷらざ",
+      "branch_roma": "kiyoubashiro-mpuraza"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "891",
+      "branch_name": "豊洲",
+      "branch_kana": "トヨス",
+      "branch_hira": "とよす",
+      "branch_roma": "toyosu"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "899",
+      "branch_name": "インターネット住宅出張所",
+      "branch_kana": "インタ－ネツトジユウタク",
+      "branch_hira": "いんた－ねつとじゆうたく",
+      "branch_roma": "inta-netsutojiyuutaku"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "911",
+      "branch_name": "口振第一",
+      "branch_kana": "コウフリダイイチ",
+      "branch_hira": "こうふりだいいち",
+      "branch_roma": "koufuridaiichi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "918",
+      "branch_name": "東京エイティエム",
+      "branch_kana": "トウキヨウエイテイエム",
+      "branch_hira": "とうきようえいていえむ",
+      "branch_roma": "toukiyoueiteiemu"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "935",
+      "branch_name": "平成第一",
+      "branch_kana": "ヘイセイダイイチ",
+      "branch_hira": "へいせいだいいち",
+      "branch_roma": "heiseidaiichi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "936",
+      "branch_name": "アース",
+      "branch_kana": "ア－ス",
+      "branch_hira": "あ－す",
+      "branch_roma": "a-su"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "938",
+      "branch_name": "振込集中第一",
+      "branch_kana": "フリコミシユウチユウダイイチ",
+      "branch_hira": "ふりこみしゆうちゆうだいいち",
+      "branch_roma": "furikomishiyuuchiyuudaiichi"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "941",
+      "branch_name": "サンライズ",
+      "branch_kana": "サンライズ",
+      "branch_hira": "さんらいず",
+      "branch_roma": "sanraizu"
+    },
+    {
+      "bank_code": "0010",
+      "bank_name": "りそな",
+      "bank_slug": "risona",
+      "branch_code": "942",
+      "branch_name": "ジュピター",
+      "branch_kana": "ジユピタ－",
+      "branch_hira": "じゆぴた－",
+      "branch_roma": "jiyupita-"
+    }
+  ],
+  "meta": {
+    "title": "りそな銀行支店コード一覧 (Branch codes of Resona Bank) - 無料ダウンロード",
+    "description": "りそな銀行の全支店コード一覧（コード 0010）。各支店の 3 桁支店番号（branch code）+ 支店名（漢字 / カタカナ / ひらがな / ローマ字）。 Full list of branch codes for りそな銀行 (zengin code 0010). 収録数 319 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "りそな銀行支店コード一覧 (Branch codes of Resona Bank) | ListBase",
+    "seo_description": "ダウンロード りそな銀行支店コード一覧 (Branch codes of Resona Bank) — 319 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 319 件 / 8 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/zengin-code/source-data"
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "id": "ja-chugoku-prefectures",
+  "name": "中国地方の都道府県 (Chugoku region — prefectures)",
+  "title": "中国地方の都道府県 (Chugoku region — prefectures)",
+  "description": "中国地方（ちゅうごく）に属する都道府県の一覧。 Prefectures belonging to the Chugoku region (地方 / 'chihō') of Japan — 5 prefecture(s).",
+  "category": "geography",
+  "source": "https://github.com/diverse-inc/jp_prefecture",
+  "source_url": "https://github.com/diverse-inc/jp_prefecture",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "jis_code",
+      "label": "Jis Code",
+      "type": "number"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name_kana",
+      "label": "Name Kana",
+      "type": "string"
+    },
+    {
+      "key": "name_kana_short",
+      "label": "Name Kana Short",
+      "type": "string"
+    },
+    {
+      "key": "name_roma",
+      "label": "Name Roma",
+      "type": "string"
+    },
+    {
+      "key": "name_roma_short",
+      "label": "Name Roma Short",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "region_kanji",
+      "label": "Region Kanji",
+      "type": "string"
+    },
+    {
+      "key": "region_kana",
+      "label": "Region Kana",
+      "type": "string"
+    },
+    {
+      "key": "region_roma",
+      "label": "Region Roma",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "region_name_en",
+      "label": "Region Name En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": 31,
+      "jis_code": "31",
+      "iso_3166_2": "JP-31",
+      "slug": "tottori",
+      "name": "鳥取県",
+      "name_short": "鳥取",
+      "name_kana": "とっとりけん",
+      "name_kana_short": "とっとり",
+      "name_roma": "tottori-ken",
+      "name_roma_short": "tottori",
+      "name_en": "Tottori",
+      "type": "県",
+      "region_kanji": "中国",
+      "region_kana": "ちゅうごく",
+      "region_roma": "chugoku",
+      "region_slug": "chugoku",
+      "region_name_en": "Chugoku"
+    },
+    {
+      "code": 32,
+      "jis_code": "32",
+      "iso_3166_2": "JP-32",
+      "slug": "shimane",
+      "name": "島根県",
+      "name_short": "島根",
+      "name_kana": "しまねけん",
+      "name_kana_short": "しまね",
+      "name_roma": "shimane-ken",
+      "name_roma_short": "shimane",
+      "name_en": "Shimane",
+      "type": "県",
+      "region_kanji": "中国",
+      "region_kana": "ちゅうごく",
+      "region_roma": "chugoku",
+      "region_slug": "chugoku",
+      "region_name_en": "Chugoku"
+    },
+    {
+      "code": 33,
+      "jis_code": "33",
+      "iso_3166_2": "JP-33",
+      "slug": "okayama",
+      "name": "岡山県",
+      "name_short": "岡山",
+      "name_kana": "おかやまけん",
+      "name_kana_short": "おかやま",
+      "name_roma": "okayama-ken",
+      "name_roma_short": "okayama",
+      "name_en": "Okayama",
+      "type": "県",
+      "region_kanji": "中国",
+      "region_kana": "ちゅうごく",
+      "region_roma": "chugoku",
+      "region_slug": "chugoku",
+      "region_name_en": "Chugoku"
+    },
+    {
+      "code": 34,
+      "jis_code": "34",
+      "iso_3166_2": "JP-34",
+      "slug": "hiroshima",
+      "name": "広島県",
+      "name_short": "広島",
+      "name_kana": "ひろしまけん",
+      "name_kana_short": "ひろしま",
+      "name_roma": "hiroshima-ken",
+      "name_roma_short": "hiroshima",
+      "name_en": "Hiroshima",
+      "type": "県",
+      "region_kanji": "中国",
+      "region_kana": "ちゅうごく",
+      "region_roma": "chugoku",
+      "region_slug": "chugoku",
+      "region_name_en": "Chugoku"
+    },
+    {
+      "code": 35,
+      "jis_code": "35",
+      "iso_3166_2": "JP-35",
+      "slug": "yamaguchi",
+      "name": "山口県",
+      "name_short": "山口",
+      "name_kana": "やまぐちけん",
+      "name_kana_short": "やまぐち",
+      "name_roma": "yamaguchi-ken",
+      "name_roma_short": "yamaguchi",
+      "name_en": "Yamaguchi",
+      "type": "県",
+      "region_kanji": "中国",
+      "region_kana": "ちゅうごく",
+      "region_roma": "chugoku",
+      "region_slug": "chugoku",
+      "region_name_en": "Chugoku"
+    }
+  ],
+  "meta": {
+    "title": "中国地方の都道府県 (Chugoku region — prefectures) - 無料ダウンロード",
+    "description": "中国地方（ちゅうごく）に属する都道府県の一覧。 Prefectures belonging to the Chugoku region (地方 / 'chihō') of Japan — 5 prefecture(s). 収録数 5 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "中国地方の都道府県 (Chugoku region — prefectures) | ListBase",
+    "seo_description": "ダウンロード 中国地方の都道府県 (Chugoku region — prefectures) — 5 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 5 件 / 17 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/diverse-inc/jp_prefecture"
+    ]
+  }
+}

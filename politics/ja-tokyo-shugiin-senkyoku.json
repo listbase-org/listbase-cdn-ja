@@ -1,0 +1,286 @@
+{
+  "id": "ja-tokyo-shugiin-senkyoku",
+  "name": "東京都衆議院小選挙区 (Tokyo House of Representatives Electoral Districts)",
+  "title": "東京都衆議院小選挙区 (Tokyo House of Representatives Electoral Districts)",
+  "description": "東京都内の衆議院小選挙区 25 件。ja-shugiin-senkyoku（全国 289 件）から都道府県コード 13 のレコードのみを抽出。スキーマは同一。25 single-member electoral districts in Tokyo Prefecture, filtered from the national list (289). Same schema.",
+  "category": "politics",
+  "source": "https://github.com/smartnews-smri/japan-topography",
+  "source_url": "https://github.com/smartnews-smri/japan-topography",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "kucode",
+      "label": "Kucode",
+      "type": "number"
+    },
+    {
+      "key": "constituency",
+      "label": "Constituency",
+      "type": "string"
+    },
+    {
+      "key": "constituency_en",
+      "label": "Constituency En",
+      "type": "string"
+    },
+    {
+      "key": "district_number",
+      "label": "District Number",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_en",
+      "label": "Prefecture En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kucode": 1301,
+      "constituency": "東京1区",
+      "constituency_en": "Tokyo 1",
+      "district_number": 1,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1302,
+      "constituency": "東京2区",
+      "constituency_en": "Tokyo 2",
+      "district_number": 2,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1303,
+      "constituency": "東京3区",
+      "constituency_en": "Tokyo 3",
+      "district_number": 3,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1304,
+      "constituency": "東京4区",
+      "constituency_en": "Tokyo 4",
+      "district_number": 4,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1305,
+      "constituency": "東京5区",
+      "constituency_en": "Tokyo 5",
+      "district_number": 5,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1306,
+      "constituency": "東京6区",
+      "constituency_en": "Tokyo 6",
+      "district_number": 6,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1307,
+      "constituency": "東京7区",
+      "constituency_en": "Tokyo 7",
+      "district_number": 7,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1308,
+      "constituency": "東京8区",
+      "constituency_en": "Tokyo 8",
+      "district_number": 8,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1309,
+      "constituency": "東京9区",
+      "constituency_en": "Tokyo 9",
+      "district_number": 9,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1310,
+      "constituency": "東京10区",
+      "constituency_en": "Tokyo 10",
+      "district_number": 10,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1311,
+      "constituency": "東京11区",
+      "constituency_en": "Tokyo 11",
+      "district_number": 11,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1312,
+      "constituency": "東京12区",
+      "constituency_en": "Tokyo 12",
+      "district_number": 12,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1313,
+      "constituency": "東京13区",
+      "constituency_en": "Tokyo 13",
+      "district_number": 13,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1314,
+      "constituency": "東京14区",
+      "constituency_en": "Tokyo 14",
+      "district_number": 14,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1315,
+      "constituency": "東京15区",
+      "constituency_en": "Tokyo 15",
+      "district_number": 15,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1316,
+      "constituency": "東京16区",
+      "constituency_en": "Tokyo 16",
+      "district_number": 16,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1317,
+      "constituency": "東京17区",
+      "constituency_en": "Tokyo 17",
+      "district_number": 17,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1318,
+      "constituency": "東京18区",
+      "constituency_en": "Tokyo 18",
+      "district_number": 18,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1319,
+      "constituency": "東京19区",
+      "constituency_en": "Tokyo 19",
+      "district_number": 19,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1320,
+      "constituency": "東京20区",
+      "constituency_en": "Tokyo 20",
+      "district_number": 20,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1321,
+      "constituency": "東京21区",
+      "constituency_en": "Tokyo 21",
+      "district_number": 21,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1322,
+      "constituency": "東京22区",
+      "constituency_en": "Tokyo 22",
+      "district_number": 22,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1323,
+      "constituency": "東京23区",
+      "constituency_en": "Tokyo 23",
+      "district_number": 23,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1324,
+      "constituency": "東京24区",
+      "constituency_en": "Tokyo 24",
+      "district_number": 24,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    },
+    {
+      "kucode": 1325,
+      "constituency": "東京25区",
+      "constituency_en": "Tokyo 25",
+      "district_number": 25,
+      "prefecture_code": "13",
+      "prefecture": "東京都",
+      "prefecture_en": "Tokyo"
+    }
+  ],
+  "meta": {
+    "title": "東京都衆議院小選挙区 (Tokyo House of Representatives Electoral Districts) - 無料ダウンロード",
+    "description": "東京都内の衆議院小選挙区 25 件。ja-shugiin-senkyoku（全国 289 件）から都道府県コード 13 のレコードのみを抽出。スキーマは同一。25 single-member electoral districts in Tokyo Prefecture, filtered from the national list (289). Same schema. 収録数 25 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "東京都衆議院小選挙区 (Tokyo House of Representatives Electoral Districts) | ListBase",
+    "seo_description": "ダウンロード 東京都衆議院小選挙区 (Tokyo House of Representatives Electoral Districts) — 25 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 25 件 / 7 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/smartnews-smri/japan-topography"
+    ]
+  }
+}

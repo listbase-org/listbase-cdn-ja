@@ -1,0 +1,344 @@
+{
+  "id": "ja-kyoto-shichoson",
+  "name": "京都府の市区町村一覧",
+  "title": "京都府の市区町村一覧",
+  "description": "京都府 (Kyoto Prefecture) の全市区町村 36 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "26101",
+      "name": "北区",
+      "full_name": "京都市北区",
+      "prefecture": "京都府",
+      "county_or_designated_city": "京都市",
+      "subprefecture": ""
+    },
+    {
+      "code": "26102",
+      "name": "上京区",
+      "full_name": "京都市上京区",
+      "prefecture": "京都府",
+      "county_or_designated_city": "京都市",
+      "subprefecture": ""
+    },
+    {
+      "code": "26103",
+      "name": "左京区",
+      "full_name": "京都市左京区",
+      "prefecture": "京都府",
+      "county_or_designated_city": "京都市",
+      "subprefecture": ""
+    },
+    {
+      "code": "26104",
+      "name": "中京区",
+      "full_name": "京都市中京区",
+      "prefecture": "京都府",
+      "county_or_designated_city": "京都市",
+      "subprefecture": ""
+    },
+    {
+      "code": "26105",
+      "name": "東山区",
+      "full_name": "京都市東山区",
+      "prefecture": "京都府",
+      "county_or_designated_city": "京都市",
+      "subprefecture": ""
+    },
+    {
+      "code": "26106",
+      "name": "下京区",
+      "full_name": "京都市下京区",
+      "prefecture": "京都府",
+      "county_or_designated_city": "京都市",
+      "subprefecture": ""
+    },
+    {
+      "code": "26107",
+      "name": "南区",
+      "full_name": "京都市南区",
+      "prefecture": "京都府",
+      "county_or_designated_city": "京都市",
+      "subprefecture": ""
+    },
+    {
+      "code": "26108",
+      "name": "右京区",
+      "full_name": "京都市右京区",
+      "prefecture": "京都府",
+      "county_or_designated_city": "京都市",
+      "subprefecture": ""
+    },
+    {
+      "code": "26109",
+      "name": "伏見区",
+      "full_name": "京都市伏見区",
+      "prefecture": "京都府",
+      "county_or_designated_city": "京都市",
+      "subprefecture": ""
+    },
+    {
+      "code": "26110",
+      "name": "山科区",
+      "full_name": "京都市山科区",
+      "prefecture": "京都府",
+      "county_or_designated_city": "京都市",
+      "subprefecture": ""
+    },
+    {
+      "code": "26111",
+      "name": "西京区",
+      "full_name": "京都市西京区",
+      "prefecture": "京都府",
+      "county_or_designated_city": "京都市",
+      "subprefecture": ""
+    },
+    {
+      "code": "26201",
+      "name": "福知山市",
+      "full_name": "福知山市",
+      "prefecture": "京都府",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "26202",
+      "name": "舞鶴市",
+      "full_name": "舞鶴市",
+      "prefecture": "京都府",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "26203",
+      "name": "綾部市",
+      "full_name": "綾部市",
+      "prefecture": "京都府",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "26204",
+      "name": "宇治市",
+      "full_name": "宇治市",
+      "prefecture": "京都府",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "26205",
+      "name": "宮津市",
+      "full_name": "宮津市",
+      "prefecture": "京都府",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "26206",
+      "name": "亀岡市",
+      "full_name": "亀岡市",
+      "prefecture": "京都府",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "26207",
+      "name": "城陽市",
+      "full_name": "城陽市",
+      "prefecture": "京都府",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "26208",
+      "name": "向日市",
+      "full_name": "向日市",
+      "prefecture": "京都府",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "26209",
+      "name": "長岡京市",
+      "full_name": "長岡京市",
+      "prefecture": "京都府",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "26210",
+      "name": "八幡市",
+      "full_name": "八幡市",
+      "prefecture": "京都府",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "26211",
+      "name": "京田辺市",
+      "full_name": "京田辺市",
+      "prefecture": "京都府",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "26212",
+      "name": "京丹後市",
+      "full_name": "京丹後市",
+      "prefecture": "京都府",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "26213",
+      "name": "南丹市",
+      "full_name": "南丹市",
+      "prefecture": "京都府",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "26214",
+      "name": "木津川市",
+      "full_name": "木津川市",
+      "prefecture": "京都府",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "26303",
+      "name": "大山崎町",
+      "full_name": "乙訓郡大山崎町",
+      "prefecture": "京都府",
+      "county_or_designated_city": "乙訓郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "26322",
+      "name": "久御山町",
+      "full_name": "久世郡久御山町",
+      "prefecture": "京都府",
+      "county_or_designated_city": "久世郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "26343",
+      "name": "井手町",
+      "full_name": "綴喜郡井手町",
+      "prefecture": "京都府",
+      "county_or_designated_city": "綴喜郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "26344",
+      "name": "宇治田原町",
+      "full_name": "綴喜郡宇治田原町",
+      "prefecture": "京都府",
+      "county_or_designated_city": "綴喜郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "26364",
+      "name": "笠置町",
+      "full_name": "相楽郡笠置町",
+      "prefecture": "京都府",
+      "county_or_designated_city": "相楽郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "26365",
+      "name": "和束町",
+      "full_name": "相楽郡和束町",
+      "prefecture": "京都府",
+      "county_or_designated_city": "相楽郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "26366",
+      "name": "精華町",
+      "full_name": "相楽郡精華町",
+      "prefecture": "京都府",
+      "county_or_designated_city": "相楽郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "26367",
+      "name": "南山城村",
+      "full_name": "相楽郡南山城村",
+      "prefecture": "京都府",
+      "county_or_designated_city": "相楽郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "26407",
+      "name": "京丹波町",
+      "full_name": "船井郡京丹波町",
+      "prefecture": "京都府",
+      "county_or_designated_city": "船井郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "26463",
+      "name": "伊根町",
+      "full_name": "与謝郡伊根町",
+      "prefecture": "京都府",
+      "county_or_designated_city": "与謝郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "26465",
+      "name": "与謝野町",
+      "full_name": "与謝郡与謝野町",
+      "prefecture": "京都府",
+      "county_or_designated_city": "与謝郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "京都府の市区町村一覧 - 無料ダウンロード",
+    "description": "京都府 (Kyoto Prefecture) の全市区町村 36 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 36 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "京都府の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 京都府の市区町村一覧 — 36 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 36 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

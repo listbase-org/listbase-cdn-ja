@@ -1,0 +1,632 @@
+{
+  "id": "ja-saitama-shichoson",
+  "name": "埼玉県の市区町村一覧",
+  "title": "埼玉県の市区町村一覧",
+  "description": "埼玉県 (Saitama Prefecture) の全市区町村 72 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 72,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "11101",
+      "name": "西区",
+      "full_name": "さいたま市西区",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "さいたま市",
+      "subprefecture": ""
+    },
+    {
+      "code": "11102",
+      "name": "北区",
+      "full_name": "さいたま市北区",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "さいたま市",
+      "subprefecture": ""
+    },
+    {
+      "code": "11103",
+      "name": "大宮区",
+      "full_name": "さいたま市大宮区",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "さいたま市",
+      "subprefecture": ""
+    },
+    {
+      "code": "11104",
+      "name": "見沼区",
+      "full_name": "さいたま市見沼区",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "さいたま市",
+      "subprefecture": ""
+    },
+    {
+      "code": "11105",
+      "name": "中央区",
+      "full_name": "さいたま市中央区",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "さいたま市",
+      "subprefecture": ""
+    },
+    {
+      "code": "11106",
+      "name": "桜区",
+      "full_name": "さいたま市桜区",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "さいたま市",
+      "subprefecture": ""
+    },
+    {
+      "code": "11107",
+      "name": "浦和区",
+      "full_name": "さいたま市浦和区",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "さいたま市",
+      "subprefecture": ""
+    },
+    {
+      "code": "11108",
+      "name": "南区",
+      "full_name": "さいたま市南区",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "さいたま市",
+      "subprefecture": ""
+    },
+    {
+      "code": "11109",
+      "name": "緑区",
+      "full_name": "さいたま市緑区",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "さいたま市",
+      "subprefecture": ""
+    },
+    {
+      "code": "11110",
+      "name": "岩槻区",
+      "full_name": "さいたま市岩槻区",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "さいたま市",
+      "subprefecture": ""
+    },
+    {
+      "code": "11201",
+      "name": "川越市",
+      "full_name": "川越市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11202",
+      "name": "熊谷市",
+      "full_name": "熊谷市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11203",
+      "name": "川口市",
+      "full_name": "川口市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11206",
+      "name": "行田市",
+      "full_name": "行田市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11207",
+      "name": "秩父市",
+      "full_name": "秩父市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11208",
+      "name": "所沢市",
+      "full_name": "所沢市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11209",
+      "name": "飯能市",
+      "full_name": "飯能市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11210",
+      "name": "加須市",
+      "full_name": "加須市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11211",
+      "name": "本庄市",
+      "full_name": "本庄市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11212",
+      "name": "東松山市",
+      "full_name": "東松山市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11214",
+      "name": "春日部市",
+      "full_name": "春日部市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11215",
+      "name": "狭山市",
+      "full_name": "狭山市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11216",
+      "name": "羽生市",
+      "full_name": "羽生市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11217",
+      "name": "鴻巣市",
+      "full_name": "鴻巣市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11218",
+      "name": "深谷市",
+      "full_name": "深谷市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11219",
+      "name": "上尾市",
+      "full_name": "上尾市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11221",
+      "name": "草加市",
+      "full_name": "草加市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11222",
+      "name": "越谷市",
+      "full_name": "越谷市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11223",
+      "name": "蕨市",
+      "full_name": "蕨市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11224",
+      "name": "戸田市",
+      "full_name": "戸田市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11225",
+      "name": "入間市",
+      "full_name": "入間市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11227",
+      "name": "朝霞市",
+      "full_name": "朝霞市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11228",
+      "name": "志木市",
+      "full_name": "志木市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11229",
+      "name": "和光市",
+      "full_name": "和光市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11230",
+      "name": "新座市",
+      "full_name": "新座市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11231",
+      "name": "桶川市",
+      "full_name": "桶川市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11232",
+      "name": "久喜市",
+      "full_name": "久喜市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11233",
+      "name": "北本市",
+      "full_name": "北本市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11234",
+      "name": "八潮市",
+      "full_name": "八潮市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11235",
+      "name": "富士見市",
+      "full_name": "富士見市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11237",
+      "name": "三郷市",
+      "full_name": "三郷市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11238",
+      "name": "蓮田市",
+      "full_name": "蓮田市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11239",
+      "name": "坂戸市",
+      "full_name": "坂戸市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11240",
+      "name": "幸手市",
+      "full_name": "幸手市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11241",
+      "name": "鶴ヶ島市",
+      "full_name": "鶴ヶ島市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11242",
+      "name": "日高市",
+      "full_name": "日高市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11243",
+      "name": "吉川市",
+      "full_name": "吉川市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11245",
+      "name": "ふじみ野市",
+      "full_name": "ふじみ野市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11246",
+      "name": "白岡市",
+      "full_name": "白岡市",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "11301",
+      "name": "伊奈町",
+      "full_name": "北足立郡伊奈町",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "北足立郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "11324",
+      "name": "三芳町",
+      "full_name": "入間郡三芳町",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "入間郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "11326",
+      "name": "毛呂山町",
+      "full_name": "入間郡毛呂山町",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "入間郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "11327",
+      "name": "越生町",
+      "full_name": "入間郡越生町",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "入間郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "11341",
+      "name": "滑川町",
+      "full_name": "比企郡滑川町",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "比企郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "11342",
+      "name": "嵐山町",
+      "full_name": "比企郡嵐山町",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "比企郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "11343",
+      "name": "小川町",
+      "full_name": "比企郡小川町",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "比企郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "11346",
+      "name": "川島町",
+      "full_name": "比企郡川島町",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "比企郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "11347",
+      "name": "吉見町",
+      "full_name": "比企郡吉見町",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "比企郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "11348",
+      "name": "鳩山町",
+      "full_name": "比企郡鳩山町",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "比企郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "11349",
+      "name": "ときがわ町",
+      "full_name": "比企郡ときがわ町",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "比企郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "11361",
+      "name": "横瀬町",
+      "full_name": "秩父郡横瀬町",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "秩父郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "11362",
+      "name": "皆野町",
+      "full_name": "秩父郡皆野町",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "秩父郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "11363",
+      "name": "長瀞町",
+      "full_name": "秩父郡長瀞町",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "秩父郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "11365",
+      "name": "小鹿野町",
+      "full_name": "秩父郡小鹿野町",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "秩父郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "11369",
+      "name": "東秩父村",
+      "full_name": "秩父郡東秩父村",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "秩父郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "11381",
+      "name": "美里町",
+      "full_name": "児玉郡美里町",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "児玉郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "11383",
+      "name": "神川町",
+      "full_name": "児玉郡神川町",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "児玉郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "11385",
+      "name": "上里町",
+      "full_name": "児玉郡上里町",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "児玉郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "11408",
+      "name": "寄居町",
+      "full_name": "大里郡寄居町",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "大里郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "11442",
+      "name": "宮代町",
+      "full_name": "南埼玉郡宮代町",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "南埼玉郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "11464",
+      "name": "杉戸町",
+      "full_name": "北葛飾郡杉戸町",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "北葛飾郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "11465",
+      "name": "松伏町",
+      "full_name": "北葛飾郡松伏町",
+      "prefecture": "埼玉県",
+      "county_or_designated_city": "北葛飾郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "埼玉県の市区町村一覧 - 無料ダウンロード",
+    "description": "埼玉県 (Saitama Prefecture) の全市区町村 72 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 72 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "埼玉県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 埼玉県の市区町村一覧 — 72 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 72 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

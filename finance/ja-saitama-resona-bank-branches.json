@@ -1,0 +1,1206 @@
+{
+  "id": "ja-saitama-resona-bank-branches",
+  "name": "埼玉りそな銀行支店コード一覧 (Branch codes of Saitama Resona Bank)",
+  "title": "埼玉りそな銀行支店コード一覧 (Branch codes of Saitama Resona Bank)",
+  "description": "埼玉りそな銀行の全支店コード一覧（コード 0017）。各支店の 3 桁支店番号（branch code）+ 支店名（漢字 / カタカナ / ひらがな / ローマ字）。 Full list of branch codes for 埼玉りそな銀行 (zengin code 0017).",
+  "category": "finance",
+  "source": "https://github.com/zengin-code/source-data",
+  "source_url": "https://github.com/zengin-code/source-data",
+  "updated": "2026-04",
+  "record_count": 114,
+  "columns": [
+    {
+      "key": "bank_code",
+      "label": "Bank Code",
+      "type": "number"
+    },
+    {
+      "key": "bank_name",
+      "label": "Bank Name",
+      "type": "string"
+    },
+    {
+      "key": "bank_slug",
+      "label": "Bank Slug",
+      "type": "string"
+    },
+    {
+      "key": "branch_code",
+      "label": "Branch Code",
+      "type": "number"
+    },
+    {
+      "key": "branch_name",
+      "label": "Branch Name",
+      "type": "string"
+    },
+    {
+      "key": "branch_kana",
+      "label": "Branch Kana",
+      "type": "string"
+    },
+    {
+      "key": "branch_hira",
+      "label": "Branch Hira",
+      "type": "string"
+    },
+    {
+      "key": "branch_roma",
+      "label": "Branch Roma",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "104",
+      "branch_name": "県庁",
+      "branch_kana": "ケンチヨウ",
+      "branch_hira": "けんちよう",
+      "branch_roma": "kenchiyou"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "256",
+      "branch_name": "浦和中央",
+      "branch_kana": "ウラワチユウオウ",
+      "branch_hira": "うらわちゆうおう",
+      "branch_roma": "urawachiyuuou"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "257",
+      "branch_name": "浦和東口",
+      "branch_kana": "ウラワヒガシグチ",
+      "branch_hira": "うらわひがしぐち",
+      "branch_roma": "urawahigashiguchi"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "258",
+      "branch_name": "北浦和",
+      "branch_kana": "キタウラワ",
+      "branch_hira": "きたうらわ",
+      "branch_roma": "kitaurawa"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "326",
+      "branch_name": "南越谷",
+      "branch_kana": "ミナミコシガヤ",
+      "branch_hira": "みなみこしがや",
+      "branch_roma": "minamikoshigaya"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "327",
+      "branch_name": "日高",
+      "branch_kana": "ヒダカ",
+      "branch_hira": "ひだか",
+      "branch_roma": "hidaka"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "333",
+      "branch_name": "伊奈",
+      "branch_kana": "イナ",
+      "branch_hira": "いな",
+      "branch_roma": "ina"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "334",
+      "branch_name": "川口南平",
+      "branch_kana": "カワグチナンペイ",
+      "branch_hira": "かわぐちなんぺい",
+      "branch_roma": "kawaguchinampei"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "335",
+      "branch_name": "与野",
+      "branch_kana": "ヨノ",
+      "branch_hira": "よの",
+      "branch_roma": "yono"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "337",
+      "branch_name": "土呂出張所",
+      "branch_kana": "トロ",
+      "branch_hira": "とろ",
+      "branch_roma": "toro"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "339",
+      "branch_name": "せんげん台",
+      "branch_kana": "センゲンダイ",
+      "branch_hira": "せんげんだい",
+      "branch_roma": "sengendai"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "341",
+      "branch_name": "大井",
+      "branch_kana": "オオイ",
+      "branch_hira": "おおい",
+      "branch_roma": "ooi"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "342",
+      "branch_name": "新河岸出張所",
+      "branch_kana": "シンガシ",
+      "branch_hira": "しんがし",
+      "branch_roma": "shingashi"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "345",
+      "branch_name": "南浦和",
+      "branch_kana": "ミナミウラワ",
+      "branch_hira": "みなみうらわ",
+      "branch_roma": "minamiurawa"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "349",
+      "branch_name": "北浦和西口",
+      "branch_kana": "キタウラワニシグチ",
+      "branch_hira": "きたうらわにしぐち",
+      "branch_roma": "kitaurawanishiguchi"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "353",
+      "branch_name": "武蔵浦和",
+      "branch_kana": "ムサシウラワ",
+      "branch_hira": "むさしうらわ",
+      "branch_roma": "musashiurawa"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "354",
+      "branch_name": "嵐山出張所",
+      "branch_kana": "ランザン",
+      "branch_hira": "らんざん",
+      "branch_roma": "ranzan"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "357",
+      "branch_name": "川口",
+      "branch_kana": "カワグチ",
+      "branch_hira": "かわぐち",
+      "branch_roma": "kawaguchi"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "359",
+      "branch_name": "鳩ケ谷",
+      "branch_kana": "ハトガヤ",
+      "branch_hira": "はとがや",
+      "branch_roma": "hatogaya"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "361",
+      "branch_name": "松伏出張所",
+      "branch_kana": "マツブシ",
+      "branch_hira": "まつぶし",
+      "branch_roma": "matsubushi"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "363",
+      "branch_name": "蕨",
+      "branch_kana": "ワラビ",
+      "branch_hira": "わらび",
+      "branch_roma": "warabi"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "364",
+      "branch_name": "戸田",
+      "branch_kana": "トダ",
+      "branch_hira": "とだ",
+      "branch_roma": "toda"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "365",
+      "branch_name": "西川口",
+      "branch_kana": "ニシカワグチ",
+      "branch_hira": "にしかわぐち",
+      "branch_roma": "nishikawaguchi"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "366",
+      "branch_name": "蕨東",
+      "branch_kana": "ワラビヒガシ",
+      "branch_hira": "わらびひがし",
+      "branch_roma": "warabihigashi"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "368",
+      "branch_name": "東大宮",
+      "branch_kana": "ヒガシオオミヤ",
+      "branch_hira": "ひがしおおみや",
+      "branch_roma": "higashioomiya"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "369",
+      "branch_name": "大宮",
+      "branch_kana": "オオミヤ",
+      "branch_hira": "おおみや",
+      "branch_roma": "oomiya"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "370",
+      "branch_name": "大宮西",
+      "branch_kana": "オオミヤニシ",
+      "branch_hira": "おおみやにし",
+      "branch_roma": "oomiyanishi"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "377",
+      "branch_name": "上尾",
+      "branch_kana": "アゲオ",
+      "branch_hira": "あげお",
+      "branch_roma": "ageo"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "378",
+      "branch_name": "桶川",
+      "branch_kana": "オケガワ",
+      "branch_hira": "おけがわ",
+      "branch_roma": "okegawa"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "379",
+      "branch_name": "北本",
+      "branch_kana": "キタモト",
+      "branch_hira": "きたもと",
+      "branch_roma": "kitamoto"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "380",
+      "branch_name": "鴻巣",
+      "branch_kana": "コウノス",
+      "branch_hira": "こうのす",
+      "branch_roma": "kounosu"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "381",
+      "branch_name": "岩槻",
+      "branch_kana": "イワツキ",
+      "branch_hira": "いわつき",
+      "branch_roma": "iwatsuki"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "382",
+      "branch_name": "蓮田",
+      "branch_kana": "ハスダ",
+      "branch_hira": "はすだ",
+      "branch_roma": "hasuda"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "383",
+      "branch_name": "白岡",
+      "branch_kana": "シラオカ",
+      "branch_hira": "しらおか",
+      "branch_roma": "shiraoka"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "384",
+      "branch_name": "川越",
+      "branch_kana": "カワゴエ",
+      "branch_hira": "かわごえ",
+      "branch_roma": "kawagoe"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "385",
+      "branch_name": "川越南",
+      "branch_kana": "カワゴエミナミ",
+      "branch_hira": "かわごえみなみ",
+      "branch_roma": "kawagoeminami"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "386",
+      "branch_name": "本川越",
+      "branch_kana": "ホンカワゴエ",
+      "branch_hira": "ほんかわごえ",
+      "branch_roma": "honkawagoe"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "387",
+      "branch_name": "上福岡",
+      "branch_kana": "カミフクオカ",
+      "branch_hira": "かみふくおか",
+      "branch_roma": "kamifukuoka"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "388",
+      "branch_name": "志木",
+      "branch_kana": "シキ",
+      "branch_hira": "しき",
+      "branch_roma": "shiki"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "389",
+      "branch_name": "朝霞",
+      "branch_kana": "アサカ",
+      "branch_hira": "あさか",
+      "branch_roma": "asaka"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "398",
+      "branch_name": "坂戸",
+      "branch_kana": "サカド",
+      "branch_hira": "さかど",
+      "branch_roma": "sakado"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "400",
+      "branch_name": "浦和美園出張所",
+      "branch_kana": "ウラワミソノ",
+      "branch_hira": "うらわみその",
+      "branch_roma": "urawamisono"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "401",
+      "branch_name": "越谷レイクタウン出張所",
+      "branch_kana": "コシガヤレイクタウン",
+      "branch_hira": "こしがやれいくたうん",
+      "branch_roma": "koshigayareikutaun"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "404",
+      "branch_name": "東松山",
+      "branch_kana": "ヒガシマツヤマ",
+      "branch_hira": "ひがしまつやま",
+      "branch_roma": "higashimatsuyama"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "482",
+      "branch_name": "小川",
+      "branch_kana": "オガワ",
+      "branch_hira": "おがわ",
+      "branch_roma": "ogawa"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "483",
+      "branch_name": "狭山",
+      "branch_kana": "サヤマ",
+      "branch_hira": "さやま",
+      "branch_roma": "sayama"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "484",
+      "branch_name": "所沢",
+      "branch_kana": "トコロザワ",
+      "branch_hira": "ところざわ",
+      "branch_roma": "tokorozawa"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "485",
+      "branch_name": "新所沢",
+      "branch_kana": "シントコロザワ",
+      "branch_hira": "しんところざわ",
+      "branch_roma": "shintokorozawa"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "486",
+      "branch_name": "鶴瀬",
+      "branch_kana": "ツルセ",
+      "branch_hira": "つるせ",
+      "branch_roma": "tsuruse"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "487",
+      "branch_name": "和光",
+      "branch_kana": "ワコウ",
+      "branch_hira": "わこう",
+      "branch_roma": "wakou"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "488",
+      "branch_name": "日進",
+      "branch_kana": "ニツシン",
+      "branch_hira": "につしん",
+      "branch_roma": "nitsushin"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "490",
+      "branch_name": "霞ケ関",
+      "branch_kana": "カスミガセキ",
+      "branch_hira": "かすみがせき",
+      "branch_roma": "kasumigaseki"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "491",
+      "branch_name": "新座",
+      "branch_kana": "ニイザ",
+      "branch_hira": "にいざ",
+      "branch_roma": "niiza"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "492",
+      "branch_name": "宮原",
+      "branch_kana": "ミヤハラ",
+      "branch_hira": "みやはら",
+      "branch_roma": "miyahara"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "493",
+      "branch_name": "上尾西口",
+      "branch_kana": "アゲオニシグチ",
+      "branch_hira": "あげおにしぐち",
+      "branch_roma": "ageonishiguchi"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "494",
+      "branch_name": "飯能",
+      "branch_kana": "ハンノウ",
+      "branch_hira": "はんのう",
+      "branch_roma": "hannou"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "497",
+      "branch_name": "入間",
+      "branch_kana": "イルマ",
+      "branch_hira": "いるま",
+      "branch_roma": "iruma"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "499",
+      "branch_name": "鶴ケ島",
+      "branch_kana": "ツルガシマ",
+      "branch_hira": "つるがしま",
+      "branch_roma": "tsurugashima"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "500",
+      "branch_name": "さいたま営業部",
+      "branch_kana": "サイタマ",
+      "branch_hira": "さいたま",
+      "branch_roma": "saitama"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "502",
+      "branch_name": "新狭山",
+      "branch_kana": "シンサヤマ",
+      "branch_hira": "しんさやま",
+      "branch_roma": "shinsayama"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "503",
+      "branch_name": "松原",
+      "branch_kana": "マツバラ",
+      "branch_hira": "まつばら",
+      "branch_roma": "matsubara"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "504",
+      "branch_name": "春日部",
+      "branch_kana": "カスカベ",
+      "branch_hira": "かすかべ",
+      "branch_roma": "kasukabe"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "505",
+      "branch_name": "草加",
+      "branch_kana": "ソウカ",
+      "branch_hira": "そうか",
+      "branch_roma": "souka"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "506",
+      "branch_name": "越谷",
+      "branch_kana": "コシガヤ",
+      "branch_hira": "こしがや",
+      "branch_roma": "koshigaya"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "507",
+      "branch_name": "吉川",
+      "branch_kana": "ヨシカワ",
+      "branch_hira": "よしかわ",
+      "branch_roma": "yoshikawa"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "508",
+      "branch_name": "杉戸",
+      "branch_kana": "スギト",
+      "branch_hira": "すぎと",
+      "branch_roma": "sugito"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "509",
+      "branch_name": "幸手",
+      "branch_kana": "サツテ",
+      "branch_hira": "さつて",
+      "branch_roma": "satsute"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "561",
+      "branch_name": "久喜",
+      "branch_kana": "クキ",
+      "branch_hira": "くき",
+      "branch_roma": "kuki"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "562",
+      "branch_name": "栗橋",
+      "branch_kana": "クリハシ",
+      "branch_hira": "くりはし",
+      "branch_roma": "kurihashi"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "563",
+      "branch_name": "菖蒲",
+      "branch_kana": "シヨウブ",
+      "branch_hira": "しようぶ",
+      "branch_roma": "shiyoubu"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "564",
+      "branch_name": "武里",
+      "branch_kana": "タケサト",
+      "branch_hira": "たけさと",
+      "branch_roma": "takesato"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "565",
+      "branch_name": "行田",
+      "branch_kana": "ギヨウダ",
+      "branch_hira": "ぎようだ",
+      "branch_roma": "giyouda"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "566",
+      "branch_name": "羽生",
+      "branch_kana": "ハニユウ",
+      "branch_hira": "はにゆう",
+      "branch_roma": "haniyuu"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "567",
+      "branch_name": "加須",
+      "branch_kana": "カゾ",
+      "branch_hira": "かぞ",
+      "branch_roma": "kazo"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "568",
+      "branch_name": "騎西",
+      "branch_kana": "キサイ",
+      "branch_hira": "きさい",
+      "branch_roma": "kisai"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "570",
+      "branch_name": "吹上",
+      "branch_kana": "フキアゲ",
+      "branch_hira": "ふきあげ",
+      "branch_roma": "fukiage"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "571",
+      "branch_name": "東岩槻",
+      "branch_kana": "ヒガシイワツキ",
+      "branch_hira": "ひがしいわつき",
+      "branch_roma": "higashiiwatsuki"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "572",
+      "branch_name": "三郷",
+      "branch_kana": "ミサト",
+      "branch_hira": "みさと",
+      "branch_roma": "misato"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "573",
+      "branch_name": "春日部西口",
+      "branch_kana": "カスカベニシグチ",
+      "branch_hira": "かすかべにしぐち",
+      "branch_roma": "kasukabenishiguchi"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "574",
+      "branch_name": "熊谷",
+      "branch_kana": "クマガヤ",
+      "branch_hira": "くまがや",
+      "branch_roma": "kumagaya"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "575",
+      "branch_name": "熊谷駅前",
+      "branch_kana": "クマガヤエキマエ",
+      "branch_hira": "くまがやえきまえ",
+      "branch_roma": "kumagayaekimae"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "577",
+      "branch_name": "妻沼",
+      "branch_kana": "メヌマ",
+      "branch_hira": "めぬま",
+      "branch_roma": "menuma"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "578",
+      "branch_name": "寄居",
+      "branch_kana": "ヨリイ",
+      "branch_hira": "よりい",
+      "branch_roma": "yorii"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "579",
+      "branch_name": "児玉",
+      "branch_kana": "コダマ",
+      "branch_hira": "こだま",
+      "branch_roma": "kodama"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "580",
+      "branch_name": "深谷",
+      "branch_kana": "フカヤ",
+      "branch_hira": "ふかや",
+      "branch_roma": "fukaya"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "581",
+      "branch_name": "岡部",
+      "branch_kana": "オカベ",
+      "branch_hira": "おかべ",
+      "branch_roma": "okabe"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "582",
+      "branch_name": "本庄",
+      "branch_kana": "ホンジヨウ",
+      "branch_hira": "ほんじよう",
+      "branch_roma": "honjiyou"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "583",
+      "branch_name": "武蔵藤沢",
+      "branch_kana": "ムサシフジサワ",
+      "branch_hira": "むさしふじさわ",
+      "branch_roma": "musashifujisawa"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "584",
+      "branch_name": "秩父",
+      "branch_kana": "チチブ",
+      "branch_hira": "ちちぶ",
+      "branch_roma": "chichibu"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "585",
+      "branch_name": "皆野",
+      "branch_kana": "ミナノ",
+      "branch_hira": "みなの",
+      "branch_roma": "minano"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "586",
+      "branch_name": "小鹿野",
+      "branch_kana": "オガノ",
+      "branch_hira": "おがの",
+      "branch_roma": "ogano"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "589",
+      "branch_name": "越生毛呂山",
+      "branch_kana": "オゴセモロヤマ",
+      "branch_hira": "おごせもろやま",
+      "branch_roma": "ogosemoroyama"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "590",
+      "branch_name": "八潮",
+      "branch_kana": "ヤシオ",
+      "branch_hira": "やしお",
+      "branch_roma": "yashio"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "591",
+      "branch_name": "北越谷",
+      "branch_kana": "キタコシガヤ",
+      "branch_hira": "きたこしがや",
+      "branch_roma": "kitakoshigaya"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "666",
+      "branch_name": "所沢東口",
+      "branch_kana": "トコロザワヒガシグチ",
+      "branch_hira": "ところざわひがしぐち",
+      "branch_roma": "tokorozawahigashiguchi"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "673",
+      "branch_name": "東浦和",
+      "branch_kana": "ヒガシウラワ",
+      "branch_hira": "ひがしうらわ",
+      "branch_roma": "higashiurawa"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "674",
+      "branch_name": "ふじみ野",
+      "branch_kana": "フジミノ",
+      "branch_hira": "ふじみの",
+      "branch_roma": "fujimino"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "681",
+      "branch_name": "さいたま新都心",
+      "branch_kana": "サイタマシントシン",
+      "branch_hira": "さいたましんとしん",
+      "branch_roma": "saitamashintoshin"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "683",
+      "branch_name": "東川口",
+      "branch_kana": "ヒガシカワグチ",
+      "branch_hira": "ひがしかわぐち",
+      "branch_roma": "higashikawaguchi"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "756",
+      "branch_name": "東京",
+      "branch_kana": "トウキヨウ",
+      "branch_hira": "とうきよう",
+      "branch_roma": "toukiyou"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "788",
+      "branch_name": "指扇",
+      "branch_kana": "サシオウギ",
+      "branch_hira": "さしおうぎ",
+      "branch_roma": "sashiougi"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "789",
+      "branch_name": "庄和",
+      "branch_kana": "シヨウワ",
+      "branch_hira": "しようわ",
+      "branch_roma": "shiyouwa"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "791",
+      "branch_name": "宮代",
+      "branch_kana": "ミヤシロ",
+      "branch_hira": "みやしろ",
+      "branch_roma": "miyashiro"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "792",
+      "branch_name": "みずほ台",
+      "branch_kana": "ミズホダイ",
+      "branch_hira": "みずほだい",
+      "branch_roma": "mizuhodai"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "793",
+      "branch_name": "七里",
+      "branch_kana": "ナナサト",
+      "branch_hira": "ななさと",
+      "branch_roma": "nanasato"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "794",
+      "branch_name": "鷲宮",
+      "branch_kana": "ワシノミヤ",
+      "branch_hira": "わしのみや",
+      "branch_roma": "washinomiya"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "795",
+      "branch_name": "籠原",
+      "branch_kana": "カゴハラ",
+      "branch_hira": "かごはら",
+      "branch_roma": "kagohara"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "796",
+      "branch_name": "小手指",
+      "branch_kana": "コテサシ",
+      "branch_hira": "こてさし",
+      "branch_roma": "kotesashi"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "834",
+      "branch_name": "住宅ローン",
+      "branch_kana": "ジユウタクロ－ン",
+      "branch_hira": "じゆうたくろ－ん",
+      "branch_roma": "jiyuutakuro-n"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "918",
+      "branch_name": "埼玉エイティエム",
+      "branch_kana": "サイタマエイテイエム",
+      "branch_hira": "さいたまえいていえむ",
+      "branch_roma": "saitamaeiteiemu"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "936",
+      "branch_name": "けやき",
+      "branch_kana": "ケヤキ",
+      "branch_hira": "けやき",
+      "branch_roma": "keyaki"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "938",
+      "branch_name": "さくらそう",
+      "branch_kana": "サクラソウ",
+      "branch_hira": "さくらそう",
+      "branch_roma": "sakurasou"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "941",
+      "branch_name": "しらこばと",
+      "branch_kana": "シラコバト",
+      "branch_hira": "しらこばと",
+      "branch_roma": "shirakobato"
+    },
+    {
+      "bank_code": "0017",
+      "bank_name": "埼玉りそな",
+      "bank_slug": "saitamarisona",
+      "branch_code": "942",
+      "branch_name": "かわせみ",
+      "branch_kana": "カワセミ",
+      "branch_hira": "かわせみ",
+      "branch_roma": "kawasemi"
+    }
+  ],
+  "meta": {
+    "title": "埼玉りそな銀行支店コード一覧 (Branch codes of Saitama Resona Bank) - 無料ダウンロード",
+    "description": "埼玉りそな銀行の全支店コード一覧（コード 0017）。各支店の 3 桁支店番号（branch code）+ 支店名（漢字 / カタカナ / ひらがな / ローマ字）。 Full list of branch codes for 埼玉りそな銀行 (zengin code 0017). 収録数 114 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "埼玉りそな銀行支店コード一覧 (Branch codes of Saitama Resona Bank) | ListBase",
+    "seo_description": "ダウンロード 埼玉りそな銀行支店コード一覧 (Branch codes of Saitama Resona Bank) — 114 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 114 件 / 8 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/zengin-code/source-data"
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "id": "ja-yamagata-municipalities",
+  "name": "山形県の市区町村一覧 (Municipalities of Yamagata — JIS X 0402)",
+  "title": "山形県の市区町村一覧 (Municipalities of Yamagata — JIS X 0402)",
+  "description": "山形県 (Yamagata Prefecture) の市区町村一覧 35 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 35 active municipalities (cities/wards/towns/villages) of Yamagata Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "06201",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "山形市",
+      "city_kana": "ヤマガタシ"
+    },
+    {
+      "jisx0402": "06202",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "米沢市",
+      "city_kana": "ヨネザワシ"
+    },
+    {
+      "jisx0402": "06203",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "鶴岡市",
+      "city_kana": "ツルオカシ"
+    },
+    {
+      "jisx0402": "06204",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "酒田市",
+      "city_kana": "サカタシ"
+    },
+    {
+      "jisx0402": "06205",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "新庄市",
+      "city_kana": "シンジョウシ"
+    },
+    {
+      "jisx0402": "06206",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "寒河江市",
+      "city_kana": "サガエシ"
+    },
+    {
+      "jisx0402": "06207",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "上山市",
+      "city_kana": "カミノヤマシ"
+    },
+    {
+      "jisx0402": "06208",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "村山市",
+      "city_kana": "ムラヤマシ"
+    },
+    {
+      "jisx0402": "06209",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "長井市",
+      "city_kana": "ナガイシ"
+    },
+    {
+      "jisx0402": "06210",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "天童市",
+      "city_kana": "テンドウシ"
+    },
+    {
+      "jisx0402": "06211",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "東根市",
+      "city_kana": "ヒガシネシ"
+    },
+    {
+      "jisx0402": "06212",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "尾花沢市",
+      "city_kana": "オバナザワシ"
+    },
+    {
+      "jisx0402": "06213",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "南陽市",
+      "city_kana": "ナンヨウシ"
+    },
+    {
+      "jisx0402": "06301",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "東村山郡山辺町",
+      "city_kana": "ヒガシムラヤマグンヤマノベマチ"
+    },
+    {
+      "jisx0402": "06302",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "東村山郡中山町",
+      "city_kana": "ヒガシムラヤマグンナカヤママチ"
+    },
+    {
+      "jisx0402": "06321",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "西村山郡河北町",
+      "city_kana": "ニシムラヤマグンカホクチョウ"
+    },
+    {
+      "jisx0402": "06322",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "西村山郡西川町",
+      "city_kana": "ニシムラヤマグンニシカワマチ"
+    },
+    {
+      "jisx0402": "06323",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "西村山郡朝日町",
+      "city_kana": "ニシムラヤマグンアサヒマチ"
+    },
+    {
+      "jisx0402": "06324",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "西村山郡大江町",
+      "city_kana": "ニシムラヤマグンオオエマチ"
+    },
+    {
+      "jisx0402": "06341",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "北村山郡大石田町",
+      "city_kana": "キタムラヤマグンオオイシダマチ"
+    },
+    {
+      "jisx0402": "06361",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "最上郡金山町",
+      "city_kana": "モガミグンカネヤママチ"
+    },
+    {
+      "jisx0402": "06362",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "最上郡最上町",
+      "city_kana": "モガミグンモガミマチ"
+    },
+    {
+      "jisx0402": "06363",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "最上郡舟形町",
+      "city_kana": "モガミグンフナガタマチ"
+    },
+    {
+      "jisx0402": "06364",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "最上郡真室川町",
+      "city_kana": "モガミグンマムロガワマチ"
+    },
+    {
+      "jisx0402": "06365",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "最上郡大蔵村",
+      "city_kana": "モガミグンオオクラムラ"
+    },
+    {
+      "jisx0402": "06366",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "最上郡鮭川村",
+      "city_kana": "モガミグンサケガワムラ"
+    },
+    {
+      "jisx0402": "06367",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "最上郡戸沢村",
+      "city_kana": "モガミグントザワムラ"
+    },
+    {
+      "jisx0402": "06381",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "東置賜郡高畠町",
+      "city_kana": "ヒガシオキタマグンタカハタマチ"
+    },
+    {
+      "jisx0402": "06382",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "東置賜郡川西町",
+      "city_kana": "ヒガシオキタマグンカワニシマチ"
+    },
+    {
+      "jisx0402": "06401",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "西置賜郡小国町",
+      "city_kana": "ニシオキタマグンオグニマチ"
+    },
+    {
+      "jisx0402": "06402",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "西置賜郡白鷹町",
+      "city_kana": "ニシオキタマグンシラタカマチ"
+    },
+    {
+      "jisx0402": "06403",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "西置賜郡飯豊町",
+      "city_kana": "ニシオキタマグンイイデマチ"
+    },
+    {
+      "jisx0402": "06426",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "東田川郡三川町",
+      "city_kana": "ヒガシタガワグンミカワマチ"
+    },
+    {
+      "jisx0402": "06428",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "東田川郡庄内町",
+      "city_kana": "ヒガシタガワグンショウナイマチ"
+    },
+    {
+      "jisx0402": "06461",
+      "prefecture_code": "06",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "city": "飽海郡遊佐町",
+      "city_kana": "アクミグンユザマチ"
+    }
+  ],
+  "meta": {
+    "title": "山形県の市区町村一覧 (Municipalities of Yamagata — JIS X 0402) - 無料ダウンロード",
+    "description": "山形県 (Yamagata Prefecture) の市区町村一覧 35 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 35 active municipalities (cities/wards/towns/villages) of Yamagata Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 35 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "山形県の市区町村一覧 (Municipalities of Yamagata — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 山形県の市区町村一覧 (Municipalities of Yamagata — JIS X 0402) — 35 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 35 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

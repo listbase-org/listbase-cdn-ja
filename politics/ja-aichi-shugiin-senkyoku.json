@@ -1,0 +1,196 @@
+{
+  "id": "ja-aichi-shugiin-senkyoku",
+  "name": "愛知県衆議院小選挙区 (Aichi House of Representatives Electoral Districts)",
+  "title": "愛知県衆議院小選挙区 (Aichi House of Representatives Electoral Districts)",
+  "description": "愛知県内の衆議院小選挙区 15 件。ja-shugiin-senkyoku（全国 289 件）から都道府県コード 23 のレコードのみを抽出。スキーマは同一。15 single-member electoral districts in Aichi Prefecture, filtered from the national list (289). Same schema.",
+  "category": "politics",
+  "source": "https://github.com/smartnews-smri/japan-topography",
+  "source_url": "https://github.com/smartnews-smri/japan-topography",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "kucode",
+      "label": "Kucode",
+      "type": "number"
+    },
+    {
+      "key": "constituency",
+      "label": "Constituency",
+      "type": "string"
+    },
+    {
+      "key": "constituency_en",
+      "label": "Constituency En",
+      "type": "string"
+    },
+    {
+      "key": "district_number",
+      "label": "District Number",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_en",
+      "label": "Prefecture En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kucode": 2301,
+      "constituency": "愛知1区",
+      "constituency_en": "Aichi 1",
+      "district_number": 1,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2302,
+      "constituency": "愛知2区",
+      "constituency_en": "Aichi 2",
+      "district_number": 2,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2303,
+      "constituency": "愛知3区",
+      "constituency_en": "Aichi 3",
+      "district_number": 3,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2304,
+      "constituency": "愛知4区",
+      "constituency_en": "Aichi 4",
+      "district_number": 4,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2305,
+      "constituency": "愛知5区",
+      "constituency_en": "Aichi 5",
+      "district_number": 5,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2306,
+      "constituency": "愛知6区",
+      "constituency_en": "Aichi 6",
+      "district_number": 6,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2307,
+      "constituency": "愛知7区",
+      "constituency_en": "Aichi 7",
+      "district_number": 7,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2308,
+      "constituency": "愛知8区",
+      "constituency_en": "Aichi 8",
+      "district_number": 8,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2309,
+      "constituency": "愛知9区",
+      "constituency_en": "Aichi 9",
+      "district_number": 9,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2310,
+      "constituency": "愛知10区",
+      "constituency_en": "Aichi 10",
+      "district_number": 10,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2311,
+      "constituency": "愛知11区",
+      "constituency_en": "Aichi 11",
+      "district_number": 11,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2312,
+      "constituency": "愛知12区",
+      "constituency_en": "Aichi 12",
+      "district_number": 12,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2313,
+      "constituency": "愛知13区",
+      "constituency_en": "Aichi 13",
+      "district_number": 13,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2314,
+      "constituency": "愛知14区",
+      "constituency_en": "Aichi 14",
+      "district_number": 14,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    },
+    {
+      "kucode": 2315,
+      "constituency": "愛知15区",
+      "constituency_en": "Aichi 15",
+      "district_number": 15,
+      "prefecture_code": "23",
+      "prefecture": "愛知県",
+      "prefecture_en": "Aichi"
+    }
+  ],
+  "meta": {
+    "title": "愛知県衆議院小選挙区 (Aichi House of Representatives Electoral Districts) - 無料ダウンロード",
+    "description": "愛知県内の衆議院小選挙区 15 件。ja-shugiin-senkyoku（全国 289 件）から都道府県コード 23 のレコードのみを抽出。スキーマは同一。15 single-member electoral districts in Aichi Prefecture, filtered from the national list (289). Same schema. 収録数 15 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "愛知県衆議院小選挙区 (Aichi House of Representatives Electoral Districts) | ListBase",
+    "seo_description": "ダウンロード 愛知県衆議院小選挙区 (Aichi House of Representatives Electoral Districts) — 15 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 15 件 / 7 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/smartnews-smri/japan-topography"
+    ]
+  }
+}

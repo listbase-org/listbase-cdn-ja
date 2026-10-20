@@ -1,0 +1,196 @@
+{
+  "id": "ja-banks-trust",
+  "name": "信託銀行一覧 (Trust banks of Japan)",
+  "title": "信託銀行一覧 (Trust banks of Japan)",
+  "description": "日本の信託銀行（しんたくぎんこう）の一覧。 List of Japanese trust banks (shintaku-ginko).",
+  "category": "reference",
+  "source": "https://github.com/zengin-code/source-data",
+  "source_url": "https://github.com/zengin-code/source-data",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "kana",
+      "label": "Kana",
+      "type": "string"
+    },
+    {
+      "key": "hira",
+      "label": "Hira",
+      "type": "string"
+    },
+    {
+      "key": "roma",
+      "label": "Roma",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "category_ja",
+      "label": "Category Ja",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "0288",
+      "name": "三菱ＵＦＪ信託",
+      "kana": "ミツビシＵＦＪシンタク",
+      "hira": "みつびしＵＦＪしんたく",
+      "roma": "mitsubishiufjshintaku",
+      "slug": "mitsubishiufjshintaku",
+      "category": "trust_bank",
+      "category_ja": "信託銀行"
+    },
+    {
+      "code": "0289",
+      "name": "みずほ信託",
+      "kana": "ミズホシンタク",
+      "hira": "みずほしんたく",
+      "roma": "mizuhoshintaku",
+      "slug": "mizuhoshintaku",
+      "category": "trust_bank",
+      "category_ja": "信託銀行"
+    },
+    {
+      "code": "0294",
+      "name": "三井住友信託",
+      "kana": "ミツイスミトモシンタク",
+      "hira": "みついすみともしんたく",
+      "roma": "mitsuisumitomoshintaku",
+      "slug": "mitsuisumitomoshintaku",
+      "category": "trust_bank",
+      "category_ja": "信託銀行"
+    },
+    {
+      "code": "0295",
+      "name": "ニューヨークメロン信託",
+      "kana": "ニユ－ヨ－クメロンシンタク",
+      "hira": "にゆ－よ－くめろんしんたく",
+      "roma": "niyu-yo-kumeronshintaku",
+      "slug": "niyu-yo-kumeronshintaku",
+      "category": "trust_bank",
+      "category_ja": "信託銀行"
+    },
+    {
+      "code": "0297",
+      "name": "日本マスタートラスト信託",
+      "kana": "ニホンマスタ－トラストシンタク",
+      "hira": "にほんますた－とらすとしんたく",
+      "roma": "nihommasuta-torasutoshintaku",
+      "slug": "nihommasuta-torasutoshintaku",
+      "category": "trust_bank",
+      "category_ja": "信託銀行"
+    },
+    {
+      "code": "0300",
+      "name": "ＳＭＢＣ信託",
+      "kana": "エスエムビ－シ－シンタク",
+      "hira": "えすえむび－し－しんたく",
+      "roma": "esuemubi-shi-shintaku",
+      "slug": "esuemubi-shi-shintaku",
+      "category": "trust_bank",
+      "category_ja": "信託銀行"
+    },
+    {
+      "code": "0304",
+      "name": "野村信託",
+      "kana": "ノムラシンタク",
+      "hira": "のむらしんたく",
+      "roma": "nomurashintaku",
+      "slug": "nomurashintaku",
+      "category": "trust_bank",
+      "category_ja": "信託銀行"
+    },
+    {
+      "code": "0307",
+      "name": "オリックス",
+      "kana": "オリツクス",
+      "hira": "おりつくす",
+      "roma": "oritsukusu",
+      "slug": "oritsukusu",
+      "category": "trust_bank",
+      "category_ja": "信託銀行"
+    },
+    {
+      "code": "0310",
+      "name": "ＧＭＯあおぞらネット",
+      "kana": "ジ－エムオ－アオゾラネツト",
+      "hira": "じ－えむお－あおぞらねつと",
+      "roma": "ji-emuo-aozoranetsuto",
+      "slug": "ji-emuo-aozoranetsuto",
+      "category": "trust_bank",
+      "category_ja": "信託銀行"
+    },
+    {
+      "code": "0311",
+      "name": "農中信託",
+      "kana": "ノウチユウシンタク",
+      "hira": "のうちゆうしんたく",
+      "roma": "nouchiyuushintaku",
+      "slug": "nouchiyuushintaku",
+      "category": "trust_bank",
+      "category_ja": "信託銀行"
+    },
+    {
+      "code": "0320",
+      "name": "新生信託",
+      "kana": "シンセイシンタク",
+      "hira": "しんせいしんたく",
+      "roma": "shinseishintaku",
+      "slug": "shinseishintaku",
+      "category": "trust_bank",
+      "category_ja": "信託銀行"
+    },
+    {
+      "code": "0321",
+      "name": "日証金信託",
+      "kana": "ニツシヨウキンシンタク",
+      "hira": "につしようきんしんたく",
+      "roma": "nitsushiyoukinshintaku",
+      "slug": "nitsushiyoukinshintaku",
+      "category": "trust_bank",
+      "category_ja": "信託銀行"
+    },
+    {
+      "code": "0324",
+      "name": "日本カストディ",
+      "kana": "ニホンカストデイ",
+      "hira": "にほんかすとでい",
+      "roma": "nihonkasutodei",
+      "slug": "nihonkasutodei",
+      "category": "trust_bank",
+      "category_ja": "信託銀行"
+    }
+  ],
+  "meta": {
+    "title": "信託銀行一覧 (Trust banks of Japan) - 無料ダウンロード",
+    "description": "日本の信託銀行（しんたくぎんこう）の一覧。 List of Japanese trust banks (shintaku-ginko). 収録数 13 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "信託銀行一覧 (Trust banks of Japan) | ListBase",
+    "seo_description": "ダウンロード 信託銀行一覧 (Trust banks of Japan) — 13 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 13 件 / 8 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/zengin-code/source-data"
+    ]
+  }
+}

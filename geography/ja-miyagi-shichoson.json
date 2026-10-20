@@ -1,0 +1,368 @@
+{
+  "id": "ja-miyagi-shichoson",
+  "name": "宮城県の市区町村一覧",
+  "title": "宮城県の市区町村一覧",
+  "description": "宮城県 (Miyagi Prefecture) の全市区町村 39 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "04101",
+      "name": "青葉区",
+      "full_name": "仙台市青葉区",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "仙台市",
+      "subprefecture": ""
+    },
+    {
+      "code": "04102",
+      "name": "宮城野区",
+      "full_name": "仙台市宮城野区",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "仙台市",
+      "subprefecture": ""
+    },
+    {
+      "code": "04103",
+      "name": "若林区",
+      "full_name": "仙台市若林区",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "仙台市",
+      "subprefecture": ""
+    },
+    {
+      "code": "04104",
+      "name": "太白区",
+      "full_name": "仙台市太白区",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "仙台市",
+      "subprefecture": ""
+    },
+    {
+      "code": "04105",
+      "name": "泉区",
+      "full_name": "仙台市泉区",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "仙台市",
+      "subprefecture": ""
+    },
+    {
+      "code": "04202",
+      "name": "石巻市",
+      "full_name": "石巻市",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "04203",
+      "name": "塩竈市",
+      "full_name": "塩竈市",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "04205",
+      "name": "気仙沼市",
+      "full_name": "気仙沼市",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "04206",
+      "name": "白石市",
+      "full_name": "白石市",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "04207",
+      "name": "名取市",
+      "full_name": "名取市",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "04208",
+      "name": "角田市",
+      "full_name": "角田市",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "04209",
+      "name": "多賀城市",
+      "full_name": "多賀城市",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "04211",
+      "name": "岩沼市",
+      "full_name": "岩沼市",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "04212",
+      "name": "登米市",
+      "full_name": "登米市",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "04213",
+      "name": "栗原市",
+      "full_name": "栗原市",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "04214",
+      "name": "東松島市",
+      "full_name": "東松島市",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "04215",
+      "name": "大崎市",
+      "full_name": "大崎市",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "04216",
+      "name": "富谷市",
+      "full_name": "富谷市",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "04301",
+      "name": "蔵王町",
+      "full_name": "刈田郡蔵王町",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "刈田郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "04302",
+      "name": "七ヶ宿町",
+      "full_name": "刈田郡七ヶ宿町",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "刈田郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "04321",
+      "name": "大河原町",
+      "full_name": "柴田郡大河原町",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "柴田郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "04322",
+      "name": "村田町",
+      "full_name": "柴田郡村田町",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "柴田郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "04323",
+      "name": "柴田町",
+      "full_name": "柴田郡柴田町",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "柴田郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "04324",
+      "name": "川崎町",
+      "full_name": "柴田郡川崎町",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "柴田郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "04341",
+      "name": "丸森町",
+      "full_name": "伊具郡丸森町",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "伊具郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "04361",
+      "name": "亘理町",
+      "full_name": "亘理郡亘理町",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "亘理郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "04362",
+      "name": "山元町",
+      "full_name": "亘理郡山元町",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "亘理郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "04401",
+      "name": "松島町",
+      "full_name": "宮城郡松島町",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "宮城郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "04404",
+      "name": "七ヶ浜町",
+      "full_name": "宮城郡七ヶ浜町",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "宮城郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "04406",
+      "name": "利府町",
+      "full_name": "宮城郡利府町",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "宮城郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "04421",
+      "name": "大和町",
+      "full_name": "黒川郡大和町",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "黒川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "04422",
+      "name": "大郷町",
+      "full_name": "黒川郡大郷町",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "黒川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "04424",
+      "name": "大衡村",
+      "full_name": "黒川郡大衡村",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "黒川郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "04444",
+      "name": "色麻町",
+      "full_name": "加美郡色麻町",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "加美郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "04445",
+      "name": "加美町",
+      "full_name": "加美郡加美町",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "加美郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "04501",
+      "name": "涌谷町",
+      "full_name": "遠田郡涌谷町",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "遠田郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "04505",
+      "name": "美里町",
+      "full_name": "遠田郡美里町",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "遠田郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "04581",
+      "name": "女川町",
+      "full_name": "牡鹿郡女川町",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "牡鹿郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "04606",
+      "name": "南三陸町",
+      "full_name": "本吉郡南三陸町",
+      "prefecture": "宮城県",
+      "county_or_designated_city": "本吉郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "宮城県の市区町村一覧 - 無料ダウンロード",
+    "description": "宮城県 (Miyagi Prefecture) の全市区町村 39 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 39 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "宮城県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 宮城県の市区町村一覧 — 39 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 39 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

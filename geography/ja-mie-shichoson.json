@@ -1,0 +1,288 @@
+{
+  "id": "ja-mie-shichoson",
+  "name": "三重県の市区町村一覧",
+  "title": "三重県の市区町村一覧",
+  "description": "三重県 (Mie Prefecture) の全市区町村 29 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "24201",
+      "name": "津市",
+      "full_name": "津市",
+      "prefecture": "三重県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "24202",
+      "name": "四日市市",
+      "full_name": "四日市市",
+      "prefecture": "三重県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "24203",
+      "name": "伊勢市",
+      "full_name": "伊勢市",
+      "prefecture": "三重県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "24204",
+      "name": "松阪市",
+      "full_name": "松阪市",
+      "prefecture": "三重県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "24205",
+      "name": "桑名市",
+      "full_name": "桑名市",
+      "prefecture": "三重県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "24207",
+      "name": "鈴鹿市",
+      "full_name": "鈴鹿市",
+      "prefecture": "三重県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "24208",
+      "name": "名張市",
+      "full_name": "名張市",
+      "prefecture": "三重県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "24209",
+      "name": "尾鷲市",
+      "full_name": "尾鷲市",
+      "prefecture": "三重県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "24210",
+      "name": "亀山市",
+      "full_name": "亀山市",
+      "prefecture": "三重県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "24211",
+      "name": "鳥羽市",
+      "full_name": "鳥羽市",
+      "prefecture": "三重県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "24212",
+      "name": "熊野市",
+      "full_name": "熊野市",
+      "prefecture": "三重県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "24214",
+      "name": "いなべ市",
+      "full_name": "いなべ市",
+      "prefecture": "三重県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "24215",
+      "name": "志摩市",
+      "full_name": "志摩市",
+      "prefecture": "三重県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "24216",
+      "name": "伊賀市",
+      "full_name": "伊賀市",
+      "prefecture": "三重県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "24303",
+      "name": "木曽岬町",
+      "full_name": "桑名郡木曽岬町",
+      "prefecture": "三重県",
+      "county_or_designated_city": "桑名郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "24324",
+      "name": "東員町",
+      "full_name": "員弁郡東員町",
+      "prefecture": "三重県",
+      "county_or_designated_city": "員弁郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "24341",
+      "name": "菰野町",
+      "full_name": "三重郡菰野町",
+      "prefecture": "三重県",
+      "county_or_designated_city": "三重郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "24343",
+      "name": "朝日町",
+      "full_name": "三重郡朝日町",
+      "prefecture": "三重県",
+      "county_or_designated_city": "三重郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "24344",
+      "name": "川越町",
+      "full_name": "三重郡川越町",
+      "prefecture": "三重県",
+      "county_or_designated_city": "三重郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "24441",
+      "name": "多気町",
+      "full_name": "多気郡多気町",
+      "prefecture": "三重県",
+      "county_or_designated_city": "多気郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "24442",
+      "name": "明和町",
+      "full_name": "多気郡明和町",
+      "prefecture": "三重県",
+      "county_or_designated_city": "多気郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "24443",
+      "name": "大台町",
+      "full_name": "多気郡大台町",
+      "prefecture": "三重県",
+      "county_or_designated_city": "多気郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "24461",
+      "name": "玉城町",
+      "full_name": "度会郡玉城町",
+      "prefecture": "三重県",
+      "county_or_designated_city": "度会郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "24470",
+      "name": "度会町",
+      "full_name": "度会郡度会町",
+      "prefecture": "三重県",
+      "county_or_designated_city": "度会郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "24471",
+      "name": "大紀町",
+      "full_name": "度会郡大紀町",
+      "prefecture": "三重県",
+      "county_or_designated_city": "度会郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "24472",
+      "name": "南伊勢町",
+      "full_name": "度会郡南伊勢町",
+      "prefecture": "三重県",
+      "county_or_designated_city": "度会郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "24543",
+      "name": "紀北町",
+      "full_name": "北牟婁郡紀北町",
+      "prefecture": "三重県",
+      "county_or_designated_city": "北牟婁郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "24561",
+      "name": "御浜町",
+      "full_name": "南牟婁郡御浜町",
+      "prefecture": "三重県",
+      "county_or_designated_city": "南牟婁郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "24562",
+      "name": "紀宝町",
+      "full_name": "南牟婁郡紀宝町",
+      "prefecture": "三重県",
+      "county_or_designated_city": "南牟婁郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "三重県の市区町村一覧 - 無料ダウンロード",
+    "description": "三重県 (Mie Prefecture) の全市区町村 29 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 29 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "三重県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 三重県の市区町村一覧 — 29 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 29 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

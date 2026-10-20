@@ -1,0 +1,187 @@
+{
+  "id": "ja-shikoku-prefectures",
+  "name": "四国地方の都道府県 (Shikoku region — prefectures)",
+  "title": "四国地方の都道府県 (Shikoku region — prefectures)",
+  "description": "四国地方（しこく）に属する都道府県の一覧。 Prefectures belonging to the Shikoku region (地方 / 'chihō') of Japan — 4 prefecture(s).",
+  "category": "geography",
+  "source": "https://github.com/diverse-inc/jp_prefecture",
+  "source_url": "https://github.com/diverse-inc/jp_prefecture",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "jis_code",
+      "label": "Jis Code",
+      "type": "number"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name_kana",
+      "label": "Name Kana",
+      "type": "string"
+    },
+    {
+      "key": "name_kana_short",
+      "label": "Name Kana Short",
+      "type": "string"
+    },
+    {
+      "key": "name_roma",
+      "label": "Name Roma",
+      "type": "string"
+    },
+    {
+      "key": "name_roma_short",
+      "label": "Name Roma Short",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "region_kanji",
+      "label": "Region Kanji",
+      "type": "string"
+    },
+    {
+      "key": "region_kana",
+      "label": "Region Kana",
+      "type": "string"
+    },
+    {
+      "key": "region_roma",
+      "label": "Region Roma",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "region_name_en",
+      "label": "Region Name En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": 36,
+      "jis_code": "36",
+      "iso_3166_2": "JP-36",
+      "slug": "tokushima",
+      "name": "徳島県",
+      "name_short": "徳島",
+      "name_kana": "とくしまけん",
+      "name_kana_short": "とくしま",
+      "name_roma": "tokushima-ken",
+      "name_roma_short": "tokushima",
+      "name_en": "Tokushima",
+      "type": "県",
+      "region_kanji": "四国",
+      "region_kana": "しこく",
+      "region_roma": "shikoku",
+      "region_slug": "shikoku",
+      "region_name_en": "Shikoku"
+    },
+    {
+      "code": 37,
+      "jis_code": "37",
+      "iso_3166_2": "JP-37",
+      "slug": "kagawa",
+      "name": "香川県",
+      "name_short": "香川",
+      "name_kana": "かがわけん",
+      "name_kana_short": "かがわ",
+      "name_roma": "kagawa-ken",
+      "name_roma_short": "kagawa",
+      "name_en": "Kagawa",
+      "type": "県",
+      "region_kanji": "四国",
+      "region_kana": "しこく",
+      "region_roma": "shikoku",
+      "region_slug": "shikoku",
+      "region_name_en": "Shikoku"
+    },
+    {
+      "code": 38,
+      "jis_code": "38",
+      "iso_3166_2": "JP-38",
+      "slug": "ehime",
+      "name": "愛媛県",
+      "name_short": "愛媛",
+      "name_kana": "えひめけん",
+      "name_kana_short": "えひめ",
+      "name_roma": "ehime-ken",
+      "name_roma_short": "ehime",
+      "name_en": "Ehime",
+      "type": "県",
+      "region_kanji": "四国",
+      "region_kana": "しこく",
+      "region_roma": "shikoku",
+      "region_slug": "shikoku",
+      "region_name_en": "Shikoku"
+    },
+    {
+      "code": 39,
+      "jis_code": "39",
+      "iso_3166_2": "JP-39",
+      "slug": "kochi",
+      "name": "高知県",
+      "name_short": "高知",
+      "name_kana": "こうちけん",
+      "name_kana_short": "こうち",
+      "name_roma": "kochi-ken",
+      "name_roma_short": "kochi",
+      "name_en": "Kochi",
+      "type": "県",
+      "region_kanji": "四国",
+      "region_kana": "しこく",
+      "region_roma": "shikoku",
+      "region_slug": "shikoku",
+      "region_name_en": "Shikoku"
+    }
+  ],
+  "meta": {
+    "title": "四国地方の都道府県 (Shikoku region — prefectures) - 無料ダウンロード",
+    "description": "四国地方（しこく）に属する都道府県の一覧。 Prefectures belonging to the Shikoku region (地方 / 'chihō') of Japan — 4 prefecture(s). 収録数 4 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "四国地方の都道府県 (Shikoku region — prefectures) | ListBase",
+    "seo_description": "ダウンロード 四国地方の都道府県 (Shikoku region — prefectures) — 4 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 4 件 / 17 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/diverse-inc/jp_prefecture"
+    ]
+  }
+}

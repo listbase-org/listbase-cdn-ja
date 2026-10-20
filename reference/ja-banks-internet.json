@@ -1,0 +1,176 @@
+{
+  "id": "ja-banks-internet",
+  "name": "ネット銀行・新形態銀行一覧 (Internet / new-form banks of Japan)",
+  "title": "ネット銀行・新形態銀行一覧 (Internet / new-form banks of Japan)",
+  "description": "日本の主なネット銀行・新形態銀行の一覧（PayPay・セブン・ソニー・楽天・住信SBIネット・auじぶん・イオン・大和ネクスト・ローソン銀行 等）。 List of Japanese internet/new-form banks: PayPay, Seven, Sony, Rakuten, SBI Sumishin Net, au Jibun, Aeon, Daiwa Next, Lawson, etc.",
+  "category": "reference",
+  "source": "https://github.com/zengin-code/source-data",
+  "source_url": "https://github.com/zengin-code/source-data",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "kana",
+      "label": "Kana",
+      "type": "string"
+    },
+    {
+      "key": "hira",
+      "label": "Hira",
+      "type": "string"
+    },
+    {
+      "key": "roma",
+      "label": "Roma",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "category_ja",
+      "label": "Category Ja",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "0033",
+      "name": "ＰａｙＰａｙ",
+      "kana": "ペイペイ",
+      "hira": "ぺいぺい",
+      "roma": "peipei",
+      "slug": "peipei",
+      "category": "internet_bank",
+      "category_ja": "新形態銀行"
+    },
+    {
+      "code": "0034",
+      "name": "セブン",
+      "kana": "セブン",
+      "hira": "せぶん",
+      "roma": "sebun",
+      "slug": "sebun",
+      "category": "internet_bank",
+      "category_ja": "新形態銀行"
+    },
+    {
+      "code": "0035",
+      "name": "ソニー",
+      "kana": "ソニ－",
+      "hira": "そに－",
+      "roma": "soni-",
+      "slug": "soni",
+      "category": "internet_bank",
+      "category_ja": "新形態銀行"
+    },
+    {
+      "code": "0036",
+      "name": "楽天",
+      "kana": "ラクテン",
+      "hira": "らくてん",
+      "roma": "rakuten",
+      "slug": "rakuten",
+      "category": "internet_bank",
+      "category_ja": "新形態銀行"
+    },
+    {
+      "code": "0038",
+      "name": "住信ＳＢＩネット",
+      "kana": "スミシンエスビ－アイネツト",
+      "hira": "すみしんえすび－あいねつと",
+      "roma": "sumishinesubi-ainetsuto",
+      "slug": "sumishinesubi-ainetsuto",
+      "category": "internet_bank",
+      "category_ja": "新形態銀行"
+    },
+    {
+      "code": "0039",
+      "name": "ａｕじぶん",
+      "kana": "エ－ユ－ジブン",
+      "hira": "え－ゆ－じぶん",
+      "roma": "e-yu-jibun",
+      "slug": "e-yu-jibun",
+      "category": "internet_bank",
+      "category_ja": "新形態銀行"
+    },
+    {
+      "code": "0040",
+      "name": "イオン",
+      "kana": "イオン",
+      "hira": "いおん",
+      "roma": "ion",
+      "slug": "ion",
+      "category": "internet_bank",
+      "category_ja": "新形態銀行"
+    },
+    {
+      "code": "0041",
+      "name": "大和ネクスト",
+      "kana": "ダイワネクスト",
+      "hira": "だいわねくすと",
+      "roma": "daiwanekusuto",
+      "slug": "daiwanekusuto",
+      "category": "internet_bank",
+      "category_ja": "新形態銀行"
+    },
+    {
+      "code": "0042",
+      "name": "ローソン",
+      "kana": "ロ－ソン",
+      "hira": "ろ－そん",
+      "roma": "ro-son",
+      "slug": "ro-son",
+      "category": "internet_bank",
+      "category_ja": "新形態銀行"
+    },
+    {
+      "code": "0043",
+      "name": "みんなの",
+      "kana": "ミンナノ",
+      "hira": "みんなの",
+      "roma": "minnano",
+      "slug": "minnano",
+      "category": "internet_bank",
+      "category_ja": "新形態銀行"
+    },
+    {
+      "code": "0044",
+      "name": "ＵＩ",
+      "kana": "ユ－アイ",
+      "hira": "ゆ－あい",
+      "roma": "yu-ai",
+      "slug": "yu-ai",
+      "category": "internet_bank",
+      "category_ja": "新形態銀行"
+    }
+  ],
+  "meta": {
+    "title": "ネット銀行・新形態銀行一覧 (Internet / new-form banks of Japan) - 無料ダウンロード",
+    "description": "日本の主なネット銀行・新形態銀行の一覧（PayPay・セブン・ソニー・楽天・住信SBIネット・auじぶん・イオン・大和ネクスト・ローソン銀行 等）。 List of Japanese internet/new-form banks: PayPay, Seven, Sony, Rakuten, SBI Sumishin Net, au Jibun, Aeon, Daiwa Next, Lawson, etc. 収録数 11 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "ネット銀行・新形態銀行一覧 (Internet / new-form banks of Japan) | ListBase",
+    "seo_description": "ダウンロード ネット銀行・新形態銀行一覧 (Internet / new-form banks of Japan) — 11 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 11 件 / 8 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/zengin-code/source-data"
+    ]
+  }
+}

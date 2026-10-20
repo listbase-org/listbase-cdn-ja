@@ -1,0 +1,208 @@
+{
+  "id": "ja-shiga-shichoson",
+  "name": "滋賀県の市区町村一覧",
+  "title": "滋賀県の市区町村一覧",
+  "description": "滋賀県 (Shiga Prefecture) の全市区町村 19 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "25201",
+      "name": "大津市",
+      "full_name": "大津市",
+      "prefecture": "滋賀県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "25202",
+      "name": "彦根市",
+      "full_name": "彦根市",
+      "prefecture": "滋賀県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "25203",
+      "name": "長浜市",
+      "full_name": "長浜市",
+      "prefecture": "滋賀県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "25204",
+      "name": "近江八幡市",
+      "full_name": "近江八幡市",
+      "prefecture": "滋賀県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "25206",
+      "name": "草津市",
+      "full_name": "草津市",
+      "prefecture": "滋賀県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "25207",
+      "name": "守山市",
+      "full_name": "守山市",
+      "prefecture": "滋賀県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "25208",
+      "name": "栗東市",
+      "full_name": "栗東市",
+      "prefecture": "滋賀県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "25209",
+      "name": "甲賀市",
+      "full_name": "甲賀市",
+      "prefecture": "滋賀県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "25210",
+      "name": "野洲市",
+      "full_name": "野洲市",
+      "prefecture": "滋賀県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "25211",
+      "name": "湖南市",
+      "full_name": "湖南市",
+      "prefecture": "滋賀県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "25212",
+      "name": "高島市",
+      "full_name": "高島市",
+      "prefecture": "滋賀県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "25213",
+      "name": "東近江市",
+      "full_name": "東近江市",
+      "prefecture": "滋賀県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "25214",
+      "name": "米原市",
+      "full_name": "米原市",
+      "prefecture": "滋賀県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "25383",
+      "name": "日野町",
+      "full_name": "蒲生郡日野町",
+      "prefecture": "滋賀県",
+      "county_or_designated_city": "蒲生郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "25384",
+      "name": "竜王町",
+      "full_name": "蒲生郡竜王町",
+      "prefecture": "滋賀県",
+      "county_or_designated_city": "蒲生郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "25425",
+      "name": "愛荘町",
+      "full_name": "愛知郡愛荘町",
+      "prefecture": "滋賀県",
+      "county_or_designated_city": "愛知郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "25441",
+      "name": "豊郷町",
+      "full_name": "犬上郡豊郷町",
+      "prefecture": "滋賀県",
+      "county_or_designated_city": "犬上郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "25442",
+      "name": "甲良町",
+      "full_name": "犬上郡甲良町",
+      "prefecture": "滋賀県",
+      "county_or_designated_city": "犬上郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "25443",
+      "name": "多賀町",
+      "full_name": "犬上郡多賀町",
+      "prefecture": "滋賀県",
+      "county_or_designated_city": "犬上郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "滋賀県の市区町村一覧 - 無料ダウンロード",
+    "description": "滋賀県 (Shiga Prefecture) の全市区町村 19 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 19 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "滋賀県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 滋賀県の市区町村一覧 — 19 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 19 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

@@ -1,0 +1,1876 @@
+{
+  "id": "ja-capes",
+  "name": "岬一覧 (Capes and headlands of Japan)",
+  "title": "岬一覧 (Capes and headlands of Japan)",
+  "description": "国土地理院「日本地名集 (Gazetteer of Japan) 2007」に収録された岬 181 件。漢字・ひらがな・公式ローマ字表記と緯度経度を併記。181 capes and headlands listed in the Geospatial Information Authority of Japan's Gazetteer of Japan 2007 (with the 2018 update), each with kanji, kana and the official romanised name plus degree-minute coordinates in both original DMS and decimal form.",
+  "category": "geography",
+  "source": "https://github.com/piuccio/open-data-jp-municipalities",
+  "source_url": "https://github.com/piuccio/open-data-jp-municipalities",
+  "updated": "2026-04",
+  "record_count": 181,
+  "columns": [
+    {
+      "key": "name_kanji",
+      "label": "Name Kanji",
+      "type": "string"
+    },
+    {
+      "key": "name_kana",
+      "label": "Name Kana",
+      "type": "string"
+    },
+    {
+      "key": "name_romaji",
+      "label": "Name Romaji",
+      "type": "string"
+    },
+    {
+      "key": "classification",
+      "label": "Classification",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "org_latitude",
+      "label": "Org Latitude",
+      "type": "string"
+    },
+    {
+      "key": "org_longitude",
+      "label": "Org Longitude",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_kanji": "海士崎",
+      "name_kana": "あまざき",
+      "name_romaji": "Ama Zaki",
+      "classification": "Cape",
+      "lat": 37.133333,
+      "lon": 136.65,
+      "org_latitude": "37 ゚ 08’",
+      "org_longitude": "136 ゚ 39’"
+    },
+    {
+      "name_kanji": "青苗岬",
+      "name_kana": "あおなえみさき",
+      "name_romaji": "Aonae Misaki",
+      "classification": "Cape",
+      "lat": 42.033333,
+      "lon": 139.45,
+      "org_latitude": "42 ゚ 02’",
+      "org_longitude": "139 ゚ 27’"
+    },
+    {
+      "name_kanji": "荒木埼",
+      "name_kana": "あらきざき",
+      "name_romaji": "Araki Zaki",
+      "classification": "Cape",
+      "lat": 28.283333,
+      "lon": 129.916667,
+      "org_latitude": "28 ゚ 17’",
+      "org_longitude": "129 ゚ 55’"
+    },
+    {
+      "name_kanji": "荒木埼",
+      "name_kana": "あらきざき",
+      "name_romaji": "Araki Zaki",
+      "classification": "Cape",
+      "lat": 29.116667,
+      "lon": 129.216667,
+      "org_latitude": "29 ゚ 07’",
+      "org_longitude": "129 ゚ 13’"
+    },
+    {
+      "name_kanji": "荒崎",
+      "name_kana": "あらさき",
+      "name_romaji": "Arasaki",
+      "classification": "Cape",
+      "lat": 26.066667,
+      "lon": 127.666667,
+      "org_latitude": "26 ゚ 04’",
+      "org_longitude": "127 ゚ 40’"
+    },
+    {
+      "name_kanji": "足摺岬",
+      "name_kana": "あしずりみさき",
+      "name_romaji": "Ashizuri Misaki",
+      "classification": "Cape",
+      "lat": 32.716667,
+      "lon": 133.016667,
+      "org_latitude": "32 ゚ 43’",
+      "org_longitude": "133 ゚ 01’"
+    },
+    {
+      "name_kanji": "安渡移矢岬",
+      "name_kana": "あといやみさき",
+      "name_romaji": "Atoiya Misaki",
+      "classification": "Cape",
+      "lat": 44.466667,
+      "lon": 146.566667,
+      "org_latitude": "44 ゚ 28’",
+      "org_longitude": "146 ゚ 34’"
+    },
+    {
+      "name_kanji": "鮑荒崎",
+      "name_kana": "あわびあらさき",
+      "name_romaji": "Awabiara Saki",
+      "classification": "Cape",
+      "lat": 38.266667,
+      "lon": 141.583333,
+      "org_latitude": "38 ゚ 16’",
+      "org_longitude": "141 ゚ 35’"
+    },
+    {
+      "name_kanji": "弁慶岬",
+      "name_kana": "べんけいみさき",
+      "name_romaji": "Benkei Misaki",
+      "classification": "Cape",
+      "lat": 42.816667,
+      "lon": 140.183333,
+      "org_latitude": "42 ゚ 49’",
+      "org_longitude": "140 ゚ 11’"
+    },
+    {
+      "name_kanji": "備瀬崎",
+      "name_kana": "びせざき",
+      "name_romaji": "Bise Zaki",
+      "classification": "Cape",
+      "lat": 26.7,
+      "lon": 127.866667,
+      "org_latitude": "26 ゚ 42’",
+      "org_longitude": "127 ゚ 52’"
+    },
+    {
+      "name_kanji": "坊ノ岬",
+      "name_kana": "ぼうのみさき",
+      "name_romaji": "Bonomisaki",
+      "classification": "Cape",
+      "lat": 31.233333,
+      "lon": 130.2,
+      "org_latitude": "31 ゚ 14’",
+      "org_longitude": "130 ゚ 12’"
+    },
+    {
+      "name_kanji": "チキウ岬",
+      "name_kana": "ちきうみさき",
+      "name_romaji": "Chikiu Misaki",
+      "classification": "Cape",
+      "lat": 42.283333,
+      "lon": 141,
+      "org_latitude": "42 ゚ 17’",
+      "org_longitude": "141 ゚ 00’"
+    },
+    {
+      "name_kanji": "大王崎",
+      "name_kana": "だいおうざき",
+      "name_romaji": "Daio Zaki",
+      "classification": "Cape",
+      "lat": 34.266667,
+      "lon": 136.9,
+      "org_latitude": "34 ゚ 16’",
+      "org_longitude": "136 ゚ 54’"
+    },
+    {
+      "name_kanji": "越前岬",
+      "name_kana": "えちぜんみさき",
+      "name_romaji": "Echizen Misaki",
+      "classification": "Cape",
+      "lat": 35.966667,
+      "lon": 135.933333,
+      "org_latitude": "35 ゚ 58’",
+      "org_longitude": "135 ゚ 56’"
+    },
+    {
+      "name_kanji": "襟裳岬",
+      "name_kana": "えりもみさき",
+      "name_romaji": "Erimo Misaki",
+      "classification": "Cape",
+      "lat": 41.916667,
+      "lon": 143.25,
+      "org_latitude": "41 ゚ 55’",
+      "org_longitude": "143 ゚ 15’"
+    },
+    {
+      "name_kanji": "恵山岬",
+      "name_kana": "えさんみさき",
+      "name_romaji": "Esan Misaki",
+      "classification": "Cape",
+      "lat": 41.8,
+      "lon": 141.183333,
+      "org_latitude": "41 ゚ 48’",
+      "org_longitude": "141 ゚ 11’"
+    },
+    {
+      "name_kanji": "吹上浜",
+      "name_kana": "ふきあげはま",
+      "name_romaji": "Fukiage Hama",
+      "classification": "Cape",
+      "lat": 31.5,
+      "lon": 130.316667,
+      "org_latitude": "31 ゚ 30’",
+      "org_longitude": "130 ゚ 19’"
+    },
+    {
+      "name_kanji": "郷崎",
+      "name_kana": "ごうざき",
+      "name_romaji": "Go Zaki",
+      "classification": "Cape",
+      "lat": 34.316667,
+      "lon": 129.183333,
+      "org_latitude": "34 ゚ 19’",
+      "org_longitude": "129 ゚ 11’"
+    },
+    {
+      "name_kanji": "八幡岬",
+      "name_kana": "はちまんざき",
+      "name_romaji": "Hachiman Zaki",
+      "classification": "Cape",
+      "lat": 35.116667,
+      "lon": 140.3,
+      "org_latitude": "35 ゚ 07’",
+      "org_longitude": "140 ゚ 18’"
+    },
+    {
+      "name_kanji": "波戸岬",
+      "name_kana": "はどのみさき",
+      "name_romaji": "Hadonomisaki",
+      "classification": "Cape",
+      "lat": 33.55,
+      "lon": 129.833333,
+      "org_latitude": "33 ゚ 33’",
+      "org_longitude": "129 ゚ 50’"
+    },
+    {
+      "name_kanji": "波勝岬",
+      "name_kana": "はがちざき",
+      "name_romaji": "Hagachi Zaki",
+      "classification": "Cape",
+      "lat": 34.683333,
+      "lon": 138.716667,
+      "org_latitude": "34 ゚ 41’",
+      "org_longitude": "138 ゚ 43’"
+    },
+    {
+      "name_kanji": "弾崎",
+      "name_kana": "はじきさき",
+      "name_romaji": "Hajiki Saki",
+      "classification": "Cape",
+      "lat": 38.333333,
+      "lon": 138.5,
+      "org_latitude": "38 ゚ 20’",
+      "org_longitude": "138 ゚ 30’"
+    },
+    {
+      "name_kanji": "花咲岬",
+      "name_kana": "はなさきみさき",
+      "name_romaji": "Hanasaki Misaki",
+      "classification": "Cape",
+      "lat": 43.266667,
+      "lon": 145.583333,
+      "org_latitude": "43 ゚ 16’",
+      "org_longitude": "145 ゚ 35’"
+    },
+    {
+      "name_kanji": "ハッチャス崎",
+      "name_kana": "はっちゃすざき",
+      "name_romaji": "Hatchasu Zaki",
+      "classification": "Cape",
+      "lat": 43.816667,
+      "lon": 145.366667,
+      "org_latitude": "43 ゚ 49’",
+      "org_longitude": "145 ゚ 22’"
+    },
+    {
+      "name_kanji": "波渡崎",
+      "name_kana": "はとざき",
+      "name_romaji": "Hato Zaki",
+      "classification": "Cape",
+      "lat": 38.683333,
+      "lon": 139.616667,
+      "org_latitude": "38 ゚ 41’",
+      "org_longitude": "139 ゚ 37’"
+    },
+    {
+      "name_kanji": "辺戸岬",
+      "name_kana": "へどみさき",
+      "name_romaji": "Hedo Misaki",
+      "classification": "Cape",
+      "lat": 26.85,
+      "lon": 128.266667,
+      "org_latitude": "26 ゚ 51’",
+      "org_longitude": "128 ゚ 16’"
+    },
+    {
+      "name_kanji": "閉伊埼",
+      "name_kana": "へいざき",
+      "name_romaji": "Hei Zaki",
+      "classification": "Cape",
+      "lat": 39.65,
+      "lon": 142.016667,
+      "org_latitude": "39 ゚ 39’",
+      "org_longitude": "142 ゚ 01’"
+    },
+    {
+      "name_kanji": "艫作崎",
+      "name_kana": "へなしざき",
+      "name_romaji": "Henashi Zaki",
+      "classification": "Cape",
+      "lat": 40.6,
+      "lon": 139.833333,
+      "org_latitude": "40 ゚ 36’",
+      "org_longitude": "139 ゚ 50’"
+    },
+    {
+      "name_kanji": "平安名崎",
+      "name_kana": "へんなざき",
+      "name_romaji": "Henna Zaki",
+      "classification": "Cape",
+      "lat": 24.7,
+      "lon": 125.466667,
+      "org_latitude": "24 ゚ 42’",
+      "org_longitude": "125 ゚ 28’"
+    },
+    {
+      "name_kanji": "火崎",
+      "name_kana": "ひざき",
+      "name_romaji": "Hi Zaki",
+      "classification": "Cape",
+      "lat": 31.266667,
+      "lon": 131.133333,
+      "org_latitude": "31 ゚ 16’",
+      "org_longitude": "131 ゚ 08’"
+    },
+    {
+      "name_kanji": "姫崎",
+      "name_kana": "ひめさき",
+      "name_romaji": "Hime Saki",
+      "classification": "Cape",
+      "lat": 38.083333,
+      "lon": 138.55,
+      "org_latitude": "38 ゚ 05’",
+      "org_longitude": "138 ゚ 33’"
+    },
+    {
+      "name_kanji": "日ノ御埼",
+      "name_kana": "ひのみさき",
+      "name_romaji": "Hinomisaki",
+      "classification": "Cape",
+      "lat": 33.866667,
+      "lon": 135.033333,
+      "org_latitude": "33 ゚ 52’",
+      "org_longitude": "135 ゚ 02’"
+    },
+    {
+      "name_kanji": "日御碕",
+      "name_kana": "ひのみさき",
+      "name_romaji": "Hinomisaki",
+      "classification": "Cape",
+      "lat": 35.433333,
+      "lon": 132.616667,
+      "org_latitude": "35 ゚ 26’",
+      "org_longitude": "132 ゚ 37’"
+    },
+    {
+      "name_kanji": "平久保崎",
+      "name_kana": "ひらくぼさき",
+      "name_romaji": "Hirakubo Saki",
+      "classification": "Cape",
+      "lat": 24.6,
+      "lon": 124.283333,
+      "org_latitude": "24 ゚ 36’",
+      "org_longitude": "124 ゚ 17’"
+    },
+    {
+      "name_kanji": "平根崎",
+      "name_kana": "ひらねざき",
+      "name_romaji": "Hirane Zaki",
+      "classification": "Cape",
+      "lat": 33.7,
+      "lon": 132.133333,
+      "org_latitude": "33 ゚ 42’",
+      "org_longitude": "132 ゚ 08’"
+    },
+    {
+      "name_kanji": "北海岬",
+      "name_kana": "ほっかいみさき",
+      "name_romaji": "Hokkai Misaki",
+      "classification": "Cape",
+      "lat": 41.133333,
+      "lon": 140.766667,
+      "org_latitude": "41 ゚ 08’",
+      "org_longitude": "140 ゚ 46’"
+    },
+    {
+      "name_kanji": "帆前岬",
+      "name_kana": "ほまえみさき",
+      "name_romaji": "Homae Misaki",
+      "classification": "Cape",
+      "lat": 43.45,
+      "lon": 145.833333,
+      "org_latitude": "43 ゚ 27’",
+      "org_longitude": "145 ゚ 50’"
+    },
+    {
+      "name_kanji": "市崎",
+      "name_kana": "いちさき",
+      "name_romaji": "Ichi Saki",
+      "classification": "Cape",
+      "lat": 28.2,
+      "lon": 129.466667,
+      "org_latitude": "28 ゚ 12’",
+      "org_longitude": "129 ゚ 28’"
+    },
+    {
+      "name_kanji": "生地鼻",
+      "name_kana": "いくぢはな",
+      "name_romaji": "Ikuji Hana",
+      "classification": "Cape",
+      "lat": 36.883333,
+      "lon": 137.383333,
+      "org_latitude": "36 ゚ 53’",
+      "org_longitude": "137 ゚ 23’"
+    },
+    {
+      "name_kanji": "稲穂岬",
+      "name_kana": "いなほみさき",
+      "name_romaji": "Inaho Misaki",
+      "classification": "Cape",
+      "lat": 42.233333,
+      "lon": 139.55,
+      "org_latitude": "42 ゚ 14’",
+      "org_longitude": "139 ゚ 33’"
+    },
+    {
+      "name_kanji": "井ノ岬",
+      "name_kana": "いのみさき",
+      "name_romaji": "Inomisaki",
+      "classification": "Cape",
+      "lat": 33.016667,
+      "lon": 133.083333,
+      "org_latitude": "33 ゚ 01’",
+      "org_longitude": "133 ゚ 05’"
+    },
+    {
+      "name_kanji": "犬吠埼",
+      "name_kana": "いぬぼうさき",
+      "name_romaji": "Inubo Saki",
+      "classification": "Cape",
+      "lat": 35.7,
+      "lon": 140.866667,
+      "org_latitude": "35 ゚ 42’",
+      "org_longitude": "140 ゚ 52’"
+    },
+    {
+      "name_kanji": "伊良湖岬",
+      "name_kana": "いらごみさき",
+      "name_romaji": "Irago Misaki",
+      "classification": "Cape",
+      "lat": 34.566667,
+      "lon": 137.016667,
+      "org_latitude": "34 ゚ 34’",
+      "org_longitude": "137 ゚ 01’"
+    },
+    {
+      "name_kanji": "西崎",
+      "name_kana": "いりざき",
+      "name_romaji": "Irizaki",
+      "classification": "Cape",
+      "lat": 24.433333,
+      "lon": 122.916667,
+      "org_latitude": "24 ゚ 26’",
+      "org_longitude": "122 ゚ 55’"
+    },
+    {
+      "name_kanji": "石廊崎",
+      "name_kana": "いろうざき",
+      "name_romaji": "Iro Zaki",
+      "classification": "Cape",
+      "lat": 34.583333,
+      "lon": 138.833333,
+      "org_latitude": "34 ゚ 35’",
+      "org_longitude": "138 ゚ 50’"
+    },
+    {
+      "name_kanji": "海豚鼻",
+      "name_kana": "いるかばな",
+      "name_romaji": "Iruka Bana",
+      "classification": "Cape",
+      "lat": 33.683333,
+      "lon": 129.7,
+      "org_latitude": "33 ゚ 41’",
+      "org_longitude": "129 ゚ 42’"
+    },
+    {
+      "name_kanji": "伊仙崎",
+      "name_kana": "いせんざき",
+      "name_romaji": "Isen Zaki",
+      "classification": "Cape",
+      "lat": 27.65,
+      "lon": 128.933333,
+      "org_latitude": "27 ゚ 39’",
+      "org_longitude": "128 ゚ 56’"
+    },
+    {
+      "name_kanji": "地蔵埼",
+      "name_kana": "じぞうざき",
+      "name_romaji": "Jizo Zaki",
+      "classification": "Cape",
+      "lat": 35.55,
+      "lon": 133.316667,
+      "org_latitude": "35 ゚ 33’",
+      "org_longitude": "133 ゚ 19’"
+    },
+    {
+      "name_kanji": "門倉岬",
+      "name_kana": "かどくらみさき",
+      "name_romaji": "Kadokura Misaki",
+      "classification": "Cape",
+      "lat": 30.333333,
+      "lon": 130.883333,
+      "org_latitude": "30 ゚ 20’",
+      "org_longitude": "130 ゚ 53’"
+    },
+    {
+      "name_kanji": "蒲戸崎",
+      "name_kana": "かまどざき",
+      "name_romaji": "Kamado Zaki",
+      "classification": "Cape",
+      "lat": 33.05,
+      "lon": 132.016667,
+      "org_latitude": "33 ゚ 03’",
+      "org_longitude": "132 ゚ 01’"
+    },
+    {
+      "name_kanji": "蒲生田岬",
+      "name_kana": "かもだみさき",
+      "name_romaji": "Kamoda Misaki",
+      "classification": "Cape",
+      "lat": 33.816667,
+      "lon": 134.75,
+      "org_latitude": "33 ゚ 49’",
+      "org_longitude": "134 ゚ 45’"
+    },
+    {
+      "name_kanji": "神威岬",
+      "name_kana": "かむいみさき",
+      "name_romaji": "Kamui Misaki",
+      "classification": "Cape",
+      "lat": 43.316667,
+      "lon": 140.316667,
+      "org_latitude": "43 ゚ 19’",
+      "org_longitude": "140 ゚ 19’"
+    },
+    {
+      "name_kanji": "叶崎",
+      "name_kana": "かなえざき",
+      "name_romaji": "Kanae Zaki",
+      "classification": "Cape",
+      "lat": 32.733333,
+      "lon": 132.8,
+      "org_latitude": "32 ゚ 44’",
+      "org_longitude": "132 ゚ 48’"
+    },
+    {
+      "name_kanji": "金見崎",
+      "name_kana": "かなみざき",
+      "name_romaji": "Kanami Zaki",
+      "classification": "Cape",
+      "lat": 27.883333,
+      "lon": 128.966667,
+      "org_latitude": "27 ゚ 53’",
+      "org_longitude": "128 ゚ 58’"
+    },
+    {
+      "name_kanji": "神田岬",
+      "name_kana": "かんだみさき",
+      "name_romaji": "Kanda Misaki",
+      "classification": "Cape",
+      "lat": 34.283333,
+      "lon": 130.85,
+      "org_latitude": "34 ゚ 17’",
+      "org_longitude": "130 ゚ 51’"
+    },
+    {
+      "name_kanji": "金田ノ岬",
+      "name_kana": "かねだのみさき",
+      "name_romaji": "Kanedanomisaki",
+      "classification": "Cape",
+      "lat": 45.45,
+      "lon": 141.033333,
+      "org_latitude": "45 ゚ 27’",
+      "org_longitude": "141 ゚ 02’"
+    },
+    {
+      "name_kanji": "観音崎",
+      "name_kana": "かんのんさき",
+      "name_romaji": "Kannon Saki",
+      "classification": "Cape",
+      "lat": 24.35,
+      "lon": 124.083333,
+      "org_latitude": "24 ゚ 21’",
+      "org_longitude": "124 ゚ 05’"
+    },
+    {
+      "name_kanji": "観音崎",
+      "name_kana": "かんのんざき",
+      "name_romaji": "Kannon Zaki",
+      "classification": "Cape",
+      "lat": 35.25,
+      "lon": 139.75,
+      "org_latitude": "35 ゚ 15’",
+      "org_longitude": "139 ゚ 45’"
+    },
+    {
+      "name_kanji": "加佐岬",
+      "name_kana": "かさみさき",
+      "name_romaji": "Kasa Misaki",
+      "classification": "Cape",
+      "lat": 36.35,
+      "lon": 136.3,
+      "org_latitude": "36 ゚ 21’",
+      "org_longitude": "136 ゚ 18’"
+    },
+    {
+      "name_kanji": "笠利崎",
+      "name_kana": "かさりざき",
+      "name_romaji": "Kasari Zaki",
+      "classification": "Cape",
+      "lat": 28.533333,
+      "lon": 129.683333,
+      "org_latitude": "28 ゚ 32’",
+      "org_longitude": "129 ゚ 41’"
+    },
+    {
+      "name_kanji": "樫野崎",
+      "name_kana": "かしのざき",
+      "name_romaji": "Kashino Zaki",
+      "classification": "Cape",
+      "lat": 33.45,
+      "lon": 135.866667,
+      "org_latitude": "33 ゚ 27’",
+      "org_longitude": "135 ゚ 52’"
+    },
+    {
+      "name_kanji": "勝連崎",
+      "name_kana": "かつれんさき",
+      "name_romaji": "Katsuren Saki",
+      "classification": "Cape",
+      "lat": 26.283333,
+      "lon": 127.916667,
+      "org_latitude": "26 ゚ 17’",
+      "org_longitude": "127 ゚ 55’"
+    },
+    {
+      "name_kanji": "川尻岬",
+      "name_kana": "かわしりみさき",
+      "name_romaji": "Kawashiri Misaki",
+      "classification": "Cape",
+      "lat": 34.433333,
+      "lon": 130.966667,
+      "org_latitude": "34 ゚ 26’",
+      "org_longitude": "130 ゚ 58’"
+    },
+    {
+      "name_kanji": "ケラムイ崎",
+      "name_kana": "けらむいさき",
+      "name_romaji": "Keramui Saki",
+      "classification": "Cape",
+      "lat": 43.65,
+      "lon": 145.533333,
+      "org_latitude": "43 ゚ 39’",
+      "org_longitude": "145 ゚ 32’"
+    },
+    {
+      "name_kanji": "喜志鹿崎",
+      "name_kana": "きしかざき",
+      "name_romaji": "Kishika Zaki",
+      "classification": "Cape",
+      "lat": 30.833333,
+      "lon": 131.05,
+      "org_latitude": "30 ゚ 50’",
+      "org_longitude": "131 ゚ 03’"
+    },
+    {
+      "name_kanji": "神崎",
+      "name_kana": "こうざき",
+      "name_romaji": "Ko Zaki",
+      "classification": "Cape",
+      "lat": 34.066667,
+      "lon": 129.2,
+      "org_latitude": "34 ゚ 04’",
+      "org_longitude": "129 ゚ 12’"
+    },
+    {
+      "name_kanji": "小泊岬",
+      "name_kana": "こどまりみさき",
+      "name_romaji": "Kodomari Misaki",
+      "classification": "Cape",
+      "lat": 41.116667,
+      "lon": 140.233333,
+      "org_latitude": "41 ゚ 07’",
+      "org_longitude": "140 ゚ 14’"
+    },
+    {
+      "name_kanji": "高後崎",
+      "name_kana": "こうござき",
+      "name_romaji": "Kogo Zaki",
+      "classification": "Cape",
+      "lat": 33.083333,
+      "lon": 129.65,
+      "org_latitude": "33 ゚ 05’",
+      "org_longitude": "129 ゚ 39’"
+    },
+    {
+      "name_kanji": "高山岬",
+      "name_kana": "こうやまみさき",
+      "name_romaji": "Koyama Misaki",
+      "classification": "Cape",
+      "lat": 34.65,
+      "lon": 131.6,
+      "org_latitude": "34 ゚ 39’",
+      "org_longitude": "131 ゚ 36’"
+    },
+    {
+      "name_kanji": "口ノ鼻",
+      "name_kana": "くちのはな",
+      "name_romaji": "Kuchinohana",
+      "classification": "Cape",
+      "lat": 32.533333,
+      "lon": 129.766667,
+      "org_latitude": "32 ゚ 32’",
+      "org_longitude": "129 ゚ 46’"
+    },
+    {
+      "name_kanji": "九十九里浜",
+      "name_kana": "くじゅうくりはま",
+      "name_romaji": "Kujukuri Hama",
+      "classification": "Cape",
+      "lat": 35.6,
+      "lon": 140.55,
+      "org_latitude": "35 ゚ 36’",
+      "org_longitude": "140 ゚ 33’"
+    },
+    {
+      "name_kanji": "九木崎",
+      "name_kana": "くきざき",
+      "name_romaji": "Kuki Zaki",
+      "classification": "Cape",
+      "lat": 34,
+      "lon": 136.283333,
+      "org_latitude": "34 ゚ 00’",
+      "org_longitude": "136 ゚ 17’"
+    },
+    {
+      "name_kanji": "国頭岬",
+      "name_kana": "くにがみみさき",
+      "name_romaji": "Kunigami Misaki",
+      "classification": "Cape",
+      "lat": 27.416667,
+      "lon": 128.716667,
+      "org_latitude": "27 ゚ 25’",
+      "org_longitude": "128 ゚ 43’"
+    },
+    {
+      "name_kanji": "クンネウエンシリ鼻",
+      "name_kana": "くんねうえんしりばな",
+      "name_romaji": "Kunneuenshiri Bana",
+      "classification": "Cape",
+      "lat": 44.616667,
+      "lon": 146.933333,
+      "org_latitude": "44 ゚ 37’",
+      "org_longitude": "146 ゚ 56’"
+    },
+    {
+      "name_kanji": "黒崎",
+      "name_kana": "くろさき",
+      "name_romaji": "Kurosaki",
+      "classification": "Cape",
+      "lat": 40,
+      "lon": 141.933333,
+      "org_latitude": "40 ゚ 00’",
+      "org_longitude": "141 ゚ 56’"
+    },
+    {
+      "name_kanji": "沓形岬",
+      "name_kana": "くつがたみさき",
+      "name_romaji": "Kutsugata Misaki",
+      "classification": "Cape",
+      "lat": 45.166667,
+      "lon": 141.116667,
+      "org_latitude": "45 ゚ 10’",
+      "org_longitude": "141 ゚ 07’"
+    },
+    {
+      "name_kanji": "経ヶ岬",
+      "name_kana": "きょうがみさき",
+      "name_romaji": "Kyogamisaki",
+      "classification": "Cape",
+      "lat": 35.766667,
+      "lon": 135.216667,
+      "org_latitude": "35 ゚ 46’",
+      "org_longitude": "135 ゚ 13’"
+    },
+    {
+      "name_kanji": "真鶴岬",
+      "name_kana": "まなづるみさき",
+      "name_romaji": "Manazuru Misaki",
+      "classification": "Cape",
+      "lat": 35.133333,
+      "lon": 139.15,
+      "org_latitude": "35 ゚ 08’",
+      "org_longitude": "139 ゚ 09’"
+    },
+    {
+      "name_kanji": "三木崎",
+      "name_kana": "みきざき",
+      "name_romaji": "Miki Zaki",
+      "classification": "Cape",
+      "lat": 33.95,
+      "lon": 136.266667,
+      "org_latitude": "33 ゚ 57’",
+      "org_longitude": "136 ゚ 16’"
+    },
+    {
+      "name_kanji": "三崎",
+      "name_kana": "みさき",
+      "name_romaji": "Misaki",
+      "classification": "Cape",
+      "lat": 34.25,
+      "lon": 133.55,
+      "org_latitude": "34 ゚ 15’",
+      "org_longitude": "133 ゚ 33’"
+    },
+    {
+      "name_kanji": "宮崎ノ鼻",
+      "name_kana": "みやざきのはな",
+      "name_romaji": "Miyazakinohana",
+      "classification": "Cape",
+      "lat": 34.066667,
+      "lon": 135.066667,
+      "org_latitude": "34 ゚ 04’",
+      "org_longitude": "135 ゚ 04’"
+    },
+    {
+      "name_kanji": "物見崎",
+      "name_kana": "ものみざき",
+      "name_romaji": "Monomi Zaki",
+      "classification": "Cape",
+      "lat": 41.116667,
+      "lon": 141.4,
+      "org_latitude": "41 ゚ 07’",
+      "org_longitude": "141 ゚ 24’"
+    },
+    {
+      "name_kanji": "本山岬",
+      "name_kana": "もとやまみさき",
+      "name_romaji": "Motoyama Misaki",
+      "classification": "Cape",
+      "lat": 33.916667,
+      "lon": 131.166667,
+      "org_latitude": "33 ゚ 55’",
+      "org_longitude": "131 ゚ 10’"
+    },
+    {
+      "name_kanji": "茂津多岬",
+      "name_kana": "もったみさき",
+      "name_romaji": "Motta Misaki",
+      "classification": "Cape",
+      "lat": 42.6,
+      "lon": 139.8,
+      "org_latitude": "42 ゚ 36’",
+      "org_longitude": "139 ゚ 48’"
+    },
+    {
+      "name_kanji": "室戸岬",
+      "name_kana": "むろとざき",
+      "name_romaji": "Muroto Zaki",
+      "classification": "Cape",
+      "lat": 33.233333,
+      "lon": 134.166667,
+      "org_latitude": "33 ゚ 14’",
+      "org_longitude": "134 ゚ 10’"
+    },
+    {
+      "name_kanji": "長尾鼻",
+      "name_kana": "ながおはな",
+      "name_romaji": "Nagao Hana",
+      "classification": "Cape",
+      "lat": 35.533333,
+      "lon": 134,
+      "org_latitude": "35 ゚ 32’",
+      "org_longitude": "134 ゚ 00’"
+    },
+    {
+      "name_kanji": "長崎鼻",
+      "name_kana": "ながさきばな",
+      "name_romaji": "Nagasaki Bana",
+      "classification": "Cape",
+      "lat": 31.133333,
+      "lon": 130.583333,
+      "org_latitude": "31 ゚ 08’",
+      "org_longitude": "130 ゚ 35’"
+    },
+    {
+      "name_kanji": "永田岬",
+      "name_kana": "ながたみさき",
+      "name_romaji": "Nagata Misaki",
+      "classification": "Cape",
+      "lat": 30.383333,
+      "lon": 130.366667,
+      "org_latitude": "30 ゚ 23’",
+      "org_longitude": "130 ゚ 22’"
+    },
+    {
+      "name_kanji": "長手崎",
+      "name_kana": "ながてざき",
+      "name_romaji": "Nagate Zaki",
+      "classification": "Cape",
+      "lat": 37.433333,
+      "lon": 137.35,
+      "org_latitude": "37 ゚ 26’",
+      "org_longitude": "137 ゚ 21’"
+    },
+    {
+      "name_kanji": "難波岬",
+      "name_kana": "なんぱみさき",
+      "name_romaji": "Nanpa Misaki",
+      "classification": "Cape",
+      "lat": 41.483333,
+      "lon": 139.333333,
+      "org_latitude": "41 ゚ 29’",
+      "org_longitude": "139 ゚ 20’"
+    },
+    {
+      "name_kanji": "成生岬",
+      "name_kana": "なりゅうざき",
+      "name_romaji": "Naryu Zaki",
+      "classification": "Cape",
+      "lat": 35.6,
+      "lon": 135.45,
+      "org_latitude": "35 ゚ 36’",
+      "org_longitude": "135 ゚ 27’"
+    },
+    {
+      "name_kanji": "夏泊崎",
+      "name_kana": "なつどまりざき",
+      "name_romaji": "Natsudomari Zaki",
+      "classification": "Cape",
+      "lat": 41,
+      "lon": 140.866667,
+      "org_latitude": "41 ゚ 00’",
+      "org_longitude": "140 ゚ 52’"
+    },
+    {
+      "name_kanji": "猫崎",
+      "name_kana": "ねこざき",
+      "name_romaji": "Neko Zaki",
+      "classification": "Cape",
+      "lat": 35.666667,
+      "lon": 134.75,
+      "org_latitude": "35 ゚ 40’",
+      "org_longitude": "134 ゚ 45’"
+    },
+    {
+      "name_kanji": "野崎",
+      "name_kana": "のざき",
+      "name_romaji": "No Zaki",
+      "classification": "Cape",
+      "lat": 30.483333,
+      "lon": 130.133333,
+      "org_latitude": "30 ゚ 29’",
+      "org_longitude": "130 ゚ 08’"
+    },
+    {
+      "name_kanji": "野原崎",
+      "name_kana": "のばるさき",
+      "name_romaji": "Nobaru Saki",
+      "classification": "Cape",
+      "lat": 24.433333,
+      "lon": 124.25,
+      "org_latitude": "24 ゚ 26’",
+      "org_longitude": "124 ゚ 15’"
+    },
+    {
+      "name_kanji": "野島崎",
+      "name_kana": "のじまざき",
+      "name_romaji": "Nojima Zaki",
+      "classification": "Cape",
+      "lat": 34.883333,
+      "lon": 139.883333,
+      "org_latitude": "34 ゚ 53’",
+      "org_longitude": "139 ゚ 53’"
+    },
+    {
+      "name_kanji": "野間岬",
+      "name_kana": "のまみさき",
+      "name_romaji": "Noma Misaki",
+      "classification": "Cape",
+      "lat": 31.4,
+      "lon": 130.083333,
+      "org_latitude": "31 ゚ 24’",
+      "org_longitude": "130 ゚ 05’"
+    },
+    {
+      "name_kanji": "野母崎",
+      "name_kana": "のもざき",
+      "name_romaji": "Nomo Zaki",
+      "classification": "Cape",
+      "lat": 32.55,
+      "lon": 129.716667,
+      "org_latitude": "32 ゚ 33’",
+      "org_longitude": "129 ゚ 43’"
+    },
+    {
+      "name_kanji": "納沙布岬",
+      "name_kana": "のさっぷみさき",
+      "name_romaji": "Nosappu Misaki",
+      "classification": "Cape",
+      "lat": 43.366667,
+      "lon": 145.816667,
+      "org_latitude": "43 ゚ 22’",
+      "org_longitude": "145 ゚ 49’"
+    },
+    {
+      "name_kanji": "野寒布岬",
+      "name_kana": "のしゃっぷみさき",
+      "name_romaji": "Noshappu Misaki",
+      "classification": "Cape",
+      "lat": 45.45,
+      "lon": 141.633333,
+      "org_latitude": "45 ゚ 27’",
+      "org_longitude": "141 ゚ 38’"
+    },
+    {
+      "name_kanji": "能取岬",
+      "name_kana": "のとろみさき",
+      "name_romaji": "Notoro Misaki",
+      "classification": "Cape",
+      "lat": 44.116667,
+      "lon": 144.233333,
+      "org_latitude": "44 ゚ 07’",
+      "org_longitude": "144 ゚ 14’"
+    },
+    {
+      "name_kanji": "野斗路岬",
+      "name_kana": "のとろみさき",
+      "name_romaji": "Notoro Misaki",
+      "classification": "Cape",
+      "lat": 45.1,
+      "lon": 147.466667,
+      "org_latitude": "45 ゚ 06’",
+      "org_longitude": "147 ゚ 28’"
+    },
+    {
+      "name_kanji": "野付崎",
+      "name_kana": "のつけさき",
+      "name_romaji": "Notsuke Saki",
+      "classification": "Cape",
+      "lat": 43.55,
+      "lon": 145.3,
+      "org_latitude": "43 ゚ 33’",
+      "org_longitude": "145 ゚ 18’"
+    },
+    {
+      "name_kanji": "入道崎",
+      "name_kana": "にゅうどうざき",
+      "name_romaji": "Nyudo Zaki",
+      "classification": "Cape",
+      "lat": 40,
+      "lon": 139.7,
+      "org_latitude": "40 ゚ 00’",
+      "org_longitude": "139 ゚ 42’"
+    },
+    {
+      "name_kanji": "尾崎",
+      "name_kana": "おさき",
+      "name_romaji": "O Saki",
+      "classification": "Cape",
+      "lat": 39.233333,
+      "lon": 141.966667,
+      "org_latitude": "39 ゚ 14’",
+      "org_longitude": "141 ゚ 58’"
+    },
+    {
+      "name_kanji": "尾花岬",
+      "name_kana": "おばなみさき",
+      "name_romaji": "Obana Misaki",
+      "classification": "Cape",
+      "lat": 42.3,
+      "lon": 139.75,
+      "org_latitude": "42 ゚ 18’",
+      "org_longitude": "139 ゚ 45’"
+    },
+    {
+      "name_kanji": "落石岬",
+      "name_kana": "おちいしみさき",
+      "name_romaji": "Ochiishi Misaki",
+      "classification": "Cape",
+      "lat": 43.15,
+      "lon": 145.483333,
+      "org_latitude": "43 ゚ 09’",
+      "org_longitude": "145 ゚ 29’"
+    },
+    {
+      "name_kanji": "大戸瀬崎",
+      "name_kana": "おおどせさき",
+      "name_romaji": "Odose Saki",
+      "classification": "Cape",
+      "lat": 40.766667,
+      "lon": 140.05,
+      "org_latitude": "40 ゚ 46’",
+      "org_longitude": "140 ゚ 03’"
+    },
+    {
+      "name_kanji": "雄冬岬",
+      "name_kana": "おふゆみさき",
+      "name_romaji": "Ofuyu Misaki",
+      "classification": "Cape",
+      "lat": 43.7,
+      "lon": 141.316667,
+      "org_latitude": "43 ゚ 42’",
+      "org_longitude": "141 ゚ 19’"
+    },
+    {
+      "name_kanji": "興津崎",
+      "name_kana": "おきつざき",
+      "name_romaji": "Okitsu Zaki",
+      "classification": "Cape",
+      "lat": 33.15,
+      "lon": 133.216667,
+      "org_latitude": "33 ゚ 09’",
+      "org_longitude": "133 ゚ 13’"
+    },
+    {
+      "name_kanji": "大間崎",
+      "name_kana": "おおまざき",
+      "name_romaji": "Oma Zaki",
+      "classification": "Cape",
+      "lat": 41.533333,
+      "lon": 140.883333,
+      "org_latitude": "41 ゚ 32’",
+      "org_longitude": "140 ゚ 53’"
+    },
+    {
+      "name_kanji": "御前崎",
+      "name_kana": "おまえざき",
+      "name_romaji": "Omae Zaki",
+      "classification": "Cape",
+      "lat": 34.583333,
+      "lon": 138.216667,
+      "org_latitude": "34 ゚ 35’",
+      "org_longitude": "138 ゚ 13’"
+    },
+    {
+      "name_kanji": "大岬",
+      "name_kana": "おおみさき",
+      "name_romaji": "Omisaki",
+      "classification": "Cape",
+      "lat": 44,
+      "lon": 145.866667,
+      "org_latitude": "44 ゚ 00’",
+      "org_longitude": "145 ゚ 52’"
+    },
+    {
+      "name_kanji": "大岬",
+      "name_kana": "おおみさき",
+      "name_romaji": "Omisaki",
+      "classification": "Cape",
+      "lat": 45.433333,
+      "lon": 147.916667,
+      "org_latitude": "45 ゚ 26’",
+      "org_longitude": "147 ゚ 55’"
+    },
+    {
+      "name_kanji": "魚貫埼",
+      "name_kana": "おにきざき",
+      "name_romaji": "Oniki Zaki",
+      "classification": "Cape",
+      "lat": 32.233333,
+      "lon": 129.95,
+      "org_latitude": "32 ゚ 14’",
+      "org_longitude": "129 ゚ 57’"
+    },
+    {
+      "name_kanji": "大崎",
+      "name_kana": "おおさき",
+      "name_romaji": "Osaki",
+      "classification": "Cape",
+      "lat": 41.783333,
+      "lon": 140.05,
+      "org_latitude": "41 ゚ 47’",
+      "org_longitude": "140 ゚ 03’"
+    },
+    {
+      "name_kanji": "大崎鼻",
+      "name_kana": "おおさきばな",
+      "name_romaji": "Osaki Bana",
+      "classification": "Cape",
+      "lat": 33.3,
+      "lon": 132.366667,
+      "org_latitude": "33 ゚ 18’",
+      "org_longitude": "132 ゚ 22’"
+    },
+    {
+      "name_kanji": "大崎ヶ鼻",
+      "name_kana": "おおさきがはな",
+      "name_romaji": "Osakigahana",
+      "classification": "Cape",
+      "lat": 35.183333,
+      "lon": 132.416667,
+      "org_latitude": "35 ゚ 11’",
+      "org_longitude": "132 ゚ 25’"
+    },
+    {
+      "name_kanji": "大瀬崎",
+      "name_kana": "おおせざき",
+      "name_romaji": "Ose Zaki",
+      "classification": "Cape",
+      "lat": 32.6,
+      "lon": 128.6,
+      "org_latitude": "32 ゚ 36’",
+      "org_longitude": "128 ゚ 36’"
+    },
+    {
+      "name_kanji": "大瀬崎",
+      "name_kana": "おせざき",
+      "name_romaji": "Ose Zaki",
+      "classification": "Cape",
+      "lat": 35.016667,
+      "lon": 138.783333,
+      "org_latitude": "35 ゚ 01’",
+      "org_longitude": "138 ゚ 47’"
+    },
+    {
+      "name_kanji": "大須崎",
+      "name_kana": "おおすざき",
+      "name_romaji": "Osu Zaki",
+      "classification": "Cape",
+      "lat": 38.516667,
+      "lon": 141.533333,
+      "org_latitude": "38 ゚ 31’",
+      "org_longitude": "141 ゚ 32’"
+    },
+    {
+      "name_kanji": "乙知志岬",
+      "name_kana": "おっちしみさき",
+      "name_romaji": "Otchishi Misaki",
+      "classification": "Cape",
+      "lat": 45.166667,
+      "lon": 148.266667,
+      "org_latitude": "45 ゚ 10’",
+      "org_longitude": "148 ゚ 16’"
+    },
+    {
+      "name_kanji": "パイミ崎",
+      "name_kana": "ぱいみさき",
+      "name_romaji": "Paimi Saki",
+      "classification": "Cape",
+      "lat": 24.3,
+      "lon": 123.633333,
+      "org_latitude": "24 ゚ 18’",
+      "org_longitude": "123 ゚ 38’"
+    },
+    {
+      "name_kanji": "ポロノツ鼻",
+      "name_kana": "ぽろのつはな",
+      "name_romaji": "Poronotsu Hana",
+      "classification": "Cape",
+      "lat": 44.8,
+      "lon": 147.066667,
+      "org_latitude": "44 ゚ 48’",
+      "org_longitude": "147 ゚ 04’"
+    },
+    {
+      "name_kanji": "ラッキベツ岬",
+      "name_kana": "らっきべつみさき",
+      "name_romaji": "Rakkibetsu Misaki",
+      "classification": "Cape",
+      "lat": 45.5,
+      "lon": 148.883333,
+      "org_latitude": "45 ゚ 30’",
+      "org_longitude": "148 ゚ 53’"
+    },
+    {
+      "name_kanji": "羅臼崎",
+      "name_kana": "らうすざき",
+      "name_romaji": "Rausu Zaki",
+      "classification": "Cape",
+      "lat": 43.916667,
+      "lon": 145.783333,
+      "org_latitude": "43 ゚ 55’",
+      "org_longitude": "145 ゚ 47’"
+    },
+    {
+      "name_kanji": "ルルイ岬",
+      "name_kana": "るるいみさき",
+      "name_romaji": "Rurui Misaki",
+      "classification": "Cape",
+      "lat": 44.5,
+      "lon": 146.166667,
+      "org_latitude": "44 ゚ 30’",
+      "org_longitude": "146 ゚ 10’"
+    },
+    {
+      "name_kanji": "綾里埼",
+      "name_kana": "りょうりざき",
+      "name_romaji": "Ryori Zaki",
+      "classification": "Cape",
+      "lat": 39.016667,
+      "lon": 141.85,
+      "org_latitude": "39 ゚ 01’",
+      "org_longitude": "141 ゚ 51’"
+    },
+    {
+      "name_kanji": "佐田岬",
+      "name_kana": "さだみさき",
+      "name_romaji": "Sada Misaki",
+      "classification": "Cape",
+      "lat": 33.333333,
+      "lon": 132,
+      "org_latitude": "33 ゚ 20’",
+      "org_longitude": "132 ゚ 00’"
+    },
+    {
+      "name_kanji": "棹崎",
+      "name_kana": "さおざき",
+      "name_romaji": "Sao Zaki",
+      "classification": "Cape",
+      "lat": 34.633333,
+      "lon": 129.316667,
+      "org_latitude": "34 ゚ 38’",
+      "org_longitude": "129 ゚ 19’"
+    },
+    {
+      "name_kanji": "猿山岬",
+      "name_kana": "さるやまみさき",
+      "name_romaji": "Saruyama Misaki",
+      "classification": "Cape",
+      "lat": 37.3,
+      "lon": 136.7,
+      "org_latitude": "37 ゚ 18’",
+      "org_longitude": "136 ゚ 42’"
+    },
+    {
+      "name_kanji": "佐多岬",
+      "name_kana": "さたみさき",
+      "name_romaji": "Sata Misaki",
+      "classification": "Cape",
+      "lat": 30.983333,
+      "lon": 130.633333,
+      "org_latitude": "30 ゚ 59’",
+      "org_longitude": "130 ゚ 38’"
+    },
+    {
+      "name_kanji": "沢崎鼻",
+      "name_kana": "さわさきばな",
+      "name_romaji": "Sawasaki Bana",
+      "classification": "Cape",
+      "lat": 37.816667,
+      "lon": 138.183333,
+      "org_latitude": "37 ゚ 49’",
+      "org_longitude": "138 ゚ 11’"
+    },
+    {
+      "name_kanji": "関崎",
+      "name_kana": "せきざき",
+      "name_romaji": "Seki Zaki",
+      "classification": "Cape",
+      "lat": 33.25,
+      "lon": 131.9,
+      "org_latitude": "33 ゚ 15’",
+      "org_longitude": "131 ゚ 54’"
+    },
+    {
+      "name_kanji": "セリ岬",
+      "name_kana": "せりさき",
+      "name_romaji": "Seri Saki",
+      "classification": "Cape",
+      "lat": 29.8,
+      "lon": 129.916667,
+      "org_latitude": "29 ゚ 48’",
+      "org_longitude": "129 ゚ 55’"
+    },
+    {
+      "name_kanji": "セリイ岬",
+      "name_kana": "せりいさき",
+      "name_romaji": "Serii Saki",
+      "classification": "Cape",
+      "lat": 30,
+      "lon": 129.9,
+      "org_latitude": "30 ゚ 00’",
+      "org_longitude": "129 ゚ 54’"
+    },
+    {
+      "name_kanji": "瀬戸崎",
+      "name_kana": "せとざき",
+      "name_romaji": "Seto Zaki",
+      "classification": "Cape",
+      "lat": 33.65,
+      "lon": 135.316667,
+      "org_latitude": "33 ゚ 39’",
+      "org_longitude": "135 ゚ 19’"
+    },
+    {
+      "name_kanji": "釈迦ヶ鼻",
+      "name_kana": "しゃかがはな",
+      "name_romaji": "Shakagahana",
+      "classification": "Cape",
+      "lat": 34.4,
+      "lon": 134.216667,
+      "org_latitude": "34 ゚ 24’",
+      "org_longitude": "134 ゚ 13’"
+    },
+    {
+      "name_kanji": "積丹岬",
+      "name_kana": "しゃこたんみさき",
+      "name_romaji": "Shakotan Misaki",
+      "classification": "Cape",
+      "lat": 43.366667,
+      "lon": 140.433333,
+      "org_latitude": "43 ゚ 22’",
+      "org_longitude": "140 ゚ 26’"
+    },
+    {
+      "name_kanji": "斜古丹崎",
+      "name_kana": "しゃこたんざき",
+      "name_romaji": "Shakotan Zaki",
+      "classification": "Cape",
+      "lat": 43.883333,
+      "lon": 146.833333,
+      "org_latitude": "43 ゚ 53’",
+      "org_longitude": "146 ゚ 50’"
+    },
+    {
+      "name_kanji": "蘂取岬",
+      "name_kana": "しべとろみさき",
+      "name_romaji": "Shibetoro Misaki",
+      "classification": "Cape",
+      "lat": 45.516667,
+      "lon": 148.633333,
+      "org_latitude": "45 ゚ 31’",
+      "org_longitude": "148 ゚ 38’"
+    },
+    {
+      "name_kanji": "七里長浜",
+      "name_kana": "しちりながはま",
+      "name_romaji": "Shichiri-nagahama",
+      "classification": "Cape",
+      "lat": 40.933333,
+      "lon": 140.3,
+      "org_latitude": "40 ゚ 56’",
+      "org_longitude": "140 ゚ 18’"
+    },
+    {
+      "name_kanji": "四季咲岬",
+      "name_kana": "しきざきみさき",
+      "name_romaji": "Shikizaki Misaki",
+      "classification": "Cape",
+      "lat": 32.533333,
+      "lon": 130,
+      "org_latitude": "32 ゚ 32’",
+      "org_longitude": "130 ゚ 00’"
+    },
+    {
+      "name_kanji": "汐首岬",
+      "name_kana": "しおくびみさき",
+      "name_romaji": "Shiokubi Misaki",
+      "classification": "Cape",
+      "lat": 41.7,
+      "lon": 140.933333,
+      "org_latitude": "41 ゚ 42’",
+      "org_longitude": "140 ゚ 56’"
+    },
+    {
+      "name_kanji": "潮岬",
+      "name_kana": "しおのみさき",
+      "name_romaji": "Shionomisaki",
+      "classification": "Cape",
+      "lat": 33.433333,
+      "lon": 135.733333,
+      "org_latitude": "33 ゚ 26’",
+      "org_longitude": "135 ゚ 44’"
+    },
+    {
+      "name_kanji": "塩屋埼",
+      "name_kana": "しおやざき",
+      "name_romaji": "Shioya Zaki",
+      "classification": "Cape",
+      "lat": 36.983333,
+      "lon": 140.983333,
+      "org_latitude": "36 ゚ 59’",
+      "org_longitude": "140 ゚ 59’"
+    },
+    {
+      "name_kanji": "白神岬",
+      "name_kana": "しらかみみさき",
+      "name_romaji": "Shirakami Misaki",
+      "classification": "Cape",
+      "lat": 41.383333,
+      "lon": 140.183333,
+      "org_latitude": "41 ゚ 23’",
+      "org_longitude": "140 ゚ 11’"
+    },
+    {
+      "name_kanji": "知床岬",
+      "name_kana": "しれとこみさき",
+      "name_romaji": "Shiretoko Misaki",
+      "classification": "Cape",
+      "lat": 44.35,
+      "lon": 145.316667,
+      "org_latitude": "44 ゚ 21’",
+      "org_longitude": "145 ゚ 19’"
+    },
+    {
+      "name_kanji": "尻羽岬",
+      "name_kana": "しりはみさき",
+      "name_romaji": "Shiriha Misaki",
+      "classification": "Cape",
+      "lat": 42.933333,
+      "lon": 144.783333,
+      "org_latitude": "42 ゚ 56’",
+      "org_longitude": "144 ゚ 47’"
+    },
+    {
+      "name_kanji": "尻屋崎",
+      "name_kana": "しりやざき",
+      "name_romaji": "Shiriya Zaki",
+      "classification": "Cape",
+      "lat": 41.433333,
+      "lon": 141.45,
+      "org_latitude": "41 ゚ 26’",
+      "org_longitude": "141 ゚ 27’"
+    },
+    {
+      "name_kanji": "曽津高崎",
+      "name_kana": "そつこうざき",
+      "name_romaji": "Sotsuko Zaki",
+      "classification": "Cape",
+      "lat": 28.233333,
+      "lon": 129.116667,
+      "org_latitude": "28 ゚ 14’",
+      "org_longitude": "129 ゚ 07’"
+    },
+    {
+      "name_kanji": "宗谷岬",
+      "name_kana": "そうやみさき",
+      "name_romaji": "Soya Misaki",
+      "classification": "Cape",
+      "lat": 45.516667,
+      "lon": 141.933333,
+      "org_latitude": "45 ゚ 31’",
+      "org_longitude": "141 ゚ 56’"
+    },
+    {
+      "name_kanji": "須郷岬",
+      "name_kana": "すごうざき",
+      "name_romaji": "Sugo Zaki",
+      "classification": "Cape",
+      "lat": 40.416667,
+      "lon": 139.916667,
+      "org_latitude": "40 ゚ 25’",
+      "org_longitude": "139 ゚ 55’"
+    },
+    {
+      "name_kanji": "洲崎",
+      "name_kana": "すのさき",
+      "name_romaji": "Sunosaki",
+      "classification": "Cape",
+      "lat": 34.966667,
+      "lon": 139.75,
+      "org_latitude": "34 ゚ 58’",
+      "org_longitude": "139 ゚ 45’"
+    },
+    {
+      "name_kanji": "珠洲岬",
+      "name_kana": "すずみさき",
+      "name_romaji": "Suzu Misaki",
+      "classification": "Cape",
+      "lat": 37.516667,
+      "lon": 137.35,
+      "org_latitude": "37 ゚ 31’",
+      "org_longitude": "137 ゚ 21’"
+    },
+    {
+      "name_kanji": "太東崎",
+      "name_kana": "たいとうざき",
+      "name_romaji": "Taito Zaki",
+      "classification": "Cape",
+      "lat": 35.3,
+      "lon": 140.416667,
+      "org_latitude": "35 ゚ 18’",
+      "org_longitude": "140 ゚ 25’"
+    },
+    {
+      "name_kanji": "高野崎",
+      "name_kana": "たかのさき",
+      "name_romaji": "Takano Saki",
+      "classification": "Cape",
+      "lat": 41.233333,
+      "lon": 140.533333,
+      "org_latitude": "41 ゚ 14’",
+      "org_longitude": "140 ゚ 32’"
+    },
+    {
+      "name_kanji": "高島岬",
+      "name_kana": "たかしまみさき",
+      "name_romaji": "Takashima Misaki",
+      "classification": "Cape",
+      "lat": 43.233333,
+      "lon": 141.016667,
+      "org_latitude": "43 ゚ 14’",
+      "org_longitude": "141 ゚ 01’"
+    },
+    {
+      "name_kanji": "多古鼻",
+      "name_kana": "たこばな",
+      "name_romaji": "Tako Bana",
+      "classification": "Cape",
+      "lat": 35.583333,
+      "lon": 133.083333,
+      "org_latitude": "35 ゚ 35’",
+      "org_longitude": "133 ゚ 05’"
+    },
+    {
+      "name_kanji": "龍飛崎",
+      "name_kana": "たっぴざき",
+      "name_romaji": "Tappi Zaki",
+      "classification": "Cape",
+      "lat": 41.266667,
+      "lon": 140.333333,
+      "org_latitude": "41 ゚ 16’",
+      "org_longitude": "140 ゚ 20’"
+    },
+    {
+      "name_kanji": "立石岬",
+      "name_kana": "たていしみさき",
+      "name_romaji": "Tateishi Misaki",
+      "classification": "Cape",
+      "lat": 35.766667,
+      "lon": 136.016667,
+      "org_latitude": "35 ゚ 46’",
+      "org_longitude": "136 ゚ 01’"
+    },
+    {
+      "name_kanji": "竜舞崎",
+      "name_kana": "たつまいさき",
+      "name_romaji": "Tatsumai Saki",
+      "classification": "Cape",
+      "lat": 38.816667,
+      "lon": 141.616667,
+      "org_latitude": "38 ゚ 49’",
+      "org_longitude": "141 ゚ 37’"
+    },
+    {
+      "name_kanji": "天狗鼻",
+      "name_kana": "てんぐばな",
+      "name_romaji": "Tengu Bana",
+      "classification": "Cape",
+      "lat": 31.783333,
+      "lon": 130.15,
+      "org_latitude": "31 ゚ 47’",
+      "org_longitude": "130 ゚ 09’"
+    },
+    {
+      "name_kanji": "天仁屋崎",
+      "name_kana": "てにやざき",
+      "name_romaji": "Teniya Zaki",
+      "classification": "Cape",
+      "lat": 26.55,
+      "lon": 128.133333,
+      "org_latitude": "26 ゚ 33’",
+      "org_longitude": "128 ゚ 08’"
+    },
+    {
+      "name_kanji": "湯沸岬",
+      "name_kana": "とうぶつみさき",
+      "name_romaji": "Tobutsu Misaki",
+      "classification": "Cape",
+      "lat": 43.066667,
+      "lon": 145.166667,
+      "org_latitude": "43 ゚ 04’",
+      "org_longitude": "145 ゚ 10’"
+    },
+    {
+      "name_kanji": "魹ヶ崎",
+      "name_kana": "とどがさき",
+      "name_romaji": "Todogasaki",
+      "classification": "Cape",
+      "lat": 39.533333,
+      "lon": 142.066667,
+      "org_latitude": "39 ゚ 32’",
+      "org_longitude": "142 ゚ 04’"
+    },
+    {
+      "name_kanji": "都井岬",
+      "name_kana": "といみさき",
+      "name_romaji": "Toi Misaki",
+      "classification": "Cape",
+      "lat": 31.35,
+      "lon": 131.316667,
+      "org_latitude": "31 ゚ 21’",
+      "org_longitude": "131 ゚ 19’"
+    },
+    {
+      "name_kanji": "鳥崎",
+      "name_kana": "とりさき",
+      "name_romaji": "Tori Saki",
+      "classification": "Cape",
+      "lat": 38.483333,
+      "lon": 139.266667,
+      "org_latitude": "38 ゚ 29’",
+      "org_longitude": "139 ゚ 16’"
+    },
+    {
+      "name_kanji": "鳥ヶ首岬",
+      "name_kana": "とりがくびみさき",
+      "name_romaji": "Torigakubi Misaki",
+      "classification": "Cape",
+      "lat": 37.166667,
+      "lon": 138.1,
+      "org_latitude": "37 ゚ 10’",
+      "org_longitude": "138 ゚ 06’"
+    },
+    {
+      "name_kanji": "戸崎鼻",
+      "name_kana": "とさきばな",
+      "name_romaji": "Tosaki Bana",
+      "classification": "Cape",
+      "lat": 31.783333,
+      "lon": 131.483333,
+      "org_latitude": "31 ゚ 47’",
+      "org_longitude": "131 ゚ 29’"
+    },
+    {
+      "name_kanji": "爪木崎",
+      "name_kana": "つめきざき",
+      "name_romaji": "Tsumeki Zaki",
+      "classification": "Cape",
+      "lat": 34.65,
+      "lon": 138.983333,
+      "org_latitude": "34 ゚ 39’",
+      "org_longitude": "138 ゚ 59’"
+    },
+    {
+      "name_kanji": "常神岬",
+      "name_kana": "つねかみみさき",
+      "name_romaji": "Tsunekami Misaki",
+      "classification": "Cape",
+      "lat": 35.633333,
+      "lon": 135.8,
+      "org_latitude": "35 ゚ 38’",
+      "org_longitude": "135 ゚ 48’"
+    },
+    {
+      "name_kanji": "釣掛埼",
+      "name_kana": "つりかけざき",
+      "name_romaji": "Tsurikake Zaki",
+      "classification": "Cape",
+      "lat": 31.6,
+      "lon": 129.666667,
+      "org_latitude": "31 ゚ 36’",
+      "org_longitude": "129 ゚ 40’"
+    },
+    {
+      "name_kanji": "剱崎",
+      "name_kana": "つるぎざき",
+      "name_romaji": "Tsurugi Zaki",
+      "classification": "Cape",
+      "lat": 35.133333,
+      "lon": 139.666667,
+      "org_latitude": "35 ゚ 08’",
+      "org_longitude": "139 ゚ 40’"
+    },
+    {
+      "name_kanji": "鶴御崎",
+      "name_kana": "つるみさき",
+      "name_romaji": "Tsurumi Saki",
+      "classification": "Cape",
+      "lat": 32.916667,
+      "lon": 132.083333,
+      "org_latitude": "32 ゚ 55’",
+      "org_longitude": "132 ゚ 05’"
+    },
+    {
+      "name_kanji": "津崎鼻",
+      "name_kana": "つざきはな",
+      "name_romaji": "Tsuzaki Bana",
+      "classification": "Cape",
+      "lat": 33.4,
+      "lon": 129.666667,
+      "org_latitude": "33 ゚ 24’",
+      "org_longitude": "129 ゚ 40’"
+    },
+    {
+      "name_kanji": "宇那利崎",
+      "name_kana": "うなりざき",
+      "name_romaji": "Unari Zaki",
+      "classification": "Cape",
+      "lat": 24.416667,
+      "lon": 123.75,
+      "org_latitude": "24 ゚ 25’",
+      "org_longitude": "123 ゚ 45’"
+    },
+    {
+      "name_kanji": "鵜の尾崎",
+      "name_kana": "うのおざき",
+      "name_romaji": "Unoo Zaki",
+      "classification": "Cape",
+      "lat": 37.816667,
+      "lon": 140.983333,
+      "org_latitude": "37 ゚ 49’",
+      "org_longitude": "140 ゚ 59’"
+    },
+    {
+      "name_kanji": "和田岬",
+      "name_kana": "わだみさき",
+      "name_romaji": "Wada Misaki",
+      "classification": "Cape",
+      "lat": 34.633333,
+      "lon": 135.183333,
+      "org_latitude": "34 ゚ 38’",
+      "org_longitude": "135 ゚ 11’"
+    },
+    {
+      "name_kanji": "鎧崎",
+      "name_kana": "よろいざき",
+      "name_romaji": "Yoroi Zaki",
+      "classification": "Cape",
+      "lat": 34.4,
+      "lon": 136.933333,
+      "org_latitude": "34 ゚ 24’",
+      "org_longitude": "136 ゚ 56’"
+    },
+    {
+      "name_kanji": "由良岬",
+      "name_kana": "ゆらのはな",
+      "name_romaji": "Yuranohana",
+      "classification": "Cape",
+      "lat": 33.016667,
+      "lon": 132.366667,
+      "org_latitude": "33 ゚ 01’",
+      "org_longitude": "132 ゚ 22’"
+    }
+  ],
+  "meta": {
+    "title": "岬一覧 (Capes and headlands of Japan) - 無料ダウンロード",
+    "description": "国土地理院「日本地名集 (Gazetteer of Japan) 2007」に収録された岬 181 件。漢字・ひらがな・公式ローマ字表記と緯度経度を併記。181 capes and headlands listed in the Geospatial Information Authority of Japan's Gazetteer of Japan 2007 (with the 2018 update), each with kanji, kana and the official romanised name plus degree-minute coordinates in both original DMS and decimal form. 収録数 181 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "岬一覧 (Capes and headlands of Japan) | ListBase",
+    "seo_description": "ダウンロード 岬一覧 (Capes and headlands of Japan) — 181 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 181 件 / 8 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/piuccio/open-data-jp-municipalities"
+    ]
+  }
+}

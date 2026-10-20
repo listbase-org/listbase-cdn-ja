@@ -1,0 +1,1196 @@
+{
+  "id": "ja-extensive-natural-features",
+  "name": "広域自然地形一覧 (Extensive natural features of Japan)",
+  "title": "広域自然地形一覧 (Extensive natural features of Japan)",
+  "description": "国土地理院「日本地名集 (Gazetteer of Japan) 2007」に収録された広域自然地形 113 件。漢字・ひらがな・公式ローマ字表記と緯度経度を併記。113 extensive natural features listed in the Geospatial Information Authority of Japan's Gazetteer of Japan 2007 (with the 2018 update), each with kanji, kana and the official romanised name plus degree-minute coordinates in both original DMS and decimal form.",
+  "category": "geography",
+  "source": "https://github.com/piuccio/open-data-jp-municipalities",
+  "source_url": "https://github.com/piuccio/open-data-jp-municipalities",
+  "updated": "2026-04",
+  "record_count": 113,
+  "columns": [
+    {
+      "key": "name_kanji",
+      "label": "Name Kanji",
+      "type": "string"
+    },
+    {
+      "key": "name_kana",
+      "label": "Name Kana",
+      "type": "string"
+    },
+    {
+      "key": "name_romaji",
+      "label": "Name Romaji",
+      "type": "string"
+    },
+    {
+      "key": "classification",
+      "label": "Classification",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "org_latitude",
+      "label": "Org Latitude",
+      "type": "string"
+    },
+    {
+      "key": "org_longitude",
+      "label": "Org Longitude",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_kanji": "阿武隈高地",
+      "name_kana": "あぶくまこうち",
+      "name_romaji": "Abukuma Kochi",
+      "classification": "Extensive natural feature",
+      "lat": 37.766667,
+      "lon": 140.75,
+      "org_latitude": "37 ゚ 46’",
+      "org_longitude": "140 ゚ 45’"
+    },
+    {
+      "name_kanji": "赤石山脈",
+      "name_kana": "あかいしさんみゃく",
+      "name_romaji": "Akaishi Sanmyaku",
+      "classification": "Extensive natural feature",
+      "lat": 35.533333,
+      "lon": 138.133333,
+      "org_latitude": "35 ゚ 32’",
+      "org_longitude": "138 ゚ 08’"
+    },
+    {
+      "name_kanji": "秋吉台",
+      "name_kana": "あきよしだい",
+      "name_romaji": "Akiyoshi Dai",
+      "classification": "Extensive natural feature",
+      "lat": 34.25,
+      "lon": 131.283333,
+      "org_latitude": "34 ゚ 15’",
+      "org_longitude": "131 ゚ 17’"
+    },
+    {
+      "name_kanji": "天草諸島",
+      "name_kana": "あまくさしょとう",
+      "name_romaji": "Amakusa Shoto",
+      "classification": "Extensive natural feature",
+      "lat": 32.333333,
+      "lon": 130.166667,
+      "org_latitude": "32 ゚ 20’",
+      "org_longitude": "130 ゚ 10’"
+    },
+    {
+      "name_kanji": "奄美諸島",
+      "name_kana": "あまみしょとう",
+      "name_romaji": "Amami Shoto",
+      "classification": "Extensive natural feature",
+      "lat": 27.683333,
+      "lon": 128.816667,
+      "org_latitude": "27 ゚ 41’",
+      "org_longitude": "128 ゚ 49’"
+    },
+    {
+      "name_kanji": "足尾山地",
+      "name_kana": "あしおさんち",
+      "name_romaji": "Ashio Sanchi",
+      "classification": "Extensive natural feature",
+      "lat": 36.616667,
+      "lon": 139.55,
+      "org_latitude": "36 ゚ 37’",
+      "org_longitude": "139 ゚ 33’"
+    },
+    {
+      "name_kanji": "渥美半島",
+      "name_kana": "あつみはんとう",
+      "name_romaji": "Atsumi Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 34.6,
+      "lon": 137.1,
+      "org_latitude": "34 ゚ 36’",
+      "org_longitude": "137 ゚ 06’"
+    },
+    {
+      "name_kanji": "備讃諸島",
+      "name_kana": "びさんしょとう",
+      "name_romaji": "Bisan Shoto",
+      "classification": "Extensive natural feature",
+      "lat": 34.4,
+      "lon": 133.9,
+      "org_latitude": "34 ゚ 24’",
+      "org_longitude": "133 ゚ 54’"
+    },
+    {
+      "name_kanji": "房総半島",
+      "name_kana": "ぼうそうはんとう",
+      "name_romaji": "Boso Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 35.466667,
+      "lon": 140.15,
+      "org_latitude": "35 ゚ 28’",
+      "org_longitude": "140 ゚ 09’"
+    },
+    {
+      "name_kanji": "父島列島",
+      "name_kana": "ちちじまれっとう",
+      "name_romaji": "Chichijima Retto",
+      "classification": "Extensive natural feature",
+      "lat": 27.1,
+      "lon": 142.25,
+      "org_latitude": "27 ゚ 06’",
+      "org_longitude": "142 ゚ 15’"
+    },
+    {
+      "name_kanji": "知多半島",
+      "name_kana": "ちたはんとう",
+      "name_romaji": "Chita Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 34.933333,
+      "lon": 136.883333,
+      "org_latitude": "34 ゚ 56’",
+      "org_longitude": "136 ゚ 53’"
+    },
+    {
+      "name_kanji": "中国山地",
+      "name_kana": "ちゅうごくさんち",
+      "name_romaji": "Chugoku Sanchi",
+      "classification": "Extensive natural feature",
+      "lat": 35.066667,
+      "lon": 133.283333,
+      "org_latitude": "35 ゚ 04’",
+      "org_longitude": "133 ゚ 17’"
+    },
+    {
+      "name_kanji": "男女群島",
+      "name_kana": "だんじょぐんとう",
+      "name_romaji": "Danjo Gunto",
+      "classification": "Extensive natural feature",
+      "lat": 32.05,
+      "lon": 128.366667,
+      "org_latitude": "32 ゚ 03’",
+      "org_longitude": "128 ゚ 22’"
+    },
+    {
+      "name_kanji": "出羽山地",
+      "name_kana": "でわさんち",
+      "name_romaji": "Dewa Sanchi",
+      "classification": "Extensive natural feature",
+      "lat": 39.75,
+      "lon": 140.416667,
+      "org_latitude": "39 ゚ 45’",
+      "org_longitude": "140 ゚ 25’"
+    },
+    {
+      "name_kanji": "島前",
+      "name_kana": "どうぜん",
+      "name_romaji": "Dozen",
+      "classification": "Extensive natural feature",
+      "lat": 36.05,
+      "lon": 133.016667,
+      "org_latitude": "36 ゚ 03’",
+      "org_longitude": "133 ゚ 01’"
+    },
+    {
+      "name_kanji": "越後平野",
+      "name_kana": "えちごへいや",
+      "name_romaji": "Echigo Heiya",
+      "classification": "Extensive natural feature",
+      "lat": 37.883333,
+      "lon": 139.116667,
+      "org_latitude": "37 ゚ 53’",
+      "org_longitude": "139 ゚ 07’"
+    },
+    {
+      "name_kanji": "越後山脈",
+      "name_kana": "えちごさんみゃく",
+      "name_romaji": "Echigo Sanmyaku",
+      "classification": "Extensive natural feature",
+      "lat": 36.966667,
+      "lon": 138.966667,
+      "org_latitude": "36 ゚ 58’",
+      "org_longitude": "138 ゚ 58’"
+    },
+    {
+      "name_kanji": "芸予諸島",
+      "name_kana": "げいよしょとう",
+      "name_romaji": "Geiyo Shoto",
+      "classification": "Extensive natural feature",
+      "lat": 34.133333,
+      "lon": 132.616667,
+      "org_latitude": "34 ゚ 08’",
+      "org_longitude": "132 ゚ 37’"
+    },
+    {
+      "name_kanji": "五島列島",
+      "name_kana": "ごとうれっとう",
+      "name_romaji": "Goto Retto",
+      "classification": "Extensive natural feature",
+      "lat": 32.883333,
+      "lon": 128.833333,
+      "org_latitude": "32 ゚ 53’",
+      "org_longitude": "128 ゚ 50’"
+    },
+    {
+      "name_kanji": "歯舞諸島",
+      "name_kana": "はぼまいしょとう",
+      "name_romaji": "Habomai Shoto",
+      "classification": "Extensive natural feature",
+      "lat": 43.383333,
+      "lon": 145.916667,
+      "org_latitude": "43 ゚ 23’",
+      "org_longitude": "145 ゚ 55’"
+    },
+    {
+      "name_kanji": "八幡平",
+      "name_kana": "はちまんたい",
+      "name_romaji": "Hachiman Tai",
+      "classification": "Extensive natural feature",
+      "lat": 39.95,
+      "lon": 140.833333,
+      "org_latitude": "39 ゚ 57’",
+      "org_longitude": "140 ゚ 50’"
+    },
+    {
+      "name_kanji": "母島列島",
+      "name_kana": "ははじまれっとう",
+      "name_romaji": "Hahajima Retto",
+      "classification": "Extensive natural feature",
+      "lat": 26.65,
+      "lon": 142.2,
+      "org_latitude": "26 ゚ 39’",
+      "org_longitude": "142 ゚ 12’"
+    },
+    {
+      "name_kanji": "飛驒高地",
+      "name_kana": "ひだこうち",
+      "name_romaji": "Hida Kochi",
+      "classification": "Extensive natural feature",
+      "lat": 36.5,
+      "lon": 137.166667,
+      "org_latitude": "36 ゚ 30’",
+      "org_longitude": "137 ゚ 10’"
+    },
+    {
+      "name_kanji": "飛驒山脈",
+      "name_kana": "ひださんみゃく",
+      "name_romaji": "Hida Sanmyaku",
+      "classification": "Extensive natural feature",
+      "lat": 36.433333,
+      "lon": 137.616667,
+      "org_latitude": "36 ゚ 26’",
+      "org_longitude": "137 ゚ 37’"
+    },
+    {
+      "name_kanji": "日高山脈",
+      "name_kana": "ひだかさんみゃく",
+      "name_romaji": "Hidaka Sanmyaku",
+      "classification": "Extensive natural feature",
+      "lat": 42.583333,
+      "lon": 142.783333,
+      "org_latitude": "42 ゚ 35’",
+      "org_longitude": "142 ゚ 47’"
+    },
+    {
+      "name_kanji": "東頚城丘陵",
+      "name_kana": "ひがしくびききゅうりょう",
+      "name_romaji": "Higashikubiki Kyuryo",
+      "classification": "Extensive natural feature",
+      "lat": 37.25,
+      "lon": 138.583333,
+      "org_latitude": "37 ゚ 15’",
+      "org_longitude": "138 ゚ 35’"
+    },
+    {
+      "name_kanji": "防予諸島",
+      "name_kana": "ほうよしょとう",
+      "name_romaji": "Hoyo Shoto",
+      "classification": "Extensive natural feature",
+      "lat": 33.883333,
+      "lon": 132.416667,
+      "org_latitude": "33 ゚ 53’",
+      "org_longitude": "132 ゚ 25’"
+    },
+    {
+      "name_kanji": "伊吹山地",
+      "name_kana": "いぶきさんち",
+      "name_romaji": "Ibuki Sanchi",
+      "classification": "Extensive natural feature",
+      "lat": 35.55,
+      "lon": 136.333333,
+      "org_latitude": "35 ゚ 33’",
+      "org_longitude": "136 ゚ 20’"
+    },
+    {
+      "name_kanji": "家島諸島",
+      "name_kana": "いえしましょとう",
+      "name_romaji": "Ieshima Shoto",
+      "classification": "Extensive natural feature",
+      "lat": 34.616667,
+      "lon": 134.516667,
+      "org_latitude": "34 ゚ 37’",
+      "org_longitude": "134 ゚ 31’"
+    },
+    {
+      "name_kanji": "石狩平野",
+      "name_kana": "いしかりへいや",
+      "name_romaji": "Ishikari Heiya",
+      "classification": "Extensive natural feature",
+      "lat": 43.733333,
+      "lon": 141.9,
+      "org_latitude": "43 ゚ 44’",
+      "org_longitude": "141 ゚ 54’"
+    },
+    {
+      "name_kanji": "石狩山地",
+      "name_kana": "いしかりさんち",
+      "name_romaji": "Ishikari Sanchi",
+      "classification": "Extensive natural feature",
+      "lat": 43.666667,
+      "lon": 142.85,
+      "org_latitude": "43 ゚ 40’",
+      "org_longitude": "142 ゚ 51’"
+    },
+    {
+      "name_kanji": "石見高原",
+      "name_kana": "いわみこうげん",
+      "name_romaji": "Iwami Kogen",
+      "classification": "Extensive natural feature",
+      "lat": 34.883333,
+      "lon": 132.183333,
+      "org_latitude": "34 ゚ 53’",
+      "org_longitude": "132 ゚ 11’"
+    },
+    {
+      "name_kanji": "伊豆半島",
+      "name_kana": "いずはんとう",
+      "name_romaji": "Izu Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 34.933333,
+      "lon": 138.85,
+      "org_latitude": "34 ゚ 56’",
+      "org_longitude": "138 ゚ 51’"
+    },
+    {
+      "name_kanji": "伊豆諸島",
+      "name_kana": "いずしょとう",
+      "name_romaji": "Izu Shoto",
+      "classification": "Extensive natural feature",
+      "lat": 34.233333,
+      "lon": 139.266667,
+      "org_latitude": "34 ゚ 14’",
+      "org_longitude": "139 ゚ 16’"
+    },
+    {
+      "name_kanji": "亀田半島",
+      "name_kana": "かめだはんとう",
+      "name_romaji": "Kameda Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 41.883333,
+      "lon": 140.8,
+      "org_latitude": "41 ゚ 53’",
+      "org_longitude": "140 ゚ 48’"
+    },
+    {
+      "name_kanji": "関東平野",
+      "name_kana": "かんとうへいや",
+      "name_romaji": "Kanto Heiya",
+      "classification": "Extensive natural feature",
+      "lat": 35.866667,
+      "lon": 139.566667,
+      "org_latitude": "35 ゚ 52’",
+      "org_longitude": "139 ゚ 34’"
+    },
+    {
+      "name_kanji": "関東山地",
+      "name_kana": "かんとうさんち",
+      "name_romaji": "Kanto Sanchi",
+      "classification": "Extensive natural feature",
+      "lat": 35.8,
+      "lon": 139.016667,
+      "org_latitude": "35 ゚ 48’",
+      "org_longitude": "139 ゚ 01’"
+    },
+    {
+      "name_kanji": "火山(硫黄)列島",
+      "name_kana": "かざん(いおう)れっとう",
+      "name_romaji": "Kazan (Io) Retto",
+      "classification": "Extensive natural feature",
+      "lat": 24.8,
+      "lon": 141.35,
+      "org_latitude": "24 ゚ 48’",
+      "org_longitude": "141 ゚ 21’"
+    },
+    {
+      "name_kanji": "慶良間列島",
+      "name_kana": "けらまれっとう",
+      "name_romaji": "Kerama Retto",
+      "classification": "Extensive natural feature",
+      "lat": 26.266667,
+      "lon": 127.283333,
+      "org_latitude": "26 ゚ 16’",
+      "org_longitude": "127 ゚ 17’"
+    },
+    {
+      "name_kanji": "吉備高原",
+      "name_kana": "きびこうげん",
+      "name_romaji": "Kibi Kogen",
+      "classification": "Extensive natural feature",
+      "lat": 34.8,
+      "lon": 133.4,
+      "org_latitude": "34 ゚ 48’",
+      "org_longitude": "133 ゚ 24’"
+    },
+    {
+      "name_kanji": "紀伊半島",
+      "name_kana": "きいはんとう",
+      "name_romaji": "Kii Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 33.866667,
+      "lon": 135.666667,
+      "org_latitude": "33 ゚ 52’",
+      "org_longitude": "135 ゚ 40’"
+    },
+    {
+      "name_kanji": "紀伊山地",
+      "name_kana": "きいさんち",
+      "name_romaji": "Kii Sanchi",
+      "classification": "Extensive natural feature",
+      "lat": 34.133333,
+      "lon": 135.483333,
+      "org_latitude": "34 ゚ 08’",
+      "org_longitude": "135 ゚ 29’"
+    },
+    {
+      "name_kanji": "木曽山脈",
+      "name_kana": "きそさんみゃく",
+      "name_romaji": "Kiso Sanmyaku",
+      "classification": "Extensive natural feature",
+      "lat": 35.85,
+      "lon": 137.833333,
+      "org_latitude": "35 ゚ 51’",
+      "org_longitude": "137 ゚ 50’"
+    },
+    {
+      "name_kanji": "北上高地",
+      "name_kana": "きたかみこうち",
+      "name_romaji": "Kitakami Kochi",
+      "classification": "Extensive natural feature",
+      "lat": 39.733333,
+      "lon": 141.5,
+      "org_latitude": "39 ゚ 44’",
+      "org_longitude": "141 ゚ 30’"
+    },
+    {
+      "name_kanji": "北見山地",
+      "name_kana": "きたみさんち",
+      "name_romaji": "Kitami Sanchi",
+      "classification": "Extensive natural feature",
+      "lat": 44.416667,
+      "lon": 142.816667,
+      "org_latitude": "44 ゚ 25’",
+      "org_longitude": "142 ゚ 49’"
+    },
+    {
+      "name_kanji": "児島半島",
+      "name_kana": "こじまはんとう",
+      "name_romaji": "Kojima Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 34.5,
+      "lon": 133.833333,
+      "org_latitude": "34 ゚ 30’",
+      "org_longitude": "133 ゚ 50’"
+    },
+    {
+      "name_kanji": "根釧台地",
+      "name_kana": "こんせんだいち",
+      "name_romaji": "Konsen Daichi",
+      "classification": "Extensive natural feature",
+      "lat": 43.4,
+      "lon": 144.716667,
+      "org_latitude": "43 ゚ 24’",
+      "org_longitude": "144 ゚ 43’"
+    },
+    {
+      "name_kanji": "根釧原野",
+      "name_kana": "こんせんげんや",
+      "name_romaji": "Konsen Gen-ya",
+      "classification": "Extensive natural feature",
+      "lat": 43.2,
+      "lon": 144.566667,
+      "org_latitude": "43 ゚ 12’",
+      "org_longitude": "144 ゚ 34’"
+    },
+    {
+      "name_kanji": "甑島列島",
+      "name_kana": "こしきじまれっとう",
+      "name_romaji": "Koshikijima Retto",
+      "classification": "Extensive natural feature",
+      "lat": 31.833333,
+      "lon": 129.766667,
+      "org_latitude": "31 ゚ 50’",
+      "org_longitude": "129 ゚ 46’"
+    },
+    {
+      "name_kanji": "くじゅう連山",
+      "name_kana": "くじゅうれんざん",
+      "name_romaji": "Kuju Renzan",
+      "classification": "Extensive natural feature",
+      "lat": 33.083333,
+      "lon": 131.2,
+      "org_latitude": "33 ゚ 05’",
+      "org_longitude": "131 ゚ 12’"
+    },
+    {
+      "name_kanji": "熊本平野",
+      "name_kana": "くまもとへいや",
+      "name_romaji": "Kumamoto Heiya",
+      "classification": "Extensive natural feature",
+      "lat": 32.883333,
+      "lon": 130.766667,
+      "org_latitude": "32 ゚ 53’",
+      "org_longitude": "130 ゚ 46’"
+    },
+    {
+      "name_kanji": "国東半島",
+      "name_kana": "くにさきはんとう",
+      "name_romaji": "Kunisaki Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 33.583333,
+      "lon": 131.616667,
+      "org_latitude": "33 ゚ 35’",
+      "org_longitude": "131 ゚ 37’"
+    },
+    {
+      "name_kanji": "草垣群島(草垣島)",
+      "name_kana": "くさがきぐんとう(くさかきしま)",
+      "name_romaji": "Kusagaki Gunto (Kusakaki Shima)",
+      "classification": "Extensive natural feature",
+      "lat": 30.866667,
+      "lon": 129.416667,
+      "org_latitude": "30 ゚ 52’",
+      "org_longitude": "129 ゚ 25’"
+    },
+    {
+      "name_kanji": "釧路平野",
+      "name_kana": "くしろへいや",
+      "name_romaji": "Kushiro Heiya",
+      "classification": "Extensive natural feature",
+      "lat": 43.05,
+      "lon": 144.3,
+      "org_latitude": "43 ゚ 03’",
+      "org_longitude": "144 ゚ 18’"
+    },
+    {
+      "name_kanji": "九州山地",
+      "name_kana": "きゅうしゅうさんち",
+      "name_romaji": "Kyushu Sanchi",
+      "classification": "Extensive natural feature",
+      "lat": 32.4,
+      "lon": 131.15,
+      "org_latitude": "32 ゚ 24’",
+      "org_longitude": "131 ゚ 09’"
+    },
+    {
+      "name_kanji": "松前半島",
+      "name_kana": "まつまえはんとう",
+      "name_romaji": "Matsumae Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 41.75,
+      "lon": 140.2,
+      "org_latitude": "41 ゚ 45’",
+      "org_longitude": "140 ゚ 12’"
+    },
+    {
+      "name_kanji": "美濃三河高原",
+      "name_kana": "みのみかわこうげん",
+      "name_romaji": "Mino-mikawa Kogen",
+      "classification": "Extensive natural feature",
+      "lat": 35.25,
+      "lon": 137.4,
+      "org_latitude": "35 ゚ 15’",
+      "org_longitude": "137 ゚ 24’"
+    },
+    {
+      "name_kanji": "身延山地",
+      "name_kana": "みのぶさんち",
+      "name_romaji": "Minobu Sanchi",
+      "classification": "Extensive natural feature",
+      "lat": 35.05,
+      "lon": 138.266667,
+      "org_latitude": "35 ゚ 03’",
+      "org_longitude": "138 ゚ 16’"
+    },
+    {
+      "name_kanji": "三浦半島",
+      "name_kana": "みうらはんとう",
+      "name_romaji": "Miura Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 35.25,
+      "lon": 139.633333,
+      "org_latitude": "35 ゚ 15’",
+      "org_longitude": "139 ゚ 38’"
+    },
+    {
+      "name_kanji": "宮古列島",
+      "name_kana": "みやこれっとう",
+      "name_romaji": "Miyako Retto",
+      "classification": "Extensive natural feature",
+      "lat": 24.883333,
+      "lon": 125.016667,
+      "org_latitude": "24 ゚ 53’",
+      "org_longitude": "125 ゚ 01’"
+    },
+    {
+      "name_kanji": "聟島列島",
+      "name_kana": "むこじまれっとう",
+      "name_romaji": "Mukojima Retto",
+      "classification": "Extensive natural feature",
+      "lat": 27.616667,
+      "lon": 142.1,
+      "org_latitude": "27 ゚ 37’",
+      "org_longitude": "142 ゚ 06’"
+    },
+    {
+      "name_kanji": "南方諸島",
+      "name_kana": "なんぽうしょとう",
+      "name_romaji": "Nanpo Shoto",
+      "classification": "Extensive natural feature",
+      "lat": 29.233333,
+      "lon": 140.433333,
+      "org_latitude": "29 ゚ 14’",
+      "org_longitude": "140 ゚ 26’"
+    },
+    {
+      "name_kanji": "南西諸島",
+      "name_kana": "なんせいしょとう",
+      "name_romaji": "Nansei Shoto",
+      "classification": "Extensive natural feature",
+      "lat": 27.666667,
+      "lon": 127.333333,
+      "org_latitude": "27 ゚ 40’",
+      "org_longitude": "127 ゚ 20’"
+    },
+    {
+      "name_kanji": "那須野原",
+      "name_kana": "なすのはら",
+      "name_romaji": "Nasuno Hara",
+      "classification": "Extensive natural feature",
+      "lat": 36.916667,
+      "lon": 140.05,
+      "org_latitude": "36 ゚ 55’",
+      "org_longitude": "140 ゚ 03’"
+    },
+    {
+      "name_kanji": "根室半島",
+      "name_kana": "ねむろはんとう",
+      "name_romaji": "Nemuro Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 43.35,
+      "lon": 145.666667,
+      "org_latitude": "43 ゚ 21’",
+      "org_longitude": "145 ゚ 40’"
+    },
+    {
+      "name_kanji": "西彼杵半島",
+      "name_kana": "にしそのきはんとう",
+      "name_romaji": "Nishisonoki Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 32.983333,
+      "lon": 129.716667,
+      "org_latitude": "32 ゚ 59’",
+      "org_longitude": "129 ゚ 43’"
+    },
+    {
+      "name_kanji": "濃尾平野",
+      "name_kana": "のうびへいや",
+      "name_romaji": "Nobi Heiya",
+      "classification": "Extensive natural feature",
+      "lat": 35.233333,
+      "lon": 136.633333,
+      "org_latitude": "35 ゚ 14’",
+      "org_longitude": "136 ゚ 38’"
+    },
+    {
+      "name_kanji": "能登半島",
+      "name_kana": "のとはんとう",
+      "name_romaji": "Noto Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 37.2,
+      "lon": 136.816667,
+      "org_latitude": "37 ゚ 12’",
+      "org_longitude": "136 ゚ 49’"
+    },
+    {
+      "name_kanji": "男鹿半島",
+      "name_kana": "おがはんとう",
+      "name_romaji": "Oga Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 39.916667,
+      "lon": 139.766667,
+      "org_latitude": "39 ゚ 55’",
+      "org_longitude": "139 ゚ 46’"
+    },
+    {
+      "name_kanji": "小笠原群島",
+      "name_kana": "おがさわらぐんとう",
+      "name_romaji": "Ogasawara Gunto",
+      "classification": "Extensive natural feature",
+      "lat": 27.566667,
+      "lon": 141.95,
+      "org_latitude": "27 ゚ 34’",
+      "org_longitude": "141 ゚ 57’"
+    },
+    {
+      "name_kanji": "小笠原諸島",
+      "name_kana": "おがさわらしょとう",
+      "name_romaji": "Ogasawara Shoto",
+      "classification": "Extensive natural feature",
+      "lat": 26.8,
+      "lon": 141.6,
+      "org_latitude": "26 ゚ 48’",
+      "org_longitude": "141 ゚ 36’"
+    },
+    {
+      "name_kanji": "隠岐諸島",
+      "name_kana": "おきしょとう",
+      "name_romaji": "Oki Shoto",
+      "classification": "Extensive natural feature",
+      "lat": 36.166667,
+      "lon": 133.066667,
+      "org_latitude": "36 ゚ 10’",
+      "org_longitude": "133 ゚ 04’"
+    },
+    {
+      "name_kanji": "沖縄諸島",
+      "name_kana": "おきなわしょとう",
+      "name_romaji": "Okinawa Shoto",
+      "classification": "Extensive natural feature",
+      "lat": 26.4,
+      "lon": 127.05,
+      "org_latitude": "26 ゚ 24’",
+      "org_longitude": "127 ゚ 03’"
+    },
+    {
+      "name_kanji": "牡鹿半島",
+      "name_kana": "おしかはんとう",
+      "name_romaji": "Oshika Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 38.433333,
+      "lon": 141.416667,
+      "org_latitude": "38 ゚ 26’",
+      "org_longitude": "141 ゚ 25’"
+    },
+    {
+      "name_kanji": "渡島半島",
+      "name_kana": "おしまはんとう",
+      "name_romaji": "Oshima Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 42.383333,
+      "lon": 140.016667,
+      "org_latitude": "42 ゚ 23’",
+      "org_longitude": "140 ゚ 01’"
+    },
+    {
+      "name_kanji": "大隅半島",
+      "name_kana": "おおすみはんとう",
+      "name_romaji": "Osumi Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 31.6,
+      "lon": 130.916667,
+      "org_latitude": "31 ゚ 36’",
+      "org_longitude": "130 ゚ 55’"
+    },
+    {
+      "name_kanji": "大隅諸島",
+      "name_kana": "おおすみしょとう",
+      "name_romaji": "Osumi Shoto",
+      "classification": "Extensive natural feature",
+      "lat": 30.533333,
+      "lon": 130.333333,
+      "org_latitude": "30 ゚ 32’",
+      "org_longitude": "130 ゚ 20’"
+    },
+    {
+      "name_kanji": "奥羽山脈",
+      "name_kana": "おううさんみゃく",
+      "name_romaji": "Ou Sanmyaku",
+      "classification": "Extensive natural feature",
+      "lat": 39.85,
+      "lon": 140.75,
+      "org_latitude": "39 ゚ 51’",
+      "org_longitude": "140 ゚ 45’"
+    },
+    {
+      "name_kanji": "尾瀬ヶ原",
+      "name_kana": "おぜがはら",
+      "name_romaji": "Ozegahara",
+      "classification": "Extensive natural feature",
+      "lat": 36.916667,
+      "lon": 139.216667,
+      "org_latitude": "36 ゚ 55’",
+      "org_longitude": "139 ゚ 13’"
+    },
+    {
+      "name_kanji": "両白山地",
+      "name_kana": "りょうはくさんち",
+      "name_romaji": "Ryohaku Sanchi",
+      "classification": "Extensive natural feature",
+      "lat": 36.316667,
+      "lon": 136.75,
+      "org_latitude": "36 ゚ 19’",
+      "org_longitude": "136 ゚ 45’"
+    },
+    {
+      "name_kanji": "琉球諸島",
+      "name_kana": "りゅうきゅうしょとう",
+      "name_romaji": "Ryukyu Shoto",
+      "classification": "Extensive natural feature",
+      "lat": 26.533333,
+      "lon": 126.633333,
+      "org_latitude": "26 ゚ 32’",
+      "org_longitude": "126 ゚ 38’"
+    },
+    {
+      "name_kanji": "佐田岬半島",
+      "name_kana": "さだみさきはんとう",
+      "name_romaji": "Sadamisaki Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 33.4,
+      "lon": 132.083333,
+      "org_latitude": "33 ゚ 24’",
+      "org_longitude": "132 ゚ 05’"
+    },
+    {
+      "name_kanji": "先島諸島",
+      "name_kana": "さきしましょとう",
+      "name_romaji": "Sakishima Shoto",
+      "classification": "Extensive natural feature",
+      "lat": 24.5,
+      "lon": 123.9,
+      "org_latitude": "24 ゚ 30’",
+      "org_longitude": "123 ゚ 54’"
+    },
+    {
+      "name_kanji": "讃岐山脈",
+      "name_kana": "さぬきさんみゃく",
+      "name_romaji": "Sanuki Sanmyaku",
+      "classification": "Extensive natural feature",
+      "lat": 34.15,
+      "lon": 134.266667,
+      "org_latitude": "34 ゚ 09’",
+      "org_longitude": "134 ゚ 16’"
+    },
+    {
+      "name_kanji": "薩摩半島",
+      "name_kana": "さつまはんとう",
+      "name_romaji": "Satsuma Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 31.516667,
+      "lon": 130.416667,
+      "org_latitude": "31 ゚ 31’",
+      "org_longitude": "130 ゚ 25’"
+    },
+    {
+      "name_kanji": "薩南諸島",
+      "name_kana": "さつなんしょとう",
+      "name_romaji": "Satsunan Shoto",
+      "classification": "Extensive natural feature",
+      "lat": 28.35,
+      "lon": 128.85,
+      "org_latitude": "28 ゚ 21’",
+      "org_longitude": "128 ゚ 51’"
+    },
+    {
+      "name_kanji": "尖閣諸島",
+      "name_kana": "せんかくしょとう",
+      "name_romaji": "Senkaku Shoto",
+      "classification": "Extensive natural feature",
+      "lat": 25.833333,
+      "lon": 123.95,
+      "org_latitude": "25 ゚ 50’",
+      "org_longitude": "123 ゚ 57’"
+    },
+    {
+      "name_kanji": "積丹半島",
+      "name_kana": "しゃこたんはんとう",
+      "name_romaji": "Shakotan Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 43.183333,
+      "lon": 140.45,
+      "org_latitude": "43 ゚ 11’",
+      "org_longitude": "140 ゚ 27’"
+    },
+    {
+      "name_kanji": "四国山地",
+      "name_kana": "しこくさんち",
+      "name_romaji": "Shikoku Sanchi",
+      "classification": "Extensive natural feature",
+      "lat": 33.8,
+      "lon": 133.366667,
+      "org_latitude": "33 ゚ 48’",
+      "org_longitude": "133 ゚ 22’"
+    },
+    {
+      "name_kanji": "志摩半島",
+      "name_kana": "しまはんとう",
+      "name_romaji": "Shima Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 34.416667,
+      "lon": 136.7,
+      "org_latitude": "34 ゚ 25’",
+      "org_longitude": "136 ゚ 42’"
+    },
+    {
+      "name_kanji": "島原半島",
+      "name_kana": "しまばらはんとう",
+      "name_romaji": "Shimabara Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 32.783333,
+      "lon": 130.266667,
+      "org_latitude": "32 ゚ 47’",
+      "org_longitude": "130 ゚ 16’"
+    },
+    {
+      "name_kanji": "島根半島",
+      "name_kana": "しまねはんとう",
+      "name_romaji": "Shimane Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 35.516667,
+      "lon": 133.066667,
+      "org_latitude": "35 ゚ 31’",
+      "org_longitude": "133 ゚ 04’"
+    },
+    {
+      "name_kanji": "下北半島",
+      "name_kana": "しもきたはんとう",
+      "name_romaji": "Shimokita Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 41.2,
+      "lon": 141.316667,
+      "org_latitude": "41 ゚ 12’",
+      "org_longitude": "141 ゚ 19’"
+    },
+    {
+      "name_kanji": "白糠丘陵",
+      "name_kana": "しらぬかきゅうりょう",
+      "name_romaji": "Shiranuka Kyuryo",
+      "classification": "Extensive natural feature",
+      "lat": 43.133333,
+      "lon": 143.833333,
+      "org_latitude": "43 ゚ 08’",
+      "org_longitude": "143 ゚ 50’"
+    },
+    {
+      "name_kanji": "知床半島",
+      "name_kana": "しれとこはんとう",
+      "name_romaji": "Shiretoko Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 44.15,
+      "lon": 145.233333,
+      "org_latitude": "44 ゚ 09’",
+      "org_longitude": "145 ゚ 14’"
+    },
+    {
+      "name_kanji": "塩飽諸島",
+      "name_kana": "しわくしょとう",
+      "name_romaji": "Shiwaku Shoto",
+      "classification": "Extensive natural feature",
+      "lat": 34.333333,
+      "lon": 133.683333,
+      "org_latitude": "34 ゚ 20’",
+      "org_longitude": "133 ゚ 41’"
+    },
+    {
+      "name_kanji": "庄内平野",
+      "name_kana": "しょうないへいや",
+      "name_romaji": "Shonai Heiya",
+      "classification": "Extensive natural feature",
+      "lat": 38.95,
+      "lon": 139.883333,
+      "org_latitude": "38 ゚ 57’",
+      "org_longitude": "139 ゚ 53’"
+    },
+    {
+      "name_kanji": "鈴鹿山脈",
+      "name_kana": "すずかさんみゃく",
+      "name_romaji": "Suzuka Sanmyaku",
+      "classification": "Extensive natural feature",
+      "lat": 35.133333,
+      "lon": 136.45,
+      "org_latitude": "35 ゚ 08’",
+      "org_longitude": "136 ゚ 27’"
+    },
+    {
+      "name_kanji": "高縄半島",
+      "name_kana": "たかなわはんとう",
+      "name_romaji": "Takanawa Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 33.966667,
+      "lon": 132.8,
+      "org_latitude": "33 ゚ 58’",
+      "org_longitude": "132 ゚ 48’"
+    },
+    {
+      "name_kanji": "丹波高地",
+      "name_kana": "たんばこうち",
+      "name_romaji": "Tanba Kochi",
+      "classification": "Extensive natural feature",
+      "lat": 35.233333,
+      "lon": 135.516667,
+      "org_latitude": "35 ゚ 14’",
+      "org_longitude": "135 ゚ 31’"
+    },
+    {
+      "name_kanji": "丹後半島",
+      "name_kana": "たんごはんとう",
+      "name_romaji": "Tango Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 35.633333,
+      "lon": 135.05,
+      "org_latitude": "35 ゚ 38’",
+      "org_longitude": "135 ゚ 03’"
+    },
+    {
+      "name_kanji": "天塩山地",
+      "name_kana": "てしおさんち",
+      "name_romaji": "Teshio Sanchi",
+      "classification": "Extensive natural feature",
+      "lat": 44.45,
+      "lon": 142.1,
+      "org_latitude": "44 ゚ 27’",
+      "org_longitude": "142 ゚ 06’"
+    },
+    {
+      "name_kanji": "十勝平野",
+      "name_kana": "とかちへいや",
+      "name_romaji": "Tokachi Heiya",
+      "classification": "Extensive natural feature",
+      "lat": 42.983333,
+      "lon": 143.083333,
+      "org_latitude": "42 ゚ 59’",
+      "org_longitude": "143 ゚ 05’"
+    },
+    {
+      "name_kanji": "吐噶喇列島",
+      "name_kana": "とかられっとう",
+      "name_romaji": "Tokara Retto",
+      "classification": "Extensive natural feature",
+      "lat": 29.816667,
+      "lon": 129.633333,
+      "org_latitude": "29 ゚ 49’",
+      "org_longitude": "129 ゚ 38’"
+    },
+    {
+      "name_kanji": "津軽半島",
+      "name_kana": "つがるはんとう",
+      "name_romaji": "Tsugaru Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 41.1,
+      "lon": 140.483333,
+      "org_latitude": "41 ゚ 06’",
+      "org_longitude": "140 ゚ 29’"
+    },
+    {
+      "name_kanji": "津軽平野",
+      "name_kana": "つがるへいや",
+      "name_romaji": "Tsugaru Heiya",
+      "classification": "Extensive natural feature",
+      "lat": 40.95,
+      "lon": 140.383333,
+      "org_latitude": "40 ゚ 57’",
+      "org_longitude": "140 ゚ 23’"
+    },
+    {
+      "name_kanji": "筑紫平野",
+      "name_kana": "つくしへいや",
+      "name_romaji": "Tsukushi Heiya",
+      "classification": "Extensive natural feature",
+      "lat": 33.35,
+      "lon": 130.5,
+      "org_latitude": "33 ゚ 21’",
+      "org_longitude": "130 ゚ 30’"
+    },
+    {
+      "name_kanji": "筑紫山地",
+      "name_kana": "つくしさんち",
+      "name_romaji": "Tsukushi Sanchi",
+      "classification": "Extensive natural feature",
+      "lat": 33.266667,
+      "lon": 130.033333,
+      "org_latitude": "33 ゚ 16’",
+      "org_longitude": "130 ゚ 02’"
+    },
+    {
+      "name_kanji": "宇治群島",
+      "name_kana": "うじぐんとう",
+      "name_romaji": "Uji Gunto",
+      "classification": "Extensive natural feature",
+      "lat": 31.216667,
+      "lon": 129.433333,
+      "org_latitude": "31 ゚ 13’",
+      "org_longitude": "129 ゚ 26’"
+    },
+    {
+      "name_kanji": "宇土半島",
+      "name_kana": "うとはんとう",
+      "name_romaji": "Uto Hanto",
+      "classification": "Extensive natural feature",
+      "lat": 32.616667,
+      "lon": 130.733333,
+      "org_latitude": "32 ゚ 37’",
+      "org_longitude": "130 ゚ 44’"
+    },
+    {
+      "name_kanji": "八重干瀬",
+      "name_kana": "やびじ",
+      "name_romaji": "Yabiji",
+      "classification": "Extensive natural feature",
+      "lat": 25.033333,
+      "lon": 125.25,
+      "org_latitude": "25 ゚ 02’",
+      "org_longitude": "125 ゚ 15’"
+    },
+    {
+      "name_kanji": "八重山列島",
+      "name_kana": "やえやまれっとう",
+      "name_romaji": "Yaeyama Retto",
+      "classification": "Extensive natural feature",
+      "lat": 24.483333,
+      "lon": 123.933333,
+      "org_latitude": "24 ゚ 29’",
+      "org_longitude": "123 ゚ 56’"
+    },
+    {
+      "name_kanji": "夕張山地",
+      "name_kana": "ゆうばりさんち",
+      "name_romaji": "Yubari Sanchi",
+      "classification": "Extensive natural feature",
+      "lat": 43.166667,
+      "lon": 142.25,
+      "org_latitude": "43 ゚ 10’",
+      "org_longitude": "142 ゚ 15’"
+    }
+  ],
+  "meta": {
+    "title": "広域自然地形一覧 (Extensive natural features of Japan) - 無料ダウンロード",
+    "description": "国土地理院「日本地名集 (Gazetteer of Japan) 2007」に収録された広域自然地形 113 件。漢字・ひらがな・公式ローマ字表記と緯度経度を併記。113 extensive natural features listed in the Geospatial Information Authority of Japan's Gazetteer of Japan 2007 (with the 2018 update), each with kanji, kana and the official romanised name plus degree-minute coordinates in both original DMS and decimal form. 収録数 113 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "広域自然地形一覧 (Extensive natural features of Japan) | ListBase",
+    "seo_description": "ダウンロード 広域自然地形一覧 (Extensive natural features of Japan) — 113 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 113 件 / 8 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/piuccio/open-data-jp-municipalities"
+    ]
+  }
+}

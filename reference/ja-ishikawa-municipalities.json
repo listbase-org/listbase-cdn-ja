@@ -1,0 +1,208 @@
+{
+  "id": "ja-ishikawa-municipalities",
+  "name": "石川県の市区町村一覧 (Municipalities of Ishikawa — JIS X 0402)",
+  "title": "石川県の市区町村一覧 (Municipalities of Ishikawa — JIS X 0402)",
+  "description": "石川県 (Ishikawa Prefecture) の市区町村一覧 19 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 19 active municipalities (cities/wards/towns/villages) of Ishikawa Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "17201",
+      "prefecture_code": "17",
+      "prefecture": "石川県",
+      "prefecture_kana": "イシカワケン",
+      "city": "金沢市",
+      "city_kana": "カナザワシ"
+    },
+    {
+      "jisx0402": "17202",
+      "prefecture_code": "17",
+      "prefecture": "石川県",
+      "prefecture_kana": "イシカワケン",
+      "city": "七尾市",
+      "city_kana": "ナナオシ"
+    },
+    {
+      "jisx0402": "17203",
+      "prefecture_code": "17",
+      "prefecture": "石川県",
+      "prefecture_kana": "イシカワケン",
+      "city": "小松市",
+      "city_kana": "コマツシ"
+    },
+    {
+      "jisx0402": "17204",
+      "prefecture_code": "17",
+      "prefecture": "石川県",
+      "prefecture_kana": "イシカワケン",
+      "city": "輪島市",
+      "city_kana": "ワジマシ"
+    },
+    {
+      "jisx0402": "17205",
+      "prefecture_code": "17",
+      "prefecture": "石川県",
+      "prefecture_kana": "イシカワケン",
+      "city": "珠洲市",
+      "city_kana": "スズシ"
+    },
+    {
+      "jisx0402": "17206",
+      "prefecture_code": "17",
+      "prefecture": "石川県",
+      "prefecture_kana": "イシカワケン",
+      "city": "加賀市",
+      "city_kana": "カガシ"
+    },
+    {
+      "jisx0402": "17207",
+      "prefecture_code": "17",
+      "prefecture": "石川県",
+      "prefecture_kana": "イシカワケン",
+      "city": "羽咋市",
+      "city_kana": "ハクイシ"
+    },
+    {
+      "jisx0402": "17209",
+      "prefecture_code": "17",
+      "prefecture": "石川県",
+      "prefecture_kana": "イシカワケン",
+      "city": "かほく市",
+      "city_kana": "カホクシ"
+    },
+    {
+      "jisx0402": "17210",
+      "prefecture_code": "17",
+      "prefecture": "石川県",
+      "prefecture_kana": "イシカワケン",
+      "city": "白山市",
+      "city_kana": "ハクサンシ"
+    },
+    {
+      "jisx0402": "17211",
+      "prefecture_code": "17",
+      "prefecture": "石川県",
+      "prefecture_kana": "イシカワケン",
+      "city": "能美市",
+      "city_kana": "ノミシ"
+    },
+    {
+      "jisx0402": "17212",
+      "prefecture_code": "17",
+      "prefecture": "石川県",
+      "prefecture_kana": "イシカワケン",
+      "city": "野々市市",
+      "city_kana": "ノノイチシ"
+    },
+    {
+      "jisx0402": "17324",
+      "prefecture_code": "17",
+      "prefecture": "石川県",
+      "prefecture_kana": "イシカワケン",
+      "city": "能美郡川北町",
+      "city_kana": "ノミグンカワキタマチ"
+    },
+    {
+      "jisx0402": "17361",
+      "prefecture_code": "17",
+      "prefecture": "石川県",
+      "prefecture_kana": "イシカワケン",
+      "city": "河北郡津幡町",
+      "city_kana": "カホクグンツバタマチ"
+    },
+    {
+      "jisx0402": "17365",
+      "prefecture_code": "17",
+      "prefecture": "石川県",
+      "prefecture_kana": "イシカワケン",
+      "city": "河北郡内灘町",
+      "city_kana": "カホクグンウチナダマチ"
+    },
+    {
+      "jisx0402": "17384",
+      "prefecture_code": "17",
+      "prefecture": "石川県",
+      "prefecture_kana": "イシカワケン",
+      "city": "羽咋郡志賀町",
+      "city_kana": "ハクイグンシカマチ"
+    },
+    {
+      "jisx0402": "17386",
+      "prefecture_code": "17",
+      "prefecture": "石川県",
+      "prefecture_kana": "イシカワケン",
+      "city": "羽咋郡宝達志水町",
+      "city_kana": "ハクイグンホウダツシミズチョウ"
+    },
+    {
+      "jisx0402": "17407",
+      "prefecture_code": "17",
+      "prefecture": "石川県",
+      "prefecture_kana": "イシカワケン",
+      "city": "鹿島郡中能登町",
+      "city_kana": "カシマグンナカノトマチ"
+    },
+    {
+      "jisx0402": "17461",
+      "prefecture_code": "17",
+      "prefecture": "石川県",
+      "prefecture_kana": "イシカワケン",
+      "city": "鳳珠郡穴水町",
+      "city_kana": "ホウスグンアナミズマチ"
+    },
+    {
+      "jisx0402": "17463",
+      "prefecture_code": "17",
+      "prefecture": "石川県",
+      "prefecture_kana": "イシカワケン",
+      "city": "鳳珠郡能登町",
+      "city_kana": "ホウスグンノトチョウ"
+    }
+  ],
+  "meta": {
+    "title": "石川県の市区町村一覧 (Municipalities of Ishikawa — JIS X 0402) - 無料ダウンロード",
+    "description": "石川県 (Ishikawa Prefecture) の市区町村一覧 19 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 19 active municipalities (cities/wards/towns/villages) of Ishikawa Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 19 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "石川県の市区町村一覧 (Municipalities of Ishikawa — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 石川県の市区町村一覧 (Municipalities of Ishikawa — JIS X 0402) — 19 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 19 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

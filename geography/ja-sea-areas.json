@@ -1,0 +1,1086 @@
+{
+  "id": "ja-sea-areas",
+  "name": "海域一覧 (Sea areas around Japan)",
+  "title": "海域一覧 (Sea areas around Japan)",
+  "description": "国土地理院「日本地名集 (Gazetteer of Japan) 2007」に収録された海域 102 件。漢字・ひらがな・公式ローマ字表記と緯度経度を併記。102 sea areas listed in the Geospatial Information Authority of Japan's Gazetteer of Japan 2007 (with the 2018 update), each with kanji, kana and the official romanised name plus degree-minute coordinates in both original DMS and decimal form.",
+  "category": "geography",
+  "source": "https://github.com/piuccio/open-data-jp-municipalities",
+  "source_url": "https://github.com/piuccio/open-data-jp-municipalities",
+  "updated": "2026-04",
+  "record_count": 102,
+  "columns": [
+    {
+      "key": "name_kanji",
+      "label": "Name Kanji",
+      "type": "string"
+    },
+    {
+      "key": "name_kana",
+      "label": "Name Kana",
+      "type": "string"
+    },
+    {
+      "key": "name_romaji",
+      "label": "Name Romaji",
+      "type": "string"
+    },
+    {
+      "key": "classification",
+      "label": "Classification",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "org_latitude",
+      "label": "Org Latitude",
+      "type": "string"
+    },
+    {
+      "key": "org_longitude",
+      "label": "Org Longitude",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_kanji": "明石海峡",
+      "name_kana": "あかしかいきょう",
+      "name_romaji": "Akashi Kaikyo",
+      "classification": "Sea Area",
+      "lat": 34.6,
+      "lon": 135.016667,
+      "org_latitude": "34 ゚ 36’",
+      "org_longitude": "135 ゚ 01’"
+    },
+    {
+      "name_kanji": "安芸灘",
+      "name_kana": "あきなだ",
+      "name_romaji": "Aki Nada",
+      "classification": "Sea Area",
+      "lat": 34.116667,
+      "lon": 132.666667,
+      "org_latitude": "34 ゚ 07’",
+      "org_longitude": "132 ゚ 40’"
+    },
+    {
+      "name_kanji": "厚岸湾",
+      "name_kana": "あっけしわん",
+      "name_romaji": "Akkeshi Wan",
+      "classification": "Sea Area",
+      "lat": 42.983333,
+      "lon": 144.783333,
+      "org_latitude": "42 ゚ 59’",
+      "org_longitude": "144 ゚ 47’"
+    },
+    {
+      "name_kanji": "天草灘",
+      "name_kana": "あまくさなだ",
+      "name_romaji": "Amakusa Nada",
+      "classification": "Sea Area",
+      "lat": 32.35,
+      "lon": 129.65,
+      "org_latitude": "32 ゚ 21’",
+      "org_longitude": "129 ゚ 39’"
+    },
+    {
+      "name_kanji": "青森湾",
+      "name_kana": "あおもりわん",
+      "name_romaji": "Aomori Wan",
+      "classification": "Sea Area",
+      "lat": 40.883333,
+      "lon": 140.716667,
+      "org_latitude": "40 ゚ 53’",
+      "org_longitude": "140 ゚ 43’"
+    },
+    {
+      "name_kanji": "有明海",
+      "name_kana": "ありあけかい",
+      "name_romaji": "Ariake Kai",
+      "classification": "Sea Area",
+      "lat": 33.033333,
+      "lon": 130.266667,
+      "org_latitude": "33 ゚ 02’",
+      "org_longitude": "130 ゚ 16’"
+    },
+    {
+      "name_kanji": "別府湾",
+      "name_kana": "べっぷわん",
+      "name_romaji": "Beppu Wan",
+      "classification": "Sea Area",
+      "lat": 33.3,
+      "lon": 131.533333,
+      "org_latitude": "33 ゚ 18’",
+      "org_longitude": "131 ゚ 32’"
+    },
+    {
+      "name_kanji": "備後灘",
+      "name_kana": "びんごなだ",
+      "name_romaji": "Bingo Nada",
+      "classification": "Sea Area",
+      "lat": 34.283333,
+      "lon": 133.35,
+      "org_latitude": "34 ゚ 17’",
+      "org_longitude": "133 ゚ 21’"
+    },
+    {
+      "name_kanji": "備讃瀬戸",
+      "name_kana": "びさんせと",
+      "name_romaji": "Bisan Seto",
+      "classification": "Sea Area",
+      "lat": 34.4,
+      "lon": 133.9,
+      "org_latitude": "34 ゚ 24’",
+      "org_longitude": "133 ゚ 54’"
+    },
+    {
+      "name_kanji": "豊後水道",
+      "name_kana": "ぶんごすいどう",
+      "name_romaji": "Bungo Suido",
+      "classification": "Sea Area",
+      "lat": 33.183333,
+      "lon": 132.116667,
+      "org_latitude": "33 ゚ 11’",
+      "org_longitude": "132 ゚ 07’"
+    },
+    {
+      "name_kanji": "島後水道",
+      "name_kana": "どうごすいどう",
+      "name_romaji": "Dogo Suido",
+      "classification": "Sea Area",
+      "lat": 36.15,
+      "lon": 133.2,
+      "org_latitude": "36 ゚ 09’",
+      "org_longitude": "133 ゚ 12’"
+    },
+    {
+      "name_kanji": "遠州灘",
+      "name_kana": "えんしゅうなだ",
+      "name_romaji": "Enshu Nada",
+      "classification": "Sea Area",
+      "lat": 34.25,
+      "lon": 137.5,
+      "org_latitude": "34 ゚ 15’",
+      "org_longitude": "137 ゚ 30’"
+    },
+    {
+      "name_kanji": "択捉海峡",
+      "name_kana": "えとろふかいきょう",
+      "name_romaji": "Etorofu Kaikyo",
+      "classification": "Sea Area",
+      "lat": 45.533333,
+      "lon": 149.083333,
+      "org_latitude": "45 ゚ 32’",
+      "org_longitude": "149 ゚ 05’"
+    },
+    {
+      "name_kanji": "福岡湾",
+      "name_kana": "ふくおかわん",
+      "name_romaji": "Fukuoka Wan",
+      "classification": "Sea Area",
+      "lat": 33.616667,
+      "lon": 130.316667,
+      "org_latitude": "33 ゚ 37’",
+      "org_longitude": "130 ゚ 19’"
+    },
+    {
+      "name_kanji": "玄界灘",
+      "name_kana": "げんかいなだ",
+      "name_romaji": "Genkai Nada",
+      "classification": "Sea Area",
+      "lat": 33.833333,
+      "lon": 130.166667,
+      "org_latitude": "33 ゚ 50’",
+      "org_longitude": "130 ゚ 10’"
+    },
+    {
+      "name_kanji": "播磨灘",
+      "name_kana": "はりまなだ",
+      "name_romaji": "Harima Nada",
+      "classification": "Sea Area",
+      "lat": 34.516667,
+      "lon": 134.566667,
+      "org_latitude": "34 ゚ 31’",
+      "org_longitude": "134 ゚ 34’"
+    },
+    {
+      "name_kanji": "早崎瀬戸",
+      "name_kana": "はやさきせと",
+      "name_romaji": "Hayasaki Seto",
+      "classification": "Sea Area",
+      "lat": 32.55,
+      "lon": 130.15,
+      "org_latitude": "32 ゚ 33’",
+      "org_longitude": "130 ゚ 09’"
+    },
+    {
+      "name_kanji": "速吸瀬戸(豊予海峡)",
+      "name_kana": "はやすいせと(ほうよかいきょう)",
+      "name_romaji": "Hayasui Seto (Hoyo Kaikyo)",
+      "classification": "Sea Area",
+      "lat": 33.316667,
+      "lon": 131.95,
+      "org_latitude": "33 ゚ 19’",
+      "org_longitude": "131 ゚ 57’"
+    },
+    {
+      "name_kanji": "響灘",
+      "name_kana": "ひびきなだ",
+      "name_romaji": "Hibiki Nada",
+      "classification": "Sea Area",
+      "lat": 33.95,
+      "lon": 130.6,
+      "org_latitude": "33 ゚ 57’",
+      "org_longitude": "130 ゚ 36’"
+    },
+    {
+      "name_kanji": "東水道",
+      "name_kana": "ひがしすいどう",
+      "name_romaji": "Higashi Suido",
+      "classification": "Sea Area",
+      "lat": 33.85,
+      "lon": 129.383333,
+      "org_latitude": "33 ゚ 51’",
+      "org_longitude": "129 ゚ 23’"
+    },
+    {
+      "name_kanji": "東シナ海",
+      "name_kana": "ひがししなかい",
+      "name_romaji": "Higashishina Kai",
+      "classification": "Sea Area",
+      "lat": 30.783333,
+      "lon": 124.95,
+      "org_latitude": "30 ゚ 47’",
+      "org_longitude": "124 ゚ 57’"
+    },
+    {
+      "name_kanji": "広島湾",
+      "name_kana": "ひろしまわん",
+      "name_romaji": "Hiroshima Wan",
+      "classification": "Sea Area",
+      "lat": 34.316667,
+      "lon": 132.383333,
+      "org_latitude": "34 ゚ 19’",
+      "org_longitude": "132 ゚ 23’"
+    },
+    {
+      "name_kanji": "広田湾",
+      "name_kana": "ひろたわん",
+      "name_romaji": "Hirota Wan",
+      "classification": "Sea Area",
+      "lat": 38.95,
+      "lon": 141.65,
+      "org_latitude": "38 ゚ 57’",
+      "org_longitude": "141 ゚ 39’"
+    },
+    {
+      "name_kanji": "単冠湾",
+      "name_kana": "ひとかっぷわん",
+      "name_romaji": "Hitokappu Wan",
+      "classification": "Sea Area",
+      "lat": 44.95,
+      "lon": 147.666667,
+      "org_latitude": "44 ゚ 57’",
+      "org_longitude": "147 ゚ 40’"
+    },
+    {
+      "name_kanji": "燧灘",
+      "name_kana": "ひうちなだ",
+      "name_romaji": "Hiuchi Nada",
+      "classification": "Sea Area",
+      "lat": 34.2,
+      "lon": 133.35,
+      "org_latitude": "34 ゚ 12’",
+      "org_longitude": "133 ゚ 21’"
+    },
+    {
+      "name_kanji": "日向灘",
+      "name_kana": "ひゅうがなだ",
+      "name_romaji": "Hyuga Nada",
+      "classification": "Sea Area",
+      "lat": 32.4,
+      "lon": 131.8,
+      "org_latitude": "32 ゚ 24’",
+      "org_longitude": "131 ゚ 48’"
+    },
+    {
+      "name_kanji": "壱岐水道",
+      "name_kana": "いきすいどう",
+      "name_romaji": "Iki Suido",
+      "classification": "Sea Area",
+      "lat": 33.6,
+      "lon": 129.75,
+      "org_latitude": "33 ゚ 36’",
+      "org_longitude": "129 ゚ 45’"
+    },
+    {
+      "name_kanji": "伊良湖水道",
+      "name_kana": "いらごすいどう",
+      "name_romaji": "Irago Suido",
+      "classification": "Sea Area",
+      "lat": 34.583333,
+      "lon": 137,
+      "org_latitude": "34 ゚ 35’",
+      "org_longitude": "137 ゚ 00’"
+    },
+    {
+      "name_kanji": "伊勢湾",
+      "name_kana": "いせわん",
+      "name_romaji": "Ise Wan",
+      "classification": "Sea Area",
+      "lat": 34.866667,
+      "lon": 136.716667,
+      "org_latitude": "34 ゚ 52’",
+      "org_longitude": "136 ゚ 43’"
+    },
+    {
+      "name_kanji": "石狩湾",
+      "name_kana": "いしかりわん",
+      "name_romaji": "Ishikari Wan",
+      "classification": "Sea Area",
+      "lat": 43.216667,
+      "lon": 141.133333,
+      "org_latitude": "43 ゚ 13’",
+      "org_longitude": "141 ゚ 08’"
+    },
+    {
+      "name_kanji": "石巻湾",
+      "name_kana": "いしのまきわん",
+      "name_romaji": "Ishinomaki Wan",
+      "classification": "Sea Area",
+      "lat": 38.333333,
+      "lon": 141.25,
+      "org_latitude": "38 ゚ 20’",
+      "org_longitude": "141 ゚ 15’"
+    },
+    {
+      "name_kanji": "斎灘",
+      "name_kana": "いつきなだ",
+      "name_romaji": "Itsuki Nada",
+      "classification": "Sea Area",
+      "lat": 34.1,
+      "lon": 132.833333,
+      "org_latitude": "34 ゚ 06’",
+      "org_longitude": "132 ゚ 50’"
+    },
+    {
+      "name_kanji": "伊予灘",
+      "name_kana": "いよなだ",
+      "name_romaji": "Iyo Nada",
+      "classification": "Sea Area",
+      "lat": 33.616667,
+      "lon": 131.916667,
+      "org_latitude": "33 ゚ 37’",
+      "org_longitude": "131 ゚ 55’"
+    },
+    {
+      "name_kanji": "鹿児島湾",
+      "name_kana": "かごしまわん",
+      "name_romaji": "Kagoshima Wan",
+      "classification": "Sea Area",
+      "lat": 31.5,
+      "lon": 130.6,
+      "org_latitude": "31 ゚ 30’",
+      "org_longitude": "130 ゚ 36’"
+    },
+    {
+      "name_kanji": "釜石湾",
+      "name_kana": "かまいしわん",
+      "name_romaji": "Kamaishi Wan",
+      "classification": "Sea Area",
+      "lat": 39.25,
+      "lon": 141.9,
+      "org_latitude": "39 ゚ 15’",
+      "org_longitude": "141 ゚ 54’"
+    },
+    {
+      "name_kanji": "関門海峡",
+      "name_kana": "かんもんかいきょう",
+      "name_romaji": "Kanmon Kaikyo",
+      "classification": "Sea Area",
+      "lat": 33.95,
+      "lon": 130.85,
+      "org_latitude": "33 ゚ 57’",
+      "org_longitude": "130 ゚ 51’"
+    },
+    {
+      "name_kanji": "鹿島灘",
+      "name_kana": "かしまなだ",
+      "name_romaji": "Kashima Nada",
+      "classification": "Sea Area",
+      "lat": 36.216667,
+      "lon": 140.75,
+      "org_latitude": "36 ゚ 13’",
+      "org_longitude": "140 ゚ 45’"
+    },
+    {
+      "name_kanji": "紀伊水道",
+      "name_kana": "きいすいどう",
+      "name_romaji": "Kii Suido",
+      "classification": "Sea Area",
+      "lat": 33.85,
+      "lon": 134.85,
+      "org_latitude": "33 ゚ 51’",
+      "org_longitude": "134 ゚ 51’"
+    },
+    {
+      "name_kanji": "金武湾",
+      "name_kana": "きんわん",
+      "name_romaji": "Kin Wan",
+      "classification": "Sea Area",
+      "lat": 26.383333,
+      "lon": 127.883333,
+      "org_latitude": "26 ゚ 23’",
+      "org_longitude": "127 ゚ 53’"
+    },
+    {
+      "name_kanji": "北太平洋",
+      "name_kana": "きたたいへいよう",
+      "name_romaji": "Kitataihei Yo",
+      "classification": "Sea Area",
+      "lat": 28.583333,
+      "lon": 134.933333,
+      "org_latitude": "28 ゚ 35’",
+      "org_longitude": "134 ゚ 56’"
+    },
+    {
+      "name_kanji": "甑海峡",
+      "name_kana": "こしきかいきょう",
+      "name_romaji": "Koshiki Kaikyo",
+      "classification": "Sea Area",
+      "lat": 31.833333,
+      "lon": 130.1,
+      "org_latitude": "31 ゚ 50’",
+      "org_longitude": "130 ゚ 06’"
+    },
+    {
+      "name_kanji": "口之島水道",
+      "name_kana": "くちのしますいどう",
+      "name_romaji": "Kuchinoshima Suido",
+      "classification": "Sea Area",
+      "lat": 29.916667,
+      "lon": 129.866667,
+      "org_latitude": "29 ゚ 55’",
+      "org_longitude": "129 ゚ 52’"
+    },
+    {
+      "name_kanji": "熊野灘",
+      "name_kana": "くまのなだ",
+      "name_romaji": "Kumano Nada",
+      "classification": "Sea Area",
+      "lat": 33.866667,
+      "lon": 136.283333,
+      "org_latitude": "33 ゚ 52’",
+      "org_longitude": "136 ゚ 17’"
+    },
+    {
+      "name_kanji": "国後水道",
+      "name_kana": "くなしりすいどう",
+      "name_romaji": "Kunashiri Suido",
+      "classification": "Sea Area",
+      "lat": 44.483333,
+      "lon": 146.716667,
+      "org_latitude": "44 ゚ 29’",
+      "org_longitude": "146 ゚ 43’"
+    },
+    {
+      "name_kanji": "真野湾",
+      "name_kana": "まのわん",
+      "name_romaji": "Mano Wan",
+      "classification": "Sea Area",
+      "lat": 37.966667,
+      "lon": 138.283333,
+      "org_latitude": "37 ゚ 58’",
+      "org_longitude": "138 ゚ 17’"
+    },
+    {
+      "name_kanji": "美保湾",
+      "name_kana": "みほわん",
+      "name_romaji": "Miho Wan",
+      "classification": "Sea Area",
+      "lat": 35.5,
+      "lon": 133.316667,
+      "org_latitude": "35 ゚ 30’",
+      "org_longitude": "133 ゚ 19’"
+    },
+    {
+      "name_kanji": "三河湾",
+      "name_kana": "みかわわん",
+      "name_romaji": "Mikawa Wan",
+      "classification": "Sea Area",
+      "lat": 34.716667,
+      "lon": 137.116667,
+      "org_latitude": "34 ゚ 43’",
+      "org_longitude": "137 ゚ 07’"
+    },
+    {
+      "name_kanji": "陸奥湾",
+      "name_kana": "むつわん",
+      "name_romaji": "Mutsu Wan",
+      "classification": "Sea Area",
+      "lat": 41.05,
+      "lon": 140.766667,
+      "org_latitude": "41 ゚ 03’",
+      "org_longitude": "140 ゚ 46’"
+    },
+    {
+      "name_kanji": "名護湾",
+      "name_kana": "なごわん",
+      "name_romaji": "Nago Wan",
+      "classification": "Sea Area",
+      "lat": 26.566667,
+      "lon": 127.933333,
+      "org_latitude": "26 ゚ 34’",
+      "org_longitude": "127 ゚ 56’"
+    },
+    {
+      "name_kanji": "内保湾",
+      "name_kana": "ないぼわん",
+      "name_romaji": "Naibo Wan",
+      "classification": "Sea Area",
+      "lat": 44.733333,
+      "lon": 147.133333,
+      "org_latitude": "44 ゚ 44’",
+      "org_longitude": "147 ゚ 08’"
+    },
+    {
+      "name_kanji": "中城湾",
+      "name_kana": "なかぐすくわん",
+      "name_romaji": "Nakagusuku Wan",
+      "classification": "Sea Area",
+      "lat": 26.266667,
+      "lon": 127.833333,
+      "org_latitude": "26 ゚ 16’",
+      "org_longitude": "127 ゚ 50’"
+    },
+    {
+      "name_kanji": "中之島水道",
+      "name_kana": "なかのしますいどう",
+      "name_romaji": "Nakanoshima Suido",
+      "classification": "Sea Area",
+      "lat": 29.716667,
+      "lon": 129.75,
+      "org_latitude": "29 ゚ 43’",
+      "org_longitude": "129 ゚ 45’"
+    },
+    {
+      "name_kanji": "七尾湾",
+      "name_kana": "ななおわん",
+      "name_romaji": "Nanao Wan",
+      "classification": "Sea Area",
+      "lat": 37.166667,
+      "lon": 136.9,
+      "org_latitude": "37 ゚ 10’",
+      "org_longitude": "136 ゚ 54’"
+    },
+    {
+      "name_kanji": "鳴門海峡",
+      "name_kana": "なるとかいきょう",
+      "name_romaji": "Naruto Kaikyo",
+      "classification": "Sea Area",
+      "lat": 34.25,
+      "lon": 134.633333,
+      "org_latitude": "34 ゚ 15’",
+      "org_longitude": "134 ゚ 38’"
+    },
+    {
+      "name_kanji": "ナヨカ湾",
+      "name_kana": "なよかわん",
+      "name_romaji": "Nayoka Wan",
+      "classification": "Sea Area",
+      "lat": 45.25,
+      "lon": 147.866667,
+      "org_latitude": "45 ゚ 15’",
+      "org_longitude": "147 ゚ 52’"
+    },
+    {
+      "name_kanji": "根室海峡",
+      "name_kana": "ねむろかいきょう",
+      "name_romaji": "Nemuro Kaikyo",
+      "classification": "Sea Area",
+      "lat": 44.2,
+      "lon": 145.566667,
+      "org_latitude": "44 ゚ 12’",
+      "org_longitude": "145 ゚ 34’"
+    },
+    {
+      "name_kanji": "根室湾",
+      "name_kana": "ねむろわん",
+      "name_romaji": "Nemuro Wan",
+      "classification": "Sea Area",
+      "lat": 43.35,
+      "lon": 145.416667,
+      "org_latitude": "43 ゚ 21’",
+      "org_longitude": "145 ゚ 25’"
+    },
+    {
+      "name_kanji": "日本海",
+      "name_kana": "にほんかい",
+      "name_romaji": "Nihon Kai",
+      "classification": "Sea Area",
+      "lat": 40.466667,
+      "lon": 132.15,
+      "org_latitude": "40 ゚ 28’",
+      "org_longitude": "132 ゚ 09’"
+    },
+    {
+      "name_kanji": "西水道",
+      "name_kana": "にしすいどう",
+      "name_romaji": "Nishi Suido",
+      "classification": "Sea Area",
+      "lat": 34.116667,
+      "lon": 128.5,
+      "org_latitude": "34 ゚ 07’",
+      "org_longitude": "128 ゚ 30’"
+    },
+    {
+      "name_kanji": "野辺地湾",
+      "name_kana": "のへじわん",
+      "name_romaji": "Noheji Wan",
+      "classification": "Sea Area",
+      "lat": 40.9,
+      "lon": 141.1,
+      "org_latitude": "40 ゚ 54’",
+      "org_longitude": "141 ゚ 06’"
+    },
+    {
+      "name_kanji": "野付水道",
+      "name_kana": "のつけすいどう",
+      "name_romaji": "Notsuke Suido",
+      "classification": "Sea Area",
+      "lat": 43.683333,
+      "lon": 145.3,
+      "org_latitude": "43 ゚ 41’",
+      "org_longitude": "145 ゚ 18’"
+    },
+    {
+      "name_kanji": "オホーツク海",
+      "name_kana": "おほうつくかい",
+      "name_romaji": "Ohotsuku Kai",
+      "classification": "Sea Area",
+      "lat": 47.2,
+      "lon": 144.65,
+      "org_latitude": "47 ゚ 12’",
+      "org_longitude": "144 ゚ 39’"
+    },
+    {
+      "name_kanji": "隠岐海峡",
+      "name_kana": "おきかいきょう",
+      "name_romaji": "Oki Kaikyo",
+      "classification": "Sea Area",
+      "lat": 35.716667,
+      "lon": 132.983333,
+      "org_latitude": "35 ゚ 43’",
+      "org_longitude": "132 ゚ 59’"
+    },
+    {
+      "name_kanji": "大村湾",
+      "name_kana": "おおむらわん",
+      "name_romaji": "Omura Wan",
+      "classification": "Sea Area",
+      "lat": 32.966667,
+      "lon": 129.866667,
+      "org_latitude": "32 ゚ 58’",
+      "org_longitude": "129 ゚ 52’"
+    },
+    {
+      "name_kanji": "大阪湾",
+      "name_kana": "おおさかわん",
+      "name_romaji": "Osaka Wan",
+      "classification": "Sea Area",
+      "lat": 34.5,
+      "lon": 135.183333,
+      "org_latitude": "34 ゚ 30’",
+      "org_longitude": "135 ゚ 11’"
+    },
+    {
+      "name_kanji": "大隅海峡",
+      "name_kana": "おおすみかいきょう",
+      "name_romaji": "Osumi Kaikyo",
+      "classification": "Sea Area",
+      "lat": 30.883333,
+      "lon": 130.816667,
+      "org_latitude": "30 ゚ 53’",
+      "org_longitude": "130 ゚ 49’"
+    },
+    {
+      "name_kanji": "礼文水道",
+      "name_kana": "れぶんすいどう",
+      "name_romaji": "Rebun Suido",
+      "classification": "Sea Area",
+      "lat": 45.25,
+      "lon": 141.083333,
+      "org_latitude": "45 ゚ 15’",
+      "org_longitude": "141 ゚ 05’"
+    },
+    {
+      "name_kanji": "利尻水道",
+      "name_kana": "りしりすいどう",
+      "name_romaji": "Rishiri Suido",
+      "classification": "Sea Area",
+      "lat": 45.2,
+      "lon": 141.433333,
+      "org_latitude": "45 ゚ 12’",
+      "org_longitude": "141 ゚ 26’"
+    },
+    {
+      "name_kanji": "留別湾",
+      "name_kana": "るべつわん",
+      "name_romaji": "Rubetsu Wan",
+      "classification": "Sea Area",
+      "lat": 45.1,
+      "lon": 147.6,
+      "org_latitude": "45 ゚ 06’",
+      "org_longitude": "147 ゚ 36’"
+    },
+    {
+      "name_kanji": "両津湾",
+      "name_kana": "りょうつわん",
+      "name_romaji": "Ryotsu Wan",
+      "classification": "Sea Area",
+      "lat": 38.083333,
+      "lon": 138.45,
+      "org_latitude": "38 ゚ 05’",
+      "org_longitude": "138 ゚ 27’"
+    },
+    {
+      "name_kanji": "佐渡海峡",
+      "name_kana": "さどかいきょう",
+      "name_romaji": "Sado Kaikyo",
+      "classification": "Sea Area",
+      "lat": 37.683333,
+      "lon": 138.516667,
+      "org_latitude": "37 ゚ 41’",
+      "org_longitude": "138 ゚ 31’"
+    },
+    {
+      "name_kanji": "相模灘",
+      "name_kana": "さがみなだ",
+      "name_romaji": "Sagami Nada",
+      "classification": "Sea Area",
+      "lat": 34.966667,
+      "lon": 139.283333,
+      "org_latitude": "34 ゚ 58’",
+      "org_longitude": "139 ゚ 17’"
+    },
+    {
+      "name_kanji": "相模湾",
+      "name_kana": "さがみわん",
+      "name_romaji": "Sagami Wan",
+      "classification": "Sea Area",
+      "lat": 35.183333,
+      "lon": 139.283333,
+      "org_latitude": "35 ゚ 11’",
+      "org_longitude": "139 ゚ 17’"
+    },
+    {
+      "name_kanji": "佐伯湾",
+      "name_kana": "さいきわん",
+      "name_romaji": "Saiki Wan",
+      "classification": "Sea Area",
+      "lat": 32.983333,
+      "lon": 131.95,
+      "org_latitude": "32 ゚ 59’",
+      "org_longitude": "131 ゚ 57’"
+    },
+    {
+      "name_kanji": "仙台湾",
+      "name_kana": "せんだいわん",
+      "name_romaji": "Sendai Wan",
+      "classification": "Sea Area",
+      "lat": 38.1,
+      "lon": 140.95,
+      "org_latitude": "38 ゚ 06’",
+      "org_longitude": "140 ゚ 57’"
+    },
+    {
+      "name_kanji": "瀬戸内海",
+      "name_kana": "せとないかい",
+      "name_romaji": "Seto Naikai",
+      "classification": "Sea Area",
+      "lat": 33.783333,
+      "lon": 132.283333,
+      "org_latitude": "33 ゚ 47’",
+      "org_longitude": "132 ゚ 17’"
+    },
+    {
+      "name_kanji": "志布志湾",
+      "name_kana": "しぶしわん",
+      "name_romaji": "Shibushi Wan",
+      "classification": "Sea Area",
+      "lat": 31.383333,
+      "lon": 131.083333,
+      "org_latitude": "31 ゚ 23’",
+      "org_longitude": "131 ゚ 05’"
+    },
+    {
+      "name_kanji": "色丹水道",
+      "name_kana": "しこたんすいどう",
+      "name_romaji": "Shikotan Suido",
+      "classification": "Sea Area",
+      "lat": 43.733333,
+      "lon": 146.4,
+      "org_latitude": "43 ゚ 44’",
+      "org_longitude": "146 ゚ 24’"
+    },
+    {
+      "name_kanji": "島原湾",
+      "name_kana": "しまばらわん",
+      "name_romaji": "Shimabara Wan",
+      "classification": "Sea Area",
+      "lat": 32.783333,
+      "lon": 130.483333,
+      "org_latitude": "32 ゚ 47’",
+      "org_longitude": "130 ゚ 29’"
+    },
+    {
+      "name_kanji": "宗谷海峡",
+      "name_kana": "そうやかいきょう",
+      "name_romaji": "Soya Kaikyo",
+      "classification": "Sea Area",
+      "lat": 45.7,
+      "lon": 141.883333,
+      "org_latitude": "45 ゚ 42’",
+      "org_longitude": "141 ゚ 53’"
+    },
+    {
+      "name_kanji": "宗谷湾",
+      "name_kana": "そうやわん",
+      "name_romaji": "Soya Wan",
+      "classification": "Sea Area",
+      "lat": 45.45,
+      "lon": 141.716667,
+      "org_latitude": "45 ゚ 27’",
+      "org_longitude": "141 ゚ 43’"
+    },
+    {
+      "name_kanji": "宿毛湾",
+      "name_kana": "すくもわん",
+      "name_romaji": "Sukumo Wan",
+      "classification": "Sea Area",
+      "lat": 32.833333,
+      "lon": 132.533333,
+      "org_latitude": "32 ゚ 50’",
+      "org_longitude": "132 ゚ 32’"
+    },
+    {
+      "name_kanji": "周防灘",
+      "name_kana": "すおうなだ",
+      "name_romaji": "Suo Nada",
+      "classification": "Sea Area",
+      "lat": 33.8,
+      "lon": 131.35,
+      "org_latitude": "33 ゚ 48’",
+      "org_longitude": "131 ゚ 21’"
+    },
+    {
+      "name_kanji": "駿河湾",
+      "name_kana": "するがわん",
+      "name_romaji": "Suruga Wan",
+      "classification": "Sea Area",
+      "lat": 34.9,
+      "lon": 138.583333,
+      "org_latitude": "34 ゚ 54’",
+      "org_longitude": "138 ゚ 35’"
+    },
+    {
+      "name_kanji": "諏訪之瀬水道",
+      "name_kana": "すわのせすいどう",
+      "name_romaji": "Suwanose Suido",
+      "classification": "Sea Area",
+      "lat": 29.516667,
+      "lon": 129.6,
+      "org_latitude": "29 ゚ 31’",
+      "org_longitude": "129 ゚ 36’"
+    },
+    {
+      "name_kanji": "橘湾",
+      "name_kana": "たちばなわん",
+      "name_romaji": "Tachibana Wan",
+      "classification": "Sea Area",
+      "lat": 32.716667,
+      "lon": 130.083333,
+      "org_latitude": "32 ゚ 43’",
+      "org_longitude": "130 ゚ 05’"
+    },
+    {
+      "name_kanji": "種子島海峡",
+      "name_kana": "たねがしまかいきょう",
+      "name_romaji": "Tanegashima Kaikyo",
+      "classification": "Sea Area",
+      "lat": 30.433333,
+      "lon": 130.75,
+      "org_latitude": "30 ゚ 26’",
+      "org_longitude": "130 ゚ 45’"
+    },
+    {
+      "name_kanji": "多楽水道",
+      "name_kana": "たらくすいどう",
+      "name_romaji": "Taraku Suido",
+      "classification": "Sea Area",
+      "lat": 43.583333,
+      "lon": 146.183333,
+      "org_latitude": "43 ゚ 35’",
+      "org_longitude": "146 ゚ 11’"
+    },
+    {
+      "name_kanji": "吐噶喇海峡",
+      "name_kana": "とからかいきょう",
+      "name_romaji": "Tokara Kaikyo",
+      "classification": "Sea Area",
+      "lat": 30.2,
+      "lon": 130.266667,
+      "org_latitude": "30 ゚ 12’",
+      "org_longitude": "130 ゚ 16’"
+    },
+    {
+      "name_kanji": "東京湾",
+      "name_kana": "とうきょうわん",
+      "name_romaji": "Tokyo Wan",
+      "classification": "Sea Area",
+      "lat": 35.516667,
+      "lon": 139.9,
+      "org_latitude": "35 ゚ 31’",
+      "org_longitude": "139 ゚ 54’"
+    },
+    {
+      "name_kanji": "友ヶ島水道(紀淡海峡)",
+      "name_kana": "ともがしますいどう(きたんかいきょう",
+      "name_romaji": "Tomogashima Suido (Kitan Kaikyo)",
+      "classification": "Sea Area",
+      "lat": 34.283333,
+      "lon": 134.966667,
+      "org_latitude": "34 ゚ 17’",
+      "org_longitude": "134 ゚ 58’"
+    },
+    {
+      "name_kanji": "土佐湾",
+      "name_kana": "とさわん",
+      "name_romaji": "Tosa Wan",
+      "classification": "Sea Area",
+      "lat": 33.433333,
+      "lon": 133.683333,
+      "org_latitude": "33 ゚ 26’",
+      "org_longitude": "133 ゚ 41’"
+    },
+    {
+      "name_kanji": "富山湾",
+      "name_kana": "とやまわん",
+      "name_romaji": "Toyama Wan",
+      "classification": "Sea Area",
+      "lat": 36.866667,
+      "lon": 137.166667,
+      "org_latitude": "36 ゚ 52’",
+      "org_longitude": "137 ゚ 10’"
+    },
+    {
+      "name_kanji": "津軽海峡",
+      "name_kana": "つがるかいきょう",
+      "name_romaji": "Tsugaru Kaikyo",
+      "classification": "Sea Area",
+      "lat": 41.616667,
+      "lon": 140.816667,
+      "org_latitude": "41 ゚ 37’",
+      "org_longitude": "140 ゚ 49’"
+    },
+    {
+      "name_kanji": "敦賀湾",
+      "name_kana": "つるがわん",
+      "name_romaji": "Tsuruga Wan",
+      "classification": "Sea Area",
+      "lat": 35.75,
+      "lon": 136.05,
+      "org_latitude": "35 ゚ 45’",
+      "org_longitude": "136 ゚ 03’"
+    },
+    {
+      "name_kanji": "対馬海峡",
+      "name_kana": "つしまかいきょう",
+      "name_romaji": "Tsushima Kaikyo",
+      "classification": "Sea Area",
+      "lat": 34.033333,
+      "lon": 129.266667,
+      "org_latitude": "34 ゚ 02’",
+      "org_longitude": "129 ゚ 16’"
+    },
+    {
+      "name_kanji": "内浦湾(噴火湾)",
+      "name_kana": "うちうらわん(ふんかわん)",
+      "name_romaji": "Uchiura Wan (Funka Wan)",
+      "classification": "Sea Area",
+      "lat": 42.35,
+      "lon": 140.533333,
+      "org_latitude": "42 ゚ 21’",
+      "org_longitude": "140 ゚ 32’"
+    },
+    {
+      "name_kanji": "浦賀水道",
+      "name_kana": "うらがすいどう",
+      "name_romaji": "Uraga Suido",
+      "classification": "Sea Area",
+      "lat": 35.216667,
+      "lon": 139.8,
+      "org_latitude": "35 ゚ 13’",
+      "org_longitude": "139 ゚ 48’"
+    },
+    {
+      "name_kanji": "臼杵湾",
+      "name_kana": "うすきわん",
+      "name_romaji": "Usuki Wan",
+      "classification": "Sea Area",
+      "lat": 33.133333,
+      "lon": 131.833333,
+      "org_latitude": "33 ゚ 08’",
+      "org_longitude": "131 ゚ 50’"
+    },
+    {
+      "name_kanji": "宇和海",
+      "name_kana": "うわかい",
+      "name_romaji": "Uwa Kai",
+      "classification": "Sea Area",
+      "lat": 33.183333,
+      "lon": 132.2,
+      "org_latitude": "33 ゚ 11’",
+      "org_longitude": "132 ゚ 12’"
+    },
+    {
+      "name_kanji": "若狭湾",
+      "name_kana": "わかさわん",
+      "name_romaji": "Wakasa Wan",
+      "classification": "Sea Area",
+      "lat": 35.7,
+      "lon": 135.6,
+      "org_latitude": "35 ゚ 42’",
+      "org_longitude": "135 ゚ 36’"
+    },
+    {
+      "name_kanji": "八代海",
+      "name_kana": "やつしろかい",
+      "name_romaji": "Yatsushiro Kai",
+      "classification": "Sea Area",
+      "lat": 32.366667,
+      "lon": 130.466667,
+      "org_latitude": "32 ゚ 22’",
+      "org_longitude": "130 ゚ 28’"
+    }
+  ],
+  "meta": {
+    "title": "海域一覧 (Sea areas around Japan) - 無料ダウンロード",
+    "description": "国土地理院「日本地名集 (Gazetteer of Japan) 2007」に収録された海域 102 件。漢字・ひらがな・公式ローマ字表記と緯度経度を併記。102 sea areas listed in the Geospatial Information Authority of Japan's Gazetteer of Japan 2007 (with the 2018 update), each with kanji, kana and the official romanised name plus degree-minute coordinates in both original DMS and decimal form. 収録数 102 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "海域一覧 (Sea areas around Japan) | ListBase",
+    "seo_description": "ダウンロード 海域一覧 (Sea areas around Japan) — 102 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 102 件 / 8 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/piuccio/open-data-jp-municipalities"
+    ]
+  }
+}

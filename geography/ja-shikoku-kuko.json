@@ -1,0 +1,205 @@
+{
+  "id": "ja-shikoku-kuko",
+  "name": "四国地方の空港",
+  "title": "四国地方の空港",
+  "description": "四国地方の空港一覧（徳島・香川・愛媛・高知） — ICAO/IATAコード、空港名、所在市町村、所在都道府県、緯度経度（WGS84）、標高（フィート）、タイムゾーン（Asia/Tokyo）を収録。 (Airports of the Shikoku region (Tokushima, Kagawa, Ehime, Kochi) with ICAO/IATA codes, anglicized airport and city names, native Japanese prefecture names with ISO 3166-2:JP codes, WGS84 coordinates, elevation in feet, and IANA timezone.)",
+  "category": "geography",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_ja",
+      "label": "Prefecture Ja",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_ja_full",
+      "label": "Prefecture Ja Full",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_en",
+      "label": "Prefecture En",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    },
+    {
+      "key": "region_ja",
+      "label": "Region Ja",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_ja",
+      "label": "Country Ja",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "RJOK",
+      "iata": "KCZ",
+      "name_en": "Kochi Ryoma Airport",
+      "name_slug": "kochi-ryoma-airport",
+      "city_en": "Nankoku",
+      "city_slug": "nankoku",
+      "prefecture_ja": "高知",
+      "prefecture_ja_full": "高知県",
+      "prefecture_en": "Kochi",
+      "prefecture_code": "JP-39",
+      "region_en": "Shikoku",
+      "region_ja": "四国",
+      "country": "JP",
+      "country_ja": "日本",
+      "elevation_ft": 42,
+      "lat": 33.5461006165,
+      "lon": 133.669006348,
+      "timezone": "Asia/Tokyo",
+      "has_iata": true
+    },
+    {
+      "icao": "RJOM",
+      "iata": "MYJ",
+      "name_en": "Matsuyama Airport",
+      "name_slug": "matsuyama-airport",
+      "city_en": "Matsuyama",
+      "city_slug": "matsuyama",
+      "prefecture_ja": "愛媛",
+      "prefecture_ja_full": "愛媛県",
+      "prefecture_en": "Ehime",
+      "prefecture_code": "JP-38",
+      "region_en": "Shikoku",
+      "region_ja": "四国",
+      "country": "JP",
+      "country_ja": "日本",
+      "elevation_ft": 25,
+      "lat": 33.8272018433,
+      "lon": 132.6999969482,
+      "timezone": "Asia/Tokyo",
+      "has_iata": true
+    },
+    {
+      "icao": "RJOS",
+      "iata": "TKS",
+      "name_en": "Tokushima Airport",
+      "name_slug": "tokushima-airport",
+      "city_en": "Tokushima",
+      "city_slug": "tokushima",
+      "prefecture_ja": "徳島",
+      "prefecture_ja_full": "徳島県",
+      "prefecture_en": "Tokushima",
+      "prefecture_code": "JP-36",
+      "region_en": "Shikoku",
+      "region_ja": "四国",
+      "country": "JP",
+      "country_ja": "日本",
+      "elevation_ft": 26,
+      "lat": 34.1328010559,
+      "lon": 134.606994629,
+      "timezone": "Asia/Tokyo",
+      "has_iata": true
+    },
+    {
+      "icao": "RJOT",
+      "iata": "TAK",
+      "name_en": "Takamatsu Airport",
+      "name_slug": "takamatsu-airport",
+      "city_en": "Takamatsu",
+      "city_slug": "takamatsu",
+      "prefecture_ja": "香川",
+      "prefecture_ja_full": "香川県",
+      "prefecture_en": "Kagawa",
+      "prefecture_code": "JP-37",
+      "region_en": "Shikoku",
+      "region_ja": "四国",
+      "country": "JP",
+      "country_ja": "日本",
+      "elevation_ft": 607,
+      "lat": 34.2141990662,
+      "lon": 134.01600647,
+      "timezone": "Asia/Tokyo",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "四国地方の空港 - 無料ダウンロード",
+    "description": "四国地方の空港一覧（徳島・香川・愛媛・高知） — ICAO/IATAコード、空港名、所在市町村、所在都道府県、緯度経度（WGS84）、標高（フィート）、タイムゾーン（Asia/Tokyo）を収録。 (Airports of the Shikoku region (Tokushima, Kagawa, Ehime, Kochi) with ICAO/IATA codes, anglicized airport and city names, native Japanese prefecture names with ISO 3166-2:JP codes, WGS84 coordinates, elevation in feet, and IANA timezone.) 収録数 4 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "四国地方の空港 | ListBase",
+    "seo_description": "ダウンロード 四国地方の空港 — 4 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 4 件 / 19 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/mwgg/Airports"
+    ]
+  }
+}

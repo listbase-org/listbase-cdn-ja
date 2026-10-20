@@ -1,0 +1,208 @@
+{
+  "id": "ja-tottori-municipalities",
+  "name": "鳥取県の市区町村一覧 (Municipalities of Tottori — JIS X 0402)",
+  "title": "鳥取県の市区町村一覧 (Municipalities of Tottori — JIS X 0402)",
+  "description": "鳥取県 (Tottori Prefecture) の市区町村一覧 19 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 19 active municipalities (cities/wards/towns/villages) of Tottori Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "31201",
+      "prefecture_code": "31",
+      "prefecture": "鳥取県",
+      "prefecture_kana": "トットリケン",
+      "city": "鳥取市",
+      "city_kana": "トットリシ"
+    },
+    {
+      "jisx0402": "31202",
+      "prefecture_code": "31",
+      "prefecture": "鳥取県",
+      "prefecture_kana": "トットリケン",
+      "city": "米子市",
+      "city_kana": "ヨナゴシ"
+    },
+    {
+      "jisx0402": "31203",
+      "prefecture_code": "31",
+      "prefecture": "鳥取県",
+      "prefecture_kana": "トットリケン",
+      "city": "倉吉市",
+      "city_kana": "クラヨシシ"
+    },
+    {
+      "jisx0402": "31204",
+      "prefecture_code": "31",
+      "prefecture": "鳥取県",
+      "prefecture_kana": "トットリケン",
+      "city": "境港市",
+      "city_kana": "サカイミナトシ"
+    },
+    {
+      "jisx0402": "31302",
+      "prefecture_code": "31",
+      "prefecture": "鳥取県",
+      "prefecture_kana": "トットリケン",
+      "city": "岩美郡岩美町",
+      "city_kana": "イワミグンイワミチョウ"
+    },
+    {
+      "jisx0402": "31325",
+      "prefecture_code": "31",
+      "prefecture": "鳥取県",
+      "prefecture_kana": "トットリケン",
+      "city": "八頭郡若桜町",
+      "city_kana": "ヤズグンワカサチョウ"
+    },
+    {
+      "jisx0402": "31328",
+      "prefecture_code": "31",
+      "prefecture": "鳥取県",
+      "prefecture_kana": "トットリケン",
+      "city": "八頭郡智頭町",
+      "city_kana": "ヤズグンチヅチョウ"
+    },
+    {
+      "jisx0402": "31329",
+      "prefecture_code": "31",
+      "prefecture": "鳥取県",
+      "prefecture_kana": "トットリケン",
+      "city": "八頭郡八頭町",
+      "city_kana": "ヤズグンヤズチョウ"
+    },
+    {
+      "jisx0402": "31364",
+      "prefecture_code": "31",
+      "prefecture": "鳥取県",
+      "prefecture_kana": "トットリケン",
+      "city": "東伯郡三朝町",
+      "city_kana": "トウハクグンミササチョウ"
+    },
+    {
+      "jisx0402": "31370",
+      "prefecture_code": "31",
+      "prefecture": "鳥取県",
+      "prefecture_kana": "トットリケン",
+      "city": "東伯郡湯梨浜町",
+      "city_kana": "トウハクグンユリハマチョウ"
+    },
+    {
+      "jisx0402": "31371",
+      "prefecture_code": "31",
+      "prefecture": "鳥取県",
+      "prefecture_kana": "トットリケン",
+      "city": "東伯郡琴浦町",
+      "city_kana": "トウハクグンコトウラチョウ"
+    },
+    {
+      "jisx0402": "31372",
+      "prefecture_code": "31",
+      "prefecture": "鳥取県",
+      "prefecture_kana": "トットリケン",
+      "city": "東伯郡北栄町",
+      "city_kana": "トウハクグンホクエイチョウ"
+    },
+    {
+      "jisx0402": "31384",
+      "prefecture_code": "31",
+      "prefecture": "鳥取県",
+      "prefecture_kana": "トットリケン",
+      "city": "西伯郡日吉津村",
+      "city_kana": "サイハクグンヒエヅソン"
+    },
+    {
+      "jisx0402": "31386",
+      "prefecture_code": "31",
+      "prefecture": "鳥取県",
+      "prefecture_kana": "トットリケン",
+      "city": "西伯郡大山町",
+      "city_kana": "サイハクグンダイセンチョウ"
+    },
+    {
+      "jisx0402": "31389",
+      "prefecture_code": "31",
+      "prefecture": "鳥取県",
+      "prefecture_kana": "トットリケン",
+      "city": "西伯郡南部町",
+      "city_kana": "サイハクグンナンブチョウ"
+    },
+    {
+      "jisx0402": "31390",
+      "prefecture_code": "31",
+      "prefecture": "鳥取県",
+      "prefecture_kana": "トットリケン",
+      "city": "西伯郡伯耆町",
+      "city_kana": "サイハクグンホウキチョウ"
+    },
+    {
+      "jisx0402": "31401",
+      "prefecture_code": "31",
+      "prefecture": "鳥取県",
+      "prefecture_kana": "トットリケン",
+      "city": "日野郡日南町",
+      "city_kana": "ヒノグンニチナンチョウ"
+    },
+    {
+      "jisx0402": "31402",
+      "prefecture_code": "31",
+      "prefecture": "鳥取県",
+      "prefecture_kana": "トットリケン",
+      "city": "日野郡日野町",
+      "city_kana": "ヒノグンヒノチョウ"
+    },
+    {
+      "jisx0402": "31403",
+      "prefecture_code": "31",
+      "prefecture": "鳥取県",
+      "prefecture_kana": "トットリケン",
+      "city": "日野郡江府町",
+      "city_kana": "ヒノグンコウフチョウ"
+    }
+  ],
+  "meta": {
+    "title": "鳥取県の市区町村一覧 (Municipalities of Tottori — JIS X 0402) - 無料ダウンロード",
+    "description": "鳥取県 (Tottori Prefecture) の市区町村一覧 19 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 19 active municipalities (cities/wards/towns/villages) of Tottori Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 19 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "鳥取県の市区町村一覧 (Municipalities of Tottori — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 鳥取県の市区町村一覧 (Municipalities of Tottori — JIS X 0402) — 19 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 19 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

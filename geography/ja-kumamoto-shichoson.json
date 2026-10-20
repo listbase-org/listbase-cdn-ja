@@ -1,0 +1,448 @@
+{
+  "id": "ja-kumamoto-shichoson",
+  "name": "熊本県の市区町村一覧",
+  "title": "熊本県の市区町村一覧",
+  "description": "熊本県 (Kumamoto Prefecture) の全市区町村 49 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "43101",
+      "name": "中央区",
+      "full_name": "熊本市中央区",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "熊本市",
+      "subprefecture": ""
+    },
+    {
+      "code": "43102",
+      "name": "東区",
+      "full_name": "熊本市東区",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "熊本市",
+      "subprefecture": ""
+    },
+    {
+      "code": "43103",
+      "name": "西区",
+      "full_name": "熊本市西区",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "熊本市",
+      "subprefecture": ""
+    },
+    {
+      "code": "43104",
+      "name": "南区",
+      "full_name": "熊本市南区",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "熊本市",
+      "subprefecture": ""
+    },
+    {
+      "code": "43105",
+      "name": "北区",
+      "full_name": "熊本市北区",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "熊本市",
+      "subprefecture": ""
+    },
+    {
+      "code": "43202",
+      "name": "八代市",
+      "full_name": "八代市",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "43203",
+      "name": "人吉市",
+      "full_name": "人吉市",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "43204",
+      "name": "荒尾市",
+      "full_name": "荒尾市",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "43205",
+      "name": "水俣市",
+      "full_name": "水俣市",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "43206",
+      "name": "玉名市",
+      "full_name": "玉名市",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "43208",
+      "name": "山鹿市",
+      "full_name": "山鹿市",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "43210",
+      "name": "菊池市",
+      "full_name": "菊池市",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "43211",
+      "name": "宇土市",
+      "full_name": "宇土市",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "43212",
+      "name": "上天草市",
+      "full_name": "上天草市",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "43213",
+      "name": "宇城市",
+      "full_name": "宇城市",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "43214",
+      "name": "阿蘇市",
+      "full_name": "阿蘇市",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "43215",
+      "name": "天草市",
+      "full_name": "天草市",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "43216",
+      "name": "合志市",
+      "full_name": "合志市",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "43348",
+      "name": "美里町",
+      "full_name": "下益城郡美里町",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "下益城郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43364",
+      "name": "玉東町",
+      "full_name": "玉名郡玉東町",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "玉名郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43367",
+      "name": "南関町",
+      "full_name": "玉名郡南関町",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "玉名郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43368",
+      "name": "長洲町",
+      "full_name": "玉名郡長洲町",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "玉名郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43369",
+      "name": "和水町",
+      "full_name": "玉名郡和水町",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "玉名郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43403",
+      "name": "大津町",
+      "full_name": "菊池郡大津町",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "菊池郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43404",
+      "name": "菊陽町",
+      "full_name": "菊池郡菊陽町",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "菊池郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43423",
+      "name": "南小国町",
+      "full_name": "阿蘇郡南小国町",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "阿蘇郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43424",
+      "name": "小国町",
+      "full_name": "阿蘇郡小国町",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "阿蘇郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43425",
+      "name": "産山村",
+      "full_name": "阿蘇郡産山村",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "阿蘇郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43428",
+      "name": "高森町",
+      "full_name": "阿蘇郡高森町",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "阿蘇郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43432",
+      "name": "西原村",
+      "full_name": "阿蘇郡西原村",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "阿蘇郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43433",
+      "name": "南阿蘇村",
+      "full_name": "阿蘇郡南阿蘇村",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "阿蘇郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43441",
+      "name": "御船町",
+      "full_name": "上益城郡御船町",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "上益城郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43442",
+      "name": "嘉島町",
+      "full_name": "上益城郡嘉島町",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "上益城郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43443",
+      "name": "益城町",
+      "full_name": "上益城郡益城町",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "上益城郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43444",
+      "name": "甲佐町",
+      "full_name": "上益城郡甲佐町",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "上益城郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43447",
+      "name": "山都町",
+      "full_name": "上益城郡山都町",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "上益城郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43468",
+      "name": "氷川町",
+      "full_name": "八代郡氷川町",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "八代郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43482",
+      "name": "芦北町",
+      "full_name": "葦北郡芦北町",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "葦北郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43484",
+      "name": "津奈木町",
+      "full_name": "葦北郡津奈木町",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "葦北郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43501",
+      "name": "錦町",
+      "full_name": "球磨郡錦町",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "球磨郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43505",
+      "name": "多良木町",
+      "full_name": "球磨郡多良木町",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "球磨郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43506",
+      "name": "湯前町",
+      "full_name": "球磨郡湯前町",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "球磨郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43507",
+      "name": "水上村",
+      "full_name": "球磨郡水上村",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "球磨郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43510",
+      "name": "相良村",
+      "full_name": "球磨郡相良村",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "球磨郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43511",
+      "name": "五木村",
+      "full_name": "球磨郡五木村",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "球磨郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43512",
+      "name": "山江村",
+      "full_name": "球磨郡山江村",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "球磨郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43513",
+      "name": "球磨村",
+      "full_name": "球磨郡球磨村",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "球磨郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43514",
+      "name": "あさぎり町",
+      "full_name": "球磨郡あさぎり町",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "球磨郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "43531",
+      "name": "苓北町",
+      "full_name": "天草郡苓北町",
+      "prefecture": "熊本県",
+      "county_or_designated_city": "天草郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "熊本県の市区町村一覧 - 無料ダウンロード",
+    "description": "熊本県 (Kumamoto Prefecture) の全市区町村 49 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 49 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "熊本県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 熊本県の市区町村一覧 — 49 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 49 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

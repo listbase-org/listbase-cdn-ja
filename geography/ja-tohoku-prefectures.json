@@ -1,0 +1,225 @@
+{
+  "id": "ja-tohoku-prefectures",
+  "name": "東北地方の都道府県 (Tohoku region — prefectures)",
+  "title": "東北地方の都道府県 (Tohoku region — prefectures)",
+  "description": "東北地方（とうほく）に属する都道府県の一覧。 Prefectures belonging to the Tohoku region (地方 / 'chihō') of Japan — 6 prefecture(s).",
+  "category": "geography",
+  "source": "https://github.com/diverse-inc/jp_prefecture",
+  "source_url": "https://github.com/diverse-inc/jp_prefecture",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "jis_code",
+      "label": "Jis Code",
+      "type": "number"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name_kana",
+      "label": "Name Kana",
+      "type": "string"
+    },
+    {
+      "key": "name_kana_short",
+      "label": "Name Kana Short",
+      "type": "string"
+    },
+    {
+      "key": "name_roma",
+      "label": "Name Roma",
+      "type": "string"
+    },
+    {
+      "key": "name_roma_short",
+      "label": "Name Roma Short",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "region_kanji",
+      "label": "Region Kanji",
+      "type": "string"
+    },
+    {
+      "key": "region_kana",
+      "label": "Region Kana",
+      "type": "string"
+    },
+    {
+      "key": "region_roma",
+      "label": "Region Roma",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "region_name_en",
+      "label": "Region Name En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": 2,
+      "jis_code": "02",
+      "iso_3166_2": "JP-02",
+      "slug": "aomori",
+      "name": "青森県",
+      "name_short": "青森",
+      "name_kana": "あおもりけん",
+      "name_kana_short": "あおもり",
+      "name_roma": "aomori-ken",
+      "name_roma_short": "aomori",
+      "name_en": "Aomori",
+      "type": "県",
+      "region_kanji": "東北",
+      "region_kana": "とうほく",
+      "region_roma": "tohoku",
+      "region_slug": "tohoku",
+      "region_name_en": "Tohoku"
+    },
+    {
+      "code": 3,
+      "jis_code": "03",
+      "iso_3166_2": "JP-03",
+      "slug": "iwate",
+      "name": "岩手県",
+      "name_short": "岩手",
+      "name_kana": "いわてけん",
+      "name_kana_short": "いわて",
+      "name_roma": "iwate-ken",
+      "name_roma_short": "iwate",
+      "name_en": "Iwate",
+      "type": "県",
+      "region_kanji": "東北",
+      "region_kana": "とうほく",
+      "region_roma": "tohoku",
+      "region_slug": "tohoku",
+      "region_name_en": "Tohoku"
+    },
+    {
+      "code": 4,
+      "jis_code": "04",
+      "iso_3166_2": "JP-04",
+      "slug": "miyagi",
+      "name": "宮城県",
+      "name_short": "宮城",
+      "name_kana": "みやぎけん",
+      "name_kana_short": "みやぎ",
+      "name_roma": "miyagi-ken",
+      "name_roma_short": "miyagi",
+      "name_en": "Miyagi",
+      "type": "県",
+      "region_kanji": "東北",
+      "region_kana": "とうほく",
+      "region_roma": "tohoku",
+      "region_slug": "tohoku",
+      "region_name_en": "Tohoku"
+    },
+    {
+      "code": 5,
+      "jis_code": "05",
+      "iso_3166_2": "JP-05",
+      "slug": "akita",
+      "name": "秋田県",
+      "name_short": "秋田",
+      "name_kana": "あきたけん",
+      "name_kana_short": "あきた",
+      "name_roma": "akita-ken",
+      "name_roma_short": "akita",
+      "name_en": "Akita",
+      "type": "県",
+      "region_kanji": "東北",
+      "region_kana": "とうほく",
+      "region_roma": "tohoku",
+      "region_slug": "tohoku",
+      "region_name_en": "Tohoku"
+    },
+    {
+      "code": 6,
+      "jis_code": "06",
+      "iso_3166_2": "JP-06",
+      "slug": "yamagata",
+      "name": "山形県",
+      "name_short": "山形",
+      "name_kana": "やまがたけん",
+      "name_kana_short": "やまがた",
+      "name_roma": "yamagata-ken",
+      "name_roma_short": "yamagata",
+      "name_en": "Yamagata",
+      "type": "県",
+      "region_kanji": "東北",
+      "region_kana": "とうほく",
+      "region_roma": "tohoku",
+      "region_slug": "tohoku",
+      "region_name_en": "Tohoku"
+    },
+    {
+      "code": 7,
+      "jis_code": "07",
+      "iso_3166_2": "JP-07",
+      "slug": "fukushima",
+      "name": "福島県",
+      "name_short": "福島",
+      "name_kana": "ふくしまけん",
+      "name_kana_short": "ふくしま",
+      "name_roma": "fukushima-ken",
+      "name_roma_short": "fukushima",
+      "name_en": "Fukushima",
+      "type": "県",
+      "region_kanji": "東北",
+      "region_kana": "とうほく",
+      "region_roma": "tohoku",
+      "region_slug": "tohoku",
+      "region_name_en": "Tohoku"
+    }
+  ],
+  "meta": {
+    "title": "東北地方の都道府県 (Tohoku region — prefectures) - 無料ダウンロード",
+    "description": "東北地方（とうほく）に属する都道府県の一覧。 Prefectures belonging to the Tohoku region (地方 / 'chihō') of Japan — 6 prefecture(s). 収録数 6 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "東北地方の都道府県 (Tohoku region — prefectures) | ListBase",
+    "seo_description": "ダウンロード 東北地方の都道府県 (Tohoku region — prefectures) — 6 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 6 件 / 17 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/diverse-inc/jp_prefecture"
+    ]
+  }
+}

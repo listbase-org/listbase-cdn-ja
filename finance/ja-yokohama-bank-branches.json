@@ -1,0 +1,2096 @@
+{
+  "id": "ja-yokohama-bank-branches",
+  "name": "横浜銀行支店コード一覧 (Branch codes of Yokohama Bank)",
+  "title": "横浜銀行支店コード一覧 (Branch codes of Yokohama Bank)",
+  "description": "横浜銀行の全支店コード一覧（コード 0138）。各支店の 3 桁支店番号（branch code）+ 支店名（漢字 / カタカナ / ひらがな / ローマ字）。 Full list of branch codes for 横浜銀行 (zengin code 0138).",
+  "category": "finance",
+  "source": "https://github.com/zengin-code/source-data",
+  "source_url": "https://github.com/zengin-code/source-data",
+  "updated": "2026-04",
+  "record_count": 203,
+  "columns": [
+    {
+      "key": "bank_code",
+      "label": "Bank Code",
+      "type": "number"
+    },
+    {
+      "key": "bank_name",
+      "label": "Bank Name",
+      "type": "string"
+    },
+    {
+      "key": "bank_slug",
+      "label": "Bank Slug",
+      "type": "string"
+    },
+    {
+      "key": "branch_code",
+      "label": "Branch Code",
+      "type": "number"
+    },
+    {
+      "key": "branch_name",
+      "label": "Branch Name",
+      "type": "string"
+    },
+    {
+      "key": "branch_kana",
+      "label": "Branch Kana",
+      "type": "string"
+    },
+    {
+      "key": "branch_hira",
+      "label": "Branch Hira",
+      "type": "string"
+    },
+    {
+      "key": "branch_roma",
+      "label": "Branch Roma",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "200",
+      "branch_name": "本店営業部",
+      "branch_kana": "ホンテン",
+      "branch_hira": "ほんてん",
+      "branch_roma": "honten"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "305",
+      "branch_name": "高田",
+      "branch_kana": "タカタ",
+      "branch_hira": "たかた",
+      "branch_roma": "takata"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "307",
+      "branch_name": "みなとみらい",
+      "branch_kana": "ミナトミライ",
+      "branch_hira": "みなとみらい",
+      "branch_roma": "minatomirai"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "308",
+      "branch_name": "新羽",
+      "branch_kana": "ニツパ",
+      "branch_hira": "につぱ",
+      "branch_roma": "nitsupa"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "309",
+      "branch_name": "北山田",
+      "branch_kana": "キタヤマタ",
+      "branch_hira": "きたやまた",
+      "branch_roma": "kitayamata"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "310",
+      "branch_name": "関内",
+      "branch_kana": "カンナイ",
+      "branch_hira": "かんない",
+      "branch_roma": "kannai"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "311",
+      "branch_name": "元町",
+      "branch_kana": "モトマチ",
+      "branch_hira": "もとまち",
+      "branch_roma": "motomachi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "313",
+      "branch_name": "阪東橋",
+      "branch_kana": "バンドウバシ",
+      "branch_hira": "ばんどうばし",
+      "branch_roma": "bandoubashi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "314",
+      "branch_name": "伊勢佐木町",
+      "branch_kana": "イセザキチヨウ",
+      "branch_hira": "いせざきちよう",
+      "branch_roma": "isezakichiyou"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "315",
+      "branch_name": "本牧",
+      "branch_kana": "ホンモク",
+      "branch_hira": "ほんもく",
+      "branch_roma": "hommoku"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "316",
+      "branch_name": "県庁",
+      "branch_kana": "ケンチヨウ",
+      "branch_hira": "けんちよう",
+      "branch_roma": "kenchiyou"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "317",
+      "branch_name": "横浜市庁",
+      "branch_kana": "ヨコハマシチヨウ",
+      "branch_hira": "よこはましちよう",
+      "branch_roma": "yokohamashichiyou"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "318",
+      "branch_name": "六ツ川",
+      "branch_kana": "ムツカワ",
+      "branch_hira": "むつかわ",
+      "branch_roma": "mutsukawa"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "319",
+      "branch_name": "新本牧",
+      "branch_kana": "シンホンモク",
+      "branch_hira": "しんほんもく",
+      "branch_roma": "shinhommoku"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "320",
+      "branch_name": "桜木町特別",
+      "branch_kana": "サクラギチヨウトクベツ",
+      "branch_hira": "さくらぎちようとくべつ",
+      "branch_roma": "sakuragichiyoutokubetsu"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "321",
+      "branch_name": "弘明寺",
+      "branch_kana": "グミヨウジ",
+      "branch_hira": "ぐみようじ",
+      "branch_roma": "gumiyouji"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "322",
+      "branch_name": "上大岡",
+      "branch_kana": "カミオオオカ",
+      "branch_hira": "かみおおおか",
+      "branch_roma": "kamioooka"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "323",
+      "branch_name": "上永谷",
+      "branch_kana": "カミナガヤ",
+      "branch_hira": "かみながや",
+      "branch_roma": "kaminagaya"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "324",
+      "branch_name": "本郷台",
+      "branch_kana": "ホンゴウダイ",
+      "branch_hira": "ほんごうだい",
+      "branch_roma": "hongoudai"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "325",
+      "branch_name": "野庭",
+      "branch_kana": "ノバ",
+      "branch_hira": "のば",
+      "branch_roma": "noba"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "326",
+      "branch_name": "湘南桂台",
+      "branch_kana": "シヨウナンカツラダイ",
+      "branch_hira": "しようなんかつらだい",
+      "branch_roma": "shiyounankatsuradai"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "327",
+      "branch_name": "東戸塚駅前",
+      "branch_kana": "ヒガシトツカエキマエ",
+      "branch_hira": "ひがしとつかえきまえ",
+      "branch_roma": "higashitotsukaekimae"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "328",
+      "branch_name": "いずみ野",
+      "branch_kana": "イズミノ",
+      "branch_hira": "いずみの",
+      "branch_roma": "izumino"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "331",
+      "branch_name": "保土ケ谷",
+      "branch_kana": "ホドガヤ",
+      "branch_hira": "ほどがや",
+      "branch_roma": "hodogaya"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "332",
+      "branch_name": "希望ケ丘",
+      "branch_kana": "キボウガオカ",
+      "branch_hira": "きぼうがおか",
+      "branch_roma": "kibougaoka"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "333",
+      "branch_name": "鶴ケ峯",
+      "branch_kana": "ツルガミネ",
+      "branch_hira": "つるがみね",
+      "branch_roma": "tsurugamine"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "334",
+      "branch_name": "和田町",
+      "branch_kana": "ワダマチ",
+      "branch_hira": "わだまち",
+      "branch_roma": "wadamachi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "335",
+      "branch_name": "二俣川",
+      "branch_kana": "フタマタガワ",
+      "branch_hira": "ふたまたがわ",
+      "branch_roma": "futamatagawa"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "337",
+      "branch_name": "左近山",
+      "branch_kana": "サコンヤマ",
+      "branch_hira": "さこんやま",
+      "branch_roma": "sakonyama"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "338",
+      "branch_name": "西谷",
+      "branch_kana": "ニシヤ",
+      "branch_hira": "にしや",
+      "branch_roma": "nishiya"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "339",
+      "branch_name": "白根",
+      "branch_kana": "シラネ",
+      "branch_hira": "しらね",
+      "branch_roma": "shirane"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "340",
+      "branch_name": "新戸塚",
+      "branch_kana": "シントツカ",
+      "branch_hira": "しんとつか",
+      "branch_roma": "shintotsuka"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "341",
+      "branch_name": "磯子",
+      "branch_kana": "イソゴ",
+      "branch_hira": "いそご",
+      "branch_roma": "isogo"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "342",
+      "branch_name": "杉田",
+      "branch_kana": "スギタ",
+      "branch_hira": "すぎた",
+      "branch_roma": "sugita"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "343",
+      "branch_name": "洋光台",
+      "branch_kana": "ヨウコウダイ",
+      "branch_hira": "ようこうだい",
+      "branch_roma": "youkoudai"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "344",
+      "branch_name": "磯子駅前",
+      "branch_kana": "イソゴエキマエ",
+      "branch_hira": "いそごえきまえ",
+      "branch_roma": "isogoekimae"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "345",
+      "branch_name": "南部市場",
+      "branch_kana": "ナンブシジヨウ",
+      "branch_hira": "なんぶしじよう",
+      "branch_roma": "nambushijiyou"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "346",
+      "branch_name": "港南台",
+      "branch_kana": "コウナンダイ",
+      "branch_hira": "こうなんだい",
+      "branch_roma": "kounandai"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "347",
+      "branch_name": "能見台駅前",
+      "branch_kana": "ノウケンダイエキマエ",
+      "branch_hira": "のうけんだいえきまえ",
+      "branch_roma": "noukendaiekimae"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "348",
+      "branch_name": "金沢シーサイド",
+      "branch_kana": "カナザワシ－サイド",
+      "branch_hira": "かなざわし－さいど",
+      "branch_roma": "kanazawashi-saido"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "349",
+      "branch_name": "金沢産業センター",
+      "branch_kana": "カナザワサンギヨウセンタ－",
+      "branch_hira": "かなざわさんぎようせんた－",
+      "branch_roma": "kanazawasangiyousenta-"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "350",
+      "branch_name": "金沢文庫",
+      "branch_kana": "カナザワブンコ",
+      "branch_hira": "かなざわぶんこ",
+      "branch_roma": "kanazawabunko"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "351",
+      "branch_name": "金沢",
+      "branch_kana": "カナザワ",
+      "branch_hira": "かなざわ",
+      "branch_roma": "kanazawa"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "352",
+      "branch_name": "戸塚南",
+      "branch_kana": "トツカミナミ",
+      "branch_hira": "とつかみなみ",
+      "branch_roma": "totsukaminami"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "353",
+      "branch_name": "境木",
+      "branch_kana": "サカイギ",
+      "branch_hira": "さかいぎ",
+      "branch_roma": "sakaigi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "354",
+      "branch_name": "和泉",
+      "branch_kana": "イズミ",
+      "branch_hira": "いずみ",
+      "branch_roma": "izumi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "356",
+      "branch_name": "瀬谷",
+      "branch_kana": "セヤ",
+      "branch_hira": "せや",
+      "branch_roma": "seya"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "358",
+      "branch_name": "三ツ境",
+      "branch_kana": "ミツキヨウ",
+      "branch_hira": "みつきよう",
+      "branch_roma": "mitsukiyou"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "359",
+      "branch_name": "戸塚",
+      "branch_kana": "トツカ",
+      "branch_hira": "とつか",
+      "branch_roma": "totsuka"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "360",
+      "branch_name": "リテール業務センター出張所",
+      "branch_kana": "リテ－ルギヨウムセンタ－",
+      "branch_hira": "りて－るぎようむせんた－",
+      "branch_roma": "rite-rugiyoumusenta-"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "361",
+      "branch_name": "鶴見",
+      "branch_kana": "ツルミ",
+      "branch_hira": "つるみ",
+      "branch_roma": "tsurumi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "362",
+      "branch_name": "かもめ",
+      "branch_kana": "カモメ",
+      "branch_hira": "かもめ",
+      "branch_roma": "kamome"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "363",
+      "branch_name": "鶴見西口",
+      "branch_kana": "ツルミニシグチ",
+      "branch_hira": "つるみにしぐち",
+      "branch_roma": "tsuruminishiguchi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "364",
+      "branch_name": "新横浜",
+      "branch_kana": "シンヨコハマ",
+      "branch_hira": "しんよこはま",
+      "branch_roma": "shinyokohama"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "365",
+      "branch_name": "十日市場",
+      "branch_kana": "トオカイチバ",
+      "branch_hira": "とおかいちば",
+      "branch_roma": "tookaichiba"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "366",
+      "branch_name": "あざみ野",
+      "branch_kana": "アザミノ",
+      "branch_hira": "あざみの",
+      "branch_roma": "azamino"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "367",
+      "branch_name": "緑園都市",
+      "branch_kana": "リヨクエントシ",
+      "branch_hira": "りよくえんとし",
+      "branch_roma": "riyokuentoshi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "370",
+      "branch_name": "新子安",
+      "branch_kana": "シンコヤス",
+      "branch_hira": "しんこやす",
+      "branch_roma": "shinkoyasu"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "371",
+      "branch_name": "六角橋",
+      "branch_kana": "ロツカクバシ",
+      "branch_hira": "ろつかくばし",
+      "branch_roma": "rotsukakubashi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "373",
+      "branch_name": "大口",
+      "branch_kana": "オオグチ",
+      "branch_hira": "おおぐち",
+      "branch_roma": "ooguchi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "374",
+      "branch_name": "中央市場",
+      "branch_kana": "チユウオウイチバ",
+      "branch_hira": "ちゆうおういちば",
+      "branch_roma": "chiyuuouichiba"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "375",
+      "branch_name": "反町",
+      "branch_kana": "タンマチ",
+      "branch_hira": "たんまち",
+      "branch_roma": "tammachi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "378",
+      "branch_name": "港北ニュータウン南",
+      "branch_kana": "コウホクニユ－タウンミナミ",
+      "branch_hira": "こうほくにゆ－たうんみなみ",
+      "branch_roma": "kouhokuniyu-taumminami"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "379",
+      "branch_name": "港北ニュータウン北",
+      "branch_kana": "コウホクニユ－タウンキタ",
+      "branch_hira": "こうほくにゆ－たうんきた",
+      "branch_roma": "kouhokuniyu-taunkita"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "380",
+      "branch_name": "仲町台",
+      "branch_kana": "ナカマチダイ",
+      "branch_hira": "なかまちだい",
+      "branch_roma": "nakamachidai"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "382",
+      "branch_name": "藤棚",
+      "branch_kana": "フジダナ",
+      "branch_hira": "ふじだな",
+      "branch_roma": "fujidana"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "383",
+      "branch_name": "横浜駅前",
+      "branch_kana": "ヨコハマエキマエ",
+      "branch_hira": "よこはまえきまえ",
+      "branch_roma": "yokohamaekimae"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "384",
+      "branch_name": "鴨居駅前",
+      "branch_kana": "カモイエキマエ",
+      "branch_hira": "かもいえきまえ",
+      "branch_roma": "kamoiekimae"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "385",
+      "branch_name": "市が尾",
+      "branch_kana": "イチガオ",
+      "branch_hira": "いちがお",
+      "branch_roma": "ichigao"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "387",
+      "branch_name": "横浜若葉台",
+      "branch_kana": "ヨコハマワカバダイ",
+      "branch_hira": "よこはまわかばだい",
+      "branch_roma": "yokohamawakabadai"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "388",
+      "branch_name": "青葉台",
+      "branch_kana": "アオバダイ",
+      "branch_hira": "あおばだい",
+      "branch_roma": "aobadai"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "389",
+      "branch_name": "竹山",
+      "branch_kana": "タケヤマ",
+      "branch_hira": "たけやま",
+      "branch_roma": "takeyama"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "390",
+      "branch_name": "藤が丘",
+      "branch_kana": "フジガオカ",
+      "branch_hira": "ふじがおか",
+      "branch_roma": "fujigaoka"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "391",
+      "branch_name": "中山",
+      "branch_kana": "ナカヤマ",
+      "branch_hira": "なかやま",
+      "branch_roma": "nakayama"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "392",
+      "branch_name": "妙蓮寺",
+      "branch_kana": "ミヨウレンジ",
+      "branch_hira": "みようれんじ",
+      "branch_roma": "miyourenji"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "393",
+      "branch_name": "綱島",
+      "branch_kana": "ツナシマ",
+      "branch_hira": "つなしま",
+      "branch_roma": "tsunashima"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "394",
+      "branch_name": "日吉",
+      "branch_kana": "ヒヨシ",
+      "branch_hira": "ひよし",
+      "branch_roma": "hiyoshi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "395",
+      "branch_name": "菊名",
+      "branch_kana": "キクナ",
+      "branch_hira": "きくな",
+      "branch_roma": "kikuna"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "396",
+      "branch_name": "長津田",
+      "branch_kana": "ナガツダ",
+      "branch_hira": "ながつだ",
+      "branch_roma": "nagatsuda"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "397",
+      "branch_name": "たまプラーザ",
+      "branch_kana": "タマプラ－ザ",
+      "branch_hira": "たまぷら－ざ",
+      "branch_roma": "tamapura-za"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "398",
+      "branch_name": "大倉山",
+      "branch_kana": "オオクラヤマ",
+      "branch_hira": "おおくらやま",
+      "branch_roma": "ookurayama"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "411",
+      "branch_name": "渕野辺",
+      "branch_kana": "フチノベ",
+      "branch_hira": "ふちのべ",
+      "branch_roma": "fuchinobe"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "412",
+      "branch_name": "上溝",
+      "branch_kana": "カミミゾ",
+      "branch_hira": "かみみぞ",
+      "branch_roma": "kamimizo"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "413",
+      "branch_name": "橋本",
+      "branch_kana": "ハシモト",
+      "branch_hira": "はしもと",
+      "branch_roma": "hashimoto"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "414",
+      "branch_name": "相模大野",
+      "branch_kana": "サガミオオノ",
+      "branch_hira": "さがみおおの",
+      "branch_roma": "sagamioono"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "415",
+      "branch_name": "相模原駅前",
+      "branch_kana": "サガミハラエキマエ",
+      "branch_hira": "さがみはらえきまえ",
+      "branch_roma": "sagamiharaekimae"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "416",
+      "branch_name": "相武台北",
+      "branch_kana": "ソウブダイキタ",
+      "branch_hira": "そうぶだいきた",
+      "branch_roma": "soubudaikita"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "417",
+      "branch_name": "古淵",
+      "branch_kana": "コブチ",
+      "branch_hira": "こぶち",
+      "branch_roma": "kobuchi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "418",
+      "branch_name": "東林間",
+      "branch_kana": "ヒガシリンカン",
+      "branch_hira": "ひがしりんかん",
+      "branch_roma": "higashirinkan"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "421",
+      "branch_name": "中野",
+      "branch_kana": "ナカノ",
+      "branch_hira": "なかの",
+      "branch_roma": "nakano"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "432",
+      "branch_name": "愛川",
+      "branch_kana": "アイカワ",
+      "branch_hira": "あいかわ",
+      "branch_roma": "aikawa"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "441",
+      "branch_name": "座間",
+      "branch_kana": "ザマ",
+      "branch_hira": "ざま",
+      "branch_roma": "zama"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "442",
+      "branch_name": "相模台",
+      "branch_kana": "サガミダイ",
+      "branch_hira": "さがみだい",
+      "branch_roma": "sagamidai"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "443",
+      "branch_name": "南海老名",
+      "branch_kana": "ミナミエビナ",
+      "branch_hira": "みなみえびな",
+      "branch_roma": "minamiebina"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "445",
+      "branch_name": "海老名",
+      "branch_kana": "エビナ",
+      "branch_hira": "えびな",
+      "branch_roma": "ebina"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "446",
+      "branch_name": "座間駅前",
+      "branch_kana": "ザマエキマエ",
+      "branch_hira": "ざまえきまえ",
+      "branch_roma": "zamaekimae"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "451",
+      "branch_name": "厚木",
+      "branch_kana": "アツギ",
+      "branch_hira": "あつぎ",
+      "branch_roma": "atsugi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "452",
+      "branch_name": "緑ヶ丘",
+      "branch_kana": "ミドリガオカ",
+      "branch_hira": "みどりがおか",
+      "branch_roma": "midorigaoka"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "453",
+      "branch_name": "さがみ野",
+      "branch_kana": "サガミノ",
+      "branch_hira": "さがみの",
+      "branch_roma": "sagamino"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "454",
+      "branch_name": "綾瀬",
+      "branch_kana": "アヤセ",
+      "branch_hira": "あやせ",
+      "branch_roma": "ayase"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "455",
+      "branch_name": "森の里",
+      "branch_kana": "モリノサト",
+      "branch_hira": "もりのさと",
+      "branch_roma": "morinosato"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "511",
+      "branch_name": "鎌倉",
+      "branch_kana": "カマクラ",
+      "branch_hira": "かまくら",
+      "branch_roma": "kamakura"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "512",
+      "branch_name": "大船",
+      "branch_kana": "オオフナ",
+      "branch_hira": "おおふな",
+      "branch_roma": "oofuna"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "521",
+      "branch_name": "逗子",
+      "branch_kana": "ズシ",
+      "branch_hira": "ずし",
+      "branch_roma": "zushi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "531",
+      "branch_name": "葉山",
+      "branch_kana": "ハヤマ",
+      "branch_hira": "はやま",
+      "branch_roma": "hayama"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "541",
+      "branch_name": "横須賀",
+      "branch_kana": "ヨコスカ",
+      "branch_hira": "よこすか",
+      "branch_roma": "yokosuka"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "542",
+      "branch_name": "追浜",
+      "branch_kana": "オツパマ",
+      "branch_hira": "おつぱま",
+      "branch_roma": "otsupama"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "546",
+      "branch_name": "浦賀",
+      "branch_kana": "ウラガ",
+      "branch_hira": "うらが",
+      "branch_roma": "uraga"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "547",
+      "branch_name": "衣笠",
+      "branch_kana": "キヌガサ",
+      "branch_hira": "きぬがさ",
+      "branch_roma": "kinugasa"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "548",
+      "branch_name": "久里浜",
+      "branch_kana": "クリハマ",
+      "branch_hira": "くりはま",
+      "branch_roma": "kurihama"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "549",
+      "branch_name": "馬堀",
+      "branch_kana": "マボリ",
+      "branch_hira": "まぼり",
+      "branch_roma": "mabori"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "551",
+      "branch_name": "三崎",
+      "branch_kana": "ミサキ",
+      "branch_hira": "みさき",
+      "branch_roma": "misaki"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "554",
+      "branch_name": "北久里浜",
+      "branch_kana": "キタクリハマ",
+      "branch_hira": "きたくりはま",
+      "branch_roma": "kitakurihama"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "611",
+      "branch_name": "藤沢",
+      "branch_kana": "フジサワ",
+      "branch_hira": "ふじさわ",
+      "branch_roma": "fujisawa"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "612",
+      "branch_name": "片瀬",
+      "branch_kana": "カタセ",
+      "branch_hira": "かたせ",
+      "branch_roma": "katase"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "613",
+      "branch_name": "鵠沼",
+      "branch_kana": "クゲヌマ",
+      "branch_hira": "くげぬま",
+      "branch_roma": "kugenuma"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "614",
+      "branch_name": "辻堂",
+      "branch_kana": "ツジドウ",
+      "branch_hira": "つじどう",
+      "branch_roma": "tsujidou"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "615",
+      "branch_name": "長後",
+      "branch_kana": "チヨウゴ",
+      "branch_hira": "ちようご",
+      "branch_roma": "chiyougo"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "616",
+      "branch_name": "善行",
+      "branch_kana": "ゼンギヨウ",
+      "branch_hira": "ぜんぎよう",
+      "branch_roma": "zengiyou"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "617",
+      "branch_name": "湘南シークロス",
+      "branch_kana": "シヨウナンシ－クロス",
+      "branch_hira": "しようなんし－くろす",
+      "branch_roma": "shiyounanshi-kurosu"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "618",
+      "branch_name": "藤沢中央",
+      "branch_kana": "フジサワチユウオウ",
+      "branch_hira": "ふじさわちゆうおう",
+      "branch_roma": "fujisawachiyuuou"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "619",
+      "branch_name": "湘南ライフタウン",
+      "branch_kana": "シヨウナンライフタウン",
+      "branch_hira": "しようなんらいふたうん",
+      "branch_roma": "shiyounanraifutaun"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "621",
+      "branch_name": "大和",
+      "branch_kana": "ヤマト",
+      "branch_hira": "やまと",
+      "branch_roma": "yamato"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "622",
+      "branch_name": "南林間",
+      "branch_kana": "ミナミリンカン",
+      "branch_hira": "みなみりんかん",
+      "branch_roma": "minamirinkan"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "623",
+      "branch_name": "高座渋谷",
+      "branch_kana": "コウザシブヤ",
+      "branch_hira": "こうざしぶや",
+      "branch_roma": "kouzashibuya"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "624",
+      "branch_name": "中央林間",
+      "branch_kana": "チユウオウリンカン",
+      "branch_hira": "ちゆうおうりんかん",
+      "branch_roma": "chiyuuourinkan"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "625",
+      "branch_name": "湘南台",
+      "branch_kana": "シヨウナンダイ",
+      "branch_hira": "しようなんだい",
+      "branch_roma": "shiyounandai"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "626",
+      "branch_name": "桜ヶ丘",
+      "branch_kana": "サクラガオカ",
+      "branch_hira": "さくらがおか",
+      "branch_roma": "sakuragaoka"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "631",
+      "branch_name": "茅ヶ崎",
+      "branch_kana": "チガサキ",
+      "branch_hira": "ちがさき",
+      "branch_roma": "chigasaki"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "632",
+      "branch_name": "茅ヶ崎南口",
+      "branch_kana": "チガサキミナミグチ",
+      "branch_hira": "ちがさきみなみぐち",
+      "branch_roma": "chigasakiminamiguchi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "633",
+      "branch_name": "寒川",
+      "branch_kana": "サムカワ",
+      "branch_hira": "さむかわ",
+      "branch_roma": "samukawa"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "641",
+      "branch_name": "平塚",
+      "branch_kana": "ヒラツカ",
+      "branch_hira": "ひらつか",
+      "branch_roma": "hiratsuka"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "642",
+      "branch_name": "平塚旭",
+      "branch_kana": "ヒラツカアサヒ",
+      "branch_hira": "ひらつかあさひ",
+      "branch_roma": "hiratsukaasahi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "643",
+      "branch_name": "花水台",
+      "branch_kana": "ハナミズダイ",
+      "branch_hira": "はなみずだい",
+      "branch_roma": "hanamizudai"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "651",
+      "branch_name": "大磯",
+      "branch_kana": "オオイソ",
+      "branch_hira": "おおいそ",
+      "branch_roma": "ooiso"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "652",
+      "branch_name": "二宮",
+      "branch_kana": "ニノミヤ",
+      "branch_hira": "にのみや",
+      "branch_roma": "ninomiya"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "653",
+      "branch_name": "伊勢原",
+      "branch_kana": "イセハラ",
+      "branch_hira": "いせはら",
+      "branch_roma": "isehara"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "654",
+      "branch_name": "二宮北",
+      "branch_kana": "ニノミヤキタ",
+      "branch_hira": "にのみやきた",
+      "branch_roma": "ninomiyakita"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "655",
+      "branch_name": "愛甲石田",
+      "branch_kana": "アイコウイシダ",
+      "branch_hira": "あいこういしだ",
+      "branch_roma": "aikouishida"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "661",
+      "branch_name": "秦野",
+      "branch_kana": "ハタノ",
+      "branch_hira": "はたの",
+      "branch_roma": "hatano"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "662",
+      "branch_name": "渋沢",
+      "branch_kana": "シブサワ",
+      "branch_hira": "しぶさわ",
+      "branch_roma": "shibusawa"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "663",
+      "branch_name": "東海大学駅前",
+      "branch_kana": "トウカイダイガクエキマエ",
+      "branch_hira": "とうかいだいがくえきまえ",
+      "branch_roma": "toukaidaigakuekimae"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "721",
+      "branch_name": "小田原",
+      "branch_kana": "オダワラ",
+      "branch_hira": "おだわら",
+      "branch_roma": "odawara"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "723",
+      "branch_name": "国府津",
+      "branch_kana": "コウヅ",
+      "branch_hira": "こうづ",
+      "branch_roma": "koudu"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "724",
+      "branch_name": "下曽我",
+      "branch_kana": "シモソガ",
+      "branch_hira": "しもそが",
+      "branch_roma": "shimosoga"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "725",
+      "branch_name": "鴨宮",
+      "branch_kana": "カモノミヤ",
+      "branch_hira": "かものみや",
+      "branch_roma": "kamonomiya"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "731",
+      "branch_name": "松田",
+      "branch_kana": "マツダ",
+      "branch_hira": "まつだ",
+      "branch_roma": "matsuda"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "732",
+      "branch_name": "山北",
+      "branch_kana": "ヤマキタ",
+      "branch_hira": "やまきた",
+      "branch_roma": "yamakita"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "733",
+      "branch_name": "大雄山",
+      "branch_kana": "ダイユウザン",
+      "branch_hira": "だいゆうざん",
+      "branch_roma": "daiyuuzan"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "734",
+      "branch_name": "開成",
+      "branch_kana": "カイセイ",
+      "branch_hira": "かいせい",
+      "branch_roma": "kaisei"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "741",
+      "branch_name": "箱根湯本",
+      "branch_kana": "ハコネユモト",
+      "branch_hira": "はこねゆもと",
+      "branch_roma": "hakoneyumoto"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "742",
+      "branch_name": "湯河原",
+      "branch_kana": "ユガワラ",
+      "branch_hira": "ゆがわら",
+      "branch_roma": "yugawara"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "810",
+      "branch_name": "川崎",
+      "branch_kana": "カワサキ",
+      "branch_hira": "かわさき",
+      "branch_roma": "kawasaki"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "812",
+      "branch_name": "川崎西口",
+      "branch_kana": "カワサキニシグチ",
+      "branch_hira": "かわさきにしぐち",
+      "branch_roma": "kawasakinishiguchi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "813",
+      "branch_name": "海老名駅前",
+      "branch_kana": "エビナエキマエ",
+      "branch_hira": "えびなえきまえ",
+      "branch_roma": "ebinaekimae"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "821",
+      "branch_name": "大島",
+      "branch_kana": "オオシマ",
+      "branch_hira": "おおしま",
+      "branch_roma": "ooshima"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "822",
+      "branch_name": "大師",
+      "branch_kana": "ダイシ",
+      "branch_hira": "だいし",
+      "branch_roma": "daishi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "823",
+      "branch_name": "御幸",
+      "branch_kana": "ミユキ",
+      "branch_hira": "みゆき",
+      "branch_roma": "miyuki"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "824",
+      "branch_name": "武蔵小杉",
+      "branch_kana": "ムサシコスギ",
+      "branch_hira": "むさしこすぎ",
+      "branch_roma": "musashikosugi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "825",
+      "branch_name": "溝口",
+      "branch_kana": "ミゾノクチ",
+      "branch_hira": "みぞのくち",
+      "branch_roma": "mizonokuchi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "826",
+      "branch_name": "登戸",
+      "branch_kana": "ノボリト",
+      "branch_hira": "のぼりと",
+      "branch_roma": "noborito"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "827",
+      "branch_name": "百合ケ丘",
+      "branch_kana": "ユリガオカ",
+      "branch_hira": "ゆりがおか",
+      "branch_roma": "yurigaoka"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "828",
+      "branch_name": "鹿島田",
+      "branch_kana": "カシマダ",
+      "branch_hira": "かしまだ",
+      "branch_roma": "kashimada"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "829",
+      "branch_name": "新城",
+      "branch_kana": "シンジヨウ",
+      "branch_hira": "しんじよう",
+      "branch_roma": "shinjiyou"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "830",
+      "branch_name": "新百合ヶ丘",
+      "branch_kana": "シンユリガオカ",
+      "branch_hira": "しんゆりがおか",
+      "branch_roma": "shinyurigaoka"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "831",
+      "branch_name": "元住吉",
+      "branch_kana": "モトスミヨシ",
+      "branch_hira": "もとすみよし",
+      "branch_roma": "motosumiyoshi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "832",
+      "branch_name": "稲田堤",
+      "branch_kana": "イナダヅツミ",
+      "branch_hira": "いなだづつみ",
+      "branch_roma": "inadadutsumi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "833",
+      "branch_name": "読売ランド駅前",
+      "branch_kana": "ヨミウリランドエキマエ",
+      "branch_hira": "よみうりらんどえきまえ",
+      "branch_roma": "yomiurirandoekimae"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "834",
+      "branch_name": "鷺沼",
+      "branch_kana": "サギヌマ",
+      "branch_hira": "さぎぬま",
+      "branch_roma": "saginuma"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "837",
+      "branch_name": "柿生",
+      "branch_kana": "カキオ",
+      "branch_hira": "かきお",
+      "branch_roma": "kakio"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "838",
+      "branch_name": "川崎北部市場",
+      "branch_kana": "カワサキホクブシジヨウ",
+      "branch_hira": "かわさきほくぶしじよう",
+      "branch_roma": "kawasakihokubushijiyou"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "841",
+      "branch_name": "生田",
+      "branch_kana": "イクタ",
+      "branch_hira": "いくた",
+      "branch_roma": "ikuta"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "842",
+      "branch_name": "宮前平",
+      "branch_kana": "ミヤマエダイラ",
+      "branch_hira": "みやまえだいら",
+      "branch_roma": "miyamaedaira"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "904",
+      "branch_name": "品川",
+      "branch_kana": "シナガワ",
+      "branch_hira": "しながわ",
+      "branch_roma": "shinagawa"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "906",
+      "branch_name": "五反田駅前",
+      "branch_kana": "ゴタンダエキマエ",
+      "branch_hira": "ごたんだえきまえ",
+      "branch_roma": "gotandaekimae"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "907",
+      "branch_name": "恵比寿",
+      "branch_kana": "エビス",
+      "branch_hira": "えびす",
+      "branch_roma": "ebisu"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "910",
+      "branch_name": "東京",
+      "branch_kana": "トウキヨウ",
+      "branch_hira": "とうきよう",
+      "branch_roma": "toukiyou"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "914",
+      "branch_name": "新橋",
+      "branch_kana": "シンバシ",
+      "branch_hira": "しんばし",
+      "branch_roma": "shimbashi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "915",
+      "branch_name": "調布",
+      "branch_kana": "チヨウフ",
+      "branch_hira": "ちようふ",
+      "branch_roma": "chiyoufu"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "917",
+      "branch_name": "玉川",
+      "branch_kana": "タマガワ",
+      "branch_hira": "たまがわ",
+      "branch_roma": "tamagawa"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "920",
+      "branch_name": "大森",
+      "branch_kana": "オオモリ",
+      "branch_hira": "おおもり",
+      "branch_roma": "oomori"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "922",
+      "branch_name": "蒲田",
+      "branch_kana": "カマタ",
+      "branch_hira": "かまた",
+      "branch_roma": "kamata"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "923",
+      "branch_name": "自由が丘",
+      "branch_kana": "ジユウガオカ",
+      "branch_hira": "じゆうがおか",
+      "branch_roma": "jiyuugaoka"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "925",
+      "branch_name": "新宿",
+      "branch_kana": "シンジユク",
+      "branch_hira": "しんじゆく",
+      "branch_roma": "shinjiyuku"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "926",
+      "branch_name": "下北沢",
+      "branch_kana": "シモキタザワ",
+      "branch_hira": "しもきたざわ",
+      "branch_roma": "shimokitazawa"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "927",
+      "branch_name": "渋谷",
+      "branch_kana": "シブヤ",
+      "branch_hira": "しぶや",
+      "branch_roma": "shibuya"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "929",
+      "branch_name": "田町",
+      "branch_kana": "タマチ",
+      "branch_hira": "たまち",
+      "branch_roma": "tamachi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "931",
+      "branch_name": "町田",
+      "branch_kana": "マチダ",
+      "branch_hira": "まちだ",
+      "branch_roma": "machida"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "932",
+      "branch_name": "鶴川西",
+      "branch_kana": "ツルカワニシ",
+      "branch_hira": "つるかわにし",
+      "branch_roma": "tsurukawanishi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "933",
+      "branch_name": "つくし野",
+      "branch_kana": "ツクシノ",
+      "branch_hira": "つくしの",
+      "branch_roma": "tsukushino"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "934",
+      "branch_name": "鶴川",
+      "branch_kana": "ツルカワ",
+      "branch_hira": "つるかわ",
+      "branch_roma": "tsurukawa"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "936",
+      "branch_name": "成瀬",
+      "branch_kana": "ナルセ",
+      "branch_hira": "なるせ",
+      "branch_roma": "naruse"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "938",
+      "branch_name": "多摩センター",
+      "branch_kana": "タマセンタ－",
+      "branch_hira": "たませんた－",
+      "branch_roma": "tamasenta-"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "941",
+      "branch_name": "前橋",
+      "branch_kana": "マエバシ",
+      "branch_hira": "まえばし",
+      "branch_roma": "maebashi"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "942",
+      "branch_name": "高崎",
+      "branch_kana": "タカサキ",
+      "branch_hira": "たかさき",
+      "branch_roma": "takasaki"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "943",
+      "branch_name": "桐生",
+      "branch_kana": "キリユウ",
+      "branch_hira": "きりゆう",
+      "branch_roma": "kiriyuu"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "951",
+      "branch_name": "立川",
+      "branch_kana": "タチカワ",
+      "branch_hira": "たちかわ",
+      "branch_roma": "tachikawa"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "952",
+      "branch_name": "吉祥寺",
+      "branch_kana": "キチジヨウジ",
+      "branch_hira": "きちじようじ",
+      "branch_roma": "kichijiyouji"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "953",
+      "branch_name": "成城",
+      "branch_kana": "セイジヨウ",
+      "branch_hira": "せいじよう",
+      "branch_roma": "seijiyou"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "954",
+      "branch_name": "錦糸町",
+      "branch_kana": "キンシチヨウ",
+      "branch_hira": "きんしちよう",
+      "branch_roma": "kinshichiyou"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "956",
+      "branch_name": "八幡山",
+      "branch_kana": "ハチマンヤマ",
+      "branch_hira": "はちまんやま",
+      "branch_roma": "hachimanyama"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "961",
+      "branch_name": "名古屋",
+      "branch_kana": "ナゴヤ",
+      "branch_hira": "なごや",
+      "branch_roma": "nagoya"
+    },
+    {
+      "bank_code": "0138",
+      "bank_name": "横浜",
+      "bank_slug": "yokohama",
+      "branch_code": "971",
+      "branch_name": "大阪",
+      "branch_kana": "オオサカ",
+      "branch_hira": "おおさか",
+      "branch_roma": "oosaka"
+    }
+  ],
+  "meta": {
+    "title": "横浜銀行支店コード一覧 (Branch codes of Yokohama Bank) - 無料ダウンロード",
+    "description": "横浜銀行の全支店コード一覧（コード 0138）。各支店の 3 桁支店番号（branch code）+ 支店名（漢字 / カタカナ / ひらがな / ローマ字）。 Full list of branch codes for 横浜銀行 (zengin code 0138). 収録数 203 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "横浜銀行支店コード一覧 (Branch codes of Yokohama Bank) | ListBase",
+    "seo_description": "ダウンロード 横浜銀行支店コード一覧 (Branch codes of Yokohama Bank) — 203 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 203 件 / 8 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/zengin-code/source-data"
+    ]
+  }
+}

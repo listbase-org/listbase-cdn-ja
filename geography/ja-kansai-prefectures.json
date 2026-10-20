@@ -1,0 +1,244 @@
+{
+  "id": "ja-kansai-prefectures",
+  "name": "関西地方の都道府県 (Kansai region — prefectures)",
+  "title": "関西地方の都道府県 (Kansai region — prefectures)",
+  "description": "関西地方（かんさい）に属する都道府県の一覧。 Prefectures belonging to the Kansai region (地方 / 'chihō') of Japan — 7 prefecture(s).",
+  "category": "geography",
+  "source": "https://github.com/diverse-inc/jp_prefecture",
+  "source_url": "https://github.com/diverse-inc/jp_prefecture",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "jis_code",
+      "label": "Jis Code",
+      "type": "number"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name_kana",
+      "label": "Name Kana",
+      "type": "string"
+    },
+    {
+      "key": "name_kana_short",
+      "label": "Name Kana Short",
+      "type": "string"
+    },
+    {
+      "key": "name_roma",
+      "label": "Name Roma",
+      "type": "string"
+    },
+    {
+      "key": "name_roma_short",
+      "label": "Name Roma Short",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "region_kanji",
+      "label": "Region Kanji",
+      "type": "string"
+    },
+    {
+      "key": "region_kana",
+      "label": "Region Kana",
+      "type": "string"
+    },
+    {
+      "key": "region_roma",
+      "label": "Region Roma",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "region_name_en",
+      "label": "Region Name En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": 24,
+      "jis_code": "24",
+      "iso_3166_2": "JP-24",
+      "slug": "mie",
+      "name": "三重県",
+      "name_short": "三重",
+      "name_kana": "みえけん",
+      "name_kana_short": "みえ",
+      "name_roma": "mie-ken",
+      "name_roma_short": "mie",
+      "name_en": "Mie",
+      "type": "県",
+      "region_kanji": "関西",
+      "region_kana": "かんさい",
+      "region_roma": "kansai",
+      "region_slug": "kansai",
+      "region_name_en": "Kansai"
+    },
+    {
+      "code": 25,
+      "jis_code": "25",
+      "iso_3166_2": "JP-25",
+      "slug": "shiga",
+      "name": "滋賀県",
+      "name_short": "滋賀",
+      "name_kana": "しがけん",
+      "name_kana_short": "しが",
+      "name_roma": "shiga-ken",
+      "name_roma_short": "shiga",
+      "name_en": "Shiga",
+      "type": "県",
+      "region_kanji": "関西",
+      "region_kana": "かんさい",
+      "region_roma": "kansai",
+      "region_slug": "kansai",
+      "region_name_en": "Kansai"
+    },
+    {
+      "code": 26,
+      "jis_code": "26",
+      "iso_3166_2": "JP-26",
+      "slug": "kyoto",
+      "name": "京都府",
+      "name_short": "京都",
+      "name_kana": "きょうとふ",
+      "name_kana_short": "きょうと",
+      "name_roma": "kyoto-fu",
+      "name_roma_short": "kyoto",
+      "name_en": "Kyoto",
+      "type": "府",
+      "region_kanji": "関西",
+      "region_kana": "かんさい",
+      "region_roma": "kansai",
+      "region_slug": "kansai",
+      "region_name_en": "Kansai"
+    },
+    {
+      "code": 27,
+      "jis_code": "27",
+      "iso_3166_2": "JP-27",
+      "slug": "osaka",
+      "name": "大阪府",
+      "name_short": "大阪",
+      "name_kana": "おおさかふ",
+      "name_kana_short": "おおさか",
+      "name_roma": "osaka-fu",
+      "name_roma_short": "osaka",
+      "name_en": "Osaka",
+      "type": "府",
+      "region_kanji": "関西",
+      "region_kana": "かんさい",
+      "region_roma": "kansai",
+      "region_slug": "kansai",
+      "region_name_en": "Kansai"
+    },
+    {
+      "code": 28,
+      "jis_code": "28",
+      "iso_3166_2": "JP-28",
+      "slug": "hyogo",
+      "name": "兵庫県",
+      "name_short": "兵庫",
+      "name_kana": "ひょうごけん",
+      "name_kana_short": "ひょうご",
+      "name_roma": "hyogo-ken",
+      "name_roma_short": "hyogo",
+      "name_en": "Hyogo",
+      "type": "県",
+      "region_kanji": "関西",
+      "region_kana": "かんさい",
+      "region_roma": "kansai",
+      "region_slug": "kansai",
+      "region_name_en": "Kansai"
+    },
+    {
+      "code": 29,
+      "jis_code": "29",
+      "iso_3166_2": "JP-29",
+      "slug": "nara",
+      "name": "奈良県",
+      "name_short": "奈良",
+      "name_kana": "ならけん",
+      "name_kana_short": "なら",
+      "name_roma": "nara-ken",
+      "name_roma_short": "nara",
+      "name_en": "Nara",
+      "type": "県",
+      "region_kanji": "関西",
+      "region_kana": "かんさい",
+      "region_roma": "kansai",
+      "region_slug": "kansai",
+      "region_name_en": "Kansai"
+    },
+    {
+      "code": 30,
+      "jis_code": "30",
+      "iso_3166_2": "JP-30",
+      "slug": "wakayama",
+      "name": "和歌山県",
+      "name_short": "和歌山",
+      "name_kana": "わかやまけん",
+      "name_kana_short": "わかやま",
+      "name_roma": "wakayama-ken",
+      "name_roma_short": "wakayama",
+      "name_en": "Wakayama",
+      "type": "県",
+      "region_kanji": "関西",
+      "region_kana": "かんさい",
+      "region_roma": "kansai",
+      "region_slug": "kansai",
+      "region_name_en": "Kansai"
+    }
+  ],
+  "meta": {
+    "title": "関西地方の都道府県 (Kansai region — prefectures) - 無料ダウンロード",
+    "description": "関西地方（かんさい）に属する都道府県の一覧。 Prefectures belonging to the Kansai region (地方 / 'chihō') of Japan — 7 prefecture(s). 収録数 7 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "関西地方の都道府県 (Kansai region — prefectures) | ListBase",
+    "seo_description": "ダウンロード 関西地方の都道府県 (Kansai region — prefectures) — 7 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 7 件 / 17 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/diverse-inc/jp_prefecture"
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "ja-sapporo-swift-codo",
+  "name": "SWIFT/BICコード — Sapporo",
+  "title": "SWIFT/BICコード — Sapporo",
+  "description": "日本の銀行および金融機関のSWIFT/BICコード。各レコードには機関名、都市、支店（該当する場合）、およびSWIFT/BICコードが含まれます。出典: PeterNotenboom/SwiftCodes（MITライセンス）。このサブセットには、出典が都市「SAPPORO」として記載している5件の機関が含まれます。",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+      "city": "SAPPORO",
+      "branch": "",
+      "swift_code": "BOTKJPJTSAP"
+    },
+    {
+      "bank": "HOKKAIDO BANK, LTD., THE",
+      "city": "SAPPORO",
+      "branch": "",
+      "swift_code": "HKDBJPJT"
+    },
+    {
+      "bank": "NITORI HOLDINGS CO.,LTD.",
+      "city": "SAPPORO",
+      "branch": "",
+      "swift_code": "NIHOJPJT"
+    },
+    {
+      "bank": "NORTH PACIFIC BANK, LTD.",
+      "city": "SAPPORO",
+      "branch": "",
+      "swift_code": "NORPJPJP"
+    },
+    {
+      "bank": "SAPPORO STOCK EXCHANGE",
+      "city": "SAPPORO",
+      "branch": "",
+      "swift_code": "XSAPJPJ1"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BICコード — Sapporo - 無料ダウンロード",
+    "description": "日本の銀行および金融機関のSWIFT/BICコード。各レコードには機関名、都市、支店（該当する場合）、およびSWIFT/BICコードが含まれます。出典: PeterNotenboom/SwiftCodes（MITライセンス）。このサブセットには、出典が都市「SAPPORO」として記載している5件の機関が含まれます。 収録数 5 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "SWIFT/BICコード — Sapporo | ListBase",
+    "seo_description": "ダウンロード SWIFT/BICコード — Sapporo — 5 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 5 件 / 4 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}

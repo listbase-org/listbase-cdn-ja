@@ -1,0 +1,133 @@
+{
+  "id": "ja-shizuoka-shugiin-senkyoku",
+  "name": "静岡県衆議院小選挙区 (Shizuoka House of Representatives Electoral Districts)",
+  "title": "静岡県衆議院小選挙区 (Shizuoka House of Representatives Electoral Districts)",
+  "description": "静岡県内の衆議院小選挙区 8 件。ja-shugiin-senkyoku（全国 289 件）から都道府県コード 22 のレコードのみを抽出。スキーマは同一。8 single-member electoral districts in Shizuoka Prefecture, filtered from the national list (289). Same schema.",
+  "category": "politics",
+  "source": "https://github.com/smartnews-smri/japan-topography",
+  "source_url": "https://github.com/smartnews-smri/japan-topography",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "kucode",
+      "label": "Kucode",
+      "type": "number"
+    },
+    {
+      "key": "constituency",
+      "label": "Constituency",
+      "type": "string"
+    },
+    {
+      "key": "constituency_en",
+      "label": "Constituency En",
+      "type": "string"
+    },
+    {
+      "key": "district_number",
+      "label": "District Number",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_en",
+      "label": "Prefecture En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kucode": 2201,
+      "constituency": "静岡1区",
+      "constituency_en": "Shizuoka 1",
+      "district_number": 1,
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_en": "Shizuoka"
+    },
+    {
+      "kucode": 2202,
+      "constituency": "静岡2区",
+      "constituency_en": "Shizuoka 2",
+      "district_number": 2,
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_en": "Shizuoka"
+    },
+    {
+      "kucode": 2203,
+      "constituency": "静岡3区",
+      "constituency_en": "Shizuoka 3",
+      "district_number": 3,
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_en": "Shizuoka"
+    },
+    {
+      "kucode": 2204,
+      "constituency": "静岡4区",
+      "constituency_en": "Shizuoka 4",
+      "district_number": 4,
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_en": "Shizuoka"
+    },
+    {
+      "kucode": 2205,
+      "constituency": "静岡5区",
+      "constituency_en": "Shizuoka 5",
+      "district_number": 5,
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_en": "Shizuoka"
+    },
+    {
+      "kucode": 2206,
+      "constituency": "静岡6区",
+      "constituency_en": "Shizuoka 6",
+      "district_number": 6,
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_en": "Shizuoka"
+    },
+    {
+      "kucode": 2207,
+      "constituency": "静岡7区",
+      "constituency_en": "Shizuoka 7",
+      "district_number": 7,
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_en": "Shizuoka"
+    },
+    {
+      "kucode": 2208,
+      "constituency": "静岡8区",
+      "constituency_en": "Shizuoka 8",
+      "district_number": 8,
+      "prefecture_code": "22",
+      "prefecture": "静岡県",
+      "prefecture_en": "Shizuoka"
+    }
+  ],
+  "meta": {
+    "title": "静岡県衆議院小選挙区 (Shizuoka House of Representatives Electoral Districts) - 無料ダウンロード",
+    "description": "静岡県内の衆議院小選挙区 8 件。ja-shugiin-senkyoku（全国 289 件）から都道府県コード 22 のレコードのみを抽出。スキーマは同一。8 single-member electoral districts in Shizuoka Prefecture, filtered from the national list (289). Same schema. 収録数 8 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "静岡県衆議院小選挙区 (Shizuoka House of Representatives Electoral Districts) | ListBase",
+    "seo_description": "ダウンロード 静岡県衆議院小選挙区 (Shizuoka House of Representatives Electoral Districts) — 8 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 8 件 / 7 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/smartnews-smri/japan-topography"
+    ]
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "id": "ja-nara-municipalities",
+  "name": "奈良県の市区町村一覧 (Municipalities of Nara — JIS X 0402)",
+  "title": "奈良県の市区町村一覧 (Municipalities of Nara — JIS X 0402)",
+  "description": "奈良県 (Nara Prefecture) の市区町村一覧 39 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 39 active municipalities (cities/wards/towns/villages) of Nara Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list.",
+  "category": "reference",
+  "source": "https://github.com/polm/posuto",
+  "source_url": "https://github.com/polm/posuto",
+  "updated": "2026-04",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "jisx0402",
+      "label": "Jisx0402",
+      "type": "number"
+    },
+    {
+      "key": "prefecture_code",
+      "label": "Prefecture Code",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_kana",
+      "label": "Prefecture Kana",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "city_kana",
+      "label": "City Kana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jisx0402": "29201",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "奈良市",
+      "city_kana": "ナラシ"
+    },
+    {
+      "jisx0402": "29202",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "大和高田市",
+      "city_kana": "ヤマトタカダシ"
+    },
+    {
+      "jisx0402": "29203",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "大和郡山市",
+      "city_kana": "ヤマトコオリヤマシ"
+    },
+    {
+      "jisx0402": "29204",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "天理市",
+      "city_kana": "テンリシ"
+    },
+    {
+      "jisx0402": "29205",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "橿原市",
+      "city_kana": "カシハラシ"
+    },
+    {
+      "jisx0402": "29206",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "桜井市",
+      "city_kana": "サクライシ"
+    },
+    {
+      "jisx0402": "29207",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "五條市",
+      "city_kana": "ゴジョウシ"
+    },
+    {
+      "jisx0402": "29208",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "御所市",
+      "city_kana": "ゴセシ"
+    },
+    {
+      "jisx0402": "29209",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "生駒市",
+      "city_kana": "イコマシ"
+    },
+    {
+      "jisx0402": "29210",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "香芝市",
+      "city_kana": "カシバシ"
+    },
+    {
+      "jisx0402": "29211",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "葛城市",
+      "city_kana": "カツラギシ"
+    },
+    {
+      "jisx0402": "29212",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "宇陀市",
+      "city_kana": "ウダシ"
+    },
+    {
+      "jisx0402": "29322",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "山辺郡山添村",
+      "city_kana": "ヤマベグンヤマゾエムラ"
+    },
+    {
+      "jisx0402": "29342",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "生駒郡平群町",
+      "city_kana": "イコマグンヘグリチョウ"
+    },
+    {
+      "jisx0402": "29343",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "生駒郡三郷町",
+      "city_kana": "イコマグンサンゴウチョウ"
+    },
+    {
+      "jisx0402": "29344",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "生駒郡斑鳩町",
+      "city_kana": "イコマグンイカルガチョウ"
+    },
+    {
+      "jisx0402": "29345",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "生駒郡安堵町",
+      "city_kana": "イコマグンアンドチョウ"
+    },
+    {
+      "jisx0402": "29361",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "磯城郡川西町",
+      "city_kana": "シキグンカワニシチョウ"
+    },
+    {
+      "jisx0402": "29362",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "磯城郡三宅町",
+      "city_kana": "シキグンミヤケチョウ"
+    },
+    {
+      "jisx0402": "29363",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "磯城郡田原本町",
+      "city_kana": "シキグンタワラモトチョウ"
+    },
+    {
+      "jisx0402": "29385",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "宇陀郡曽爾村",
+      "city_kana": "ウダグンソニムラ"
+    },
+    {
+      "jisx0402": "29386",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "宇陀郡御杖村",
+      "city_kana": "ウダグンミツエムラ"
+    },
+    {
+      "jisx0402": "29401",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "高市郡高取町",
+      "city_kana": "タカイチグンタカトリチョウ"
+    },
+    {
+      "jisx0402": "29402",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "高市郡明日香村",
+      "city_kana": "タカイチグンアスカムラ"
+    },
+    {
+      "jisx0402": "29424",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "北葛城郡上牧町",
+      "city_kana": "キタカツラギグンカンマキチョウ"
+    },
+    {
+      "jisx0402": "29425",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "北葛城郡王寺町",
+      "city_kana": "キタカツラギグンオウジチョウ"
+    },
+    {
+      "jisx0402": "29426",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "北葛城郡広陵町",
+      "city_kana": "キタカツラギグンコウリョウチョウ"
+    },
+    {
+      "jisx0402": "29427",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "北葛城郡河合町",
+      "city_kana": "キタカツラギグンカワイチョウ"
+    },
+    {
+      "jisx0402": "29441",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "吉野郡吉野町",
+      "city_kana": "ヨシノグンヨシノチョウ"
+    },
+    {
+      "jisx0402": "29442",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "吉野郡大淀町",
+      "city_kana": "ヨシノグンオオヨドチョウ"
+    },
+    {
+      "jisx0402": "29443",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "吉野郡下市町",
+      "city_kana": "ヨシノグンシモイチチョウ"
+    },
+    {
+      "jisx0402": "29444",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "吉野郡黒滝村",
+      "city_kana": "ヨシノグンクロタキムラ"
+    },
+    {
+      "jisx0402": "29446",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "吉野郡天川村",
+      "city_kana": "ヨシノグンテンカワムラ"
+    },
+    {
+      "jisx0402": "29447",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "吉野郡野迫川村",
+      "city_kana": "ヨシノグンノセガワムラ"
+    },
+    {
+      "jisx0402": "29449",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "吉野郡十津川村",
+      "city_kana": "ヨシノグントツカワムラ"
+    },
+    {
+      "jisx0402": "29450",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "吉野郡下北山村",
+      "city_kana": "ヨシノグンシモキタヤマムラ"
+    },
+    {
+      "jisx0402": "29451",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "吉野郡上北山村",
+      "city_kana": "ヨシノグンカミキタヤマムラ"
+    },
+    {
+      "jisx0402": "29452",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "吉野郡川上村",
+      "city_kana": "ヨシノグンカワカミムラ"
+    },
+    {
+      "jisx0402": "29453",
+      "prefecture_code": "29",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "city": "吉野郡東吉野村",
+      "city_kana": "ヨシノグンヒガシヨシノムラ"
+    }
+  ],
+  "meta": {
+    "title": "奈良県の市区町村一覧 (Municipalities of Nara — JIS X 0402) - 無料ダウンロード",
+    "description": "奈良県 (Nara Prefecture) の市区町村一覧 39 件 (JIS X 0402 全国地方公共団体コード)。全国データセット ja-municipalities を 都道府県名で分割したもの。各件に 5 桁 JIS X 0402 コード、漢字・全角カタカナの 市区町村名を含む。 The 39 active municipalities (cities/wards/towns/villages) of Nara Prefecture, keyed by 5-digit JIS X 0402 code. A per-prefecture partition of the national ja-municipalities list. 収録数 39 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "奈良県の市区町村一覧 (Municipalities of Nara — JIS X 0402) | ListBase",
+    "seo_description": "ダウンロード 奈良県の市区町村一覧 (Municipalities of Nara — JIS X 0402) — 39 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 39 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: https://github.com/polm/posuto"
+    ]
+  }
+}

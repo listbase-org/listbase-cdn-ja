@@ -1,0 +1,256 @@
+{
+  "id": "ja-tochigi-shichoson",
+  "name": "栃木県の市区町村一覧",
+  "title": "栃木県の市区町村一覧",
+  "description": "栃木県 (Tochigi Prefecture) の全市区町村 25 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "county_or_designated_city",
+      "label": "County Or Designated City",
+      "type": "string"
+    },
+    {
+      "key": "subprefecture",
+      "label": "Subprefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "09201",
+      "name": "宇都宮市",
+      "full_name": "宇都宮市",
+      "prefecture": "栃木県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "09202",
+      "name": "足利市",
+      "full_name": "足利市",
+      "prefecture": "栃木県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "09203",
+      "name": "栃木市",
+      "full_name": "栃木市",
+      "prefecture": "栃木県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "09204",
+      "name": "佐野市",
+      "full_name": "佐野市",
+      "prefecture": "栃木県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "09205",
+      "name": "鹿沼市",
+      "full_name": "鹿沼市",
+      "prefecture": "栃木県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "09206",
+      "name": "日光市",
+      "full_name": "日光市",
+      "prefecture": "栃木県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "09208",
+      "name": "小山市",
+      "full_name": "小山市",
+      "prefecture": "栃木県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "09209",
+      "name": "真岡市",
+      "full_name": "真岡市",
+      "prefecture": "栃木県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "09210",
+      "name": "大田原市",
+      "full_name": "大田原市",
+      "prefecture": "栃木県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "09211",
+      "name": "矢板市",
+      "full_name": "矢板市",
+      "prefecture": "栃木県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "09213",
+      "name": "那須塩原市",
+      "full_name": "那須塩原市",
+      "prefecture": "栃木県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "09214",
+      "name": "さくら市",
+      "full_name": "さくら市",
+      "prefecture": "栃木県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "09215",
+      "name": "那須烏山市",
+      "full_name": "那須烏山市",
+      "prefecture": "栃木県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "09216",
+      "name": "下野市",
+      "full_name": "下野市",
+      "prefecture": "栃木県",
+      "county_or_designated_city": "",
+      "subprefecture": ""
+    },
+    {
+      "code": "09301",
+      "name": "上三川町",
+      "full_name": "河内郡上三川町",
+      "prefecture": "栃木県",
+      "county_or_designated_city": "河内郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "09342",
+      "name": "益子町",
+      "full_name": "芳賀郡益子町",
+      "prefecture": "栃木県",
+      "county_or_designated_city": "芳賀郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "09343",
+      "name": "茂木町",
+      "full_name": "芳賀郡茂木町",
+      "prefecture": "栃木県",
+      "county_or_designated_city": "芳賀郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "09344",
+      "name": "市貝町",
+      "full_name": "芳賀郡市貝町",
+      "prefecture": "栃木県",
+      "county_or_designated_city": "芳賀郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "09345",
+      "name": "芳賀町",
+      "full_name": "芳賀郡芳賀町",
+      "prefecture": "栃木県",
+      "county_or_designated_city": "芳賀郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "09361",
+      "name": "壬生町",
+      "full_name": "下都賀郡壬生町",
+      "prefecture": "栃木県",
+      "county_or_designated_city": "下都賀郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "09364",
+      "name": "野木町",
+      "full_name": "下都賀郡野木町",
+      "prefecture": "栃木県",
+      "county_or_designated_city": "下都賀郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "09384",
+      "name": "塩谷町",
+      "full_name": "塩谷郡塩谷町",
+      "prefecture": "栃木県",
+      "county_or_designated_city": "塩谷郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "09386",
+      "name": "高根沢町",
+      "full_name": "塩谷郡高根沢町",
+      "prefecture": "栃木県",
+      "county_or_designated_city": "塩谷郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "09407",
+      "name": "那須町",
+      "full_name": "那須郡那須町",
+      "prefecture": "栃木県",
+      "county_or_designated_city": "那須郡",
+      "subprefecture": ""
+    },
+    {
+      "code": "09411",
+      "name": "那珂川町",
+      "full_name": "那須郡那珂川町",
+      "prefecture": "栃木県",
+      "county_or_designated_city": "那須郡",
+      "subprefecture": ""
+    }
+  ],
+  "meta": {
+    "title": "栃木県の市区町村一覧 - 無料ダウンロード",
+    "description": "栃木県 (Tochigi Prefecture) の全市区町村 25 件。国土交通省 国土数値情報 行政区域データ (N03, 2021-01-01) 由来。全国地方公共団体コード、郡・政令市名を含む。 収録数 25 件. Excel, CSV, PDF形式でダウンロード.",
+    "seo_title": "栃木県の市区町村一覧 | ListBase",
+    "seo_description": "ダウンロード 栃木県の市区町村一覧 — 25 件. Excel, CSV, PDF形式で利用可能.",
+    "key_takeaways": [
+      "収録数 25 件 / 6 項目",
+      "Excel, CSV, PDF形式で無料ダウンロード",
+      "データソース: open data"
+    ]
+  }
+}
