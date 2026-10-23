@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-23T02:13:23.588Z",
-  "total_datasets": 440,
-  "total_records": 428984,
+  "generated": "2026-10-23T02:13:27.382Z",
+  "total_datasets": 441,
+  "total_records": 429032,
   "categories": [
     {
       "id": "agriculture",
@@ -66,6 +66,10 @@
     },
     {
       "id": "science",
+      "dataset_count": 1
+    },
+    {
+      "id": "society",
       "dataset_count": 1
     },
     {
@@ -12274,6 +12278,38 @@
         "xlsx": {
           "name": "ja-nobel-sho-jushosha_JA.xlsx",
           "size": 9867
+        }
+      }
+    },
+    {
+      "id": "ja-todofuken-jinko-suii",
+      "name": "都道府県の人口推移（国勢調査）(Prefecture population by census year)",
+      "category": "society",
+      "record_count": 48,
+      "columns": [
+        "rank",
+        "prefecture",
+        "pop_2025",
+        "pop_2020",
+        "pop_2015",
+        "pop_2010",
+        "pop_2005",
+        "pop_1995",
+        "pop_1970",
+        "pop_1945",
+        "pop_1920"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E3%81%AE%E4%BA%BA%E5%8F%A3%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 17129,
+      "files": {
+        "csv": {
+          "name": "ja-todofuken-jinko-suii_JA.csv",
+          "size": 5170
+        },
+        "xlsx": {
+          "name": "ja-todofuken-jinko-suii_JA.xlsx",
+          "size": 10854
         }
       }
     },
