@@ -1,9 +1,13 @@
 {
   "lang": "ja",
-  "generated": "2026-10-23T02:12:55.192Z",
-  "total_datasets": 433,
-  "total_records": 427052,
+  "generated": "2026-10-23T02:12:59.357Z",
+  "total_datasets": 434,
+  "total_records": 427635,
   "categories": [
+    {
+      "id": "agriculture",
+      "dataset_count": 1
+    },
     {
       "id": "culture",
       "dataset_count": 2
@@ -62,6 +66,37 @@
     }
   ],
   "datasets": [
+    {
+      "id": "ja-ine-hinshu-norin",
+      "name": "農林登録されたイネ品種の一覧 (Registered rice varieties of Japan)",
+      "category": "agriculture",
+      "record_count": 583,
+      "columns": [
+        "local_no",
+        "variety",
+        "line_no",
+        "breeding_start",
+        "distribution_start",
+        "norin_no",
+        "norin_year",
+        "breeding_site",
+        "crop",
+        "grain"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E8%BE%B2%E6%9E%97%E7%99%BB%E9%8C%B2%E3%81%95%E3%82%8C%E3%81%9F%E3%82%A4%E3%83%8D%E5%93%81%E7%A8%AE%E3%81%AE%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 208873,
+      "files": {
+        "csv": {
+          "name": "ja-ine-hinshu-norin_JA.csv",
+          "size": 80306
+        },
+        "xlsx": {
+          "name": "ja-ine-hinshu-norin_JA.xlsx",
+          "size": 42379
+        }
+      }
+    },
     {
       "id": "ja-hakubutsukan",
       "name": "日本の博物館 (Museums in Japan)",
