@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-23T02:12:46.241Z",
-  "total_datasets": 431,
-  "total_records": 424639,
+  "generated": "2026-10-23T02:12:50.845Z",
+  "total_datasets": 432,
+  "total_records": 424887,
   "categories": [
     {
       "id": "culture",
@@ -27,6 +27,10 @@
     {
       "id": "geography",
       "dataset_count": 126
+    },
+    {
+      "id": "history",
+      "dataset_count": 1
     },
     {
       "id": "language",
@@ -4894,6 +4898,35 @@
         "xlsx": {
           "name": "ja-yamanashi-shikuchoson-kyoukai_JA.xlsx",
           "size": 52366
+        }
+      }
+    },
+    {
+      "id": "ja-gengo-ichiran",
+      "name": "日本の元号一覧 (Japanese era names)",
+      "category": "history",
+      "record_count": 248,
+      "columns": [
+        "gengo",
+        "reading",
+        "start",
+        "end",
+        "years",
+        "emperor",
+        "reason",
+        "period"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E5%85%83%E5%8F%B7%E4%B8%80%E8%A6%A7_%28%E6%97%A5%E6%9C%AC%29",
+      "updated": "2026-10",
+      "size": 89331,
+      "files": {
+        "csv": {
+          "name": "ja-gengo-ichiran_JA.csv",
+          "size": 51598
+        },
+        "xlsx": {
+          "name": "ja-gengo-ichiran_JA.xlsx",
+          "size": 24806
         }
       }
     },
