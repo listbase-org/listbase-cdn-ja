@@ -1,0 +1,856 @@
+{
+  "id": "ja-nihon-100-meijo",
+  "name": "日本100名城一覧 (Japan's Top 100 Castles)",
+  "title": "日本100名城一覧 (Japan's Top 100 Castles)",
+  "description": "日本城郭協会が選定した日本100名城の一覧。番号・城名・所在地・スタンプ設置場所・備考を収録。",
+  "category": "tourism",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC100%E5%90%8D%E5%9F%8E",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC100%E5%90%8D%E5%9F%8E",
+  "updated": "2026-10",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "castle",
+      "label": "Castle",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "stamp_location",
+      "label": "Stamp Location",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "castle": "根室半島チャシ跡群",
+      "prefecture": "北海道",
+      "city": "根室市",
+      "stamp_location": "根室市歴史と自然の資料館 根室市観光インフォメーションセンター (JR根室駅前) 根室市北方領土資料館 (納沙布岬近く)",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 2,
+      "castle": "五稜郭",
+      "prefecture": "北海道",
+      "city": "函館市",
+      "stamp_location": "箱館奉行所付属建物「板庫 (休憩所)」入口付近 (屋外)",
+      "notes": "国指定特別史跡"
+    },
+    {
+      "no": 3,
+      "castle": "松前城",
+      "prefecture": "北海道",
+      "city": "松前町",
+      "stamp_location": "松前城資料館 (松前城天守) の受付",
+      "notes": "国指定史跡 重要文化財"
+    },
+    {
+      "no": 4,
+      "castle": "弘前城",
+      "prefecture": "青森県",
+      "city": "弘前市",
+      "stamp_location": "弘前城情報館",
+      "notes": "国指定史跡 重要文化財 現存天守"
+    },
+    {
+      "no": 5,
+      "castle": "根城",
+      "prefecture": "青森県",
+      "city": "八戸市",
+      "stamp_location": "史跡根城の広場料金所 八戸市博物館受付 史跡根城ボランティアガイドハウス窓口",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 6,
+      "castle": "盛岡城",
+      "prefecture": "岩手県",
+      "city": "盛岡市",
+      "stamp_location": "もりおか歴史文化館 盛岡市役所7階の観光課窓口 (上記の休館日)",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 7,
+      "castle": "多賀城",
+      "prefecture": "宮城県",
+      "city": "多賀城市",
+      "stamp_location": "多賀城跡ガイダンス施設（多賀城南門南側）",
+      "notes": "国指定特別史跡 日本三大史跡"
+    },
+    {
+      "no": 8,
+      "castle": "仙台城",
+      "prefecture": "宮城県",
+      "city": "仙台市",
+      "stamp_location": "仙台城見聞館展示コーナー",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 9,
+      "castle": "久保田城",
+      "prefecture": "秋田県",
+      "city": "秋田市",
+      "stamp_location": "秋田市立佐竹史料館 久保田城御隅櫓 (冬期休館)",
+      "notes": "史跡未指定 市指定有形文化財"
+    },
+    {
+      "no": 10,
+      "castle": "山形城",
+      "prefecture": "山形県",
+      "city": "山形市",
+      "stamp_location": "最上義光歴史館 山形市郷土館受付窓口 二ノ丸東大手門櫓内部",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 11,
+      "castle": "二本松城",
+      "prefecture": "福島県",
+      "city": "二本松市",
+      "stamp_location": "にほんまつ城報館 JR二本松駅内観光案内所",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 12,
+      "castle": "会津若松城",
+      "prefecture": "福島県",
+      "city": "会津若松市",
+      "stamp_location": "天守閣内売店",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 13,
+      "castle": "白河小峰城",
+      "prefecture": "福島県",
+      "city": "白河市",
+      "stamp_location": "三重櫓 二ノ丸茶屋 白河観光物産協会 白河修古苑",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 14,
+      "castle": "水戸城 （弘道館）",
+      "prefecture": "茨城県",
+      "city": "水戸市",
+      "stamp_location": "弘道館料金所窓口",
+      "notes": "国指定特別史跡"
+    },
+    {
+      "no": 15,
+      "castle": "足利氏館 （鑁阿寺）",
+      "prefecture": "栃木県",
+      "city": "足利市",
+      "stamp_location": "鑁阿寺本堂内の寺務所 (お守り売場)",
+      "notes": "国指定史跡 国宝"
+    },
+    {
+      "no": 16,
+      "castle": "箕輪城",
+      "prefecture": "群馬県",
+      "city": "高崎市",
+      "stamp_location": "高崎市箕郷支所1階ロビー 高崎市箕郷公民館 高崎市立箕郷図書館",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 17,
+      "castle": "新田金山城",
+      "prefecture": "群馬県",
+      "city": "太田市",
+      "stamp_location": "中島記念公園（史跡金山城跡・南曲輪）の休憩施設内",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 18,
+      "castle": "鉢形城",
+      "prefecture": "埼玉県",
+      "city": "寄居町",
+      "stamp_location": "鉢形城歴史館受付",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 19,
+      "castle": "川越城",
+      "prefecture": "埼玉県",
+      "city": "川越市",
+      "stamp_location": "川越城本丸御殿受付窓口 初雁公園休憩所 (上記の休館日)",
+      "notes": "県指定史跡"
+    },
+    {
+      "no": 20,
+      "castle": "佐倉城",
+      "prefecture": "千葉県",
+      "city": "佐倉市",
+      "stamp_location": "佐倉城址公園管理センター 国立歴史民俗博物館",
+      "notes": "市指定史跡"
+    },
+    {
+      "no": 21,
+      "castle": "江戸城",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "stamp_location": "楠公休憩場 和田倉休憩場 北の丸休憩場",
+      "notes": "国指定特別史跡 重要文化財"
+    },
+    {
+      "no": 22,
+      "castle": "八王子城",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "stamp_location": "八王子城跡ガイダンス施設",
+      "notes": "国指定史跡 日本五大山岳城"
+    },
+    {
+      "no": 23,
+      "castle": "小田原城",
+      "prefecture": "神奈川県",
+      "city": "小田原市",
+      "stamp_location": "天守閣1階",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 24,
+      "castle": "武田氏館 （武田神社）",
+      "prefecture": "山梨県",
+      "city": "甲府市",
+      "stamp_location": "武田神社宝物殿入口 武田神社神府集札授与所",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 25,
+      "castle": "甲府城",
+      "prefecture": "山梨県",
+      "city": "甲府市",
+      "stamp_location": "舞鶴城公園管理事務所 甲府城稲荷櫓",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 26,
+      "castle": "松代城",
+      "prefecture": "長野県",
+      "city": "長野市",
+      "stamp_location": "真田邸",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 27,
+      "castle": "上田城",
+      "prefecture": "長野県",
+      "city": "上田市",
+      "stamp_location": "上田市立博物館 上田市観光会館",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 28,
+      "castle": "小諸城",
+      "prefecture": "長野県",
+      "city": "小諸市",
+      "stamp_location": "懐古園事務所",
+      "notes": "史跡未指定 重要文化財"
+    },
+    {
+      "no": 29,
+      "castle": "松本城",
+      "prefecture": "長野県",
+      "city": "松本市",
+      "stamp_location": "松本市観光情報センター",
+      "notes": "国指定史跡 国宝 現存天守"
+    },
+    {
+      "no": 30,
+      "castle": "高遠城",
+      "prefecture": "長野県",
+      "city": "伊那市",
+      "stamp_location": "伊那市立高遠町歴史博物館",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 31,
+      "castle": "新発田城",
+      "prefecture": "新潟県",
+      "city": "新発田市",
+      "stamp_location": "新発田城表門 新発田市役所本庁 (12月～3月） 白壁兵舎広報資料館 (12月～3月）",
+      "notes": "国指定史跡 重要文化財"
+    },
+    {
+      "no": 32,
+      "castle": "春日山城",
+      "prefecture": "新潟県",
+      "city": "上越市",
+      "stamp_location": "春日山城跡ものがたり館 上越市埋蔵文化財センター (12月～2月)",
+      "notes": "国指定史跡 日本五大山岳城"
+    },
+    {
+      "no": 33,
+      "castle": "高岡城",
+      "prefecture": "富山県",
+      "city": "高岡市",
+      "stamp_location": "高岡市立博物館（鍛冶丸跡）",
+      "notes": "国指定史跡 日本さくら名所100選"
+    },
+    {
+      "no": 34,
+      "castle": "七尾城",
+      "prefecture": "石川県",
+      "city": "七尾市",
+      "stamp_location": "七尾城史資料館 （12月11日 - 3月10日は七尾市役所本庁）",
+      "notes": "国指定史跡 日本五大山岳城"
+    },
+    {
+      "no": 35,
+      "castle": "金沢城",
+      "prefecture": "石川県",
+      "city": "金沢市",
+      "stamp_location": "二の丸案内所 石川門入口案内所 (石川門総合案内所) 五十間長屋内",
+      "notes": "国指定史跡 重要文化財"
+    },
+    {
+      "no": 36,
+      "castle": "丸岡城",
+      "prefecture": "福井県",
+      "city": "坂井市",
+      "stamp_location": "霞ヶ城公園管理事務所（券売所窓口）",
+      "notes": "史跡未指定 重要文化財 現存天守"
+    },
+    {
+      "no": 37,
+      "castle": "一乗谷城",
+      "prefecture": "福井県",
+      "city": "福井市",
+      "stamp_location": "復原町並入口（南・北） 一乗谷朝倉氏遺跡博物館",
+      "notes": "国指定特別史跡 国指定特別名勝"
+    },
+    {
+      "no": 38,
+      "castle": "岩村城",
+      "prefecture": "岐阜県",
+      "city": "恵那市",
+      "stamp_location": "岩村歴史資料館",
+      "notes": "県指定史跡 三大山城 日本の秘境100選"
+    },
+    {
+      "no": 39,
+      "castle": "岐阜城",
+      "prefecture": "岐阜県",
+      "city": "岐阜市",
+      "stamp_location": "加藤栄三・東一記念美術館 ぎふ金華山ロープウェー (山頂駅) ※令和9年10月下旬まで改修工事のため天守閣ならびに資料館は休館中です。",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 40,
+      "castle": "山中城",
+      "prefecture": "静岡県",
+      "city": "三島市",
+      "stamp_location": "山中城跡売店内",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 41,
+      "castle": "駿府城",
+      "prefecture": "静岡県",
+      "city": "静岡市",
+      "stamp_location": "東御門券売所 坤櫓券売所",
+      "notes": "史跡未指定"
+    },
+    {
+      "no": 42,
+      "castle": "掛川城",
+      "prefecture": "静岡県",
+      "city": "掛川市",
+      "stamp_location": "掛川城御殿 (二の丸御殿) の受付",
+      "notes": "県指定史跡 重要文化財"
+    },
+    {
+      "no": 43,
+      "castle": "犬山城",
+      "prefecture": "愛知県",
+      "city": "犬山市",
+      "stamp_location": "犬山城管理事務所",
+      "notes": "国指定史跡 国宝 現存天守"
+    },
+    {
+      "no": 44,
+      "castle": "名古屋城",
+      "prefecture": "愛知県",
+      "city": "名古屋市",
+      "stamp_location": "正門改札所 東門改札所 総合案内所",
+      "notes": "国指定特別史跡 重要文化財 三名城"
+    },
+    {
+      "no": 45,
+      "castle": "岡崎城",
+      "prefecture": "愛知県",
+      "city": "岡崎市",
+      "stamp_location": "天守1階の受付・チケット売り場周辺",
+      "notes": "市指定史跡"
+    },
+    {
+      "no": 46,
+      "castle": "長篠城",
+      "prefecture": "愛知県",
+      "city": "新城市",
+      "stamp_location": "新城市長篠城址史跡保存館",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 47,
+      "castle": "伊賀上野城",
+      "prefecture": "三重県",
+      "city": "伊賀市",
+      "stamp_location": "大天守閣1階またはチケット販売窓口付近",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 48,
+      "castle": "松阪城",
+      "prefecture": "三重県",
+      "city": "松阪市",
+      "stamp_location": "松阪市立歴史民俗資料館 本居宣長記念館 （豪商のまち松阪観光交流センター※資料館/記念館の休館日のみ） （松阪駅観光情報センター※資料館/記念館の休館日のみ）",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 49,
+      "castle": "小谷城",
+      "prefecture": "滋賀県",
+      "city": "長浜市",
+      "stamp_location": "小谷城戦国歴史資料館 休館日（火曜日）は以下の場所にて対応 長浜市役所湖北支所 JR河毛駅コミュニティハウス 戦国ガイドステーション",
+      "notes": "国指定史跡 国登録有形文化財 日本五大山城"
+    },
+    {
+      "no": 50,
+      "castle": "彦根城",
+      "prefecture": "滋賀県",
+      "city": "彦根市",
+      "stamp_location": "彦根市開国記念館 表門券売所 (開国記念館の休館日)",
+      "notes": "国指定特別史跡 国指定名勝 国宝 重要文化財 現存天守"
+    },
+    {
+      "no": 51,
+      "castle": "安土城",
+      "prefecture": "滋賀県",
+      "city": "近江八幡市",
+      "stamp_location": "安土城天主信長の館 安土城郭資料館 安土城跡受付",
+      "notes": "国指定特別史跡"
+    },
+    {
+      "no": 52,
+      "castle": "観音寺城",
+      "prefecture": "滋賀県",
+      "city": "近江八幡市",
+      "stamp_location": "石寺楽市会館 (12月中旬～3月中旬は休館) 観音正寺 桑実寺 安土城郭資料館",
+      "notes": "国指定史跡 日本五大山城"
+    },
+    {
+      "no": 53,
+      "castle": "二条城",
+      "prefecture": "京都府",
+      "city": "京都市",
+      "stamp_location": "大休憩所",
+      "notes": "世界遺産 国指定史跡 国指定特別名勝 国宝 重要文化財"
+    },
+    {
+      "no": 54,
+      "castle": "大阪城",
+      "prefecture": "大阪府",
+      "city": "大阪市",
+      "stamp_location": "天守閣1階インフォメーションカウンター",
+      "notes": "国指定特別史跡 重要文化財 国登録有形文化財 三名城"
+    },
+    {
+      "no": 55,
+      "castle": "千早城",
+      "prefecture": "大阪府",
+      "city": "千早赤阪村",
+      "stamp_location": "金剛山 山の豆腐 千早城跡茶屋（不定期）",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 56,
+      "castle": "竹田城",
+      "prefecture": "兵庫県",
+      "city": "朝来市",
+      "stamp_location": "観覧料収受棟 情報館天空の城 山城の郷 (交流の館)",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 57,
+      "castle": "篠山城",
+      "prefecture": "兵庫県",
+      "city": "丹波篠山市",
+      "stamp_location": "大書院の館内",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 58,
+      "castle": "明石城",
+      "prefecture": "兵庫県",
+      "city": "明石市",
+      "stamp_location": "明石公園サービスセンター受付窓口",
+      "notes": "国指定史跡 重要文化財"
+    },
+    {
+      "no": 59,
+      "castle": "姫路城",
+      "prefecture": "兵庫県",
+      "city": "姫路市",
+      "stamp_location": "姫路城管理事務所入口（券売所外）",
+      "notes": "世界遺産 国指定特別史跡 国宝 重要文化財 現存天守 三大平山城 三大連立式平山城"
+    },
+    {
+      "no": 60,
+      "castle": "赤穂城",
+      "prefecture": "兵庫県",
+      "city": "赤穂市",
+      "stamp_location": "本丸櫓門下 赤穂市立歴史博物館",
+      "notes": "国指定史跡 国指定名勝"
+    },
+    {
+      "no": 61,
+      "castle": "高取城",
+      "prefecture": "奈良県",
+      "city": "高取町",
+      "stamp_location": "高取町観光案内所「夢創舘」",
+      "notes": "国指定史跡 三大山城"
+    },
+    {
+      "no": 62,
+      "castle": "和歌山城",
+      "prefecture": "和歌山県",
+      "city": "和歌山市",
+      "stamp_location": "和歌山城天守閣チケット売り場",
+      "notes": "国指定史跡 国指定名勝 重要文化財 三大連立式平山城"
+    },
+    {
+      "no": 63,
+      "castle": "鳥取城",
+      "prefecture": "鳥取県",
+      "city": "鳥取市",
+      "stamp_location": "仁風閣 ※長期休館中 鳥取市ふるさと物産館（まちパル鳥取） 鳥取県立博物館 鳥取市役所本庁舎1階総合窓口（博物館休館時） 鳥取県庁（県民室）",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 64,
+      "castle": "松江城",
+      "prefecture": "島根県",
+      "city": "松江市",
+      "stamp_location": "松江城天守内受付カウンター",
+      "notes": "国指定史跡 国宝 現存天守 三大湖城"
+    },
+    {
+      "no": 65,
+      "castle": "月山富田城",
+      "prefecture": "島根県",
+      "city": "安来市",
+      "stamp_location": "安来市立歴史資料館入口",
+      "notes": "国指定史跡 日本五大山岳城"
+    },
+    {
+      "no": 66,
+      "castle": "津和野城",
+      "prefecture": "島根県",
+      "city": "津和野町",
+      "stamp_location": "津和野城跡観光リフト乗り場（山麓側）",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 67,
+      "castle": "津山城",
+      "prefecture": "岡山県",
+      "city": "津山市",
+      "stamp_location": "津山城備中櫓の受付",
+      "notes": "国指定史跡 三大平山城"
+    },
+    {
+      "no": 68,
+      "castle": "備中松山城",
+      "prefecture": "岡山県",
+      "city": "高梁市",
+      "stamp_location": "備中松山城券売所（山頂）",
+      "notes": "国指定史跡 重要文化財 国登録有形文化財 現存天守 三大山城"
+    },
+    {
+      "no": 69,
+      "castle": "鬼ノ城",
+      "prefecture": "岡山県",
+      "city": "総社市",
+      "stamp_location": "鬼城山ビジターセンター",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 70,
+      "castle": "岡山城",
+      "prefecture": "岡山県",
+      "city": "岡山市",
+      "stamp_location": "岡山城天守閣地下1階受付付近",
+      "notes": "国指定史跡 国指定特別名勝 重要文化財"
+    },
+    {
+      "no": 71,
+      "castle": "福山城",
+      "prefecture": "広島県",
+      "city": "福山市",
+      "stamp_location": "福山城博物館管理事務所外の券売機横 福山城博物館（天守）内のミュージアムショップ",
+      "notes": "国指定史跡 重要文化財"
+    },
+    {
+      "no": 72,
+      "castle": "郡山城",
+      "prefecture": "広島県",
+      "city": "安芸高田市",
+      "stamp_location": "安芸高田市歴史民俗博物館 安芸高田市教育委員会生涯学習課（博物館休館日の平日）",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 73,
+      "castle": "広島城",
+      "prefecture": "広島県",
+      "city": "広島市",
+      "stamp_location": "天守入口前（屋外の屋根付き通路）",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 74,
+      "castle": "岩国城",
+      "prefecture": "山口県",
+      "city": "岩国市",
+      "stamp_location": "岩国城天守 1階受付",
+      "notes": "史跡未指定"
+    },
+    {
+      "no": 75,
+      "castle": "萩城",
+      "prefecture": "山口県",
+      "city": "萩市",
+      "stamp_location": "本丸入口料金所",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 76,
+      "castle": "徳島城",
+      "prefecture": "徳島県",
+      "city": "徳島市",
+      "stamp_location": "徳島市立徳島城博物館受付カウンター 徳島市教育委員会社会教育課カウンター 徳島中央公園東側駐車場入口事務所",
+      "notes": "国指定史跡 国指定名勝"
+    },
+    {
+      "no": 77,
+      "castle": "高松城",
+      "prefecture": "香川県",
+      "city": "高松市",
+      "stamp_location": "高松城跡東門入口（窓口付近） 高松城跡西門入口（駐車場そば） 玉藻公園管理事務所",
+      "notes": "国指定史跡 重要文化財 三大水城"
+    },
+    {
+      "no": 78,
+      "castle": "丸亀城",
+      "prefecture": "香川県",
+      "city": "丸亀市",
+      "stamp_location": "丸亀城天守 丸亀市立資料館",
+      "notes": "国指定史跡 重要文化財 現存天守"
+    },
+    {
+      "no": 79,
+      "castle": "今治城",
+      "prefecture": "愛媛県",
+      "city": "今治市",
+      "stamp_location": "今治城管理事務所（天守閣内）",
+      "notes": "県指定史跡 三大水城"
+    },
+    {
+      "no": 80,
+      "castle": "湯築城",
+      "prefecture": "愛媛県",
+      "city": "松山市",
+      "stamp_location": "湯築城資料館",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 81,
+      "castle": "松山城",
+      "prefecture": "愛媛県",
+      "city": "松山市",
+      "stamp_location": "山頂の天守きっぷ売場横",
+      "notes": "国指定史跡 重要文化財 三大平山城 現存天守 三大連立式平山城"
+    },
+    {
+      "no": 82,
+      "castle": "大洲城",
+      "prefecture": "愛媛県",
+      "city": "大洲市",
+      "stamp_location": "台所櫓入口（大洲城内入口）",
+      "notes": "県指定史跡 重要文化財"
+    },
+    {
+      "no": 83,
+      "castle": "宇和島城",
+      "prefecture": "愛媛県",
+      "city": "宇和島市",
+      "stamp_location": "宇和島城天守",
+      "notes": "国指定史跡 重要文化財 現存天守"
+    },
+    {
+      "no": 84,
+      "castle": "高知城",
+      "prefecture": "高知県",
+      "city": "高知市",
+      "stamp_location": "高知城天守窓口（本丸御殿入口）",
+      "notes": "国指定史跡 重要文化財 現存天守"
+    },
+    {
+      "no": 85,
+      "castle": "福岡城",
+      "prefecture": "福岡県",
+      "city": "福岡市",
+      "stamp_location": "福岡城むかし探訪館 三の丸スクエア 鴻臚館跡展示館",
+      "notes": "国指定史跡 重要文化財"
+    },
+    {
+      "no": 86,
+      "castle": "大野城",
+      "prefecture": "福岡県",
+      "city": "太宰府市 大野城市 宇美町",
+      "stamp_location": "福岡県立四王寺県民の森管理事務所 太宰府市文化ふれあい館 大宰府展示館 大野城市総合体育館 大野城心のふるさと館 宇美町立歴史民俗資料館",
+      "notes": "国指定特別史跡"
+    },
+    {
+      "no": 87,
+      "castle": "名護屋城",
+      "prefecture": "佐賀県",
+      "city": "唐津市",
+      "stamp_location": "佐賀県立名護屋城博物館",
+      "notes": "国指定特別史跡"
+    },
+    {
+      "no": 88,
+      "castle": "吉野ヶ里 （吉野ヶ里歴史公園）",
+      "prefecture": "佐賀県",
+      "city": "吉野ヶ里町",
+      "stamp_location": "吉野ヶ里歴史公園東口・西口",
+      "notes": "国指定特別史跡"
+    },
+    {
+      "no": 89,
+      "castle": "佐賀城",
+      "prefecture": "佐賀県",
+      "city": "佐賀市",
+      "stamp_location": "佐賀城本丸歴史館受付",
+      "notes": "県指定史跡 重要文化財"
+    },
+    {
+      "no": 90,
+      "castle": "平戸城",
+      "prefecture": "長崎県",
+      "city": "平戸市",
+      "stamp_location": "平戸城天守閣",
+      "notes": "史跡未指定"
+    },
+    {
+      "no": 91,
+      "castle": "島原城",
+      "prefecture": "長崎県",
+      "city": "島原市",
+      "stamp_location": "島原城受付窓口",
+      "notes": "市指定史跡 国登録有形文化財"
+    },
+    {
+      "no": 92,
+      "castle": "熊本城",
+      "prefecture": "熊本県",
+      "city": "熊本市",
+      "stamp_location": "北口券売所（土・日・祝日のみ） 南口券売所",
+      "notes": "国指定特別史跡 重要文化財 三名城"
+    },
+    {
+      "no": 93,
+      "castle": "人吉城",
+      "prefecture": "熊本県",
+      "city": "人吉市",
+      "stamp_location": "人吉城歴史館",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 94,
+      "castle": "大分府内城",
+      "prefecture": "大分県",
+      "city": "大分市",
+      "stamp_location": "大手門",
+      "notes": "県指定史跡"
+    },
+    {
+      "no": 95,
+      "castle": "岡城",
+      "prefecture": "大分県",
+      "city": "竹田市",
+      "stamp_location": "観覧料徴収所（総役所跡）",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 96,
+      "castle": "飫肥城",
+      "prefecture": "宮崎県",
+      "city": "日南市",
+      "stamp_location": "飫肥城歴史資料館",
+      "notes": "市指定史跡"
+    },
+    {
+      "no": 97,
+      "castle": "鹿児島城",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "stamp_location": "鹿児島県歴史資料センター黎明館内総合案内所",
+      "notes": "国指定史跡"
+    },
+    {
+      "no": 98,
+      "castle": "今帰仁城",
+      "prefecture": "沖縄県",
+      "city": "今帰仁村",
+      "stamp_location": "今帰仁村グスク交流センター",
+      "notes": "世界遺産 国指定史跡"
+    },
+    {
+      "no": 99,
+      "castle": "中城城",
+      "prefecture": "沖縄県",
+      "city": "中城村",
+      "stamp_location": "管理事務所の窓口",
+      "notes": "世界遺産 国指定史跡"
+    },
+    {
+      "no": 100,
+      "castle": "首里城",
+      "prefecture": "沖縄県",
+      "city": "那覇市",
+      "stamp_location": "首里杜館",
+      "notes": "世界遺産 重要文化財 国指定史跡"
+    }
+  ],
+  "meta": {
+    "title": "日本100名城一覧 (Japan's Top 100 Castles) - Free Download",
+    "description": "日本城郭協会が選定した日本100名城の一覧。番号・城名・所在地・スタンプ設置場所・備考を収録。 Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本100名城一覧 (Japan's Top 100 Castles) | ListBase",
+    "seo_description": "Download 日本100名城一覧 (Japan's Top 100 Castles) — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC100%E5%90%8D%E5%9F%8E"
+    ]
+  }
+}

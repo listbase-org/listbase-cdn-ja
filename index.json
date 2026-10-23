@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-23T02:13:03.405Z",
-  "total_datasets": 435,
-  "total_records": 427977,
+  "generated": "2026-10-23T02:13:07.408Z",
+  "total_datasets": 436,
+  "total_records": 428077,
   "categories": [
     {
       "id": "agriculture",
@@ -62,6 +62,10 @@
     },
     {
       "id": "time",
+      "dataset_count": 1
+    },
+    {
+      "id": "tourism",
       "dataset_count": 1
     },
     {
@@ -12401,6 +12405,33 @@
         "xlsx": {
           "name": "ja-shukujitsu-kokka-no-kyujitsu_JA.xlsx",
           "size": 82704
+        }
+      }
+    },
+    {
+      "id": "ja-nihon-100-meijo",
+      "name": "日本100名城一覧 (Japan's Top 100 Castles)",
+      "category": "tourism",
+      "record_count": 100,
+      "columns": [
+        "no",
+        "castle",
+        "prefecture",
+        "city",
+        "stamp_location",
+        "notes"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC100%E5%90%8D%E5%9F%8E",
+      "updated": "2026-10",
+      "size": 27253,
+      "files": {
+        "csv": {
+          "name": "ja-nihon-100-meijo_JA.csv",
+          "size": 13742
+        },
+        "xlsx": {
+          "name": "ja-nihon-100-meijo_JA.xlsx",
+          "size": 14090
         }
       }
     },
