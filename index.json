@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-20T04:19:38.985Z",
-  "total_datasets": 430,
-  "total_records": 422498,
+  "generated": "2026-10-23T02:12:46.241Z",
+  "total_datasets": 431,
+  "total_records": 424639,
   "categories": [
     {
       "id": "culture",
@@ -27,6 +27,10 @@
     {
       "id": "geography",
       "dataset_count": 126
+    },
+    {
+      "id": "language",
+      "dataset_count": 1
     },
     {
       "id": "politics",
@@ -4890,6 +4894,36 @@
         "xlsx": {
           "name": "ja-yamanashi-shikuchoson-kyoukai_JA.xlsx",
           "size": 52366
+        }
+      }
+    },
+    {
+      "id": "ja-joyo-kanji",
+      "name": "常用漢字一覧 (Jōyō kanji list)",
+      "category": "language",
+      "record_count": 2141,
+      "columns": [
+        "no",
+        "kanji",
+        "kyujitai",
+        "radical",
+        "strokes",
+        "grade",
+        "added",
+        "removed",
+        "readings"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E5%B8%B8%E7%94%A8%E6%BC%A2%E5%AD%97%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 472900,
+      "files": {
+        "csv": {
+          "name": "ja-joyo-kanji_JA.csv",
+          "size": 126674
+        },
+        "xlsx": {
+          "name": "ja-joyo-kanji_JA.xlsx",
+          "size": 114212
         }
       }
     },
