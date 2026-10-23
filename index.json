@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-23T02:13:07.408Z",
-  "total_datasets": 436,
-  "total_records": 428077,
+  "generated": "2026-10-23T02:13:11.559Z",
+  "total_datasets": 437,
+  "total_records": 428147,
   "categories": [
     {
       "id": "agriculture",
@@ -46,6 +46,10 @@
     },
     {
       "id": "law",
+      "dataset_count": 1
+    },
+    {
+      "id": "music",
       "dataset_count": 1
     },
     {
@@ -5060,6 +5064,35 @@
         "xlsx": {
           "name": "ja-horitsu-ichiran_JA.xlsx",
           "size": 233024
+        }
+      }
+    },
+    {
+      "id": "ja-nihon-record-taisho",
+      "name": "日本レコード大賞 受賞作品一覧 (Japan Record Award winners)",
+      "category": "music",
+      "record_count": 70,
+      "columns": [
+        "edition",
+        "year",
+        "song",
+        "artist",
+        "lyricist",
+        "composer",
+        "arranger",
+        "label"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E5%A4%A7%E8%B3%9E",
+      "updated": "2026-10",
+      "size": 21565,
+      "files": {
+        "csv": {
+          "name": "ja-nihon-record-taisho_JA.csv",
+          "size": 8855
+        },
+        "xlsx": {
+          "name": "ja-nihon-record-taisho_JA.xlsx",
+          "size": 12732
         }
       }
     },

@@ -1,0 +1,766 @@
+{
+  "id": "ja-nihon-record-taisho",
+  "name": "日本レコード大賞 受賞作品一覧 (Japan Record Award winners)",
+  "title": "日本レコード大賞 受賞作品一覧 (Japan Record Award winners)",
+  "description": "日本レコード大賞の歴代大賞受賞曲の一覧。回・年・曲名・歌手名・作詞・作曲・編曲・レコード会社を収録。",
+  "category": "music",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E5%A4%A7%E8%B3%9E",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E5%A4%A7%E8%B3%9E",
+  "updated": "2026-10",
+  "record_count": 70,
+  "columns": [
+    {
+      "key": "edition",
+      "label": "Edition",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "string"
+    },
+    {
+      "key": "song",
+      "label": "Song",
+      "type": "string"
+    },
+    {
+      "key": "artist",
+      "label": "Artist",
+      "type": "string"
+    },
+    {
+      "key": "lyricist",
+      "label": "Lyricist",
+      "type": "string"
+    },
+    {
+      "key": "composer",
+      "label": "Composer",
+      "type": "string"
+    },
+    {
+      "key": "arranger",
+      "label": "Arranger",
+      "type": "string"
+    },
+    {
+      "key": "label",
+      "label": "Label",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edition": "第1回",
+      "year": "1959年",
+      "song": "黒い花びら",
+      "artist": "水原弘",
+      "lyricist": "永六輔",
+      "composer": "中村八大",
+      "arranger": "中村八大",
+      "label": "東京芝浦電気"
+    },
+    {
+      "edition": "第2回",
+      "year": "1960年",
+      "song": "誰よりも君を愛す",
+      "artist": "松尾和子 和田弘とマヒナスターズ",
+      "lyricist": "川内康範",
+      "composer": "吉田正",
+      "arranger": "和田弘",
+      "label": "日本ビクター"
+    },
+    {
+      "edition": "第3回",
+      "year": "1961年",
+      "song": "君恋し",
+      "artist": "フランク永井",
+      "lyricist": "時雨音羽",
+      "composer": "佐々紅華",
+      "arranger": "寺岡真三",
+      "label": "日本ビクター"
+    },
+    {
+      "edition": "第4回",
+      "year": "1962年",
+      "song": "いつでも夢を",
+      "artist": "橋幸夫 吉永小百合",
+      "lyricist": "佐伯孝夫",
+      "composer": "吉田正",
+      "arranger": "吉田正",
+      "label": "日本ビクター"
+    },
+    {
+      "edition": "第5回",
+      "year": "1963年",
+      "song": "こんにちは赤ちゃん",
+      "artist": "梓みちよ",
+      "lyricist": "永六輔",
+      "composer": "中村八大",
+      "arranger": "中村八大",
+      "label": "キングレコード"
+    },
+    {
+      "edition": "第6回",
+      "year": "1964年",
+      "song": "愛と死をみつめて",
+      "artist": "青山和子",
+      "lyricist": "大矢弘子",
+      "composer": "土田啓四郎",
+      "arranger": "土田啓四郎",
+      "label": "日本コロムビア"
+    },
+    {
+      "edition": "第7回",
+      "year": "1965年",
+      "song": "柔",
+      "artist": "美空ひばり",
+      "lyricist": "関沢新一",
+      "composer": "古賀政男",
+      "arranger": "佐伯亮",
+      "label": "日本コロムビア"
+    },
+    {
+      "edition": "第8回",
+      "year": "1966年",
+      "song": "霧氷",
+      "artist": "橋幸夫",
+      "lyricist": "宮川哲夫",
+      "composer": "利根一郎",
+      "arranger": "一ノ瀬義孝",
+      "label": "日本ビクター"
+    },
+    {
+      "edition": "第9回",
+      "year": "1967年",
+      "song": "ブルー・シャトウ",
+      "artist": "ジャッキー吉川とブルーコメッツ",
+      "lyricist": "橋本淳",
+      "composer": "井上忠夫",
+      "arranger": "森岡賢一郎",
+      "label": "日本コロムビア"
+    },
+    {
+      "edition": "第10回",
+      "year": "1968年",
+      "song": "天使の誘惑",
+      "artist": "黛ジュン",
+      "lyricist": "なかにし礼",
+      "composer": "鈴木邦彦",
+      "arranger": "鈴木邦彦",
+      "label": "東芝音楽工業"
+    },
+    {
+      "edition": "第11回",
+      "year": "1969年",
+      "song": "いいじゃないの幸せならば",
+      "artist": "佐良直美",
+      "lyricist": "岩谷時子",
+      "composer": "いずみたく",
+      "arranger": "いずみたく",
+      "label": "日本ビクター"
+    },
+    {
+      "edition": "第12回",
+      "year": "1970年",
+      "song": "今日でお別れ",
+      "artist": "菅原洋一",
+      "lyricist": "なかにし礼",
+      "composer": "宇井あきら",
+      "arranger": "森岡賢一郎",
+      "label": "日本グラモフォン"
+    },
+    {
+      "edition": "第13回",
+      "year": "1971年",
+      "song": "また逢う日まで",
+      "artist": "尾崎紀世彦",
+      "lyricist": "阿久悠",
+      "composer": "筒美京平",
+      "arranger": "筒美京平",
+      "label": "日本フォノグラム"
+    },
+    {
+      "edition": "第14回",
+      "year": "1972年",
+      "song": "喝采",
+      "artist": "ちあきなおみ",
+      "lyricist": "吉田旺",
+      "composer": "中村泰士",
+      "arranger": "高田弘",
+      "label": "日本コロムビア"
+    },
+    {
+      "edition": "第15回",
+      "year": "1973年",
+      "song": "夜空",
+      "artist": "五木ひろし",
+      "lyricist": "山口洋子",
+      "composer": "平尾昌晃",
+      "arranger": "竜崎孝路",
+      "label": "徳間音楽工業"
+    },
+    {
+      "edition": "第16回",
+      "year": "1974年",
+      "song": "襟裳岬",
+      "artist": "森進一",
+      "lyricist": "岡本おさみ",
+      "composer": "吉田拓郎",
+      "arranger": "馬飼野俊一",
+      "label": "ビクター音楽産業"
+    },
+    {
+      "edition": "第17回",
+      "year": "1975年",
+      "song": "シクラメンのかほり",
+      "artist": "布施明",
+      "lyricist": "小椋佳",
+      "composer": "小椋佳",
+      "arranger": "萩田光雄",
+      "label": "キングレコード"
+    },
+    {
+      "edition": "第18回",
+      "year": "1976年",
+      "song": "北の宿から",
+      "artist": "都はるみ",
+      "lyricist": "阿久悠",
+      "composer": "小林亜星",
+      "arranger": "竹村次郎",
+      "label": "日本コロムビア"
+    },
+    {
+      "edition": "第19回",
+      "year": "1977年",
+      "song": "勝手にしやがれ",
+      "artist": "沢田研二",
+      "lyricist": "阿久悠",
+      "composer": "大野克夫",
+      "arranger": "船山基紀",
+      "label": "ポリドール"
+    },
+    {
+      "edition": "第20回",
+      "year": "1978年",
+      "song": "UFO",
+      "artist": "ピンク・レディー",
+      "lyricist": "阿久悠",
+      "composer": "都倉俊一",
+      "arranger": "都倉俊一",
+      "label": "ビクター音楽産業"
+    },
+    {
+      "edition": "第21回",
+      "year": "1979年",
+      "song": "魅せられて",
+      "artist": "ジュディ・オング",
+      "lyricist": "阿木燿子",
+      "composer": "筒美京平",
+      "arranger": "筒美京平",
+      "label": "CBSソニー"
+    },
+    {
+      "edition": "第22回",
+      "year": "1980年",
+      "song": "雨の慕情",
+      "artist": "八代亜紀",
+      "lyricist": "阿久悠",
+      "composer": "浜圭介",
+      "arranger": "竜崎孝路",
+      "label": "テイチク"
+    },
+    {
+      "edition": "第23回",
+      "year": "1981年",
+      "song": "ルビーの指環",
+      "artist": "寺尾聰",
+      "lyricist": "松本隆",
+      "composer": "寺尾聰",
+      "arranger": "井上鑑",
+      "label": "東芝EMI"
+    },
+    {
+      "edition": "第24回",
+      "year": "1982年",
+      "song": "北酒場",
+      "artist": "細川たかし",
+      "lyricist": "なかにし礼",
+      "composer": "中村泰士",
+      "arranger": "馬飼野俊一",
+      "label": "日本コロムビア"
+    },
+    {
+      "edition": "第25回",
+      "year": "1983年",
+      "song": "矢切の渡し",
+      "artist": "細川たかし",
+      "lyricist": "石本美由起",
+      "composer": "船村徹",
+      "arranger": "薗広昭",
+      "label": "日本コロムビア"
+    },
+    {
+      "edition": "第26回",
+      "year": "1984年",
+      "song": "長良川艶歌",
+      "artist": "五木ひろし",
+      "lyricist": "石本美由起",
+      "composer": "岡千秋",
+      "arranger": "斉藤恒夫",
+      "label": "徳間ジャパン"
+    },
+    {
+      "edition": "第27回",
+      "year": "1985年",
+      "song": "ミ・アモーレ(Meu amor é…)",
+      "artist": "中森明菜",
+      "lyricist": "康珍化",
+      "composer": "松岡直也",
+      "arranger": "松岡直也",
+      "label": "ワーナーパイオニア"
+    },
+    {
+      "edition": "第28回",
+      "year": "1986年",
+      "song": "DESIRE -情熱-",
+      "artist": "中森明菜",
+      "lyricist": "阿木燿子",
+      "composer": "鈴木キサブロー",
+      "arranger": "椎名和夫",
+      "label": "ワーナーパイオニア"
+    },
+    {
+      "edition": "第29回",
+      "year": "1987年",
+      "song": "愚か者",
+      "artist": "近藤真彦",
+      "lyricist": "伊達歩",
+      "composer": "井上堯之",
+      "arranger": "戸塚修",
+      "label": "CBSソニー"
+    },
+    {
+      "edition": "第30回",
+      "year": "1988年",
+      "song": "パラダイス銀河",
+      "artist": "光GENJI",
+      "lyricist": "飛鳥涼",
+      "composer": "飛鳥涼",
+      "arranger": "佐藤準",
+      "label": "ポニーキャニオン"
+    },
+    {
+      "edition": "第31回",
+      "year": "1989年",
+      "song": "淋しい熱帯魚",
+      "artist": "Wink",
+      "lyricist": "及川眠子",
+      "composer": "尾関昌也",
+      "arranger": "船山基紀",
+      "label": "ポリスター"
+    },
+    {
+      "edition": "第32回",
+      "year": "1990年",
+      "song": "恋唄綴り",
+      "artist": "堀内孝雄",
+      "lyricist": "荒木とよひさ",
+      "composer": "堀内孝雄",
+      "arranger": "川村栄二",
+      "label": "ポリスター"
+    },
+    {
+      "edition": "第32回",
+      "year": "1990年",
+      "song": "おどるポンポコリン",
+      "artist": "B.B.クィーンズ",
+      "lyricist": "さくらももこ",
+      "composer": "織田哲郎",
+      "arranger": "織田哲郎",
+      "label": "BMGビクター"
+    },
+    {
+      "edition": "第33回",
+      "year": "1991年",
+      "song": "北の大地",
+      "artist": "北島三郎",
+      "lyricist": "星野哲郎",
+      "composer": "船村徹",
+      "arranger": "南郷達也",
+      "label": "日本クラウン"
+    },
+    {
+      "edition": "第33回",
+      "year": "1991年",
+      "song": "愛は勝つ",
+      "artist": "KAN",
+      "lyricist": "KAN",
+      "composer": "KAN",
+      "arranger": "KAN 小林信吾",
+      "label": "ポリドール"
+    },
+    {
+      "edition": "第34回",
+      "year": "1992年",
+      "song": "白い海峡",
+      "artist": "大月みやこ",
+      "lyricist": "池田充男",
+      "composer": "伊藤雪彦",
+      "arranger": "池多孝春",
+      "label": "キングレコード"
+    },
+    {
+      "edition": "第34回",
+      "year": "1992年",
+      "song": "君がいるだけで",
+      "artist": "米米CLUB",
+      "lyricist": "米米CLUB",
+      "composer": "米米CLUB",
+      "arranger": "米米CLUB 中村哲",
+      "label": "ソニー"
+    },
+    {
+      "edition": "第35回",
+      "year": "1993年",
+      "song": "無言坂",
+      "artist": "香西かおり",
+      "lyricist": "市川睦月",
+      "composer": "玉置浩二",
+      "arranger": "川村栄二",
+      "label": "ポリドール"
+    },
+    {
+      "edition": "第36回",
+      "year": "1994年",
+      "song": "innocent world",
+      "artist": "Mr.Children",
+      "lyricist": "桜井和寿",
+      "composer": "桜井和寿",
+      "arranger": "小林武史 Mr.Children",
+      "label": "トイズファクトリー"
+    },
+    {
+      "edition": "第37回",
+      "year": "1995年",
+      "song": "Overnight Sensation 〜時代はあなたに委ねてる〜",
+      "artist": "trf",
+      "lyricist": "小室哲哉",
+      "composer": "小室哲哉",
+      "arranger": "小室哲哉 久保こーじ",
+      "label": "エイベックス"
+    },
+    {
+      "edition": "第38回",
+      "year": "1996年",
+      "song": "Don't wanna cry",
+      "artist": "安室奈美恵",
+      "lyricist": "小室哲哉 前田たかひろ",
+      "composer": "小室哲哉",
+      "arranger": "小室哲哉",
+      "label": "エイベックス"
+    },
+    {
+      "edition": "第39回",
+      "year": "1997年",
+      "song": "CAN YOU CELEBRATE?",
+      "artist": "安室奈美恵",
+      "lyricist": "小室哲哉",
+      "composer": "小室哲哉",
+      "arranger": "小室哲哉",
+      "label": "エイベックス"
+    },
+    {
+      "edition": "第40回",
+      "year": "1998年",
+      "song": "wanna Be A Dreammaker",
+      "artist": "globe",
+      "lyricist": "MARC 小室哲哉",
+      "composer": "小室哲哉",
+      "arranger": "小室哲哉",
+      "label": "エイベックス"
+    },
+    {
+      "edition": "第41回",
+      "year": "1999年",
+      "song": "Winter,again",
+      "artist": "GLAY",
+      "lyricist": "TAKURO",
+      "composer": "TAKURO",
+      "arranger": "MASAHIDE SAKUMA GLAY",
+      "label": "アンリミテッド"
+    },
+    {
+      "edition": "第42回",
+      "year": "2000年",
+      "song": "TSUNAMI",
+      "artist": "サザンオールスターズ",
+      "lyricist": "桑田佳祐",
+      "composer": "桑田佳祐",
+      "arranger": "サザンオールスターズ 弦編曲：島健",
+      "label": "ビクターEnt"
+    },
+    {
+      "edition": "第43回",
+      "year": "2001年",
+      "song": "Dearest",
+      "artist": "浜崎あゆみ",
+      "lyricist": "浜崎あゆみ",
+      "composer": "CREA+D・A・I",
+      "arranger": "Naoto Suzuki",
+      "label": "エイベックス"
+    },
+    {
+      "edition": "第44回",
+      "year": "2002年",
+      "song": "Voyage",
+      "artist": "浜崎あゆみ",
+      "lyricist": "浜崎あゆみ",
+      "composer": "CREA+D・A・I",
+      "arranger": "島健",
+      "label": "エイベックス"
+    },
+    {
+      "edition": "第45回",
+      "year": "2003年",
+      "song": "No way to say",
+      "artist": "浜崎あゆみ",
+      "lyricist": "浜崎あゆみ",
+      "composer": "BOUNCEBACK",
+      "arranger": "HΛL",
+      "label": "エイベックス"
+    },
+    {
+      "edition": "第46回",
+      "year": "2004年",
+      "song": "Sign",
+      "artist": "Mr.Children",
+      "lyricist": "桜井和寿",
+      "composer": "桜井和寿",
+      "arranger": "小林武史 Mr.Children",
+      "label": "トイズファクトリー"
+    },
+    {
+      "edition": "第47回",
+      "year": "2005年",
+      "song": "Butterfly",
+      "artist": "倖田來未",
+      "lyricist": "倖田來未",
+      "composer": "渡辺未来",
+      "arranger": "渡辺未来",
+      "label": "エイベックス"
+    },
+    {
+      "edition": "第48回",
+      "year": "2006年",
+      "song": "一剣",
+      "artist": "氷川きよし",
+      "lyricist": "松井由利夫",
+      "composer": "水森英夫",
+      "arranger": "佐伯亮",
+      "label": "コロムビアMEnt"
+    },
+    {
+      "edition": "第49回",
+      "year": "2007年",
+      "song": "蕾",
+      "artist": "コブクロ",
+      "lyricist": "小渕健太郎",
+      "composer": "小渕健太郎",
+      "arranger": "コブクロ",
+      "label": "ワーナー"
+    },
+    {
+      "edition": "第50回",
+      "year": "2008年",
+      "song": "Ti Amo",
+      "artist": "EXILE",
+      "lyricist": "松尾潔",
+      "composer": "Jin Nakamura 松尾潔",
+      "arranger": "Jin Nakamura",
+      "label": "エイベックス"
+    },
+    {
+      "edition": "第51回",
+      "year": "2009年",
+      "song": "Someday",
+      "artist": "EXILE",
+      "lyricist": "ATSUSHI",
+      "composer": "miwa furuse",
+      "arranger": "h-wonder",
+      "label": "エイベックス"
+    },
+    {
+      "edition": "第52回",
+      "year": "2010年",
+      "song": "I Wish For You",
+      "artist": "EXILE",
+      "lyricist": "michico",
+      "composer": "T. Kura michico",
+      "arranger": "T. Kura",
+      "label": "エイベックス"
+    },
+    {
+      "edition": "第53回",
+      "year": "2011年",
+      "song": "フライングゲット",
+      "artist": "AKB48",
+      "lyricist": "秋元康",
+      "composer": "すみだしんや",
+      "arranger": "生田真心",
+      "label": "キングレコード"
+    },
+    {
+      "edition": "第54回",
+      "year": "2012年",
+      "song": "真夏のSounds good !",
+      "artist": "AKB48",
+      "lyricist": "秋元康",
+      "composer": "井上ヨシマサ",
+      "arranger": "井上ヨシマサ",
+      "label": "キングレコード"
+    },
+    {
+      "edition": "第55回",
+      "year": "2013年",
+      "song": "EXILE PRIDE 〜こんな世界を愛するため〜",
+      "artist": "EXILE",
+      "lyricist": "ATSUSHI",
+      "composer": "Sean “PHEKOO”",
+      "arranger": "POCHI",
+      "label": "エイベックス"
+    },
+    {
+      "edition": "第56回",
+      "year": "2014年",
+      "song": "R.Y.U.S.E.I.",
+      "artist": "三代目 J Soul Brothers from EXILE TRIBE",
+      "lyricist": "STY",
+      "composer": "STY Maozon",
+      "arranger": "STY Maozon",
+      "label": "エイベックス"
+    },
+    {
+      "edition": "第57回",
+      "year": "2015年",
+      "song": "Unfair World",
+      "artist": "三代目 J Soul Brothers from EXILE TRIBE",
+      "lyricist": "小竹正人",
+      "composer": "Mitsu.J",
+      "arranger": "Mitsu.J",
+      "label": "エイベックス"
+    },
+    {
+      "edition": "第58回",
+      "year": "2016年",
+      "song": "あなたの好きなところ",
+      "artist": "西野カナ",
+      "lyricist": "西野カナ",
+      "composer": "Carlos K. Yo-Hey",
+      "arranger": "Carlos K.",
+      "label": "ソニー"
+    },
+    {
+      "edition": "第59回",
+      "year": "2017年",
+      "song": "インフルエンサー",
+      "artist": "乃木坂46",
+      "lyricist": "秋元康",
+      "composer": "すみだしんや",
+      "arranger": "APAZZI",
+      "label": "ソニー"
+    },
+    {
+      "edition": "第60回",
+      "year": "2018年",
+      "song": "シンクロニシティ",
+      "artist": "乃木坂46",
+      "lyricist": "秋元康",
+      "composer": "シライシ紗トリ",
+      "arranger": "シライシ紗トリ",
+      "label": "ソニー"
+    },
+    {
+      "edition": "第61回",
+      "year": "2019年",
+      "song": "パプリカ",
+      "artist": "Foorin",
+      "lyricist": "米津玄師",
+      "composer": "米津玄師",
+      "arranger": "米津玄師",
+      "label": "ソニー"
+    },
+    {
+      "edition": "第62回",
+      "year": "2020年",
+      "song": "炎",
+      "artist": "LiSA",
+      "lyricist": "梶浦由記  LiSA",
+      "composer": "梶浦由記",
+      "arranger": "梶浦由記",
+      "label": "ソニー"
+    },
+    {
+      "edition": "第63回",
+      "year": "2021年",
+      "song": "CITRUS",
+      "artist": "Da-iCE",
+      "lyricist": "工藤大輝 花村想太",
+      "composer": "Kaz Kuwamura 中山翔吾",
+      "arranger": "中山翔吾 TomoLow",
+      "label": "エイベックス"
+    },
+    {
+      "edition": "第64回",
+      "year": "2022年",
+      "song": "Habit",
+      "artist": "SEKAI NO OWARI",
+      "lyricist": "Fukase",
+      "composer": "Nakajin",
+      "arranger": "SEKAI NO OWARI",
+      "label": "ユニバーサルミュージック"
+    },
+    {
+      "edition": "第65回",
+      "year": "2023年",
+      "song": "ケセラセラ",
+      "artist": "Mrs. GREEN APPLE",
+      "lyricist": "大森元貴",
+      "composer": "大森元貴",
+      "arranger": "花井諒・大森元貴",
+      "label": "ユニバーサルミュージック"
+    },
+    {
+      "edition": "第66回",
+      "year": "2024年",
+      "song": "ライラック",
+      "artist": "Mrs. GREEN APPLE",
+      "lyricist": "大森元貴",
+      "composer": "大森元貴",
+      "arranger": "久保田真悟(Jazzin'park)・大森元貴",
+      "label": "ユニバーサルミュージック"
+    },
+    {
+      "edition": "第67回",
+      "year": "2025年",
+      "song": "ダーリン",
+      "artist": "Mrs. GREEN APPLE",
+      "lyricist": "大森元貴",
+      "composer": "大森元貴",
+      "arranger": "伊藤賢・大森元貴",
+      "label": "ユニバーサルミュージック"
+    }
+  ],
+  "meta": {
+    "title": "日本レコード大賞 受賞作品一覧 (Japan Record Award winners) - Free Download",
+    "description": "日本レコード大賞の歴代大賞受賞曲の一覧。回・年・曲名・歌手名・作詞・作曲・編曲・レコード会社を収録。 Contains 70 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本レコード大賞 受賞作品一覧 (Japan Record Award winners) | ListBase",
+    "seo_description": "Download 日本レコード大賞 受賞作品一覧 (Japan Record Award winners) — 70 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 70 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E5%A4%A7%E8%B3%9E"
+    ]
+  }
+}
