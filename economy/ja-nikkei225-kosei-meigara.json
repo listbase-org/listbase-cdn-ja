@@ -1,0 +1,1402 @@
+{
+  "id": "ja-nikkei225-kosei-meigara",
+  "name": "日経平均株価 構成銘柄一覧 (Nikkei 225 constituents)",
+  "title": "日経平均株価 構成銘柄一覧 (Nikkei 225 constituents)",
+  "description": "日経平均株価（日経225）の構成銘柄の一覧。証券コード・銘柄名・業種・備考を収録。",
+  "category": "economy",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%E6%A0%AA%E4%BE%A1",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%E6%A0%AA%E4%BE%A1",
+  "updated": "2026-10",
+  "record_count": 226,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "company",
+      "label": "Company",
+      "type": "string"
+    },
+    {
+      "key": "sector",
+      "label": "Sector",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "1332",
+      "company": "ニッスイ",
+      "sector": "水産",
+      "notes": ""
+    },
+    {
+      "code": "1605",
+      "company": "INPEX",
+      "sector": "鉱業",
+      "notes": ""
+    },
+    {
+      "code": "1721",
+      "company": "コムシスホールディングス",
+      "sector": "建設",
+      "notes": ""
+    },
+    {
+      "code": "1801",
+      "company": "大成建設",
+      "sector": "建設",
+      "notes": ""
+    },
+    {
+      "code": "1802",
+      "company": "大林組",
+      "sector": "建設",
+      "notes": ""
+    },
+    {
+      "code": "1803",
+      "company": "清水建設",
+      "sector": "建設",
+      "notes": ""
+    },
+    {
+      "code": "1808",
+      "company": "長谷工コーポレーション",
+      "sector": "建設",
+      "notes": ""
+    },
+    {
+      "code": "1812",
+      "company": "鹿島建設",
+      "sector": "建設",
+      "notes": ""
+    },
+    {
+      "code": "1925",
+      "company": "大和ハウス工業",
+      "sector": "建設",
+      "notes": ""
+    },
+    {
+      "code": "1928",
+      "company": "積水ハウス",
+      "sector": "建設",
+      "notes": ""
+    },
+    {
+      "code": "1963",
+      "company": "日揮ホールディングス",
+      "sector": "建設",
+      "notes": ""
+    },
+    {
+      "code": "2002",
+      "company": "日清製粉グループ本社",
+      "sector": "食品",
+      "notes": ""
+    },
+    {
+      "code": "2269",
+      "company": "明治ホールディングス",
+      "sector": "食品",
+      "notes": ""
+    },
+    {
+      "code": "2282",
+      "company": "日本ハム",
+      "sector": "食品",
+      "notes": ""
+    },
+    {
+      "code": "2501",
+      "company": "サッポロホールディングス",
+      "sector": "食品",
+      "notes": ""
+    },
+    {
+      "code": "2502",
+      "company": "アサヒグループホールディングス",
+      "sector": "食品",
+      "notes": ""
+    },
+    {
+      "code": "2503",
+      "company": "キリンホールディングス",
+      "sector": "食品",
+      "notes": ""
+    },
+    {
+      "code": "2801",
+      "company": "キッコーマン",
+      "sector": "食品",
+      "notes": ""
+    },
+    {
+      "code": "2802",
+      "company": "味の素",
+      "sector": "食品",
+      "notes": ""
+    },
+    {
+      "code": "2871",
+      "company": "ニチレイ",
+      "sector": "食品",
+      "notes": ""
+    },
+    {
+      "code": "2914",
+      "company": "日本たばこ産業",
+      "sector": "食品",
+      "notes": ""
+    },
+    {
+      "code": "3401",
+      "company": "帝人",
+      "sector": "繊維",
+      "notes": ""
+    },
+    {
+      "code": "3402",
+      "company": "東レ",
+      "sector": "繊維",
+      "notes": ""
+    },
+    {
+      "code": "3861",
+      "company": "王子ホールディングス",
+      "sector": "パルプ・紙",
+      "notes": ""
+    },
+    {
+      "code": "3405",
+      "company": "クラレ",
+      "sector": "化学",
+      "notes": ""
+    },
+    {
+      "code": "3407",
+      "company": "旭化成",
+      "sector": "化学",
+      "notes": ""
+    },
+    {
+      "code": "4004",
+      "company": "レゾナック・ホールディングス",
+      "sector": "化学",
+      "notes": ""
+    },
+    {
+      "code": "4005",
+      "company": "住友化学",
+      "sector": "化学",
+      "notes": ""
+    },
+    {
+      "code": "4021",
+      "company": "日産化学",
+      "sector": "化学",
+      "notes": ""
+    },
+    {
+      "code": "4042",
+      "company": "東ソー",
+      "sector": "化学",
+      "notes": ""
+    },
+    {
+      "code": "4043",
+      "company": "トクヤマ",
+      "sector": "化学",
+      "notes": ""
+    },
+    {
+      "code": "4061",
+      "company": "デンカ",
+      "sector": "化学",
+      "notes": ""
+    },
+    {
+      "code": "4063",
+      "company": "信越化学工業",
+      "sector": "化学",
+      "notes": ""
+    },
+    {
+      "code": "4183",
+      "company": "三井化学",
+      "sector": "化学",
+      "notes": ""
+    },
+    {
+      "code": "4188",
+      "company": "三菱ケミカルグループ",
+      "sector": "化学",
+      "notes": ""
+    },
+    {
+      "code": "4208",
+      "company": "UBE",
+      "sector": "化学",
+      "notes": ""
+    },
+    {
+      "code": "4452",
+      "company": "花王",
+      "sector": "化学",
+      "notes": ""
+    },
+    {
+      "code": "4901",
+      "company": "富士フイルムホールディングス",
+      "sector": "化学",
+      "notes": ""
+    },
+    {
+      "code": "4911",
+      "company": "資生堂",
+      "sector": "化学",
+      "notes": ""
+    },
+    {
+      "code": "6988",
+      "company": "日東電工",
+      "sector": "化学",
+      "notes": ""
+    },
+    {
+      "code": "4151",
+      "company": "協和キリン",
+      "sector": "医薬品",
+      "notes": ""
+    },
+    {
+      "code": "4502",
+      "company": "武田薬品工業",
+      "sector": "医薬品",
+      "notes": ""
+    },
+    {
+      "code": "4503",
+      "company": "アステラス製薬",
+      "sector": "医薬品",
+      "notes": ""
+    },
+    {
+      "code": "4506",
+      "company": "住友ファーマ",
+      "sector": "医薬品",
+      "notes": ""
+    },
+    {
+      "code": "4507",
+      "company": "塩野義製薬",
+      "sector": "医薬品",
+      "notes": ""
+    },
+    {
+      "code": "4519",
+      "company": "中外製薬",
+      "sector": "医薬品",
+      "notes": ""
+    },
+    {
+      "code": "4523",
+      "company": "エーザイ",
+      "sector": "医薬品",
+      "notes": ""
+    },
+    {
+      "code": "4568",
+      "company": "第一三共",
+      "sector": "医薬品",
+      "notes": ""
+    },
+    {
+      "code": "4578",
+      "company": "大塚ホールディングス",
+      "sector": "医薬品",
+      "notes": ""
+    },
+    {
+      "code": "5019",
+      "company": "出光興産",
+      "sector": "石油",
+      "notes": ""
+    },
+    {
+      "code": "5020",
+      "company": "ENEOSホールディングス",
+      "sector": "石油",
+      "notes": ""
+    },
+    {
+      "code": "5101",
+      "company": "横浜ゴム",
+      "sector": "ゴム",
+      "notes": ""
+    },
+    {
+      "code": "5108",
+      "company": "ブリヂストン",
+      "sector": "ゴム",
+      "notes": ""
+    },
+    {
+      "code": "5201",
+      "company": "AGC",
+      "sector": "窯業",
+      "notes": ""
+    },
+    {
+      "code": "5214",
+      "company": "日本電気硝子",
+      "sector": "窯業",
+      "notes": ""
+    },
+    {
+      "code": "5233",
+      "company": "太平洋セメント",
+      "sector": "窯業",
+      "notes": ""
+    },
+    {
+      "code": "5301",
+      "company": "東海カーボン",
+      "sector": "窯業",
+      "notes": ""
+    },
+    {
+      "code": "5332",
+      "company": "TOTO",
+      "sector": "窯業",
+      "notes": ""
+    },
+    {
+      "code": "5333",
+      "company": "NGK",
+      "sector": "窯業",
+      "notes": ""
+    },
+    {
+      "code": "5401",
+      "company": "日本製鉄",
+      "sector": "鉄鋼",
+      "notes": ""
+    },
+    {
+      "code": "5406",
+      "company": "神戸製鋼所",
+      "sector": "鉄鋼",
+      "notes": ""
+    },
+    {
+      "code": "5411",
+      "company": "JFEホールディングス",
+      "sector": "鉄鋼",
+      "notes": ""
+    },
+    {
+      "code": "3436",
+      "company": "SUMCO",
+      "sector": "非鉄金属製品",
+      "notes": ""
+    },
+    {
+      "code": "5016",
+      "company": "JX金属",
+      "sector": "非鉄金属製品",
+      "notes": "2026年10月1日採用"
+    },
+    {
+      "code": "5706",
+      "company": "三井金属鉱業",
+      "sector": "非鉄金属製品",
+      "notes": ""
+    },
+    {
+      "code": "5711",
+      "company": "三菱マテリアル",
+      "sector": "非鉄金属製品",
+      "notes": ""
+    },
+    {
+      "code": "5713",
+      "company": "住友金属鉱山",
+      "sector": "非鉄金属製品",
+      "notes": ""
+    },
+    {
+      "code": "5714",
+      "company": "DOWAホールディングス",
+      "sector": "非鉄金属製品",
+      "notes": ""
+    },
+    {
+      "code": "5801",
+      "company": "古河電気工業",
+      "sector": "非鉄金属製品",
+      "notes": ""
+    },
+    {
+      "code": "5802",
+      "company": "住友電気工業",
+      "sector": "非鉄金属製品",
+      "notes": ""
+    },
+    {
+      "code": "5803",
+      "company": "フジクラ",
+      "sector": "非鉄金属製品",
+      "notes": ""
+    },
+    {
+      "code": "5631",
+      "company": "日本製鋼所",
+      "sector": "機械",
+      "notes": ""
+    },
+    {
+      "code": "6103",
+      "company": "オークマ",
+      "sector": "機械",
+      "notes": ""
+    },
+    {
+      "code": "6113",
+      "company": "アマダ",
+      "sector": "機械",
+      "notes": ""
+    },
+    {
+      "code": "6273",
+      "company": "SMC",
+      "sector": "機械",
+      "notes": ""
+    },
+    {
+      "code": "6301",
+      "company": "小松製作所",
+      "sector": "機械",
+      "notes": ""
+    },
+    {
+      "code": "6302",
+      "company": "住友重機械工業",
+      "sector": "機械",
+      "notes": ""
+    },
+    {
+      "code": "6305",
+      "company": "日立建機",
+      "sector": "機械",
+      "notes": ""
+    },
+    {
+      "code": "6326",
+      "company": "クボタ",
+      "sector": "機械",
+      "notes": ""
+    },
+    {
+      "code": "6361",
+      "company": "荏原製作所",
+      "sector": "機械",
+      "notes": ""
+    },
+    {
+      "code": "6367",
+      "company": "ダイキン工業",
+      "sector": "機械",
+      "notes": ""
+    },
+    {
+      "code": "6471",
+      "company": "日本精工",
+      "sector": "機械",
+      "notes": ""
+    },
+    {
+      "code": "6472",
+      "company": "NTN",
+      "sector": "機械",
+      "notes": ""
+    },
+    {
+      "code": "6473",
+      "company": "ジェイテクト",
+      "sector": "機械",
+      "notes": ""
+    },
+    {
+      "code": "7011",
+      "company": "三菱重工業",
+      "sector": "機械",
+      "notes": ""
+    },
+    {
+      "code": "7013",
+      "company": "IHI",
+      "sector": "機械",
+      "notes": ""
+    },
+    {
+      "code": "285A",
+      "company": "キオクシアホールディングス",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "4062",
+      "company": "イビデン",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "6479",
+      "company": "ミネベアミツミ",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "6501",
+      "company": "日立製作所",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "6503",
+      "company": "三菱電機",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "6504",
+      "company": "富士電機",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "6506",
+      "company": "安川電機",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "6525",
+      "company": "KOKUSAI ELECTRIC",
+      "sector": "電気機器",
+      "notes": "2026年10月1日採用"
+    },
+    {
+      "code": "6526",
+      "company": "ソシオネクスト",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "6645",
+      "company": "オムロン",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "6701",
+      "company": "日本電気",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "6702",
+      "company": "富士通",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "6723",
+      "company": "ルネサスエレクトロニクス",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "6724",
+      "company": "セイコーエプソン",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "6752",
+      "company": "パナソニックホールディングス",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "6753",
+      "company": "シャープ",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "6758",
+      "company": "ソニーグループ",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "6762",
+      "company": "TDK",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "6770",
+      "company": "アルプスアルパイン",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "6841",
+      "company": "横河電機",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "6857",
+      "company": "アドバンテスト",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "6861",
+      "company": "キーエンス",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "6902",
+      "company": "デンソー",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "6920",
+      "company": "レーザーテック",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "6954",
+      "company": "ファナック",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "6963",
+      "company": "ローム",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "6971",
+      "company": "京セラ",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "6976",
+      "company": "太陽誘電",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "6981",
+      "company": "村田製作所",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "7735",
+      "company": "SCREENホールディングス",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "7751",
+      "company": "キヤノン",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "7752",
+      "company": "リコー",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "8035",
+      "company": "東京エレクトロン",
+      "sector": "電気機器",
+      "notes": ""
+    },
+    {
+      "code": "7012",
+      "company": "川崎重工業",
+      "sector": "造船",
+      "notes": ""
+    },
+    {
+      "code": "7201",
+      "company": "日産自動車",
+      "sector": "自動車",
+      "notes": ""
+    },
+    {
+      "code": "7202",
+      "company": "いすゞ自動車",
+      "sector": "自動車",
+      "notes": ""
+    },
+    {
+      "code": "7203",
+      "company": "トヨタ自動車",
+      "sector": "自動車",
+      "notes": ""
+    },
+    {
+      "code": "7211",
+      "company": "三菱自動車工業",
+      "sector": "自動車",
+      "notes": ""
+    },
+    {
+      "code": "7261",
+      "company": "マツダ",
+      "sector": "自動車",
+      "notes": ""
+    },
+    {
+      "code": "7267",
+      "company": "本田技研工業",
+      "sector": "自動車",
+      "notes": ""
+    },
+    {
+      "code": "7269",
+      "company": "スズキ",
+      "sector": "自動車",
+      "notes": ""
+    },
+    {
+      "code": "7270",
+      "company": "SUBARU",
+      "sector": "自動車",
+      "notes": ""
+    },
+    {
+      "code": "7272",
+      "company": "ヤマハ発動機",
+      "sector": "自動車",
+      "notes": ""
+    },
+    {
+      "code": "4543",
+      "company": "テルモ",
+      "sector": "精密機器",
+      "notes": ""
+    },
+    {
+      "code": "6146",
+      "company": "ディスコ",
+      "sector": "精密機器",
+      "notes": ""
+    },
+    {
+      "code": "7731",
+      "company": "ニコン",
+      "sector": "精密機器",
+      "notes": ""
+    },
+    {
+      "code": "7733",
+      "company": "オリンパス",
+      "sector": "精密機器",
+      "notes": ""
+    },
+    {
+      "code": "7741",
+      "company": "HOYA",
+      "sector": "精密機器",
+      "notes": ""
+    },
+    {
+      "code": "7832",
+      "company": "バンダイナムコホールディングス",
+      "sector": "その他製造",
+      "notes": ""
+    },
+    {
+      "code": "7911",
+      "company": "TOPPANホールディングス",
+      "sector": "その他製造",
+      "notes": ""
+    },
+    {
+      "code": "7912",
+      "company": "大日本印刷",
+      "sector": "その他製造",
+      "notes": ""
+    },
+    {
+      "code": "7951",
+      "company": "ヤマハ",
+      "sector": "その他製造",
+      "notes": ""
+    },
+    {
+      "code": "2768",
+      "company": "双日",
+      "sector": "商社",
+      "notes": ""
+    },
+    {
+      "code": "8001",
+      "company": "伊藤忠商事",
+      "sector": "商社",
+      "notes": ""
+    },
+    {
+      "code": "8002",
+      "company": "丸紅",
+      "sector": "商社",
+      "notes": ""
+    },
+    {
+      "code": "8015",
+      "company": "豊田通商",
+      "sector": "商社",
+      "notes": ""
+    },
+    {
+      "code": "8031",
+      "company": "三井物産",
+      "sector": "商社",
+      "notes": ""
+    },
+    {
+      "code": "8053",
+      "company": "住友商事",
+      "sector": "商社",
+      "notes": ""
+    },
+    {
+      "code": "8058",
+      "company": "三菱商事",
+      "sector": "商社",
+      "notes": ""
+    },
+    {
+      "code": "3086",
+      "company": "J.フロント リテイリング",
+      "sector": "小売業",
+      "notes": ""
+    },
+    {
+      "code": "3092",
+      "company": "ZOZO",
+      "sector": "小売業",
+      "notes": ""
+    },
+    {
+      "code": "3099",
+      "company": "三越伊勢丹ホールディングス",
+      "sector": "小売業",
+      "notes": ""
+    },
+    {
+      "code": "3382",
+      "company": "セブン&アイ・ホールディングス",
+      "sector": "小売業",
+      "notes": ""
+    },
+    {
+      "code": "7453",
+      "company": "良品計画",
+      "sector": "小売業",
+      "notes": ""
+    },
+    {
+      "code": "7532",
+      "company": "パン・パシフィック・インターナショナルホールディングス",
+      "sector": "小売業",
+      "notes": ""
+    },
+    {
+      "code": "8233",
+      "company": "髙島屋",
+      "sector": "小売業",
+      "notes": ""
+    },
+    {
+      "code": "8252",
+      "company": "丸井グループ",
+      "sector": "小売業",
+      "notes": ""
+    },
+    {
+      "code": "8267",
+      "company": "イオン",
+      "sector": "小売業",
+      "notes": ""
+    },
+    {
+      "code": "9843",
+      "company": "ニトリホールディングス",
+      "sector": "小売業",
+      "notes": ""
+    },
+    {
+      "code": "9983",
+      "company": "ファーストリテイリング",
+      "sector": "小売業",
+      "notes": ""
+    },
+    {
+      "code": "5831",
+      "company": "しずおかフィナンシャルグループ",
+      "sector": "銀行",
+      "notes": ""
+    },
+    {
+      "code": "7186",
+      "company": "横浜フィナンシャルグループ",
+      "sector": "銀行",
+      "notes": ""
+    },
+    {
+      "code": "8304",
+      "company": "あおぞら銀行",
+      "sector": "銀行",
+      "notes": ""
+    },
+    {
+      "code": "8306",
+      "company": "三菱UFJフィナンシャル・グループ",
+      "sector": "銀行",
+      "notes": ""
+    },
+    {
+      "code": "8308",
+      "company": "りそなホールディングス",
+      "sector": "銀行",
+      "notes": ""
+    },
+    {
+      "code": "8309",
+      "company": "三井住友トラスト・ホールディングス",
+      "sector": "銀行",
+      "notes": ""
+    },
+    {
+      "code": "8316",
+      "company": "三井住友フィナンシャルグループ",
+      "sector": "銀行",
+      "notes": ""
+    },
+    {
+      "code": "8331",
+      "company": "千葉銀行",
+      "sector": "銀行",
+      "notes": ""
+    },
+    {
+      "code": "8354",
+      "company": "ふくおかフィナンシャルグループ",
+      "sector": "銀行",
+      "notes": ""
+    },
+    {
+      "code": "8411",
+      "company": "みずほフィナンシャルグループ",
+      "sector": "銀行",
+      "notes": ""
+    },
+    {
+      "code": "8601",
+      "company": "大和証券グループ本社",
+      "sector": "証券",
+      "notes": ""
+    },
+    {
+      "code": "8604",
+      "company": "野村ホールディングス",
+      "sector": "証券",
+      "notes": ""
+    },
+    {
+      "code": "8630",
+      "company": "SOMPOホールディングス",
+      "sector": "保険",
+      "notes": ""
+    },
+    {
+      "code": "8725",
+      "company": "MS&ADインシュアランスグループホールディングス",
+      "sector": "保険",
+      "notes": ""
+    },
+    {
+      "code": "8750",
+      "company": "第一ライフグループ",
+      "sector": "保険",
+      "notes": ""
+    },
+    {
+      "code": "8766",
+      "company": "東京海上ホールディングス",
+      "sector": "保険",
+      "notes": ""
+    },
+    {
+      "code": "8795",
+      "company": "T&Dホールディングス",
+      "sector": "保険",
+      "notes": ""
+    },
+    {
+      "code": "8253",
+      "company": "クレディセゾン",
+      "sector": "その他金融",
+      "notes": ""
+    },
+    {
+      "code": "8591",
+      "company": "オリックス",
+      "sector": "その他金融",
+      "notes": ""
+    },
+    {
+      "code": "8697",
+      "company": "日本取引所グループ",
+      "sector": "その他金融",
+      "notes": ""
+    },
+    {
+      "code": "3289",
+      "company": "東急不動産ホールディングス",
+      "sector": "不動産",
+      "notes": ""
+    },
+    {
+      "code": "8801",
+      "company": "三井不動産",
+      "sector": "不動産",
+      "notes": ""
+    },
+    {
+      "code": "8802",
+      "company": "三菱地所",
+      "sector": "不動産",
+      "notes": ""
+    },
+    {
+      "code": "8804",
+      "company": "東京建物",
+      "sector": "不動産",
+      "notes": ""
+    },
+    {
+      "code": "8830",
+      "company": "住友不動産",
+      "sector": "不動産",
+      "notes": ""
+    },
+    {
+      "code": "9001",
+      "company": "東武鉄道",
+      "sector": "鉄道・バス",
+      "notes": ""
+    },
+    {
+      "code": "9005",
+      "company": "東急",
+      "sector": "鉄道・バス",
+      "notes": ""
+    },
+    {
+      "code": "9007",
+      "company": "小田急電鉄",
+      "sector": "鉄道・バス",
+      "notes": ""
+    },
+    {
+      "code": "9008",
+      "company": "京王電鉄",
+      "sector": "鉄道・バス",
+      "notes": ""
+    },
+    {
+      "code": "9009",
+      "company": "京成電鉄",
+      "sector": "鉄道・バス",
+      "notes": ""
+    },
+    {
+      "code": "9020",
+      "company": "東日本旅客鉄道",
+      "sector": "鉄道・バス",
+      "notes": ""
+    },
+    {
+      "code": "9021",
+      "company": "西日本旅客鉄道",
+      "sector": "鉄道・バス",
+      "notes": ""
+    },
+    {
+      "code": "9022",
+      "company": "東海旅客鉄道",
+      "sector": "鉄道・バス",
+      "notes": ""
+    },
+    {
+      "code": "9064",
+      "company": "ヤマトホールディングス",
+      "sector": "陸運",
+      "notes": ""
+    },
+    {
+      "code": "9147",
+      "company": "NIPPON EXPRESSホールディングス",
+      "sector": "陸運",
+      "notes": ""
+    },
+    {
+      "code": "9101",
+      "company": "日本郵船",
+      "sector": "海運",
+      "notes": ""
+    },
+    {
+      "code": "9104",
+      "company": "商船三井",
+      "sector": "海運",
+      "notes": ""
+    },
+    {
+      "code": "9107",
+      "company": "川崎汽船",
+      "sector": "海運",
+      "notes": ""
+    },
+    {
+      "code": "9201",
+      "company": "日本航空",
+      "sector": "空運",
+      "notes": ""
+    },
+    {
+      "code": "9202",
+      "company": "ANAホールディングス",
+      "sector": "空運",
+      "notes": ""
+    },
+    {
+      "code": "2432",
+      "company": "ディー・エヌ・エー",
+      "sector": "情報・通信",
+      "notes": ""
+    },
+    {
+      "code": "3659",
+      "company": "ネクソン",
+      "sector": "情報・通信",
+      "notes": ""
+    },
+    {
+      "code": "3697",
+      "company": "SHIFT",
+      "sector": "情報・通信",
+      "notes": ""
+    },
+    {
+      "code": "4307",
+      "company": "野村総研",
+      "sector": "情報・通信",
+      "notes": ""
+    },
+    {
+      "code": "4385",
+      "company": "メルカリ",
+      "sector": "情報・通信",
+      "notes": ""
+    },
+    {
+      "code": "4689",
+      "company": "ラインヤフー",
+      "sector": "情報・通信",
+      "notes": ""
+    },
+    {
+      "code": "4704",
+      "company": "トレンド",
+      "sector": "情報・通信",
+      "notes": ""
+    },
+    {
+      "code": "7974",
+      "company": "任天堂",
+      "sector": "情報・通信",
+      "notes": ""
+    },
+    {
+      "code": "9432",
+      "company": "NTT",
+      "sector": "情報・通信",
+      "notes": ""
+    },
+    {
+      "code": "9433",
+      "company": "KDDI",
+      "sector": "情報・通信",
+      "notes": ""
+    },
+    {
+      "code": "9434",
+      "company": "ソフトバンク",
+      "sector": "情報・通信",
+      "notes": ""
+    },
+    {
+      "code": "9602",
+      "company": "東宝",
+      "sector": "情報・通信",
+      "notes": ""
+    },
+    {
+      "code": "9697",
+      "company": "カプコン",
+      "sector": "情報・通信",
+      "notes": "2026年10月1日採用"
+    },
+    {
+      "code": "9766",
+      "company": "コナミグループ",
+      "sector": "情報・通信",
+      "notes": ""
+    },
+    {
+      "code": "9984",
+      "company": "ソフトバンクグループ",
+      "sector": "情報・通信",
+      "notes": ""
+    },
+    {
+      "code": "9501",
+      "company": "東京電力ホールディングス",
+      "sector": "電力",
+      "notes": ""
+    },
+    {
+      "code": "9502",
+      "company": "中部電力",
+      "sector": "電力",
+      "notes": ""
+    },
+    {
+      "code": "9503",
+      "company": "関西電力",
+      "sector": "電力",
+      "notes": ""
+    },
+    {
+      "code": "9531",
+      "company": "東京ガス",
+      "sector": "ガス",
+      "notes": ""
+    },
+    {
+      "code": "9532",
+      "company": "大阪ガス",
+      "sector": "ガス",
+      "notes": ""
+    },
+    {
+      "code": "2413",
+      "company": "エムスリー",
+      "sector": "サービス",
+      "notes": ""
+    },
+    {
+      "code": "4324",
+      "company": "電通グループ",
+      "sector": "サービス",
+      "notes": ""
+    },
+    {
+      "code": "4661",
+      "company": "オリエンタルランド",
+      "sector": "サービス",
+      "notes": ""
+    },
+    {
+      "code": "4689",
+      "company": "LINEヤフー",
+      "sector": "サービス",
+      "notes": ""
+    },
+    {
+      "code": "4751",
+      "company": "サイバーエージェント",
+      "sector": "サービス",
+      "notes": ""
+    },
+    {
+      "code": "4755",
+      "company": "楽天",
+      "sector": "サービス",
+      "notes": ""
+    },
+    {
+      "code": "6098",
+      "company": "リクルートホールディングス",
+      "sector": "サービス",
+      "notes": ""
+    },
+    {
+      "code": "6178",
+      "company": "日本郵政",
+      "sector": "サービス",
+      "notes": ""
+    },
+    {
+      "code": "6532",
+      "company": "ベイカレント",
+      "sector": "サービス",
+      "notes": ""
+    },
+    {
+      "code": "9735",
+      "company": "セコム",
+      "sector": "サービス",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "日経平均株価 構成銘柄一覧 (Nikkei 225 constituents) - Free Download",
+    "description": "日経平均株価（日経225）の構成銘柄の一覧。証券コード・銘柄名・業種・備考を収録。 Contains 226 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日経平均株価 構成銘柄一覧 (Nikkei 225 constituents) | ListBase",
+    "seo_description": "Download 日経平均株価 構成銘柄一覧 (Nikkei 225 constituents) — 226 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 226 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%E6%A0%AA%E4%BE%A1"
+    ]
+  }
+}

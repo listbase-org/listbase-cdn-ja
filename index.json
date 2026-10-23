@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-23T02:13:11.559Z",
-  "total_datasets": 437,
-  "total_records": 428147,
+  "generated": "2026-10-23T02:13:15.667Z",
+  "total_datasets": 438,
+  "total_records": 428373,
   "categories": [
     {
       "id": "agriculture",
@@ -11,6 +11,10 @@
     {
       "id": "culture",
       "dataset_count": 2
+    },
+    {
+      "id": "economy",
+      "dataset_count": 1
     },
     {
       "id": "education",
@@ -168,6 +172,31 @@
         "xlsx": {
           "name": "ja-sekai-isan_JA.xlsx",
           "size": 15080
+        }
+      }
+    },
+    {
+      "id": "ja-nikkei225-kosei-meigara",
+      "name": "日経平均株価 構成銘柄一覧 (Nikkei 225 constituents)",
+      "category": "economy",
+      "record_count": 226,
+      "columns": [
+        "code",
+        "company",
+        "sector",
+        "notes"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%E6%A0%AA%E4%BE%A1",
+      "updated": "2026-10",
+      "size": 29400,
+      "files": {
+        "csv": {
+          "name": "ja-nikkei225-kosei-meigara_JA.csv",
+          "size": 10021
+        },
+        "xlsx": {
+          "name": "ja-nikkei225-kosei-meigara_JA.xlsx",
+          "size": 14042
         }
       }
     },
