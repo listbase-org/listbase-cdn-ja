@@ -1,0 +1,322 @@
+{
+  "id": "ja-nobel-sho-jushosha",
+  "name": "日本人のノーベル賞受賞者一覧 (Japanese Nobel laureates)",
+  "title": "日本人のノーベル賞受賞者一覧 (Japanese Nobel laureates)",
+  "description": "受賞時点で日本国籍のノーベル賞受賞者および日本の受賞団体の一覧。受賞年・部門・受賞者・貢献度・学歴・受賞理由を収録。",
+  "category": "science",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E8%B3%9E%E5%8F%97%E8%B3%9E%E8%80%85",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E8%B3%9E%E5%8F%97%E8%B3%9E%E8%80%85",
+  "updated": "2026-10",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "string"
+    },
+    {
+      "key": "prize",
+      "label": "Prize",
+      "type": "string"
+    },
+    {
+      "key": "laureate",
+      "label": "Laureate",
+      "type": "string"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "string"
+    },
+    {
+      "key": "education",
+      "label": "Education",
+      "type": "string"
+    },
+    {
+      "key": "achievement",
+      "label": "Achievement",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": "1949年",
+      "prize": "物理学賞",
+      "laureate": "湯川秀樹",
+      "share": "1/1",
+      "education": "京都帝国大学理学部卒、理学博士（大阪帝国大学）",
+      "achievement": "中間子の存在の予想。",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "1965年",
+      "prize": "物理学賞",
+      "laureate": "朝永振一郎",
+      "share": "1/3",
+      "education": "京都帝国大学理学部卒、理学博士（東京帝国大学）",
+      "achievement": "量子電気力学分野での基礎的研究。",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "1973年",
+      "prize": "物理学賞",
+      "laureate": "江崎玲於奈",
+      "share": "1/4",
+      "education": "東京帝国大学理学部卒、理学博士（東京大学）",
+      "achievement": "半導体におけるトンネル効果の実験的発見。",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "2002年",
+      "prize": "物理学賞",
+      "laureate": "小柴昌俊",
+      "share": "1/4",
+      "education": "東京大学理学部卒、ロチェスター大学大学博士課程修了 (Ph.D.)、理学博士（東京大学）",
+      "achievement": "天体物理学、特に宇宙ニュートリノの検出に対するパイオニア的貢献。",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "2008年",
+      "prize": "物理学賞",
+      "laureate": "小林誠",
+      "share": "1/4",
+      "education": "名古屋大学理学部卒、理学博士（名古屋大学）",
+      "achievement": "小林・益川理論とCP対称性の破れの起源の発見による素粒子物理学への貢献。",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "2008年",
+      "prize": "物理学賞",
+      "laureate": "益川敏英",
+      "share": "1/4",
+      "education": "名古屋大学理学部卒、理学博士（名古屋大学）",
+      "achievement": "小林・益川理論とCP対称性の破れの起源の発見による素粒子物理学への貢献。",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "2014年",
+      "prize": "物理学賞",
+      "laureate": "赤﨑勇",
+      "share": "1/3",
+      "education": "京都大学理学部卒、工学博士（名古屋大学）",
+      "achievement": "高輝度で省電力の白色光源を可能にした青色発光ダイオードの発明。",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "2014年",
+      "prize": "物理学賞",
+      "laureate": "天野浩",
+      "share": "1/3",
+      "education": "名古屋大学工学部卒、工学博士（名古屋大学）",
+      "achievement": "高輝度で省電力の白色光源を可能にした青色発光ダイオードの発明。",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "2015年",
+      "prize": "物理学賞",
+      "laureate": "梶田隆章",
+      "share": "1/2",
+      "education": "埼玉大学理学部卒、理学博士（東京大学）",
+      "achievement": "ニュートリノが質量を持つことを示すニュートリノ振動の発見",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "1981年",
+      "prize": "化学賞",
+      "laureate": "福井謙一",
+      "share": "1/2",
+      "education": "京都帝国大学工学部卒、工学博士（京都大学）",
+      "achievement": "化学反応過程の理論的研究。",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "2000年",
+      "prize": "化学賞",
+      "laureate": "白川英樹",
+      "share": "1/3",
+      "education": "東京工業大学理工学部卒、工学博士（東京工業大学）",
+      "achievement": "導電性高分子の発見と発展。",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "2001年",
+      "prize": "化学賞",
+      "laureate": "野依良治",
+      "share": "1/4",
+      "education": "京都大学工学部卒、工学博士（京都大学）",
+      "achievement": "キラル触媒による不斉反応の研究。",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "2002年",
+      "prize": "化学賞",
+      "laureate": "田中耕一",
+      "share": "1/4",
+      "education": "東北大学工学部卒、工学士（東北大学）",
+      "achievement": "生体高分子の同定および構造解析のための手法の開発。",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "2008年",
+      "prize": "化学賞",
+      "laureate": "下村脩",
+      "share": "1/3",
+      "education": "旧制長崎医科大学附属薬学専門部卒、理学博士（名古屋大学）",
+      "achievement": "緑色蛍光タンパク質 (GFP) の発見と生命科学への貢献。",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "2010年",
+      "prize": "化学賞",
+      "laureate": "根岸英一",
+      "share": "1/3",
+      "education": "東京大学工学部卒、ペンシルベニア大学博士課程修了 (Ph.D.)",
+      "achievement": "クロスカップリングの開発。",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "2010年",
+      "prize": "化学賞",
+      "laureate": "鈴木章",
+      "share": "1/3",
+      "education": "北海道大学理学部卒、理学博士（北海道大学）",
+      "achievement": "クロスカップリングの開発。",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "2019年",
+      "prize": "化学賞",
+      "laureate": "吉野彰",
+      "share": "1/3",
+      "education": "京都大学工学部卒、工学博士（大阪大学）",
+      "achievement": "リチウムイオン二次電池の開発。",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "2025年",
+      "prize": "化学賞",
+      "laureate": "北川進",
+      "share": "1/3",
+      "education": "京都大学工学部卒、工学博士（京都大学）",
+      "achievement": "金属有機構造体の開発",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "2026年",
+      "prize": "化学賞",
+      "laureate": "硤合憲三",
+      "share": "1/2",
+      "education": "東京大学理学部卒、理学博士（東京大学）",
+      "achievement": "不斉有機合成における非線形効果および自己触媒作用の発見",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "1987年",
+      "prize": "生理学・医学賞",
+      "laureate": "利根川進",
+      "share": "1/1",
+      "education": "京都大学理学部卒、カリフォルニア大学サンディエゴ校博士課程修了 (Ph.D.)",
+      "achievement": "多様な抗体を生成する遺伝的原理の解明。",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "2012年",
+      "prize": "生理学・医学賞",
+      "laureate": "山中伸弥",
+      "share": "1/2",
+      "education": "神戸大学医学部卒、大阪市立大学大学院医学研究科博士課程修了、博士（医学）（大阪市立大学）",
+      "achievement": "様々な細胞に成長できる能力を持つiPS細胞の作製。",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "2015年",
+      "prize": "生理学・医学賞",
+      "laureate": "大村智",
+      "share": "1/4",
+      "education": "山梨大学学芸学部卒、東京理科大学大学院理学研究科修士課程修了、薬学博士（東京大学）、理学博士（東京理科大学）",
+      "achievement": "線虫の寄生によって引き起こされる感染症に対する新たな治療法に関する発見。",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "2016年",
+      "prize": "生理学・医学賞",
+      "laureate": "大隅良典",
+      "share": "1/1",
+      "education": "東京大学教養学部卒、東京大学大学院理学系研究科博士課程単位取得満期退学、理学博士（東京大学）",
+      "achievement": "オートファジーの仕組みの解明。",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "2018年",
+      "prize": "生理学・医学賞",
+      "laureate": "本庶佑",
+      "share": "1/2",
+      "education": "京都大学医学部卒、医学博士（京都大学）",
+      "achievement": "免疫チェックポイント阻害因子の発見とがん治療への応用",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "2025年",
+      "prize": "生理学・医学賞",
+      "laureate": "坂口志文",
+      "share": "1/3",
+      "education": "京都大学医学部卒、医学博士（京都大学）",
+      "achievement": "末梢性免疫寛容に関する発見",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "1968年",
+      "prize": "文学賞",
+      "laureate": "川端康成",
+      "share": "1/1",
+      "education": "東京帝国大学文学部国文科卒、文学士（東京帝国大学）",
+      "achievement": "『伊豆の踊子』『雪国』など、日本人の心情の本質を描いた、非常に繊細な表現による叙述の卓越さに対して。",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "1994年",
+      "prize": "文学賞",
+      "laureate": "大江健三郎",
+      "share": "1/1",
+      "education": "東京大学文学部仏文科卒、文学士（東京大学）",
+      "achievement": "『個人的な体験』『万延元年のフットボール』など、詩趣に富む表現力を持ち、現実と虚構が一体となった世界を創作して、読者の心に揺さぶりをかけるように現代人の苦境を浮き彫りにした功績に対して。",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "1974年",
+      "prize": "平和賞",
+      "laureate": "佐藤栄作",
+      "share": "1/2",
+      "education": "東京帝国大学法学部卒、法学士（東京帝国大学）",
+      "achievement": "非核三原則の提唱。",
+      "group": "受賞時点で日本国籍の受賞者"
+    },
+    {
+      "year": "2024年",
+      "prize": "平和賞",
+      "laureate": "日本原水爆被害者団体協議会",
+      "share": "",
+      "education": "平和団体",
+      "achievement": "核兵器のない世界を実現するための努力と核兵器が2度と使用されてはならないことを証言によって示してきた。",
+      "group": "日本の受賞団体"
+    }
+  ],
+  "meta": {
+    "title": "日本人のノーベル賞受賞者一覧 (Japanese Nobel laureates) - Free Download",
+    "description": "受賞時点で日本国籍のノーベル賞受賞者および日本の受賞団体の一覧。受賞年・部門・受賞者・貢献度・学歴・受賞理由を収録。 Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本人のノーベル賞受賞者一覧 (Japanese Nobel laureates) | ListBase",
+    "seo_description": "Download 日本人のノーベル賞受賞者一覧 (Japanese Nobel laureates) — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E8%B3%9E%E5%8F%97%E8%B3%9E%E8%80%85"
+    ]
+  }
+}

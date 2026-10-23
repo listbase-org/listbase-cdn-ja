@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-23T02:13:15.667Z",
-  "total_datasets": 438,
-  "total_records": 428373,
+  "generated": "2026-10-23T02:13:19.595Z",
+  "total_datasets": 439,
+  "total_records": 428402,
   "categories": [
     {
       "id": "agriculture",
@@ -63,6 +63,10 @@
     {
       "id": "reference",
       "dataset_count": 183
+    },
+    {
+      "id": "science",
+      "dataset_count": 1
     },
     {
       "id": "sports",
@@ -12238,6 +12242,34 @@
         "xlsx": {
           "name": "ja-yokohama-swift-codo_JA.xlsx",
           "size": 6916
+        }
+      }
+    },
+    {
+      "id": "ja-nobel-sho-jushosha",
+      "name": "日本人のノーベル賞受賞者一覧 (Japanese Nobel laureates)",
+      "category": "science",
+      "record_count": 29,
+      "columns": [
+        "year",
+        "prize",
+        "laureate",
+        "share",
+        "education",
+        "achievement",
+        "group"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E8%B3%9E%E5%8F%97%E8%B3%9E%E8%80%85",
+      "updated": "2026-10",
+      "size": 13373,
+      "files": {
+        "csv": {
+          "name": "ja-nobel-sho-jushosha_JA.csv",
+          "size": 7149
+        },
+        "xlsx": {
+          "name": "ja-nobel-sho-jushosha_JA.xlsx",
+          "size": 9867
         }
       }
     },
