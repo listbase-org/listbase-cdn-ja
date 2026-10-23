@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-23T02:12:59.357Z",
-  "total_datasets": 434,
-  "total_records": 427635,
+  "generated": "2026-10-23T02:13:03.405Z",
+  "total_datasets": 435,
+  "total_records": 427977,
   "categories": [
     {
       "id": "agriculture",
@@ -31,6 +31,10 @@
     {
       "id": "geography",
       "dataset_count": 126
+    },
+    {
+      "id": "health",
+      "dataset_count": 1
     },
     {
       "id": "history",
@@ -4937,6 +4941,31 @@
         "xlsx": {
           "name": "ja-yamanashi-shikuchoson-kyoukai_JA.xlsx",
           "size": 52366
+        }
+      }
+    },
+    {
+      "id": "ja-shitei-nanbyo",
+      "name": "指定難病一覧 (Designated intractable diseases of Japan)",
+      "category": "health",
+      "record_count": 342,
+      "columns": [
+        "no",
+        "disease",
+        "designation_phase",
+        "notes"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E9%9B%A3%E7%97%85%E3%81%AE%E6%82%A3%E8%80%85%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%8C%BB%E7%99%82%E7%AD%89%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%95%E5%BE%8B",
+      "updated": "2026-10",
+      "size": 63393,
+      "files": {
+        "csv": {
+          "name": "ja-shitei-nanbyo_JA.csv",
+          "size": 32266
+        },
+        "xlsx": {
+          "name": "ja-shitei-nanbyo_JA.xlsx",
+          "size": 18472
         }
       }
     },

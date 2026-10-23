@@ -1,0 +1,2098 @@
+{
+  "id": "ja-shitei-nanbyo",
+  "name": "指定難病一覧 (Designated intractable diseases of Japan)",
+  "title": "指定難病一覧 (Designated intractable diseases of Japan)",
+  "description": "難病法に基づく指定難病（341疾病）の一覧。告示番号・病名・実施次・備考を収録。",
+  "category": "health",
+  "source": "https://ja.wikipedia.org/wiki/%E9%9B%A3%E7%97%85%E3%81%AE%E6%82%A3%E8%80%85%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%8C%BB%E7%99%82%E7%AD%89%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%95%E5%BE%8B",
+  "source_url": "https://ja.wikipedia.org/wiki/%E9%9B%A3%E7%97%85%E3%81%AE%E6%82%A3%E8%80%85%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%8C%BB%E7%99%82%E7%AD%89%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%95%E5%BE%8B",
+  "updated": "2026-10",
+  "record_count": 342,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "disease",
+      "label": "Disease",
+      "type": "string"
+    },
+    {
+      "key": "designation_phase",
+      "label": "Designation Phase",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "disease": "球脊髄性筋萎縮症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 2,
+      "disease": "筋萎縮性側索硬化症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 3,
+      "disease": "脊髄性筋萎縮症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 4,
+      "disease": "原発性側索硬化症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 5,
+      "disease": "進行性核上性麻痺",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 6,
+      "disease": "パーキンソン病",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 7,
+      "disease": "大脳皮質基底核変性症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 8,
+      "disease": "ハンチントン病",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 9,
+      "disease": "神経有棘赤血球症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 10,
+      "disease": "シャルコー・マリー・トゥース病",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 11,
+      "disease": "重症筋無力症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 12,
+      "disease": "先天性筋無力症候群",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 13,
+      "disease": "多発性硬化症／視神経脊髄炎",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 14,
+      "disease": "慢性炎症性脱髄性多発神経炎／多巣性運動ニューロパチー",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 15,
+      "disease": "封入体筋炎",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 16,
+      "disease": "クロウ・深瀬症候群",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 17,
+      "disease": "多系統萎縮症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 18,
+      "disease": "脊髄小脳変性症(多系統萎縮症を除く)",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 19,
+      "disease": "ライソゾーム病",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 20,
+      "disease": "副腎白質ジストロフィー",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 21,
+      "disease": "ミトコンドリア病",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 22,
+      "disease": "もやもや病",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 23,
+      "disease": "プリオン病",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 24,
+      "disease": "亜急性硬化性全脳炎",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 25,
+      "disease": "進行性多巣性白質脳症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 26,
+      "disease": "HTLV-1関連脊髄症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 27,
+      "disease": "特発性基底核石灰化症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 28,
+      "disease": "全身性アミロイドーシス",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 29,
+      "disease": "ウルリッヒ病",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 30,
+      "disease": "遠位型ミオパチー",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 31,
+      "disease": "ベスレムミオパチー",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 32,
+      "disease": "自己貪食空胞性ミオパチー",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 33,
+      "disease": "シュワルツ・ヤンペル症候群",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 34,
+      "disease": "神経線維腫症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 35,
+      "disease": "天疱瘡",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 36,
+      "disease": "表皮水疱症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 37,
+      "disease": "膿疱性乾癬（汎発型）",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 38,
+      "disease": "スティーヴンス・ジョンソン症候群",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 39,
+      "disease": "中毒性表皮壊死症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 40,
+      "disease": "高安動脈炎",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 41,
+      "disease": "巨細胞性動脈炎",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 42,
+      "disease": "結節性多発動脈炎",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 43,
+      "disease": "顕微鏡的多発血管炎",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 44,
+      "disease": "多発血管炎性肉芽腫症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 45,
+      "disease": "好酸球性多発血管炎性肉芽腫症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 46,
+      "disease": "悪性関節リウマチ",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 47,
+      "disease": "バージャー病",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 48,
+      "disease": "原発性抗リン脂質抗体症候群",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 49,
+      "disease": "全身性エリテマトーデス",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 50,
+      "disease": "皮膚筋炎／多発性筋炎",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 51,
+      "disease": "全身性強皮症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 52,
+      "disease": "混合性結合組織病",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 53,
+      "disease": "シェーグレン症候群",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 54,
+      "disease": "成人発症スチル病",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 55,
+      "disease": "再発性多発軟骨炎",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 56,
+      "disease": "ベーチェット病",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 57,
+      "disease": "特発性拡張型心筋症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 58,
+      "disease": "肥大型心筋症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 59,
+      "disease": "拘束型心筋症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 60,
+      "disease": "再生不良性貧血",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 61,
+      "disease": "自己免疫性溶血性貧血",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 62,
+      "disease": "発作性夜間ヘモグロビン尿症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 63,
+      "disease": "特発性血小板減少性紫斑病",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 64,
+      "disease": "血栓性血小板減少性紫斑病",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 65,
+      "disease": "原発性免疫不全症候群",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 66,
+      "disease": "IgA腎症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 67,
+      "disease": "多発性嚢胞腎",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 68,
+      "disease": "黄色靱帯骨化症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 69,
+      "disease": "後縦靱帯骨化症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 70,
+      "disease": "広範脊柱管狭窄症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 71,
+      "disease": "特発性大腿骨頭壊死症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 72,
+      "disease": "下垂体性ADH分泌異常症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 73,
+      "disease": "下垂体性TSH分泌亢進症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 74,
+      "disease": "下垂体性PRL分泌亢進症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 75,
+      "disease": "クッシング病",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 76,
+      "disease": "下垂体性ゴナドトロピン分泌亢進症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 77,
+      "disease": "下垂体性成長ホルモン分泌亢進症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 78,
+      "disease": "下垂体前葉機能低下症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 79,
+      "disease": "家族性高コレステロール血症 （ホモ接合体）",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 80,
+      "disease": "甲状腺ホルモン不応症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 81,
+      "disease": "先天性副腎皮質酵素欠損症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 82,
+      "disease": "先天性副腎低形成症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 83,
+      "disease": "アジソン病",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 84,
+      "disease": "サルコイドーシス",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 85,
+      "disease": "特発性間質性肺炎",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 86,
+      "disease": "肺動脈性肺高血圧症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 87,
+      "disease": "肺静脈閉塞症／肺毛細血管腫症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 88,
+      "disease": "慢性血栓塞栓性肺高血圧症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 89,
+      "disease": "リンパ脈管筋腫症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 90,
+      "disease": "網膜色素変性症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 91,
+      "disease": "バッド・キアリ症候群",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 92,
+      "disease": "特発性門脈圧亢進症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 93,
+      "disease": "原発性胆汁性胆管炎",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 94,
+      "disease": "原発性硬化性胆管炎",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 95,
+      "disease": "自己免疫性肝炎",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 96,
+      "disease": "クローン病",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 97,
+      "disease": "潰瘍性大腸炎",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": "特定疾患"
+    },
+    {
+      "no": 98,
+      "disease": "好酸球性消化管疾患",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 99,
+      "disease": "慢性特発性偽性腸閉塞症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 100,
+      "disease": "巨大膀胱短小結腸腸管蠕動不全症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 101,
+      "disease": "腸管神経節細胞僅少症",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 102,
+      "disease": "ルビンシュタイン・テイビ症候群",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 103,
+      "disease": "CFC症候群",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 104,
+      "disease": "コステロ症候群",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 105,
+      "disease": "チャージ症候群",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 106,
+      "disease": "クリオピリン関連周期熱症候群",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 107,
+      "disease": "全身型若年性特発性関節炎",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 108,
+      "disease": "TNF受容体関連周期性症候群",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 109,
+      "disease": "非典型溶血性尿毒症症候群",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 110,
+      "disease": "ブラウ症候群",
+      "designation_phase": "第1次実施分（平成27年1月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 111,
+      "disease": "先天性ミオパチー",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 112,
+      "disease": "マリネスコ・シェーグレン症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 113,
+      "disease": "筋ジストロフィー",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 114,
+      "disease": "非ジストロフィー性ミオトニー症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 115,
+      "disease": "遺伝性周期性四肢麻痺",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 116,
+      "disease": "アトピー性脊髄炎",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 117,
+      "disease": "脊髄空洞症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 118,
+      "disease": "脊髄髄膜瘤",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 119,
+      "disease": "アイザックス症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 120,
+      "disease": "遺伝性ジストニア",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 121,
+      "disease": "脳内鉄沈着神経変性症経",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 122,
+      "disease": "脳表ヘモジデリン沈着症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 123,
+      "disease": "HTRA1関連脳",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 124,
+      "disease": "皮質下梗塞と白質脳症を伴う常染色体優性脳動脈症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 125,
+      "disease": "神経軸索スフェロイド形成を伴う遺伝性びまん性白質脳症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 126,
+      "disease": "ペリー病",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 127,
+      "disease": "前頭側頭葉変性症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 128,
+      "disease": "ビッカースタッフ脳幹脳炎",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 129,
+      "disease": "けいれん重積型（二相性）急性脳症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 130,
+      "disease": "先天性無痛無汗症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 131,
+      "disease": "アレキサンダー病",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 132,
+      "disease": "先天性核上性球麻痺",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 133,
+      "disease": "メビウス症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 134,
+      "disease": "中隔視神経形成異常症／ドモルシア症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 135,
+      "disease": "アイカルディ症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 136,
+      "disease": "片側巨脳症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 137,
+      "disease": "限局性皮質異形成",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 138,
+      "disease": "神経細胞移動異常症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 139,
+      "disease": "先天性大脳白質形成不全症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 140,
+      "disease": "ドラベ症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 141,
+      "disease": "海馬硬化を伴う内側側頭葉てんかん",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 142,
+      "disease": "ミオクロニー欠神てんかん",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 143,
+      "disease": "ミオクロニー脱力発作を伴うてんかん",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 144,
+      "disease": "レノックス・ガストー症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 145,
+      "disease": "ウエスト症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 146,
+      "disease": "大田原症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 147,
+      "disease": "早期ミオクロニー脳症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 148,
+      "disease": "遊走性焦点発作を伴う乳児てんかん",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 149,
+      "disease": "片側痙攣・片麻痺・てんかん症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 150,
+      "disease": "環状20番染色体症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 151,
+      "disease": "ラスムッセン脳炎",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 152,
+      "disease": "PCDH19関連症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 153,
+      "disease": "難治頻回部分発作重積型急性脳炎",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 154,
+      "disease": "徐波睡眠期持続性棘徐波を示すてんかん性脳症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 155,
+      "disease": "ランドウ・クレフナー症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 156,
+      "disease": "レット症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 157,
+      "disease": "スタージ・ウェーバー症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 158,
+      "disease": "結節性硬化症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 159,
+      "disease": "色素性乾皮症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 160,
+      "disease": "先天性魚鱗癬",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 161,
+      "disease": "家族性良性慢性天疱瘡",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 162,
+      "disease": "類天疱瘡（後天性表皮水疱症を含む）",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 163,
+      "disease": "特発性後天性全身性無汗症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 164,
+      "disease": "眼皮膚白皮症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 165,
+      "disease": "肥厚性皮膚骨膜症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 166,
+      "disease": "弾性線維性仮性黄色腫",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 167,
+      "disease": "マルファン症候群／ロイス・ディーツ症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 168,
+      "disease": "エーラス・ダンロス症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 169,
+      "disease": "メンケス病",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 170,
+      "disease": "オクシピタル・ホーン症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 171,
+      "disease": "ウィルソン病",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 172,
+      "disease": "低ホスファターゼ症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 173,
+      "disease": "VATER症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 174,
+      "disease": "那須・ハコラ病",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 175,
+      "disease": "ウィーバー症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 176,
+      "disease": "コフィン・ローリー症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 177,
+      "disease": "ジュベール症候群関連疾患",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 178,
+      "disease": "モワット・ウィルソン症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 179,
+      "disease": "ウィリアムズ症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 180,
+      "disease": "ATR-X症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 181,
+      "disease": "クルーゾン症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 182,
+      "disease": "アペール症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 183,
+      "disease": "ファイファー症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 184,
+      "disease": "アントレー・ビクスラー症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 185,
+      "disease": "コフィン・シリス症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 186,
+      "disease": "ロスムンド・トムソン症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 187,
+      "disease": "歌舞伎症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 188,
+      "disease": "多脾症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 189,
+      "disease": "無脾症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 190,
+      "disease": "鰓耳腎症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 191,
+      "disease": "ウェルナー症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 192,
+      "disease": "コケイン症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 193,
+      "disease": "プラダー・ウィリ症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 194,
+      "disease": "ソトス症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 195,
+      "disease": "ヌーナン症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 196,
+      "disease": "ヤング・シンプソン症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 197,
+      "disease": "1p36欠失症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 198,
+      "disease": "4p欠失症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 199,
+      "disease": "5p欠失症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 200,
+      "disease": "第14番染色体父親性ダイソミー症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 201,
+      "disease": "アンジェルマン症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 202,
+      "disease": "スミス・マギニス症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 203,
+      "disease": "22q11.2欠失症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 204,
+      "disease": "エマヌエル症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 205,
+      "disease": "脆弱X症候群関連疾患",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 206,
+      "disease": "脆弱X症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 207,
+      "disease": "総動脈幹遺残症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 208,
+      "disease": "修正大血管転位症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 209,
+      "disease": "完全大血管転位症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 210,
+      "disease": "単心室症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 211,
+      "disease": "左心低形成症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 212,
+      "disease": "三尖弁閉鎖症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 213,
+      "disease": "心室中隔欠損を伴わない肺動脈閉鎖症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 214,
+      "disease": "心室中隔欠損を伴う肺動脈閉鎖症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 215,
+      "disease": "ファロー四徴症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 216,
+      "disease": "両大血管右室起始症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 217,
+      "disease": "エプスタイン病",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 218,
+      "disease": "アルポート症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 219,
+      "disease": "ギャロウェイ・モワト症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 220,
+      "disease": "急速進行性糸球体腎炎",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 221,
+      "disease": "抗糸球体基底膜腎炎",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 222,
+      "disease": "一次性ネフローゼ症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 223,
+      "disease": "一次性膜性増殖性糸球体腎炎",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 224,
+      "disease": "紫斑病性腎炎",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 225,
+      "disease": "先天性腎性尿崩症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 226,
+      "disease": "間質性膀胱炎（ハンナ型）",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 227,
+      "disease": "オスラー病",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 228,
+      "disease": "閉塞性細気管支炎",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 229,
+      "disease": "肺胞蛋白症（自己免疫性又は先天性）",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 230,
+      "disease": "肺胞低換気症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 231,
+      "disease": "α1－アンチトリプシン欠乏症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 232,
+      "disease": "カーニー複合",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 233,
+      "disease": "ウォルフラム症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 234,
+      "disease": "ペルオキシソーム病（副腎白質ジストロフィーを除く）",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 235,
+      "disease": "副甲状腺機能低下症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 236,
+      "disease": "偽性副甲状腺機能低下症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 237,
+      "disease": "副腎皮質刺激ホルモン不応症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 238,
+      "disease": "ビタミンD抵抗性くる病／骨軟化症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 239,
+      "disease": "ビタミンD依存性くる病／骨軟化症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 240,
+      "disease": "フェニルケトン尿症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 241,
+      "disease": "高チロシン血症1型",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 242,
+      "disease": "高チロシン血症2型",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 243,
+      "disease": "高チロシン血症3型",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 244,
+      "disease": "メープルシロップ尿症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 245,
+      "disease": "プロピオン酸血症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 246,
+      "disease": "メチルマロン酸血症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 247,
+      "disease": "イソ吉草酸血症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 248,
+      "disease": "グルコーストランスポーター1欠損症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 249,
+      "disease": "グルタル酸血症1型",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 250,
+      "disease": "グルタル酸血症2型",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 251,
+      "disease": "尿素サイクル異常症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 252,
+      "disease": "リジン尿性蛋白不耐症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 253,
+      "disease": "先天性葉酸吸収不全",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 254,
+      "disease": "ポルフィリン症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 255,
+      "disease": "複合カルボキシラーゼ欠損症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 256,
+      "disease": "筋型糖原病",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 257,
+      "disease": "肝型糖原病",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 258,
+      "disease": "ガラクトース－1－リン酸ウリジルトランスフェラーゼ欠損症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 259,
+      "disease": "レシチンコレステロールアシルトランスフェラーゼ欠損症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 260,
+      "disease": "シトステロール血症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 261,
+      "disease": "タンジール病",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 262,
+      "disease": "原発性高カイロミクロン血症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 263,
+      "disease": "脳腱黄色腫症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 264,
+      "disease": "無βリポタンパク血症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 265,
+      "disease": "脂肪萎縮症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 266,
+      "disease": "家族性地中海熱",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 267,
+      "disease": "高IgD症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 268,
+      "disease": "中條・西村症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 269,
+      "disease": "化膿性無菌性関節炎・壊疽性膿皮症・アクネ症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 270,
+      "disease": "慢性再発性多発性骨髄炎",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 271,
+      "disease": "強直性脊椎炎",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 272,
+      "disease": "進行性骨化性線維異形成症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 273,
+      "disease": "肋骨異常を伴う先天性側弯症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 274,
+      "disease": "骨形成不全症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 275,
+      "disease": "タナトフォリック骨異形成症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 276,
+      "disease": "軟骨無形成症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 277,
+      "disease": "リンパ管腫症／ゴーハム病",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 278,
+      "disease": "巨大リンパ管奇形（頚部顔面病変）",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 279,
+      "disease": "巨大静脈奇形（頚部口腔咽頭びまん性病変）",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 280,
+      "disease": "巨大動静脈奇形（頚部顔面又は四肢病変）",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 281,
+      "disease": "クリッペル・トレノネー・ウェーバー症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 282,
+      "disease": "先天性赤血球形成異常性貧血",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 283,
+      "disease": "後天性赤芽球癆",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 284,
+      "disease": "ダイアモンド・ブラックファン貧血",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 285,
+      "disease": "ファンコーニ貧血",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 286,
+      "disease": "遺伝性鉄芽球性貧血",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 287,
+      "disease": "エプスタイン症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 288,
+      "disease": "自己免疫性後天性凝固因子欠乏症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 289,
+      "disease": "クロンカイト・カナダ症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 290,
+      "disease": "非特異性多発性小腸潰瘍症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 291,
+      "disease": "ヒルシュスプルング病（全結腸型又は小腸型）",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 292,
+      "disease": "総排泄腔外反症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 293,
+      "disease": "総排泄腔遺残",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 294,
+      "disease": "先天性横隔膜ヘルニア",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 295,
+      "disease": "乳幼児肝巨大血管腫",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 296,
+      "disease": "胆道閉鎖症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 297,
+      "disease": "アラジール症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 298,
+      "disease": "遺伝性膵炎",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 299,
+      "disease": "嚢胞性線維症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 300,
+      "disease": "IgG4関連疾患",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 301,
+      "disease": "黄斑ジストロフィー",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 302,
+      "disease": "レーベル遺伝性視神経症",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 303,
+      "disease": "アッシャー症候群",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 304,
+      "disease": "若年発症型両側性感音難聴",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 305,
+      "disease": "遅発性内リンパ水腫",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 306,
+      "disease": "好酸球性副鼻腔炎",
+      "designation_phase": "第2次実施分（平成27年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 307,
+      "disease": "カナバン病",
+      "designation_phase": "第3次実施分（平成29年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 308,
+      "disease": "進行性白質脳症",
+      "designation_phase": "第3次実施分（平成29年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 309,
+      "disease": "進行性ミオクローヌスてんかん",
+      "designation_phase": "第3次実施分（平成29年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 310,
+      "disease": "先天異常症候群",
+      "designation_phase": "第3次実施分（平成29年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 311,
+      "disease": "先天性三尖弁狭窄症",
+      "designation_phase": "第3次実施分（平成29年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 312,
+      "disease": "先天性僧帽弁狭窄症",
+      "designation_phase": "第3次実施分（平成29年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 313,
+      "disease": "先天性肺静脈狭窄症",
+      "designation_phase": "第3次実施分（平成29年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 314,
+      "disease": "左肺動脈右肺動脈起始症",
+      "designation_phase": "第3次実施分（平成29年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 315,
+      "disease": "アイザックス症候群",
+      "designation_phase": "第3次実施分（平成29年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 316,
+      "disease": "ネイルパテラ症候群（爪膝蓋骨症候群）／LMX1B関連腎症",
+      "designation_phase": "第3次実施分（平成29年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 317,
+      "disease": "カルニチン回路異常症",
+      "designation_phase": "第3次実施分（平成29年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 318,
+      "disease": "三頭酵素欠損症",
+      "designation_phase": "第3次実施分（平成29年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 319,
+      "disease": "セピアプテリン還元酵素（SR）欠損症",
+      "designation_phase": "第3次実施分（平成29年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 320,
+      "disease": "先天性グリコシルホスファチジルイノシトール（GPI）欠損症",
+      "designation_phase": "第3次実施分（平成29年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 321,
+      "disease": "非ケトーシス型高グリシン血症",
+      "designation_phase": "第3次実施分（平成29年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 322,
+      "disease": "β－ケトチオラーゼ欠損症",
+      "designation_phase": "第3次実施分（平成29年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 323,
+      "disease": "芳香族L－アミノ酸脱炭酸酵素欠損症",
+      "designation_phase": "第3次実施分（平成29年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 324,
+      "disease": "メチルグルタコン酸尿症",
+      "designation_phase": "第3次実施分（平成29年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 325,
+      "disease": "遺伝性自己炎症疾患",
+      "designation_phase": "第3次実施分（平成29年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 326,
+      "disease": "大理石骨病",
+      "designation_phase": "第3次実施分（平成29年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 327,
+      "disease": "特発性血栓症病（遺伝性血栓性素因によるものに限る。）",
+      "designation_phase": "第3次実施分（平成29年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 328,
+      "disease": "前眼部形成異常",
+      "designation_phase": "第3次実施分（平成29年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 329,
+      "disease": "無虹彩症",
+      "designation_phase": "第3次実施分（平成29年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 330,
+      "disease": "先天性気管狭窄症／先天性声門下狭窄症",
+      "designation_phase": "第3次実施分（平成29年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 331,
+      "disease": "突発性多中心性キャッスルマン病",
+      "designation_phase": "第4次実施分（平成30年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 332,
+      "disease": "膠様滴状角膜ジストロフィー",
+      "designation_phase": "第5次実施分（令和元年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 333,
+      "disease": "ハッチンソン・ギルフォード症候群",
+      "designation_phase": "第5次実施分（令和元年7月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 288,
+      "disease": "自己免疫性後天性凝固因子欠乏症",
+      "designation_phase": "第6次実施分（令和3年11月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 334,
+      "disease": "脳クレアチン欠乏症候群",
+      "designation_phase": "第6次実施分（令和3年11月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 335,
+      "disease": "ネフロン癆",
+      "designation_phase": "第6次実施分（令和3年11月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 336,
+      "disease": "家族性低βリポタンパク血症1（ホモ接合体）",
+      "designation_phase": "第6次実施分（令和3年11月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 337,
+      "disease": "ホモシスチン尿症",
+      "designation_phase": "第6次実施分（令和3年11月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 338,
+      "disease": "進行性家族性肝内胆汁うっ滞症",
+      "designation_phase": "第6次実施分（令和3年11月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 339,
+      "disease": "MECP2重複症候群",
+      "designation_phase": "第7次実施分（令和6年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 340,
+      "disease": "線毛機能不全症候群（カルタゲナー症候群を含む。）",
+      "designation_phase": "第7次実施分（令和6年4月1日施行）",
+      "notes": ""
+    },
+    {
+      "no": 341,
+      "disease": "TRPV4異常症",
+      "designation_phase": "第7次実施分（令和6年4月1日施行）",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "指定難病一覧 (Designated intractable diseases of Japan) - Free Download",
+    "description": "難病法に基づく指定難病（341疾病）の一覧。告示番号・病名・実施次・備考を収録。 Contains 342 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "指定難病一覧 (Designated intractable diseases of Japan) | ListBase",
+    "seo_description": "Download 指定難病一覧 (Designated intractable diseases of Japan) — 342 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 342 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E9%9B%A3%E7%97%85%E3%81%AE%E6%82%A3%E8%80%85%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%8C%BB%E7%99%82%E7%AD%89%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%95%E5%BE%8B"
+    ]
+  }
+}
