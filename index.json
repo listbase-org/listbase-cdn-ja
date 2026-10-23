@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-23T02:13:19.595Z",
-  "total_datasets": 439,
-  "total_records": 428402,
+  "generated": "2026-10-23T02:13:23.588Z",
+  "total_datasets": 440,
+  "total_records": 428984,
   "categories": [
     {
       "id": "agriculture",
@@ -71,6 +71,10 @@
     {
       "id": "sports",
       "dataset_count": 5
+    },
+    {
+      "id": "tech",
+      "dataset_count": 1
     },
     {
       "id": "time",
@@ -12466,6 +12470,31 @@
         "xlsx": {
           "name": "ja-sakka-kurabu_JA.xlsx",
           "size": 10249
+        }
+      }
+    },
+    {
+      "id": "ja-shigai-kyokuban",
+      "name": "日本の市外局番一覧 (Japanese telephone area codes)",
+      "category": "tech",
+      "record_count": 582,
+      "columns": [
+        "area_code",
+        "ma_name",
+        "numbering_code",
+        "area"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B8%82%E5%A4%96%E5%B1%80%E7%95%AA",
+      "updated": "2026-10",
+      "size": 150382,
+      "files": {
+        "csv": {
+          "name": "ja-shigai-kyokuban_JA.csv",
+          "size": 96245
+        },
+        "xlsx": {
+          "name": "ja-shigai-kyokuban_JA.xlsx",
+          "size": 45572
         }
       }
     },
