@@ -1,0 +1,751 @@
+{
+  "id": "ja-meisui-hyakusen",
+  "name": "名水百選一覧 (Japan's 100 Exquisite Waters, 1985)",
+  "title": "名水百選一覧 (Japan's 100 Exquisite Waters, 1985)",
+  "description": "環境庁が1985年に選定した名水百選（昭和の名水百選）の一覧。名称・種類・所在地・特記事項を収録。",
+  "category": "environment",
+  "source": "https://ja.wikipedia.org/wiki/%E5%90%8D%E6%B0%B4%E7%99%BE%E9%81%B8",
+  "source_url": "https://ja.wikipedia.org/wiki/%E5%90%8D%E6%B0%B4%E7%99%BE%E9%81%B8",
+  "updated": "2026-10",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "name": "羊蹄のふきだし湧水",
+      "type": "湧水",
+      "location": "北海道虻田郡京極町",
+      "notes": "北海道遺産"
+    },
+    {
+      "no": 2,
+      "name": "甘露泉水",
+      "type": "湧水",
+      "location": "北海道利尻郡利尻富士町",
+      "notes": "利尻礼文サロベツ国立公園"
+    },
+    {
+      "no": 3,
+      "name": "ナイベツ川湧水",
+      "type": "湧水",
+      "location": "北海道千歳市蘭越",
+      "notes": ""
+    },
+    {
+      "no": 4,
+      "name": "富田の清水",
+      "type": "湧水",
+      "location": "青森県弘前市紙漉町",
+      "notes": ""
+    },
+    {
+      "no": 5,
+      "name": "渾神の清水",
+      "type": "湧水",
+      "location": "青森県平川市唐竹",
+      "notes": ""
+    },
+    {
+      "no": 6,
+      "name": "金沢清水",
+      "type": "湧水",
+      "location": "岩手県八幡平市松尾寄木",
+      "notes": ""
+    },
+    {
+      "no": 7,
+      "name": "龍泉洞地底湖の水",
+      "type": "湧水",
+      "location": "岩手県下閉伊郡岩泉町",
+      "notes": "国の天然記念物"
+    },
+    {
+      "no": 8,
+      "name": "桂葉清水",
+      "type": "湧水",
+      "location": "宮城県栗原市高清水桂葉",
+      "notes": ""
+    },
+    {
+      "no": 9,
+      "name": "広瀬川",
+      "type": "河川",
+      "location": "宮城県仙台市",
+      "notes": ""
+    },
+    {
+      "no": 10,
+      "name": "六郷湧水群",
+      "type": "湧水",
+      "location": "秋田県仙北郡美郷町",
+      "notes": "水の郷百選、水源の森百選、遊歩百選"
+    },
+    {
+      "no": 11,
+      "name": "力水",
+      "type": "湧水",
+      "location": "秋田県湯沢市古館山",
+      "notes": ""
+    },
+    {
+      "no": 12,
+      "name": "月山山麓湧水群",
+      "type": "湧水",
+      "location": "山形県西村山郡西川町",
+      "notes": "磐梯朝日国立公園"
+    },
+    {
+      "no": 13,
+      "name": "小見川",
+      "type": "湧水",
+      "location": "山形県東根市羽入",
+      "notes": ""
+    },
+    {
+      "no": 14,
+      "name": "磐梯西山麓湧水群",
+      "type": "湧水",
+      "location": "福島県耶麻郡磐梯町",
+      "notes": ""
+    },
+    {
+      "no": 15,
+      "name": "小野川湧水",
+      "type": "湧水",
+      "location": "福島県耶麻郡北塩原村",
+      "notes": "磐梯朝日国立公園"
+    },
+    {
+      "no": 16,
+      "name": "八溝川湧水群",
+      "type": "湧水",
+      "location": "茨城県久慈郡大子町",
+      "notes": "奥久慈県立自然公園"
+    },
+    {
+      "no": 17,
+      "name": "出流原弁天池湧水",
+      "type": "湧水",
+      "location": "栃木県佐野市出流原町",
+      "notes": ""
+    },
+    {
+      "no": 18,
+      "name": "尚仁沢湧水",
+      "type": "湧水",
+      "location": "栃木県塩谷郡塩谷町上寺島",
+      "notes": "日光国立公園"
+    },
+    {
+      "no": 19,
+      "name": "雄川堰",
+      "type": "用水",
+      "location": "群馬県甘楽郡甘楽町",
+      "notes": "疏水百選、土木学会選奨土木遺産"
+    },
+    {
+      "no": 20,
+      "name": "箱島湧水",
+      "type": "湧水",
+      "location": "群馬県吾妻郡東吾妻町箱島",
+      "notes": ""
+    },
+    {
+      "no": 21,
+      "name": "風布川・日本水",
+      "type": "湧水",
+      "location": "埼玉県大里郡寄居町",
+      "notes": "水の郷百選、水源の森百選"
+    },
+    {
+      "no": 22,
+      "name": "熊野の清水",
+      "type": "湧水",
+      "location": "千葉県長生郡長南町佐坪滝ノ上",
+      "notes": ""
+    },
+    {
+      "no": 23,
+      "name": "お鷹の道・真姿の池湧水群",
+      "type": "湧水",
+      "location": "東京都国分寺市西元町",
+      "notes": ""
+    },
+    {
+      "no": 24,
+      "name": "御岳渓谷",
+      "type": "河川",
+      "location": "東京都青梅市",
+      "notes": "秩父多摩甲斐国立公園"
+    },
+    {
+      "no": 25,
+      "name": "秦野盆地湧水群",
+      "type": "湧水",
+      "location": "神奈川県秦野市",
+      "notes": ""
+    },
+    {
+      "no": 26,
+      "name": "洒水の滝・滝沢川",
+      "type": "河川",
+      "location": "神奈川県足柄上郡山北町",
+      "notes": "日本の滝百選"
+    },
+    {
+      "no": 27,
+      "name": "竜ヶ窪の水",
+      "type": "湧水",
+      "location": "新潟県中魚沼郡津南町",
+      "notes": ""
+    },
+    {
+      "no": 28,
+      "name": "杜々森湧水",
+      "type": "湧水",
+      "location": "新潟県長岡市西中野俣",
+      "notes": ""
+    },
+    {
+      "no": 29,
+      "name": "黒部川扇状地湧水群",
+      "type": "湧水",
+      "location": "富山県黒部市、下新川郡入善町",
+      "notes": "水の郷百選"
+    },
+    {
+      "no": 30,
+      "name": "穴の谷の霊水",
+      "type": "湧水",
+      "location": "富山県中新川郡上市町",
+      "notes": ""
+    },
+    {
+      "no": 31,
+      "name": "立山玉殿の湧水",
+      "type": "湧水",
+      "location": "富山県中新川郡立山町",
+      "notes": "中部山岳国立公園"
+    },
+    {
+      "no": 32,
+      "name": "瓜裂の清水",
+      "type": "湧水",
+      "location": "富山県砺波市",
+      "notes": "水の郷百選"
+    },
+    {
+      "no": 33,
+      "name": "弘法池の水",
+      "type": "湧水",
+      "location": "石川県白山市釜清水町",
+      "notes": ""
+    },
+    {
+      "no": 34,
+      "name": "古和秀水",
+      "type": "湧水",
+      "location": "石川県輪島市門前町鬼屋",
+      "notes": ""
+    },
+    {
+      "no": 35,
+      "name": "御手洗池",
+      "type": "湧水",
+      "location": "石川県七尾市",
+      "notes": ""
+    },
+    {
+      "no": 36,
+      "name": "瓜割の滝",
+      "type": "湧水",
+      "location": "福井県三方上中郡若狭町",
+      "notes": "水の郷百選"
+    },
+    {
+      "no": 37,
+      "name": "御清水",
+      "type": "湧水",
+      "location": "福井県大野市泉町",
+      "notes": "奥越高原県立自然公園、水の郷百選"
+    },
+    {
+      "no": 38,
+      "name": "鵜の瀬",
+      "type": "河川",
+      "location": "福井県小浜市神宮寺",
+      "notes": ""
+    },
+    {
+      "no": 39,
+      "name": "忍野八海",
+      "type": "湧水",
+      "location": "山梨県南都留郡忍野村",
+      "notes": "国の天然記念物"
+    },
+    {
+      "no": 40,
+      "name": "八ヶ岳南麓高原湧水群",
+      "type": "湧水",
+      "location": "山梨県北杜市",
+      "notes": ""
+    },
+    {
+      "no": 41,
+      "name": "白州／尾白川",
+      "type": "河川",
+      "location": "山梨県北杜市",
+      "notes": "南アルプス国立公園"
+    },
+    {
+      "no": 42,
+      "name": "猿庫の泉",
+      "type": "湧水",
+      "location": "長野県飯田市羽場",
+      "notes": ""
+    },
+    {
+      "no": 43,
+      "name": "安曇野わさび田湧水群公園",
+      "type": "湧水",
+      "location": "長野県安曇野市",
+      "notes": "水の郷百選"
+    },
+    {
+      "no": 44,
+      "name": "姫川源流湧水",
+      "type": "湧水",
+      "location": "長野県北安曇郡白馬村",
+      "notes": ""
+    },
+    {
+      "no": 45,
+      "name": "宗祇水（白雲水）",
+      "type": "湧水",
+      "location": "岐阜県郡上市",
+      "notes": ""
+    },
+    {
+      "no": 46,
+      "name": "長良川（中流域）",
+      "type": "河川",
+      "location": "岐阜県美濃市、関市、岐阜市",
+      "notes": ""
+    },
+    {
+      "no": 47,
+      "name": "養老の滝・菊水泉",
+      "type": "湧水",
+      "location": "岐阜県養老郡養老町",
+      "notes": "養老公園"
+    },
+    {
+      "no": 48,
+      "name": "柿田川湧水群",
+      "type": "湧水",
+      "location": "静岡県駿東郡清水町",
+      "notes": ""
+    },
+    {
+      "no": 49,
+      "name": "木曽川（中流域）",
+      "type": "河川",
+      "location": "愛知県犬山市～可児川合流点",
+      "notes": ""
+    },
+    {
+      "no": 50,
+      "name": "智積養水",
+      "type": "用水",
+      "location": "三重県四日市市",
+      "notes": ""
+    },
+    {
+      "no": 51,
+      "name": "恵利原の水穴（天の岩戸）",
+      "type": "湧水",
+      "location": "三重県志摩市磯部町",
+      "notes": ""
+    },
+    {
+      "no": 52,
+      "name": "十王村の水",
+      "type": "湧水",
+      "location": "滋賀県彦根市西今町",
+      "notes": ""
+    },
+    {
+      "no": 53,
+      "name": "泉神社湧水",
+      "type": "湧水",
+      "location": "滋賀県米原市大清水",
+      "notes": ""
+    },
+    {
+      "no": 54,
+      "name": "伏見の御香水",
+      "type": "地下水",
+      "location": "京都府京都市伏見区",
+      "notes": ""
+    },
+    {
+      "no": 55,
+      "name": "磯清水",
+      "type": "地下水",
+      "location": "京都府宮津市文珠（天橋立）",
+      "notes": "日本三景、丹後天橋立大江山国定公園"
+    },
+    {
+      "no": 56,
+      "name": "離宮の水",
+      "type": "地下水",
+      "location": "大阪府三島郡島本町",
+      "notes": ""
+    },
+    {
+      "no": 57,
+      "name": "宮水",
+      "type": "地下水",
+      "location": "兵庫県西宮市",
+      "notes": ""
+    },
+    {
+      "no": 58,
+      "name": "布引渓流",
+      "type": "河川",
+      "location": "兵庫県神戸市中央区",
+      "notes": ""
+    },
+    {
+      "no": 59,
+      "name": "千種川",
+      "type": "河川",
+      "location": "兵庫県西部（宍粟市、佐用町、上郡町、赤穂市）",
+      "notes": ""
+    },
+    {
+      "no": 60,
+      "name": "洞川湧水群",
+      "type": "湧水",
+      "location": "奈良県吉野郡天川村",
+      "notes": "吉野熊野国立公園"
+    },
+    {
+      "no": 61,
+      "name": "野中の清水",
+      "type": "湧水",
+      "location": "和歌山県田辺市",
+      "notes": ""
+    },
+    {
+      "no": 62,
+      "name": "紀三井寺の三井水",
+      "type": "湧水",
+      "location": "和歌山県和歌山市",
+      "notes": ""
+    },
+    {
+      "no": 63,
+      "name": "天の真名井",
+      "type": "湧水",
+      "location": "鳥取県米子市",
+      "notes": ""
+    },
+    {
+      "no": 64,
+      "name": "天川の水",
+      "type": "湧水",
+      "location": "島根県隠岐郡海士町",
+      "notes": "大山隠岐国立公園"
+    },
+    {
+      "no": 65,
+      "name": "壇鏡の滝湧水",
+      "type": "湧水",
+      "location": "島根県隠岐郡隠岐の島町",
+      "notes": "大山隠岐国立公園"
+    },
+    {
+      "no": 66,
+      "name": "塩釜の冷泉",
+      "type": "湧水",
+      "location": "岡山県真庭市",
+      "notes": "大山隠岐国立公園"
+    },
+    {
+      "no": 67,
+      "name": "雄町の冷泉",
+      "type": "湧水",
+      "location": "岡山県岡山市中区",
+      "notes": ""
+    },
+    {
+      "no": 68,
+      "name": "岩井",
+      "type": "湧水",
+      "location": "岡山県苫田郡鏡野町",
+      "notes": "氷ノ山後山那岐山国定公園"
+    },
+    {
+      "no": 69,
+      "name": "太田川（中流域）",
+      "type": "河川",
+      "location": "広島県広島市",
+      "notes": ""
+    },
+    {
+      "no": 70,
+      "name": "今出川清水（出合清水）",
+      "type": "湧水",
+      "location": "広島県安芸郡府中町",
+      "notes": "2012年に、環境省推薦時に、120m離れた『今出川湧水』 との名称取り違えが明らかになった"
+    },
+    {
+      "no": 71,
+      "name": "別府弁天池湧水",
+      "type": "湧水",
+      "location": "山口県美祢市秋芳町",
+      "notes": "秋吉台国定公園"
+    },
+    {
+      "no": 72,
+      "name": "桜井戸",
+      "type": "湧水",
+      "location": "山口県岩国市",
+      "notes": ""
+    },
+    {
+      "no": 73,
+      "name": "寂地川",
+      "type": "河川",
+      "location": "山口県岩国市",
+      "notes": "西中国山地国定公園"
+    },
+    {
+      "no": 74,
+      "name": "江川の湧水",
+      "type": "湧水",
+      "location": "徳島県吉野川市",
+      "notes": ""
+    },
+    {
+      "no": 75,
+      "name": "剣山御神水",
+      "type": "湧水",
+      "location": "徳島県三好市",
+      "notes": "剣山国定公園、日本百名山"
+    },
+    {
+      "no": 76,
+      "name": "湯船の水",
+      "type": "湧水",
+      "location": "香川県小豆郡小豆島町",
+      "notes": "瀬戸内海国立公園"
+    },
+    {
+      "no": 77,
+      "name": "うちぬき",
+      "type": "自噴水",
+      "location": "愛媛県西条市",
+      "notes": ""
+    },
+    {
+      "no": 78,
+      "name": "杖の淵",
+      "type": "湧水",
+      "location": "愛媛県松山市",
+      "notes": ""
+    },
+    {
+      "no": 79,
+      "name": "観音水",
+      "type": "湧水",
+      "location": "愛媛県西予市",
+      "notes": ""
+    },
+    {
+      "no": 80,
+      "name": "四万十川",
+      "type": "河川",
+      "location": "高知県西部",
+      "notes": ""
+    },
+    {
+      "no": 81,
+      "name": "安徳水",
+      "type": "湧水",
+      "location": "高知県高岡郡越知町",
+      "notes": ""
+    },
+    {
+      "no": 82,
+      "name": "清水湧水",
+      "type": "湧水",
+      "location": "福岡県うきは市",
+      "notes": "水源の森百選"
+    },
+    {
+      "no": 83,
+      "name": "不老水",
+      "type": "地下水",
+      "location": "福岡県福岡市",
+      "notes": ""
+    },
+    {
+      "no": 84,
+      "name": "竜門の清水",
+      "type": "河川",
+      "location": "佐賀県西松浦郡有田町",
+      "notes": "黒髪山県立公園"
+    },
+    {
+      "no": 85,
+      "name": "清水川",
+      "type": "河川",
+      "location": "佐賀県小城市",
+      "notes": "天山県立公園"
+    },
+    {
+      "no": 86,
+      "name": "島原湧水群",
+      "type": "湧水",
+      "location": "長崎県島原市",
+      "notes": ""
+    },
+    {
+      "no": 87,
+      "name": "轟渓流",
+      "type": "河川",
+      "location": "長崎県諫早市",
+      "notes": "多良岳県立公園"
+    },
+    {
+      "no": 88,
+      "name": "轟水源",
+      "type": "湧水",
+      "location": "熊本県宇土市",
+      "notes": ""
+    },
+    {
+      "no": 89,
+      "name": "白川水源",
+      "type": "湧水",
+      "location": "熊本県阿蘇郡南阿蘇村",
+      "notes": "阿蘇くじゅう国立公園"
+    },
+    {
+      "no": 90,
+      "name": "菊池水源",
+      "type": "河川",
+      "location": "熊本県菊池市",
+      "notes": "阿蘇くじゅう国立公園"
+    },
+    {
+      "no": 91,
+      "name": "池山水源",
+      "type": "湧水",
+      "location": "熊本県阿蘇郡産山村",
+      "notes": "阿蘇くじゅう国立公園"
+    },
+    {
+      "no": 92,
+      "name": "男池湧水群",
+      "type": "湧水",
+      "location": "大分県由布市",
+      "notes": "阿蘇くじゅう国立公園"
+    },
+    {
+      "no": 93,
+      "name": "竹田湧水群",
+      "type": "湧水",
+      "location": "大分県竹田市",
+      "notes": ""
+    },
+    {
+      "no": 94,
+      "name": "白山川",
+      "type": "河川",
+      "location": "大分県豊後大野市（稲積水中鍾乳洞）",
+      "notes": "阿蘇くじゅう国立公園"
+    },
+    {
+      "no": 95,
+      "name": "出の山湧水",
+      "type": "湧水",
+      "location": "宮崎県小林市",
+      "notes": ""
+    },
+    {
+      "no": 96,
+      "name": "綾川湧水群",
+      "type": "河川",
+      "location": "宮崎県東諸県郡綾町",
+      "notes": ""
+    },
+    {
+      "no": 97,
+      "name": "屋久島宮之浦岳流水",
+      "type": "河川",
+      "location": "鹿児島県熊毛郡屋久島町",
+      "notes": "世界遺産、霧島屋久国立公園、日本百名山"
+    },
+    {
+      "no": 98,
+      "name": "霧島山麓丸池湧水",
+      "type": "湧水",
+      "location": "鹿児島県姶良郡湧水町",
+      "notes": ""
+    },
+    {
+      "no": 99,
+      "name": "清水の湧水",
+      "type": "湧水",
+      "location": "鹿児島県南九州市",
+      "notes": "疏水百選、水の郷百選"
+    },
+    {
+      "no": 100,
+      "name": "垣花樋川",
+      "type": "湧水",
+      "location": "沖縄県南城市",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "名水百選一覧 (Japan's 100 Exquisite Waters, 1985) - Free Download",
+    "description": "環境庁が1985年に選定した名水百選（昭和の名水百選）の一覧。名称・種類・所在地・特記事項を収録。 Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "名水百選一覧 (Japan's 100 Exquisite Waters, 1985) | ListBase",
+    "seo_description": "Download 名水百選一覧 (Japan's 100 Exquisite Waters, 1985) — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E5%90%8D%E6%B0%B4%E7%99%BE%E9%81%B8"
+    ]
+  }
+}

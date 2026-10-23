@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-23T02:13:39.113Z",
-  "total_datasets": 444,
-  "total_records": 430103,
+  "generated": "2026-10-23T02:13:42.968Z",
+  "total_datasets": 445,
+  "total_records": 430203,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "finance",
@@ -364,6 +364,32 @@
         "xlsx": {
           "name": "ja-hatsudensho_JA.xlsx",
           "size": 44522
+        }
+      }
+    },
+    {
+      "id": "ja-meisui-hyakusen",
+      "name": "名水百選一覧 (Japan's 100 Exquisite Waters, 1985)",
+      "category": "environment",
+      "record_count": 100,
+      "columns": [
+        "no",
+        "name",
+        "type",
+        "location",
+        "notes"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E5%90%8D%E6%B0%B4%E7%99%BE%E9%81%B8",
+      "updated": "2026-10",
+      "size": 18401,
+      "files": {
+        "csv": {
+          "name": "ja-meisui-hyakusen_JA.csv",
+          "size": 7834
+        },
+        "xlsx": {
+          "name": "ja-meisui-hyakusen_JA.xlsx",
+          "size": 12068
         }
       }
     },
