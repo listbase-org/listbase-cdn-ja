@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-23T02:13:31.394Z",
-  "total_datasets": 442,
-  "total_records": 429233,
+  "generated": "2026-10-23T02:13:35.299Z",
+  "total_datasets": 443,
+  "total_records": 430049,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "geography",
@@ -621,6 +621,35 @@
         "xlsx": {
           "name": "ja-yucho-bank-branches_JA.xlsx",
           "size": 11414
+        }
+      }
+    },
+    {
+      "id": "ja-kyodo-ryori",
+      "name": "日本の郷土料理一覧 (Japanese regional dishes)",
+      "category": "food",
+      "record_count": 816,
+      "columns": [
+        "name",
+        "alias",
+        "origin_period",
+        "area",
+        "description",
+        "notes",
+        "prefecture",
+        "region"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%83%B7%E5%9C%9F%E6%96%99%E7%90%86%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 236678,
+      "files": {
+        "csv": {
+          "name": "ja-kyodo-ryori_JA.csv",
+          "size": 105678
+        },
+        "xlsx": {
+          "name": "ja-kyodo-ryori_JA.xlsx",
+          "size": 59121
         }
       }
     },
