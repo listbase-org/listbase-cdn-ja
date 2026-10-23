@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-23T02:13:50.941Z",
-  "total_datasets": 447,
-  "total_records": 430627,
+  "generated": "2026-10-23T02:13:55.183Z",
+  "total_datasets": 448,
+  "total_records": 433072,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "music",
@@ -5286,6 +5286,37 @@
         "xlsx": {
           "name": "ja-horitsu-ichiran_JA.xlsx",
           "size": 233024
+        }
+      }
+    },
+    {
+      "id": "ja-seirei-ichiran",
+      "name": "日本の政令一覧（e-Gov法令検索）(List of Japanese Cabinet Orders)",
+      "category": "law",
+      "record_count": 2445,
+      "columns": [
+        "law_id",
+        "law_num",
+        "title",
+        "title_kana",
+        "abbrev",
+        "category",
+        "promulgation_date",
+        "last_amendment_enforcement_date",
+        "repeal_status",
+        "url"
+      ],
+      "source": "https://laws.e-gov.go.jp/api/2/laws?law_type=CabinetOrder",
+      "updated": "2026-10",
+      "size": 1569273,
+      "files": {
+        "csv": {
+          "name": "ja-seirei-ichiran_JA.csv",
+          "size": 1009463
+        },
+        "xlsx": {
+          "name": "ja-seirei-ichiran_JA.xlsx",
+          "size": 277893
         }
       }
     },
