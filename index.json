@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-23T02:13:35.299Z",
-  "total_datasets": 443,
-  "total_records": 430049,
+  "generated": "2026-10-23T02:13:39.113Z",
+  "total_datasets": 444,
+  "total_records": 430103,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "finance",
@@ -364,6 +364,37 @@
         "xlsx": {
           "name": "ja-hatsudensho_JA.xlsx",
           "size": 44522
+        }
+      }
+    },
+    {
+      "id": "ja-ramsar-joyaku-torokuchi",
+      "name": "日本のラムサール条約登録地一覧 (Ramsar sites in Japan)",
+      "category": "environment",
+      "record_count": 54,
+      "columns": [
+        "site_no",
+        "name",
+        "location",
+        "latitude",
+        "longitude",
+        "area_ha",
+        "designation_date",
+        "wetland_type",
+        "description",
+        "other_designations"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%A9%E3%83%A0%E3%82%B5%E3%83%BC%E3%83%AB%E6%9D%A1%E7%B4%84%E7%99%BB%E9%8C%B2%E5%9C%B0%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 68240,
+      "files": {
+        "csv": {
+          "name": "ja-ramsar-joyaku-torokuchi_JA.csv",
+          "size": 54071
+        },
+        "xlsx": {
+          "name": "ja-ramsar-joyaku-torokuchi_JA.xlsx",
+          "size": 27786
         }
       }
     },
