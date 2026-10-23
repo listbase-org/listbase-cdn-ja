@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-23T02:13:47.165Z",
-  "total_datasets": 446,
-  "total_records": 430511,
+  "generated": "2026-10-23T02:13:50.941Z",
+  "total_datasets": 447,
+  "total_records": 430627,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "language",
@@ -5193,6 +5193,38 @@
         "xlsx": {
           "name": "ja-gengo-ichiran_JA.xlsx",
           "size": 24806
+        }
+      }
+    },
+    {
+      "id": "ja-naikaku-sori-daijin",
+      "name": "歴代内閣総理大臣一覧 (List of Prime Ministers of Japan)",
+      "category": "history",
+      "record_count": 116,
+      "columns": [
+        "cabinet_seq",
+        "pm_number",
+        "prime_minister",
+        "reading",
+        "life",
+        "cabinet",
+        "term",
+        "days",
+        "total_days",
+        "notes",
+        "emperor"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E5%86%85%E9%96%A3%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3%E3%81%AE%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 57126,
+      "files": {
+        "csv": {
+          "name": "ja-naikaku-sori-daijin_JA.csv",
+          "size": 29672
+        },
+        "xlsx": {
+          "name": "ja-naikaku-sori-daijin_JA.xlsx",
+          "size": 19789
         }
       }
     },
