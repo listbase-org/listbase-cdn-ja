@@ -1,0 +1,3146 @@
+{
+  "id": "ja-million-seller-game",
+  "name": "日本のミリオンセラーゲームソフト一覧 (Million-selling video games in Japan)",
+  "title": "日本のミリオンセラーゲームソフト一覧 (Million-selling video games in Japan)",
+  "description": "日本国内で100万本以上を出荷・販売したゲームソフトの一覧。タイトル・メーカー・発売年・ジャンル・ハード・出荷本数・販売本数を収録。",
+  "category": "entertainment",
+  "source": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3%E3%82%BB%E3%83%A9%E3%83%BC%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BD%E3%83%95%E3%83%88%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3%E3%82%BB%E3%83%A9%E3%83%BC%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BD%E3%83%95%E3%83%88%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 308,
+  "columns": [
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    },
+    {
+      "key": "publisher",
+      "label": "Publisher",
+      "type": "string"
+    },
+    {
+      "key": "release_year",
+      "label": "Release Year",
+      "type": "string"
+    },
+    {
+      "key": "genre",
+      "label": "Genre",
+      "type": "string"
+    },
+    {
+      "key": "platform",
+      "label": "Platform",
+      "type": "string"
+    },
+    {
+      "key": "shipments",
+      "label": "Shipments",
+      "type": "string"
+    },
+    {
+      "key": "sales",
+      "label": "Sales",
+      "type": "string"
+    },
+    {
+      "key": "source_note",
+      "label": "Source Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "title": "あつまれ どうぶつの森",
+      "publisher": "任天堂",
+      "release_year": "2020年",
+      "genre": "コミュニケーション",
+      "platform": "Nintendo Switch",
+      "shipments": "1191万本",
+      "sales": "",
+      "source_note": "(DM)"
+    },
+    {
+      "title": "マリオカート8 デラックス",
+      "publisher": "任天堂",
+      "release_year": "2017年",
+      "genre": "レース",
+      "platform": "Nintendo Switch",
+      "shipments": "903万本",
+      "sales": "",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "ポケットモンスター スカーレット・バイオレット",
+      "publisher": "ポケモン",
+      "release_year": "2022年",
+      "genre": "RPG",
+      "platform": "Nintendo Switch",
+      "shipments": "866万本",
+      "sales": "",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "ポケットモンスター 赤・緑",
+      "publisher": "任天堂",
+      "release_year": "1996年",
+      "genre": "RPG",
+      "platform": "ゲームボーイ",
+      "shipments": "822万本",
+      "sales": "",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "大乱闘スマッシュブラザーズ SPECIAL",
+      "publisher": "任天堂",
+      "release_year": "2018年",
+      "genre": "アクション",
+      "platform": "Nintendo Switch",
+      "shipments": "807万本",
+      "sales": "",
+      "source_note": "(SB)"
+    },
+    {
+      "title": "ポケットモンスター 金・銀",
+      "publisher": "任天堂",
+      "release_year": "1999年",
+      "genre": "RPG",
+      "platform": "ゲームボーイ・カラー共通",
+      "shipments": "730万本",
+      "sales": "728万本",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "スプラトゥーン3",
+      "publisher": "任天堂",
+      "release_year": "2022年",
+      "genre": "アクションシューティング",
+      "platform": "Nintendo Switch",
+      "shipments": "709万本",
+      "sales": "",
+      "source_note": "(SP)"
+    },
+    {
+      "title": "スーパーマリオブラザーズ",
+      "publisher": "任天堂",
+      "release_year": "1985年",
+      "genre": "アクション",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "681万本",
+      "sales": "",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "New スーパーマリオブラザーズ",
+      "publisher": "任天堂",
+      "release_year": "2006年",
+      "genre": "アクション",
+      "platform": "ニンテンドーDS",
+      "shipments": "649万本",
+      "sales": "642万本",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "とびだせ どうぶつの森",
+      "publisher": "任天堂",
+      "release_year": "2012年",
+      "genre": "その他",
+      "platform": "ニンテンドー3DS",
+      "shipments": "595万本",
+      "sales": "511万本",
+      "source_note": "(DM)"
+    },
+    {
+      "title": "ポケットモンスター ダイヤモンド・パール",
+      "publisher": "ポケモン",
+      "release_year": "2006年",
+      "genre": "RPG",
+      "platform": "ニンテンドーDS",
+      "shipments": "585万本",
+      "sales": "582万本",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "ポケットモンスター ソード・シールド",
+      "publisher": "ポケモン",
+      "release_year": "2019年",
+      "genre": "RPG",
+      "platform": "Nintendo Switch",
+      "shipments": "564万本",
+      "sales": "",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "ポケットモンスター ブラック・ホワイト",
+      "publisher": "ポケモン",
+      "release_year": "2010年",
+      "genre": "RPG",
+      "platform": "ニンテンドーDS",
+      "shipments": "554万本",
+      "sales": "548万本",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "ポケットモンスター ルビー・サファイア",
+      "publisher": "ポケモン",
+      "release_year": "2002年",
+      "genre": "RPG",
+      "platform": "ゲームボーイアドバンス",
+      "shipments": "544万本",
+      "sales": "533万本",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "おいでよ どうぶつの森",
+      "publisher": "任天堂",
+      "release_year": "2005年",
+      "genre": "その他",
+      "platform": "ニンテンドーDS",
+      "shipments": "535万本",
+      "sales": "523万本",
+      "source_note": "(DM)"
+    },
+    {
+      "title": "スプラトゥーン2",
+      "publisher": "任天堂",
+      "release_year": "2017年",
+      "genre": "アクションシューティング",
+      "platform": "Nintendo Switch",
+      "shipments": "526万本",
+      "sales": "",
+      "source_note": "(SP)"
+    },
+    {
+      "title": "もっと脳を鍛える大人のDSトレーニング",
+      "publisher": "任天堂",
+      "release_year": "2005年",
+      "genre": "その他",
+      "platform": "ニンテンドーDS",
+      "shipments": "519万本",
+      "sales": "510万本",
+      "source_note": "(TG)"
+    },
+    {
+      "title": "モンスターハンター ポータブル 3rd",
+      "publisher": "カプコン",
+      "release_year": "2010年",
+      "genre": "アクション",
+      "platform": "PlayStation Portable",
+      "shipments": "480万本",
+      "sales": "480万本",
+      "source_note": "(MH)"
+    },
+    {
+      "title": "New スーパーマリオブラザーズ Wii",
+      "publisher": "任天堂",
+      "release_year": "2009年",
+      "genre": "アクション",
+      "platform": "Wii",
+      "shipments": "467万本",
+      "sales": "456万本",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "ポケットモンスター X・Y",
+      "publisher": "ポケモン",
+      "release_year": "2013年",
+      "genre": "RPG",
+      "platform": "ニンテンドー3DS",
+      "shipments": "457万本",
+      "sales": "448万本",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "ドラゴンクエストIX 星空の守り人",
+      "publisher": "スクウェア・エニックス",
+      "release_year": "2009年",
+      "genre": "RPG",
+      "platform": "ニンテンドーDS",
+      "shipments": "440万本",
+      "sales": "430万本",
+      "source_note": "(DQ)"
+    },
+    {
+      "title": "Pokémon LEGENDS Z-A",
+      "publisher": "ポケモン",
+      "release_year": "2025年",
+      "genre": "アクションRPG",
+      "platform": "Nintendo Switch・Nintendo Switch 2",
+      "shipments": "435万本",
+      "sales": "",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "Minecraft",
+      "publisher": "日本マイクロソフト",
+      "release_year": "2018年",
+      "genre": "オープンワールド",
+      "platform": "Nintendo Switch",
+      "shipments": "",
+      "sales": "427万本",
+      "source_note": ""
+    },
+    {
+      "title": "テトリス",
+      "publisher": "任天堂",
+      "release_year": "1989年",
+      "genre": "パズル",
+      "platform": "ゲームボーイ",
+      "shipments": "424万本",
+      "sales": "",
+      "source_note": "(TE)"
+    },
+    {
+      "title": "スーパーマリオランド",
+      "publisher": "任天堂",
+      "release_year": "1989年",
+      "genre": "アクション",
+      "platform": "ゲームボーイ",
+      "shipments": "419万本",
+      "sales": "",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "モンスターハンター ポータブル 2nd G",
+      "publisher": "カプコン",
+      "release_year": "2008年",
+      "genre": "アクション",
+      "platform": "PlayStation Portable",
+      "shipments": "",
+      "sales": "418万本",
+      "source_note": "(MH)"
+    },
+    {
+      "title": "ドラゴンクエストVII エデンの戦士たち",
+      "publisher": "エニックス",
+      "release_year": "2000年",
+      "genre": "RPG",
+      "platform": "PlayStation",
+      "shipments": "417万本",
+      "sales": "406万本",
+      "source_note": "(DQ)"
+    },
+    {
+      "title": "リングフィット アドベンチャー",
+      "publisher": "任天堂",
+      "release_year": "2019年",
+      "genre": "フィットネスアドベンチャー",
+      "platform": "Nintendo Switch",
+      "shipments": "409万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "ファイナルファンタジーVII",
+      "publisher": "スクウェア",
+      "release_year": "1997年",
+      "genre": "RPG",
+      "platform": "PlayStation",
+      "shipments": "407万本",
+      "sales": "400万本",
+      "source_note": "(FF)"
+    },
+    {
+      "title": "マリオカートDS",
+      "publisher": "任天堂",
+      "release_year": "2005年",
+      "genre": "レース",
+      "platform": "ニンテンドーDS",
+      "shipments": "402万本",
+      "sales": "400万本",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "モンスターハンター4",
+      "publisher": "カプコン",
+      "release_year": "2013年",
+      "genre": "アクション",
+      "platform": "ニンテンドー3DS",
+      "shipments": "400万本",
+      "sales": "355万本",
+      "source_note": "(MH)"
+    },
+    {
+      "title": "桃太郎電鉄 〜昭和　平成　令和も定番!〜",
+      "publisher": "コナミ",
+      "release_year": "2020年",
+      "genre": "テーブル",
+      "platform": "Nintendo Switch",
+      "shipments": "400万本",
+      "sales": "297万本",
+      "source_note": "(MT)"
+    },
+    {
+      "title": "ポケットモンスター ハートゴールド・ソウルシルバー",
+      "publisher": "ポケモン",
+      "release_year": "2009年",
+      "genre": "RPG",
+      "platform": "ニンテンドーDS",
+      "shipments": "397万本",
+      "sales": "393万本",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "脳を鍛える大人のDSトレーニング",
+      "publisher": "任天堂",
+      "release_year": "2005年",
+      "genre": "その他",
+      "platform": "ニンテンドーDS",
+      "shipments": "396万本",
+      "sales": "384万本",
+      "source_note": "(TG)"
+    },
+    {
+      "title": "ポケットモンスター サン・ムーン",
+      "publisher": "ポケモン",
+      "release_year": "2016年",
+      "genre": "RPG",
+      "platform": "ニンテンドー3DS",
+      "shipments": "394万本",
+      "sales": "",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "ゼルダの伝説 ティアーズ オブ ザ キングダム",
+      "publisher": "任天堂",
+      "release_year": "2023年",
+      "genre": "アクションアドベンチャー",
+      "platform": "Nintendo Switch",
+      "shipments": "392万本",
+      "sales": "",
+      "source_note": "(ZD)"
+    },
+    {
+      "title": "ゼルダの伝説 ブレス オブ ザ ワイルド",
+      "publisher": "任天堂",
+      "release_year": "2017年",
+      "genre": "アクションアドベンチャー",
+      "platform": "Nintendo Switch・Wii U",
+      "shipments": "387万本",
+      "sales": "",
+      "source_note": "(ZD)"
+    },
+    {
+      "title": "ポケットモンスター ブリリアントダイヤモンド・シャイニングパール",
+      "publisher": "ポケモン",
+      "release_year": "2021年",
+      "genre": "RPG",
+      "platform": "Nintendo Switch",
+      "shipments": "385万本",
+      "sales": "",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "スーパーマリオブラザーズ3",
+      "publisher": "任天堂",
+      "release_year": "1988年",
+      "genre": "アクション",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "384万本",
+      "sales": "",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "マリオカートWii",
+      "publisher": "任天堂",
+      "release_year": "2008年",
+      "genre": "レース",
+      "platform": "Wii",
+      "shipments": "383万本",
+      "sales": "370万本",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "スーパーマリオカート",
+      "publisher": "任天堂",
+      "release_year": "1992年",
+      "genre": "レース",
+      "platform": "スーパーファミコン",
+      "shipments": "382万本",
+      "sales": "",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "ドラゴンクエストIII そして伝説へ…",
+      "publisher": "エニックス",
+      "release_year": "1988年",
+      "genre": "RPG",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "380万本",
+      "sales": "",
+      "source_note": "(DQ)"
+    },
+    {
+      "title": "ドラゴンクエストVIII 空と海と大地と呪われし姫君",
+      "publisher": "スクウェア・エニックス",
+      "release_year": "2004年",
+      "genre": "RPG",
+      "platform": "PlayStation 2",
+      "shipments": "380万本",
+      "sales": "368万本",
+      "source_note": "(DQ)"
+    },
+    {
+      "title": "Wii Sports",
+      "publisher": "任天堂",
+      "release_year": "2006年",
+      "genre": "スポーツ",
+      "platform": "Wii",
+      "shipments": "379万本",
+      "sales": "372万本",
+      "source_note": "(TG)"
+    },
+    {
+      "title": "トモダチコレクション",
+      "publisher": "任天堂",
+      "release_year": "2009年",
+      "genre": "その他",
+      "platform": "ニンテンドーDS",
+      "shipments": "376万本",
+      "sales": "369万本",
+      "source_note": "(TC)"
+    },
+    {
+      "title": "ファイナルファンタジーVIII",
+      "publisher": "スクウェア",
+      "release_year": "1999年",
+      "genre": "RPG",
+      "platform": "PlayStation",
+      "shipments": "",
+      "sales": "370万本",
+      "source_note": "(FF)"
+    },
+    {
+      "title": "Pokémon LEGENDS アルセウス",
+      "publisher": "ポケモン",
+      "release_year": "2022年",
+      "genre": "アクションRPG",
+      "platform": "Nintendo Switch",
+      "shipments": "364万本",
+      "sales": "",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "Wii Fit",
+      "publisher": "任天堂",
+      "release_year": "2007年",
+      "genre": "スポーツ",
+      "platform": "Wii",
+      "shipments": "360万本",
+      "sales": "356万本",
+      "source_note": "(TG)"
+    },
+    {
+      "title": "スーパーマリオワールド",
+      "publisher": "任天堂",
+      "release_year": "1990年",
+      "genre": "アクション",
+      "platform": "スーパーファミコン",
+      "shipments": "355万本",
+      "sales": "",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "マリオカート ワールド",
+      "publisher": "任天堂",
+      "release_year": "2025年",
+      "genre": "レース",
+      "platform": "Nintendo Switch 2",
+      "shipments": "353万本",
+      "sales": "",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "スーパーマリオ オデッセイ",
+      "publisher": "任天堂",
+      "release_year": "2017年",
+      "genre": "アクション",
+      "platform": "Nintendo Switch",
+      "shipments": "349万本",
+      "sales": "",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "ポケットモンスター オメガルビー・アルファサファイア",
+      "publisher": "ポケモン",
+      "release_year": "2014年",
+      "genre": "RPG",
+      "platform": "ニンテンドー3DS",
+      "shipments": "347万本",
+      "sales": "311万本",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "Wii Sports Resort",
+      "publisher": "任天堂",
+      "release_year": "2009年",
+      "genre": "スポーツ",
+      "platform": "Wii",
+      "shipments": "333万本",
+      "sales": "314万本",
+      "source_note": ""
+    },
+    {
+      "title": "妖怪ウォッチ2 元祖/本家",
+      "publisher": "レベルファイブ",
+      "release_year": "2014年",
+      "genre": "RPG",
+      "platform": "ニンテンドー3DS",
+      "shipments": "",
+      "sales": "321万本",
+      "source_note": "(YW)"
+    },
+    {
+      "title": "ドラゴンクエストVI 幻の大地",
+      "publisher": "エニックス",
+      "release_year": "1995年",
+      "genre": "RPG",
+      "platform": "スーパーファミコン",
+      "shipments": "320万本",
+      "sales": "",
+      "source_note": "(DQ)"
+    },
+    {
+      "title": "ファイナルファンタジーX",
+      "publisher": "スクウェア",
+      "release_year": "2001年",
+      "genre": "RPG",
+      "platform": "PlayStation 2",
+      "shipments": "320万本",
+      "sales": "300万本",
+      "source_note": "(FF)"
+    },
+    {
+      "title": "モンスターハンタークロス",
+      "publisher": "カプコン",
+      "release_year": "2015年",
+      "genre": "アクション",
+      "platform": "ニンテンドー3DS",
+      "shipments": "320万本",
+      "sales": "273万本",
+      "source_note": "(MH)"
+    },
+    {
+      "title": "大乱闘スマッシュブラザーズ for Nintendo 3DS",
+      "publisher": "任天堂",
+      "release_year": "2014年",
+      "genre": "アクション",
+      "platform": "ニンテンドー3DS",
+      "shipments": "318万本",
+      "sales": "253万本",
+      "source_note": "(SB)"
+    },
+    {
+      "title": "ポケットモンスター ファイアレッド・リーフグリーン",
+      "publisher": "ポケモン",
+      "release_year": "2004年",
+      "genre": "RPG",
+      "platform": "ゲームボーイアドバンス",
+      "shipments": "318万本",
+      "sales": "307万本",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "スーパー マリオパーティ",
+      "publisher": "任天堂",
+      "release_year": "2018年",
+      "genre": "その他",
+      "platform": "Nintendo Switch",
+      "shipments": "317万本",
+      "sales": "",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "ポケットモンスター ピカチュウ",
+      "publisher": "任天堂",
+      "release_year": "1998年",
+      "genre": "RPG",
+      "platform": "ゲームボーイ",
+      "shipments": "316万本",
+      "sales": "300万本",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "ドラゴンクエストXI 過ぎ去りし時を求めて",
+      "publisher": "スクウェア・エニックス",
+      "release_year": "2017年",
+      "genre": "RPG",
+      "platform": "ニンテンドー3DS・PlayStation 4",
+      "shipments": "300万本",
+      "sales": "311万本",
+      "source_note": "(DQ)"
+    },
+    {
+      "title": "ドラゴンクエストIV 導かれし者たち",
+      "publisher": "エニックス",
+      "release_year": "1990年",
+      "genre": "RPG",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "310万本",
+      "sales": "",
+      "source_note": "(DQ)"
+    },
+    {
+      "title": "マリオカート7",
+      "publisher": "任天堂",
+      "release_year": "2011年",
+      "genre": "レース",
+      "platform": "ニンテンドー3DS",
+      "shipments": "308万本",
+      "sales": "291万本",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "ポケットモンスター ブラック2・ホワイト2",
+      "publisher": "ポケモン",
+      "release_year": "2012年",
+      "genre": "RPG",
+      "platform": "ニンテンドーDS",
+      "shipments": "307万本",
+      "sales": "304万本",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "スーパードンキーコング",
+      "publisher": "任天堂",
+      "release_year": "1994年",
+      "genre": "アクション",
+      "platform": "スーパーファミコン",
+      "shipments": "300万本",
+      "sales": "",
+      "source_note": "(DK)"
+    },
+    {
+      "title": "スーパーマリオブラザーズワンダー",
+      "publisher": "任天堂",
+      "release_year": "2023年",
+      "genre": "アクション",
+      "platform": "Nintendo Switch",
+      "shipments": "297万本",
+      "sales": "",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "ストリートファイターII",
+      "publisher": "カプコン",
+      "release_year": "1992年",
+      "genre": "格闘",
+      "platform": "スーパーファミコン",
+      "shipments": "290万本",
+      "sales": "",
+      "source_note": "(SF)"
+    },
+    {
+      "title": "はじめてのWii",
+      "publisher": "任天堂",
+      "release_year": "2006年",
+      "genre": "その他",
+      "platform": "Wii",
+      "shipments": "290万本",
+      "sales": "280万本",
+      "source_note": "(TG)"
+    },
+    {
+      "title": "モンスターハンター:ワールド",
+      "publisher": "カプコン",
+      "release_year": "2018年",
+      "genre": "アクション",
+      "platform": "PlayStation 4・Windows",
+      "shipments": "290万本",
+      "sales": "",
+      "source_note": "(MH)"
+    },
+    {
+      "title": "ファイナルファンタジーIX",
+      "publisher": "スクウェア",
+      "release_year": "2000年",
+      "genre": "RPG",
+      "platform": "PlayStation",
+      "shipments": "",
+      "sales": "280万本",
+      "source_note": "(FF)"
+    },
+    {
+      "title": "ドラゴンクエストV 天空の花嫁",
+      "publisher": "エニックス",
+      "release_year": "1992年",
+      "genre": "RPG",
+      "platform": "スーパーファミコン",
+      "shipments": "280万本",
+      "sales": "",
+      "source_note": "(DQ)"
+    },
+    {
+      "title": "New スーパーマリオブラザーズ 2",
+      "publisher": "任天堂",
+      "release_year": "2012年",
+      "genre": "アクション",
+      "platform": "ニンテンドー3DS",
+      "shipments": "276万本",
+      "sales": "255万本",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "ポケットモンスター ウルトラサン・ウルトラムーン",
+      "publisher": "ポケモン",
+      "release_year": "2017年",
+      "genre": "RPG",
+      "platform": "ニンテンドー3DS",
+      "shipments": "272万本",
+      "sales": "256万本",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "スーパーマリオランド2 6つの金貨",
+      "publisher": "任天堂",
+      "release_year": "1992年",
+      "genre": "アクション",
+      "platform": "ゲームボーイ",
+      "shipments": "270万本",
+      "sales": "",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "モンスターハンター4G",
+      "publisher": "カプコン",
+      "release_year": "2014年",
+      "genre": "アクション",
+      "platform": "ニンテンドー3DS",
+      "shipments": "270万本",
+      "sales": "257万本",
+      "source_note": "(MH)"
+    },
+    {
+      "title": "妖怪ウォッチ2 真打",
+      "publisher": "レベルファイブ",
+      "release_year": "2014年",
+      "genre": "RPG",
+      "platform": "ニンテンドー3DS",
+      "shipments": "",
+      "sales": "265万本",
+      "source_note": "(YW)"
+    },
+    {
+      "title": "スーパーマリオブラザーズ2",
+      "publisher": "任天堂",
+      "release_year": "1986年",
+      "genre": "アクション",
+      "platform": "ファミリーコンピュータ ディスクシステム",
+      "shipments": "265万本",
+      "sales": "",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "ポケットモンスター プラチナ",
+      "publisher": "ポケモン",
+      "release_year": "2008年",
+      "genre": "RPG",
+      "platform": "ニンテンドーDS",
+      "shipments": "265万本",
+      "sales": "260万本",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "Nintendo Switch Sports",
+      "publisher": "任天堂",
+      "release_year": "2022年",
+      "genre": "スポーツ",
+      "platform": "Nintendo Switch",
+      "shipments": "261万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "ファイナルファンタジーXII",
+      "publisher": "スクウェア・エニックス",
+      "release_year": "2006年",
+      "genre": "RPG",
+      "platform": "PlayStation 2",
+      "shipments": "260万本",
+      "sales": "244万本",
+      "source_note": "(FF)"
+    },
+    {
+      "title": "ファイナルファンタジーVI",
+      "publisher": "スクウェア",
+      "release_year": "1994年",
+      "genre": "RPG",
+      "platform": "スーパーファミコン",
+      "shipments": "255万本",
+      "sales": "",
+      "source_note": "(FF)"
+    },
+    {
+      "title": "グランツーリスモ",
+      "publisher": "SCE",
+      "release_year": "1997年",
+      "genre": "レース",
+      "platform": "PlayStation",
+      "shipments": "255万本",
+      "sales": "237万本",
+      "source_note": "(GT)"
+    },
+    {
+      "title": "トモダチコレクション わくわく生活",
+      "publisher": "任天堂",
+      "release_year": "2026年",
+      "genre": "その他",
+      "platform": "Nintendo Switch",
+      "shipments": "255万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "Wii Fit Plus",
+      "publisher": "任天堂",
+      "release_year": "2009年",
+      "genre": "スポーツ",
+      "platform": "Wii",
+      "shipments": "251万本",
+      "sales": "240万本",
+      "source_note": "(TG)"
+    },
+    {
+      "title": "遊☆戯☆王デュエルモンスターズ4 最強決闘者戦記 （ - バトル オブ グレイト デュエリスト）",
+      "publisher": "KONAMI",
+      "release_year": "2000年",
+      "genre": "テーブル",
+      "platform": "ゲームボーイカラー",
+      "shipments": "250万本",
+      "sales": "221万本",
+      "source_note": "(YU)"
+    },
+    {
+      "title": "ゴルフ",
+      "publisher": "任天堂",
+      "release_year": "1984年",
+      "genre": "スポーツ",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "246万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "大乱闘スマッシュブラザーズX",
+      "publisher": "任天堂",
+      "release_year": "2008年",
+      "genre": "アクション",
+      "platform": "Wii",
+      "shipments": "246万本",
+      "sales": "230万本",
+      "source_note": "(SB)"
+    },
+    {
+      "title": "ファイナルファンタジーV",
+      "publisher": "スクウェア",
+      "release_year": "1992年",
+      "genre": "RPG",
+      "platform": "スーパーファミコン",
+      "shipments": "245万本",
+      "sales": "",
+      "source_note": "(FF)"
+    },
+    {
+      "title": "Wii Party",
+      "publisher": "任天堂",
+      "release_year": "2010年",
+      "genre": "その他",
+      "platform": "Wii",
+      "shipments": "243万本",
+      "sales": "238万本",
+      "source_note": "(TG)"
+    },
+    {
+      "title": "ドラゴンクエストII 悪霊の神々",
+      "publisher": "エニックス",
+      "release_year": "1987年",
+      "genre": "RPG",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "241万本",
+      "sales": "",
+      "source_note": "(DQ)"
+    },
+    {
+      "title": "ファイナルファンタジーX-2",
+      "publisher": "スクウェア",
+      "release_year": "2003年",
+      "genre": "RPG",
+      "platform": "PlayStation 2",
+      "shipments": "241万本",
+      "sales": "240万本",
+      "source_note": "(FF)"
+    },
+    {
+      "title": "英語が苦手な大人のDSトレーニング えいご漬け",
+      "publisher": "任天堂",
+      "release_year": "2006年",
+      "genre": "その他",
+      "platform": "ニンテンドーDS",
+      "shipments": "236万本",
+      "sales": "222万本",
+      "source_note": "(TG)"
+    },
+    {
+      "title": "モンスターハンターライズ",
+      "publisher": "カプコン",
+      "release_year": "2021年",
+      "genre": "アクション",
+      "platform": "Nintendo Switch",
+      "shipments": "",
+      "sales": "235万本",
+      "source_note": "(MH)"
+    },
+    {
+      "title": "ベースボール",
+      "publisher": "任天堂",
+      "release_year": "1983年",
+      "genre": "スポーツ",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "235万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "マリオパーティ スーパースターズ",
+      "publisher": "任天堂",
+      "release_year": "2021年",
+      "genre": "その他",
+      "platform": "Nintendo Switch",
+      "shipments": "233万本",
+      "sales": "",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "ドラゴンクエストモンスターズ テリーのワンダーランド",
+      "publisher": "エニックス",
+      "release_year": "1998年",
+      "genre": "RPG",
+      "platform": "ゲームボーイ・カラー共通",
+      "shipments": "230万本",
+      "sales": "191万本",
+      "source_note": "(DQ)"
+    },
+    {
+      "title": "スーパーマリオ 3Dランド",
+      "publisher": "任天堂",
+      "release_year": "2011年",
+      "genre": "アクション",
+      "platform": "ニンテンドー3DS",
+      "shipments": "230万本",
+      "sales": "209万本",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "妖怪ウォッチバスターズ 赤猫団/白犬隊",
+      "publisher": "レベルファイブ",
+      "release_year": "2015年",
+      "genre": "アクションRPG",
+      "platform": "ニンテンドー3DS",
+      "shipments": "229万本",
+      "sales": "224万本",
+      "source_note": "(YW)"
+    },
+    {
+      "title": "マリオカート64",
+      "publisher": "任天堂",
+      "release_year": "1996年",
+      "genre": "レース",
+      "platform": "NINTENDO 64",
+      "shipments": "224万本",
+      "sales": "171万本",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "トモダチコレクション 新生活",
+      "publisher": "任天堂",
+      "release_year": "2013年",
+      "genre": "その他",
+      "platform": "ニンテンドー3DS",
+      "shipments": "223万本",
+      "sales": "195万本",
+      "source_note": "(TC)"
+    },
+    {
+      "title": "スーパードンキーコング2 ディクシー&ディディー",
+      "publisher": "任天堂",
+      "release_year": "1995年",
+      "genre": "アクション",
+      "platform": "スーパーファミコン",
+      "shipments": "221万本",
+      "sales": "",
+      "source_note": "(DK)"
+    },
+    {
+      "title": "ポケットモンスター Let's Go! ピカチュウ・Let's Go! イーブイ",
+      "publisher": "ポケモン",
+      "release_year": "2018年",
+      "genre": "RPG",
+      "platform": "Nintendo Switch",
+      "shipments": "218万本",
+      "sales": "",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "ポケットモンスター エメラルド",
+      "publisher": "ポケモン",
+      "release_year": "2004年",
+      "genre": "RPG",
+      "platform": "ゲームボーイアドバンス",
+      "shipments": "208万本",
+      "sales": "219万本",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "マリオパーティDS",
+      "publisher": "任天堂",
+      "release_year": "2007年",
+      "genre": "その他",
+      "platform": "ニンテンドーDS",
+      "shipments": "216万本",
+      "sales": "211万本",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "バイオハザード2",
+      "publisher": "カプコン",
+      "release_year": "1998年",
+      "genre": "アクションアドベンチャー",
+      "platform": "PlayStation",
+      "shipments": "215万本",
+      "sales": "203万本",
+      "source_note": "(BF)"
+    },
+    {
+      "title": "スーパー マリオパーティ ジャンボリー",
+      "publisher": "任天堂",
+      "release_year": "2024年",
+      "genre": "その他",
+      "platform": "Nintendo Switch",
+      "shipments": "214万本",
+      "sales": "",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "麻雀",
+      "publisher": "任天堂",
+      "release_year": "1983年",
+      "genre": "テーブル",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "213万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "みんなのGOLF",
+      "publisher": "SCE",
+      "release_year": "1997年",
+      "genre": "スポーツ",
+      "platform": "PlayStation",
+      "shipments": "213万本",
+      "sales": "201万本",
+      "source_note": "(MG)"
+    },
+    {
+      "title": "スーパーマリオコレクション",
+      "publisher": "任天堂",
+      "release_year": "1993年",
+      "genre": "アクション",
+      "platform": "スーパーファミコン",
+      "shipments": "212万本",
+      "sales": "",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "nintendogs",
+      "publisher": "任天堂",
+      "release_year": "2005年",
+      "genre": "その他",
+      "platform": "ニンテンドーDS",
+      "shipments": "212万本",
+      "sales": "208万本",
+      "source_note": "(TG)"
+    },
+    {
+      "title": "ストリートファイターII ターボ",
+      "publisher": "カプコン",
+      "release_year": "1993年",
+      "genre": "格闘",
+      "platform": "スーパーファミコン",
+      "shipments": "210万本",
+      "sales": "",
+      "source_note": "(SF)"
+    },
+    {
+      "title": "ドクターマリオ",
+      "publisher": "任天堂",
+      "release_year": "1990年",
+      "genre": "パズル",
+      "platform": "ゲームボーイ",
+      "shipments": "208万本",
+      "sales": "",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "プロ野球ファミリースタジアム",
+      "publisher": "ナムコ",
+      "release_year": "1986年",
+      "genre": "スポーツ",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "205万本",
+      "sales": "",
+      "source_note": "(FS)"
+    },
+    {
+      "title": "ポケットモンスター 青",
+      "publisher": "任天堂",
+      "release_year": "1999年",
+      "genre": "RPG",
+      "platform": "ゲームボーイ",
+      "shipments": "201万本",
+      "sales": "",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "ファイナルファンタジーXIII",
+      "publisher": "スクウェア・エニックス",
+      "release_year": "2009年",
+      "genre": "RPG",
+      "platform": "PlayStation 3・Xbox 360",
+      "shipments": "",
+      "sales": "200万本",
+      "source_note": "(FF)"
+    },
+    {
+      "title": "スイカゲーム",
+      "publisher": "Aladdin X",
+      "release_year": "2021年",
+      "genre": "パズル",
+      "platform": "Nintendo Switch",
+      "shipments": "",
+      "sales": "200万本",
+      "source_note": ""
+    },
+    {
+      "title": "クロノ・トリガー",
+      "publisher": "スクウェア",
+      "release_year": "1995年",
+      "genre": "RPG",
+      "platform": "スーパーファミコン",
+      "shipments": "200万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "ダービースタリオン",
+      "publisher": "アスキー",
+      "release_year": "1997年",
+      "genre": "シミュレーション",
+      "platform": "PlayStation",
+      "shipments": "200万本",
+      "sales": "173万本",
+      "source_note": "(DS)"
+    },
+    {
+      "title": "世界のアソビ大全51",
+      "publisher": "任天堂",
+      "release_year": "2020年",
+      "genre": "テーブルゲーム集",
+      "platform": "Nintendo Switch",
+      "shipments": "200万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "ヒューマン フォール フラット",
+      "publisher": "テヨンジャパン",
+      "release_year": "2016年",
+      "genre": "アクションパズル",
+      "platform": "クロスプラットフォーム",
+      "shipments": "",
+      "sales": "200万本",
+      "source_note": ""
+    },
+    {
+      "title": "バレーボール",
+      "publisher": "任天堂",
+      "release_year": "1986年",
+      "genre": "スポーツ",
+      "platform": "ファミリーコンピュータ ディスクシステム",
+      "shipments": "198万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "リズム天国ゴールド",
+      "publisher": "任天堂",
+      "release_year": "2008年",
+      "genre": "音楽",
+      "platform": "ニンテンドーDS",
+      "shipments": "197万本",
+      "sales": "191万本",
+      "source_note": "(TG)"
+    },
+    {
+      "title": "ニンテンドウオールスター!大乱闘スマッシュブラザーズ",
+      "publisher": "任天堂",
+      "release_year": "1999年",
+      "genre": "アクション",
+      "platform": "NINTENDO 64",
+      "shipments": "197万本",
+      "sales": "163万本",
+      "source_note": "(SB)"
+    },
+    {
+      "title": "モンスターハンター3（トライ）G",
+      "publisher": "カプコン",
+      "release_year": "2011年",
+      "genre": "アクション",
+      "platform": "ニンテンドー3DS",
+      "shipments": "120万本",
+      "sales": "194万本",
+      "source_note": "(MH)"
+    },
+    {
+      "title": "スーパーマリオ64",
+      "publisher": "任天堂",
+      "release_year": "1996年",
+      "genre": "アクション",
+      "platform": "NINTENDO 64",
+      "shipments": "192万本",
+      "sales": "163万本",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "グランツーリスモ3 A-spec",
+      "publisher": "SCE",
+      "release_year": "2001年",
+      "genre": "レース",
+      "platform": "PlayStation 2",
+      "shipments": "189万本",
+      "sales": "151万本",
+      "source_note": "(GT)"
+    },
+    {
+      "title": "ポケットモンスター クリスタルバージョン",
+      "publisher": "任天堂",
+      "release_year": "2000年",
+      "genre": "RPG",
+      "platform": "ゲームボーイカラー",
+      "shipments": "",
+      "sales": "187万本",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "ピクミン4",
+      "publisher": "任天堂",
+      "release_year": "2023年",
+      "genre": "アクション",
+      "platform": "Nintendo Switch",
+      "shipments": "187万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "星のカービィ ディスカバリー",
+      "publisher": "任天堂",
+      "release_year": "2022年",
+      "genre": "アクション",
+      "platform": "Nintendo Switch",
+      "shipments": "184万本",
+      "sales": "",
+      "source_note": "(HK)"
+    },
+    {
+      "title": "New スーパーマリオブラザーズ U デラックス",
+      "publisher": "任天堂",
+      "release_year": "2019年",
+      "genre": "アクション",
+      "platform": "Nintendo Switch",
+      "shipments": "182万本",
+      "sales": "",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "スーパーマリオ 3Dワールド + フューリーワールド",
+      "publisher": "任天堂",
+      "release_year": "2021年",
+      "genre": "アクション",
+      "platform": "Nintendo Switch",
+      "shipments": "182万本",
+      "sales": "",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "テトリス",
+      "publisher": "ビーピーエス",
+      "release_year": "1988年",
+      "genre": "パズル",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "181万本",
+      "sales": "",
+      "source_note": "(TE)"
+    },
+    {
+      "title": "ドラゴンクエストV 天空の花嫁 PS2版",
+      "publisher": "スクウェア・エニックス",
+      "release_year": "2004年",
+      "genre": "RPG",
+      "platform": "PlayStation 2",
+      "shipments": "180万本",
+      "sales": "180万本",
+      "source_note": "(DQ)"
+    },
+    {
+      "title": "ドラゴンクエストモンスターズ ジョーカー2",
+      "publisher": "スクウェア・エニックス",
+      "release_year": "2010年",
+      "genre": "RPG",
+      "platform": "ニンテンドーDS",
+      "shipments": "180万本",
+      "sales": "129万本",
+      "source_note": "(DQ)"
+    },
+    {
+      "title": "スプラトゥーン",
+      "publisher": "任天堂",
+      "release_year": "2015年",
+      "genre": "アクションシューティング",
+      "platform": "Wii U",
+      "shipments": "179万本",
+      "sales": "151万本",
+      "source_note": "(SP)"
+    },
+    {
+      "title": "スーパーマリオ ヨッシーアイランド",
+      "publisher": "任天堂",
+      "release_year": "1995年",
+      "genre": "アクション",
+      "platform": "スーパーファミコン",
+      "shipments": "177万本",
+      "sales": "",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "スーパードンキーコング3 謎のクレミス島",
+      "publisher": "任天堂",
+      "release_year": "1996年",
+      "genre": "アクション",
+      "platform": "スーパーファミコン",
+      "shipments": "177万本",
+      "sales": "",
+      "source_note": "(DK)"
+    },
+    {
+      "title": "モンスターハンター ポータブル 2nd",
+      "publisher": "カプコン",
+      "release_year": "2007年",
+      "genre": "アクション",
+      "platform": "PlayStation Portable",
+      "shipments": "",
+      "sales": "172万本",
+      "source_note": "(MH)"
+    },
+    {
+      "title": "星のカービィ",
+      "publisher": "任天堂",
+      "release_year": "1992年",
+      "genre": "アクション",
+      "platform": "ゲームボーイ",
+      "shipments": "172万本",
+      "sales": "",
+      "source_note": "(HK)"
+    },
+    {
+      "title": "みんなのGOLF 4",
+      "publisher": "SCE",
+      "release_year": "2003年",
+      "genre": "スポーツ",
+      "platform": "PlayStation 2",
+      "shipments": "169万本",
+      "sales": "171万本",
+      "source_note": "(MG)"
+    },
+    {
+      "title": "グランツーリスモ2",
+      "publisher": "SCE",
+      "release_year": "1999年",
+      "genre": "レース",
+      "platform": "PlayStation",
+      "shipments": "171万本",
+      "sales": "146万本",
+      "source_note": "(GT)"
+    },
+    {
+      "title": "す〜ぱ〜ぷよぷよ",
+      "publisher": "バンプレスト",
+      "release_year": "1993年",
+      "genre": "パズル",
+      "platform": "スーパーファミコン",
+      "shipments": "170万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "モンスターハンターダブルクロス",
+      "publisher": "カプコン",
+      "release_year": "2017年",
+      "genre": "アクション",
+      "platform": "ニンテンドー3DS",
+      "shipments": "170万本",
+      "sales": "169万本",
+      "source_note": "(MH)"
+    },
+    {
+      "title": "ゼルダの伝説",
+      "publisher": "任天堂",
+      "release_year": "1986年",
+      "genre": "アクションアドベンチャー",
+      "platform": "ファミリーコンピュータ ディスクシステム",
+      "shipments": "169万本",
+      "sales": "",
+      "source_note": "(ZD)"
+    },
+    {
+      "title": "大人の常識力トレーニングDS",
+      "publisher": "任天堂",
+      "release_year": "2006年",
+      "genre": "その他",
+      "platform": "ニンテンドーDS",
+      "shipments": "168万本",
+      "sales": "156万本",
+      "source_note": "(TG)"
+    },
+    {
+      "title": "やわらかあたま塾",
+      "publisher": "任天堂",
+      "release_year": "2005年",
+      "genre": "その他",
+      "platform": "ニンテンドーDS",
+      "shipments": "164万本",
+      "sales": "158万本",
+      "source_note": "(TG)"
+    },
+    {
+      "title": "マリオブラザーズ",
+      "publisher": "任天堂",
+      "release_year": "1983年",
+      "genre": "アクション",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "163万本",
+      "sales": "",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "リンクの冒険",
+      "publisher": "任天堂",
+      "release_year": "1987年",
+      "genre": "アクションアドベンチャー",
+      "platform": "ファミリーコンピュータ ディスクシステム",
+      "shipments": "161万本",
+      "sales": "",
+      "source_note": "(ZD)"
+    },
+    {
+      "title": "遊☆戯☆王デュエルモンスターズ",
+      "publisher": "KONAMI",
+      "release_year": "1998年",
+      "genre": "テーブル",
+      "platform": "ゲームボーイ",
+      "shipments": "161万本",
+      "sales": "152万本",
+      "source_note": "(YU)"
+    },
+    {
+      "title": "ドラゴンクエストモンスターズ ジョーカー",
+      "publisher": "スクウェア・エニックス",
+      "release_year": "2006年",
+      "genre": "RPG",
+      "platform": "ニンテンドーDS",
+      "shipments": "160万本",
+      "sales": "154万本",
+      "source_note": "(DQ)"
+    },
+    {
+      "title": "キングダム ハーツII",
+      "publisher": "スクウェア・エニックス",
+      "release_year": "2005年",
+      "genre": "アクションRPG",
+      "platform": "PlayStation 2",
+      "shipments": "160万本",
+      "sales": "112万本",
+      "source_note": "(KH)"
+    },
+    {
+      "title": "キングダム ハーツ",
+      "publisher": "スクウェア",
+      "release_year": "2002年",
+      "genre": "アクションRPG",
+      "platform": "PlayStation 2",
+      "shipments": "160万本",
+      "sales": "95万本",
+      "source_note": "(KH)"
+    },
+    {
+      "title": "スーパーマリオランド3 ワリオランド",
+      "publisher": "任天堂",
+      "release_year": "1994年",
+      "genre": "アクション",
+      "platform": "ゲームボーイ",
+      "shipments": "159万本",
+      "sales": "",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "燃えろ!!プロ野球",
+      "publisher": "ジャレコ",
+      "release_year": "1987年",
+      "genre": "スポーツ",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "158万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "ポケモン不思議のダンジョン 時の探検隊・闇の探検隊",
+      "publisher": "ポケモン",
+      "release_year": "2007年",
+      "genre": "RPG",
+      "platform": "ニンテンドーDS",
+      "shipments": "158万本",
+      "sales": "155万本",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "エキサイトバイク",
+      "publisher": "任天堂",
+      "release_year": "1984年",
+      "genre": "レース",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "157万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "テニス",
+      "publisher": "任天堂",
+      "release_year": "1984年",
+      "genre": "スポーツ",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "156万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "マリオパーティ8",
+      "publisher": "任天堂",
+      "release_year": "2007年",
+      "genre": "その他",
+      "platform": "Wii",
+      "shipments": "156万本",
+      "sales": "147万本",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "サッカー",
+      "publisher": "任天堂",
+      "release_year": "1985年",
+      "genre": "スポーツ",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "153万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "Dr.マリオ",
+      "publisher": "任天堂",
+      "release_year": "1990年",
+      "genre": "パズル",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "153万本",
+      "sales": "",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "F1レース",
+      "publisher": "任天堂",
+      "release_year": "1984年",
+      "genre": "レース",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "152万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "星のカービィ2",
+      "publisher": "任天堂",
+      "release_year": "1995年",
+      "genre": "アクション",
+      "platform": "ゲームボーイ",
+      "shipments": "151万本",
+      "sales": "",
+      "source_note": "(HK)"
+    },
+    {
+      "title": "大乱闘スマッシュブラザーズDX",
+      "publisher": "任天堂",
+      "release_year": "2001年",
+      "genre": "アクション",
+      "platform": "ニンテンドー ゲームキューブ",
+      "shipments": "151万本",
+      "sales": "134万本",
+      "source_note": "(SB)"
+    },
+    {
+      "title": "桃太郎電鉄ワールド 〜地球は希望でまわってる!〜",
+      "publisher": "コナミ",
+      "release_year": "2023年",
+      "genre": "ボード",
+      "platform": "Nintendo Switch",
+      "shipments": "150万本",
+      "sales": "",
+      "source_note": "(MT)"
+    },
+    {
+      "title": "妖怪ウォッチ3 スシ/テンプラ",
+      "publisher": "レベルファイブ",
+      "release_year": "2016年",
+      "genre": "RPG",
+      "platform": "ニンテンドー3DS",
+      "shipments": "",
+      "sales": "150万本",
+      "source_note": "(YW)"
+    },
+    {
+      "title": "ドラゴンクエストモンスターズ2 マルタのふしぎな鍵",
+      "publisher": "エニックス",
+      "release_year": "2001年",
+      "genre": "RPG",
+      "platform": "ゲームボーイ・カラー共通",
+      "shipments": "150万本",
+      "sales": "150万本",
+      "source_note": "(DQ)"
+    },
+    {
+      "title": "忍者ハットリくん",
+      "publisher": "ハドソン",
+      "release_year": "1986年",
+      "genre": "アクション",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "150万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "ドラゴンクエスト",
+      "publisher": "エニックス",
+      "release_year": "1986年",
+      "genre": "RPG",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "150万本",
+      "sales": "",
+      "source_note": "(DQ)"
+    },
+    {
+      "title": "聖剣伝説2",
+      "publisher": "スクウェア",
+      "release_year": "1993年",
+      "genre": "アクションRPG",
+      "platform": "スーパーファミコン",
+      "shipments": "150万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "クラッシュ・バンディクー3",
+      "publisher": "SCE",
+      "release_year": "1998年",
+      "genre": "アクション",
+      "platform": "PlayStation",
+      "shipments": "150万本",
+      "sales": "",
+      "source_note": "(CB)"
+    },
+    {
+      "title": "パズドラZ",
+      "publisher": "ガンホー",
+      "release_year": "2013年",
+      "genre": "パズルRPG",
+      "platform": "ニンテンドー3DS",
+      "shipments": "150万本",
+      "sales": "148万本",
+      "source_note": ""
+    },
+    {
+      "title": "みんなのGOLF 2",
+      "publisher": "SCE",
+      "release_year": "1999年",
+      "genre": "スポーツ",
+      "platform": "PlayStation",
+      "shipments": "149万本",
+      "sales": "125万本",
+      "source_note": "(MG)"
+    },
+    {
+      "title": "スーパーマリオメーカー2",
+      "publisher": "任天堂",
+      "release_year": "2019年",
+      "genre": "アクション",
+      "platform": "Nintendo Switch",
+      "shipments": "149万本",
+      "sales": "",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "どうぶつの森 ハッピーホームデザイナー",
+      "publisher": "任天堂",
+      "release_year": "2015年",
+      "genre": "その他",
+      "platform": "ニンテンドー3DS",
+      "shipments": "145万本",
+      "sales": "148万本",
+      "source_note": "(DM)"
+    },
+    {
+      "title": "パラッパラッパー",
+      "publisher": "SCE",
+      "release_year": "1996年",
+      "genre": "音楽",
+      "platform": "PlayStation",
+      "shipments": "148万本",
+      "sales": "118万本",
+      "source_note": ""
+    },
+    {
+      "title": "スーパーマリオRPG",
+      "publisher": "任天堂",
+      "release_year": "1996年",
+      "genre": "アクションRPG",
+      "platform": "スーパーファミコン",
+      "shipments": "147万本",
+      "sales": "",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "ゼルダの伝説 時のオカリナ",
+      "publisher": "任天堂",
+      "release_year": "1998年",
+      "genre": "アクションアドベンチャー",
+      "platform": "NINTENDO 64",
+      "shipments": "146万本",
+      "sales": "114万本",
+      "source_note": "(ZD)"
+    },
+    {
+      "title": "ルイージマンション3",
+      "publisher": "任天堂",
+      "release_year": "2019年",
+      "genre": "アクションアドベンチャー",
+      "platform": "Nintendo Switch",
+      "shipments": "146万本",
+      "sales": "",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "ファイナルファンタジー:新生エオルゼア",
+      "publisher": "スクウェア・エニックス",
+      "release_year": "2013年",
+      "genre": "MMORPG",
+      "platform": "PlayStation 3・PlayStation 4・windows",
+      "shipments": "",
+      "sales": "145万本",
+      "source_note": "（FF）"
+    },
+    {
+      "title": "4人打ち麻雀",
+      "publisher": "任天堂",
+      "release_year": "1984年",
+      "genre": "テーブル",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "145万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "ゲームで発見!!たまごっち",
+      "publisher": "バンダイ",
+      "release_year": "1997年",
+      "genre": "シミュレーション",
+      "platform": "ゲームボーイ",
+      "shipments": "145万本",
+      "sales": "",
+      "source_note": "(TA)"
+    },
+    {
+      "title": "ゲームで発見!!たまごっち2",
+      "publisher": "バンダイ",
+      "release_year": "1997年",
+      "genre": "シミュレーション",
+      "platform": "ゲームボーイ",
+      "shipments": "145万本",
+      "sales": "",
+      "source_note": "(TA)"
+    },
+    {
+      "title": "バイオハザード3",
+      "publisher": "カプコン",
+      "release_year": "1999年",
+      "genre": "アクションアドベンチャー",
+      "platform": "PlayStation",
+      "shipments": "145万本",
+      "sales": "138万本",
+      "source_note": "(BF)"
+    },
+    {
+      "title": "ファイナルファンタジーIV",
+      "publisher": "スクウェア",
+      "release_year": "1991年",
+      "genre": "RPG",
+      "platform": "スーパーファミコン",
+      "shipments": "144万本",
+      "sales": "",
+      "source_note": "(FF)"
+    },
+    {
+      "title": "マリオカート8",
+      "publisher": "任天堂",
+      "release_year": "2014年",
+      "genre": "レース",
+      "platform": "Wii U",
+      "shipments": "143万本",
+      "sales": "130万本",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "スパルタンX",
+      "publisher": "任天堂",
+      "release_year": "1985年",
+      "genre": "アクション",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "142万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "プロレス",
+      "publisher": "任天堂",
+      "release_year": "1986年",
+      "genre": "スポーツ",
+      "platform": "ファミリーコンピュータ ディスクシステム",
+      "shipments": "142万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "ドラゴンボールZ 超武闘伝",
+      "publisher": "バンダイ",
+      "release_year": "1993年",
+      "genre": "格闘",
+      "platform": "スーパーファミコン",
+      "shipments": "141万本",
+      "sales": "",
+      "source_note": "(DB)"
+    },
+    {
+      "title": "ファイナルファンタジーIII",
+      "publisher": "スクウェア",
+      "release_year": "1990年",
+      "genre": "RPG",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "140万本",
+      "sales": "",
+      "source_note": "(FF)"
+    },
+    {
+      "title": "ドラゴンクエストIII そして伝説へ… SFC版",
+      "publisher": "エニックス",
+      "release_year": "1996年",
+      "genre": "RPG",
+      "platform": "スーパーファミコン",
+      "shipments": "140万本",
+      "sales": "",
+      "source_note": "(DQ)"
+    },
+    {
+      "title": "ドラゴンクエストVI 幻の大地 DS版",
+      "publisher": "スクウェア・エニックス",
+      "release_year": "2010年",
+      "genre": "RPG",
+      "platform": "ニンテンドーDS",
+      "shipments": "140万本",
+      "sales": "135万本",
+      "source_note": "(DQ)"
+    },
+    {
+      "title": "妖怪ウォッチ",
+      "publisher": "レベルファイブ",
+      "release_year": "2013年",
+      "genre": "RPG",
+      "platform": "ニンテンドー3DS",
+      "shipments": "140万本",
+      "sales": "131万本",
+      "source_note": "(YW)"
+    },
+    {
+      "title": "ドラゴンクエストV 天空の花嫁 DS版",
+      "publisher": "スクウェア・エニックス",
+      "release_year": "2008年",
+      "genre": "RPG",
+      "platform": "ニンテンドーDS",
+      "shipments": "140万本",
+      "sales": "130万本",
+      "source_note": "(DQ)"
+    },
+    {
+      "title": "ファイナルファンタジータクティクス",
+      "publisher": "スクウェア",
+      "release_year": "1997年",
+      "genre": "シミュレーションRPG",
+      "platform": "PlayStation",
+      "shipments": "140万本",
+      "sales": "127万本",
+      "source_note": "(FF)"
+    },
+    {
+      "title": "鉄拳3",
+      "publisher": "ナムコ",
+      "release_year": "1998年",
+      "genre": "格闘",
+      "platform": "PlayStation",
+      "shipments": "140万本",
+      "sales": "118万本",
+      "source_note": "(TK)"
+    },
+    {
+      "title": "ファイナルファンタジーVII リメイク",
+      "publisher": "スクウェア・エニックス",
+      "release_year": "2020年",
+      "genre": "RPG",
+      "platform": "PlayStation 4",
+      "shipments": "140万本",
+      "sales": "",
+      "source_note": "(FF)"
+    },
+    {
+      "title": "街へいこうよ どうぶつの森",
+      "publisher": "任天堂",
+      "release_year": "2008年",
+      "genre": "その他",
+      "platform": "Wii",
+      "shipments": "139万本",
+      "sales": "126万本",
+      "source_note": "(DM)"
+    },
+    {
+      "title": "みんなのGOLF 3",
+      "publisher": "SCE",
+      "release_year": "2001年",
+      "genre": "スポーツ",
+      "platform": "PlayStation 2",
+      "shipments": "139万本",
+      "sales": "123万本",
+      "source_note": "(MG)"
+    },
+    {
+      "title": "ポケモンカードGB",
+      "publisher": "任天堂",
+      "release_year": "1998年",
+      "genre": "テーブル",
+      "platform": "ゲームボーイ・カラー共通",
+      "shipments": "139万本",
+      "sales": "93万本",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "テトリスDS",
+      "publisher": "任天堂",
+      "release_year": "2006年",
+      "genre": "パズル",
+      "platform": "ニンテンドーDS",
+      "shipments": "138万本",
+      "sales": "133万本",
+      "source_note": "(TE,TG)"
+    },
+    {
+      "title": "ファミコンミニ スーパーマリオブラザーズ",
+      "publisher": "任天堂",
+      "release_year": "2004年",
+      "genre": "アクション",
+      "platform": "ゲームボーイアドバンス",
+      "shipments": "138万本",
+      "sales": "128万本",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "ポケモンスタジアム",
+      "publisher": "任天堂",
+      "release_year": "1998年",
+      "genre": "その他",
+      "platform": "NINTENDO 64",
+      "shipments": "137万本",
+      "sales": "109万本",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "鉄拳2",
+      "publisher": "ナムコ",
+      "release_year": "1996年",
+      "genre": "格闘",
+      "platform": "PlayStation",
+      "shipments": "137万本",
+      "sales": "108万本",
+      "source_note": "(TK)"
+    },
+    {
+      "title": "クラッシュ・バンディクー2",
+      "publisher": "SCE",
+      "release_year": "1997年",
+      "genre": "アクション",
+      "platform": "PlayStation",
+      "shipments": "133万本",
+      "sales": "109万本",
+      "source_note": "(CB)"
+    },
+    {
+      "title": "星のカービィ スターアライズ",
+      "publisher": "任天堂",
+      "release_year": "2018年",
+      "genre": "アクション",
+      "platform": "Nintendo Switch",
+      "shipments": "131万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "プロ野球ファミリースタジアム'87",
+      "publisher": "ナムコ",
+      "release_year": "1987年",
+      "genre": "スポーツ",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "130万本",
+      "sales": "",
+      "source_note": "(FS)"
+    },
+    {
+      "title": "ロマンシング サ・ガ3",
+      "publisher": "スクウェア",
+      "release_year": "1995年",
+      "genre": "RPG",
+      "platform": "スーパーファミコン",
+      "shipments": "130万本",
+      "sales": "",
+      "source_note": "(SG)"
+    },
+    {
+      "title": "バーチャファイター2",
+      "publisher": "セガ",
+      "release_year": "1995年",
+      "genre": "格闘",
+      "platform": "セガサターン",
+      "shipments": "130万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "ドラゴンクエストIV 導かれし者たち　DS版",
+      "publisher": "スクウェア・エニックス",
+      "release_year": "2007年",
+      "genre": "RPG",
+      "platform": "ニンテンドーDS",
+      "shipments": "130万本",
+      "sales": "128万本",
+      "source_note": "(DQ)"
+    },
+    {
+      "title": "スーパーマリオ64DS",
+      "publisher": "任天堂",
+      "release_year": "2004年",
+      "genre": "アクション",
+      "platform": "ニンテンドーDS",
+      "shipments": "130万本",
+      "sales": "123万本",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "スーパーストリートファイターII",
+      "publisher": "カプコン",
+      "release_year": "1994年",
+      "genre": "格闘",
+      "platform": "スーパーファミコン",
+      "shipments": "129万本",
+      "sales": "",
+      "source_note": "(SF)"
+    },
+    {
+      "title": "New スーパーマリオブラザーズ U",
+      "publisher": "任天堂",
+      "release_year": "2012年",
+      "genre": "アクション",
+      "platform": "Wii U",
+      "shipments": "129万本",
+      "sales": "125万本",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "ドラゴンクエストVII エデンの戦士たち 3DS版",
+      "publisher": "スクウェア・エニックス",
+      "release_year": "2013年",
+      "genre": "RPG",
+      "platform": "ニンテンドー3DS",
+      "shipments": "120万本",
+      "sales": "128万本",
+      "source_note": "(DQ)"
+    },
+    {
+      "title": "役満",
+      "publisher": "任天堂",
+      "release_year": "1989年",
+      "genre": "テーブル",
+      "platform": "ゲームボーイ",
+      "shipments": "128万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "星のカービィ ウルトラスーパーデラックス",
+      "publisher": "任天堂",
+      "release_year": "2008年",
+      "genre": "アクション",
+      "platform": "ニンテンドーDS",
+      "shipments": "127万本",
+      "sales": "120万本",
+      "source_note": "(HK)"
+    },
+    {
+      "title": "ゼビウス",
+      "publisher": "ナムコ",
+      "release_year": "1984年",
+      "genre": "シューティング",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "127万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "Dance Dance Revolution",
+      "publisher": "KONAMI",
+      "release_year": "1999年",
+      "genre": "音楽",
+      "platform": "PlayStation",
+      "shipments": "127万本",
+      "sales": "102万本",
+      "source_note": "(BM)"
+    },
+    {
+      "title": "さわるメイドインワリオ",
+      "publisher": "任天堂",
+      "release_year": "2004年",
+      "genre": "アクション",
+      "platform": "ニンテンドーDS",
+      "shipments": "126万本",
+      "sales": "113万本",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "ゲゲゲの鬼太郎 妖怪大魔境",
+      "publisher": "バンダイ",
+      "release_year": "1986年",
+      "genre": "アクション",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "125万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "ドラゴンボール 神龍の謎（ - シェンロンのなぞ）",
+      "publisher": "バンダイ",
+      "release_year": "1986年",
+      "genre": "アクション",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "120万本",
+      "sales": "",
+      "source_note": "(DB)"
+    },
+    {
+      "title": "真・三國無双3",
+      "publisher": "コーエー",
+      "release_year": "2003年",
+      "genre": "アクション",
+      "platform": "PlayStation 2",
+      "shipments": "124万本",
+      "sales": "119万本",
+      "source_note": "(MU)"
+    },
+    {
+      "title": "ドラゴンクエストIV 導かれし者たち PS版",
+      "publisher": "エニックス",
+      "release_year": "2001年",
+      "genre": "RPG",
+      "platform": "PlayStation",
+      "shipments": "120万本",
+      "sales": "122万本",
+      "source_note": "(DQ)"
+    },
+    {
+      "title": "グランツーリスモ4",
+      "publisher": "SCE",
+      "release_year": "2004年",
+      "genre": "レース",
+      "platform": "PlayStation 2",
+      "shipments": "116万本",
+      "sales": "121万本",
+      "source_note": "(GT)"
+    },
+    {
+      "title": "ドラゴンクエストI・II",
+      "publisher": "エニックス",
+      "release_year": "1993年",
+      "genre": "RPG",
+      "platform": "スーパーファミコン",
+      "shipments": "120万本",
+      "sales": "",
+      "source_note": "(DQ)"
+    },
+    {
+      "title": "ダービースタリオンIII",
+      "publisher": "アスキー",
+      "release_year": "1995年",
+      "genre": "シミュレーション",
+      "platform": "スーパーファミコン",
+      "shipments": "120万本",
+      "sales": "",
+      "source_note": "(DS)"
+    },
+    {
+      "title": "モンスターハンター3（トライ）",
+      "publisher": "カプコン",
+      "release_year": "2009年",
+      "genre": "アクション",
+      "platform": "Wii",
+      "shipments": "120万本",
+      "sales": "115万本",
+      "source_note": "(MH)"
+    },
+    {
+      "title": "バイオハザード",
+      "publisher": "カプコン",
+      "release_year": "1996年",
+      "genre": "アクションアドベンチャー",
+      "platform": "PlayStation",
+      "shipments": "111万本",
+      "sales": "119万本",
+      "source_note": "(BF)"
+    },
+    {
+      "title": "イナズマイレブン2 脅威の侵略者 ファイア/ブリザード",
+      "publisher": "レベルファイブ",
+      "release_year": "2009年",
+      "genre": "RPG",
+      "platform": "ニンテンドーDS",
+      "shipments": "119万本",
+      "sales": "115万本",
+      "source_note": "(IE)"
+    },
+    {
+      "title": "星のカービィ 参上! ドロッチェ団",
+      "publisher": "任天堂",
+      "release_year": "2006年",
+      "genre": "アクション",
+      "platform": "ニンテンドーDS",
+      "shipments": "118万本",
+      "sales": "112万本",
+      "source_note": "(HK)"
+    },
+    {
+      "title": "ルイージマンション2",
+      "publisher": "任天堂",
+      "release_year": "2013年",
+      "genre": "アクションアドベンチャー",
+      "platform": "ニンテンドー3DS",
+      "shipments": "118万本",
+      "sales": "110万本",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "真・三國無双2",
+      "publisher": "コーエー",
+      "release_year": "2001年",
+      "genre": "アクション",
+      "platform": "PlayStation 2",
+      "shipments": "117万本",
+      "sales": "106万本",
+      "source_note": "(MU)"
+    },
+    {
+      "title": "チョコボの不思議なダンジョン",
+      "publisher": "スクウェア",
+      "release_year": "1997年",
+      "genre": "RPG",
+      "platform": "PlayStation",
+      "shipments": "110万本",
+      "sales": "116万本",
+      "source_note": ""
+    },
+    {
+      "title": "ゼルダの伝説 神々のトライフォース",
+      "publisher": "任天堂",
+      "release_year": "1991年",
+      "genre": "アクションアドベンチャー",
+      "platform": "スーパーファミコン",
+      "shipments": "116万本",
+      "sales": "",
+      "source_note": "(ZD)"
+    },
+    {
+      "title": "ワールドサッカーウイニングイレブン6",
+      "publisher": "KONAMI",
+      "release_year": "2002年",
+      "genre": "スポーツ",
+      "platform": "PlayStation 2",
+      "shipments": "116万本",
+      "sales": "111万本",
+      "source_note": "(WE)"
+    },
+    {
+      "title": "ワールドサッカーウイニングイレブン9",
+      "publisher": "KONAMI",
+      "release_year": "2005年",
+      "genre": "スポーツ",
+      "platform": "PlayStation 2",
+      "shipments": "116万本",
+      "sales": "93万本",
+      "source_note": "(WE)"
+    },
+    {
+      "title": "ドラゴンボールZ 超武闘伝2",
+      "publisher": "バンダイ",
+      "release_year": "1993年",
+      "genre": "格闘",
+      "platform": "スーパーファミコン",
+      "shipments": "115万本",
+      "sales": "",
+      "source_note": "(DB)"
+    },
+    {
+      "title": "ドラえもん",
+      "publisher": "ハドソン",
+      "release_year": "1986年",
+      "genre": "アクション",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "115万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "スーパーマリオメーカー for ニンテンドー3DS",
+      "publisher": "任天堂",
+      "release_year": "2016年",
+      "genre": "作って、遊ぶ",
+      "platform": "ニンテンドー3DS",
+      "shipments": "",
+      "sales": "114万本",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "ポケモンスタジアム金銀",
+      "publisher": "任天堂",
+      "release_year": "2000年",
+      "genre": "その他",
+      "platform": "NINTENDO 64",
+      "shipments": "114万本",
+      "sales": "",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "ワールドサッカーウイニングイレブン7",
+      "publisher": "KONAMI",
+      "release_year": "2003年",
+      "genre": "スポーツ",
+      "platform": "PlayStation 2",
+      "shipments": "113万本",
+      "sales": "110万本",
+      "source_note": "(WE)"
+    },
+    {
+      "title": "モンスターハンター ポータブル",
+      "publisher": "カプコン",
+      "release_year": "2005年",
+      "genre": "アクション",
+      "platform": "PlayStation Portable",
+      "shipments": "",
+      "sales": "112万本",
+      "source_note": "(MH)"
+    },
+    {
+      "title": "カービィのピンボール",
+      "publisher": "任天堂",
+      "release_year": "1993年",
+      "genre": "アクション",
+      "platform": "ゲームボーイ",
+      "shipments": "112万本",
+      "sales": "",
+      "source_note": "(HK)"
+    },
+    {
+      "title": "ワールドサッカーウイニングイレブン8",
+      "publisher": "KONAMI",
+      "release_year": "2004年",
+      "genre": "スポーツ",
+      "platform": "PlayStation 2",
+      "shipments": "112万本",
+      "sales": "105万本",
+      "source_note": "(WE)"
+    },
+    {
+      "title": "ヨッシーアイランドDS",
+      "publisher": "任天堂",
+      "release_year": "2007年",
+      "genre": "アクション",
+      "platform": "ニンテンドーDS",
+      "shipments": "112万本",
+      "sales": "105万本",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "XI［sai］（サイ）",
+      "publisher": "SCE",
+      "release_year": "1998年",
+      "genre": "パズル",
+      "platform": "PlayStation",
+      "shipments": "112万本",
+      "sales": "86万本",
+      "source_note": ""
+    },
+    {
+      "title": "たまごっちのプチプチおみせっち",
+      "publisher": "バンダイ",
+      "release_year": "2005年",
+      "genre": "シミュレーション",
+      "platform": "ニンテンドーDS",
+      "shipments": "103万本",
+      "sales": "111万本",
+      "source_note": "(TA)"
+    },
+    {
+      "title": "アークザラッド",
+      "publisher": "SCE",
+      "release_year": "1995年",
+      "genre": "シミュレーションRPG",
+      "platform": "PlayStation",
+      "shipments": "111万本",
+      "sales": "",
+      "source_note": "(AL)"
+    },
+    {
+      "title": "オシャレ魔女♥ラブandベリー",
+      "publisher": "セガ",
+      "release_year": "2006年",
+      "genre": "音楽",
+      "platform": "ニンテンドーDS",
+      "shipments": "111万本",
+      "sales": "105万本",
+      "source_note": ""
+    },
+    {
+      "title": "ロードランナー",
+      "publisher": "ハドソン",
+      "release_year": "1984年",
+      "genre": "パズル",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "110万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "ファミコンジャンプ 英雄列伝（ - ヒーローれつでん）",
+      "publisher": "バンダイ",
+      "release_year": "1989年",
+      "genre": "アクションRPG",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "110万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "魔界塔士Sa・Ga",
+      "publisher": "スクウェア",
+      "release_year": "1989年",
+      "genre": "RPG",
+      "platform": "ゲームボーイ",
+      "shipments": "110万本",
+      "sales": "",
+      "source_note": "(SG)"
+    },
+    {
+      "title": "ロマンシング サ・ガ2",
+      "publisher": "スクウェア",
+      "release_year": "1993年",
+      "genre": "RPG",
+      "platform": "スーパーファミコン",
+      "shipments": "110万本",
+      "sales": "",
+      "source_note": "(SG)"
+    },
+    {
+      "title": "ダービースタリオン96",
+      "publisher": "アスキー",
+      "release_year": "1996年",
+      "genre": "シミュレーション",
+      "platform": "スーパーファミコン",
+      "shipments": "110万本",
+      "sales": "",
+      "source_note": "(DS)"
+    },
+    {
+      "title": "星のカービィ スーパーデラックス",
+      "publisher": "任天堂",
+      "release_year": "1996年",
+      "genre": "アクション",
+      "platform": "スーパーファミコン",
+      "shipments": "110万本",
+      "sales": "",
+      "source_note": "(HK)"
+    },
+    {
+      "title": "サガ フロンティア",
+      "publisher": "スクウェア",
+      "release_year": "1997年",
+      "genre": "RPG",
+      "platform": "PlayStation",
+      "shipments": "110万本",
+      "sales": "108万本",
+      "source_note": "(SG)"
+    },
+    {
+      "title": "パラサイト・イヴ",
+      "publisher": "スクウェア",
+      "release_year": "1998年",
+      "genre": "アクションRPG",
+      "platform": "PlayStation",
+      "shipments": "110万本",
+      "sales": "106万本",
+      "source_note": ""
+    },
+    {
+      "title": "ファイナルファンタジーIII DS版",
+      "publisher": "スクウェア・エニックス",
+      "release_year": "2006年",
+      "genre": "RPG",
+      "platform": "ニンテンドーDS",
+      "shipments": "110万本",
+      "sales": "105万本",
+      "source_note": "(FF)"
+    },
+    {
+      "title": "鬼武者",
+      "publisher": "カプコン",
+      "release_year": "2001年",
+      "genre": "アクション",
+      "platform": "PlayStation 2",
+      "shipments": "110万本",
+      "sales": "101万本",
+      "source_note": "(OM)"
+    },
+    {
+      "title": "イナズマイレブン3 世界への挑戦!! スパーク/ボンバー",
+      "publisher": "レベルファイブ",
+      "release_year": "2010年",
+      "genre": "RPG",
+      "platform": "ニンテンドーDS",
+      "shipments": "110万本",
+      "sales": "101万本",
+      "source_note": "(IE)"
+    },
+    {
+      "title": "鬼武者2",
+      "publisher": "カプコン",
+      "release_year": "2002年",
+      "genre": "アクション",
+      "platform": "PlayStation 2",
+      "shipments": "110万本",
+      "sales": "100万本",
+      "source_note": "(OM)"
+    },
+    {
+      "title": "遊☆戯☆王デュエルモンスターズII 闇界決闘記 （ - ダークデュエルストーリーズ）",
+      "publisher": "KONAMI",
+      "release_year": "1999年",
+      "genre": "テーブル",
+      "platform": "ゲームボーイ・カラー共通",
+      "shipments": "110万本",
+      "sales": "98万本",
+      "source_note": "(YU)"
+    },
+    {
+      "title": "マリオテニス64",
+      "publisher": "任天堂",
+      "release_year": "2000年",
+      "genre": "スポーツ",
+      "platform": "NINTENDO 64",
+      "shipments": "110万本",
+      "sales": "97万本",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "ダービースタリオン99",
+      "publisher": "アスキー",
+      "release_year": "1999年",
+      "genre": "シミュレーション",
+      "platform": "PlayStation",
+      "shipments": "110万本",
+      "sales": "87万本",
+      "source_note": "(DS)"
+    },
+    {
+      "title": "ドンキーコング64",
+      "publisher": "任天堂",
+      "release_year": "1999年",
+      "genre": "アクション",
+      "platform": "NINTENDO 64",
+      "shipments": "110万本",
+      "sales": "84万本",
+      "source_note": "(DK)"
+    },
+    {
+      "title": "光神話 パルテナの鏡",
+      "publisher": "任天堂",
+      "release_year": "1986年",
+      "genre": "アクション",
+      "platform": "ファミリーコンピュータ ディスクシステム",
+      "shipments": "109万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "プロ野球ファミリースタジアム'88",
+      "publisher": "ナムコ",
+      "release_year": "1988年",
+      "genre": "スポーツ",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "109万本",
+      "sales": "",
+      "source_note": "(FS)"
+    },
+    {
+      "title": "リズム天国 ミラクルスターズ",
+      "publisher": "任天堂",
+      "release_year": "2026年",
+      "genre": "音楽",
+      "platform": "Nintendo Switch",
+      "shipments": "",
+      "sales": "108万本",
+      "source_note": ""
+    },
+    {
+      "title": "スーパードンキーコングGB",
+      "publisher": "任天堂",
+      "release_year": "1995年",
+      "genre": "アクション",
+      "platform": "ゲームボーイ",
+      "shipments": "108万本",
+      "sales": "",
+      "source_note": "(DK)"
+    },
+    {
+      "title": "ワールドサッカーウイニングイレブン10",
+      "publisher": "KONAMI",
+      "release_year": "2006年",
+      "genre": "スポーツ",
+      "platform": "PlayStation 2",
+      "shipments": "108万本",
+      "sales": "105万本",
+      "source_note": "(WE)"
+    },
+    {
+      "title": "スーパーマリオギャラクシー2",
+      "publisher": "任天堂",
+      "release_year": "2010年",
+      "genre": "アクション",
+      "platform": "Wii",
+      "shipments": "108万本",
+      "sales": "104万本",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "ファイナルファンタジーXV",
+      "publisher": "スクウェア・エニックス",
+      "release_year": "2016年",
+      "genre": "RPG",
+      "platform": "PlayStation 4・Xbox One",
+      "shipments": "",
+      "sales": "107万本",
+      "source_note": "(FF)"
+    },
+    {
+      "title": "戦国無双",
+      "publisher": "コーエー",
+      "release_year": "2004年",
+      "genre": "アクション",
+      "platform": "PlayStation 2",
+      "shipments": "107万本",
+      "sales": "102万本",
+      "source_note": "(MU)"
+    },
+    {
+      "title": "beatmania",
+      "publisher": "KONAMI",
+      "release_year": "1998年",
+      "genre": "音楽",
+      "platform": "PlayStation",
+      "shipments": "107万本",
+      "sales": "93万本",
+      "source_note": "(BM)"
+    },
+    {
+      "title": "マリオパーティ2",
+      "publisher": "任天堂",
+      "release_year": "1999年",
+      "genre": "その他",
+      "platform": "NINTENDO 64",
+      "shipments": "107万本",
+      "sales": "88万本",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "星のカービィ64",
+      "publisher": "任天堂",
+      "release_year": "2000年",
+      "genre": "アクション",
+      "platform": "NINTENDO 64",
+      "shipments": "107万本",
+      "sales": "88万本",
+      "source_note": "(HK)"
+    },
+    {
+      "title": "Minecraft: PlayStation Vita Edition",
+      "publisher": "SCE",
+      "release_year": "2014年",
+      "genre": "オープンワールド",
+      "platform": "PlayStation Vita",
+      "shipments": "",
+      "sales": "106万本",
+      "source_note": ""
+    },
+    {
+      "title": "アークザラッドII",
+      "publisher": "SCE",
+      "release_year": "1996年",
+      "genre": "シミュレーションRPG",
+      "platform": "PlayStation",
+      "shipments": "106万本",
+      "sales": "81万本",
+      "source_note": "(AL)"
+    },
+    {
+      "title": "キン肉マン マッスルタッグマッチ",
+      "publisher": "バンダイ",
+      "release_year": "1985年",
+      "genre": "アクション",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "105万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "高橋名人の冒険島",
+      "publisher": "ハドソン",
+      "release_year": "1986年",
+      "genre": "アクション",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "105万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "真・三國無双4",
+      "publisher": "コーエー",
+      "release_year": "2005年",
+      "genre": "アクション",
+      "platform": "PlayStation 2",
+      "shipments": "105万本",
+      "sales": "92万本",
+      "source_note": "(MU)"
+    },
+    {
+      "title": "機動戦士Ζガンダム エゥーゴvs.ティターンズ",
+      "publisher": "バンダイ",
+      "release_year": "2003年",
+      "genre": "アクション",
+      "platform": "PlayStation 2・ニンテンドーゲームキューブ",
+      "shipments": "105万本",
+      "sales": "",
+      "source_note": "(GM)"
+    },
+    {
+      "title": "メトロイド",
+      "publisher": "任天堂",
+      "release_year": "1986年",
+      "genre": "アクション",
+      "platform": "ファミリーコンピュータ ディスクシステム",
+      "shipments": "104万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "ドンキーコング リターンズ",
+      "publisher": "任天堂",
+      "release_year": "2010年",
+      "genre": "アクション",
+      "platform": "Wii",
+      "shipments": "103万本",
+      "sales": "103万本",
+      "source_note": "(DK)"
+    },
+    {
+      "title": "スーパーマリオギャラクシー",
+      "publisher": "任天堂",
+      "release_year": "2007年",
+      "genre": "アクション",
+      "platform": "Wii",
+      "shipments": "103万本",
+      "sales": "102万本",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "ポケモンピンボール",
+      "publisher": "任天堂",
+      "release_year": "1999年",
+      "genre": "アクション",
+      "platform": "ゲームボーイ・カラー共通",
+      "shipments": "102万本",
+      "sales": "80万本",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "レイトン教授と不思議な町",
+      "publisher": "レベルファイブ",
+      "release_year": "2007年",
+      "genre": "アドベンチャー",
+      "platform": "ニンテンドーDS",
+      "shipments": "101万本",
+      "sales": "100万本",
+      "source_note": ""
+    },
+    {
+      "title": "しゃべる!DSお料理ナビ",
+      "publisher": "任天堂",
+      "release_year": "2006年",
+      "genre": "その他",
+      "platform": "ニンテンドーDS",
+      "shipments": "101万本",
+      "sales": "96万本",
+      "source_note": "(TG)"
+    },
+    {
+      "title": "見る力を実践で鍛える DS眼力トレーニング",
+      "publisher": "任天堂",
+      "release_year": "2007年",
+      "genre": "その他",
+      "platform": "ニンテンドーDS",
+      "shipments": "101万本",
+      "sales": "95万本",
+      "source_note": "(TG)"
+    },
+    {
+      "title": "どこでもいっしょ",
+      "publisher": "SCE",
+      "release_year": "1999年",
+      "genre": "その他",
+      "platform": "PlayStation",
+      "shipments": "101万本",
+      "sales": "81万本",
+      "source_note": ""
+    },
+    {
+      "title": "SIMPLE1500シリーズ THE 麻雀",
+      "publisher": "ディースリー・ パブリッシャー",
+      "release_year": "1998年",
+      "genre": "テーブル",
+      "platform": "PlayStation",
+      "shipments": "101万本",
+      "sales": "78万本",
+      "source_note": ""
+    },
+    {
+      "title": "I.Q Intelligent Qube（ - インテリジェントキューブ）",
+      "publisher": "SCE",
+      "release_year": "1997年",
+      "genre": "パズル",
+      "platform": "PlayStation",
+      "shipments": "101万本",
+      "sales": "75万本",
+      "source_note": ""
+    },
+    {
+      "title": "ドラゴンクエストX 目覚めし五つの種族 オンライン",
+      "publisher": "スクウェア･エニックス",
+      "release_year": "2012年",
+      "genre": "RPG",
+      "platform": "Wii・Wii U・Windows",
+      "shipments": "100万本",
+      "sales": "",
+      "source_note": "(DQ)"
+    },
+    {
+      "title": "アイスクライマー",
+      "publisher": "任天堂",
+      "release_year": "1985年",
+      "genre": "アクション",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "100万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "忍者じゃじゃ丸くん",
+      "publisher": "ジャレコ",
+      "release_year": "1985年",
+      "genre": "アクション",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "100万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "スターソルジャー",
+      "publisher": "ハドソン",
+      "release_year": "1986年",
+      "genre": "シューティング",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "100万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "桃太郎伝説",
+      "publisher": "ハドソン",
+      "release_year": "1987年",
+      "genre": "RPG",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "100万本",
+      "sales": "",
+      "source_note": "(MT)"
+    },
+    {
+      "title": "星のカービィ 夢の泉の物語",
+      "publisher": "任天堂",
+      "release_year": "1993年",
+      "genre": "アクション",
+      "platform": "ファミリーコンピュータ",
+      "shipments": "100万本",
+      "sales": "",
+      "source_note": "(HK)"
+    },
+    {
+      "title": "スーパー桃太郎電鉄III",
+      "publisher": "ハドソン",
+      "release_year": "1994年",
+      "genre": "ボード",
+      "platform": "スーパーファミコン",
+      "shipments": "100万本",
+      "sales": "",
+      "source_note": "(MT)"
+    },
+    {
+      "title": "桃太郎電鉄7",
+      "publisher": "ハドソン",
+      "release_year": "1997年",
+      "genre": "ボード",
+      "platform": "PlayStation",
+      "shipments": "100万本",
+      "sales": "",
+      "source_note": "(MT)"
+    },
+    {
+      "title": "機動戦士ガンダム 連邦vs.ジオン",
+      "publisher": "バンダイ",
+      "release_year": "2001年",
+      "genre": "アクション",
+      "platform": "PlayStation 2・ドリームキャスト",
+      "shipments": "100万本",
+      "sales": "",
+      "source_note": "(GM)"
+    },
+    {
+      "title": "ぽこ あ ポケモン",
+      "publisher": "ポケモン",
+      "release_year": "2026年",
+      "genre": "サンドボックス",
+      "platform": "Nintendo Switch 2",
+      "shipments": "",
+      "sales": "100万本",
+      "source_note": "(PO)"
+    },
+    {
+      "title": "スーパーマリオメーカー",
+      "publisher": "任天堂",
+      "release_year": "2015年",
+      "genre": "アクション",
+      "platform": "Wii U",
+      "shipments": "",
+      "sales": "100万本",
+      "source_note": "(MA)"
+    },
+    {
+      "title": "ELDEN RING",
+      "publisher": "フロム・ソフトウェア",
+      "release_year": "2022年",
+      "genre": "アクションRPG",
+      "platform": "PlayStation 4 ･ PlayStation 5 ･ Xbox One ･ Xbox Series X/S ･ Windows",
+      "shipments": "100万本",
+      "sales": "",
+      "source_note": ""
+    },
+    {
+      "title": "実戦パチスロ必勝法! 北斗の拳",
+      "publisher": "サミー",
+      "release_year": "2004年",
+      "genre": "シミュレーション",
+      "platform": "PlayStation 2",
+      "shipments": "100万本",
+      "sales": "96万本",
+      "source_note": ""
+    },
+    {
+      "title": "電車でGO!",
+      "publisher": "タイトー",
+      "release_year": "1997年",
+      "genre": "シミュレーション",
+      "platform": "PlayStation",
+      "shipments": "100万本",
+      "sales": "95万本",
+      "source_note": ""
+    },
+    {
+      "title": "ディシディア ファイナルファンタジー",
+      "publisher": "スクウェア・エニックス",
+      "release_year": "2008年",
+      "genre": "アクション",
+      "platform": "PlayStation Portable",
+      "shipments": "100万本",
+      "sales": "95万本",
+      "source_note": "(FF)"
+    },
+    {
+      "title": "モンスターストライク",
+      "publisher": "mixi",
+      "release_year": "2015年",
+      "genre": "アクションRPG",
+      "platform": "ニンテンドー3DS",
+      "shipments": "100万本",
+      "sales": "90万本",
+      "source_note": ""
+    }
+  ],
+  "meta": {
+    "title": "日本のミリオンセラーゲームソフト一覧 (Million-selling video games in Japan) - Free Download",
+    "description": "日本国内で100万本以上を出荷・販売したゲームソフトの一覧。タイトル・メーカー・発売年・ジャンル・ハード・出荷本数・販売本数を収録。 Contains 308 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本のミリオンセラーゲームソフト一覧 (Million-selling video games in Japan) | ListBase",
+    "seo_description": "Download 日本のミリオンセラーゲームソフト一覧 (Million-selling video games in Japan) — 308 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 308 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3%E3%82%BB%E3%83%A9%E3%83%BC%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BD%E3%83%95%E3%83%88%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}
