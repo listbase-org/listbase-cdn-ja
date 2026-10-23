@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-23T02:12:50.845Z",
-  "total_datasets": 432,
-  "total_records": 424887,
+  "generated": "2026-10-23T02:12:55.192Z",
+  "total_datasets": 433,
+  "total_records": 427052,
   "categories": [
     {
       "id": "culture",
@@ -34,6 +34,10 @@
     },
     {
       "id": "language",
+      "dataset_count": 1
+    },
+    {
+      "id": "law",
       "dataset_count": 1
     },
     {
@@ -4957,6 +4961,37 @@
         "xlsx": {
           "name": "ja-joyo-kanji_JA.xlsx",
           "size": 114212
+        }
+      }
+    },
+    {
+      "id": "ja-horitsu-ichiran",
+      "name": "日本の法律一覧（e-Gov法令検索）(List of Japanese Acts)",
+      "category": "law",
+      "record_count": 2165,
+      "columns": [
+        "law_id",
+        "law_num",
+        "title",
+        "title_kana",
+        "abbrev",
+        "category",
+        "promulgation_date",
+        "last_amendment_enforcement_date",
+        "repeal_status",
+        "url"
+      ],
+      "source": "https://laws.e-gov.go.jp/api/2/laws?law_type=Act",
+      "updated": "2026-10",
+      "size": 1214533,
+      "files": {
+        "csv": {
+          "name": "ja-horitsu-ichiran_JA.csv",
+          "size": 718597
+        },
+        "xlsx": {
+          "name": "ja-horitsu-ichiran_JA.xlsx",
+          "size": 233024
         }
       }
     },
