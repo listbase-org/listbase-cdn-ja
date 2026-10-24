@@ -1,0 +1,1231 @@
+{
+  "id": "ja-juyo-dentoteki-kenzobutsugun",
+  "name": "重要伝統的建造物群保存地区（重伝建）一覧 (Important Preservation Districts for Groups of Traditional Buildings)",
+  "title": "重要伝統的建造物群保存地区（重伝建）一覧 (Important Preservation Districts for Groups of Traditional Buildings)",
+  "description": "文化庁が選定した重要伝統的建造物群保存地区（重伝建）の一覧（都道府県・市区町村・地区名・選定年月日・種別・面積）。古い町並み観光の参考に。",
+  "category": "tourism",
+  "source": "https://ja.wikipedia.org/wiki/%E9%87%8D%E8%A6%81%E4%BC%9D%E7%B5%B1%E7%9A%84%E5%BB%BA%E9%80%A0%E7%89%A9%E7%BE%A4%E4%BF%9D%E5%AD%98%E5%9C%B0%E5%8C%BA",
+  "source_url": "https://ja.wikipedia.org/wiki/%E9%87%8D%E8%A6%81%E4%BC%9D%E7%B5%B1%E7%9A%84%E5%BB%BA%E9%80%A0%E7%89%A9%E7%BE%A4%E4%BF%9D%E5%AD%98%E5%9C%B0%E5%8C%BA",
+  "updated": "2026-10",
+  "record_count": 130,
+  "columns": [
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "selected",
+      "label": "Selected",
+      "type": "string"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "number"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "prefecture": "北海道",
+      "municipality": "函館市",
+      "name": "元町末広町",
+      "selected": "1989年4月21日",
+      "criteria": 3,
+      "type": "港町",
+      "area_ha": 14.5
+    },
+    {
+      "prefecture": "青森県",
+      "municipality": "弘前市",
+      "name": "仲町",
+      "selected": "1978年5月31日",
+      "criteria": 2,
+      "type": "武家町",
+      "area_ha": 10.6
+    },
+    {
+      "prefecture": "青森県",
+      "municipality": "黒石市",
+      "name": "中町",
+      "selected": "2005年7月22日",
+      "criteria": 1,
+      "type": "商家町",
+      "area_ha": 3.1
+    },
+    {
+      "prefecture": "岩手県",
+      "municipality": "金ケ崎町",
+      "name": "城内諏訪小路",
+      "selected": "2001年6月15日",
+      "criteria": 2,
+      "type": "武家町",
+      "area_ha": 34.8
+    },
+    {
+      "prefecture": "宮城県",
+      "municipality": "村田町",
+      "name": "村田",
+      "selected": "2014年9月18日",
+      "criteria": 1,
+      "type": "商家町",
+      "area_ha": 7.4
+    },
+    {
+      "prefecture": "秋田県",
+      "municipality": "横手市",
+      "name": "増田",
+      "selected": "2013年12月27日",
+      "criteria": 2,
+      "type": "在郷町",
+      "area_ha": 10.6
+    },
+    {
+      "prefecture": "秋田県",
+      "municipality": "仙北市",
+      "name": "角館",
+      "selected": "1976年9月4日",
+      "criteria": 2,
+      "type": "武家町",
+      "area_ha": 6.9
+    },
+    {
+      "prefecture": "福島県",
+      "municipality": "喜多方市",
+      "name": "小田付",
+      "selected": "2018年8月17日",
+      "criteria": 2,
+      "type": "在郷町・醸造町",
+      "area_ha": 15.5
+    },
+    {
+      "prefecture": "福島県",
+      "municipality": "下郷町",
+      "name": "大内宿",
+      "selected": "1981年4月18日",
+      "criteria": 3,
+      "type": "宿場町",
+      "area_ha": 11.3
+    },
+    {
+      "prefecture": "福島県",
+      "municipality": "南会津町",
+      "name": "前沢",
+      "selected": "2011年6月20日",
+      "criteria": 3,
+      "type": "山村集落",
+      "area_ha": 13.3
+    },
+    {
+      "prefecture": "茨城県",
+      "municipality": "桜川市",
+      "name": "真壁",
+      "selected": "2010年6月29日",
+      "criteria": 2,
+      "type": "在郷町",
+      "area_ha": 17.6
+    },
+    {
+      "prefecture": "栃木県",
+      "municipality": "栃木市",
+      "name": "嘉右衛門町",
+      "selected": "2012年7月9日",
+      "criteria": 2,
+      "type": "在郷町",
+      "area_ha": 9.6
+    },
+    {
+      "prefecture": "群馬県",
+      "municipality": "桐生市",
+      "name": "桐生新町",
+      "selected": "2012年7月9日",
+      "criteria": 2,
+      "type": "製織町",
+      "area_ha": 13.4
+    },
+    {
+      "prefecture": "群馬県",
+      "municipality": "中之条町",
+      "name": "六合赤岩",
+      "selected": "2006年7月5日",
+      "criteria": 3,
+      "type": "山村・養蚕集落",
+      "area_ha": 63
+    },
+    {
+      "prefecture": "埼玉県",
+      "municipality": "川越市",
+      "name": "川越",
+      "selected": "1999年12月1日",
+      "criteria": 1,
+      "type": "商家町",
+      "area_ha": 7.8
+    },
+    {
+      "prefecture": "千葉県",
+      "municipality": "香取市",
+      "name": "佐原",
+      "selected": "1996年12月10日",
+      "criteria": 3,
+      "type": "商家町",
+      "area_ha": 7.1
+    },
+    {
+      "prefecture": "新潟県",
+      "municipality": "佐渡市",
+      "name": "宿根木",
+      "selected": "1991年4月30日",
+      "criteria": 3,
+      "type": "港町",
+      "area_ha": 28.5
+    },
+    {
+      "prefecture": "新潟県",
+      "municipality": "佐渡市",
+      "name": "小木町",
+      "selected": "2024年8月15日",
+      "criteria": 2,
+      "type": "港町",
+      "area_ha": 13.3
+    },
+    {
+      "prefecture": "富山県",
+      "municipality": "高岡市",
+      "name": "山町筋",
+      "selected": "2000年12月4日",
+      "criteria": 1,
+      "type": "商家町",
+      "area_ha": 5.5
+    },
+    {
+      "prefecture": "富山県",
+      "municipality": "高岡市",
+      "name": "金屋町",
+      "selected": "2012年12月28日",
+      "criteria": 1,
+      "type": "鋳物師町",
+      "area_ha": 6.4
+    },
+    {
+      "prefecture": "富山県",
+      "municipality": "高岡市",
+      "name": "吉久",
+      "selected": "2020年12月23日",
+      "criteria": 2,
+      "type": "在郷町",
+      "area_ha": 4.1
+    },
+    {
+      "prefecture": "富山県",
+      "municipality": "南砺市",
+      "name": "相倉（五箇山）",
+      "selected": "1994年12月21日",
+      "criteria": 3,
+      "type": "山村集落",
+      "area_ha": 18
+    },
+    {
+      "prefecture": "富山県",
+      "municipality": "南砺市",
+      "name": "菅沼（五箇山）",
+      "selected": "1994年12月21日",
+      "criteria": 3,
+      "type": "山村集落",
+      "area_ha": 4.4
+    },
+    {
+      "prefecture": "石川県",
+      "municipality": "金沢市",
+      "name": "東山ひがし",
+      "selected": "2001年11月14日",
+      "criteria": 1,
+      "type": "茶屋町",
+      "area_ha": 1.8
+    },
+    {
+      "prefecture": "石川県",
+      "municipality": "金沢市",
+      "name": "主計町",
+      "selected": "2008年6月9日",
+      "criteria": 1,
+      "type": "茶屋町",
+      "area_ha": 0.6
+    },
+    {
+      "prefecture": "石川県",
+      "municipality": "金沢市",
+      "name": "卯辰山麓",
+      "selected": "2011年11月29日",
+      "criteria": 2,
+      "type": "寺町",
+      "area_ha": 22.1
+    },
+    {
+      "prefecture": "石川県",
+      "municipality": "金沢市",
+      "name": "寺町台",
+      "selected": "2012年12月28日",
+      "criteria": 2,
+      "type": "寺町",
+      "area_ha": 22
+    },
+    {
+      "prefecture": "石川県",
+      "municipality": "輪島市",
+      "name": "黒島地区",
+      "selected": "2009年6月30日",
+      "criteria": 2,
+      "type": "船主集落",
+      "area_ha": 20.5
+    },
+    {
+      "prefecture": "石川県",
+      "municipality": "加賀市",
+      "name": "加賀橋立",
+      "selected": "2005年12月27日",
+      "criteria": 2,
+      "type": "船主集落",
+      "area_ha": 11
+    },
+    {
+      "prefecture": "石川県",
+      "municipality": "加賀市",
+      "name": "加賀東谷",
+      "selected": "2011年11月29日",
+      "criteria": 3,
+      "type": "山村集落",
+      "area_ha": 151.8
+    },
+    {
+      "prefecture": "石川県",
+      "municipality": "白山市",
+      "name": "白峰",
+      "selected": "2012年7月9日",
+      "criteria": 3,
+      "type": "山村・養蚕集落",
+      "area_ha": 10.7
+    },
+    {
+      "prefecture": "福井県",
+      "municipality": "小浜市",
+      "name": "小浜西組",
+      "selected": "2008年6月9日",
+      "criteria": 2,
+      "type": "商家町・茶屋町",
+      "area_ha": 19.1
+    },
+    {
+      "prefecture": "福井県",
+      "municipality": "南越前町",
+      "name": "今庄宿",
+      "selected": "2021年8月2日",
+      "criteria": 2,
+      "type": "宿場町",
+      "area_ha": 9.2
+    },
+    {
+      "prefecture": "福井県",
+      "municipality": "若狭町",
+      "name": "熊川宿",
+      "selected": "1996年7月9日",
+      "criteria": 3,
+      "type": "宿場町",
+      "area_ha": 10.8
+    },
+    {
+      "prefecture": "山梨県",
+      "municipality": "甲州市",
+      "name": "塩山下小田原上条",
+      "selected": "2015年7月8日",
+      "criteria": 3,
+      "type": "山村・養蚕集落",
+      "area_ha": 15.1
+    },
+    {
+      "prefecture": "山梨県",
+      "municipality": "早川町",
+      "name": "赤沢",
+      "selected": "1993年7月14日",
+      "criteria": 3,
+      "type": "山村・講中宿",
+      "area_ha": 25.6
+    },
+    {
+      "prefecture": "長野県",
+      "municipality": "長野市",
+      "name": "戸隠",
+      "selected": "2017年2月23日",
+      "criteria": 2,
+      "type": "宿坊群・門前町",
+      "area_ha": 73.3
+    },
+    {
+      "prefecture": "長野県",
+      "municipality": "須坂市",
+      "name": "須坂",
+      "selected": "2024年8月15日",
+      "criteria": 1,
+      "type": "製糸町・商家町",
+      "area_ha": 18.3
+    },
+    {
+      "prefecture": "長野県",
+      "municipality": "塩尻市",
+      "name": "奈良井",
+      "selected": "1978年3月31日",
+      "criteria": 3,
+      "type": "宿場町",
+      "area_ha": 17.6
+    },
+    {
+      "prefecture": "長野県",
+      "municipality": "塩尻市",
+      "name": "木曾平沢",
+      "selected": "2006年7月5日",
+      "criteria": 2,
+      "type": "漆工町",
+      "area_ha": 12.5
+    },
+    {
+      "prefecture": "長野県",
+      "municipality": "千曲市",
+      "name": "稲荷山",
+      "selected": "2014年12月10日",
+      "criteria": 2,
+      "type": "商家町",
+      "area_ha": 13
+    },
+    {
+      "prefecture": "長野県",
+      "municipality": "東御市",
+      "name": "海野宿",
+      "selected": "1987年4月28日",
+      "criteria": 1,
+      "type": "宿場・養蚕町",
+      "area_ha": 13.2
+    },
+    {
+      "prefecture": "長野県",
+      "municipality": "南木曽町",
+      "name": "妻籠宿",
+      "selected": "1976年9月4日",
+      "criteria": 3,
+      "type": "宿場町",
+      "area_ha": 1245.4
+    },
+    {
+      "prefecture": "長野県",
+      "municipality": "白馬村",
+      "name": "青鬼",
+      "selected": "2000年12月4日",
+      "criteria": 3,
+      "type": "山村集落",
+      "area_ha": 59.7
+    },
+    {
+      "prefecture": "岐阜県",
+      "municipality": "高山市",
+      "name": "三町",
+      "selected": "1979年2月3日",
+      "criteria": 1,
+      "type": "商家町",
+      "area_ha": 4.4
+    },
+    {
+      "prefecture": "岐阜県",
+      "municipality": "高山市",
+      "name": "下二之町大新町",
+      "selected": "2004年7月6日",
+      "criteria": 1,
+      "type": "商家町",
+      "area_ha": 6.6
+    },
+    {
+      "prefecture": "岐阜県",
+      "municipality": "美濃市",
+      "name": "美濃町",
+      "selected": "1999年5月13日",
+      "criteria": 1,
+      "type": "商家町",
+      "area_ha": 9.3
+    },
+    {
+      "prefecture": "岐阜県",
+      "municipality": "恵那市",
+      "name": "岩村町本通り",
+      "selected": "1998年4月17日",
+      "criteria": 3,
+      "type": "商家町",
+      "area_ha": 14.6
+    },
+    {
+      "prefecture": "岐阜県",
+      "municipality": "郡上市",
+      "name": "郡上八幡北町",
+      "selected": "2012年12月28日",
+      "criteria": 3,
+      "type": "城下町",
+      "area_ha": 14.1
+    },
+    {
+      "prefecture": "岐阜県",
+      "municipality": "白川村",
+      "name": "荻町（白川郷）",
+      "selected": "1976年9月4日",
+      "criteria": 3,
+      "type": "山村集落",
+      "area_ha": 45.6
+    },
+    {
+      "prefecture": "静岡県",
+      "municipality": "焼津市",
+      "name": "花沢",
+      "selected": "2014年9月18日",
+      "criteria": 3,
+      "type": "山村集落",
+      "area_ha": 19.5
+    },
+    {
+      "prefecture": "愛知県",
+      "municipality": "名古屋市（緑区）",
+      "name": "有松",
+      "selected": "2016年7月25日",
+      "criteria": 1,
+      "type": "染織町",
+      "area_ha": 7.3
+    },
+    {
+      "prefecture": "愛知県",
+      "municipality": "豊田市",
+      "name": "足助",
+      "selected": "2011年6月20日",
+      "criteria": 1,
+      "type": "商家町",
+      "area_ha": 21.5
+    },
+    {
+      "prefecture": "三重県",
+      "municipality": "亀山市",
+      "name": "関宿",
+      "selected": "1984年12月10日",
+      "criteria": 3,
+      "type": "宿場町",
+      "area_ha": 25
+    },
+    {
+      "prefecture": "滋賀県",
+      "municipality": "大津市",
+      "name": "坂本",
+      "selected": "1997年10月31日",
+      "criteria": 3,
+      "type": "里坊群・門前町",
+      "area_ha": 28.7
+    },
+    {
+      "prefecture": "滋賀県",
+      "municipality": "彦根市",
+      "name": "河原町芹町",
+      "selected": "2016年7月25日",
+      "criteria": 2,
+      "type": "商家町",
+      "area_ha": 5
+    },
+    {
+      "prefecture": "滋賀県",
+      "municipality": "近江八幡市",
+      "name": "八幡",
+      "selected": "1991年4月30日",
+      "criteria": 1,
+      "type": "商家町",
+      "area_ha": 13.1
+    },
+    {
+      "prefecture": "滋賀県",
+      "municipality": "東近江市",
+      "name": "五個荘金堂",
+      "selected": "1998年12月25日",
+      "criteria": 3,
+      "type": "農村集落",
+      "area_ha": 32.2
+    },
+    {
+      "prefecture": "京都府",
+      "municipality": "京都市（北区）",
+      "name": "上賀茂",
+      "selected": "1988年12月16日",
+      "criteria": 3,
+      "type": "社家町",
+      "area_ha": 2.7
+    },
+    {
+      "prefecture": "京都府",
+      "municipality": "京都市（東山区）",
+      "name": "産寧坂",
+      "selected": "1976年9月4日",
+      "criteria": 3,
+      "type": "門前町",
+      "area_ha": 8.2
+    },
+    {
+      "prefecture": "京都府",
+      "municipality": "京都市（東山区）",
+      "name": "祇園新橋",
+      "selected": "1976年9月4日",
+      "criteria": 1,
+      "type": "茶屋町",
+      "area_ha": 1.4
+    },
+    {
+      "prefecture": "京都府",
+      "municipality": "京都市（右京区）",
+      "name": "嵯峨鳥居本",
+      "selected": "1979年5月21日",
+      "criteria": 3,
+      "type": "門前町",
+      "area_ha": 2.6
+    },
+    {
+      "prefecture": "京都府",
+      "municipality": "南丹市",
+      "name": "美山町北",
+      "selected": "1993年12月8日",
+      "criteria": 3,
+      "type": "山村集落",
+      "area_ha": 127.5
+    },
+    {
+      "prefecture": "京都府",
+      "municipality": "伊根町",
+      "name": "伊根浦",
+      "selected": "2005年7月22日",
+      "criteria": 3,
+      "type": "漁村",
+      "area_ha": 310.2
+    },
+    {
+      "prefecture": "京都府",
+      "municipality": "与謝野町",
+      "name": "加悦",
+      "selected": "2005年12月27日",
+      "criteria": 2,
+      "type": "製織町",
+      "area_ha": 12
+    },
+    {
+      "prefecture": "大阪府",
+      "municipality": "富田林市",
+      "name": "富田林",
+      "selected": "1997年10月31日",
+      "criteria": 1,
+      "type": "寺内町・在郷町",
+      "area_ha": 12.9
+    },
+    {
+      "prefecture": "兵庫県",
+      "municipality": "神戸市（中央区）",
+      "name": "北野町山本通",
+      "selected": "1980年4月10日",
+      "criteria": 1,
+      "type": "港町",
+      "area_ha": 9.3
+    },
+    {
+      "prefecture": "兵庫県",
+      "municipality": "豊岡市",
+      "name": "出石",
+      "selected": "2007年12月4日",
+      "criteria": 2,
+      "type": "城下町",
+      "area_ha": 23.1
+    },
+    {
+      "prefecture": "兵庫県",
+      "municipality": "丹波篠山市",
+      "name": "篠山",
+      "selected": "2004年12月10日",
+      "criteria": 2,
+      "type": "城下町",
+      "area_ha": 40.2
+    },
+    {
+      "prefecture": "兵庫県",
+      "municipality": "丹波篠山市",
+      "name": "福住",
+      "selected": "2012年12月28日",
+      "criteria": 3,
+      "type": "宿場町・農村集落",
+      "area_ha": 25.2
+    },
+    {
+      "prefecture": "兵庫県",
+      "municipality": "養父市",
+      "name": "大屋町大杉",
+      "selected": "2017年7月31日",
+      "criteria": 3,
+      "type": "山村・養蚕集落",
+      "area_ha": 5.8
+    },
+    {
+      "prefecture": "兵庫県",
+      "municipality": "たつの市",
+      "name": "龍野",
+      "selected": "2019年12月23日",
+      "criteria": 1,
+      "type": "商家町・醸造町",
+      "area_ha": 15.9
+    },
+    {
+      "prefecture": "奈良県",
+      "municipality": "橿原市",
+      "name": "今井町",
+      "selected": "1993年12月8日",
+      "criteria": 1,
+      "type": "寺内町・在郷町",
+      "area_ha": 17.4
+    },
+    {
+      "prefecture": "奈良県",
+      "municipality": "五條市",
+      "name": "五條新町",
+      "selected": "2010年12月24日",
+      "criteria": 1,
+      "type": "商家町",
+      "area_ha": 7
+    },
+    {
+      "prefecture": "奈良県",
+      "municipality": "宇陀市",
+      "name": "松山",
+      "selected": "2006年7月5日",
+      "criteria": 1,
+      "type": "商家町",
+      "area_ha": 17
+    },
+    {
+      "prefecture": "和歌山県",
+      "municipality": "湯浅町",
+      "name": "湯浅",
+      "selected": "2006年12月19日",
+      "criteria": 2,
+      "type": "醸造町",
+      "area_ha": 6.3
+    },
+    {
+      "prefecture": "鳥取県",
+      "municipality": "倉吉市",
+      "name": "打吹玉川",
+      "selected": "1998年12月19日",
+      "criteria": 1,
+      "type": "商家町",
+      "area_ha": 9.2
+    },
+    {
+      "prefecture": "鳥取県",
+      "municipality": "若桜町",
+      "name": "若桜",
+      "selected": "2021年8月2日",
+      "criteria": 3,
+      "type": "商家町",
+      "area_ha": 9.5
+    },
+    {
+      "prefecture": "鳥取県",
+      "municipality": "大山町",
+      "name": "所子",
+      "selected": "2013年12月27日",
+      "criteria": 3,
+      "type": "農村集落",
+      "area_ha": 25.8
+    },
+    {
+      "prefecture": "島根県",
+      "municipality": "松江市",
+      "name": "美保関",
+      "selected": "2026年9月4日",
+      "criteria": 2,
+      "type": "門前町・港町",
+      "area_ha": 5.9
+    },
+    {
+      "prefecture": "島根県",
+      "municipality": "大田市",
+      "name": "大森銀山",
+      "selected": "1987年12月5日",
+      "criteria": 3,
+      "type": "鉱山町",
+      "area_ha": 162.7
+    },
+    {
+      "prefecture": "島根県",
+      "municipality": "大田市",
+      "name": "温泉津",
+      "selected": "2004年7月6日",
+      "criteria": 2,
+      "type": "港町・温泉町",
+      "area_ha": 36.6
+    },
+    {
+      "prefecture": "島根県",
+      "municipality": "津和野町",
+      "name": "津和野",
+      "selected": "2013年8月7日",
+      "criteria": 2,
+      "type": "武家町・商家町",
+      "area_ha": 11.1
+    },
+    {
+      "prefecture": "岡山県",
+      "municipality": "倉敷市",
+      "name": "倉敷川畔",
+      "selected": "1979年5月21日",
+      "criteria": 1,
+      "type": "商家町",
+      "area_ha": 15
+    },
+    {
+      "prefecture": "岡山県",
+      "municipality": "津山市",
+      "name": "城東",
+      "selected": "2013年8月7日",
+      "criteria": 1,
+      "type": "商家町",
+      "area_ha": 8.1
+    },
+    {
+      "prefecture": "岡山県",
+      "municipality": "津山市",
+      "name": "城西",
+      "selected": "2020年12月23日",
+      "criteria": 2,
+      "type": "寺町・商家町",
+      "area_ha": 12
+    },
+    {
+      "prefecture": "岡山県",
+      "municipality": "高梁市",
+      "name": "吹屋",
+      "selected": "1977年5月18日",
+      "criteria": 3,
+      "type": "鉱山町",
+      "area_ha": 6.4
+    },
+    {
+      "prefecture": "岡山県",
+      "municipality": "矢掛町",
+      "name": "矢掛宿",
+      "selected": "2020年12月23日",
+      "criteria": 2,
+      "type": "宿場町",
+      "area_ha": 11.5
+    },
+    {
+      "prefecture": "広島県",
+      "municipality": "呉市",
+      "name": "豊町御手洗",
+      "selected": "1994年7月4日",
+      "criteria": 2,
+      "type": "港町",
+      "area_ha": 6.9
+    },
+    {
+      "prefecture": "広島県",
+      "municipality": "竹原市",
+      "name": "竹原地区",
+      "selected": "1982年12月16日",
+      "criteria": 1,
+      "type": "製塩町",
+      "area_ha": 5
+    },
+    {
+      "prefecture": "広島県",
+      "municipality": "福山市",
+      "name": "鞆町",
+      "selected": "2017年11月28日",
+      "criteria": 2,
+      "type": "港町",
+      "area_ha": 8.6
+    },
+    {
+      "prefecture": "広島県",
+      "municipality": "廿日市市",
+      "name": "宮島町",
+      "selected": "2021年8月2日",
+      "criteria": 2,
+      "type": "門前町",
+      "area_ha": 16.8
+    },
+    {
+      "prefecture": "山口県",
+      "municipality": "萩市",
+      "name": "堀内地区",
+      "selected": "1976年9月4日",
+      "criteria": 2,
+      "type": "武家町",
+      "area_ha": 55
+    },
+    {
+      "prefecture": "山口県",
+      "municipality": "萩市",
+      "name": "平安古地区",
+      "selected": "1976年9月4日",
+      "criteria": 2,
+      "type": "武家町",
+      "area_ha": 4
+    },
+    {
+      "prefecture": "山口県",
+      "municipality": "萩市",
+      "name": "浜崎",
+      "selected": "2001年11月14日",
+      "criteria": 2,
+      "type": "港町",
+      "area_ha": 10.3
+    },
+    {
+      "prefecture": "山口県",
+      "municipality": "萩市",
+      "name": "佐々並市",
+      "selected": "2011年6月20日",
+      "criteria": 2,
+      "type": "宿場町",
+      "area_ha": 20.8
+    },
+    {
+      "prefecture": "山口県",
+      "municipality": "柳井市",
+      "name": "古市金屋",
+      "selected": "1984年12月10日",
+      "criteria": 1,
+      "type": "商家町",
+      "area_ha": 1.7
+    },
+    {
+      "prefecture": "徳島県",
+      "municipality": "美馬市",
+      "name": "脇町南町",
+      "selected": "1988年12月16日",
+      "criteria": 1,
+      "type": "商家町",
+      "area_ha": 5.3
+    },
+    {
+      "prefecture": "徳島県",
+      "municipality": "三好市",
+      "name": "東祖谷山村落合",
+      "selected": "2005年12月27日",
+      "criteria": 3,
+      "type": "山村集落",
+      "area_ha": 32.3
+    },
+    {
+      "prefecture": "徳島県",
+      "municipality": "牟岐町",
+      "name": "出羽島",
+      "selected": "2017年2月23日",
+      "criteria": 3,
+      "type": "漁村集落",
+      "area_ha": 3.7
+    },
+    {
+      "prefecture": "香川県",
+      "municipality": "丸亀市",
+      "name": "塩飽本島町笠島",
+      "selected": "1985年4月13日",
+      "criteria": 3,
+      "type": "港町",
+      "area_ha": 13.1
+    },
+    {
+      "prefecture": "愛媛県",
+      "municipality": "宇和島市",
+      "name": "津島町岩松",
+      "selected": "2023年12月15日",
+      "criteria": 3,
+      "type": "在郷町",
+      "area_ha": 10.6
+    },
+    {
+      "prefecture": "愛媛県",
+      "municipality": "西予市",
+      "name": "宇和町卯之町",
+      "selected": "2009年12月8日",
+      "criteria": 2,
+      "type": "在郷町",
+      "area_ha": 4.9
+    },
+    {
+      "prefecture": "愛媛県",
+      "municipality": "内子町",
+      "name": "八日市護国",
+      "selected": "1982年4月17日",
+      "criteria": 3,
+      "type": "製蝋町",
+      "area_ha": 3.5
+    },
+    {
+      "prefecture": "高知県",
+      "municipality": "室戸市",
+      "name": "吉良川町",
+      "selected": "1997年10月31日",
+      "criteria": 1,
+      "type": "在郷町",
+      "area_ha": 18.3
+    },
+    {
+      "prefecture": "高知県",
+      "municipality": "安芸市",
+      "name": "土居廓中",
+      "selected": "2012年7月9日",
+      "criteria": 2,
+      "type": "武家町",
+      "area_ha": 9.2
+    },
+    {
+      "prefecture": "福岡県",
+      "municipality": "八女市",
+      "name": "八女福島",
+      "selected": "2002年5月23日",
+      "criteria": 2,
+      "type": "商家町",
+      "area_ha": 19.8
+    },
+    {
+      "prefecture": "福岡県",
+      "municipality": "八女市",
+      "name": "黒木",
+      "selected": "2009年6月30日",
+      "criteria": 3,
+      "type": "在郷町",
+      "area_ha": 18.4
+    },
+    {
+      "prefecture": "福岡県",
+      "municipality": "うきは市",
+      "name": "筑後吉井",
+      "selected": "1996年12月10日",
+      "criteria": 3,
+      "type": "在郷町",
+      "area_ha": 20.7
+    },
+    {
+      "prefecture": "福岡県",
+      "municipality": "うきは市",
+      "name": "新川田篭",
+      "selected": "2012年7月9日",
+      "criteria": 3,
+      "type": "山村集落",
+      "area_ha": 71.2
+    },
+    {
+      "prefecture": "福岡県",
+      "municipality": "朝倉市",
+      "name": "秋月",
+      "selected": "1998年4月17日",
+      "criteria": 2,
+      "type": "城下町",
+      "area_ha": 58.6
+    },
+    {
+      "prefecture": "佐賀県",
+      "municipality": "鹿島市",
+      "name": "浜庄津町浜金屋町",
+      "selected": "2006年7月5日",
+      "criteria": 2,
+      "type": "港町・在郷町",
+      "area_ha": 2
+    },
+    {
+      "prefecture": "佐賀県",
+      "municipality": "鹿島市",
+      "name": "浜中町八本木宿",
+      "selected": "2006年7月5日",
+      "criteria": 1,
+      "type": "醸造町",
+      "area_ha": 6.7
+    },
+    {
+      "prefecture": "佐賀県",
+      "municipality": "嬉野市",
+      "name": "塩田津",
+      "selected": "2005年12月27日",
+      "criteria": 2,
+      "type": "商家町",
+      "area_ha": 12.8
+    },
+    {
+      "prefecture": "佐賀県",
+      "municipality": "有田町",
+      "name": "有田内山",
+      "selected": "1991年4月30日",
+      "criteria": 3,
+      "type": "製磁町",
+      "area_ha": 15.9
+    },
+    {
+      "prefecture": "長崎県",
+      "municipality": "長崎市",
+      "name": "東山手",
+      "selected": "1991年4月30日",
+      "criteria": 2,
+      "type": "港町",
+      "area_ha": 7.5
+    },
+    {
+      "prefecture": "長崎県",
+      "municipality": "長崎市",
+      "name": "南山手",
+      "selected": "1991年4月30日",
+      "criteria": 2,
+      "type": "港町",
+      "area_ha": 17
+    },
+    {
+      "prefecture": "長崎県",
+      "municipality": "平戸市",
+      "name": "大島村神浦",
+      "selected": "2008年6月9日",
+      "criteria": 2,
+      "type": "港町",
+      "area_ha": 21.2
+    },
+    {
+      "prefecture": "長崎県",
+      "municipality": "雲仙市",
+      "name": "神代小路",
+      "selected": "2005年7月22日",
+      "criteria": 2,
+      "type": "武家町",
+      "area_ha": 9.8
+    },
+    {
+      "prefecture": "大分県",
+      "municipality": "日田市",
+      "name": "豆田町",
+      "selected": "2004年12月10日",
+      "criteria": 2,
+      "type": "商家町",
+      "area_ha": 10.7
+    },
+    {
+      "prefecture": "大分県",
+      "municipality": "杵築市",
+      "name": "北台南台",
+      "selected": "2017年11月28日",
+      "criteria": 2,
+      "type": "武家町",
+      "area_ha": 16.1
+    },
+    {
+      "prefecture": "宮崎県",
+      "municipality": "日南市",
+      "name": "飫肥",
+      "selected": "1977年5月18日",
+      "criteria": 2,
+      "type": "武家町",
+      "area_ha": 19.8
+    },
+    {
+      "prefecture": "宮崎県",
+      "municipality": "日向市",
+      "name": "美々津",
+      "selected": "1986年12月8日",
+      "criteria": 2,
+      "type": "港町",
+      "area_ha": 7.2
+    },
+    {
+      "prefecture": "宮崎県",
+      "municipality": "椎葉村",
+      "name": "十根川",
+      "selected": "1998年12月25日",
+      "criteria": 3,
+      "type": "山村集落",
+      "area_ha": 39.9
+    },
+    {
+      "prefecture": "鹿児島県",
+      "municipality": "出水市",
+      "name": "出水麓",
+      "selected": "1995年12月26日",
+      "criteria": 2,
+      "type": "武家町",
+      "area_ha": 43.8
+    },
+    {
+      "prefecture": "鹿児島県",
+      "municipality": "薩摩川内市",
+      "name": "入来麓",
+      "selected": "2003年12月25日",
+      "criteria": 2,
+      "type": "武家町",
+      "area_ha": 19.2
+    },
+    {
+      "prefecture": "鹿児島県",
+      "municipality": "南さつま市",
+      "name": "加世田麓",
+      "selected": "2019年12月23日",
+      "criteria": 2,
+      "type": "武家町",
+      "area_ha": 20
+    },
+    {
+      "prefecture": "鹿児島県",
+      "municipality": "南九州市",
+      "name": "知覧",
+      "selected": "1981年11月30日",
+      "criteria": 2,
+      "type": "武家町",
+      "area_ha": 18.6
+    },
+    {
+      "prefecture": "沖縄県",
+      "municipality": "渡名喜村",
+      "name": "渡名喜島",
+      "selected": "2000年5月25日",
+      "criteria": 3,
+      "type": "島の農村集落",
+      "area_ha": 21.4
+    },
+    {
+      "prefecture": "沖縄県",
+      "municipality": "竹富町",
+      "name": "竹富島",
+      "selected": "1987年4月28日",
+      "criteria": 3,
+      "type": "島の農村集落",
+      "area_ha": 38.3
+    }
+  ],
+  "meta": {
+    "title": "重要伝統的建造物群保存地区（重伝建）一覧 (Important Preservation Districts for Groups of Traditional Buildings) - Free Download",
+    "description": "文化庁が選定した重要伝統的建造物群保存地区（重伝建）の一覧（都道府県・市区町村・地区名・選定年月日・種別・面積）。古い町並み観光の参考に。 Contains 130 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "重要伝統的建造物群保存地区（重伝建）一覧 (Important Preservation Districts for Groups of Traditional Buildings) | ListBase",
+    "seo_description": "Download 重要伝統的建造物群保存地区（重伝建）一覧 (Important Preservation Districts for Groups of Traditional Buildings) — 130 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 130 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E9%87%8D%E8%A6%81%E4%BC%9D%E7%B5%B1%E7%9A%84%E5%BB%BA%E9%80%A0%E7%89%A9%E7%BE%A4%E4%BF%9D%E5%AD%98%E5%9C%B0%E5%8C%BA"
+    ]
+  }
+}
