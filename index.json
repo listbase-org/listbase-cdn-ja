@@ -1,12 +1,12 @@
 {
   "lang": "ja",
-  "generated": "2026-10-24T02:16:34.439Z",
-  "total_datasets": 450,
-  "total_records": 433271,
+  "generated": "2026-10-24T02:16:38.482Z",
+  "total_datasets": 451,
+  "total_records": 433311,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -123,6 +123,34 @@
         "xlsx": {
           "name": "ja-chiriteki-hyoji_JA.xlsx",
           "size": 28705
+        }
+      }
+    },
+    {
+      "id": "ja-gyoko-todofuken",
+      "name": "都道府県別 漁港数（種別）(Fishing ports by prefecture)",
+      "category": "agriculture",
+      "record_count": 40,
+      "columns": [
+        "prefecture",
+        "special_class3",
+        "class3",
+        "class2",
+        "class1",
+        "class4_remote_island",
+        "total"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%BC%81%E6%B8%AF%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 9595,
+      "files": {
+        "csv": {
+          "name": "ja-gyoko-todofuken_JA.csv",
+          "size": 1658
+        },
+        "xlsx": {
+          "name": "ja-gyoko-todofuken_JA.xlsx",
+          "size": 8379
         }
       }
     },

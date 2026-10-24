@@ -1,0 +1,421 @@
+{
+  "id": "ja-gyoko-todofuken",
+  "name": "都道府県別 漁港数（種別）(Fishing ports by prefecture)",
+  "title": "都道府県別 漁港数（種別）(Fishing ports by prefecture)",
+  "description": "日本の漁港を都道府県別・種別（特定第3種・第3種・第2種・第1種・第4種）に集計した漁港数の一覧。",
+  "category": "agriculture",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%BC%81%E6%B8%AF%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%BC%81%E6%B8%AF%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "special_class3",
+      "label": "Special Class3",
+      "type": "string"
+    },
+    {
+      "key": "class3",
+      "label": "Class3",
+      "type": "number"
+    },
+    {
+      "key": "class2",
+      "label": "Class2",
+      "type": "number"
+    },
+    {
+      "key": "class1",
+      "label": "Class1",
+      "type": "number"
+    },
+    {
+      "key": "class4_remote_island",
+      "label": "Class4 Remote Island",
+      "type": "number"
+    },
+    {
+      "key": "total",
+      "label": "Total",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "prefecture": "北海道",
+      "special_class3": "-",
+      "class3": 18,
+      "class2": 36,
+      "class1": 170,
+      "class4_remote_island": 20,
+      "total": 244
+    },
+    {
+      "prefecture": "青森県",
+      "special_class3": 1,
+      "class3": 4,
+      "class2": 24,
+      "class1": 59,
+      "class4_remote_island": 3,
+      "total": 90
+    },
+    {
+      "prefecture": "岩手県",
+      "special_class3": "-",
+      "class3": 4,
+      "class2": 23,
+      "class1": 83,
+      "class4_remote_island": 1,
+      "total": 111
+    },
+    {
+      "prefecture": "宮城県",
+      "special_class3": 3,
+      "class3": 5,
+      "class2": 21,
+      "class1": 115,
+      "class4_remote_island": 1,
+      "total": 142
+    },
+    {
+      "prefecture": "秋田県",
+      "special_class3": "-",
+      "class3": 1,
+      "class2": 6,
+      "class1": 14,
+      "class4_remote_island": 1,
+      "total": 22
+    },
+    {
+      "prefecture": "山形県",
+      "special_class3": "-",
+      "class3": "-",
+      "class2": 2,
+      "class1": 12,
+      "class4_remote_island": 1,
+      "total": 15
+    },
+    {
+      "prefecture": "福島県",
+      "special_class3": "-",
+      "class3": 2,
+      "class2": 6,
+      "class1": 2,
+      "class4_remote_island": "-",
+      "total": 10
+    },
+    {
+      "prefecture": "茨城県",
+      "special_class3": "-",
+      "class3": 5,
+      "class2": "-",
+      "class1": 19,
+      "class4_remote_island": "-",
+      "total": 24
+    },
+    {
+      "prefecture": "千葉県",
+      "special_class3": 1,
+      "class3": 8,
+      "class2": 12,
+      "class1": 47,
+      "class4_remote_island": 2,
+      "total": 69
+    },
+    {
+      "prefecture": "東京都",
+      "special_class3": "-",
+      "class3": "-",
+      "class2": 1,
+      "class1": 16,
+      "class4_remote_island": 6,
+      "total": 23
+    },
+    {
+      "prefecture": "神奈川県",
+      "special_class3": 1,
+      "class3": 2,
+      "class2": 4,
+      "class1": 19,
+      "class4_remote_island": "-",
+      "total": 25
+    },
+    {
+      "prefecture": "新潟県",
+      "special_class3": "-",
+      "class3": 2,
+      "class2": 13,
+      "class1": 47,
+      "class4_remote_island": 2,
+      "total": 64
+    },
+    {
+      "prefecture": "富山県",
+      "special_class3": "-",
+      "class3": 2,
+      "class2": 4,
+      "class1": 10,
+      "class4_remote_island": "-",
+      "total": 16
+    },
+    {
+      "prefecture": "石川県",
+      "special_class3": "-",
+      "class3": 2,
+      "class2": 9,
+      "class1": 55,
+      "class4_remote_island": 3,
+      "total": 69
+    },
+    {
+      "prefecture": "福井県",
+      "special_class3": "-",
+      "class3": 1,
+      "class2": 8,
+      "class1": 35,
+      "class4_remote_island": 1,
+      "total": 45
+    },
+    {
+      "prefecture": "静岡県",
+      "special_class3": 1,
+      "class3": 4,
+      "class2": 9,
+      "class1": 34,
+      "class4_remote_island": 2,
+      "total": 49
+    },
+    {
+      "prefecture": "愛知県",
+      "special_class3": "-",
+      "class3": 3,
+      "class2": 13,
+      "class1": 17,
+      "class4_remote_island": 1,
+      "total": 34
+    },
+    {
+      "prefecture": "三重県",
+      "special_class3": "-",
+      "class3": 3,
+      "class2": 23,
+      "class1": 44,
+      "class4_remote_island": 3,
+      "total": 73
+    },
+    {
+      "prefecture": "滋賀県",
+      "special_class3": "-",
+      "class3": "-",
+      "class2": "-",
+      "class1": 20,
+      "class4_remote_island": "-",
+      "total": 20
+    },
+    {
+      "prefecture": "京都府",
+      "special_class3": "-",
+      "class3": 1,
+      "class2": 11,
+      "class1": 20,
+      "class4_remote_island": 1,
+      "total": 33
+    },
+    {
+      "prefecture": "大阪府",
+      "special_class3": "-",
+      "class3": "-",
+      "class2": 2,
+      "class1": 11,
+      "class4_remote_island": "-",
+      "total": 13
+    },
+    {
+      "prefecture": "兵庫県",
+      "special_class3": "-",
+      "class3": 3,
+      "class2": 14,
+      "class1": 36,
+      "class4_remote_island": "-",
+      "total": 53
+    },
+    {
+      "prefecture": "和歌山県",
+      "special_class3": "-",
+      "class3": 4,
+      "class2": 11,
+      "class1": 77,
+      "class4_remote_island": 2,
+      "total": 94
+    },
+    {
+      "prefecture": "鳥取県",
+      "special_class3": 1,
+      "class3": 2,
+      "class2": 2,
+      "class1": 14,
+      "class4_remote_island": "-",
+      "total": 18
+    },
+    {
+      "prefecture": "島根県",
+      "special_class3": 1,
+      "class3": 4,
+      "class2": 21,
+      "class1": 55,
+      "class4_remote_island": 3,
+      "total": 83
+    },
+    {
+      "prefecture": "岡山県",
+      "special_class3": "-",
+      "class3": "-",
+      "class2": 10,
+      "class1": 16,
+      "class4_remote_island": "-",
+      "total": 26
+    },
+    {
+      "prefecture": "広島県",
+      "special_class3": "-",
+      "class3": 1,
+      "class2": 18,
+      "class1": 27,
+      "class4_remote_island": "-",
+      "total": 46
+    },
+    {
+      "prefecture": "山口県",
+      "special_class3": 1,
+      "class3": 3,
+      "class2": 34,
+      "class1": 57,
+      "class4_remote_island": 3,
+      "total": 97
+    },
+    {
+      "prefecture": "徳島県",
+      "special_class3": "-",
+      "class3": 1,
+      "class2": 11,
+      "class1": 16,
+      "class4_remote_island": 1,
+      "total": 29
+    },
+    {
+      "prefecture": "香川県",
+      "special_class3": "-",
+      "class3": "-",
+      "class2": 6,
+      "class1": 86,
+      "class4_remote_island": "-",
+      "total": 92
+    },
+    {
+      "prefecture": "愛媛県",
+      "special_class3": "-",
+      "class3": 3,
+      "class2": 22,
+      "class1": 168,
+      "class4_remote_island": 2,
+      "total": 195
+    },
+    {
+      "prefecture": "高知県",
+      "special_class3": "-",
+      "class3": 4,
+      "class2": 10,
+      "class1": 73,
+      "class4_remote_island": 1,
+      "total": 88
+    },
+    {
+      "prefecture": "福岡県",
+      "special_class3": 1,
+      "class3": 1,
+      "class2": 20,
+      "class1": 42,
+      "class4_remote_island": 2,
+      "total": 65
+    },
+    {
+      "prefecture": "佐賀県",
+      "special_class3": "-",
+      "class3": 2,
+      "class2": 10,
+      "class1": 34,
+      "class4_remote_island": "-",
+      "total": 46
+    },
+    {
+      "prefecture": "長崎県",
+      "special_class3": 1,
+      "class3": 5,
+      "class2": 29,
+      "class1": 237,
+      "class4_remote_island": 10,
+      "total": 281
+    },
+    {
+      "prefecture": "熊本県",
+      "special_class3": "-",
+      "class3": 1,
+      "class2": 21,
+      "class1": 81,
+      "class4_remote_island": "-",
+      "total": 103
+    },
+    {
+      "prefecture": "大分県",
+      "special_class3": "-",
+      "class3": 2,
+      "class2": 17,
+      "class1": 89,
+      "class4_remote_island": 2,
+      "total": 110
+    },
+    {
+      "prefecture": "宮崎県",
+      "special_class3": "-",
+      "class3": 5,
+      "class2": 5,
+      "class1": 11,
+      "class4_remote_island": 2,
+      "total": 23
+    },
+    {
+      "prefecture": "鹿児島県",
+      "special_class3": 1,
+      "class3": 5,
+      "class2": 24,
+      "class1": 94,
+      "class4_remote_island": 16,
+      "total": 139
+    },
+    {
+      "prefecture": "沖縄県",
+      "special_class3": "-",
+      "class3": 1,
+      "class2": 7,
+      "class1": 72,
+      "class4_remote_island": 7,
+      "total": 87
+    }
+  ],
+  "meta": {
+    "title": "都道府県別 漁港数（種別）(Fishing ports by prefecture) - Free Download",
+    "description": "日本の漁港を都道府県別・種別（特定第3種・第3種・第2種・第1種・第4種）に集計した漁港数の一覧。 Contains 40 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "都道府県別 漁港数（種別）(Fishing ports by prefecture) | ListBase",
+    "seo_description": "Download 都道府県別 漁港数（種別）(Fishing ports by prefecture) — 40 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 40 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%BC%81%E6%B8%AF%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}
