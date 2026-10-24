@@ -1,12 +1,12 @@
 {
   "lang": "ja",
-  "generated": "2026-10-24T02:16:24.245Z",
-  "total_datasets": 449,
-  "total_records": 433203,
+  "generated": "2026-10-24T02:16:34.439Z",
+  "total_datasets": 450,
+  "total_records": 433271,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "culture",
@@ -154,6 +154,31 @@
         "xlsx": {
           "name": "ja-ine-hinshu-norin_JA.xlsx",
           "size": 42379
+        }
+      }
+    },
+    {
+      "id": "ja-ringo-hinshu",
+      "name": "日本で育成されたリンゴの品種一覧 (Apple varieties bred in Japan)",
+      "category": "agriculture",
+      "record_count": 68,
+      "columns": [
+        "variety",
+        "origin_year",
+        "parentage",
+        "characteristics"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%B4%E3%81%AE%E5%93%81%E7%A8%AE%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 27509,
+      "files": {
+        "csv": {
+          "name": "ja-ringo-hinshu_JA.csv",
+          "size": 18928
+        },
+        "xlsx": {
+          "name": "ja-ringo-hinshu_JA.xlsx",
+          "size": 13401
         }
       }
     },
