@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-24T02:17:03.805Z",
-  "total_datasets": 457,
-  "total_records": 436054,
+  "generated": "2026-10-24T02:17:07.755Z",
+  "total_datasets": 458,
+  "total_records": 436185,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "language",
@@ -5466,6 +5466,35 @@
         "xlsx": {
           "name": "ja-naikaku-sori-daijin_JA.xlsx",
           "size": 19789
+        }
+      }
+    },
+    {
+      "id": "ja-rekidai-tenno",
+      "name": "歴代天皇一覧 (List of Emperors of Japan)",
+      "category": "history",
+      "record_count": 131,
+      "columns": [
+        "generation",
+        "name",
+        "reading",
+        "other_names",
+        "imina",
+        "reign",
+        "palace",
+        "birth_death"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%9A%87%E3%81%AE%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 56231,
+      "files": {
+        "csv": {
+          "name": "ja-rekidai-tenno_JA.csv",
+          "size": 33416
+        },
+        "xlsx": {
+          "name": "ja-rekidai-tenno_JA.xlsx",
+          "size": 21835
         }
       }
     },
