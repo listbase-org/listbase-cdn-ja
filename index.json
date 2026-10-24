@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-24T02:16:38.482Z",
-  "total_datasets": 451,
-  "total_records": 433311,
+  "generated": "2026-10-24T02:16:42.581Z",
+  "total_datasets": 452,
+  "total_records": 434113,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -269,6 +269,33 @@
         "xlsx": {
           "name": "ja-sekai-isan_JA.xlsx",
           "size": 15080
+        }
+      }
+    },
+    {
+      "id": "ja-chiiki-dantai-shohyo",
+      "name": "地域団体商標（地域ブランド）一覧 (Regional collective trademarks of Japan)",
+      "category": "economy",
+      "record_count": 802,
+      "columns": [
+        "reg_no",
+        "trademark",
+        "reading",
+        "holder",
+        "registered",
+        "goods_services"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E5%9F%9F%E5%9B%A3%E4%BD%93%E5%95%86%E6%A8%99%E3%81%AE%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 374582,
+      "files": {
+        "csv": {
+          "name": "ja-chiiki-dantai-shohyo_JA.csv",
+          "size": 269690
+        },
+        "xlsx": {
+          "name": "ja-chiiki-dantai-shohyo_JA.xlsx",
+          "size": 83839
         }
       }
     },
