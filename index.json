@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-24T02:16:42.581Z",
-  "total_datasets": 452,
-  "total_records": 434113,
+  "generated": "2026-10-24T02:16:47.438Z",
+  "total_datasets": 453,
+  "total_records": 434335,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "economy",
@@ -207,6 +207,31 @@
         "xlsx": {
           "name": "ja-ringo-hinshu_JA.xlsx",
           "size": 13401
+        }
+      }
+    },
+    {
+      "id": "ja-akutagawa-sho-jushosha",
+      "name": "芥川龍之介賞 受賞者・受賞作一覧 (Akutagawa Prize winners)",
+      "category": "culture",
+      "record_count": 222,
+      "columns": [
+        "round",
+        "period",
+        "winner",
+        "work"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E8%8A%A5%E5%B7%9D%E9%BE%8D%E4%B9%8B%E4%BB%8B%E8%B3%9E",
+      "updated": "2026-10",
+      "size": 34811,
+      "files": {
+        "csv": {
+          "name": "ja-akutagawa-sho-jushosha_JA.csv",
+          "size": 15835
+        },
+        "xlsx": {
+          "name": "ja-akutagawa-sho-jushosha_JA.xlsx",
+          "size": 16328
         }
       }
     },
