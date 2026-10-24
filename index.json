@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-24T02:17:15.429Z",
-  "total_datasets": 460,
-  "total_records": 436327,
+  "generated": "2026-10-24T02:17:19.422Z",
+  "total_datasets": 461,
+  "total_records": 436445,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "environment",
@@ -569,6 +569,38 @@
         "xlsx": {
           "name": "ja-million-seller-game_JA.xlsx",
           "size": 23568
+        }
+      }
+    },
+    {
+      "id": "ja-renzoku-terebi-shosetsu",
+      "name": "NHK連続テレビ小説（朝ドラ）作品一覧 (NHK Asadora series list)",
+      "category": "entertainment",
+      "record_count": 118,
+      "columns": [
+        "no",
+        "title",
+        "broadcast",
+        "station",
+        "setting",
+        "original",
+        "screenplay",
+        "music",
+        "lead",
+        "role",
+        "narrator"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E9%80%A3%E7%B6%9A%E3%83%86%E3%83%AC%E3%83%93%E5%B0%8F%E8%AA%AC%E4%BD%9C%E5%93%81%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 51773,
+      "files": {
+        "csv": {
+          "name": "ja-renzoku-terebi-shosetsu_JA.csv",
+          "size": 25516
+        },
+        "xlsx": {
+          "name": "ja-renzoku-terebi-shosetsu_JA.xlsx",
+          "size": 22319
         }
       }
     },
