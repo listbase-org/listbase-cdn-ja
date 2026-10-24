@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-24T02:16:59.810Z",
-  "total_datasets": 456,
-  "total_records": 436007,
+  "generated": "2026-10-24T02:17:03.805Z",
+  "total_datasets": 457,
+  "total_records": 436054,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "economy",
@@ -376,6 +376,32 @@
         "xlsx": {
           "name": "ja-sekai-isan_JA.xlsx",
           "size": 15080
+        }
+      }
+    },
+    {
+      "id": "ja-todofuken-symbol",
+      "name": "都道府県のシンボル一覧（県の花・木・鳥）(Prefectural symbols of Japan)",
+      "category": "culture",
+      "record_count": 47,
+      "columns": [
+        "prefecture",
+        "flower",
+        "tree",
+        "bird",
+        "other"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%9C%E3%83%AB%E3%81%AE%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 11465,
+      "files": {
+        "csv": {
+          "name": "ja-todofuken-symbol_JA.csv",
+          "size": 4884
+        },
+        "xlsx": {
+          "name": "ja-todofuken-symbol_JA.xlsx",
+          "size": 9822
         }
       }
     },
