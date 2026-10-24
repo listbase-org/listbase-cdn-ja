@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-24T02:16:51.501Z",
-  "total_datasets": 454,
-  "total_records": 434573,
+  "generated": "2026-10-24T02:16:55.586Z",
+  "total_datasets": 455,
+  "total_records": 434859,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "economy",
@@ -232,6 +232,32 @@
         "xlsx": {
           "name": "ja-akutagawa-sho-jushosha_JA.xlsx",
           "size": 16328
+        }
+      }
+    },
+    {
+      "id": "ja-dento-kogeihin",
+      "name": "経済産業大臣指定 伝統的工芸品一覧 (Traditional crafts of Japan)",
+      "category": "culture",
+      "record_count": 286,
+      "columns": [
+        "name",
+        "type",
+        "designated",
+        "prefecture",
+        "production_area"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E4%BC%9D%E7%B5%B1%E7%9A%84%E5%B7%A5%E8%8A%B8%E5%93%81",
+      "updated": "2026-10",
+      "size": 60550,
+      "files": {
+        "csv": {
+          "name": "ja-dento-kogeihin_JA.csv",
+          "size": 27022
+        },
+        "xlsx": {
+          "name": "ja-dento-kogeihin_JA.xlsx",
+          "size": 19791
         }
       }
     },
