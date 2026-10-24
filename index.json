@@ -1,12 +1,12 @@
 {
   "lang": "ja",
-  "generated": "2026-10-23T02:13:55.183Z",
-  "total_datasets": 448,
-  "total_records": 433072,
+  "generated": "2026-10-24T02:16:24.245Z",
+  "total_datasets": 449,
+  "total_records": 433203,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "culture",
@@ -98,6 +98,34 @@
     }
   ],
   "datasets": [
+    {
+      "id": "ja-chiriteki-hyoji",
+      "name": "日本の地理的表示（GI）登録産品一覧 (Japan Geographical Indications)",
+      "category": "agriculture",
+      "record_count": 131,
+      "columns": [
+        "reg_no",
+        "name",
+        "category",
+        "production_area",
+        "producer_group",
+        "registered",
+        "notes"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E7%90%86%E7%9A%84%E8%A1%A8%E7%A4%BA%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 71552,
+      "files": {
+        "csv": {
+          "name": "ja-chiriteki-hyoji_JA.csv",
+          "size": 49677
+        },
+        "xlsx": {
+          "name": "ja-chiriteki-hyoji_JA.xlsx",
+          "size": 28705
+        }
+      }
+    },
     {
       "id": "ja-ine-hinshu-norin",
       "name": "農林登録されたイネ品種の一覧 (Registered rice varieties of Japan)",
