@@ -1,0 +1,779 @@
+{
+  "id": "ja-koritsu-daigaku-hojin",
+  "name": "公立大学法人一覧 (Public university corporations of Japan)",
+  "title": "公立大学法人一覧 (Public university corporations of Japan)",
+  "description": "地方公共団体が設立した日本の公立大学法人と、その法人が設置する公立大学・短期大学の一覧（設立団体・法人名・設置校）。",
+  "category": "education",
+  "source": "https://ja.wikipedia.org/wiki/%E5%85%AC%E7%AB%8B%E5%A4%A7%E5%AD%A6%E6%B3%95%E4%BA%BA",
+  "source_url": "https://ja.wikipedia.org/wiki/%E5%85%AC%E7%AB%8B%E5%A4%A7%E5%AD%A6%E6%B3%95%E4%BA%BA",
+  "updated": "2026-10",
+  "record_count": 104,
+  "columns": [
+    {
+      "key": "founder_type",
+      "label": "Founder Type",
+      "type": "string"
+    },
+    {
+      "key": "city_type",
+      "label": "City Type",
+      "type": "string"
+    },
+    {
+      "key": "founder",
+      "label": "Founder",
+      "type": "string"
+    },
+    {
+      "key": "corporation",
+      "label": "Corporation",
+      "type": "string"
+    },
+    {
+      "key": "schools",
+      "label": "Schools",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "北海道",
+      "corporation": "北海道公立大学法人札幌医科大学",
+      "schools": "札幌医科大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "青森県",
+      "corporation": "公立大学法人青森県立保健大学",
+      "schools": "青森県立保健大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "岩手県",
+      "corporation": "公立大学法人岩手県立大学",
+      "schools": "岩手県立大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "岩手県",
+      "corporation": "公立大学法人岩手県立大学",
+      "schools": "岩手県立大学盛岡短期大学部"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "岩手県",
+      "corporation": "公立大学法人岩手県立大学",
+      "schools": "岩手県立大学宮古短期大学部"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "宮城県",
+      "corporation": "公立大学法人宮城大学",
+      "schools": "宮城大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "秋田県",
+      "corporation": "公立大学法人秋田県立大学",
+      "schools": "秋田県立大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "秋田県",
+      "corporation": "公立大学法人国際教養大学",
+      "schools": "国際教養大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "山形県",
+      "corporation": "公立大学法人山形県立保健医療大学",
+      "schools": "山形県立保健医療大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "山形県",
+      "corporation": "山形県公立大学法人",
+      "schools": "山形県立米沢栄養大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "山形県",
+      "corporation": "山形県公立大学法人",
+      "schools": "山形県立米沢女子短期大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "福島県",
+      "corporation": "公立大学法人福島県立医科大学",
+      "schools": "福島県立医科大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "福島県",
+      "corporation": "公立大学法人会津大学",
+      "schools": "会津大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "福島県",
+      "corporation": "公立大学法人会津大学",
+      "schools": "会津大学短期大学部"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "群馬県",
+      "corporation": "群馬県公立大学法人",
+      "schools": "群馬県立女子大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "群馬県",
+      "corporation": "群馬県公立大学法人",
+      "schools": "群馬県立県民健康科学大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "埼玉県",
+      "corporation": "公立大学法人埼玉県立大学",
+      "schools": "埼玉県立大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "東京都",
+      "corporation": "東京都公立大学法人",
+      "schools": "東京都立大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "東京都",
+      "corporation": "東京都公立大学法人",
+      "schools": "東京都立産業技術大学院大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "東京都",
+      "corporation": "東京都公立大学法人",
+      "schools": "東京都立産業技術高等専門学校"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "神奈川県",
+      "corporation": "公立大学法人神奈川県立保健福祉大学",
+      "schools": "神奈川県立保健福祉大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "新潟県",
+      "corporation": "公立大学法人新潟県立大学",
+      "schools": "新潟県立大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "新潟県",
+      "corporation": "公立大学法人新潟県立看護大学",
+      "schools": "新潟県立看護大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "富山県",
+      "corporation": "公立大学法人富山県立大学",
+      "schools": "富山県立大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "石川県",
+      "corporation": "石川県公立大学法人",
+      "schools": "石川県立大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "石川県",
+      "corporation": "石川県公立大学法人",
+      "schools": "石川県立看護大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "福井県",
+      "corporation": "公立大学法人福井県立大学",
+      "schools": "福井県立大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "山梨県",
+      "corporation": "公立大学法人山梨県立大学",
+      "schools": "山梨県立大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "長野県",
+      "corporation": "公立大学法人長野県立大学",
+      "schools": "長野県立大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "岐阜県",
+      "corporation": "公立大学法人岐阜県立看護大学",
+      "schools": "岐阜県立看護大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "静岡県",
+      "corporation": "静岡県公立大学法人",
+      "schools": "静岡県立大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "静岡県",
+      "corporation": "静岡県公立大学法人",
+      "schools": "静岡県立大学短期大学部"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "静岡県",
+      "corporation": "公立大学法人静岡文化芸術大学",
+      "schools": "静岡文化芸術大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "静岡県",
+      "corporation": "公立大学法人静岡社会健康医学大学院大学",
+      "schools": "静岡社会健康医学大学院大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "愛知県",
+      "corporation": "愛知県公立大学法人",
+      "schools": "愛知県立大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "愛知県",
+      "corporation": "愛知県公立大学法人",
+      "schools": "愛知県立芸術大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "三重県",
+      "corporation": "公立大学法人三重県立看護大学",
+      "schools": "三重県立看護大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "滋賀県",
+      "corporation": "公立大学法人滋賀県立大学",
+      "schools": "滋賀県立大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "京都府",
+      "corporation": "京都府公立大学法人",
+      "schools": "京都府立大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "京都府",
+      "corporation": "京都府公立大学法人",
+      "schools": "京都府立医科大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "兵庫県",
+      "corporation": "兵庫県公立大学法人",
+      "schools": "兵庫県立大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "兵庫県",
+      "corporation": "兵庫県公立大学法人",
+      "schools": "芸術文化観光専門職大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "奈良県",
+      "corporation": "公立大学法人奈良県立医科大学",
+      "schools": "奈良県立医科大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "奈良県",
+      "corporation": "公立大学法人奈良県立大学",
+      "schools": "奈良県立大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "和歌山県",
+      "corporation": "公立大学法人和歌山県立医科大学",
+      "schools": "和歌山県立医科大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "島根県",
+      "corporation": "公立大学法人島根県立大学",
+      "schools": "島根県立大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "島根県",
+      "corporation": "公立大学法人島根県立大学",
+      "schools": "島根県立大学短期大学部"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "岡山県",
+      "corporation": "公立大学法人岡山県立大学",
+      "schools": "岡山県立大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "広島県",
+      "corporation": "広島県公立大学法人",
+      "schools": "県立広島大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "広島県",
+      "corporation": "広島県公立大学法人",
+      "schools": "叡啓大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "山口県",
+      "corporation": "公立大学法人山口県立大学",
+      "schools": "山口県立大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "愛媛県",
+      "corporation": "公立大学法人愛媛県立医療技術大学",
+      "schools": "愛媛県立医療技術大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "高知県",
+      "corporation": "高知県公立大学法人",
+      "schools": "高知県立大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "高知県",
+      "corporation": "高知県公立大学法人",
+      "schools": "高知工科大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "福岡県",
+      "corporation": "公立大学法人福岡県立大学",
+      "schools": "福岡県立大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "福岡県",
+      "corporation": "公立大学法人福岡女子大学",
+      "schools": "福岡女子大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "福岡県",
+      "corporation": "公立大学法人九州歯科大学",
+      "schools": "九州歯科大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "長崎県",
+      "corporation": "長崎県公立大学法人",
+      "schools": "長崎県立大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "熊本県",
+      "corporation": "公立大学法人熊本県立大学",
+      "schools": "熊本県立大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "大分県",
+      "corporation": "公立大学法人大分県立看護科学大学",
+      "schools": "大分県立看護科学大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "大分県",
+      "corporation": "公立大学法人大分県立芸術文化短期大学",
+      "schools": "大分県立芸術文化短期大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "宮崎県",
+      "corporation": "公立大学法人宮崎県立看護大学",
+      "schools": "宮崎県立看護大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "沖縄県",
+      "corporation": "公立大学法人沖縄県立芸術大学",
+      "schools": "沖縄県立芸術大学"
+    },
+    {
+      "founder_type": "都道府県",
+      "city_type": "",
+      "founder": "沖縄県",
+      "corporation": "公立大学法人沖縄県立看護大学",
+      "schools": "沖縄県立看護大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "政令指定都市",
+      "founder": "札幌市",
+      "corporation": "公立大学法人札幌市立大学",
+      "schools": "札幌市立大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "政令指定都市",
+      "founder": "横浜市",
+      "corporation": "公立大学法人横浜市立大学",
+      "schools": "横浜市立大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "政令指定都市",
+      "founder": "名古屋市",
+      "corporation": "公立大学法人名古屋市立大学",
+      "schools": "名古屋市立大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "政令指定都市",
+      "founder": "京都市",
+      "corporation": "公立大学法人京都市立芸術大学",
+      "schools": "京都市立芸術大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "政令指定都市",
+      "founder": "神戸市",
+      "corporation": "神戸市公立大学法人（wikidata）",
+      "schools": "神戸市外国語大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "政令指定都市",
+      "founder": "神戸市",
+      "corporation": "神戸市公立大学法人（wikidata）",
+      "schools": "神戸市立工業高等専門学校"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "政令指定都市",
+      "founder": "神戸市",
+      "corporation": "公立大学法人神戸市看護大学",
+      "schools": "神戸市看護大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "政令指定都市",
+      "founder": "広島市",
+      "corporation": "公立大学法人広島市立大学",
+      "schools": "広島市立大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "政令指定都市",
+      "founder": "北九州市",
+      "corporation": "公立大学法人北九州市立大学",
+      "schools": "北九州市立大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "中核市",
+      "founder": "旭川市",
+      "corporation": "公立大学法人旭川市立大学",
+      "schools": "旭川市立大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "中核市",
+      "founder": "旭川市",
+      "corporation": "公立大学法人旭川市立大学",
+      "schools": "旭川市立大学短期大学部"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "中核市",
+      "founder": "青森市",
+      "corporation": "公立大学法人青森公立大学",
+      "schools": "青森公立大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "中核市",
+      "founder": "秋田市",
+      "corporation": "公立大学法人秋田公立美術大学",
+      "schools": "秋田公立美術大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "中核市",
+      "founder": "高崎市",
+      "corporation": "公立大学法人高崎経済大学",
+      "schools": "高崎経済大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "中核市",
+      "founder": "前橋市",
+      "corporation": "公立大学法人前橋工科大学",
+      "schools": "前橋工科大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "中核市",
+      "founder": "金沢市",
+      "corporation": "公立大学法人金沢美術工芸大学",
+      "schools": "金沢美術工芸大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "中核市",
+      "founder": "岐阜市",
+      "corporation": "岐阜市公立大学法人",
+      "schools": "岐阜薬科大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "中核市",
+      "founder": "福山市",
+      "corporation": "公立大学法人福山市立大学",
+      "schools": "福山市立大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "中核市",
+      "founder": "下関市",
+      "corporation": "公立大学法人下関市立大学",
+      "schools": "下関市立大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "中核市",
+      "founder": "宮崎市",
+      "corporation": "公立大学法人宮崎公立大学",
+      "schools": "宮崎公立大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "一般市",
+      "founder": "千歳市",
+      "corporation": "公立大学法人公立千歳科学技術大学",
+      "schools": "公立千歳科学技術大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "一般市",
+      "founder": "三条市",
+      "corporation": "公立大学法人三条市立大学",
+      "schools": "三条市立大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "一般市",
+      "founder": "長岡市",
+      "corporation": "公立大学法人長岡造形大学",
+      "schools": "長岡造形大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "一般市",
+      "founder": "小松市",
+      "corporation": "公立大学法人公立小松大学",
+      "schools": "公立小松大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "一般市",
+      "founder": "敦賀市",
+      "corporation": "公立大学法人敦賀市立看護大学",
+      "schools": "敦賀市立看護大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "一般市",
+      "founder": "都留市",
+      "corporation": "公立大学法人都留文科大学",
+      "schools": "都留文科大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "一般市",
+      "founder": "上田市",
+      "corporation": "公立大学法人長野大学",
+      "schools": "長野大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "一般市",
+      "founder": "福知山市",
+      "corporation": "公立大学法人福知山公立大学",
+      "schools": "福知山公立大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "一般市",
+      "founder": "新見市",
+      "corporation": "公立大学法人新見公立大学",
+      "schools": "新見公立大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "一般市",
+      "founder": "尾道市",
+      "corporation": "公立大学法人尾道市立大学",
+      "schools": "尾道市立大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "一般市",
+      "founder": "周南市",
+      "corporation": "公立大学法人周南公立大学",
+      "schools": "周南公立大学"
+    },
+    {
+      "founder_type": "市",
+      "city_type": "一般市",
+      "founder": "山陽小野田市",
+      "corporation": "公立大学法人山陽小野田市立山口東京理科大学",
+      "schools": "山陽小野田市立山口東京理科大学"
+    },
+    {
+      "founder_type": "一部事務組合・広域連合",
+      "city_type": "",
+      "founder": "釧路公立大学事務組合",
+      "corporation": "公立大学法人釧路公立大学",
+      "schools": "釧路公立大学"
+    },
+    {
+      "founder_type": "一部事務組合・広域連合",
+      "city_type": "",
+      "founder": "函館圏公立大学広域連合",
+      "corporation": "公立大学法人公立はこだて未来大学",
+      "schools": "公立はこだて未来大学"
+    },
+    {
+      "founder_type": "一部事務組合・広域連合",
+      "city_type": "",
+      "founder": "諏訪広域公立大学事務組合",
+      "corporation": "公立大学法人公立諏訪東京理科大学",
+      "schools": "公立諏訪東京理科大学"
+    },
+    {
+      "founder_type": "一部事務組合・広域連合",
+      "city_type": "",
+      "founder": "北部広域市町村圏事務組合",
+      "corporation": "公立大学法人名桜大学",
+      "schools": "名桜大学"
+    },
+    {
+      "founder_type": "複数団体",
+      "city_type": "",
+      "founder": "山形県・庄内広域行政組合",
+      "corporation": "公立大学法人東北公益文科大学",
+      "schools": "東北公益文科大学"
+    },
+    {
+      "founder_type": "複数団体",
+      "city_type": "",
+      "founder": "大阪府・大阪市",
+      "corporation": "公立大学法人大阪",
+      "schools": "大阪公立大学"
+    },
+    {
+      "founder_type": "複数団体",
+      "city_type": "",
+      "founder": "大阪府・大阪市",
+      "corporation": "公立大学法人大阪",
+      "schools": "大阪公立大学工業高等専門学校"
+    },
+    {
+      "founder_type": "複数団体",
+      "city_type": "",
+      "founder": "鳥取県・鳥取市",
+      "corporation": "公立大学法人公立鳥取環境大学",
+      "schools": "公立鳥取環境大学"
+    }
+  ],
+  "meta": {
+    "title": "公立大学法人一覧 (Public university corporations of Japan) - Free Download",
+    "description": "地方公共団体が設立した日本の公立大学法人と、その法人が設置する公立大学・短期大学の一覧（設立団体・法人名・設置校）。 Contains 104 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "公立大学法人一覧 (Public university corporations of Japan) | ListBase",
+    "seo_description": "Download 公立大学法人一覧 (Public university corporations of Japan) — 104 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 104 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E5%85%AC%E7%AB%8B%E5%A4%A7%E5%AD%A6%E6%B3%95%E4%BA%BA"
+    ]
+  }
+}

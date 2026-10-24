@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-24T02:17:27.447Z",
-  "total_datasets": 463,
-  "total_records": 436628,
+  "generated": "2026-10-24T02:17:31.325Z",
+  "total_datasets": 464,
+  "total_records": 436732,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "entertainment",
@@ -510,6 +510,32 @@
         "xlsx": {
           "name": "ja-daigakuin-hakushi-senko_JA.xlsx",
           "size": 23725
+        }
+      }
+    },
+    {
+      "id": "ja-koritsu-daigaku-hojin",
+      "name": "公立大学法人一覧 (Public university corporations of Japan)",
+      "category": "education",
+      "record_count": 104,
+      "columns": [
+        "founder_type",
+        "city_type",
+        "founder",
+        "corporation",
+        "schools"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E5%85%AC%E7%AB%8B%E5%A4%A7%E5%AD%A6%E6%B3%95%E4%BA%BA",
+      "updated": "2026-10",
+      "size": 24043,
+      "files": {
+        "csv": {
+          "name": "ja-koritsu-daigaku-hojin_JA.csv",
+          "size": 10318
+        },
+        "xlsx": {
+          "name": "ja-koritsu-daigaku-hojin_JA.xlsx",
+          "size": 10573
         }
       }
     },
