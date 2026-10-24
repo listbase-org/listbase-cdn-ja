@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-24T02:17:19.422Z",
-  "total_datasets": 461,
-  "total_records": 436445,
+  "generated": "2026-10-24T02:17:23.497Z",
+  "total_datasets": 462,
+  "total_records": 436569,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "society",
@@ -12788,6 +12788,30 @@
         "xlsx": {
           "name": "ja-yokohama-swift-codo_JA.xlsx",
           "size": 6916
+        }
+      }
+    },
+    {
+      "id": "ja-gakkai-ichiran",
+      "name": "日本の学会一覧 (Academic societies of Japan)",
+      "category": "science",
+      "record_count": 124,
+      "columns": [
+        "field",
+        "name",
+        "members"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%AD%A6%E4%BC%9A%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 17151,
+      "files": {
+        "csv": {
+          "name": "ja-gakkai-ichiran_JA.csv",
+          "size": 8019
+        },
+        "xlsx": {
+          "name": "ja-gakkai-ichiran_JA.xlsx",
+          "size": 9855
         }
       }
     },
