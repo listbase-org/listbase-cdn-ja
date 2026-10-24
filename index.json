@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-24T02:17:23.497Z",
-  "total_datasets": 462,
-  "total_records": 436569,
+  "generated": "2026-10-24T02:17:27.447Z",
+  "total_datasets": 463,
+  "total_records": 436628,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "entertainment",
@@ -510,6 +510,33 @@
         "xlsx": {
           "name": "ja-daigakuin-hakushi-senko_JA.xlsx",
           "size": 23725
+        }
+      }
+    },
+    {
+      "id": "ja-koto-senmon-gakko",
+      "name": "日本の高等専門学校（高専）一覧 (Colleges of Technology in Japan)",
+      "category": "education",
+      "record_count": 59,
+      "columns": [
+        "name",
+        "establishment",
+        "prefecture",
+        "region",
+        "note",
+        "campuses"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 14880,
+      "files": {
+        "csv": {
+          "name": "ja-koto-senmon-gakko_JA.csv",
+          "size": 5440
+        },
+        "xlsx": {
+          "name": "ja-koto-senmon-gakko_JA.xlsx",
+          "size": 9235
         }
       }
     },

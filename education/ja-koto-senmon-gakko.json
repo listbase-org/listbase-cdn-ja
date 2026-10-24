@@ -1,0 +1,528 @@
+{
+  "id": "ja-koto-senmon-gakko",
+  "name": "日本の高等専門学校（高専）一覧 (Colleges of Technology in Japan)",
+  "title": "日本の高等専門学校（高専）一覧 (Colleges of Technology in Japan)",
+  "description": "日本の高等専門学校（高専）の一覧（学校名・設置区分（国立/公立/私立）・都道府県・地方・キャンパス）。",
+  "category": "education",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 59,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "establishment",
+      "label": "Establishment",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    },
+    {
+      "key": "campuses",
+      "label": "Campuses",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "函館工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "北海道",
+      "region": "北海道地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "苫小牧工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "北海道",
+      "region": "北海道地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "釧路工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "北海道",
+      "region": "北海道地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "旭川工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "北海道",
+      "region": "北海道地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "八戸工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "青森県",
+      "region": "東北地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "一関工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "岩手県",
+      "region": "東北地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "仙台高等専門学校",
+      "establishment": "国立",
+      "prefecture": "宮城県",
+      "region": "東北地方",
+      "note": "",
+      "campuses": "名取キャンパス（旧・宮城工業高等専門学校）、広瀬キャンパス（旧・仙台電波工業高等専門学校）"
+    },
+    {
+      "name": "秋田工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "秋田県",
+      "region": "東北地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "鶴岡工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "山形県",
+      "region": "東北地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "福島工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "福島県",
+      "region": "東北地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "茨城工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "茨城県",
+      "region": "関東地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "小山工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "栃木県",
+      "region": "関東地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "群馬工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "群馬県",
+      "region": "関東地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "木更津工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "千葉県",
+      "region": "関東地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "東京工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "東京都",
+      "region": "関東地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "東京都立産業技術高等専門学校",
+      "establishment": "公立",
+      "prefecture": "東京都",
+      "region": "関東地方",
+      "note": "公立",
+      "campuses": "品川キャンパス（旧・東京都立工業高等専門学校）、荒川キャンパス（旧・東京都立航空工業高等専門学校）"
+    },
+    {
+      "name": "サレジオ工業高等専門学校",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "region": "関東地方",
+      "note": "私立",
+      "campuses": ""
+    },
+    {
+      "name": "長岡工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "新潟県",
+      "region": "中部地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "富山高等専門学校",
+      "establishment": "国立",
+      "prefecture": "富山県",
+      "region": "中部地方",
+      "note": "",
+      "campuses": "本郷キャンパス（旧・富山工業高等専門学校）、射水キャンパス（旧・富山商船高等専門学校）"
+    },
+    {
+      "name": "石川工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "石川県",
+      "region": "中部地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "国際高等専門学校",
+      "establishment": "私立",
+      "prefecture": "石川県",
+      "region": "中部地方",
+      "note": "私立",
+      "campuses": ""
+    },
+    {
+      "name": "福井工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "福井県",
+      "region": "中部地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "長野工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "長野県",
+      "region": "中部地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "岐阜工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "岐阜県",
+      "region": "中部地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "沼津工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "静岡県",
+      "region": "中部地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "豊田工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "愛知県",
+      "region": "中部地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "鳥羽商船高等専門学校",
+      "establishment": "国立",
+      "prefecture": "三重県",
+      "region": "近畿地方",
+      "note": "商船高専",
+      "campuses": ""
+    },
+    {
+      "name": "鈴鹿工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "三重県",
+      "region": "近畿地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "近畿大学工業高等専門学校",
+      "establishment": "私立",
+      "prefecture": "三重県",
+      "region": "近畿地方",
+      "note": "私立",
+      "campuses": ""
+    },
+    {
+      "name": "）",
+      "establishment": "公立",
+      "prefecture": "滋賀県",
+      "region": "近畿地方",
+      "note": "滋賀県立高等専門学校（仮称 公立、2028年開校予定",
+      "campuses": ""
+    },
+    {
+      "name": "舞鶴工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "京都府",
+      "region": "近畿地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "大阪公立大学工業高等専門学校",
+      "establishment": "公立",
+      "prefecture": "大阪府",
+      "region": "近畿地方",
+      "note": "公立",
+      "campuses": ""
+    },
+    {
+      "name": "明石工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "兵庫県",
+      "region": "近畿地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "神戸市立工業高等専門学校",
+      "establishment": "公立",
+      "prefecture": "兵庫県",
+      "region": "近畿地方",
+      "note": "公立",
+      "campuses": ""
+    },
+    {
+      "name": "奈良工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "奈良県",
+      "region": "近畿地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "和歌山工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "和歌山県",
+      "region": "近畿地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "米子工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "鳥取県",
+      "region": "中国地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "松江工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "島根県",
+      "region": "中国地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "津山工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "岡山県",
+      "region": "中国地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "広島商船高等専門学校",
+      "establishment": "国立",
+      "prefecture": "広島県",
+      "region": "中国地方",
+      "note": "商船高専",
+      "campuses": ""
+    },
+    {
+      "name": "呉工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "広島県",
+      "region": "中国地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "徳山工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "山口県",
+      "region": "中国地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "宇部工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "山口県",
+      "region": "中国地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "大島商船高等専門学校",
+      "establishment": "国立",
+      "prefecture": "山口県",
+      "region": "中国地方",
+      "note": "商船高専",
+      "campuses": ""
+    },
+    {
+      "name": "阿南工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "徳島県",
+      "region": "四国地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "神山まるごと高等専門学校",
+      "establishment": "私立",
+      "prefecture": "徳島県",
+      "region": "四国地方",
+      "note": "私立",
+      "campuses": ""
+    },
+    {
+      "name": "香川高等専門学校",
+      "establishment": "国立",
+      "prefecture": "香川県",
+      "region": "四国地方",
+      "note": "",
+      "campuses": "高松キャンパス（旧・高松工業高等専門学校）、詫間キャンパス（旧・詫間電波工業高等専門学校）"
+    },
+    {
+      "name": "新居浜工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "愛媛県",
+      "region": "四国地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "弓削商船高等専門学校",
+      "establishment": "国立",
+      "prefecture": "愛媛県",
+      "region": "四国地方",
+      "note": "商船高専",
+      "campuses": ""
+    },
+    {
+      "name": "高知工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "高知県",
+      "region": "四国地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "北九州工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "福岡県",
+      "region": "九州・沖縄地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "久留米工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "福岡県",
+      "region": "九州・沖縄地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "有明工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "福岡県",
+      "region": "九州・沖縄地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "佐世保工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "長崎県",
+      "region": "九州・沖縄地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "熊本高等専門学校",
+      "establishment": "国立",
+      "prefecture": "熊本県",
+      "region": "九州・沖縄地方",
+      "note": "",
+      "campuses": "熊本キャンパス（旧・熊本電波工業高等専門学校）、八代キャンパス（旧・八代工業高等専門学校）"
+    },
+    {
+      "name": "大分工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "大分県",
+      "region": "九州・沖縄地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "都城工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "宮崎県",
+      "region": "九州・沖縄地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "鹿児島工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "鹿児島県",
+      "region": "九州・沖縄地方",
+      "note": "",
+      "campuses": ""
+    },
+    {
+      "name": "沖縄工業高等専門学校",
+      "establishment": "国立",
+      "prefecture": "沖縄県",
+      "region": "九州・沖縄地方",
+      "note": "",
+      "campuses": ""
+    }
+  ],
+  "meta": {
+    "title": "日本の高等専門学校（高専）一覧 (Colleges of Technology in Japan) - Free Download",
+    "description": "日本の高等専門学校（高専）の一覧（学校名・設置区分（国立/公立/私立）・都道府県・地方・キャンパス）。 Contains 59 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の高等専門学校（高専）一覧 (Colleges of Technology in Japan) | ListBase",
+    "seo_description": "Download 日本の高等専門学校（高専）一覧 (Colleges of Technology in Japan) — 59 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 59 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}
