@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-24T02:16:55.586Z",
-  "total_datasets": 455,
-  "total_records": 434859,
+  "generated": "2026-10-24T02:16:59.810Z",
+  "total_datasets": 456,
+  "total_records": 436007,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "economy",
@@ -286,6 +286,37 @@
         "xlsx": {
           "name": "ja-hakubutsukan_JA.xlsx",
           "size": 190551
+        }
+      }
+    },
+    {
+      "id": "ja-kokuho-ichiran",
+      "name": "日本の国宝一覧 (National Treasures of Japan)",
+      "category": "culture",
+      "record_count": 1148,
+      "columns": [
+        "kind",
+        "subtype",
+        "no",
+        "name",
+        "owner",
+        "period",
+        "year",
+        "author",
+        "designated",
+        "location"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9B%BD%E5%AE%9D%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 350086,
+      "files": {
+        "csv": {
+          "name": "ja-kokuho-ichiran_JA.csv",
+          "size": 145774
+        },
+        "xlsx": {
+          "name": "ja-kokuho-ichiran_JA.xlsx",
+          "size": 76342
         }
       }
     },
