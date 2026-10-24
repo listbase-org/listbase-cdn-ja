@@ -1,0 +1,371 @@
+{
+  "id": "ja-tokubetsu-shiseki",
+  "name": "日本の特別史跡一覧 (Special Historic Sites of Japan)",
+  "title": "日本の特別史跡一覧 (Special Historic Sites of Japan)",
+  "description": "文化財保護法に基づき国が指定した特別史跡の一覧（名称・所在都道府県）。",
+  "category": "history",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%89%B9%E5%88%A5%E5%8F%B2%E8%B7%A1%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%89%B9%E5%88%A5%E5%8F%B2%E8%B7%A1%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 66,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "region": "北海道・東北地方",
+      "name": "五稜郭跡",
+      "prefecture": "北海道"
+    },
+    {
+      "region": "北海道・東北地方",
+      "name": "三内丸山遺跡",
+      "prefecture": "青森県"
+    },
+    {
+      "region": "北海道・東北地方",
+      "name": "中尊寺境内",
+      "prefecture": "岩手県"
+    },
+    {
+      "region": "北海道・東北地方",
+      "name": "無量光院跡",
+      "prefecture": "岩手県"
+    },
+    {
+      "region": "北海道・東北地方",
+      "name": "毛越寺境内 附 鎮守社跡（「毛越寺庭園」として特別名勝に指定）",
+      "prefecture": "岩手県"
+    },
+    {
+      "region": "北海道・東北地方",
+      "name": "多賀城跡 附 寺跡",
+      "prefecture": "宮城県"
+    },
+    {
+      "region": "北海道・東北地方",
+      "name": "大湯環状列石",
+      "prefecture": "秋田県"
+    },
+    {
+      "region": "関東地方",
+      "name": "旧弘道館",
+      "prefecture": "茨城県"
+    },
+    {
+      "region": "関東地方",
+      "name": "常陸国分寺跡",
+      "prefecture": "茨城県"
+    },
+    {
+      "region": "関東地方",
+      "name": "常陸国分尼寺跡",
+      "prefecture": "茨城県"
+    },
+    {
+      "region": "関東地方",
+      "name": "大谷磨崖仏",
+      "prefecture": "栃木県"
+    },
+    {
+      "region": "関東地方",
+      "name": "日光杉並木街道 附 並木寄進碑 （特別天然記念物との重複指定）",
+      "prefecture": "栃木県"
+    },
+    {
+      "region": "関東地方",
+      "name": "金井沢碑",
+      "prefecture": "群馬県"
+    },
+    {
+      "region": "関東地方",
+      "name": "山上碑および古墳",
+      "prefecture": "群馬県"
+    },
+    {
+      "region": "関東地方",
+      "name": "多胡碑",
+      "prefecture": "群馬県"
+    },
+    {
+      "region": "関東地方",
+      "name": "埼玉古墳群",
+      "prefecture": "埼玉県"
+    },
+    {
+      "region": "関東地方",
+      "name": "加曽利貝塚",
+      "prefecture": "千葉県"
+    },
+    {
+      "region": "関東地方",
+      "name": "旧浜離宮庭園 （特別名勝との重複指定）",
+      "prefecture": "東京都"
+    },
+    {
+      "region": "関東地方",
+      "name": "江戸城跡",
+      "prefecture": "東京都"
+    },
+    {
+      "region": "関東地方",
+      "name": "小石川後楽園 （特別名勝との重複指定）",
+      "prefecture": "東京都"
+    },
+    {
+      "region": "中部地方",
+      "name": "一乗谷朝倉氏遺跡 （「一乗谷朝倉氏庭園」として特別名勝に指定）",
+      "prefecture": "福井県"
+    },
+    {
+      "region": "中部地方",
+      "name": "尖石石器時代遺跡",
+      "prefecture": "長野県"
+    },
+    {
+      "region": "中部地方",
+      "name": "遠江国分寺跡",
+      "prefecture": "静岡県"
+    },
+    {
+      "region": "中部地方",
+      "name": "新居関跡",
+      "prefecture": "静岡県"
+    },
+    {
+      "region": "中部地方",
+      "name": "登呂遺跡",
+      "prefecture": "静岡県"
+    },
+    {
+      "region": "中部地方",
+      "name": "名古屋城跡",
+      "prefecture": "愛知県"
+    },
+    {
+      "region": "近畿地方",
+      "name": "本居宣長旧宅 同 宅跡",
+      "prefecture": "三重県"
+    },
+    {
+      "region": "近畿地方",
+      "name": "安土城跡",
+      "prefecture": "滋賀県"
+    },
+    {
+      "region": "近畿地方",
+      "name": "彦根城跡",
+      "prefecture": "滋賀県"
+    },
+    {
+      "region": "近畿地方",
+      "name": "慈照寺（銀閣寺）庭園 （特別名勝との重複指定）",
+      "prefecture": "京都府"
+    },
+    {
+      "region": "近畿地方",
+      "name": "鹿苑寺（金閣寺）庭園 （特別名勝との重複指定）",
+      "prefecture": "京都府"
+    },
+    {
+      "region": "近畿地方",
+      "name": "醍醐寺三宝院庭園 （特別名勝との重複指定）",
+      "prefecture": "京都府"
+    },
+    {
+      "region": "近畿地方",
+      "name": "恭仁宮跡（山城国分寺跡）",
+      "prefecture": "京都府"
+    },
+    {
+      "region": "近畿地方",
+      "name": "大坂城跡",
+      "prefecture": "大阪府"
+    },
+    {
+      "region": "近畿地方",
+      "name": "百済寺跡",
+      "prefecture": "大阪府"
+    },
+    {
+      "region": "近畿地方",
+      "name": "姫路城跡",
+      "prefecture": "兵庫県"
+    },
+    {
+      "region": "近畿地方",
+      "name": "キトラ古墳",
+      "prefecture": "奈良県"
+    },
+    {
+      "region": "近畿地方",
+      "name": "高松塚古墳",
+      "prefecture": "奈良県"
+    },
+    {
+      "region": "近畿地方",
+      "name": "山田寺跡",
+      "prefecture": "奈良県"
+    },
+    {
+      "region": "近畿地方",
+      "name": "石舞台古墳",
+      "prefecture": "奈良県"
+    },
+    {
+      "region": "近畿地方",
+      "name": "巣山古墳",
+      "prefecture": "奈良県"
+    },
+    {
+      "region": "近畿地方",
+      "name": "藤原宮跡",
+      "prefecture": "奈良県"
+    },
+    {
+      "region": "近畿地方",
+      "name": "文殊院西古墳",
+      "prefecture": "奈良県"
+    },
+    {
+      "region": "近畿地方",
+      "name": "平城宮跡",
+      "prefecture": "奈良県"
+    },
+    {
+      "region": "近畿地方",
+      "name": "平城京左京三条二坊宮跡庭園 （特別名勝との重複指定）",
+      "prefecture": "奈良県"
+    },
+    {
+      "region": "近畿地方",
+      "name": "本薬師寺跡",
+      "prefecture": "奈良県"
+    },
+    {
+      "region": "近畿地方",
+      "name": "岩橋千塚古墳群",
+      "prefecture": "和歌山県"
+    },
+    {
+      "region": "中国・四国地方",
+      "name": "斎尾廃寺跡",
+      "prefecture": "鳥取県"
+    },
+    {
+      "region": "中国・四国地方",
+      "name": "旧閑谷学校 附 椿山石門津田永忠宅跡および黄葉亭",
+      "prefecture": "岡山県"
+    },
+    {
+      "region": "中国・四国地方",
+      "name": "厳島 （特別名勝との重複指定）",
+      "prefecture": "広島県"
+    },
+    {
+      "region": "中国・四国地方",
+      "name": "廉塾ならびに菅茶山旧宅",
+      "prefecture": "広島県"
+    },
+    {
+      "region": "中国・四国地方",
+      "name": "原爆ドーム",
+      "prefecture": "広島県"
+    },
+    {
+      "region": "中国・四国地方",
+      "name": "讃岐国分寺跡",
+      "prefecture": "香川県"
+    },
+    {
+      "region": "九州地方",
+      "name": "王塚古墳",
+      "prefecture": "福岡県"
+    },
+    {
+      "region": "九州地方",
+      "name": "水城跡",
+      "prefecture": "福岡県"
+    },
+    {
+      "region": "九州地方",
+      "name": "大宰府跡",
+      "prefecture": "福岡県"
+    },
+    {
+      "region": "九州地方",
+      "name": "大野城跡",
+      "prefecture": "福岡県"
+    },
+    {
+      "region": "九州地方",
+      "name": "基肄（椽）城跡",
+      "prefecture": "福岡県 佐賀県"
+    },
+    {
+      "region": "九州地方",
+      "name": "吉野ヶ里遺跡",
+      "prefecture": "佐賀県"
+    },
+    {
+      "region": "九州地方",
+      "name": "名護屋城跡並陣跡",
+      "prefecture": "佐賀県"
+    },
+    {
+      "region": "九州地方",
+      "name": "福井洞窟",
+      "prefecture": "長崎県"
+    },
+    {
+      "region": "九州地方",
+      "name": "金田城跡",
+      "prefecture": "長崎県"
+    },
+    {
+      "region": "九州地方",
+      "name": "原の辻遺跡",
+      "prefecture": "長崎県"
+    },
+    {
+      "region": "九州地方",
+      "name": "熊本城跡",
+      "prefecture": "熊本県"
+    },
+    {
+      "region": "九州地方",
+      "name": "臼杵磨崖仏 附 日吉塔、嘉応二年在銘五輪塔 承安二年在銘五輪塔",
+      "prefecture": "大分県"
+    },
+    {
+      "region": "九州地方",
+      "name": "西都原古墳群",
+      "prefecture": "宮崎県"
+    }
+  ],
+  "meta": {
+    "title": "日本の特別史跡一覧 (Special Historic Sites of Japan) - Free Download",
+    "description": "文化財保護法に基づき国が指定した特別史跡の一覧（名称・所在都道府県）。 Contains 66 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の特別史跡一覧 (Special Historic Sites of Japan) | ListBase",
+    "seo_description": "Download 日本の特別史跡一覧 (Special Historic Sites of Japan) — 66 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 66 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%89%B9%E5%88%A5%E5%8F%B2%E8%B7%A1%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}
