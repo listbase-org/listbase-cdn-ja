@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-24T02:16:47.438Z",
-  "total_datasets": 453,
-  "total_records": 434335,
+  "generated": "2026-10-24T02:16:51.501Z",
+  "total_datasets": 454,
+  "total_records": 434573,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "economy",
@@ -260,6 +260,31 @@
         "xlsx": {
           "name": "ja-hakubutsukan_JA.xlsx",
           "size": 190551
+        }
+      }
+    },
+    {
+      "id": "ja-naoki-sho-jushosha",
+      "name": "直木三十五賞 受賞者・受賞作一覧 (Naoki Prize winners)",
+      "category": "culture",
+      "record_count": 238,
+      "columns": [
+        "round",
+        "period",
+        "winner",
+        "work"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E7%9B%B4%E6%9C%A8%E4%B8%89%E5%8D%81%E4%BA%94%E8%B3%9E",
+      "updated": "2026-10",
+      "size": 37317,
+      "files": {
+        "csv": {
+          "name": "ja-naoki-sho-jushosha_JA.csv",
+          "size": 17133
+        },
+        "xlsx": {
+          "name": "ja-naoki-sho-jushosha_JA.xlsx",
+          "size": 17269
         }
       }
     },
