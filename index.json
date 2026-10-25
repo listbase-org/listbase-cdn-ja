@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:12:38.512Z",
-  "total_datasets": 493,
-  "total_records": 448913,
+  "generated": "2026-10-25T02:12:42.551Z",
+  "total_datasets": 494,
+  "total_records": 449172,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "history",
@@ -5866,6 +5866,32 @@
         "xlsx": {
           "name": "ja-yamanashi-shikuchoson-kyoukai_JA.xlsx",
           "size": 52366
+        }
+      }
+    },
+    {
+      "id": "ja-kokuritsu-byoin-ryoyojo",
+      "name": "国立病院・国立療養所一覧（2004年独法化以前）(Former national hospitals and sanatoriums of Japan)",
+      "category": "health",
+      "record_count": 259,
+      "columns": [
+        "region",
+        "prefecture",
+        "name",
+        "location",
+        "history"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E7%AB%8B%E7%97%85%E9%99%A2_%E5%9B%BD%E7%AB%8B%E7%99%82%E9%A4%8A%E6%89%80%E3%81%AE%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 75284,
+      "files": {
+        "csv": {
+          "name": "ja-kokuritsu-byoin-ryoyojo_JA.csv",
+          "size": 46512
+        },
+        "xlsx": {
+          "name": "ja-kokuritsu-byoin-ryoyojo_JA.xlsx",
+          "size": 22831
         }
       }
     },
