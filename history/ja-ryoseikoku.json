@@ -1,0 +1,688 @@
+{
+  "id": "ja-ryoseikoku",
+  "name": "令制国一覧（旧国名）(Provinces of ancient Japan)",
+  "title": "令制国一覧（旧国名）(Provinces of ancient Japan)",
+  "description": "律令制に基づく日本の旧国名（令制国）の一覧。五畿七道の区分・読み・別称（〇州）・沿革メモ。",
+  "category": "history",
+  "source": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%88%B6%E5%9B%BD%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%88%B6%E5%9B%BD%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 79,
+  "columns": [
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "circuit",
+      "label": "Circuit",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "reading",
+      "label": "Reading",
+      "type": "string"
+    },
+    {
+      "key": "alias",
+      "label": "Alias",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "group": "五畿",
+      "circuit": "畿内",
+      "name": "大和国",
+      "reading": "やまと",
+      "alias": "和州",
+      "notes": "716年頃 -738年頃。大和国芳野監よしの"
+    },
+    {
+      "group": "五畿",
+      "circuit": "畿内",
+      "name": "山城国",
+      "reading": "やましろ",
+      "alias": "城州、山州、雍州",
+      "notes": ""
+    },
+    {
+      "group": "五畿",
+      "circuit": "畿内",
+      "name": "河内国",
+      "reading": "かわち/かはち",
+      "alias": "河州",
+      "notes": ""
+    },
+    {
+      "group": "五畿",
+      "circuit": "畿内",
+      "name": "和泉国",
+      "reading": "いずみ/いづみ",
+      "alias": "泉州",
+      "notes": "716年に和泉監（いずみのげん）として河内国より分立。740年に河内国に併合されるも、757年に再分立。"
+    },
+    {
+      "group": "五畿",
+      "circuit": "畿内",
+      "name": "摂津国",
+      "reading": "せっつ",
+      "alias": "摂州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "東海道",
+      "name": "伊賀国",
+      "reading": "いが",
+      "alias": "伊州、賀州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "東海道",
+      "name": "伊勢国",
+      "reading": "いせ",
+      "alias": "勢州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "東海道",
+      "name": "志摩国",
+      "reading": "しま",
+      "alias": "志州",
+      "notes": "8世紀初めまでに伊勢国より分立。"
+    },
+    {
+      "group": "七道",
+      "circuit": "東海道",
+      "name": "尾張国",
+      "reading": "おわり/をはり",
+      "alias": "尾州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "東海道",
+      "name": "三河国",
+      "reading": "みかわ/みかは",
+      "alias": "三州、参州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "東海道",
+      "name": "遠江国",
+      "reading": "とおとうみ/とほたふみ",
+      "alias": "遠州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "東海道",
+      "name": "駿河国",
+      "reading": "するが",
+      "alias": "駿州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "東海道",
+      "name": "伊豆国",
+      "reading": "いず/いづ",
+      "alias": "豆州",
+      "notes": "680年に駿河国より分立。"
+    },
+    {
+      "group": "七道",
+      "circuit": "東海道",
+      "name": "甲斐国",
+      "reading": "かい/かひ",
+      "alias": "甲州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "東海道",
+      "name": "相模国",
+      "reading": "さがみ",
+      "alias": "相州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "東海道",
+      "name": "武蔵国",
+      "reading": "むさし",
+      "alias": "武州",
+      "notes": "771年、東山道から東海道に所属変更。"
+    },
+    {
+      "group": "七道",
+      "circuit": "東海道",
+      "name": "安房国",
+      "reading": "あわ/あは",
+      "alias": "房州、安州",
+      "notes": "718年に上総国より分立。741年に上総国に併合されるも757年再分立。"
+    },
+    {
+      "group": "七道",
+      "circuit": "東海道",
+      "name": "上総国",
+      "reading": "かずさ/かづさ",
+      "alias": "総州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "東海道",
+      "name": "下総国",
+      "reading": "しもうさ/しもふさ",
+      "alias": "総州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "東海道",
+      "name": "常陸国",
+      "reading": "ひたち",
+      "alias": "常州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "東山道",
+      "name": "近江国",
+      "reading": "おうみ/あふみ",
+      "alias": "江州・近州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "東山道",
+      "name": "美濃国",
+      "reading": "みの",
+      "alias": "濃州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "東山道",
+      "name": "飛騨国",
+      "reading": "ひだ",
+      "alias": "飛州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "東山道",
+      "name": "信濃国",
+      "reading": "しなの",
+      "alias": "信州",
+      "notes": "諏方国すわ/すは -721年に信濃国より分立。731年に再統合。"
+    },
+    {
+      "group": "七道",
+      "circuit": "東山道",
+      "name": "上野国",
+      "reading": "こうずけ/かうづけ",
+      "alias": "上州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "東山道",
+      "name": "下野国",
+      "reading": "しもつけ",
+      "alias": "野州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "東山道",
+      "name": "陸奥国",
+      "reading": "みちのおく/みちのく/むつ",
+      "alias": "奥州/陸州",
+      "notes": "陸奥国は7世紀に常陸国より分立。石背国いわせ/いはせ -718年に陸奥国より分立。数年後に再統合。石城国いわき/いはき -718年に陸奥国より分立。数年後に再統合。※ 陸奥は戊辰戦争の戦後処理の一環で分割された。陸奥国 (1869-)りくおう/むつ - 陸前・陸中等を分割後の部分。陸前国りくぜん -1869年に陸奥国より分立。陸中国りくちゅう/りくちゆう - 1869年に陸奥国より分立。岩代国いわしろ/いはしろ（岩州）- 1869年に陸奥国より分立。磐城国いわき/いはき（磐州）- 1869年に陸奥国より分立。"
+    },
+    {
+      "group": "七道",
+      "circuit": "東山道",
+      "name": "出羽国",
+      "reading": "でわ/では",
+      "alias": "羽州",
+      "notes": "712年（和銅5年）に越後国出羽郡を割いて出羽国を建てる。同年10月、陸奥国の最上・置賜両郡を出羽国に編入。※ 出羽は戊辰戦争の戦後処理の一環で分割された。羽前国うぜん - 1869年に出羽国より分立。羽後国うご - 1869年に出羽国より分立。"
+    },
+    {
+      "group": "七道",
+      "circuit": "北陸道",
+      "name": "若狭国",
+      "reading": "わかさ",
+      "alias": "若州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "北陸道",
+      "name": "越前国",
+      "reading": "えちぜん/ゑちぜん",
+      "alias": "越州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "北陸道",
+      "name": "加賀国",
+      "reading": "かが",
+      "alias": "加州",
+      "notes": "823年に越前国より分立。"
+    },
+    {
+      "group": "七道",
+      "circuit": "北陸道",
+      "name": "能登国",
+      "reading": "のと",
+      "alias": "能州",
+      "notes": "718年に越前国より分立。741年に越中国に併合されるも、757年に再分立。"
+    },
+    {
+      "group": "七道",
+      "circuit": "北陸道",
+      "name": "越中国",
+      "reading": "えっちゅう/ゑつちゆう",
+      "alias": "越州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "北陸道",
+      "name": "越後国",
+      "reading": "えちご/ゑちご",
+      "alias": "越州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "北陸道",
+      "name": "佐渡国",
+      "reading": "さど",
+      "alias": "佐州、渡州",
+      "notes": "743年に越後国に併合されるも、752年に再分立。"
+    },
+    {
+      "group": "七道",
+      "circuit": "山陰道",
+      "name": "丹波国",
+      "reading": "たんば",
+      "alias": "丹州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "山陰道",
+      "name": "丹後国",
+      "reading": "たんご",
+      "alias": "丹州",
+      "notes": "713年に丹波国より分立。"
+    },
+    {
+      "group": "七道",
+      "circuit": "山陰道",
+      "name": "但馬国",
+      "reading": "たじま/たぢま",
+      "alias": "但州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "山陰道",
+      "name": "因幡国",
+      "reading": "いなば",
+      "alias": "因州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "山陰道",
+      "name": "伯耆国",
+      "reading": "ほうき/はうき",
+      "alias": "伯州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "山陰道",
+      "name": "出雲国",
+      "reading": "いずも/いづも",
+      "alias": "雲州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "山陰道",
+      "name": "石見国",
+      "reading": "いわみ/いはみ",
+      "alias": "石州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "山陰道",
+      "name": "隠岐国",
+      "reading": "おき",
+      "alias": "隠州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "山陽道",
+      "name": "播磨国",
+      "reading": "はりま",
+      "alias": "播州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "山陽道",
+      "name": "美作国",
+      "reading": "みまさか",
+      "alias": "作州",
+      "notes": "713年に備前国より分立。"
+    },
+    {
+      "group": "七道",
+      "circuit": "山陽道",
+      "name": "備前国",
+      "reading": "びぜん",
+      "alias": "備州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "山陽道",
+      "name": "備中国",
+      "reading": "びっちゅう/びつちゆう",
+      "alias": "備州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "山陽道",
+      "name": "備後国",
+      "reading": "びんご",
+      "alias": "備州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "山陽道",
+      "name": "安芸国",
+      "reading": "あき",
+      "alias": "芸州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "山陽道",
+      "name": "周防国",
+      "reading": "すおう/すはう",
+      "alias": "防州、周州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "山陽道",
+      "name": "長門国",
+      "reading": "ながと",
+      "alias": "長州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "南海道",
+      "name": "紀伊国",
+      "reading": "きい",
+      "alias": "紀州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "南海道",
+      "name": "淡路国",
+      "reading": "あわじ/あはぢ",
+      "alias": "淡州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "南海道",
+      "name": "阿波国",
+      "reading": "あわ/あは",
+      "alias": "阿州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "南海道",
+      "name": "讃岐国",
+      "reading": "さぬき",
+      "alias": "讃州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "南海道",
+      "name": "伊予国",
+      "reading": "いよ",
+      "alias": "予州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "南海道",
+      "name": "土佐国",
+      "reading": "とさ",
+      "alias": "土州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "西海道",
+      "name": "筑前国",
+      "reading": "ちくぜん",
+      "alias": "筑州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "西海道",
+      "name": "筑後国",
+      "reading": "ちくご",
+      "alias": "筑州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "西海道",
+      "name": "豊前国",
+      "reading": "ぶぜん",
+      "alias": "豊州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "西海道",
+      "name": "豊後国",
+      "reading": "ぶんご",
+      "alias": "豊州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "西海道",
+      "name": "肥前国",
+      "reading": "ひぜん",
+      "alias": "肥州",
+      "notes": "値嘉島ちか - 876年に肥前国より分立。数年後に再編入。 現在の長崎県平戸島及び江島、平島を除く五島列島及び附属島嶼。"
+    },
+    {
+      "group": "七道",
+      "circuit": "西海道",
+      "name": "肥後国",
+      "reading": "ひご",
+      "alias": "肥州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "西海道",
+      "name": "日向国",
+      "reading": "ひゅうが/ひうが",
+      "alias": "日州、向州",
+      "notes": ""
+    },
+    {
+      "group": "七道",
+      "circuit": "西海道",
+      "name": "大隅国",
+      "reading": "おおすみ/おほすみ",
+      "alias": "隅州",
+      "notes": "713年に日向国より分立。多禰国たね -702年に日向国より分立。824年に大隅国に併合。"
+    },
+    {
+      "group": "七道",
+      "circuit": "西海道",
+      "name": "薩摩国",
+      "reading": "さつま",
+      "alias": "薩州",
+      "notes": "702年に日向国より分立。"
+    },
+    {
+      "group": "七道",
+      "circuit": "西海道",
+      "name": "壱岐国",
+      "reading": "いき",
+      "alias": "壱州",
+      "notes": "古代は「壱岐嶋」。"
+    },
+    {
+      "group": "七道",
+      "circuit": "西海道",
+      "name": "対馬国",
+      "reading": "つしま",
+      "alias": "対州",
+      "notes": "古代は「対馬嶋」または「対馬国」（文献により混用）。"
+    },
+    {
+      "group": "戊辰戦争直後に置かれた一道",
+      "circuit": "北海道",
+      "name": "渡島国",
+      "reading": "おしま/をしま",
+      "alias": "渡州",
+      "notes": "かつての和人地。"
+    },
+    {
+      "group": "戊辰戦争直後に置かれた一道",
+      "circuit": "北海道",
+      "name": "後志国",
+      "reading": "しりべし",
+      "alias": "後州",
+      "notes": "かつての和人地。"
+    },
+    {
+      "group": "戊辰戦争直後に置かれた一道",
+      "circuit": "北海道",
+      "name": "胆振国",
+      "reading": "いぶり",
+      "alias": "胆州",
+      "notes": "山越郡は、かつての和人地。"
+    },
+    {
+      "group": "戊辰戦争直後に置かれた一道",
+      "circuit": "北海道",
+      "name": "石狩国",
+      "reading": "いしかり",
+      "alias": "石州",
+      "notes": ""
+    },
+    {
+      "group": "戊辰戦争直後に置かれた一道",
+      "circuit": "北海道",
+      "name": "天塩国",
+      "reading": "てしお/てしほ",
+      "alias": "天州",
+      "notes": ""
+    },
+    {
+      "group": "戊辰戦争直後に置かれた一道",
+      "circuit": "北海道",
+      "name": "北見国",
+      "reading": "きたみ",
+      "alias": "北州",
+      "notes": "1881年、釧路国から旧網尻郡を編入。"
+    },
+    {
+      "group": "戊辰戦争直後に置かれた一道",
+      "circuit": "北海道",
+      "name": "日高国",
+      "reading": "ひだか",
+      "alias": "日州、高州",
+      "notes": ""
+    },
+    {
+      "group": "戊辰戦争直後に置かれた一道",
+      "circuit": "北海道",
+      "name": "十勝国",
+      "reading": "とかち",
+      "alias": "十州",
+      "notes": ""
+    },
+    {
+      "group": "戊辰戦争直後に置かれた一道",
+      "circuit": "北海道",
+      "name": "釧路国",
+      "reading": "くしろ",
+      "alias": "釧州",
+      "notes": "1881年、北見国へ旧網尻郡を移管。"
+    },
+    {
+      "group": "戊辰戦争直後に置かれた一道",
+      "circuit": "北海道",
+      "name": "根室国",
+      "reading": "ねむろ",
+      "alias": "根州",
+      "notes": "1885年、千島国へ色丹郡を移管。"
+    },
+    {
+      "group": "戊辰戦争直後に置かれた一道",
+      "circuit": "北海道",
+      "name": "千島国",
+      "reading": "ちしま",
+      "alias": "千州",
+      "notes": "1875年、樺太・千島交換条約により、得撫郡・新知郡・占守郡を追加新設。1885年、根室国から色丹郡を編入。"
+    }
+  ],
+  "meta": {
+    "title": "令制国一覧（旧国名）(Provinces of ancient Japan) - Free Download",
+    "description": "律令制に基づく日本の旧国名（令制国）の一覧。五畿七道の区分・読み・別称（〇州）・沿革メモ。 Contains 79 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "令制国一覧（旧国名）(Provinces of ancient Japan) | ListBase",
+    "seo_description": "Download 令制国一覧（旧国名）(Provinces of ancient Japan) — 79 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 79 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%88%B6%E5%9B%BD%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}

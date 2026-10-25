@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:10:58.072Z",
-  "total_datasets": 469,
-  "total_records": 437631,
+  "generated": "2026-10-25T02:11:02.257Z",
+  "total_datasets": 470,
+  "total_records": 437710,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -5609,6 +5609,33 @@
         "xlsx": {
           "name": "ja-rekidai-tenno_JA.xlsx",
           "size": 21835
+        }
+      }
+    },
+    {
+      "id": "ja-ryoseikoku",
+      "name": "令制国一覧（旧国名）(Provinces of ancient Japan)",
+      "category": "history",
+      "record_count": 79,
+      "columns": [
+        "group",
+        "circuit",
+        "name",
+        "reading",
+        "alias",
+        "notes"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%88%B6%E5%9B%BD%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 18471,
+      "files": {
+        "csv": {
+          "name": "ja-ryoseikoku_JA.csv",
+          "size": 7835
+        },
+        "xlsx": {
+          "name": "ja-ryoseikoku_JA.xlsx",
+          "size": 11055
         }
       }
     },
