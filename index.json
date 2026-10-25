@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:11:22.446Z",
-  "total_datasets": 475,
-  "total_records": 439025,
+  "generated": "2026-10-25T02:11:27.619Z",
+  "total_datasets": 476,
+  "total_records": 439091,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "finance",
@@ -654,6 +654,30 @@
         "xlsx": {
           "name": "ja-renzoku-terebi-shosetsu_JA.xlsx",
           "size": 22319
+        }
+      }
+    },
+    {
+      "id": "ja-chorui-tennen-kinenbutsu",
+      "name": "鳥類の天然記念物一覧 (Birds designated as Natural Monuments of Japan)",
+      "category": "environment",
+      "record_count": 66,
+      "columns": [
+        "status",
+        "entry",
+        "location"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E9%A1%9E%E5%A4%A9%E7%84%B6%E8%A8%98%E5%BF%B5%E7%89%A9%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 15180,
+      "files": {
+        "csv": {
+          "name": "ja-chorui-tennen-kinenbutsu_JA.csv",
+          "size": 8995
+        },
+        "xlsx": {
+          "name": "ja-chorui-tennen-kinenbutsu_JA.xlsx",
+          "size": 10168
         }
       }
     },
