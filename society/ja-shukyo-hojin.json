@@ -1,0 +1,2006 @@
+{
+  "id": "ja-shukyo-hojin",
+  "name": "日本の宗教法人一覧 (Religious corporations in Japan)",
+  "title": "日本の宗教法人一覧 (Religious corporations in Japan)",
+  "description": "日本の主な宗教法人（神道・仏教・キリスト教・新宗教など）の一覧。",
+  "category": "society",
+  "source": "https://ja.wikipedia.org/wiki/%E5%AE%97%E6%95%99%E6%B3%95%E4%BA%BA%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E5%AE%97%E6%95%99%E6%B3%95%E4%BA%BA%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 393,
+  "columns": [
+    {
+      "key": "kana",
+      "label": "Kana",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kana": "あ",
+      "name": "三五教",
+      "notes": ""
+    },
+    {
+      "kana": "い",
+      "name": "イエス之御霊教会教団",
+      "notes": ""
+    },
+    {
+      "kana": "い",
+      "name": "イエス福音教団",
+      "notes": ""
+    },
+    {
+      "kana": "い",
+      "name": "石鎚教",
+      "notes": ""
+    },
+    {
+      "kana": "い",
+      "name": "石鎚本教",
+      "notes": ""
+    },
+    {
+      "kana": "い",
+      "name": "石鎚山真言宗",
+      "notes": ""
+    },
+    {
+      "kana": "い",
+      "name": "惟神教",
+      "notes": ""
+    },
+    {
+      "kana": "い",
+      "name": "出雲大社教",
+      "notes": ""
+    },
+    {
+      "kana": "い",
+      "name": "出雲神奈備教",
+      "notes": ""
+    },
+    {
+      "kana": "い",
+      "name": "出雲教",
+      "notes": ""
+    },
+    {
+      "kana": "い",
+      "name": "出雲神道八雲教神人会教団",
+      "notes": ""
+    },
+    {
+      "kana": "い",
+      "name": "出雲日御碕大神宮教",
+      "notes": ""
+    },
+    {
+      "kana": "い",
+      "name": "一元帰教",
+      "notes": ""
+    },
+    {
+      "kana": "い",
+      "name": "一元の宮",
+      "notes": ""
+    },
+    {
+      "kana": "い",
+      "name": "一畑薬師教団",
+      "notes": ""
+    },
+    {
+      "kana": "い",
+      "name": "一切宗",
+      "notes": ""
+    },
+    {
+      "kana": "い",
+      "name": "一尊教団",
+      "notes": ""
+    },
+    {
+      "kana": "い",
+      "name": "稲荷教",
+      "notes": "京都"
+    },
+    {
+      "kana": "い",
+      "name": "稲荷教",
+      "notes": "広島"
+    },
+    {
+      "kana": "い",
+      "name": "いのちの会",
+      "notes": ""
+    },
+    {
+      "kana": "い",
+      "name": "イムマヌエル綜合伝道団",
+      "notes": ""
+    },
+    {
+      "kana": "う",
+      "name": "ウェスレアン・ホーリネス教団",
+      "notes": ""
+    },
+    {
+      "kana": "う",
+      "name": "宇宙教団",
+      "notes": ""
+    },
+    {
+      "kana": "え",
+      "name": "栄光の福音キリスト教団",
+      "notes": ""
+    },
+    {
+      "kana": "え",
+      "name": "易道教",
+      "notes": ""
+    },
+    {
+      "kana": "え",
+      "name": "円応教",
+      "notes": ""
+    },
+    {
+      "kana": "お",
+      "name": "オウム真理教(法人格消滅)",
+      "notes": ""
+    },
+    {
+      "kana": "お",
+      "name": "黄檗宗",
+      "notes": ""
+    },
+    {
+      "kana": "お",
+      "name": "大日の本教",
+      "notes": ""
+    },
+    {
+      "kana": "お",
+      "name": "大参天教",
+      "notes": ""
+    },
+    {
+      "kana": "お",
+      "name": "大神教",
+      "notes": ""
+    },
+    {
+      "kana": "お",
+      "name": "大三輪教",
+      "notes": ""
+    },
+    {
+      "kana": "お",
+      "name": "大本",
+      "notes": ""
+    },
+    {
+      "kana": "お",
+      "name": "大山阿夫利神社本庁",
+      "notes": ""
+    },
+    {
+      "kana": "お",
+      "name": "大倭教",
+      "notes": ""
+    },
+    {
+      "kana": "お",
+      "name": "沖縄バプテスト連盟",
+      "notes": ""
+    },
+    {
+      "kana": "お",
+      "name": "尾張高野山",
+      "notes": ""
+    },
+    {
+      "kana": "お",
+      "name": "御嶽教",
+      "notes": ""
+    },
+    {
+      "kana": "お",
+      "name": "御嶽教修正派",
+      "notes": ""
+    },
+    {
+      "kana": "お",
+      "name": "御嶽山曽間本教",
+      "notes": ""
+    },
+    {
+      "kana": "お",
+      "name": "御嶽山大教",
+      "notes": ""
+    },
+    {
+      "kana": "か",
+      "name": "偕和會",
+      "notes": ""
+    },
+    {
+      "kana": "か",
+      "name": "活水基督教団",
+      "notes": ""
+    },
+    {
+      "kana": "か",
+      "name": "香取金光教",
+      "notes": ""
+    },
+    {
+      "kana": "か",
+      "name": "カトリック中央協議会",
+      "notes": ""
+    },
+    {
+      "kana": "か",
+      "name": "神之導教",
+      "notes": ""
+    },
+    {
+      "kana": "か",
+      "name": "神ながら教",
+      "notes": ""
+    },
+    {
+      "kana": "か",
+      "name": "観音宗",
+      "notes": ""
+    },
+    {
+      "kana": "か",
+      "name": "カンバーランド長老キリスト教会日本中会",
+      "notes": ""
+    },
+    {
+      "kana": "き",
+      "name": "掬営界教団",
+      "notes": ""
+    },
+    {
+      "kana": "き",
+      "name": "木曽御嶽本教",
+      "notes": ""
+    },
+    {
+      "kana": "き",
+      "name": "北法相宗",
+      "notes": ""
+    },
+    {
+      "kana": "き",
+      "name": "救世軍",
+      "notes": ""
+    },
+    {
+      "kana": "き",
+      "name": "基督教カナン教団",
+      "notes": ""
+    },
+    {
+      "kana": "き",
+      "name": "基督兄弟団",
+      "notes": ""
+    },
+    {
+      "kana": "き",
+      "name": "基督心宗教団",
+      "notes": ""
+    },
+    {
+      "kana": "き",
+      "name": "基督聖協団",
+      "notes": ""
+    },
+    {
+      "kana": "き",
+      "name": "キリスト友会日本年会",
+      "notes": ""
+    },
+    {
+      "kana": "き",
+      "name": "救世主教",
+      "notes": ""
+    },
+    {
+      "kana": "き",
+      "name": "金峯山修験本宗",
+      "notes": ""
+    },
+    {
+      "kana": "く",
+      "name": "弘願真宗",
+      "notes": ""
+    },
+    {
+      "kana": "く",
+      "name": "救世観音宗",
+      "notes": ""
+    },
+    {
+      "kana": "く",
+      "name": "鞍馬弘教",
+      "notes": ""
+    },
+    {
+      "kana": "く",
+      "name": "黒住教",
+      "notes": ""
+    },
+    {
+      "kana": "け",
+      "name": "華厳宗",
+      "notes": ""
+    },
+    {
+      "kana": "け",
+      "name": "解脱会",
+      "notes": ""
+    },
+    {
+      "kana": "け",
+      "name": "験乗宗",
+      "notes": ""
+    },
+    {
+      "kana": "け",
+      "name": "現証宗日蓮主義仏立講",
+      "notes": ""
+    },
+    {
+      "kana": "け",
+      "name": "顕本法華宗",
+      "notes": ""
+    },
+    {
+      "kana": "こ",
+      "name": "孝道教団",
+      "notes": ""
+    },
+    {
+      "kana": "こ",
+      "name": "光明真言宗",
+      "notes": ""
+    },
+    {
+      "kana": "こ",
+      "name": "光明念佛身語聖宗",
+      "notes": ""
+    },
+    {
+      "kana": "こ",
+      "name": "高野山真言宗",
+      "notes": ""
+    },
+    {
+      "kana": "こ",
+      "name": "幸福の科学",
+      "notes": ""
+    },
+    {
+      "kana": "こ",
+      "name": "粉河観音宗",
+      "notes": ""
+    },
+    {
+      "kana": "こ",
+      "name": "古義神道",
+      "notes": ""
+    },
+    {
+      "kana": "こ",
+      "name": "古神道仙法教",
+      "notes": ""
+    },
+    {
+      "kana": "こ",
+      "name": "金刀比羅本教",
+      "notes": ""
+    },
+    {
+      "kana": "こ",
+      "name": "金光教",
+      "notes": ""
+    },
+    {
+      "kana": "こ",
+      "name": "金剛宗",
+      "notes": ""
+    },
+    {
+      "kana": "こ",
+      "name": "金毘羅教",
+      "notes": ""
+    },
+    {
+      "kana": "さ",
+      "name": "在家日蓮宗浄風会",
+      "notes": ""
+    },
+    {
+      "kana": "さ",
+      "name": "最上稲荷教",
+      "notes": ""
+    },
+    {
+      "kana": "さ",
+      "name": "在日大韓基督教会総会",
+      "notes": ""
+    },
+    {
+      "kana": "さ",
+      "name": "サンビ教団",
+      "notes": ""
+    },
+    {
+      "kana": "さ",
+      "name": "三宝教団",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "慈恩宗",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "信貴山真言宗",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "時宗",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "思親会",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "至誠真柱教",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "自然社",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "自然真道",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "四大道",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "実行教",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "宗教法人カトリック京都司教区",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "宗教法人カトリック福岡司教区",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "宗教法人国柱会",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "宗教法人神道",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "宗教法人平和教",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "宗教法人大阪宣教教会",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "宗教法人京都宣教教会",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "修養団捧誠会",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "修験道",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "修験道教",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "正信会",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "聖徳宗",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "浄土宗",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "浄土宗捨世派",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "浄土宗西山派西山浄土宗浄土宗西山禅林寺派浄土宗西山深草派",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "浄土真宗浄土真宗遣迎院派浄土真宗同朋教団浄土真宗本願寺派真宗出雲路派真宗大谷派真宗北本願寺派真宗木辺派真宗興正派真宗三門徒派真宗浄興寺派真宗誠照寺派真宗高田派真宗長生派真宗佛光寺派真宗山元派",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "正法会",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "正法事門法華宗",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "正法法華宗",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "新義真言宗",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "神宮教",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言宗石鉄派",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言宗犬鳴派",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言宗御室派",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言宗花山院派",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言宗九州教団",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言宗国分寺派",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言宗五智教団",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言宗金剛院派",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言宗金毘羅尊流",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言宗寿照派",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言宗神道派",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言宗須磨寺派",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言宗善通寺派",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言宗泉涌寺派",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言宗大覚寺派",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言宗醍醐派",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言宗大師派",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言宗大日派",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言宗智山派",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言宗中山寺派",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言宗東寺派",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "眞言宗鳳閣寺派",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言宗豊山派",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言宗山階派",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言宗霊雲寺派",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言三宝宗",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言聖天宗",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言毘盧舎那宗",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言密宗",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真言律宗",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "神社産土教",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "神社司庁",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "神社本教",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "神社本庁",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "神心教",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真生会",
+      "notes": "神奈川"
+    },
+    {
+      "kana": "し",
+      "name": "新生佛教教団",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "心成睦教団",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "神宣教",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "神仙霊道教",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "神道石切教",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "神道観真教",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "神道教団",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "神道光徳教",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "神道国清教",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "神道金刀比羅教",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "神道修成派",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "神道新教",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "神道神心教",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "神道親導教",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "神道大教",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "神道大成教",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "神道大和教",
+      "notes": "北海道"
+    },
+    {
+      "kana": "し",
+      "name": "神道天行居",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "神道禊教",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "神道大和教",
+      "notes": "三重"
+    },
+    {
+      "kana": "し",
+      "name": "神徳教団",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "真如苑",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "心睦教団",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "神理教",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "心霊界教団",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "神霊教",
+      "notes": ""
+    },
+    {
+      "kana": "し",
+      "name": "神慈秀明会",
+      "notes": ""
+    },
+    {
+      "kana": "す",
+      "name": "すめら教",
+      "notes": ""
+    },
+    {
+      "kana": "せ",
+      "name": "世界真光文明教団",
+      "notes": ""
+    },
+    {
+      "kana": "せ",
+      "name": "聖イエス会",
+      "notes": ""
+    },
+    {
+      "kana": "せ",
+      "name": "正義会教団",
+      "notes": ""
+    },
+    {
+      "kana": "せ",
+      "name": "聖教会",
+      "notes": ""
+    },
+    {
+      "kana": "せ",
+      "name": "誠光教",
+      "notes": ""
+    },
+    {
+      "kana": "せ",
+      "name": "聖正道教団",
+      "notes": ""
+    },
+    {
+      "kana": "せ",
+      "name": "誠心明生会",
+      "notes": ""
+    },
+    {
+      "kana": "せ",
+      "name": "生長の家",
+      "notes": ""
+    },
+    {
+      "kana": "せ",
+      "name": "ゼ・エバンゼリカル・アライアンス・ミッション",
+      "notes": "日本同盟基督教団"
+    },
+    {
+      "kana": "せ",
+      "name": "世界救世教",
+      "notes": ""
+    },
+    {
+      "kana": "せ",
+      "name": "世界心道教",
+      "notes": ""
+    },
+    {
+      "kana": "せ",
+      "name": "世界平和教団",
+      "notes": ""
+    },
+    {
+      "kana": "せ",
+      "name": "世界平和統一家庭連合",
+      "notes": "旧世界基督教統一神霊協会"
+    },
+    {
+      "kana": "せ",
+      "name": "赤心会",
+      "notes": ""
+    },
+    {
+      "kana": "せ",
+      "name": "石土宗",
+      "notes": ""
+    },
+    {
+      "kana": "せ",
+      "name": "セブンスデー・アドベンチスト教団",
+      "notes": ""
+    },
+    {
+      "kana": "せ",
+      "name": "洗心教",
+      "notes": ""
+    },
+    {
+      "kana": "せ",
+      "name": "洗心教団",
+      "notes": ""
+    },
+    {
+      "kana": "せ",
+      "name": "善隣教",
+      "notes": ""
+    },
+    {
+      "kana": "そ",
+      "name": "創価学会",
+      "notes": ""
+    },
+    {
+      "kana": "そ",
+      "name": "曹洞宗",
+      "notes": ""
+    },
+    {
+      "kana": "そ",
+      "name": "祖神道教団",
+      "notes": ""
+    },
+    {
+      "kana": "そ",
+      "name": "祖神道本庁",
+      "notes": ""
+    },
+    {
+      "kana": "た",
+      "name": "大宇真霊教",
+      "notes": ""
+    },
+    {
+      "kana": "た",
+      "name": "大宇宙教",
+      "notes": ""
+    },
+    {
+      "kana": "た",
+      "name": "大慧會教団",
+      "notes": ""
+    },
+    {
+      "kana": "た",
+      "name": "大元教",
+      "notes": ""
+    },
+    {
+      "kana": "た",
+      "name": "大自然天地日之大神教",
+      "notes": ""
+    },
+    {
+      "kana": "た",
+      "name": "大乗教",
+      "notes": ""
+    },
+    {
+      "kana": "た",
+      "name": "大真界教団",
+      "notes": ""
+    },
+    {
+      "kana": "た",
+      "name": "大祖教",
+      "notes": ""
+    },
+    {
+      "kana": "た",
+      "name": "大道教",
+      "notes": "福島"
+    },
+    {
+      "kana": "た",
+      "name": "大道教",
+      "notes": "奈良"
+    },
+    {
+      "kana": "た",
+      "name": "太道教",
+      "notes": ""
+    },
+    {
+      "kana": "た",
+      "name": "大日然教",
+      "notes": ""
+    },
+    {
+      "kana": "た",
+      "name": "大日本大道教",
+      "notes": ""
+    },
+    {
+      "kana": "た",
+      "name": "大佛教宗本派",
+      "notes": ""
+    },
+    {
+      "kana": "た",
+      "name": "大本元教教団",
+      "notes": ""
+    },
+    {
+      "kana": "た",
+      "name": "大霊道",
+      "notes": ""
+    },
+    {
+      "kana": "た",
+      "name": "大和教団",
+      "notes": ""
+    },
+    {
+      "kana": "た",
+      "name": "大和宗",
+      "notes": ""
+    },
+    {
+      "kana": "ち",
+      "name": "ヽ心会",
+      "notes": ""
+    },
+    {
+      "kana": "ち",
+      "name": "長生教",
+      "notes": ""
+    },
+    {
+      "kana": "て",
+      "name": "天恩教",
+      "notes": ""
+    },
+    {
+      "kana": "て",
+      "name": "天元教",
+      "notes": ""
+    },
+    {
+      "kana": "て",
+      "name": "天崇教",
+      "notes": ""
+    },
+    {
+      "kana": "て",
+      "name": "天社土御門神社本庁",
+      "notes": ""
+    },
+    {
+      "kana": "て",
+      "name": "天宗",
+      "notes": ""
+    },
+    {
+      "kana": "て",
+      "name": "天常教",
+      "notes": ""
+    },
+    {
+      "kana": "て",
+      "name": "天照皇大神宮教",
+      "notes": ""
+    },
+    {
+      "kana": "て",
+      "name": "天真教",
+      "notes": ""
+    },
+    {
+      "kana": "て",
+      "name": "天真道教団",
+      "notes": ""
+    },
+    {
+      "kana": "て",
+      "name": "天善教",
+      "notes": ""
+    },
+    {
+      "kana": "て",
+      "name": "天祖教",
+      "notes": ""
+    },
+    {
+      "kana": "て",
+      "name": "天祖光教",
+      "notes": ""
+    },
+    {
+      "kana": "て",
+      "name": "天台圓淨宗← 圓浄宗",
+      "notes": ""
+    },
+    {
+      "kana": "て",
+      "name": "天台寺門宗",
+      "notes": ""
+    },
+    {
+      "kana": "て",
+      "name": "天台宗",
+      "notes": ""
+    },
+    {
+      "kana": "て",
+      "name": "天台眞盛宗",
+      "notes": ""
+    },
+    {
+      "kana": "て",
+      "name": "天地教",
+      "notes": "京都"
+    },
+    {
+      "kana": "て",
+      "name": "天地教",
+      "notes": "兵庫"
+    },
+    {
+      "kana": "て",
+      "name": "天地元靈原体教派本部教曾",
+      "notes": ""
+    },
+    {
+      "kana": "て",
+      "name": "天地之大教",
+      "notes": ""
+    },
+    {
+      "kana": "て",
+      "name": "天地守教団",
+      "notes": ""
+    },
+    {
+      "kana": "て",
+      "name": "天輪王明誠教団",
+      "notes": ""
+    },
+    {
+      "kana": "て",
+      "name": "天理教",
+      "notes": ""
+    },
+    {
+      "kana": "て",
+      "name": "天霊教",
+      "notes": ""
+    },
+    {
+      "kana": "と",
+      "name": "東寺真言宗",
+      "notes": ""
+    },
+    {
+      "kana": "と",
+      "name": "東洋宣教会きよめ教団",
+      "notes": ""
+    },
+    {
+      "kana": "と",
+      "name": "徳光教",
+      "notes": ""
+    },
+    {
+      "kana": "と",
+      "name": "豊受教",
+      "notes": ""
+    },
+    {
+      "kana": "な",
+      "name": "中山荒神報恩会",
+      "notes": ""
+    },
+    {
+      "kana": "な",
+      "name": "中山身語正宗",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "西山浄土宗",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日蓮宗",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日蓮宗最上教",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日蓮宗不受不施派",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日蓮主義佛立講",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日蓮正宗",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日蓮誠宗",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日蓮法華宗",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日蓮本宗",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日光教団",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本アッセンブリーズ・オブ・ゴッド教団",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本アライアンス教団",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本イエス・キリスト教団",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本ヱホバ教団",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本キリスト改革派教会",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本キリスト教会",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本基督教団",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本敬神崇祖自修団",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本山妙法寺大僧伽",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本自由メソヂスト教団",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本神宮本庁",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本神社教団",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本神社本庁",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本聖契キリスト教団",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本聖公会",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本地方伝道団",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本伝道福音教団",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本ナザレン教団",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本バプテスト教会連合",
+      "notes": "バプテスト・ジェネラル・カンフレンス・ジャパン・ミッション"
+    },
+    {
+      "kana": "に",
+      "name": "日本バプテスト宣教会",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本バプテスト同盟",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本バプテスト・バイブル・フェローシップ",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本バプテスト連盟",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本ハリストス正教会教団",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本フォースクエア福音教団",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本福音教会",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本福音教団",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本福音ルーテル教会",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本フリーメソジスト教団",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本ホーリネス教団",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本ナノメイト・キリスト教会会議",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本メノナイト・ブレザレン教団",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本ルーテル教団",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "日本ルーテル同胞教団",
+      "notes": ""
+    },
+    {
+      "kana": "に",
+      "name": "如来教",
+      "notes": ""
+    },
+    {
+      "kana": "ね",
+      "name": "",
+      "notes": ""
+    },
+    {
+      "kana": "ね",
+      "name": "念法眞教",
+      "notes": ""
+    },
+    {
+      "kana": "は",
+      "name": "パーフェクト リバティー教団(PL教団、PL教)",
+      "notes": ""
+    },
+    {
+      "kana": "は",
+      "name": "八宗兼学真修教",
+      "notes": ""
+    },
+    {
+      "kana": "は",
+      "name": "八大龍王大自然愛信教団",
+      "notes": ""
+    },
+    {
+      "kana": "は",
+      "name": "萬国福音教団",
+      "notes": ""
+    },
+    {
+      "kana": "ひ",
+      "name": "日月神一条",
+      "notes": ""
+    },
+    {
+      "kana": "ひ",
+      "name": "日之教",
+      "notes": ""
+    },
+    {
+      "kana": "ひ",
+      "name": "日の本教",
+      "notes": ""
+    },
+    {
+      "kana": "ひ",
+      "name": "日之本教",
+      "notes": ""
+    },
+    {
+      "kana": "ひ",
+      "name": "日の本教団",
+      "notes": ""
+    },
+    {
+      "kana": "ひ",
+      "name": "日の本神誠講",
+      "notes": ""
+    },
+    {
+      "kana": "ふ",
+      "name": "福音伝道教団",
+      "notes": ""
+    },
+    {
+      "kana": "ふ",
+      "name": "福田海",
+      "notes": ""
+    },
+    {
+      "kana": "ふ",
+      "name": "富士教",
+      "notes": ""
+    },
+    {
+      "kana": "ふ",
+      "name": "冨士大石寺顕正会",
+      "notes": ""
+    },
+    {
+      "kana": "ふ",
+      "name": "不受不施日蓮講門宗",
+      "notes": ""
+    },
+    {
+      "kana": "ふ",
+      "name": "扶桑教",
+      "notes": ""
+    },
+    {
+      "kana": "ふ",
+      "name": "佛所護念会教団",
+      "notes": ""
+    },
+    {
+      "kana": "ふ",
+      "name": "不動教",
+      "notes": ""
+    },
+    {
+      "kana": "ふ",
+      "name": "不動宗",
+      "notes": ""
+    },
+    {
+      "kana": "ふ",
+      "name": "普明会教団",
+      "notes": ""
+    },
+    {
+      "kana": "へ",
+      "name": "辯天宗",
+      "notes": ""
+    },
+    {
+      "kana": "ほ",
+      "name": "蓬莱山誠神教",
+      "notes": ""
+    },
+    {
+      "kana": "ほ",
+      "name": "法師宗",
+      "notes": ""
+    },
+    {
+      "kana": "ほ",
+      "name": "保守バプテスト日本宣教団",
+      "notes": ""
+    },
+    {
+      "kana": "ほ",
+      "name": "菩提山真言宗",
+      "notes": ""
+    },
+    {
+      "kana": "ほ",
+      "name": "北海道神社協会",
+      "notes": ""
+    },
+    {
+      "kana": "ほ",
+      "name": "法華宗",
+      "notes": "真門流"
+    },
+    {
+      "kana": "ほ",
+      "name": "法華宗",
+      "notes": "陣門流"
+    },
+    {
+      "kana": "ほ",
+      "name": "法華宗",
+      "notes": "本門流"
+    },
+    {
+      "kana": "ほ",
+      "name": "法華眞宗",
+      "notes": ""
+    },
+    {
+      "kana": "ほ",
+      "name": "法華日蓮宗",
+      "notes": ""
+    },
+    {
+      "kana": "ほ",
+      "name": "法相宗",
+      "notes": ""
+    },
+    {
+      "kana": "ほ",
+      "name": "本化日蓮宗",
+      "notes": "京都"
+    },
+    {
+      "kana": "ほ",
+      "name": "本化日蓮宗",
+      "notes": "兵庫"
+    },
+    {
+      "kana": "ほ",
+      "name": "本化妙宗聯盟",
+      "notes": ""
+    },
+    {
+      "kana": "ほ",
+      "name": "本山修験宗",
+      "notes": ""
+    },
+    {
+      "kana": "ほ",
+      "name": "本派日蓮宗",
+      "notes": ""
+    },
+    {
+      "kana": "ほ",
+      "name": "ほんみち",
+      "notes": ""
+    },
+    {
+      "kana": "ほ",
+      "name": "本門経王宗",
+      "notes": ""
+    },
+    {
+      "kana": "ほ",
+      "name": "本門佛立宗",
+      "notes": ""
+    },
+    {
+      "kana": "ほ",
+      "name": "本門法華宗",
+      "notes": ""
+    },
+    {
+      "kana": "ま",
+      "name": "浄土真信宗浄光寺派",
+      "notes": "まことのじょうどしんしゅうじょうこうじは"
+    },
+    {
+      "kana": "ま",
+      "name": "真の道",
+      "notes": ""
+    },
+    {
+      "kana": "ま",
+      "name": "真乃道教",
+      "notes": ""
+    },
+    {
+      "kana": "ま",
+      "name": "末日聖徒イエス・キリスト教会",
+      "notes": ""
+    },
+    {
+      "kana": "ま",
+      "name": "丸山教",
+      "notes": ""
+    },
+    {
+      "kana": "ま",
+      "name": "卍教団",
+      "notes": ""
+    },
+    {
+      "kana": "み",
+      "name": "瑞穂教",
+      "notes": ""
+    },
+    {
+      "kana": "み",
+      "name": "彌山教",
+      "notes": ""
+    },
+    {
+      "kana": "み",
+      "name": "禊教",
+      "notes": ""
+    },
+    {
+      "kana": "み",
+      "name": "みたま教",
+      "notes": ""
+    },
+    {
+      "kana": "み",
+      "name": "峯高稲荷大社教",
+      "notes": ""
+    },
+    {
+      "kana": "み",
+      "name": "美濃ミッション",
+      "notes": ""
+    },
+    {
+      "kana": "み",
+      "name": "妙見宗",
+      "notes": ""
+    },
+    {
+      "kana": "み",
+      "name": "妙智會教団",
+      "notes": ""
+    },
+    {
+      "kana": "み",
+      "name": "妙道会教団",
+      "notes": ""
+    },
+    {
+      "kana": "み",
+      "name": "妙法宗",
+      "notes": ""
+    },
+    {
+      "kana": "め",
+      "name": "明算真言宗",
+      "notes": ""
+    },
+    {
+      "kana": "め",
+      "name": "明治教",
+      "notes": ""
+    },
+    {
+      "kana": "め",
+      "name": "明治教団",
+      "notes": ""
+    },
+    {
+      "kana": "め",
+      "name": "明正教",
+      "notes": ""
+    },
+    {
+      "kana": "も",
+      "name": "ものみの塔聖書冊子協会",
+      "notes": ""
+    },
+    {
+      "kana": "も",
+      "name": "元始神教",
+      "notes": ""
+    },
+    {
+      "kana": "も",
+      "name": "門徒宗一味派",
+      "notes": ""
+    },
+    {
+      "kana": "や",
+      "name": "山蔭神道",
+      "notes": ""
+    },
+    {
+      "kana": "や",
+      "name": "大和教",
+      "notes": ""
+    },
+    {
+      "kana": "ゆ",
+      "name": "融通念佛宗",
+      "notes": ""
+    },
+    {
+      "kana": "ゆ",
+      "name": "唯一神道禊教",
+      "notes": ""
+    },
+    {
+      "kana": "ゆ",
+      "name": "弓矢八幡",
+      "notes": ""
+    },
+    {
+      "kana": "り",
+      "name": "律宗",
+      "notes": ""
+    },
+    {
+      "kana": "り",
+      "name": "立正佼成会",
+      "notes": ""
+    },
+    {
+      "kana": "り",
+      "name": "靈山寺真言宗",
+      "notes": ""
+    },
+    {
+      "kana": "り",
+      "name": "臨済宗永源寺派",
+      "notes": ""
+    },
+    {
+      "kana": "り",
+      "name": "臨済宗円覚寺派",
+      "notes": ""
+    },
+    {
+      "kana": "り",
+      "name": "臨済宗建長寺派",
+      "notes": ""
+    },
+    {
+      "kana": "り",
+      "name": "臨済宗建仁寺派",
+      "notes": ""
+    },
+    {
+      "kana": "り",
+      "name": "臨済宗向嶽寺派",
+      "notes": ""
+    },
+    {
+      "kana": "り",
+      "name": "臨済宗興聖寺派",
+      "notes": ""
+    },
+    {
+      "kana": "り",
+      "name": "臨済宗國泰寺派",
+      "notes": ""
+    },
+    {
+      "kana": "り",
+      "name": "臨済宗相国寺派",
+      "notes": ""
+    },
+    {
+      "kana": "り",
+      "name": "臨済宗大徳寺派",
+      "notes": ""
+    },
+    {
+      "kana": "り",
+      "name": "臨済宗天龍寺派",
+      "notes": ""
+    },
+    {
+      "kana": "り",
+      "name": "臨済宗東福寺派",
+      "notes": ""
+    },
+    {
+      "kana": "り",
+      "name": "臨済宗南禅寺派",
+      "notes": ""
+    },
+    {
+      "kana": "り",
+      "name": "臨済宗佛通寺派",
+      "notes": ""
+    },
+    {
+      "kana": "り",
+      "name": "臨済宗方広寺派",
+      "notes": ""
+    },
+    {
+      "kana": "り",
+      "name": "臨済宗妙心寺派",
+      "notes": ""
+    },
+    {
+      "kana": "る",
+      "name": "瑠璃教会",
+      "notes": ""
+    },
+    {
+      "kana": "れ",
+      "name": "霊友会",
+      "notes": ""
+    },
+    {
+      "kana": "れ",
+      "name": "練真道教団",
+      "notes": ""
+    },
+    {
+      "kana": "れ",
+      "name": "霊波之光",
+      "notes": ""
+    },
+    {
+      "kana": "わ",
+      "name": "ワールドメイト",
+      "notes": ""
+    },
+    {
+      "kana": "わ",
+      "name": "和宗",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "日本の宗教法人一覧 (Religious corporations in Japan) - Free Download",
+    "description": "日本の主な宗教法人（神道・仏教・キリスト教・新宗教など）の一覧。 Contains 393 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の宗教法人一覧 (Religious corporations in Japan) | ListBase",
+    "seo_description": "Download 日本の宗教法人一覧 (Religious corporations in Japan) — 393 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 393 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E5%AE%97%E6%95%99%E6%B3%95%E4%BA%BA%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}

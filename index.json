@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:12:42.551Z",
-  "total_datasets": 494,
-  "total_records": 449172,
+  "generated": "2026-10-25T02:12:46.569Z",
+  "total_datasets": 495,
+  "total_records": 449565,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "sports",
@@ -13564,6 +13564,30 @@
         "xlsx": {
           "name": "ja-nobel-sho-jushosha_JA.xlsx",
           "size": 9867
+        }
+      }
+    },
+    {
+      "id": "ja-shukyo-hojin",
+      "name": "日本の宗教法人一覧 (Religious corporations in Japan)",
+      "category": "society",
+      "record_count": 393,
+      "columns": [
+        "kana",
+        "name",
+        "notes"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E5%AE%97%E6%95%99%E6%B3%95%E4%BA%BA%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 36501,
+      "files": {
+        "csv": {
+          "name": "ja-shukyo-hojin_JA.csv",
+          "size": 12097
+        },
+        "xlsx": {
+          "name": "ja-shukyo-hojin_JA.xlsx",
+          "size": 15765
         }
       }
     },
