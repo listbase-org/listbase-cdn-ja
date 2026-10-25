@@ -1,0 +1,892 @@
+{
+  "id": "ja-shochu-meka",
+  "name": "焼酎メーカー一覧 (Shochu makers of Japan)",
+  "title": "焼酎メーカー一覧 (Shochu makers of Japan)",
+  "description": "日本の焼酎メーカー（蔵元・酒造会社）の五十音順一覧。",
+  "category": "food",
+  "source": "https://ja.wikipedia.org/wiki/%E7%84%BC%E9%85%8E%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E7%84%BC%E9%85%8E%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 214,
+  "columns": [
+    {
+      "key": "kana_group",
+      "label": "Kana Group",
+      "type": "string"
+    },
+    {
+      "key": "maker",
+      "label": "Maker",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kana_group": "あ行",
+      "maker": "相生ユニビオ"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "磯崎酒造"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "稲田本店"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "井上酒造"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "指宿酒造協業組合"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "岩川醸造"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "植園酒造"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "宇都酒造"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "梅ヶ枝酒造"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "梅津酒造"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "江井ヶ嶋酒造"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "オエノンホールディングス（合同酒精、福徳長酒類、秋田県醗酵工業）"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "老松酒造"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "王手門酒造"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "大石酒造"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "大石酒造場"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "太久保酒造"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "太田酒造"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "大島食糧"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "大島酒造"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "大谷酒造"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "大津酒造"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "大山酒造"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "大山甚七商店"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "オガタマ酒造"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "翁酒造"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "沖永良部酒造"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "奥飛騨酒造"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "尾込商店"
+    },
+    {
+      "kana_group": "あ行",
+      "maker": "重家酒造"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "甲斐商店"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "鹿児島酒造"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "鹿児島醸造情報基盤"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "樫立酒造"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "天海の蔵"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "金升酒造"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "釜屋"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "神川酒造"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "神酒造"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "上杉酒造"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "上妻酒造"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "亀萬酒造"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "川石本家酒類"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "河津酒造"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "喜界島酒造"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "菊川"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "喜久水酒造 (長野県)"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "喜久水酒造 (秋田県)"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "菊水酒造 (高知県)"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "菊水酒造 (新潟県)"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "菊の城本舗"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "北の誉酒造"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "京屋酒造"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "清里町焼酎醸造事業所"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "玉泉堂酒造"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "霧島町蒸留所"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "麒麟麦酒"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "金龍"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "熊本県酒造研究所"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "久米仙酒造"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "久保田酒造"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "玄海酒造"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "幸蔵酒造"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "神津島酒造"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "高良酒造"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "剛烈富永酒造店"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "黄金井酒造"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "黄金酒造"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "小鹿酒造"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "小西酒造"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "木場酒造"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "小牧醸造"
+    },
+    {
+      "kana_group": "か行",
+      "maker": "小正醸造"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "坂井酒造"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "坂下酒造"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "相良酒造"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "櫻井酒造"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "サクラオブルワリーアンドディスティラリー"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "櫻之郷醸造"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "櫻乃峰酒造"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "笹の川酒造"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "佐多宗二商店"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "さつま霧島酒造"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "薩摩酒造"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "さつま司酒造"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "さつま無双"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "札幌酒精工業(サッポロビールとは無関係)"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "サッポロビール"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "佐藤焼酎製造場"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "佐藤酒造"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "猿川伊豆酒造場"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "サントリー"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "三和酒類"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "塩田酒造"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "寿海酒造協業組合"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "焼酎蔵薩洲濵田屋伝兵衛"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "常徳屋酒造場"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "松露酒造"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "白石酒造"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "白金酒造"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "白玉醸造"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "白露酒造"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "新平酒造"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "軸屋酒造"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "酔仙酒造"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "瑞鷹"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "繊月酒造"
+    },
+    {
+      "kana_group": "さ行",
+      "maker": "千壽酒造"
+    },
+    {
+      "kana_group": "た行",
+      "maker": "大海酒造協業組合"
+    },
+    {
+      "kana_group": "た行",
+      "maker": "高崎酒造"
+    },
+    {
+      "kana_group": "た行",
+      "maker": "高橋助作酒造店"
+    },
+    {
+      "kana_group": "た行",
+      "maker": "田崎酒造"
+    },
+    {
+      "kana_group": "た行",
+      "maker": "種子島酒造"
+    },
+    {
+      "kana_group": "た行",
+      "maker": "玉乃光酒造"
+    },
+    {
+      "kana_group": "た行",
+      "maker": "田村"
+    },
+    {
+      "kana_group": "た行",
+      "maker": "楽丸酒造"
+    },
+    {
+      "kana_group": "た行",
+      "maker": "帖佐醸造"
+    },
+    {
+      "kana_group": "た行",
+      "maker": ""
+    },
+    {
+      "kana_group": "た行",
+      "maker": "知覧醸造"
+    },
+    {
+      "kana_group": "た行",
+      "maker": "通潤酒造"
+    },
+    {
+      "kana_group": "た行",
+      "maker": "堤酒造"
+    },
+    {
+      "kana_group": "た行",
+      "maker": "天海の蔵"
+    },
+    {
+      "kana_group": "た行",
+      "maker": "天星酒造"
+    },
+    {
+      "kana_group": "た行",
+      "maker": "田苑酒造"
+    },
+    {
+      "kana_group": "た行",
+      "maker": "東亜酒造"
+    },
+    {
+      "kana_group": "た行",
+      "maker": "東海醗酵工業"
+    },
+    {
+      "kana_group": "た行",
+      "maker": "杜氏の里笠沙"
+    },
+    {
+      "kana_group": "た行",
+      "maker": "轟醸造"
+    },
+    {
+      "kana_group": "た行",
+      "maker": "富田酒造場"
+    },
+    {
+      "kana_group": "な行",
+      "maker": "内藤醸造"
+    },
+    {
+      "kana_group": "な行",
+      "maker": "中野BC"
+    },
+    {
+      "kana_group": "な行",
+      "maker": "中俣"
+    },
+    {
+      "kana_group": "な行",
+      "maker": "中村酒造場"
+    },
+    {
+      "kana_group": "な行",
+      "maker": "長島研醸(鹿児島県出水郡長島町)"
+    },
+    {
+      "kana_group": "な行",
+      "maker": "那須酒造場"
+    },
+    {
+      "kana_group": "な行",
+      "maker": "二階堂酒造"
+    },
+    {
+      "kana_group": "な行",
+      "maker": "ニッカウヰスキー(発売：アサヒビール)"
+    },
+    {
+      "kana_group": "な行",
+      "maker": "新納酒造"
+    },
+    {
+      "kana_group": "な行",
+      "maker": "錦灘酒造"
+    },
+    {
+      "kana_group": "な行",
+      "maker": "西酒造"
+    },
+    {
+      "kana_group": "な行",
+      "maker": "西平酒造"
+    },
+    {
+      "kana_group": "な行",
+      "maker": "西平本家"
+    },
+    {
+      "kana_group": "な行",
+      "maker": "西吉田酒造"
+    },
+    {
+      "kana_group": "な行",
+      "maker": ""
+    },
+    {
+      "kana_group": "は行",
+      "maker": "はざま酒造"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "八丈興発"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "八丈島酒造"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "抜群酒造"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "花の香酒造"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "花春酒造"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "濵田酒造"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "林酒造場"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "原口酒造"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "原田酒造"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "萬世酒造"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "東酒造"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "光酒造"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "美少年酒造"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "聖酒造"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "平野醸造"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "廣瀬商店"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "日当山醸造"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "吹上焼酎"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "福井酒造場"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "福田酒造"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "福徳長酒類"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "藤市酒造"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "藤正宗酒造"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "古澤醸造"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "紅乙女酒造"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "北陸醗酵工業"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "ほまれ酒造"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "本田商店"
+    },
+    {
+      "kana_group": "は行",
+      "maker": "本坊酒造"
+    },
+    {
+      "kana_group": "ま行",
+      "maker": "町田酒造"
+    },
+    {
+      "kana_group": "ま行",
+      "maker": "松井酒造 (鳥取県)"
+    },
+    {
+      "kana_group": "ま行",
+      "maker": "松浦一酒造"
+    },
+    {
+      "kana_group": "ま行",
+      "maker": "松﨑酒造"
+    },
+    {
+      "kana_group": "ま行",
+      "maker": "松の泉酒造"
+    },
+    {
+      "kana_group": "ま行",
+      "maker": "松の露酒造"
+    },
+    {
+      "kana_group": "ま行",
+      "maker": "丸西焼酎"
+    },
+    {
+      "kana_group": "ま行",
+      "maker": "萬膳酒造"
+    },
+    {
+      "kana_group": "ま行",
+      "maker": "三岳酒造"
+    },
+    {
+      "kana_group": "ま行",
+      "maker": "水口酒造"
+    },
+    {
+      "kana_group": "ま行",
+      "maker": "南酒造"
+    },
+    {
+      "kana_group": "ま行",
+      "maker": "美峰酒類"
+    },
+    {
+      "kana_group": "ま行",
+      "maker": "宮城酒類"
+    },
+    {
+      "kana_group": "ま行",
+      "maker": "宮﨑本店"
+    },
+    {
+      "kana_group": "ま行",
+      "maker": "宮田本店"
+    },
+    {
+      "kana_group": "ま行",
+      "maker": "宮原酒造"
+    },
+    {
+      "kana_group": "ま行",
+      "maker": "御代桜醸造"
+    },
+    {
+      "kana_group": "ま行",
+      "maker": "宗政酒造"
+    },
+    {
+      "kana_group": "ま行",
+      "maker": "村尾酒造"
+    },
+    {
+      "kana_group": "ま行",
+      "maker": "村祐酒造"
+    },
+    {
+      "kana_group": "ま行",
+      "maker": "明利酒類"
+    },
+    {
+      "kana_group": "ま行",
+      "maker": "第1アルコール 旧メルシャン"
+    },
+    {
+      "kana_group": "ま行",
+      "maker": "森伊蔵酒造"
+    },
+    {
+      "kana_group": "ま行",
+      "maker": "盛田"
+    },
+    {
+      "kana_group": "ま行",
+      "maker": "守屋酒造"
+    },
+    {
+      "kana_group": "や行",
+      "maker": "八木酒造"
+    },
+    {
+      "kana_group": "や行",
+      "maker": "八代不知火蔵"
+    },
+    {
+      "kana_group": "や行",
+      "maker": "山田商店"
+    },
+    {
+      "kana_group": "や行",
+      "maker": "山田酒造"
+    },
+    {
+      "kana_group": "や行",
+      "maker": "大和桜酒造"
+    },
+    {
+      "kana_group": "や行",
+      "maker": "山乃守酒造場"
+    },
+    {
+      "kana_group": "や行",
+      "maker": "山村酒造"
+    },
+    {
+      "kana_group": "や行",
+      "maker": "弥生焼酎醸造所"
+    },
+    {
+      "kana_group": "や行",
+      "maker": "吉永酒造場"
+    },
+    {
+      "kana_group": "や行",
+      "maker": "吉乃川"
+    },
+    {
+      "kana_group": "や行",
+      "maker": "四ッ谷酒造"
+    },
+    {
+      "kana_group": "ら行",
+      "maker": "龍神酒造"
+    },
+    {
+      "kana_group": "ら行",
+      "maker": "六調子酒造"
+    },
+    {
+      "kana_group": "ら行",
+      "maker": "ロジャナリカージャパン"
+    },
+    {
+      "kana_group": "わ行",
+      "maker": "渡邊酒造場"
+    }
+  ],
+  "meta": {
+    "title": "焼酎メーカー一覧 (Shochu makers of Japan) - Free Download",
+    "description": "日本の焼酎メーカー（蔵元・酒造会社）の五十音順一覧。 Contains 214 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "焼酎メーカー一覧 (Shochu makers of Japan) | ListBase",
+    "seo_description": "Download 焼酎メーカー一覧 (Shochu makers of Japan) — 214 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 214 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E7%84%BC%E9%85%8E%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}

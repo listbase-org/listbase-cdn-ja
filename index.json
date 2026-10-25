@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:11:51.419Z",
-  "total_datasets": 482,
-  "total_records": 442169,
+  "generated": "2026-10-25T02:11:55.348Z",
+  "total_datasets": 483,
+  "total_records": 442383,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "geography",
@@ -1227,6 +1227,29 @@
         "xlsx": {
           "name": "ja-nihonshu-meka_JA.xlsx",
           "size": 50246
+        }
+      }
+    },
+    {
+      "id": "ja-shochu-meka",
+      "name": "焼酎メーカー一覧 (Shochu makers of Japan)",
+      "category": "food",
+      "record_count": 214,
+      "columns": [
+        "kana_group",
+        "maker"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E7%84%BC%E9%85%8E%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 17797,
+      "files": {
+        "csv": {
+          "name": "ja-shochu-meka_JA.csv",
+          "size": 5814
+        },
+        "xlsx": {
+          "name": "ja-shochu-meka_JA.xlsx",
+          "size": 10786
         }
       }
     },
