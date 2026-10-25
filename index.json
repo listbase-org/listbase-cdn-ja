@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:11:06.189Z",
-  "total_datasets": 471,
-  "total_records": 438486,
+  "generated": "2026-10-25T02:11:09.962Z",
+  "total_datasets": 472,
+  "total_records": 438544,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "finance",
@@ -719,6 +719,31 @@
         "xlsx": {
           "name": "ja-hatsudensho_JA.xlsx",
           "size": 44522
+        }
+      }
+    },
+    {
+      "id": "ja-kotei-koen",
+      "name": "日本の国定公園一覧 (Quasi-national parks of Japan)",
+      "category": "environment",
+      "record_count": 58,
+      "columns": [
+        "name",
+        "prefecture",
+        "designated",
+        "notes"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%AE%9A%E5%85%AC%E5%9C%92",
+      "updated": "2026-10",
+      "size": 13643,
+      "files": {
+        "csv": {
+          "name": "ja-kotei-koen_JA.csv",
+          "size": 7042
+        },
+        "xlsx": {
+          "name": "ja-kotei-koen_JA.xlsx",
+          "size": 10821
         }
       }
     },

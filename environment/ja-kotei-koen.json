@@ -1,0 +1,394 @@
+{
+  "id": "ja-kotei-koen",
+  "name": "日本の国定公園一覧 (Quasi-national parks of Japan)",
+  "title": "日本の国定公園一覧 (Quasi-national parks of Japan)",
+  "description": "環境大臣が指定する日本の国定公園の一覧（名称・都道府県・指定日・主な景勝地）。",
+  "category": "environment",
+  "source": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%AE%9A%E5%85%AC%E5%9C%92",
+  "source_url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%AE%9A%E5%85%AC%E5%9C%92",
+  "updated": "2026-10",
+  "record_count": 58,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "designated",
+      "label": "Designated",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "厚岸霧多布昆布森国定公園",
+      "prefecture": "北海道",
+      "designated": "2021年3月30日",
+      "notes": "霧多布湿原、厚岸湾、厚岸湖、原生花園あやめヶ原など"
+    },
+    {
+      "name": "暑寒別天売焼尻国定公園",
+      "prefecture": "北海道",
+      "designated": "1990年8月1日",
+      "notes": "暑寒別山地、雨竜沼湿原、天売島、焼尻島、ルーラン奇勝など"
+    },
+    {
+      "name": "網走国定公園",
+      "prefecture": "北海道",
+      "designated": "1958年7月1日",
+      "notes": "網走五湖、小清水原生花園、天都山など"
+    },
+    {
+      "name": "ニセコ積丹小樽海岸国定公園",
+      "prefecture": "北海道",
+      "designated": "1963年7月24日",
+      "notes": "ニセコ連峰の一部、積丹、小樽海岸など"
+    },
+    {
+      "name": "大沼国定公園",
+      "prefecture": "北海道",
+      "designated": "1958年7月1日",
+      "notes": "渡島駒ヶ岳（駒ヶ岳）及び大沼"
+    },
+    {
+      "name": "下北半島国定公園",
+      "prefecture": "青森",
+      "designated": "1968年7月22日",
+      "notes": "仏ヶ浦、恐山、大間崎、尻屋崎など下北半島の著名景勝地"
+    },
+    {
+      "name": "津軽国定公園",
+      "prefecture": "青森",
+      "designated": "1975年3月31日",
+      "notes": "岩木山、十二湖、深浦海岸、十三湖など"
+    },
+    {
+      "name": "早池峰国定公園",
+      "prefecture": "岩手",
+      "designated": "1982年6月10日",
+      "notes": "早池峰山のみの単独指定。"
+    },
+    {
+      "name": "栗駒国定公園",
+      "prefecture": "岩手、宮城、秋田、山形",
+      "designated": "1968年7月22日",
+      "notes": "栗駒山地、夏油温泉、鬼首温泉郷、鳴子峡、小安峡など"
+    },
+    {
+      "name": "蔵王国定公園",
+      "prefecture": "宮城、山形",
+      "designated": "1963年8月8日",
+      "notes": "蔵王山、山寺"
+    },
+    {
+      "name": "男鹿国定公園",
+      "prefecture": "秋田",
+      "designated": "1973年5月15日",
+      "notes": "男鹿半島（入道崎、一ノ目潟など）"
+    },
+    {
+      "name": "鳥海国定公園",
+      "prefecture": "秋田、山形",
+      "designated": "1963年7月24日",
+      "notes": "鳥海山、象潟、飛島など"
+    },
+    {
+      "name": "越後三山只見国定公園",
+      "prefecture": "福島、新潟",
+      "designated": "1973年5月15日",
+      "notes": "越後三山(八海山など)、奥只見ダム周辺から只見川下流、銚子の口付近まで"
+    },
+    {
+      "name": "水郷筑波国定公園",
+      "prefecture": "茨城、千葉",
+      "designated": "1959年3月3日※1",
+      "notes": "筑波山、霞ヶ浦、十二橋周辺、鹿島神宮神域、犬吠埼など"
+    },
+    {
+      "name": "妙義荒船佐久高原国定公園",
+      "prefecture": "群馬、長野",
+      "designated": "1969年4月10日",
+      "notes": "妙義山、荒船山、佐久高原など"
+    },
+    {
+      "name": "南房総国定公園",
+      "prefecture": "千葉",
+      "designated": "1958年8月1日",
+      "notes": "房総内浦、房総外浦、鹿野山、清澄山など"
+    },
+    {
+      "name": "明治の森高尾国定公園",
+      "prefecture": "東京",
+      "designated": "1967年12月11日",
+      "notes": "高尾山"
+    },
+    {
+      "name": "丹沢大山国定公園",
+      "prefecture": "神奈川",
+      "designated": "1965年3月25日",
+      "notes": "丹沢湖、蛭ヶ岳、丹沢山、塔ノ岳、大山周辺"
+    },
+    {
+      "name": "佐渡弥彦米山国定公園",
+      "prefecture": "新潟",
+      "designated": "1950年7月27日※2",
+      "notes": "佐渡（外海府海岸、七浦海岸、小木海岸など）、弥彦山、米山、福浦八景など"
+    },
+    {
+      "name": "能登半島国定公園",
+      "prefecture": "富山、石川",
+      "designated": "1968年5月1日",
+      "notes": "能登金剛、曽々木海岸、禄剛崎、内浦海岸、能登島、雨晴海岸など"
+    },
+    {
+      "name": "越前加賀海岸国定公園",
+      "prefecture": "石川、福井",
+      "designated": "1968年5月1日",
+      "notes": "越前海岸、東尋坊など"
+    },
+    {
+      "name": "若狭湾国定公園",
+      "prefecture": "福井、京都",
+      "designated": "1955年6月1日",
+      "notes": "若狭湾一帯（気比松原、三方五湖、蘇洞門、冠島）など"
+    },
+    {
+      "name": "八ヶ岳中信高原国定公園",
+      "prefecture": "山梨、長野",
+      "designated": "1964年6月1日",
+      "notes": "八ヶ岳山麓、霧ヶ峰、蓼科高原界隈など"
+    },
+    {
+      "name": "中央アルプス国定公園",
+      "prefecture": "長野",
+      "designated": "2020年3月27日",
+      "notes": "木曽山脈、寝覚ノ床、田立の滝など"
+    },
+    {
+      "name": "天竜奥三河国定公園",
+      "prefecture": "長野、静岡、愛知",
+      "designated": "1969年1月10日",
+      "notes": "天竜峡、佐久間ダム、茶臼山高原、鳳来寺山など"
+    },
+    {
+      "name": "御嶽山国定公園",
+      "prefecture": "長野、岐阜",
+      "designated": "2026年4月10日",
+      "notes": ""
+    },
+    {
+      "name": "揖斐関ヶ原養老国定公園",
+      "prefecture": "岐阜",
+      "designated": "1970年12月28日",
+      "notes": "関ヶ原古戦場跡、養老渓谷など"
+    },
+    {
+      "name": "飛騨木曽川国定公園",
+      "prefecture": "岐阜、愛知",
+      "designated": "1964年3月3日",
+      "notes": "飛騨川（中山七里、飛水峡）、木曽川（日本ライン）など"
+    },
+    {
+      "name": "愛知高原国定公園",
+      "prefecture": "愛知",
+      "designated": "1970年12月28日",
+      "notes": "猿投山、矢作川上流域、香嵐渓、本宮山など）"
+    },
+    {
+      "name": "三河湾国定公園",
+      "prefecture": "愛知",
+      "designated": "1958年4月10日",
+      "notes": "知多半島、三河湾一帯、三ヶ根山、渥美半島、日間賀島など"
+    },
+    {
+      "name": "鈴鹿国定公園",
+      "prefecture": "三重、滋賀",
+      "designated": "1968年7月22日",
+      "notes": "鈴鹿山脈（御在所山、宇賀渓、石水渓など各種渓谷）"
+    },
+    {
+      "name": "室生赤目青山国定公園",
+      "prefecture": "三重、奈良",
+      "designated": "1970年12月28日",
+      "notes": "室生高原、赤目渓谷（香落渓、赤目四十八滝）、青山高原"
+    },
+    {
+      "name": "琵琶湖国定公園",
+      "prefecture": "滋賀、京都",
+      "designated": "1950年7月24日",
+      "notes": "琵琶湖（竹生島、海津大崎など）、比叡山、比良山地、野坂山地、伊吹山など"
+    },
+    {
+      "name": "丹後天橋立大江山国定公園",
+      "prefecture": "京都",
+      "designated": "2007年8月3日",
+      "notes": "丹後半島海岸部（天橋立、経ヶ岬を含む）、大江山、世屋高原"
+    },
+    {
+      "name": "京都丹波高原国定公園",
+      "prefecture": "京都",
+      "designated": "2016年3月25日",
+      "notes": "京都北山、芦生原生林、八丁平、美山かやぶきの里・北村"
+    },
+    {
+      "name": "明治の森箕面国定公園",
+      "prefecture": "大阪",
+      "designated": "1967年12月11日",
+      "notes": "箕面の滝など"
+    },
+    {
+      "name": "金剛生駒紀泉国定公園",
+      "prefecture": "大阪、奈良、和歌山",
+      "designated": "1958年4月10日※3",
+      "notes": "金剛山地、生駒山地、和泉葛城山麓"
+    },
+    {
+      "name": "氷ノ山後山那岐山国定公園",
+      "prefecture": "兵庫、鳥取、岡山",
+      "designated": "1969年4月10日",
+      "notes": "氷ノ山、那岐山、天滝渓谷、芦津渓谷、神鍋高原、瀞川平、阿瀬渓谷、蘇武岳"
+    },
+    {
+      "name": "大和青垣国定公園",
+      "prefecture": "奈良",
+      "designated": "1970年12月28日",
+      "notes": "大和三山一帯の丘陵地"
+    },
+    {
+      "name": "高野龍神国定公園",
+      "prefecture": "奈良、和歌山",
+      "designated": "1967年3月23日",
+      "notes": "高野山及び龍神温泉一帯"
+    },
+    {
+      "name": "比婆道後帝釈国定公園",
+      "prefecture": "鳥取、島根、広島",
+      "designated": "1963年7月24日",
+      "notes": "比婆山、道後山、吾妻山及び帝釈峡"
+    },
+    {
+      "name": "西中国山地国定公園",
+      "prefecture": "島根、広島、山口",
+      "designated": "1969年1月10日",
+      "notes": "中国山地西部（三段峡、匹見峡、寂地峡含む）"
+    },
+    {
+      "name": "北長門海岸国定公園",
+      "prefecture": "山口",
+      "designated": "1955年11月1日",
+      "notes": "青海島、須佐湾など"
+    },
+    {
+      "name": "秋吉台国定公園",
+      "prefecture": "山口",
+      "designated": "1955年11月1日",
+      "notes": "秋芳洞、秋吉台"
+    },
+    {
+      "name": "剣山国定公園",
+      "prefecture": "徳島、高知",
+      "designated": "1964年3月3日",
+      "notes": "剣山山麓一帯、大歩危、小歩危、祖谷渓"
+    },
+    {
+      "name": "室戸阿南海岸国定公園",
+      "prefecture": "徳島、高知",
+      "designated": "1964年6月1日",
+      "notes": "室戸岬～阿南海岸に亘る海岸線一帯"
+    },
+    {
+      "name": "石鎚国定公園",
+      "prefecture": "愛媛、高知",
+      "designated": "1955年11月1日",
+      "notes": "石鎚山、面河渓"
+    },
+    {
+      "name": "北九州国定公園",
+      "prefecture": "福岡",
+      "designated": "1972年10月16日",
+      "notes": "皿倉山、平尾台"
+    },
+    {
+      "name": "玄海国定公園",
+      "prefecture": "福岡、佐賀、長崎",
+      "designated": "1956年6月1日",
+      "notes": "若松北海岸、芥屋大門、虹の松原、唐津湾"
+    },
+    {
+      "name": "耶馬日田英彦山国定公園",
+      "prefecture": "福岡、熊本、大分",
+      "designated": "1950年7月29日",
+      "notes": "耶馬渓、八面山、英彦山"
+    },
+    {
+      "name": "壱岐対馬国定公園",
+      "prefecture": "長崎",
+      "designated": "1968年7月22日",
+      "notes": "壱岐、浅茅湾など"
+    },
+    {
+      "name": "九州中央山地国定公園",
+      "prefecture": "熊本、宮崎",
+      "designated": "1982年5月15日",
+      "notes": "市房山、五木、五家荘、米良荘、綾照葉樹林帯"
+    },
+    {
+      "name": "日豊海岸国定公園",
+      "prefecture": "大分、宮崎",
+      "designated": "1974年2月15日",
+      "notes": "日豊海岸、枇榔島"
+    },
+    {
+      "name": "祖母傾国定公園",
+      "prefecture": "大分、宮崎",
+      "designated": "1965年3月25日",
+      "notes": "祖母山、高千穂峡"
+    },
+    {
+      "name": "日南海岸国定公園",
+      "prefecture": "宮崎、鹿児島",
+      "designated": "1955年6月1日",
+      "notes": "青島、日南海岸、都井岬"
+    },
+    {
+      "name": "甑島国定公園",
+      "prefecture": "鹿児島",
+      "designated": "2015年3月16日",
+      "notes": "海鼠池、貝池、鹿島断崖、鹿の子断層、珊瑚礁、照葉樹林帯など"
+    },
+    {
+      "name": "沖縄海岸国定公園",
+      "prefecture": "沖縄",
+      "designated": "1972年5月15日",
+      "notes": "北部海岸、中部海岸、恩納ビーチ、万座毛、与那覇岳など"
+    },
+    {
+      "name": "沖縄戦跡国定公園",
+      "prefecture": "沖縄",
+      "designated": "1972年5月15日",
+      "notes": "ひめゆりの塔など県南部海岸地帯の戦争史跡"
+    }
+  ],
+  "meta": {
+    "title": "日本の国定公園一覧 (Quasi-national parks of Japan) - Free Download",
+    "description": "環境大臣が指定する日本の国定公園の一覧（名称・都道府県・指定日・主な景勝地）。 Contains 58 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の国定公園一覧 (Quasi-national parks of Japan) | ListBase",
+    "seo_description": "Download 日本の国定公園一覧 (Quasi-national parks of Japan) — 58 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 58 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%AE%9A%E5%85%AC%E5%9C%92"
+    ]
+  }
+}
