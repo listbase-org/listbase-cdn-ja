@@ -1,0 +1,7588 @@
+{
+  "id": "ja-gyogyo-kyodo-kumiai",
+  "name": "日本の漁業協同組合（JF）一覧 (Fisheries cooperatives of Japan)",
+  "title": "日本の漁業協同組合（JF）一覧 (Fisheries cooperatives of Japan)",
+  "description": "全国の漁業協同組合（漁協・JF）と漁業協同組合連合会の一覧（地方・都道府県別）。",
+  "category": "agriculture",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%BC%81%E6%A5%AD%E5%8D%94%E5%90%8C%E7%B5%84%E5%90%88%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%BC%81%E6%A5%AD%E5%8D%94%E5%90%8C%E7%B5%84%E5%90%88%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 1257,
+  "columns": [
+    {
+      "key": "section",
+      "label": "Section",
+      "type": "string"
+    },
+    {
+      "key": "subsection",
+      "label": "Subsection",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "全国漁業協同組合連合会",
+      "notes": "JF全漁連"
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "北海道漁業協同組合連合会",
+      "notes": "北海道ぎょれん"
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "青森県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "岩手県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "福島県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "茨城沿海地区漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "千葉県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "東京都漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "神奈川県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "新潟県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "富山県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "福井県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "静岡県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "愛知県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "三重県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "大阪府漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "兵庫県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "和歌山県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "岡山県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "広島県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "香川県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "徳島県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "福岡県漁業協同組合連合会",
+      "notes": "JF福岡ぎょれん、玄界灘・響灘"
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "福岡有明海漁業協同組合連合会",
+      "notes": "JF福岡有明海漁連"
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "長崎県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "熊本県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "宮崎県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "沖縄県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "北海道機船漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "沿海漁連",
+      "name": "全国真珠養殖漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "全国内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "青森県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "岩手県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "秋田県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "山形県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "福島県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "茨城県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "栃木県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "群馬県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "埼玉県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "千葉県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "東京都内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "神奈川県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "新潟県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "富山県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "石川県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "福井県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "山梨県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "長野県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "岐阜県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "静岡県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "愛知県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "三重県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "滋賀県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "滋賀県河川漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "京都府内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "兵庫県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "奈良県漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "和歌山県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "鳥取県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "島根県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "岡山県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "広島県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "山口県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "徳島県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "愛媛県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "高知県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "福岡県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "熊本県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "大分県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "おおいた河川漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "宮崎県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "鹿児島県内水面漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "全国鮎養殖漁業組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "漁業協同組合連合会",
+      "subsection": "内水面漁連",
+      "name": "日本養鰻漁業協同組合連合会",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "小樽管内",
+      "name": "石狩湾漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "小樽管内",
+      "name": "小樽市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "小樽管内",
+      "name": "小樽機船漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "小樽管内",
+      "name": "余市郡漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "小樽管内",
+      "name": "東しゃこたん漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "小樽管内",
+      "name": "古宇郡漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "小樽管内",
+      "name": "岩内郡漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "小樽管内",
+      "name": "寿都町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "小樽管内",
+      "name": "島牧漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "檜山管内",
+      "name": "ひやま漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "函館管内",
+      "name": "松前さくら漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "函館管内",
+      "name": "福島吉岡漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "函館管内",
+      "name": "上磯郡漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "函館管内",
+      "name": "函館市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "函館管内",
+      "name": "銭亀沢漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "函館管内",
+      "name": "戸井漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "函館管内",
+      "name": "えさん漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "函館管内",
+      "name": "南かやべ漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "函館管内",
+      "name": "鹿部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "函館管内",
+      "name": "砂原漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "函館管内",
+      "name": "森漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "函館管内",
+      "name": "落部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "函館管内",
+      "name": "八雲町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "函館管内",
+      "name": "長万部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "室蘭管内",
+      "name": "いぶり噴火湾漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "室蘭管内",
+      "name": "室蘭漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "室蘭管内",
+      "name": "いぶり中央漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "室蘭管内",
+      "name": "苫小牧漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "室蘭管内",
+      "name": "鵡川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "日高管内",
+      "name": "ひだか漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "日高管内",
+      "name": "日高中央漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "日高管内",
+      "name": "えりも漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "釧路管内",
+      "name": "広尾漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "釧路管内",
+      "name": "大樹漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "釧路管内",
+      "name": "大津漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "釧路管内",
+      "name": "白糠漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "釧路管内",
+      "name": "釧路市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "釧路管内",
+      "name": "釧路市東部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "釧路管内",
+      "name": "昆布森漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "釧路管内",
+      "name": "厚岸漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "釧路管内",
+      "name": "散布漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "釧路管内",
+      "name": "浜中漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "釧路管内",
+      "name": "釧路機船漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "根室管内",
+      "name": "落石漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "根室管内",
+      "name": "歯舞漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "根室管内",
+      "name": "根室漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "根室管内",
+      "name": "根室湾中部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "根室管内",
+      "name": "別海漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "根室管内",
+      "name": "野付漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "根室管内",
+      "name": "標津漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "根室管内",
+      "name": "羅臼漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "北見管内",
+      "name": "ウトロ漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "北見管内",
+      "name": "斜里第一漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "北見管内",
+      "name": "網走漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "北見管内",
+      "name": "西網走漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "北見管内",
+      "name": "常呂漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "北見管内",
+      "name": "佐呂間漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "北見管内",
+      "name": "湧別漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "北見管内",
+      "name": "紋別漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "北見管内",
+      "name": "沙留漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "北見管内",
+      "name": "雄武漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "稚内管内",
+      "name": "枝幸漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "稚内管内",
+      "name": "頓別漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "稚内管内",
+      "name": "猿払村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "稚内管内",
+      "name": "宗谷漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "稚内管内",
+      "name": "稚内漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "稚内管内",
+      "name": "稚内機船漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "稚内管内",
+      "name": "利尻漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "稚内管内",
+      "name": "香深漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "稚内管内",
+      "name": "船泊漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "留萌管内",
+      "name": "遠別漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "留萌管内",
+      "name": "北るもい漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "留萌管内",
+      "name": "新星マリン漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "留萌管内",
+      "name": "増毛漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "北海道地方",
+      "subsection": "空知管内",
+      "name": "朱鞠内湖淡水漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "深浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "風合瀬漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "新深浦町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "赤石水産漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "鰺ヶ沢漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "車力漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "十三漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "小泊漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "三厩漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "竜飛今別漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "外ヶ浜漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "蓬田村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "後潟漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "青森市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "平内町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "野辺地町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "横浜町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "むつ市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "川内町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "脇野沢村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "佐井村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "奥戸漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "大間漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "風間浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "大畑町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "関根浜漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "石持漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "野牛漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "岩屋漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "尻屋漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "尻労漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "猿ヶ森漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "小田野沢漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "白糠漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "泊漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "六ヶ所村海水漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "六ヶ所村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "小川原湖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "三沢市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "百石町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "市川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "八戸みなと漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "八戸鮫浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "八戸市南浜漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "階上漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "青森県鰹鮪漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "青森県旋網漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "青森県",
+      "name": "八戸機船底曳網漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "岩手県",
+      "name": "釜石無線漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "岩手県",
+      "name": "岩手県内水面養殖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "岩手県",
+      "name": "洋野町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "岩手県",
+      "name": "久慈市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "岩手県",
+      "name": "重茂漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "岩手県",
+      "name": "広田湾漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "岩手県",
+      "name": "田老町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "岩手県",
+      "name": "雫石川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "岩手県",
+      "name": "馬淵川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "岩手県",
+      "name": "大船渡市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "岩手県",
+      "name": "大槌町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "岩手県",
+      "name": "吉浜漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "岩手県",
+      "name": "綾里漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "岩手県",
+      "name": "唐丹町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "岩手県",
+      "name": "三陸やまだ漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "宮城県",
+      "name": "宮城県漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "宮城県",
+      "name": "牡鹿漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "宮城県",
+      "name": "塩釜市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "秋田県",
+      "name": "秋田県漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "秋田県",
+      "name": "雄勝漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "秋田県",
+      "name": "皆瀬川筋漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "秋田県",
+      "name": "成瀬川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "秋田県",
+      "name": "県南漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "秋田県",
+      "name": "横手川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "秋田県",
+      "name": "仙北中央漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "秋田県",
+      "name": "角館漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "秋田県",
+      "name": "仙北西部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "秋田県",
+      "name": "鹿角市河川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "秋田県",
+      "name": "大館比内漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "秋田県",
+      "name": "田代町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "秋田県",
+      "name": "鷹巣町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "秋田県",
+      "name": "阿仁川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "秋田県",
+      "name": "粕毛漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "秋田県",
+      "name": "能代市常盤川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "秋田県",
+      "name": "子吉川水系漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "秋田県",
+      "name": "八森町真瀬川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "秋田県",
+      "name": "馬場目川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "秋田県",
+      "name": "田沢湖町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "山形県",
+      "name": "山形県漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "福島県",
+      "name": "いわき市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "福島県",
+      "name": "小名浜漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "福島県",
+      "name": "相馬双葉漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "福島県",
+      "name": "小名浜底曳漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "福島県",
+      "name": "福島県旋網漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "福島県",
+      "name": "中之作漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "福島県",
+      "name": "江名漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "福島県",
+      "name": "福島県無線漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "東北地方",
+      "subsection": "福島県",
+      "name": "福島県鰹鮪漁業者協会",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "茨城県",
+      "name": "平潟漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "茨城県",
+      "name": "大津漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "茨城県",
+      "name": "川尻漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "茨城県",
+      "name": "会瀬漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "茨城県",
+      "name": "河原子漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "茨城県",
+      "name": "久慈町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "茨城県",
+      "name": "久慈町丸小漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "茨城県",
+      "name": "磯崎漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "茨城県",
+      "name": "那珂湊漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "茨城県",
+      "name": "大洗町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "茨城県",
+      "name": "鹿島灘漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "茨城県",
+      "name": "はさき漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "茨城県",
+      "name": "霞ヶ浦町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "茨城県",
+      "name": "田余漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "茨城県",
+      "name": "新治玉川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "茨城県",
+      "name": "玉造漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "茨城県",
+      "name": "麻生町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "茨城県",
+      "name": "きたうら広域漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "茨城県",
+      "name": "大涸沼漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "栃木県",
+      "name": "栗山村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "栃木県",
+      "name": "今北漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "栃木県",
+      "name": "鬼怒川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "栃木県",
+      "name": "黒川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "栃木県",
+      "name": "西大芦業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "栃木県",
+      "name": "荒井川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "栃木県",
+      "name": "小倉川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "栃木県",
+      "name": "粕尾漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "栃木県",
+      "name": "永野川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "栃木県",
+      "name": "下都賀漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "栃木県",
+      "name": "渡良瀬漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "栃木県",
+      "name": "足尾町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "栃木県",
+      "name": "塩原漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "栃木県",
+      "name": "那珂川北部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "栃木県",
+      "name": "那珂川南部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "栃木県",
+      "name": "那珂川中央漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "栃木県",
+      "name": "茂木町漁協漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "栃木県",
+      "name": "栃木県養殖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "群馬県",
+      "name": "利根漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "群馬県",
+      "name": "阪東漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "群馬県",
+      "name": "群馬漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "群馬県",
+      "name": "吾妻漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "群馬県",
+      "name": "上州漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "群馬県",
+      "name": "烏川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "群馬県",
+      "name": "両毛漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "群馬県",
+      "name": "東毛漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "群馬県",
+      "name": "神流川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "群馬県",
+      "name": "南甘漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "群馬県",
+      "name": "上野村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "群馬県",
+      "name": "邑楽漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "群馬県",
+      "name": "近藤沼漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "群馬県",
+      "name": "日向漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "群馬県",
+      "name": "城沼漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "群馬県",
+      "name": "赤城大沼漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "群馬県",
+      "name": "榛名湖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "群馬県",
+      "name": "群馬県養鱒漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "埼玉県",
+      "name": "秩父漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "埼玉県",
+      "name": "入間漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "埼玉県",
+      "name": "埼玉中央漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "埼玉県",
+      "name": "武蔵漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "埼玉県",
+      "name": "埼玉西部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "埼玉県",
+      "name": "埼玉南部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "埼玉県",
+      "name": "児玉郡市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "埼玉県",
+      "name": "北埼利根漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "埼玉県",
+      "name": "埼玉県北部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "埼玉県",
+      "name": "埼玉東部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "市川市漁業協同組合",
+      "notes": "市川市"
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "船橋市漁業協同組合",
+      "notes": "船橋市"
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "新木更津市漁業協同組合",
+      "notes": "木更津市"
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "金田漁業協同組合",
+      "notes": "木更津市"
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "富津漁業協同組合",
+      "notes": "富津市"
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "新富津漁業協同組合",
+      "notes": "富津市"
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "天羽漁業協同組合",
+      "notes": "富津市"
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "鋸南町保田漁業協同組合",
+      "notes": "安房郡鋸南町"
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "鋸南町勝山漁業協同組合",
+      "notes": "安房郡鋸南町"
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "館山漁業協同組合",
+      "notes": "館山市"
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "西岬漁業協同組合",
+      "notes": "館山市"
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "波左間漁業協同組合",
+      "notes": "館山市"
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "岩井富浦漁業協同組合",
+      "notes": "南房総市"
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "東安房漁業協同組合",
+      "notes": "南房総市"
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "鴨川市漁業協同組合",
+      "notes": "鴨川市"
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "勝浦漁業協同組合",
+      "notes": "勝浦市"
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "新勝浦市漁業協同組合",
+      "notes": "勝浦市"
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "御宿岩和田漁業協同組合",
+      "notes": "夷隅郡御宿町"
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "夷隅東部漁業協同組合",
+      "notes": "いすみ市"
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "九十九里町漁業協同組合",
+      "notes": "山武郡九十九里町"
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "海匝漁業協同組合",
+      "notes": "旭市"
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "銚子市漁業協同組合",
+      "notes": "銚子市"
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "千葉県旋網漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "千葉県機船底曳網漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "千葉県沿岸小型漁船漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "養老川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "小櫃川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "湊川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "夷隅川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "南白亀川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "栗山川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "手賀沼漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "我孫子手賀沼漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "印旛沼漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "佐原漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "笹川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "中利根漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "北総漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "小糸川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "松戸市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "下利根漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "一松内水面漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "千葉県",
+      "name": "安房淡水漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "東京都",
+      "name": "大田漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "東京都",
+      "name": "芝漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "東京都",
+      "name": "港漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "東京都",
+      "name": "中央隅田漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "東京都",
+      "name": "佃島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "東京都",
+      "name": "東京東部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "東京都",
+      "name": "元町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "東京都",
+      "name": "伊豆大島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "東京都",
+      "name": "利島村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "東京都",
+      "name": "にいじま漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "東京都",
+      "name": "神津島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "東京都",
+      "name": "三宅島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "東京都",
+      "name": "御蔵島村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "東京都",
+      "name": "八丈島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "東京都",
+      "name": "小笠原島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "東京都",
+      "name": "小笠原母島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "東京都",
+      "name": "秋川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "東京都",
+      "name": "奥多摩漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "東京都",
+      "name": "小河内漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "東京都",
+      "name": "恩方漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "東京都",
+      "name": "多摩川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "東京都",
+      "name": "氷川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "東京都",
+      "name": "東京都鮎鱒養殖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "神奈川県",
+      "name": "横浜東漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "神奈川県",
+      "name": "横浜市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "神奈川県",
+      "name": "横須賀市東部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "神奈川県",
+      "name": "川崎河川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "神奈川県",
+      "name": "上宮田漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "神奈川県",
+      "name": "城ヶ島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "神奈川県",
+      "name": "みうら漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "神奈川県",
+      "name": "諸磯漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "神奈川県",
+      "name": "初声漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "神奈川県",
+      "name": "長井町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "神奈川県",
+      "name": "湘南漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "神奈川県",
+      "name": "腰越漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "神奈川県",
+      "name": "江ノ島片瀬漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "神奈川県",
+      "name": "茅ヶ崎市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "神奈川県",
+      "name": "平塚市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "神奈川県",
+      "name": "大磯町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "神奈川県",
+      "name": "二宮町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "神奈川県",
+      "name": "小田原市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "神奈川県",
+      "name": "岩漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "神奈川県",
+      "name": "真鶴町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "関東地方",
+      "subsection": "神奈川県",
+      "name": "福浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "山梨県",
+      "name": "峡北漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "山梨県",
+      "name": "山梨中央漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "山梨県",
+      "name": "峡東漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "山梨県",
+      "name": "富士川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "山梨県",
+      "name": "早川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "山梨県",
+      "name": "丹波川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "山梨県",
+      "name": "小菅村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "山梨県",
+      "name": "桂川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "山梨県",
+      "name": "都留漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "山梨県",
+      "name": "秋山漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "山梨県",
+      "name": "忍草漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "山梨県",
+      "name": "道志村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "山梨県",
+      "name": "山中湖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "山梨県",
+      "name": "河口湖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "山梨県",
+      "name": "西湖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "山梨県",
+      "name": "精進湖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "山梨県",
+      "name": "本栖湖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "山梨県",
+      "name": "山梨県養殖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "南佐久南部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "佐久漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "上小漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "更埴漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "千曲川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "北信漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "高水漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "奈良井川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "波田漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "安曇漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "犀川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "北安中部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "犀川殖産漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "裾花川水系漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "諏訪東部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "天竜川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "下伊那漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "志賀高原漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "姫川上流漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "木曽川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "釜無川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "根羽川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "遠山漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "諏訪湖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "松原湖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "野尻湖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "青木湖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "木崎湖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "佐久養殖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "長野県養殖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "信州虹鱒養殖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "平谷村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "長野県",
+      "name": "浪合村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "粟島浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "聖籠町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "新潟漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "寺泊漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "上越市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "名立漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "上越漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "青海町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "佐渡漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "水津漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "羽吉浜漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "内浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "内海府漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "加茂湖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "高千漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "姫津漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "相川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "山北町大川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "三面川鮭産漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "荒川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "胎内川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "加治川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "阿賀野川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "東蒲原郡漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "松浜内水面漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "濁川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "福島潟新井郷川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "新潟市大形地区漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "鳥屋野潟漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "信濃川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "赤塚漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "加茂川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "五十嵐川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "刈谷田川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "魚沼漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "中魚沼郡漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "柏崎・刈羽内水面漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "柿崎町内水面漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "関川水系漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "桑取川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "能生内水面漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "糸魚川内水面漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "国府川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "新潟県",
+      "name": "羽茂川内水面漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "富山県",
+      "name": "朝日町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "富山県",
+      "name": "泊漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "富山県",
+      "name": "入善漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "富山県",
+      "name": "くろべ漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "富山県",
+      "name": "魚津漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "富山県",
+      "name": "滑川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "富山県",
+      "name": "とやま市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "富山県",
+      "name": "海老江漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "富山県",
+      "name": "堀岡漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "富山県",
+      "name": "新湊漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "富山県",
+      "name": "伏木漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "富山県",
+      "name": "氷見漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "富山県",
+      "name": "県鮭鱒漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "富山県",
+      "name": "県鮭鱒出漁漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "石川県",
+      "name": "石川県漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "福井県",
+      "name": "福井市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "福井県",
+      "name": "九頭竜川中部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "福井県",
+      "name": "勝山市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "福井県",
+      "name": "大野市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "福井県",
+      "name": "奥越漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "福井県",
+      "name": "日野川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "福井県",
+      "name": "足羽川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "福井県",
+      "name": "竹田川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "福井県",
+      "name": "河野川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "福井県",
+      "name": "北潟漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "海津市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "養老郡漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "牧田川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "西濃水産漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "揖斐川上流漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "揖斐川中部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "揖斐川久瀬漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "根尾川筋漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "長良川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "長良川中央漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "板取川上流漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "美山漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "津保川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "郡上漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "木曽川・長良川下流漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "日本ライン漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "木曽川中流漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "恵那漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "可児漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "岐阜県矢作川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "土岐川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "飛騨川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "馬瀬川上流漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "馬瀬川下流漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "和良川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "益田川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "益田川上流漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "宮川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "宮川下流漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "丹生川村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "高原川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "荘川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "石徹白漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "岐阜県",
+      "name": "岐阜県池中養殖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "初島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "大熱海漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "いとう漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "伊豆漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "戸田漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "内浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "静浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "沼津我入道漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "田子の浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "由比港漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "清水漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "静岡漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "焼津漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "大井川港漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "南駿河湾漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "遠州漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "浜名漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "伊東市松川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "東伊豆非出資漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "河津川非出資漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "稲生沢川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "那賀川非出資漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "仁科川非出資漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "狩野川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "鮎沢川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "富士宮市非出資漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "芝川観光非出資漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "興津川非出資漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "安倍藁科川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "鯨ヶ池非出資漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "井川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "瀬戸川朝比奈川非出資漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "大井川非出資漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "新大井川非出資漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "原野谷川非出資漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "太田川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "天竜川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "佐久間ダム非出資漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "阿多古川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "気田川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "水窪川非出資漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "浦川非出資漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "都田川非出資漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "富士養鱒漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "静岡うなぎ漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "浜名湖養魚漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "静岡県無線漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "静岡県",
+      "name": "焼津鰹節水産加工業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "鬼崎漁業協同組合",
+      "notes": "常滑市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "常滑漁業協同組合",
+      "notes": "常滑市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "小鈴谷漁業協同組合",
+      "notes": "常滑市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "野間漁業協同組合",
+      "notes": "美浜町"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "豊浜漁業協同組合",
+      "notes": "南知多町"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "師崎漁業協同組合",
+      "notes": "南知多町"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "篠島漁業協同組合",
+      "notes": "南知多町"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "日間賀島漁業協同組合",
+      "notes": "南知多町"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "片名漁業協同組合",
+      "notes": "南知多町"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "大井漁業協同組合",
+      "notes": "南知多町"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "美浜町漁業協同組合",
+      "notes": "美浜町"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "大浜漁業協同組合",
+      "notes": "西尾市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "西三河漁業協同組合",
+      "notes": "西尾市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "衣崎漁業協同組合",
+      "notes": "西尾市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "幡豆漁業協同組合",
+      "notes": "西尾市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "東幡豆漁業協同組合",
+      "notes": "西尾市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "蒲郡漁業協同組合",
+      "notes": "蒲郡市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "三谷漁業協同組合",
+      "notes": "蒲郡市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "愛知外海漁業協同組合",
+      "notes": "田原市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "渥美漁業協同組合",
+      "notes": "田原市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "中山漁業協同組合",
+      "notes": "田原市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "中小山漁業協同組合",
+      "notes": "田原市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "木曽川漁業協同組合",
+      "notes": "一宮市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "愛北漁業協同組合",
+      "notes": "犬山市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "立田漁業協同組合",
+      "notes": "愛西市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "矢作川漁業協同組合",
+      "notes": "豊田市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "油ヶ渕漁業協同組合",
+      "notes": "碧南市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "岡崎市漁業協同組合",
+      "notes": "岡崎市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "巴川漁業協同組合",
+      "notes": "豊田市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "男川漁業協同組合",
+      "notes": "岡崎市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "下豊川漁業協同組合",
+      "notes": "豊橋市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "豊川上漁業協同組合",
+      "notes": "新城市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "寒狭川下漁業協同組合",
+      "notes": "新城市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "寒狭川中部漁業協同組合",
+      "notes": "新城市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "宇連川漁業協同組合",
+      "notes": "新城市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "三輪川下漁業協同組合",
+      "notes": "新城市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "寒狭川上流漁業協同組合",
+      "notes": "設楽町"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "振草川漁業協同組合",
+      "notes": "東栄町"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "大入川漁業協同組合",
+      "notes": "豊根村"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "名倉川漁業協同組合",
+      "notes": "豊田市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "三河湖漁業協同組合",
+      "notes": "豊田市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "弥富金魚漁業協同組合",
+      "notes": "弥富市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "碧海養鰻漁業協同組合",
+      "notes": "高浜市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "一色うなぎ漁業協同組合",
+      "notes": "西尾市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "豊橋養鰻漁業協同組合",
+      "notes": "豊橋市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "愛知県鮎養殖漁業協同組合",
+      "notes": "豊川市"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "愛知県",
+      "name": "愛知県淡水養殖漁業協同組合",
+      "notes": "設楽町"
+    },
+    {
+      "section": "中部地方",
+      "subsection": "三重県",
+      "name": "伊曽島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "三重県",
+      "name": "赤須賀漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "三重県",
+      "name": "四日市市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "三重県",
+      "name": "鈴鹿市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "三重県",
+      "name": "白塚漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "三重県",
+      "name": "松阪漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "三重県",
+      "name": "伊勢湾漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "三重県",
+      "name": "鳥羽磯部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "三重県",
+      "name": "三重外湾漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "三重県",
+      "name": "熊野漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "三重県",
+      "name": "紀南漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "三重県",
+      "name": "三重県ばっち網漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "三重県",
+      "name": "三重県真珠養殖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "三重県",
+      "name": "神明真珠養殖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "三重県",
+      "name": "立神真珠養殖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "三重県",
+      "name": "船越真珠養殖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "三重県",
+      "name": "片田真珠養殖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中部地方",
+      "subsection": "三重県",
+      "name": "越賀真珠漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "滋賀びわ湖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "守山漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "能登川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "両浜漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "河瀬鮎苗漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "河瀬漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "河瀬第一協同漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "彦根中部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "上多良漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "虎姫漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "朝日漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "西浅井漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "百瀬漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "今津漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "湖西漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "北船木漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "高島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "志賀町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "葛川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "勢多川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "野洲川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "土山漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "日野町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "愛知川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "愛知川上流漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "大滝漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "高時川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "杉野川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "草野川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "姉川上流漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "丹生川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "余呉湖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "柳ヶ瀬川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "三谷漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "廣瀬漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "朽木漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "高島鴨川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "滋賀県",
+      "name": "非出資大戸川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "京都府",
+      "name": "京都府漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "大阪府",
+      "name": "大阪市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "大阪府",
+      "name": "大阪住吉漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "大阪府",
+      "name": "堺市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "大阪府",
+      "name": "堺市沿岸漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "大阪府",
+      "name": "堺市出島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "大阪府",
+      "name": "堺市浜寺漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "大阪府",
+      "name": "高石市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "大阪府",
+      "name": "泉大津漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "大阪府",
+      "name": "忠岡町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "大阪府",
+      "name": "春木漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "大阪府",
+      "name": "岸和田市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "大阪府",
+      "name": "北中通漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "大阪府",
+      "name": "泉佐野漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "大阪府",
+      "name": "田尻漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "大阪府",
+      "name": "岡田浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "大阪府",
+      "name": "樽井漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "大阪府",
+      "name": "尾崎漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "大阪府",
+      "name": "西鳥取漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "大阪府",
+      "name": "下荘漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "大阪府",
+      "name": "淡輪漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "大阪府",
+      "name": "深日漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "大阪府",
+      "name": "谷川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "大阪府",
+      "name": "小島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "大阪府",
+      "name": "大阪府鰮巾着網漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "兵庫漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "神戸市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "明石浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "林崎漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "江井ヶ島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "東二見漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "西二見漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "播磨町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "東播磨漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "高砂漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "伊保漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "姫路市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "家島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "坊勢漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "岩見漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "室津漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "相生漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "赤穂市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "由良町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "洲本炬口漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "津名漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "仮屋漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "森漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "淡路町岩屋漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "富島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "浅野浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "育波浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "室津浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "一宮町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "五色町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "湊漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "南あわじ漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "南淡漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "福良漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "沼島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "但馬漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "兵庫県",
+      "name": "浜坂漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "奈良県",
+      "name": "下北山村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "奈良県",
+      "name": "上北山村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "奈良県",
+      "name": "十津川村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "奈良県",
+      "name": "大塔村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "奈良県",
+      "name": "天川村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "奈良県",
+      "name": "五條市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "奈良県",
+      "name": "吉野漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "奈良県",
+      "name": "川上村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "奈良県",
+      "name": "東吉野村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "奈良県",
+      "name": "西吉野村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "奈良県",
+      "name": "丹生川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "奈良県",
+      "name": "黒滝川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "奈良県",
+      "name": "波多野漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "奈良県",
+      "name": "豊里漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "奈良県",
+      "name": "室生漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "奈良県",
+      "name": "曽爾村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "奈良県",
+      "name": "御仗村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "奈良県",
+      "name": "初瀬川水域漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "加太漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "西脇漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "雑賀崎漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "田野浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "和歌浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "和歌川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "毛見浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "布引漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "冷水浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "塩津漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "戸坂漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "大崎漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "下津漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "初島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "箕島町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "北箕島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "逢井漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "千田漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "田村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "栖原漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "湯浅中央漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "唐尾漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "御坊市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "衣奈浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "小引浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "大引漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "由良町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "由良浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "比井崎漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "三尾漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "美浜町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "印南町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "南部町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "田辺漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "湊浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "新庄漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "堅田漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "白浜漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "日置漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "すさみ漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "串本漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "大島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "樫野漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "須江漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "西向漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "古座漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "津荷漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "下田原漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "太地漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "浦神漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "勝浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "那智漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "宇久井漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "三輪崎漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "近畿地方",
+      "subsection": "和歌山県",
+      "name": "新宮漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "鳥取県",
+      "name": "鳥取県漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "鳥取県",
+      "name": "田後漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "鳥取県",
+      "name": "中部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "鳥取県",
+      "name": "赤碕町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "鳥取県",
+      "name": "米子市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "島根県",
+      "name": "漁業協同組合JFしまね",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "島根県",
+      "name": "宍道湖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "島根県",
+      "name": "高津川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "島根県",
+      "name": "江川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "牛窓町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "日生町地漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "伊里漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "邑久町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "朝日漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "幸町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "西大寺漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "津田漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "光政漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "岡山市海岸漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "岡山市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "小串漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "鉾立漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "胸上漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "玉野市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "日比漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "唐琴漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "琴浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "味野湾漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "大畠漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "第一大畠漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "児島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "第一田ノ浦吹上漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "本田ノ浦吹上漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "長浜漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "備南漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "下西漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "第一下津井漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "下津井漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "水島呼松漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "倉敷市運島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "乙島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "黒崎漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "寄島町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "笠岡市大島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "笠岡湾漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "岡山県",
+      "name": "笠岡市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "くば漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "阿多田島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "地御前漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "大野漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "大野町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "宮島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "三高漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "美能漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "沖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "内能美漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "鹿川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "大原漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "深江漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "大柿町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "広島市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "仁保漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "海田市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "矢野漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "坂町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "東江漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "江田島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "切串漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "音戸漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "田原漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "早瀬漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "倉橋西部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "倉橋島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "下蒲刈町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "吉浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "阿賀漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "広漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "安浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "早田原漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "広島県",
+      "name": "安芸津漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "山口県",
+      "name": "山口県漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "山口県",
+      "name": "岩国市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "山口県",
+      "name": "由宇漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "山口県",
+      "name": "通津漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "山口県",
+      "name": "久賀漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "山口県",
+      "name": "柱島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "山口県",
+      "name": "大島町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "山口県",
+      "name": "東和町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "山口県",
+      "name": "神代漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "山口県",
+      "name": "柳井市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "山口県",
+      "name": "祝島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "山口県",
+      "name": "新宇部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "山口県",
+      "name": "宇部岬漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "山口県",
+      "name": "王喜漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "山口県",
+      "name": "壇ノ浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "山口県",
+      "name": "黒井漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "山口県",
+      "name": "豊北町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "山口県",
+      "name": "角島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "宍喰漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "鞆浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "浅川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "牟岐町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "牟岐東漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "日和佐町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "木岐漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "東由岐漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "志和岐漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "阿部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "伊座利漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "伊島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "椿泊漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "阿南漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "橘町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "中林漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "福村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "中島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "阿南中央漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "和田島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "小松島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "徳島市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "徳島市辰巳漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "徳島市第一漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "応神町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "徳島市住吉漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "渭東漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "川内漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "長原漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "大津漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "里浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "新鳴門漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "鳴門町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "室撫佐漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "堂浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "北泊漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "徳島県",
+      "name": "北灘漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "引田漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "東讃漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "津田町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "鴨庄漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "さぬき市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "牟礼漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "庵治漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "屋島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "高松市東部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "高松市瀬戸内漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "東瀬戸漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "香西漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "下笠居漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "直島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "土庄中央漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "四海漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "北浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "唐櫃漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "内海町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "池田漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "松山漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "坂出市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "与島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "宇多津漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "中讃西部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "本島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "白方漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "多度津町高見漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "三豊市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "詫間漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "西かがわ漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "観音寺漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "伊吹漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "香川県無線漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "香川県",
+      "name": "香川県海水魚類養殖漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "愛媛県",
+      "name": "愛媛県漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "愛媛県",
+      "name": "松山市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "愛媛県",
+      "name": "松前町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "愛媛県",
+      "name": "伊予漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "愛媛県",
+      "name": "上灘漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "愛媛県",
+      "name": "長浜町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "愛媛県",
+      "name": "愛南漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "愛媛県",
+      "name": "八幡浜漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "高知県",
+      "name": "高知県漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "高知県",
+      "name": "野根漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "高知県",
+      "name": "吉良川町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "高知県",
+      "name": "羽根町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "高知県",
+      "name": "奈半利町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "高知県",
+      "name": "安芸漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "高知県",
+      "name": "浜改田漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "高知県",
+      "name": "十市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "高知県",
+      "name": "春野町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "高知県",
+      "name": "大谷漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "高知県",
+      "name": "野見漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "高知県",
+      "name": "須崎釣漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "高知県",
+      "name": "錦浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "高知県",
+      "name": "須崎町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "高知県",
+      "name": "久礼漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "高知県",
+      "name": "上ノ加江漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "高知県",
+      "name": "興津漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "高知県",
+      "name": "下田漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "高知県",
+      "name": "窪津漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "高知県",
+      "name": "すくも湾漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "高知県",
+      "name": "橘浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "中四国地方",
+      "subsection": "高知県",
+      "name": "藻津漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "糸島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "福岡市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "新宮相島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "宗像漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "遠賀漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "ひびき灘漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "北九州市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "大川市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "川口漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "浜武漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "沖端漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "両開漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "柳川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "皿垣開漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "有明漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "山門羽瀬漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "大和漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "中島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "高田漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "三浦海苔生産漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "三浦第一漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "手鎌漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "三里漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "新大牟田漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "豊前海北部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "北九州東部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "曽根漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "苅田町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "行橋市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "蓑島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "豊築漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "福岡県",
+      "name": "吉富漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "佐賀県",
+      "name": "佐賀玄海漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "佐賀県",
+      "name": "屋形石漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "佐賀県",
+      "name": "小川島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "佐賀県",
+      "name": "外津漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "佐賀県",
+      "name": "仮屋漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "佐賀県",
+      "name": "大浦浜漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "佐賀県",
+      "name": "佐賀県有明海漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "長崎市みなと漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "長崎市福田漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "長崎市新三重漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "長崎市たちばな漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "長崎市茂木漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "野母崎三和漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "西彼南部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "大瀬戸町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "西海大崎漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "島原漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "諫早湾漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "有明漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "深江町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "布津町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "有家町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "西有家町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "島原半島南部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "橘湾東部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "橘湾中央漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "大村市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "大村湾東部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "多良見町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "大村湾漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "瀬川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "針尾漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "佐世保市南部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "川棚漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "五島ふくえ漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "五島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "奈留町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "若松町中央漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "神部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "若松漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "上五島町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "新魚目町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "有川町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "奈良尾町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "浜串漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "佐世保市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "佐世保市相浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "平戸市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "中野漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "志々伎漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "新松浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "宇久小値賀漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "生月漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "舘浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "大島村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "九十九島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "郷ノ浦町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "勝本町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "箱崎漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "壱岐東部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "石田町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "厳原町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "阿須湾漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "美津島町高浜漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "美津島町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "美津島町西海漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "豊玉町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "峰町東部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "上県町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "伊奈漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "佐須奈漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "上対馬南漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "長崎県",
+      "name": "上対馬町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "荒尾漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "牛水漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "長洲漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "滑石漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "大浜漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "横島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "河内漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "松尾漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "小島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "沖新漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "畠口漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "海路口漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "川口漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "住吉漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "網田漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "三角町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "松合漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "松橋小川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "竜北町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "鏡町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "昭和漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "八代漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "日奈久漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "二見漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "田浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "津奈木漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "水俣市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "有明町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "樋島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "大道漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "倉岳町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "嵐口漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "御所浦町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "栖本漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "島子漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "天草漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "熊本県",
+      "name": "岱明漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "大分県",
+      "name": "大分県漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "大分県",
+      "name": "日田漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "大分県",
+      "name": "鶴崎漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "宮崎県",
+      "name": "串間漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "宮崎県",
+      "name": "島浦町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "宮崎県",
+      "name": "延岡漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "宮崎県",
+      "name": "延岡市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "宮崎県",
+      "name": "庵川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "宮崎県",
+      "name": "門川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "宮崎県",
+      "name": "日向市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "宮崎県",
+      "name": "都農町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "宮崎県",
+      "name": "川南町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "宮崎県",
+      "name": "新富町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "宮崎県",
+      "name": "一ツ瀬漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "宮崎県",
+      "name": "檍浜漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "宮崎県",
+      "name": "宮崎漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "宮崎県",
+      "name": "宮崎市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "宮崎県",
+      "name": "日南市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "宮崎県",
+      "name": "南郷漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "宮崎県",
+      "name": "外浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "宮崎県",
+      "name": "串間市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "宮崎県",
+      "name": "串間市東漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "鹿児島県",
+      "name": "鹿児島県漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "鹿児島県",
+      "name": "東町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "鹿児島県",
+      "name": "北さつま漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "鹿児島県",
+      "name": "甑島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "鹿児島県",
+      "name": "吹上町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "鹿児島県",
+      "name": "かいゑい漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "鹿児島県",
+      "name": "山川町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "鹿児島県",
+      "name": "垂水市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "鹿児島県",
+      "name": "内之浦漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "鹿児島県",
+      "name": "志布志漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "鹿児島県",
+      "name": "瀬戸内漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "鹿児島県",
+      "name": "川内川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "鹿児島県",
+      "name": "川内市内水面漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "鹿児島県",
+      "name": "霧島天降川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "鹿児島県",
+      "name": "安楽川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "鹿児島県",
+      "name": "網掛川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "鹿児島県",
+      "name": "別府川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "鹿児島県",
+      "name": "鹿児島県無線漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "鹿児島県",
+      "name": "鹿児島県旋網漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "鹿児島県",
+      "name": "大隅地区養まん漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "国頭漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "羽地漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "今帰仁漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "本部漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "名護漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "恩納村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "金武漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "石川市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "宜野座村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "勝連漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "与那城町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "南原漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "沖縄市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "読谷村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "北谷町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "浦添宜野湾漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "那覇市沿岸漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "那覇地区漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "与那原西原町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "佐敷中城漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "知念村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "港川漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "糸満漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "伊是那漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "伊平屋村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "伊江漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "久米島漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "渡名喜村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "座間味村漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "渡嘉敷漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "平良市漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "池間漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "伊良部町漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "八重山漁業協同組合",
+      "notes": ""
+    },
+    {
+      "section": "九州沖縄地方",
+      "subsection": "沖縄県",
+      "name": "与那国町漁業協同組合",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "日本の漁業協同組合（JF）一覧 (Fisheries cooperatives of Japan) - Free Download",
+    "description": "全国の漁業協同組合（漁協・JF）と漁業協同組合連合会の一覧（地方・都道府県別）。 Contains 1257 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の漁業協同組合（JF）一覧 (Fisheries cooperatives of Japan) | ListBase",
+    "seo_description": "Download 日本の漁業協同組合（JF）一覧 (Fisheries cooperatives of Japan) — 1257 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 1257 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%BC%81%E6%A5%AD%E5%8D%94%E5%90%8C%E7%B5%84%E5%90%88%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}

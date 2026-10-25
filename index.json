@@ -1,12 +1,12 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:12:03.404Z",
-  "total_datasets": 485,
-  "total_records": 443236,
+  "generated": "2026-10-25T02:12:07.459Z",
+  "total_datasets": 486,
+  "total_records": 444493,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -146,6 +146,31 @@
         "xlsx": {
           "name": "ja-chiriteki-hyoji_JA.xlsx",
           "size": 28705
+        }
+      }
+    },
+    {
+      "id": "ja-gyogyo-kyodo-kumiai",
+      "name": "日本の漁業協同組合（JF）一覧 (Fisheries cooperatives of Japan)",
+      "category": "agriculture",
+      "record_count": 1257,
+      "columns": [
+        "section",
+        "subsection",
+        "name",
+        "notes"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%BC%81%E6%A5%AD%E5%8D%94%E5%90%8C%E7%B5%84%E5%90%88%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 186788,
+      "files": {
+        "csv": {
+          "name": "ja-gyogyo-kyodo-kumiai_JA.csv",
+          "size": 81762
+        },
+        "xlsx": {
+          "name": "ja-gyogyo-kyodo-kumiai_JA.xlsx",
+          "size": 36132
         }
       }
     },
