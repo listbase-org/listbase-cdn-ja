@@ -1,0 +1,304 @@
+{
+  "id": "ja-horitsu-kaikei-shikaku",
+  "name": "日本の法律・会計に関する資格一覧 (Legal and accounting qualifications in Japan)",
+  "title": "日本の法律・会計に関する資格一覧 (Legal and accounting qualifications in Japan)",
+  "description": "弁護士・司法書士・税理士など、日本の法律・会計分野の国家資格・公的資格・民間資格の一覧（根拠法・認定団体）。",
+  "category": "law",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B3%95%E5%BE%8B%E3%83%BB%E4%BC%9A%E8%A8%88%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%B3%87%E6%A0%BC%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B3%95%E5%BE%8B%E3%83%BB%E4%BC%9A%E8%A8%88%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%B3%87%E6%A0%BC%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "field",
+      "label": "Field",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "law_or_body",
+      "label": "Law Or Body",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "type": "国家資格",
+      "field": "法律・登記・法務系",
+      "name": "弁護士",
+      "law_or_body": "弁護士法"
+    },
+    {
+      "type": "国家資格",
+      "field": "法律・登記・法務系",
+      "name": "公証人",
+      "law_or_body": "公証人法"
+    },
+    {
+      "type": "国家資格",
+      "field": "法律・登記・法務系",
+      "name": "司法書士",
+      "law_or_body": "司法書士法"
+    },
+    {
+      "type": "国家資格",
+      "field": "法律・登記・法務系",
+      "name": "行政書士",
+      "law_or_body": "行政書士法"
+    },
+    {
+      "type": "国家資格",
+      "field": "法律・登記・法務系",
+      "name": "弁理士",
+      "law_or_body": "弁理士法"
+    },
+    {
+      "type": "国家資格",
+      "field": "法律・登記・法務系",
+      "name": "社会保険労務士",
+      "law_or_body": "社会保険労務士法"
+    },
+    {
+      "type": "国家資格",
+      "field": "法律・登記・法務系",
+      "name": "土地家屋調査士",
+      "law_or_body": "土地家屋調査士法"
+    },
+    {
+      "type": "国家資格",
+      "field": "法律・登記・法務系",
+      "name": "海事代理士",
+      "law_or_body": "海事代理士法"
+    },
+    {
+      "type": "国家資格",
+      "field": "法律・登記・法務系",
+      "name": "海事補佐人",
+      "law_or_body": "海難審判法"
+    },
+    {
+      "type": "国家資格",
+      "field": "会計・税務・コンサルティング系",
+      "name": "公認会計士",
+      "law_or_body": "公認会計士法"
+    },
+    {
+      "type": "国家資格",
+      "field": "会計・税務・コンサルティング系",
+      "name": "税理士",
+      "law_or_body": "税理士法"
+    },
+    {
+      "type": "国家資格",
+      "field": "会計・税務・コンサルティング系",
+      "name": "中小企業診断士",
+      "law_or_body": "中小企業支援法"
+    },
+    {
+      "type": "国家資格",
+      "field": "会計・税務・コンサルティング系",
+      "name": "通関士",
+      "law_or_body": "通関業法"
+    },
+    {
+      "type": "国家資格",
+      "field": "不動産・金融・経営管理系",
+      "name": "不動産鑑定士",
+      "law_or_body": "不動産の鑑定評価に関する法律"
+    },
+    {
+      "type": "国家資格",
+      "field": "不動産・金融・経営管理系",
+      "name": "宅地建物取引士",
+      "law_or_body": "宅地建物取引業法"
+    },
+    {
+      "type": "国家資格",
+      "field": "不動産・金融・経営管理系",
+      "name": "マンション管理士管理業務主任者",
+      "law_or_body": "マンションの管理の適正化の推進に関する法律"
+    },
+    {
+      "type": "国家資格",
+      "field": "不動産・金融・経営管理系",
+      "name": "貸金業務取扱主任者",
+      "law_or_body": "貸金業法"
+    },
+    {
+      "type": "国家資格",
+      "field": "不動産・金融・経営管理系",
+      "name": "ファイナンシャル・プランニング技能士知的財産管理技能士金融窓口サービス技能士",
+      "law_or_body": "職業能力開発促進法"
+    },
+    {
+      "type": "国家資格",
+      "field": "不動産・金融・経営管理系",
+      "name": "保険計理人",
+      "law_or_body": "保険業法"
+    },
+    {
+      "type": "国家資格",
+      "field": "不動産・金融・経営管理系",
+      "name": "年金数理人",
+      "law_or_body": "厚生年金保険法"
+    },
+    {
+      "type": "国家資格",
+      "field": "情報・監査系",
+      "name": "システム監査技術者ITストラテジスト",
+      "law_or_body": "情報処理の促進に関する法律"
+    },
+    {
+      "type": "公的資格",
+      "field": "",
+      "name": "調査業務実施者",
+      "law_or_body": "工業所有権情報・研修館"
+    },
+    {
+      "type": "公的資格",
+      "field": "",
+      "name": "証券外務員",
+      "law_or_body": "日本証券業協会"
+    },
+    {
+      "type": "公的資格",
+      "field": "",
+      "name": "建設業経理検定",
+      "law_or_body": "建設業振興基金"
+    },
+    {
+      "type": "公的資格",
+      "field": "",
+      "name": "日商簿記検定",
+      "law_or_body": "日本商工会議所"
+    },
+    {
+      "type": "公的資格",
+      "field": "",
+      "name": "販売士検定",
+      "law_or_body": "日本商工会議所"
+    },
+    {
+      "type": "民間資格",
+      "field": "",
+      "name": "ビジネス実務法務検定試験",
+      "law_or_body": "東京商工会議所"
+    },
+    {
+      "type": "民間資格",
+      "field": "",
+      "name": "ビジネスマネジャー検定試験",
+      "law_or_body": "東京商工会議所"
+    },
+    {
+      "type": "民間資格",
+      "field": "",
+      "name": "BATIC",
+      "law_or_body": "東京商工会議所"
+    },
+    {
+      "type": "民間資格",
+      "field": "",
+      "name": "ビジネス会計検定",
+      "law_or_body": "大阪商工会議所"
+    },
+    {
+      "type": "民間資格",
+      "field": "",
+      "name": "ビジネス・キャリア検定試験",
+      "law_or_body": "中央職業能力開発協会"
+    },
+    {
+      "type": "民間資格",
+      "field": "",
+      "name": "全経簿記能力検定",
+      "law_or_body": "全国経理教育協会"
+    },
+    {
+      "type": "民間資格",
+      "field": "",
+      "name": "全商簿記実務検定",
+      "law_or_body": "全国商業高等学校協会"
+    },
+    {
+      "type": "民間資格",
+      "field": "",
+      "name": "法学検定",
+      "law_or_body": "日弁連法務研究財団、商事法務研究会"
+    },
+    {
+      "type": "民間資格",
+      "field": "",
+      "name": "アフィリエイテッド・ファイナンシャル・プランナー",
+      "law_or_body": "日本ファイナンシャル・プランナーズ協会"
+    },
+    {
+      "type": "民間資格",
+      "field": "",
+      "name": "金融業務能力検定",
+      "law_or_body": "金融財政事情研究会"
+    },
+    {
+      "type": "民間資格",
+      "field": "",
+      "name": "アクチュアリー",
+      "law_or_body": "日本アクチュアリー会"
+    },
+    {
+      "type": "民間資格",
+      "field": "",
+      "name": "モーゲージプランナー",
+      "law_or_body": "日本モーゲージプランナーズ協会"
+    },
+    {
+      "type": "民間資格",
+      "field": "",
+      "name": "個人情報保護士",
+      "law_or_body": "全日本情報学習振興協会"
+    },
+    {
+      "type": "民間資格",
+      "field": "",
+      "name": "農業簿記検定",
+      "law_or_body": "日本ビジネス技能検定協会"
+    },
+    {
+      "type": "民間資格",
+      "field": "",
+      "name": "日ビ簿記能力検定",
+      "law_or_body": "日本ビジネス技能検定協会"
+    },
+    {
+      "type": "民間資格",
+      "field": "",
+      "name": "地方公会計検定",
+      "law_or_body": "日本ビジネス技能検定協会"
+    },
+    {
+      "type": "民間資格",
+      "field": "",
+      "name": "自治体法務検定",
+      "law_or_body": "日本通信教育学園"
+    }
+  ],
+  "meta": {
+    "title": "日本の法律・会計に関する資格一覧 (Legal and accounting qualifications in Japan) - Free Download",
+    "description": "弁護士・司法書士・税理士など、日本の法律・会計分野の国家資格・公的資格・民間資格の一覧（根拠法・認定団体）。 Contains 43 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の法律・会計に関する資格一覧 (Legal and accounting qualifications in Japan) | ListBase",
+    "seo_description": "Download 日本の法律・会計に関する資格一覧 (Legal and accounting qualifications in Japan) — 43 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 43 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B3%95%E5%BE%8B%E3%83%BB%E4%BC%9A%E8%A8%88%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%B3%87%E6%A0%BC%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}
