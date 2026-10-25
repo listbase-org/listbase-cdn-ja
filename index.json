@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:10:46.124Z",
-  "total_datasets": 466,
-  "total_records": 437496,
+  "generated": "2026-10-25T02:10:50.159Z",
+  "total_datasets": 467,
+  "total_records": 437568,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "tourism",
@@ -13208,6 +13208,35 @@
         "xlsx": {
           "name": "ja-shigai-kyokuban_JA.xlsx",
           "size": 45572
+        }
+      }
+    },
+    {
+      "id": "ja-shichijuni-ko",
+      "name": "七十二候一覧 (The 72 micro-seasons of Japan)",
+      "category": "time",
+      "record_count": 72,
+      "columns": [
+        "no",
+        "sekki",
+        "ko",
+        "name",
+        "reading",
+        "meaning",
+        "name_senmyoreki",
+        "meaning_senmyoreki"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99",
+      "updated": "2026-10",
+      "size": 24013,
+      "files": {
+        "csv": {
+          "name": "ja-shichijuni-ko_JA.csv",
+          "size": 10646
+        },
+        "xlsx": {
+          "name": "ja-shichijuni-ko_JA.xlsx",
+          "size": 12744
         }
       }
     },

@@ -1,0 +1,786 @@
+{
+  "id": "ja-shichijuni-ko",
+  "name": "七十二候一覧 (The 72 micro-seasons of Japan)",
+  "title": "七十二候一覧 (The 72 micro-seasons of Japan)",
+  "description": "二十四節気をさらに3つに分けた七十二候（略本暦）の名称・読み・意味の一覧。中国の宣明暦の候名も併記。",
+  "category": "time",
+  "source": "https://ja.wikipedia.org/wiki/%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99",
+  "source_url": "https://ja.wikipedia.org/wiki/%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99",
+  "updated": "2026-10",
+  "record_count": 72,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "sekki",
+      "label": "Sekki",
+      "type": "string"
+    },
+    {
+      "key": "ko",
+      "label": "Ko",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "reading",
+      "label": "Reading",
+      "type": "string"
+    },
+    {
+      "key": "meaning",
+      "label": "Meaning",
+      "type": "string"
+    },
+    {
+      "key": "name_senmyoreki",
+      "label": "Name Senmyoreki",
+      "type": "string"
+    },
+    {
+      "key": "meaning_senmyoreki",
+      "label": "Meaning Senmyoreki",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "sekki": "立春",
+      "ko": "初候",
+      "name": "東風解凍",
+      "reading": "はるかぜこおりをとく",
+      "meaning": "東風が厚い氷を解かし始める",
+      "name_senmyoreki": "東風解凍",
+      "meaning_senmyoreki": "東風が厚い氷を解かし始める"
+    },
+    {
+      "no": 2,
+      "sekki": "立春",
+      "ko": "次候",
+      "name": "黄鶯睍睆",
+      "reading": "うぐいすなく",
+      "meaning": "鶯が山里で鳴き始める",
+      "name_senmyoreki": "蟄虫始振",
+      "meaning_senmyoreki": "冬籠りの虫が動き始める"
+    },
+    {
+      "no": 3,
+      "sekki": "立春",
+      "ko": "末候",
+      "name": "魚上氷",
+      "reading": "うおこおりをいずる",
+      "meaning": "割れた氷の間から魚が飛び出る",
+      "name_senmyoreki": "魚上氷",
+      "meaning_senmyoreki": "割れた氷の間から魚が飛び出る"
+    },
+    {
+      "no": 4,
+      "sekki": "雨水",
+      "ko": "初候",
+      "name": "土脉潤起",
+      "reading": "つちのしょううるおいおこる",
+      "meaning": "雨が降って土が湿り気を含む",
+      "name_senmyoreki": "獺祭魚",
+      "meaning_senmyoreki": "獺が捕らえた魚を並べて食べる"
+    },
+    {
+      "no": 5,
+      "sekki": "雨水",
+      "ko": "次候",
+      "name": "霞始靆",
+      "reading": "かすみはじめてたなびく",
+      "meaning": "霞がたなびき始める",
+      "name_senmyoreki": "鴻雁来",
+      "meaning_senmyoreki": "雁が越路して飛来し始める"
+    },
+    {
+      "no": 6,
+      "sekki": "雨水",
+      "ko": "末候",
+      "name": "草木萌動",
+      "reading": "そうもくめばえいずる",
+      "meaning": "草木が芽吹き始める",
+      "name_senmyoreki": "草木萌動",
+      "meaning_senmyoreki": "草木が芽吹き始める"
+    },
+    {
+      "no": 7,
+      "sekki": "啓蟄",
+      "ko": "初候",
+      "name": "蟄虫啓戸",
+      "reading": "すごもりむしとをひらく",
+      "meaning": "冬籠りの虫が出て来る",
+      "name_senmyoreki": "桃始華",
+      "meaning_senmyoreki": "桃の花が咲き始める"
+    },
+    {
+      "no": 8,
+      "sekki": "啓蟄",
+      "ko": "次候",
+      "name": "桃始笑",
+      "reading": "ももはじめてさく",
+      "meaning": "桃の花が咲き始める",
+      "name_senmyoreki": "倉庚鳴",
+      "meaning_senmyoreki": "倉庚が鳴き始める"
+    },
+    {
+      "no": 9,
+      "sekki": "啓蟄",
+      "ko": "末候",
+      "name": "菜虫化蝶",
+      "reading": "なむしちょうとなる",
+      "meaning": "青虫が羽化して紋白蝶になる",
+      "name_senmyoreki": "鷹化為鳩",
+      "meaning_senmyoreki": "鷹が鳩に姿を変える"
+    },
+    {
+      "no": 10,
+      "sekki": "春分",
+      "ko": "初候",
+      "name": "雀始巣",
+      "reading": "すずめはじめてすくう",
+      "meaning": "雀が巣を構え始める",
+      "name_senmyoreki": "玄鳥至",
+      "meaning_senmyoreki": "燕が南からやって来る"
+    },
+    {
+      "no": 11,
+      "sekki": "春分",
+      "ko": "次候",
+      "name": "桜始開",
+      "reading": "さくらはじめてひらく",
+      "meaning": "桜の花が咲き始める",
+      "name_senmyoreki": "雷乃発声",
+      "meaning_senmyoreki": "遠くで雷の音がし始める"
+    },
+    {
+      "no": 12,
+      "sekki": "春分",
+      "ko": "末候",
+      "name": "雷乃発声",
+      "reading": "かみなりすなわちこえをはっす",
+      "meaning": "遠くで雷の音がし始める",
+      "name_senmyoreki": "始電",
+      "meaning_senmyoreki": "稲光が初めて光る"
+    },
+    {
+      "no": 13,
+      "sekki": "清明",
+      "ko": "初候",
+      "name": "玄鳥至",
+      "reading": "つばめきたる",
+      "meaning": "燕が南からやって来る",
+      "name_senmyoreki": "桐始華",
+      "meaning_senmyoreki": "桐の花が咲き始める"
+    },
+    {
+      "no": 14,
+      "sekki": "清明",
+      "ko": "次候",
+      "name": "鴻雁北",
+      "reading": "こうがんきたへかえる",
+      "meaning": "雁が北へ渡って行く",
+      "name_senmyoreki": "田鼠化為鴽",
+      "meaning_senmyoreki": "田鼠が鴽になる"
+    },
+    {
+      "no": 15,
+      "sekki": "清明",
+      "ko": "末候",
+      "name": "虹始見",
+      "reading": "にじはじめてあらわる",
+      "meaning": "雨の後に虹が出始める",
+      "name_senmyoreki": "虹始見",
+      "meaning_senmyoreki": "雨の後に虹が出始める"
+    },
+    {
+      "no": 16,
+      "sekki": "穀雨",
+      "ko": "初候",
+      "name": "葭始生",
+      "reading": "あしはじめてしょうず",
+      "meaning": "葦が芽を吹き始める",
+      "name_senmyoreki": "萍始生",
+      "meaning_senmyoreki": "浮き草が芽を出し始める"
+    },
+    {
+      "no": 17,
+      "sekki": "穀雨",
+      "ko": "次候",
+      "name": "霜止出苗",
+      "reading": "しもやんでなえいづる",
+      "meaning": "霜が終り稲の苗が生長する",
+      "name_senmyoreki": "鳴鳩払其羽",
+      "meaning_senmyoreki": "鳴鳩が羽を払う"
+    },
+    {
+      "no": 18,
+      "sekki": "穀雨",
+      "ko": "末候",
+      "name": "牡丹華",
+      "reading": "ぼたんはなさく",
+      "meaning": "牡丹の花が咲く",
+      "name_senmyoreki": "戴勝降于桑",
+      "meaning_senmyoreki": "戴勝が桑の木に止って蚕を生む"
+    },
+    {
+      "no": 19,
+      "sekki": "立夏",
+      "ko": "初候",
+      "name": "蛙始鳴",
+      "reading": "かわずはじめてなく",
+      "meaning": "蛙が鳴き始める",
+      "name_senmyoreki": "螻蟈鳴",
+      "meaning_senmyoreki": "螻蟈が鳴き始める"
+    },
+    {
+      "no": 20,
+      "sekki": "立夏",
+      "ko": "次候",
+      "name": "蚯蚓出",
+      "reading": "みみずいづる",
+      "meaning": "蚯蚓が地上に這出る",
+      "name_senmyoreki": "蚯蚓出",
+      "meaning_senmyoreki": "蚯蚓が地上に這出る"
+    },
+    {
+      "no": 21,
+      "sekki": "立夏",
+      "ko": "末候",
+      "name": "竹笋生",
+      "reading": "たけのこしょうず",
+      "meaning": "筍が生えて来る",
+      "name_senmyoreki": "王瓜生",
+      "meaning_senmyoreki": "王瓜（からすうり）の実が生り始める"
+    },
+    {
+      "no": 22,
+      "sekki": "小満",
+      "ko": "初候",
+      "name": "蚕起食桑",
+      "reading": "かいこおきてくわをはむ",
+      "meaning": "蚕が桑を盛んに食べ始める",
+      "name_senmyoreki": "苦菜秀",
+      "meaning_senmyoreki": "苦菜（にがな）がよく茂る"
+    },
+    {
+      "no": 23,
+      "sekki": "小満",
+      "ko": "次候",
+      "name": "紅花栄",
+      "reading": "べにばなさかう",
+      "meaning": "紅花が盛んに咲く",
+      "name_senmyoreki": "靡草死",
+      "meaning_senmyoreki": "薺（なずな）など田に生える草が枯れる"
+    },
+    {
+      "no": 24,
+      "sekki": "小満",
+      "ko": "末候",
+      "name": "麦秋至",
+      "reading": "むぎのときいたる",
+      "meaning": "麦が熟し麦秋となる",
+      "name_senmyoreki": "小暑至",
+      "meaning_senmyoreki": "ようやく暑さが加わり始める"
+    },
+    {
+      "no": 25,
+      "sekki": "芒種",
+      "ko": "初候",
+      "name": "螳螂生",
+      "reading": "かまきりしょうず",
+      "meaning": "螳螂が生まれ出る",
+      "name_senmyoreki": "螳螂生",
+      "meaning_senmyoreki": "螳螂が生まれ出る"
+    },
+    {
+      "no": 26,
+      "sekki": "芒種",
+      "ko": "次候",
+      "name": "腐草為蛍",
+      "reading": "くされたるくさほたるとなる",
+      "meaning": "腐った草が蒸れ蛍になる",
+      "name_senmyoreki": "鵙始鳴",
+      "meaning_senmyoreki": "鵙が鳴き始める"
+    },
+    {
+      "no": 27,
+      "sekki": "芒種",
+      "ko": "末候",
+      "name": "梅子黄",
+      "reading": "うめのみきばむ",
+      "meaning": "梅の実が黄ばんで熟す",
+      "name_senmyoreki": "反舌無声",
+      "meaning_senmyoreki": "反舌鳥が鳴かなくなる"
+    },
+    {
+      "no": 28,
+      "sekki": "夏至",
+      "ko": "初候",
+      "name": "乃東枯",
+      "reading": "なつかれくさかるる",
+      "meaning": "夏枯草が枯れる",
+      "name_senmyoreki": "鹿角解",
+      "meaning_senmyoreki": "鹿が角を落とす"
+    },
+    {
+      "no": 29,
+      "sekki": "夏至",
+      "ko": "次候",
+      "name": "菖蒲華",
+      "reading": "あやめはなさく",
+      "meaning": "あやめの花が咲く",
+      "name_senmyoreki": "蜩始鳴",
+      "meaning_senmyoreki": "蝉が鳴き始める"
+    },
+    {
+      "no": 30,
+      "sekki": "夏至",
+      "ko": "末候",
+      "name": "半夏生",
+      "reading": "はんげしょうず",
+      "meaning": "烏柄杓が生える",
+      "name_senmyoreki": "半夏生",
+      "meaning_senmyoreki": "烏柄杓が生える"
+    },
+    {
+      "no": 31,
+      "sekki": "小暑",
+      "ko": "初候",
+      "name": "温風至",
+      "reading": "あつかぜいたる",
+      "meaning": "暖い風が吹いて来る",
+      "name_senmyoreki": "温風至",
+      "meaning_senmyoreki": "暖い風が吹いて来る"
+    },
+    {
+      "no": 32,
+      "sekki": "小暑",
+      "ko": "次候",
+      "name": "蓮始開",
+      "reading": "はすはじめてひらく",
+      "meaning": "蓮の花が開き始める",
+      "name_senmyoreki": "蟋蟀居壁",
+      "meaning_senmyoreki": "蟋蟀が壁で鳴く"
+    },
+    {
+      "no": 33,
+      "sekki": "小暑",
+      "ko": "末候",
+      "name": "鷹乃学習",
+      "reading": "たかすなわちわざをなす",
+      "meaning": "鷹の幼鳥が飛ぶことを覚える",
+      "name_senmyoreki": "鷹乃学習",
+      "meaning_senmyoreki": "鷹の幼鳥が飛ぶことを覚える"
+    },
+    {
+      "no": 34,
+      "sekki": "大暑",
+      "ko": "初候",
+      "name": "桐始結花",
+      "reading": "きりはじめてはなをむすぶ",
+      "meaning": "桐の花が（来年の）蕾をつける",
+      "name_senmyoreki": "腐草為蛍",
+      "meaning_senmyoreki": "腐った草が蒸れ蛍となる"
+    },
+    {
+      "no": 35,
+      "sekki": "大暑",
+      "ko": "次候",
+      "name": "土潤溽暑",
+      "reading": "つちうるおうてむしあつし",
+      "meaning": "土が湿って蒸暑くなる",
+      "name_senmyoreki": "土潤溽暑",
+      "meaning_senmyoreki": "土が湿って蒸暑くなる"
+    },
+    {
+      "no": 36,
+      "sekki": "大暑",
+      "ko": "末候",
+      "name": "大雨時行",
+      "reading": "たいうときどきにふる",
+      "meaning": "時として大雨が降る",
+      "name_senmyoreki": "大雨時行",
+      "meaning_senmyoreki": "時として大雨が降る"
+    },
+    {
+      "no": 37,
+      "sekki": "立秋",
+      "ko": "初候",
+      "name": "涼風至",
+      "reading": "すづかぜいたる",
+      "meaning": "涼しい風が立ち始める",
+      "name_senmyoreki": "涼風至",
+      "meaning_senmyoreki": "涼しい風が立ち始める"
+    },
+    {
+      "no": 38,
+      "sekki": "立秋",
+      "ko": "次候",
+      "name": "寒蝉鳴",
+      "reading": "ひぐらしなく",
+      "meaning": "蜩が鳴き始める",
+      "name_senmyoreki": "白露降",
+      "meaning_senmyoreki": "朝露が降り始める"
+    },
+    {
+      "no": 39,
+      "sekki": "立秋",
+      "ko": "末候",
+      "name": "蒙霧升降",
+      "reading": "ふかききりまとう",
+      "meaning": "深い霧が立ち込める",
+      "name_senmyoreki": "寒蝉鳴",
+      "meaning_senmyoreki": "蜩が鳴き始める"
+    },
+    {
+      "no": 40,
+      "sekki": "処暑",
+      "ko": "初候",
+      "name": "綿柎開",
+      "reading": "わたのはなしべひらく",
+      "meaning": "綿を包む萼（がく）が開く",
+      "name_senmyoreki": "鷹乃祭鳥",
+      "meaning_senmyoreki": "鷹が捕らえた鳥を並べて食べる"
+    },
+    {
+      "no": 41,
+      "sekki": "処暑",
+      "ko": "次候",
+      "name": "天地始粛",
+      "reading": "てんちはじめてさむし",
+      "meaning": "ようやく暑さが鎮まる",
+      "name_senmyoreki": "天地始粛",
+      "meaning_senmyoreki": "ようやく暑さが鎮まる"
+    },
+    {
+      "no": 42,
+      "sekki": "処暑",
+      "ko": "末候",
+      "name": "禾乃登",
+      "reading": "こくものすなわちみのる",
+      "meaning": "稲が実る",
+      "name_senmyoreki": "禾乃登",
+      "meaning_senmyoreki": "稲が実る"
+    },
+    {
+      "no": 43,
+      "sekki": "白露",
+      "ko": "初候",
+      "name": "草露白",
+      "reading": "くさのつゆしろし",
+      "meaning": "草に降りた露が白く光る",
+      "name_senmyoreki": "鴻雁来",
+      "meaning_senmyoreki": "雁が南へ飛来し始める"
+    },
+    {
+      "no": 44,
+      "sekki": "白露",
+      "ko": "次候",
+      "name": "鶺鴒鳴",
+      "reading": "せきれいなく",
+      "meaning": "鶺鴒（せきれい）が鳴き始める",
+      "name_senmyoreki": "玄鳥帰",
+      "meaning_senmyoreki": "燕が南へ帰って行く"
+    },
+    {
+      "no": 45,
+      "sekki": "白露",
+      "ko": "末候",
+      "name": "玄鳥去",
+      "reading": "つばめさる",
+      "meaning": "燕が南へ帰って行く",
+      "name_senmyoreki": "羣鳥養羞",
+      "meaning_senmyoreki": "多くの鳥が食べ物を蓄える"
+    },
+    {
+      "no": 46,
+      "sekki": "秋分",
+      "ko": "初候",
+      "name": "雷乃収声",
+      "reading": "かみなりすなわちこえをおさむ",
+      "meaning": "雷が鳴り響かなくなる",
+      "name_senmyoreki": "雷乃収声",
+      "meaning_senmyoreki": "雷が鳴り響かなくなる"
+    },
+    {
+      "no": 47,
+      "sekki": "秋分",
+      "ko": "次候",
+      "name": "蟄虫坏戸",
+      "reading": "むしかくれてとをふさぐ",
+      "meaning": "虫が土中に掘った穴をふさぐ",
+      "name_senmyoreki": "蟄虫坏戸",
+      "meaning_senmyoreki": "虫が土中に掘った穴をふさぐ"
+    },
+    {
+      "no": 48,
+      "sekki": "秋分",
+      "ko": "末候",
+      "name": "水始涸",
+      "reading": "みずはじめてかる",
+      "meaning": "田畑の水を干し始める",
+      "name_senmyoreki": "水始涸",
+      "meaning_senmyoreki": "田畑の水を干し始める"
+    },
+    {
+      "no": 49,
+      "sekki": "寒露",
+      "ko": "初候",
+      "name": "鴻雁来",
+      "reading": "こうがんきたる",
+      "meaning": "雁が飛来し始める",
+      "name_senmyoreki": "鴻雁来賓",
+      "meaning_senmyoreki": "雁が多数飛来して客人となる"
+    },
+    {
+      "no": 50,
+      "sekki": "寒露",
+      "ko": "次候",
+      "name": "菊花開",
+      "reading": "きくのはなひらく",
+      "meaning": "菊の花が咲く",
+      "name_senmyoreki": "雀入大水為蛤",
+      "meaning_senmyoreki": "雀が海に入って蛤になる"
+    },
+    {
+      "no": 51,
+      "sekki": "寒露",
+      "ko": "末候",
+      "name": "蟋蟀在戸",
+      "reading": "きりぎりすとにあり",
+      "meaning": "蟋蟀が戸の辺りで鳴く",
+      "name_senmyoreki": "菊有黄華",
+      "meaning_senmyoreki": "菊の花が咲き出す"
+    },
+    {
+      "no": 52,
+      "sekki": "霜降",
+      "ko": "初候",
+      "name": "霜始降",
+      "reading": "しもはじめてふる",
+      "meaning": "霜が降り始める",
+      "name_senmyoreki": "豺乃祭獣",
+      "meaning_senmyoreki": "山犬が捕らえた獣を並べて食べる"
+    },
+    {
+      "no": 53,
+      "sekki": "霜降",
+      "ko": "次候",
+      "name": "霎時施",
+      "reading": "こさめときどきふる",
+      "meaning": "小雨がしとしと降る",
+      "name_senmyoreki": "草木黄落",
+      "meaning_senmyoreki": "草木の葉が黄ばんで落ち始める"
+    },
+    {
+      "no": 54,
+      "sekki": "霜降",
+      "ko": "末候",
+      "name": "楓蔦黄",
+      "reading": "もみじつたきばむ",
+      "meaning": "もみじや蔦が黄葉する",
+      "name_senmyoreki": "蟄虫咸俯",
+      "meaning_senmyoreki": "虫がみな穴に潜って動かなくなる"
+    },
+    {
+      "no": 55,
+      "sekki": "立冬",
+      "ko": "初候",
+      "name": "山茶始開",
+      "reading": "つばきはじめてひらく",
+      "meaning": "山茶花が咲き始める",
+      "name_senmyoreki": "水始氷",
+      "meaning_senmyoreki": "水が凍り始める"
+    },
+    {
+      "no": 56,
+      "sekki": "立冬",
+      "ko": "次候",
+      "name": "地始凍",
+      "reading": "ちはじめてこおる",
+      "meaning": "大地が凍り始める",
+      "name_senmyoreki": "地始凍",
+      "meaning_senmyoreki": "大地が凍り始める"
+    },
+    {
+      "no": 57,
+      "sekki": "立冬",
+      "ko": "末候",
+      "name": "金盞香",
+      "reading": "きんせんかさく",
+      "meaning": "水仙の花が咲く",
+      "name_senmyoreki": "雉入大水為蜃",
+      "meaning_senmyoreki": "雉が海に入って大蛤になる"
+    },
+    {
+      "no": 58,
+      "sekki": "小雪",
+      "ko": "初候",
+      "name": "虹蔵不見",
+      "reading": "にじかくれてみえず",
+      "meaning": "虹を見かけなくなる",
+      "name_senmyoreki": "虹蔵不見",
+      "meaning_senmyoreki": "虹を見かけなくなる"
+    },
+    {
+      "no": 59,
+      "sekki": "小雪",
+      "ko": "次候",
+      "name": "朔風払葉",
+      "reading": "きたかぜこのはをはらう",
+      "meaning": "北風が木の葉を払い除ける",
+      "name_senmyoreki": "天気上騰地気下降",
+      "meaning_senmyoreki": "天地の寒暖が逆になる"
+    },
+    {
+      "no": 60,
+      "sekki": "小雪",
+      "ko": "末候",
+      "name": "橘始黄",
+      "reading": "たちばなはじめてきばむ",
+      "meaning": "橘の実が黄色くなり始める",
+      "name_senmyoreki": "閉塞而成冬",
+      "meaning_senmyoreki": "天地の気が塞がって冬となる"
+    },
+    {
+      "no": 61,
+      "sekki": "大雪",
+      "ko": "初候",
+      "name": "閉塞成冬",
+      "reading": "そらさむくふゆとなる",
+      "meaning": "天地の気が塞がって冬となる",
+      "name_senmyoreki": "鶡鴠不鳴",
+      "meaning_senmyoreki": "ミミキジが鳴かなくなる"
+    },
+    {
+      "no": 62,
+      "sekki": "大雪",
+      "ko": "次候",
+      "name": "熊蟄穴",
+      "reading": "くまあなにこもる",
+      "meaning": "熊が冬眠のために穴に隠れる",
+      "name_senmyoreki": "虎始交",
+      "meaning_senmyoreki": "虎が交尾を始める"
+    },
+    {
+      "no": 63,
+      "sekki": "大雪",
+      "ko": "末候",
+      "name": "鱖魚群",
+      "reading": "さけのうおむらがる",
+      "meaning": "鮭が群がり川を上る",
+      "name_senmyoreki": "茘挺出",
+      "meaning_senmyoreki": "ネジアヤメが芽を出し始める"
+    },
+    {
+      "no": 64,
+      "sekki": "冬至",
+      "ko": "初候",
+      "name": "乃東生",
+      "reading": "なつかれくさしょうず",
+      "meaning": "夏枯草が芽を出す",
+      "name_senmyoreki": "蚯蚓結",
+      "meaning_senmyoreki": "蚯蚓が地中で塊となる"
+    },
+    {
+      "no": 65,
+      "sekki": "冬至",
+      "ko": "次候",
+      "name": "麋角解",
+      "reading": "おおしかのつのおつる",
+      "meaning": "大鹿が角を落とす",
+      "name_senmyoreki": "麋角解",
+      "meaning_senmyoreki": "大鹿が角を落とす"
+    },
+    {
+      "no": 66,
+      "sekki": "冬至",
+      "ko": "末候",
+      "name": "雪下出麦",
+      "reading": "ゆきわたりてむぎいづる",
+      "meaning": "雪の下で麦が芽を出す",
+      "name_senmyoreki": "水泉動",
+      "meaning_senmyoreki": "地中で凍った泉が動き始める"
+    },
+    {
+      "no": 67,
+      "sekki": "小寒",
+      "ko": "初候",
+      "name": "芹乃栄",
+      "reading": "せりすなわちさかう",
+      "meaning": "芹がよく生育する",
+      "name_senmyoreki": "雁北郷",
+      "meaning_senmyoreki": "雁が北に渡り始める"
+    },
+    {
+      "no": 68,
+      "sekki": "小寒",
+      "ko": "次候",
+      "name": "水泉動",
+      "reading": "しみずあたたかをふくむ",
+      "meaning": "地中で凍った泉が動き始める",
+      "name_senmyoreki": "鵲始巣",
+      "meaning_senmyoreki": "鵲が巣を作り始める"
+    },
+    {
+      "no": 69,
+      "sekki": "小寒",
+      "ko": "末候",
+      "name": "雉始雊",
+      "reading": "きじはじめてなく",
+      "meaning": "雄の雉が鳴き始める",
+      "name_senmyoreki": "雉始雊",
+      "meaning_senmyoreki": "雄の雉が鳴き始める"
+    },
+    {
+      "no": 70,
+      "sekki": "大寒",
+      "ko": "初候",
+      "name": "款冬華",
+      "reading": "ふきのはなさく",
+      "meaning": "蕗の薹（ふきのとう）が蕾を出す",
+      "name_senmyoreki": "鶏始乳",
+      "meaning_senmyoreki": "鶏が卵を産み始める"
+    },
+    {
+      "no": 71,
+      "sekki": "大寒",
+      "ko": "次候",
+      "name": "水沢腹堅",
+      "reading": "さわみずこおりつめる",
+      "meaning": "沢に氷が厚く張りつめる",
+      "name_senmyoreki": "鷙鳥厲疾",
+      "meaning_senmyoreki": "鷲・鷹などが空高く速く飛び始める"
+    },
+    {
+      "no": 72,
+      "sekki": "大寒",
+      "ko": "末候",
+      "name": "鶏始乳",
+      "reading": "にわとりはじめてとやにつく",
+      "meaning": "鶏が卵を産み始める",
+      "name_senmyoreki": "水沢腹堅",
+      "meaning_senmyoreki": "沢に氷が厚く張りつめる"
+    }
+  ],
+  "meta": {
+    "title": "七十二候一覧 (The 72 micro-seasons of Japan) - Free Download",
+    "description": "二十四節気をさらに3つに分けた七十二候（略本暦）の名称・読み・意味の一覧。中国の宣明暦の候名も併記。 Contains 72 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "七十二候一覧 (The 72 micro-seasons of Japan) | ListBase",
+    "seo_description": "Download 七十二候一覧 (The 72 micro-seasons of Japan) — 72 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 72 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99"
+    ]
+  }
+}
