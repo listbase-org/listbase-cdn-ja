@@ -1,0 +1,1888 @@
+{
+  "id": "ja-katei-koko",
+  "name": "家庭に関する学科を設置する高等学校一覧 (Home economics high schools in Japan)",
+  "title": "家庭に関する学科を設置する高等学校一覧 (Home economics high schools in Japan)",
+  "description": "家政科・食物科・調理科など家庭に関する学科を置く全国の高等学校の一覧（地方・都道府県別・設置学科）。",
+  "category": "education",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%AE%B6%E5%BA%AD%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%AD%A6%E7%A7%91%E8%A8%AD%E7%BD%AE%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%AE%B6%E5%BA%AD%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%AD%A6%E7%A7%91%E8%A8%AD%E7%BD%AE%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 307,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "school",
+      "label": "School",
+      "type": "string"
+    },
+    {
+      "key": "departments",
+      "label": "Departments",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "region": "北海道地方",
+      "prefecture": "",
+      "school": "北海道江別高等学校",
+      "departments": "生活デザイン科"
+    },
+    {
+      "region": "北海道地方",
+      "prefecture": "",
+      "school": "清尚学院高等学校",
+      "departments": "調理科・製菓衛生師科"
+    },
+    {
+      "region": "北海道地方",
+      "prefecture": "",
+      "school": "北海道当別高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "北海道地方",
+      "prefecture": "",
+      "school": "函館大妻高等学校",
+      "departments": "家政科・食物健康科"
+    },
+    {
+      "region": "北海道地方",
+      "prefecture": "",
+      "school": "北海道文教大学付属高等学校",
+      "departments": "食物科"
+    },
+    {
+      "region": "北海道地方",
+      "prefecture": "",
+      "school": "北海道紋別南高等学校",
+      "departments": "家政科（2007年3月閉校）"
+    },
+    {
+      "region": "北海道地方",
+      "prefecture": "",
+      "school": "北海道伊達高等学校",
+      "departments": "家政科（2008年3月閉科）"
+    },
+    {
+      "region": "北海道地方",
+      "prefecture": "",
+      "school": "北海道釧路星園高等学校",
+      "departments": "生活文化科（2009年3月閉校）"
+    },
+    {
+      "region": "北海道地方",
+      "prefecture": "",
+      "school": "北海道洞爺高等学校",
+      "departments": "生活ビジネス科（2016年3月閉校）"
+    },
+    {
+      "region": "北海道地方",
+      "prefecture": "",
+      "school": "北海道美唄高等学校",
+      "departments": "生活デザイン科（2017年3月閉科）"
+    },
+    {
+      "region": "北海道地方",
+      "prefecture": "",
+      "school": "北海道名寄産業高等学校",
+      "departments": "生活文化科（2025年3月閉校）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "school": "青森県立弘前実業高等学校",
+      "departments": "家庭科学科・服飾デザイン科"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "school": "青森県立百石高等学校",
+      "departments": "食物調理科"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "school": "青森山田高等学校",
+      "departments": "調理科"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "school": "八戸学院光星高等学校",
+      "departments": "保育福祉科"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "school": "柴田学園大学附属柴田学園高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "school": "千葉学園高等学校",
+      "departments": "生活文化科・調理科"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "school": "東奥学園高等学校",
+      "departments": "調理科"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "school": "岩手県立花北青雲高等学校",
+      "departments": "総合生活科"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "school": "岩手県立大船渡東高等学校",
+      "departments": "食物文化科"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "school": "岩手県立平舘高等学校",
+      "departments": "家政科学科"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "school": "盛岡誠桜高等学校",
+      "departments": "家政科・食物調理科"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "school": "水沢第一高等学校",
+      "departments": "調理科"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "school": "宮城県名取高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "school": "宮城県松山高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "school": "宮城県亘理高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "school": "仙台大学附属明成高等学校",
+      "departments": "食文化創志科"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "school": "秋田県立大館桂桜高等学校",
+      "departments": "生活科学科（括り募集）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "school": "国学館高等学校",
+      "departments": "調理科"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "school": "秋田県立湯沢北高等学校",
+      "departments": "生活科学科（2009年3月閉科）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "school": "山形県立山辺高等学校",
+      "departments": "食物科"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "school": "山形県立霞城学園高等学校",
+      "departments": "服飾科 - 通信制単置"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "school": "酒田南高等学校",
+      "departments": "家庭科"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "school": "山形学院高等学校",
+      "departments": "食物調理科"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "school": "山本学園高等学校",
+      "departments": "衣創科"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "school": "福島県立会津農林高等学校",
+      "departments": "食品科学科"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "school": "郡山女子大学附属高等学校",
+      "departments": "食物科"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "school": "福島東稜高等学校",
+      "departments": "食物文化科"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "school": "福島県立白河実業高等学校",
+      "departments": "家政科（2009年度より募集停止）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "school": "福島県立耶麻農業高等学校",
+      "departments": "ライフコーディネイト科（2023年閉校）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "school": "茨城県立水海道第二高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "school": "茨城県立取手第二高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "school": "茨城県立水戸第三高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "school": "茨城県立潮来高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "school": "茨城県立石岡第二高等学校",
+      "departments": "生活デザイン科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "school": "茨城県立竜ヶ崎第二高等学校",
+      "departments": "人間文化科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "school": "茨城県立水戸南高等学校",
+      "departments": "ライフデザイン科 - 通信制単置"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "school": "大成女子高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "school": "茨城県立高萩高等学校",
+      "departments": "家政科（2006年3月閉科）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "school": "茨城県立結城第二高等学校",
+      "departments": "家政科（2010年3月閉科）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "school": "つくば国際大学高等学校",
+      "departments": "家政科（2022年3月閉科）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "school": "栃木県立矢板高等学校",
+      "departments": "栄養食物科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "school": "栃木県立宇都宮白楊高等学校",
+      "departments": "服飾デザイン科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "school": "栃木県立宇都宮中央高等学校",
+      "departments": "総合家庭科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "school": "栃木県立那須拓陽高等学校",
+      "departments": "食物文化科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "school": "栃木県立小山北桜高等学校",
+      "departments": "生活文化科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "school": "栃木県立鹿沼南高等学校",
+      "departments": "ライフデザイン科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "school": "宇都宮短期大学附属高等学校",
+      "departments": "生活教養科・調理科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "school": "作新学院高等学校",
+      "departments": "ライフデザイン科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "school": "佐野清澄高等学校",
+      "departments": "生活デザイン科・食物調理科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "school": "青藍泰斗高等学校",
+      "departments": "総合生活科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "school": "栃木県立真岡女子高等学校",
+      "departments": "家政科（1997年3月閉科）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "school": "栃木県立佐野東高等学校",
+      "departments": "家政科（2010年より募集停止）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "school": "桐生第一高等学校",
+      "departments": "調理科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "school": "明和高等学校",
+      "departments": "家政科（2005年3月閉校）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "school": "群馬県立太田西女子高等学校",
+      "departments": "家政科（2007年3月閉校）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "school": "前橋育英高等学校",
+      "departments": "保育科（2022年より募集停止）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "school": "埼玉県立秩父農工科学高等学校",
+      "departments": "ライフデザイン科・フードデザイン科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "school": "埼玉県立鴻巣女子高等学校",
+      "departments": "保育科・家政科学科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "school": "埼玉県立越谷総合技術高等学校",
+      "departments": "服飾デザイン科・食物調理科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "school": "埼玉県立新座総合技術高等学校",
+      "departments": "服飾デザイン科・食物調理科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "school": "花咲徳栄高等学校",
+      "departments": "食育実践科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "school": "清和学園高等学校",
+      "departments": "調理科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "school": "細田学園高等学校",
+      "departments": "食物科（2018年閉科）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "school": "千葉県立千葉女子高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "school": "千葉県立木更津東高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "school": "千葉県立八千代高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "school": "千葉県立佐倉東高等学校",
+      "departments": "調理国際科・服飾デザイン科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "school": "千葉県立館山総合高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "school": "茂原北陵高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "school": "和洋国府台女子高等学校",
+      "departments": "ファッションテクニックス科（2020年より募集停止）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "school": "東京学館船橋高等学校",
+      "departments": "食物調理科（2026年より募集停止）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "school": "東京都立赤羽北桜高等学校",
+      "departments": "保育・栄養科・調理科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "school": "東京都立大島高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "school": "東京都立忍岡高等学校",
+      "departments": "生活科学科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "school": "東京都立農業高等学校",
+      "departments": "服飾科・食物科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "school": "東京都立八丈高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "school": "東京都立瑞穂農芸高等学校",
+      "departments": "生活デザイン科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "school": "東京都立三宅高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "school": "愛国高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "school": "駒場学園高等学校",
+      "departments": "食物調理科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "school": "東京都立農林高等学校",
+      "departments": "家政科（2007年3月閉科・2009年3月閉校）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "school": "東京都立町田高等学校",
+      "departments": "家政科（2011年度より廃止）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "school": "八王子実践高等学校",
+      "departments": "調理科（2017年より募集停止）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "school": "神奈川県立吉田島高等学校",
+      "departments": "生活科学科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "school": "川崎市立川崎高等学校",
+      "departments": "生活科学科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "school": "大西学園高等学校",
+      "departments": "家庭科"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "school": "英理女子学院高等学校",
+      "departments": "家庭科（2019年閉科）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "school": "新潟県立新潟中央高等学校",
+      "departments": "食物科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "school": "新潟県立西川竹園高等学校",
+      "departments": "生活文化科（2016年閉校）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "school": "新潟県立長岡大手高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "school": "新潟県立高田北城高等学校",
+      "departments": "生活文化科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "school": "上越高等学校",
+      "departments": "食物科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "school": "富山県立雄山高等学校",
+      "departments": "生活文化科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "school": "富山県立氷見高等学校",
+      "departments": "生活福祉科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "school": "富山県立志貴野高等学校",
+      "departments": "生活文化科 - 定時制単置"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "school": "富山県立雄峰高等学校",
+      "departments": "生活文化科 - 定時制単置"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "school": "富山県立となみ野高等学校",
+      "departments": "総合福祉科 - 定時制単置"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "school": "富山県立新川みどり野高等学校",
+      "departments": "福祉教養科 - 定時制単置"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "school": "高岡龍谷高等学校",
+      "departments": "調理科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "school": "鵬学園高等学校",
+      "departments": "福祉科・調理科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "school": "福井県立三国高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "school": "福井県立美方高等学校",
+      "departments": "生活情報科・食物科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "school": "福井県立奥越明成高等学校",
+      "departments": "生活福祉科（生活コース）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "school": "啓新高等学校",
+      "departments": "調理科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "school": "長野県屋代南高等学校",
+      "departments": "ライフデザイン科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "school": "長野県上田千曲高等学校",
+      "departments": "食物栄養科・生活福祉科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "school": "長野県諏訪実業高等学校",
+      "departments": "服飾科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "school": "松本第一高等学校",
+      "departments": "食物科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "school": "長野県丸子修学館高等学校",
+      "departments": "被服科（旧長野県丸子実業高等学校、2009年3月閉科）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "school": "長野県飯田風越高等学校",
+      "departments": "家政科（2009年3月閉科）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "school": "長野県臼田高等学校",
+      "departments": "アパレルデザイン科（2010年度募集停止）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "school": "岐阜県立揖斐高等学校",
+      "departments": "生活環境科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "school": "岐阜県立大垣桜高等学校",
+      "departments": "服飾デザイン科・食物科・生活文化科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "school": "岐阜県立海津明誠高等学校",
+      "departments": "生活福祉科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "school": "岐阜県立岐阜城北高等学校",
+      "departments": "ファッション科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "school": "岐阜県立坂下高等学校",
+      "departments": "生活文化科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "school": "岐阜県立関有知高等学校",
+      "departments": "生活福祉科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "school": "岐阜県立東濃実業高等学校",
+      "departments": "生活文化科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "school": "岐阜県立飛騨高山高等学校",
+      "departments": "生活文化科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "school": "岐阜県立瑞浪高等学校",
+      "departments": "生活福祉科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "school": "中津川市立阿木高等学校",
+      "departments": "総合生活科 - 定時制単置"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "school": "岐阜女子高等学校",
+      "departments": "食物科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "school": "済美高等学校",
+      "departments": "保育教養科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "school": "多治見西高等学校",
+      "departments": "被服科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "school": "城南高等学校",
+      "departments": "調理科・製菓科 - 通信制単置（技能連携実施校）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "school": "静岡県立御殿場高等学校",
+      "departments": "情報デザイン科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "school": "静岡女子高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "school": "藤枝順心高等学校",
+      "departments": "調理栄養科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "school": "知徳高等学校",
+      "departments": "生活デザイン科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "school": "愛知県立新城高等学校",
+      "departments": "生活創造科（2019年募集停止）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "school": "愛知県立佐屋高等学校",
+      "departments": "生活文化科・生活情報科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "school": "愛知県立岩津高等学校",
+      "departments": "生活デザイン科・調理国際科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "school": "愛知県立安城高等学校",
+      "departments": "生活文化科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "school": "愛知県立一宮高等学校",
+      "departments": "ファッション創造科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "school": "愛知県立一色高等学校",
+      "departments": "生活デザイン科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "school": "愛知県立吉良高等学校",
+      "departments": "生活文化科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "school": "愛知県立古知野高等学校",
+      "departments": "生活文化科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "school": "愛知県立成章高等学校",
+      "departments": "生活文化科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "school": "愛知県立桃陵高等学校",
+      "departments": "ヒューマンケア科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "school": "愛知県立豊橋南高等学校",
+      "departments": "生活デザイン科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "school": "愛知県立松平高等学校",
+      "departments": "生活情報科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "school": "愛知県立豊丘高等学校",
+      "departments": "生活文化科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "school": "愛知啓成高等学校",
+      "departments": "生活文化科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "school": "愛知県立大府高等学校",
+      "departments": "生活文化科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "school": "愛知県立瑞陵高等学校",
+      "departments": "食物科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "school": "名古屋市立桜台高等学校",
+      "departments": "ファッション文化科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "school": "至学館高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "school": "修文学院高等学校",
+      "departments": "家政科・食物調理科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "school": "豊橋中央高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "school": "藤ノ花女子高等学校",
+      "departments": "生活情報科・食物科"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "school": "三重県立桑名高等学校",
+      "departments": "家政科（2006年3月閉科）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "school": "三重県立明野高等学校",
+      "departments": "生活教養科"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "school": "三重県立相可高等学校",
+      "departments": "食物調理科"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "school": "三重県立亀山高等学校",
+      "departments": "総合生活科"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "school": "三重県立白子高等学校",
+      "departments": "生活創造科"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "school": "三重県立久居農林高等学校",
+      "departments": "生活デザイン科"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "school": "三重県立四日市農芸高等学校",
+      "departments": "生活文化科"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "school": "滋賀短期大学附属高等学校",
+      "departments": "生活創造科"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "school": "滋賀県立彦根西高等学校",
+      "departments": "家庭科学科"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "school": "滋賀県立大津高等学校",
+      "departments": "家庭科学科"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "school": "綾羽高等学校",
+      "departments": "食物調理科 - 定時制単置"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "school": "京都府立北桑田高等学校美山分校",
+      "departments": "家政科 - 定時制単置"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "school": "京都府立峰山高等学校弥栄分校",
+      "departments": "家政科"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "school": "京都府立福知山高等学校三和分校",
+      "departments": "家政科 - 定時制単置"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "school": "福知山淑徳高等学校",
+      "departments": "食物科（2003年3月閉科）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "school": "大阪市立咲くやこの花高等学校",
+      "departments": "食物文化科"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "school": "アナン学園高等学校",
+      "departments": "調理科"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "school": "大阪緑涼高等学校",
+      "departments": "調理製菓科"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "school": "兵庫県立山崎高等学校",
+      "departments": "生活創造科"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "school": "兵庫県立佐用高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "school": "兵庫県立淡路高等学校一宮校",
+      "departments": "家政科（2011年3月閉校）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "school": "兵庫県立小野工業高等学校",
+      "departments": "生活創造科"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "school": "兵庫県立相生産業高等学校",
+      "departments": "被服科（2011年3月閉科）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "school": "兵庫県立松陽高等学校",
+      "departments": "生活文化科"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "school": "兵庫県立西脇高等学校",
+      "departments": "生活情報科"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "school": "兵庫県立社高等学校",
+      "departments": "生活科学科"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "school": "兵庫県立北条高等学校",
+      "departments": "家政科（2011年3月閉科）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "school": "神戸常盤女子高等学校",
+      "departments": "家庭科"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "school": "神戸第一高等学校",
+      "departments": "家庭科"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "school": "奈良県立磯城野高等学校",
+      "departments": "フードデザイン科・ライフデザイン科・ヒューマンライフ科"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "school": "奈良県立五條高等学校賀名生分校",
+      "departments": "家庭科 - 定時制単置"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "school": "山添村立奈良県立山辺高等学校山添分校",
+      "departments": "家庭科 - 定時制単置"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "school": "和歌山県立南部高等学校",
+      "departments": "服飾デザイン科"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "school": "海南市立海南下津高等学校",
+      "departments": "食物科・家政科（2024年3月閉校）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "school": "鳥取県立鳥取湖陵高等学校",
+      "departments": "人間環境科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "school": "鳥取県立倉吉総合産業高等学校",
+      "departments": "生活デザイン科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "school": "鳥取県立米子南高等学校",
+      "departments": "生活文化科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "school": "鳥取敬愛高等学校",
+      "departments": "生活教養科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "school": "倉吉北高等学校",
+      "departments": "調理科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "school": "島根県立松江南高等学校宍道分校",
+      "departments": "家政科 - 定時制単置（2013年3月閉校）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "school": "開星高等学校",
+      "departments": "調理科（2011年3月閉科）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "school": "岡山県立井原高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "school": "岡山県立岡山南高等学校",
+      "departments": "生活創造科・服飾デザイン科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "school": "岡山県立久世高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "school": "岡山県立倉敷中央高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "school": "岡山県立興陽高等学校",
+      "departments": "家政科・被服デザイン科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "school": "岡山県立瀬戸南高等学校",
+      "departments": "生活デザイン科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "school": "岡山県立総社高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "school": "岡山県立高梁高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "school": "岡山県立津山東高等学校",
+      "departments": "食物調理科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "school": "岡山学芸館高等学校",
+      "departments": "食物調理科(H22閉科)"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "school": "おかやま山陽高等学校",
+      "departments": "調理科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "school": "倉敷翠松高等学校",
+      "departments": "生活科学科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "school": "広島県立海田高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "school": "広島県立吉田高等学校",
+      "departments": "生活福祉科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "school": "広島県立総合技術高等学校",
+      "departments": "人間福祉科・食デザイン科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "school": "広島県立沼南高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "school": "広島県立世羅高等学校",
+      "departments": "生活福祉科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "school": "進徳女子高等学校",
+      "departments": "食育デザイン科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "school": "山口県立厚狭明進高等学校",
+      "departments": "生活創造科山口県立厚狭高等学校- 総合家庭科山口県立田部高等学校- 総合生活科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "school": "山口県立熊毛北高等学校",
+      "departments": "ライフデザイン科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "school": "宇部フロンティア大学付属香川高等学校",
+      "departments": "生活デザイン科・食物調理科・保育科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "school": "山口中村学園高等学校",
+      "departments": "調理科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "school": "早鞆高等学校",
+      "departments": "生活クリエイト科"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "school": "下関短期大学付属高等学校",
+      "departments": "くらしデザイン科"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "school": "徳島県立小松島西高等学校",
+      "departments": "食物科・生活文化科"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "school": "香川県立高松南高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "school": "香川県立石田高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "school": "香川県立笠田高等学校",
+      "departments": "家庭科"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "school": "香川県立善通寺西高等学校",
+      "departments": "生活文化科（2009年3月閉校）"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "school": "坂出第一高等学校",
+      "departments": "食物科"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "school": "愛媛県立小松高等学校",
+      "departments": "ライフデザイン科"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "school": "今治精華高等学校",
+      "departments": "調理科"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "school": "松山学院高等学校",
+      "departments": "調理科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "school": "福岡県立折尾高等学校",
+      "departments": "生活デザイン科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "school": "福岡県立香椎高等学校",
+      "departments": "服飾デザイン科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "school": "福岡県立久留米筑水高等学校",
+      "departments": "食物調理科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "school": "福岡県立筑豊高等学校",
+      "departments": "生活デザイン科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "school": "福岡県立東鷹高等学校",
+      "departments": "総合生活科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "school": "福岡県立福岡農業高等学校",
+      "departments": "生活デザイン科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "school": "福岡県立福島高等学校",
+      "departments": "生活デザイン科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "school": "福岡県立行橋高等学校",
+      "departments": "生活デザイン科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "school": "福岡県立嘉穂総合高等学校嘉麻市立大隈城山校",
+      "departments": "家庭科 - 定時制単置"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "school": "福岡県立鞍手高等学校鞍手町立豊翔館",
+      "departments": "生活情報科 - 定時制単置（2022年3月閉校）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "school": "福岡市立福岡女子高等学校",
+      "departments": "生活情報科・食物調理科・服飾デザイン科・保育福祉科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "school": "真颯館高等学校",
+      "departments": "調理科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "school": "福岡キャリアi高等学校",
+      "departments": "食物科・ファッションデザイン科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "school": "誠修高等学校",
+      "departments": "保育科・生活文化科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "school": "星琳高等学校",
+      "departments": "食物調理科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "school": "第一薬科大学付属高等学校",
+      "departments": "保育科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "school": "東筑紫学園高等学校",
+      "departments": "食物文化科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "school": "大和青藍高等学校",
+      "departments": "調理科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "school": "福岡県立朝倉農業高等学校",
+      "departments": "生活情報科（2010年3月閉校）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "school": "佐賀県立牛津高等学校",
+      "departments": "生活経営科・服飾デザイン科・食品調理科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "school": "佐賀県立唐津南高等学校",
+      "departments": "生活教養科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "school": "佐賀県立鹿島実業高等学校",
+      "departments": "食品調理科・生活経営科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "school": "佐賀県立佐賀北高等学校",
+      "departments": "被服科 - 通信制単置"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "school": "佐賀女子短期大学付属佐賀女子高等学校",
+      "departments": "服飾科・食物科・デザイン科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "school": "北陵高等学校",
+      "departments": "生活文化科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "school": "長崎県立諫早商業高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "school": "長崎県立大村高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "school": "長崎県立川棚高等学校",
+      "departments": "生活総合科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "school": "長崎県立島原商業高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "school": "九州文化学園高等学校",
+      "departments": "食物科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "school": "向陽高等学校",
+      "departments": "デザイン科・保育科・調理科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "school": "長崎玉成高等学校",
+      "departments": "生活技術科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "school": "熊本県立松橋高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "school": "熊本県立北稜高等学校",
+      "departments": "家政科学科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "school": "慶誠高等学校",
+      "departments": "食物科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "school": "菊池女子高等学校",
+      "departments": "家庭科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "school": "玉名女子高等学校",
+      "departments": "食物科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "school": "城北高等学校",
+      "departments": "生活総合学科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "school": "熊本中央高等学校",
+      "departments": "保育科（1991年3月閉科）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "school": "熊本県立翔陽高等学校",
+      "departments": "生活デザイン科（旧熊本県立大津産業高等学校、1998年3月閉科）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "school": "大分県立宇佐産業科学高等学校",
+      "departments": "生活デザイン科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "school": "昭和学園高等学校",
+      "departments": "調理科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "school": "東九州龍谷高等学校",
+      "departments": "食物科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "school": "福徳学院高等学校",
+      "departments": "食物科・進学コース・保育福祉科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "school": "別府溝部学園高等学校",
+      "departments": "食物科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "school": "楊志館高等学校",
+      "departments": "調理科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "school": "宮崎県立延岡工業高等学校",
+      "departments": "生活文化科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "school": "宮崎県立富島高等学校",
+      "departments": "生活文化科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "school": "宮崎県立高鍋高等学校",
+      "departments": "生活文化科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "school": "宮崎県立宮崎農業高等学校",
+      "departments": "生活文化科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "school": "宮崎県立飯野高等学校",
+      "departments": "生活文化科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "school": "宮崎県立高城高等学校",
+      "departments": "生活文化科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "school": "小林西高等学校",
+      "departments": "調理科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "school": "日南学園高等学校",
+      "departments": "調理科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "school": "日章学園高等学校",
+      "departments": "トータルエステティック科・調理科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "school": "櫻美学園高等学校",
+      "departments": "調理科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "school": "鹿児島県立野田女子高等学校",
+      "departments": "生活文化科・食物科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "school": "鹿児島県立奄美高等学校",
+      "departments": "家政科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "school": "鹿児島県立薩南工業高等学校",
+      "departments": "生活科学科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "school": "鹿児島県立垂水高等学校",
+      "departments": "生活デザイン科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "school": "鹿児島県立有明高等学校",
+      "departments": "生活科学科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "school": "鹿児島城西高等学校",
+      "departments": "調理科・ヘアーデザイン科・トータルエステティック科・ファッションデザイン科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "school": "鹿児島市立鹿児島女子高等学校",
+      "departments": "生活科学科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "school": "鹿屋市立鹿屋女子高等学校",
+      "departments": "生活科学科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "school": "龍桜高等学校",
+      "departments": "モードビジネス科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "school": "神村学園高等部",
+      "departments": "保育科・医療福祉科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "school": "霧島市立国分中央高等学校",
+      "departments": "生活文化科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "school": "沖縄県立美里工業高等学校",
+      "departments": "調理科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "school": "沖縄県立浦添工業高等学校",
+      "departments": "調理科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "school": "沖縄県立沖縄工業高等学校",
+      "departments": "生活情報科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "school": "沖縄県立宮古工業高等学校",
+      "departments": "生活情報科"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "school": "沖縄県立北部工業高等学校",
+      "departments": "生活情報科（2009年3月閉校）"
+    }
+  ],
+  "meta": {
+    "title": "家庭に関する学科を設置する高等学校一覧 (Home economics high schools in Japan) - Free Download",
+    "description": "家政科・食物科・調理科など家庭に関する学科を置く全国の高等学校の一覧（地方・都道府県別・設置学科）。 Contains 307 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "家庭に関する学科を設置する高等学校一覧 (Home economics high schools in Japan) | ListBase",
+    "seo_description": "Download 家庭に関する学科を設置する高等学校一覧 (Home economics high schools in Japan) — 307 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 307 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%AE%B6%E5%BA%AD%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%AD%A6%E7%A7%91%E8%A8%AD%E7%BD%AE%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}

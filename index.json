@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:12:22.456Z",
-  "total_datasets": 489,
-  "total_records": 445545,
+  "generated": "2026-10-25T02:12:26.630Z",
+  "total_datasets": 490,
+  "total_records": 445852,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "entertainment",
@@ -608,6 +608,31 @@
         "xlsx": {
           "name": "ja-daigakuin-hakushi-senko_JA.xlsx",
           "size": 23725
+        }
+      }
+    },
+    {
+      "id": "ja-katei-koko",
+      "name": "家庭に関する学科を設置する高等学校一覧 (Home economics high schools in Japan)",
+      "category": "education",
+      "record_count": 307,
+      "columns": [
+        "region",
+        "prefecture",
+        "school",
+        "departments"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%AE%B6%E5%BA%AD%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%AD%A6%E7%A7%91%E8%A8%AD%E7%BD%AE%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 56095,
+      "files": {
+        "csv": {
+          "name": "ja-katei-koko_JA.csv",
+          "size": 26439
+        },
+        "xlsx": {
+          "name": "ja-katei-koko_JA.xlsx",
+          "size": 16646
         }
       }
     },
