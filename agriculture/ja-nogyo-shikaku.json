@@ -1,0 +1,236 @@
+{
+  "id": "ja-nogyo-shikaku",
+  "name": "日本の農業に関する資格一覧 (Agriculture-related qualifications in Japan)",
+  "title": "日本の農業に関する資格一覧 (Agriculture-related qualifications in Japan)",
+  "description": "農業・林業・水産業に関する日本の国家資格・公的資格・民間資格の一覧（根拠法・認定団体）。",
+  "category": "agriculture",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%BE%B2%E6%A5%AD%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%B3%87%E6%A0%BC%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%BE%B2%E6%A5%AD%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%B3%87%E6%A0%BC%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "law_or_body",
+      "label": "Law Or Body",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "type": "国家資格",
+      "name": "高等学校教員（農業）（農業実習）",
+      "law_or_body": "教育職員免許法"
+    },
+    {
+      "type": "国家資格",
+      "name": "技術士総合技術監理部門技術士農業部門技術士森林部門技術士水産部門",
+      "law_or_body": "技術士法"
+    },
+    {
+      "type": "国家資格",
+      "name": "職業訓練指導員 (農業機械科)農業機械整備技能士",
+      "law_or_body": "職業能力開発促進法"
+    },
+    {
+      "type": "国家資格",
+      "name": "林業架線作業主任者機械集材装置運転者木材加工用機械作業主任者伐木・チェーンソー作業従事者走行集材機械運転者伐木等機械運転者簡易架線集材装置及び架線集材機械運転者",
+      "law_or_body": "労働安全衛生法"
+    },
+    {
+      "type": "国家資格",
+      "name": "土地改良換地士",
+      "law_or_body": "土地改良法"
+    },
+    {
+      "type": "国家資格",
+      "name": "食品衛生監視員食品衛生管理者",
+      "law_or_body": "食品衛生法"
+    },
+    {
+      "type": "国家資格",
+      "name": "普及指導員",
+      "law_or_body": "農業改良助長法"
+    },
+    {
+      "type": "国家資格",
+      "name": "林業普及指導員（林業一般区分の資格者）森林総合監理士（林業普及指導員のうち「地域森林総合監理区分」の資格者）",
+      "law_or_body": "森林法"
+    },
+    {
+      "type": "国家資格",
+      "name": "水産業普及指導員",
+      "law_or_body": "水産業改良普及事業推進要綱"
+    },
+    {
+      "type": "国家資格",
+      "name": "農業協同組合監査士",
+      "law_or_body": "農業協同組合法"
+    },
+    {
+      "type": "国家資格",
+      "name": "森林組合監査士",
+      "law_or_body": "森林組合法"
+    },
+    {
+      "type": "国家資格",
+      "name": "水産業協同組合監査士",
+      "law_or_body": "水産業協同組合法"
+    },
+    {
+      "type": "公的資格",
+      "name": "農業機械士",
+      "law_or_body": "都道府県知事"
+    },
+    {
+      "type": "公的資格",
+      "name": "農薬管理指導士",
+      "law_or_body": "都道府県知事"
+    },
+    {
+      "type": "民間資格",
+      "name": "日本農業検定",
+      "law_or_body": "全国農協観光協会"
+    },
+    {
+      "type": "民間資格",
+      "name": "日本農業技術検定",
+      "law_or_body": "全国農業会議所"
+    },
+    {
+      "type": "民間資格",
+      "name": "農業簿記検定",
+      "law_or_body": "日本ビジネス技能検定協会"
+    },
+    {
+      "type": "民間資格",
+      "name": "美味安全野菜栽培士",
+      "law_or_body": "日本園芸協会"
+    },
+    {
+      "type": "民間資格",
+      "name": "野菜ソムリエ",
+      "law_or_body": "日本野菜ソムリエ協会"
+    },
+    {
+      "type": "民間資格",
+      "name": "水田環境鑑定士",
+      "law_or_body": "米・食味鑑定士協会"
+    },
+    {
+      "type": "民間資格",
+      "name": "バイオ技術者認定試験",
+      "law_or_body": "日本バイオ技術教育学会"
+    },
+    {
+      "type": "民間資格",
+      "name": "シビルコンサルティングマネージャ",
+      "law_or_body": "建設コンサルタンツ協会"
+    },
+    {
+      "type": "民間資格",
+      "name": "農業土木技術管理士",
+      "law_or_body": "土地改良測量設計技術協会"
+    },
+    {
+      "type": "民間資格",
+      "name": "土地改良補償業務管理者",
+      "law_or_body": "土地改良測量設計技術協会"
+    },
+    {
+      "type": "民間資格",
+      "name": "土地改良専門技術者",
+      "law_or_body": "全国土地改良事業団体連合会"
+    },
+    {
+      "type": "民間資格",
+      "name": "畑地かんがい技士",
+      "law_or_body": "畑地農業振興会"
+    },
+    {
+      "type": "民間資格",
+      "name": "農業集落排水計画設計士",
+      "law_or_body": "地域環境資源センター"
+    },
+    {
+      "type": "民間資格",
+      "name": "農業水利施設機能総合診断士",
+      "law_or_body": "農業土木事業協会"
+    },
+    {
+      "type": "民間資格",
+      "name": "農業水利施設補修工事品質管理士",
+      "law_or_body": "農業土木事業協会"
+    },
+    {
+      "type": "民間資格",
+      "name": "林業技士",
+      "law_or_body": "日本森林技術協会"
+    },
+    {
+      "type": "民間資格",
+      "name": "樹木医、樹木医補",
+      "law_or_body": "日本緑化センター"
+    },
+    {
+      "type": "民間資格",
+      "name": "森林管理士",
+      "law_or_body": "日本樹木育成研究会"
+    },
+    {
+      "type": "民間資格",
+      "name": "森林情報士",
+      "law_or_body": "日本森林技術協会"
+    },
+    {
+      "type": "民間資格",
+      "name": "森林セラピスト",
+      "law_or_body": "森林セラピーソサエティ"
+    },
+    {
+      "type": "民間資格",
+      "name": "森林セラピーガイド",
+      "law_or_body": "森林セラピーソサエティ"
+    },
+    {
+      "type": "民間資格",
+      "name": "木材接着士",
+      "law_or_body": "日本木材加工技術協会"
+    },
+    {
+      "type": "民間資格",
+      "name": "木材乾燥士",
+      "law_or_body": "日本木材加工技術協会"
+    },
+    {
+      "type": "民間資格",
+      "name": "木材切削士",
+      "law_or_body": "日本木材加工技術協会"
+    },
+    {
+      "type": "民間資格",
+      "name": "水産工学技士",
+      "law_or_body": "水産土木建設技術センター"
+    }
+  ],
+  "meta": {
+    "title": "日本の農業に関する資格一覧 (Agriculture-related qualifications in Japan) - Free Download",
+    "description": "農業・林業・水産業に関する日本の国家資格・公的資格・民間資格の一覧（根拠法・認定団体）。 Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の農業に関する資格一覧 (Agriculture-related qualifications in Japan) | ListBase",
+    "seo_description": "Download 日本の農業に関する資格一覧 (Agriculture-related qualifications in Japan) — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%BE%B2%E6%A5%AD%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%B3%87%E6%A0%BC%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}

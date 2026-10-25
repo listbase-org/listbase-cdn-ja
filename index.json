@@ -1,12 +1,12 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:12:07.459Z",
-  "total_datasets": 486,
-  "total_records": 444493,
+  "generated": "2026-10-25T02:12:14.548Z",
+  "total_datasets": 487,
+  "total_records": 444532,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "culture",
@@ -256,6 +256,30 @@
         "xlsx": {
           "name": "ja-nogyo-kyodo-kumiai_JA.xlsx",
           "size": 27020
+        }
+      }
+    },
+    {
+      "id": "ja-nogyo-shikaku",
+      "name": "日本の農業に関する資格一覧 (Agriculture-related qualifications in Japan)",
+      "category": "agriculture",
+      "record_count": 39,
+      "columns": [
+        "type",
+        "name",
+        "law_or_body"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%BE%B2%E6%A5%AD%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%B3%87%E6%A0%BC%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 7779,
+      "files": {
+        "csv": {
+          "name": "ja-nogyo-shikaku_JA.csv",
+          "size": 3285
+        },
+        "xlsx": {
+          "name": "ja-nogyo-shikaku_JA.xlsx",
+          "size": 8431
         }
       }
     },
