@@ -1,12 +1,12 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:11:59.254Z",
-  "total_datasets": 484,
-  "total_records": 442568,
+  "generated": "2026-10-25T02:12:03.404Z",
+  "total_datasets": 485,
+  "total_records": 443236,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "culture",
@@ -205,6 +205,32 @@
         "xlsx": {
           "name": "ja-ine-hinshu-norin_JA.xlsx",
           "size": 42379
+        }
+      }
+    },
+    {
+      "id": "ja-nogyo-kyodo-kumiai",
+      "name": "日本の農業協同組合（JA）一覧 (Agricultural cooperatives of Japan)",
+      "category": "agriculture",
+      "record_count": 668,
+      "columns": [
+        "region",
+        "area",
+        "name",
+        "service_area",
+        "type"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%BE%B2%E6%A5%AD%E5%8D%94%E5%90%8C%E7%B5%84%E5%90%88%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 127081,
+      "files": {
+        "csv": {
+          "name": "ja-nogyo-kyodo-kumiai_JA.csv",
+          "size": 60202
+        },
+        "xlsx": {
+          "name": "ja-nogyo-kyodo-kumiai_JA.xlsx",
+          "size": 27020
         }
       }
     },
