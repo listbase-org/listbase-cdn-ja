@@ -1,0 +1,541 @@
+{
+  "id": "ja-sakura-meisho-100sen",
+  "name": "日本さくら名所100選 (Japan's Top 100 Cherry Blossom Spots)",
+  "title": "日本さくら名所100選 (Japan's Top 100 Cherry Blossom Spots)",
+  "description": "公益財団法人日本さくらの会が選定した「日本さくら名所100選」の一覧（地方・名所名・所在地）。花見スポット選びの参考に。",
+  "category": "tourism",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8",
+  "updated": "2026-10",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "region": "北海道",
+      "name": "松前公園",
+      "location": "松前町"
+    },
+    {
+      "region": "北海道",
+      "name": "二十間道路桜並木",
+      "location": "新ひだか町"
+    },
+    {
+      "region": "東北地方",
+      "name": "弘前公園",
+      "location": "青森県弘前市"
+    },
+    {
+      "region": "東北地方",
+      "name": "芦野池沼群県立自然公園藤枝ため池",
+      "location": "青森県五所川原市"
+    },
+    {
+      "region": "東北地方",
+      "name": "高松公園",
+      "location": "岩手県盛岡市"
+    },
+    {
+      "region": "東北地方",
+      "name": "北上市立公園展勝地",
+      "location": "岩手県北上市"
+    },
+    {
+      "region": "東北地方",
+      "name": "船岡城址公園・白石川堤",
+      "location": "宮城県大河原町・柴田町"
+    },
+    {
+      "region": "東北地方",
+      "name": "千秋公園",
+      "location": "秋田県秋田市"
+    },
+    {
+      "region": "東北地方",
+      "name": "真人公園",
+      "location": "秋田県横手市"
+    },
+    {
+      "region": "東北地方",
+      "name": "桧木内川堤・角館武家屋敷",
+      "location": "秋田県仙北市"
+    },
+    {
+      "region": "東北地方",
+      "name": "鶴岡公園",
+      "location": "山形県鶴岡市"
+    },
+    {
+      "region": "東北地方",
+      "name": "烏帽子山公園",
+      "location": "山形県南陽市"
+    },
+    {
+      "region": "東北地方",
+      "name": "鶴ヶ城公園",
+      "location": "福島県会津若松市"
+    },
+    {
+      "region": "東北地方",
+      "name": "霞ヶ城公園",
+      "location": "福島県二本松市"
+    },
+    {
+      "region": "東北地方",
+      "name": "三春町のシダレザクラ",
+      "location": "福島県三春町"
+    },
+    {
+      "region": "関東地方",
+      "name": "日立市かみね公園・平和通り",
+      "location": "茨城県日立市"
+    },
+    {
+      "region": "関東地方",
+      "name": "静峰公園",
+      "location": "茨城県那珂市"
+    },
+    {
+      "region": "関東地方",
+      "name": "日光街道桜並木",
+      "location": "栃木県宇都宮市"
+    },
+    {
+      "region": "関東地方",
+      "name": "太平山県立自然公園",
+      "location": "栃木県栃木市"
+    },
+    {
+      "region": "関東地方",
+      "name": "赤城南面千本桜",
+      "location": "群馬県前橋市"
+    },
+    {
+      "region": "関東地方",
+      "name": "桜山公園",
+      "location": "群馬県藤岡市"
+    },
+    {
+      "region": "関東地方",
+      "name": "大宮公園",
+      "location": "埼玉県さいたま市"
+    },
+    {
+      "region": "関東地方",
+      "name": "熊谷桜堤",
+      "location": "埼玉県熊谷市"
+    },
+    {
+      "region": "関東地方",
+      "name": "長瀞",
+      "location": "埼玉県長瀞町"
+    },
+    {
+      "region": "関東地方",
+      "name": "泉自然公園",
+      "location": "千葉県千葉市"
+    },
+    {
+      "region": "関東地方",
+      "name": "清水公園",
+      "location": "千葉県野田市"
+    },
+    {
+      "region": "関東地方",
+      "name": "茂原公園",
+      "location": "千葉県茂原市"
+    },
+    {
+      "region": "関東地方",
+      "name": "新宿御苑",
+      "location": "東京都新宿区"
+    },
+    {
+      "region": "関東地方",
+      "name": "上野恩賜公園",
+      "location": "東京都台東区"
+    },
+    {
+      "region": "関東地方",
+      "name": "隅田公園",
+      "location": "東京都墨田区"
+    },
+    {
+      "region": "関東地方",
+      "name": "井の頭恩賜公園",
+      "location": "東京都武蔵野市"
+    },
+    {
+      "region": "関東地方",
+      "name": "小金井公園",
+      "location": "東京都小金井市"
+    },
+    {
+      "region": "関東地方",
+      "name": "神奈川県立三ツ池公園",
+      "location": "神奈川県横浜市"
+    },
+    {
+      "region": "関東地方",
+      "name": "衣笠山公園",
+      "location": "神奈川県横須賀市"
+    },
+    {
+      "region": "関東地方",
+      "name": "小田原城址公園・城山公園",
+      "location": "神奈川県小田原市"
+    },
+    {
+      "region": "中部地方",
+      "name": "大河津分水路",
+      "location": "新潟県燕市"
+    },
+    {
+      "region": "中部地方",
+      "name": "村松公園",
+      "location": "新潟県五泉市"
+    },
+    {
+      "region": "中部地方",
+      "name": "高田城址公園",
+      "location": "新潟県上越市"
+    },
+    {
+      "region": "中部地方",
+      "name": "松川公園",
+      "location": "富山県富山市"
+    },
+    {
+      "region": "中部地方",
+      "name": "高岡古城公園",
+      "location": "富山県高岡市"
+    },
+    {
+      "region": "中部地方",
+      "name": "兼六園",
+      "location": "石川県金沢市"
+    },
+    {
+      "region": "中部地方",
+      "name": "足羽川・足羽山公園",
+      "location": "福井県福井市"
+    },
+    {
+      "region": "中部地方",
+      "name": "霞ヶ城公園",
+      "location": "坂井）（福井県坂井市"
+    },
+    {
+      "region": "中部地方",
+      "name": "大法師公園",
+      "location": "山梨県富士川町"
+    },
+    {
+      "region": "中部地方",
+      "name": "臥竜公園",
+      "location": "長野県須坂市"
+    },
+    {
+      "region": "中部地方",
+      "name": "小諸城趾懐古園",
+      "location": "長野県小諸市"
+    },
+    {
+      "region": "中部地方",
+      "name": "高遠城址公園",
+      "location": "長野県伊那市"
+    },
+    {
+      "region": "中部地方",
+      "name": "新境川堤・百十郎桜",
+      "location": "岐阜県各務原市"
+    },
+    {
+      "region": "中部地方",
+      "name": "根尾谷・淡墨公園",
+      "location": "岐阜県本巣市"
+    },
+    {
+      "region": "中部地方",
+      "name": "霞間ヶ渓",
+      "location": "岐阜県池田町"
+    },
+    {
+      "region": "中部地方",
+      "name": "さくらの里",
+      "location": "静岡県伊東市"
+    },
+    {
+      "region": "中部地方",
+      "name": "冨士霊園",
+      "location": "静岡県小山町"
+    },
+    {
+      "region": "中部地方",
+      "name": "山崎川四季の道",
+      "location": "愛知県名古屋市"
+    },
+    {
+      "region": "中部地方",
+      "name": "鶴舞公園",
+      "location": "愛知県名古屋市"
+    },
+    {
+      "region": "中部地方",
+      "name": "岡崎公園",
+      "location": "愛知県岡崎市"
+    },
+    {
+      "region": "中部地方",
+      "name": "五条川",
+      "location": "愛知県岩倉市・江南市・大口町"
+    },
+    {
+      "region": "近畿地方",
+      "name": "三多気",
+      "location": "三重県津市"
+    },
+    {
+      "region": "近畿地方",
+      "name": "宮川堤",
+      "location": "三重県伊勢市"
+    },
+    {
+      "region": "近畿地方",
+      "name": "豊公園",
+      "location": "滋賀県長浜市"
+    },
+    {
+      "region": "近畿地方",
+      "name": "海津大崎",
+      "location": "滋賀県高島市"
+    },
+    {
+      "region": "近畿地方",
+      "name": "嵐山",
+      "location": "京都府京都市"
+    },
+    {
+      "region": "近畿地方",
+      "name": "御室桜",
+      "location": "京都府京都市"
+    },
+    {
+      "region": "近畿地方",
+      "name": "醍醐寺",
+      "location": "京都府京都市"
+    },
+    {
+      "region": "近畿地方",
+      "name": "笠置山自然公園",
+      "location": "京都府笠置町"
+    },
+    {
+      "region": "近畿地方",
+      "name": "造幣局の通り抜け",
+      "location": "大阪府大阪市"
+    },
+    {
+      "region": "近畿地方",
+      "name": "大阪城公園",
+      "location": "大阪府大阪市"
+    },
+    {
+      "region": "近畿地方",
+      "name": "万博記念公園",
+      "location": "大阪府吹田市"
+    },
+    {
+      "region": "近畿地方",
+      "name": "姫路城",
+      "location": "兵庫県姫路市"
+    },
+    {
+      "region": "近畿地方",
+      "name": "明石公園",
+      "location": "兵庫県明石市"
+    },
+    {
+      "region": "近畿地方",
+      "name": "夙川河川敷緑地",
+      "location": "兵庫県西宮市"
+    },
+    {
+      "region": "近畿地方",
+      "name": "奈良公園",
+      "location": "奈良県奈良市"
+    },
+    {
+      "region": "近畿地方",
+      "name": "郡山城址公園",
+      "location": "奈良県大和郡山市"
+    },
+    {
+      "region": "近畿地方",
+      "name": "吉野山",
+      "location": "奈良県吉野町"
+    },
+    {
+      "region": "近畿地方",
+      "name": "紀三井寺",
+      "location": "和歌山県和歌山市"
+    },
+    {
+      "region": "近畿地方",
+      "name": "根来寺",
+      "location": "和歌山県岩出市"
+    },
+    {
+      "region": "近畿地方",
+      "name": "七川ダム湖畔",
+      "location": "和歌山県古座川町"
+    },
+    {
+      "region": "中国四国地方",
+      "name": "久松公園",
+      "location": "鳥取県鳥取市"
+    },
+    {
+      "region": "中国四国地方",
+      "name": "打吹公園",
+      "location": "鳥取県倉吉市"
+    },
+    {
+      "region": "中国四国地方",
+      "name": "松江城山公園",
+      "location": "島根県松江市"
+    },
+    {
+      "region": "中国四国地方",
+      "name": "斐伊川堤防桜並木",
+      "location": "島根県雲南市"
+    },
+    {
+      "region": "中国四国地方",
+      "name": "鶴山公園",
+      "location": "岡山県津山市"
+    },
+    {
+      "region": "中国四国地方",
+      "name": "千光寺公園",
+      "location": "広島県尾道市"
+    },
+    {
+      "region": "中国四国地方",
+      "name": "上野公園",
+      "location": "広島県庄原市"
+    },
+    {
+      "region": "中国四国地方",
+      "name": "常盤公園",
+      "location": "山口県宇部市"
+    },
+    {
+      "region": "中国四国地方",
+      "name": "吉香公園・錦帯橋",
+      "location": "山口県岩国市"
+    },
+    {
+      "region": "中国四国地方",
+      "name": "西部公園",
+      "location": "徳島県徳島市"
+    },
+    {
+      "region": "中国四国地方",
+      "name": "琴弾公園",
+      "location": "香川県観音寺市"
+    },
+    {
+      "region": "中国四国地方",
+      "name": "城山公園",
+      "location": "愛媛県松山市"
+    },
+    {
+      "region": "中国四国地方",
+      "name": "鏡野公園",
+      "location": "高知県香美市"
+    },
+    {
+      "region": "中国四国地方",
+      "name": "牧野公園",
+      "location": "高知県佐川町"
+    },
+    {
+      "region": "九州沖縄地方",
+      "name": "西公園",
+      "location": "福岡県福岡市"
+    },
+    {
+      "region": "九州沖縄地方",
+      "name": "小城公園",
+      "location": "佐賀県小城市"
+    },
+    {
+      "region": "九州沖縄地方",
+      "name": "大村公園",
+      "location": "長崎県大村市"
+    },
+    {
+      "region": "九州沖縄地方",
+      "name": "熊本城",
+      "location": "熊本県熊本市"
+    },
+    {
+      "region": "九州沖縄地方",
+      "name": "水俣市チェリーライン",
+      "location": "熊本県水俣市"
+    },
+    {
+      "region": "九州沖縄地方",
+      "name": "市房ダム湖畔",
+      "location": "熊本県水上村"
+    },
+    {
+      "region": "九州沖縄地方",
+      "name": "岡城公園",
+      "location": "大分県竹田市"
+    },
+    {
+      "region": "九州沖縄地方",
+      "name": "母智丘・関之尾県立自然公園",
+      "location": "宮崎県都城市"
+    },
+    {
+      "region": "九州沖縄地方",
+      "name": "忠元公園",
+      "location": "鹿児島県伊佐市"
+    },
+    {
+      "region": "九州沖縄地方",
+      "name": "名護城公園",
+      "location": "沖縄県名護市"
+    }
+  ],
+  "meta": {
+    "title": "日本さくら名所100選 (Japan's Top 100 Cherry Blossom Spots) - Free Download",
+    "description": "公益財団法人日本さくらの会が選定した「日本さくら名所100選」の一覧（地方・名所名・所在地）。花見スポット選びの参考に。 Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本さくら名所100選 (Japan's Top 100 Cherry Blossom Spots) | ListBase",
+    "seo_description": "Download 日本さくら名所100選 (Japan's Top 100 Cherry Blossom Spots) — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8"
+    ]
+  }
+}

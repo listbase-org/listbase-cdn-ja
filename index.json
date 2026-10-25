@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:11:43.222Z",
-  "total_datasets": 480,
-  "total_records": 440869,
+  "generated": "2026-10-25T02:11:47.281Z",
+  "total_datasets": 481,
+  "total_records": 440969,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "transport",
@@ -13667,6 +13667,30 @@
         "xlsx": {
           "name": "ja-onsenchi-ichiran_JA.xlsx",
           "size": 42860
+        }
+      }
+    },
+    {
+      "id": "ja-sakura-meisho-100sen",
+      "name": "日本さくら名所100選 (Japan's Top 100 Cherry Blossom Spots)",
+      "category": "tourism",
+      "record_count": 100,
+      "columns": [
+        "region",
+        "name",
+        "location"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8",
+      "updated": "2026-10",
+      "size": 13998,
+      "files": {
+        "csv": {
+          "name": "ja-sakura-meisho-100sen_JA.csv",
+          "size": 5831
+        },
+        "xlsx": {
+          "name": "ja-sakura-meisho-100sen_JA.xlsx",
+          "size": 10066
         }
       }
     },
