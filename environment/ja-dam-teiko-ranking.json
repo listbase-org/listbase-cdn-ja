@@ -1,0 +1,632 @@
+{
+  "id": "ja-dam-teiko-ranking",
+  "name": "日本のダム 堤高ランキング (Tallest dams in Japan)",
+  "title": "日本のダム 堤高ランキング (Tallest dams in Japan)",
+  "description": "日本のダムを堤高（高さ）順に並べたランキング（所在地・水系・河川・型式・管理者・完成年）。",
+  "category": "environment",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%80%E3%83%A0%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%80%E3%83%A0%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "dam",
+      "label": "Dam",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "river_system",
+      "label": "River System",
+      "type": "string"
+    },
+    {
+      "key": "river",
+      "label": "River",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "height_m",
+      "label": "Height M",
+      "type": "number"
+    },
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "completed",
+      "label": "Completed",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "dam": "黒部ダム",
+      "prefecture": "富山県",
+      "river_system": "黒部川",
+      "river": "黒部川",
+      "type": "アーチ",
+      "height_m": 186,
+      "operator": "関西電力",
+      "completed": 1961
+    },
+    {
+      "rank": 2,
+      "dam": "高瀬ダム 【再編事業中】",
+      "prefecture": "長野県",
+      "river_system": "信濃川",
+      "river": "高瀬川",
+      "type": "ロックフィル",
+      "height_m": 176,
+      "operator": "国土交通省 東京電力RP",
+      "completed": 1979
+    },
+    {
+      "rank": 3,
+      "dam": "徳山ダム",
+      "prefecture": "岐阜県",
+      "river_system": "木曽川",
+      "river": "揖斐川",
+      "type": "ロックフィル",
+      "height_m": 161,
+      "operator": "水資源機構",
+      "completed": 2008
+    },
+    {
+      "rank": 4,
+      "dam": "奈良俣ダム",
+      "prefecture": "群馬県",
+      "river_system": "利根川",
+      "river": "楢俣川",
+      "type": "ロックフィル",
+      "height_m": 158,
+      "operator": "水資源機構",
+      "completed": 1991
+    },
+    {
+      "rank": 5,
+      "dam": "奥只見ダム",
+      "prefecture": "福島県 新潟県",
+      "river_system": "阿賀野川",
+      "river": "只見川",
+      "type": "重力",
+      "height_m": 157,
+      "operator": "電源開発",
+      "completed": 1960
+    },
+    {
+      "rank": 6,
+      "dam": "浦山ダム",
+      "prefecture": "埼玉県",
+      "river_system": "荒川",
+      "river": "浦山川",
+      "type": "重力",
+      "height_m": 156,
+      "operator": "水資源機構",
+      "completed": 1998
+    },
+    {
+      "rank": 6,
+      "dam": "宮ヶ瀬ダム",
+      "prefecture": "神奈川県",
+      "river_system": "相模川",
+      "river": "中津川",
+      "type": "重力",
+      "height_m": 156,
+      "operator": "国土交通省",
+      "completed": 2000
+    },
+    {
+      "rank": 6,
+      "dam": "温井ダム",
+      "prefecture": "広島県",
+      "river_system": "太田川",
+      "river": "滝山川",
+      "type": "アーチ",
+      "height_m": 156,
+      "operator": "国土交通省",
+      "completed": 2001
+    },
+    {
+      "rank": 9,
+      "dam": "佐久間ダム 【再生事業中】",
+      "prefecture": "静岡県 愛知県",
+      "river_system": "天竜川",
+      "river": "天竜川",
+      "type": "重力",
+      "height_m": 155.5,
+      "operator": "国土交通省 電源開発",
+      "completed": 1956
+    },
+    {
+      "rank": 10,
+      "dam": "奈川渡ダム",
+      "prefecture": "長野県",
+      "river_system": "信濃川",
+      "river": "犀川",
+      "type": "アーチ",
+      "height_m": 155,
+      "operator": "東京電力RP",
+      "completed": 1969
+    },
+    {
+      "rank": 11,
+      "dam": "手取川ダム",
+      "prefecture": "石川県",
+      "river_system": "手取川",
+      "river": "手取川",
+      "type": "ロックフィル",
+      "height_m": 153,
+      "operator": "国土交通省 電源開発 石川県",
+      "completed": 1979
+    },
+    {
+      "rank": 12,
+      "dam": "小河内ダム",
+      "prefecture": "東京都",
+      "river_system": "多摩川",
+      "river": "多摩川",
+      "type": "重力",
+      "height_m": 149,
+      "operator": "東京都水道局",
+      "completed": 1957
+    },
+    {
+      "rank": 13,
+      "dam": "田子倉ダム",
+      "prefecture": "福島県",
+      "river_system": "阿賀野川",
+      "river": "只見川",
+      "type": "重力",
+      "height_m": 145,
+      "operator": "電源開発",
+      "completed": 1959
+    },
+    {
+      "rank": 14,
+      "dam": "川治ダム",
+      "prefecture": "栃木県",
+      "river_system": "利根川",
+      "river": "鬼怒川",
+      "type": "アーチ",
+      "height_m": 140,
+      "operator": "国土交通省",
+      "completed": 1983
+    },
+    {
+      "rank": 14,
+      "dam": "草木ダム",
+      "prefecture": "群馬県",
+      "river_system": "利根川",
+      "river": "渡良瀬川",
+      "type": "重力",
+      "height_m": 140,
+      "operator": "水資源機構",
+      "completed": 1976
+    },
+    {
+      "rank": 14,
+      "dam": "有峰ダム",
+      "prefecture": "富山県",
+      "river_system": "常願寺川",
+      "river": "和田川",
+      "type": "重力",
+      "height_m": 140,
+      "operator": "北陸電力",
+      "completed": 1959
+    },
+    {
+      "rank": 14,
+      "dam": "味噌川ダム",
+      "prefecture": "長野県",
+      "river_system": "木曽川",
+      "river": "木曽川",
+      "type": "ロックフィル",
+      "height_m": 140,
+      "operator": "水資源機構",
+      "completed": 1996
+    },
+    {
+      "rank": 18,
+      "dam": "小石原川ダム",
+      "prefecture": "福岡県",
+      "river_system": "筑後川",
+      "river": "小石原川",
+      "type": "ロックフィル",
+      "height_m": 139,
+      "operator": "水資源機構",
+      "completed": 2020
+    },
+    {
+      "rank": 19,
+      "dam": "南相木ダム",
+      "prefecture": "長野県",
+      "river_system": "信濃川",
+      "river": "南相木川",
+      "type": "ロックフィル",
+      "height_m": 136,
+      "operator": "東京電力RP",
+      "completed": 2005
+    },
+    {
+      "rank": 20,
+      "dam": "高根第一ダム",
+      "prefecture": "岐阜県",
+      "river_system": "木曽川",
+      "river": "飛騨川",
+      "type": "アーチ",
+      "height_m": 133,
+      "operator": "中部電力",
+      "completed": 1969
+    },
+    {
+      "rank": 21,
+      "dam": "胆沢ダム",
+      "prefecture": "岩手県",
+      "river_system": "北上川",
+      "river": "胆沢川",
+      "type": "ロックフィル",
+      "height_m": 132,
+      "operator": "国土交通省",
+      "completed": 2013
+    },
+    {
+      "rank": 21,
+      "dam": "滝沢ダム",
+      "prefecture": "埼玉県",
+      "river_system": "荒川",
+      "river": "中津川",
+      "type": "重力",
+      "height_m": 132,
+      "operator": "水資源機構",
+      "completed": 2008
+    },
+    {
+      "rank": 23,
+      "dam": "矢木沢ダム",
+      "prefecture": "群馬県",
+      "river_system": "利根川",
+      "river": "利根川",
+      "type": "アーチ",
+      "height_m": 131,
+      "operator": "水資源機構",
+      "completed": 1967
+    },
+    {
+      "rank": 23,
+      "dam": "御母衣ダム",
+      "prefecture": "岐阜県",
+      "river_system": "庄川",
+      "river": "庄川",
+      "type": "ロックフィル",
+      "height_m": 131,
+      "operator": "電源開発",
+      "completed": 1961
+    },
+    {
+      "rank": 25,
+      "dam": "一ツ瀬ダム",
+      "prefecture": "宮崎県",
+      "river_system": "一ツ瀬川",
+      "river": "一ツ瀬川",
+      "type": "アーチ",
+      "height_m": 130,
+      "operator": "九州電力",
+      "completed": 1963
+    },
+    {
+      "rank": 26,
+      "dam": "下久保ダム",
+      "prefecture": "群馬県",
+      "river_system": "利根川",
+      "river": "神流川",
+      "type": "重力",
+      "height_m": 129,
+      "operator": "水資源機構",
+      "completed": 1968
+    },
+    {
+      "rank": 26,
+      "dam": "設楽ダム",
+      "prefecture": "愛知県",
+      "river_system": "豊川",
+      "river": "豊川",
+      "type": "重力",
+      "height_m": 129,
+      "operator": "国土交通省",
+      "completed": 2034
+    },
+    {
+      "rank": 28,
+      "dam": "九頭竜ダム",
+      "prefecture": "福井県",
+      "river_system": "九頭竜川",
+      "river": "九頭竜川",
+      "type": "ロックフィル",
+      "height_m": 128,
+      "operator": "国土交通省 電源開発",
+      "completed": 1968
+    },
+    {
+      "rank": 29,
+      "dam": "真名川ダム",
+      "prefecture": "福井県",
+      "river_system": "九頭竜川",
+      "river": "真名川",
+      "type": "アーチ",
+      "height_m": 127.5,
+      "operator": "国土交通省",
+      "completed": 1977
+    },
+    {
+      "rank": 29,
+      "dam": "岩屋ダム",
+      "prefecture": "岐阜県",
+      "river_system": "木曽川",
+      "river": "馬瀬川",
+      "type": "ロックフィル",
+      "height_m": 127.5,
+      "operator": "水資源機構",
+      "completed": 1976
+    },
+    {
+      "rank": 31,
+      "dam": "長井ダム",
+      "prefecture": "山形県",
+      "river_system": "最上川",
+      "river": "置賜野川",
+      "type": "重力",
+      "height_m": 125.5,
+      "operator": "国土交通省",
+      "completed": 2011
+    },
+    {
+      "rank": 32,
+      "dam": "七倉ダム 【再編事業中】",
+      "prefecture": "長野県",
+      "river_system": "信濃川",
+      "river": "高瀬川",
+      "type": "ロックフィル",
+      "height_m": 125,
+      "operator": "国土交通省 東京電力RP",
+      "completed": 1978
+    },
+    {
+      "rank": 32,
+      "dam": "畑薙第一ダム",
+      "prefecture": "静岡県",
+      "river_system": "大井川",
+      "river": "大井川",
+      "type": "中空重力",
+      "height_m": 125,
+      "operator": "中部電力",
+      "completed": 1962
+    },
+    {
+      "rank": 34,
+      "dam": "月山ダム",
+      "prefecture": "山形県",
+      "river_system": "赤川",
+      "river": "梵字川",
+      "type": "重力",
+      "height_m": 123,
+      "operator": "国土交通省",
+      "completed": 2001
+    },
+    {
+      "rank": 35,
+      "dam": "高見ダム",
+      "prefecture": "北海道",
+      "river_system": "静内川",
+      "river": "静内川",
+      "type": "ロックフィル",
+      "height_m": 120,
+      "operator": "北海道",
+      "completed": 1983
+    },
+    {
+      "rank": 35,
+      "dam": "上野ダム",
+      "prefecture": "群馬県",
+      "river_system": "利根川",
+      "river": "神流川",
+      "type": "重力",
+      "height_m": 120,
+      "operator": "東京電力RP",
+      "completed": 2005
+    },
+    {
+      "rank": 35,
+      "dam": "弥栄ダム",
+      "prefecture": "広島県 山口県",
+      "river_system": "小瀬川",
+      "river": "小瀬川",
+      "type": "重力",
+      "height_m": 120,
+      "operator": "国土交通省",
+      "completed": 1990
+    },
+    {
+      "rank": 38,
+      "dam": "三国川ダム",
+      "prefecture": "新潟県",
+      "river_system": "信濃川",
+      "river": "三国川",
+      "type": "ロックフィル",
+      "height_m": 119.5,
+      "operator": "国土交通省",
+      "completed": 1993
+    },
+    {
+      "rank": 39,
+      "dam": "湯西川ダム",
+      "prefecture": "栃木県",
+      "river_system": "利根川",
+      "river": "湯西川",
+      "type": "重力",
+      "height_m": 119,
+      "operator": "国土交通省",
+      "completed": 2012
+    },
+    {
+      "rank": 40,
+      "dam": "下小鳥ダム",
+      "prefecture": "岐阜県",
+      "river_system": "神通川",
+      "river": "小鳥川",
+      "type": "ロックフィル",
+      "height_m": 119,
+      "operator": "関西電力",
+      "completed": 1973
+    },
+    {
+      "rank": 41,
+      "dam": "新丸山ダム",
+      "prefecture": "岐阜県",
+      "river_system": "木曽川",
+      "river": "木曽川",
+      "type": "重力",
+      "height_m": 118.4,
+      "operator": "国土交通省",
+      "completed": 2029
+    },
+    {
+      "rank": 42,
+      "dam": "定山渓ダム",
+      "prefecture": "北海道",
+      "river_system": "石狩川",
+      "river": "小樽内川",
+      "type": "重力",
+      "height_m": 117.5,
+      "operator": "国土交通省",
+      "completed": 1989
+    },
+    {
+      "rank": 42,
+      "dam": "鶴田ダム",
+      "prefecture": "鹿児島県",
+      "river_system": "川内川",
+      "river": "川内川",
+      "type": "重力",
+      "height_m": 117.5,
+      "operator": "国土交通省",
+      "completed": 1963
+    },
+    {
+      "rank": 44,
+      "dam": "川俣ダム",
+      "prefecture": "栃木県",
+      "river_system": "利根川",
+      "river": "鬼怒川",
+      "type": "アーチ",
+      "height_m": 117,
+      "operator": "国土交通省",
+      "completed": 1966
+    },
+    {
+      "rank": 44,
+      "dam": "厳木ダム",
+      "prefecture": "佐賀県",
+      "river_system": "松浦川",
+      "river": "厳木川",
+      "type": "重力",
+      "height_m": 117,
+      "operator": "国土交通省",
+      "completed": 1986
+    },
+    {
+      "rank": 46,
+      "dam": "新豊根ダム",
+      "prefecture": "愛知県",
+      "river_system": "天竜川",
+      "river": "大入川",
+      "type": "アーチ",
+      "height_m": 116.5,
+      "operator": "国土交通省 電源開発",
+      "completed": 1972
+    },
+    {
+      "rank": 47,
+      "dam": "玉原ダム",
+      "prefecture": "群馬県",
+      "river_system": "利根川",
+      "river": "発知川",
+      "type": "ロックフィル",
+      "height_m": 116,
+      "operator": "東京電力RP",
+      "completed": 1981
+    },
+    {
+      "rank": 47,
+      "dam": "八ッ場ダム",
+      "prefecture": "群馬県",
+      "river_system": "利根川",
+      "river": "吾妻川",
+      "type": "重力",
+      "height_m": 116,
+      "operator": "国土交通省",
+      "completed": 2020
+    },
+    {
+      "rank": 47,
+      "dam": "奥三面ダム",
+      "prefecture": "新潟県",
+      "river_system": "三面川",
+      "river": "三面川",
+      "type": "アーチ",
+      "height_m": 116,
+      "operator": "新潟県",
+      "completed": 2001
+    },
+    {
+      "rank": 50,
+      "dam": "境川ダム",
+      "prefecture": "富山県",
+      "river_system": "庄川",
+      "river": "境川",
+      "type": "重力",
+      "height_m": 115,
+      "operator": "富山県",
+      "completed": 1993
+    },
+    {
+      "rank": 50,
+      "dam": "魚梁瀬ダム",
+      "prefecture": "高知県",
+      "river_system": "奈半利川",
+      "river": "奈半利川",
+      "type": "ロックフィル",
+      "height_m": 115,
+      "operator": "電源開発",
+      "completed": 1970
+    }
+  ],
+  "meta": {
+    "title": "日本のダム 堤高ランキング (Tallest dams in Japan) - Free Download",
+    "description": "日本のダムを堤高（高さ）順に並べたランキング（所在地・水系・河川・型式・管理者・完成年）。 Contains 51 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本のダム 堤高ランキング (Tallest dams in Japan) | ListBase",
+    "seo_description": "Download 日本のダム 堤高ランキング (Tallest dams in Japan) — 51 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 51 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%80%E3%83%A0%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}

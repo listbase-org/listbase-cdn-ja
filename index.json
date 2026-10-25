@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:11:09.962Z",
-  "total_datasets": 472,
-  "total_records": 438544,
+  "generated": "2026-10-25T02:11:13.948Z",
+  "total_datasets": 473,
+  "total_records": 438595,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "finance",
@@ -654,6 +654,36 @@
         "xlsx": {
           "name": "ja-renzoku-terebi-shosetsu_JA.xlsx",
           "size": 22319
+        }
+      }
+    },
+    {
+      "id": "ja-dam-teiko-ranking",
+      "name": "日本のダム 堤高ランキング (Tallest dams in Japan)",
+      "category": "environment",
+      "record_count": 51,
+      "columns": [
+        "rank",
+        "dam",
+        "prefecture",
+        "river_system",
+        "river",
+        "type",
+        "height_m",
+        "operator",
+        "completed"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%80%E3%83%A0%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 16245,
+      "files": {
+        "csv": {
+          "name": "ja-dam-teiko-ranking_JA.csv",
+          "size": 5493
+        },
+        "xlsx": {
+          "name": "ja-dam-teiko-ranking_JA.xlsx",
+          "size": 10058
         }
       }
     },
