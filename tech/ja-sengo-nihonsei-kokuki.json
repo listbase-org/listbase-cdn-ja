@@ -1,0 +1,808 @@
+{
+  "id": "ja-sengo-nihonsei-kokuki",
+  "name": "戦後の自衛隊向け日本製航空機一覧 (Japanese-built military aircraft since 1945)",
+  "title": "戦後の自衛隊向け日本製航空機一覧 (Japanese-built military aircraft since 1945)",
+  "description": "第二次世界大戦後に日本国内で製造・ライセンス生産された自衛隊向け航空機の一覧（機種別、製造者・生産数・原製造者）。",
+  "category": "tech",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%A3%BD%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%81%AE%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%A3%BD%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%81%AE%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 94,
+  "columns": [
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "manufacturer",
+      "label": "Manufacturer",
+      "type": "string"
+    },
+    {
+      "key": "production",
+      "label": "Production",
+      "type": "number"
+    },
+    {
+      "key": "original_manufacturer",
+      "label": "Original Manufacturer",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "type": "戦闘機",
+      "name": "F-86F戦闘機「旭光」",
+      "manufacturer": "三菱重工業",
+      "production": "300",
+      "original_manufacturer": "ノースアメリカン",
+      "notes": "ライセンス生産"
+    },
+    {
+      "type": "戦闘機",
+      "name": "F-104J戦闘機「栄光」",
+      "manufacturer": "三菱重工業",
+      "production": "207",
+      "original_manufacturer": "ロッキード",
+      "notes": "ライセンス生産 （J:単座、複座のDJは再組み立てのみ）"
+    },
+    {
+      "type": "戦闘機",
+      "name": "F-4EJ/EJ改戦闘機",
+      "manufacturer": "三菱重工業",
+      "production": "138/90",
+      "original_manufacturer": "マクドネル・ダグラス",
+      "notes": "ライセンス生産（EJ改：EJの改造）"
+    },
+    {
+      "type": "戦闘機",
+      "name": "F-15J/DJ戦闘機",
+      "manufacturer": "三菱重工業",
+      "production": "163/36",
+      "original_manufacturer": "マクドネル・ダグラス",
+      "notes": "ライセンス生産 （電子機器は国産、J：単座/DJ：複座）"
+    },
+    {
+      "type": "戦闘機",
+      "name": "F-1支援戦闘機",
+      "manufacturer": "三菱重工業",
+      "production": "77",
+      "original_manufacturer": "",
+      "notes": "T-2ベースの改造開発"
+    },
+    {
+      "type": "戦闘機",
+      "name": "F-2A/B戦闘機",
+      "manufacturer": "三菱重工業",
+      "production": "64/34",
+      "original_manufacturer": "ロッキード・マーティン",
+      "notes": "F-16ベースの共同開発 （A：単座/B：複座、試作機を含む）"
+    },
+    {
+      "type": "戦闘機",
+      "name": "次期戦闘機",
+      "manufacturer": "三菱重工業/BAEシステムズ/レオナルド",
+      "production": "計画中",
+      "original_manufacturer": "",
+      "notes": "国際共同開発を予定"
+    },
+    {
+      "type": "偵察機",
+      "name": "RF-4EJ偵察機",
+      "manufacturer": "三菱重工業",
+      "production": "15",
+      "original_manufacturer": "マクドネル・ダグラス",
+      "notes": "F-4EJからの改造"
+    },
+    {
+      "type": "偵察機",
+      "name": "YS-11EL/EB電子測定機",
+      "manufacturer": "日本飛行機（改造）",
+      "production": "4",
+      "original_manufacturer": "日本航空機製造",
+      "notes": "YS-11C改造、EL→EB"
+    },
+    {
+      "type": "偵察機",
+      "name": "PD4-AW-X",
+      "manufacturer": "プロドローン",
+      "production": "",
+      "original_manufacturer": "",
+      "notes": "基地警備用ドローン 民間機ベース"
+    },
+    {
+      "type": "偵察機",
+      "name": "SOTEN",
+      "manufacturer": "ACSL",
+      "production": "",
+      "original_manufacturer": "",
+      "notes": "小型空撮用ドローン 民間機を採用"
+    },
+    {
+      "type": "輸送機",
+      "name": "YS-11C/P/PC輸送機",
+      "manufacturer": "日本航空機製造",
+      "production": "7/4/1",
+      "original_manufacturer": "",
+      "notes": "C：貨物/P：人員/PC：貨客混載"
+    },
+    {
+      "type": "輸送機",
+      "name": "C-1中型輸送機",
+      "manufacturer": "川崎重工業",
+      "production": "30",
+      "original_manufacturer": "",
+      "notes": "設計・試作は日航製 （数字はC-1FTBを除く）"
+    },
+    {
+      "type": "輸送機",
+      "name": "CH-47J輸送ヘリコプター",
+      "manufacturer": "川崎重工業",
+      "production": "調達中",
+      "original_manufacturer": "ボーイング",
+      "notes": "ライセンス生産"
+    },
+    {
+      "type": "輸送機",
+      "name": "C-2輸送機",
+      "manufacturer": "川崎重工業",
+      "production": "調達中",
+      "original_manufacturer": "",
+      "notes": "純国産"
+    },
+    {
+      "type": "救難機",
+      "name": "H-19救難ヘリコプター「はつかり」",
+      "manufacturer": "三菱重工業",
+      "production": "68※",
+      "original_manufacturer": "シコルスキー",
+      "notes": "ライセンス生産"
+    },
+    {
+      "type": "救難機",
+      "name": "MU-2S救難機",
+      "manufacturer": "三菱重工業",
+      "production": "29",
+      "original_manufacturer": "",
+      "notes": ""
+    },
+    {
+      "type": "救難機",
+      "name": "KV-107II-5/A-5救難ヘリコプター「しらさぎ」",
+      "manufacturer": "川崎重工業",
+      "production": "17/35",
+      "original_manufacturer": "ボーイング・バートル",
+      "notes": "生産販売ライセンス（A-5：エンジン強化）"
+    },
+    {
+      "type": "救難機",
+      "name": "UH-60J救難ヘリコプター",
+      "manufacturer": "三菱重工業",
+      "production": "調達中",
+      "original_manufacturer": "シコルスキー",
+      "notes": "ライセンス生産"
+    },
+    {
+      "type": "練習機",
+      "name": "T-33A中等練習機「若鷹」",
+      "manufacturer": "川崎重工業",
+      "production": "210",
+      "original_manufacturer": "ロッキード",
+      "notes": "ライセンス生産"
+    },
+    {
+      "type": "練習機",
+      "name": "T-34A初等練習機「はつかぜ」",
+      "manufacturer": "富士重工業",
+      "production": "124",
+      "original_manufacturer": "ビーチクラフト",
+      "notes": "ライセンス生産"
+    },
+    {
+      "type": "練習機",
+      "name": "T-1A/B 中等練習機「初鷹」",
+      "manufacturer": "富士重工業",
+      "production": "46/20",
+      "original_manufacturer": "",
+      "notes": "B型は純国産"
+    },
+    {
+      "type": "練習機",
+      "name": "T-2 高等練習機",
+      "manufacturer": "三菱重工業",
+      "production": "96",
+      "original_manufacturer": "",
+      "notes": ""
+    },
+    {
+      "type": "練習機",
+      "name": "T-3 初等練習機",
+      "manufacturer": "富士重工業",
+      "production": "50",
+      "original_manufacturer": "ビーチクラフト",
+      "notes": "KM-2Bベースの改造開発"
+    },
+    {
+      "type": "練習機",
+      "name": "T-4 中等練習機",
+      "manufacturer": "川崎重工業",
+      "production": "212",
+      "original_manufacturer": "",
+      "notes": "純国産"
+    },
+    {
+      "type": "練習機",
+      "name": "T-7 初等練習機",
+      "manufacturer": "富士重工業",
+      "production": "49",
+      "original_manufacturer": "ビーチクラフト",
+      "notes": "KM-2Fベースの改造開発"
+    },
+    {
+      "type": "練習機",
+      "name": "T-400 基本操縦練習機",
+      "manufacturer": "レイセオン",
+      "production": "13",
+      "original_manufacturer": "三菱重工業",
+      "notes": "三菱MU-300の製造販売権買収"
+    },
+    {
+      "type": "練習機",
+      "name": "YS-11NT 航法訓練機",
+      "manufacturer": "日本航空機製造",
+      "production": "1",
+      "original_manufacturer": "",
+      "notes": "YS-11C改造"
+    },
+    {
+      "type": "訓練支援機",
+      "name": "YS-11E/EA電子戦訓練支援機",
+      "manufacturer": "日本飛行機（改造）",
+      "production": "2",
+      "original_manufacturer": "日航製",
+      "notes": "YS-11C改造、E→EA"
+    },
+    {
+      "type": "訓練支援機",
+      "name": "EC-1電子戦訓練機",
+      "manufacturer": "川崎重工業",
+      "production": "1",
+      "original_manufacturer": "",
+      "notes": "C-1改造"
+    },
+    {
+      "type": "飛行点検機",
+      "name": "YS-11FC",
+      "manufacturer": "日航製",
+      "production": "3",
+      "original_manufacturer": "",
+      "notes": "1機新造、2機はYS-11P改造"
+    },
+    {
+      "type": "飛行点検機",
+      "name": "MU-2J",
+      "manufacturer": "三菱重工業",
+      "production": "4",
+      "original_manufacturer": "",
+      "notes": ""
+    },
+    {
+      "type": "試験機",
+      "name": "C-1FTB飛行試験機",
+      "manufacturer": "川崎重工業",
+      "production": "1",
+      "original_manufacturer": "",
+      "notes": "元・試作機XC-1"
+    },
+    {
+      "type": "無人標的機",
+      "name": "KMQ-5（KAQ-5）",
+      "manufacturer": "川崎重工業",
+      "production": "12以上",
+      "original_manufacturer": "",
+      "notes": "正式採用に至らず"
+    },
+    {
+      "type": "無人標的機",
+      "name": "J/AQM-1 自律型標的",
+      "manufacturer": "富士重工業",
+      "production": "",
+      "original_manufacturer": "",
+      "notes": ""
+    },
+    {
+      "type": "無人標的機",
+      "name": "J/AQM-2 空対空用小型標的",
+      "manufacturer": "川崎重工業",
+      "production": "調達中",
+      "original_manufacturer": "",
+      "notes": ""
+    },
+    {
+      "type": "固定翼対潜哨戒機/哨戒機",
+      "name": "P2V-7/P-2J対潜哨戒機「おおわし」",
+      "manufacturer": "川崎重工業",
+      "production": "48/82",
+      "original_manufacturer": "ロッキード",
+      "notes": "ライセンス生産（P-2Jは国内開発）"
+    },
+    {
+      "type": "固定翼対潜哨戒機/哨戒機",
+      "name": "PS-1対潜哨戒飛行艇「おおとり」",
+      "manufacturer": "新明和工業",
+      "production": "23",
+      "original_manufacturer": "",
+      "notes": "国産"
+    },
+    {
+      "type": "固定翼対潜哨戒機/哨戒機",
+      "name": "P-3C哨戒機",
+      "manufacturer": "川崎重工業",
+      "production": "101",
+      "original_manufacturer": "ロッキード",
+      "notes": "ライセンス生産"
+    },
+    {
+      "type": "固定翼対潜哨戒機/哨戒機",
+      "name": "P-1哨戒機",
+      "manufacturer": "川崎重工業",
+      "production": "31",
+      "original_manufacturer": "",
+      "notes": "純国産"
+    },
+    {
+      "type": "回転翼対潜哨戒機/哨戒機",
+      "name": "HSS-1対潜ヘリコプター「うみつばめ」",
+      "manufacturer": "三菱重工業",
+      "production": "20",
+      "original_manufacturer": "シコルスキー",
+      "notes": "ノックダウン生産"
+    },
+    {
+      "type": "回転翼対潜哨戒機/哨戒機",
+      "name": "HSS-2/-2A/-2B対潜ヘリコプター「ちどり」",
+      "manufacturer": "三菱重工業",
+      "production": "173",
+      "original_manufacturer": "シコルスキー",
+      "notes": "ライセンス生産（A/Bは国内開発）"
+    },
+    {
+      "type": "回転翼対潜哨戒機/哨戒機",
+      "name": "SH-60J/SH-60K/XSH-60L哨戒ヘリコプター",
+      "manufacturer": "三菱重工業",
+      "production": "103/調達中/試験中",
+      "original_manufacturer": "シコルスキー",
+      "notes": "ライセンス生産 （電子機器は国産、K/Lは国内開発）"
+    },
+    {
+      "type": "掃海機",
+      "name": "KV-107II-3掃海ヘリコプター「しらさぎ」",
+      "manufacturer": "川崎重工業",
+      "production": "9",
+      "original_manufacturer": "ボーイング・バートル",
+      "notes": "生産販売ライセンス"
+    },
+    {
+      "type": "掃海機",
+      "name": "MCH-101掃海輸送ヘリコプター",
+      "manufacturer": "川崎重工業",
+      "production": "10",
+      "original_manufacturer": "アグスタウェストランド",
+      "notes": "ライセンス生産"
+    },
+    {
+      "type": "偵察機",
+      "name": "EP-3電子戦データ収集機 OP-3C画像情報収集機",
+      "manufacturer": "川崎重工業",
+      "production": "5 5",
+      "original_manufacturer": "ロッキード",
+      "notes": "P-3Cベースに改造開発"
+    },
+    {
+      "type": "輸送機",
+      "name": "YS-11M/M-A輸送機",
+      "manufacturer": "日本航空機製造",
+      "production": "2/2",
+      "original_manufacturer": "",
+      "notes": "M-A：YS-11-400ベース"
+    },
+    {
+      "type": "輸送機",
+      "name": "S-61A南極観測ヘリコプター「ちどり」",
+      "manufacturer": "三菱重工業",
+      "production": "2(2)",
+      "original_manufacturer": "シコルスキー",
+      "notes": "ライセンス生産"
+    },
+    {
+      "type": "輸送機",
+      "name": "CH-101南極観測ヘリコプター",
+      "manufacturer": "川崎重工業",
+      "production": "3",
+      "original_manufacturer": "アグスタウェストランド",
+      "notes": "ライセンス生産"
+    },
+    {
+      "type": "救難機",
+      "name": "US-1/1A救難飛行艇「おおとり」",
+      "manufacturer": "新明和工業",
+      "production": "6/14",
+      "original_manufacturer": "",
+      "notes": "国産"
+    },
+    {
+      "type": "救難機",
+      "name": "UH-60J救難ヘリコプター",
+      "manufacturer": "三菱重工業",
+      "production": "19",
+      "original_manufacturer": "シコルスキー",
+      "notes": "ライセンス生産"
+    },
+    {
+      "type": "救難機",
+      "name": "US-2救難飛行艇",
+      "manufacturer": "新明和工業",
+      "production": "7",
+      "original_manufacturer": "",
+      "notes": "US-1Aベースに改造開発"
+    },
+    {
+      "type": "練習機",
+      "name": "KM-2初等練習機「こまどり」",
+      "manufacturer": "富士重工業",
+      "production": "62",
+      "original_manufacturer": "ビーチクラフト",
+      "notes": "T-34Aベースに国内開発"
+    },
+    {
+      "type": "練習機",
+      "name": "T-5初等練習機",
+      "manufacturer": "富士重工業",
+      "production": "37",
+      "original_manufacturer": "ビーチクラフト",
+      "notes": "KM-2Dベースに改造開発"
+    },
+    {
+      "type": "練習機",
+      "name": "YS-11T-A機上作業練習機",
+      "manufacturer": "日航製",
+      "production": "6",
+      "original_manufacturer": "",
+      "notes": ""
+    },
+    {
+      "type": "訓練支援機",
+      "name": "UP-2J",
+      "manufacturer": "川崎重工業",
+      "production": "4",
+      "original_manufacturer": "ロッキード",
+      "notes": "P-2Jベースに国内開発"
+    },
+    {
+      "type": "訓練支援機",
+      "name": "U-36A訓練支援機",
+      "manufacturer": "",
+      "production": "6",
+      "original_manufacturer": "ゲイツ",
+      "notes": "リアジェット36A改造"
+    },
+    {
+      "type": "訓練支援機",
+      "name": "UP-3D電子訓練支援機",
+      "manufacturer": "川崎重工業",
+      "production": "3",
+      "original_manufacturer": "ロッキード",
+      "notes": "P-3Cベースに国内開発"
+    },
+    {
+      "type": "標的機",
+      "name": "KD-2R-5改低速標的機（英語版）",
+      "manufacturer": "日本電気",
+      "production": "",
+      "original_manufacturer": "ラジオプレーン",
+      "notes": "無人機・国産化"
+    },
+    {
+      "type": "標的機",
+      "name": "BQM-34AJ/AJ改高速標的機（英語版）",
+      "manufacturer": "富士重工業",
+      "production": "",
+      "original_manufacturer": "テレダイン・ライアン",
+      "notes": "無人機・国産化"
+    },
+    {
+      "type": "標的機",
+      "name": "BQM-74C/E高速標的機（英語版）",
+      "manufacturer": "日本電気",
+      "production": "",
+      "original_manufacturer": "ノースロップ",
+      "notes": "無人機・国産化"
+    },
+    {
+      "type": "試験機",
+      "name": "UP-3C試験評価機",
+      "manufacturer": "川崎重工業",
+      "production": "1",
+      "original_manufacturer": "ロッキード",
+      "notes": "P-3Cベースに国内開発"
+    },
+    {
+      "type": "汎用ヘリコプター",
+      "name": "H-13H/H-13KH「ひばり」",
+      "manufacturer": "川崎重工業",
+      "production": "75/19",
+      "original_manufacturer": "ベル・エアクラフト",
+      "notes": "生産販売ライセンス（KH：国内開発）"
+    },
+    {
+      "type": "汎用ヘリコプター",
+      "name": "UH-1B/H/J多用途ヘリコプター",
+      "manufacturer": "富士重工業",
+      "production": "90/133/調達中",
+      "original_manufacturer": "ベル・エアクラフト",
+      "notes": "ライセンス生産（B：初代、H：2代、J：3代・国内開発）"
+    },
+    {
+      "type": "汎用ヘリコプター",
+      "name": "UH-60JA多用途ヘリコプター",
+      "manufacturer": "三菱重工業",
+      "production": "40",
+      "original_manufacturer": "シコルスキー",
+      "notes": "ライセンス生産"
+    },
+    {
+      "type": "汎用ヘリコプター",
+      "name": "UH-2多用途ヘリコプター「ハヤブサ」",
+      "manufacturer": "SUBARU",
+      "production": "調達中",
+      "original_manufacturer": "ベル・エアクラフト",
+      "notes": "ベル 412EPIベースの共同開発"
+    },
+    {
+      "type": "攻撃ヘリコプター",
+      "name": "AH-1S対戦車ヘリコプター",
+      "manufacturer": "富士重工業",
+      "production": "89",
+      "original_manufacturer": "ベル・エアクラフト",
+      "notes": "ライセンス生産"
+    },
+    {
+      "type": "攻撃ヘリコプター",
+      "name": "AH-64D戦闘ヘリコプター",
+      "manufacturer": "富士重工業",
+      "production": "13",
+      "original_manufacturer": "ボーイング",
+      "notes": "ライセンス生産"
+    },
+    {
+      "type": "輸送ヘリコプター",
+      "name": "S-55/H-19「はつかり」",
+      "manufacturer": "三菱重工業",
+      "production": "68※",
+      "original_manufacturer": "シコルスキー",
+      "notes": "ライセンス生産"
+    },
+    {
+      "type": "輸送ヘリコプター",
+      "name": "KV-107II-4/A-4/A-4A「しらさぎ」",
+      "manufacturer": "川崎重工業",
+      "production": "41/18/1",
+      "original_manufacturer": "ボーイング・バートル",
+      "notes": "生産販売ライセンス （A-4：エンジン強化、A-4A：要人輸送）"
+    },
+    {
+      "type": "輸送ヘリコプター",
+      "name": "CH-47J/JA輸送ヘリコプター",
+      "manufacturer": "川崎重工業",
+      "production": "34/18",
+      "original_manufacturer": "ボーイング",
+      "notes": "ライセンス生産（JA：航続距離延長）"
+    },
+    {
+      "type": "観測ヘリコプター",
+      "name": "OH-6J/D観測ヘリコプター",
+      "manufacturer": "川崎重工業",
+      "production": "117/193",
+      "original_manufacturer": "ヒューズ",
+      "notes": "ライセンス生産（J：初代、D：2代）"
+    },
+    {
+      "type": "観測ヘリコプター",
+      "name": "OH-1観測ヘリコプター「ニンジャ」",
+      "manufacturer": "川崎重工業",
+      "production": "38",
+      "original_manufacturer": "",
+      "notes": "純国産"
+    },
+    {
+      "type": "観測ヘリコプター",
+      "name": "RMAX Type II G",
+      "manufacturer": "ヤマハ発動機",
+      "production": "",
+      "original_manufacturer": "",
+      "notes": "民間機を転用・無人機"
+    },
+    {
+      "type": "観測ヘリコプター",
+      "name": "遠隔操縦観測システム（FFOS）",
+      "manufacturer": "富士重工業",
+      "production": "",
+      "original_manufacturer": "",
+      "notes": "純国産・無人機"
+    },
+    {
+      "type": "観測ヘリコプター",
+      "name": "新無人偵察機システム（FFRS）",
+      "manufacturer": "富士重工業",
+      "production": "",
+      "original_manufacturer": "",
+      "notes": "純国産・無人機"
+    },
+    {
+      "type": "固定翼機",
+      "name": "L-19E連絡機「そよかぜ」",
+      "manufacturer": "富士重工業",
+      "production": "22",
+      "original_manufacturer": "セスナ",
+      "notes": "ライセンス生産"
+    },
+    {
+      "type": "固定翼機",
+      "name": "LM-1/2連絡機「はるかぜ」",
+      "manufacturer": "富士重工業",
+      "production": "24",
+      "original_manufacturer": "ビーチクラフト",
+      "notes": "T-34Aベースで国内開発（2：KM-2タイプへの改造）"
+    },
+    {
+      "type": "固定翼機",
+      "name": "TL-1練習連絡機",
+      "manufacturer": "富士重工業",
+      "production": "2",
+      "original_manufacturer": "ビーチクラフト",
+      "notes": "陸上自衛隊向けKM-2"
+    },
+    {
+      "type": "固定翼機",
+      "name": "LR-1偵察連絡機",
+      "manufacturer": "三菱重工業",
+      "production": "20",
+      "original_manufacturer": "",
+      "notes": "陸上自衛隊向けMU-2"
+    },
+    {
+      "type": "固定翼機",
+      "name": "KAQ-1",
+      "manufacturer": "川崎重工業",
+      "production": "",
+      "original_manufacturer": "",
+      "notes": "無人機・アメリカでも運用"
+    },
+    {
+      "type": "固定翼機",
+      "name": "チャカIII高速標的機（英語版）",
+      "manufacturer": "日本電気",
+      "production": "",
+      "original_manufacturer": "ノースロップ",
+      "notes": "無人機・国産化"
+    },
+    {
+      "type": "固定翼機",
+      "name": "チャカR無人偵察機",
+      "manufacturer": "防衛庁",
+      "production": "2",
+      "original_manufacturer": "ノースロップ",
+      "notes": "無人機・チャカIIIベースの改造開発"
+    },
+    {
+      "type": "固定翼機",
+      "name": "RCAT低速標的機",
+      "manufacturer": "ヤマハ発動機",
+      "production": "",
+      "original_manufacturer": "",
+      "notes": "無人機"
+    },
+    {
+      "type": "固定翼機",
+      "name": "RCMAT小型模型標的機",
+      "manufacturer": "フジ・インバック",
+      "production": "",
+      "original_manufacturer": "",
+      "notes": "無人機"
+    },
+    {
+      "type": "固定翼機",
+      "name": "新低速標的機（UAV型）",
+      "manufacturer": "防衛装備庁",
+      "production": "",
+      "original_manufacturer": "",
+      "notes": "無人機"
+    },
+    {
+      "type": "固定翼機",
+      "name": "新高速標的機（FB型）",
+      "manufacturer": "川崎重工業",
+      "production": "",
+      "original_manufacturer": "",
+      "notes": "無人機"
+    },
+    {
+      "type": "固定翼機",
+      "name": "JUXS-S1無人航空機（近距離用）",
+      "manufacturer": "川田工業",
+      "production": "",
+      "original_manufacturer": "",
+      "notes": "純国産・無人機"
+    },
+    {
+      "type": "固定翼機",
+      "name": "B2",
+      "manufacturer": "フジ・インバック",
+      "production": "",
+      "original_manufacturer": "",
+      "notes": "純国産・無人機 民間機を転用"
+    },
+    {
+      "type": "試験計測用航空機",
+      "name": "BK117",
+      "manufacturer": "川崎重工業/MBB",
+      "production": "2",
+      "original_manufacturer": "",
+      "notes": "国際共同開発・民間機を転用"
+    },
+    {
+      "type": "グライダー",
+      "name": "KK101",
+      "manufacturer": "富士木工/寺田製作所",
+      "production": "2",
+      "original_manufacturer": "",
+      "notes": "民間機を転用・練習用"
+    },
+    {
+      "type": "グライダー",
+      "name": "萩原式H-22型",
+      "manufacturer": "萩原滑空機製作所",
+      "production": "6",
+      "original_manufacturer": "",
+      "notes": "民間機を転用・練習用"
+    },
+    {
+      "type": "グライダー",
+      "name": "萩原式H-23型",
+      "manufacturer": "萩原滑空機製作所",
+      "production": "2",
+      "original_manufacturer": "",
+      "notes": "民間機を転用・練習用"
+    },
+    {
+      "type": "グライダー",
+      "name": "防大型B-5型",
+      "manufacturer": "富士重工業",
+      "production": "3",
+      "original_manufacturer": "",
+      "notes": "三田式3型ベース 練習用"
+    }
+  ],
+  "meta": {
+    "title": "戦後の自衛隊向け日本製航空機一覧 (Japanese-built military aircraft since 1945) - Free Download",
+    "description": "第二次世界大戦後に日本国内で製造・ライセンス生産された自衛隊向け航空機の一覧（機種別、製造者・生産数・原製造者）。 Contains 94 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "戦後の自衛隊向け日本製航空機一覧 (Japanese-built military aircraft since 1945) | ListBase",
+    "seo_description": "Download 戦後の自衛隊向け日本製航空機一覧 (Japanese-built military aircraft since 1945) — 94 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 94 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%A3%BD%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%81%AE%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}

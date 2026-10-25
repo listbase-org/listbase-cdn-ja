@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:12:50.433Z",
-  "total_datasets": 496,
-  "total_records": 449641,
+  "generated": "2026-10-25T02:12:54.568Z",
+  "total_datasets": 497,
+  "total_records": 449735,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "time",
@@ -13875,6 +13875,33 @@
         "xlsx": {
           "name": "ja-yokozuna-ichiran_JA.xlsx",
           "size": 13938
+        }
+      }
+    },
+    {
+      "id": "ja-sengo-nihonsei-kokuki",
+      "name": "戦後の自衛隊向け日本製航空機一覧 (Japanese-built military aircraft since 1945)",
+      "category": "tech",
+      "record_count": 94,
+      "columns": [
+        "type",
+        "name",
+        "manufacturer",
+        "production",
+        "original_manufacturer",
+        "notes"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%A3%BD%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%81%AE%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 25987,
+      "files": {
+        "csv": {
+          "name": "ja-sengo-nihonsei-kokuki_JA.csv",
+          "size": 11133
+        },
+        "xlsx": {
+          "name": "ja-sengo-nihonsei-kokuki_JA.xlsx",
+          "size": 12037
         }
       }
     },
