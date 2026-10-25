@@ -1,0 +1,6988 @@
+{
+  "id": "ja-kogyo-koko",
+  "name": "工業に関する学科を設置する高等学校一覧 (Technical high schools in Japan)",
+  "title": "工業に関する学科を設置する高等学校一覧 (Technical high schools in Japan)",
+  "description": "全国工業高等学校長協会の学校番号付きで、工業に関する学科を置く全国の高等学校を都道府県別に一覧（改称・閉校の記録を含む）。",
+  "category": "education",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B7%A5%E6%A5%AD%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%AD%A6%E7%A7%91%E8%A8%AD%E7%BD%AE%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B7%A5%E6%A5%AD%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%AD%A6%E7%A7%91%E8%A8%AD%E7%BD%AE%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 991,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "school",
+      "label": "School",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "現在",
+      "code": "0101",
+      "school": "北海道旭川工業高等学校"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "現在",
+      "code": "0105",
+      "school": "北海道小樽工業高等学校"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "現在",
+      "code": "0106",
+      "school": "北海道帯広工業高等学校"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "現在",
+      "code": "0107",
+      "school": "北海道北見工業高等学校"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "現在",
+      "code": "0108",
+      "school": "北海道釧路工業高等学校"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "現在",
+      "code": "0109",
+      "school": "北海道札幌工業高等学校"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "現在",
+      "code": "0110",
+      "school": "北海道札幌琴似工業高等学校"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "現在",
+      "code": "0111",
+      "school": "北海道滝川工業高等学校"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "現在",
+      "code": "0112",
+      "school": "北海道苫小牧工業高等学校"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "現在",
+      "code": "0113",
+      "school": "北海道名寄産業高等学校"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "現在",
+      "code": "0114",
+      "school": "北海道函館工業高等学校"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "現在",
+      "code": "0115",
+      "school": "北海道富良野緑峰高等学校"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "現在",
+      "code": "0117",
+      "school": "北海道室蘭工業高等学校"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "現在",
+      "code": "0118",
+      "school": "北海道紋別高等学校"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "現在",
+      "code": "0120",
+      "school": "北海道留萌高等学校"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "現在",
+      "code": "0122",
+      "school": "旭川実業高等学校"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "現在",
+      "code": "0123",
+      "school": "北海道科学大学高等学校"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "現在",
+      "code": "0124",
+      "school": "北海道札幌国際情報高等学校"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "現在",
+      "code": "0125",
+      "school": "北海道美唄尚栄高等学校"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "現在",
+      "code": "",
+      "school": "北海道岩見沢農業高等学校（農業土木工学科）"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "現在",
+      "code": "",
+      "school": "北海道おといねっぷ美術工芸高等学校（工芸科）"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "現在",
+      "code": "",
+      "school": "北海道帯広農業高等学校（農業土木工学科）"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "改称・閉校・脱会等",
+      "code": "0102",
+      "school": "北海道芦別総合技術高等学校⇒北海道芦別高等学校に統廃合、工業に関する学科を廃止し脱会（2006年）"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "改称・閉校・脱会等",
+      "code": "0104",
+      "school": "北海道江差南高等学校⇒北海道江差高等学校に統廃合（2006年）、工業に関する学科を廃止し脱会"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "改称・閉校・脱会等",
+      "code": "0113",
+      "school": "北海道名寄工業高等学校⇒ 0113 北海道名寄光凌高等学校に統廃合（2000年）⇒ 0113北海道名寄産業高等学校に統廃合（2009年）"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "改称・閉校・脱会等",
+      "code": "0116",
+      "school": "北海道美唄工業高等学校⇒ 0125 北海道美唄尚栄高等学校に統廃合（2013年）"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "改称・閉校・脱会等",
+      "code": "0118",
+      "school": "北海道紋別南高等学校⇒ 0118 北海道紋別高等学校に統廃合（2007年）"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "改称・閉校・脱会等",
+      "code": "0119",
+      "school": "北海道夕張工業高等学校⇒ 0119 北海道夕張緑ヶ丘実業高等学校に統廃合（1992年）"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "改称・閉校・脱会等",
+      "code": "",
+      "school": "01??北海道留萌工業高等学校⇒ 0120 北海道留萌千望高等学校に統廃合（2001年）"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "改称・閉校・脱会等",
+      "code": "0121",
+      "school": "北海道稚内商工高等学校⇒北海道稚内高等学校に統廃合（2013年）"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "改称・閉校・脱会等",
+      "code": "0123",
+      "school": "北海道工業高等学校⇒北海道尚志学園高等学校に改称（2001年）"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "status": "改称・閉校・脱会等",
+      "code": "",
+      "school": "北海道栄高等学校⇒ 工業に関する学科を廃止し脱会（2009年？）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "status": "現在",
+      "code": "0201",
+      "school": "青森県立青森工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "status": "現在",
+      "code": "0202",
+      "school": "青森県立五所川原工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "status": "現在",
+      "code": "0203",
+      "school": "青森県立十和田工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "status": "現在",
+      "code": "0205",
+      "school": "青森県立八戸工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "status": "現在",
+      "code": "0206",
+      "school": "青森県立弘前工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "status": "現在",
+      "code": "0207",
+      "school": "青森県立むつ工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "status": "現在",
+      "code": "0209",
+      "school": "八戸工業大学第一高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "status": "現在",
+      "code": "0210",
+      "school": "弘前東高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "status": "現在",
+      "code": "0211",
+      "school": "八戸学院光星高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "status": "現在",
+      "code": "0212",
+      "school": "青森山田高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "status": "現在",
+      "code": "0213",
+      "school": "青森県立尾上総合高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "status": "現在",
+      "code": "0214",
+      "school": "八戸学院野辺地西高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "status": "現在",
+      "code": "",
+      "school": "青森県立五所川原農林高等学校（環境土木科）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "status": "現在",
+      "code": "",
+      "school": "青森県立柏木農業高等学校（環境工学科）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "status": "現在",
+      "code": "",
+      "school": "青森県立三本木農業恵拓高等学校（農業機械科・環境土木科）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "status": "現在",
+      "code": "",
+      "school": "青森県立名久井農業高等学校（環境システム科）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "status": "改称・閉校・脱会等",
+      "code": "0204",
+      "school": "青森県立南部工業高等学校⇒ 0205 青森県立八戸工業高等学校に統廃合（2015年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "status": "改称・閉校・脱会等",
+      "code": "0210",
+      "school": "弘前東工業高等学校⇒ 0210弘前東高等学校に改称し、普通科併設（2005年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "status": "改称・閉校・脱会等",
+      "code": "0211",
+      "school": "光星学院高等学校⇒ 0211八戸学院光星高等学校に改称（2013年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "status": "改称・閉校・脱会等",
+      "code": "0214",
+      "school": "光星学院野辺地西高等学校⇒ 0214八戸学院野辺地西高等学校に改称（2013年4月）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "status": "現在",
+      "code": "0301",
+      "school": "岩手県立一関工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "status": "現在",
+      "code": "0302",
+      "school": "岩手県立大船渡東高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "status": "現在",
+      "code": "0303",
+      "school": "岩手県立釜石商工高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "status": "現在",
+      "code": "0304",
+      "school": "岩手県立久慈工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "status": "現在",
+      "code": "0305",
+      "school": "岩手県立黒沢尻工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "status": "現在",
+      "code": "0306",
+      "school": "岩手県立千厩高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "status": "現在",
+      "code": "0307",
+      "school": "岩手県立種市高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "status": "現在",
+      "code": "0308",
+      "school": "岩手県立福岡工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "status": "現在",
+      "code": "0309",
+      "school": "岩手県立水沢工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "status": "現在",
+      "code": "0310",
+      "school": "岩手県立宮古工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "status": "現在",
+      "code": "0311",
+      "school": "岩手県立盛岡工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "status": "現在",
+      "code": "0315",
+      "school": "岩手県立花北青雲高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "status": "現在",
+      "code": "",
+      "school": "専修大学北上高等学校（自動車科）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "status": "改称・閉校・脱会等",
+      "code": "0302",
+      "school": "岩手県立大船渡工業高等学校⇒ 0302 岩手県立大船渡東高等学校に統廃合（2008年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "status": "改称・閉校・脱会等",
+      "code": "0303",
+      "school": "岩手県立釜石工業高等学校⇒ 0303 岩手県立釜石商工高等学校に統廃合（2009年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "status": "改称・閉校・脱会等",
+      "code": "0312",
+      "school": "一関商工高等学校⇒一関学院高等学校に改称、工業に関する学科を廃止し脱会（2001年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "status": "改称・閉校・脱会等",
+      "code": "0313",
+      "school": "花巻東高等学校⇒ 工業に関する学科を廃止し脱会（1998年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "status": "改称・閉校・脱会等",
+      "code": "0314",
+      "school": "盛岡中央高等学校⇒ 工業に関する学科を廃止し脱会（2015年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "status": "改称・閉校・脱会等",
+      "code": "",
+      "school": "岩手県立岩谷堂農林高等学校（産業工学科）⇒岩手県立岩谷堂高等学校に統廃合、工業に関する学科を廃止し脱会（2009年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "現在",
+      "code": "0401",
+      "school": "宮城県石巻工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "現在",
+      "code": "0403",
+      "school": "宮城県工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "現在",
+      "code": "0404",
+      "school": "宮城県第二工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "現在",
+      "code": "0405",
+      "school": "宮城県白石工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "現在",
+      "code": "0406",
+      "school": "宮城県古川工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "現在",
+      "code": "0407",
+      "school": "宮城県村田高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "現在",
+      "code": "0408",
+      "school": "宮城県登米総合産業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "現在",
+      "code": "0409",
+      "school": "仙台市立仙台工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "現在",
+      "code": "0411",
+      "school": "仙台城南高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "現在",
+      "code": "0412",
+      "school": "宮城県黒川高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "現在",
+      "code": "0413",
+      "school": "宮城県気仙沼向洋高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "現在",
+      "code": "0415",
+      "school": "宮城県立聴覚支援学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "現在",
+      "code": "0417",
+      "school": "宮城県伊具高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "現在",
+      "code": "0418",
+      "school": "宮城県水産高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "現在",
+      "code": "0419",
+      "school": "宮城県迫桜高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "現在",
+      "code": "0420",
+      "school": "宮城県岩ヶ崎高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "現在",
+      "code": "",
+      "school": "宮城県加美農業高等学校（農業機械科）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "現在",
+      "code": "",
+      "school": "宮城県農業高等学校（農業機械科）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "現在",
+      "code": "",
+      "school": "宮城県本吉響高等学校（総合学科産業情報系列）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "現在",
+      "code": "",
+      "school": "宮城県南郷高等学校（産業技術科）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "改称・閉校・脱会等",
+      "code": "0402",
+      "school": "宮城県鶯沢工業高等学校⇒ 0420 宮城県岩ヶ崎高等学校に統廃合（2011年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "改称・閉校・脱会等",
+      "code": "0408",
+      "school": "宮城県米谷工業高等学校⇒ 0408宮城県登米総合産業高等学校に統廃合（2015年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "改称・閉校・脱会等",
+      "code": "0410",
+      "school": "仙台市立仙台第二工業高等学校⇒ 0409 仙台市立仙台工業高等学校に統廃合（2010年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "改称・閉校・脱会等",
+      "code": "0411",
+      "school": "東北工業大学高等学校⇒ 0411仙台城南高等学校に改称（2013年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "改称・閉校・脱会等",
+      "code": "0414",
+      "school": "宮城県上沼高等学校⇒ 工業に関する学科を廃止し脱会（2008年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "改称・閉校・脱会等",
+      "code": "0415",
+      "school": "宮城県立ろう学校⇒ 0415宮城県立聴覚支援学校に改称（2009年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "改称・閉校・脱会等",
+      "code": "0416",
+      "school": "宮城県柴田農林高等学校⇒ 工業に関する学科を廃止し脱会（2008年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "status": "改称・閉校・脱会等",
+      "code": "0419",
+      "school": "宮城県若柳高等学校⇒ 0419宮城県迫桜高等学校に統廃合（2001年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "status": "現在",
+      "code": "0501",
+      "school": "秋田県立秋田工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "status": "現在",
+      "code": "0502",
+      "school": "秋田県立大館桂桜高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "status": "現在",
+      "code": "0503",
+      "school": "秋田県立大曲工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "status": "現在",
+      "code": "0504",
+      "school": "秋田県立男鹿工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "status": "現在",
+      "code": "0507",
+      "school": "秋田県立能代科学技術高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "status": "現在",
+      "code": "0509",
+      "school": "秋田県立由利工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "status": "現在",
+      "code": "0512",
+      "school": "秋田県立横手清陵学院高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "status": "現在",
+      "code": "0513",
+      "school": "秋田県立西目高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "status": "現在",
+      "code": "0514",
+      "school": "秋田県立湯沢翔北高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "status": "現在",
+      "code": "",
+      "school": "秋田県立秋田北鷹高等学校（緑地環境科）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "status": "改称・閉校・脱会等",
+      "code": "0505",
+      "school": "秋田県立小坂高等学校⇒秋田県立鹿角高等学校に統廃合（2024年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "status": "改称・閉校・脱会等",
+      "code": "0507",
+      "school": "秋田県立能代工業高等学校⇒ 0515 秋田県立能代西高等学校と統合し、秋田県立能代科学技術高等学校へ（2021年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "status": "改称・閉校・脱会等",
+      "code": "0508",
+      "school": "秋田県立湯沢商工高等学校⇒ 0514 秋田県立湯沢翔北高等学校に統廃合（2011年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "status": "改称・閉校・脱会等",
+      "code": "0510",
+      "school": "秋田県立横手工業高等学校⇒ 0512 秋田県立横手清陵学院高等学校に統廃合（2006年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "status": "改称・閉校・脱会等",
+      "code": "0511",
+      "school": "秋田県立米内沢高等学校⇒ 工業に関する学科を廃止し脱会（2007年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "status": "改称・閉校・脱会等",
+      "code": "0515",
+      "school": "秋田県立能代西高等学校⇒ 0507 秋田県立能代工業高等学校と統合し、秋田県立能代科学技術高等学校へ（2021年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "status": "改称・閉校・脱会等",
+      "code": "",
+      "school": "秋田経済法科大学附属高等学校⇒明桜高等学校に改称（2007年）、工業に関する学科を廃止し脱会（2009年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "status": "現在",
+      "code": "0601",
+      "school": "山形県立寒河江工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "status": "現在",
+      "code": "0603",
+      "school": "山形県立新庄神室産業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "status": "現在",
+      "code": "0604",
+      "school": "山形県立鶴岡工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "status": "現在",
+      "code": "0605",
+      "school": "山形県立長井工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "status": "現在",
+      "code": "0607",
+      "school": "山形県立山形工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "status": "現在",
+      "code": "0608",
+      "school": "山形県立米沢工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "status": "現在",
+      "code": "0609",
+      "school": "山形明正高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "status": "現在",
+      "code": "0610",
+      "school": "羽黒高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "status": "現在",
+      "code": "0611",
+      "school": "創学館高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "status": "現在",
+      "code": "0612",
+      "school": "山形県立酒田光陵高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "status": "現在",
+      "code": "0613",
+      "school": "山形県立村山産業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "status": "現在",
+      "code": "",
+      "school": "山形県立庄内総合高等学校（総合学科）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "status": "改称・閉校・脱会等",
+      "code": "0602",
+      "school": "山形県立酒田工業高等学校⇒ 0612 山形県立酒田光陵高等学校に統廃合（2012年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "status": "改称・閉校・脱会等",
+      "code": "0603",
+      "school": "山形県立新庄工業高等学校⇒ 0603 山形県立新庄神室産業高等学校に統廃合（2003年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "status": "改称・閉校・脱会等",
+      "code": "0606",
+      "school": "山形県立東根工業高等学校⇒ 0613 山形県立村山産業高等学校に統廃合（2014年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "status": "改称・閉校・脱会等",
+      "code": "0609",
+      "school": "蔵王高等学校⇒ 0609山形明正高等学校に改称（2011年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "status": "現在",
+      "code": "0701",
+      "school": "福島県立会津工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "status": "現在",
+      "code": "0702",
+      "school": "福島県立小高工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "status": "現在",
+      "code": "0703",
+      "school": "福島県立川俣高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "status": "現在",
+      "code": "0704",
+      "school": "福島県立喜多方桐桜高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "status": "現在",
+      "code": "0705",
+      "school": "福島県立郡山北工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "status": "現在",
+      "code": "0706",
+      "school": "福島県立白河実業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "status": "現在",
+      "code": "0707",
+      "school": "福島県立清陵情報高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "status": "現在",
+      "code": "0708",
+      "school": "福島県立平工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "status": "現在",
+      "code": "0709",
+      "school": "福島県立勿来工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "status": "現在",
+      "code": "0710",
+      "school": "福島県立二本松実業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "status": "現在",
+      "code": "0711",
+      "school": "福島県立塙工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "status": "現在",
+      "code": "0712",
+      "school": "福島県立福島工業高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "status": "現在",
+      "code": "0713",
+      "school": "聖光学院高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "status": "現在",
+      "code": "0714",
+      "school": "尚志高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "status": "現在",
+      "code": "0716",
+      "school": "松韻学園福島高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "status": "現在",
+      "code": "0717",
+      "school": "若松第一高等学校"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "status": "現在",
+      "code": "",
+      "school": "福島県立岩瀬農業高等学校（環境工学科）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "status": "現在",
+      "code": "",
+      "school": "福島県立福島明成高等学校（環境土木科）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "status": "改称・閉校・脱会等",
+      "code": "0704",
+      "school": "福島県立喜多方工業高等学校⇒ 0704 福島県立喜多方桐桜高等学校に統廃合（2010年）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "status": "改称・閉校・脱会等",
+      "code": "0715",
+      "school": "原町工業高等学校⇒ 0715松韻学園松栄高等学校に改称・改編（1996年）⇒ 廃校（2014）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "status": "現在",
+      "code": "0802",
+      "school": "茨城県立勝田工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "status": "現在",
+      "code": "0803",
+      "school": "茨城県立下館工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "status": "現在",
+      "code": "0804",
+      "school": "茨城県立総和工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "status": "現在",
+      "code": "0806",
+      "school": "茨城県立玉造工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "status": "現在",
+      "code": "0807",
+      "school": "茨城県立土浦工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "status": "現在",
+      "code": "0808",
+      "school": "茨城県立波崎高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "status": "現在",
+      "code": "0809",
+      "school": "茨城県立日立工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "status": "現在",
+      "code": "0810",
+      "school": "茨城県立水戸工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "status": "現在",
+      "code": "0812",
+      "school": "茨城県立つくばサイエンス高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "status": "現在",
+      "code": "0813",
+      "school": "茨城県立江戸崎総合高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "status": "現在",
+      "code": "0814",
+      "school": "茨城県立常陸大宮高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "status": "現在",
+      "code": "0815",
+      "school": "茨城県立取手第一高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "status": "現在",
+      "code": "0816",
+      "school": "茨城県立高萩清松高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "status": "現在",
+      "code": "",
+      "school": "茨城県立八千代高等学校（総合学科自動車工業系列）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "status": "現在",
+      "code": "",
+      "school": "茨城県立水戸農業高等学校（農業土木科）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "status": "改称・閉校・脱会等",
+      "code": "0801",
+      "school": "茨城県立大宮工業高等学校⇒ 0814 茨城県立常陸大宮高等学校に統廃合（2008年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "status": "改称・閉校・脱会等",
+      "code": "0805",
+      "school": "茨城県立高萩工業高等学校⇒ 0816 茨城県立高萩清松高等学校に統廃合（2008年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "status": "改称・閉校・脱会等",
+      "code": "0811",
+      "school": "茨城県立取手第一高等学校⇒ 総合学科に改編（2003年）、脱会 ⇒ 再加盟「0815 茨城県立取手第一高等学校」（2008年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "status": "改称・閉校・脱会等",
+      "code": "0813",
+      "school": "茨城県立江戸崎高等学校⇒ 0813茨城県立江戸崎総合高等学校に統廃合（2007年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "status": "現在",
+      "code": "0902",
+      "school": "栃木県立足利工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "status": "現在",
+      "code": "0903",
+      "school": "栃木県立今市工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "status": "現在",
+      "code": "0904",
+      "school": "栃木県立宇都宮工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "status": "現在",
+      "code": "0905",
+      "school": "栃木県立鹿沼商工高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "status": "現在",
+      "code": "0906",
+      "school": "栃木県立栃木工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "status": "現在",
+      "code": "0907",
+      "school": "栃木県立那須清峰高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "status": "現在",
+      "code": "0908",
+      "school": "栃木県立真岡工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "status": "現在",
+      "code": "0910",
+      "school": "足利工業大学附属高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "status": "現在",
+      "code": "0911",
+      "school": "作新学院高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "status": "現在",
+      "code": "0912",
+      "school": "栃木県立宇都宮白楊高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "status": "現在",
+      "code": "0913",
+      "school": "栃木県立矢板高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "status": "現在",
+      "code": "0915",
+      "school": "栃木県立小山北桜高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "status": "現在",
+      "code": "0916",
+      "school": "栃木県立佐野松桜高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "status": "改称・閉校・脱会等",
+      "code": "0901",
+      "school": "栃木県立足尾高等学校⇒栃木県立日光明峰高等学校に統廃合し脱会（2006年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "status": "改称・閉校・脱会等",
+      "code": "0909",
+      "school": "白鷗大学足利高等学校⇒ 工業に関する学科を廃止し脱会（2014年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "status": "改称・閉校・脱会等",
+      "code": "0911",
+      "school": "作新学院高等部⇒ 0911作新学院高等学校に改称・改編（2003年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "status": "改称・閉校・脱会等",
+      "code": "0914",
+      "school": "栃木県立佐野松陽高等学校⇒ 0916 栃木県立佐野松桜高等学校に統廃合（2013年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "status": "現在",
+      "code": "1002",
+      "school": "群馬県立伊勢崎工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "status": "現在",
+      "code": "1004",
+      "school": "群馬県立太田工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "status": "現在",
+      "code": "1005",
+      "school": "群馬県立桐生工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "status": "現在",
+      "code": "1006",
+      "school": "群馬県立高崎工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "status": "現在",
+      "code": "1007",
+      "school": "群馬県立館林商工高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "status": "現在",
+      "code": "1008",
+      "school": "群馬県立利根実業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "status": "現在",
+      "code": "1009",
+      "school": "群馬県立富岡実業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "status": "現在",
+      "code": "1012",
+      "school": "群馬県立藤岡工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "status": "現在",
+      "code": "1013",
+      "school": "群馬県立前橋工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "status": "現在",
+      "code": "1014",
+      "school": "群馬県立渋川工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "status": "現在",
+      "code": "1016",
+      "school": "群馬県立新田暁高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "status": "現在",
+      "code": "1017",
+      "school": "群馬県立安中総合学園高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "status": "現在",
+      "code": "",
+      "school": "群馬県立中之条高等学校（環境工学科）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "status": "改称・閉校・脱会等",
+      "code": "1001",
+      "school": "群馬県立安中実業高等学校⇒ 1017 群馬県立安中総合学園高等学校に統廃合（2008年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "status": "改称・閉校・脱会等",
+      "code": "1003",
+      "school": "群馬県立大泉高等学校⇒ 工業に関する学科を廃止し脱会（2000年？）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "status": "改称・閉校・脱会等",
+      "code": "1010",
+      "school": "群馬県立長野原高等学校⇒ 工業に関する学科を廃止し脱会（2007年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "status": "改称・閉校・脱会等",
+      "code": "1015",
+      "school": "群馬県立伊勢崎興陽高等学校⇒ 総合学科へ改編（2007年）、脱会"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "status": "現在",
+      "code": "1101",
+      "school": "筑波大学附属坂戸高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "status": "現在",
+      "code": "1102",
+      "school": "埼玉県立浦和工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "status": "現在",
+      "code": "1103",
+      "school": "埼玉県立大宮工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "status": "現在",
+      "code": "1104",
+      "school": "埼玉県立春日部工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "status": "現在",
+      "code": "1105",
+      "school": "埼玉県立川口工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "status": "現在",
+      "code": "1106",
+      "school": "埼玉県立川越工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "status": "現在",
+      "code": "1107",
+      "school": "埼玉県立進修館高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "status": "現在",
+      "code": "1108",
+      "school": "埼玉県立久喜工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "status": "現在",
+      "code": "1109",
+      "school": "埼玉県立熊谷工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "status": "現在",
+      "code": "1110",
+      "school": "埼玉県立越谷総合技術高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "status": "現在",
+      "code": "1111",
+      "school": "埼玉県立児玉高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "status": "現在",
+      "code": "1112",
+      "school": "埼玉県立狭山工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "status": "現在",
+      "code": "1114",
+      "school": "埼玉県立秩父農工科学高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "status": "現在",
+      "code": "1115",
+      "school": "埼玉県立新座総合技術高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "status": "現在",
+      "code": "1116",
+      "school": "埼玉県立三郷工業技術高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "status": "現在",
+      "code": "1117",
+      "school": "埼玉県立いずみ高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "status": "現在",
+      "code": "1119",
+      "school": "叡明高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "status": "現在",
+      "code": "1120",
+      "school": "栄北高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "status": "現在",
+      "code": "",
+      "school": "清和学園高等学校（自動車科）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "status": "改称・閉校・脱会等",
+      "code": "1107",
+      "school": "埼玉県立行田工業高等学校⇒ 1107 埼玉県立進修館高等学校に統廃合（2005年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "status": "改称・閉校・脱会等",
+      "code": "1113",
+      "school": "埼玉県立玉川工業高等学校⇒ 廃校（2013年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "status": "改称・閉校・脱会等",
+      "code": "1114",
+      "school": "埼玉県立秩父農工高等学校⇒埼玉県立秩父農工科学高等学校に統合・改称（2005年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "status": "改称・閉校・脱会等",
+      "code": "1118",
+      "school": "越生高等学校⇒武蔵越生高等学校に改称・改編（1993年）⇒ 工業に関する学科を廃止し脱会（2006年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "status": "改称・閉校・脱会等",
+      "code": "1111",
+      "school": "埼玉県立児玉白楊高等学校⇒ 1111 埼玉県立児玉高等学校に統廃合（2023年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "status": "現在",
+      "code": "1201",
+      "school": "千葉県立市川工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "status": "現在",
+      "code": "1203",
+      "school": "千葉県立京葉工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "status": "現在",
+      "code": "1204",
+      "school": "千葉県立清水高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "status": "現在",
+      "code": "1205",
+      "school": "千葉県立館山総合高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "status": "現在",
+      "code": "1206",
+      "school": "千葉県立千葉工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "status": "現在",
+      "code": "1207",
+      "school": "千葉県立東総工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "status": "現在",
+      "code": "1208",
+      "school": "千葉県立茂原樟陽高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "status": "現在",
+      "code": "1212",
+      "school": "千葉県立下総高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "status": "現在",
+      "code": "",
+      "school": "千葉県立君津青葉高等学校（総合学科土木工学系列）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "status": "現在",
+      "code": "",
+      "school": "千葉県立安房拓心高等学校（総合学科土木系列）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "status": "改称・閉校・脱会等",
+      "code": "1202",
+      "school": "千葉県立葛南工業高等学校⇒ 1201 千葉県立市川工業高等学校に統廃合（2006年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "status": "改称・閉校・脱会等",
+      "code": "1205",
+      "school": "千葉県立館山高等学校⇒ 1205 千葉県立館山総合高等学校に統廃合（2008年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "status": "改称・閉校・脱会等",
+      "code": "1208",
+      "school": "千葉県立茂原工業高等学校⇒ 1208 千葉県立茂原樟陽高等学校に統廃合（2006年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "status": "改称・閉校・脱会等",
+      "code": "1209",
+      "school": "銚子市立銚子高等学校⇒銚子市立銚子西高等学校と合併、工業に関する学科を廃止し脱会（2008年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "status": "改称・閉校・脱会等",
+      "code": "1210",
+      "school": "敬愛学園高等学校⇒ 工業に関する学科を廃止し脱会（2003年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "status": "改称・閉校・脱会等",
+      "code": "1211",
+      "school": "千葉経済大学附属高等学校⇒ 工業に関する学科を廃止し脱会（2008年より募集停止、2010年3月閉科）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1301",
+      "school": "東京工業大学附属科学技術高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1302",
+      "school": "東京都立足立工科高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1303",
+      "school": "東京都立荒川工科高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1306",
+      "school": "東京都立葛西工科高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1308",
+      "school": "東京都立北豊島工科高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1310",
+      "school": "東京都立蔵前工科高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1312",
+      "school": "東京都立工芸高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1314",
+      "school": "東京都立小金井工科高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1316",
+      "school": "東京都立杉並工科高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1317",
+      "school": "東京都立墨田工科高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1319",
+      "school": "東京都立田無工科高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1320",
+      "school": "東京都立多摩工科高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1321",
+      "school": "東京都立中野工科高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1322",
+      "school": "東京都立練馬工科高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1325",
+      "school": "東京都立府中工科高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1326",
+      "school": "東京都立本所工科高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1327",
+      "school": "東京都立町田工科高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1330",
+      "school": "岩倉高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1331",
+      "school": "大森学園高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1336",
+      "school": "昭和第一学園高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1337",
+      "school": "昭和鉄道高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1339",
+      "school": "日本工業大学駒場高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1340",
+      "school": "東京実業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1349",
+      "school": "東京都立科学技術高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1350",
+      "school": "東京都立世田谷泉高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1353",
+      "school": "東京都立六郷工科高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1354",
+      "school": "東京都立総合工科高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1355",
+      "school": "東京都立橘高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1356",
+      "school": "東京都立八王子桑志高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1357",
+      "school": "東京都立多摩科学技術高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1358",
+      "school": "東京都立王子総合高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "1359",
+      "school": "東京都立つばさ総合高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "現在",
+      "code": "",
+      "school": "東京都立葛飾総合高等学校（総合学科メカトロニクス系列）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1301",
+      "school": "東京工業大学工学部附属工業高等学校⇒東京工業大学附属科学技術高等学校に改称・学科改編（2005年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1302",
+      "school": "東京都立足立工業高等学校⇒ 1302東京都立足立工科高等学校に改称（2023年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1303",
+      "school": "東京都立荒川工業高等学校⇒ 1303東京都立荒川工科高等学校に改称（2023年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1304",
+      "school": "東京都立王子工業高等学校⇒ 1358東京都立王子総合高等学校へ統廃合（2009年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1305",
+      "school": "東京都立化学工業高等学校⇒ 東京都立科学技術高等学校に統廃合（2001年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1306",
+      "school": "東京都立葛西工業高等学校⇒ 1306東京都立葛西工科高等学校に改称（2023年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1307",
+      "school": "東京都立烏山工業高等学校⇒ 1350 東京都立世田谷泉高等学校に統廃合（2002年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1308",
+      "school": "東京都立北豊島工業高等学校⇒ 1308東京都立北豊島工科高等学校に改称（2023年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1309",
+      "school": "東京都立砧工業高等学校⇒東京都立世田谷総合高等学校に統廃合（2007年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1310",
+      "school": "東京都立蔵前工業高等学校⇒ 1310東京都立蔵前工科高等学校に改称（2023年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1311",
+      "school": "東京都立小石川工業高等学校⇒ 1354 東京都立総合工科高等学校に統廃合（2008年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1313",
+      "school": "東京都立江東工業高等学校⇒ 東京都立科学技術高等学校に統廃合（2000年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1314",
+      "school": "東京都立小金井工業高等学校⇒ 1314東京都立小金井工科高等学校に改称（2023年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1315",
+      "school": "東京都立鮫洲工業高等学校⇒ 1353 東京都立六郷工科高等学校に統廃合（2007年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1316",
+      "school": "東京都立杉並工業高等学校⇒ 136東京都立杉並工科高等学校に改称（2023年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1317",
+      "school": "東京都立墨田工業高等学校⇒ 1317東京都立墨田工科高等学校に改称（2023年）1317 東京都立墨田工業高等学校月島分校⇒ 廃校（2004年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1318",
+      "school": "東京都立世田谷工業高等学校⇒ 1354 東京都立総合工科高等学校に統廃合（2009年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1319",
+      "school": "東京都立田無工業高等学校⇒ 1319東京都立田無工科高等学校に改称（2023年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1320",
+      "school": "東京都立多摩工業高等学校⇒ 1320東京都立多摩工科高等学校に改称（2023年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1321",
+      "school": "東京都立中野工業高等学校⇒ 1321東京都立中野工科高等学校に改称（2023年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1322",
+      "school": "東京都立練馬工業高等学校⇒ 1322東京都立練馬工科高等学校に改称（2023年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1323",
+      "school": "東京都立八王子工業高等学校⇒ 1356 東京都立八王子桑志高等学校に統廃合（2010年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1324",
+      "school": "東京都立羽田工業高等学校⇒ 全日制課程は1359東京都立つばさ総合高等学校に統廃合（2001年）⇒ 定時制課程は1353 東京都立六郷工科高等学校に統廃合（2007年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1325",
+      "school": "東京都立府中工業高等学校⇒ 1325東京都立府中工科高等学校に改称（2023年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1326",
+      "school": "東京都立本所工業高等学校⇒ 1326東京都立本所工科高等学校に改称（2023年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1327",
+      "school": "東京都立町田工業高等学校⇒ 1327東京都立町田工科高等学校に改称（2023年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1328",
+      "school": "東京都立港工業高等学校⇒ 1353 東京都立六郷工科高等学校に統廃合（2004年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1329",
+      "school": "東京都立向島工業高等学校⇒ 1355 東京都立橘高等学校へ統廃合（2010年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1333",
+      "school": "関東第一高等学校⇒ 工業に関する学科を廃止し脱会（2014年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1335",
+      "school": "国士舘高等学校⇒ 工業に関する学科を廃止し脱会（時期不明）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1339",
+      "school": "日本工業大学付属東京工業高等学校⇒日本工業大学駒場高等学校に改称・改編（2008年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1341",
+      "school": "東京電機大学高等学校⇒ 工業に関する学科を廃止し脱会（時期不明）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1342",
+      "school": "豊島学院高等学校⇒ 工業に関する学科を廃止し脱会"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1344",
+      "school": "目黒学院高等学校⇒ 工業に関する学科を廃止し脱会（時期不明）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1345",
+      "school": "安田学園高等学校⇒ 工業に関する学科を廃止し脱会（2014年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1347",
+      "school": "東京都立大田ろう学校⇒ 廃校（2007年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1348",
+      "school": "東京都立新宿山吹高等学校⇒ 工業に関する学科を廃止し脱会（時期不明）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "status": "改称・閉校・脱会等",
+      "code": "1351",
+      "school": "東京都立羽田工業高校⇒東京都立つばさ総合高等学校へ統廃合し全工協会脱会（2002年）⇒ 再加盟（時期不明）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "現在",
+      "code": "1401",
+      "school": "神奈川県立磯子工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "現在",
+      "code": "1403",
+      "school": "神奈川県立小田原城北工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "現在",
+      "code": "1404",
+      "school": "神奈川県立神奈川工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "現在",
+      "code": "1405",
+      "school": "神奈川県立川崎工科高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "現在",
+      "code": "1406",
+      "school": "神奈川県立神奈川総合産業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "現在",
+      "code": "1408",
+      "school": "神奈川県立商工高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "現在",
+      "code": "1409",
+      "school": "神奈川県立平塚工科高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "現在",
+      "code": "1411",
+      "school": "神奈川県立藤沢工科高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "現在",
+      "code": "1412",
+      "school": "神奈川県立向の岡工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "現在",
+      "code": "1413",
+      "school": "神奈川県立横須賀工業高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "現在",
+      "code": "1414",
+      "school": "川崎市立川崎総合科学高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "現在",
+      "code": "1421",
+      "school": "三浦学苑高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "現在",
+      "code": "1422",
+      "school": "横浜創学館高等学校"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "現在",
+      "code": "",
+      "school": "横浜市立横浜総合高等学校（総合学科エンジニア系列）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "現在",
+      "code": "",
+      "school": "横須賀市立横須賀総合高等学校（総合学科工学系列）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "現在",
+      "code": "",
+      "school": "厚木中央高等学校（通信制工業科）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "改称・閉校・脱会等",
+      "code": "1402",
+      "school": "神奈川県立大船工業技術高等学校⇒ 1411 神奈川県立藤沢工科高等学校に統廃合（2003年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "改称・閉校・脱会等",
+      "code": "1405",
+      "school": "神奈川県立川崎工業高等学校⇒ 1405 神奈川県立川崎工科高等学校に改編（2010年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "改称・閉校・脱会等",
+      "code": "1406",
+      "school": "神奈川県立相模台工業高等学校⇒ 1406 神奈川県立神奈川総合産業高等学校に統廃合（2005年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "改称・閉校・脱会等",
+      "code": "1407",
+      "school": "神奈川県立相模原工業技術高等学校⇒ 1406 神奈川県立神奈川総合産業高等学校に統廃合（2005年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "改称・閉校・脱会等",
+      "code": "1409",
+      "school": "神奈川県立平塚工業高等学校⇒ 1409 平塚工科高等学校に統廃合（2003年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "改称・閉校・脱会等",
+      "code": "1410",
+      "school": "神奈川県立平塚西工業技術高等学校⇒ 1409 平塚工科高等学校に統廃合（2003年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "改称・閉校・脱会等",
+      "code": "1411",
+      "school": "神奈川県立藤沢工業高等学校⇒ 1411 神奈川県立藤沢工科高等学校に統廃合（2003年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "改称・閉校・脱会等",
+      "code": "1414",
+      "school": "川崎市立工業高等学校⇒川崎市立川崎総合科学高等学校に改称・学科改編（1995年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "改称・閉校・脱会等",
+      "code": "1415",
+      "school": "横須賀市立工業高等学校⇒横須賀市立横須賀総合高等学校に統廃合、工業に関する学科を廃止し脱会（2003年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "改称・閉校・脱会等",
+      "code": "1416",
+      "school": "横浜市立鶴見工業高等学校⇒横浜サイエンスフロンティア高等学校に再編、工業に関する学科を廃止し脱会（2011年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "改称・閉校・脱会等",
+      "code": "1417",
+      "school": "横浜市立横浜工業高等学校⇒横浜市立横浜総合高等学校に統廃合、工業に関する学科を廃止し脱会（2005年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "改称・閉校・脱会等",
+      "code": "1418",
+      "school": "湘南工科大学附属高等学校⇒ 工業に関する学科を廃止し脱会（2000年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "改称・閉校・脱会等",
+      "code": "1419",
+      "school": "相洋高等学校⇒ 工業に関する学科を廃止し脱会（2001年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "改称・閉校・脱会等",
+      "code": "1420",
+      "school": "藤嶺学園藤沢高等学校⇒ 工業に関する学科を廃止し脱会（2000年？）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "改称・閉校・脱会等",
+      "code": "1421",
+      "school": "三浦高等学校⇒ 1421三浦学苑高等学校に改称（2009年）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "status": "改称・閉校・脱会等",
+      "code": "1422",
+      "school": "横浜商工高等学校⇒ 1422横浜創学館高等学校に改称（2003年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "status": "現在",
+      "code": "1603",
+      "school": "新潟県立糸魚川白嶺高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "status": "現在",
+      "code": "1604",
+      "school": "新潟県立柏崎工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "status": "現在",
+      "code": "1606",
+      "school": "新潟県立新潟県央工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "status": "現在",
+      "code": "1607",
+      "school": "新潟県立塩沢商工高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "status": "現在",
+      "code": "1608",
+      "school": "新潟県立新発田南高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "status": "現在",
+      "code": "1609",
+      "school": "新潟県立上越総合技術高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "status": "現在",
+      "code": "1612",
+      "school": "新潟県立栃尾高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "status": "現在",
+      "code": "1614",
+      "school": "新潟県立長岡工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "status": "現在",
+      "code": "1616",
+      "school": "新潟県立新潟工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "status": "現在",
+      "code": "1618",
+      "school": "新潟県立新津工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "status": "現在",
+      "code": "1621",
+      "school": "新潟県立佐渡総合高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "status": "現在",
+      "code": "",
+      "school": "新潟県立小千谷西高等学校（総合学科）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "status": "現在",
+      "code": "",
+      "school": "新潟県立十日町総合高等学校（総合学科）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "status": "現在",
+      "code": "",
+      "school": "新潟県立巻総合高等学校（総合学科）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "status": "改称・閉校・脱会等",
+      "code": "1601",
+      "school": "新潟県立相川高等学校⇒ 工業に関する学科を廃止し脱会（2003年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "status": "改称・閉校・脱会等",
+      "code": "1603",
+      "school": "新潟県立糸魚川商工高等学校⇒ 1603 新潟県立糸魚川白嶺高等学校に改称・改編（1998年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "status": "改称・閉校・脱会等",
+      "code": "1605",
+      "school": "新潟県立小千谷西高等学校⇒ 工業に関する学科を廃止し脱会（2003年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "status": "改称・閉校・脱会等",
+      "code": "1606",
+      "school": "新潟県立三条工業高等学校⇒ 1606 新潟県立新潟県央工業高等学校に改称（2004年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "status": "改称・閉校・脱会等",
+      "code": "1609",
+      "school": "新潟県立高田工業高等学校⇒ 1609 新潟県立上越総合技術高等学校に統廃合（2005年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "status": "改称・閉校・脱会等",
+      "code": "1610",
+      "school": "新潟県立燕工業高等学校⇒ 1606 新潟県立新潟県央工業高等学校に改称（2006年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "status": "改称・閉校・脱会等",
+      "code": "1611",
+      "school": "新潟県立十日町実業高等学校⇒新潟県立十日町総合高等学校に改称・改編（1995年）⇒ 工業に関する学科を廃止し脱会（1997年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "status": "改称・閉校・脱会等",
+      "code": "1613",
+      "school": "新潟県立直江津工業高等学校⇒ 1609 新潟県立上越総合技術高等学校に統廃合（2005年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "status": "改称・閉校・脱会等",
+      "code": "1615",
+      "school": "新潟県立中条工業高等学校⇒ 1608 新潟県立新発田南高等学校に統廃合（2008年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "status": "改称・閉校・脱会等",
+      "code": "1617",
+      "school": "新潟県立新潟東工業高等学校⇒ 1616 新潟県立新潟工業高等学校へ統廃合（2013年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "status": "改称・閉校・脱会等",
+      "code": "1619",
+      "school": "新潟県立巻工業高等学校⇒新潟県立巻総合高等学校に統廃合、工業に関する学科を廃止し脱会（2005年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "status": "改称・閉校・脱会等",
+      "code": "1620",
+      "school": "新潟市立高志高等学校⇒新潟市立高志中等教育学校へ統廃合、工業に関する学科を廃止し脱会（2013）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "status": "現在",
+      "code": "1801",
+      "school": "富山県立魚津工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "status": "現在",
+      "code": "1803",
+      "school": "富山県立桜井高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "status": "現在",
+      "code": "1805",
+      "school": "富山県立高岡工芸高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "status": "現在",
+      "code": "1806",
+      "school": "富山県立砺波工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "status": "現在",
+      "code": "1807",
+      "school": "富山県立富山工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "status": "現在",
+      "code": "1809",
+      "school": "富山県立富山北部高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "status": "現在",
+      "code": "1811",
+      "school": "富山県立滑川高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "status": "現在",
+      "code": "1812",
+      "school": "不二越工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "status": "現在",
+      "code": "",
+      "school": "富山県立富山聴覚総合支援学校（産業工芸科、機械科）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "status": "現在",
+      "code": "",
+      "school": "富山県立高岡聴覚総合支援学校（機械科）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "status": "現在",
+      "code": "",
+      "school": "富山県立富山総合支援学校（産業工芸科）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "status": "現在",
+      "code": "",
+      "school": "富山県立にいかわ総合支援学校（産業技術科）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "status": "現在",
+      "code": "",
+      "school": "富山県立となみ総合支援学校（産業技術科）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "status": "改称・閉校・脱会等",
+      "code": "1802",
+      "school": "富山県立大沢野工業高等学校⇒ 1807 富山県立富山工業高等学校に統廃合（2012年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "status": "改称・閉校・脱会等",
+      "code": "1804",
+      "school": "富山県立志貴野高等学校⇒ 工業に関する学科を廃止し脱会（2003年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "status": "改称・閉校・脱会等",
+      "code": "1808",
+      "school": "富山県立富山西高等学校⇒ 土木科を 1807 富山工業高等学校へ移設し脱会（2010年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "status": "改称・閉校・脱会等",
+      "code": "1810",
+      "school": "富山県立二上工業高等学校⇒ 1805富山県立高岡工芸高等学校に統廃合（2012年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "status": "改称・閉校・脱会等",
+      "code": "1814",
+      "school": "富山県立富山聴覚総合支援学校⇒ 脱会"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "status": "現在",
+      "code": "1902",
+      "school": "石川県立工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "status": "現在",
+      "code": "1903",
+      "school": "石川県立小松工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "status": "現在",
+      "code": "1905",
+      "school": "石川県立大聖寺実業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "status": "現在",
+      "code": "1907",
+      "school": "石川県立羽咋工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "status": "現在",
+      "code": "1910",
+      "school": "金沢市立工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "status": "現在",
+      "code": "1911",
+      "school": "石川県立金沢北陵高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "status": "現在",
+      "code": "1912",
+      "school": "石川県立七尾東雲高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "status": "現在",
+      "code": "1913",
+      "school": "日本航空高等学校石川"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "status": "現在",
+      "code": "1914",
+      "school": "石川県立飯田高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "status": "現在",
+      "code": "1915",
+      "school": "石川県立輪島高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "status": "現在",
+      "code": "",
+      "school": "石川県立金沢中央高等学校（総合学科スキルアップ系列）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "status": "改称・閉校・脱会等",
+      "code": "1904",
+      "school": "石川県立珠洲実業高等学校⇒ 1914 石川県立飯田高等学校に統廃合（2010年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "status": "改称・閉校・脱会等",
+      "code": "1906",
+      "school": "石川県立七尾工業高等学校⇒ 1912 石川県立七尾東雲高等学校に統廃合（2006年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "status": "改称・閉校・脱会等",
+      "code": "1908",
+      "school": "石川県立輪島実業高等学校⇒ 1915 石川県立輪島高等学校に統廃合（2010年3月閉校）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "status": "改称・閉校・脱会等",
+      "code": "1909",
+      "school": "石川県立高浜高等学校⇒石川県立志賀高等学校に統廃合（2011年閉校）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "status": "改称・閉校・脱会等",
+      "code": "1911",
+      "school": "石川県立金沢松陵工業高等学校⇒ 1911石川県立金沢北陵高等学校に改称・改編（1995年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "status": "改称・閉校・脱会等",
+      "code": "1913",
+      "school": "日本航空第二高等学校⇒日本航空高等学校石川に改称（2009年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "status": "現在",
+      "code": "2002",
+      "school": "福井県立科学技術高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "status": "現在",
+      "code": "2004",
+      "school": "福井県立敦賀工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "status": "現在",
+      "code": "2006",
+      "school": "福井県立若狭東高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "status": "現在",
+      "code": "2007",
+      "school": "福井工業大学附属福井高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "status": "現在",
+      "code": "2008",
+      "school": "福井県立奥越明成高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "status": "現在",
+      "code": "2009",
+      "school": "福井県立坂井高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "status": "現在",
+      "code": "2010",
+      "school": "福井県立武生商工高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "status": "現在",
+      "code": "",
+      "school": "福井県立福井農林高等学校（環境工学科）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "status": "改称・閉校・脱会等",
+      "code": "2001",
+      "school": "福井県立大野東高等学校⇒ 2008 福井県立奥越明成高等学校に統廃合（2013年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "status": "改称・閉校・脱会等",
+      "code": "2005",
+      "school": "福井県立春江工業高等学校⇒ 2009 福井県立坂井高等学校へ統廃合（2016年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "status": "改称・閉校・脱会等",
+      "code": "2008",
+      "school": "（旧）敦賀気比高等学校⇒ 工業に関する学科を廃止し脱会（2009年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "status": "改称・閉校・脱会等",
+      "code": "2003",
+      "school": "福井県立武生工業高等学校⇒ 2010 福井県立武生商工高等学校へ統廃合（2022年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "status": "現在",
+      "code": "1504",
+      "school": "山梨県立甲府工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "status": "現在",
+      "code": "1505",
+      "school": "山梨県立韮崎工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "status": "現在",
+      "code": "1507",
+      "school": "山梨県立甲府城西高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "status": "現在",
+      "code": "1508",
+      "school": "山梨県立富士北稜高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "status": "現在",
+      "code": "1509",
+      "school": "山梨県立都留興譲館高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "status": "現在",
+      "code": "1510",
+      "school": "山梨県立青洲高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "status": "現在",
+      "code": "",
+      "school": "山梨県立農林高等学校（環境土木科）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "status": "改称・閉校・脱会等",
+      "code": "1501",
+      "school": "?山梨県立機山工業高等学校⇒ 1507 山梨県立甲府城西高等学校に統廃合（1999年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "status": "改称・閉校・脱会等",
+      "code": "1502",
+      "school": "山梨県立北富士工業高等学校⇒ 1508 山梨県立富士北稜高等学校へ統廃合（2006年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "status": "改称・閉校・脱会等",
+      "code": "1506",
+      "school": "山梨県立谷村工業高等学校⇒ 1509 山梨県立都留興譲館高等学校に統廃合（2017年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "status": "改称・閉校・脱会等",
+      "code": "1503",
+      "school": "山梨県立峡南高等学校⇒ 1510 山梨県立青洲高等学校に統廃合 (2022年)"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "status": "改称・閉校・脱会等",
+      "code": "",
+      "school": "帝京第三高等学校⇒ 工業に関する学科を廃止し脱会（2008年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "status": "現在",
+      "code": "1703",
+      "school": "長野県池田工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "status": "現在",
+      "code": "1704",
+      "school": "長野県佐久平総合技術高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "status": "現在",
+      "code": "1705",
+      "school": "長野県上田千曲高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "status": "現在",
+      "code": "1707",
+      "school": "長野県岡谷工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "status": "現在",
+      "code": "1709",
+      "school": "長野県駒ヶ根工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "status": "現在",
+      "code": "1710",
+      "school": "長野県蘇南高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "status": "現在",
+      "code": "1711",
+      "school": "長野県長野工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "status": "現在",
+      "code": "1712",
+      "school": "長野県中野立志館高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "status": "現在",
+      "code": "1713",
+      "school": "長野県松本工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "status": "現在",
+      "code": "1714",
+      "school": "長野県丸子修学館高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "status": "現在",
+      "code": "1715",
+      "school": "長野県箕輪進修高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "status": "現在",
+      "code": "1716",
+      "school": "東京都市大学塩尻高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "status": "現在",
+      "code": "1717",
+      "school": "長野県木曽青峰高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "status": "現在",
+      "code": "1718",
+      "school": "長野県飯田OIDE長姫高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "status": "現在",
+      "code": "1719",
+      "school": "長野県須坂創成高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "status": "改称・閉校・脱会等",
+      "code": "1701",
+      "school": "長野県飯田工業高等学校⇒ 1718 長野県飯田OIDE長姫高等学校に統廃合（2013年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "status": "改称・閉校・脱会等",
+      "code": "1702",
+      "school": "長野県飯田長姫高等学校⇒ 1718 長野県飯田OIDE長姫高等学校に統廃合（2013年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "status": "改称・閉校・脱会等",
+      "code": "1704",
+      "school": "長野県岩村田高等学校⇒ 1704 長野県佐久平総合技術高等学校に統廃合（2015年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "status": "改称・閉校・脱会等",
+      "code": "1706",
+      "school": "長野県臼田高等学校⇒ 1704 長野県佐久平総合技術高等学校に統廃合（2015年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "status": "改称・閉校・脱会等",
+      "code": "1708",
+      "school": "長野県木曽山林高等学校⇒ 1717 長野県木曽青峰高等学校に統廃合（2009年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "status": "改称・閉校・脱会等",
+      "code": "1712",
+      "school": "長野県中野実業高等学校⇒ 1712長野県中野立志館高等学校（総合学科）に統廃合（2009年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "status": "改称・閉校・脱会等",
+      "code": "1713",
+      "school": "長野県松本工業高等学校⇒ 定時制課程が長野県松本筑摩高等学校に統廃合（2010年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "status": "改称・閉校・脱会等",
+      "code": "1714",
+      "school": "長野県丸子実業高等学校⇒長野県丸子修学館高等学校に改称・改編（2007年4月"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "status": "改称・閉校・脱会等",
+      "code": "1716",
+      "school": "武蔵工業大学付属信州工業高等学校⇒ 武蔵工業大学第二高等学校に改称・改編（2001年）⇒東京都市大学塩尻高等学校に改称（2009年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "status": "現在",
+      "code": "2301",
+      "school": "岐阜県立大垣工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "status": "現在",
+      "code": "2302",
+      "school": "岐阜県立可児工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "status": "現在",
+      "code": "2303",
+      "school": "岐阜県立岐南工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "status": "現在",
+      "code": "2304",
+      "school": "岐阜県立岐阜工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "status": "現在",
+      "code": "2305",
+      "school": "岐阜県立岐阜総合学園高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "status": "現在",
+      "code": "2306",
+      "school": "岐阜県立高山工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "status": "現在",
+      "code": "2307",
+      "school": "岐阜県立多治見工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "status": "現在",
+      "code": "2308",
+      "school": "岐阜県立中津川工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "status": "現在",
+      "code": "2309",
+      "school": "関市立関商工高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "status": "現在",
+      "code": "2310",
+      "school": "岐阜県立飛騨神岡高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "status": "現在",
+      "code": "2311",
+      "school": "岐阜第一高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "status": "現在",
+      "code": "",
+      "school": "岐阜県立郡上高等学校（総合学科情報システム系列）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "status": "現在",
+      "code": "",
+      "school": "岐阜県立土岐紅陵高等学校（総合学科）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "status": "改称・閉校・脱会等",
+      "code": "2305",
+      "school": "?岐阜県立岐阜西工業高等学校⇒ 2305 岐阜県立岐阜総合学園高等学校に統廃合（1997年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "status": "改称・閉校・脱会等",
+      "code": "2310",
+      "school": "?神岡町立神岡工業高等学校⇒ 2310 岐阜県立飛騨神岡高等学校に統廃合（1997年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "現在",
+      "code": "2101",
+      "school": "静岡県立浜松湖北高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "現在",
+      "code": "2102",
+      "school": "静岡県立掛川工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "現在",
+      "code": "2104",
+      "school": "静岡県立島田工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "現在",
+      "code": "2106",
+      "school": "静岡県立遠江総合高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "現在",
+      "code": "2107",
+      "school": "静岡県立伊豆総合高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "現在",
+      "code": "2108",
+      "school": "静岡県立天竜高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "現在",
+      "code": "2109",
+      "school": "静岡県立沼津工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "現在",
+      "code": "2110",
+      "school": "静岡県立浜松工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "現在",
+      "code": "2111",
+      "school": "静岡県立浜松城北工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "現在",
+      "code": "2112",
+      "school": "静岡県立藤枝北高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "現在",
+      "code": "2113",
+      "school": "静岡県立吉原工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "現在",
+      "code": "2116",
+      "school": "静清高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "現在",
+      "code": "2118",
+      "school": "静岡県立御殿場高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "現在",
+      "code": "2119",
+      "school": "静岡県立小笠高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "現在",
+      "code": "2120",
+      "school": "静岡県立科学技術高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "現在",
+      "code": "2121",
+      "school": "静岡県立富岳館高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "現在",
+      "code": "",
+      "school": "静岡県立浜松大平台高等学校（総合学科）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "現在",
+      "code": "",
+      "school": "静岡県立新居高等学校（普通科工業コース）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "現在",
+      "code": "",
+      "school": "静岡県立静岡中央高等学校（普通科）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "現在",
+      "code": "",
+      "school": "飛龍高等学校（自動車工業科）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "現在",
+      "code": "",
+      "school": "静岡県立駿河総合高等学校（総合学科）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "改称・閉校・脱会等",
+      "code": "2101",
+      "school": "静岡県立引佐高等学校⇒ 2101静岡県立浜松湖北高等学校に統廃合（2015年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "改称・閉校・脱会等",
+      "code": "2103",
+      "school": "静岡県立静岡工業高等学校⇒ 2120 静岡県立科学技術高等学校に統廃合（2008年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "改称・閉校・脱会等",
+      "code": "2105",
+      "school": "静岡県立清水工業高等学校⇒ 2120 静岡県立科学技術高等学校に統廃合（2008年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "改称・閉校・脱会等",
+      "code": "2106",
+      "school": "静岡県立周智高等学校⇒ 2106 静岡県立遠江総合高等学校に統廃合（2009年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "改称・閉校・脱会等",
+      "code": "2107",
+      "school": "静岡県立修善寺工業高等学校⇒ 2107 静岡県立伊豆総合高等学校に統廃合（2010年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "改称・閉校・脱会等",
+      "code": "2108",
+      "school": "静岡県立天竜林業高等学校⇒ 2108 静岡県立天竜高等学校に統廃合（2014年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "改称・閉校・脱会等",
+      "code": "2114",
+      "school": "磐田東高等学校⇒ 工業に関する学科を廃止し脱会（2005年？）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "改称・閉校・脱会等",
+      "code": "2115",
+      "school": "?東海大学工業高等学校⇒東海大学付属翔洋高等学校に統廃合、工業に関する学科を廃止し脱会（1999年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "status": "改称・閉校・脱会等",
+      "code": "2116",
+      "school": "静清工業高等学校⇒ 2116静清高等学校に改称（2010年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2203",
+      "school": "愛知県立一宮工科高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2204",
+      "school": "愛知県立岡崎工科高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2205",
+      "school": "愛知県立一宮起工科高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2206",
+      "school": "愛知県立春日井工科高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2207",
+      "school": "愛知県立刈谷工科高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2208",
+      "school": "愛知県立刈谷東高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2209",
+      "school": "愛知県立小牧工科高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2210",
+      "school": "愛知県立愛西工科高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2212",
+      "school": "愛知県立瀬戸工科高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2215",
+      "school": "愛知県立豊川工科高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2216",
+      "school": "愛知県立豊田工科高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2217",
+      "school": "愛知県立豊橋工科高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2218",
+      "school": "愛知県立鶴城丘高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2219",
+      "school": "愛知県立半田工科高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2221",
+      "school": "愛知県立碧南工科高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2222",
+      "school": "愛知県立名古屋工科高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2223",
+      "school": "名古屋市立工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2225",
+      "school": "名古屋市立工芸高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2226",
+      "school": "享栄高等学校（機械科）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2227",
+      "school": "大同大学大同高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2229",
+      "school": "名古屋たちばな高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2230",
+      "school": "名古屋工業高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2231",
+      "school": "中部大学第一高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2232",
+      "school": "愛知産業大学三河高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2233",
+      "school": "名城大学附属高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2234",
+      "school": "愛知工業大学名電高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2235",
+      "school": "愛知県立常滑高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2236",
+      "school": "愛知県立愛知総合工科高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "2237",
+      "school": "愛知県立城北つばさ高等学校"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "現在",
+      "code": "",
+      "school": "愛知県立猿投農林高等学校（環境デザイン科）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "改称・閉校・脱会等",
+      "code": "2201",
+      "school": "愛知県立愛知工業高等学校⇒ 全日制課程が愛知県立愛知総合工科高等学校に統廃合（2015年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "改称・閉校・脱会等",
+      "code": "2202",
+      "school": "? 愛知県立第二愛知工業高等学校 ⇒ 2201愛知県立愛知工業高等学校に統廃合（1998年）⇒ 2237愛知県立城北つばさ高等学校に改称（2017年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "改称・閉校・脱会等",
+      "code": "2211",
+      "school": "? 愛知県立星南工業高等学校 ⇒ 2222愛知県立名南工業高等学校に統廃合（1994年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "改称・閉校・脱会等",
+      "code": "2213",
+      "school": "愛知県立東海商業高等学校⇒ 脱会（2007年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "改称・閉校・脱会等",
+      "code": "2214",
+      "school": "愛知県立常滑高等学校⇒ 2235 愛知県立常滑高等学校に統合（2008年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "改称・閉校・脱会等",
+      "code": "2218",
+      "school": "愛知県立西尾実業高等学校⇒愛知県立鶴城丘高等学校に改称・改編（2004年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "改称・閉校・脱会等",
+      "code": "2220",
+      "school": "愛知県立東山工業高等学校⇒ 愛知県愛知総合工科高等学校に統廃合（2011年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "改称・閉校・脱会等",
+      "code": "2224",
+      "school": "名古屋市立第二工業高等学校 ⇒ 2223名古屋市立工業高等学校に統廃合（2002年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "改称・閉校・脱会等",
+      "code": "2227",
+      "school": "大同高等学校⇒ 大同工業大学大同高等学校に改称（2002年）⇒大同大学大同高等学校に改称（2009年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "改称・閉校・脱会等",
+      "code": "2229",
+      "school": "東海工業高等学校⇒愛知産業大学工業高等学校に改称（2001年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "改称・閉校・脱会等",
+      "code": "2231",
+      "school": "名古屋第一高等学校⇒中部大学第一高等学校に改称（2003年）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "status": "改称・閉校・脱会等",
+      "code": "",
+      "school": "愛知県立新城高等学校（農業工学科,環境デザイン科）⇒愛知県立新城有教館高等学校に統合（2021年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "status": "現在",
+      "code": "2401",
+      "school": "三重県立伊勢工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "status": "現在",
+      "code": "2402",
+      "school": "三重県立伊勢まなび高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "status": "現在",
+      "code": "2405",
+      "school": "三重県立桑名工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "status": "現在",
+      "code": "2406",
+      "school": "三重県立津工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "status": "現在",
+      "code": "2407",
+      "school": "三重県立名張西高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "status": "現在",
+      "code": "2408",
+      "school": "三重県立松阪工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "status": "現在",
+      "code": "2409",
+      "school": "三重県立四日市工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "status": "現在",
+      "code": "2410",
+      "school": "三重県立四日市中央工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "status": "現在",
+      "code": "2411",
+      "school": "三重県立尾鷲高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "status": "現在",
+      "code": "2412",
+      "school": "三重県立伊賀白鳳高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "status": "現在",
+      "code": "",
+      "school": "三重県立久居農林高等学校（土木・機械コース）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "status": "現在",
+      "code": "",
+      "school": "三重県立相可高等学校（環境創造科）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "status": "改称・閉校・脱会等",
+      "code": "2402",
+      "school": "三重県立伊勢実業高等学校⇒ 2402三重県立伊勢まなび高等学校に改称・改編（2004年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "status": "改称・閉校・脱会等",
+      "code": "2403",
+      "school": "三重県立上野工業高等学校⇒ 2412 三重県立伊賀白鳳高等学校に統廃合（2011年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "status": "改称・閉校・脱会等",
+      "code": "2404",
+      "school": "三重県立尾鷲工業高等学校⇒ 2411 三重県立尾鷲高等学校に統廃合（2003年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "status": "現在",
+      "code": "2501",
+      "school": "滋賀県立甲南高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "status": "現在",
+      "code": "2502",
+      "school": "滋賀県立国際情報高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "status": "現在",
+      "code": "2503",
+      "school": "滋賀県立信楽高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "status": "現在",
+      "code": "2504",
+      "school": "滋賀県立瀬田工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "status": "現在",
+      "code": "2505",
+      "school": "滋賀県立瀬田高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "status": "現在",
+      "code": "2506",
+      "school": "滋賀県立長浜北星高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "status": "現在",
+      "code": "2507",
+      "school": "滋賀県立八幡工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "status": "現在",
+      "code": "2508",
+      "school": "滋賀県立彦根工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "status": "現在",
+      "code": "2509",
+      "school": "滋賀県立安曇川高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "status": "現在",
+      "code": "2601",
+      "school": "京都府立工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "status": "現在",
+      "code": "2602",
+      "school": "京都府立田辺高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "status": "現在",
+      "code": "2603",
+      "school": "京都府立峰山高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "status": "現在",
+      "code": "2604",
+      "school": "京都府立宮津天橋高校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "status": "現在",
+      "code": "2605",
+      "school": "京都市立伏見工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "status": "現在",
+      "code": "2606",
+      "school": "京都市立洛陽工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "status": "現在",
+      "code": "2607",
+      "school": "京都府立南丹高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "status": "現在",
+      "code": "2608",
+      "school": "京都市立京都工学院高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "status": "現在",
+      "code": "",
+      "school": "京都府立海洋高等学校（海洋工学科海洋技術コース）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "status": "改称・閉校・脱会等",
+      "code": "2601",
+      "school": "京都府立石原高等学校⇒ 2601京都府立工業高等学校に改称（1990年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "status": "改称・閉校・脱会等",
+      "code": "2604",
+      "school": "京都府立宮津高等学校⇒ 2604京都府立宮津天橋高校へ統合（2023年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "status": "改称・閉校・脱会等",
+      "code": "",
+      "school": "花園高等学校⇒ 工業に関する学科を廃止し脱会（2008年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2708",
+      "school": "大阪府立枚岡樟風高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2715",
+      "school": "大阪府立生野工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2717",
+      "school": "大阪府立泉尾工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2719",
+      "school": "大阪府立工芸高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2720",
+      "school": "大阪市立第二工芸高等学校（2022年度入学者より大阪府立工芸高等学校定時制に再編）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2721",
+      "school": "大阪府立咲くやこの花高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2722",
+      "school": "大阪府立東淀工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2723",
+      "school": "大阪府立都島工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2724",
+      "school": "大阪市立都島第二工業高等学校（2022年度入学者より大阪府立都島工業高等学校定時制に再編）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2725",
+      "school": "岸和田市立産業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2730",
+      "school": "大阪電気通信大学高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2732",
+      "school": "星翔高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2733",
+      "school": "大阪府立だいせん聴覚高等支援学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2734",
+      "school": "大阪市立西高等学校（募集停止）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2735",
+      "school": "大阪府立港南造形高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2736",
+      "school": "大阪府立今宮工科高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2737",
+      "school": "大阪府立茨木工科高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2738",
+      "school": "大阪府立堺工科高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2739",
+      "school": "大阪府立佐野工科高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2740",
+      "school": "大阪府立城東工科高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2741",
+      "school": "大阪府立西野田工科高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2742",
+      "school": "大阪府立藤井寺工科高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2743",
+      "school": "大阪府立布施工科高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2744",
+      "school": "大阪府立淀川工科高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2745",
+      "school": "大阪府立成城高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2746",
+      "school": "大阪府立東住吉総合高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2747",
+      "school": "大阪府立和泉総合高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "2748",
+      "school": "堺市立堺高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "",
+      "school": "大阪府立松原高等学校（総合学科）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "",
+      "school": "大阪府立桃谷高等学校（多部制単位制普通科）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "現在",
+      "code": "",
+      "school": "向陽台高等学校（通信制建築科）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "改称・閉校・脱会等",
+      "code": "2701",
+      "school": "大阪府立和泉工業高等学校⇒ 2747大阪府立和泉総合高等学校に再編（2005 - 2008年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "改称・閉校・脱会等",
+      "code": "2702",
+      "school": "大阪府立茨木工業高等学校⇒ 2737大阪府立茨木工科高等学校に再編（2005 - 2008年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "改称・閉校・脱会等",
+      "code": "2703",
+      "school": "大阪府立今宮工業高等学校⇒ 2736大阪府立今宮工科高等学校に再編（2005 - 2008年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "改称・閉校・脱会等",
+      "code": "2704",
+      "school": "大阪府立港南高等学校⇒ 2735大阪府立港南造形高等学校に改称・改編（2003 - 2005年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "改称・閉校・脱会等",
+      "code": "2705",
+      "school": "大阪府立堺工業高等学校⇒ 2738大阪府立堺工科高等学校に再編（2005 - 2007年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "改称・閉校・脱会等",
+      "code": "2706",
+      "school": "大阪府立佐野工業高等学校⇒ 2739大阪府立佐野工科高等学校に再編（2005 - 2008年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "改称・閉校・脱会等",
+      "code": "2707",
+      "school": "大阪府立城東工業高等学校⇒ 2740大阪府立城東工科高等学校に再編（2005 - 2009年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "改称・閉校・脱会等",
+      "code": "2709",
+      "school": "大阪府立成城工業高等学校⇒ 2745大阪府立成城高等学校に再編（2005 - 2008年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "改称・閉校・脱会等",
+      "code": "2710",
+      "school": "大阪府立西野田工業高等学校⇒ 2741大阪府立西野田工科高等学校に再編（2005 - 2008年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "改称・閉校・脱会等",
+      "code": "2711",
+      "school": "大阪府立東住吉工業高等学校⇒ 2746大阪府立東住吉総合高等学校に再編（2005 - 2009年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "改称・閉校・脱会等",
+      "code": "2712",
+      "school": "大阪府立藤井寺工業高等学校⇒ 2742大阪府立藤井寺工科高等学校に再編（2005 - 2008年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "改称・閉校・脱会等",
+      "code": "2713",
+      "school": "大阪府立布施工業高等学校⇒ 2743大阪府立布施工科高等学校に再編（2005 - 2009年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "改称・閉校・脱会等",
+      "code": "2714",
+      "school": "大阪府立淀川工業高等学校⇒ 2744大阪府立淀川工科高等学校に再編（2005 - 2009年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "改称・閉校・脱会等",
+      "code": "2708",
+      "school": "大阪府立食品産業高等学校⇒ 2708大阪府立枚岡樟風高等学校に統廃合（2003年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "改称・閉校・脱会等",
+      "code": "2716",
+      "school": "大阪市立生野第二工業高等学校⇒ 廃校（2004年3月）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "改称・閉校・脱会等",
+      "code": "2718",
+      "school": "大阪市立泉尾第二工業高等学校⇒ 廃校（2004年3月）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "改称・閉校・脱会等",
+      "code": "2721",
+      "school": "大阪市立此花工業高等学校⇒ 2721大阪市立此花総合高等学校に改称・改編（1998年）⇒ 2721大阪市立咲くやこの花高等学校に統廃合（2010年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "改称・閉校・脱会等",
+      "code": "2726",
+      "school": "堺市立工業高等学校⇒ 2748 堺市立堺高等学校に統廃合（2010年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "改称・閉校・脱会等",
+      "code": "2727",
+      "school": "堺市立第二工業高等学校⇒ 2748 堺市立堺高等学校に統廃合（2010年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "改称・閉校・脱会等",
+      "code": "2728",
+      "school": "大阪工業大学高等学校⇒ 工業に関する学科を廃止し脱会（2003年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "改称・閉校・脱会等",
+      "code": "2729",
+      "school": "大阪産業大学高等学校⇒大阪産業大学附属高等学校に改称（1996年）⇒ 工業に関する学科を廃止し脱会（1998年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "改称・閉校・脱会等",
+      "code": "2731",
+      "school": "太成高等学校⇒ 2731 太成学院大学高等学校に改称（2003年）2731太成学院大学高等学校（総合工学科）⇒ 工業に関する学科を廃止（2012年）、2023年現在脱会はしていない"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "改称・閉校・脱会等",
+      "code": "2732",
+      "school": "浪速工業高等学校⇒星翔高等学校に改称・改編（1995年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "status": "改称・閉校・脱会等",
+      "code": "2733",
+      "school": "大阪府立生野高等聾学校⇒ 2733 大阪府立だいせん高等聾学校に統廃合（2006年）⇒ 2733大阪府立だいせん聴覚高等支援学校に改称（2008年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "現在",
+      "code": "2801",
+      "school": "兵庫県立相生産業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "現在",
+      "code": "2802",
+      "school": "兵庫県立尼崎工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "現在",
+      "code": "2803",
+      "school": "兵庫県立小野工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "現在",
+      "code": "2804",
+      "school": "兵庫県立神崎工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "現在",
+      "code": "2805",
+      "school": "兵庫県立神戸工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "現在",
+      "code": "2806",
+      "school": "兵庫県立飾磨工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "現在",
+      "code": "2807",
+      "school": "兵庫県立篠山産業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "現在",
+      "code": "2809",
+      "school": "兵庫県立洲本実業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "現在",
+      "code": "2811",
+      "school": "兵庫県立東播工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "現在",
+      "code": "2812",
+      "school": "兵庫県立豊岡総合高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "現在",
+      "code": "2813",
+      "school": "兵庫県立西脇工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "現在",
+      "code": "2814",
+      "school": "兵庫県立姫路工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "現在",
+      "code": "2816",
+      "school": "兵庫県立兵庫工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "現在",
+      "code": "2823",
+      "school": "彩星工科高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "現在",
+      "code": "2824",
+      "school": "兵庫県立武庫荘総合高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "現在",
+      "code": "2825",
+      "school": "神戸市立科学技術高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "現在",
+      "code": "2826",
+      "school": "神戸市立神戸工科高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "現在",
+      "code": "2827",
+      "school": "兵庫県立龍野北高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "現在",
+      "code": "2828",
+      "school": "尼崎市立尼崎双星高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "現在",
+      "code": "2829",
+      "school": "尼崎市立琴ノ浦高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "改称・閉校・脱会等",
+      "code": "2808",
+      "school": "兵庫県立白鷺工業高等学校⇒ 廃校（2006年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "改称・閉校・脱会等",
+      "code": "2810",
+      "school": "兵庫県立龍野実業高等学校⇒ 2827 兵庫県立龍野北高等学校に統廃合（2010年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "改称・閉校・脱会等",
+      "code": "2812",
+      "school": "兵庫県立豊岡実業高等学校⇒ 2812 兵庫県立豊岡総合高等学校に統廃合（2003年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "改称・閉校・脱会等",
+      "code": "2815",
+      "school": "兵庫県立姫路産業技術高等学校⇒ 廃校（2005年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "改称・閉校・脱会等",
+      "code": "2817",
+      "school": "兵庫県立武庫工業高等学校⇒ 2824 兵庫県立武庫荘総合高等学校に統廃合（2005年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "改称・閉校・脱会等",
+      "code": "2818",
+      "school": "尼崎市立尼崎工業高等学校⇒ 2829 尼崎市立琴ノ浦高等学校に統廃合（2016年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "改称・閉校・脱会等",
+      "code": "2819",
+      "school": "尼崎市立尼崎産業高等学校⇒ 2828 尼崎市立尼崎双星高等学校に統廃合（2013年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "改称・閉校・脱会等",
+      "code": "2820",
+      "school": "神戸市立長田工業高等学校⇒ 2826 神戸市立神戸工科高等学校に統廃合（2007年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "改称・閉校・脱会等",
+      "code": "2821",
+      "school": "神戸市立神戸工業高等学校⇒ 2825 神戸市立科学技術高等学校に統廃合（2006年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "改称・閉校・脱会等",
+      "code": "2822",
+      "school": "神戸市立御影工業高等学校⇒ 2825 神戸市立科学技術高等学校に統廃合（2007年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "status": "改称・閉校・脱会等",
+      "code": "2823",
+      "school": "神戸村野工業高等学校⇒ 彩星工科高等学校に改称（2023年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "status": "現在",
+      "code": "2901",
+      "school": "奈良県立王寺工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "status": "現在",
+      "code": "2904",
+      "school": "奈良県立奈良南高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "status": "現在",
+      "code": "2906",
+      "school": "奈良県立奈良商工高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "status": "現在",
+      "code": "2907",
+      "school": "奈良県立御所実業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "status": "改称・閉校・脱会等",
+      "code": "2902",
+      "school": "奈良県立御所工業高等学校⇒ 2907 奈良県立御所実業高等学校に統廃合（2009年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "status": "改称・閉校・脱会等",
+      "code": "2903",
+      "school": "奈良県立奈良工業高等学校⇒ 2906 奈良県立奈良朱雀高等学校に統廃合（2009年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "status": "改称・閉校・脱会等",
+      "code": "2904",
+      "school": "奈良県立吉野高等学校⇒ 2904 奈良県立奈良南高等学校に統廃合（2020年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "status": "改称・閉校・脱会等",
+      "code": "2905",
+      "school": "奈良大学附属高等学校⇒ 工業に関する学科を廃止し脱会（2007年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "status": "改称・閉校・脱会等",
+      "code": "2906",
+      "school": "奈良県立奈良朱雀高等学校⇒ 2906 奈良県立奈良商工高等学校に改称（2021年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "status": "現在",
+      "code": "3001",
+      "school": "和歌山県立紀北工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "status": "現在",
+      "code": "3002",
+      "school": "和歌山県立紀央館高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "status": "現在",
+      "code": "3004",
+      "school": "和歌山県立田辺工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "status": "現在",
+      "code": "3005",
+      "school": "和歌山県立箕島高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "status": "現在",
+      "code": "3006",
+      "school": "和歌山県立和歌山工業高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "status": "現在",
+      "code": "3008",
+      "school": "和歌山県立和歌山高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "status": "現在",
+      "code": "3009",
+      "school": "和歌山県立新翔高等学校"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "status": "現在",
+      "code": "",
+      "school": "和歌山県立紀北農芸高等学校（環境工学科）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "status": "現在",
+      "code": "",
+      "school": "和歌山県立熊野高等学校（総合学科）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "status": "改称・閉校・脱会等",
+      "code": "3002",
+      "school": "和歌山県立御坊商工高等学校⇒ 3002和歌山県立紀央館高等学校に改称・改編（2003年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "status": "改称・閉校・脱会等",
+      "code": "3003",
+      "school": "和歌山県立新宮高等学校⇒ 工業に関する学科を廃止し脱会（2009年）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "status": "改称・閉校・脱会等",
+      "code": "3007",
+      "school": "和歌山県立和歌山第二工業高等学校⇒ 3006 和歌山工業高等学校に統廃合（2010年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "status": "現在",
+      "code": "3103",
+      "school": "鳥取県立鳥取工業高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "status": "現在",
+      "code": "3105",
+      "school": "鳥取県立米子工業高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "status": "現在",
+      "code": "3106",
+      "school": "鳥取県立鳥取湖陵高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "status": "現在",
+      "code": "3107",
+      "school": "鳥取県立境港総合技術高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "status": "現在",
+      "code": "3108",
+      "school": "鳥取県立倉吉総合産業高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "status": "現在",
+      "code": "",
+      "school": "鳥取県立倉吉農業高等学校（環境土木科）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "status": "改称・閉校・脱会等",
+      "code": "3101",
+      "school": "鳥取県立倉吉工業高等学校⇒ 3108 鳥取県立倉吉総合産業高等学校に統廃合（2005年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "status": "改称・閉校・脱会等",
+      "code": "3102",
+      "school": "鳥取県立境港工業高等学校⇒ 3107 鳥取県立境港総合技術高等学校に統廃合（2005年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "status": "改称・閉校・脱会等",
+      "code": "3104",
+      "school": "鳥取県立鳥取西工業高等学校⇒ 3106 鳥取県立鳥取湖陵高等学校に統廃合（2001年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "status": "現在",
+      "code": "3201",
+      "school": "島根県立出雲工業高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "status": "現在",
+      "code": "3202",
+      "school": "島根県立江津工業高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "status": "現在",
+      "code": "3204",
+      "school": "島根県立松江工業高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "status": "現在",
+      "code": "3205",
+      "school": "島根県立益田翔陽高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "status": "現在",
+      "code": "",
+      "school": "島根県立矢上高等学校（産業技術科 工業コース）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "status": "現在",
+      "code": "",
+      "school": "益田東高等学校（自動車科）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "status": "現在",
+      "code": "",
+      "school": "島根県立松江農林高等学校（環境土木科）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "status": "改称・閉校・脱会等",
+      "code": "3203",
+      "school": "島根県立益田工業高等学校⇒ 3205 島根県立益田翔陽高等学校に統廃合（2008年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "status": "改称・閉校・脱会等",
+      "code": "",
+      "school": "島根県立益田産業高等学校（環境土木科）⇒ 3205 島根県立益田翔陽高等学校に統廃合（2008年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "現在",
+      "code": "3301",
+      "school": "岡山県立岡山工業高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "現在",
+      "code": "3302",
+      "school": "岡山県立笠岡工業高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "現在",
+      "code": "3303",
+      "school": "岡山県立倉敷工業高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "現在",
+      "code": "3305",
+      "school": "岡山県立玉野光南高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "現在",
+      "code": "3306",
+      "school": "岡山県立津山工業高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "現在",
+      "code": "3308",
+      "school": "岡山県立東岡山工業高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "現在",
+      "code": "3309",
+      "school": "岡山県立備前緑陽高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "現在",
+      "code": "3310",
+      "school": "岡山県立水島工業高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "現在",
+      "code": "3312",
+      "school": "倉敷市立工業高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "現在",
+      "code": "3313",
+      "school": "玉野市立玉野備南高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "現在",
+      "code": "3314",
+      "school": "岡山理科大学附属高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "現在",
+      "code": "3315",
+      "school": "関西高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "現在",
+      "code": "3316",
+      "school": "岡山商科大学附属高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "現在",
+      "code": "3317",
+      "school": "興譲館高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "現在",
+      "code": "3318",
+      "school": "おかやま山陽高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "現在",
+      "code": "3319",
+      "school": "岡山県立高梁城南高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "現在",
+      "code": "3320",
+      "school": "岡山県立新見高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "現在",
+      "code": "3321",
+      "school": "岡山県立勝間田高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "現在",
+      "code": "",
+      "school": "岡山県立興陽高等学校（農業機械科）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "現在",
+      "code": "",
+      "school": "岡山県立弓削高等学校（環境技術科・環境デザイン科）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "現在",
+      "code": "",
+      "school": "岡山県立岡山聾学校（産業工芸科）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "現在",
+      "code": "",
+      "school": "岡山市立岡山後楽館高等学校（総合学科）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "現在",
+      "code": "",
+      "school": "吉備高原学園高等学校（普通科建築技能コース）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "改称・閉校・脱会等",
+      "code": "3304",
+      "school": "岡山県立高梁工業高等学校⇒ 3319 岡山県立高梁城南高等学校に統廃合（2006年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "改称・閉校・脱会等",
+      "code": "3307",
+      "school": "岡山県立新見北高等学校⇒ 3320 岡山県立新見高等学校 北校地に統廃合（2007年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "改称・閉校・脱会等",
+      "code": "3309",
+      "school": "岡山県立備前高等学校⇒ 3309 岡山県立備前緑陽高等学校に統廃合（2003年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "改称・閉校・脱会等",
+      "code": "3311",
+      "school": "岡山市立岡山後楽館高等学校伊福校舎⇒ 廃校（2002年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "改称・閉校・脱会等",
+      "code": "3313",
+      "school": "玉野市立備南高等学校⇒ 3313 玉野市立玉野備南高等学校に改称・改編（2003年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "改称・閉校・脱会等",
+      "code": "3316",
+      "school": "吉備高等学校⇒ 3316 岡山商科大学附属高等学校に改称・改編（1994年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "status": "改称・閉校・脱会等",
+      "code": "3318",
+      "school": "岡山県山陽高等学校⇒ 3318 おかやま山陽高等学校に改称・改編（2002年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "status": "現在",
+      "code": "3401",
+      "school": "広島県立因島高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "status": "現在",
+      "code": "3403",
+      "school": "広島県立神辺高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "status": "現在",
+      "code": "3405",
+      "school": "広島県立呉工業高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "status": "現在",
+      "code": "3406",
+      "school": "広島県立広島工業高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "status": "現在",
+      "code": "3407",
+      "school": "広島県立福山工業高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "status": "現在",
+      "code": "3408",
+      "school": "広島県立府中東高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "status": "現在",
+      "code": "3410",
+      "school": "広島県立三次青陵高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "status": "現在",
+      "code": "3411",
+      "school": "広島県立宮島工業高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "status": "現在",
+      "code": "3412",
+      "school": "広島市立広島工業高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "status": "現在",
+      "code": "3413",
+      "school": "尾道高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "status": "現在",
+      "code": "3414",
+      "school": "呉港高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "status": "現在",
+      "code": "3415",
+      "school": "山陽高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "status": "現在",
+      "code": "3418",
+      "school": "如水館高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "status": "現在",
+      "code": "3419",
+      "school": "広島県立総合技術高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "status": "現在",
+      "code": "",
+      "school": "広島県立西条農業高等学校（農業機械科・緑地土木科）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "status": "現在",
+      "code": "",
+      "school": "広島県立庄原実業高等学校（環境工学科）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "status": "改称・閉校・脱会等",
+      "code": "3402",
+      "school": "広島県立尾道工業高等学校⇒ 3419 広島県立総合技術高等学校に統廃合（2007年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "status": "改称・閉校・脱会等",
+      "code": "3404",
+      "school": "広島県立木江工業高等学校⇒ 3404 広島県立大崎海星高等学校に統廃合（1998年）3404広島県立大崎海星高等学校⇒ 工業に関する学科を廃止し脱会（2012年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "status": "改称・閉校・脱会等",
+      "code": "3409",
+      "school": "広島県立本郷工業高等学校⇒ 3419 広島県立総合技術高等学校に統廃合（2005年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "status": "改称・閉校・脱会等",
+      "code": "3410",
+      "school": "広島県三次工業高等学校⇒広島県立三次青陵高等学校に改称・改編（1996年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "status": "改称・閉校・脱会等",
+      "code": "3413",
+      "school": "広島県尾道高等学校⇒尾道高等学校に改称（2006年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "status": "改称・閉校・脱会等",
+      "code": "3416",
+      "school": "広島工業大学高等学校⇒ 工業に関する学科を廃止し脱会（2006年3月）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "status": "改称・閉校・脱会等",
+      "code": "3417",
+      "school": "? 広島電機大学附属高等学校⇒ 3417 広島国際学院高等学校に改称（1999年4月）3417広島国際学院高等学校⇒ 工業に関する学科を廃止し脱会（2012年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "現在",
+      "code": "3501",
+      "school": "山口県立岩国工業高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "現在",
+      "code": "3502",
+      "school": "山口県立宇部工業高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "現在",
+      "code": "3503",
+      "school": "山口県立小野田工業高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "現在",
+      "code": "3504",
+      "school": "山口県立下松工業高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "現在",
+      "code": "3509",
+      "school": "山口県立南陽工業高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "現在",
+      "code": "3513",
+      "school": "宇部鴻城高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "現在",
+      "code": "3514",
+      "school": "下関国際高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "現在",
+      "code": "3515",
+      "school": "聖光高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "現在",
+      "code": "3516",
+      "school": "早鞆高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "現在",
+      "code": "3518",
+      "school": "山口県桜ケ丘高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "現在",
+      "code": "3520",
+      "school": "山口県立柳井商工高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "現在",
+      "code": "3521",
+      "school": "山口県立徳山商工高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "現在",
+      "code": "3522",
+      "school": "山口県立萩商工高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "現在",
+      "code": "3523",
+      "school": "山口県立美祢青嶺高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "現在",
+      "code": "3524",
+      "school": "山口県立田布施農工高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "現在",
+      "code": "3525",
+      "school": "山口県立防府商工高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "現在",
+      "code": "3526",
+      "school": "山口県立下関工科高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "現在",
+      "code": "3527",
+      "school": "山口県立山口南総合支援学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "現在",
+      "code": "3528",
+      "school": "山口県立下関双葉高等学校"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "改称・閉校・脱会等",
+      "code": "3507",
+      "school": "山口県立田布施工業高等学校⇒ 3524 山口県立田布施農工高等学校に統廃合（2012年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "改称・閉校・脱会等",
+      "code": "3508",
+      "school": "山口県立徳山工業高等学校⇒ 3521 山口県立徳山商工高等学校に統廃合（2008年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "改称・閉校・脱会等",
+      "code": "3510",
+      "school": "山口県立萩工業高等学校⇒ 3522 山口県立萩商工高等学校に統廃合（2008年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "改称・閉校・脱会等",
+      "code": "3511",
+      "school": "山口県立美祢工業高等学校⇒ 3523 山口県立青嶺高等学校に統廃合（2009年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "改称・閉校・脱会等",
+      "code": "3512",
+      "school": "山口県立柳井工業高等学校⇒ 3520 山口県立柳井商工高等学校に統廃合（2008年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "改称・閉校・脱会等",
+      "code": "3517",
+      "school": "山口県鴻城高等学校⇒ 工業に関する学科を廃止し脱会（2010年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "改称・閉校・脱会等",
+      "code": "3519",
+      "school": "多々良学園高等学校⇒ 3519 高川学園高等学校に改称（2006年）⇒ 工業に関する学科を廃止し脱会（2014年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "改称・閉校・脱会等",
+      "code": "3505",
+      "school": "山口県立下関工業高等学校⇒ 3526 山口県立下関工科高等学校に統廃合（2016年）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "status": "改称・閉校・脱会等",
+      "code": "3506",
+      "school": "山口県立下関中央工業高等学校⇒ 同上"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "status": "現在",
+      "code": "3602",
+      "school": "徳島県立つるぎ高等学校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "status": "現在",
+      "code": "3607",
+      "school": "徳島県立徳島科学技術高等学校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "status": "現在",
+      "code": "3608",
+      "school": "徳島県立鳴門渦潮高等学校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "status": "現在",
+      "code": "3609",
+      "school": "徳島県立阿南光高等学校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "status": "改称・閉校・脱会等",
+      "code": "3601",
+      "school": "徳島県立阿南工業高等学校⇒ 3609 徳島県立阿南光高等学校に統廃合（2018年）"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "status": "改称・閉校・脱会等",
+      "code": "3602",
+      "school": "徳島県立貞光工業高等学校⇒ 3602 徳島県立つるぎ高等学校に統廃合（2014年）"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "status": "改称・閉校・脱会等",
+      "code": "3603",
+      "school": "徳島県立徳島工業高等学校⇒ 3607 徳島県立徳島科学技術高等学校に統廃合（2009年）"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "status": "改称・閉校・脱会等",
+      "code": "3604",
+      "school": "徳島県立徳島中央高等学校⇒ 工業に関する学科を3607 徳島県立徳島科学技術高等学校へ移管し脱会（2009年）"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "status": "改称・閉校・脱会等",
+      "code": "3605",
+      "school": "徳島県立徳島東工業高等学校⇒ 3607 徳島県立徳島科学技術高等学校に統廃合（2009年）"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "status": "改称・閉校・脱会等",
+      "code": "3606",
+      "school": "鳴門市立鳴門工業高等学校⇒ 3608 徳島県立鳴門渦潮高等学校に統廃合（2012年）"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "status": "現在",
+      "code": "3701",
+      "school": "香川県立坂出工業高等学校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "status": "現在",
+      "code": "3703",
+      "school": "香川県立高松工芸高等学校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "status": "現在",
+      "code": "3705",
+      "school": "香川県立観音寺総合高等学校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "status": "現在",
+      "code": "3706",
+      "school": "香川県立志度高等学校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "status": "現在",
+      "code": "3707",
+      "school": "香川県立多度津高等学校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "status": "現在",
+      "code": "3708",
+      "school": "香川県立坂出商業高等学校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "status": "現在",
+      "code": "3709",
+      "school": "香川県立善通寺第一高等学校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "status": "改称・閉校・脱会等",
+      "code": "3702",
+      "school": "香川県立善通寺西高等学校⇒ 3709 香川県立善通寺第一高等学校に統廃合（2009年）"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "status": "改称・閉校・脱会等",
+      "code": "3704",
+      "school": "香川県立多度津工業高等学校⇒ 3707 香川県立多度津高等学校に統廃合（2009年）"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "status": "改称・閉校・脱会等",
+      "code": "3705",
+      "school": "香川県立三豊工業高等学校⇒ 3705 香川県立観音寺総合高等学校に統廃合（2017年）"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "status": "現在",
+      "code": "3801",
+      "school": "愛媛県立今治工業高等学校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "status": "現在",
+      "code": "3802",
+      "school": "愛媛県立東予高等学校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "status": "現在",
+      "code": "3803",
+      "school": "愛媛県立新居浜工業高等学校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "status": "現在",
+      "code": "3804",
+      "school": "愛媛県立松山工業高等学校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "status": "現在",
+      "code": "3805",
+      "school": "愛媛県立松山南高等学校 砥部分校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "status": "現在",
+      "code": "3806",
+      "school": "愛媛県立八幡浜工業高等学校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "status": "現在",
+      "code": "3807",
+      "school": "愛媛県立吉田高等学校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "status": "現在",
+      "code": "3809",
+      "school": "新田高等学校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "status": "現在",
+      "code": "3810",
+      "school": "松山聖陵高等学校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "status": "現在",
+      "code": "3811",
+      "school": "愛媛県立新居浜南高等学校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "status": "現在",
+      "code": "",
+      "school": "愛媛大学農学部附属農業高等学校（総合学科理工学系列）"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "status": "改称・閉校・脱会等",
+      "code": "3802",
+      "school": "愛媛県立東予工業高等学校⇒ 3802愛媛県立東予高等学校に改称（2001年）"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "status": "改称・閉校・脱会等",
+      "code": "3808",
+      "school": "帝京第五高等学校⇒ 工業に関する学科を廃止し脱会（2014年ごろ）"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "status": "現在",
+      "code": "3901",
+      "school": "高知県立安芸高等学校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "status": "現在",
+      "code": "3902",
+      "school": "高知県立高知工業高等学校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "status": "現在",
+      "code": "3903",
+      "school": "高知県立高知東工業高等学校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "status": "現在",
+      "code": "3904",
+      "school": "高知県立宿毛工業高等学校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "status": "現在",
+      "code": "3906",
+      "school": "高知県立須崎総合高等学校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "status": "現在",
+      "code": "3907",
+      "school": "高知県立室戸高等学校"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "status": "現在",
+      "code": "",
+      "school": "高知県立高知農業高等学校（環境土木科）"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "status": "改称・閉校・脱会等",
+      "code": "3901",
+      "school": "高知県立安芸工業高等学校⇒ 3901高知県立安芸桜ケ丘高等学校に改称（2002年）⇒ 3901 高知県立安芸高等学校に統合（2023年）"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "status": "改称・閉校・脱会等",
+      "code": "3905",
+      "school": "高知県立宿毛高等学校小筑紫分校⇒ 廃校（2000年）"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "status": "改称・閉校・脱会等",
+      "code": "3906",
+      "school": "高知県立須崎工業高等学校⇒ 廃校（2019年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "現在",
+      "code": "4001",
+      "school": "福岡県立浮羽工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "現在",
+      "code": "4003",
+      "school": "福岡県立香椎工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "現在",
+      "code": "4005",
+      "school": "福岡県立苅田工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "現在",
+      "code": "4006",
+      "school": "福岡県立小倉工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "現在",
+      "code": "4009",
+      "school": "福岡県立戸畑工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "現在",
+      "code": "4010",
+      "school": "福岡県立福岡工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "現在",
+      "code": "4011",
+      "school": "福岡県立三池工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "現在",
+      "code": "4012",
+      "school": "福岡県立八幡工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "現在",
+      "code": "4013",
+      "school": "福岡県立八女工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "現在",
+      "code": "4014",
+      "school": "福岡市立博多工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "現在",
+      "code": "4015",
+      "school": "大牟田高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "現在",
+      "code": "4016",
+      "school": "真颯館高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "現在",
+      "code": "4017",
+      "school": "九州産業大学付属九州産業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "現在",
+      "code": "4018",
+      "school": "祐誠高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "現在",
+      "code": "4019",
+      "school": "筑紫台高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "現在",
+      "code": "4021",
+      "school": "福岡工業大学附属城東高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "現在",
+      "code": "4022",
+      "school": "豊国学園高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "現在",
+      "code": "4024",
+      "school": "福岡第一高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "現在",
+      "code": "4026",
+      "school": "福岡県立博多青松高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "現在",
+      "code": "4027",
+      "school": "福岡県立田川科学技術高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "現在",
+      "code": "4028",
+      "school": "福岡県立大川樟風高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "現在",
+      "code": "4029",
+      "school": "福岡県立嘉穂総合高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "現在",
+      "code": "4030",
+      "school": "福岡県立稲築志耕館高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "現在",
+      "code": "4031",
+      "school": "希望が丘高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "現在",
+      "code": "",
+      "school": "福岡県立鞍手竜徳高等学校（総合学科工業技術系列）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "現在",
+      "code": "",
+      "school": "飯塚高等学校（総合学科 自動車エンジニアコース・自動車専攻科）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "改称・閉校・脱会等",
+      "code": "4002",
+      "school": "福岡県立大川工業高等学校⇒ 4028 福岡県立大川樟風高等学校に統廃合（2005年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "改称・閉校・脱会等",
+      "code": "4004",
+      "school": "福岡県立嘉穂工業高等学校⇒ 4029 福岡県立嘉穂総合高等学校に統廃合（2007年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "改称・閉校・脱会等",
+      "code": "4007",
+      "school": "福岡県立田川工業高等学校⇒ 4027 福岡県立田川科学技術高等学校に統廃合（2007年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "改称・閉校・脱会等",
+      "code": "4008",
+      "school": "福岡県立筑豊工業高等学校⇒福岡県立鞍手竜徳高等学校に統廃合し脱会（2005年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "改称・閉校・脱会等",
+      "code": "4016",
+      "school": "九州工業高等学校⇒ 4016真颯館高等学校に改称（1999年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "改称・閉校・脱会等",
+      "code": "4018",
+      "school": "久留米工業大学附属高等学校⇒ 4018祐誠高等学校に改称（2005年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "改称・閉校・脱会等",
+      "code": "4021",
+      "school": "福岡工業大学附属高等学校⇒ 4021福岡工業大学附属城東高等学校に改称（2002年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "改称・閉校・脱会等",
+      "code": "4023",
+      "school": "九州共立大学八幡西高等学校⇒ 4023自由ケ丘高等学校に統廃合（2002年統合）⇒ 工業に関する学科を廃止し脱会（2007年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "status": "改称・閉校・脱会等",
+      "code": "4025",
+      "school": "九州電機学園高等学校⇒希望が丘高等学校に改称・改編し脱会（1998年）⇒ 再加盟「4031 希望が丘高等学校」（2007年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "status": "現在",
+      "code": "4101",
+      "school": "佐賀県立有田工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "status": "現在",
+      "code": "4102",
+      "school": "佐賀県立唐津工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "status": "現在",
+      "code": "4103",
+      "school": "佐賀県立佐賀工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "status": "現在",
+      "code": "4104",
+      "school": "佐賀県立嬉野高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "status": "現在",
+      "code": "4105",
+      "school": "佐賀県立多久高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "status": "現在",
+      "code": "4106",
+      "school": "佐賀県立鳥栖工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "status": "現在",
+      "code": "4107",
+      "school": "江楠学園北陵高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "status": "現在",
+      "code": "4108",
+      "school": "伊万里学園敬徳高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "status": "現在",
+      "code": "",
+      "school": "佐賀県立伊万里農林高等学校（森林工学科）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "status": "現在",
+      "code": "",
+      "school": "佐賀県立佐賀農業高等学校（環境工学科）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "status": "改称・閉校・脱会等",
+      "code": "4105",
+      "school": "佐賀県立多久工業高等学校⇒ 4105佐賀県立多久高等学校に改称・改編（2002年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "status": "改称・閉校・脱会等",
+      "code": "4107",
+      "school": "佐賀中央工業高等学校⇒ 4107北陵高等学校に改称（2000年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "status": "改称・閉校・脱会等",
+      "code": "4104",
+      "school": "佐賀県立塩田工業高等学校⇒ 4104 佐賀県立嬉野高等学校に統廃合（2020年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "status": "現在",
+      "code": "4201",
+      "school": "長崎県立大村工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "status": "現在",
+      "code": "4202",
+      "school": "長崎県立上五島高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "status": "現在",
+      "code": "4204",
+      "school": "長崎県立佐世保工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "status": "現在",
+      "code": "4205",
+      "school": "長崎県立鹿町工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "status": "現在",
+      "code": "4206",
+      "school": "長崎県立島原工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "status": "現在",
+      "code": "4207",
+      "school": "長崎県立長崎工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "status": "現在",
+      "code": "4208",
+      "school": "佐世保実業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "status": "現在",
+      "code": "4209",
+      "school": "瓊浦高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "status": "現在",
+      "code": "4210",
+      "school": "長崎県立長崎鶴洋高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "status": "現在",
+      "code": "",
+      "school": "長崎県立諫早農業高等学校（農業土木科）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "status": "改称・閉校・脱会等",
+      "code": "4203",
+      "school": "長崎県立北松西高等学校⇒ 工業に関する学科を廃止し脱会（2008年4月）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "status": "現在",
+      "code": "4301",
+      "school": "熊本県立天草工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "status": "現在",
+      "code": "4302",
+      "school": "熊本県立翔陽高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "status": "現在",
+      "code": "4303",
+      "school": "熊本県立小川工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "status": "現在",
+      "code": "4304",
+      "school": "熊本県立鹿本商工高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "status": "現在",
+      "code": "4305",
+      "school": "熊本県立球磨工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "status": "現在",
+      "code": "4306",
+      "school": "熊本県立熊本工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "status": "現在",
+      "code": "4307",
+      "school": "熊本県立玉名工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "status": "現在",
+      "code": "4309",
+      "school": "熊本県立御船高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "status": "現在",
+      "code": "4310",
+      "school": "熊本県立八代工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "status": "現在",
+      "code": "4311",
+      "school": "有明高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "status": "現在",
+      "code": "4312",
+      "school": "文徳高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "status": "現在",
+      "code": "4313",
+      "school": "開新高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "status": "現在",
+      "code": "4315",
+      "school": "秀岳館高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "status": "現在",
+      "code": "4316",
+      "school": "熊本県立水俣高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "status": "改称・閉校・脱会等",
+      "code": "4308",
+      "school": "熊本県立水俣工業高等学校⇒ 4316 熊本県立水俣高等学校に統廃合（2014年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "status": "改称・閉校・脱会等",
+      "code": "4312",
+      "school": "熊本工大高等学校⇒ 4312文徳高等学校に改称（1996年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "status": "改称・閉校・脱会等",
+      "code": "4313",
+      "school": "熊本第一工業高等学校 ⇒ 開新高等学校に改称（1995年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "status": "改称・閉校・脱会等",
+      "code": "4314",
+      "school": "東海大学第二高等学校⇒ 工業に関する学科を廃止し脱会（2001年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "status": "改称・閉校・脱会等",
+      "code": "4315",
+      "school": "八代第一高等学校⇒ 4315秀岳館高等学校に改称（2001年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "status": "現在",
+      "code": "4401",
+      "school": "大分県立大分工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "status": "現在",
+      "code": "4403",
+      "school": "大分県立国東高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "status": "現在",
+      "code": "4405",
+      "school": "大分県立情報科学高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "status": "現在",
+      "code": "4407",
+      "school": "大分県立鶴崎工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "status": "現在",
+      "code": "4409",
+      "school": "大分県立日田林工高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "status": "現在",
+      "code": "4410",
+      "school": "大分県立宇佐産業科学高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "status": "現在",
+      "code": "4412",
+      "school": "大分県立安心院高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "status": "現在",
+      "code": "4413",
+      "school": "大分県立中津東高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "status": "現在",
+      "code": "4414",
+      "school": "大分国際情報高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "status": "現在",
+      "code": "4415",
+      "school": "大分県立津久見高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "status": "現在",
+      "code": "",
+      "school": "大分高等学校（自動車工業科など）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "status": "現在",
+      "code": "",
+      "school": "大分県立三重総合高等学校（メディア科学科、旧・緒方工業高校）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "status": "現在",
+      "code": "",
+      "school": "日本文理大学附属高等学校（機械科）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "status": "現在",
+      "code": "",
+      "school": "楊志館高等学校（工業科）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "status": "改称・閉校・脱会等",
+      "code": "4402",
+      "school": "大分県立緒方工業高等学校⇒大分県立三重総合高等学校に統廃合（2008年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "status": "改称・閉校・脱会等",
+      "code": "4403",
+      "school": "大分県立国東農工高等学校⇒ 4403 大分県立国東高等学校に統廃合（2008年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "status": "改称・閉校・脱会等",
+      "code": "4404",
+      "school": "大分県立佐伯鶴岡高等学校⇒大分県立佐伯豊南高等学校に統廃合（2016年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "status": "改称・閉校・脱会等",
+      "code": "4406",
+      "school": "大分県立津久見高等学校⇒ 4415 大分県立津久見高等学校に統廃合（2014年3月）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "status": "改称・閉校・脱会等",
+      "code": "4408",
+      "school": "大分県立中津工業高等学校⇒ 4413 大分県立中津東高等学校に統廃合（2011年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "status": "改称・閉校・脱会等",
+      "code": "4410",
+      "school": "大分県立宇佐産業科学高等学校⇒高田高校商業科と統合して総合選択制に改編し脱会（2008年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "status": "改称・閉校・脱会等",
+      "code": "4411",
+      "school": "大分県立日出暘谷高等学校⇒大分県立日出総合高等学校に統廃合（2015年3月）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "status": "改称・閉校・脱会等",
+      "code": "",
+      "school": "大分桜丘高等学校⇒楊志館高等学校に改称（1996年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "status": "改称・閉校・脱会等",
+      "code": "",
+      "school": "大分電波高等学校⇒ 大分国際情報高等学校に改称し入会「4414 大分国際情報高等学校」（1999年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "status": "現在",
+      "code": "4502",
+      "school": "宮崎県立佐土原高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "status": "現在",
+      "code": "4504",
+      "school": "宮崎県立延岡工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "status": "現在",
+      "code": "4505",
+      "school": "宮崎県立日向工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "status": "現在",
+      "code": "4506",
+      "school": "宮崎県立都城工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "status": "現在",
+      "code": "4507",
+      "school": "宮崎県立宮崎工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "status": "現在",
+      "code": "4508",
+      "school": "日章学園高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "status": "現在",
+      "code": "4509",
+      "school": "都城高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "status": "現在",
+      "code": "4510",
+      "school": "鵬翔高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "status": "現在",
+      "code": "4511",
+      "school": "宮崎第一高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "status": "現在",
+      "code": "4512",
+      "school": "宮崎県立小林秀峰高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "status": "現在",
+      "code": "4513",
+      "school": "宮崎県立日南振徳高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "status": "現在",
+      "code": "",
+      "school": "宮崎県立宮崎農業高等学校（環境工学科）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "status": "現在",
+      "code": "",
+      "school": "宮崎県立都城農業高等学校（農業土木科）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "status": "現在",
+      "code": "",
+      "school": "延岡学園高等学校（普通科総合コース工業専攻）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "status": "現在",
+      "code": "",
+      "school": "都城東高等学校（自動車工業科）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "status": "改称・閉校・脱会等",
+      "code": "4501",
+      "school": "宮崎県立小林工業高等学校⇒ 4512 宮崎県立小林秀峰高等学校に統廃合（2010年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "status": "改称・閉校・脱会等",
+      "code": "4503",
+      "school": "宮崎県立日南工業高等学校⇒ 4513 宮崎県立日南振徳高等学校に統廃合（2011年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "status": "改称・閉校・脱会等",
+      "code": "",
+      "school": "宮崎中央高等学校⇒ 4510鵬翔高等学校に改称（1989年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "現在",
+      "code": "4602",
+      "school": "鹿児島県立出水工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "現在",
+      "code": "4604",
+      "school": "鹿児島県立頴娃高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "現在",
+      "code": "4606",
+      "school": "鹿児島県立鹿児島工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "現在",
+      "code": "4607",
+      "school": "鹿児島県立加治木工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "現在",
+      "code": "4608",
+      "school": "鹿児島県立鹿屋工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "現在",
+      "code": "4610",
+      "school": "鹿児島県立薩南工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "現在",
+      "code": "4611",
+      "school": "鹿児島県立川内商工高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "現在",
+      "code": "4613",
+      "school": "鹿児島県立隼人工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "現在",
+      "code": "4614",
+      "school": "鹿児島県立吹上高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "現在",
+      "code": "4615",
+      "school": "鹿児島実業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "現在",
+      "code": "4616",
+      "school": "樟南高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "現在",
+      "code": "4617",
+      "school": "鹿児島情報高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "現在",
+      "code": "4618",
+      "school": "れいめい高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "現在",
+      "code": "4619",
+      "school": "尚志館高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "現在",
+      "code": "4620",
+      "school": "鹿児島県立武岡台高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "現在",
+      "code": "4621",
+      "school": "鹿児島県立種子島高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "現在",
+      "code": "4622",
+      "school": "鹿児島県立霧島高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "現在",
+      "code": "4623",
+      "school": "鹿児島県立奄美高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "現在",
+      "code": "4624",
+      "school": "鹿児島県立曽於高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "現在",
+      "code": "",
+      "school": "鹿児島県立鹿屋農業高等学校（農業機械科）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "現在",
+      "code": "",
+      "school": "鹿児島県立薩摩中央高等学校（農業工学科）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "現在",
+      "code": "",
+      "school": "樟南第二高等学校（工業科）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "改称・閉校・脱会等",
+      "code": "4601",
+      "school": "鹿児島県立有明高等学校⇒ 廃校（2015年3月）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "改称・閉校・脱会等",
+      "code": "4603",
+      "school": "鹿児島県立岩川高等学校⇒ 4624 鹿児島県立曽於高等学校に統廃合（2016年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "改称・閉校・脱会等",
+      "code": "4605",
+      "school": "鹿児島県立大島工業高等学校⇒ 4623 鹿児島県立奄美高等学校に統廃合（2012年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "改称・閉校・脱会等",
+      "code": "4609",
+      "school": "鹿児島県立栗野工業高等学校⇒ 4622 鹿児島県立霧島高等学校に統廃合（2010年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "改称・閉校・脱会等",
+      "code": "4612",
+      "school": "鹿児島県立種子島実業高等学校⇒ 4621 鹿児島県立種子島高等学校に統廃合（2008年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "改称・閉校・脱会等",
+      "code": "4616",
+      "school": "鹿児島商工高等学校⇒ 4616樟南高等学校に改称（1994年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "改称・閉校・脱会等",
+      "code": "4619",
+      "school": "志布志実業高等学校⇒ 4619尚志館高等学校に改称（1997年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "status": "改称・閉校・脱会等",
+      "code": "",
+      "school": "徳之島商工高等学校⇒樟南第二高等学校に改称・改編（2001年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "status": "現在",
+      "code": "4701",
+      "school": "沖縄県立浦添工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "status": "現在",
+      "code": "4702",
+      "school": "沖縄県立沖縄工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "status": "現在",
+      "code": "4703",
+      "school": "沖縄県立美来工科高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "status": "現在",
+      "code": "4704",
+      "school": "沖縄県立那覇工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "status": "現在",
+      "code": "4705",
+      "school": "沖縄県立南部工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "status": "現在",
+      "code": "4707",
+      "school": "沖縄県立美里工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "status": "現在",
+      "code": "4708",
+      "school": "沖縄県立宮古工業高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "status": "現在",
+      "code": "4709",
+      "school": "沖縄県立八重山商工高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "status": "現在",
+      "code": "4710",
+      "school": "沖縄県立名護商工高等学校"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "status": "現在",
+      "code": "",
+      "school": "沖縄県立沖縄水産高等学校（総合学科情報通信系列）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "status": "改称・閉校・脱会等",
+      "code": "4703",
+      "school": "沖縄県立中部工業高等学校⇒ 4703沖縄県立美来工科高等学校に改称・改編（2005年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "status": "改称・閉校・脱会等",
+      "code": "4706",
+      "school": "沖縄県立北部工業高等学校⇒ 4710 沖縄県立名護商工高等学校に統廃合（2009年）"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "status": "改称・閉校・脱会等",
+      "code": "",
+      "school": "沖縄県立南部農林高等学校（農業科農業機械コース）⇒ 学科改編により農業科を廃止（2012年3月）"
+    }
+  ],
+  "meta": {
+    "title": "工業に関する学科を設置する高等学校一覧 (Technical high schools in Japan) - Free Download",
+    "description": "全国工業高等学校長協会の学校番号付きで、工業に関する学科を置く全国の高等学校を都道府県別に一覧（改称・閉校の記録を含む）。 Contains 991 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "工業に関する学科を設置する高等学校一覧 (Technical high schools in Japan) | ListBase",
+    "seo_description": "Download 工業に関する学科を設置する高等学校一覧 (Technical high schools in Japan) — 991 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 991 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B7%A5%E6%A5%AD%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%AD%A6%E7%A7%91%E8%A8%AD%E7%BD%AE%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}
