@@ -1,0 +1,8451 @@
+{
+  "id": "ja-nihonshu-meka",
+  "name": "日本酒メーカー（酒蔵）一覧 (Sake breweries of Japan)",
+  "title": "日本酒メーカー（酒蔵）一覧 (Sake breweries of Japan)",
+  "description": "全国の日本酒メーカー（酒蔵）を都道府県別にまとめた一覧（所在地・代表銘柄）。",
+  "category": "food",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%85%92%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%85%92%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 1200,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "brewery",
+      "label": "Brewery",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "brands",
+      "label": "Brands",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "brewery": "（株）碓氷勝三郎商店",
+      "location": "",
+      "brands": "北の勝"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "brewery": "男山（株）",
+      "location": "",
+      "brands": "男山"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "brewery": "上川大雪酒造（株）",
+      "location": "",
+      "brands": "上川大雪"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "brewery": "金滴酒造（株）",
+      "location": "",
+      "brands": "金滴"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "brewery": "國稀酒造（株）",
+      "location": "",
+      "brands": "國稀"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "brewery": "合同酒精（株）旭川工場",
+      "location": "",
+      "brands": "大雪の蔵、北の誉"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "brewery": "小林酒造（株）",
+      "location": "",
+      "brands": "北の錦"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "brewery": "高砂酒造（株）",
+      "location": "",
+      "brands": "国士無双"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "brewery": "田中酒造（株）",
+      "location": "",
+      "brands": "宝川"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "brewery": "（有）二世古酒造",
+      "location": "",
+      "brands": "二世古"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "brewery": "日本清酒（株）",
+      "location": "",
+      "brands": "千歳鶴"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "brewery": "箱館醸蔵（有）",
+      "location": "",
+      "brands": "郷宝"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "brewery": "福司酒造（株）",
+      "location": "",
+      "brands": "福司"
+    },
+    {
+      "region": "北海道",
+      "prefecture": "北海道",
+      "brewery": "三千櫻酒造(株)",
+      "location": "",
+      "brands": "三千櫻"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "brewery": "尾崎酒造（株）",
+      "location": "",
+      "brands": "安東水軍"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "brewery": "（株）カネタ玉田酒造店",
+      "location": "",
+      "brands": "玉川"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "brewery": "寿酒造（株）",
+      "location": "",
+      "brands": "寿正宗※"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "brewery": "（株）松緑酒造",
+      "location": "",
+      "brands": "六根（ろっこん）、松緑（まつみどり）、麗峰（れいほう）、刑事（でか）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "brewery": "（株）佐藤酒造店",
+      "location": "中津軽郡岩木町",
+      "brands": "掬水※"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "brewery": "白神酒造（株）",
+      "location": "",
+      "brands": "白神"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "brewery": "（株）竹浪酒造店",
+      "location": "つがる市",
+      "brands": "岩木正宗、七郎兵衛"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "brewery": "（株）中村亀吉",
+      "location": "",
+      "brands": "津軽娘※"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "brewery": "（株）鳴海醸造店",
+      "location": "",
+      "brands": "菊乃井"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "brewery": "（株）西田酒造店",
+      "location": "",
+      "brands": "田酒、喜久泉"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "brewery": "八戸酒造（株）",
+      "location": "",
+      "brands": "福牡丹、陸奥八仙、陸奥男山"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "brewery": "八戸酒類（株）",
+      "location": "",
+      "brands": "八鶴、湊八戸蔵物語、稲川、如空（じょくう）、花開"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "brewery": "鳩正宗（株）",
+      "location": "",
+      "brands": "鳩正宗（はとまさむね）、八甲田（はっこうだ）、佐藤企（さとうたくみ）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "brewery": "（株）丸竹酒造店",
+      "location": "",
+      "brands": "菊盛"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "brewery": "三浦酒造（株）",
+      "location": "",
+      "brands": "豊盃"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "brewery": "桃川（株）",
+      "location": "",
+      "brands": "桃川"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "brewery": "（株）盛田庄兵衛",
+      "location": "",
+      "brands": "朔田（さくた）、七力（しちりき）、駒泉（こまいずみ）、作田（さくた）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "brewery": "吉井酒造（株）",
+      "location": "",
+      "brands": "吉野桜※"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "brewery": "六花酒造（株）",
+      "location": "",
+      "brands": "六花、じょっぱり、一洋、白梅、白藤"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "brewery": "赤武酒造（株）",
+      "location": "",
+      "brands": "AKABU、浜娘、リカースイーツ"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "brewery": "（株）あさ開",
+      "location": "",
+      "brands": "あさ開"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "brewery": "（名）吾妻嶺酒造店",
+      "location": "",
+      "brands": "あづまみね、悠楽、吾妻嶺、我が家の春、鸛（こうのとり）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "brewery": "岩手銘醸（株）",
+      "location": "",
+      "brands": "岩手誉、天瓢"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "brewery": "磐乃井酒造（株）",
+      "location": "",
+      "brands": "磐乃井"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "brewery": "上閉伊酒造（株）",
+      "location": "",
+      "brands": "國華の薫、遠野小町、遠野ものがたり"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "brewery": "（資）川村酒造店",
+      "location": "",
+      "brands": "南部関"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "brewery": "喜久盛酒造（株）",
+      "location": "",
+      "brands": "喜久盛、鬼剣舞、電氣菩薩"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "brewery": "菊の司酒造（株）",
+      "location": "",
+      "brands": "菊の司"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "brewery": "（株）桜顔酒造",
+      "location": "",
+      "brands": "いわて桜顔"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "brewery": "酔仙酒造（株）",
+      "location": "",
+      "brands": "酔仙"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "brewery": "世嬉の一酒造（株）",
+      "location": "",
+      "brands": "世嬉の一"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "brewery": "泉金酒造（株）",
+      "location": "",
+      "brands": "龍泉八重桜"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "brewery": "高橋酒造店",
+      "location": "",
+      "brands": "堀の井"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "brewery": "月の輪酒造店",
+      "location": "",
+      "brands": "月の輪"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "brewery": "（株）南部美人",
+      "location": "",
+      "brands": "南部美人"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "brewery": "浜千鳥",
+      "location": "",
+      "brands": "浜千鳥"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "brewery": "（株）菱屋酒造店",
+      "location": "",
+      "brands": "千両男山"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "brewery": "広田英俊",
+      "location": "",
+      "brands": "広喜"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "brewery": "（株）福来",
+      "location": "",
+      "brands": "福来"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "brewery": "両磐酒造（株）",
+      "location": "",
+      "brands": "関山"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "brewery": "（株）わしの尾",
+      "location": "",
+      "brands": "鷲の尾"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "阿部勘酒造",
+      "location": "",
+      "brands": "阿部勘、於茂多加男山、四季の松島"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "石越醸造（株）",
+      "location": "",
+      "brands": "澤乃泉"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "（株）一ノ蔵",
+      "location": "",
+      "brands": "一ノ蔵、すず音"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "（資）内ヶ崎酒造店",
+      "location": "",
+      "brands": "鳳陽"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "（有）大沼酒造店",
+      "location": "",
+      "brands": "乾坤一"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "（株）男山本店",
+      "location": "",
+      "brands": "蒼天伝、気仙沼男山、美禄"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "（株）角星",
+      "location": "",
+      "brands": "金紋両國、水鳥記"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "仙台伊澤家 勝山酒造（株）",
+      "location": "",
+      "brands": "勝山、戦勝政宗"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "金の井酒造（株）",
+      "location": "",
+      "brands": "綿屋"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "川敬商店",
+      "location": "",
+      "brands": "黄金澤、橘屋"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "（名）寒梅酒造",
+      "location": "",
+      "brands": "宮寒梅、鶯咲"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "麹屋酒造店",
+      "location": "",
+      "brands": "福釜、伊達乃粋"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "（株）佐浦",
+      "location": "",
+      "brands": "浦霞"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "佐々木酒造店",
+      "location": "",
+      "brands": "宝船浪の音"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "蔵王酒造（株）",
+      "location": "",
+      "brands": "蔵王"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "墨廼江酒造（株）",
+      "location": "",
+      "brands": "墨廼江、谷風、弁慶岬"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "大和蔵酒造",
+      "location": "",
+      "brands": "雪の松島、大和蔵"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "（株）田中酒造店",
+      "location": "",
+      "brands": "真鶴、田林"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "千田酒造（株）",
+      "location": "",
+      "brands": "栗駒山、奥鶴"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "（株）中勇酒造店",
+      "location": "",
+      "brands": "天上夢幻"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "（株）新澤醸造店",
+      "location": "",
+      "brands": "伯楽星、愛宕の松"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "萩野酒造（株）",
+      "location": "",
+      "brands": "萩の鶴、日輪田"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "はさまや酒造店",
+      "location": "",
+      "brands": "桂泉"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "（株）平孝酒造",
+      "location": "",
+      "brands": "日高見"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "（有）三浦酒舗",
+      "location": "",
+      "brands": "友笑"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "門傳醸造（株）",
+      "location": "",
+      "brands": "太閤、坤輿"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "宮城ふるさと酒造（株）",
+      "location": "",
+      "brands": "荒雄"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "森民酒造店",
+      "location": "",
+      "brands": "森泉、もりいずみ"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "森民酒造本家",
+      "location": "",
+      "brands": "森乃菊川"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "brewery": "（株）山和酒造店",
+      "location": "",
+      "brands": "わしが國、山和"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "秋田県醗酵工業（株）",
+      "location": "",
+      "brands": "一滴千両"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "秋田酒造（株）",
+      "location": "",
+      "brands": "酔楽天、秋田晴"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "秋田酒類製造（株）",
+      "location": "",
+      "brands": "高清水"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "秋田醸造（株）",
+      "location": "",
+      "brands": "旭川、ゆきの美人"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "秋田清酒（株）",
+      "location": "",
+      "brands": "やまとしずく、晴田刈穂酒造（株）- 刈穂出羽鶴酒造（株）- 出羽鶴"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "秋田誉酒造（株）",
+      "location": "",
+      "brands": "秋田誉、秋田美人"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "秋田銘醸（株）",
+      "location": "",
+      "brands": "爛漫"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "浅舞酒造（株）",
+      "location": "",
+      "brands": "天の戸"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "阿櫻酒造（株）",
+      "location": "",
+      "brands": "かまくら、阿櫻"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "新政酒造（株）",
+      "location": "",
+      "brands": "新政"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "（有）奥田酒造店",
+      "location": "",
+      "brands": "千代緑"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "（株）奥山儀助商店",
+      "location": "",
+      "brands": "金時"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "千歳盛酒造（株）",
+      "location": "",
+      "brands": "千歳盛"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "喜久水酒造（資）",
+      "location": "",
+      "brands": "喜久水"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "（株）木村酒造",
+      "location": "",
+      "brands": "福小町"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "金紋秋田酒造（株）",
+      "location": "",
+      "brands": "金紋秋田、山吹（名）秋田富士酒造店- 秋田富士"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "国萬歳酒造（株）",
+      "location": "",
+      "brands": "秋田晴"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "（名）栗林酒造店",
+      "location": "",
+      "brands": "春霞"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "小玉醸造（株）",
+      "location": "",
+      "brands": "太平山"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "（株）齋彌酒造店",
+      "location": "",
+      "brands": "雪の茅舎（ゆきのぼうしゃ）、由利正宗（ゆりまさむね）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "（株）佐藤酒造店",
+      "location": "",
+      "brands": "出羽の冨士"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "（名）鈴木酒造店",
+      "location": "",
+      "brands": "秀よし（ひでよし）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "（有）太平楽酒造店",
+      "location": "",
+      "brands": "太平楽"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "（株）高橋酒造店",
+      "location": "",
+      "brands": "奥清水、門出笑顔"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "天寿酒造（株）",
+      "location": "",
+      "brands": "天寿、鳥海山"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "（株）那波商店",
+      "location": "",
+      "brands": "銀鱗"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "（株）大納川",
+      "location": "",
+      "brands": "大納川"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "日の丸醸造（株）",
+      "location": "",
+      "brands": "日の丸、まんさくの花（株）新日の丸工場- 日の丸"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "（株）飛良泉本舗",
+      "location": "",
+      "brands": "飛良泉"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "福乃友酒造（株）",
+      "location": "",
+      "brands": "福乃友"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "福禄寿酒造（株）",
+      "location": "",
+      "brands": "福禄寿、一白水成"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "（株）北鹿",
+      "location": "",
+      "brands": "北鹿"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "舞鶴酒造（株）",
+      "location": "",
+      "brands": "田从、朝乃舞、秋田鶴"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "八重寿銘醸（株）",
+      "location": "",
+      "brands": "八重壽"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "八千代酒造（名）",
+      "location": "",
+      "brands": "八千代"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "（株）山本酒造店",
+      "location": "",
+      "brands": "白瀑、山本"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "brewery": "両関酒造（株）",
+      "location": "",
+      "brands": "両関"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "嵐山酒造（株）",
+      "location": "",
+      "brands": "白銀蔵王"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "（株）加茂川",
+      "location": "",
+      "brands": "日の出加茂川"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "錦爛酒造（株）",
+      "location": "",
+      "brands": "羽陽錦爛"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "香坂酒造（株）",
+      "location": "",
+      "brands": "紅梅"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "（株）小嶋総本店",
+      "location": "",
+      "brands": "東光"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "（有）後藤酒造店",
+      "location": "",
+      "brands": "羽陽辨天"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "（有）新藤酒造店",
+      "location": "",
+      "brands": "羽陽富久鶴"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "（株）鈴木酒造店長井蔵",
+      "location": "",
+      "brands": "磐城壽、一生幸福"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "樽平酒造（株）",
+      "location": "",
+      "brands": "樽平、住吉、雪むかえ"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "寺嶋酒造本舗",
+      "location": "",
+      "brands": "朝瀧"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "（株）中沖酒造店",
+      "location": "",
+      "brands": "一献"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "長沼（名）",
+      "location": "",
+      "brands": "惣邑"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "野沢酒造店",
+      "location": "",
+      "brands": "羽前桜川"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "浜田（株）",
+      "location": "",
+      "brands": "沖正宗"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "東の麓酒造（有）",
+      "location": "",
+      "brands": "東の麓"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "米鶴酒造（株）",
+      "location": "",
+      "brands": "米鶴"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "若乃井酒造（株）",
+      "location": "",
+      "brands": "若乃井"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "男山酒造（株）",
+      "location": "",
+      "brands": "羽陽男山"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "月山酒造（株）",
+      "location": "",
+      "brands": "銀嶺月山"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "寿虎屋酒造（株）",
+      "location": "",
+      "brands": "霞城寿"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "（株）設楽酒造店",
+      "location": "",
+      "brands": "一声"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "（有）秀鳳酒造場",
+      "location": "",
+      "brands": "秀鳳"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "高木酒造（株）",
+      "location": "",
+      "brands": "十四代"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "千代寿虎屋酒造（株）",
+      "location": "",
+      "brands": "千代寿"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "出羽桜酒造（株）",
+      "location": "",
+      "brands": "出羽桜"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "古澤酒造（株）",
+      "location": "",
+      "brands": "澤正宗"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "（株）水戸部酒造",
+      "location": "",
+      "brands": "山形正宗"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "（株）八幡屋酒造店",
+      "location": "",
+      "brands": "白菊"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "（株）六歌仙",
+      "location": "",
+      "brands": "六歌仙"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "和田酒造（資）",
+      "location": "",
+      "brands": "あら玉"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "（株）小屋酒造",
+      "location": "",
+      "brands": "花羽陽"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "奥羽自慢（株）",
+      "location": "",
+      "brands": "吾有事、奥羽自慢"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "加藤嘉八郎酒造（株）",
+      "location": "",
+      "brands": "大山"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "亀の井酒造（株）",
+      "location": "",
+      "brands": "くどき上手"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "（株）オードヴィ庄内",
+      "location": "",
+      "brands": "清泉川"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "鯉川酒造（株）",
+      "location": "",
+      "brands": "鯉川"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "酒田酒造（株）",
+      "location": "",
+      "brands": "上喜元"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "（名）佐藤佐治右エ門",
+      "location": "",
+      "brands": "やまと桜"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "（資）杉勇蕨岡酒造場",
+      "location": "",
+      "brands": "杉勇"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "（資）高橋酒造店",
+      "location": "",
+      "brands": "東北泉"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "竹の露（資）",
+      "location": "",
+      "brands": "竹の露"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "楯の川酒造（株）",
+      "location": "",
+      "brands": "楯の川"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "東北銘醸（株）",
+      "location": "",
+      "brands": "初孫"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "羽根田酒造（株）",
+      "location": "",
+      "brands": "羽前白梅"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "冨士酒造（株）",
+      "location": "",
+      "brands": "栄光冨士"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "麓井酒造（株）",
+      "location": "",
+      "brands": "麓井"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "三浦酒造",
+      "location": "",
+      "brands": "庄内一"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "brewery": "（株）渡会本店",
+      "location": "",
+      "brands": "出羽ノ雪"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "曙酒造（株）",
+      "location": "",
+      "brands": "天明（てんめい）、一生青春（いっしょうせいしゅん）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "榮川酒造（株）",
+      "location": "",
+      "brands": "榮川"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "末廣酒造（株）",
+      "location": "",
+      "brands": "末廣"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "名倉山酒造（株）",
+      "location": "",
+      "brands": "月弓、善き哉"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "花春酒造（株）",
+      "location": "",
+      "brands": "花春"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "（株）廣木酒造本店",
+      "location": "",
+      "brands": "泉川、飛露喜"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "ほまれ酒造（株）",
+      "location": "",
+      "brands": "会津ほまれ、からはし"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "夢心酒造（株）",
+      "location": "",
+      "brands": "夢心、奈良萬"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "（資）大和川酒造店",
+      "location": "",
+      "brands": "大和川、カスモチ原酒 弥右衛門酒"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "国権酒造（株）",
+      "location": "",
+      "brands": "国権"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "渡部謙一醸造元",
+      "location": "",
+      "brands": "開當男山"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "（資）男山酒造店",
+      "location": "",
+      "brands": "会津男山"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "花泉酒造（名）",
+      "location": "",
+      "brands": "花泉"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "豊国酒造（資）",
+      "location": "",
+      "brands": "東豊国、一歩己"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "金水晶酒造（株）",
+      "location": "",
+      "brands": "金水晶"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "奥の松酒造（株）",
+      "location": "",
+      "brands": "奥の松"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "大七酒造（株）",
+      "location": "",
+      "brands": "大七"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "（株）檜物屋酒造店",
+      "location": "",
+      "brands": "千功成"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "大天狗酒造（株）",
+      "location": "",
+      "brands": "大天狗、もとみや、奥州二本松、智恵子の花霞"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "人気酒造（株）",
+      "location": "",
+      "brands": "人気一"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "笹の川酒造（株）",
+      "location": "",
+      "brands": "笹の川"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "笹正宗酒造（株）",
+      "location": "",
+      "brands": "笹正宗（ささまさむね）、ササ正宗"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "宮泉銘醸（株）",
+      "location": "",
+      "brands": "宮泉（みやいずみ）、写楽（しゃらく）"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "三春酒造（株）",
+      "location": "",
+      "brands": "三春駒"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "（有）佐藤酒造店",
+      "location": "",
+      "brands": "藤乃井"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "（有）渡辺酒造本店",
+      "location": "",
+      "brands": "雪小町、雪村桜"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "（有）仁井田本家",
+      "location": "",
+      "brands": "金寳"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "（株）矢澤酒造店",
+      "location": "",
+      "brands": "南郷"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "（株）鈴木酒造店",
+      "location": "",
+      "brands": "磐城壽"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "太平桜酒造（資）",
+      "location": "",
+      "brands": "太平櫻"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "brewery": "（有）小野酒造店",
+      "location": "",
+      "brands": "四時川"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "（株）山中酒造店",
+      "location": "",
+      "brands": "一人娘"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "野村醸造（株）",
+      "location": "",
+      "brands": "紬美人"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "来福酒造（株）",
+      "location": "",
+      "brands": "来福"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "（株）武勇",
+      "location": "",
+      "brands": "武勇"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "岡部（名）",
+      "location": "",
+      "brands": "松盛"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "根本酒造（株）",
+      "location": "",
+      "brands": "久慈の山"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "愛友酒造（株）",
+      "location": "",
+      "brands": "愛友"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "（資）井坂酒造店",
+      "location": "",
+      "brands": "日乃出鶴"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "結城酒造 (株)",
+      "location": "",
+      "brands": "結、富久福"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "武藤酒類醸造（株）",
+      "location": "",
+      "brands": "東海"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "（資）剛烈富永酒造店",
+      "location": "",
+      "brands": "剛烈"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "（株）竹村酒造店",
+      "location": "",
+      "brands": "京の夢"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "（株）家久長本店",
+      "location": "",
+      "brands": "霊水八溝"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "青木酒造（株）",
+      "location": "",
+      "brands": "御慶事"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "（株）宏和商工日立酒造工場",
+      "location": "",
+      "brands": "二人舞台"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "石岡酒造(株)",
+      "location": "",
+      "brands": "白鹿、筑波"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "(株)笹目宗兵衛商店",
+      "location": "",
+      "brands": "二波山松緑"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "賜杯桜(株)",
+      "location": "",
+      "brands": "賜杯桜、がま伝説鬼ころし"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "(資)瀧田酒造店",
+      "location": "",
+      "brands": "三ツ扇"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "（株）月の井酒造店",
+      "location": "",
+      "brands": "月の井"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "吉久保酒造（株）",
+      "location": "",
+      "brands": "一品、百歳"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "白菊酒造(株)",
+      "location": "",
+      "brands": "白菊"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "明利酒類(株)",
+      "location": "",
+      "brands": "副将軍"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "森島酒造（株）",
+      "location": "",
+      "brands": "大観"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "木内酒造（資）",
+      "location": "",
+      "brands": "菊盛"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "須藤本家(株)",
+      "location": "",
+      "brands": "山桜桃"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "（株）西岡本店",
+      "location": "",
+      "brands": "花の井"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "竹村酒造(株)",
+      "location": "",
+      "brands": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "brewery": "村井醸造 (株)",
+      "location": "",
+      "brands": "公明"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "相澤酒造（株）",
+      "location": "",
+      "brands": "愛乃澤"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "（株）阿部酒造店",
+      "location": "",
+      "brands": "千代の白菊、茂木百騎（もてぎひゃっき）、浜田屋の家酒"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "飯沼銘醸（株）",
+      "location": "",
+      "brands": "杉並木"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "池島酒造（株）",
+      "location": "",
+      "brands": "池錦"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "（株）井上清吉商店",
+      "location": "",
+      "brands": "澤姫"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "宇都宮酒造（株）",
+      "location": "",
+      "brands": "四季桜"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "大平酒造（株）",
+      "location": "",
+      "brands": "黒龍"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "片山酒造（株）",
+      "location": "",
+      "brands": "柏盛"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "小林酒造（株）－鳳凰美田、美田鶴",
+      "location": "",
+      "brands": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "（株）小林杢三郎商店",
+      "location": "",
+      "brands": "大英勇、七井（ななついど）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "（株）相良酒造",
+      "location": "",
+      "brands": "朝日栄"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "（株）島崎酒造",
+      "location": "",
+      "brands": "東力士"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "（株）白相酒造",
+      "location": "しらそうしゅぞう",
+      "brands": "とちあかね、福寿松の井、御用邸"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "杉田酒造 (株)",
+      "location": "",
+      "brands": "雄東正宗（ゆうとうまさむね）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "（株）せんきん",
+      "location": "",
+      "brands": "仙禽"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "惣誉酒造（株）",
+      "location": "",
+      "brands": "惣誉"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "第一酒造（株）",
+      "location": "",
+      "brands": "開華"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "（株）辻善兵衛商店",
+      "location": "",
+      "brands": "桜川、辻善兵衛、桜つくし"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "天鷹酒造（株）",
+      "location": "",
+      "brands": "天鷹"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "（株）外池酒造店",
+      "location": "とのいけしゅぞうてん",
+      "brands": "燦爛"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "（株）虎屋本店",
+      "location": "",
+      "brands": "菊、七水"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "西堀酒造（株)",
+      "location": "",
+      "brands": "若盛（わかさかり）、門外不出（もんがいふしゅつ）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "（株）松井酒造店",
+      "location": "",
+      "brands": "松の寿"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "森戸酒造（株）",
+      "location": "",
+      "brands": "十一正宗"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "若駒酒造（株）",
+      "location": "",
+      "brands": "若駒、羽衣伝説、万延"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "（株）渡邊佐平商店",
+      "location": "",
+      "brands": "清開、日光誉"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "brewery": "渡辺酒造（株）",
+      "location": "",
+      "brands": "旭興（きょくこう）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "浅間酒造（株）",
+      "location": "",
+      "brands": "秘幻"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "井田酒造（株）",
+      "location": "",
+      "brands": "ふじ泉"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "(株) 今井酒造店",
+      "location": "",
+      "brands": "上州風まかせ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "大利根酒造（有）",
+      "location": "",
+      "brands": "左大臣"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "岡村（名）",
+      "location": "",
+      "brands": "観音櫻"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "貴娘酒造（株）",
+      "location": "",
+      "brands": "貴娘"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "近藤酒造（株）",
+      "location": "",
+      "brands": "赤城山"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "柴崎酒造（株）",
+      "location": "",
+      "brands": "船尾瀧"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "島岡酒造（株）",
+      "location": "",
+      "brands": "群馬泉"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "清水屋酒造（有）",
+      "location": "",
+      "brands": "栄万寿"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "聖徳銘醸（株）",
+      "location": "",
+      "brands": "鳳凰聖徳"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "高井（株）",
+      "location": "",
+      "brands": "巌"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "（名）田島酒造店",
+      "location": "",
+      "brands": "三波石"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "土田酒造（株）",
+      "location": "",
+      "brands": "誉國光"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "永井酒造（株）",
+      "location": "",
+      "brands": "水芭蕉"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "（株）永井本家",
+      "location": "",
+      "brands": "利根錦"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "七ッ星醸造（株）",
+      "location": "",
+      "brands": "君乃松"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "（株）伴内酒造店",
+      "location": "",
+      "brands": "聖人"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "聖酒造（株）",
+      "location": "",
+      "brands": "関東の華"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "分福酒造（株）",
+      "location": "",
+      "brands": "分福"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "牧野酒造（株）",
+      "location": "",
+      "brands": "大盃"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "（株）町田酒造店",
+      "location": "前橋市",
+      "brands": "清瞭"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "（株）町田酒造店",
+      "location": "玉村町",
+      "brands": "太平人"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "松屋酒造（株）",
+      "location": "",
+      "brands": "當選"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "柳澤酒造（株）",
+      "location": "",
+      "brands": "桂川"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "山川酒造（株）",
+      "location": "",
+      "brands": "光東"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "山崎酒造（株）",
+      "location": "",
+      "brands": "太平記の里"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "brewery": "龍神酒造（株）",
+      "location": "",
+      "brands": "尾瀬の雪どけ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "brewery": "武甲酒造（株)",
+      "location": "",
+      "brands": "武甲正宗"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "brewery": "五十嵐酒造（株）",
+      "location": "",
+      "brands": "天覧山"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "brewery": "（株）矢尾本店",
+      "location": "",
+      "brands": "秩父錦"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "brewery": "（株）釜屋",
+      "location": "",
+      "brands": "力士"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "brewery": "（有)佐藤酒造店",
+      "location": "",
+      "brands": "越生梅林"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "brewery": "（株）文楽",
+      "location": "",
+      "brands": "文楽"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "brewery": "清龍酒造（株）",
+      "location": "",
+      "brands": "清龍"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "brewery": "南陽醸造（株）",
+      "location": "",
+      "brands": "花陽浴（はなあび）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "brewery": "麻原酒造（株）",
+      "location": "",
+      "brands": "琵琶のさゝ浪"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "brewery": "長澤酒造（株）",
+      "location": "",
+      "brands": "君が旗"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "brewery": "滝澤酒造（株）",
+      "location": "",
+      "brands": "菊泉"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "brewery": "内木酒造（株）",
+      "location": "",
+      "brands": "旭正宗"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "brewery": "鈴木酒造（株）",
+      "location": "",
+      "brands": "万両"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "brewery": "大瀧酒造（株）",
+      "location": "",
+      "brands": "九重桜"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "brewery": "（株）小山本家酒造",
+      "location": "",
+      "brands": "都鷹"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "brewery": "川端酒造（株）",
+      "location": "",
+      "brands": "桝川"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "brewery": "清水酒造（株）",
+      "location": "",
+      "brands": "亀甲花菱"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "brewery": "秩父菊水酒造（株）",
+      "location": "",
+      "brands": "秩父小次郎"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "brewery": "武蔵鶴酒造（株）",
+      "location": "",
+      "brands": "武蔵鶴"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "brewery": "松岡醸造（株）",
+      "location": "",
+      "brands": "帝松"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "brewery": "寒梅酒造（株）",
+      "location": "",
+      "brands": "寒梅"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "brewery": "神亀酒造（株）",
+      "location": "",
+      "brands": "神亀"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "brewery": "晴雲酒造（株）",
+      "location": "",
+      "brands": "晴雲"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "brewery": "小江戸鏡山酒造(株)",
+      "location": "",
+      "brands": "鏡山"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "brewery": "東亜酒造（株）",
+      "location": "",
+      "brands": "晴菊"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "brewery": "和蔵酒造（株）",
+      "location": "",
+      "brands": "聖泉"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "brewery": "（株）須藤本家",
+      "location": "",
+      "brands": "天乃原"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "brewery": "岩瀬酒造（株）",
+      "location": "",
+      "brands": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "brewery": "（資）寒菊銘醸",
+      "location": "",
+      "brands": "総乃寒菊、夢の又夢"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "brewery": "（株）旭鶴",
+      "location": "",
+      "brands": "拾壱萬石"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "brewery": "梅一輪酒造（株）",
+      "location": "",
+      "brands": "梅一輪"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "brewery": "（株）森酒造店",
+      "location": "",
+      "brands": "飛鶴"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "brewery": "東灘醸造（株）",
+      "location": "",
+      "brands": "東灘"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "brewery": "（株）飯田本家",
+      "location": "",
+      "brands": "惣兵衛"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "brewery": "（株）宮崎酒造店",
+      "location": "",
+      "brands": "峯の精"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "brewery": "稲花酒造（有）",
+      "location": "",
+      "brands": "稲花"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "brewery": "吉野酒造（株）",
+      "location": "",
+      "brands": "腰古井"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "brewery": "豊乃鶴酒造 (株)",
+      "location": "",
+      "brands": "大多喜城"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "brewery": "（株）飯沼本家",
+      "location": "",
+      "brands": "甲子正宗"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "brewery": "亀田酒造（株）",
+      "location": "",
+      "brands": "寿萬亀"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "brewery": "木戸泉酒造（株）",
+      "location": "",
+      "brands": "木戸泉"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "brewery": "窪田酒造（株）",
+      "location": "",
+      "brands": "勝鹿、宝船"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "brewery": "小泉酒造（資）",
+      "location": "",
+      "brands": "東魁盛、東魁"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "brewery": "東薫酒造（株）",
+      "location": "",
+      "brands": "東薫"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "brewery": "（株）滝沢本店",
+      "location": "",
+      "brands": "長命泉、富国一"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "brewery": "守屋酒造（株）",
+      "location": "",
+      "brands": "舞桜、しだれ桜、浪花盛"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "brewery": "鍋店（株）",
+      "location": "",
+      "brands": "仁勇、不動"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "brewery": "（株）寺田本家",
+      "location": "",
+      "brands": "五人娘、香取"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "brewery": "藤平酒造（資）",
+      "location": "",
+      "brands": "福祝"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "brewery": "石川酒造（株）",
+      "location": "",
+      "brands": "多満自慢"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "brewery": "小澤酒造（株）",
+      "location": "",
+      "brands": "澤乃井"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "brewery": "（有）小澤酒造場",
+      "location": "",
+      "brands": "桑乃都"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "brewery": "田村酒造場",
+      "location": "",
+      "brands": "嘉泉"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "brewery": "東京港醸造",
+      "location": "",
+      "brands": "江戸開城"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "brewery": "東京八王子酒造",
+      "location": "",
+      "brands": "東京八王子酒造"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "brewery": "豊島屋酒造（株）",
+      "location": "",
+      "brands": "金婚正宗、屋守"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "brewery": "中村酒造",
+      "location": "",
+      "brands": "千代鶴"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "brewery": "（合）野口酒造店",
+      "location": "",
+      "brands": "國府鶴（こうづる）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "brewery": "野崎酒造（株）",
+      "location": "",
+      "brands": "喜正"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "brewery": "清水酒造（株）",
+      "location": "",
+      "brands": "巌乃泉"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "brewery": "久保田酒造（株）",
+      "location": "",
+      "brands": "相模灘"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "brewery": "大矢孝酒造（株）",
+      "location": "",
+      "brands": "残草蓬莱 昇龍蓬莱"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "brewery": "泉橋酒造（株）",
+      "location": "",
+      "brands": "いづみ橋"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "brewery": "黄金井酒造（株）",
+      "location": "",
+      "brands": "盛升"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "brewery": "吉川醸造（株）",
+      "location": "",
+      "brands": "雨降 菊勇 (神奈川県)"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "brewery": "熊澤酒造（株）",
+      "location": "",
+      "brands": "天青 熊澤 曙光"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "brewery": "（株）金井酒造店",
+      "location": "",
+      "brands": "白笹鼓 笹の露 モーツァルト"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "brewery": "中澤酒造（株）",
+      "location": "",
+      "brands": "松美酉（まつみどり）亮（りょう）"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "brewery": "井上酒造（株）",
+      "location": "",
+      "brands": "箱根山"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "brewery": "石井醸造（株）",
+      "location": "",
+      "brands": "曽我の誉"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "brewery": "（資）川西屋酒造店",
+      "location": "",
+      "brands": "丹沢山 隆"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "brewery": "（株）瀬戸酒造店",
+      "location": "",
+      "brands": "酒田錦"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "brewery": "森山酒造場",
+      "location": "",
+      "brands": "蜂龍盃"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "大洋酒造（株）",
+      "location": "",
+      "brands": "大洋盛"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "宮尾酒造（株）",
+      "location": "",
+      "brands": "〆張鶴"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "ふじの井酒造（株）",
+      "location": "",
+      "brands": "ふじの井"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "王紋酒造（株）",
+      "location": "",
+      "brands": "王紋"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "菊水酒造（株）",
+      "location": "",
+      "brands": "菊水"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "下越酒造（株）",
+      "location": "",
+      "brands": "麒麟"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "石本酒造（株）",
+      "location": "",
+      "brands": "越乃寒梅"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "今代司酒造（株）",
+      "location": "",
+      "brands": "錦鯉、今代司"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "朝日酒造（株）",
+      "location": "",
+      "brands": "久保田"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "栃倉酒造（株）",
+      "location": "",
+      "brands": "米百俵"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "久須美酒造（株）",
+      "location": "",
+      "brands": "清泉"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "（株）DHC酒造",
+      "location": "",
+      "brands": "越乃梅里"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "緑川酒造（株）",
+      "location": "",
+      "brands": "緑川"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "玉川酒造（株）",
+      "location": "",
+      "brands": "玉風味"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "（株）松乃井酒造場",
+      "location": "",
+      "brands": "松乃井"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "魚沼酒造（株）",
+      "location": "",
+      "brands": "天神囃子"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "苗場酒造（株）",
+      "location": "",
+      "brands": "苗場山"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "津南醸造（株）",
+      "location": "",
+      "brands": "霧の塔"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "原酒造（株）",
+      "location": "",
+      "brands": "越の誉"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "千代の光酒造（株）",
+      "location": "",
+      "brands": "千代の光"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "八海醸造（株）",
+      "location": "",
+      "brands": "八海山"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "白瀧酒造（株）",
+      "location": "",
+      "brands": "上善如水、白龍"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "青木酒造（株）",
+      "location": "",
+      "brands": "鶴齢"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "高千代酒造（株）",
+      "location": "",
+      "brands": "巻機"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "（株）丸山酒造場",
+      "location": "",
+      "brands": "雪中梅"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "武蔵野酒造（株）",
+      "location": "",
+      "brands": "スキー正宗"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "君の井酒造（株）",
+      "location": "",
+      "brands": "君の井"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "加賀の井酒造（株）",
+      "location": "",
+      "brands": "加賀の井"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "吉乃川（株）",
+      "location": "",
+      "brands": "吉乃川"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "長谷川酒造（株）",
+      "location": "",
+      "brands": "越後雪紅梅"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "樋木酒造（株）",
+      "location": "",
+      "brands": "鶴の友"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "関原酒造（株）",
+      "location": "",
+      "brands": "群龜"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "逸見酒造（株）",
+      "location": "",
+      "brands": "真稜"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "池田屋酒造（株）",
+      "location": "",
+      "brands": "謙信"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "新潟銘醸（株）",
+      "location": "",
+      "brands": "越の寒中梅"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "田中酒造（株）",
+      "location": "",
+      "brands": "能鷹"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "塩川酒造（株）",
+      "location": "",
+      "brands": "越乃関"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "猪又酒造（株）",
+      "location": "",
+      "brands": "月不見の池"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "尾畑酒造（株）",
+      "location": "",
+      "brands": "真野鶴"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "（株）北雪酒造",
+      "location": "",
+      "brands": "北雪"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "峰乃白梅酒造",
+      "location": "株）（旧・福井酒造",
+      "brands": "峰乃白梅"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "池浦酒造（株）",
+      "location": "",
+      "brands": "和楽互尊"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "中川酒造（株）",
+      "location": "",
+      "brands": "越乃白雁"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "林酒造場",
+      "location": "",
+      "brands": "八石、杉の露"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "阿部酒造（株）",
+      "location": "",
+      "brands": "あべ、越乃男山"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "天領盃酒造（株）",
+      "location": "",
+      "brands": "天領盃"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "笹祝酒造（株）",
+      "location": "",
+      "brands": "笹祝"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "弥彦酒造（株）",
+      "location": "",
+      "brands": "こしのはくせつ"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "（株）越後鶴亀",
+      "location": "",
+      "brands": "越後鶴亀"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "福顔酒造（株）",
+      "location": "",
+      "brands": "福顔"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "お福酒造（株）",
+      "location": "",
+      "brands": "お福正宗"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "高野酒造（株）",
+      "location": "",
+      "brands": "白露、越後吹雪"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "河忠酒造（株）",
+      "location": "",
+      "brands": "想天坊"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "近藤酒造（株）",
+      "location": "",
+      "brands": "菅名岳"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "越銘醸（株）",
+      "location": "",
+      "brands": "越の鶴"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "柏露酒造（株）",
+      "location": "",
+      "brands": "柏露"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "越後桜酒造（株）",
+      "location": "",
+      "brands": "越後桜"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "加茂錦酒造（株）",
+      "location": "",
+      "brands": "加茂錦"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "雪椿酒造（株）",
+      "location": "",
+      "brands": "越乃雪椿"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "（株）マスカガミ",
+      "location": "",
+      "brands": "萬寿鏡"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "（有）加藤酒造店",
+      "location": "",
+      "brands": "金鶴"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "金鵄盃酒造（株）",
+      "location": "",
+      "brands": "金鵄盃"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "諸橋酒造（株）",
+      "location": "",
+      "brands": "越乃景虎"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "麒麟山酒造（株）",
+      "location": "",
+      "brands": "麒麟山"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "石塚酒造（株）",
+      "location": "",
+      "brands": "姫の井"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "妙高酒造（株）",
+      "location": "",
+      "brands": "妙高山"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "鮎正宗酒造（株）",
+      "location": "",
+      "brands": "鮎正宗"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "高橋酒造（株）",
+      "location": "",
+      "brands": "長陵"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "高の井酒造（株）",
+      "location": "",
+      "brands": "たかの井、田友"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "金升酒造（株）",
+      "location": "",
+      "brands": "金升"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "越つかの酒造（株）",
+      "location": "",
+      "brands": "代々泉"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "村祐酒造（株）",
+      "location": "",
+      "brands": "村祐"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "（株）越後伝衛門",
+      "location": "",
+      "brands": "伝衛門"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "brewery": "（株）越後酒造場",
+      "location": "",
+      "brands": "甘雨"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "brewery": "（株）枡田酒造店",
+      "location": "",
+      "brands": "満寿泉"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "brewery": "富美菊酒造（株）",
+      "location": "",
+      "brands": "富美菊"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "brewery": "吉乃友酒造（有）",
+      "location": "",
+      "brands": "吉乃友"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "brewery": "鷹泉酒造（株）",
+      "location": "",
+      "brands": "鷹泉"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "brewery": "福鶴酒造（有）",
+      "location": "",
+      "brands": "風の盆"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "brewery": "玉旭酒造（有）",
+      "location": "",
+      "brands": "おわら娘"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "brewery": "林酒造場",
+      "location": "",
+      "brands": "黒部峡"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "brewery": "皇国晴酒造（株）",
+      "location": "",
+      "brands": "幻の瀧"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "brewery": "銀盤酒造（株）",
+      "location": "",
+      "brands": "銀盤"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "brewery": "魚津酒造（株）",
+      "location": "",
+      "brands": "北洋"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "brewery": "宮崎酒造（株）",
+      "location": "",
+      "brands": "蜃気楼"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "brewery": "千代鶴酒造（資）",
+      "location": "",
+      "brands": "千代鶴"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "brewery": "有澤酒造店",
+      "location": "",
+      "brands": "白緑"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "brewery": "（株）高澤酒造場",
+      "location": "",
+      "brands": "曙"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "brewery": "（有）清都酒造場",
+      "location": "",
+      "brands": "勝駒"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "brewery": "日本晴酒造（資）",
+      "location": "",
+      "brands": "日本晴"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "brewery": "戸出酒造（有）",
+      "location": "",
+      "brands": "勝鬨"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "brewery": "黒田酒造（株）",
+      "location": "",
+      "brands": "北一"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "brewery": "若鶴酒造（株）",
+      "location": "",
+      "brands": "若鶴"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "brewery": "吉江酒造（株）",
+      "location": "",
+      "brands": "太刀山"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "brewery": "立山酒造（株）",
+      "location": "",
+      "brands": "立山"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "brewery": "（名）若駒酒造場",
+      "location": "",
+      "brands": "若駒"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "brewery": "成政酒造（株）",
+      "location": "",
+      "brands": "成政"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "brewery": "三笑楽酒造（株）",
+      "location": "",
+      "brands": "三笑楽"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "brewery": "黒田酒造（株）",
+      "location": "",
+      "brands": "萬歳北一"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "（名）鹿渡酒造店",
+      "location": "",
+      "brands": "鹿渡、能登半島"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "（株）加越",
+      "location": "",
+      "brands": "関白・加賀の月"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "数馬酒造（株）",
+      "location": "",
+      "brands": "奥能登"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "（株）金谷酒造店",
+      "location": "",
+      "brands": "高砂"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "鹿野酒造店（資）",
+      "location": "",
+      "brands": "常きげん"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "菊姫（資）",
+      "location": "",
+      "brands": "菊姫"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "合同会社西出酒造",
+      "location": "",
+      "brands": "金紋、春心"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "（株）久世酒造店",
+      "location": "",
+      "brands": "能登路"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "（株）小堀酒造店",
+      "location": "",
+      "brands": "萬歳楽"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "桜田酒造（株）",
+      "location": "",
+      "brands": "初桜"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "（株）沢田酒造店",
+      "location": "",
+      "brands": "能登のおやじ"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "（株）清水酒造店",
+      "location": "",
+      "brands": "能登誉"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "（株）車多酒造",
+      "location": "",
+      "brands": "天狗舞、五凛"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "宗玄酒造（株）",
+      "location": "",
+      "brands": "宗玄"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "（有）武内酒造店",
+      "location": "",
+      "brands": "御所泉"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "（株）鶴野酒造店",
+      "location": "",
+      "brands": "谷泉"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "（資）手塚酒造場",
+      "location": "",
+      "brands": "都乃菊鶴"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "鳥屋酒造（株）",
+      "location": "",
+      "brands": "池月"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "中野酒造店",
+      "location": "",
+      "brands": "亀泉"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "中納酒造店",
+      "location": "",
+      "brands": "若緑"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "中村酒造（株）",
+      "location": "",
+      "brands": "日榮"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "（資）二羽鶴酒造場",
+      "location": "",
+      "brands": "二羽鶴、能登三年酒"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "（株）白藤酒造店",
+      "location": "",
+      "brands": "白藤白菊、能登自慢"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "橋本酒造（株）",
+      "location": "",
+      "brands": "大日盛"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "（有）春成酒造店",
+      "location": "",
+      "brands": "春山"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "東酒造 (株)",
+      "location": "",
+      "brands": "神泉"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "（資）東栄松商店",
+      "location": "",
+      "brands": "旭菊"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "日吉酒造店",
+      "location": "",
+      "brands": "金瓢白駒"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "（株）福光屋",
+      "location": "",
+      "brands": "福正宗、加賀鳶、黒帯"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "（資）布施酒造店",
+      "location": "",
+      "brands": "天平"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "松浦重蔵",
+      "location": "",
+      "brands": "獅子の里"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "松波酒造（株）",
+      "location": "",
+      "brands": "大江山・つづらの波"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "御祖酒造（株）",
+      "location": "",
+      "brands": "遊穂、ほまれ、石動山"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "見砂酒造（株）",
+      "location": "",
+      "brands": "朱鷺の里"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "（株）宮本酒造店",
+      "location": "",
+      "brands": "福の宮、夢醸"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "やちや酒造（株）",
+      "location": "",
+      "brands": "加賀鶴"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "（資）山本酒造本店",
+      "location": "",
+      "brands": "弁慶、登代正宗"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "（株）吉田酒造店",
+      "location": "",
+      "brands": "手取川、翁の友"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "農口酒造（株）",
+      "location": "",
+      "brands": "農口"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "brewery": "（株）農口尚彦研究所",
+      "location": "",
+      "brands": "農口尚彦研究所"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "常山酒造（資）",
+      "location": "",
+      "brands": "常山"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "菊桂酒造（名）",
+      "location": "",
+      "brands": "菊桂"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "田嶋酒造（株）",
+      "location": "",
+      "brands": "福千歳"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "（株）越の磯",
+      "location": "",
+      "brands": "越の磯"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "池田酒造（株）",
+      "location": "",
+      "brands": "天下取"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "毛利酒造（資）",
+      "location": "",
+      "brands": "越の桂月"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "安本酒造（有）",
+      "location": "",
+      "brands": "白岳仙"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "場美川酒造場",
+      "location": "",
+      "brands": "舞美人"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "舟木酒造（資）",
+      "location": "",
+      "brands": "北の庄"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "黒龍酒造（株）",
+      "location": "",
+      "brands": "黒龍"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "田辺酒造",
+      "location": "",
+      "brands": "越前岬"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "吉田酒造（有）",
+      "location": "",
+      "brands": "白龍"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "西岡河村酒造（株）",
+      "location": "",
+      "brands": "月丸"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "（株）吉田金右衛門商店",
+      "location": "",
+      "brands": "雲乃井"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "力泉酒造（有）",
+      "location": "",
+      "brands": "明乃鶴"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "伊藤酒造（資）",
+      "location": "",
+      "brands": "越の鷹"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "久保田酒造（資）",
+      "location": "",
+      "brands": "富久駒"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "坪三酒造（資）",
+      "location": "",
+      "brands": "福喜久"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "真名鶴酒造（資）",
+      "location": "",
+      "brands": "真名鶴"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "（有）南部酒造場",
+      "location": "",
+      "brands": "花垣"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "（株）宇野酒造場",
+      "location": "",
+      "brands": "一乃谷"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "源平酒造（株）",
+      "location": "",
+      "brands": "源平"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "一本義久保本店（株）",
+      "location": "",
+      "brands": "一本義"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "井波酒造（株）",
+      "location": "",
+      "brands": "七つ星"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "片山酒造（株）",
+      "location": "",
+      "brands": "関西"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "（株）北善商店",
+      "location": "",
+      "brands": "聖乃御世"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "堀口酒造（有）",
+      "location": "",
+      "brands": "鳴り瓢"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "畠山酒造（有）",
+      "location": "",
+      "brands": "雪きらら"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "（資）加藤吉平商店",
+      "location": "",
+      "brands": "梵"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "白駒酒造（資）",
+      "location": "",
+      "brands": "白駒"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "豊酒造（株）",
+      "location": "",
+      "brands": "華燭"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "朝日酒造（株）",
+      "location": "",
+      "brands": "富士の関"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "丹生酒造（株）",
+      "location": "",
+      "brands": "飛鳥井"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "敦賀酒造（有）",
+      "location": "",
+      "brands": "福寿杯"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "鳥浜酒造（株）",
+      "location": "",
+      "brands": "加茂栄"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "三宅彦右衛門酒造（有）",
+      "location": "",
+      "brands": "早瀬浦"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "brewery": "青木蘭麝堂",
+      "location": "",
+      "brands": "蘭奢酒"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "brewery": "井出醸造店",
+      "location": "",
+      "brands": "甲斐の開運"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "brewery": "笹一酒造（株）",
+      "location": "",
+      "brands": "笹一"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "brewery": "太冠酒造（株）",
+      "location": "",
+      "brands": "太冠"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "brewery": "横内酒造店（株）",
+      "location": "",
+      "brands": "榊正宗"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "brewery": "養老酒造（株）",
+      "location": "",
+      "brands": "567MIROKU"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "brewery": "福徳長酒類（株）韮崎工場",
+      "location": "",
+      "brands": "す～飲め"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "brewery": "谷櫻酒造（有）",
+      "location": "",
+      "brands": "谷櫻"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "brewery": "山梨銘醸（株）",
+      "location": "",
+      "brands": "七賢"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "brewery": "萬屋醸造店（株）",
+      "location": "",
+      "brands": "春鶯囀"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "brewery": "武の井酒造（株）",
+      "location": "",
+      "brands": "武の井"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "brewery": "八巻酒造（株）",
+      "location": "",
+      "brands": "男山"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "（株）井賀屋酒造店",
+      "location": "",
+      "brands": "岩清水"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "（株）市野屋",
+      "location": "",
+      "brands": "金蘭黒部"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "伊東酒造（株）",
+      "location": "",
+      "brands": "横笛"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "（株）今井酒造店 (長野県)",
+      "location": "",
+      "brands": "若緑"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "岩波酒造合資会社",
+      "location": "",
+      "brands": "岩波"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "白馬錦酒造（株）",
+      "location": "",
+      "brands": "白馬錦"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "雲山銘醸（株）",
+      "location": "",
+      "brands": "雲山"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "春日酒造（株）",
+      "location": "",
+      "brands": "井乃頭"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "（株）遠藤酒造場",
+      "location": "",
+      "brands": "渓流"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "大國酒造（株）",
+      "location": "",
+      "brands": "大國"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "大澤酒造（株）",
+      "location": "",
+      "brands": "大吉野"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "大塚酒造（株）",
+      "location": "",
+      "brands": "浅間嶽"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "岡崎酒造（株）",
+      "location": "",
+      "brands": "亀齢"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "合名会社奥澤商会",
+      "location": "",
+      "brands": "深志鶴"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "（株）尾澤酒造場",
+      "location": "",
+      "brands": "美寿々錦"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "（株）小野酒造店",
+      "location": "",
+      "brands": "頼母鶴"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "小布施酒造（株）",
+      "location": "",
+      "brands": "高井鶴"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "柏屋酒造（株）",
+      "location": "",
+      "brands": "玉泉"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "（株）角口酒造店",
+      "location": "",
+      "brands": "北光正宗"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "店合名会社亀田屋酒造店",
+      "location": "",
+      "brands": "金蘭亀の世"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "（株）柄澤酒造店",
+      "location": "",
+      "brands": "信濃盛"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "木内醸造（株）",
+      "location": "",
+      "brands": "初鶯"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "喜久水酒造（株）",
+      "location": "",
+      "brands": "喜久水"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "橘倉酒造（株）",
+      "location": "",
+      "brands": "菊秀"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "協和酒造（株）",
+      "location": "",
+      "brands": "ぼたん金蝶"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "沓掛酒造（株）",
+      "location": "",
+      "brands": "福無量"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "黒澤酒造（株）",
+      "location": "",
+      "brands": "井筒長"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "高天酒造（株）",
+      "location": "",
+      "brands": "高天"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "坂井銘醸（株）",
+      "location": "",
+      "brands": "西之門（にしのもん）、白雄（しらお）、雲山（うんざん）、夢二（ゆめじ）、宝ヶ池（たからがいけ）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "佐久の花酒造（株）",
+      "location": "",
+      "brands": "佐久の花"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "酒ぬのや本金酒造（株）",
+      "location": "",
+      "brands": "本金"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "笹井酒造（株）",
+      "location": "",
+      "brands": "笹の誉"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "志賀泉酒造（株）",
+      "location": "",
+      "brands": "志賀泉"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "七福酒造（株）",
+      "location": "",
+      "brands": "七福"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "笑亀酒造（株）",
+      "location": "",
+      "brands": "笑亀"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "信州銘醸（株）",
+      "location": "",
+      "brands": "秀峰喜久盛"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "（株）仙醸",
+      "location": "",
+      "brands": "黒松仙醸"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "大信州酒造（株）",
+      "location": "",
+      "brands": "大信州"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "大雪渓酒造（株）",
+      "location": "",
+      "brands": "大雪渓（だいせっけい）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "戸田酒造（株）",
+      "location": "",
+      "brands": "ダイヤ菊"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "高沢酒造（株）",
+      "location": "",
+      "brands": "米川"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "（株）高橋助作酒造店",
+      "location": "",
+      "brands": "松尾"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "武重本家酒造（株）",
+      "location": "",
+      "brands": "御園竹"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "（株）田中屋酒造店",
+      "location": "",
+      "brands": "水尾"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "（株）玉村本店",
+      "location": "",
+      "brands": "縁喜"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "千曲錦酒造（株）",
+      "location": "",
+      "brands": "千曲錦"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "有限会社千野酒造場",
+      "location": "",
+      "brands": "桂正宗"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "（株）長生社",
+      "location": "",
+      "brands": "信濃鶴"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "（株）土屋酒造店",
+      "location": "",
+      "brands": "亀の海"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "天法酒造（株）",
+      "location": "",
+      "brands": "天法"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "天領誉酒造（株）",
+      "location": "",
+      "brands": "天領誉"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "（株）豊島屋 (長野県)",
+      "location": "",
+      "brands": "神渡"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "合名会社戸塚酒造店",
+      "location": "",
+      "brands": "寒竹"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "伴野酒造（株）",
+      "location": "",
+      "brands": "澤乃花"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "（株）中善酒造店",
+      "location": "",
+      "brands": "中乗さん"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "長野銘醸（株）",
+      "location": "",
+      "brands": "オバステ正宗"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "七笑酒造（株）",
+      "location": "",
+      "brands": "七笑"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "（株）西飯田酒造店",
+      "location": "",
+      "brands": "信濃光"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "西尾酒造（株）",
+      "location": "",
+      "brands": "木曽のかけはし"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "（株）東飯田酒造店",
+      "location": "",
+      "brands": "本老の松"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "福源酒造（株）",
+      "location": "",
+      "brands": "福源"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "芙蓉酒造（株）",
+      "location": "",
+      "brands": "金宝芙蓉"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "（株）古屋酒造店",
+      "location": "",
+      "brands": "深山桜"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "北安醸造（株）",
+      "location": "",
+      "brands": "北安大國"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "（株）舞姫",
+      "location": "",
+      "brands": "信州舞姫、翠露"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "桝一市村酒造場",
+      "location": "",
+      "brands": "スクウェア・ワン"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "（株）松葉屋本店",
+      "location": "",
+      "brands": "本吉乃川"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "（株）丸世酒造店",
+      "location": "",
+      "brands": "勢正宗"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "合資会社丸永酒造場",
+      "location": "",
+      "brands": "高波"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "美寿々酒造（株）",
+      "location": "",
+      "brands": "美寿々"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "（株）宮坂酒造店",
+      "location": "",
+      "brands": "象山正宗"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "宮坂醸造（株）",
+      "location": "",
+      "brands": "真澄"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "合資会社 宮島酒店",
+      "location": "",
+      "brands": "信濃錦"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "（株）山岸酒店",
+      "location": "",
+      "brands": "岸の松"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "山謙酒造店",
+      "location": "",
+      "brands": "姫百合"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "合資会社山崎酒造",
+      "location": "",
+      "brands": "山清"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "山三酒造（株）",
+      "location": "",
+      "brands": "真田六文銭"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "（株）湯川酒造店",
+      "location": "",
+      "brands": "木曽路"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "善哉酒造（株）",
+      "location": "",
+      "brands": "善哉"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "米澤酒造（株）",
+      "location": "",
+      "brands": "今錦"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "麗人酒造（株）",
+      "location": "",
+      "brands": "麗人"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "若林醸造（株）",
+      "location": "",
+      "brands": "月吉野"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "brewery": "和田龍酒造（株）",
+      "location": "",
+      "brands": "和田龍"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "足立酒造(資)",
+      "location": "",
+      "brands": "金華山"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "(有)原田酒造場",
+      "location": "",
+      "brands": "山車"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "(株)三輪酒造",
+      "location": "",
+      "brands": "白川郷"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "(資)白木恒助商店",
+      "location": "",
+      "brands": "達磨正宗"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "小町酒造(株)",
+      "location": "",
+      "brands": "長良川、小町、蔵音、かかみ野"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "菊川（株）",
+      "location": "",
+      "brands": "篝火、菊川"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "千代菊(株)",
+      "location": "",
+      "brands": "千代菊"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "武内(資)",
+      "location": "",
+      "brands": "美濃紅梅"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "渡辺酒造醸",
+      "location": "",
+      "brands": "白雪姫"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "大塚酒造(株)",
+      "location": "",
+      "brands": "竹雀"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "池田屋酒造(株)",
+      "location": "",
+      "brands": "富久若松"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "所酒造(資)",
+      "location": "",
+      "brands": "房島屋"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "杉原酒造(株)",
+      "location": "",
+      "brands": "揖斐川"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "(株)小坂酒造場",
+      "location": "",
+      "brands": "百春"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "(有)松井屋酒造場",
+      "location": "",
+      "brands": "半布里戸籍"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "御代桜醸造(株)",
+      "location": "",
+      "brands": "御代櫻"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "平和錦酒造",
+      "location": "",
+      "brands": "飛騨路の寒椿"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "(資)山田商店",
+      "location": "",
+      "brands": "玉柏"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "花盛酒造(株)",
+      "location": "",
+      "brands": "はなざかり"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "平野酒造(資)",
+      "location": "",
+      "brands": "やっちく"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "原酒造場",
+      "location": "",
+      "brands": "元文"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "中島醸造(株)",
+      "location": "",
+      "brands": "小左衛門"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "若葉(株)",
+      "location": "",
+      "brands": "若葉"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "千古乃岩酒造(株)",
+      "location": "",
+      "brands": "千古乃岩"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "林酒造林酒造(株)",
+      "location": "",
+      "brands": "美濃天狗"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "(株)平井酒造場",
+      "location": "",
+      "brands": "宮太鼓"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "はざま酒造(株)",
+      "location": "",
+      "brands": "恵那山"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "山内酒造場",
+      "location": "",
+      "brands": "小野櫻"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "(有)大橋酒造",
+      "location": "",
+      "brands": "笠置鶴"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "岩村醸造(株)",
+      "location": "",
+      "brands": "女城主"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "恵那醸造(株)",
+      "location": "",
+      "brands": "市乃川、鯨波"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "（資）白木恒助商店",
+      "location": "",
+      "brands": "達磨正宗"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "玉泉堂酒造（株）",
+      "location": "",
+      "brands": "醴泉、美濃菊"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "日本泉酒造（株）",
+      "location": "",
+      "brands": "日本泉、ふなくちとり、織田信長、濃姫、豊臣秀吉、フローズン"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "川尻酒造場",
+      "location": "",
+      "brands": "ひだ正宗"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "(有)平瀬酒造店",
+      "location": "",
+      "brands": "久寿玉"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "二木酒造(株)",
+      "location": "",
+      "brands": "氷室、玉の井"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "天領酒造(株)",
+      "location": "",
+      "brands": "天領、天禄拝領"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "奥飛騨酒造(株)",
+      "location": "",
+      "brands": "奥飛騨、初緑"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "(有)蒲酒造場",
+      "location": "",
+      "brands": "白真弓、やんちゃ酒"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "(有)舩坂酒造店",
+      "location": "",
+      "brands": "深山菊"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "(株)老田酒造店",
+      "location": "",
+      "brands": "鬼ころし"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "(株)平田酒造場",
+      "location": "",
+      "brands": "飛騨の華"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "(有)渡辺酒造店",
+      "location": "",
+      "brands": "雪中酒、蓬莱"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "(有)大坪酒造店",
+      "location": "",
+      "brands": "飛騨娘"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "白扇酒造(株)",
+      "location": "",
+      "brands": "花美蔵"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "brewery": "（株）三千盛",
+      "location": "",
+      "brands": "三千盛"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "brewery": "青島酒造（株）",
+      "location": "",
+      "brands": "喜久酔"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "brewery": "磯自慢酒造（株）",
+      "location": "",
+      "brands": "磯自慢"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "brewery": "（株）志太泉酒造",
+      "location": "",
+      "brands": "志太泉"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "brewery": "（株）駿河酒造場",
+      "location": "",
+      "brands": "天虹、蘇我鶴、忠正"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "brewery": "（株）土井酒造場",
+      "location": "",
+      "brands": "開運"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "brewery": "三和酒造（株）",
+      "location": "",
+      "brands": "臥龍梅、静ごころ、羽衣の舞"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "brewery": "杉井酒造",
+      "location": "",
+      "brands": "杉錦"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "brewery": "高嶋酒造（株）",
+      "location": "",
+      "brands": "白隠正宗"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "brewery": "萩錦酒造（株）",
+      "location": "",
+      "brands": "萩錦"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "brewery": "初亀醸造（株）",
+      "location": "",
+      "brands": "初亀"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "brewery": "（株）神沢川酒造場",
+      "location": "",
+      "brands": "正雪"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "brewery": "花の舞酒造（株）",
+      "location": "",
+      "brands": "花の舞"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "brewery": "浜松酒造（株）",
+      "location": "",
+      "brands": "出世城"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "brewery": "遠州山中酒造（株）",
+      "location": "",
+      "brands": "葵天下"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "brewery": "富士錦酒造（株）",
+      "location": "",
+      "brands": "富士錦"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "brewery": "富士正酒造（資）",
+      "location": "",
+      "brands": "富士正"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "brewery": "牧野酒造（資）",
+      "location": "",
+      "brands": "白糸、富士山"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "brewery": "富士高砂酒造（株）",
+      "location": "",
+      "brands": "高砂"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "金虎酒造",
+      "location": "名古屋市北区",
+      "brands": "金虎"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "東春酒造",
+      "location": "名古屋市守山区",
+      "brands": "東龍"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "神の井酒造",
+      "location": "名古屋市緑区",
+      "brands": "神の井"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "山盛酒造",
+      "location": "名古屋市緑区",
+      "brands": "鷹の夢、奈留美"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "萬乗醸造",
+      "location": "名古屋市緑区",
+      "brands": "醸し人九平次（かもしびとくへいじ）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "山星酒造",
+      "location": "江南市",
+      "brands": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "丸井",
+      "location": "江南市",
+      "brands": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "勲碧酒造",
+      "location": "江南市",
+      "brands": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "小弓鶴酒造",
+      "location": "犬山市",
+      "brands": "小弓鶴"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "小島醸造",
+      "location": "犬山市",
+      "brands": "忍冬酒"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "金銀花酒造",
+      "location": "一宮市",
+      "brands": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "内藤醸造",
+      "location": "稲沢市",
+      "brands": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "長珍酒造",
+      "location": "津島市",
+      "brands": "長珍（ちょうちん）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "鶴見酒造",
+      "location": "津島市",
+      "brands": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "水谷酒造",
+      "location": "稲沢市",
+      "brands": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "清洲桜醸造",
+      "location": "清須市",
+      "brands": "清洲城信長鬼ころし"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "渡辺酒造",
+      "location": "愛西市",
+      "brands": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "山忠本家酒造",
+      "location": "愛西市",
+      "brands": "義侠（ぎきょう）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "青木酒造",
+      "location": "愛西市",
+      "brands": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "甘強酒造",
+      "location": "海部郡蟹江町",
+      "brands": "四天王"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "山田酒造",
+      "location": "海部郡蟹江町",
+      "brands": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "中埜酒造",
+      "location": "半田市",
+      "brands": "國盛（くにざかり）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "盛田金しゃち酒造",
+      "location": "半田市",
+      "brands": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "澤田酒造",
+      "location": "常滑市",
+      "brands": "白老（はくろう）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "盛田",
+      "location": "常滑市",
+      "brands": "ねのひ"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "丸一酒造",
+      "location": "知多郡阿久比町",
+      "brands": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "原田酒造",
+      "location": "知多郡東浦町",
+      "brands": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "丸石醸造",
+      "location": "岡崎市",
+      "brands": "長誉"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "柴田酒造場",
+      "location": "岡崎市",
+      "brands": "考の司"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "永井酒造場",
+      "location": "碧南市",
+      "brands": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "相生ユニビオ",
+      "location": "碧南市",
+      "brands": "あいおい"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "角谷文治郎商店",
+      "location": "碧南市",
+      "brands": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "神杉酒造",
+      "location": "安城市",
+      "brands": "神杉"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "山崎",
+      "location": "西尾市",
+      "brands": "尊皇"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "豊田酒造",
+      "location": "豊田市",
+      "brands": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "浦野",
+      "location": "豊田市",
+      "brands": "菊石"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "中垣酒造",
+      "location": "豊田市",
+      "brands": "賜冠（しかん）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "福井酒造",
+      "location": "豊橋市",
+      "brands": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "伊勢屋商店",
+      "location": "豊橋市",
+      "brands": "公楽"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "日野屋商店",
+      "location": "新城市",
+      "brands": "朝日嶽"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "brewery": "関谷醸造",
+      "location": "北設楽郡設楽町",
+      "brands": "蓬莱泉（ほうらいせん）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "brewery": "旭酒造",
+      "location": "",
+      "brands": "伊勢旭"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "brewery": "安達本家酒造",
+      "location": "",
+      "brands": "富士の光"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "brewery": "油正",
+      "location": "",
+      "brands": "初日"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "brewery": "伊勢萬",
+      "location": "",
+      "brands": "おかげさま"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "brewery": "伊藤酒造",
+      "location": "",
+      "brands": "鈿女"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "brewery": "稲垣酒造場",
+      "location": "",
+      "brands": "御山杉"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "brewery": "大田酒造",
+      "location": "",
+      "brands": "半蔵"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "brewery": "小川本家",
+      "location": "",
+      "brands": "八千代"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "brewery": "神楽酒造",
+      "location": "",
+      "brands": "神楽"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "brewery": "河武醸造",
+      "location": "",
+      "brands": "鉾杉"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "brewery": "寒紅梅酒造",
+      "location": "",
+      "brands": "寒紅梅"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "brewery": "木屋正酒造（合）",
+      "location": "",
+      "brands": "而今（じこん）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "brewery": "後藤酒造場",
+      "location": "",
+      "brands": "青雲"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "brewery": "タカハシ酒造",
+      "location": "",
+      "brands": "伊勢"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "brewery": "瀧自慢酒造（株）",
+      "location": "",
+      "brands": "瀧自慢"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "brewery": "清水清三郎商店（株）",
+      "location": "",
+      "brands": "鈴鹿川、作"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "brewery": "早川酒造部",
+      "location": "",
+      "brands": "天一"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "brewery": "早川酒造",
+      "location": "",
+      "brands": "早春"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "brewery": "細川酒造",
+      "location": "",
+      "brands": "上げ馬"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "brewery": "松山酒造場",
+      "location": "",
+      "brands": "東海松"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "brewery": "丸彦酒造",
+      "location": "",
+      "brands": "三重の寒梅"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "brewery": "宮崎本店",
+      "location": "",
+      "brands": "宮の雪"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "brewery": "元坂酒造",
+      "location": "",
+      "brands": "酒屋八兵衛"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "brewery": "森喜酒造場",
+      "location": "",
+      "brands": "妙の華、英、るみ子の酒"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "brewery": "森本酒造",
+      "location": "",
+      "brands": "仙右衛門"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "平井商店",
+      "location": "大津市",
+      "brands": "浅茅生"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "浪乃音酒造",
+      "location": "大津市",
+      "brands": "浪乃音"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "太田酒造",
+      "location": "草津市",
+      "brands": "道灌"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "古川酒造",
+      "location": "草津市",
+      "brands": "宗花/天井川"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "多賀",
+      "location": "多賀町",
+      "brands": "多賀"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "岡村本家",
+      "location": "豊郷町",
+      "brands": "金亀"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "藤居本家",
+      "location": "愛荘町",
+      "brands": "旭日"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "北島酒造",
+      "location": "湖南市",
+      "brands": "御代栄"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "藤本酒造",
+      "location": "湖南市",
+      "brands": "神開"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "美冨久酒造",
+      "location": "甲賀市",
+      "brands": "三連星"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "笑四季酒造",
+      "location": "甲賀市",
+      "brands": "笑四季"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "安井利彦酒造場",
+      "location": "甲賀市",
+      "brands": "初桜"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "滋賀酒造",
+      "location": "甲賀市",
+      "brands": "貴生娘"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "田中酒造",
+      "location": "甲賀市",
+      "brands": "春乃峰"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "瀬古酒造",
+      "location": "甲賀市",
+      "brands": "大甲賀"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "望月酒造",
+      "location": "甲賀市",
+      "brands": "晴朗・寿々兜"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "松瀬酒造",
+      "location": "竜王町",
+      "brands": "松の司"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "矢尾酒造",
+      "location": "日野町",
+      "brands": "鈴正宗"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "畑酒造",
+      "location": "東近江市",
+      "brands": "大治郎"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "喜多酒造",
+      "location": "東近江市",
+      "brands": "喜楽長"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "増本藤兵衛酒造場",
+      "location": "東近江市",
+      "brands": "薄桜"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "中澤酒造",
+      "location": "東近江市",
+      "brands": "一博"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "冨田酒造",
+      "location": "長浜市",
+      "brands": "七本鎗"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "佐藤酒造",
+      "location": "長浜市",
+      "brands": "湖濱"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "山路酒造",
+      "location": "長浜市",
+      "brands": "北國街道"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "吉田酒造",
+      "location": "高島市",
+      "brands": "竹生島"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "池本酒造",
+      "location": "高島市",
+      "brands": "琵琶の長寿"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "川島酒造",
+      "location": "高島市",
+      "brands": "松の花"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "上原酒造",
+      "location": "高島市",
+      "brands": "不老泉"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "brewery": "福井弥平商店",
+      "location": "高島市",
+      "brands": "萩乃露"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "月桂冠（株）",
+      "location": "",
+      "brands": "月桂冠、笠置屋"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "黄桜（株）",
+      "location": "",
+      "brands": "黄桜"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "（株）北川本家",
+      "location": "",
+      "brands": "富翁"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "京姫酒造（株）",
+      "location": "",
+      "brands": "京姫"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "キンシ正宗（株）",
+      "location": "",
+      "brands": "キンシ正宗"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "鶴正酒造(株)",
+      "location": "",
+      "brands": "鶴正宗"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "（株）豊澤本店",
+      "location": "",
+      "brands": "豊祝"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "宝酒造（株）",
+      "location": "",
+      "brands": "松竹梅"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "玉乃光酒造（株）",
+      "location": "",
+      "brands": "玉乃光"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "松本酒造（株）",
+      "location": "",
+      "brands": "日出盛、桃の滴"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "齊藤酒造（株）",
+      "location": "",
+      "brands": "英勲、井筒屋伊兵衛、大鷹"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "平和酒造合資会社",
+      "location": "",
+      "brands": "慶長"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "都鶴酒造（株）",
+      "location": "",
+      "brands": "都鶴"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "山本勘蔵商店",
+      "location": "",
+      "brands": "鷹取"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "（株）山本本家",
+      "location": "",
+      "brands": "神聖"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "城陽酒造",
+      "location": "",
+      "brands": "城陽"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "東山酒造（有）",
+      "location": "",
+      "brands": "坤滴"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "向島酒造",
+      "location": "",
+      "brands": "ふり袖"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "（株）増田徳兵衛商店",
+      "location": "",
+      "brands": "月の桂"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "藤岡酒造（株）",
+      "location": "",
+      "brands": "蒼空、万長"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "小山本家酒造京都伏見工場",
+      "location": "本社は埼玉県",
+      "brands": "世界鷹（販売は京姫酒造）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "招徳酒造(株)",
+      "location": "",
+      "brands": "招徳、花洛、延寿"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "共同酒造",
+      "location": "",
+      "brands": "美山"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "松山酒造",
+      "location": "",
+      "brands": "明君"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "松井酒造",
+      "location": "",
+      "brands": "富士千歳、京千歳、金瓢"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "佐々木酒造（株）",
+      "location": "",
+      "brands": "聚楽第"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "羽田酒造",
+      "location": "",
+      "brands": "初日の出"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "長老",
+      "location": "",
+      "brands": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "関酒造",
+      "location": "",
+      "brands": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "大石酒造",
+      "location": "",
+      "brands": "翁鶴"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "東和酒造",
+      "location": "",
+      "brands": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "若宮酒造",
+      "location": "",
+      "brands": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "谷口酒造（株）",
+      "location": "",
+      "brands": "芝の井"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "与謝野娘酒造",
+      "location": "",
+      "brands": "与謝娘"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "ハクレイ酒造（株）",
+      "location": "",
+      "brands": "酒呑童子、白嶺"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "池田酒造（株）",
+      "location": "",
+      "brands": "池雲"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "向井酒造（株）",
+      "location": "",
+      "brands": "京の春"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "白杉酒造（有）",
+      "location": "",
+      "brands": "白木久"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "吉岡酒造場",
+      "location": "",
+      "brands": "吉野山"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "竹野酒造（有）",
+      "location": "",
+      "brands": "弥栄鶴"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "木下酒造（有）",
+      "location": "",
+      "brands": "玉川"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "熊野酒造（有）",
+      "location": "",
+      "brands": "久美の浦"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "brewery": "丹山酒造",
+      "location": "",
+      "brands": "渚"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "brewery": "秋鹿酒造（有）",
+      "location": "",
+      "brands": "秋鹿"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "brewery": "吉田酒造（株）",
+      "location": "",
+      "brands": "緑一"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "brewery": "寿酒造（株）",
+      "location": "",
+      "brands": "国の長"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "brewery": "浪花酒造（有）",
+      "location": "",
+      "brands": "浪花正宗"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "brewery": "呉春（株）",
+      "location": "",
+      "brands": "呉春"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "brewery": "高島酒造（株）",
+      "location": "",
+      "brands": "寿杯"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "brewery": "清鶴酒造（株）",
+      "location": "",
+      "brands": "清鶴"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "brewery": "造山野酒造（株）",
+      "location": "",
+      "brands": "片野桜"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "brewery": "西條（資）",
+      "location": "",
+      "brands": "天野酒"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "brewery": "大門酒造（株）",
+      "location": "",
+      "brands": "酒半"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "brewery": "（有）北庄司酒造店",
+      "location": "",
+      "brands": "荘の郷、都娘"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "brewery": "長龍酒造（株）",
+      "location": "",
+      "brands": "長龍"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "brewery": "藤本酒造場",
+      "location": "",
+      "brands": "冨士正、松花鶴、雅一、いのまなり"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "brewery": "寺田酒造（有）",
+      "location": "",
+      "brands": "元朝"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "brewery": "井坂酒造場",
+      "location": "",
+      "brands": "三輪福"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "brewery": "（有）利休蔵",
+      "location": "",
+      "brands": "千利休"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "大関（株）",
+      "location": "",
+      "brands": "大関、多聞、金鹿"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "今津酒造（株）",
+      "location": "",
+      "brands": "扇政宗"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "日本盛（株）",
+      "location": "",
+      "brands": "日本盛、惣花"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "國産酒造（株）",
+      "location": "",
+      "brands": "灘自慢"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "木谷酒造（株）",
+      "location": "",
+      "brands": "喜一"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "白鷹（株）",
+      "location": "",
+      "brands": "白鷹"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "辰馬本家酒造（株）",
+      "location": "",
+      "brands": "白鹿"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "松竹梅酒造（株）",
+      "location": "",
+      "brands": "灘一"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "大澤本家酒造（株）",
+      "location": "",
+      "brands": "寶娘"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "北山酒造（株）",
+      "location": "",
+      "brands": "島美人"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "万代大澤醸造（株）",
+      "location": "",
+      "brands": "徳若"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "沢の鶴（株）",
+      "location": "",
+      "brands": "沢の鶴、世界長"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "太田酒造（株）灘千代田蔵",
+      "location": "",
+      "brands": "千代田蔵（本社所在地：滋賀県）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "宝酒造（株）白壁蔵",
+      "location": "",
+      "brands": "松竹梅白壁蔵（本社所在地：京都府）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "（株）小山本家酒造 灘浜福鶴蔵",
+      "location": "",
+      "brands": "空蔵（本社所在地：埼玉県）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "櫻正宗（株）",
+      "location": "",
+      "brands": "櫻正宗"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "白鶴酒造（株）",
+      "location": "",
+      "brands": "白鶴"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "菊正宗酒造（株）",
+      "location": "",
+      "brands": "菊正宗"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "剣菱酒造（株）",
+      "location": "",
+      "brands": "剣菱"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "（株）神戸酒心館",
+      "location": "",
+      "brands": "福壽"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "泉酒造（株）",
+      "location": "",
+      "brands": "泉正宗"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "（株）安福又四郎商店",
+      "location": "",
+      "brands": "大黒正宗"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "小西酒造（株）",
+      "location": "",
+      "brands": "白雪"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "伊丹老松酒造（株）",
+      "location": "",
+      "brands": "伊丹郷、老松"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "川辺酒造（有）",
+      "location": "",
+      "brands": "花衣、猪名の露"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "岡村酒造場",
+      "location": "",
+      "brands": "千鳥正宗"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "神崎酒造（有）",
+      "location": "",
+      "brands": "龍王の舞、真名井乃鶴"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "名城酒造（株）",
+      "location": "",
+      "brands": "名城千姫"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "壺坂酒造（株）",
+      "location": "",
+      "brands": "雪彦山、金壺"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "ヤヱガキ酒造（株）",
+      "location": "",
+      "brands": "八重垣"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "（株）本田商店",
+      "location": "",
+      "brands": "龍力"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "田中酒造場",
+      "location": "",
+      "brands": "名刀正宗、白鷺の城"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "灘菊酒造（株）",
+      "location": "",
+      "brands": "灘菊、MISA"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "下村酒造（株）",
+      "location": "",
+      "brands": "奥播磨、宮乃井"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "山陽盃酒造（株）",
+      "location": "",
+      "brands": "播州一献"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "老松酒造（有）",
+      "location": "",
+      "brands": "寿惠広老松"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "奥藤商事（株）",
+      "location": "",
+      "brands": "忠臣蔵"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "明石酒類醸造（株）",
+      "location": "",
+      "brands": "明石鯛"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "江井ヶ島酒造（株）",
+      "location": "",
+      "brands": "神鷹"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "茨木酒造（合）",
+      "location": "",
+      "brands": "来楽"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "西海酒造（株）",
+      "location": "",
+      "brands": "空の鶴"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "稲見酒造（株）",
+      "location": "",
+      "brands": "葵鶴"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "香住鶴（株）",
+      "location": "",
+      "brands": "香住鶴"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "田治米（名）",
+      "location": "",
+      "brands": "竹泉"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "此の友酒造（株）",
+      "location": "",
+      "brands": "但馬"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "出石酒造（有）",
+      "location": "",
+      "brands": "楽々鶴"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "八鹿酒造（有）",
+      "location": "",
+      "brands": "吉野、夫婦杉"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "銀海酒造（有）",
+      "location": "",
+      "brands": "稜線、銀仙、銀海"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "（株）西山酒造場",
+      "location": "",
+      "brands": "小鼓"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "山名酒造（株）",
+      "location": "",
+      "brands": "奥丹波"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "鴨庄酒造（株）",
+      "location": "",
+      "brands": "花鳥末廣"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "鳳鳴酒造（株）",
+      "location": "",
+      "brands": "鳳鳴"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "狩場一酒造（株）",
+      "location": "",
+      "brands": "秀月"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "櫻酒造（株）",
+      "location": "",
+      "brands": "櫻一文字"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "黄桜（株）丹波工場",
+      "location": "",
+      "brands": "黄桜S（本社所在地:京都府）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "神結酒造（株）",
+      "location": "",
+      "brands": "神結、闘竜灘"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "三宅酒造（株）",
+      "location": "",
+      "brands": "菊日本"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "富久錦（株）",
+      "location": "",
+      "brands": "富久錦"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "（名）岡田本家",
+      "location": "",
+      "brands": "盛典"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "キング醸造（株）",
+      "location": "",
+      "brands": "播州錦"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "千年一酒造（株）",
+      "location": "",
+      "brands": "千年一、千代の縁"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "都美人酒造（株）",
+      "location": "",
+      "brands": "都美人"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "金盃酒造（株）",
+      "location": "",
+      "brands": "金盃"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "メルシャン（株）",
+      "location": "",
+      "brands": "百万両（本社所在地：東京都）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "太陽酒造（株）",
+      "location": "",
+      "brands": "赤石"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "大和酒造（株）",
+      "location": "",
+      "brands": "大和鶴"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "松尾酒造（有）",
+      "location": "",
+      "brands": "旭龍"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "友田酒造（株）",
+      "location": "",
+      "brands": "雪之梅"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "吉村酒造（株）但馬蔵",
+      "location": "",
+      "brands": "太白（本社所在地：京都府）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "brewery": "（株）文太郎",
+      "location": "旧・永雄酒造（有）",
+      "brands": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "（株）今西清兵衛商店",
+      "location": "奈良市",
+      "brands": "春鹿"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "奈良豊澤酒造",
+      "location": "株）（奈良市",
+      "brands": "豊祝"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "倉本酒造",
+      "location": "株）（奈良市",
+      "brands": "金嶽"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "上田酒造",
+      "location": "株）（生駒市",
+      "brands": "嬉長、生長"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "稲田酒造",
+      "location": "合）（天理市",
+      "brands": "黒松稲天"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "中谷酒造",
+      "location": "株）（大和郡山市",
+      "brands": "萬穣、朝香"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "河合酒造",
+      "location": "株）（橿原市",
+      "brands": "出世男"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "金剛力酒造",
+      "location": "株）（高取町",
+      "brands": "金剛力"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "（株）大倉本家",
+      "location": "香芝市",
+      "brands": "金鼓"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "油長酒造",
+      "location": "株）（御所市",
+      "brands": "鷹長、風の森"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "千代酒造",
+      "location": "株）（御所市",
+      "brands": "櫛羅"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "五條酒造",
+      "location": "株）（五條市",
+      "brands": "五神"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "西内酒造",
+      "location": "桜井市",
+      "brands": "談山正宗"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "（株）久保本家酒造",
+      "location": "宇陀市",
+      "brands": "初霞"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "藤村酒造",
+      "location": "株）（下市町",
+      "brands": "万代老松"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "（株）北岡本店",
+      "location": "吉野町",
+      "brands": "八咫烏"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "八木酒造",
+      "location": "株）（奈良市",
+      "brands": "升平"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "西田酒造",
+      "location": "株）（奈良市",
+      "brands": "両白"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "中本酒造店",
+      "location": "生駒市",
+      "brands": "山鶴"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "菊司醸造",
+      "location": "株）（生駒市",
+      "brands": "菊司"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "増田酒造",
+      "location": "株）（天理市",
+      "brands": "都姫"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "喜多酒造",
+      "location": "株）（橿原市",
+      "brands": "御代菊"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "澤田酒造",
+      "location": "株）（香芝市",
+      "brands": "歓喜光"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "梅乃宿酒造",
+      "location": "株）（葛城市",
+      "brands": "梅乃宿"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "葛城酒造",
+      "location": "株）（御所市",
+      "brands": "百楽門"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "（株）山本本家",
+      "location": "五條市",
+      "brands": "松の友"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "今西酒造",
+      "location": "株）（桜井市",
+      "brands": "三諸杉"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "芳村酒造",
+      "location": "株）（宇陀市",
+      "brands": "千代の松"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "長龍酒造",
+      "location": "株）（広陵町",
+      "brands": "長龍"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "（株）岡本本家",
+      "location": "大淀町",
+      "brands": "山桂"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "美吉野醸造",
+      "location": "株）（吉野町",
+      "brands": "花巴"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "brewery": "北村酒造",
+      "location": "株）（吉野町",
+      "brands": "猩々"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "brewery": "天長島村酒造",
+      "location": "",
+      "brands": "天長、高野山、吉宗"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "brewery": "吉村秀雄商店",
+      "location": "",
+      "brands": "日本城、鉄砲隊"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "brewery": "田端酒造",
+      "location": "",
+      "brands": "羅生門、大東一"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "brewery": "世界一統",
+      "location": "",
+      "brands": "世界一統、イチ"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "brewery": "名手酒造店",
+      "location": "",
+      "brands": "黒牛など"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "brewery": "中野BC",
+      "location": "",
+      "brands": "長久、紀伊国屋文左衛門"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "brewery": "高垣酒造",
+      "location": "",
+      "brands": "龍神丸、紀勢鶴"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "brewery": "初光酒造",
+      "location": "",
+      "brands": "おめでとう、よろこび、よろこびの竹、爪剥酒、歓喜、ワールドカップ"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "brewery": "諏訪酒造（株）",
+      "location": "",
+      "brands": "諏訪泉、諏訪娘"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "brewery": "（有）太田酒造場",
+      "location": "",
+      "brands": "辨天娘"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "brewery": "（有）高田酒造場",
+      "location": "",
+      "brands": "瑞泉"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "brewery": "中川酒造（株）",
+      "location": "",
+      "brands": "いなば鶴、福寿海"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "brewery": "（有）山根酒造場",
+      "location": "",
+      "brands": "日置桜"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "brewery": "（有）西本酒造場",
+      "location": "",
+      "brands": "美人長、笑"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "brewery": "元帥酒造（株）",
+      "location": "",
+      "brands": "元帥"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "brewery": "高田酒造（株）",
+      "location": "",
+      "brands": "（ひ）此君"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "brewery": "中井酒造（株）",
+      "location": "",
+      "brands": "八潮"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "brewery": "福羅酒造（株）",
+      "location": "",
+      "brands": "山陰東郷"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "brewery": "藤井酒造（資）",
+      "location": "",
+      "brands": "三朝正宗、白狼"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "brewery": "大谷酒造（株）",
+      "location": "",
+      "brands": "鷹勇"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "brewery": "（株）江原酒造本店",
+      "location": "",
+      "brands": "伯陽長"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "brewery": "梅津酒造（有）",
+      "location": "",
+      "brands": "冨玲"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "brewery": "（株）稲田本店",
+      "location": "",
+      "brands": "トップ水雷、稲田姫"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "brewery": "久米桜酒造（有）",
+      "location": "",
+      "brands": "久米桜、八郷"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "brewery": "千代むすび酒造（株）",
+      "location": "",
+      "brands": "千代むすび"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "brewery": "（有）大岩酒造本店",
+      "location": "",
+      "brands": "秀峰岩泉"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "brewery": "李白酒造（有）",
+      "location": "",
+      "brands": "李白"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "brewery": "板倉酒造（有）",
+      "location": "",
+      "brands": "天穏"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "brewery": "一宮酒造（有）",
+      "location": "",
+      "brands": "石見銀山"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "brewery": "金鳳酒造（有）",
+      "location": "",
+      "brands": "金鳳"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "brewery": "玉櫻酒造（有）",
+      "location": "",
+      "brands": "玉櫻"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "brewery": "簸上清酒（名）",
+      "location": "",
+      "brands": "七冠馬"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "brewery": "富士酒造（資）",
+      "location": "",
+      "brands": "出雲富士"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "brewery": "（資）石州酒造",
+      "location": "",
+      "brands": "華泉"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "brewery": "（株）酒持田本店",
+      "location": "",
+      "brands": "ヤマサン正宗"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "brewery": "（株）田部竹下酒造",
+      "location": "",
+      "brands": "出雲誉（2022年10月末終売、2023年より新銘柄に変更。）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "brewery": "（株）右田本店",
+      "location": "",
+      "brands": "宗味"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "brewery": "池月酒造（株）",
+      "location": "",
+      "brands": "誉池月"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "brewery": "加茂福酒造（株）",
+      "location": "",
+      "brands": "加茂福・死神"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "brewery": "隠岐酒造（株）",
+      "location": "",
+      "brands": "隠岐誉"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "brewery": "木次酒造（株）",
+      "location": "",
+      "brands": "美波"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "brewery": "奥出雲酒造（株）",
+      "location": "",
+      "brands": "奥出雲"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "brewery": "日本海酒造（株）",
+      "location": "",
+      "brands": "環日本海"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "brewery": "古橋酒造（株）",
+      "location": "",
+      "brands": "初陣"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "brewery": "都錦酒造（株）",
+      "location": "",
+      "brands": "都錦"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "brewery": "米田酒造（株）",
+      "location": "",
+      "brands": "豊の秋"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "brewery": "吉田酒造（株）",
+      "location": "",
+      "brands": "月山"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "brewery": "（株）赤名酒造",
+      "location": "",
+      "brands": "絹乃峰、琴引山"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "brewery": "宮下酒造（株）",
+      "location": "",
+      "brands": "極聖（きわみひじり）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "brewery": "萬歳酒造（株）",
+      "location": "",
+      "brands": "さつき心（さつきこころ）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "brewery": "（有）板野酒造場",
+      "location": "",
+      "brands": "きびの吟風（きびのぎんぷう）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "brewery": "（株）板野酒造本店",
+      "location": "",
+      "brands": "二面（ふたも）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "brewery": "藤原酒造（株）",
+      "location": "",
+      "brands": "亀乃井（かめのい）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "brewery": "赤磐酒造（株）",
+      "location": "",
+      "brands": "桃白眉（ももはくび）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "brewery": "室町酒造（株）",
+      "location": "",
+      "brands": "櫻室町（さくらむろまち）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "brewery": "利守酒造（株）",
+      "location": "",
+      "brands": "酒一筋（さけひとすじ）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "brewery": "小宮山酒造（株）",
+      "location": "",
+      "brands": "日月（じつげつ）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "brewery": "高祖酒造（株）",
+      "location": "",
+      "brands": "千寿（せんじゅ）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "brewery": "芳烈酒造（株）",
+      "location": "",
+      "brands": "櫻芳烈（おうほうれつ）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "brewery": "白菊酒造",
+      "location": "成羽大関酒造）（株",
+      "brands": "大典白菊（たいてんしらぎく）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "brewery": "三光正宗（株）",
+      "location": "",
+      "brands": "三光正宗（さんこうまさむね）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "brewery": "嘉美心酒造（株）",
+      "location": "",
+      "brands": "嘉美心（かみこころ）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "brewery": "丸本酒造（株）",
+      "location": "",
+      "brands": "賀茂緑（かもみどり）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "brewery": "平喜酒造（株）",
+      "location": "",
+      "brands": "喜平（きへい）、新婚（しんこん）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "brewery": "ヨイキゲン（株）",
+      "location": "",
+      "brands": "酔機嫌（よいきげん）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "brewery": "十八盛酒造（株）",
+      "location": "",
+      "brands": "十八盛（じゅうはちざかり）、多賀治（たかじ）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "brewery": "熊屋酒造（有）",
+      "location": "",
+      "brands": "伊七（いしち）、巴福正宗（ともえふくまさむね）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "brewery": "菊池酒造（株）",
+      "location": "",
+      "brands": "燦然（さんぜん）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "brewery": "（株）辻本店",
+      "location": "",
+      "brands": "御前酒（ごぜんしゅ）、美作（みまさか）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "brewery": "（資）多胡本家酒造場",
+      "location": "",
+      "brands": "加茂五葉（かもいつは）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "brewery": "難波酒造（株）",
+      "location": "",
+      "brands": "作州武蔵（さくしゅうむさし）、富久迎（ふくむかえ）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "brewery": "田中酒造場",
+      "location": "",
+      "brands": "武蔵の里（むさしのさと）"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "（株）原本店",
+      "location": "",
+      "brands": "蓬莱鶴"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "（株）小泉本店",
+      "location": "",
+      "brands": "御幸"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "津田酒造（株）",
+      "location": "",
+      "brands": "島の香"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "八幡川酒造（株）",
+      "location": "",
+      "brands": "八幡川"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "（株）サクラオブルワリーアンドディスティラリー",
+      "location": "",
+      "brands": "一代弥山"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "馬上酒造場",
+      "location": "",
+      "brands": "大号令"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "（名）梅田酒造場",
+      "location": "",
+      "brands": "本州一"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "（株）三宅本店",
+      "location": "",
+      "brands": "千福"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "中野光次郎本店",
+      "location": "",
+      "brands": "水龍"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "（有）白天龍酒造場",
+      "location": "",
+      "brands": "白天龍"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "相原酒造（株）",
+      "location": "",
+      "brands": "雨後の月"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "宝剣酒造（株）",
+      "location": "",
+      "brands": "宝剣"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "江田島銘醸（株）",
+      "location": "",
+      "brands": "同期の桜"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "榎酒造（株）",
+      "location": "",
+      "brands": "華鳩、清盛"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "（株）藤岡酒造店",
+      "location": "",
+      "brands": "音戸の瀬戸"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "林酒造（株）",
+      "location": "",
+      "brands": "三谷春"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "旭鳳酒造（株）",
+      "location": "",
+      "brands": "旭鳳"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "小野酒造（株）",
+      "location": "",
+      "brands": "老亀"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "川本英介",
+      "location": "",
+      "brands": "三段峡"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "向原酒造（株）",
+      "location": "",
+      "brands": "向井桜"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "賀茂鶴酒造（株）",
+      "location": "",
+      "brands": "賀茂鶴"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "福美人酒造（株）",
+      "location": "",
+      "brands": "福美人"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "白牡丹酒造（株）",
+      "location": "",
+      "brands": "白牡丹"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "西條鶴醸造（株）",
+      "location": "",
+      "brands": "西條鶴"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "亀齢酒造亀齢酒造（株）",
+      "location": "",
+      "brands": "亀齢"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "賀茂泉酒造（株）",
+      "location": "",
+      "brands": "賀茂泉"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "山陽鶴酒造（株）",
+      "location": "",
+      "brands": "山陽鶴"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "金光酒造（資）",
+      "location": "",
+      "brands": "桜吹雪、賀茂金秀"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "竹鶴酒造（株）",
+      "location": "",
+      "brands": "竹鶴"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "藤井酒造（株）",
+      "location": "",
+      "brands": "龍勢、宝寿、夜の帝王"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "中尾醸造（株）",
+      "location": "",
+      "brands": "誠鏡、幻"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "（株）今田酒造本店",
+      "location": "",
+      "brands": "富久長"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "柄酒造（株）",
+      "location": "",
+      "brands": "関西一、於多福"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "盛川酒造（株）",
+      "location": "",
+      "brands": "白鴻、沙羅双樹"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "醉心山根本店（株）",
+      "location": "",
+      "brands": "醉心"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "（株）吉源酒造場",
+      "location": "",
+      "brands": "寿齢"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "アシードブリュー（株）",
+      "location": "",
+      "brands": "三吉正宗"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "（株）天寶一",
+      "location": "",
+      "brands": "天寶一"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "美の鶴酒造（株）",
+      "location": "",
+      "brands": "美の鶴"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "三輪酒造（株）",
+      "location": "",
+      "brands": "神雷"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "花酔酒造（株）",
+      "location": "",
+      "brands": "花酔"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "美和桜酒造（有）",
+      "location": "",
+      "brands": "美和桜"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "山岡酒造（株）",
+      "location": "",
+      "brands": "瑞冠"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "比婆美人酒造（株）",
+      "location": "",
+      "brands": "比婆美人"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "生熊酒造（株）",
+      "location": "",
+      "brands": "超群"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "brewery": "（有）北村醸造場",
+      "location": "",
+      "brands": "菊文明"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "brewery": "旭酒造（株）(岩国市)",
+      "location": "",
+      "brands": "獺祭"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "brewery": "岩崎酒造",
+      "location": "株）（萩市",
+      "brands": "長陽福娘"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "brewery": "大嶺酒造",
+      "location": "株）（美祢市",
+      "brands": "Ohmine"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "brewery": "（有）岡崎酒造場",
+      "location": "萩市",
+      "brands": "長門峡"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "brewery": "酒井酒造（株）(岩国市)",
+      "location": "",
+      "brands": "五橋"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "brewery": "下関酒造",
+      "location": "株）（下関市",
+      "brands": "関娘"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "brewery": "新谷酒造",
+      "location": "株）（山口市",
+      "brands": "わかむすめ"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "brewery": "（株）澄川酒造場",
+      "location": "萩市",
+      "brands": "東洋美人"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "brewery": "長州酒造",
+      "location": "株）（下関市",
+      "brands": "天美"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "brewery": "村重酒造（株）(岩国市)",
+      "location": "",
+      "brands": "金冠黒松"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "（株）本家松浦酒造場",
+      "location": "",
+      "brands": "鳴門鯛"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "（有）太閤酒造場",
+      "location": "",
+      "brands": "瓢太閤"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "三芳菊酒造（株）",
+      "location": "",
+      "brands": "三芳菊"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "芳水酒造（有）",
+      "location": "",
+      "brands": "芳水"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "津乃峰酒造（株）",
+      "location": "",
+      "brands": "津乃峰"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "吉本醸造（株）",
+      "location": "",
+      "brands": "南国一"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "（有）斎藤酒造場",
+      "location": "",
+      "brands": "御殿桜"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "近清酒造",
+      "location": "",
+      "brands": "入鶴"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "花乃春酒造（株）",
+      "location": "",
+      "brands": "花乃春"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "（名）中和商店",
+      "location": "",
+      "brands": "今小町"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "（株）勢玉",
+      "location": "",
+      "brands": "勢玉"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "（株）近藤松太郎商店",
+      "location": "",
+      "brands": "旭牡丹"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "名西酒造（株）",
+      "location": "",
+      "brands": "白妙"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "（有）定作酒類醸造場",
+      "location": "",
+      "brands": "桂華"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "吉田酒造（株）",
+      "location": "",
+      "brands": "蘭玉"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "那賀酒造（有）",
+      "location": "",
+      "brands": "旭若松"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "三拍子酒造（株）",
+      "location": "",
+      "brands": "三拍子"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "鳴門酒造（株）",
+      "location": "",
+      "brands": "円滑"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "（株）木内本店",
+      "location": "",
+      "brands": "雲井橘"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "徳島金長（株）",
+      "location": "",
+      "brands": "四国三郎"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "鳴門酒造協同組合",
+      "location": "",
+      "brands": "大鳴門"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "伊勢酒造（有）",
+      "location": "",
+      "brands": "四国鶴"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "大賀酒造（資）",
+      "location": "",
+      "brands": "富士の雪"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "明星酒造（有）",
+      "location": "",
+      "brands": "阿波鶴"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "四宮酒造（有）",
+      "location": "",
+      "brands": "剣鯛"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "阿川酒造（有）",
+      "location": "",
+      "brands": "齢の友"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "司菊酒造（株）",
+      "location": "",
+      "brands": "司菊"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "矢川酒造（株）",
+      "location": "",
+      "brands": "笹緑"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "brewery": "可楽智酒造（株）",
+      "location": "",
+      "brands": "可楽智"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "brewery": "川鶴酒造（株）",
+      "location": "",
+      "brands": "川鶴"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "brewery": "綾菊酒造（株）",
+      "location": "",
+      "brands": "綾菊"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "brewery": "西野金陵（株）",
+      "location": "",
+      "brands": "金陵"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "brewery": "梅錦山川（株）",
+      "location": "",
+      "brands": "梅錦"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "brewery": "（株）桜うづまき酒造",
+      "location": "",
+      "brands": "桜うづまき"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "brewery": "（株）篠永酒造",
+      "location": "",
+      "brands": "森の翠"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "brewery": "（株）水口酒造",
+      "location": "",
+      "brands": "仁喜多津"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "brewery": "（株）雪雀酒造",
+      "location": "",
+      "brands": "雪雀"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "brewery": "（株）八木酒造部",
+      "location": "",
+      "brands": "山丹正宗"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "brewery": "（名）徳本酒造店",
+      "location": "",
+      "brands": "初鷹"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "brewery": "名門サカイ（株）",
+      "location": "",
+      "brands": "うしおに"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "brewery": "小泉酒造（株）",
+      "location": "",
+      "brands": "鯉の勢"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "brewery": "西本酒造（株）",
+      "location": "",
+      "brands": "大番、虎の尾"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "brewery": "亀岡酒造（株）",
+      "location": "",
+      "brands": "千代の亀"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "brewery": "栄光酒造（株）",
+      "location": "",
+      "brands": "酒仙栄光"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "brewery": "後藤酒造（株）",
+      "location": "",
+      "brands": "久米の井"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "brewery": "梅美人酒造（株）",
+      "location": "",
+      "brands": "梅美人"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "brewery": "近藤酒造（株）",
+      "location": "",
+      "brands": "ひめさくら"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "brewery": "千代の亀酒造（株）",
+      "location": "",
+      "brands": "銀河鉄道、秘蔵しずく酒"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "brewery": "石鎚酒造（株）",
+      "location": "",
+      "brands": "石鎚"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "brewery": "（株）アリサワ",
+      "location": "",
+      "brands": "黒潮、文佳人"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "brewery": "（有）有光酒造場",
+      "location": "",
+      "brands": "玉川、安芸虎"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "brewery": "亀泉酒造（株）",
+      "location": "",
+      "brands": "亀泉"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "brewery": "菊水酒造（株）",
+      "location": "",
+      "brands": "菊水、四万十川、龍馬"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "brewery": "高知酒造（株）",
+      "location": "",
+      "brands": "花の友、瀧嵐"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "brewery": "酔鯨酒造（株）",
+      "location": "",
+      "brands": "酔鯨"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "brewery": "（有）仙頭酒造場",
+      "location": "",
+      "brands": "志ら菊"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "brewery": "高木酒造（株）",
+      "location": "",
+      "brands": "豊の梅"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "brewery": "司牡丹酒造（株）",
+      "location": "",
+      "brands": "司牡丹、徳久"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "brewery": "土佐酒造（株）",
+      "location": "",
+      "brands": "桂月"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "brewery": "土佐鶴酒造（株）",
+      "location": "",
+      "brands": "土佐鶴"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "brewery": "（有）西岡酒造店",
+      "location": "",
+      "brands": "雪柳、純平"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "brewery": "（有）濱川商店",
+      "location": "",
+      "brands": "濱乃鶴、美丈夫"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "brewery": "藤娘酒造（株）",
+      "location": "",
+      "brands": "藤娘"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "brewery": "文本酒造（株）",
+      "location": "",
+      "brands": "花入駒"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "brewery": "松尾酒造（株）",
+      "location": "",
+      "brands": "松翁"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "brewery": "（有）南酒造場",
+      "location": "",
+      "brands": "玉の井、南"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "brewery": "（株）無手無冠",
+      "location": "",
+      "brands": "無手無冠、やぶの友"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "brewery": "溝上酒造",
+      "location": "",
+      "brands": "天心"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "brewery": "喜多屋",
+      "location": "",
+      "brands": "喜多屋"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "brewery": "富安本家酒造",
+      "location": "",
+      "brands": "花の露"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "brewery": "いそのさわ",
+      "location": "",
+      "brands": "磯乃澤"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "brewery": "篠崎",
+      "location": "",
+      "brands": "国菊"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "brewery": "小林酒造本店",
+      "location": "",
+      "brands": "萬代"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "brewery": "鷹正宗",
+      "location": "",
+      "brands": "鷹正宗"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "brewery": "大賀酒造",
+      "location": "",
+      "brands": "玉出泉"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "brewery": "豊村酒造",
+      "location": "",
+      "brands": "豊盛"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "brewery": "翁酒造",
+      "location": "",
+      "brands": "稲田重造"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "brewery": "清力酒造",
+      "location": "",
+      "brands": "清力"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "天吹酒造",
+      "location": "",
+      "brands": "天吹"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "大和酒造",
+      "location": "",
+      "brands": "肥前杜氏"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "鳴滝酒造（株）",
+      "location": "",
+      "brands": "聚楽太閤"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "松浦一酒造",
+      "location": "",
+      "brands": "松浦一"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "佐嘉酒造",
+      "location": "",
+      "brands": "窓乃梅"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "天山酒造",
+      "location": "",
+      "brands": "天山"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "基山商店",
+      "location": "",
+      "brands": "基峰鶴"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "松尾酒造場",
+      "location": "",
+      "brands": "宮の松"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "光武酒造場",
+      "location": "",
+      "brands": "金波"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "中島酒造",
+      "location": "",
+      "brands": "不老長寿"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "瀬頭酒造",
+      "location": "",
+      "brands": "東長"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "矢野酒造",
+      "location": "",
+      "brands": "肥前蔵心"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "峰松酒造",
+      "location": "",
+      "brands": "菊王将"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "田中酒造",
+      "location": "",
+      "brands": "弓取"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "井手酒造",
+      "location": "",
+      "brands": "虎乃児"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "幸姫酒造",
+      "location": "",
+      "brands": "幸姫"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "小松酒造",
+      "location": "",
+      "brands": "万齢"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "古伊万里酒造",
+      "location": "",
+      "brands": "古伊万里"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "宗政酒造",
+      "location": "",
+      "brands": "宗政"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "五町田酒造",
+      "location": "",
+      "brands": "東一"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "富久千代酒造",
+      "location": "",
+      "brands": "鍋島"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "小柳酒造",
+      "location": "",
+      "brands": "高砂"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "東鶴酒造",
+      "location": "",
+      "brands": "東鶴"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "馬場酒造場",
+      "location": "",
+      "brands": "能古見"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "樋渡酒造場",
+      "location": "",
+      "brands": "万里長"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "吉武酒造場",
+      "location": "",
+      "brands": "御宴"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "brewery": "川浪酒造",
+      "location": "",
+      "brands": "富士の雪"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "brewery": "今里酒造（株）",
+      "location": "",
+      "brands": "六十餘洲"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "brewery": "（株）杵の川",
+      "location": "",
+      "brands": "杵の川"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "brewery": "潜龍酒造（株）",
+      "location": "",
+      "brands": "本陣"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "brewery": "美少年",
+      "location": "",
+      "brands": "美少年"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "brewery": "瑞鷹（株）",
+      "location": "",
+      "brands": "瑞鷹"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "brewery": "通潤酒造（株）",
+      "location": "",
+      "brands": "通潤"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "brewery": "千代の園酒造（株）",
+      "location": "",
+      "brands": "千代の園"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "brewery": "亀萬酒造（資）",
+      "location": "",
+      "brands": "亀萬"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "brewery": "河津酒造（名）",
+      "location": "",
+      "brands": "阿蘇蓬莱"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "brewery": "山村酒造（名）",
+      "location": "",
+      "brands": "れいざん"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "brewery": "小松酒造場",
+      "location": "",
+      "brands": "豊潤、勲の松"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "brewery": "三和酒類（株）",
+      "location": "",
+      "brands": "和香牡丹"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "brewery": "薫長酒造（株）",
+      "location": "",
+      "brands": "薫長"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "brewery": "雲海酒造",
+      "location": "",
+      "brands": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "brewery": "千徳酒造（株）",
+      "location": "",
+      "brands": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "brewery": "蔵薩摩金山蔵",
+      "location": "株）（濵田酒造グループ",
+      "brands": "薩州正宗"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "brewery": "泰石酒造（株）",
+      "location": "",
+      "brands": "黎明"
+    }
+  ],
+  "meta": {
+    "title": "日本酒メーカー（酒蔵）一覧 (Sake breweries of Japan) - Free Download",
+    "description": "全国の日本酒メーカー（酒蔵）を都道府県別にまとめた一覧（所在地・代表銘柄）。 Contains 1200 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本酒メーカー（酒蔵）一覧 (Sake breweries of Japan) | ListBase",
+    "seo_description": "Download 日本酒メーカー（酒蔵）一覧 (Sake breweries of Japan) — 1200 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 1200 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%85%92%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}

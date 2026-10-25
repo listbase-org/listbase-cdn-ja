@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:11:47.281Z",
-  "total_datasets": 481,
-  "total_records": 440969,
+  "generated": "2026-10-25T02:11:51.419Z",
+  "total_datasets": 482,
+  "total_records": 442169,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "geography",
@@ -1201,6 +1201,32 @@
         "xlsx": {
           "name": "ja-mishuran-resutoran_JA.xlsx",
           "size": 354057
+        }
+      }
+    },
+    {
+      "id": "ja-nihonshu-meka",
+      "name": "日本酒メーカー（酒蔵）一覧 (Sake breweries of Japan)",
+      "category": "food",
+      "record_count": 1200,
+      "columns": [
+        "region",
+        "prefecture",
+        "brewery",
+        "location",
+        "brands"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%85%92%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 211341,
+      "files": {
+        "csv": {
+          "name": "ja-nihonshu-meka_JA.csv",
+          "size": 84630
+        },
+        "xlsx": {
+          "name": "ja-nihonshu-meka_JA.xlsx",
+          "size": 50246
         }
       }
     },
