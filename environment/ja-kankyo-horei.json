@@ -1,0 +1,1258 @@
+{
+  "id": "ja-kankyo-horei",
+  "name": "日本の環境法令一覧 (Environmental laws of Japan)",
+  "title": "日本の環境法令一覧 (Environmental laws of Japan)",
+  "description": "日本の環境に関する法令（憲法・条約・法律・政令・省令・廃止法令）の一覧と通称・略称。",
+  "category": "environment",
+  "source": "https://ja.wikipedia.org/wiki/%E7%92%B0%E5%A2%83%E6%B3%95%E4%BB%A4%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E7%92%B0%E5%A2%83%E6%B3%95%E4%BB%A4%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 202,
+  "columns": [
+    {
+      "key": "section",
+      "label": "Section",
+      "type": "string"
+    },
+    {
+      "key": "subsection",
+      "label": "Subsection",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "abbreviation",
+      "label": "Abbreviation",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "section": "現行憲法・現行条約",
+      "subsection": "",
+      "name": "日本国憲法",
+      "abbreviation": "憲法"
+    },
+    {
+      "section": "現行憲法・現行条約",
+      "subsection": "",
+      "name": "絶滅のおそれのある野生動植物の種の国際取引に関する条約",
+      "abbreviation": "ワシントン条約"
+    },
+    {
+      "section": "現行憲法・現行条約",
+      "subsection": "",
+      "name": "特に水鳥の生息地として国際的に重要な湿地に関する条約",
+      "abbreviation": "ラムサール条約"
+    },
+    {
+      "section": "現行憲法・現行条約",
+      "subsection": "",
+      "name": "移動性野生動物種の保全に関する条約",
+      "abbreviation": "ボン条約"
+    },
+    {
+      "section": "現行憲法・現行条約",
+      "subsection": "",
+      "name": "生物の多様性に関する条約",
+      "abbreviation": "生物多様性条約"
+    },
+    {
+      "section": "現行憲法・現行条約",
+      "subsection": "",
+      "name": "世界の文化遺産及び自然遺産の保護に関する条約",
+      "abbreviation": "世界遺産条約"
+    },
+    {
+      "section": "現行憲法・現行条約",
+      "subsection": "",
+      "name": "オゾン層の保護のためのウィーン条約-モントリオール議定書",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行憲法・現行条約",
+      "subsection": "",
+      "name": "気候変動に関する国際連合枠組条約-京都議定書-パリ協定",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "あ行",
+      "name": "悪臭防止法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "あ行",
+      "name": "有明海及び八代海等を再生するための特別措置に関する法律",
+      "abbreviation": "有明海・八代海再生特別措置法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "あ行",
+      "name": "美しく豊かな自然を保護するための海岸における良好な景観及び環境並びに海洋環境の保全に係る海岸漂着物等の処理等の推進に関する法律",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "あ行",
+      "name": "エコツーリズム推進法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "あ行",
+      "name": "エネルギーの使用の合理化及び非化石エネルギーへの転換等に関する法律",
+      "abbreviation": "省エネ法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "あ行",
+      "name": "大阪湾臨海地域開発整備法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "あ行",
+      "name": "屋外広告物法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "あ行",
+      "name": "温泉法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "海岸法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "海洋汚染等及び海上災害の防止に関する法律",
+      "abbreviation": "海洋汚染防止法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "海洋生物資源の保存及び管理に関する法律",
+      "abbreviation": "TAC法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "化学物質の審査及び製造等の規制に関する法律",
+      "abbreviation": "化審法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "ガス事業法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "化製場等に関する法律",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "河川法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "環境影響評価法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "環境基本法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "環境基本法の施行に伴う関係法律の整備等に関する法律",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "環境教育等による環境保全の取組の促進に関する法律",
+      "abbreviation": "環境教育推進法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "環境省設置法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "環境情報の提供の促進等による特定事業者等の環境に配慮した事業活動の促進に関する法律",
+      "abbreviation": "環境配慮促進法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "幹線道路の沿道の整備に関する法律",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "漁業法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "漁港漁場整備法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "国等による環境物品等の調達の推進等に関する法律",
+      "abbreviation": "グリーン購入法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "下水道法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "下水道整備緊急措置法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "建設工事に係る資材の再資源化等に関する法律",
+      "abbreviation": "建設リサイクル法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "建築物における衛生的環境の確保に関する法律",
+      "abbreviation": "建築物衛生法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "建築物用地下水の採取の規制に関する法律",
+      "abbreviation": "ビル用水法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "高圧ガス保安法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "公害健康被害の補償等に関する法律",
+      "abbreviation": "公健法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "公害等調整委員会設置法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "公害紛争処理法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "公害防止事業費事業者負担法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "公害の防止に関する事業に係る国の財政上の特別措置に関する法律",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "工業用水法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "公共用飛行場周辺における航空機騒音による障害の防止等に関する法律",
+      "abbreviation": "航空機騒音防止法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "工場立地法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "公物管理法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "公有水面埋立法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "港湾法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "湖沼水質保全特別措置法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "国土総合開発法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "国土利用計画法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "国有林野の管理経営に関する法律",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "か行",
+      "name": "古都における歴史的風土の保存に関する特別措置法",
+      "abbreviation": "古都保存法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "採石法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "砂防法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "資源の有効な利用の促進に関する法律",
+      "abbreviation": "リサイクル法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "資源保全法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "地すべり等防止法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "自然環境保全法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "自然公園法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "自然再生推進法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "自動車から排出される窒素酸化物及び粒子状物質の特定地域における総量の削減等に関する特別措置法",
+      "abbreviation": "自動車NOx・PM法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "砂利採取法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "首都圏近郊緑地保全法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "循環型社会形成推進基本法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "使用済小型電子機器等の再資源化の促進に関する法律",
+      "abbreviation": "小型家電リサイクル法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "使用済自動車の再資源化等に関する法律",
+      "abbreviation": "自動車リサイクル法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "浄化槽法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "消防法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "食品循環資源の再生利用等の促進に関する法律",
+      "abbreviation": "食品リサイクル法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "新エネルギー利用等の促進に関する特別措置法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "新住宅市街地開発法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "振動規制法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "森林法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "森林の保護機能の増進に関する特別措置法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "森林・林業基本法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "水源地域対策特別措置法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "水銀による環境の汚染の防止に関する法律",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "水産資源保護法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "水資源開発促進法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "水質汚濁防止法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "水防法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "スパイクタイヤ粉じんの発生の防止に関する法律",
+      "abbreviation": "スパイクタイヤ法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "生産緑地法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "生物多様性基本法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "石綿による健康被害の救済に関する法律",
+      "abbreviation": "石綿被害者救済法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "絶滅のおそれのある野生動植物の種の保存に関する法律",
+      "abbreviation": "種の保存法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "瀬戸内海環境保全特別措置法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "騒音規制法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "さ行",
+      "name": "総合保養地域整備法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "た行",
+      "name": "ダイオキシン類対策特別措置法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "た行",
+      "name": "大気汚染防止法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "た行",
+      "name": "宅地造成及び特定盛土等規制法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "た行",
+      "name": "地域における多様な主体の連携による生物の多様性の保全のための活動の促進等に関する法律",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "た行",
+      "name": "地球温暖化対策の推進に関する法律",
+      "abbreviation": "温対法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "た行",
+      "name": "鳥獣の保護及び狩猟の適正化に関する法律",
+      "abbreviation": "鳥獣保護法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "た行",
+      "name": "動物の愛護及び管理に関する法律",
+      "abbreviation": "動物愛護法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "た行",
+      "name": "特定外来生物による生態系等に係る被害の防止に関する法律",
+      "abbreviation": "外来種被害防止法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "た行",
+      "name": "特定化学物質の環境への排出量の把握等及び管理の改善の促進に関する法律",
+      "abbreviation": "化学物質排出把握管理促進法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "た行",
+      "name": "特定家庭用機器再商品化法",
+      "abbreviation": "家電リサイクル法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "た行",
+      "name": "特定工場における公害防止組織の整備に関する法律",
+      "abbreviation": "公害防止組織法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "た行",
+      "name": "特定多目的ダム法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "た行",
+      "name": "特定特殊自動車排出ガスの規制等に関する法律",
+      "abbreviation": "オフロード法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "た行",
+      "name": "特定物質の規制等によるオゾン層の保護に関する法律",
+      "abbreviation": "オゾン層保護法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "た行",
+      "name": "特定有害廃棄物等の輸出入等の規制に関する法律",
+      "abbreviation": "バーゼル法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "た行",
+      "name": "毒物及び劇物取締法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "た行",
+      "name": "独立行政法人国立環境研究所法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "た行",
+      "name": "独立行政法人緑資源機構法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "た行",
+      "name": "都市計画法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "た行",
+      "name": "都市再開発法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "た行",
+      "name": "都市緑地保全法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "た行",
+      "name": "土壌汚染対策法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "な行",
+      "name": "南極地域の環境の保護に関する法律",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "な行",
+      "name": "農用地の土壌の汚染防止等に関する法律",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "な行",
+      "name": "農薬取締法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "は行",
+      "name": "廃棄物処理施設整備緊急措置法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "は行",
+      "name": "廃棄物の処理及び清掃に関する法律",
+      "abbreviation": "廃棄物処理法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "は行",
+      "name": "排他的経済水域及び大陸棚に関する法律",
+      "abbreviation": "排他的経済水域法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "は行",
+      "name": "人の健康に係る公害犯罪の処罰に関する法律",
+      "abbreviation": "公害罪法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "は行",
+      "name": "琵琶湖総合開発特別措置法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "は行",
+      "name": "平成二十三年三月十一日に発生した東北地方太平洋沖地震に伴う原子力発電所の事故により放出された放射性物質による環境の汚染への対処に関する特別措置法",
+      "abbreviation": "放射性物質汚染対処特措法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "は行",
+      "name": "フロン類の使用の合理化及び管理の適正化に関する法律",
+      "abbreviation": "フロン排出抑制法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "は行",
+      "name": "防衛施設周辺の生活環境の整備等に関する法律",
+      "abbreviation": "環境整備法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "は行",
+      "name": "補助金等に係る予算の執行の適正化に関する法律",
+      "abbreviation": "補助金適正化法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "は行",
+      "name": "法人税法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "は行",
+      "name": "北海道開発法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "は行",
+      "name": "ポリ塩化ビフェニル廃棄物の適正な処理の推進に関する特別措置法",
+      "abbreviation": "PCB特措法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "ま行",
+      "name": "緑の募金による森林整備等の推進に関する法律",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "ま行",
+      "name": "水俣病の認定業務の促進に関する臨時措置法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "や行",
+      "name": "有害物質を含有する家庭用品の規制に関する法律",
+      "abbreviation": "家庭用品規制法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "や行",
+      "name": "容器包装に係る分別収集及び再商品化の促進等に関する法律",
+      "abbreviation": "容器包装リサイクル法"
+    },
+    {
+      "section": "現行法律",
+      "subsection": "ら行",
+      "name": "臘虎膃肭獣猟獲取締法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行法律",
+      "subsection": "ら行",
+      "name": "労働安全衛生法",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行政令",
+      "subsection": "か行",
+      "name": "環境基準に係る水域及び地域の指定の事務に関する政令",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行政令",
+      "subsection": "か行",
+      "name": "環境省組織令",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行政令",
+      "subsection": "か行",
+      "name": "環境省独立行政法人評価委員会令",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行政令",
+      "subsection": "か行",
+      "name": "経済協力開発機構の回収作業が行われる廃棄物の国境を越える移動の規制に関する理事会決定に基づき我が国が規制を行うことが必要な物を定める省令",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行政令",
+      "subsection": "か行",
+      "name": "公害対策会議令",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行政令",
+      "subsection": "か行",
+      "name": "公害等調整委員会事務局組織令",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行政令",
+      "subsection": "さ行",
+      "name": "水質汚濁防止法施行令",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行政令",
+      "subsection": "た行",
+      "name": "中央環境審議会令",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行政令",
+      "subsection": "た行",
+      "name": "土壌汚染対策法施行令",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行政令",
+      "subsection": "は行",
+      "name": "廃棄物の処理及び清掃に関する法律施行令",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "あ行",
+      "name": "悪臭防止法施行規則",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "あ行",
+      "name": "エネルギー管理員の講習に関する規則",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "あ行",
+      "name": "エネルギー管理士の試験及び免状の交付に関する規則",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "か行",
+      "name": "環境省関係研究交流促進法施行規則",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "か行",
+      "name": "環境省組織規則",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "か行",
+      "name": "環境省の主管に係る一般会計の歳入について証券をもって納付しうる種目を定める省令",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "か行",
+      "name": "環境省の所管する法令に係る行政手続等における情報通信の技術の利用に関する法律施行規則",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "か行",
+      "name": "環境省所管に属する物品の無償貸付及び譲与に関する省令",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "か行",
+      "name": "環境省聴聞手続規則",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "か行",
+      "name": "公害等調整委員会の事務局総務課に調査官を置く省令",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "か行",
+      "name": "交通公害に係る大気の汚染、騒音及び振動を定める命令",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "さ行",
+      "name": "振動規制法施行規則",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "さ行",
+      "name": "水質汚濁防止法施行規則",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "さ行",
+      "name": "騒音規制法施行規則",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "た行",
+      "name": "ダイオキシン類対策特別措置法施行規則",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "た行",
+      "name": "大気汚染防止法施行規則",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "た行",
+      "name": "大気汚染防止法第二条第十項の自動車及び原動機付自転車を定める省令",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "た行",
+      "name": "大気汚染防止法第二十一条第一項の規定に基づく自動車排出ガスによる大気の汚染の限度を定める省令",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "た行",
+      "name": "第二種フロン類回収業に係る自動車分解整備事業者の登録手続の特例に関する省令",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "た行",
+      "name": "第二種フロン類回収業に係る登録手続の特例等に関する省令",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "た行",
+      "name": "地球温暖化対策の推進に関する法律施行規則",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "た行",
+      "name": "道路運送車両の保安基準",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "た行",
+      "name": "道路運送車両法施行規則",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "た行",
+      "name": "特定製品に係るフロン類の回収及び破壊の実施の確保等に関する法律施行規則",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "た行",
+      "name": "特定有害廃棄物等の輸出入等の規制に関する法律施行規則",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "た行",
+      "name": "特定有害廃棄物等の輸出入等の規制に関する法律第四条第二項の地域及び特定有害廃棄物等を定める省令",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "た行",
+      "name": "特定有害廃棄物等の輸出入等の規制に関する法律に基づく届出等に関する省令",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "た行",
+      "name": "土壌汚染対策法施行規則",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "な行",
+      "name": "南極地域の環境の保護に関する法律施行規則",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行省令",
+      "subsection": "は行",
+      "name": "排水基準を定める省令一律排水基準",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行告示",
+      "subsection": "か",
+      "name": "公共用水域が該当する水質汚濁に係る環境基準の水域類型を指定する件 平成14年7月15日 環境省告示45号",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行告示",
+      "subsection": "さ",
+      "name": "自動車製造業者等が定める料金に関する基準",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行告示",
+      "subsection": "た",
+      "name": "大気汚染防止法第十五条の二第三項の規定に基づく燃料使用に関する基準",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行告示",
+      "subsection": "た",
+      "name": "大気汚染防止法第十五条第三項の規定に基づく燃料使用に関する基準",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行告示",
+      "subsection": "た",
+      "name": "大気汚染防止法附則第九項の規定に基づく指定物質抑制基準",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行告示",
+      "subsection": "た",
+      "name": "特定物質の排出抑制・使用合理化指針",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行告示",
+      "subsection": "な",
+      "name": "南極環境影響評価実施要領",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行告示",
+      "subsection": "な",
+      "name": "南極地域の環境の保護に関する法律第四条第一項の規定に基づく南極地域の環境の保護のために配慮しなければならない基本的な事項",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行告示",
+      "subsection": "は",
+      "name": "搬出する汚染土壌の処分に係る確認方法を定める件 平成15年3月6日 環境省告示21号",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行告示",
+      "subsection": "は",
+      "name": "搬出する汚染土壌の処分方法を定める件 平成15年3月6日 環境省告示20号",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行告示",
+      "subsection": "は",
+      "name": "磐梯朝日国立公園の特別地域内における行為の許可基準の特例 平成12年9月5日 環境庁告示57号",
+      "abbreviation": ""
+    },
+    {
+      "section": "現行告示",
+      "subsection": "ら",
+      "name": "利尻礼文サロベツ国立公園の特別地域内における行為の許可基準の特例 平成13年2月8日 環境省告示6号",
+      "abbreviation": ""
+    },
+    {
+      "section": "要綱",
+      "subsection": "",
+      "name": "環境基本計画推進事業費補助金交付要綱",
+      "abbreviation": ""
+    },
+    {
+      "section": "要綱",
+      "subsection": "",
+      "name": "地球温暖化対策地域推進計画策定費補助金交付要綱",
+      "abbreviation": ""
+    },
+    {
+      "section": "廃止法令",
+      "subsection": "法律",
+      "name": "環境事業団法",
+      "abbreviation": ""
+    },
+    {
+      "section": "廃止法令",
+      "subsection": "法律",
+      "name": "公害対策基本法",
+      "abbreviation": ""
+    },
+    {
+      "section": "廃止法令",
+      "subsection": "法律",
+      "name": "水資源開発公団法",
+      "abbreviation": ""
+    },
+    {
+      "section": "廃止法令",
+      "subsection": "法律",
+      "name": "緑資源公団法",
+      "abbreviation": ""
+    },
+    {
+      "section": "廃止法令",
+      "subsection": "政令",
+      "name": "環境事業団法施行令",
+      "abbreviation": ""
+    },
+    {
+      "section": "廃止法令",
+      "subsection": "政令",
+      "name": "公害対策基本法施行令",
+      "abbreviation": ""
+    },
+    {
+      "section": "廃止法令",
+      "subsection": "政令",
+      "name": "水資源開発公団法施行令",
+      "abbreviation": ""
+    },
+    {
+      "section": "廃止法令",
+      "subsection": "政令",
+      "name": "緑資源公団法施行令",
+      "abbreviation": ""
+    },
+    {
+      "section": "廃止法令",
+      "subsection": "省令",
+      "name": "環境事業団法施行規則",
+      "abbreviation": ""
+    },
+    {
+      "section": "廃止法令",
+      "subsection": "省令",
+      "name": "公害対策基本法施行規則",
+      "abbreviation": ""
+    },
+    {
+      "section": "廃止法令",
+      "subsection": "省令",
+      "name": "水資源開発公団法施行規則",
+      "abbreviation": ""
+    },
+    {
+      "section": "廃止法令",
+      "subsection": "省令",
+      "name": "闘犬、闘鶏、闘牛取締規則",
+      "abbreviation": ""
+    },
+    {
+      "section": "廃止法令",
+      "subsection": "省令",
+      "name": "緑資源公団法施行規則",
+      "abbreviation": ""
+    }
+  ],
+  "meta": {
+    "title": "日本の環境法令一覧 (Environmental laws of Japan) - Free Download",
+    "description": "日本の環境に関する法令（憲法・条約・法律・政令・省令・廃止法令）の一覧と通称・略称。 Contains 202 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の環境法令一覧 (Environmental laws of Japan) | ListBase",
+    "seo_description": "Download 日本の環境法令一覧 (Environmental laws of Japan) — 202 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 202 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E7%92%B0%E5%A2%83%E6%B3%95%E4%BB%A4%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}

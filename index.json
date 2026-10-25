@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:11:13.948Z",
-  "total_datasets": 473,
-  "total_records": 438595,
+  "generated": "2026-10-25T02:11:18.034Z",
+  "total_datasets": 474,
+  "total_records": 438797,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "finance",
@@ -749,6 +749,31 @@
         "xlsx": {
           "name": "ja-hatsudensho_JA.xlsx",
           "size": 44522
+        }
+      }
+    },
+    {
+      "id": "ja-kankyo-horei",
+      "name": "日本の環境法令一覧 (Environmental laws of Japan)",
+      "category": "environment",
+      "record_count": 202,
+      "columns": [
+        "section",
+        "subsection",
+        "name",
+        "abbreviation"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E7%92%B0%E5%A2%83%E6%B3%95%E4%BB%A4%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 37114,
+      "files": {
+        "csv": {
+          "name": "ja-kankyo-horei_JA.csv",
+          "size": 17393
+        },
+        "xlsx": {
+          "name": "ja-kankyo-horei_JA.xlsx",
+          "size": 14570
         }
       }
     },
