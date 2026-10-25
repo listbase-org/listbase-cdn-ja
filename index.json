@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:11:18.034Z",
-  "total_datasets": 474,
-  "total_records": 438797,
+  "generated": "2026-10-25T02:11:22.446Z",
+  "total_datasets": 475,
+  "total_records": 439025,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "music",
@@ -5888,6 +5888,31 @@
         "xlsx": {
           "name": "ja-horitsu-ichiran_JA.xlsx",
           "size": 233024
+        }
+      }
+    },
+    {
+      "id": "ja-rodo-horei",
+      "name": "日本の労働関係法令一覧 (Labour laws of Japan)",
+      "category": "law",
+      "record_count": 228,
+      "columns": [
+        "section",
+        "subsection",
+        "name",
+        "abbreviation"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E5%8A%B4%E5%83%8D%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%95%E4%BB%A4%E3%81%AE%E4%B8%80%E8%A6%A7_%28%E6%97%A5%E6%9C%AC%29",
+      "updated": "2026-10",
+      "size": 41242,
+      "files": {
+        "csv": {
+          "name": "ja-rodo-horei_JA.csv",
+          "size": 19048
+        },
+        "xlsx": {
+          "name": "ja-rodo-horei_JA.xlsx",
+          "size": 14203
         }
       }
     },
