@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:11:35.498Z",
-  "total_datasets": 478,
-  "total_records": 439209,
+  "generated": "2026-10-25T02:11:39.141Z",
+  "total_datasets": 479,
+  "total_records": 439471,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "society",
@@ -13162,6 +13162,32 @@
         "xlsx": {
           "name": "ja-gakkai-ichiran_JA.xlsx",
           "size": 9855
+        }
+      }
+    },
+    {
+      "id": "ja-kazan-ichiran",
+      "name": "日本の火山一覧（活火山）(Volcanoes of Japan)",
+      "category": "science",
+      "record_count": 262,
+      "columns": [
+        "region",
+        "area",
+        "name",
+        "jma_rank",
+        "notes"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E7%81%AB%E5%B1%B1%E3%81%AE%E4%B8%80%E8%A6%A7_%28%E6%97%A5%E6%9C%AC%29",
+      "updated": "2026-10",
+      "size": 41182,
+      "files": {
+        "csv": {
+          "name": "ja-kazan-ichiran_JA.csv",
+          "size": 14752
+        },
+        "xlsx": {
+          "name": "ja-kazan-ichiran_JA.xlsx",
+          "size": 15371
         }
       }
     },

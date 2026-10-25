@@ -1,0 +1,1885 @@
+{
+  "id": "ja-kazan-ichiran",
+  "name": "日本の火山一覧（活火山）(Volcanoes of Japan)",
+  "title": "日本の火山一覧（活火山）(Volcanoes of Japan)",
+  "description": "日本の活火山の地方別一覧。気象庁の活動度ランク（A/B/C）と補足情報付き。",
+  "category": "science",
+  "source": "https://ja.wikipedia.org/wiki/%E7%81%AB%E5%B1%B1%E3%81%AE%E4%B8%80%E8%A6%A7_%28%E6%97%A5%E6%9C%AC%29",
+  "source_url": "https://ja.wikipedia.org/wiki/%E7%81%AB%E5%B1%B1%E3%81%AE%E4%B8%80%E8%A6%A7_%28%E6%97%A5%E6%9C%AC%29",
+  "updated": "2026-10",
+  "record_count": 262,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "area",
+      "label": "Area",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "jma_rank",
+      "label": "Jma Rank",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "知床岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "知床硫黄山知床半島にある高純度の融解硫黄を噴出させた活火山。",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "羅臼岳知床半島にある溶岩円頂丘を持つ活火山。",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "天頂山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "知西別岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "遠音別岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "海別岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "斜里岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "武佐岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "サマッケヌプリ山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "摩周湖",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "アトサヌプリ",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "屈斜路カルデラ",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "雄阿寒岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "雌阿寒岳",
+      "jma_rank": "B",
+      "notes": "時々噴火し入山禁止になる。"
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "丸山",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "ニペソツ山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "然別火山群",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "美羅尾山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "大雪山",
+      "jma_rank": "C",
+      "notes": "3万年前御鉢平カルデラを形成する大噴火が起こり、層雲峡を形作る溶結凝灰岩を噴出し、その厚さは200mに達した。その後、旭岳等が形成された。"
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "ニセイカウシュッペ山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "忠別岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "トムラウシ山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "十勝えぼし火山群",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "十勝三股カルデラ",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "十勝岳",
+      "jma_rank": "A",
+      "notes": "大雪山系の南縁に存在する活火山。1926年の噴火では大規模な融雪型火山泥流が発生した。"
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "利尻山",
+      "jma_rank": "C",
+      "notes": "登山の好きな天皇徳仁も登った山。"
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "クマネシリ岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "椎常呂山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "赤井川カルデラ",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "ホロホロ山・徳舜瞥山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "オロフレ山・来馬岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "恵庭岳",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "風不死岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "樽前山",
+      "jma_rank": "A",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "支笏カルデラ",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "札幌岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "空沼岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "倶多楽",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "洞爺カルデラ",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "有珠山",
+      "jma_rank": "A",
+      "notes": "約30年周期で噴火している火山。明治新山、昭和新山、1970年代に噴火があり、平成においても噴火している。"
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "尻別岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "羊蹄山",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "ニセコアンヌプリ",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "雷電山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "狩場山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "濁川カルデラ",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "北海道駒ヶ岳",
+      "jma_rank": "A",
+      "notes": "（江差駒ケ岳）約100年前に大噴火した"
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "泣面山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "恵山丸山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "恵山",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "銭亀",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "函館山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "勝潤山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "渡島大島",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "渡島小島",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "",
+      "name": "後志海山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道",
+      "area": "北方領土",
+      "name": "神威岳",
+      "jma_rank": "",
+      "notes": "択捉島東端にある。標高1,322m"
+    },
+    {
+      "region": "北海道",
+      "area": "北方領土",
+      "name": "茂世路岳",
+      "jma_rank": "",
+      "notes": "（N/A）：標高1,124m 数万年前にカルデラ形成。1958年噴火"
+    },
+    {
+      "region": "北海道",
+      "area": "北方領土",
+      "name": "散布山",
+      "jma_rank": "",
+      "notes": "（N/A）：択捉島大岬にある活火山。標高1,587m"
+    },
+    {
+      "region": "北海道",
+      "area": "北方領土",
+      "name": "指臼岳",
+      "jma_rank": "",
+      "notes": "（N/A）：さしうすやま 標高1,125m"
+    },
+    {
+      "region": "北海道",
+      "area": "北方領土",
+      "name": "小田萌山",
+      "jma_rank": "",
+      "notes": "（N/A）：おだもいやま 標高1,208m 噴火記録はない。"
+    },
+    {
+      "region": "北海道",
+      "area": "北方領土",
+      "name": "焼山",
+      "jma_rank": "",
+      "notes": "（N/A）：標高1,158m 小田萌山"
+    },
+    {
+      "region": "北海道",
+      "area": "北方領土",
+      "name": "単冠山",
+      "jma_rank": "",
+      "notes": "（西単冠山）"
+    },
+    {
+      "region": "北海道",
+      "area": "北方領土",
+      "name": "阿登佐岳",
+      "jma_rank": "",
+      "notes": "（N/A）：あとさぬぶり 標高1,206m"
+    },
+    {
+      "region": "北海道",
+      "area": "北方領土",
+      "name": "ベルタルベ山",
+      "jma_rank": "",
+      "notes": "（N/A）：択捉島西端にある活火山"
+    },
+    {
+      "region": "北海道",
+      "area": "北方領土",
+      "name": "ルルイ岳",
+      "jma_rank": "",
+      "notes": "（N/A）"
+    },
+    {
+      "region": "北海道",
+      "area": "北方領土",
+      "name": "爺爺岳",
+      "jma_rank": "",
+      "notes": "（N/A）：国後島東部にある活火山。1,822mあり、国後島で最も高い。"
+    },
+    {
+      "region": "北海道",
+      "area": "北方領土",
+      "name": "羅臼山",
+      "jma_rank": "",
+      "notes": "（N/A）：国後島中西部にある活火山。知床半島には羅臼岳という似た名称がある"
+    },
+    {
+      "region": "北海道",
+      "area": "北方領土",
+      "name": "泊山",
+      "jma_rank": "",
+      "notes": "（N/A）：国後島西端にある活火山"
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "陸奥燧岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "恐山",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "岩木山",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "八甲田山",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "沖浦カルデラ",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "十和田カルデラ",
+      "jma_rank": "B",
+      "notes": "915年の噴火は、最近2000年間の国内最大の噴火。"
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "田代岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "藤里駒ヶ岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "森吉山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "寒風山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "目潟",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "七時雨山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "八幡平",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "秋田焼山",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "岩手山",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "乳頭山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "秋田駒ヶ岳",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "焼石岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "小比内山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "高松岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "栗駒山",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "鬼首カルデラ",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "向町カルデラ",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "鳴子火山群",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "鳥海山",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "肘折カルデラ",
+      "jma_rank": "C",
+      "notes": "約1万2千年前に噴火。2003年に活火山となる"
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "月山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "船形山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "白鷹山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "神室山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "大東岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "雁戸山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "麻布山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "蔵王山",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "吾妻山",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "安達太良山",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "磐梯山",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "猫魔ヶ岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "砂子原カルデラ",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "沼沢湖",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "浅草岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "守門岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "二岐山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "燧ケ岳",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "area": "",
+      "name": "会津布引山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "那須岳",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "高原山",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "女峰山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "大真名子山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "太郎山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "三岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "男体山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "日光白根山",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "沼上山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "鬼怒沼",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "武尊山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "袈裟丸山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "皇海山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "赤城山",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "小野子山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "子持山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "榛名山",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "飯士山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "苗場山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "鳥甲山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "高社山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "斑尾山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "新潟焼山",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "妙高山",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "黒姫山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "飯縄山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "髻山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "志賀火山群志賀山横手山東館山焼額山笠ヶ岳",
+      "jma_rank": "",
+      "notes": "(長野県)"
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "草津白根山",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "御飯岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "四阿山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "皆神山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "烏帽子山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "浅間山",
+      "jma_rank": "A",
+      "notes": "短期間で噴火を繰り返す活発な活火山"
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "美ヶ原",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "霧ヶ峰",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "北横岳",
+      "jma_rank": "C",
+      "notes": "（北八ヶ岳）"
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "南八ヶ岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "茅ヶ岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "黒富士",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "富士山",
+      "jma_rank": "B",
+      "notes": "日本の最高峰にして代表的な成層火山"
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "愛鷹山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "箱根山",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "駒ヶ岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "金時山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "伊豆東部火山群",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "白馬乗鞍岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "立山火山",
+      "jma_rank": "C",
+      "notes": "活火山ではない立山3山との混同を避けるため、気象庁では「弥陀ヶ原」とされる。"
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "上廊下",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "鷲羽・雲ノ平火山雲ノ平火口鷲羽池火口",
+      "jma_rank": "",
+      "notes": "（鷲羽池・硫黄沢）"
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "焼岳",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "アカンダナ山",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "乗鞍岳",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "御嶽山",
+      "jma_rank": "B",
+      "notes": "2014年に噴火"
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "白山",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "",
+      "name": "戸室山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "伊豆大島",
+      "jma_rank": "A",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "大室ダシ",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "利島",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "鵜渡根島",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "新島",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "式根島",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "神津島",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "三宅島",
+      "jma_rank": "A",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "大野原島",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "御蔵島",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "藺灘波島",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "八丈島",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "八丈小島",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "青ヶ島",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "明神礁カルデラ明神礁",
+      "jma_rank": "",
+      "notes": "（N/A）ベヨネース列岩"
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "須美寿島",
+      "jma_rank": "",
+      "notes": "（N/A）"
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "鳥島",
+      "jma_rank": "A",
+      "notes": "（気象庁サイトでは「伊豆鳥島」と記載）"
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "孀婦岩",
+      "jma_rank": "",
+      "notes": "（N/A）"
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "西之島",
+      "jma_rank": "B",
+      "notes": "2013年11月新島確認、2015年3月現在活動中。"
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "海形海山",
+      "jma_rank": "",
+      "notes": "（N/A）"
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "海徳海山",
+      "jma_rank": "",
+      "notes": "（N/A）"
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "噴火浅根",
+      "jma_rank": "",
+      "notes": "（N/A）：（北硫黄島）"
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "硫黄島",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "北福徳堆",
+      "jma_rank": "",
+      "notes": "（N/A）"
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "南硫黄島",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "福徳岡ノ場",
+      "jma_rank": "",
+      "notes": "（N/A）"
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "南日吉海山",
+      "jma_rank": "",
+      "notes": "（N/A）"
+    },
+    {
+      "region": "関東・中部地方",
+      "area": "伊豆・小笠原諸島",
+      "name": "日光海山",
+      "jma_rank": "",
+      "notes": "（N/A）"
+    },
+    {
+      "region": "近畿地方",
+      "area": "",
+      "name": "北但馬単成火山群神鍋火山群",
+      "jma_rank": "",
+      "notes": "神鍋山など玄武洞"
+    },
+    {
+      "region": "中国地方",
+      "area": "",
+      "name": "大根島",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "area": "",
+      "name": "蒜山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "area": "",
+      "name": "角ヶ仙",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "area": "",
+      "name": "大山",
+      "jma_rank": "",
+      "notes": "(鳥取県)"
+    },
+    {
+      "region": "中国地方",
+      "area": "",
+      "name": "三瓶山",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "area": "",
+      "name": "大江高山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "area": "",
+      "name": "阿武火山群",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "area": "",
+      "name": "青野山火山群青野山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "area": "",
+      "name": "徳山金峰山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "area": "",
+      "name": "千石岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "area": "",
+      "name": "四熊ヶ岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "area": "",
+      "name": "六連島",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "area": "",
+      "name": "隠岐諸島",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "area": "",
+      "name": "女亀山",
+      "jma_rank": "",
+      "notes": "（広島県）：2013年、産業技術総合研究所の火山の見直しにより追加"
+    },
+    {
+      "region": "四国地方",
+      "area": "",
+      "name": "四国地方に第四紀火山は無い。",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "",
+      "name": "黒瀬",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "",
+      "name": "姫島",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "",
+      "name": "両子山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "",
+      "name": "鶴見岳・伽藍岳",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "",
+      "name": "由布岳",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "",
+      "name": "九重山",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "",
+      "name": "猪牟田カルデラ高平山-水口山火山群水口山高平山実相寺山高崎山福万山-立石山火山群立石山福万山飛岳小鹿山-雨乞岳火山群雨乞岳城ヶ岳小鹿山野稲山-花牟礼山火山群花牟礼山野稲山崩平山鹿伏岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "",
+      "name": "万年山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "",
+      "name": "阿蘇山",
+      "jma_rank": "A",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "",
+      "name": "金峰山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "",
+      "name": "雲仙岳",
+      "jma_rank": "A",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "",
+      "name": "多良岳",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "",
+      "name": "福江火山群",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "",
+      "name": "小値賀島",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "",
+      "name": "宇久島",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "",
+      "name": "霧島山",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "",
+      "name": "加久藤カルデラ",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "",
+      "name": "小林カルデラ",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "",
+      "name": "米丸",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "",
+      "name": "住吉池",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "",
+      "name": "青敷",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "",
+      "name": "藺牟田",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "",
+      "name": "薩摩丸山",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "",
+      "name": "姶良カルデラ若尊",
+      "jma_rank": "A",
+      "notes": "（N/A）桜島"
+    },
+    {
+      "region": "九州地方",
+      "area": "",
+      "name": "南薩火山群西部野間岳陣ノ尾草野岳東部",
+      "jma_rank": "C",
+      "notes": "（指宿火山群）阿多カルデラ池田山川池田湖松ヶ窪池底鰻池成川盆地山川湾開聞岳（C）"
+    },
+    {
+      "region": "九州地方",
+      "area": "南西諸島",
+      "name": "鬼界カルデラ薩摩硫黄島",
+      "jma_rank": "A",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "南西諸島",
+      "name": "曽根島",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "南西諸島",
+      "name": "口永良部島",
+      "jma_rank": "B",
+      "notes": "2014年8月3日、約34年ぶりに噴火。2015年5月29日爆発的噴火。"
+    },
+    {
+      "region": "九州地方",
+      "area": "南西諸島",
+      "name": "口之島",
+      "jma_rank": "C",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "南西諸島",
+      "name": "中之島",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "南西諸島",
+      "name": "諏訪之瀬島",
+      "jma_rank": "A",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "南西諸島",
+      "name": "平島",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "南西諸島",
+      "name": "臥蛇島",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "南西諸島",
+      "name": "小臥蛇島",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "南西諸島",
+      "name": "黒島",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "南西諸島",
+      "name": "悪石島",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "南西諸島",
+      "name": "小宝島",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "南西諸島",
+      "name": "横当島上ノ根島",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "南西諸島",
+      "name": "第一奄美海丘",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "南西諸島",
+      "name": "南奄西海丘",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "南西諸島",
+      "name": "硫黄鳥島",
+      "jma_rank": "B",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "南西諸島",
+      "name": "伊平屋海凹北部海丘",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "南西諸島",
+      "name": "伊是名海穴",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "南西諸島",
+      "name": "久場島",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "南西諸島",
+      "name": "鳩間海丘",
+      "jma_rank": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "area": "南西諸島",
+      "name": "西表島北北東海底火山",
+      "jma_rank": "",
+      "notes": "（N/A）"
+    },
+    {
+      "region": "九州地方",
+      "area": "南西諸島",
+      "name": "第四与那国海丘",
+      "jma_rank": "",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "日本の火山一覧（活火山）(Volcanoes of Japan) - Free Download",
+    "description": "日本の活火山の地方別一覧。気象庁の活動度ランク（A/B/C）と補足情報付き。 Contains 262 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の火山一覧（活火山）(Volcanoes of Japan) | ListBase",
+    "seo_description": "Download 日本の火山一覧（活火山）(Volcanoes of Japan) — 262 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 262 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E7%81%AB%E5%B1%B1%E3%81%AE%E4%B8%80%E8%A6%A7_%28%E6%97%A5%E6%9C%AC%29"
+    ]
+  }
+}
