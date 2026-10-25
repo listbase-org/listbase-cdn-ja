@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:11:39.141Z",
-  "total_datasets": 479,
-  "total_records": 439471,
+  "generated": "2026-10-25T02:11:43.222Z",
+  "total_datasets": 480,
+  "total_records": 440869,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "transport",
@@ -13642,6 +13642,31 @@
         "xlsx": {
           "name": "ja-nihon-100-meijo_JA.xlsx",
           "size": 14090
+        }
+      }
+    },
+    {
+      "id": "ja-onsenchi-ichiran",
+      "name": "日本の温泉地一覧 (Hot spring resorts of Japan)",
+      "category": "tourism",
+      "record_count": 1398,
+      "columns": [
+        "prefecture",
+        "area",
+        "name",
+        "notes"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B8%A9%E6%B3%89%E5%9C%B0%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 180333,
+      "files": {
+        "csv": {
+          "name": "ja-onsenchi-ichiran_JA.csv",
+          "size": 68175
+        },
+        "xlsx": {
+          "name": "ja-onsenchi-ichiran_JA.xlsx",
+          "size": 42860
         }
       }
     },

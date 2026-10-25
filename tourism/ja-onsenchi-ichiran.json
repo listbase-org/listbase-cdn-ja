@@ -1,0 +1,8434 @@
+{
+  "id": "ja-onsenchi-ichiran",
+  "name": "日本の温泉地一覧 (Hot spring resorts of Japan)",
+  "title": "日本の温泉地一覧 (Hot spring resorts of Japan)",
+  "description": "全国の温泉地（温泉郷・温泉街）を都道府県・地域別にまとめた一覧。",
+  "category": "tourism",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B8%A9%E6%B3%89%E5%9C%B0%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B8%A9%E6%B3%89%E5%9C%B0%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 1398,
+  "columns": [
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "area",
+      "label": "Area",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "prefecture": "北海道",
+      "area": "宗谷地方",
+      "name": "礼文島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "宗谷地方",
+      "name": "利尻ふれあい温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "宗谷地方",
+      "name": "利尻富士温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "宗谷地方",
+      "name": "稚内温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "宗谷地方",
+      "name": "豊富温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "宗谷地方",
+      "name": "さるふつ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "宗谷地方",
+      "name": "浜頓別温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "宗谷地方",
+      "name": "枝幸温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "宗谷地方",
+      "name": "歌登温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "宗谷地方",
+      "name": "ピンネシリ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "留萌地方",
+      "name": "天塩温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "留萌地方",
+      "name": "旭温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "留萌地方",
+      "name": "羽幌温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "留萌地方",
+      "name": "苫前温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "留萌地方",
+      "name": "初山別温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "留萌地方",
+      "name": "神居岩温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "留萌地方",
+      "name": "岩尾温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "上川地方",
+      "name": "ぽんぴら温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "上川地方",
+      "name": "天塩川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "上川地方",
+      "name": "びふか温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "上川地方",
+      "name": "五味温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "上川地方",
+      "name": "協和温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "上川地方",
+      "name": "愛山渓温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "上川地方",
+      "name": "旭岳温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "上川地方",
+      "name": "中岳温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "上川地方",
+      "name": "有毒温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "上川地方",
+      "name": "天人峡温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "上川地方",
+      "name": "白金温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "上川地方",
+      "name": "吹上温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "上川地方",
+      "name": "十勝岳温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "上川地方",
+      "name": "フラヌイ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "上川地方",
+      "name": "層雲峡温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "上川地方",
+      "name": "大雪高原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "オホーツク地方",
+      "name": "オホーツクオムイ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "オホーツク地方",
+      "name": "かみゆうべつ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "オホーツク地方",
+      "name": "網走湖畔温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "オホーツク地方",
+      "name": "瀬戸瀬温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "オホーツク地方",
+      "name": "丸瀬布温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "オホーツク地方",
+      "name": "北見温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "オホーツク地方",
+      "name": "温根湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "オホーツク地方",
+      "name": "滝の湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "オホーツク地方",
+      "name": "カムイワッカ湯の滝",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "オホーツク地方",
+      "name": "岩尾別温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "オホーツク地方",
+      "name": "ウトロ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "オホーツク地方",
+      "name": "清里温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "根室地方",
+      "name": "瀬石温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "根室地方",
+      "name": "相泊温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "根室地方",
+      "name": "羅臼温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "根室地方",
+      "name": "川北温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "根室地方",
+      "name": "養老牛温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "根室地方",
+      "name": "尾岱沼温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "釧路地方",
+      "name": "摩周温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "釧路地方",
+      "name": "川湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "釧路地方",
+      "name": "屈斜路湖畔温泉郷仁伏温泉屈斜路湖畔温泉池の湯温泉コタン温泉三香温泉和琴温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "釧路地方",
+      "name": "阿寒湖温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "釧路地方",
+      "name": "雌阿寒温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "釧路地方",
+      "name": "オーロラ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "釧路地方",
+      "name": "霧多布温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "十勝地方",
+      "name": "芽登温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "十勝地方",
+      "name": "幌加温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "十勝地方",
+      "name": "ぬかびら温泉",
+      "notes": "糠平温泉"
+    },
+    {
+      "prefecture": "北海道",
+      "area": "十勝地方",
+      "name": "山田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "十勝地方",
+      "name": "然別湖畔温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "十勝地方",
+      "name": "菅野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "十勝地方",
+      "name": "鹿の湯",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "十勝地方",
+      "name": "トムラウシ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "十勝地方",
+      "name": "ヌプントムラウシ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "十勝地方",
+      "name": "オソウシ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "十勝地方",
+      "name": "しほろ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "十勝地方",
+      "name": "十勝川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "十勝地方",
+      "name": "留真温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "十勝地方",
+      "name": "幕別温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "十勝地方",
+      "name": "晩成温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "十勝地方",
+      "name": "ナウマン温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "空知地方",
+      "name": "芦別温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "空知地方",
+      "name": "北竜温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "空知地方",
+      "name": "南幌温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "空知地方",
+      "name": "妹背牛温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "空知地方",
+      "name": "江部乙温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "空知地方",
+      "name": "ほろしん温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "空知地方",
+      "name": "秩父別温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "空知地方",
+      "name": "ながぬま温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "空知地方",
+      "name": "由仁温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "石狩地方",
+      "name": "定山渓温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "石狩地方",
+      "name": "小金湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "石狩地方",
+      "name": "豊平峡温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "石狩地方",
+      "name": "薄別温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "石狩地方",
+      "name": "新千歳空港温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "石狩地方",
+      "name": "恵庭温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "石狩地方",
+      "name": "丸駒温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "石狩地方",
+      "name": "支笏湖いとう温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "石狩地方",
+      "name": "支笏湖温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "石狩地方",
+      "name": "竹山高原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "日高地方",
+      "name": "沙流川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "日高地方",
+      "name": "平取温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "日高地方",
+      "name": "みついし昆布温泉 蔵三",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "日高地方",
+      "name": "静内温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "日高地方",
+      "name": "新冠温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "日高地方",
+      "name": "門別温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "後志地方",
+      "name": "積丹温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "後志地方",
+      "name": "珊内ぬくもり温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "後志地方",
+      "name": "神恵内温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "後志地方",
+      "name": "朝日温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "後志地方",
+      "name": "雷電温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "後志地方",
+      "name": "盃温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "後志地方",
+      "name": "朝里川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "後志地方",
+      "name": "いわない温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "後志地方",
+      "name": "ニセコ温泉郷五色温泉昆布川温泉ニセコアンヌプリ温泉ニセコ駅前温泉ニセコ昆布温泉ニセコ新見温泉ニセコ東山温泉ニセコ薬師温泉ニセコ湯本温泉黄金温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "後志地方",
+      "name": "ふるっぷ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "後志地方",
+      "name": "京極温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "後志地方",
+      "name": "真狩温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "後志地方",
+      "name": "川上温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "後志地方",
+      "name": "留寿都温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "後志地方",
+      "name": "黒松内温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "後志地方",
+      "name": "寿都温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "後志地方",
+      "name": "宮内温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "後志地方",
+      "name": "千走川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "後志地方",
+      "name": "モッタ海岸温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "胆振地方",
+      "name": "奥洞爺温泉郷壮瞥温泉蟠渓温泉北湯沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "胆振地方",
+      "name": "むかわ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "胆振地方",
+      "name": "樹海温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "胆振地方",
+      "name": "鶴の湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "胆振地方",
+      "name": "しらかば温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "胆振地方",
+      "name": "樽前温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "胆振地方",
+      "name": "白老温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "胆振地方",
+      "name": "虎杖浜温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "胆振地方",
+      "name": "登別温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "胆振地方",
+      "name": "カルルス温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "胆振地方",
+      "name": "川又温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "胆振地方",
+      "name": "楽々温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "胆振地方",
+      "name": "弁景温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "胆振地方",
+      "name": "洞爺温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "胆振地方",
+      "name": "仲洞爺温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "胆振地方",
+      "name": "財田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "胆振地方",
+      "name": "洞爺月浦温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "胆振地方",
+      "name": "洞爺湖温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "胆振地方",
+      "name": "伊達温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "胆振地方",
+      "name": "豊浦温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "檜山地方",
+      "name": "奥美利河温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "檜山地方",
+      "name": "美利河温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "檜山地方",
+      "name": "神威脇温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "檜山地方",
+      "name": "貝取澗温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "檜山地方",
+      "name": "湯ノ岱温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "渡島地方",
+      "name": "長万部温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "渡島地方",
+      "name": "二股ラヂウム温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "渡島地方",
+      "name": "濁川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "渡島地方",
+      "name": "八雲温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "渡島地方",
+      "name": "桜野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "渡島地方",
+      "name": "上の湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "渡島地方",
+      "name": "平田内温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "渡島地方",
+      "name": "見市温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "渡島地方",
+      "name": "鹿部温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "渡島地方",
+      "name": "川汲温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "渡島地方",
+      "name": "大船温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "渡島地方",
+      "name": "水無海浜温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "渡島地方",
+      "name": "流山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "渡島地方",
+      "name": "湯の川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "渡島地方",
+      "name": "谷地頭温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "北海道",
+      "area": "渡島地方",
+      "name": "知内温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "津軽地方",
+      "name": "嶽温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "津軽地方",
+      "name": "百沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "津軽地方",
+      "name": "湯段温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "津軽地方",
+      "name": "境関温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "津軽地方",
+      "name": "黒石温泉郷温湯温泉落合温泉板留温泉青荷おんせん",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "津軽地方",
+      "name": "大鰐温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "津軽地方",
+      "name": "高増温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "津軽地方",
+      "name": "平賀温泉郷唐竹温泉大坊温泉温川温泉南田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "津軽地方",
+      "name": "碇ヶ関温泉郷古遠部温泉湯の沢温泉関の庄温泉秋元温泉相乗温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "津軽地方",
+      "name": "浅虫温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "津軽地方",
+      "name": "酸ヶ湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "津軽地方",
+      "name": "城ヶ倉温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "津軽地方",
+      "name": "八甲田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "津軽地方",
+      "name": "荒川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "津軽地方",
+      "name": "たらポッキ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "津軽地方",
+      "name": "三内温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "津軽地方",
+      "name": "浪岡温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "津軽地方",
+      "name": "黄金崎不老不死温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "津軽地方",
+      "name": "みちのく温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "津軽地方",
+      "name": "平舘不老不死温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "津軽地方",
+      "name": "竜飛崎温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "津軽地方",
+      "name": "小泊温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "津軽地方",
+      "name": "稲垣温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "下北地方・南部地方",
+      "name": "大間温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "下北地方・南部地方",
+      "name": "桑畑温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "下北地方・南部地方",
+      "name": "下風呂温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "下北地方・南部地方",
+      "name": "薬研温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "下北地方・南部地方",
+      "name": "湯野川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "下北地方・南部地方",
+      "name": "恐山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "下北地方・南部地方",
+      "name": "むつ矢立温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "下北地方・南部地方",
+      "name": "馬門温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "下北地方・南部地方",
+      "name": "古牧温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "下北地方・南部地方",
+      "name": "上北温泉郷",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "下北地方・南部地方",
+      "name": "五戸まきば温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "下北地方・南部地方",
+      "name": "奥入瀬渓流温泉",
+      "notes": "旧十和田湖温泉郷、十和田市 焼山温泉蔦温泉猿倉温泉谷地温泉"
+    },
+    {
+      "prefecture": "青森県",
+      "area": "下北地方・南部地方",
+      "name": "十和田湖畔温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "青森県",
+      "area": "下北地方・南部地方",
+      "name": "田子温泉",
+      "notes": "田子町"
+    },
+    {
+      "prefecture": "青森県",
+      "area": "下北地方・南部地方",
+      "name": "福田温泉",
+      "notes": "南部町"
+    },
+    {
+      "prefecture": "岩手県",
+      "area": "",
+      "name": "金田一温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岩手県",
+      "area": "",
+      "name": "安比温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岩手県",
+      "area": "",
+      "name": "松川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岩手県",
+      "area": "",
+      "name": "東八幡平温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岩手県",
+      "area": "",
+      "name": "藤七温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岩手県",
+      "area": "",
+      "name": "盛岡つなぎ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岩手県",
+      "area": "",
+      "name": "鶯宿温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岩手県",
+      "area": "",
+      "name": "国見温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岩手県",
+      "area": "",
+      "name": "網張温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岩手県",
+      "area": "",
+      "name": "東和温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岩手県",
+      "area": "",
+      "name": "湯田温泉峡",
+      "notes": ""
+    },
+    {
+      "prefecture": "岩手県",
+      "area": "",
+      "name": "夏油高原温泉郷夏油温泉瀬美温泉入畑温泉水神温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岩手県",
+      "area": "",
+      "name": "花巻温泉郷花巻温泉台温泉松倉温泉志戸平温泉渡り温泉大沢温泉山の神温泉高倉山温泉鉛温泉新鉛温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岩手県",
+      "area": "",
+      "name": "一関温泉郷須川高原温泉真湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岩手県",
+      "area": "",
+      "name": "姫神温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岩手県",
+      "area": "",
+      "name": "雫石高倉温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岩手県",
+      "area": "",
+      "name": "千貫石温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岩手県",
+      "area": "",
+      "name": "矢巾温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岩手県",
+      "area": "",
+      "name": "永岡温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岩手県",
+      "area": "",
+      "name": "南網張ありね温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岩手県",
+      "area": "",
+      "name": "あづまね温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮城県",
+      "area": "",
+      "name": "秋保温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮城県",
+      "area": "",
+      "name": "作並温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮城県",
+      "area": "",
+      "name": "鳴子温泉郷鳴子温泉東鳴子温泉川渡温泉中山平温泉鬼首温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮城県",
+      "area": "",
+      "name": "かもしか温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮城県",
+      "area": "",
+      "name": "温湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮城県",
+      "area": "",
+      "name": "湯浜温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮城県",
+      "area": "",
+      "name": "みやぎ蔵王温泉郷小原温泉鎌先温泉白石湯沢温泉遠刈田温泉青根温泉峩々温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮城県",
+      "area": "",
+      "name": "二口温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮城県",
+      "area": "",
+      "name": "定義温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮城県",
+      "area": "",
+      "name": "松島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮城県",
+      "area": "",
+      "name": "女川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮城県",
+      "area": "",
+      "name": "台ヶ森温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮城県",
+      "area": "",
+      "name": "沢乙温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮城県",
+      "area": "",
+      "name": "笹谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮城県",
+      "area": "",
+      "name": "追分温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮城県",
+      "area": "",
+      "name": "南三陸温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮城県",
+      "area": "",
+      "name": "鎌倉温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮城県",
+      "area": "",
+      "name": "くりこま高原温泉郷",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "乳頭温泉郷鶴の湯温泉大釜温泉妙乃湯温泉蟹場温泉孫六温泉黒湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "八幡平温泉郷玉川温泉後生掛温泉蒸ノ湯温泉大深温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "田沢湖高原温泉郷",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "水沢温泉郷",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "夏瀬温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "大湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "湯瀬温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "日景温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "矢立温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "矢立峠温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "男鹿温泉郷",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "森岳温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "秋田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "滝温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "かすみ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "湯ノ岱温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "象潟温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "仁賀保温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "大滝温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "大葛温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "強首温泉郷",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "猿倉温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "秋ノ宮温泉郷鷹の湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "泥湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "小安峡温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "須川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "大内ぽぽろっこ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "岩城温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "上畑温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "船沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "雪沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "岩倉温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "唐松温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "山の手温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "横手駅前温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "十和田湖畔温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "八森いさりび温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "あきた白神温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "湯の沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "打当温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "area": "",
+      "name": "雄和ふるさと温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "村山地方",
+      "name": "銀山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "村山地方",
+      "name": "碁点温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "村山地方",
+      "name": "天童温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "村山地方",
+      "name": "さくらんぼ東根温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "村山地方",
+      "name": "かみのやま温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "村山地方",
+      "name": "蔵王温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "村山地方",
+      "name": "寒河江温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "村山地方",
+      "name": "ひまわり温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "村山地方",
+      "name": "黒沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "村山地方",
+      "name": "河北温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "村山地方",
+      "name": "りんご温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "村山地方",
+      "name": "月山志津温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "村山地方",
+      "name": "山辺温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "最上地方",
+      "name": "瀬見温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "最上地方",
+      "name": "赤倉温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "最上地方",
+      "name": "肘折温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "最上地方",
+      "name": "今神温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "最上地方",
+      "name": "草薙温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "最上地方",
+      "name": "羽根沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "最上地方",
+      "name": "柳川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "置賜地方",
+      "name": "小野川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "置賜地方",
+      "name": "白布温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "置賜地方",
+      "name": "大平温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "置賜地方",
+      "name": "滑川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "置賜地方",
+      "name": "姥湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "置賜地方",
+      "name": "五色温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "置賜地方",
+      "name": "赤湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "置賜地方",
+      "name": "新高湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "置賜地方",
+      "name": "いいで添川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "庄内地方",
+      "name": "あつみ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "庄内地方",
+      "name": "湯田川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "庄内地方",
+      "name": "由良温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "庄内地方",
+      "name": "湯野浜温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "庄内地方",
+      "name": "湯ノ田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "庄内地方",
+      "name": "鳥海温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "庄内地方",
+      "name": "長沼温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "庄内地方",
+      "name": "松山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "庄内地方",
+      "name": "波渡崎温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "庄内地方",
+      "name": "立岩海底温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "area": "庄内地方",
+      "name": "湯の瀬温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "東山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "芦ノ牧温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "熱塩温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "日中温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "裏磐梯温泉郷大塩裏磐梯温泉裏磐梯川上温泉早稲沢温泉五色沼温泉猫魔温泉桧原温泉デコ平温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "中ノ沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "横向温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "沼尻温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "高田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "新鶴温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "会津本郷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "柳津温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "西山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "早戸温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "宮下温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "中川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "大塩温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "玉梨温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "昭和温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "湯野上温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "湯ノ花温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "木賊温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "山口温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "小豆温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "さかい温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "深沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "檜枝岐温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "只見温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "渋沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "会津地方",
+      "name": "中の湯",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "中通り地方",
+      "name": "飯坂温泉穴原温泉",
+      "notes": "奥飯坂"
+    },
+    {
+      "prefecture": "福島県",
+      "area": "中通り地方",
+      "name": "高湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "中通り地方",
+      "name": "信夫温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "中通り地方",
+      "name": "土湯温泉野地温泉新野地温泉鷲倉温泉幕川温泉赤湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "中通り地方",
+      "name": "微湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "中通り地方",
+      "name": "岳温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "中通り地方",
+      "name": "塩沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "中通り地方",
+      "name": "くろがね温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "中通り地方",
+      "name": "磐梯熱海温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "中通り地方",
+      "name": "郡山温泉郷",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "中通り地方",
+      "name": "甲子温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "中通り地方",
+      "name": "新甲子温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "中通り地方",
+      "name": "二岐温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "中通り地方",
+      "name": "岩瀬湯本温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "中通り地方",
+      "name": "天栄温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "中通り地方",
+      "name": "羽鳥湖温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "中通り地方",
+      "name": "母畑・石川温泉郷母畑温泉猫啼温泉片倉温泉塩ノ沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "中通り地方",
+      "name": "きつねうち温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "中通り地方",
+      "name": "湯岐温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "中通り地方",
+      "name": "常世温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "中通り地方",
+      "name": "志保の湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "中通り地方",
+      "name": "斎藤温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "浜通り地方",
+      "name": "いわき湯本温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "浜通り地方",
+      "name": "いわき蟹洗温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "浜通り地方",
+      "name": "神白温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "浜通り地方",
+      "name": "玉山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "浜通り地方",
+      "name": "岩井戸温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "浜通り地方",
+      "name": "ならは羽黒山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "浜通り地方",
+      "name": "天神岬温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "浜通り地方",
+      "name": "新田川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福島県",
+      "area": "浜通り地方",
+      "name": "相馬松川浦温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "茨城県",
+      "area": "",
+      "name": "奥久慈温泉郷大子温泉袋田温泉月居温泉湯沢温泉淺川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "茨城県",
+      "area": "",
+      "name": "川中子温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "茨城県",
+      "area": "",
+      "name": "塩ノ沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "茨城県",
+      "area": "",
+      "name": "平潟港温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "茨城県",
+      "area": "",
+      "name": "五浦温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "茨城県",
+      "area": "",
+      "name": "鵜の岬温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "茨城県",
+      "area": "",
+      "name": "湯ノ網温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "茨城県",
+      "area": "",
+      "name": "大洗温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "茨城県",
+      "area": "",
+      "name": "潮来水原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "茨城県",
+      "area": "",
+      "name": "筑波山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "茨城県",
+      "area": "",
+      "name": "磯原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "茨城県",
+      "area": "",
+      "name": "横川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "鬼怒川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "川治温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "湯西川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "奥鬼怒温泉郷川俣温泉女夫渕温泉八丁湯加仁湯",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "日光湯元温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "光徳温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "中禅寺温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "日光温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "かご岩温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "塩原温泉郷大網温泉福渡温泉塩釜温泉塩の湯温泉畑下温泉門前温泉古町温泉中塩原温泉上塩原温泉新湯温泉元湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "那須温泉郷那須湯本温泉大丸温泉弁天温泉北温泉高雄温泉三斗小屋温泉板室温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "大沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "柳沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "芦野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "西那須野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "馬頭温泉郷",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "大田原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "大金温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "佐久山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "黒羽温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "湯津上温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "矢板温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "松島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "喜連川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "小川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "早乙女温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "高根沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "上河内温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "益子温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "赤見温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "地蔵の湯",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "area": "",
+      "name": "足尾温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "四万温泉",
+      "notes": "日向見温泉"
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "川中温泉",
+      "notes": "三大美人湯"
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "松ノ湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "沢渡温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "川原湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "草津温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "万座温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "鹿沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "つま恋温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "嬬恋温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "嬬恋バラギ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "奥嬬恋温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "半出来温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "平治温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "鬼押温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "吾妻峡温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "赤岩温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "京塚温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "花敷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "尻焼温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "湯の平温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "霧積温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "吉井温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "塩ノ沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "伊香保温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "榛名湖温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "水上温泉郷水上温泉上牧温泉奈女沢温泉湯の小屋温泉上の原温泉宝川温泉湯檜曾温泉鵜の瀬温泉谷川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "老神温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "片品温泉郷鎌田温泉片品温泉尾瀬戸倉温泉幡谷温泉丸沼温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "川場温泉郷川場温泉小住温泉武尊温泉桜川温泉塩河原温泉宮山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "白沢高原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "みくに温泉郷猿ヶ京温泉湯宿温泉川古温泉法師温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "赤城温泉郷赤城温泉赤城高原温泉忠治温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "敷島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "磯部温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "三福温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "藪塚温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "五色温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "梨木温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "林温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "浅間隠温泉郷薬師温泉鳩の湯温泉温川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "湯端温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "高山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "相間川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "大塚温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "area": "",
+      "name": "応徳温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "埼玉県",
+      "area": "",
+      "name": "秩父温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "埼玉県",
+      "area": "",
+      "name": "奥秩父鉱泉郷日野温泉白久温泉",
+      "notes": "秩父七湯 柴原温泉（秩父七湯）"
+    },
+    {
+      "prefecture": "埼玉県",
+      "area": "",
+      "name": "秩父高篠鉱泉郷新木鉱泉",
+      "notes": "秩父七湯 不動の湯和銅鉱泉美やま温泉山田温泉"
+    },
+    {
+      "prefecture": "埼玉県",
+      "area": "",
+      "name": "大滝温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "埼玉県",
+      "area": "",
+      "name": "",
+      "notes": ""
+    },
+    {
+      "prefecture": "埼玉県",
+      "area": "",
+      "name": "武甲温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "埼玉県",
+      "area": "",
+      "name": "両神温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "埼玉県",
+      "area": "",
+      "name": "名栗温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "埼玉県",
+      "area": "",
+      "name": "サイボク天然温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "埼玉県",
+      "area": "",
+      "name": "小川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "埼玉県",
+      "area": "",
+      "name": "玉川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "埼玉県",
+      "area": "",
+      "name": "都幾川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "埼玉県",
+      "area": "",
+      "name": "さいたま清河寺温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "埼玉県",
+      "area": "",
+      "name": "北本温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "埼玉県",
+      "area": "",
+      "name": "百穴温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "埼玉県",
+      "area": "",
+      "name": "四季の湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "埼玉県",
+      "area": "",
+      "name": "神流川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "埼玉県",
+      "area": "",
+      "name": "百観音温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "埼玉県",
+      "area": "",
+      "name": "越谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "埼玉県",
+      "area": "",
+      "name": "吉川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "埼玉県",
+      "area": "",
+      "name": "小手指温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "千葉県",
+      "area": "南房総地方",
+      "name": "南房総温泉郷",
+      "notes": "南房総市 白浜温泉郷白浜温泉白浜飯田屋温泉白浜野嶋温泉白浜女来島温泉白浜湯元温泉元湯白浜温泉南房総白浜温泉へいすけ温泉千倉温泉郷千倉温泉千倉海岸温泉千倉海底温泉千倉瀬戸浜温泉千倉元湯温泉しあわせ温泉千倉七浦温泉矢原温泉南房総岩井温泉郷岩井湯元温泉弁天温泉"
+    },
+    {
+      "prefecture": "千葉県",
+      "area": "南房総地方",
+      "name": "たてやま温泉郷",
+      "notes": "館山市 石塚温泉吉祥龍神の湯温泉古原屋の湯温泉サンランド温泉しおさい温泉館山湯元温泉不老山薬師温泉南館山温泉"
+    },
+    {
+      "prefecture": "千葉県",
+      "area": "南房総地方",
+      "name": "養老渓谷温泉",
+      "notes": "市原市・大多喜町 栗又温泉"
+    },
+    {
+      "prefecture": "千葉県",
+      "area": "南房総地方",
+      "name": "勝浦温泉郷",
+      "notes": "勝浦市 勝浦温泉鵜原温泉勝浦うばら温泉湯場の原温泉三日月温泉"
+    },
+    {
+      "prefecture": "千葉県",
+      "area": "南房総地方",
+      "name": "鴨川温泉郷",
+      "notes": "鴨川市 曽呂温泉太海湯元温泉粟斗温泉小湊温泉白岩温泉宮下温泉"
+    },
+    {
+      "prefecture": "千葉県",
+      "area": "南房総地方",
+      "name": "亀山温泉",
+      "notes": "君津市"
+    },
+    {
+      "prefecture": "千葉県",
+      "area": "南房総地方",
+      "name": "七里川温泉",
+      "notes": "君津市"
+    },
+    {
+      "prefecture": "千葉県",
+      "area": "南房総地方",
+      "name": "小糸川温泉",
+      "notes": "君津市"
+    },
+    {
+      "prefecture": "千葉県",
+      "area": "南房総地方",
+      "name": "白壁の湯",
+      "notes": "君津市"
+    },
+    {
+      "prefecture": "千葉県",
+      "area": "南房総地方",
+      "name": "濃溝温泉",
+      "notes": "君津市"
+    },
+    {
+      "prefecture": "千葉県",
+      "area": "南房総地方",
+      "name": "富津温泉",
+      "notes": "富津市"
+    },
+    {
+      "prefecture": "千葉県",
+      "area": "南房総地方",
+      "name": "青堀温泉",
+      "notes": "富津市"
+    },
+    {
+      "prefecture": "千葉県",
+      "area": "南房総地方",
+      "name": "鋸山金谷温泉",
+      "notes": "富津市"
+    },
+    {
+      "prefecture": "千葉県",
+      "area": "南房総地方",
+      "name": "安房温泉",
+      "notes": "鋸南町"
+    },
+    {
+      "prefecture": "千葉県",
+      "area": "南房総地方",
+      "name": "保田温泉",
+      "notes": "鋸南町"
+    },
+    {
+      "prefecture": "千葉県",
+      "area": "銚子・九十九里地方",
+      "name": "犬吠埼温泉",
+      "notes": "銚子市 潮の湯温泉"
+    },
+    {
+      "prefecture": "千葉県",
+      "area": "銚子・九十九里地方",
+      "name": "飯岡温泉",
+      "notes": "旭市 飯岡ラジウム温泉"
+    },
+    {
+      "prefecture": "千葉県",
+      "area": "銚子・九十九里地方",
+      "name": "矢指ヶ浦温泉",
+      "notes": "旭市"
+    },
+    {
+      "prefecture": "千葉県",
+      "area": "銚子・九十九里地方",
+      "name": "旭九十九里温泉",
+      "notes": "旭市"
+    },
+    {
+      "prefecture": "千葉県",
+      "area": "銚子・九十九里地方",
+      "name": "鳴涛温泉",
+      "notes": "山武市"
+    },
+    {
+      "prefecture": "千葉県",
+      "area": "銚子・九十九里地方",
+      "name": "白子温泉",
+      "notes": "白子町"
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "鮎美の湯",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "河辺温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "岩蔵温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "青梅石神温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "数馬温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "つるつる温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "板橋温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "麻布黒美水温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "大手町温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "浅草観音温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "平和島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "大田区の黒湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "羽田空港泉天空温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "高井戸天然温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "瀬田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "東京天然温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "昭島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "府中温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "秋川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "鶴の湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "豊島園温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "小石川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "稲城天然温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "花景の湯",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "深大寺温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "小平天然温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "武蔵野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "村山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "檜原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "蛇の湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "区部・多摩地域",
+      "name": "京王高尾山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "島嶼部",
+      "name": "大島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "島嶼部",
+      "name": "間々下温泉",
+      "notes": "新島"
+    },
+    {
+      "prefecture": "東京都",
+      "area": "島嶼部",
+      "name": "八丈島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "area": "島嶼部",
+      "name": "地鉈温泉",
+      "notes": "式根島"
+    },
+    {
+      "prefecture": "東京都",
+      "area": "島嶼部",
+      "name": "足付温泉",
+      "notes": "式根島"
+    },
+    {
+      "prefecture": "神奈川県",
+      "area": "",
+      "name": "箱根温泉郷姥子温泉箱根湯本温泉塔ノ沢温泉大平台温泉宮ノ下温泉底倉温泉木賀温泉堂ヶ島温泉強羅温泉早雲山温泉小涌谷温泉大涌谷温泉仙石原温泉芦之湯温泉芦ノ湖温泉湖尻温泉宮城野温泉二ノ平温泉湯ノ花沢温泉蛸川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "神奈川県",
+      "area": "",
+      "name": "七沢温泉かぶと湯温泉広沢寺温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "神奈川県",
+      "area": "",
+      "name": "半原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "神奈川県",
+      "area": "",
+      "name": "中川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "神奈川県",
+      "area": "",
+      "name": "鶴巻温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "神奈川県",
+      "area": "",
+      "name": "藤野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "神奈川県",
+      "area": "",
+      "name": "綱島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "神奈川県",
+      "area": "",
+      "name": "根府川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "神奈川県",
+      "area": "",
+      "name": "湯河原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "神奈川県",
+      "area": "",
+      "name": "江の島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "神奈川県",
+      "area": "",
+      "name": "稲村ヶ崎温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "神奈川県",
+      "area": "",
+      "name": "大磯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "神奈川県",
+      "area": "",
+      "name": "平塚温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "神奈川県",
+      "area": "",
+      "name": "阿部倉温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "神奈川県",
+      "area": "",
+      "name": "佐野天然温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "神奈川県",
+      "area": "",
+      "name": "大矢部温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "神奈川県",
+      "area": "",
+      "name": "野比温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "神奈川県",
+      "area": "",
+      "name": "三浦マホロバ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "神奈川県",
+      "area": "",
+      "name": "伊勢原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "神奈川県",
+      "area": "",
+      "name": "陣谷温泉",
+      "notes": "陣馬の湯"
+    },
+    {
+      "prefecture": "神奈川県",
+      "area": "",
+      "name": "飯山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "神奈川県",
+      "area": "",
+      "name": "秦野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "神奈川県",
+      "area": "",
+      "name": "油壺温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "神奈川県",
+      "area": "",
+      "name": "川崎有馬温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "上越地方",
+      "name": "妙高高原温泉郷赤倉温泉新赤倉温泉関温泉池の平温泉妙高温泉燕温泉杉野沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "上越地方",
+      "name": "雨飾温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "上越地方",
+      "name": "鵜の浜温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "上越地方",
+      "name": "焼山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "上越地方",
+      "name": "笹倉温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "上越地方",
+      "name": "蓮華温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "上越地方",
+      "name": "姫川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "上越地方",
+      "name": "蒲原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "上越地方",
+      "name": "糸魚川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "上越地方",
+      "name": "柵口温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "上越地方",
+      "name": "桑取温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "中越地方",
+      "name": "越後湯沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "中越地方",
+      "name": "貝掛温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "中越地方",
+      "name": "湯之谷温泉大湯温泉駒の湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "中越地方",
+      "name": "六日町温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "中越地方",
+      "name": "津南温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "中越地方",
+      "name": "大沢山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "中越地方",
+      "name": "広田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "中越地方",
+      "name": "柏崎温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "中越地方",
+      "name": "西谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "中越地方",
+      "name": "蓬平温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "中越地方",
+      "name": "越後長野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "中越地方",
+      "name": "赤湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "中越地方",
+      "name": "五十沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "中越地方",
+      "name": "馬越温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "中越地方",
+      "name": "塩ノ入温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "中越地方",
+      "name": "かまぶろ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "中越地方",
+      "name": "三島谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "中越地方",
+      "name": "寺泊温泉郷寺泊岬温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "中越地方",
+      "name": "桂温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "中越地方",
+      "name": "畔地温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "中越地方",
+      "name": "まつだい芝峠温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "中越地方",
+      "name": "逆巻温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "中越地方",
+      "name": "松之山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "中越地方",
+      "name": "清津峡温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "下越地方",
+      "name": "月岡温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "下越地方",
+      "name": "新胎内温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "下越地方",
+      "name": "瀬波温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "下越地方",
+      "name": "岩室温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "下越地方",
+      "name": "弥彦温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "下越地方",
+      "name": "咲花温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "下越地方",
+      "name": "奥阿賀温泉郷麒麟山温泉三川温泉津川温泉かのせ温泉角神温泉御神楽温泉七福温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "下越地方",
+      "name": "塩の湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "下越地方",
+      "name": "湯田上温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "下越地方",
+      "name": "五頭温泉郷村杉温泉今板温泉出湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "下越地方",
+      "name": "勝木ゆり花温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "下越地方",
+      "name": "荒川峡温泉郷高瀬温泉雲母温泉鷹ノ巣温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "新潟県",
+      "area": "下越地方",
+      "name": "佐渡島の温泉地",
+      "notes": "佐渡市 両津温泉郷"
+    },
+    {
+      "prefecture": "富山県",
+      "area": "東部（新川地区）",
+      "name": "黒薙温泉宇奈月温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "東部（新川地区）",
+      "name": "金太郎温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "東部（新川地区）",
+      "name": "天神山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "東部（新川地区）",
+      "name": "小川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "東部（新川地区）",
+      "name": "生地温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "東部（新川地区）",
+      "name": "黒部川明日温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "東部（新川地区）",
+      "name": "鐘釣温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "東部（新川地区）",
+      "name": "名剣温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "東部（新川地区）",
+      "name": "祖母谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "東部（新川地区）",
+      "name": "東谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "東部（新川地区）",
+      "name": "地獄谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "東部（新川地区）",
+      "name": "みくりが池温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "東部（新川地区）",
+      "name": "立山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "東部（新川地区）",
+      "name": "大谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "東部（新川地区）",
+      "name": "北山鉱泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "東部（新川地区）",
+      "name": "立山吉峰温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "東部（新川地区）",
+      "name": "下田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "東部（新川地区）",
+      "name": "みのわ温泉",
+      "notes": "早月川温泉"
+    },
+    {
+      "prefecture": "富山県",
+      "area": "東部（新川地区）",
+      "name": "大岩湯神子温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "東部（新川地区）",
+      "name": "大岩不動の湯",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "富山市",
+      "name": "新湯",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "富山市",
+      "name": "下の茗温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "富山市",
+      "name": "大長谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "富山市",
+      "name": "高天原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "富山市",
+      "name": "立山山麓温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "富山市",
+      "name": "粟巣野温泉",
+      "notes": "森の風立山"
+    },
+    {
+      "prefecture": "富山県",
+      "area": "富山市",
+      "name": "牛岳温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "富山市",
+      "name": "呉羽山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "富山市",
+      "name": "鯰温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "富山市",
+      "name": "音川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "富山市",
+      "name": "山田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "富山市",
+      "name": "亀谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "富山市",
+      "name": "春日温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "富山市",
+      "name": "水橋温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "富山市",
+      "name": "神通峡岩稲温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "富山市",
+      "name": "長八温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "西部",
+      "name": "法林寺温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "西部",
+      "name": "寺尾温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "西部",
+      "name": "林道温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "西部",
+      "name": "福光華山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "西部",
+      "name": "川合田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "西部",
+      "name": "大牧温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "西部",
+      "name": "岩井戸温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "西部",
+      "name": "宮島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "西部",
+      "name": "庄川湯谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "西部",
+      "name": "庄川温泉郷",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "西部",
+      "name": "神代温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "西部",
+      "name": "氷見温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "西部",
+      "name": "阿尾の浦温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "西部",
+      "name": "五箇山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "area": "西部",
+      "name": "新五箇山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "石川県",
+      "area": "加賀地方",
+      "name": "加賀温泉郷山代温泉山中温泉粟津温泉片山津温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "石川県",
+      "area": "加賀地方",
+      "name": "白山温泉郷河内千丈温泉白山一里野温泉中宮温泉白峰温泉白山杉の子温泉新岩間温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "石川県",
+      "area": "加賀地方",
+      "name": "金沢温泉郷湯涌温泉深谷温泉犀川峡温泉曲水温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "石川県",
+      "area": "加賀地方",
+      "name": "銭がめ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "石川県",
+      "area": "加賀地方",
+      "name": "白鳥路温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "石川県",
+      "area": "加賀地方",
+      "name": "美川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "石川県",
+      "area": "加賀地方",
+      "name": "辰口温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "石川県",
+      "area": "加賀地方",
+      "name": "加賀三谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "石川県",
+      "area": "加賀地方",
+      "name": "オータム天然温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "石川県",
+      "area": "能登地方",
+      "name": "和倉温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "石川県",
+      "area": "能登地方",
+      "name": "葭ヶ浦温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "石川県",
+      "area": "能登地方",
+      "name": "能登輪島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "石川県",
+      "area": "能登地方",
+      "name": "ねぶた温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "石川県",
+      "area": "能登地方",
+      "name": "縄文真脇温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "石川県",
+      "area": "能登地方",
+      "name": "志賀の郷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "石川県",
+      "area": "能登地方",
+      "name": "赤崎温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "石川県",
+      "area": "能登地方",
+      "name": "湯川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "石川県",
+      "area": "能登地方",
+      "name": "千里浜やわらぎ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "石川県",
+      "area": "能登地方",
+      "name": "柳田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "石川県",
+      "area": "能登地方",
+      "name": "珠洲温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福井県",
+      "area": "",
+      "name": "芦原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福井県",
+      "area": "",
+      "name": "東尋坊温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福井県",
+      "area": "",
+      "name": "三国温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福井県",
+      "area": "",
+      "name": "越前玉川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福井県",
+      "area": "",
+      "name": "越前厨温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福井県",
+      "area": "",
+      "name": "大安寺温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福井県",
+      "area": "",
+      "name": "佐野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福井県",
+      "area": "",
+      "name": "敦賀トンネル温泉敦賀きらめき温泉リラ・ポート",
+      "notes": ""
+    },
+    {
+      "prefecture": "福井県",
+      "area": "",
+      "name": "鳩ヶ湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福井県",
+      "area": "",
+      "name": "花はす温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福井県",
+      "area": "",
+      "name": "花みずき温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福井県",
+      "area": "",
+      "name": "虹岳島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福井県",
+      "area": "",
+      "name": "鷹巣温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福井県",
+      "area": "",
+      "name": "六呂師温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福井県",
+      "area": "",
+      "name": "今庄365温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福井県",
+      "area": "",
+      "name": "九頭竜温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "十谷温泉甲州鰍沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "赤石温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "石和温泉郷石和温泉春日居温泉日の出温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "岩下温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "塩山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "甲府盆地中西部の温泉神の湯温泉フカサワ温泉山口温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "川浦温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "甲斐大泉温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "小淵沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "清里温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "甲府温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "ほったらかし温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "裂石温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "佐野川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "下部温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "信玄の湯 湯村温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "湯沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "正徳寺温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "積翠寺温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "鼓川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "奈良田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "南部アルカディア温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "西山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "はやぶさ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "富士河口湖温泉郷",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "真木温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "増富ラジウム温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "三富温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "藪の湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "山中湖温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "三条の湯",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "竜王ラドン温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "葭之池温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "御座石鉱泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "嵯峨塩鉱泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "芦安温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "船山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "奥山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "韮崎旭温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "田野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "雨畑湖温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "穴山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "富士山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "十枚荘温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "光源の里温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山梨県",
+      "area": "",
+      "name": "須玉温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "中条温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "北野天満温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "上野原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "和山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "切明温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "小赤沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "屋敷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "いいやま湯滝温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "野沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "戸狩温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "戸隠神告げ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "瑞穂温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "鬼島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "池ノ平温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "よませ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "竜王温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "長嶺温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "松代温泉",
+      "notes": "加賀井温泉"
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "山の神温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "裾花峡温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "信州高山温泉郷五色温泉山田温泉七味温泉蕨温泉奥山田温泉松川渓谷温泉子安温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "馬曲温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "戸倉上山田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "高天ヶ原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "北志賀温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "木戸池温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "熊の湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "志賀山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "硯川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "発哺温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "幕岩温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "丸池温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "湯田中渋温泉郷安代温泉角間温泉上林温泉沓野温泉地獄谷温泉渋温泉新湯田中温泉星川温泉穂波温泉湯田中温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "北信地方",
+      "name": "湯俣温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "中信地方",
+      "name": "浅間温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "中信地方",
+      "name": "美ヶ原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "中信地方",
+      "name": "上高地温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "中信地方",
+      "name": "のりくら温泉郷乗鞍高原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "中信地方",
+      "name": "白骨温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "中信地方",
+      "name": "崖の湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "中信地方",
+      "name": "沢渡温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "中信地方",
+      "name": "中の湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "中信地方",
+      "name": "坂巻温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "中信地方",
+      "name": "赤怒田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "中信地方",
+      "name": "白馬八方温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "中信地方",
+      "name": "白馬鑓温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "中信地方",
+      "name": "葛温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "中信地方",
+      "name": "小谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "中信地方",
+      "name": "奉納温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "中信地方",
+      "name": "豊科温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "中信地方",
+      "name": "中房温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "中信地方",
+      "name": "穂高温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "中信地方",
+      "name": "馬羅尾天狗岩温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "中信地方",
+      "name": "大町温泉郷",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "中信地方",
+      "name": "扉温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "中信地方",
+      "name": "姫川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "東信地方",
+      "name": "鹿教湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "東信地方",
+      "name": "霊泉寺温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "東信地方",
+      "name": "大塩温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "東信地方",
+      "name": "別所温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "東信地方",
+      "name": "田沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "東信地方",
+      "name": "沓掛温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "東信地方",
+      "name": "本沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "東信地方",
+      "name": "松原湖温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "東信地方",
+      "name": "佐久海ノ口温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "東信地方",
+      "name": "星野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "東信地方",
+      "name": "中棚温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "東信地方",
+      "name": "布引温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "東信地方",
+      "name": "布下温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "東信地方",
+      "name": "高峰温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "東信地方",
+      "name": "天狗温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "東信地方",
+      "name": "初谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "東信地方",
+      "name": "角間温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "東信地方",
+      "name": "春日温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "東信地方",
+      "name": "布施温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "東信地方",
+      "name": "旭湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "東信地方",
+      "name": "あさしな温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "東信地方",
+      "name": "菱野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "東信地方",
+      "name": "稲子湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "南信地方",
+      "name": "上諏訪温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "南信地方",
+      "name": "下諏訪温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "南信地方",
+      "name": "毒沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "南信地方",
+      "name": "蓼科温泉郷滝の湯温泉蓼科三室温泉芹ケ沢温泉湯川温泉米沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "南信地方",
+      "name": "尖石温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "南信地方",
+      "name": "河原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "南信地方",
+      "name": "奥蓼科温泉郷渋御殿湯温泉横谷温泉明治温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "南信地方",
+      "name": "早太郎温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "南信地方",
+      "name": "昼神温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "南信地方",
+      "name": "天竜峡温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "南信地方",
+      "name": "池の平温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "南信地方",
+      "name": "小渋温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "南信地方",
+      "name": "鹿塩温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "南信地方",
+      "name": "唐沢鉱泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "南信地方",
+      "name": "赤岳鉱泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "area": "南信地方",
+      "name": "信州まつかわ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "飛騨地方",
+      "name": "下呂温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "飛騨地方",
+      "name": "小坂温泉郷濁河温泉湯屋温泉下島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "飛騨地方",
+      "name": "奥飛騨温泉郷平湯温泉福地温泉新平湯温泉栃尾温泉新穂高温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "飛騨地方",
+      "name": "秋神温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "飛騨地方",
+      "name": "白川郷平瀬温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "飛騨地方",
+      "name": "大白川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "飛騨地方",
+      "name": "白川郷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "飛騨地方",
+      "name": "割石温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "飛騨地方",
+      "name": "流葉温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "飛騨地方",
+      "name": "飛騨古川桃源郷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "飛騨地方",
+      "name": "馬狩・地球の聲温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "飛騨地方",
+      "name": "宇津江四十八滝温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "飛騨地方",
+      "name": "飛騨にゅうかわ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "飛騨地方",
+      "name": "飛騨高山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "飛騨地方",
+      "name": "胡桃島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "飛騨地方",
+      "name": "飛騨荘川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "飛騨地方",
+      "name": "飛騨川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "飛騨地方",
+      "name": "飛騨金山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "飛騨地方",
+      "name": "宮川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "飛騨地方",
+      "name": "塩沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "飛騨地方",
+      "name": "南飛騨馬瀬川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "岐阜地方",
+      "name": "長良川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "岐阜地方",
+      "name": "三田洞神仏温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "岐阜地方",
+      "name": "うすずみ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "岐阜地方",
+      "name": "羽島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "西濃地方",
+      "name": "いび川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "西濃地方",
+      "name": "久瀬温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "西濃地方",
+      "name": "安八温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "西濃地方",
+      "name": "池田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "西濃地方",
+      "name": "南濃温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "西濃地方",
+      "name": "海津温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "西濃地方",
+      "name": "養老温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "西濃地方",
+      "name": "大垣温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "西濃地方",
+      "name": "谷汲温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "西濃地方",
+      "name": "湯華の郷",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "中濃地方",
+      "name": "湯の洞温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "中濃地方",
+      "name": "牧歌の里温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "中濃地方",
+      "name": "明宝温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "中濃地方",
+      "name": "母袋温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "中濃地方",
+      "name": "郡上温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "中濃地方",
+      "name": "日本まん真ん中温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "中濃地方",
+      "name": "神明温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "中濃地方",
+      "name": "板取川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "中濃地方",
+      "name": "武芸川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "中濃地方",
+      "name": "白川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "中濃地方",
+      "name": "新白川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "中濃地方",
+      "name": "三峰温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "中濃地方",
+      "name": "やまと温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "東濃地方",
+      "name": "渡合温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "東濃地方",
+      "name": "ローソク温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "東濃地方",
+      "name": "付知峡倉屋温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "東濃地方",
+      "name": "岩寿温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "東濃地方",
+      "name": "東山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "東濃地方",
+      "name": "中津川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "東濃地方",
+      "name": "恵那峡温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "東濃地方",
+      "name": "恵那ラジウム温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "東濃地方",
+      "name": "鹿之湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "東濃地方",
+      "name": "花白温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "東濃地方",
+      "name": "串原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "東濃地方",
+      "name": "白狐温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "東濃地方",
+      "name": "釜戸温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "東濃地方",
+      "name": "稲荷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "東濃地方",
+      "name": "曽木温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "東濃地方",
+      "name": "山神温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "東濃地方",
+      "name": "柿野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岐阜県",
+      "area": "東濃地方",
+      "name": "鬼岩温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "東伊豆地方",
+      "name": "伊豆湯河原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "東伊豆地方",
+      "name": "熱海温泉網代温泉伊豆山温泉伊豆多賀温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "東伊豆地方",
+      "name": "伊東温泉宇佐美温泉伊豆高原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "東伊豆地方",
+      "name": "赤沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "東伊豆地方",
+      "name": "大川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "東伊豆地方",
+      "name": "北川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "東伊豆地方",
+      "name": "熱川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "東伊豆地方",
+      "name": "片瀬温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "東伊豆地方",
+      "name": "白田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "東伊豆地方",
+      "name": "稲取温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "南伊豆地方",
+      "name": "下田温泉蓮台寺温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "南伊豆地方",
+      "name": "湯ヶ野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "南伊豆地方",
+      "name": "下賀茂温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "南伊豆地方",
+      "name": "河津温泉郷河津七滝温泉峰温泉今井浜温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "南伊豆地方",
+      "name": "弓ヶ浜温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "中伊豆地方",
+      "name": "伊豆長岡温泉長岡温泉古奈温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "中伊豆地方",
+      "name": "修善寺温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "中伊豆地方",
+      "name": "天城湯ヶ島温泉郷湯ヶ島温泉船原温泉吉奈温泉嵯峨沢温泉青羽根温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "中伊豆地方",
+      "name": "畑毛温泉郷畑毛温泉奈古谷温泉函南温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "中伊豆地方",
+      "name": "大仁温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "中伊豆地方",
+      "name": "韮山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "中伊豆地方",
+      "name": "中伊豆温泉郷白岩温泉冷川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "西伊豆地方",
+      "name": "土肥温泉小土肥温泉八木沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "西伊豆地方",
+      "name": "堂ヶ島温泉郷堂ヶ島温泉田子温泉宇久須温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "西伊豆地方",
+      "name": "松崎温泉郷松崎温泉雲見温泉岩地温泉石部温泉大沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "西伊豆地方",
+      "name": "戸田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "伊豆半島以外の地方",
+      "name": "足柄温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "伊豆半島以外の地方",
+      "name": "時之栖温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "伊豆半島以外の地方",
+      "name": "寸又峡温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "伊豆半島以外の地方",
+      "name": "舘山寺温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "伊豆半島以外の地方",
+      "name": "梅ヶ島温泉郷梅ヶ島温泉梅ヶ島新田温泉梅ヶ島コンヤ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "伊豆半島以外の地方",
+      "name": "倉真温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "伊豆半島以外の地方",
+      "name": "弁天島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "伊豆半島以外の地方",
+      "name": "法泉寺温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "伊豆半島以外の地方",
+      "name": "さがら子生れ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "伊豆半島以外の地方",
+      "name": "油山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "伊豆半島以外の地方",
+      "name": "焼津温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "伊豆半島以外の地方",
+      "name": "接岨峡温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "伊豆半島以外の地方",
+      "name": "川根温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "伊豆半島以外の地方",
+      "name": "瓜島温泉",
+      "notes": "芝川苑温泉"
+    },
+    {
+      "prefecture": "静岡県",
+      "area": "伊豆半島以外の地方",
+      "name": "稲子川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛知県",
+      "area": "",
+      "name": "湯谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛知県",
+      "area": "",
+      "name": "三谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛知県",
+      "area": "",
+      "name": "西浦温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛知県",
+      "area": "",
+      "name": "蒲郡温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛知県",
+      "area": "",
+      "name": "飛島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛知県",
+      "area": "",
+      "name": "尾張温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛知県",
+      "area": "",
+      "name": "添沢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛知県",
+      "area": "",
+      "name": "形原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛知県",
+      "area": "",
+      "name": "内津温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛知県",
+      "area": "",
+      "name": "稲武夏焼温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛知県",
+      "area": "",
+      "name": "吉良温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛知県",
+      "area": "",
+      "name": "南知多温泉郷",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛知県",
+      "area": "",
+      "name": "笹戸温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛知県",
+      "area": "",
+      "name": "小渡温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛知県",
+      "area": "",
+      "name": "塩津温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛知県",
+      "area": "",
+      "name": "犬山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "三重県",
+      "area": "",
+      "name": "木曽岬温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "三重県",
+      "area": "",
+      "name": "長島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "三重県",
+      "area": "",
+      "name": "桑名温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "三重県",
+      "area": "",
+      "name": "多度温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "三重県",
+      "area": "",
+      "name": "湯の山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "三重県",
+      "area": "",
+      "name": "榊原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "三重県",
+      "area": "",
+      "name": "社宮司温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "三重県",
+      "area": "",
+      "name": "火の谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "三重県",
+      "area": "",
+      "name": "大山田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "三重県",
+      "area": "",
+      "name": "鍋田川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "三重県",
+      "area": "",
+      "name": "きいながしま古里温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "三重県",
+      "area": "",
+      "name": "鈴鹿サーキット温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "三重県",
+      "area": "",
+      "name": "鈴鹿さつき温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "三重県",
+      "area": "",
+      "name": "湯ノ口温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "三重県",
+      "area": "",
+      "name": "有久寺温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "三重県",
+      "area": "",
+      "name": "猪の倉温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "三重県",
+      "area": "",
+      "name": "赤目温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "三重県",
+      "area": "",
+      "name": "奥香肌峡温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "三重県",
+      "area": "",
+      "name": "鳥羽温泉郷鳥羽温泉答志島温泉安楽島温泉鳥羽小浜温泉石鏡温泉本浦温泉神代温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "三重県",
+      "area": "",
+      "name": "志摩温泉郷浜島温泉阿児温泉登茂山温泉奥志摩温泉磯部わたかの温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "三重県",
+      "area": "",
+      "name": "南勢桜山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "三重県",
+      "area": "",
+      "name": "阿曽温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "滋賀県",
+      "area": "",
+      "name": "雄琴温泉",
+      "notes": "大津市"
+    },
+    {
+      "prefecture": "滋賀県",
+      "area": "",
+      "name": "びわ湖温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "滋賀県",
+      "area": "",
+      "name": "須賀谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "滋賀県",
+      "area": "",
+      "name": "比良招福温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "滋賀県",
+      "area": "",
+      "name": "長浜太閤温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "滋賀県",
+      "area": "",
+      "name": "尾上温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "滋賀県",
+      "area": "",
+      "name": "宝船温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "滋賀県",
+      "area": "",
+      "name": "マキノ白谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "京都府",
+      "area": "",
+      "name": "嵐山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "京都府",
+      "area": "",
+      "name": "岩滝温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "京都府",
+      "area": "",
+      "name": "木津温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "京都府",
+      "area": "",
+      "name": "久美の浜温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "京都府",
+      "area": "",
+      "name": "久美浜シーサイド温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "京都府",
+      "area": "",
+      "name": "あやべ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "京都府",
+      "area": "",
+      "name": "天橋立温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "京都府",
+      "area": "",
+      "name": "福知山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "京都府",
+      "area": "",
+      "name": "夕日ヶ浦温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "京都府",
+      "area": "",
+      "name": "宇川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "京都府",
+      "area": "",
+      "name": "湯の花温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "京都府",
+      "area": "",
+      "name": "るり渓温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "京都府",
+      "area": "",
+      "name": "京都竹の郷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "京都府",
+      "area": "",
+      "name": "大原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "京都府",
+      "area": "",
+      "name": "神野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "京都府",
+      "area": "",
+      "name": "奥伊根温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "京都府",
+      "area": "",
+      "name": "鳴き砂温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "京都府",
+      "area": "",
+      "name": "鞍馬温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "京都府",
+      "area": "",
+      "name": "笠置温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大阪府",
+      "area": "",
+      "name": "箕面温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大阪府",
+      "area": "",
+      "name": "犬鳴山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大阪府",
+      "area": "",
+      "name": "牛滝温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大阪府",
+      "area": "",
+      "name": "摂津峡温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大阪府",
+      "area": "",
+      "name": "高槻樫田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大阪府",
+      "area": "",
+      "name": "長野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大阪府",
+      "area": "",
+      "name": "天見温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大阪府",
+      "area": "",
+      "name": "奥水間温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大阪府",
+      "area": "",
+      "name": "汐の湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大阪府",
+      "area": "",
+      "name": "伏尾温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大阪府",
+      "area": "",
+      "name": "能勢温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大阪府",
+      "area": "",
+      "name": "石切温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大阪府",
+      "area": "",
+      "name": "山中渓温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "北部",
+      "name": "城崎温泉",
+      "notes": "豊岡市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "北部",
+      "name": "竹野温泉",
+      "notes": "豊岡市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "北部",
+      "name": "神鍋温泉",
+      "notes": "豊岡市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "北部",
+      "name": "シルク温泉",
+      "notes": "豊岡市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "北部",
+      "name": "浜坂温泉郷",
+      "notes": "新温泉町 七釜温泉浜坂温泉二日市温泉"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "北部",
+      "name": "湯村温泉",
+      "notes": "新温泉町"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "北部",
+      "name": "おじろん",
+      "notes": "小代温泉 （香美町）"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "北部",
+      "name": "香住温泉郷",
+      "notes": "香美町 香住温泉矢田川温泉佐津温泉柴山温泉余部温泉"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "北部",
+      "name": "村岡温泉",
+      "notes": "香美町"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "北部",
+      "name": "ハチ北温泉",
+      "notes": "香美町"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "北部",
+      "name": "よふど温泉",
+      "notes": "朝来市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "北部",
+      "name": "黒川温泉",
+      "notes": "朝来市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "中部・南部",
+      "name": "有馬温泉",
+      "notes": "神戸市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "中部・南部",
+      "name": "太山寺温泉",
+      "notes": "神戸市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "中部・南部",
+      "name": "湊山温泉",
+      "notes": "神戸市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "中部・南部",
+      "name": "六甲布引温泉",
+      "notes": "神戸市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "中部・南部",
+      "name": "宝塚温泉",
+      "notes": "宝塚市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "中部・南部",
+      "name": "武田尾温泉",
+      "notes": "宝塚市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "中部・南部",
+      "name": "吉川温泉",
+      "notes": "三木市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "中部・南部",
+      "name": "竹乃湯温泉",
+      "notes": "三木市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "中部・南部",
+      "name": "赤穂御崎温泉",
+      "notes": "赤穂市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "中部・南部",
+      "name": "塩田温泉",
+      "notes": "姫路市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "中部・南部",
+      "name": "雪彦温泉",
+      "notes": "姫路市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "中部・南部",
+      "name": "洲本温泉",
+      "notes": "洲本市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "中部・南部",
+      "name": "こんだ薬師温泉",
+      "notes": "丹波篠山市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "中部・南部",
+      "name": "籠坊温泉",
+      "notes": "丹波篠山市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "中部・南部",
+      "name": "白雲谷温泉",
+      "notes": "小野市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "中部・南部",
+      "name": "鍬渓温泉",
+      "notes": "小野市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "中部・南部",
+      "name": "加古川温泉",
+      "notes": "加古川市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "中部・南部",
+      "name": "生谷温泉",
+      "notes": "宍粟市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "中部・南部",
+      "name": "一宮温泉",
+      "notes": "宍粟市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "area": "中部・南部",
+      "name": "笠形温泉",
+      "notes": "市川町"
+    },
+    {
+      "prefecture": "奈良県",
+      "area": "",
+      "name": "十津川温泉郷湯泉地温泉十津川温泉上湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "奈良県",
+      "area": "",
+      "name": "洞川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "奈良県",
+      "area": "",
+      "name": "天の川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "奈良県",
+      "area": "",
+      "name": "入之波温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "奈良県",
+      "area": "",
+      "name": "小処温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "奈良県",
+      "area": "",
+      "name": "上北山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "奈良県",
+      "area": "",
+      "name": "吉野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "奈良県",
+      "area": "",
+      "name": "西吉野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "奈良県",
+      "area": "",
+      "name": "東吉野温泉やはた温泉たかすみ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "奈良県",
+      "area": "",
+      "name": "信貴山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "奈良県",
+      "area": "",
+      "name": "奥香落温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "奈良県",
+      "area": "",
+      "name": "長谷寺温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "奈良県",
+      "area": "",
+      "name": "野迫川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "奈良県",
+      "area": "",
+      "name": "美榛温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "和歌山県",
+      "area": "",
+      "name": "花山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "和歌山県",
+      "area": "",
+      "name": "南紀白浜温泉、椿温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "和歌山県",
+      "area": "",
+      "name": "南紀勝浦温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "和歌山県",
+      "area": "",
+      "name": "湯川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "和歌山県",
+      "area": "",
+      "name": "湯の花温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "和歌山県",
+      "area": "",
+      "name": "鶴の湯温泉",
+      "notes": "俗称・すさみ温泉"
+    },
+    {
+      "prefecture": "和歌山県",
+      "area": "",
+      "name": "龍神温泉",
+      "notes": "三大美人湯"
+    },
+    {
+      "prefecture": "和歌山県",
+      "area": "",
+      "name": "熊野本宮温泉郷湯の峰温泉川湯温泉渡瀬温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "和歌山県",
+      "area": "",
+      "name": "神通温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "和歌山県",
+      "area": "",
+      "name": "奥熊野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "和歌山県",
+      "area": "",
+      "name": "上小野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "和歌山県",
+      "area": "",
+      "name": "高野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "和歌山県",
+      "area": "",
+      "name": "二川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "和歌山県",
+      "area": "",
+      "name": "加太淡嶋温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "和歌山県",
+      "area": "",
+      "name": "夏山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "和歌山県",
+      "area": "",
+      "name": "月野瀬温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "和歌山県",
+      "area": "",
+      "name": "紀州黒潮温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鳥取県",
+      "area": "",
+      "name": "岩井温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鳥取県",
+      "area": "",
+      "name": "鳥取温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鳥取県",
+      "area": "",
+      "name": "浜村温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鳥取県",
+      "area": "",
+      "name": "皆生温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鳥取県",
+      "area": "",
+      "name": "鹿野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鳥取県",
+      "area": "",
+      "name": "吉岡温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鳥取県",
+      "area": "",
+      "name": "大山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鳥取県",
+      "area": "",
+      "name": "関金温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鳥取県",
+      "area": "",
+      "name": "東郷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鳥取県",
+      "area": "",
+      "name": "はわい温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鳥取県",
+      "area": "",
+      "name": "三朝温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鳥取県",
+      "area": "",
+      "name": "淀江ゆめ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鳥取県",
+      "area": "",
+      "name": "岸本温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鳥取県",
+      "area": "",
+      "name": "大山伽羅温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "島根県",
+      "area": "出雲地方",
+      "name": "玉造温泉",
+      "notes": "三名泉"
+    },
+    {
+      "prefecture": "島根県",
+      "area": "出雲地方",
+      "name": "来待温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "島根県",
+      "area": "出雲地方",
+      "name": "湯の川温泉",
+      "notes": "三大美人湯"
+    },
+    {
+      "prefecture": "島根県",
+      "area": "出雲地方",
+      "name": "鷺ノ湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "島根県",
+      "area": "出雲地方",
+      "name": "松江しんじ湖温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "島根県",
+      "area": "出雲地方",
+      "name": "出雲湯村温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "島根県",
+      "area": "出雲地方",
+      "name": "海潮温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "島根県",
+      "area": "出雲地方",
+      "name": "比田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "島根県",
+      "area": "出雲地方",
+      "name": "斐乃上温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "島根県",
+      "area": "出雲地方",
+      "name": "広瀬温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "島根県",
+      "area": "石見地方",
+      "name": "温泉津温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "島根県",
+      "area": "石見地方",
+      "name": "有福温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "島根県",
+      "area": "石見地方",
+      "name": "美又温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "島根県",
+      "area": "石見地方",
+      "name": "三瓶温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "島根県",
+      "area": "石見地方",
+      "name": "旭温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "島根県",
+      "area": "石見地方",
+      "name": "風の国温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "島根県",
+      "area": "石見地方",
+      "name": "湯谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "島根県",
+      "area": "石見地方",
+      "name": "千原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "島根県",
+      "area": "石見地方",
+      "name": "大谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "島根県",
+      "area": "石見地方",
+      "name": "隠岐温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "島根県",
+      "area": "石見地方",
+      "name": "湯抱温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岡山県",
+      "area": "",
+      "name": "あわくら温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岡山県",
+      "area": "",
+      "name": "奥津温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岡山県",
+      "area": "",
+      "name": "小森温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岡山県",
+      "area": "",
+      "name": "苫田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岡山県",
+      "area": "",
+      "name": "八幡温泉郷",
+      "notes": ""
+    },
+    {
+      "prefecture": "岡山県",
+      "area": "",
+      "name": "湯郷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岡山県",
+      "area": "",
+      "name": "湯原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岡山県",
+      "area": "",
+      "name": "湯の瀬温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岡山県",
+      "area": "",
+      "name": "湯迫温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岡山県",
+      "area": "",
+      "name": "吉備路温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岡山県",
+      "area": "",
+      "name": "和気鵜飼谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岡山県",
+      "area": "",
+      "name": "大芦高原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岡山県",
+      "area": "",
+      "name": "作州武蔵温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岡山県",
+      "area": "",
+      "name": "倉敷由加温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "岡山県",
+      "area": "",
+      "name": "鷲羽山吹上温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "広島県",
+      "area": "",
+      "name": "湯来温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "広島県",
+      "area": "",
+      "name": "湯坂温泉郷",
+      "notes": ""
+    },
+    {
+      "prefecture": "広島県",
+      "area": "",
+      "name": "湯の山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "広島県",
+      "area": "",
+      "name": "君田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "広島県",
+      "area": "",
+      "name": "宮浜温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "広島県",
+      "area": "",
+      "name": "矢野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "広島県",
+      "area": "",
+      "name": "鞆の浦温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "広島県",
+      "area": "",
+      "name": "三段峡温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "広島県",
+      "area": "",
+      "name": "きのえ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "広島県",
+      "area": "",
+      "name": "潮原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "広島県",
+      "area": "",
+      "name": "養老温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "広島県",
+      "area": "",
+      "name": "女鹿平温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "周防地方",
+      "name": "鶴ヶ浜温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "周防地方",
+      "name": "三丘温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "周防地方",
+      "name": "湯野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "周防地方",
+      "name": "湯田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "周防地方",
+      "name": "鳴滝温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "周防地方",
+      "name": "片倉温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "周防地方",
+      "name": "阿知須温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "周防地方",
+      "name": "雙津峡温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "周防地方",
+      "name": "錦帯橋温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "周防地方",
+      "name": "室積温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "一ノ俣温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "湯谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "川棚温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "王司温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "大河内温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "菊川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "下関つくの温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "津波敷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "西ノ市温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "日乃出温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "吉見温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "吉田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "江汐湖温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "王喜温泉・糸根温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "くすのき温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "持世寺温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "黄波戸温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "湯免温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "長門湯本温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "俵山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "油谷湾温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "阿武川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "萩本陣温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "千春楽温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "湯ノ口温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "於福温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "秋穂温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "長門峡温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "山口県",
+      "area": "長門地方",
+      "name": "日野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "徳島県",
+      "area": "",
+      "name": "祖谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "徳島県",
+      "area": "",
+      "name": "新祖谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "徳島県",
+      "area": "",
+      "name": "大歩危温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "徳島県",
+      "area": "",
+      "name": "紅葉温泉",
+      "notes": "もみじ川温泉"
+    },
+    {
+      "prefecture": "徳島県",
+      "area": "",
+      "name": "鷲敷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "徳島県",
+      "area": "",
+      "name": "四季美谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "徳島県",
+      "area": "",
+      "name": "宍喰温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "徳島県",
+      "area": "",
+      "name": "船瀬温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "徳島県",
+      "area": "",
+      "name": "神山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "徳島県",
+      "area": "",
+      "name": "八万温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "徳島県",
+      "area": "",
+      "name": "月ヶ谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "徳島県",
+      "area": "",
+      "name": "鳴門温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "香川県",
+      "area": "",
+      "name": "塩江温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "香川県",
+      "area": "",
+      "name": "美霞洞温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "香川県",
+      "area": "",
+      "name": "こんぴら温泉郷",
+      "notes": ""
+    },
+    {
+      "prefecture": "香川県",
+      "area": "",
+      "name": "小豆島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "香川県",
+      "area": "",
+      "name": "四国高松温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "香川県",
+      "area": "",
+      "name": "庵治温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "香川県",
+      "area": "",
+      "name": "花樹海温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "香川県",
+      "area": "",
+      "name": "薬師湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "香川県",
+      "area": "",
+      "name": "美合温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "香川県",
+      "area": "",
+      "name": "白峰温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛媛県",
+      "area": "",
+      "name": "道後温泉郷道後温泉奥道後温泉東道後温泉媛彦温泉星乃岡温泉久米之癒東道後のそらともり南道後温泉道後さや温泉権現温泉見奈良温泉川内温泉とべ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛媛県",
+      "area": "",
+      "name": "鈍川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛媛県",
+      "area": "",
+      "name": "湯ノ浦温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛媛県",
+      "area": "",
+      "name": "本谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛媛県",
+      "area": "",
+      "name": "湯之谷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛媛県",
+      "area": "",
+      "name": "別子温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛媛県",
+      "area": "",
+      "name": "多々羅温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛媛県",
+      "area": "",
+      "name": "小薮温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛媛県",
+      "area": "",
+      "name": "佐田岬亀ヶ池温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛媛県",
+      "area": "",
+      "name": "古岩屋温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛媛県",
+      "area": "",
+      "name": "宝泉坊温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "高知県",
+      "area": "",
+      "name": "北川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "高知県",
+      "area": "",
+      "name": "足摺温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "高知県",
+      "area": "",
+      "name": "用井温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "高知県",
+      "area": "",
+      "name": "べふ峡温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "高知県",
+      "area": "",
+      "name": "馬路温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "高知県",
+      "area": "",
+      "name": "よさこい温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "高知県",
+      "area": "",
+      "name": "松葉川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "高知県",
+      "area": "",
+      "name": "高知三翠園温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "高知県",
+      "area": "",
+      "name": "龍河温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "高知県",
+      "area": "",
+      "name": "黒潮本陣温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "高知県",
+      "area": "",
+      "name": "木の香温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "高知県",
+      "area": "",
+      "name": "土佐龍温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "高知県",
+      "area": "",
+      "name": "桑田山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福岡県",
+      "area": "",
+      "name": "博多温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福岡県",
+      "area": "",
+      "name": "船小屋温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福岡県",
+      "area": "",
+      "name": "原鶴温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福岡県",
+      "area": "",
+      "name": "薬王寺温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福岡県",
+      "area": "",
+      "name": "所田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福岡県",
+      "area": "",
+      "name": "吉井温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福岡県",
+      "area": "",
+      "name": "脇田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福岡県",
+      "area": "",
+      "name": "二日市温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福岡県",
+      "area": "",
+      "name": "筑後川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福岡県",
+      "area": "",
+      "name": "柿下温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福岡県",
+      "area": "",
+      "name": "方城温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福岡県",
+      "area": "",
+      "name": "源じいの森温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福岡県",
+      "area": "",
+      "name": "日王の湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福岡県",
+      "area": "",
+      "name": "松原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福岡県",
+      "area": "",
+      "name": "玄海さつき温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "福岡県",
+      "area": "",
+      "name": "求菩提温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "佐賀県",
+      "area": "",
+      "name": "嬉野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "佐賀県",
+      "area": "",
+      "name": "武雄温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "佐賀県",
+      "area": "",
+      "name": "太良温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "佐賀県",
+      "area": "",
+      "name": "熊の川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "佐賀県",
+      "area": "",
+      "name": "古湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "佐賀県",
+      "area": "",
+      "name": "川上峡温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "佐賀県",
+      "area": "",
+      "name": "小城温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "佐賀県",
+      "area": "",
+      "name": "いろは島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "佐賀県",
+      "area": "",
+      "name": "唐津温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "佐賀県",
+      "area": "",
+      "name": "とりごえ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長崎県",
+      "area": "",
+      "name": "雲仙温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長崎県",
+      "area": "",
+      "name": "小浜温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長崎県",
+      "area": "",
+      "name": "島原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長崎県",
+      "area": "",
+      "name": "壱岐湯ノ本温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長崎県",
+      "area": "",
+      "name": "荒川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長崎県",
+      "area": "",
+      "name": "波佐見温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長崎県",
+      "area": "",
+      "name": "平戸温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長崎県",
+      "area": "",
+      "name": "長崎温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長崎県",
+      "area": "",
+      "name": "稲佐山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "長崎県",
+      "area": "",
+      "name": "琴乃湯",
+      "notes": ""
+    },
+    {
+      "prefecture": "長崎県",
+      "area": "",
+      "name": "世知原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "熊本県",
+      "area": "",
+      "name": "阿蘇温泉郷阿蘇内牧温泉阿蘇赤水温泉地獄温泉垂玉温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "熊本県",
+      "area": "",
+      "name": "南小国温泉郷黒川温泉満願寺温泉田の原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "熊本県",
+      "area": "",
+      "name": "杖立温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "熊本県",
+      "area": "",
+      "name": "奴留湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "熊本県",
+      "area": "",
+      "name": "わいた温泉郷峐の湯温泉岳の湯温泉鈴ヶ谷温泉地獄谷温泉麻生釣温泉山川温泉守護陣温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "熊本県",
+      "area": "",
+      "name": "山鹿温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "熊本県",
+      "area": "",
+      "name": "熊入温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "熊本県",
+      "area": "",
+      "name": "玉名温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "熊本県",
+      "area": "",
+      "name": "菊池温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "熊本県",
+      "area": "",
+      "name": "三加和温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "熊本県",
+      "area": "",
+      "name": "平山温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "熊本県",
+      "area": "",
+      "name": "下田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "熊本県",
+      "area": "",
+      "name": "松島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "熊本県",
+      "area": "",
+      "name": "弓ヶ浜温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "熊本県",
+      "area": "",
+      "name": "植木温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "熊本県",
+      "area": "",
+      "name": "湯の児温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "熊本県",
+      "area": "",
+      "name": "湯の鶴温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "熊本県",
+      "area": "",
+      "name": "日奈久温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "熊本県",
+      "area": "",
+      "name": "人吉温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "熊本県",
+      "area": "",
+      "name": "湯浦温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "熊本県",
+      "area": "",
+      "name": "計石温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "熊本県",
+      "area": "",
+      "name": "小天温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "熊本県",
+      "area": "",
+      "name": "河内温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大分県",
+      "area": "別府市・由布市",
+      "name": "別府温泉",
+      "notes": "別府八湯 別府温泉浜脇温泉観海寺温泉堀田温泉明礬温泉鉄輪温泉柴石温泉亀川温泉"
+    },
+    {
+      "prefecture": "大分県",
+      "area": "別府市・由布市",
+      "name": "塚原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大分県",
+      "area": "別府市・由布市",
+      "name": "由布院温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大分県",
+      "area": "別府市・由布市",
+      "name": "湯平温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大分県",
+      "area": "大分市",
+      "name": "大深度地熱温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大分県",
+      "area": "日田市",
+      "name": "天ヶ瀬温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大分県",
+      "area": "日田市",
+      "name": "湯ノ釣温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大分県",
+      "area": "日田市",
+      "name": "日田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大分県",
+      "area": "竹田市",
+      "name": "長湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大分県",
+      "area": "竹田市",
+      "name": "七里田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大分県",
+      "area": "竹田市",
+      "name": "法華院温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大分県",
+      "area": "竹田市",
+      "name": "赤川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大分県",
+      "area": "竹田市",
+      "name": "三船温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大分県",
+      "area": "竹田市",
+      "name": "久住高原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大分県",
+      "area": "竹田市",
+      "name": "紅殻之湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大分県",
+      "area": "竹田市",
+      "name": "満天望温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大分県",
+      "area": "竹田市",
+      "name": "荻の里温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大分県",
+      "area": "杵築市",
+      "name": "山香温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大分県",
+      "area": "九重町",
+      "name": "九重九湯宝泉寺温泉筋湯温泉川底温泉竜門温泉湯坪温泉壁湯温泉筌の口温泉長者原温泉寒の地獄",
+      "notes": ""
+    },
+    {
+      "prefecture": "大分県",
+      "area": "九重町",
+      "name": "九酔渓温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大分県",
+      "area": "九重町",
+      "name": "星生温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大分県",
+      "area": "九重町",
+      "name": "牧の戸温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大分県",
+      "area": "九重町",
+      "name": "馬子草温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大分県",
+      "area": "豊後高田市",
+      "name": "くにさき六郷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "大分県",
+      "area": "東国東郡",
+      "name": "拍子水温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "北部平野部",
+      "name": "祝子川温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "北部平野部",
+      "name": "",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "北部平野部",
+      "name": "日向サンパーク温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "北部平野部",
+      "name": "木城温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "北部平野部",
+      "name": "新富温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "北部平野部",
+      "name": "高鍋温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "北部平野部",
+      "name": "高屋温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "北部平野部",
+      "name": "さいと温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "北部山沿い",
+      "name": "高千穂温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "北部山沿い",
+      "name": "天岩戸温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "北部山沿い",
+      "name": "日之影温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "北部山沿い",
+      "name": "",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "北部山沿い",
+      "name": "南郷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "北部山沿い",
+      "name": "さいごう温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "南部平野部",
+      "name": "綾温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "南部平野部",
+      "name": "",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "南部平野部",
+      "name": "清武温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "南部平野部",
+      "name": "木花温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "南部平野部",
+      "name": "青島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "南部平野部",
+      "name": "宮崎温泉宮崎温泉 自然の湯",
+      "notes": "極楽湯 宮崎リゾート温泉 たまゆらの湯（たまゆら温泉）"
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "南部平野部",
+      "name": "北郷温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "南部平野部",
+      "name": "串間温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "南部山沿い",
+      "name": "京町温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "南部山沿い",
+      "name": "えびの高原温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "南部山沿い",
+      "name": "吉田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "南部山沿い",
+      "name": "白鳥温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "南部山沿い",
+      "name": "湯之元温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "南部山沿い",
+      "name": "青井岳温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮崎県",
+      "area": "南部山沿い",
+      "name": "",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "九州島",
+      "name": "霧島温泉郷湯之谷温泉丸尾温泉栄之尾温泉霧島神宮温泉栗野岳温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "九州島",
+      "name": "指宿温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "九州島",
+      "name": "伏目温泉",
+      "notes": "山川温泉"
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "九州島",
+      "name": "開聞温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "九州島",
+      "name": "市比野温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "九州島",
+      "name": "入来温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "九州島",
+      "name": "湯之元温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "九州島",
+      "name": "新川渓谷温泉郷妙見温泉日当山温泉塩浸温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "九州島",
+      "name": "宮之城温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "九州島",
+      "name": "湯之尾温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "九州島",
+      "name": "川内高城温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "九州島",
+      "name": "紫尾温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "九州島",
+      "name": "吹上温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "九州島",
+      "name": "有村温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "九州島",
+      "name": "藺牟田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "九州島",
+      "name": "海潟温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "九州島",
+      "name": "古里温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "九州島",
+      "name": "重富温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "九州島",
+      "name": "鹿児島市街地の温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "九州島",
+      "name": "まつもと温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "九州島",
+      "name": "鰻温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "九州島",
+      "name": "阿久根温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "九州島",
+      "name": "根占温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "屋久島",
+      "name": "尾之間温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "屋久島",
+      "name": "屋久島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "屋久島",
+      "name": "平内海中温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "種子島",
+      "name": "種子島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "種子島",
+      "name": "種子島温泉 (中種子町)",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "種子島",
+      "name": "河内温泉 (鹿児島県)",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "硫黄島",
+      "name": "東温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "硫黄島",
+      "name": "坂本温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "口永良部島",
+      "name": "湯向温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "口永良部島",
+      "name": "寝待温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "悪石島",
+      "name": "湯泊温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "鹿児島県",
+      "area": "小宝島",
+      "name": "湯泊温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "沖縄県",
+      "area": "",
+      "name": "山田温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "沖縄県",
+      "area": "",
+      "name": "ちゃたん恵み温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "沖縄県",
+      "area": "",
+      "name": "中乃湯温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "沖縄県",
+      "area": "",
+      "name": "宮古島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "沖縄県",
+      "area": "",
+      "name": "シギラ温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "沖縄県",
+      "area": "",
+      "name": "西表島温泉",
+      "notes": ""
+    },
+    {
+      "prefecture": "沖縄県",
+      "area": "",
+      "name": "カンパネルラの湯",
+      "notes": ""
+    },
+    {
+      "prefecture": "沖縄県",
+      "area": "",
+      "name": "琉球温泉",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "日本の温泉地一覧 (Hot spring resorts of Japan) - Free Download",
+    "description": "全国の温泉地（温泉郷・温泉街）を都道府県・地域別にまとめた一覧。 Contains 1398 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の温泉地一覧 (Hot spring resorts of Japan) | ListBase",
+    "seo_description": "Download 日本の温泉地一覧 (Hot spring resorts of Japan) — 1398 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 1398 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B8%A9%E6%B3%89%E5%9C%B0%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}
