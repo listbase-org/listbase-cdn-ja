@@ -1,0 +1,745 @@
+{
+  "id": "ja-kohaku-shichoritsu",
+  "name": "NHK紅白歌合戦 歴代視聴率一覧 (NHK Kōhaku Uta Gassen ratings by year)",
+  "title": "NHK紅白歌合戦 歴代視聴率一覧 (NHK Kōhaku Uta Gassen ratings by year)",
+  "description": "NHK紅白歌合戦の各回の平均視聴率・歌手別最高視聴率・最高瞬間視聴率と、裏番組の最高視聴率の一覧。",
+  "category": "music",
+  "source": "https://ja.wikipedia.org/wiki/NHK%E7%B4%85%E7%99%BD%E6%AD%8C%E5%90%88%E6%88%A6%E3%81%AE%E4%B8%BB%E8%A6%81%E8%A8%98%E9%8C%B2%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/NHK%E7%B4%85%E7%99%BD%E6%AD%8C%E5%90%88%E6%88%A6%E3%81%AE%E4%B8%BB%E8%A6%81%E8%A8%98%E9%8C%B2%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 76,
+  "columns": [
+    {
+      "key": "edition",
+      "label": "Edition",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "string"
+    },
+    {
+      "key": "avg_rating",
+      "label": "Avg Rating",
+      "type": "string"
+    },
+    {
+      "key": "max_singer_rating",
+      "label": "Max Singer Rating",
+      "type": "string"
+    },
+    {
+      "key": "max_instant_rating",
+      "label": "Max Instant Rating",
+      "type": "string"
+    },
+    {
+      "key": "rival_program",
+      "label": "Rival Program",
+      "type": "string"
+    },
+    {
+      "key": "rival_station",
+      "label": "Rival Station",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edition": "第1回",
+      "year": "1951年",
+      "avg_rating": "記録なし",
+      "max_singer_rating": "記録なし",
+      "max_instant_rating": "記録なし",
+      "rival_program": "記録なし",
+      "rival_station": "記録なし"
+    },
+    {
+      "edition": "第2回",
+      "year": "1952年",
+      "avg_rating": "記録なし",
+      "max_singer_rating": "記録なし",
+      "max_instant_rating": "記録なし",
+      "rival_program": "記録なし",
+      "rival_station": "記録なし"
+    },
+    {
+      "edition": "第3回",
+      "year": "1953年",
+      "avg_rating": "記録なし",
+      "max_singer_rating": "記録なし",
+      "max_instant_rating": "記録なし",
+      "rival_program": "記録なし",
+      "rival_station": "記録なし"
+    },
+    {
+      "edition": "第4回",
+      "year": "1953年",
+      "avg_rating": "記録なし",
+      "max_singer_rating": "記録なし",
+      "max_instant_rating": "記録なし",
+      "rival_program": "記録なし",
+      "rival_station": "記録なし"
+    },
+    {
+      "edition": "第5回",
+      "year": "1954年",
+      "avg_rating": "記録なし",
+      "max_singer_rating": "記録なし",
+      "max_instant_rating": "記録なし",
+      "rival_program": "記録なし",
+      "rival_station": "記録なし"
+    },
+    {
+      "edition": "第6回",
+      "year": "1955年",
+      "avg_rating": "記録なし",
+      "max_singer_rating": "記録なし",
+      "max_instant_rating": "記録なし",
+      "rival_program": "記録なし",
+      "rival_station": "記録なし"
+    },
+    {
+      "edition": "第7回",
+      "year": "1956年",
+      "avg_rating": "記録なし",
+      "max_singer_rating": "記録なし",
+      "max_instant_rating": "記録なし",
+      "rival_program": "記録なし",
+      "rival_station": "記録なし"
+    },
+    {
+      "edition": "第8回",
+      "year": "1957年",
+      "avg_rating": "記録なし",
+      "max_singer_rating": "記録なし",
+      "max_instant_rating": "記録なし",
+      "rival_program": "記録なし",
+      "rival_station": "記録なし"
+    },
+    {
+      "edition": "第9回",
+      "year": "1958年",
+      "avg_rating": "記録なし",
+      "max_singer_rating": "記録なし",
+      "max_instant_rating": "記録なし",
+      "rival_program": "記録なし",
+      "rival_station": "記録なし"
+    },
+    {
+      "edition": "第10回",
+      "year": "1959年",
+      "avg_rating": "記録なし",
+      "max_singer_rating": "記録なし",
+      "max_instant_rating": "記録なし",
+      "rival_program": "記録なし",
+      "rival_station": "記録なし"
+    },
+    {
+      "edition": "第11回",
+      "year": "1960年",
+      "avg_rating": "記録なし",
+      "max_singer_rating": "記録なし",
+      "max_instant_rating": "記録なし",
+      "rival_program": "記録なし",
+      "rival_station": "記録なし"
+    },
+    {
+      "edition": "第12回",
+      "year": "1961年",
+      "avg_rating": "記録なし",
+      "max_singer_rating": "記録なし",
+      "max_instant_rating": "記録なし",
+      "rival_program": "記録なし",
+      "rival_station": "記録なし"
+    },
+    {
+      "edition": "第13回",
+      "year": "1962年",
+      "avg_rating": "80.4%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第14回",
+      "year": "1963年",
+      "avg_rating": "81.4%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第15回",
+      "year": "1964年",
+      "avg_rating": "72.0%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第16回",
+      "year": "1965年",
+      "avg_rating": "78.1%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第17回",
+      "year": "1966年",
+      "avg_rating": "74.0%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第18回",
+      "year": "1967年",
+      "avg_rating": "76.7%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第19回",
+      "year": "1968年",
+      "avg_rating": "76.9%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第20回",
+      "year": "1969年",
+      "avg_rating": "69.7%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第21回",
+      "year": "1970年",
+      "avg_rating": "77.0%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第22回",
+      "year": "1971年",
+      "avg_rating": "78.1%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第23回",
+      "year": "1972年",
+      "avg_rating": "80.6%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第24回",
+      "year": "1973年",
+      "avg_rating": "75.8%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第25回",
+      "year": "1974年",
+      "avg_rating": "74.8%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第26回",
+      "year": "1975年",
+      "avg_rating": "72.0%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第27回",
+      "year": "1976年",
+      "avg_rating": "74.6%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第28回",
+      "year": "1977年",
+      "avg_rating": "77.0%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第29回",
+      "year": "1978年",
+      "avg_rating": "72.2%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第30回",
+      "year": "1979年",
+      "avg_rating": "77.0%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第31回",
+      "year": "1980年",
+      "avg_rating": "71.1%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第32回",
+      "year": "1981年",
+      "avg_rating": "74.9%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第33回",
+      "year": "1982年",
+      "avg_rating": "69.9%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第34回",
+      "year": "1983年",
+      "avg_rating": "74.2%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第35回",
+      "year": "1984年",
+      "avg_rating": "78.1%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第36回",
+      "year": "1985年",
+      "avg_rating": "66.0%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "忠臣蔵 15.3%",
+      "rival_station": "日本テレビ"
+    },
+    {
+      "edition": "第37回",
+      "year": "1986年",
+      "avg_rating": "59.4%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "白虎隊 17.2%",
+      "rival_station": "日本テレビ"
+    },
+    {
+      "edition": "第38回",
+      "year": "1987年",
+      "avg_rating": "55.2%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第39回",
+      "year": "1988年",
+      "avg_rating": "53.9%",
+      "max_singer_rating": "不明",
+      "max_instant_rating": "不明",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第40回",
+      "year": "1989年",
+      "avg_rating": "1部 38.5% 2部 47.0%",
+      "max_singer_rating": "内藤やす子 54.8%",
+      "max_instant_rating": "56.5%",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第41回",
+      "year": "1990年",
+      "avg_rating": "1部 30.6% 2部 51.5%",
+      "max_singer_rating": "植木等 都はるみ 55.6%",
+      "max_instant_rating": "56.6%",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第42回",
+      "year": "1991年",
+      "avg_rating": "1部 34.9% 2部 51.5%",
+      "max_singer_rating": "谷村新司 58.5%",
+      "max_instant_rating": "谷村新司 58.5%",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第43回",
+      "year": "1992年",
+      "avg_rating": "1部 40.2% 2部 55.2%",
+      "max_singer_rating": "DREAMS COME TRUE 62.0%",
+      "max_instant_rating": "DREAMS COME TRUE 62.0%",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第44回",
+      "year": "1993年",
+      "avg_rating": "1部 42.4% 2部 50.1%",
+      "max_singer_rating": "小林幸子 55.6%",
+      "max_instant_rating": "小林幸子 55.6%",
+      "rival_program": "不明",
+      "rival_station": "不明"
+    },
+    {
+      "edition": "第45回",
+      "year": "1994年",
+      "avg_rating": "1部 40.1% 2部 51.5%",
+      "max_singer_rating": "前川清 56.2%",
+      "max_instant_rating": "前川清 56.2%",
+      "rival_program": "ダウンタウンの裏番組をブッ飛ばせ!! 15.3%",
+      "rival_station": "日本テレビ"
+    },
+    {
+      "edition": "第46回",
+      "year": "1995年",
+      "avg_rating": "1部 44.9% 2部 50.4%",
+      "max_singer_rating": "米米CLUB 60.3%",
+      "max_instant_rating": "米米CLUB 60.3%",
+      "rival_program": "裏番組をブッ飛ばせ!!'95大晦日スペシャル1部 13.2%",
+      "rival_station": "日本テレビ"
+    },
+    {
+      "edition": "第47回",
+      "year": "1996年",
+      "avg_rating": "1部 41.6% 2部 53.9%",
+      "max_singer_rating": "玉置浩二 59.9%",
+      "max_instant_rating": "玉置浩二 59.9%",
+      "rival_program": "料理の鉄人 大晦日おせち決戦 11.1%",
+      "rival_station": "フジテレビ"
+    },
+    {
+      "edition": "第48回",
+      "year": "1997年",
+      "avg_rating": "1部 40.2% 2部 50.7%",
+      "max_singer_rating": "安室奈美恵 59.1%",
+      "max_instant_rating": "安室奈美恵 59.1%",
+      "rival_program": "電波少年緊急特別番組 ドロンズ遂にアラスカゴール 15.9%",
+      "rival_station": "日本テレビ"
+    },
+    {
+      "edition": "第49回",
+      "year": "1998年",
+      "avg_rating": "1部 45.4% 2部 57.2%",
+      "max_singer_rating": "安室奈美恵 64.9%",
+      "max_instant_rating": "安室奈美恵 64.9%",
+      "rival_program": "ビートたけしの世紀末ノストラダムズ大予言 9.7%",
+      "rival_station": "テレビ朝日"
+    },
+    {
+      "edition": "第50回",
+      "year": "1999年",
+      "avg_rating": "1部 45.8% 2部 50.8%",
+      "max_singer_rating": "郷ひろみ 56.6%",
+      "max_instant_rating": "郷ひろみ 56.6%",
+      "rival_program": "雷電SPいけ年こい年1999〜2000 13.5%",
+      "rival_station": "日本テレビ"
+    },
+    {
+      "edition": "第51回",
+      "year": "2000年",
+      "avg_rating": "1部 39.2% 2部 48.4%",
+      "max_singer_rating": "小柳ゆき 小林幸子 SMAP 51.8%",
+      "max_instant_rating": "52.4%",
+      "rival_program": "ビートたけしの世界はこうしてダマされた 9.9%",
+      "rival_station": "テレビ朝日"
+    },
+    {
+      "edition": "第52回",
+      "year": "2001年",
+      "avg_rating": "1部 38.1% 2部 48.5%",
+      "max_singer_rating": "氷川きよし CHEMISTRY 52.4%",
+      "max_instant_rating": "氷川きよし CHEMISTRY 52.4%",
+      "rival_program": "INOKI BOM-BA-YE 2001 14.9%",
+      "rival_station": "TBS"
+    },
+    {
+      "edition": "第53回",
+      "year": "2002年",
+      "avg_rating": "1部 37.1% 2部 47.3%",
+      "max_singer_rating": "中島みゆき 52.8%",
+      "max_instant_rating": "中島みゆき 52.8%",
+      "rival_program": "INOKI BOM-BA-YE 2002 16.7%",
+      "rival_station": "TBS"
+    },
+    {
+      "edition": "第54回",
+      "year": "2003年",
+      "avg_rating": "1部 35.5% 2部 45.9%",
+      "max_singer_rating": "SMAP 57.1%",
+      "max_instant_rating": "SMAP 57.1%",
+      "rival_program": "K-1 PREMIUM 2003 Dynamite!! 19.5%",
+      "rival_station": "TBS"
+    },
+    {
+      "edition": "第55回",
+      "year": "2004年",
+      "avg_rating": "1部 30.8% 2部 39.3%",
+      "max_singer_rating": "天童よしみ 小林幸子 46.0%",
+      "max_instant_rating": "47.1%",
+      "rival_program": "K-1 PREMIUM 2004 Dynamite!! 20.1%",
+      "rival_station": "TBS"
+    },
+    {
+      "edition": "第56回",
+      "year": "2005年",
+      "avg_rating": "1部 35.4% 2部 42.9%",
+      "max_singer_rating": "SMAP 48.6%",
+      "max_instant_rating": "最終審査結果発表前 50.1%",
+      "rival_program": "PRIDE 男祭り 2005 17.0%",
+      "rival_station": "フジテレビ"
+    },
+    {
+      "edition": "第57回",
+      "year": "2006年",
+      "avg_rating": "前半 30.6% 後半 39.8%",
+      "max_singer_rating": "SMAP 48.8%",
+      "max_instant_rating": "SMAP 48.8%",
+      "rival_program": "K-1 PREMIUM 2006 Dynamite!!2部 19.9%",
+      "rival_station": "TBS"
+    },
+    {
+      "edition": "第58回",
+      "year": "2007年",
+      "avg_rating": "前半 32.8% 後半 39.5%",
+      "max_singer_rating": "SMAP 43.9%",
+      "max_instant_rating": "フィナーレ全員合唱 「世界に一つだけの花」 46.1%",
+      "rival_program": "K-1 PREMIUM 2007 Dynamite!!2部 14.7%",
+      "rival_station": "TBS"
+    },
+    {
+      "edition": "第59回",
+      "year": "2008年",
+      "avg_rating": "前半 35.7% 後半 42.1%",
+      "max_singer_rating": "羞恥心 with Pabo 47.8%",
+      "max_instant_rating": "結果発表直前のダイジェスト映像 50.0%",
+      "rival_program": "ダウンタウンのガキの使いやあらへんで!! 大晦日年越しスペシャル 第3部 15.4%",
+      "rival_station": "日本テレビ"
+    },
+    {
+      "edition": "第60回",
+      "year": "2009年",
+      "avg_rating": "前半 37.1% 後半 40.8%",
+      "max_singer_rating": "DREAMS COME TRUE 50.1%",
+      "max_instant_rating": "DREAMS COME TRUE 50.1%",
+      "rival_program": "Dynamite!! 〜勇気のチカラ2009〜2部 16.7%",
+      "rival_station": "TBS"
+    },
+    {
+      "edition": "第61回",
+      "year": "2010年",
+      "avg_rating": "前半 35.7% 後半 41.7%",
+      "max_singer_rating": "SMAP 48.9%",
+      "max_instant_rating": "最終審査結果発表前 49.7%",
+      "rival_program": "ダウンタウンのガキの使いやあらへんで!! 大晦日年越しスペシャル 第1部 15.3％",
+      "rival_station": "日本テレビ"
+    },
+    {
+      "edition": "第62回",
+      "year": "2011年",
+      "avg_rating": "前半 35.2% 後半 41.6%",
+      "max_singer_rating": "SMAP 48.2%",
+      "max_instant_rating": "最終審査結果発表前 49.7%",
+      "rival_program": "ダウンタウンのガキの使いやあらへんで!! 大晦日年越しスペシャル 第1部 18.7％",
+      "rival_station": "日本テレビ"
+    },
+    {
+      "edition": "第63回",
+      "year": "2012年",
+      "avg_rating": "前半 33.2% 後半 42.5%",
+      "max_singer_rating": "SMAP 49.4%",
+      "max_instant_rating": "最終審査結果発表前 50.8%",
+      "rival_program": "ダウンタウンのガキの使いやあらへんで!! 大晦日年越しスペシャル 第1部 16.8％",
+      "rival_station": "日本テレビ"
+    },
+    {
+      "edition": "第64回",
+      "year": "2013年",
+      "avg_rating": "前半 36.9% 後半 44.5%",
+      "max_singer_rating": "北島三郎 50.7%",
+      "max_instant_rating": "北島三郎 50.7%",
+      "rival_program": "ダウンタウンのガキの使いやあらへんで!! 大晦日年越しスペシャル 第1部 19.8％",
+      "rival_station": "日本テレビ"
+    },
+    {
+      "edition": "第65回",
+      "year": "2014年",
+      "avg_rating": "前半 35.1% 後半 42.2%",
+      "max_singer_rating": "松田聖子 47.5％",
+      "max_instant_rating": "松田聖子 47.5％",
+      "rival_program": "ダウンタウンのガキの使いやあらへんで!! 大晦日年越しスペシャル 第1部 18.7％",
+      "rival_station": "日本テレビ"
+    },
+    {
+      "edition": "第66回",
+      "year": "2015年",
+      "avg_rating": "前半 34.8% 後半 39.2%",
+      "max_singer_rating": "AKB48 43.4%",
+      "max_instant_rating": "結果発表直前のダイジェスト映像 45.1％",
+      "rival_program": "ダウンタウンのガキの使いやあらへんで!! 大晦日年越しスペシャル 第1部 17.6％",
+      "rival_station": "日本テレビ"
+    },
+    {
+      "edition": "第67回",
+      "year": "2016年",
+      "avg_rating": "前半 35.1% 後半 40.2%",
+      "max_singer_rating": "嵐 43.7％",
+      "max_instant_rating": "最終審査結果発表時 44.8％",
+      "rival_program": "ダウンタウンのガキの使いやあらへんで!! 大晦日年越しスペシャル 第1部 17.7％",
+      "rival_station": "日本テレビ"
+    },
+    {
+      "edition": "第68回",
+      "year": "2017年",
+      "avg_rating": "前半 35.8% 後半 39.4%",
+      "max_singer_rating": "安室奈美恵 48.4％",
+      "max_instant_rating": "安室奈美恵 48.4％",
+      "rival_program": "ダウンタウンのガキの使いやあらへんで! 大晦日年越しスペシャル 第1部 17.3％",
+      "rival_station": "日本テレビ"
+    },
+    {
+      "edition": "第69回",
+      "year": "2018年",
+      "avg_rating": "前半 37.7% 後半 41.5%",
+      "max_singer_rating": "サザンオールスターズ 45.3％",
+      "max_instant_rating": "最終審査結果発表時 45.5％",
+      "rival_program": "ダウンタウンのガキの使いやあらへんで! 大晦日年越しスペシャル 第1部 14.3％",
+      "rival_station": "日本テレビ"
+    },
+    {
+      "edition": "第70回",
+      "year": "2019年",
+      "avg_rating": "前半 34.7% 後半 37.3%",
+      "max_singer_rating": "嵐 40.8％",
+      "max_instant_rating": "結果発表直前のダイジェスト映像 42.3％",
+      "rival_program": "ダウンタウンのガキの使いやあらへんで! 大晦日年越しスペシャル 第1部 16.2％",
+      "rival_station": "日本テレビ"
+    },
+    {
+      "edition": "第71回",
+      "year": "2020年",
+      "avg_rating": "前半 34.2% 後半 40.3%",
+      "max_singer_rating": "嵐 47.2％",
+      "max_instant_rating": "嵐 47.2％",
+      "rival_program": "ダウンタウンのガキの使いやあらへんで! 大晦日年越しスペシャル 第1部 17.6%",
+      "rival_station": "日本テレビ"
+    },
+    {
+      "edition": "第72回",
+      "year": "2021年",
+      "avg_rating": "前半 31.5% 後半 34.3%",
+      "max_singer_rating": "MISIA 39.2%",
+      "max_instant_rating": "最終審査結果発表前 39.3％",
+      "rival_program": "ザワつく!大晦日一茂良純ちさ子の会 第1部 12.1%",
+      "rival_station": "テレビ朝日"
+    },
+    {
+      "edition": "第73回",
+      "year": "2022年",
+      "avg_rating": "前半 31.2% 後半 35.3%",
+      "max_singer_rating": "福山雅治 39.5%",
+      "max_instant_rating": "福山雅治 39.5%",
+      "rival_program": "ザワつく!大晦日一茂良純ちさ子の会 第1部 11.2%",
+      "rival_station": "テレビ朝日"
+    },
+    {
+      "edition": "第74回",
+      "year": "2023年",
+      "avg_rating": "前半 29.0% 後半 31.9%",
+      "max_singer_rating": "MISIA 34.8%",
+      "max_instant_rating": "最終審査結果発表時 36.7%",
+      "rival_program": "ザワつく!大晦日一茂良純ちさ子の会 第2部 12.3%",
+      "rival_station": "テレビ朝日"
+    },
+    {
+      "edition": "第75回",
+      "year": "2024年",
+      "avg_rating": "前半 29.0% 後半 32.7%",
+      "max_singer_rating": "MISIA 35.1%",
+      "max_instant_rating": "最終審査結果発表時 35.9%",
+      "rival_program": "ザワつく!大晦日一茂良純ちさ子の会 第2部 12.7%",
+      "rival_station": "テレビ朝日"
+    },
+    {
+      "edition": "第76回",
+      "year": "2025年",
+      "avg_rating": "前半 30.8% 後半 35.2%",
+      "max_singer_rating": "松田聖子 39.9%",
+      "max_instant_rating": "最終審査結果発表時 40.7％",
+      "rival_program": "",
+      "rival_station": ""
+    }
+  ],
+  "meta": {
+    "title": "NHK紅白歌合戦 歴代視聴率一覧 (NHK Kōhaku Uta Gassen ratings by year) - Free Download",
+    "description": "NHK紅白歌合戦の各回の平均視聴率・歌手別最高視聴率・最高瞬間視聴率と、裏番組の最高視聴率の一覧。 Contains 76 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "NHK紅白歌合戦 歴代視聴率一覧 (NHK Kōhaku Uta Gassen ratings by year) | ListBase",
+    "seo_description": "Download NHK紅白歌合戦 歴代視聴率一覧 (NHK Kōhaku Uta Gassen ratings by year) — 76 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 76 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/NHK%E7%B4%85%E7%99%BD%E6%AD%8C%E5%90%88%E6%88%A6%E3%81%AE%E4%B8%BB%E8%A6%81%E8%A8%98%E9%8C%B2%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:12:46.569Z",
-  "total_datasets": 495,
-  "total_records": 449565,
+  "generated": "2026-10-25T02:12:50.433Z",
+  "total_datasets": 496,
+  "total_records": 449641,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "politics",
@@ -6316,6 +6316,34 @@
         "xlsx": {
           "name": "ja-seirei-ichiran_JA.xlsx",
           "size": 277893
+        }
+      }
+    },
+    {
+      "id": "ja-kohaku-shichoritsu",
+      "name": "NHK紅白歌合戦 歴代視聴率一覧 (NHK Kōhaku Uta Gassen ratings by year)",
+      "category": "music",
+      "record_count": 76,
+      "columns": [
+        "edition",
+        "year",
+        "avg_rating",
+        "max_singer_rating",
+        "max_instant_rating",
+        "rival_program",
+        "rival_station"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/NHK%E7%B4%85%E7%99%BD%E6%AD%8C%E5%90%88%E6%88%A6%E3%81%AE%E4%B8%BB%E8%A6%81%E8%A8%98%E9%8C%B2%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 24778,
+      "files": {
+        "csv": {
+          "name": "ja-kohaku-shichoritsu_JA.csv",
+          "size": 9466
+        },
+        "xlsx": {
+          "name": "ja-kohaku-shichoritsu_JA.xlsx",
+          "size": 11144
         }
       }
     },
