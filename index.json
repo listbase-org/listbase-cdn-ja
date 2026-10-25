@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:10:54.315Z",
-  "total_datasets": 468,
-  "total_records": 437614,
+  "generated": "2026-10-25T02:10:58.072Z",
+  "total_datasets": 469,
+  "total_records": 437631,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "language",
@@ -5519,6 +5519,35 @@
         "xlsx": {
           "name": "ja-gengo-ichiran_JA.xlsx",
           "size": 24806
+        }
+      }
+    },
+    {
+      "id": "ja-kamakura-shikken",
+      "name": "鎌倉幕府 歴代執権一覧 (Shikken regents of the Kamakura shogunate)",
+      "category": "history",
+      "record_count": 17,
+      "columns": [
+        "order",
+        "name",
+        "rank",
+        "tenure",
+        "duration",
+        "age_at_death",
+        "family_notes",
+        "reading"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E5%9F%B7%E6%A8%A9",
+      "updated": "2026-10",
+      "size": 7688,
+      "files": {
+        "csv": {
+          "name": "ja-kamakura-shikken_JA.csv",
+          "size": 3014
+        },
+        "xlsx": {
+          "name": "ja-kamakura-shikken_JA.xlsx",
+          "size": 8344
         }
       }
     },

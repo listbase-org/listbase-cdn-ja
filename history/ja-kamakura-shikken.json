@@ -1,0 +1,236 @@
+{
+  "id": "ja-kamakura-shikken",
+  "name": "鎌倉幕府 歴代執権一覧 (Shikken regents of the Kamakura shogunate)",
+  "title": "鎌倉幕府 歴代執権一覧 (Shikken regents of the Kamakura shogunate)",
+  "description": "鎌倉幕府の歴代執権（北条氏）の一覧（代・氏名・読み・官位・在職期間・享年・出身家）。",
+  "category": "history",
+  "source": "https://ja.wikipedia.org/wiki/%E5%9F%B7%E6%A8%A9",
+  "source_url": "https://ja.wikipedia.org/wiki/%E5%9F%B7%E6%A8%A9",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "order",
+      "label": "Order",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "string"
+    },
+    {
+      "key": "tenure",
+      "label": "Tenure",
+      "type": "string"
+    },
+    {
+      "key": "duration",
+      "label": "Duration",
+      "type": "string"
+    },
+    {
+      "key": "age_at_death",
+      "label": "Age At Death",
+      "type": "number"
+    },
+    {
+      "key": "family_notes",
+      "label": "Family Notes",
+      "type": "string"
+    },
+    {
+      "key": "reading",
+      "label": "Reading",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "order": "1",
+      "name": "北条時政",
+      "rank": "従五位下 遠江守",
+      "tenure": "建仁3年（1203年）9月 - 元久2年（1205年）閏7月",
+      "duration": "1年",
+      "age_at_death": 78,
+      "family_notes": "北条氏",
+      "reading": "ほうじょう ときまさ"
+    },
+    {
+      "order": "2",
+      "name": "北条義時",
+      "rank": "従四位下 右京権大夫",
+      "tenure": "元久2年（1205年）閏7月 - 貞応3年（1224年）6月13日",
+      "duration": "18年",
+      "age_at_death": 62,
+      "family_notes": "北条氏（得宗家祖）",
+      "reading": "ほうじょう よしとき"
+    },
+    {
+      "order": "3",
+      "name": "北条泰時",
+      "rank": "正四位下 左京権大夫",
+      "tenure": "貞応3年（1224年）6月28日 - 仁治3年（1242年）6月15日",
+      "duration": "18年",
+      "age_at_death": 60,
+      "family_notes": "得宗家",
+      "reading": "ほうじょう やすとき"
+    },
+    {
+      "order": "4",
+      "name": "北条経時",
+      "rank": "正五位下 武蔵守",
+      "tenure": "仁治3年（1242年）6月16日 - 寛元4年（1246年）3月23日",
+      "duration": "3年",
+      "age_at_death": 23,
+      "family_notes": "得宗家",
+      "reading": "ほうじょう つねとき"
+    },
+    {
+      "order": "5",
+      "name": "北条時頼",
+      "rank": "正五位下 相模守",
+      "tenure": "寛元4年（1246年）3月23日 - 康元元年（1256年）11月22日",
+      "duration": "10年",
+      "age_at_death": 37,
+      "family_notes": "得宗家",
+      "reading": "ほうじょう ときより"
+    },
+    {
+      "order": "6",
+      "name": "北条長時",
+      "rank": "従五位上 武蔵守",
+      "tenure": "康元元年（1256年）11月22日 - 文永元年（1264年）7月3日",
+      "duration": "7年",
+      "age_at_death": 35,
+      "family_notes": "極楽寺流（赤橋流祖）",
+      "reading": "ほうじょう ながとき"
+    },
+    {
+      "order": "7",
+      "name": "北条政村",
+      "rank": "正四位下 左京権大夫",
+      "tenure": "文永元年（1264年）8月11日 - 文永5年（1268年）3月5日",
+      "duration": "3年",
+      "age_at_death": 69,
+      "family_notes": "得宗家（政村流祖）",
+      "reading": "ほうじょう まさむら"
+    },
+    {
+      "order": "8",
+      "name": "北条時宗",
+      "rank": "正五位下 相模守",
+      "tenure": "文永5年（1268年）3月5日 - 弘安7年（1284年）4月4日",
+      "duration": "16年",
+      "age_at_death": 34,
+      "family_notes": "得宗家",
+      "reading": "ほうじょう ときむね"
+    },
+    {
+      "order": "9",
+      "name": "北条貞時",
+      "rank": "従四位上 相模守",
+      "tenure": "弘安7年（1284年）7月7日 - 正安3年（1301年）8月22日",
+      "duration": "17年",
+      "age_at_death": 40,
+      "family_notes": "得宗家",
+      "reading": "ほうじょう さだとき"
+    },
+    {
+      "order": "10",
+      "name": "北条師時",
+      "rank": "従四位下 相模守",
+      "tenure": "正安3年（1301年）8月22日 - 応長元年（1311年）9月21日",
+      "duration": "10年",
+      "age_at_death": 37,
+      "family_notes": "得宗家宗政流",
+      "reading": "ほうじょう もろとき"
+    },
+    {
+      "order": "11",
+      "name": "北条宗宣",
+      "rank": "従四位下 陸奥守",
+      "tenure": "応長元年（1311年）10月3日 - 応長2年（1312年）5月29日",
+      "duration": "",
+      "age_at_death": 54,
+      "family_notes": "大仏流",
+      "reading": "ほうじょう むねのぶ"
+    },
+    {
+      "order": "12",
+      "name": "北条煕時",
+      "rank": "正五位下 相模守",
+      "tenure": "応長2年（1312年）6月2日 - 正和4年（1315年）7月12日",
+      "duration": "3年",
+      "age_at_death": 37,
+      "family_notes": "政村流",
+      "reading": "ほうじょう ひろとき"
+    },
+    {
+      "order": "13",
+      "name": "北条基時",
+      "rank": "正五位下 相模守",
+      "tenure": "正和4年（1315年）7月12日 - 正和5年（1316年）7月9日",
+      "duration": "1年",
+      "age_at_death": 48,
+      "family_notes": "普恩寺流",
+      "reading": "ほうじょう もととき"
+    },
+    {
+      "order": "14",
+      "name": "北条高時",
+      "rank": "従四位下 修理権大夫",
+      "tenure": "正和5年（1316年）7月10日 - 正中3年（1326年）2月13日",
+      "duration": "9年",
+      "age_at_death": 31,
+      "family_notes": "得宗家",
+      "reading": "ほうじょう たかとき"
+    },
+    {
+      "order": "15",
+      "name": "北条貞顕",
+      "rank": "従四位上 修理権大夫",
+      "tenure": "正中3年（1326年）3月16日 - 同3月26日",
+      "duration": "11日間",
+      "age_at_death": 56,
+      "family_notes": "金沢流",
+      "reading": "ほうじょう さだあき"
+    },
+    {
+      "order": "16",
+      "name": "北条守時",
+      "rank": "従四位上 相模守",
+      "tenure": "嘉暦元年（1326年）4月24日 - 元弘3年（1333年）5月18日",
+      "duration": "7年",
+      "age_at_death": 39,
+      "family_notes": "赤橋流",
+      "reading": "ほうじょう もりとき"
+    },
+    {
+      "order": "17?",
+      "name": "北条貞将",
+      "rank": "従五位下 武蔵守",
+      "tenure": "元弘3年（1333年）5月22日?",
+      "duration": "?",
+      "age_at_death": 32,
+      "family_notes": "金沢流",
+      "reading": "ほうじょう さだゆき"
+    }
+  ],
+  "meta": {
+    "title": "鎌倉幕府 歴代執権一覧 (Shikken regents of the Kamakura shogunate) - Free Download",
+    "description": "鎌倉幕府の歴代執権（北条氏）の一覧（代・氏名・読み・官位・在職期間・享年・出身家）。 Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "鎌倉幕府 歴代執権一覧 (Shikken regents of the Kamakura shogunate) | ListBase",
+    "seo_description": "Download 鎌倉幕府 歴代執権一覧 (Shikken regents of the Kamakura shogunate) — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E5%9F%B7%E6%A8%A9"
+    ]
+  }
+}
