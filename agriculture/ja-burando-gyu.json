@@ -1,0 +1,776 @@
+{
+  "id": "ja-burando-gyu",
+  "name": "日本のブランド牛（銘柄牛）一覧 (Japanese beef brands)",
+  "title": "日本のブランド牛（銘柄牛）一覧 (Japanese beef brands)",
+  "description": "神戸牛・松阪牛など、日本各地のブランド牛（銘柄牛・和牛ブランド）を都道府県別にまとめた一覧。",
+  "category": "agriculture",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E7%89%9B%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E7%89%9B%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 185,
+  "columns": [
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "prefecture": "北海道",
+      "name": "はやきた和牛"
+    },
+    {
+      "prefecture": "北海道",
+      "name": "知床牛"
+    },
+    {
+      "prefecture": "北海道",
+      "name": "十勝和牛"
+    },
+    {
+      "prefecture": "北海道",
+      "name": "北勝牛"
+    },
+    {
+      "prefecture": "北海道",
+      "name": "みついし牛"
+    },
+    {
+      "prefecture": "北海道",
+      "name": "ふらの大地和牛"
+    },
+    {
+      "prefecture": "北海道",
+      "name": "ふらの和牛"
+    },
+    {
+      "prefecture": "北海道",
+      "name": "かみふらの和牛"
+    },
+    {
+      "prefecture": "北海道",
+      "name": "北海道和牛"
+    },
+    {
+      "prefecture": "北海道",
+      "name": "北見和牛"
+    },
+    {
+      "prefecture": "北海道",
+      "name": "びらとり和牛"
+    },
+    {
+      "prefecture": "北海道",
+      "name": "生田原高原和牛"
+    },
+    {
+      "prefecture": "北海道",
+      "name": "白老牛"
+    },
+    {
+      "prefecture": "北海道",
+      "name": "音更町すずらん和牛"
+    },
+    {
+      "prefecture": "北海道",
+      "name": "北海道オホーツクあばしり和牛"
+    },
+    {
+      "prefecture": "北海道",
+      "name": "とうや湖和牛"
+    },
+    {
+      "prefecture": "北海道",
+      "name": "流氷牛"
+    },
+    {
+      "prefecture": "北海道",
+      "name": "つべつ和牛"
+    },
+    {
+      "prefecture": "北海道",
+      "name": "十勝ナイタイ和牛"
+    },
+    {
+      "prefecture": "北海道",
+      "name": "宗谷黒牛"
+    },
+    {
+      "prefecture": "北海道",
+      "name": "別海和牛"
+    },
+    {
+      "prefecture": "北海道",
+      "name": "大雪高原牛"
+    },
+    {
+      "prefecture": "北海道",
+      "name": "別海牛"
+    },
+    {
+      "prefecture": "青森県",
+      "name": "あおもり倉石牛"
+    },
+    {
+      "prefecture": "青森県",
+      "name": "あおもり十和田湖和牛"
+    },
+    {
+      "prefecture": "青森県",
+      "name": "とわだ短角牛"
+    },
+    {
+      "prefecture": "青森県",
+      "name": "深浦牛"
+    },
+    {
+      "prefecture": "岩手県",
+      "name": "前沢牛いわて奥州牛水沢牛胆沢牛衣川牛金ケ崎牛"
+    },
+    {
+      "prefecture": "岩手県",
+      "name": "いわて牛"
+    },
+    {
+      "prefecture": "岩手県",
+      "name": "いわて短角和牛"
+    },
+    {
+      "prefecture": "岩手県",
+      "name": "江刺牛"
+    },
+    {
+      "prefecture": "岩手県",
+      "name": "岩手しわ牛"
+    },
+    {
+      "prefecture": "岩手県",
+      "name": "岩手とうわ牛"
+    },
+    {
+      "prefecture": "岩手県",
+      "name": "いわてきたかみ牛"
+    },
+    {
+      "prefecture": "岩手県",
+      "name": "いわて南牛"
+    },
+    {
+      "prefecture": "秋田県",
+      "name": "秋田牛"
+    },
+    {
+      "prefecture": "秋田県",
+      "name": "かづの牛"
+    },
+    {
+      "prefecture": "秋田県",
+      "name": "三梨牛"
+    },
+    {
+      "prefecture": "秋田県",
+      "name": "秋田由利牛"
+    },
+    {
+      "prefecture": "秋田県",
+      "name": "秋田錦牛"
+    },
+    {
+      "prefecture": "秋田県",
+      "name": "羽後牛"
+    },
+    {
+      "prefecture": "秋田県",
+      "name": "皆瀬牛"
+    },
+    {
+      "prefecture": "宮城県",
+      "name": "仙台牛"
+    },
+    {
+      "prefecture": "宮城県",
+      "name": "若柳牛"
+    },
+    {
+      "prefecture": "宮城県",
+      "name": "石越牛"
+    },
+    {
+      "prefecture": "宮城県",
+      "name": "はさま牛"
+    },
+    {
+      "prefecture": "宮城県",
+      "name": "三陸金華和牛"
+    },
+    {
+      "prefecture": "山形県",
+      "name": "米沢牛"
+    },
+    {
+      "prefecture": "山形県",
+      "name": "尾花沢牛"
+    },
+    {
+      "prefecture": "山形県",
+      "name": "山形牛"
+    },
+    {
+      "prefecture": "山形県",
+      "name": "最上牛"
+    },
+    {
+      "prefecture": "福島県",
+      "name": "福島牛"
+    },
+    {
+      "prefecture": "福島県",
+      "name": "飯舘牛"
+    },
+    {
+      "prefecture": "福島県",
+      "name": "うねめ牛"
+    },
+    {
+      "prefecture": "茨城県",
+      "name": "筑波和牛"
+    },
+    {
+      "prefecture": "茨城県",
+      "name": "つくば山麓"
+    },
+    {
+      "prefecture": "茨城県",
+      "name": "飯村牛"
+    },
+    {
+      "prefecture": "茨城県",
+      "name": "常陸牛"
+    },
+    {
+      "prefecture": "茨城県",
+      "name": "紫峰牛"
+    },
+    {
+      "prefecture": "茨城県",
+      "name": "紬牛"
+    },
+    {
+      "prefecture": "茨城県",
+      "name": "花園牛"
+    },
+    {
+      "prefecture": "栃木県",
+      "name": "とちぎ和牛"
+    },
+    {
+      "prefecture": "栃木県",
+      "name": "とちぎ高原和牛"
+    },
+    {
+      "prefecture": "栃木県",
+      "name": "おやま和牛"
+    },
+    {
+      "prefecture": "栃木県",
+      "name": "那須和牛"
+    },
+    {
+      "prefecture": "栃木県",
+      "name": "かぬま和牛"
+    },
+    {
+      "prefecture": "栃木県",
+      "name": "さくら和牛"
+    },
+    {
+      "prefecture": "栃木県",
+      "name": "大田原牛"
+    },
+    {
+      "prefecture": "栃木県",
+      "name": "宇都宮牛"
+    },
+    {
+      "prefecture": "群馬県",
+      "name": "上州和牛"
+    },
+    {
+      "prefecture": "埼玉県",
+      "name": "武州和牛"
+    },
+    {
+      "prefecture": "埼玉県",
+      "name": "深谷牛"
+    },
+    {
+      "prefecture": "埼玉県",
+      "name": "所沢牛"
+    },
+    {
+      "prefecture": "千葉県",
+      "name": "かずさ和牛"
+    },
+    {
+      "prefecture": "千葉県",
+      "name": "みやざわ和牛"
+    },
+    {
+      "prefecture": "千葉県",
+      "name": "しあわせ満天牛"
+    },
+    {
+      "prefecture": "千葉県",
+      "name": "千葉若潮牛"
+    },
+    {
+      "prefecture": "千葉県",
+      "name": "卯の花牛"
+    },
+    {
+      "prefecture": "千葉県",
+      "name": "みやざわ牛"
+    },
+    {
+      "prefecture": "千葉県",
+      "name": "しあわせ絆牛"
+    },
+    {
+      "prefecture": "千葉県",
+      "name": "ナイスビーフ"
+    },
+    {
+      "prefecture": "千葉県",
+      "name": "八千代黒牛"
+    },
+    {
+      "prefecture": "千葉県",
+      "name": "千葉しあわせ牛"
+    },
+    {
+      "prefecture": "千葉県",
+      "name": "八千代ビーフ"
+    },
+    {
+      "prefecture": "千葉県",
+      "name": "までい牛"
+    },
+    {
+      "prefecture": "東京都",
+      "name": "秋川牛"
+    },
+    {
+      "prefecture": "東京都",
+      "name": "東京黒毛和牛"
+    },
+    {
+      "prefecture": "神奈川県",
+      "name": "葉山牛"
+    },
+    {
+      "prefecture": "神奈川県",
+      "name": "横濱ビーフ"
+    },
+    {
+      "prefecture": "神奈川県",
+      "name": "市場発横浜牛"
+    },
+    {
+      "prefecture": "山梨県",
+      "name": "甲州牛"
+    },
+    {
+      "prefecture": "山梨県",
+      "name": "甲州産和牛"
+    },
+    {
+      "prefecture": "山梨県",
+      "name": "甲州ワインビーフ"
+    },
+    {
+      "prefecture": "長野県",
+      "name": "阿智黒毛和牛"
+    },
+    {
+      "prefecture": "長野県",
+      "name": "北信州美雪和牛"
+    },
+    {
+      "prefecture": "長野県",
+      "name": "りんごで育った信州牛"
+    },
+    {
+      "prefecture": "長野県",
+      "name": "ダボス牛(和牛間交雑)"
+    },
+    {
+      "prefecture": "新潟県",
+      "name": "にいがた和牛（村上牛）"
+    },
+    {
+      "prefecture": "新潟県",
+      "name": "くびき牛"
+    },
+    {
+      "prefecture": "富山県",
+      "name": "とやま和牛"
+    },
+    {
+      "prefecture": "富山県",
+      "name": "氷見牛"
+    },
+    {
+      "prefecture": "石川県",
+      "name": "能登牛"
+    },
+    {
+      "prefecture": "福井県",
+      "name": "若狭牛"
+    },
+    {
+      "prefecture": "静岡県",
+      "name": "遠州夢咲牛"
+    },
+    {
+      "prefecture": "静岡県",
+      "name": "特選和牛静岡そだち"
+    },
+    {
+      "prefecture": "静岡県",
+      "name": "しずおか和牛"
+    },
+    {
+      "prefecture": "静岡県",
+      "name": "伊豆牛"
+    },
+    {
+      "prefecture": "静岡県",
+      "name": "食通の静岡牛"
+    },
+    {
+      "prefecture": "愛知県",
+      "name": "みかわ牛"
+    },
+    {
+      "prefecture": "愛知県",
+      "name": "安城和牛"
+    },
+    {
+      "prefecture": "愛知県",
+      "name": "鳳来牛"
+    },
+    {
+      "prefecture": "愛知県",
+      "name": "知多牛"
+    },
+    {
+      "prefecture": "岐阜県",
+      "name": "飛騨牛"
+    },
+    {
+      "prefecture": "三重県",
+      "name": "松阪牛"
+    },
+    {
+      "prefecture": "三重県",
+      "name": "みえ黒毛和牛"
+    },
+    {
+      "prefecture": "三重県",
+      "name": "鈴鹿山麓和牛"
+    },
+    {
+      "prefecture": "三重県",
+      "name": "伊賀牛"
+    },
+    {
+      "prefecture": "三重県",
+      "name": "加茂牛"
+    },
+    {
+      "prefecture": "滋賀県",
+      "name": "近江牛"
+    },
+    {
+      "prefecture": "京都府",
+      "name": "京都肉"
+    },
+    {
+      "prefecture": "京都府",
+      "name": "京の肉"
+    },
+    {
+      "prefecture": "京都府",
+      "name": "亀岡牛"
+    },
+    {
+      "prefecture": "京都府",
+      "name": "丹波牛"
+    },
+    {
+      "prefecture": "大阪府",
+      "name": "大阪ウメビーフ"
+    },
+    {
+      "prefecture": "大阪府",
+      "name": "能勢黒牛"
+    },
+    {
+      "prefecture": "大阪府",
+      "name": "なにわ黒牛"
+    },
+    {
+      "prefecture": "奈良県",
+      "name": "大和牛"
+    },
+    {
+      "prefecture": "奈良県",
+      "name": "まほろば赤牛"
+    },
+    {
+      "prefecture": "和歌山県",
+      "name": "熊野牛"
+    },
+    {
+      "prefecture": "兵庫県",
+      "name": "但馬牛三田牛神戸牛"
+    },
+    {
+      "prefecture": "兵庫県",
+      "name": "丹波篠山牛"
+    },
+    {
+      "prefecture": "兵庫県",
+      "name": "淡路ビーフ"
+    },
+    {
+      "prefecture": "兵庫県",
+      "name": "加古川和牛"
+    },
+    {
+      "prefecture": "兵庫県",
+      "name": "黒田庄和牛"
+    },
+    {
+      "prefecture": "兵庫県",
+      "name": "湯村温泉但馬ビーフ"
+    },
+    {
+      "prefecture": "兵庫県",
+      "name": "本場但馬牛（本場経産但馬牛）"
+    },
+    {
+      "prefecture": "兵庫県",
+      "name": "田村牛"
+    },
+    {
+      "prefecture": "兵庫県",
+      "name": "志方牛"
+    },
+    {
+      "prefecture": "鳥取県",
+      "name": "鳥取和牛"
+    },
+    {
+      "prefecture": "鳥取県",
+      "name": "東伯和牛"
+    },
+    {
+      "prefecture": "鳥取県",
+      "name": "万葉牛"
+    },
+    {
+      "prefecture": "島根県",
+      "name": "潮凪牛"
+    },
+    {
+      "prefecture": "島根県",
+      "name": "いずも和牛"
+    },
+    {
+      "prefecture": "島根県",
+      "name": "石見和牛肉"
+    },
+    {
+      "prefecture": "島根県",
+      "name": "島生まれ島育ち隠岐牛"
+    },
+    {
+      "prefecture": "島根県",
+      "name": "銀山和牛"
+    },
+    {
+      "prefecture": "岡山県",
+      "name": "つやま和牛"
+    },
+    {
+      "prefecture": "岡山県",
+      "name": "おかやま和牛肉"
+    },
+    {
+      "prefecture": "岡山県",
+      "name": "千屋牛"
+    },
+    {
+      "prefecture": "広島県",
+      "name": "広島牛"
+    },
+    {
+      "prefecture": "広島県",
+      "name": "神石牛"
+    },
+    {
+      "prefecture": "山口県",
+      "name": "高森和牛"
+    },
+    {
+      "prefecture": "山口県",
+      "name": "見島牛※日本在来牛"
+    },
+    {
+      "prefecture": "山口県",
+      "name": "皇牛※見島牛と黒毛和種の交雑種"
+    },
+    {
+      "prefecture": "山口県",
+      "name": "高森交雑牛"
+    },
+    {
+      "prefecture": "香川県",
+      "name": "讃岐牛"
+    },
+    {
+      "prefecture": "香川県",
+      "name": "オリーブ牛"
+    },
+    {
+      "prefecture": "徳島県",
+      "name": "阿波牛"
+    },
+    {
+      "prefecture": "徳島県",
+      "name": "阿波華牛"
+    },
+    {
+      "prefecture": "愛媛県",
+      "name": "伊予牛 絹の味"
+    },
+    {
+      "prefecture": "高知県",
+      "name": "土佐あかうし"
+    },
+    {
+      "prefecture": "福岡県",
+      "name": "小倉牛"
+    },
+    {
+      "prefecture": "福岡県",
+      "name": "金川牛"
+    },
+    {
+      "prefecture": "福岡県",
+      "name": "筑穂牛"
+    },
+    {
+      "prefecture": "福岡県",
+      "name": "博多和牛"
+    },
+    {
+      "prefecture": "福岡県",
+      "name": "むなかた牛"
+    },
+    {
+      "prefecture": "福岡県",
+      "name": "赤崎牛"
+    },
+    {
+      "prefecture": "福岡県",
+      "name": "やきやま高原ビーフ"
+    },
+    {
+      "prefecture": "佐賀県",
+      "name": "佐賀牛"
+    },
+    {
+      "prefecture": "佐賀県",
+      "name": "佐賀産和牛"
+    },
+    {
+      "prefecture": "長崎県",
+      "name": "長崎和牛平戸牛雲仙牛壱岐牛五島牛"
+    },
+    {
+      "prefecture": "大分県",
+      "name": "おおいた豊後牛"
+    },
+    {
+      "prefecture": "熊本県",
+      "name": "くまもと黒毛和牛"
+    },
+    {
+      "prefecture": "宮崎県",
+      "name": "宮崎牛"
+    },
+    {
+      "prefecture": "鹿児島県",
+      "name": "鹿児島黒牛"
+    },
+    {
+      "prefecture": "鹿児島県",
+      "name": "石原牛"
+    },
+    {
+      "prefecture": "鹿児島県",
+      "name": "口之島牛※日本在来牛"
+    },
+    {
+      "prefecture": "沖縄県",
+      "name": "石垣牛"
+    },
+    {
+      "prefecture": "沖縄県",
+      "name": "おきなわ和牛"
+    },
+    {
+      "prefecture": "沖縄県",
+      "name": "もとぶ牛"
+    },
+    {
+      "prefecture": "沖縄県",
+      "name": "宮古牛"
+    },
+    {
+      "prefecture": "沖縄県",
+      "name": "伊江島和牛"
+    },
+    {
+      "prefecture": "沖縄県",
+      "name": "大福牛(宮古島)"
+    },
+    {
+      "prefecture": "沖縄県",
+      "name": "どなん和牛"
+    },
+    {
+      "prefecture": "沖縄県",
+      "name": "美崎牛"
+    }
+  ],
+  "meta": {
+    "title": "日本のブランド牛（銘柄牛）一覧 (Japanese beef brands) - Free Download",
+    "description": "神戸牛・松阪牛など、日本各地のブランド牛（銘柄牛・和牛ブランド）を都道府県別にまとめた一覧。 Contains 185 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本のブランド牛（銘柄牛）一覧 (Japanese beef brands) | ListBase",
+    "seo_description": "Download 日本のブランド牛（銘柄牛）一覧 (Japanese beef brands) — 185 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 185 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E7%89%9B%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}

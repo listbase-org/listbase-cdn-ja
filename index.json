@@ -1,12 +1,12 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:11:55.348Z",
-  "total_datasets": 483,
-  "total_records": 442383,
+  "generated": "2026-10-25T02:11:59.254Z",
+  "total_datasets": 484,
+  "total_records": 442568,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -98,6 +98,29 @@
     }
   ],
   "datasets": [
+    {
+      "id": "ja-burando-gyu",
+      "name": "日本のブランド牛（銘柄牛）一覧 (Japanese beef brands)",
+      "category": "agriculture",
+      "record_count": 185,
+      "columns": [
+        "prefecture",
+        "name"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E7%89%9B%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 16274,
+      "files": {
+        "csv": {
+          "name": "ja-burando-gyu_JA.csv",
+          "size": 5622
+        },
+        "xlsx": {
+          "name": "ja-burando-gyu_JA.xlsx",
+          "size": 10580
+        }
+      }
+    },
     {
       "id": "ja-chiriteki-hyoji",
       "name": "日本の地理的表示（GI）登録産品一覧 (Japan Geographical Indications)",
