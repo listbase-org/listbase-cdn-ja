@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:11:31.663Z",
-  "total_datasets": 477,
-  "total_records": 439134,
+  "generated": "2026-10-25T02:11:35.498Z",
+  "total_datasets": 478,
+  "total_records": 439209,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "society",
@@ -13162,6 +13162,31 @@
         "xlsx": {
           "name": "ja-gakkai-ichiran_JA.xlsx",
           "size": 9855
+        }
+      }
+    },
+    {
+      "id": "ja-kishocho-meimei-gensho",
+      "name": "気象庁が命名した自然現象一覧 (Natural phenomena named by the JMA)",
+      "category": "science",
+      "record_count": 75,
+      "columns": [
+        "kind",
+        "name",
+        "date",
+        "notes"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%B0%97%E8%B1%A1%E5%BA%81%E3%81%8C%E5%91%BD%E5%90%8D%E3%81%97%E3%81%9F%E8%87%AA%E7%84%B6%E7%8F%BE%E8%B1%A1%E3%81%AE%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 15236,
+      "files": {
+        "csv": {
+          "name": "ja-kishocho-meimei-gensho_JA.csv",
+          "size": 7655
+        },
+        "xlsx": {
+          "name": "ja-kishocho-meimei-gensho_JA.xlsx",
+          "size": 10055
         }
       }
     },
