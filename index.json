@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:11:02.257Z",
-  "total_datasets": 470,
-  "total_records": 437710,
+  "generated": "2026-10-25T02:11:06.189Z",
+  "total_datasets": 471,
+  "total_records": 438486,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "language",
@@ -5548,6 +5548,31 @@
         "xlsx": {
           "name": "ja-kamakura-shikken_JA.xlsx",
           "size": 8344
+        }
+      }
+    },
+    {
+      "id": "ja-kofun-ichiran",
+      "name": "日本の古墳一覧 (Kofun burial mounds of Japan)",
+      "category": "history",
+      "record_count": 776,
+      "columns": [
+        "region",
+        "prefecture",
+        "name",
+        "details"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%8F%A4%E5%A2%B3%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 164344,
+      "files": {
+        "csv": {
+          "name": "ja-kofun-ichiran_JA.csv",
+          "size": 98176
+        },
+        "xlsx": {
+          "name": "ja-kofun-ichiran_JA.xlsx",
+          "size": 40473
         }
       }
     },
