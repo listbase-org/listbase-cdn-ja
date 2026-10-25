@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:12:30.471Z",
-  "total_datasets": 491,
-  "total_records": 446843,
+  "generated": "2026-10-25T02:12:34.466Z",
+  "total_datasets": 492,
+  "total_records": 447359,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -552,6 +552,29 @@
         "xlsx": {
           "name": "ja-nikkei225-kosei-meigara_JA.xlsx",
           "size": 14042
+        }
+      }
+    },
+    {
+      "id": "ja-shoko-kaigisho",
+      "name": "日本の商工会議所一覧 (Chambers of commerce and industry in Japan)",
+      "category": "economy",
+      "record_count": 516,
+      "columns": [
+        "region",
+        "name"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%95%86%E5%B7%A5%E4%BC%9A%E8%AD%B0%E6%89%80%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 45049,
+      "files": {
+        "csv": {
+          "name": "ja-shoko-kaigisho_JA.csv",
+          "size": 20627
+        },
+        "xlsx": {
+          "name": "ja-shoko-kaigisho_JA.xlsx",
+          "size": 15044
         }
       }
     },
