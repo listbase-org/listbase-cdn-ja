@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:10:50.159Z",
-  "total_datasets": 467,
-  "total_records": 437568,
+  "generated": "2026-10-25T02:10:54.315Z",
+  "total_datasets": 468,
+  "total_records": 437614,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "language",
@@ -5580,6 +5580,37 @@
         "xlsx": {
           "name": "ja-rekidai-tenno_JA.xlsx",
           "size": 21835
+        }
+      }
+    },
+    {
+      "id": "ja-seii-taishogun",
+      "name": "歴代征夷大将軍一覧（鎌倉・室町・江戸幕府）(Shoguns of Japan)",
+      "category": "history",
+      "record_count": 46,
+      "columns": [
+        "shogunate",
+        "order",
+        "name",
+        "ingo",
+        "rank",
+        "tenure",
+        "duration",
+        "family_or_parents",
+        "age_at_death",
+        "grave"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E6%88%B8%E5%B9%95%E5%BA%9C%E3%81%AE%E5%BE%81%E5%A4%B7%E5%A4%A7%E5%B0%86%E8%BB%8D%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 20568,
+      "files": {
+        "csv": {
+          "name": "ja-seii-taishogun_JA.csv",
+          "size": 9101
+        },
+        "xlsx": {
+          "name": "ja-seii-taishogun_JA.xlsx",
+          "size": 11458
         }
       }
     },
