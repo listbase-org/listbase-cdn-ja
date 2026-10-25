@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-24T02:17:35.441Z",
-  "total_datasets": 465,
-  "total_records": 436862,
+  "generated": "2026-10-25T02:10:46.124Z",
+  "total_datasets": 466,
+  "total_records": 437496,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "law",
@@ -5604,6 +5604,37 @@
         "xlsx": {
           "name": "ja-tokubetsu-shiseki_JA.xlsx",
           "size": 8875
+        }
+      }
+    },
+    {
+      "id": "ja-jinmeiyo-kanji",
+      "name": "人名用漢字一覧 (Jinmeiyō kanji list)",
+      "category": "language",
+      "record_count": 634,
+      "columns": [
+        "no",
+        "kanji",
+        "radical",
+        "type",
+        "added",
+        "basis",
+        "variant",
+        "variant_type",
+        "variant_added",
+        "notes"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%90%8D%E7%94%A8%E6%BC%A2%E5%AD%97%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 163446,
+      "files": {
+        "csv": {
+          "name": "ja-jinmeiyo-kanji_JA.csv",
+          "size": 43909
+        },
+        "xlsx": {
+          "name": "ja-jinmeiyo-kanji_JA.xlsx",
+          "size": 33455
         }
       }
     },
