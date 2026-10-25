@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:12:34.466Z",
-  "total_datasets": 492,
-  "total_records": 447359,
+  "generated": "2026-10-25T02:12:38.512Z",
+  "total_datasets": 493,
+  "total_records": 448913,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -552,6 +552,32 @@
         "xlsx": {
           "name": "ja-nikkei225-kosei-meigara_JA.xlsx",
           "size": 14042
+        }
+      }
+    },
+    {
+      "id": "ja-shinise-ichiran",
+      "name": "日本の老舗企業一覧 (Long-established companies of Japan)",
+      "category": "economy",
+      "record_count": 1554,
+      "columns": [
+        "section",
+        "industry",
+        "name",
+        "founded",
+        "details"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%80%81%E8%88%97%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 320841,
+      "files": {
+        "csv": {
+          "name": "ja-shinise-ichiran_JA.csv",
+          "size": 166597
+        },
+        "xlsx": {
+          "name": "ja-shinise-ichiran_JA.xlsx",
+          "size": 75969
         }
       }
     },
