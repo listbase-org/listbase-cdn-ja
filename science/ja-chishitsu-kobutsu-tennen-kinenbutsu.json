@@ -1,0 +1,1969 @@
+{
+  "id": "ja-chishitsu-kobutsu-tennen-kinenbutsu",
+  "name": "地質・鉱物の天然記念物一覧 (Geological and mineral Natural Monuments of Japan)",
+  "title": "地質・鉱物の天然記念物一覧 (Geological and mineral Natural Monuments of Japan)",
+  "description": "国の特別天然記念物・天然記念物に指定された地質・鉱物（岩石・化石・溶岩・洞窟など）の名称・所在地・指定年等の一覧。",
+  "category": "science",
+  "source": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E8%B3%AA%E3%83%BB%E9%89%B1%E7%89%A9%E5%A4%A9%E7%84%B6%E8%A8%98%E5%BF%B5%E7%89%A9%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E8%B3%AA%E3%83%BB%E9%89%B1%E7%89%A9%E5%A4%A9%E7%84%B6%E8%A8%98%E5%BF%B5%E7%89%A9%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 274,
+  "columns": [
+    {
+      "key": "designation",
+      "label": "Designation",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "designation": "特別天然記念物",
+      "region": "",
+      "name": "昭和新山",
+      "location": "北海道有珠郡壮瞥町",
+      "notes": "1951年天然記念物指定、1957年特別天然記念物指定、地10。"
+    },
+    {
+      "designation": "特別天然記念物",
+      "region": "",
+      "name": "夏油温泉の石灰華",
+      "location": "岩手県北上市",
+      "notes": "1941年天然記念物指定、1957年特別天然記念物指定、地8。"
+    },
+    {
+      "designation": "特別天然記念物",
+      "region": "",
+      "name": "根反の大珪化木",
+      "location": "岩手県二戸郡一戸町",
+      "notes": "1936年天然記念物指定、1952年特別天然記念物指定、地1。"
+    },
+    {
+      "designation": "特別天然記念物",
+      "region": "",
+      "name": "焼走り熔岩流",
+      "location": "岩手県八幡平市",
+      "notes": "1944年天然記念物指定、1952年特別天然記念物指定、地5・地10。"
+    },
+    {
+      "designation": "特別天然記念物",
+      "region": "",
+      "name": "鬼首の雌釜および雄釜間歇温泉",
+      "location": "宮城県大崎市",
+      "notes": "1933年天然記念物指定、1952年特別天然記念物指定、地8。"
+    },
+    {
+      "designation": "特別天然記念物",
+      "region": "",
+      "name": "玉川温泉の北投石",
+      "location": "秋田県仙北市",
+      "notes": "1922年天然記念物指定、1952年特別天然記念物指定、地1・地8。"
+    },
+    {
+      "designation": "特別天然記念物",
+      "region": "",
+      "name": "浅間山熔岩樹型",
+      "location": "群馬県吾妻郡嬬恋村",
+      "notes": "1940年天然記念物指定、1952年特別天然記念物指定、地2・地7・地10。"
+    },
+    {
+      "designation": "特別天然記念物",
+      "region": "",
+      "name": "御岳の鏡岩",
+      "location": "埼玉県児玉郡神川町",
+      "notes": "1940年天然記念物指定、1956年特別天然記念物指定、地1・地5。"
+    },
+    {
+      "designation": "特別天然記念物",
+      "region": "",
+      "name": "魚津埋没林",
+      "location": "富山県魚津市",
+      "notes": "1936年天然記念物指定、1955年特別天然記念物指定、地1・地5。"
+    },
+    {
+      "designation": "特別天然記念物",
+      "region": "",
+      "name": "薬師岳の圏谷群",
+      "location": "富山県富山市",
+      "notes": "1945年天然記念物指定、1952年特別天然記念物指定、地11。"
+    },
+    {
+      "designation": "特別天然記念物",
+      "region": "",
+      "name": "岩間の噴泉塔群",
+      "location": "石川県白山市",
+      "notes": "1954年天然記念物指定、1957年特別天然記念物指定、地8。"
+    },
+    {
+      "designation": "特別天然記念物",
+      "region": "",
+      "name": "鳴沢熔岩樹型",
+      "location": "山梨県南都留郡鳴沢村",
+      "notes": "1929年天然記念物指定、1952年特別天然記念物指定、地6・地10。"
+    },
+    {
+      "designation": "特別天然記念物",
+      "region": "",
+      "name": "白骨温泉の噴湯丘と球状石灰石",
+      "location": "長野県松本市",
+      "notes": "1922年天然記念物指定、1952年特別天然記念物指定、地8。"
+    },
+    {
+      "designation": "特別天然記念物",
+      "region": "",
+      "name": "根尾谷断層",
+      "location": "岐阜県本巣市",
+      "notes": "1927年天然記念物指定、1952年特別天然記念物指定、地5。"
+    },
+    {
+      "designation": "特別天然記念物",
+      "region": "",
+      "name": "根尾谷の菊花石",
+      "location": "岐阜県本巣市",
+      "notes": "1941年天然記念物指定、1952年特別天然記念物指定、地1・地7。"
+    },
+    {
+      "designation": "特別天然記念物",
+      "region": "",
+      "name": "湧玉池",
+      "location": "静岡県富士宮市",
+      "notes": "1944年天然記念物指定、1952年特別天然記念物指定、地10。"
+    },
+    {
+      "designation": "特別天然記念物",
+      "region": "",
+      "name": "大根島の熔岩隧道",
+      "location": "島根県松江市",
+      "notes": "1931年天然記念物指定、1952年特別天然記念物指定、地6・地10。"
+    },
+    {
+      "designation": "特別天然記念物",
+      "region": "",
+      "name": "秋吉台",
+      "location": "山口県美祢市",
+      "notes": "1961年天然記念物指定、1964年特別天然記念物指定、地9・地3・地1・地6。"
+    },
+    {
+      "designation": "特別天然記念物",
+      "region": "",
+      "name": "秋芳洞",
+      "location": "山口県美祢市",
+      "notes": "1922年天然記念物指定、1952年特別天然記念物指定、地6・地9。"
+    },
+    {
+      "designation": "特別天然記念物",
+      "region": "",
+      "name": "八釜の甌穴群",
+      "location": "愛媛県上浮穴郡久万高原町",
+      "notes": "1934年天然記念物指定、1952年特別天然記念物指定、地9。"
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "エゾミカサリュウ化石",
+      "location": "三笠市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "オンネトー湯の滝マンガン酸化物生成地",
+      "location": "足寄郡足寄町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "名寄鈴石",
+      "location": "名寄市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "名寄高師小僧",
+      "location": "名寄市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "根室車石",
+      "location": "根室市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "夕張岳の高山植物群落および蛇紋岩メランジュ帯",
+      "location": "夕張市・空知郡南富良野町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "仏宇多（仏ヶ浦）",
+      "location": "下北郡佐井村",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "安家洞",
+      "location": "下閉伊郡岩泉町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "岩泉湧窟およびコウモリ",
+      "location": "下閉伊郡岩泉町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "厳美渓",
+      "location": "一関市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "浪打峠の交叉層",
+      "location": "二戸郡一戸町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "姉帯小鳥谷根反の珪化木地帯",
+      "location": "二戸郡一戸町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "葛根田の大岩屋",
+      "location": "岩手郡雫石町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "館ヶ崎角岩岩脈",
+      "location": "大船渡市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "樋口沢ゴトランド紀化石産地",
+      "location": "大船渡市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "碁石海岸",
+      "location": "大船渡市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "崎山の潮吹穴",
+      "location": "宮古市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "崎山の蝋燭岩",
+      "location": "宮古市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "十八鳴浜及び九九鳴き浜",
+      "location": "気仙沼市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "歌津館崎の魚竜化石産地および魚竜化石",
+      "location": "本吉郡南三陸町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "球状閃緑岩",
+      "location": "白石市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "小原の材木岩",
+      "location": "白石市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "姉滝",
+      "location": "仙台市太白区",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "象潟",
+      "location": "にかほ市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "鳥海山獅子ヶ鼻湿原植物群落及び新山溶岩流末端崖と湧水群",
+      "location": "にかほ市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "千屋断層",
+      "location": "仙北郡美郷町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "男鹿目潟火山群一ノ目潟",
+      "location": "男鹿市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "筑紫森岩脈",
+      "location": "秋田市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "鮞状珪石および噴泉塔",
+      "location": "湯沢市",
+      "notes": "- 「鮞」は魚へんに而"
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "鹿島神社のペグマタイト岩脈",
+      "location": "郡山市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "入水鍾乳洞",
+      "location": "田村市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "塔の岪（ヘツリ）",
+      "location": "南会津郡下郷町",
+      "notes": "- 「岪」は山かんむりに弗"
+    },
+    {
+      "designation": "天然記念物",
+      "region": "北海道、東北地方",
+      "name": "見祢の大石",
+      "location": "耶麻郡猪苗代町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "関東地方",
+      "name": "湯沢噴泉塔",
+      "location": "日光市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "関東地方",
+      "name": "名草の巨石群",
+      "location": "足利市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "関東地方",
+      "name": "三波石峡",
+      "location": "群馬県藤岡市・埼玉県児玉郡神川町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "関東地方",
+      "name": "岩神の飛石",
+      "location": "前橋市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "関東地方",
+      "name": "生犬穴",
+      "location": "多野郡上野村",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "関東地方",
+      "name": "上野村亀甲石産地",
+      "location": "多野郡上野村",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "関東地方",
+      "name": "川原湯岩脈（臥龍岩および昇龍岩）",
+      "location": "吾妻郡長野原町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "関東地方",
+      "name": "吹割渓ならびに吹割瀑",
+      "location": "沼田市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "関東地方",
+      "name": "六合チャツボミゴケ生物群集の鉄鉱生成地",
+      "location": "吾妻郡中之条町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "関東地方",
+      "name": "長瀞",
+      "location": "秩父郡長瀞町・皆野町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "関東地方",
+      "name": "古秩父湾堆積層及び海棲哺乳類化石群",
+      "location": "秩父市・長瀞町・皆野町・小鹿野町・横瀬町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "関東地方",
+      "name": "犬吠埼の白亜紀浅海堆積物",
+      "location": "銚子市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "関東地方",
+      "name": "屏風ケ浦",
+      "location": "銚子市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "関東地方",
+      "name": "木下貝層",
+      "location": "印西市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "関東地方",
+      "name": "養老川流域田淵の地磁気逆転地層",
+      "location": "市原市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "関東地方",
+      "name": "小笠原南島の沈水カルスト地形",
+      "location": "小笠原村",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "関東地方",
+      "name": "諸磯の隆起海岸",
+      "location": "三浦市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "関東地方",
+      "name": "旧相模川橋脚",
+      "location": "茅ヶ崎市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "青海川の硬玉産地及び硬玉岩塊",
+      "location": "糸魚川市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "小滝川硬玉産地",
+      "location": "糸魚川市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "清津峡",
+      "location": "南魚沼郡湯沢町・十日町市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "田代の七ツ釜",
+      "location": "中魚沼郡津南町・十日町市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "笹川流",
+      "location": "村上市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "佐渡小木海岸",
+      "location": "佐渡市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "平根崎の波蝕甌穴群",
+      "location": "佐渡市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "糸魚川市根知の糸魚川-静岡構造線",
+      "location": "糸魚川市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "飯久保の瓢箪石",
+      "location": "氷見市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "猪谷の背斜・向斜",
+      "location": "富山市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "真川の跡津川断層",
+      "location": "富山市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "横山楡原衝上断層",
+      "location": "富山県富山市・岐阜県飛騨市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "称名滝",
+      "location": "中新川郡立山町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "立山の山崎圏谷",
+      "location": "中新川郡立山町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "新湯の玉滴石産地",
+      "location": "富山市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "曽々木海岸",
+      "location": "輪島市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "山科の大桑層化石産地と甌穴",
+      "location": "金沢市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "手取川流域の珪化木産地",
+      "location": "白山市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "東尋坊",
+      "location": "坂井市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "勝山恐竜化石群及び産地",
+      "location": "勝山市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "燕岩岩脈",
+      "location": "甲府市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "新倉の糸魚川-静岡構造線",
+      "location": "南巨摩郡早川町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "雁ノ穴",
+      "location": "富士吉田市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "吉田胎内樹型",
+      "location": "富士吉田市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "神座風穴附蒲鉾穴および眼鏡穴",
+      "location": "南都留郡鳴沢村",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "大室洞穴",
+      "location": "南都留郡鳴沢村",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "鳴沢氷穴",
+      "location": "南都留郡鳴沢村",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "忍野八海",
+      "location": "南都留郡忍野村",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "西湖蝙蝠穴およびコウモリ",
+      "location": "南都留郡富士河口湖町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "船津胎内樹型",
+      "location": "南都留郡富士河口湖町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "富岳風穴",
+      "location": "南都留郡富士河口湖町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "富士風穴",
+      "location": "南都留郡富士河口湖町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "本栖風穴",
+      "location": "南都留郡富士河口湖町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "龍宮洞穴",
+      "location": "南都留郡富士河口湖町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "横川の蛇石",
+      "location": "上伊那郡辰野町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "四阿山の的岩",
+      "location": "上田市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "高瀬渓谷の噴湯丘と球状石灰石",
+      "location": "大町市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "渋の地獄谷噴泉",
+      "location": "下高井郡山ノ内町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "中房温泉の膠状珪酸および珪華",
+      "location": "安曇野市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "大鹿村の中央構造線（北川露頭・安康露頭）",
+      "location": "下伊那郡大鹿村",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "鬼岩",
+      "location": "可児郡御嵩町・瑞浪市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "美濃の壺石",
+      "location": "土岐市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "傘岩",
+      "location": "恵那市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "飛水峡の甌穴群",
+      "location": "加茂郡七宗町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "福地の化石産地",
+      "location": "高山市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "印野の熔岩隧道",
+      "location": "御殿場市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "駒門風穴",
+      "location": "御殿場市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "楽寿園",
+      "location": "三島市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "柿田川",
+      "location": "駿東郡清水町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "丹那断層",
+      "location": "田方郡函南町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "地震動の擦痕",
+      "location": "伊豆の国市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "手石の弥陀ノ岩屋",
+      "location": "賀茂郡南伊豆町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "堂ヶ島天窓洞",
+      "location": "賀茂郡西伊豆町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "白糸ノ滝",
+      "location": "富士宮市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "万野風穴",
+      "location": "富士宮市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "白羽の風蝕礫産地",
+      "location": "御前崎市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "大室山",
+      "location": "伊東市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "阿寺の七滝",
+      "location": "新城市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "乳岩および乳岩峡",
+      "location": "新城市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "馬背岩",
+      "location": "新城市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "鳳来寺山",
+      "location": "新城市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中部地方",
+      "name": "猿投山の球状花崗岩",
+      "location": "豊田市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "瀞八丁",
+      "location": "和歌山県新宮市・三重県熊野市・奈良県吉野郡十津川村",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "熊野の鬼ケ城附獅子巖",
+      "location": "熊野市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "月出の中央構造線",
+      "location": "松阪市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "須賀利大池及び小池",
+      "location": "尾鷲市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "鎌掛の屏風岩",
+      "location": "蒲生郡日野町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "別所高師小僧",
+      "location": "蒲生郡日野町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "綿向山麓の接触変質地帯",
+      "location": "蒲生郡日野町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "石山寺硅灰石",
+      "location": "大津市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "アケボノゾウ化石多賀標本",
+      "location": "犬上郡多賀町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "郷村断層",
+      "location": "京丹後市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "琴引浜",
+      "location": "京丹後市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "東山洪積世植物遺体包含層",
+      "location": "京都市東山区",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "薭田野の菫青石仮晶",
+      "location": "亀岡市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "マチカネワニ化石",
+      "location": "豊中市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "鎧袖",
+      "location": "美方郡香美町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "但馬御火浦",
+      "location": "美方郡新温泉町・香美町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "玄武洞",
+      "location": "豊岡市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "神戸丸山衝上断層",
+      "location": "神戸市長田区",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "觜崎ノ屏風岩",
+      "location": "たつの市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "野島断層",
+      "location": "淡路市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "屏風岩、兜岩および鎧岩",
+      "location": "宇陀郡曽爾村",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "橋杭岩",
+      "location": "東牟婁郡串本町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "古座川の一枚岩",
+      "location": "東牟婁郡古座川町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "高池の虫喰岩",
+      "location": "東牟婁郡古座川町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "栗栖川亀甲石包含層",
+      "location": "田辺市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "神島",
+      "location": "田辺市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "鳥巣半島の泥岩岩脈",
+      "location": "田辺市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "白浜の化石漣痕",
+      "location": "西牟婁郡白浜町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "白浜の泥岩岩脈",
+      "location": "西牟婁郡白浜町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "近畿地方",
+      "name": "門前の大岩",
+      "location": "日高郡由良町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "浦富海岸",
+      "location": "岩美郡岩美町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "鳥取砂丘",
+      "location": "鳥取市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "隠岐海苔田ノ鼻",
+      "location": "隠岐郡隠岐の島町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "隠岐国賀海岸",
+      "location": "隠岐郡西ノ島町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "隠岐知夫赤壁",
+      "location": "隠岐郡知夫村",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "隠岐白島海岸",
+      "location": "隠岐郡隠岐の島町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "岩屋寺の切開",
+      "location": "仁多郡奥出雲町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "鬼舌振",
+      "location": "仁多郡奥出雲町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "唐音の蛇岩",
+      "location": "益田市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "石見畳ヶ浦",
+      "location": "浜田市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "三瓶小豆原埋没林",
+      "location": "大田市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "松代鉱山の霰石産地",
+      "location": "大田市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "波根西の珪化木",
+      "location": "大田市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "立久恵",
+      "location": "出雲市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "潜戸",
+      "location": "松江市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "多古の七ツ穴",
+      "location": "松江市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "大根島第二熔岩隧道",
+      "location": "松江市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "築島の岩脈",
+      "location": "松江市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "琴ヶ浜",
+      "location": "大田市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "青野山",
+      "location": "鹿足郡津和野町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "白石島の鎧岩",
+      "location": "笠岡市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "象岩",
+      "location": "倉敷市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "大賀の押被",
+      "location": "高梁市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "草間の間歇冷泉",
+      "location": "新見市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "羅生門",
+      "location": "新見市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "押ヶ垰断層帯",
+      "location": "山県郡安芸太田町・廿日市市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "久井・矢野の岩海",
+      "location": "三原市・府中市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "船佐・山内逆断層帯",
+      "location": "安芸高田市・三次市・庄原市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "雄橋",
+      "location": "庄原市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "岩屋観音窟",
+      "location": "岩国市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "吉部の大岩郷",
+      "location": "宇部市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "景清穴",
+      "location": "美祢市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "大正洞",
+      "location": "美祢市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "万倉の大岩郷",
+      "location": "美祢市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "中尾洞",
+      "location": "美祢市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "須佐高山の磁石石",
+      "location": "萩市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "須佐湾",
+      "location": "萩市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "青海島",
+      "location": "長門市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "俵島",
+      "location": "長門市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "龍宮の潮吹",
+      "location": "長門市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "石柱渓",
+      "location": "下関市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "中国地方",
+      "name": "大吼谷蝙蝠洞",
+      "location": "下関市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "四国地方",
+      "name": "阿波の土柱",
+      "location": "阿波市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "四国地方",
+      "name": "宍喰浦の化石漣痕",
+      "location": "海部郡海陽町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "四国地方",
+      "name": "坂州不整合",
+      "location": "那賀郡那賀町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "四国地方",
+      "name": "大歩危小歩危",
+      "location": "三好市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "四国地方",
+      "name": "円上島の球状ノーライト",
+      "location": "観音寺市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "四国地方",
+      "name": "屋島",
+      "location": "高松市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "四国地方",
+      "name": "絹島および丸亀島",
+      "location": "東かがわ市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "四国地方",
+      "name": "鹿浦越のランプロファイヤ岩脈",
+      "location": "東かがわ市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "四国地方",
+      "name": "砥部衝上断層",
+      "location": "伊予郡砥部町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "四国地方",
+      "name": "八幡浜市大島のシュードタキライト及び変成岩類",
+      "location": "八幡浜市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "四国地方",
+      "name": "千尋岬の化石漣痕",
+      "location": "土佐清水市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "四国地方",
+      "name": "唐船島の隆起海岸",
+      "location": "土佐清水市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "四国地方",
+      "name": "五色ノ浜の横浪メランジュ",
+      "location": "土佐市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "四国地方",
+      "name": "大引割・小引割",
+      "location": "高岡郡仁淀川町・津野町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "四国地方",
+      "name": "小鶴津の興津メランジュ及びシュードタキライト",
+      "location": "高岡郡四万十町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "四国地方",
+      "name": "龍河洞",
+      "location": "香美市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "鷹巣山",
+      "location": "福岡県田川郡添田町・大分県中津市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "青龍窟",
+      "location": "京都郡苅田町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "千仏鍾乳洞",
+      "location": "北九州市小倉南区",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "平尾台",
+      "location": "北九州市小倉南区",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "夜宮の大珪化木",
+      "location": "北九州市戸畑区",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "長垂の含紅雲母ペグマタイト岩脈",
+      "location": "福岡市西区",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "名島の檣石",
+      "location": "福岡市東区",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "芥屋の大門",
+      "location": "糸島市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "水縄断層",
+      "location": "久留米市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "東峰村の阿蘇4火砕流堆積物及び埋没樹木",
+      "location": "朝倉郡東峰村",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "屋形石の七ツ釜",
+      "location": "唐津市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "八藤丘陵の阿蘇4火砕流堆積物及び埋没林",
+      "location": "三養基郡上峰町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "七釜鍾乳洞",
+      "location": "西海市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "斑島玉石甌穴",
+      "location": "北松浦郡小値賀町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "平成新山",
+      "location": "島原市・雲仙市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "妙見浦",
+      "location": "天草市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "米塚及び草千里ヶ浜",
+      "location": "阿蘇市阿蘇郡南阿蘇村",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "布田川断層帯",
+      "location": "上益城郡益城町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "狩生鍾乳洞",
+      "location": "佐伯市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "小半鍾乳洞",
+      "location": "佐伯市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "風連洞窟",
+      "location": "臼杵市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "大岩扇山",
+      "location": "玖珠郡玖珠町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "小野川の阿蘇4火砕流堆積物及び埋没樹木群",
+      "location": "日田市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "竹田の阿蘇火砕流堆積物",
+      "location": "竹田市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "姫島の黒曜石産地",
+      "location": "東国東郡姫島村",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "耶馬渓猿飛の甌穴群",
+      "location": "中津市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "関の尾の甌穴",
+      "location": "都城市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "青島の隆起海床と奇形波蝕痕",
+      "location": "宮崎市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "七折鍾乳洞",
+      "location": "西臼杵郡日之影町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "柘の滝鍾乳洞",
+      "location": "西臼杵郡高千穂町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "五箇瀬川峡谷（高千穂峡谷）",
+      "location": "西臼杵郡高千穂町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "猪崎鼻の堆積構造",
+      "location": "日南市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "日向岬の柱状節理",
+      "location": "日向市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "志布志市夏井海岸の火砕流堆積物",
+      "location": "志布志市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "天降川流域の火砕流堆積物",
+      "location": "霧島市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "甑島長目の浜及び潟湖群の植物群落",
+      "location": "薩摩川内市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "溝ノ口洞穴",
+      "location": "曽於市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "塩川",
+      "location": "国頭郡本部町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "喜屋武海岸及び荒崎海岸",
+      "location": "糸満市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "名護市嘉陽層の褶曲",
+      "location": "名護市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "下地島の通り池",
+      "location": "宮古島市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "八重干瀬",
+      "location": "宮古島市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "宮古島保良の石灰華段丘",
+      "location": "宮古島市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "石垣島東海岸の津波石群",
+      "location": "石垣市",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "久米島町奥武島の畳石",
+      "location": "島尻郡久米島町",
+      "notes": ""
+    },
+    {
+      "designation": "天然記念物",
+      "region": "九州、沖縄地方",
+      "name": "サンニヌ台",
+      "location": "八重山郡与那国町",
+      "notes": ""
+    },
+    {
+      "designation": "過去に指定されていた天然記念物",
+      "region": "",
+      "name": "田辺の鬼橋岩",
+      "location": "和歌山県田辺市",
+      "notes": "：昭和60年指定解除。浸食によって出来た巨大な岩橋だったが、崩落の危険性の為撤去された。"
+    },
+    {
+      "designation": "過去に指定されていた天然記念物",
+      "region": "第二類として指定されていたもの",
+      "name": "中頓別鍾乳洞",
+      "location": "北海道枝幸郡中頓別村",
+      "notes": "昭和13年指定。現・北海道指定天然記念物"
+    },
+    {
+      "designation": "過去に指定されていた天然記念物",
+      "region": "第二類として指定されていたもの",
+      "name": "出流原弁天池",
+      "location": "栃木県佐野市",
+      "notes": "昭和13年指定。現・栃木県指定天然記念物"
+    },
+    {
+      "designation": "過去に指定されていた天然記念物",
+      "region": "第二類として指定されていたもの",
+      "name": "神戸岩",
+      "location": "東京都西多摩郡檜原村",
+      "notes": "昭和9年指定。現・東京都指定天然記念物"
+    },
+    {
+      "designation": "過去に指定されていた天然記念物",
+      "region": "第二類として指定されていたもの",
+      "name": "熊野浦の獅子巌",
+      "location": "三重県熊野市",
+      "notes": "昭和10年指定。昭和33年再指定（獅子岩）。"
+    },
+    {
+      "designation": "過去に指定されていた天然記念物",
+      "region": "第二類として指定されていたもの",
+      "name": "雲見の滝",
+      "location": "島根県雲南市",
+      "notes": "昭和10年指定。現・島根県指定天然記念物"
+    },
+    {
+      "designation": "過去に指定されていた天然記念物",
+      "region": "第二類として指定されていたもの",
+      "name": "鑪崎及び松島磁石石",
+      "location": "島根県益田市",
+      "notes": "昭和12年指定。現・島根県指定天然記念物"
+    }
+  ],
+  "meta": {
+    "title": "地質・鉱物の天然記念物一覧 (Geological and mineral Natural Monuments of Japan) - Free Download",
+    "description": "国の特別天然記念物・天然記念物に指定された地質・鉱物（岩石・化石・溶岩・洞窟など）の名称・所在地・指定年等の一覧。 Contains 274 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "地質・鉱物の天然記念物一覧 (Geological and mineral Natural Monuments of Japan) | ListBase",
+    "seo_description": "Download 地質・鉱物の天然記念物一覧 (Geological and mineral Natural Monuments of Japan) — 274 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 274 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E5%9C%B0%E8%B3%AA%E3%83%BB%E9%89%B1%E7%89%A9%E5%A4%A9%E7%84%B6%E8%A8%98%E5%BF%B5%E7%89%A9%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}
