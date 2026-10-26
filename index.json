@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-25T02:12:54.568Z",
-  "total_datasets": 497,
-  "total_records": 449735,
+  "generated": "2026-10-26T02:10:41.783Z",
+  "total_datasets": 498,
+  "total_records": 449871,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "history",
@@ -5866,6 +5866,31 @@
         "xlsx": {
           "name": "ja-yamanashi-shikuchoson-kyoukai_JA.xlsx",
           "size": 52366
+        }
+      }
+    },
+    {
+      "id": "ja-iji-horei",
+      "name": "日本の医事法令一覧 (Medical laws and regulations of Japan)",
+      "category": "health",
+      "record_count": 136,
+      "columns": [
+        "status_type",
+        "group",
+        "name",
+        "abbreviation"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E5%8C%BB%E4%BA%8B%E6%B3%95%E4%BB%A4%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 27526,
+      "files": {
+        "csv": {
+          "name": "ja-iji-horei_JA.csv",
+          "size": 13750
+        },
+        "xlsx": {
+          "name": "ja-iji-horei_JA.xlsx",
+          "size": 11099
         }
       }
     },
