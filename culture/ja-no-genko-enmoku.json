@@ -1,0 +1,1843 @@
+{
+  "id": "ja-no-genko-enmoku",
+  "name": "能の現行演目一覧 (Current Noh repertoire)",
+  "title": "能の現行演目一覧 (Current Noh repertoire)",
+  "description": "現在演じられている能の演目の一覧。読み（歴史的仮名遣）・五番立ての分類・あらすじ等・上演する流派。",
+  "category": "culture",
+  "source": "https://ja.wikipedia.org/wiki/%E8%83%BD%E3%81%AE%E7%8F%BE%E8%A1%8C%E6%BC%94%E7%9B%AE%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E8%83%BD%E3%81%AE%E7%8F%BE%E8%A1%8C%E6%BC%94%E7%9B%AE%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 256,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "reading",
+      "label": "Reading",
+      "type": "string"
+    },
+    {
+      "key": "gobandate",
+      "label": "Gobandate",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    },
+    {
+      "key": "schools",
+      "label": "Schools",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "藍染川",
+      "reading": "あいぞめがわ [あゐぞめがは]",
+      "gobandate": "一・四・五",
+      "notes": "京を訪れていた太宰府の神主（ワキ）と契りを結んだ女（前シテ）が、その間に生まれた息子（子方）を連れて筑前国を訪ね、神主に文を渡そうとする。だが、その文を事前に読んだ神主の妻（狂言方）は怒り狂い、偽って夫の絶縁の言葉を伝え、女は絶望して藍染川に身を投げる。藍染川を通りかかった神主は、残された息子が手にしていた女の文を読み、遺骸がかつて契りを結んだ女のものであることを知る。そこで神主が祝詞を上げて天満天神（後シテ）に蘇生を祈ると、やがて神が影向して女を蘇らせる。ワキ方の重い習い物で、子方の役割が大きいなど、上演至難の曲の一つ。",
+      "schools": "観・春"
+    },
+    {
+      "name": "葵上",
+      "reading": "あおいのうえ [あふひのうへ]",
+      "gobandate": "四・五",
+      "notes": "源氏物語に依る。葵上が病となったため、朱雀院の臣下（ワキツレ）が神子（ツレ）に命じて、葵上に取り憑いた六条御息所の生霊（シテ）を呼び出し、やがて怨霊となった御息所を延暦寺横川の僧（ワキ）が祈り伏せる。近江猿楽系の古作で、現今屈指の人気曲。",
+      "schools": "全"
+    },
+    {
+      "name": "阿漕",
+      "reading": "あこぎ",
+      "gobandate": "四・五",
+      "notes": "伊勢国阿漕が浦を訪れた日向国の旅僧（または日向の人、ワキ）の前に漁翁（前シテ）が現れ、殺生禁断の浜で網を引いたために殺された阿漕という名の漁師の物語をする。やがて阿漕の霊（後シテ）が現れ、漁の様を再現した後、地獄で悪魚毒蛇に責め苛まれる苦患を告げ、救いを求める。「三卑賎」（阿漕・善知鳥・鵜飼）と呼ばれる、殺生の罪を主題とした曲の一つ。",
+      "schools": "全"
+    },
+    {
+      "name": "芦刈",
+      "reading": "あしかり",
+      "gobandate": "二・四",
+      "notes": "直面物。摂津国の住人で難波浦に零落し、妻と別れて芦売りをしていた男（シテ）が、京より久しぶりに摂津を訪れた妻（ツレ）と再会し、喜びの男舞を舞った後、共に都へと帰っていく。見所の芦売りの段は、仕舞では「笠の段」と呼ばれる。",
+      "schools": "全"
+    },
+    {
+      "name": "飛鳥川",
+      "reading": "あすかがわ [あすかがは]",
+      "gobandate": "三・四",
+      "notes": "母（シテ）と生き別れた幼子（子方）を連れて、京の人（ワキ）が親子の再会を願って大和国吉野へ参詣し、その帰りに飛鳥川に至り、田植えをしていた母と巡り合う。古作では、子供と生き別れとなった父が廻国修行の途次、飛鳥川で子供と再会するという設定になっている。",
+      "schools": "剛・喜"
+    },
+    {
+      "name": "安宅",
+      "reading": "あたか",
+      "gobandate": "二・四・五",
+      "notes": "直面物の大作。源義経（子方）が奥州に落ちる途次、弁慶（シテ）の計略により、東大寺建立勧進の山伏一行と偽り、加賀国守護の富樫某（ワキ）が守る安宅の関を無事に通り過ぎる。歌舞伎の「勧進帳」に改作されるなど、後世に与えた影響は大きい。",
+      "schools": "全"
+    },
+    {
+      "name": "安達原→黒塚",
+      "reading": "あだちがはら",
+      "gobandate": "五",
+      "notes": "観世流での曲名。",
+      "schools": "全"
+    },
+    {
+      "name": "敦盛",
+      "reading": "あつもり",
+      "gobandate": "二",
+      "notes": "世阿弥作。自らが討ち取った平敦盛の菩提を弔うために出家し、摂津国一の谷を訪れた熊谷直実（ワキ）は、敦盛所持の青葉の笛を吹く草刈りの男（前シテ）と出会う。やがて敦盛の霊（後シテ）が現れ、一の谷の戦いの様を語り舞う。後シテが中の舞を舞うなど、修羅物中の異色作となっている。",
+      "schools": "全"
+    },
+    {
+      "name": "海人",
+      "reading": "あま",
+      "gobandate": "一・四・五",
+      "notes": "観「海士」。金春権守作とも伝えられる古作。藤原房前（子方）が従者（ワキ）と共に讃岐国志度寺に下り、母である海女の霊（前シテ）に出逢い、海女が自らの命を捨てて竜宮から唐土渡来の宝珠を取り戻した謂れを聞く。房前が志度寺で供養を始めると、海女の霊は女人成仏の竜女となって現れ、報謝の舞を舞う。前場の宝珠の謂れの段は、仕舞では「玉の段」と呼ばれる。",
+      "schools": "全"
+    },
+    {
+      "name": "綾鼓",
+      "reading": "あやのつづみ",
+      "gobandate": "四",
+      "notes": "筑前国木の丸御所で、庭掃の尉（前シテ）は女御（ツレ）に一目ぼれする。「綾の鼓を打って音が鳴れば再び逢おう」という女御の言葉を臣下（ワキ）は伝えるが、いくら打っても音が出ないことに絶望した老人は池に身を投げ、やがて怨霊（後シテ）となって現れ、女御を責め苛む。「恋の重荷」と同工異曲だが、「綾鼓」では怨霊が成仏することなく、恨みを抱いたまま再び池の中へと沈んで行く点が大きく異なる。なお、喜多流所演のものは、喜多実・土岐善麿による大幅な詞章の改作がある（昭和27年初演）。",
+      "schools": "宝・剛・喜"
+    },
+    {
+      "name": "嵐山",
+      "reading": "あらしやま",
+      "gobandate": "一",
+      "notes": "金春禅鳳作。京都嵐山の桜を愛でる勅使（ワキ）の前に、花守の尉（前シテ）と姥（前ツレ）が現れ、大和国吉野より桜を移し植えた謂れを語る。やがて吉野の勝手の神・木守の神（後ツレ）が現れて相舞した後、蔵王権現（後シテ）が影向し、豪快な舞働きを見せる。",
+      "schools": "全"
+    },
+    {
+      "name": "蟻通",
+      "reading": "ありどおし [ありどほし]",
+      "gobandate": "一・四・五",
+      "notes": "古作を世阿弥改作。紀伊国の玉津島神社参詣へと向かう紀貫之（ワキ）が和泉国を行く途中、雨夜の闇に蟻通の社を見落として下馬を忘れたため、神の怒りを受けて馬が進まなくなる。そこに現れた宮守（実は蟻通明神、シテ）に勧められるまま、貫之は神慮を和らげようと社名を詠み込んだ和歌を詠み、事なきを得る。やがて貫之の勧めにより、宮守は祝詞を上げ、和歌の徳を神前に奏上する。",
+      "schools": "全"
+    },
+    {
+      "name": "淡路",
+      "reading": "あわじ [あはぢ]",
+      "gobandate": "一",
+      "notes": "クセは観阿弥作。淡路を訪れた朝臣（ワキ）の前に、二の宮の神田を耕す尉（前シテ）と姥（ツレ）が現れ、淡路島の謂れと伊弉諾・伊弉冉二神による国生みを物語る。やがて祭神の伊弉諾神（後シテ）が影向し、颯爽と神舞を舞う。",
+      "schools": "観・春・剛"
+    },
+    {
+      "name": "碇潜",
+      "reading": "いかりかずき [いかりかづき]",
+      "gobandate": "二・五",
+      "notes": "壇の浦を訪ねた旅僧（ワキ）の前に、舟人の尉（前シテ）が現れ、平教経が敵の安芸太郎次郎兄弟を両脇に挟んで入水した様を物語る。やがて平知盛（後シテ）の霊が現れ、碇を持ち上げて入水した最後の有り様を見せる。観世流の小書「船出之習」と金剛流では、後場に船の作り物と、二位の尼と大納言局（後ツレ二人）が出る。また、金春禅鳳の型付では、前ツレ二名（直面の舟人で安芸兄弟の役）が登場し、後場では船の作り物と、二位の尼（後ツレ）、安徳天皇（子方）が登場することになっており、近年この型を復元上演することも行われている。なお、知盛入水の場面は、文楽・歌舞伎の「義経千本桜」渡海屋の段にも取り入れられている。",
+      "schools": "観・剛"
+    },
+    {
+      "name": "生田敦盛",
+      "reading": "いくたあつもり",
+      "gobandate": "二",
+      "notes": "春「生田」。金春禅鳳作。法然上人に拾われた平敦盛（シテ）の遺児（子方）が賀茂明神に祈りを込めた所、摂津国生田の森に赴くべしとの霊夢を蒙る。上人の従者（ワキ）と共に生田に着くと、明神の許しにより修羅道を一時離れることができた父の霊に出逢う。先行作「敦盛」の影響を受け、同じくシテは中の舞を舞うと共に、禅鳳好みの子方を生かした作りとなっている。",
+      "schools": "観・宝・春・剛"
+    },
+    {
+      "name": "一角仙人",
+      "reading": "いっかくせんにん",
+      "gobandate": "一・四・五",
+      "notes": "金春禅鳳作。天竺波羅奈国で、鹿から生まれて額に一本角を生やした一角仙人（シテ）が、竜神（子方）を岩屋の中に封じ込めたことにより、旱が起こる。帝は謀を巡らし、扇陀（旋陀）夫人（ツレ）という美女を官人（ワキ）と共に仙人のもとに遣わし、酒を勧めさせる。仙人は女色に迷って酔いつぶれ、神通力を失った隙に、竜神は岩屋を脱出し、波羅奈国に再び雨がもたらされる。夫人と仙人が相舞を舞う場面や、仙人と子方の竜神が闘う場面など、楽しい見所が多い。後世、歌舞伎十八番の「鳴神」に改作される。なお、能面の「一角仙人」は、この曲の専用面である。",
+      "schools": "観・春・剛・喜"
+    },
+    {
+      "name": "井筒",
+      "reading": "いづつ",
+      "gobandate": "三",
+      "notes": "世阿弥作。大和在原寺を訪れた旅僧の前に、在原業平と契りを結んだ紀有常の娘の霊が井筒のほとりに現れる。",
+      "schools": "全"
+    },
+    {
+      "name": "岩船",
+      "reading": "いわふね [いはふね]",
+      "gobandate": "一",
+      "notes": "春「岩舟」。摂津住吉の浜を訪れた勅使が、天の探女と竜神から岩船に乗せた宝物を授けられる。",
+      "schools": "全"
+    },
+    {
+      "name": "鵜飼",
+      "reading": "うかい [うかひ]",
+      "gobandate": "五",
+      "notes": "榎並左衛門五郎作（世阿弥改作）。甲斐石和川を訪れた安房清澄の僧たちの前に、殺生禁断の河原で漁をし殺された鵜飼の霊が現れる。やがて回向をする僧の前に閻魔大王が現れ、法華経の功徳により鵜飼の霊が救われたことを告げる。",
+      "schools": "全"
+    },
+    {
+      "name": "浮船",
+      "reading": "うきふね",
+      "gobandate": "四",
+      "notes": "横越元久作詞、世阿弥作曲。源氏物語に依る。山城宇治を訪れた旅僧の前に、浮舟の君の霊が現れる。",
+      "schools": "観・春・剛・喜"
+    },
+    {
+      "name": "雨月",
+      "reading": "うげつ",
+      "gobandate": "四",
+      "notes": "金春禅竹作。摂津住吉を訪れた西行法師が宿を借り、住吉明神の化身である尉姥と風流な問答をする。やがて明神の憑依した神主が現れ、和歌の徳を称えて舞う。",
+      "schools": "全"
+    },
+    {
+      "name": "右近",
+      "reading": "うこん",
+      "gobandate": "一",
+      "notes": "世阿弥作（観世信光改作）。常陸鹿島の神主が洛北右近の馬場を訪れ、満開の桜の下、桜葉の女神の影向に逢う。",
+      "schools": "観・宝・剛"
+    },
+    {
+      "name": "歌占",
+      "reading": "うたうら",
+      "gobandate": "四",
+      "notes": "観世元雅作。仮死により白髪となった伊勢二見浦の神主が、歌占をしながら子を探して諸国を廻るうち、加賀で巡り合い、所の者に所望された地獄の曲舞を舞った後、親子で故郷へと帰っていく。",
+      "schools": "全"
+    },
+    {
+      "name": "内外詣",
+      "reading": "うちともうで [うちとまうで]",
+      "gobandate": "四",
+      "notes": "金剛長頼作。伊勢神宮を参拝した勅使に、巫女は神楽を、神主は獅子舞を舞って見せる。",
+      "schools": "剛"
+    },
+    {
+      "name": "善知鳥",
+      "reading": "うとう",
+      "gobandate": "四",
+      "notes": "喜「烏頭」。旅僧が越中立山で猟師の霊に逢って片袖を渡され、陸奥外の浜の妻子のもとに届けると、猟師の霊が再び現れ、鳥に襲われる地獄の苦患を告げる。",
+      "schools": "全"
+    },
+    {
+      "name": "采女",
+      "reading": "うねめ",
+      "gobandate": "三",
+      "notes": "世阿弥作。奈良を訪れた旅僧の前に、帝の寵愛を失い猿沢の池に身を投げた采女の霊が現れる。",
+      "schools": "全"
+    },
+    {
+      "name": "鵜祭",
+      "reading": "うのまつり",
+      "gobandate": "一",
+      "notes": "勅使が能登の気多の社を参詣し、神々の影向と鵜祭の奇瑞に逢う。",
+      "schools": "春"
+    },
+    {
+      "name": "梅",
+      "reading": "うめ",
+      "gobandate": "三",
+      "notes": "観世元章作。摂津難波を訪れた京都五条の人の前に梅の精が現れ、古歌の謂れを説き、御代を寿ぐ。",
+      "schools": "観"
+    },
+    {
+      "name": "梅枝",
+      "reading": "うめがえ",
+      "gobandate": "四",
+      "notes": "摂津住吉で宿を借りた甲斐身延山の旅僧の前に、諍いで殺された楽人富士の妻の霊が現れる。「富士太鼓」の夢幻能版。",
+      "schools": "全"
+    },
+    {
+      "name": "鱗形",
+      "reading": "うろこがた",
+      "gobandate": "四",
+      "notes": "北条時政の前に相模江野島の弁財天が影向し、鱗形（三つ鱗）の旗の紋を与える。",
+      "schools": "剛・喜"
+    },
+    {
+      "name": "雲林院",
+      "reading": "うんりんいん",
+      "gobandate": "三",
+      "notes": "古作の改作。伊勢物語を愛読する摂津芦屋の者が、霊夢を授かり京都雲林院に赴き、在原業平の霊に逢う。世阿弥自筆による古作は、後場に二条后と藤原基経の霊が現れる執心物となっている。",
+      "schools": "全"
+    },
+    {
+      "name": "江口",
+      "reading": "えぐち",
+      "gobandate": "三",
+      "notes": "旅僧が摂津江口の里を通り過ぎると、江口の君（遊女の長）の霊が現れ、西行法師と和歌を詠み交わした昔を語り、舟遊びの様を見せる。世阿弥自筆本が残る。",
+      "schools": "全"
+    },
+    {
+      "name": "江野島",
+      "reading": "えのしま",
+      "gobandate": "一",
+      "notes": "観世長俊作。相模江野浦に島が現れ出た奇瑞が都に伝わり、勅使が訪れると弁財天と龍王が影向する。",
+      "schools": "観"
+    },
+    {
+      "name": "箙",
+      "reading": "えびら",
+      "gobandate": "二",
+      "notes": "摂津生田を訪れた旅僧の前に梶原景季の霊が現れ、箙に梅を挿して奮戦した自らの功名を語る。",
+      "schools": "全"
+    },
+    {
+      "name": "烏帽子折",
+      "reading": "えぼしおり [え(ゑ)ぼしをり]",
+      "gobandate": "四",
+      "notes": "宮増作か。牛若丸が奥州へ下る途次、近江鏡の宿で源氏嘉例の左折れ烏帽子を作らせて元服する。続いて美濃赤坂の宿で熊坂長範の一団に襲われるが、これを一人で返り討ちする。後半は「熊坂」の現在能版となっている。",
+      "schools": "観・宝・剛・喜"
+    },
+    {
+      "name": "絵馬",
+      "reading": "えま [ゑま]",
+      "gobandate": "一",
+      "notes": "金剛某の作とも。公卿が十二月三十日に伊勢参宮し、斎宮で絵馬掛けの神事を見る。続いて神々が影向し天岩戸の奇瑞を見せる。",
+      "schools": "観・宝・剛・喜"
+    },
+    {
+      "name": "老松",
+      "reading": "おいまつ",
+      "gobandate": "一",
+      "notes": "世阿弥作。霊夢により筑前太宰府を訪れた京の男の前に、老松と紅梅の神霊が影向する。",
+      "schools": "全"
+    },
+    {
+      "name": "鸚鵡小町",
+      "reading": "おうむこまち [あうむこまち]",
+      "gobandate": "三",
+      "notes": "近江関寺に零落した小野小町のもとを勅使が訪れ、陽成天皇の御製を授けて返歌を請うが、小町は一字のみを変えた鸚鵡返しの返歌を詠む。続いて紀州玉津島明神参詣の折の若き日の在原業平を回想しつつ、老体の舞を見せる。",
+      "schools": "観・宝・剛・喜"
+    },
+    {
+      "name": "大江山",
+      "reading": "おおえやま [おほえやま]",
+      "gobandate": "五",
+      "notes": "源頼光の一行が山伏に変装して丹波大江山に向かい、酒呑童子を退治する。",
+      "schools": "全"
+    },
+    {
+      "name": "大社",
+      "reading": "おおやしろ [おほやしろ]",
+      "gobandate": "一",
+      "notes": "観世長俊作。朝臣が神在月に出雲大社を参詣し、諸神参集と龍蛇奉献の奇瑞を見る。",
+      "schools": "観・剛・喜"
+    },
+    {
+      "name": "翁",
+      "reading": "おきな",
+      "gobandate": "例式",
+      "notes": "本来は神前に奉納される神聖な楽舞。「式三番」も参照.",
+      "schools": "全"
+    },
+    {
+      "name": "小塩",
+      "reading": "おしお [をしほ]",
+      "gobandate": "三",
+      "notes": "金春禅竹作。大原野で桜を愛でる都人の前に、在原業平の霊が現れる。",
+      "schools": "全"
+    },
+    {
+      "name": "落葉",
+      "reading": "おちば",
+      "gobandate": "三",
+      "notes": "源氏物語に依る。洛北小野の里を訪れた旅僧の前に落葉の宮の霊が現れ、夕霧の大将と契りを交わした昔を語る。別名「京落葉」（喜多流参考曲の「陀羅尼落葉」とは別曲）。",
+      "schools": "剛"
+    },
+    {
+      "name": "大原御幸",
+      "reading": "おはらごこう [おはらごかう]",
+      "gobandate": "三",
+      "notes": "喜「小原御幸」。平家滅亡後、後白河法皇が大原寂光院に隠棲する建礼門院のもとを訪れる。",
+      "schools": "全"
+    },
+    {
+      "name": "姨捨",
+      "reading": "おばすて [をばすて]",
+      "gobandate": "三",
+      "notes": "春・喜「伯母捨」。世阿弥作。信濃姨捨山を訪れた都人の前に、この山に捨てられた老女の霊が現れて月下に舞う。",
+      "schools": "全"
+    },
+    {
+      "name": "女郎花",
+      "reading": "おみなめし [をみなめし]",
+      "gobandate": "四",
+      "notes": "山城男山を訪れた旅僧の前に、小野頼風とその妻の霊が現れ、夫婦の入水の経緯と、妻を埋葬した女塚に生える女郎花の由来について語り、最後に地獄の苦患の様を告げる。",
+      "schools": "全"
+    },
+    {
+      "name": "大蛇",
+      "reading": "おろち [をろち]",
+      "gobandate": "五",
+      "notes": "観世信光作。素戔嗚尊の八岐大蛇退治を描く。",
+      "schools": "宝・剛・喜"
+    },
+    {
+      "name": "杜若",
+      "reading": "かきつばた",
+      "gobandate": "三",
+      "notes": "金春禅竹作",
+      "schools": "全"
+    },
+    {
+      "name": "景清",
+      "reading": "かげきよ",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "花月",
+      "reading": "かげつ [くわげつ]",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "柏崎",
+      "reading": "かしわざき [かしはざき]",
+      "gobandate": "四",
+      "notes": "榎並左衛門五郎作（世阿弥改作）",
+      "schools": "全"
+    },
+    {
+      "name": "春日龍神",
+      "reading": "かすがりゅうじん [かすがりうじん]",
+      "gobandate": "五",
+      "notes": "金春禅竹作",
+      "schools": "全"
+    },
+    {
+      "name": "合浦",
+      "reading": "かっぽ",
+      "gobandate": "五",
+      "notes": "",
+      "schools": "観"
+    },
+    {
+      "name": "葛城",
+      "reading": "かづらき",
+      "gobandate": "四",
+      "notes": "世阿弥作",
+      "schools": "全"
+    },
+    {
+      "name": "鉄輪",
+      "reading": "かなわ",
+      "gobandate": "四・五",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "兼平",
+      "reading": "かねひら",
+      "gobandate": "二",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "加茂",
+      "reading": "かも",
+      "gobandate": "一",
+      "notes": "金春禅竹作. 別名「矢立鴨」. 観「賀茂」",
+      "schools": "全"
+    },
+    {
+      "name": "加茂物狂",
+      "reading": "かもものぐるい [かもものぐるひ]",
+      "gobandate": "四",
+      "notes": "喜多「賀茂物狂」。金春禅竹作か。",
+      "schools": "宝・剛・喜"
+    },
+    {
+      "name": "通小町",
+      "reading": "かよいこまち [かよひこまち]",
+      "gobandate": "四",
+      "notes": "観阿弥作",
+      "schools": "全"
+    },
+    {
+      "name": "邯鄲",
+      "reading": "かんたん",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "咸陽殿",
+      "reading": "かんようきゅう [かんやうきう]",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "観・宝・剛・喜"
+    },
+    {
+      "name": "鬼界島→俊寛",
+      "reading": "きかいがしま",
+      "gobandate": "四",
+      "notes": "喜多流での曲名",
+      "schools": "全"
+    },
+    {
+      "name": "菊慈童→枕慈童",
+      "reading": "きくじどう",
+      "gobandate": "四",
+      "notes": "観世流での曲名",
+      "schools": "全"
+    },
+    {
+      "name": "木曽",
+      "reading": "きそ",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "観"
+    },
+    {
+      "name": "砧",
+      "reading": "きぬた",
+      "gobandate": "四",
+      "notes": "世阿弥作",
+      "schools": "全"
+    },
+    {
+      "name": "清経",
+      "reading": "きよつね",
+      "gobandate": "二",
+      "notes": "世阿弥作",
+      "schools": "全"
+    },
+    {
+      "name": "金札",
+      "reading": "きんさつ",
+      "gobandate": "一",
+      "notes": "観阿弥作",
+      "schools": "全"
+    },
+    {
+      "name": "祇王",
+      "reading": "ぎおう [ぎわう]",
+      "gobandate": "三",
+      "notes": "喜「二人祇王」",
+      "schools": "宝・剛・喜"
+    },
+    {
+      "name": "草薙",
+      "reading": "くさなぎ",
+      "gobandate": "四・五",
+      "notes": "",
+      "schools": "宝"
+    },
+    {
+      "name": "楠露",
+      "reading": "くすのつゆ",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "観"
+    },
+    {
+      "name": "国栖",
+      "reading": "くず",
+      "gobandate": "四・五",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "久世戸",
+      "reading": "くせのと",
+      "gobandate": "一",
+      "notes": "観世信光作",
+      "schools": "観"
+    },
+    {
+      "name": "熊坂",
+      "reading": "くまさか",
+      "gobandate": "五",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "鞍馬天狗",
+      "reading": "くらまてんぐ",
+      "gobandate": "五",
+      "notes": "宮増作か",
+      "schools": "全"
+    },
+    {
+      "name": "車僧",
+      "reading": "くるまぞう",
+      "gobandate": "五",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "呉服",
+      "reading": "くれは",
+      "gobandate": "一",
+      "notes": "",
+      "schools": "観・宝・春・剛"
+    },
+    {
+      "name": "黒塚",
+      "reading": "くろづか",
+      "gobandate": "四・五",
+      "notes": "元は近江能. 観「安達原」",
+      "schools": "全"
+    },
+    {
+      "name": "月宮殿→鶴亀",
+      "reading": "げっきゅうでん [げつきうでん]",
+      "gobandate": "一",
+      "notes": "喜多流での曲名",
+      "schools": "全"
+    },
+    {
+      "name": "現在七面",
+      "reading": "げんざいしちめん",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "観・剛"
+    },
+    {
+      "name": "現在忠度",
+      "reading": "げんざいただのり",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "剛"
+    },
+    {
+      "name": "現在鵺",
+      "reading": "げんざいぬえ",
+      "gobandate": "五",
+      "notes": "",
+      "schools": "剛"
+    },
+    {
+      "name": "源氏供養",
+      "reading": "げんじくよう [げんじくやう]",
+      "gobandate": "三",
+      "notes": "金春禅竹作か",
+      "schools": "全"
+    },
+    {
+      "name": "絃上",
+      "reading": "けんじょう [けんじやう]",
+      "gobandate": "五",
+      "notes": "観「玄象（げんじょう）」",
+      "schools": "全"
+    },
+    {
+      "name": "源太夫",
+      "reading": "げんだゆう [げんだいふ]",
+      "gobandate": "一",
+      "notes": "金春禅竹作か. サシ・クセは田楽の亀阿弥（喜阿弥）作「熱田」からの流用",
+      "schools": "春"
+    },
+    {
+      "name": "恋重荷",
+      "reading": "こいのおもに [こひのおもに]",
+      "gobandate": "四",
+      "notes": "世阿弥作（古作「綾の太鼓」の改作）",
+      "schools": "観・春"
+    },
+    {
+      "name": "項羽",
+      "reading": "こうう [かうう]",
+      "gobandate": "五",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "皇帝",
+      "reading": "こうてい [くわうてい]",
+      "gobandate": "四・五",
+      "notes": "観世信光作",
+      "schools": "観・宝・剛・喜"
+    },
+    {
+      "name": "高野物狂",
+      "reading": "こうやものぐるい [かうやものぐるひ]",
+      "gobandate": "四",
+      "notes": "世阿弥作. 曲中の「高野曲舞」は観世元雅作",
+      "schools": "観・宝・剛・喜"
+    },
+    {
+      "name": "小鍛冶",
+      "reading": "こかじ [こかぢ]",
+      "gobandate": "五",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "小督",
+      "reading": "こごう [こがう]",
+      "gobandate": "四",
+      "notes": "金春禅竹作",
+      "schools": "全"
+    },
+    {
+      "name": "小袖曽我",
+      "reading": "こそでそが",
+      "gobandate": "四",
+      "notes": "宮増作か",
+      "schools": "全"
+    },
+    {
+      "name": "胡蝶",
+      "reading": "こちょう [こてふ]",
+      "gobandate": "三",
+      "notes": "観世信光作",
+      "schools": "観・宝・春・剛"
+    },
+    {
+      "name": "西行桜",
+      "reading": "さいぎょうざくら [さいぎやうざくら]",
+      "gobandate": "三",
+      "notes": "世阿弥作",
+      "schools": "全"
+    },
+    {
+      "name": "佐保山",
+      "reading": "さおやま [さほやま]",
+      "gobandate": "一",
+      "notes": "金春禅竹作",
+      "schools": "春"
+    },
+    {
+      "name": "逆矛",
+      "reading": "さかほこ",
+      "gobandate": "一",
+      "notes": "",
+      "schools": "観"
+    },
+    {
+      "name": "鷺",
+      "reading": "さぎ",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "桜井駅",
+      "reading": "さくらいのえき [さくらゐのえき]",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "剛"
+    },
+    {
+      "name": "桜川",
+      "reading": "さくらがわ [さくらがは]",
+      "gobandate": "四",
+      "notes": "世阿弥作",
+      "schools": "全"
+    },
+    {
+      "name": "佐渡",
+      "reading": "さど",
+      "gobandate": "四",
+      "notes": "金春信高作",
+      "schools": "春"
+    },
+    {
+      "name": "実方",
+      "reading": "さねかた",
+      "gobandate": "三",
+      "notes": "昭和63年復曲. 詞章の一部は金春信高・堂本正樹による改作.",
+      "schools": "春"
+    },
+    {
+      "name": "実盛",
+      "reading": "さねもり",
+      "gobandate": "二",
+      "notes": "世阿弥作",
+      "schools": "全"
+    },
+    {
+      "name": "三笑",
+      "reading": "さんしょう [さんせう]",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "観・宝・剛"
+    },
+    {
+      "name": "志賀",
+      "reading": "しが",
+      "gobandate": "一",
+      "notes": "世阿弥作",
+      "schools": "観・宝・剛・喜"
+    },
+    {
+      "name": "七騎落",
+      "reading": "しちきおち",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "石橋",
+      "reading": "しゃっきょう [しやくけう]",
+      "gobandate": "五",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "舎利",
+      "reading": "しゃり",
+      "gobandate": "五",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "俊寛",
+      "reading": "しゅんかん [しゆんくわん]",
+      "gobandate": "四",
+      "notes": "観世元雅作か",
+      "schools": "全"
+    },
+    {
+      "name": "俊成忠度",
+      "reading": "しゅんぜいただのり",
+      "gobandate": "二",
+      "notes": "内藤藤左衛門（河内守）作",
+      "schools": "観・宝・剛・喜"
+    },
+    {
+      "name": "春栄",
+      "reading": "しゅんえい",
+      "gobandate": "五",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "鍾馗",
+      "reading": "しょうき",
+      "gobandate": "五",
+      "notes": "金春禅竹作",
+      "schools": "全"
+    },
+    {
+      "name": "昭君",
+      "reading": "しょうくん [せうくん]",
+      "gobandate": "五",
+      "notes": "金春権守作",
+      "schools": "全"
+    },
+    {
+      "name": "猩々",
+      "reading": "しょうじょう [しやうじやう]",
+      "gobandate": "五",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "正尊",
+      "reading": "しょうぞん [しやうぞん]",
+      "gobandate": "四",
+      "notes": "観世長俊作",
+      "schools": "全"
+    },
+    {
+      "name": "白鬚",
+      "reading": "しらひげ",
+      "gobandate": "一",
+      "notes": "曲舞は観阿弥作曲. 春「白髭」",
+      "schools": "観・春"
+    },
+    {
+      "name": "代主",
+      "reading": "しろぬし",
+      "gobandate": "一",
+      "notes": "金春禅竹作か. 別名「葛城鴨」",
+      "schools": "観"
+    },
+    {
+      "name": "自然居士",
+      "reading": "じねんこじ",
+      "gobandate": "四",
+      "notes": "観阿弥作（世阿弥改作）",
+      "schools": "全"
+    },
+    {
+      "name": "薄",
+      "reading": "すすき",
+      "gobandate": "三",
+      "notes": "令和元年復曲",
+      "schools": "剛"
+    },
+    {
+      "name": "須磨源氏",
+      "reading": "すまげんじ",
+      "gobandate": "五",
+      "notes": "古作を世阿弥改作か",
+      "schools": "観・宝・剛・喜"
+    },
+    {
+      "name": "墨染桜",
+      "reading": "すみぞめざくら",
+      "gobandate": "三",
+      "notes": "",
+      "schools": "剛"
+    },
+    {
+      "name": "隅田川",
+      "reading": "すみだがわ [すみだがは]",
+      "gobandate": "四",
+      "notes": "観世元雅作. 春「角田川」",
+      "schools": "全"
+    },
+    {
+      "name": "住吉詣",
+      "reading": "すみよしもうで [すみよしまうで]",
+      "gobandate": "三",
+      "notes": "",
+      "schools": "観・剛・喜"
+    },
+    {
+      "name": "西王母",
+      "reading": "せいおうぼ [せいわうぼ]",
+      "gobandate": "一",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "誓願寺",
+      "reading": "せいがんじ [せいぐわんじ]",
+      "gobandate": "三",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "関寺小町",
+      "reading": "せきでらこまち",
+      "gobandate": "三",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "関原与一",
+      "reading": "せきはらよいち",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "喜"
+    },
+    {
+      "name": "殺生石",
+      "reading": "せっしょうせき [せつしやうせき]",
+      "gobandate": "五",
+      "notes": "日吉左阿弥作",
+      "schools": "全"
+    },
+    {
+      "name": "摂待",
+      "reading": "せったい",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "観・宝・剛・喜"
+    },
+    {
+      "name": "蝉丸",
+      "reading": "せみまる",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "千手",
+      "reading": "せんじゅ",
+      "gobandate": "三",
+      "notes": "金春禅竹作. 喜「千寿」",
+      "schools": "全"
+    },
+    {
+      "name": "是界",
+      "reading": "ぜがい",
+      "gobandate": "五",
+      "notes": "竹田法印宗盛作. 観「善界」剛「是我意」",
+      "schools": "全"
+    },
+    {
+      "name": "禅師曽我",
+      "reading": "ぜんじそが",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "観・宝・喜"
+    },
+    {
+      "name": "草子洗小町",
+      "reading": "そうしあらい [さうしあらひこまち]",
+      "gobandate": "三",
+      "notes": "宝・剛「草紙洗」, 春・喜「草紙洗小町」",
+      "schools": "全"
+    },
+    {
+      "name": "卒都婆小町",
+      "reading": "そとばこまち",
+      "gobandate": "四",
+      "notes": "観阿弥作（世阿弥改作）",
+      "schools": "全"
+    },
+    {
+      "name": "泰山府君",
+      "reading": "たいざんふくん",
+      "gobandate": "五",
+      "notes": "世阿弥作. 観世流では「泰山木」として令和3年に復曲.",
+      "schools": "剛"
+    },
+    {
+      "name": "大典",
+      "reading": "たいてん",
+      "gobandate": "一",
+      "notes": "",
+      "schools": "観"
+    },
+    {
+      "name": "大瓶猩々",
+      "reading": "たいへいしょうじょう [たいへいしやうじやう]",
+      "gobandate": "五",
+      "notes": "",
+      "schools": "観"
+    },
+    {
+      "name": "当麻",
+      "reading": "たえま",
+      "gobandate": "五",
+      "notes": "世阿弥作",
+      "schools": "全"
+    },
+    {
+      "name": "高砂",
+      "reading": "たかさご",
+      "gobandate": "一",
+      "notes": "世阿弥作",
+      "schools": "全"
+    },
+    {
+      "name": "竹雪",
+      "reading": "たけのゆき",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "宝・喜"
+    },
+    {
+      "name": "忠信",
+      "reading": "ただのぶ",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "観・宝"
+    },
+    {
+      "name": "忠度",
+      "reading": "ただのり",
+      "gobandate": "二",
+      "notes": "世阿弥作",
+      "schools": "全"
+    },
+    {
+      "name": "龍田",
+      "reading": "たつた",
+      "gobandate": "四",
+      "notes": "金春禅竹作. 春「立田」",
+      "schools": "全"
+    },
+    {
+      "name": "谷行",
+      "reading": "たにこう [たにかう]",
+      "gobandate": "四・五",
+      "notes": "",
+      "schools": "観・宝・春・剛"
+    },
+    {
+      "name": "玉葛",
+      "reading": "たまかづら",
+      "gobandate": "四",
+      "notes": "金春禅竹作. 観「玉鬘」",
+      "schools": "全"
+    },
+    {
+      "name": "玉井",
+      "reading": "たまのい [たまのゐ]",
+      "gobandate": "一",
+      "notes": "観世信光作",
+      "schools": "観・剛・喜"
+    },
+    {
+      "name": "田村",
+      "reading": "たむら",
+      "gobandate": "二",
+      "notes": "世阿弥作",
+      "schools": "全"
+    },
+    {
+      "name": "大会",
+      "reading": "だいえ [だいゑ]",
+      "gobandate": "五",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "大仏供養",
+      "reading": "だいぶつくよう [だいぶつくやう]",
+      "gobandate": "四",
+      "notes": "春「奈良詣」",
+      "schools": "全"
+    },
+    {
+      "name": "第六天",
+      "reading": "だいろくてん",
+      "gobandate": "五",
+      "notes": "",
+      "schools": "観"
+    },
+    {
+      "name": "檀風",
+      "reading": "だんぷう",
+      "gobandate": "五",
+      "notes": "",
+      "schools": "宝・剛"
+    },
+    {
+      "name": "竹生島",
+      "reading": "ちくぶしま",
+      "gobandate": "一",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "調伏曽我",
+      "reading": "ちょうぶくそが [てうぶくそが]",
+      "gobandate": "四・五",
+      "notes": "宮増作か",
+      "schools": "宝・剛・喜"
+    },
+    {
+      "name": "張良",
+      "reading": "ちょうりょう [ちやうりやう]",
+      "gobandate": "四・五",
+      "notes": "観世信光作",
+      "schools": "全"
+    },
+    {
+      "name": "土蜘蛛",
+      "reading": "つちぐも",
+      "gobandate": "五",
+      "notes": "宝・春「土蜘」",
+      "schools": "全"
+    },
+    {
+      "name": "土車",
+      "reading": "つちぐるま",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "観・喜"
+    },
+    {
+      "name": "経政",
+      "reading": "つねまさ",
+      "gobandate": "二",
+      "notes": "世阿弥作. 観・剛「経正」",
+      "schools": "全"
+    },
+    {
+      "name": "妻戸",
+      "reading": "つまど",
+      "gobandate": "五",
+      "notes": "「雷電」の後シテを天神として神舞を舞うよう改作. 宝「来殿」と同じ趣旨の改作.",
+      "schools": "剛"
+    },
+    {
+      "name": "鶴",
+      "reading": "つる",
+      "gobandate": "三",
+      "notes": "土岐善麿作",
+      "schools": "喜"
+    },
+    {
+      "name": "鶴亀",
+      "reading": "つるかめ",
+      "gobandate": "一",
+      "notes": "喜「月宮殿」",
+      "schools": "全"
+    },
+    {
+      "name": "定家",
+      "reading": "ていか",
+      "gobandate": "三",
+      "notes": "金春禅竹作",
+      "schools": "全"
+    },
+    {
+      "name": "天鼓",
+      "reading": "てんこ",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "藤栄",
+      "reading": "とうえい",
+      "gobandate": "四",
+      "notes": "春・喜「藤永」",
+      "schools": "宝・春・剛・喜"
+    },
+    {
+      "name": "東岸居士",
+      "reading": "とうがんこじ",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "観・宝・剛・喜"
+    },
+    {
+      "name": "唐船",
+      "reading": "とうせん [たうせん]",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "東方朔",
+      "reading": "とうぼうさく [とうばうさく]",
+      "gobandate": "一",
+      "notes": "金春禅鳳作",
+      "schools": "観・春"
+    },
+    {
+      "name": "東北",
+      "reading": "とうぼく",
+      "gobandate": "三",
+      "notes": "世阿弥作",
+      "schools": "全"
+    },
+    {
+      "name": "融",
+      "reading": "とおる [とほる]",
+      "gobandate": "五",
+      "notes": "世阿弥作",
+      "schools": "全"
+    },
+    {
+      "name": "木賊",
+      "reading": "とくさ",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "知章",
+      "reading": "ともあきら",
+      "gobandate": "二",
+      "notes": "",
+      "schools": "観・春・剛・喜"
+    },
+    {
+      "name": "巴",
+      "reading": "ともえ [ともゑ]",
+      "gobandate": "二",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "朝長",
+      "reading": "ともなが",
+      "gobandate": "二",
+      "notes": "観世元雅作",
+      "schools": "全"
+    },
+    {
+      "name": "鳥追舟",
+      "reading": "とりおいぶね [とりおひぶね]",
+      "gobandate": "四",
+      "notes": "宝「鳥追」喜「鳥追舩」",
+      "schools": "全"
+    },
+    {
+      "name": "道成寺",
+      "reading": "どうじょうじ [だうじやうじ]",
+      "gobandate": "四・五",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "道明寺",
+      "reading": "どうみょうじ [だうみやうじ]",
+      "gobandate": "一",
+      "notes": "",
+      "schools": "観・剛"
+    },
+    {
+      "name": "仲光→満仲",
+      "reading": "なかみつ",
+      "gobandate": "四",
+      "notes": "観世流での曲名",
+      "schools": "観・宝・剛・喜"
+    },
+    {
+      "name": "長柄",
+      "reading": "ながら",
+      "gobandate": "四",
+      "notes": "昭和43年復曲",
+      "schools": "春"
+    },
+    {
+      "name": "難波",
+      "reading": "なにわ [なには]",
+      "gobandate": "一",
+      "notes": "世阿弥作. 別名「難波梅」",
+      "schools": "全"
+    },
+    {
+      "name": "奈良詣→大仏供養",
+      "reading": "ならもうで [ならまうで]",
+      "gobandate": "四",
+      "notes": "金春流での曲名",
+      "schools": "全"
+    },
+    {
+      "name": "錦木",
+      "reading": "にしきぎ",
+      "gobandate": "四",
+      "notes": "世阿弥作",
+      "schools": "全"
+    },
+    {
+      "name": "錦戸",
+      "reading": "にしきど",
+      "gobandate": "四",
+      "notes": "宮増作か",
+      "schools": "観・宝"
+    },
+    {
+      "name": "二人祇王→祇王",
+      "reading": "ににんぎおう [ににんぎわう]",
+      "gobandate": "三",
+      "notes": "喜多流での曲名",
+      "schools": "宝・剛・喜"
+    },
+    {
+      "name": "鵺",
+      "reading": "ぬえ",
+      "gobandate": "五",
+      "notes": "世阿弥作",
+      "schools": "全"
+    },
+    {
+      "name": "寝覚",
+      "reading": "ねざめ",
+      "gobandate": "一",
+      "notes": "",
+      "schools": "観"
+    },
+    {
+      "name": "野宮",
+      "reading": "ののみや",
+      "gobandate": "三",
+      "notes": "金春禅竹作",
+      "schools": "全"
+    },
+    {
+      "name": "野守",
+      "reading": "のもり",
+      "gobandate": "五",
+      "notes": "世阿弥作",
+      "schools": "全"
+    },
+    {
+      "name": "白楽天",
+      "reading": "はくらくてん",
+      "gobandate": "一",
+      "notes": "",
+      "schools": "観・春・剛・喜"
+    },
+    {
+      "name": "羽衣",
+      "reading": "はごろも",
+      "gobandate": "三",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "半蔀",
+      "reading": "はしとみ",
+      "gobandate": "三",
+      "notes": "内藤藤左衛門（河内守）作. 観「はじとみ」",
+      "schools": "全"
+    },
+    {
+      "name": "橋弁慶",
+      "reading": "はしべんけい",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "鉢木",
+      "reading": "はちのき",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "初雪",
+      "reading": "はつゆき",
+      "gobandate": "三",
+      "notes": "金春禅鳳作",
+      "schools": "春"
+    },
+    {
+      "name": "花筐",
+      "reading": "はながたみ",
+      "gobandate": "四",
+      "notes": "世阿弥作",
+      "schools": "全"
+    },
+    {
+      "name": "班女",
+      "reading": "はんじょ",
+      "gobandate": "四",
+      "notes": "世阿弥作",
+      "schools": "全"
+    },
+    {
+      "name": "芭蕉",
+      "reading": "ばしょう [ばせう]",
+      "gobandate": "三",
+      "notes": "金春禅竹作",
+      "schools": "全"
+    },
+    {
+      "name": "飛雲",
+      "reading": "ひうん",
+      "gobandate": "五",
+      "notes": "",
+      "schools": "観・宝・剛"
+    },
+    {
+      "name": "檜垣",
+      "reading": "ひがき",
+      "gobandate": "三",
+      "notes": "世阿弥作",
+      "schools": "全"
+    },
+    {
+      "name": "秀衡",
+      "reading": "ひでひら",
+      "gobandate": "",
+      "notes": "土岐善麿作",
+      "schools": "喜"
+    },
+    {
+      "name": "雲雀山",
+      "reading": "ひばりやま",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "氷室",
+      "reading": "ひむろ",
+      "gobandate": "一",
+      "notes": "宮増作か",
+      "schools": "全"
+    },
+    {
+      "name": "百万",
+      "reading": "ひゃくまん",
+      "gobandate": "四",
+      "notes": "観阿弥作（世阿弥改作）",
+      "schools": "全"
+    },
+    {
+      "name": "藤",
+      "reading": "ふじ [ふぢ]",
+      "gobandate": "三",
+      "notes": "",
+      "schools": "観・宝・剛"
+    },
+    {
+      "name": "富士山",
+      "reading": "ふじさん",
+      "gobandate": "一",
+      "notes": "世阿弥作か",
+      "schools": "春・剛"
+    },
+    {
+      "name": "富士太鼓",
+      "reading": "ふじたいこ",
+      "gobandate": "四",
+      "notes": "金春禅竹作か",
+      "schools": "全"
+    },
+    {
+      "name": "藤戸",
+      "reading": "ふじと [ふぢと]",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "二人静",
+      "reading": "ふたりしずか [ふたりしづか]",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "観・春・剛・喜"
+    },
+    {
+      "name": "船橋",
+      "reading": "ふなばし",
+      "gobandate": "四",
+      "notes": "田楽能「佐野船橋」を世阿弥改作",
+      "schools": "全"
+    },
+    {
+      "name": "船弁慶",
+      "reading": "ふなべんけい",
+      "gobandate": "五",
+      "notes": "観世信光作",
+      "schools": "全"
+    },
+    {
+      "name": "放下僧",
+      "reading": "ほうかそう [はうかそう]",
+      "gobandate": "四",
+      "notes": "元は近江能",
+      "schools": "全"
+    },
+    {
+      "name": "放生川",
+      "reading": "ほうじょうがわ [はうじやうがは]",
+      "gobandate": "一",
+      "notes": "世阿弥作",
+      "schools": "観・宝・春・剛"
+    },
+    {
+      "name": "彭祖",
+      "reading": "ほうそ [はうそ]",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "剛"
+    },
+    {
+      "name": "仏原",
+      "reading": "ほとけがはら",
+      "gobandate": "三",
+      "notes": "",
+      "schools": "観・剛"
+    },
+    {
+      "name": "巻絹",
+      "reading": "まきぎぬ",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "枕慈童",
+      "reading": "まくらじどう",
+      "gobandate": "四",
+      "notes": "観「菊慈童」。観世流の「枕慈童」は別曲。",
+      "schools": "全"
+    },
+    {
+      "name": "松風",
+      "reading": "まつかぜ",
+      "gobandate": "三",
+      "notes": "観阿弥作（世阿弥改作）",
+      "schools": "全"
+    },
+    {
+      "name": "松尾",
+      "reading": "まつのお [まつのを]",
+      "gobandate": "一",
+      "notes": "",
+      "schools": "宝"
+    },
+    {
+      "name": "松虫",
+      "reading": "まつむし",
+      "gobandate": "四",
+      "notes": "金春禅竹作",
+      "schools": "全"
+    },
+    {
+      "name": "松山鏡",
+      "reading": "まつやまかがみ",
+      "gobandate": "五",
+      "notes": "",
+      "schools": "観・剛・喜"
+    },
+    {
+      "name": "松山天狗",
+      "reading": "まつやまてんぐ",
+      "gobandate": "五",
+      "notes": "",
+      "schools": "剛"
+    },
+    {
+      "name": "松浦佐用姫",
+      "reading": "まつらさよひめ",
+      "gobandate": "四",
+      "notes": "世阿弥作。昭和38年に復曲、平成12年に現行曲に加えられる。別名「松浦」「松浦鏡」",
+      "schools": "観"
+    },
+    {
+      "name": "満仲",
+      "reading": "まんじゅう [まんぢう]",
+      "gobandate": "四",
+      "notes": "観「仲光」",
+      "schools": "観・宝・剛・喜"
+    },
+    {
+      "name": "三井寺",
+      "reading": "みいでら [みゐでら]",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "通盛",
+      "reading": "みちもり",
+      "gobandate": "二",
+      "notes": "井阿弥作（世阿弥改作）",
+      "schools": "全"
+    },
+    {
+      "name": "三山",
+      "reading": "みつやま",
+      "gobandate": "四",
+      "notes": "観世流では昭和60年復曲.",
+      "schools": "観・宝・剛"
+    },
+    {
+      "name": "水無瀬",
+      "reading": "みなせ",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "喜"
+    },
+    {
+      "name": "水無月祓",
+      "reading": "みなづきばらい [みなづきばらひ]",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "観"
+    },
+    {
+      "name": "身延",
+      "reading": "みのぶ",
+      "gobandate": "三",
+      "notes": "",
+      "schools": "観"
+    },
+    {
+      "name": "御裳濯",
+      "reading": "みもすそ",
+      "gobandate": "一",
+      "notes": "",
+      "schools": "春"
+    },
+    {
+      "name": "三輪",
+      "reading": "みわ",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "六浦",
+      "reading": "むつら",
+      "gobandate": "三",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "室君",
+      "reading": "むろぎみ",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "観・春"
+    },
+    {
+      "name": "和布刈",
+      "reading": "めかり",
+      "gobandate": "一",
+      "notes": "金春禅竹作か",
+      "schools": "観・宝・剛・喜"
+    },
+    {
+      "name": "望月",
+      "reading": "もちづき",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "求塚",
+      "reading": "もとめづか",
+      "gobandate": "四",
+      "notes": "観阿弥作（世阿弥改作）",
+      "schools": "全"
+    },
+    {
+      "name": "紅葉狩",
+      "reading": "もみじがり [もみぢがり]",
+      "gobandate": "五",
+      "notes": "観世信光作",
+      "schools": "全"
+    },
+    {
+      "name": "盛久",
+      "reading": "もりひさ",
+      "gobandate": "四",
+      "notes": "観世元雅作",
+      "schools": "全"
+    },
+    {
+      "name": "八島",
+      "reading": "やしま",
+      "gobandate": "二",
+      "notes": "世阿弥作. 観「屋島」",
+      "schools": "全"
+    },
+    {
+      "name": "山姥",
+      "reading": "やまんば",
+      "gobandate": "五",
+      "notes": "世阿弥作",
+      "schools": "全"
+    },
+    {
+      "name": "夕顔",
+      "reading": "ゆうがお [ゆふがほ]",
+      "gobandate": "三",
+      "notes": "金春流では平成30年に復曲。",
+      "schools": "観・春・剛・喜"
+    },
+    {
+      "name": "雪",
+      "reading": "ゆき",
+      "gobandate": "三",
+      "notes": "",
+      "schools": "剛"
+    },
+    {
+      "name": "遊行柳",
+      "reading": "ゆぎょうやなぎ [ゆぎやうやなぎ]",
+      "gobandate": "三",
+      "notes": "観世信光作",
+      "schools": "全"
+    },
+    {
+      "name": "弓八幡",
+      "reading": "ゆみやわた [ゆみやはた]",
+      "gobandate": "一",
+      "notes": "世阿弥作",
+      "schools": "全"
+    },
+    {
+      "name": "夢殿",
+      "reading": "ゆめどの",
+      "gobandate": "四",
+      "notes": "土岐善麿作",
+      "schools": "喜"
+    },
+    {
+      "name": "熊野",
+      "reading": "ゆや",
+      "gobandate": "三",
+      "notes": "喜「湯谷」",
+      "schools": "全"
+    },
+    {
+      "name": "楊貴妃",
+      "reading": "ようきひ [やうきひ]",
+      "gobandate": "三",
+      "notes": "金春禅竹作",
+      "schools": "全"
+    },
+    {
+      "name": "夜討曽我",
+      "reading": "ようちそが",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "全"
+    },
+    {
+      "name": "養老",
+      "reading": "ようろう [やうらう]",
+      "gobandate": "一",
+      "notes": "世阿弥作",
+      "schools": "全"
+    },
+    {
+      "name": "吉野静",
+      "reading": "よしのしずか [よしのしづか]",
+      "gobandate": "三",
+      "notes": "観阿弥作（井阿弥改作か）",
+      "schools": "観・宝・春・剛"
+    },
+    {
+      "name": "吉野天人",
+      "reading": "よしのてんにん",
+      "gobandate": "三",
+      "notes": "観世信光作",
+      "schools": "観"
+    },
+    {
+      "name": "頼政",
+      "reading": "よりまさ",
+      "gobandate": "二",
+      "notes": "世阿弥作",
+      "schools": "全"
+    },
+    {
+      "name": "弱法師",
+      "reading": "よろぼし",
+      "gobandate": "四",
+      "notes": "観世元雅作",
+      "schools": "全"
+    },
+    {
+      "name": "来殿",
+      "reading": "らいでん",
+      "gobandate": "五",
+      "notes": "加賀藩主前田家が菅公の末裔であることから、「雷電」の後シテを天神として神舞を舞うよう改作。 剛「妻戸」も同じ趣旨の改作。",
+      "schools": "宝"
+    },
+    {
+      "name": "雷電",
+      "reading": "らいでん",
+      "gobandate": "五",
+      "notes": "",
+      "schools": "観・剛・喜"
+    },
+    {
+      "name": "羅生門",
+      "reading": "らしょうもん [らしやうもん]",
+      "gobandate": "五",
+      "notes": "観世信光作",
+      "schools": "観・宝・剛・喜"
+    },
+    {
+      "name": "龍虎",
+      "reading": "りょうこ",
+      "gobandate": "五",
+      "notes": "観世信光作",
+      "schools": "観・喜"
+    },
+    {
+      "name": "輪蔵",
+      "reading": "りんぞう [りんざう]",
+      "gobandate": "四",
+      "notes": "観世長俊作",
+      "schools": "観"
+    },
+    {
+      "name": "籠太鼓",
+      "reading": "ろうだいこ",
+      "gobandate": "四",
+      "notes": "",
+      "schools": "全"
+    }
+  ],
+  "meta": {
+    "title": "能の現行演目一覧 (Current Noh repertoire) - Free Download",
+    "description": "現在演じられている能の演目の一覧。読み（歴史的仮名遣）・五番立ての分類・あらすじ等・上演する流派。 Contains 256 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "能の現行演目一覧 (Current Noh repertoire) | ListBase",
+    "seo_description": "Download 能の現行演目一覧 (Current Noh repertoire) — 256 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 256 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E8%83%BD%E3%81%AE%E7%8F%BE%E8%A1%8C%E6%BC%94%E7%9B%AE%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}

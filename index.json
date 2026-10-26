@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-26T02:11:34.850Z",
-  "total_datasets": 511,
-  "total_records": 454696,
+  "generated": "2026-10-26T02:11:38.915Z",
+  "total_datasets": 512,
+  "total_records": 454952,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "economy",
@@ -440,6 +440,32 @@
         "xlsx": {
           "name": "ja-naoki-sho-jushosha_JA.xlsx",
           "size": 17269
+        }
+      }
+    },
+    {
+      "id": "ja-no-genko-enmoku",
+      "name": "能の現行演目一覧 (Current Noh repertoire)",
+      "category": "culture",
+      "record_count": 256,
+      "columns": [
+        "name",
+        "reading",
+        "gobandate",
+        "notes",
+        "schools"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E8%83%BD%E3%81%AE%E7%8F%BE%E8%A1%8C%E6%BC%94%E7%9B%AE%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 56818,
+      "files": {
+        "csv": {
+          "name": "ja-no-genko-enmoku_JA.csv",
+          "size": 29608
+        },
+        "xlsx": {
+          "name": "ja-no-genko-enmoku_JA.xlsx",
+          "size": 23330
         }
       }
     },
