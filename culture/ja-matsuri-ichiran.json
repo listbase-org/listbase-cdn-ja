@@ -1,0 +1,7415 @@
+{
+  "id": "ja-matsuri-ichiran",
+  "name": "日本の祭り一覧（地方・都道府県別）(Festivals of Japan)",
+  "title": "日本の祭り一覧（地方・都道府県別）(Festivals of Japan)",
+  "description": "日本各地の祭り・行事を地方・都道府県別にまとめた一覧。開催地・時期などの詳細付き。",
+  "category": "culture",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%A5%AD%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%A5%AD%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 1052,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "details",
+      "label": "Details",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "region": "北海道地方",
+      "prefecture": "北海道",
+      "name": "千歳・支笏湖氷濤まつり",
+      "details": "千歳市、1月",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方",
+      "prefecture": "北海道",
+      "name": "さっぽろ雪まつり",
+      "details": "札幌市、2月",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方",
+      "prefecture": "北海道",
+      "name": "旭川冬まつり",
+      "details": "旭川市、2月",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方",
+      "prefecture": "北海道",
+      "name": "小樽雪あかりの路",
+      "details": "小樽市、2月",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方",
+      "prefecture": "北海道",
+      "name": "北見厳寒の焼き肉まつり",
+      "details": "北見市、2月",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方",
+      "prefecture": "北海道",
+      "name": "北海道神宮例祭（札幌まつり）",
+      "details": "札幌市、6月",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方",
+      "prefecture": "北海道",
+      "name": "おたる潮まつり",
+      "details": "小樽市、7月",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方",
+      "prefecture": "北海道",
+      "name": "芦別健夏山笠",
+      "details": "芦別市、7月",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方",
+      "prefecture": "北海道",
+      "name": "北海ソーラン祭り",
+      "details": "余市町、7月",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方",
+      "prefecture": "北海道",
+      "name": "北海へそ祭り",
+      "details": "富良野市、7月28日・29日",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方",
+      "prefecture": "北海道",
+      "name": "さっぽろ夏祭り",
+      "details": "札幌市、7月 - 8月",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方",
+      "prefecture": "北海道",
+      "name": "沼田町夜高あんどん祭り",
+      "details": "沼田町、8月第4金曜日・土曜日",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方",
+      "prefecture": "北海道",
+      "name": "開拓神社例祭",
+      "details": "札幌市、8月",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "name": "弘前さくらまつり",
+      "details": "弘前市、4月23日 - 5月5日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "name": "八戸三社大祭",
+      "details": "八戸市、7月31日 - 8月4日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "name": "弘前ねぷた",
+      "details": "弘前市、8月",
+      "notes": "弘前四大祭り"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "name": "青森ねぶた",
+      "details": "青森市、8月",
+      "notes": "東北三大祭り"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "青森県",
+      "name": "五所川原立佞武多",
+      "details": "五所川原市、8月",
+      "notes": "青森三大ねぶた"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "name": "蘇民祭",
+      "details": "奥州市・花巻市ほか県内各地、1月 - 3月",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "name": "日高火防祭",
+      "details": "奥州市、4月29日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "name": "春の藤原まつり",
+      "details": "平泉町中尊寺・毛越寺、5月",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "name": "チャグチャグ馬コ",
+      "details": "滝沢市、6月",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "name": "盛岡さんさ踊り",
+      "details": "盛岡市、8月",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "name": "北上・みちのく芸能まつり(北上市、8月)",
+      "details": "",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "岩手県",
+      "name": "舟っこ流し",
+      "details": "盛岡市・遠野市・紫波町、8月16日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "どんと祭",
+      "details": "宮城県下各地、1月14日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "米川の水かぶり",
+      "details": "登米市、2月初午",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "青い鯉のぼりプロジェクト",
+      "details": "東松島市、3月11日 - 5月5日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "平筒沼ふれあい公園桜まつり",
+      "details": "登米市、4月中旬 - 下旬",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "火伏せの虎舞",
+      "details": "加美町、4月29日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "加護坊桜まつり",
+      "details": "大崎市、4月中旬 - 5月初旬",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "東北輓馬競技大会",
+      "details": "涌谷町、4月第3日曜日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "せみね桜まつり",
+      "details": "栗原市、4月中旬 - 下旬",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "かくだ菜の花まつり",
+      "details": "角田市、4月29日 - 5月5日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "くりでんレールバイク乗車会",
+      "details": "栗原市、4月 - 11月・不定期",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "仙台・青葉まつり",
+      "details": "仙台市、毎年5月の第3日曜日とその前日の2日間",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "みなみかた花菖蒲まつり",
+      "details": "登米市、6月中旬 - 7月初旬",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "山王史跡公園あやめ祭り",
+      "details": "栗原市、6月中旬 - 7月初旬",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "多賀城跡あやめまつり",
+      "details": "多賀城市、6月24日 - 7月初旬",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "塩竈みなと祭",
+      "details": "塩竈市、7月",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "TBC夏まつり",
+      "details": "仙台市・他、7月下旬の土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "ドラゴンカヌー大会",
+      "details": "加美町、7月末の日曜日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "くりこま山車まつり",
+      "details": "栗原市、7月末の土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "佐沼夏まつり",
+      "details": "登米市、7月末の土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "女川みなと祭り海上花火大会",
+      "details": "牡鹿郡女川町、7月第4日曜日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "石巻川開き祭り",
+      "details": "石巻市、7月31日・8月1日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "なとり夏まつり",
+      "details": "名取市、8月第1土曜日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "まほろば夏まつり",
+      "details": "大和町、8月第1日曜日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "古川まつり",
+      "details": "大崎市、8月2日 - 4日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "仙台七夕花火祭",
+      "details": "仙台市、8月5日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "つきだて七夕まつり",
+      "details": "栗原市、8月",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "仙台七夕",
+      "details": "仙台市など、8月7日前後",
+      "notes": "東北三大祭り"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "YOSAKOI&ねぷたinとよさと",
+      "details": "登米市、8月第2日曜日前後・8月9日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "白石夏まつり花火大会",
+      "details": "白石市、8月12日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "わたりふるさと夏まつり",
+      "details": "亘理町、8月半ばの土曜日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "松島灯籠流し花火大会",
+      "details": "松島町、8月17日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "広瀬川灯ろう流し花火大会",
+      "details": "仙台市、8月20日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "泉区民ふるさとまつり",
+      "details": "仙台市、8月第4土曜日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "いわぬま復興夏まつり",
+      "details": "岩沼市、8月末の土曜日",
+      "notes": "岩沼市民夏まつり"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "おもしぇがらきてけさin富谷",
+      "details": "富谷市、8月",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "天空のゆりガーデン",
+      "details": "仙台市、8月 - 9月",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "KHBまつり",
+      "details": "仙台市、9月第一週の土曜日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "とみやマーチングフェスティバル",
+      "details": "富谷市、9月半ばの土曜日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "定禅寺ストリートジャズフェスティバル",
+      "details": "仙台市、毎年9月第2日曜日とその前日の土曜日・前夜祭あり",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "くりはら万葉祭",
+      "details": "栗原市、9月下旬の日曜日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "まめからさん祭り",
+      "details": "登米市、10月10日前後の日曜日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "日本一はっとフェスティバル",
+      "details": "登米市、12月の第1週の日曜日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "宮城県",
+      "name": "島田飴まつり",
+      "details": "大和町、12月14日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "大日堂舞楽",
+      "details": "鹿角市、1月2日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "アメッコ市",
+      "details": "大館市、2月第2土曜日とその翌日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "上桧木内の紙風船上げ",
+      "details": "仙北市、2月10日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "なまはげ柴灯まつり",
+      "details": "男鹿市、2月初旬",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "横手の雪まつり〔かまくら・旭岡山神社の梵天奉納祭〕",
+      "details": "横手市、2月15日 - 17日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "六郷のカマクラ",
+      "details": "美郷町、2月中旬",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "火振りかまくら",
+      "details": "仙北市、2月14日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "松館天満宮三台山獅子大権現舞",
+      "details": "鹿角市、4月25日",
+      "notes": "松舘菅原神社例祭"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "浅舞公園あやめまつり",
+      "details": "横手市、6月下旬 - 7月初旬",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "綴子大太鼓",
+      "details": "北秋田市、7月14日・15日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "土崎神明社祭の曳山行事",
+      "details": "秋田市、7月20日・21日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "竿燈祭り",
+      "details": "秋田市、8月3日 - 6日",
+      "notes": "東北三大祭り"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "七夕絵どうろうまつり",
+      "details": "湯沢市、8月5日 - 7日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "能代役七夕",
+      "details": "能代市、8月6日・7日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "送り盆まつり",
+      "details": "横手市、8月6日・15日・16日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "大文字まつり",
+      "details": "大館市、8月16日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "西馬音内の盆踊",
+      "details": "羽後町、8月16日 - 18日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "一日市の盆踊",
+      "details": "八郎潟町、8月18日 - 20日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "花輪ばやし",
+      "details": "鹿角市、8月19日・20日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "全国花火競技大会",
+      "details": "大仙市、8月",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "鹿角の盆踊り",
+      "details": "鹿角市 ほか、8月中旬",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "毛馬内の盆踊",
+      "details": "鹿角市、8月21日 - 23日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "角館のお祭り",
+      "details": "仙北市、9月7日 - 9日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "おなごりフェスティバル",
+      "details": "能代市、9月第2土曜日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "えびすだわら",
+      "details": "雄勝郡、旧暦8月15日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "全国ジャンボうさぎフェスティバル",
+      "details": "大仙市、10月第3土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "保呂羽山の霜月神楽",
+      "details": "横手市、11月7日・8日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "なまはげ",
+      "details": "男鹿市、12月31日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "秋田県",
+      "name": "梵天まつり",
+      "details": "県内各地",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "name": "アマハゲ",
+      "details": "遊佐町、1月1日・3日・6日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "name": "やや祭り",
+      "details": "庄内町、1月15日に近い日曜日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "name": "王祇祭",
+      "details": "鶴岡市、2月1日 - 2日",
+      "notes": "黒川能など"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "name": "カセ鳥",
+      "details": "上山市、2月11日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "name": "上杉雪灯篭まつり",
+      "details": "米沢市、2月第2土曜・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "name": "天童桜まつり",
+      "details": "天童市、4月下旬",
+      "notes": "人間将棋など"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "name": "米沢上杉祭り",
+      "details": "米沢市、4月下旬から5月上旬",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "name": "薬師祭植木市",
+      "details": "山形市、5月8日 - 10日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "name": "酒田祭",
+      "details": "酒田市、5月19日 - 21日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "name": "鶴岡天神祭",
+      "details": "鶴岡市、5月25日",
+      "notes": "通称「化けものまつり」"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "name": "長井あやめまつり",
+      "details": "長井市、6月上旬 - 7月上旬",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "name": "おくのほそ道天童紅花まつり",
+      "details": "天童市、7月上旬 - 下旬",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "name": "かみのやま温泉全国かかし祭",
+      "details": "上山市、8月上旬",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "name": "花笠まつり",
+      "details": "山形市、尾花沢市など、8月上旬 - 下旬",
+      "notes": "東北四大祭"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "name": "荘内大祭",
+      "details": "鶴岡市、8月中旬",
+      "notes": "荘内神社例祭"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "name": "塩野毘沙門堂祭礼",
+      "details": "米沢市、8月17日・18日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "name": "むらやま徳内まつり",
+      "details": "村山市、8月下旬",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "name": "新庄まつり",
+      "details": "新庄市、8月24日 - 26日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "name": "寒河江まつり",
+      "details": "寒河江市、9月中旬",
+      "notes": "寒河江八幡宮例祭"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "name": "日本一の芋煮会フェスティバル",
+      "details": "山形市、9月の敬老の日前日の日曜日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "山形県",
+      "name": "南陽の菊まつり",
+      "details": "南陽市、10月上旬 - 11月上旬",
+      "notes": "南陽菊人形など"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "name": "都々古別神社の御田植",
+      "details": "棚倉町、旧暦1月6日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "name": "七日堂裸まいり",
+      "details": "柳津町、1月7日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "name": "高田大俵引き",
+      "details": "会津美里町、1月12日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "name": "初市大俵引き",
+      "details": "会津坂下町、1月14日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "name": "津島の田植踊",
+      "details": "浪江町、1月14日・15日・17日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "name": "会津絵ろうそくまつり",
+      "details": "会津若松市、2月上旬",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "name": "信夫三山暁まいり",
+      "details": "福島市、2月10日 - 11日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "name": "相馬野馬追",
+      "details": "南相馬市など、7月",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "name": "喜多方レトロ横丁",
+      "details": "喜多方市、7月中旬",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "name": "会津田島祇園祭",
+      "details": "南会津町、7月22日 - 24日",
+      "notes": "日本三大祇園祭"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "name": "御宝殿の稚児田楽・風流",
+      "details": "いわき市、7月31日 - 8月1日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "name": "郡山うねめまつり",
+      "details": "郡山市、8月第1金曜日 - 日曜日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "name": "いわき七夕まつり",
+      "details": "いわき市、8月6日 - 8日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "name": "福島わらじまつり",
+      "details": "福島市、8月初旬",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "name": "うつくしまyosakoi祭り",
+      "details": "県内各地、9月中旬",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "name": "会津まつり",
+      "details": "会津若松市、9月下旬",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "name": "安積国造神社秋季例大祭",
+      "details": "郡山市、9月27日 - 9月29日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "name": "二本松提灯祭り",
+      "details": "二本松市、10月4日 - 6日",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "name": "連山車",
+      "details": "福島市、10月スポーツの日を含む3連休",
+      "notes": ""
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "name": "松明あかし",
+      "details": "須賀川市、11月第2月曜日",
+      "notes": "日本三大火祭"
+    },
+    {
+      "region": "東北地方",
+      "prefecture": "福島県",
+      "name": "木幡の幡祭り",
+      "details": "二本松市、12月第1日曜日",
+      "notes": "日本三大旗祭"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "金砂神社磯出大祭礼",
+      "details": "常陸太田市・日立市東金砂神社・西金砂神社、72年間隔・次回は2075年",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "水戸の梅まつり（夜梅祭）",
+      "details": "水戸市、2月中旬 - 3月下旬・夜梅祭は3月中旬",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "筑波山梅まつり",
+      "details": "つくば市、2月 - 3月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "大洗春祭り 海楽フェスタ",
+      "details": "大洗町、3月下旬",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "古河桃まつり",
+      "details": "古河市、3月20日 - 4月5日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "筑波山神社御座替祭",
+      "details": "つくば市、4月1日・11月1日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "笠間の陶炎祭",
+      "details": "笠間市、4月下旬 - 5月上旬",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "水戸まちなかフェスティバル",
+      "details": "水戸市、5月上旬",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "水郷潮来あやめまつり",
+      "details": "潮来市、5月下旬 - 6月下旬",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "ひぬまあじさいまつり",
+      "details": "茨城町、6月中旬 - 7月中旬",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "岩瀬駅前夏祭り",
+      "details": "桜川市、7月中旬の土日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "小鶴祇園祭",
+      "details": "茨城町、7月海の日がある3連休の土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "片野八幡神社祇園祭",
+      "details": "石岡市、7月第3日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "下館祇園祭",
+      "details": "筑西市、7月下旬の4日間・最終日は川渡御",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "龍ヶ崎の撞舞",
+      "details": "龍ケ崎市、7月下旬",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "北条祇園祭",
+      "details": "つくば市、7月第4土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "うしくかっぱ祭り",
+      "details": "牛久市、7月最終土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "大みか祭り",
+      "details": "日立市、7月 - 8月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "水戸黄門まつり",
+      "details": "水戸市、8月第1金曜日 - 日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "潮来祇園祭禮",
+      "details": "潮来市、8月第1金曜日 - 日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "土浦キララまつり",
+      "details": "土浦市、8月第1土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "まつりつくば",
+      "details": "つくば市、8月下旬の土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "水戸浪漫三夜祭",
+      "details": "水戸市、9月第1日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "常陸國總社宮大祭",
+      "details": "石岡市、9月敬老の日を含む土曜日 - 月曜日",
+      "notes": "関東三大祭"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "筑波山もみじ祭り",
+      "details": "つくば市、11月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "土浦カレーフェスティバル",
+      "details": "土浦市、11月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "土浦全国花火競技大会",
+      "details": "土浦市、11月第1土曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "いばらきまつり",
+      "details": "茨城町、11月第1日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "将門まつり",
+      "details": "坂東市、11月第2日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "大洗あんこう祭",
+      "details": "大洗町、11月第3日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "水戸のラーメンまつり",
+      "details": "水戸市、11月下旬",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "大飯祭り",
+      "details": "桜川市、12月第2日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "name": "悪態祭り",
+      "details": "笠間市、12月第3日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "name": "光輝く氷のぼんぼりとかまくら祭",
+      "details": "日光市、1月下旬 - 2月下旬",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "name": "御神火祭",
+      "details": "那須町、5月第4日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "name": "益子祇園祭",
+      "details": "益子町、7月23日 - 25日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "name": "御神酒頂戴式",
+      "details": "益子町、7月24日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "name": "山あげ祭",
+      "details": "那須烏山市、7月第4週の金曜日 - 日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "name": "とちぎ夏まつり",
+      "details": "栃木市、8月上旬",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "name": "生子神社の泣き相撲",
+      "details": "鹿沼市、9月19日直後の日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "name": "鹿沼秋まつり〔鹿沼今宮神社祭の屋台行事〕",
+      "details": "鹿沼市、10月第2土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "name": "とちぎ秋まつり",
+      "details": "栃木市、11月中旬に2 - 3日間・2年に1度の開催",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "name": "日光そばまつり",
+      "details": "日光市、11月下旬",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "name": "樋越神明宮の春鍬祭",
+      "details": "佐波郡玉村町、2月11日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "name": "鬼石夏祭り",
+      "details": "藤岡市、7月第2土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "name": "渋川へそ祭り",
+      "details": "渋川市、7月25日・26日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "name": "大胡祇園まつり",
+      "details": "前橋市、7月最終の土曜日・日曜",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "name": "桐生八木節まつり",
+      "details": "桐生市、8月第1金曜日から3日間",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "name": "高崎まつり",
+      "details": "高崎市、8月の第1土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "name": "渋川山車まつり",
+      "details": "渋川市、8月11日・12日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "name": "尾島ねぷた",
+      "details": "太田市、8月14日・15日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "name": "くろほね夏まつり",
+      "details": "桐生市、8月15日・16日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "name": "沼田まつり",
+      "details": "沼田市、8月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "name": "前橋まつり",
+      "details": "前橋市、10月第2土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "梅宮神社の甘酒祭り",
+      "details": "狭山市、2月10日・11日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "さくら草まつり",
+      "details": "さいたま市桜区、4月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "浦和うなぎまつり",
+      "details": "さいたま市浦和区、5月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "深谷七夕まつり",
+      "details": "深谷市、7月7日前後の金曜日 - 日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "浦和まつり",
+      "details": "さいたま市浦和区、7月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "熊谷うちわ祭",
+      "details": "熊谷市、7月20日 - 22日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "行田浮き城まつり",
+      "details": "行田市、7月最終土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "深谷まつり",
+      "details": "深谷市、7月最終土曜日と日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "小川町七夕まつり",
+      "details": "小川町、7月末の土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "桶川祇園祭",
+      "details": "桶川市、7月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "久喜の提灯祭り・天王様",
+      "details": "久喜市、7月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "秩父川瀬祭",
+      "details": "秩父市、7月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "さいたま市花火大会",
+      "details": "さいたま市、7月・8月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "大宮夏祭り",
+      "details": "さいたま市、7月 - 8月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "朝霞市民祭り彩夏祭",
+      "details": "朝霞市、8月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "戸田橋花火大会",
+      "details": "戸田市、8月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "たたら祭り",
+      "details": "川口市、8月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "狭山入間川七夕まつり",
+      "details": "狭山市、8月初めの土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "長瀞船玉祭",
+      "details": "長瀞町、8月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "坂戸よさこい",
+      "details": "坂戸市、8月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "熊谷花火大会",
+      "details": "熊谷市、8月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "古利根川流灯まつり",
+      "details": "杉戸町、8月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "南越谷阿波踊り",
+      "details": "越谷市、8月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "寄居玉淀水天宮祭",
+      "details": "寄居町、8月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "さいたま市国際ふれあいフェア",
+      "details": "さいたま市浦和区、10月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "こうのす花火大会",
+      "details": "鴻巣市、10月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "川越氷川祭（川越まつり）",
+      "details": "川越市、10月",
+      "notes": "関東三大祭・ユネスコ無形文化遺産"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "秩父吉田の龍勢",
+      "details": "秩父市、10月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "本庄まつり",
+      "details": "本庄市、11月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "世界キャラクターさみっとin羽生",
+      "details": "羽生市、11月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "秩父夜祭",
+      "details": "秩父市、12月",
+      "notes": "日本三大曳山祭・ユネスコ無形文化遺産"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "name": "十二日まち",
+      "details": "さいたま市浦和区、12月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "栢田仁組獅子舞",
+      "details": "匝瑳市、1月8日",
+      "notes": "千葉県指定無形民俗文化財"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "飽富神社の筒粥",
+      "details": "匝瑳市、1月14日・15日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "坂戸の念仏",
+      "details": "佐倉市、1月18日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "鰭ケ崎のオビシャ",
+      "details": "流山市、1月20日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "北之幸谷の獅子舞",
+      "details": "東金市、初午",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "水神社永代大御神楽",
+      "details": "旭市、2月第1日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "西ノ下の獅子舞",
+      "details": "九十九里町、旧暦2月7日近くの土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "中野木の辻切り",
+      "details": "船橋市、2月最初の午の日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "奈土のオビシャ",
+      "details": "成田市磐裂神社、2月13日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "神保ばやし",
+      "details": "船橋市須賀神社、2月13日・7月24日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "六座念仏の称念仏通り",
+      "details": "印西市、2月15日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "和良比の裸祭り",
+      "details": "四街道市、2月25日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "天道念仏",
+      "details": "船橋市、3月15日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "熊野神社の神楽",
+      "details": "旭市 熊野神社、3月21日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "鎌数の神楽",
+      "details": "旭市 鎌数伊勢大神宮、3月27日・28日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "東金桜まつり",
+      "details": "東金市八鶴湖周辺、3月下旬 - 4月上旬の約2週間",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "取香の3番叟",
+      "details": "成田市 側高神社、4月1日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "成田のおどり花見",
+      "details": "成田市、4月3日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "笹川の神楽",
+      "details": "東庄町諏訪神社、4月5日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "倉橋の弥勒3番叟",
+      "details": "東庄町 東大社、4月8日 - 10日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "おらんだ楽隊",
+      "details": "香取市香取神宮、4月14日・15日・11月30日の大饗祭",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "鳥見神社の獅子舞",
+      "details": "印西市 鳥見神社、5月3日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "藤まつり",
+      "details": "銚子市、5月上旬",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "水郷佐原あやめ祭り",
+      "details": "香取市、5月下旬 - 6月下旬",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "浦安三社祭",
+      "details": "浦安市、6月（かつては10月）・4年間隔（次回は2028年）",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "大潮祭り",
+      "details": "銚子市、旧暦6月15日夜 - 16日未明",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "成田祇園祭",
+      "details": "成田市、7月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "本宿祇園祭",
+      "details": "香取市、7月10日以降の金曜日 - 日曜日",
+      "notes": "関東三大祭"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "小見川祇園祭",
+      "details": "香取市、7月中旬",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "野田のつく舞",
+      "details": "野田市須加神社、7月15日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "墨獅子舞",
+      "details": "酒々井町、7月15日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "多古のしいかご舞",
+      "details": "多古町八坂神社、7月25日 - 26日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "柏まつり",
+      "details": "柏市、7月下旬",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "手賀沼花火大会",
+      "details": "柏市・我孫子市、7月 - 8月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "野田まつり",
+      "details": "野田市、8月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "八重垣神社祇園祭",
+      "details": "匝瑳市、8月4日 - 5日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "鬼来迎",
+      "details": "横芝光町広済寺、8月16日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "葛飾八幡の農具市",
+      "details": "市川市葛飾八幡宮、9月15日 - 20日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "式年神幸祭",
+      "details": "旭市 熊野神社、10月3日 - 5日前後",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "三番瀬フェスタ",
+      "details": "船橋市、10月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "新宿秋祭り",
+      "details": "香取市、10月第2土曜日を中日とする金曜日 - 日曜日",
+      "notes": "関東三大祭"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "佐倉の秋祭り",
+      "details": "佐倉市、10月第2金曜日 - 日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "飯岡の芋念仏",
+      "details": "旭市 花蔵院 ほか、10月11日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "神崎寺火渡り修行",
+      "details": "神崎町、10月13日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "鳥見神社の神楽",
+      "details": "印西市 鳥見神社、10月17日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "松戸神社例大祭",
+      "details": "松戸市、10月18日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "銚子産業まつり",
+      "details": "銚子市、10月26日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "関宿城まつり",
+      "details": "野田市、10月26日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "房総のむら江戸時代フェスティバル",
+      "details": "栄町、10月4日 - 11月30日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "松戸まつり",
+      "details": "松戸市、11月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "流山市民祭り",
+      "details": "流山市、11月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "房総のむら秋まつり",
+      "details": "栄町、11月2日 - 3日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "千葉市民産業まつり",
+      "details": "千葉市、11月2日 - 3日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "下総三山の七年祭り",
+      "details": "船橋市、二宮神社、6年（数え年で7年）毎の丑年と未年の9月と11月・次回は2027年",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "芝山はにわ祭り",
+      "details": "芝山町、11月9日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "成田山公園紅葉まつり",
+      "details": "成田市、11月9日・11月15日 - 16日・11月22日 - 24日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "栗源のふるさといも祭",
+      "details": "香取市、11月16日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "海上産業まつり",
+      "details": "旭市、11月23日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "浅間神社の神楽",
+      "details": "千葉市、11月23日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "菅原大神の秋の例祭",
+      "details": "銚子市、11月25日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "梵天立て",
+      "details": "木更津市、1月7日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "飽富神社の筒粥",
+      "details": "袖ケ浦市飽富神社、1月14日・15日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "かつうらビッグひな祭り",
+      "details": "勝浦市遠見岬神社、春",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "玉前神社の神楽",
+      "details": "一宮町玉前神社、4月13日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "鹿野山のはしご獅子舞",
+      "details": "君津市白鳥神社、4月28日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "節句の凧揚げ",
+      "details": "一宮町 玉前神社、5月5日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "東金ばやし",
+      "details": "東金市 日吉神社、7月第4土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "鵜原の大名行列",
+      "details": "勝浦市 八坂神社、7月第4土曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "茂原七夕まつり",
+      "details": "茂原市、7月下旬",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "柳楯神事",
+      "details": "市原市 飯香岡八幡宮、旧暦8月15日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "御旗織りの行事",
+      "details": "山武市白幡八幡神社、旧暦の9月1日・6日・8日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "おんじゅく伊勢えびまつり",
+      "details": "御宿町、9月1日 - 10月31日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "勝浦大漁まつり",
+      "details": "勝浦市、9月敬老の日を最終日とする4日間",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "上総十二社祭り",
+      "details": "一宮町、9月13日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "吾妻神社馬だしまつり",
+      "details": "富津市吾妻神社・岩瀬海岸、9月17日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "大原はだか祭り",
+      "details": "いすみ市、9月23日 - 24日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "中根六社祭り",
+      "details": "いすみ市 八幡神社・9月25日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "大多喜お城まつり",
+      "details": "大多喜町・9月26日 - 28日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "吉保八幡の流鏑馬神事",
+      "details": "鴨川市吉保八幡、9月28日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "三島棒術・羯鼓舞",
+      "details": "君津市、9月28日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "證誠寺の狸まつり",
+      "details": "木更津市、10月18日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "岩沼の獅子舞",
+      "details": "長生村皇産霊神社、10月19日前後",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "久留里城祭り",
+      "details": "君津市、10月26日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "上総まほらば祭",
+      "details": "市原市、10月31日 - 11月2日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "茂原産業祭り",
+      "details": "茂原市、11月3日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "市原市農林業まつり",
+      "details": "市原市、11月8日 - 9日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "養老渓谷もみじまつり",
+      "details": "大多喜町、11月23日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "もみじフェスタin志駒",
+      "details": "富津市、11月30日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "だんご祭り",
+      "details": "香取市 香取神宮、12月7日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "山倉の鮭祭り",
+      "details": "香取市 山倉大神、12月第1日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "納め札御焚き上げ紫燈大護摩供",
+      "details": "成田市 新勝寺、12月28日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "増間の御的神事",
+      "details": "南房総市日枝神社、2月26日・3月1日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "白間津のオオマチ",
+      "details": "南房総市 日枝神社、7月23日 - 25日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "加茂の八朔",
+      "details": "南房総市 加茂神社、8月1日 - 2日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "北風原の鞨鼓舞",
+      "details": "鴨川市春日神社・愛宕神社、8月第4日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "安房やわたんまち",
+      "details": "館山市鶴谷八幡神社、9月14日 - 16日",
+      "notes": "鶴谷八幡宮例大祭"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "きょなん「クジラの都まつり」",
+      "details": "館山市・鋸南町、10月14日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "庖丁儀式",
+      "details": "南房総市高家神社、10月17日・11月23日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "平群天神社祭礼",
+      "details": "南房総市、10月18日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "南総里見祭り",
+      "details": "館山市、10月19日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "「棚田の灯り」幻想の大山千枚田",
+      "details": "鴨川市、10月24日 - 26日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "七つ子参り",
+      "details": "鴨川市、11月12日・13日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "おおぐらいまち",
+      "details": "富津市、11月22日・23日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "いきいき千倉産業まつり",
+      "details": "南房総市、11月30日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "name": "ししきりまち",
+      "details": "富津市 諏訪神社、12月5日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "name": "世田谷ボロ市",
+      "details": "世田谷区、1月15日・16日・12月15日・16日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "name": "青梅大祭",
+      "details": "青梅市、4月末 - 5月上旬",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "name": "三社祭",
+      "details": "台東区浅草神社、5月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "name": "神田祭",
+      "details": "千代田区神田神社、5月",
+      "notes": "江戸三大祭"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "name": "くらやみ祭",
+      "details": "府中市大國魂神社、5月",
+      "notes": "武蔵総社の例大祭"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "name": "山王祭",
+      "details": "千代田区日枝神社、6月",
+      "notes": "江戸三大祭"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "name": "入谷朝顔まつり",
+      "details": "台東区、毎年7月初旬の3日間",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "name": "下町七夕まつり",
+      "details": "台東区、7月初めの七夕前後の数日間",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "name": "隅田川花火大会",
+      "details": "墨田区、7月下旬の土曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "name": "八王子まつり",
+      "details": "八王子市、8月の第1金曜日から3日間",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "name": "青梅市納涼花火大会",
+      "details": "青梅市、8月初めの土曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "name": "中野駅前大盆踊り大会",
+      "details": "中野区、8月上旬",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "name": "阿佐谷七夕まつり",
+      "details": "杉並区、8月5日 - 9日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "name": "福生七夕まつり",
+      "details": "福生市、毎年8月7日前後の木曜日 - 日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "name": "佃祭",
+      "details": "中央区佃住吉神社、8月上旬",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "name": "深川祭",
+      "details": "江東区富岡八幡宮、8月中旬",
+      "notes": "江戸三大祭"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "name": "東京高円寺阿波おどり",
+      "details": "杉並区、8月下旬",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "name": "浅草サンバカーニバル",
+      "details": "台東区、8月下旬",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "name": "吉祥寺秋まつり",
+      "details": "武蔵野市、9月第2土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "name": "天下市",
+      "details": "国立市、11月の文化の日前後",
+      "notes": "商業祭"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "name": "関のボロ市",
+      "details": "練馬区、12月9日・10日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "name": "泉岳寺義士祭",
+      "details": "港区泉岳寺、12月14日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "name": "チャッキラコ",
+      "details": "三浦市、1月15日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "name": "湘南江の島春祭り",
+      "details": "藤沢市、3月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "name": "大山とうふまつり",
+      "details": "伊勢原市、3月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "name": "大岡越前祭",
+      "details": "茅ヶ崎市、4月中旬",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "name": "小田原北條五代祭り",
+      "details": "小田原市、5月3日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "name": "松原神社例大祭",
+      "details": "小田原市、5月3日 - 5日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "name": "国府祭",
+      "details": "大磯町、5月5日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "name": "横浜開港祭",
+      "details": "横浜市、6月2日前後",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "name": "お馬流し",
+      "details": "横浜市、8月初旬",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "name": "江の島天王祭",
+      "details": "藤沢市、7月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "name": "湘南台七夕まつり",
+      "details": "藤沢市、7月1日 - 7日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "name": "湘南ひらつか七夕まつり",
+      "details": "平塚市、7月第1金曜日から3日間",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "name": "浜降古式祭",
+      "details": "寒川町、7月15日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "name": "浜降祭",
+      "details": "茅ヶ崎市・寒川町、7月第3月曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "name": "辻堂諏訪神社例大祭（人形山車4台）",
+      "details": "藤沢市、7月26日・27日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "name": "貴船まつり",
+      "details": "真鶴町、7月最終土曜日及びその前日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "name": "吉浜の鹿島踊り",
+      "details": "湯河原町、8月1日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "name": "サザンビーチちがさき花火大会",
+      "details": "茅ヶ崎市、8月第1土曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "name": "みなとみらいスマートフェスティバル",
+      "details": "横浜市、8月上旬",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "name": "皇大神宮例大祭（人形山車9台）",
+      "details": "藤沢市、8月17日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "name": "片瀬諏訪神社例大祭（山車5台）",
+      "details": "藤沢市、8月23日 - 27日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "name": "藤沢市民祭り",
+      "details": "藤沢市、9月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "name": "秦野たばこ祭",
+      "details": "秦野市、9月最終土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "name": "ふじさわ江の島花火大会",
+      "details": "藤沢市、10月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "name": "江の島大道芸フェスティバル",
+      "details": "藤沢市、11月",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "name": "かわさき市民祭り",
+      "details": "川崎市、11月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "name": "婿投げ・墨塗り",
+      "details": "十日町市、1月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "name": "三条まつり",
+      "details": "三条市、5月14日 - 16日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "name": "蒲原まつり",
+      "details": "新潟市、6月30日 - 7月2日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "name": "村上大祭",
+      "details": "村上市、7月6日、7日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "name": "上越まつり〔直江津祇園祭〕",
+      "details": "上越市、7月23日 - 29日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "name": "長岡まつり",
+      "details": "長岡市、8月1日 - 3日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "name": "新潟まつり",
+      "details": "新潟市、8月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "name": "新津まつり",
+      "details": "新潟市秋葉区、8月19日 - 21日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "name": "田家まつり",
+      "details": "新潟市秋葉区、8月27日 - 28日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "name": "謙信公祭",
+      "details": "上越市、8月中旬 - 下旬",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "name": "城下町新発田ふるさとまつり〔新発田台輪〕",
+      "details": "新発田市、8月27日 - 29日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "name": "おぢやまつり",
+      "details": "小千谷市、8月下旬",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "name": "瀬波大祭",
+      "details": "村上市、9月3日 - 4日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "name": "葛塚祭り",
+      "details": "新潟市北区、9月5日 - 8日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "name": "中条祭り",
+      "details": "胎内市、9月3日 - 6日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "新潟県",
+      "name": "岩船大祭",
+      "details": "村上市、10月18日・19日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "鰤分け神事",
+      "details": "射水市加茂神社、1月1日",
+      "notes": "射水市指定無形民俗文化財※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "鯉の厄払い放流〔金屋神明宮厄払い祈願祭〕",
+      "details": "砺波市金屋神明宮、1月7日",
+      "notes": "※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "塞の神まつり",
+      "details": "入善町、1月15日または15日に近い日曜日",
+      "notes": "国の重要無形民俗文化財（指定名称は「邑町のサイノカミ」）※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "利賀のはつうま",
+      "details": "南砺市、1月上旬の土曜日・日曜日",
+      "notes": "国の選択無形民俗文化財・県指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "愛宕社の火祭り",
+      "details": "魚津市魚津神社、1月26日",
+      "notes": "※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "小川寺の獅子舞",
+      "details": "魚津市 白山社・千光寺、3月12日",
+      "notes": "県指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "おんば様のお召し替え",
+      "details": "立山町芦峅寺（閻魔堂・開山堂）、3月13日",
+      "notes": "県指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "猪谷の百万石行列",
+      "details": "富山市、20年に一度の4月",
+      "notes": "富山市指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "赤井の獅子舞",
+      "details": "射水市、4月第1土曜日",
+      "notes": "射水市指定無形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "全日本チンドンコンクール",
+      "details": "富山市、4月上旬の土曜日 - 日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "酒とり祭り",
+      "details": "小矢部市下後亟・下後亟神明宮、4月11日",
+      "notes": "小矢部市指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "上市熊野神社春季祭礼",
+      "details": "上市町上市熊野神社、4月12日",
+      "notes": "曳山1基は上市町指定有形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "高砂山願念坊祭り",
+      "details": "富山市、4月第2日曜日",
+      "notes": "曳山1基は富山市指定有形民俗文化財※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "まるまげ祭（千手寺観音大祭）",
+      "details": "氷見市千手寺観音堂、4月17日",
+      "notes": "※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "ごんごん祭り",
+      "details": "氷見市 上日寺、4月17日・18日",
+      "notes": "祭りで使用する上日寺梵鐘が氷見市指定有形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "明日の稚児舞",
+      "details": "黒部市法福寺、4月18日",
+      "notes": "国の重要無形民俗文化財（指定名称は「越中の稚児舞」）※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "気多神社春季例大祭",
+      "details": "高岡市気多神社、4月18日",
+      "notes": "高岡市指定無形民俗文化財（にらみ獅子）※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "浦田山王社の春祭り",
+      "details": "中新川郡、4月中申",
+      "notes": "立山町指定無形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "ボンボコ祭り（舞い）〔舟幸祭り〕",
+      "details": "射水市、4月20日※毎年ではない",
+      "notes": "県指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "二上射水神社築山行事",
+      "details": "高岡市二上射水神社、4月23日",
+      "notes": "県指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "下梨御巡行の儀",
+      "details": "南砺市 地主神社",
+      "notes": "南砺市指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "ふちゅう曲水の宴",
+      "details": "富山市 各願寺、4月第3日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "宇佐八幡宮春季祭礼",
+      "details": "南砺市区、4月第3日曜日",
+      "notes": "※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "石動曳山祭",
+      "details": "小矢部市、4月29日",
+      "notes": "花山車11基と、川原町（現 今石動町1丁目）の歌舞伎山車が、小矢部市指定有形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "出町子供歌舞伎曳山祭",
+      "details": "砺波市 出町神明宮、4月29日・30日",
+      "notes": "県指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "四方子供曳山祭り",
+      "details": "富山市 四方神社、4月29日・神明社、9月23日",
+      "notes": "※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "となみチューリップフェア",
+      "details": "砺波市、4月下旬 - 5月上旬",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "高岡御車山祭",
+      "details": "高岡市、5月1日",
+      "notes": "ユネスコの無形文化遺産（登録名称は「山・鉾・屋台行事」）および、国の重要無形民俗文化財（指定名称は「高岡御車山祭の御車山行事」）、また御車山7基は国の重要有形民俗文化財※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "福野夜高祭",
+      "details": "南砺市、5月1日・2日",
+      "notes": "県指定無形民俗文化財、曳山4基は南砺市指定有形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "八尾曳山祭",
+      "details": "富山市 八尾八幡社、5月3日",
+      "notes": "曳山6基は県指定有形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "よいやさ祭り",
+      "details": "南砺市、5月3日",
+      "notes": "※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "鹿島神社稚児舞",
+      "details": "朝日町鹿島神社、5月3日・4日",
+      "notes": "朝日町指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "やんさんま祭り",
+      "details": "射水市 加茂神社、5月4日",
+      "notes": "県指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "城端曳山祭",
+      "details": "南砺市、5月5日",
+      "notes": "ユネスコの無形文化遺産（登録名称は「山・鉾・屋台行事」）および、国の重要無形民俗文化財（指定名称は「城端神明宮祭の曳山行事」）※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "岩瀬曳山車祭",
+      "details": "富山市、5月17日・18日",
+      "notes": "※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "お鍬様まつり",
+      "details": "富山市 布尻神社・町長神社、5月19日",
+      "notes": "富山市指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "伏木曳山祭",
+      "details": "高岡市、5月第3土曜日",
+      "notes": "高岡市指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "越中大門凧まつり",
+      "details": "射水市、5月第3日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "よっしゃ来い!!CHOUROKUまつり",
+      "details": "魚津市、5月第3日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "戦国のろし祭り",
+      "details": "魚津市、5月第3日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "売比河（めひかわ）鵜飼祭",
+      "details": "富山市、5月下旬",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "山王祭",
+      "details": "富山市、5月31日 - 6月2日",
+      "notes": "※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "御田植祭",
+      "details": "射水市 加茂神社、6月初卯の日",
+      "notes": "県指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "津沢夜高あんどん祭",
+      "details": "小矢部市、6月第1金曜日・土曜日",
+      "notes": "小矢部市指定無形民俗文化財※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "庄川観光祭〔庄川夜高行燈〕",
+      "details": "砺波市、6月第1土曜日・日曜日",
+      "notes": "※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "砺波夜高祭り",
+      "details": "砺波市、6月第2金曜日・土曜日",
+      "notes": "※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "五鹿屋夜高祭",
+      "details": "砺波市、6月第2金曜日・土曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "御印祭",
+      "details": "高岡市、6月19日・20日",
+      "notes": "※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "戸出七夕まつり",
+      "details": "高岡市、7月3日 - 7日",
+      "notes": "※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "氷見祇園祭",
+      "details": "氷見市、7月13日 - 15日",
+      "notes": "※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "ふるさと竜宮まつり",
+      "details": "滑川市、7月中旬の土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "ねつおくり祭り",
+      "details": "南砺市、7月土用三番の日",
+      "notes": "南砺市指定無形民俗文化財（荒木地区）※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "水橋橋まつり",
+      "details": "富山市 水橋水神社、7月下旬の土曜日・日曜日",
+      "notes": "※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "いなみ太子伝観光祭",
+      "details": "南砺市瑞泉寺、7月下旬の土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "源平火牛まつり",
+      "details": "小矢部市、7月下旬の土曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "おおやま佐々成政戦国時代祭り",
+      "details": "富山市、7月下旬の日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "ニブ流し",
+      "details": "黒部市、7月31日",
+      "notes": "国の選択無形民俗文化財・県指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "滑川のネブタ流し",
+      "details": "滑川市、7月31日",
+      "notes": "国の重要無形民俗文化財（指定名称は「滑川のネブタ流し」）※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "高岡七夕まつり",
+      "details": "高岡市、8月1日 - 7日",
+      "notes": "※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "尾山の七夕流し",
+      "details": "黒部市、8月7日",
+      "notes": "国の選択無形民俗文化財・県指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "富山まつり〔よさこいとやま〕",
+      "details": "富山市、8月第1金曜日 - 日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "じゃんとこい魚津まつり",
+      "details": "魚津市、8月第1金曜日 - 日曜日",
+      "notes": "※（選定は「せり込み蝶六」）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "たてもん祭り",
+      "details": "魚津市、8月第1金曜日・土曜日",
+      "notes": "ユネスコの無形文化遺産（登録名称は「山・鉾・屋台行事」）および、国の重要無形民俗文化財（指定名称は「魚津のタテモン行事」）、また、たてもん7基は県指定有形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "庄川水まつり",
+      "details": "砺波市、8月第1土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "米道踊り",
+      "details": "立山町、8月15日",
+      "notes": "立山町指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "生地のえびす祭り",
+      "details": "黒部市、8月19日・20日",
+      "notes": "※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "黒河夜高祭",
+      "details": "射水市、8月23日直近の土曜日",
+      "notes": "射水市指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "熊野神社の稚児舞",
+      "details": "富山市 熊野神社、8月25日",
+      "notes": "国の重要無形民俗文化財（指定名称は「越中の稚児舞」）※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "吉原の恵比寿祭り",
+      "details": "入善町、8月最終土曜日・日曜日",
+      "notes": "入善町指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "おわら風の盆",
+      "details": "富山市、8月下旬 - 9月3日",
+      "notes": "※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "綾子の願念坊踊り",
+      "details": "小矢部市 太田神社、8月下旬 - 9月3日",
+      "notes": "小矢部市指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "加茂神社の稚児舞",
+      "details": "射水市 加茂神社、9月4日",
+      "notes": "国の重要無形民俗文化財（指定名称は「越中の稚児舞」）※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "城端むぎや祭",
+      "details": "南砺市、9月中旬",
+      "notes": "※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "護国八幡宮の宮めぐり",
+      "details": "小矢部市 護国八幡宮、9月15日",
+      "notes": "小矢部市指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "上市神明社秋季祭礼",
+      "details": "上市町 上市神明社、9月21日",
+      "notes": "曳山1基と神輿1基は上市町指定有形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "海老江曳山祭",
+      "details": "射水市、9月23日",
+      "notes": "曳山3基は射水市指定有形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "つくりもんまつり",
+      "details": "高岡市、9月23日・24日",
+      "notes": "※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "五箇山麦屋まつり",
+      "details": "南砺市、9月23日・24日",
+      "notes": "※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "こきりこ祭り",
+      "details": "南砺市、9月25日・26日",
+      "notes": "※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "中田かかし祭",
+      "details": "高岡市、9月下旬",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "放生津（新湊）曳山祭",
+      "details": "射水市、10月1日",
+      "notes": "国の重要無形民俗文化財（指定名称は「放生津八幡宮祭の曳山・築山行事」）、曳山13基は射水市指定有形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "愛本新用水天満宮松明祭り",
+      "details": "黒部市、10月5日",
+      "notes": "黒部市指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "高岡万葉まつり〔万葉集全20巻朗唱の会〕",
+      "details": "高岡市、10月第1金曜日 -日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "幌武者行列",
+      "details": "高岡市戸出野神社、10月第2土曜日",
+      "notes": "※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "大門曳山まつり",
+      "details": "射水市、10月第2日曜日",
+      "notes": "曳山4基は射水市指定有形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "墓ノ木タイマツ祭り",
+      "details": "入善町、10月13日",
+      "notes": "入善町指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "新屋の獅子舞〔住吉社の秋季祭礼〕",
+      "details": "入善町 住吉社、10月中旬",
+      "notes": "入善町指定無形民俗文化財（指定は獅子舞・天狗舞）※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "生地たいまつ祭り",
+      "details": "黒部市 新治神社・神明社、10月26日 - 27日",
+      "notes": "黒部市指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "雄山神社前立社壇の稚児舞",
+      "details": "立山町雄山神社前立社壇、11月3日",
+      "notes": "立山町指定文化財（指定名称は「民俗芸能」）※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "おおべっさま迎え",
+      "details": "黒部市、11月20日・1月20日",
+      "notes": "国の選択無形民俗文化財（指定名称は「越中の田の神行事」）※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "富山県",
+      "name": "澗建（またて）の恵比寿様渡し",
+      "details": "射水市 西宮神社、11月第3土曜日",
+      "notes": "射水市指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "面様（めんさま）年頭",
+      "details": "輪島市、1月14日・20日",
+      "notes": "国の重要無形民俗文化財（指定名称は「能登のアマメハギ」）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "あまめはぎ",
+      "details": "輪島市・能登町など、1月上旬 - 2月上旬",
+      "notes": "国の重要無形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "竹割り祭り〔御願神事〕",
+      "details": "加賀市、2月10日",
+      "notes": "県指定無形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "でくまわし",
+      "details": "白山市、2月第2・第3土曜日・日曜日",
+      "notes": "国の重要無形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "如月祭",
+      "details": "輪島市、3月1日 - 7日",
+      "notes": "県指定無形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "青柏祭",
+      "details": "七尾市、5月3日 - 5日",
+      "notes": "ユネスコの無形文化遺産（登録名称は「山・鉾・屋台行事」）および、国の重要無形民俗文化財（指定名称は「青柏祭の曳山行事」）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "お旅まつり",
+      "details": "小松市、5月中旬の土曜日・日曜日を挟む4日間",
+      "notes": "県指定無形民俗文化財、曳山8基は小松市指定文化財（指定名称は「建造物」）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "おかえり祭り",
+      "details": "白山市、5月第3土曜日・日曜日",
+      "notes": "県指定無形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "金沢百万石まつり",
+      "details": "金沢市、6月上旬の金曜日 - 日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "能登キリコ祭り",
+      "details": "七尾市・能登町など能登各地、7月 - 10月",
+      "notes": "国の選択無形民俗文化財（「能登のキリコ祭り」として）及び、文化庁認定日本遺産（認定名称は「灯り舞う半島 能登 〜熱狂のキリコ祭り〜」）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "あばれ祭り〔宇出津のキリコ祭り〕",
+      "details": "能登町、7月第1金曜日・土曜日",
+      "notes": "県指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "七尾祇園祭",
+      "details": "七尾市、7月第2土曜日",
+      "notes": "国の選択無形民俗文化財（「能登のキリコ祭り」として）※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "七尾港まつり",
+      "details": "七尾市、7月19日・20日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "飯田町燈籠山祭り",
+      "details": "珠洲市、7月20日・21日",
+      "notes": "珠洲市指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "珠洲デカ曳山祭り",
+      "details": "珠洲市、7月下旬",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "向田の火祭り",
+      "details": "七尾市、7月最終土曜日",
+      "notes": "国の選択無形民俗文化財（「能登のキリコ祭り」として）、県指定無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "石崎奉燈祭",
+      "details": "七尾市、8月第1土曜日",
+      "notes": "国の選択無形民俗文化財（「能登のキリコ祭り」として）※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "新宮納涼祭",
+      "details": "七尾市、8月14日",
+      "notes": "国の選択無形民俗文化財（「能登のキリコ祭り」として）、七尾市無形民俗文化財 ※"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "黒島天領祭",
+      "details": "輪島市、8月17日・18日",
+      "notes": "輪島市指定無形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "日室の鎌祭り",
+      "details": "七尾市、8月27日",
+      "notes": "県指定無形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "ぐず焼き祭り",
+      "details": "加賀市、8月27日 - 29日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "十万石まつり",
+      "details": "加賀市大聖寺、9月8日・9日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "鵜島の曳山祭り",
+      "details": "珠洲市、9月15・16日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "お熊甲祭",
+      "details": "七尾市、9月20日",
+      "notes": "国の重要無形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "こいこい祭り",
+      "details": "加賀市、9月22日・23日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "新宮祭",
+      "details": "七尾市、9月の秋分の日",
+      "notes": "七尾市無形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "石川県",
+      "name": "ほうらい祭り",
+      "details": "白山市、10月2日 - 4日",
+      "notes": "白山市指定無形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "name": "勝山左義長祭り",
+      "details": "勝山市、2月最終土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "name": "三国祭",
+      "details": "坂井市三國神社、5月19日 - 21日",
+      "notes": "県指定無形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "name": "高浜七年祭",
+      "details": "高浜町、7年に1度の6月下旬 - 7月初め",
+      "notes": "県指定無形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "name": "とうろう流しと大花火大会",
+      "details": "敦賀市、8月16日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "name": "福井フェニックスまつり",
+      "details": "福井市、8月1日 - 3日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "name": "敦賀まつり〔気比神宮例大祭〕",
+      "details": "敦賀市 気比神社、9月初旬 - 中旬",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "福井県",
+      "name": "小浜放生祭",
+      "details": "小浜市、9月の敬老の日直前の土曜日・日曜日",
+      "notes": "県指定無形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "name": "一之瀬高橋の春駒",
+      "details": "甲州市、1月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "name": "天津司舞",
+      "details": "甲府市、4月10日直前の日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "name": "信玄公祭り",
+      "details": "甲府市、4月12日の前の金曜日 - 日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "name": "八ヶ岳ホースショーinこぶちさわ",
+      "details": "北杜市、7月最終土曜日もしくは8月第1土曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "name": "南部の火祭り",
+      "details": "南部町、8月15日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "name": "無生野の大念仏",
+      "details": "上野原市、旧正月前後・8月16日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "name": "吉田の火祭",
+      "details": "富士吉田市、8月26日 - 27日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "山梨県",
+      "name": "八朔祭り",
+      "details": "都留市、9月1日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "name": "天龍村の霜月神楽",
+      "details": "阿南町、1月上旬",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "name": "新野の雪まつり",
+      "details": "天龍村、1月上旬",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "name": "御柱祭",
+      "details": "諏訪市諏訪大社・分社 など、6年間隔、前回：2022年・次回：2028年",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "name": "跡部の踊り念仏",
+      "details": "佐久市、4月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "name": "お船祭り",
+      "details": "松本市、5月5日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "name": "漆器祭（木曽平沢）・宿場祭（奈良井）",
+      "details": "塩尻市、6月4日・5日・6日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "name": "信州上田祇園祭",
+      "details": "上田市、7月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "name": "上田わっしょい",
+      "details": "上田市、7月最終土曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "name": "中野ションションまつり",
+      "details": "中野市、7月最終土曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "name": "松本ぼんぼん",
+      "details": "松本市、8月第1土曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "name": "長野びんずるまつり",
+      "details": "長野市、8月第1土曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "name": "茅野どんばん",
+      "details": "茅野市、8月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "name": "夏祭り山ノ内どんどん",
+      "details": "山ノ内町、8月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "name": "志賀高原大蛇祭り",
+      "details": "山ノ内町、8月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "長野県",
+      "name": "穂高神社御船祭",
+      "details": "安曇野市、9月26日・27日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "name": "岐阜まつり〔伊奈波神社例祭〕",
+      "details": "岐阜市、4月5日",
+      "notes": "山車4基は岐阜市指定有形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "name": "御嵩薬師祭礼",
+      "details": "御嵩町、4月第1日曜日",
+      "notes": "県指定重要無形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "name": "高山祭",
+      "details": "高山市、4月・10月",
+      "notes": "ユネスコの無形文化遺産（登録名称は「山・鉾・屋台行事」）および、国の重要無形民俗文化財（指定名称は「高山祭の屋台行事」）、また屋台23基は国の重要有形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "name": "古川祭",
+      "details": "飛騨市、4月19日・20日",
+      "notes": "ユネスコの無形文化遺産（登録名称は「山・鉾・屋台行事」）および、国の重要無形民俗文化財（指定名称は「古川祭の起し太鼓・屋台行事」）、また屋台9基は県指定重要有形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "name": "八百津まつり〔八百津だんじり祭〕",
+      "details": "八百津町、4月第2土曜・日曜日",
+      "notes": "山車3基は八百津町指定有形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "name": "美濃まつり",
+      "details": "美濃市、4月",
+      "notes": "山車6基は県指定重要有形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "name": "関まつり",
+      "details": "関市、4月第3土曜日・日曜日",
+      "notes": "山車2基は県指定重要有形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "name": "久田見まつり",
+      "details": "八百津町、4月第3日曜日",
+      "notes": "県指定重要無形文化財（指定名称は「久田見の糸切りからくり」）、また山車6基は県指定重要有形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "name": "垂井曳山祭",
+      "details": "垂井町、5月2日 - 4日",
+      "notes": "山車3基は県指定重要有形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "name": "竹鼻祭り",
+      "details": "羽島市、5月2日・3日",
+      "notes": "山車13基は県指定重要有形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "name": "揖斐祭",
+      "details": "揖斐川町、5月4日・5日",
+      "notes": "山車5基は県指定重要有形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "name": "飛騨神岡祭り",
+      "details": "飛騨市、5月初旬",
+      "notes": "同日に行われる大津神社、朝浦八幡宮、白山神社の例祭の総称"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "name": "大垣祭",
+      "details": "大垣市、5月第2金曜日・土曜日",
+      "notes": "ユネスコの無形文化遺産（登録名称は「山・鉾・屋台行事」）および、国の重要無形民俗文化財（指定名称は「大垣祭の軕行事」）、また軕9輌と朝鮮山車付属品は県指定重要有形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "name": "高田祭",
+      "details": "養老町、5月中旬",
+      "notes": "曳山3基は県指定重要有形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "name": "郡上おどり",
+      "details": "郡上市、7月 - 9月",
+      "notes": "国の重要無形民俗文化財（指定名称は「郡上踊」）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "name": "白鳥おどり",
+      "details": "郡上市、7月 - 9月",
+      "notes": "国の記録作成等の措置を講ずべき無形の民俗文化財（選択無形民俗文化財）（選択名称は「白鳥の拝殿踊」）"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "name": "加子母水無神社祭礼",
+      "details": "中津川市、9月下旬",
+      "notes": "山車2基は中津川市指定有形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "name": "きつね火まつり",
+      "details": "飛騨市、9月下旬",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "name": "室原祭",
+      "details": "養老町、10月初旬",
+      "notes": "曳山3基は県指定重要有形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "name": "綾野まつり",
+      "details": "大垣市、10月第2土曜日",
+      "notes": "山車5基は県指定重要有形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "name": "加納天満宮例祭",
+      "details": "岐阜市、10月下旬",
+      "notes": "山車1基は岐阜市指定有形民俗文化財"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "岐阜県",
+      "name": "どぶろく祭",
+      "details": "白川村、10月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "name": "遠州横須賀三熊野神社大祭",
+      "details": "掛川市三熊野神社、4月第1金曜日 - 日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "name": "浜松まつり",
+      "details": "浜松市、5月3日 - 5日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "name": "浅間大社流鏑馬祭",
+      "details": "富士宮市 浅間大社、5月4日 - 6日",
+      "notes": "流鏑馬は5日に行われる。"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "name": "吉原祇園祭",
+      "details": "富士市木之元神社ほか、6月第2土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "name": "甲子祭",
+      "details": "富士市甲子神社、8月第1土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "name": "事任八幡宮例大祭",
+      "details": "掛川市 事任八幡宮、9月第2金曜日 - 日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "name": "掛川祭",
+      "details": "掛川市龍尾神社ほか、10月第2金曜日 - 日曜日（大祭のみ月を含む）",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "name": "甲子秋まつり",
+      "details": "富士市甲子神社、10月第3土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "name": "掛塚貴船神社祭礼",
+      "details": "磐田市貴船神社、10月第3土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "name": "富士宮まつり",
+      "details": "富士宮市 浅間大社、11月3日 -5日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "静岡県",
+      "name": "森の祭り",
+      "details": "森町三島神社 ほか、11月第1金曜日 - 日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "津具の花祭",
+      "details": "設楽町、1月2日 - 3日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "古戸の花祭",
+      "details": "東栄町、1月2日 - 3日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "下黒川の花祭",
+      "details": "豊根村、1月2日 - 3日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "上黒川の花祭",
+      "details": "豊根村、1月3日 - 4日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "御神楽祭",
+      "details": "豊根村、1月3日・4日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "砥鹿神社の田遊び",
+      "details": "豊川市、1月3日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "てんてこ祭",
+      "details": "西尾市、1月3日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "デンデンガッサリ",
+      "details": "岡崎市、1月3日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "鳳来寺田楽",
+      "details": "新城市、1月3日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "熱田踏歌神事",
+      "details": "名古屋市、1月9日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "歩射神事",
+      "details": "名古屋市、1月15日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "国府宮はだか祭",
+      "details": "稲沢市、旧暦正月13日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "きねこさ祭",
+      "details": "名古屋市、旧歴1月17日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "鳥羽の火祭り",
+      "details": "西尾市、2月第2日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "滝山寺鬼まつり",
+      "details": "岡崎市、2月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "田峯田楽",
+      "details": "設楽町、2月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "天下祭",
+      "details": "豊田市、2月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "豊橋鬼祭",
+      "details": "豊橋市、2月10日・11日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "開扉祭",
+      "details": "津島市、旧暦2月1日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "豊年祭",
+      "details": "犬山市大縣神社、3月15日前の日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "豊年祭",
+      "details": "小牧市田縣神社、3月15日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "乙川祭禮",
+      "details": "半田市、3月第3土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "桃花祭",
+      "details": "一宮市、4月1日 - 3日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "家康行列",
+      "details": "岡崎市、4月第1または第2日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "須賀神社大祭",
+      "details": "岡崎市、4月第2日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "犬山祭",
+      "details": "犬山市、4月第1土曜日・日曜日",
+      "notes": "ユネスコ無形文化遺産"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "若葉祭",
+      "details": "豊川市、4月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "菟足神社の風祭",
+      "details": "豊川市、4月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "常滑祭",
+      "details": "常滑市、4月第2土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "上半田のちんとろ祭り",
+      "details": "半田市、4月第2土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "西成岩地区祭礼",
+      "details": "半田市、4月第2土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "協和地区祭礼",
+      "details": "半田市、4月第2土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "成岩地区祭礼",
+      "details": "半田市、4月第2土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "板山地区祭礼",
+      "details": "半田市、4月第2土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "岩滑地区祭礼",
+      "details": "半田市、4月第2土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "岩滑新田地区祭礼",
+      "details": "半田市、4月第2土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "長尾の春まつり",
+      "details": "武豊町、4月第2土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "岡田春まつり",
+      "details": "知多市、4月第2日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "下半田祭",
+      "details": "半田市、4月第3土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "於大まつり",
+      "details": "東浦町、4月第3土曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "（名古屋）東照宮祭",
+      "details": "名古屋市中区、4月16・17日",
+      "notes": "旧称「なごやまつり」"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "石刀（いわと）祭",
+      "details": "一宮市、4月19日とその直後の日曜",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "真清田神社舞楽神事",
+      "details": "一宮市、4月29日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "熱田神宮舞楽神事",
+      "details": "名古屋市、5月1日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "知立まつり",
+      "details": "知立市、5月2日・3日",
+      "notes": "無形文化遺産"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "亀崎潮干祭",
+      "details": "半田市、5月3日・4日",
+      "notes": "無形文化遺産"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "砥鹿神社例大祭",
+      "details": "豊川市、5月3日・4日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "大野祭り",
+      "details": "常滑市、5月3日・4日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "酔笑人神事",
+      "details": "名古屋市、5月4日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "長篠合戦のぼりまつり",
+      "details": "新城市、5月5日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "能見神明宮大祭",
+      "details": "岡崎市、5月第2土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "若宮まつり",
+      "details": "名古屋市中区、5月15日・16日",
+      "notes": "旧称「祇園祭」"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "熱田まつり",
+      "details": "名古屋市熱田区、6月5日",
+      "notes": "熱田神宮摂社「南新宮社」の祭礼と同一日付。"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "六ツ美悠紀斎田お田植えまつり",
+      "details": "岡崎市、6月第1日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "御田神社御田植祭",
+      "details": "名古屋市、6月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "大高斎田御田植祭",
+      "details": "名古屋市、6月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "出来町天王祭",
+      "details": "名古屋市東区、6月第1土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "筒井町天王祭",
+      "details": "名古屋市東区、6月第1土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "尾張西枇杷島まつり",
+      "details": "清須市、6月第1土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "清水のちょうちん祭り",
+      "details": "設楽町、6月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "祖父江の虫送り",
+      "details": "稲沢市、6月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "矢田のウンカ送り",
+      "details": "常滑市、6月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "那古野（なごや）神社例大祭",
+      "details": "名古屋市中区、7月15日・16日",
+      "notes": "旧称「三の丸天王祭」"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "設楽原決戦場まつり",
+      "details": "新城市、7月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "豊橋祇園祭",
+      "details": "豊橋市、7月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "豊橋進雄神社例大祭",
+      "details": "豊川市、7月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "豊浜鯛まつり",
+      "details": "南知多町、7月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "日間賀島祇園祭",
+      "details": "南知多町、7月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "万燈祭",
+      "details": "刈谷市、7月第4土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "一宮七夕まつり",
+      "details": "一宮市、7月下旬の木曜日 - 日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "尾張津島天王祭",
+      "details": "津島市・愛西市、7月第4土曜日・日曜日",
+      "notes": "無形文化遺産"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "豊田おいでんまつり（豊田市、7月最終週の土曜日・日曜日",
+      "details": "2006年までは7月最終週の金曜日 - 日曜日、2027年からは秋",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "石上げ祭り",
+      "details": "犬山市、8月第1日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "須成祭",
+      "details": "蟹江町、8月",
+      "notes": "無形文化遺産"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "岡崎観光夏まつり花火大会",
+      "details": "岡崎市、8月第1土曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "安城七夕まつり",
+      "details": "安城市、8月第1週の週末3日間",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "大海の放下",
+      "details": "新城市、8月10日・15日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "田峯の念仏踊り",
+      "details": "設楽町、8月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "秋葉祭",
+      "details": "小牧市、8月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "貝吹のかぎ万燈",
+      "details": "西尾市、8月14日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "信玄原の火おんどり",
+      "details": "新城市、8月15日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "乗本万灯",
+      "details": "新城市、8月15日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "鍋つる万灯",
+      "details": "新城市、8月15日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "三好大提灯まつり",
+      "details": "みよし市、8月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "三河一色大提灯まつり",
+      "details": "西尾市、8月下旬",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "にっぽんど真ん中祭り",
+      "details": "名古屋市、8月末",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "内海神楽船",
+      "details": "南知多町、旧暦8月17日に近い日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "田原まつり",
+      "details": "田原市、9月の敬老の日に最も近い土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "尾張横須賀まつり",
+      "details": "東海市、9月第4日曜日とその前日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "矢作神社秋の大祭",
+      "details": "岡崎市、10月1・2日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "大田まつり",
+      "details": "東海市、10月第1土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "有明天満社例大祭",
+      "details": "名古屋市、10月第1日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "戸田祭",
+      "details": "名古屋市、10月第1土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "尾張津島秋祭",
+      "details": "津島市、10月第1土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "朝倉の梯子獅子",
+      "details": "知多市、10月第1土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "本地祭り",
+      "details": "名古屋市南区、10月第1土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "高浜おまんと祭り",
+      "details": "高浜市、10月第1土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "はんだ山車まつり",
+      "details": "半田市、5年に1度の10月第1日曜日とその前日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "藤江のだんつく獅子舞",
+      "details": "東浦町、10月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "大脇の梯子獅子",
+      "details": "豊明市、10月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "足助八幡宮例祭（足助まつり）",
+      "details": "豊田市、10月第2土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "猿投祭り",
+      "details": "豊田市、10月第2土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "四郷棒の手警固祭り",
+      "details": "豊田市、10月第2土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "長湫の警固祭り",
+      "details": "長久手市、10月第2日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "田貫の捧の手",
+      "details": "西尾市、10月第3日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "澁川神社秋季例祭",
+      "details": "尾張旭市、10月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "鳴海祭表方",
+      "details": "名古屋市、10月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "鳴海祭裏方",
+      "details": "名古屋市、10月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "挙母祭り",
+      "details": "豊田市、10月第3土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "名古屋まつり",
+      "details": "名古屋市、10月中旬の土曜日・日曜日",
+      "notes": "郷土英傑行列"
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "夏山八幡宮火祭り",
+      "details": "岡崎市、10月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "三谷祭",
+      "details": "蒲郡市、10月下旬の土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "参候祭",
+      "details": "設楽町、11月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "小林の花祭",
+      "details": "東栄町、11月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "御薗の花祭",
+      "details": "東栄町、11月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "東薗目の花祭",
+      "details": "東栄町、11月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "足込の花祭",
+      "details": "東栄町、11月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "月の花祭",
+      "details": "東栄町、11月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "河内の花祭",
+      "details": "東栄町、11月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "二川宿本陣まつり",
+      "details": "豊橋市、11月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "豊川稲荷秋季例大祭",
+      "details": "豊川市、11月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "中在家の花祭",
+      "details": "東栄町、12月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "中設楽の花祭",
+      "details": "東栄町、12月",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "prefecture": "愛知県",
+      "name": "ごせんだら",
+      "details": "田原市、12月31日 - 1月1日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "name": "ヤーヤ祭り",
+      "details": "尾鷲市、2月1日 - 5日",
+      "notes": "尾鷲神社例大祭"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "name": "多度祭",
+      "details": "桑名市、5月4日・5日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "name": "伊勢えび祭",
+      "details": "志摩市、6月第1土曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "name": "斎王まつり",
+      "details": "明和町、6月第1土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "name": "赤崎祭",
+      "details": "鳥羽市、6月22日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "name": "伊雑宮御田植祭",
+      "details": "志摩市、6月24日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "name": "松原の石取祭",
+      "details": "四日市市、7月中旬",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "name": "鳥羽みなとまつり",
+      "details": "鳥羽市、7月第4金曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "name": "関宿祇園夏まつり",
+      "details": "亀山市、7月下旬",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "name": "大淀祇園祭",
+      "details": "明和町、旧暦6月14日に最も近い土曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "name": "久居花火大会",
+      "details": "津市、8月第1土曜日",
+      "notes": "旧・サマーフェスタ イン ひさい"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "name": "石取祭",
+      "details": "桑名市、8月第1日曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "name": "天ヶ須賀の石取祭",
+      "details": "四日市市、お盆",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "name": "わらじ祭り",
+      "details": "志摩市、9月の申の日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "name": "伊勢まつり",
+      "details": "伊勢市、9月下旬 - 10月上旬",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "name": "四日市祭",
+      "details": "四日市市、10月第1土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "name": "津まつり",
+      "details": "津市、10月第2月曜日の前々日と前日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "name": "木本まつり",
+      "details": "熊野市、10月スポーツの日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "三重県",
+      "name": "上野天神祭",
+      "details": "伊賀市、10月23日 - 25日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "name": "勝部の火まつり祭",
+      "details": "守山市勝部神社、1月第2土曜日",
+      "notes": "県選択無形民俗文化財"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "name": "左義長祭",
+      "details": "近江八幡市日牟禮八幡宮、3月中旬の土曜日・日曜日",
+      "notes": "国の選択無形民俗文化財、県指定無形民俗文化財"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "name": "日吉山王祭",
+      "details": "大津市日吉大社、4月12日 - 15日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "name": "八幡祭",
+      "details": "近江八幡市日牟禮八幡宮、4月中旬の土曜日・日曜日",
+      "notes": "国の選択無形民俗文化財"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "name": "長浜曳山祭",
+      "details": "長浜市長浜八幡宮、曳山巡行4月13日 - 15日",
+      "notes": "ユネスコの無形文化遺産、国の重要無形民俗文化財、また山車13基は県指定有形民俗文化財"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "name": "宮荘の曳山祭〔五箇まつり〕",
+      "details": "東近江市五個神社、4月15日 - 16日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "name": "水口曳山祭",
+      "details": "甲賀市水口神社、4月20日",
+      "notes": "県指定無形民俗文化財"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "name": "堅井の曳山祭",
+      "details": "愛荘町軽野神社、4月中旬",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "name": "日野祭",
+      "details": "日野町馬見岡綿向神社、5月2日 - 3日",
+      "notes": "県指定無形民俗文化財"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "name": "大溝祭",
+      "details": "高島市日吉神社、5月3日 - 4日",
+      "notes": "滋賀県の選択無形民俗文化財"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "name": "篠田の花火",
+      "details": "近江八幡市 篠田神社、5月4日",
+      "notes": "国の選択無形民俗文化財"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "name": "茶わん祭",
+      "details": "長浜市丹生神社、5月4日",
+      "notes": "県指定無形民俗文化財"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "name": "浅小井の祇園祭",
+      "details": "近江八幡市 津島神社、7月第3土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "name": "大津祭",
+      "details": "大津市天孫神社、10月上旬",
+      "notes": "国の重要無形民俗文化財"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "滋賀県",
+      "name": "米原曳山祭",
+      "details": "米原市湯谷神社、10月6日 - 8日",
+      "notes": "滋賀県の選択無形民俗文化財"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "白朮祭",
+      "details": "京都市、1月1日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "大送神社の綱引き",
+      "details": "南丹市、1月",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "阿含の星まつり",
+      "details": "京都市、2月11日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "延年祭",
+      "details": "伊根町、3月17日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "朝妻祭",
+      "details": "伊根町、4月中旬",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "筒川祭",
+      "details": "伊根町、4月下旬",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "葵祭",
+      "details": "京都市賀茂神社、5月",
+      "notes": "京都三大祭"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "舞鶴つつじまつり",
+      "details": "舞鶴市、5月",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "まいづる細川幽斎 田辺城まつり",
+      "details": "舞鶴市、5月",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "県祭り",
+      "details": "宇治市、6月5日 - 6日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "祇園祭",
+      "details": "京都市八坂神社、7月",
+      "notes": "京都三大祭"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "みなと舞鶴ちゃったまつり",
+      "details": "舞鶴市、7月",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "あやべ水無月まつり",
+      "details": "綾部市、7月",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "伊根祭",
+      "details": "伊根町、7月27日 - 28日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "まち遊びフェスティバル",
+      "details": "舞鶴市、8月",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "本庄祭",
+      "details": "伊根町、8月上旬",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "城屋の揚松明",
+      "details": "舞鶴市、8月14日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "愛宕の火祭り",
+      "details": "伊根町、8月15日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "吉原の万灯籠",
+      "details": "舞鶴市、8月16日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "おべっさん",
+      "details": "伊根町、8月20日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "FUNAYAの里ベイエリアフェスティバル",
+      "details": "伊根町、8月下旬",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "まいづる魚まつり",
+      "details": "舞鶴市、10月",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "赤れんがフェスタin舞鶴",
+      "details": "舞鶴市、10月",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "額田のダシ行事",
+      "details": "福知山市、10月第2土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "時代祭",
+      "details": "京都市、10月15日 - 23日",
+      "notes": "京都三大祭"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "鞍馬の火祭",
+      "details": "京都市、10月22日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "京都府",
+      "name": "亀岡祭",
+      "details": "亀岡市、10月23日 - 25日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "十日戎",
+      "details": "大阪市・豊中市など今宮戎神社、堀川戎神社、野田恵美須神社、大阪天満宮、服部天神宮ほか、1月9日 - 1月11日、",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "聖霊会",
+      "details": "大阪市、旧暦2月22日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "狭山池まつり",
+      "details": "大阪狭山市、4月最終土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "中之島まつり",
+      "details": "大阪市、5月3日 - 5日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "住吉の御田植",
+      "details": "大阪市、6月14日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "愛染まつり",
+      "details": "大阪市勝鬘院愛染堂、6月30日 - 7月2日",
+      "notes": "大阪三大夏祭り"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "生國魂祭",
+      "details": "大阪市、7月11日 - 12日",
+      "notes": "生國魂神社）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "平野郷夏祭り",
+      "details": "大阪市、7月11日 ｰ 14日、杭全神社",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "寺方提灯踊り",
+      "details": "守口市、7月の海の日を含む2日間",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "茨木フェスティバル",
+      "details": "茨木市、7月下旬",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "天神祭",
+      "details": "大阪市大阪天満宮、7月24日 - 25日",
+      "notes": "大阪三大夏祭り"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "箕面まつり",
+      "details": "箕面市、7月最終土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "住吉祭",
+      "details": "大阪市住吉大社、7月30日 - 31日",
+      "notes": "大阪三大夏祭り"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "大魚夜市",
+      "details": "堺市、7月31日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "南河内だんじり祭り",
+      "details": "富田林市・河内長野市・太子町・河南町・千早赤阪村、7月・10月",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "高槻まつり",
+      "details": "高槻市、8月第1土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "がんがら火祭り",
+      "details": "池田市、8月24日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "岸和田だんじり祭",
+      "details": "岸和田市、9月14日・15日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "春木だんじり祭",
+      "details": "岸和田市、9月の敬老の日前日の日曜日とその前日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "鳳だんじり祭り",
+      "details": "堺市、10月第1金曜日から3日間",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "津久野だんじり祭",
+      "details": "堺市、10月第1金曜日から3日間",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "久世だんじり祭り",
+      "details": "堺市、10月第1土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "深井だんじり祭り",
+      "details": "堺市、10月第1土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "高石だんじり祭",
+      "details": "高石市、10月前半",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "熊取だんじり祭",
+      "details": "熊取町、10月スポーツの日の直前の土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "泉大津だんじり祭り",
+      "details": "泉大津市、10月スポーツの日の前々日・前日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "岸和田十月祭礼",
+      "details": "岸和田市、10月スポーツの日の前々日・前日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "和泉だんじり祭",
+      "details": "和泉市、10月スポーツの日の前々日・前日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "貝塚だんじり祭",
+      "details": "貝塚市、10月スポーツの日の前々日・前日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "古市だんじり祭",
+      "details": "羽曳野市、10月スポーツの日の前々日・前日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "府中だんじり祭",
+      "details": "堺市、10月第2土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "堺まつり",
+      "details": "堺市、10月第3日曜日とその前日の土曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "泉州YOSAKOIゑぇじゃないか祭り",
+      "details": "泉佐野市、10月中旬 - 下旬",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "大阪府",
+      "name": "四天王寺ワッソ",
+      "details": "大阪市、11月第1日曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "name": "西宮十日戎",
+      "details": "西宮市西宮神社、1月9日 - 11日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "name": "出石初午大祭",
+      "details": "豊岡市、3月",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "name": "お走りさん",
+      "details": "養父市、3月",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "name": "源氏まつり",
+      "details": "川西市、4月",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "name": "播州北条節句祭り",
+      "details": "加西市住吉神社、4月",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "name": "神戸まつり",
+      "details": "神戸市、5月",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "name": "相生ペーロン祭",
+      "details": "相生市、5月最終日曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "name": "姫路ゆかたまつり",
+      "details": "姫路市、6月",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "name": "Kobe Love Port・みなとまつり",
+      "details": "神戸市、7月",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "name": "柳まつり",
+      "details": "豊岡市、8月",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "name": "灘のけんか祭り",
+      "details": "姫路市、10月",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "name": "大石りくまつり",
+      "details": "豊岡市、10月",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "name": "大窪八幡宮秋祭り",
+      "details": "明石市、10月第2土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "name": "神戸ルミナリエ",
+      "details": "神戸市、12月",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "兵庫県",
+      "name": "赤穂義士祭",
+      "details": "赤穂市、12月14日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "繞道祭",
+      "details": "桜井市大神神社、1月1日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "御弓始め式",
+      "details": "天理市大和神社、1月4日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "陀々堂の鬼はしり",
+      "details": "五條市念仏寺、1月14日",
+      "notes": "国重要無形民俗文化財"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "茅原のとんど",
+      "details": "御所市吉祥草寺、1月14日",
+      "notes": "県指定無形民俗文化財"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "篠原踊",
+      "details": "五條市 篠原天神社、1月第3日曜日",
+      "notes": "選択無形民俗文化財・県指定無形民俗文化財）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "惣谷狂言",
+      "details": "五條市 惣谷天神社、1月第3日曜日",
+      "notes": "県指定無形民俗文化財"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "若草山山焼き",
+      "details": "奈良市、1月第4土曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "光仁会・癌封じ笹酒祭",
+      "details": "奈良市大安寺、1月23日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "おんだ祭",
+      "details": "明日香村飛鳥坐神社、2月第1日曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "鬼火の祭典",
+      "details": "吉野町 金峯山寺、2月3日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "追儺会・鬼追い式",
+      "details": "斑鳩町法隆寺、節分",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "紀元祭",
+      "details": "橿原市橿原神宮、2月11日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "お綱祭",
+      "details": "桜井市、2月11日",
+      "notes": "国の重要無形民俗文化財（指定名称は「江包・大西の御綱」）"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "砂かけ祭",
+      "details": "河合町廣瀬大社、2月11日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "国栖奏",
+      "details": "吉野町浄見原神社、旧暦1月14日",
+      "notes": "県指定無形民俗文化財"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "だだおし",
+      "details": "桜井市長谷寺、2月14日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "修二会・お水取り",
+      "details": "奈良市東大寺二月堂、3月1日 - 14日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "初午厄除祭",
+      "details": "大和郡山市松尾寺、3月初午の日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "初午厄除大祭",
+      "details": "明日香村岡寺、3月初午の日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "春日祭",
+      "details": "奈良市春日大社、3月13日",
+      "notes": "勅祭"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "法隆寺お会式",
+      "details": "斑鳩町 法隆寺、3月22日 - 24日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "鬼追い式",
+      "details": "奈良市薬師寺、3月31日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "ちゃんちゃん祭",
+      "details": "天理市大和神社、4月1日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "花供会式",
+      "details": "吉野町金峯山寺、4月10日 - 12日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "當麻寺練供養",
+      "details": "葛城市當麻寺、4月14日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "鎮花祭",
+      "details": "桜井市大神神社、4月18日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "饅頭祭",
+      "details": "奈良市漢國神社（林神社）、4月19日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "けまり祭",
+      "details": "桜井市談山神社、4月29日・11月3日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "献氷祭",
+      "details": "奈良市氷室神社、5月1日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "久米寺練供養",
+      "details": "橿原市久米寺、5月3日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "汁かけ祭",
+      "details": "御所市野口神社、5月5日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "薪御能",
+      "details": "奈良市興福寺・春日大社、5月第3金曜日・土曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "うちわまき",
+      "details": "奈良市唐招提寺、5月19日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "三枝祭",
+      "details": "奈良市率川神社、6月17日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "風鎮大祭",
+      "details": "三郷町龍田大社、7月第1日曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "蓮華会・蛙飛び",
+      "details": "吉野町金峯山寺、7月7日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "ススキ提灯献灯行事",
+      "details": "御所市鴨都波神社、7月16日・10月スポーツの日の前々日",
+      "notes": "県指定無形民俗文化財"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "行者まつり",
+      "details": "天川村洞川温泉、8月2日・3日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "十津川の大踊",
+      "details": "十津川村8月13日 - 15日",
+      "notes": "国の重要無形民俗文化財"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "万灯籠",
+      "details": "奈良市 春日大社、節分・8月14日・15日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "阪本踊り",
+      "details": "五條市 阪本天神社、8月15日",
+      "notes": "県指定無形民俗文化財"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "ほうらんや火祭り",
+      "details": "橿原市、8月16日",
+      "notes": "県指定無形民俗文化財"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "古市場納涼夏まつり・大盆踊り",
+      "details": "宇陀市 宇太水分神社、8月16日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "紅しで踊り",
+      "details": "天理市 大和神社、9月23日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "采女祭",
+      "details": "奈良市采女神社・猿沢池、中秋の名月",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "翁舞",
+      "details": "奈良市奈良豆比古神社、10月8日",
+      "notes": "国の重要無形民俗文化財"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "往馬大社火祭り",
+      "details": "生駒市往馬坐伊古麻都比古神社、10月スポーツの日の前日",
+      "notes": "県指定無形民俗文化財"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "曽爾の獅子舞",
+      "details": "曽爾村門僕神社、10月スポーツの日の前日",
+      "notes": "県指定無形民俗文化財"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "小川祭",
+      "details": "東吉野村丹生川上神社、10月第2日曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "室生の獅子神楽",
+      "details": "宇陀市 室生寺・室生龍穴神社、10月スポーツの日",
+      "notes": "県指定無形民俗文化財"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "題目立",
+      "details": "奈良市八柱神社、10月12日",
+      "notes": "国の重要無形民俗文化財、ユネスコ無形文化遺産"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "菟田野みくまり祭",
+      "details": "宇陀市宇太水分神社、10月第3日曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "龍口獅子舞",
+      "details": "宇陀市 龍口白山神社、10月第4日曜日",
+      "notes": "県指定無形民俗文化財"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "戸閉て祭",
+      "details": "広陵町櫛玉比女命神社、11月2日・3日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "酒まつり",
+      "details": "桜井市大神神社、11月14日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "奈良県",
+      "name": "春日若宮おん祭",
+      "details": "奈良市 春日大社、12月17日",
+      "notes": "国の重要無形民俗文化財"
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "name": "御燈祭",
+      "details": "新宮市神倉神社、2月6日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "name": "那智の火祭",
+      "details": "那智勝浦町熊野那智大社、7月",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "name": "田辺祭",
+      "details": "田辺市闘鶏神社、7月24日・25日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "name": "河内祭",
+      "details": "串本町・古座川町河内神社、7月第4土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "name": "熊野速玉祭",
+      "details": "新宮市熊野速玉大社、9月",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "name": "弁慶まつり",
+      "details": "田辺市闘鶏神社、10月第1金曜日・土曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "name": "木ノ本の獅子舞",
+      "details": "和歌山市木本八幡宮、10月13日以降の最初の土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "prefecture": "和歌山県",
+      "name": "千田祭",
+      "details": "有田市須佐神社、10月13日・14日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "name": "米子がいな祭",
+      "details": "米子市、8月第1土曜日・日曜日または7月最終土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "name": "鳥取しゃんしゃん祭",
+      "details": "鳥取市、盆前の土曜日から8月15日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "name": "ホーランエンヤ",
+      "details": "松江市、10年おきの5月中旬、次回は2029年",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "name": "隠岐島前神楽",
+      "details": "西ノ島町、7月中旬 - 下旬",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "name": "島後久見神楽",
+      "details": "隠岐の島町、7月25日または26日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "name": "神在祭",
+      "details": "出雲地方、旧暦10月10日 - 17日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "name": "でやんな祭",
+      "details": "西ノ島町、3月初巳および10月28日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "name": "西大寺会陽",
+      "details": "岡山市、2月",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "name": "うそとり大明神大祭",
+      "details": "久米郡、4月1日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "name": "真鍋島の走り神輿",
+      "details": "笠岡市、5月3日 - 5日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "name": "倉敷天領夏祭り",
+      "details": "倉敷市、7月",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "name": "おかやま桃太郎まつり",
+      "details": "岡山市、8月第1土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "name": "松山踊り",
+      "details": "高梁市、8月14日 - 16日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "name": "鴻八幡宮例大祭",
+      "details": "倉敷市、10月第2土曜日・日曜日",
+      "notes": "しゃぎり（お囃子）は岡山県の無形民俗文化財指定"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "name": "勝山喧嘩だんじり",
+      "details": "真庭市、10月19日・20日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "name": "津山まつり",
+      "details": "津山市、10月第3土曜日・日曜日・10月第4土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "name": "久世祭り",
+      "details": "真庭市、10月25日・26日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "name": "岩山神社例大祭",
+      "details": "新見市、11月3日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "name": "能地春祭り",
+      "details": "三原市幸崎町、3月第4土曜日と翌日の日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "name": "土師ダム桜まつり",
+      "details": "安芸高田市、4月",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "name": "ひろしまフラワーフェスティバル",
+      "details": "広島市、5月3日 - 5日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "name": "福山ばら祭",
+      "details": "福山市、5月下旬",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "name": "とうかさん大祭",
+      "details": "広島市福昌山慈善院圓隆寺、6月第1金曜日からの3日間",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "name": "管絃祭",
+      "details": "廿日市市厳島神社、旧暦6月17日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "name": "住吉大祭",
+      "details": "広島市 住吉神社、7月",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "name": "やっさ祭り",
+      "details": "三原市、8月の第2日曜日を含む金曜日 - 日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "name": "甲山廿日えびす",
+      "details": "世羅町、8月19日・20日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "name": "胡子大祭",
+      "details": "広島市 胡子神社、11月17日 - 20日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "name": "日本三天神防府天満宮節分祭・牛替神事",
+      "details": "防府市、2月2日・3日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "name": "山口祇園祭",
+      "details": "山口市、7月20日 - 27日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "name": "萩夏まつり",
+      "details": "萩市、8月1日 - 3日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "name": "日本三天神防府天満宮御辰神祭",
+      "details": "防府市、8月3日 - 5日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "name": "山口七夕ちょうちんまつり",
+      "details": "山口市、8月6日・7日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "name": "馬関祭り",
+      "details": "下関市、8月下旬の土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "name": "宇部まつり",
+      "details": "宇部市、11月6日・7日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "name": "日本三天神防府天満宮御神幸祭",
+      "details": "防府市、11月第4土曜日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "name": "山口天神祭",
+      "details": "山口市、11月23日",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "name": "笑い講",
+      "details": "防府市、12月第1日曜日",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "name": "えびす祭り",
+      "details": "徳島市、1月9日 - 11日",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "name": "ビッグひな祭り",
+      "details": "勝浦町、2月 - 3月",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "name": "蜂須賀まつり",
+      "details": "徳島市、4月下旬",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "name": "はな・はる・フェスタ",
+      "details": "徳島市、4月下旬",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "name": "西祖谷の神代踊",
+      "details": "三好市、旧暦6月25日",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "name": "小松島港まつり",
+      "details": "小松島市、7月",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "name": "徳島ひょうたん島水都祭",
+      "details": "徳島市、7月13日 - 16日",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "name": "吉野川フェスティバル",
+      "details": "徳島市、7月下旬",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "name": "阿波踊り",
+      "details": "徳島市、8月12日 - 15日、四国三大祭り",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "name": "橘けんかだんじり祭り",
+      "details": "阿南市、10月1日 - 3日",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "name": "阿波の狸まつり",
+      "details": "徳島市、11月上旬",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "name": "稲積山高屋祭り",
+      "details": "観音寺市、4月第2土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "name": "丸亀お城まつり",
+      "details": "丸亀市、前夜祭5月2日・本まつり3日 - 4日",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "name": "さかいで塩まつり",
+      "details": "坂出市、5月頃の日曜日",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "name": "さかいで大橋まつり",
+      "details": "坂出市、8月第1金曜日 - 日曜日",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "name": "さぬき高松まつり",
+      "details": "高松市、8月12日から3日間",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "name": "まるがめ婆娑羅まつり",
+      "details": "丸亀市、8月下旬の土曜日・日曜日。2023年に開催終了し花火大会へ移行",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "name": "高松秋のまつり・仏生山大名行列",
+      "details": "高松市、9月頃",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "name": "琴弾八幡宮大祭",
+      "details": "観音寺市、10月第3金曜日 - 日曜日",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "name": "高松冬のまつり",
+      "details": "高松市、12月",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "name": "おんまく",
+      "details": "今治市、8月第1土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "name": "松山港まつり",
+      "details": "松山市、8月第1日曜日",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "name": "松山まつり",
+      "details": "松山市、8月中旬",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "name": "三間町納涼祭",
+      "details": "宇和島市、8月13日",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "name": "小松祭り",
+      "details": "西条市、10月中旬",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "name": "東予祭り",
+      "details": "西条市、10月中旬",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "name": "新居浜太鼓祭り",
+      "details": "新居浜市、10月中旬",
+      "notes": "四国三大祭り"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "name": "川之江太鼓祭り",
+      "details": "四国中央市、10月13日 - 15日",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "name": "土居太鼓祭り",
+      "details": "四国中央市、10月13日 - 15日",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "name": "西条祭り",
+      "details": "西条市、10月14日 - 17日",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "name": "どろめ祭り",
+      "details": "香南市、4月最終日曜日",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "name": "吉良川の御田祭",
+      "details": "室戸市、隔年5月3日",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "name": "シットロト踊り",
+      "details": "室戸市、旧暦6月10日",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "name": "よさこい祭り",
+      "details": "高知市、8月9日 - 12日",
+      "notes": "四国三大祭り"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "name": "八屋祇園",
+      "details": "豊前市大富神社、4月29日 - 5月1日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "name": "博多松囃子・博多どんたく",
+      "details": "福岡市、5月3日 - 4日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "name": "川渡り神幸祭",
+      "details": "田川市風治八幡宮、5月第3日曜日とその前日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "name": "博多祇園山笠",
+      "details": "福岡市櫛田神社、7月1日 - 15日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "name": "二島祇園",
+      "details": "北九州市若松区日吉神社内須賀神社、7月14日・15日に近い土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "name": "津屋崎祇園山笠",
+      "details": "福津市波折神社、7月19日直近の日曜日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "name": "黒崎祇園山笠",
+      "details": "北九州市八幡西区岡田宮・春日神社・一宮神社、7月20日頃",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "name": "大蛇山まつり",
+      "details": "大牟田市大牟田神社、7月の海の日前日から第4日曜日まで",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "name": "小倉祇園太鼓",
+      "details": "北九州市小倉北区八坂神社、7月第3土曜日の前後3日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "name": "前田祇園山笠",
+      "details": "北九州市八幡東区仲宿八幡宮、7月第3日曜日の前後3日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "name": "戸畑祇園大山笠",
+      "details": "北九州市戸畑区飛幡八幡宮・菅原神社・中原八幡宮、7月第4土曜日を挟む3日間",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "name": "直方山笠",
+      "details": "直方市多賀神社、7月最終土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "name": "わっしょい百万夏まつり",
+      "details": "北九州市小倉北区、8月第1土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "name": "放生会",
+      "details": "福岡市東区筥崎宮、9月12日 - 18日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "name": "博多おくんち",
+      "details": "福岡市 櫛田神社、10月23日 - 24日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "name": "おしろい祭り",
+      "details": "朝倉市大山祇神社、12月2日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "name": "小友祇園山笠",
+      "details": "唐津市八坂神社、旧暦6月14日 - 15日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "name": "浜崎祇園山笠",
+      "details": "唐津市諏訪神社内須賀神社、7月海の日過ぎの土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "name": "鳥栖祇園山笠",
+      "details": "鳥栖市鳥栖八坂神社、7月第3土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "name": "白鬚神社の田楽",
+      "details": "佐賀市白鬚神社、10月18日 - 19日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "name": "伊万里トンテントン祭り",
+      "details": "伊万里市伊萬里神社、10月22日 - 24日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "name": "唐津くんち",
+      "details": "唐津市唐津神社、11月2日 - 4日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "name": "長崎ランタンフェスティバル",
+      "details": "長崎市、旧暦1月1日から2週間",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "name": "長崎帆船まつり",
+      "details": "長崎市、4月下旬",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "name": "郷ノ浦祇園山笠",
+      "details": "壱岐市八坂神社、7月第4土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "name": "させぼシーサイドフェスティバル",
+      "details": "佐世保市、8月上旬の土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "name": "オーモンデー",
+      "details": "五島市、8月14日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "name": "長崎くんち",
+      "details": "長崎市諏訪神社、10月7日 - 9日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "name": "聖母宮例大祭",
+      "details": "壱岐市、10月10日 - 14日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "name": "竹ン芸",
+      "details": "長崎市、若宮稲荷神社、10月14日 - 15日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "name": "YOSAKOIさせぼ祭り",
+      "details": "佐世保市、10月下旬の金曜日 - 日曜日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "name": "きらきらフェスティバル",
+      "details": "佐世保市、11月中旬 - 12月25日前後",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "name": "木原不動尊大祭",
+      "details": "熊本市長寿寺、2月28日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "name": "伊倉南北八幡宮春季大祭",
+      "details": "玉名市伊倉八幡宮、4月中旬の日曜日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "name": "坪井繁栄会夏まつり",
+      "details": "熊本市宗心寺、7月第3月曜日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "name": "清正公祭り",
+      "details": "熊本市加藤神社、7月第4日曜日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "name": "火の国まつり",
+      "details": "熊本市、8月第1金曜日・土曜日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "name": "山鹿灯籠まつり",
+      "details": "山鹿市大宮神社、8月15日 - 17日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "name": "高橋稲荷神社初午大祭",
+      "details": "熊本市高橋稲荷神社、9月",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "name": "藤崎八旛宮秋季例大祭",
+      "details": "熊本市藤崎八旛宮、9月の敬老の日を最終日とする5日間",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "name": "六殿神社秋季例大祭",
+      "details": "熊本市六殿神社、10月9日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "name": "伊倉南北八幡宮秋季大祭",
+      "details": "玉名市 伊倉八幡宮、10月中旬の日曜日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "name": "内牧菅原神社例大祭",
+      "details": "阿蘇市内牧菅原神社、10月中旬",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "name": "河尻神宮秋季例大祭",
+      "details": "熊本市河尻神宮、10月15日 - 19日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "name": "新開大神宮大祭",
+      "details": "熊本市新開大神宮、10月16日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "name": "上通並木坂えびす祭り",
+      "details": "熊本市 上通並木坂、10月18日 - 19日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "name": "坪井恵比寿神社大祭",
+      "details": "熊本市坪井恵比寿神社、10月20日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "name": "妙見宮大祭",
+      "details": "八代市八代神社（妙見宮）、11月",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "name": "ホーランエンヤ",
+      "details": "豊後高田市若宮八幡宮、正月",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "name": "修正鬼会",
+      "details": "国東市・豊後高田市天念寺・岩戸寺・成仏寺、正念寺は毎年、岩戸寺は西暦奇数年の旧暦1月5日、成仏寺は西暦偶数年の旧暦1月7日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "name": "別府八湯温泉まつり",
+      "details": "別府市八幡朝見神社、4月",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "name": "御嶽神楽",
+      "details": "豊後大野市御嶽神社、4月第1日曜日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "name": "萬弘寺の市",
+      "details": "大分市萬弘寺、5月18日 - 24日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "name": "臼杵祇園まつり",
+      "details": "臼杵市、7月中旬",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "name": "中津祇園",
+      "details": "中津市中津神社・闇無浜神社、7月20日過ぎの金曜日 - 日曜日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "name": "日田祇園祭",
+      "details": "日田市八坂神社・竹田若八幡宮、7月20日過ぎの土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "name": "吉弘楽",
+      "details": "国東市楽庭八幡神社、7月第4日曜日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "name": "樋山路盆踊り",
+      "details": "中津市、8月",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "name": "大分七夕まつり",
+      "details": "大分市、8月第1金曜日 - 日曜日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "name": "府内戦紙",
+      "details": "大分市、8月第1金曜日 - 日曜日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "name": "山家踊り",
+      "details": "杵築市・豊後高田市、8月",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "name": "杵築盆踊り",
+      "details": "杵築市、8月13日 - 16日頃",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "name": "姫島盆踊り",
+      "details": "東国東郡姫島村、8月15日 - 17日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "name": "鶴崎踊",
+      "details": "大分市、8月旧盆直後の土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "name": "鉄輪湯あみ祭り",
+      "details": "別府市永福寺、9月",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "name": "放生会",
+      "details": "宇佐市宇佐神宮、10月第1土曜日 - 月曜日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "name": "古要神社の傀儡子の舞と相撲",
+      "details": "中津市古要神社、3年に1度の10月12日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "name": "ケベス祭",
+      "details": "国東市岩倉社、10月14日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "name": "どぶろく祭り",
+      "details": "杵築市白鬚田原神社、10月17日 - 18日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "name": "宇佐神宮御神能（風除報賽祭）",
+      "details": "宇佐市 宇佐神宮、10月21日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "name": "うすき竹宵",
+      "details": "臼杵市、11月第1土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "name": "さいすくい",
+      "details": "中津市貴船神社、11月下旬の土曜日または日曜日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "name": "起きよ祭り",
+      "details": "日向市、旧暦8月1日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "name": "下水流臼太鼓踊",
+      "details": "西都市南方神社、旧暦8月1日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "name": "西都古墳まつり",
+      "details": "西都市都萬神社など、11月の第1土曜日・日曜日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "name": "ドヤドヤサー",
+      "details": "肝付町、1月7日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "name": "初午祭",
+      "details": "霧島市鹿児島神宮、旧暦1月18日過ぎの日曜日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "name": "せっぺとべ",
+      "details": "日置市、6月初旬",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "name": "六月灯",
+      "details": "県内各地、7月 - 8月",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "name": "ヨッカブイ",
+      "details": "南さつま市、8月22日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "name": "ボゼ",
+      "details": "十島村、旧暦7月16日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "name": "硫黄島八朔太鼓踊り",
+      "details": "三島村、旧暦8月1日 - 2日",
+      "notes": "薩摩硫黄島のメンドン"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "name": "川内大綱引",
+      "details": "薩摩川内市、9月の秋分の日前日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "name": "本町の八月踊り",
+      "details": "肝付町、9月第4土曜日、ただし公開は隔年",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "name": "指宿温泉祭",
+      "details": "指宿市、9月最終日曜日とその前日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "name": "おはら祭",
+      "details": "鹿児島市、11月2日 - 3日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "name": "大隅町岩川八幡神社の弥五郎どん祭り",
+      "details": "曽於市、11月3日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "name": "大王殿祭り",
+      "details": "湧水町、11月19日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "name": "甑島のトシドン",
+      "details": "薩摩川内市、12月31日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "name": "東村つつじ祭り",
+      "details": "東村、3月",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "name": "琉球海炎祭",
+      "details": "宜野湾市、4月",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "name": "糸満ハーレー",
+      "details": "糸満市、旧暦5月4日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "name": "那覇ハーリー",
+      "details": "那覇市、5月のゴールデンウィーク後半3日間",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "name": "シーポートちゃたんカーニバル",
+      "details": "北谷町、7月",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "name": "海洋博公園花火大会",
+      "details": "本部町、7月",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "name": "てだこまつり",
+      "details": "浦添市、7月",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "name": "青年ふるさとエイサー祭り",
+      "details": "那覇市か北谷町、7月 - 9月の何れか",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "name": "宜野湾はごろも祭り",
+      "details": "宜野湾市、8月",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "name": "エイサー",
+      "details": "県内各地、8月 - 9月の旧盆",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "name": "沖縄全島エイサーまつり",
+      "details": "沖縄市、8月 - 9月の旧盆の翌週末",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "name": "うるま市エイサーまつり",
+      "details": "うるま市、9月",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "name": "糸満大綱引き",
+      "details": "糸満市、旧暦8月15日",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "name": "野國總管まつり(のぐにそうかんまつり)",
+      "details": "嘉手納町、10月",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "name": "那覇まつり",
+      "details": "那覇市、10月スポーツの日を含む3連休",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "name": "沖縄の産業まつり",
+      "details": "那覇市、10月下旬",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "name": "沖縄国際カーニバル",
+      "details": "沖縄市、11月下旬",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "name": "いとまんピースフルイルミネーション 130万県民「平和の光」",
+      "details": "糸満市、12月",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "日本の祭り一覧（地方・都道府県別）(Festivals of Japan) - Free Download",
+    "description": "日本各地の祭り・行事を地方・都道府県別にまとめた一覧。開催地・時期などの詳細付き。 Contains 1052 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の祭り一覧（地方・都道府県別）(Festivals of Japan) | ListBase",
+    "seo_description": "Download 日本の祭り一覧（地方・都道府県別）(Festivals of Japan) — 1052 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 1052 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%A5%AD%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}

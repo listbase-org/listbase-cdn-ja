@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-26T02:11:42.889Z",
-  "total_datasets": 513,
-  "total_records": 455065,
+  "generated": "2026-10-26T02:11:46.965Z",
+  "total_datasets": 514,
+  "total_records": 456117,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "economy",
@@ -439,6 +439,32 @@
         "xlsx": {
           "name": "ja-kokuho-ichiran_JA.xlsx",
           "size": 76342
+        }
+      }
+    },
+    {
+      "id": "ja-matsuri-ichiran",
+      "name": "日本の祭り一覧（地方・都道府県別）(Festivals of Japan)",
+      "category": "culture",
+      "record_count": 1052,
+      "columns": [
+        "region",
+        "prefecture",
+        "name",
+        "details",
+        "notes"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%A5%AD%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 211047,
+      "files": {
+        "csv": {
+          "name": "ja-matsuri-ichiran_JA.csv",
+          "size": 105021
+        },
+        "xlsx": {
+          "name": "ja-matsuri-ichiran_JA.xlsx",
+          "size": 52610
         }
       }
     },
