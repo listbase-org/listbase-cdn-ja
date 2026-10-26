@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-26T02:10:58.715Z",
-  "total_datasets": 502,
-  "total_records": 451850,
+  "generated": "2026-10-26T02:11:02.947Z",
+  "total_datasets": 503,
+  "total_records": 452832,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "tourism",
@@ -14054,6 +14054,31 @@
         "xlsx": {
           "name": "ja-shigai-kyokuban_JA.xlsx",
           "size": 45572
+        }
+      }
+    },
+    {
+      "id": "ja-kinenbi-ichiran",
+      "name": "日本の記念日一覧（日付別）(Commemorative days in Japan)",
+      "category": "time",
+      "record_count": 982,
+      "columns": [
+        "month",
+        "day",
+        "date",
+        "name"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%A8%98%E5%BF%B5%E6%97%A5%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 109725,
+      "files": {
+        "csv": {
+          "name": "ja-kinenbi-ichiran_JA.csv",
+          "size": 41190
+        },
+        "xlsx": {
+          "name": "ja-kinenbi-ichiran_JA.xlsx",
+          "size": 34255
         }
       }
     },
