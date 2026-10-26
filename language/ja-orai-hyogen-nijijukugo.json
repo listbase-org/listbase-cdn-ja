@@ -1,0 +1,1120 @@
+{
+  "id": "ja-orai-hyogen-nijijukugo",
+  "name": "二字熟語による往来表現の一覧（来日・訪米など）(Two-kanji travel expressions)",
+  "title": "二字熟語による往来表現の一覧（来日・訪米など）(Two-kanji travel expressions)",
+  "description": "「来日」「訪米」「帰京」のように、地名を一字で表した二字熟語による往来表現の読み・目的地・用例・備考の一覧。",
+  "category": "language",
+  "source": "https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%AD%97%E7%86%9F%E8%AA%9E%E3%81%AB%E3%82%88%E3%82%8B%E5%BE%80%E6%9D%A5%E8%A1%A8%E7%8F%BE%E3%81%AE%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%AD%97%E7%86%9F%E8%AA%9E%E3%81%AB%E3%82%88%E3%82%8B%E5%BE%80%E6%9D%A5%E8%A1%A8%E7%8F%BE%E3%81%AE%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 133,
+  "columns": [
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "expression",
+      "label": "Expression",
+      "type": "string"
+    },
+    {
+      "key": "reading",
+      "label": "Reading",
+      "type": "string"
+    },
+    {
+      "key": "destination",
+      "label": "Destination",
+      "type": "string"
+    },
+    {
+      "key": "usage",
+      "label": "Usage",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来日",
+      "reading": "らいにち",
+      "destination": "日本",
+      "usage": "",
+      "notes": "「来朝」とも。"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来道",
+      "reading": "らいどう",
+      "destination": "北海道",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来札",
+      "reading": "らいさつ",
+      "destination": "札幌",
+      "usage": "",
+      "notes": "「来札」は一般的に「こちらへ届いた書状。よそから来た手紙。」の意。"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来旭",
+      "reading": "らいきょく",
+      "destination": "旭川",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来函",
+      "reading": "らいかん",
+      "destination": "函館",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来釧",
+      "reading": "らいせん",
+      "destination": "釧路",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来蘭",
+      "reading": "らいらん",
+      "destination": "室蘭",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来青",
+      "reading": "らいせい",
+      "destination": "青森",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来秋",
+      "reading": "らいしゅう",
+      "destination": "秋田",
+      "usage": "",
+      "notes": "「来秋」は「来年の秋季」とも解釈される。"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来岩",
+      "reading": "[読み疑問点]",
+      "destination": "岩手",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来盛",
+      "reading": "らいせい",
+      "destination": "盛岡",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来仙",
+      "reading": "らいせん",
+      "destination": "仙台",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来形",
+      "reading": "[読み疑問点]",
+      "destination": "山形",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来福",
+      "reading": "らいふく",
+      "destination": "福島",
+      "usage": "",
+      "notes": "「福」は福井、福岡などを指す場合もある。"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来群",
+      "reading": "らいぐん",
+      "destination": "群馬",
+      "usage": "",
+      "notes": "使用頻度は多くない"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来橋",
+      "reading": "[読み疑問点]",
+      "destination": "前橋",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来草",
+      "reading": "らいそう",
+      "destination": "草津温泉",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来水",
+      "reading": "らいすい",
+      "destination": "水戸",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来栃",
+      "reading": "らいれい",
+      "destination": "栃木",
+      "usage": "",
+      "notes": "「栃」は国字であり、本来「れい」という読みは存在しない。"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来宇",
+      "reading": "らいう",
+      "destination": "宇都宮",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来葉",
+      "reading": "らいよう",
+      "destination": "千葉",
+      "usage": "",
+      "notes": "「来葉」は一般的に「後の世。後世、来世。」の意。"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来京",
+      "reading": "らいきょう",
+      "destination": "東京",
+      "usage": "",
+      "notes": "「京」は首都の意味。京都を指すこともある。 類義語に「上京」、「出京」などがある。"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来浜",
+      "reading": "らいひん",
+      "destination": "横浜",
+      "usage": "",
+      "notes": "「浜」は浜松を指すこともある。"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来甲",
+      "reading": "らいこう",
+      "destination": "甲府",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来静",
+      "reading": "らいせい",
+      "destination": "静岡",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来浜",
+      "reading": "らいひん",
+      "destination": "浜松",
+      "usage": "",
+      "notes": "「浜」は横浜を指すこともある。"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来名",
+      "reading": "らいめい",
+      "destination": "名古屋",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来条",
+      "reading": "[読み疑問点]",
+      "destination": "三条",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来越",
+      "reading": "らいえつ",
+      "destination": "新潟",
+      "usage": "",
+      "notes": "「越」はベトナムを指す場合もある。"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来港",
+      "reading": "らいこう",
+      "destination": "新潟",
+      "usage": "",
+      "notes": "新潟港は日本海側で唯一の中核国際港湾である。 「港」は香港を指す場合もある。また、「来港」は一般的に「港へ船が入ってくること。」の意。"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来沢",
+      "reading": "らいさわ らいたく",
+      "destination": "金沢",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来福",
+      "reading": "らいふく",
+      "destination": "福井",
+      "usage": "",
+      "notes": "「福」は福島、福岡などを指す場合もある。"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来富",
+      "reading": "らいふ",
+      "destination": "富山",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来長",
+      "reading": "らいちょう",
+      "destination": "長野",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来松",
+      "reading": "[読み疑問点]",
+      "destination": "松本",
+      "usage": "",
+      "notes": "「松」は松江、松山などを指すこともある。"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来岐",
+      "reading": "らいき らいぎ",
+      "destination": "岐阜",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来勢",
+      "reading": "[読み疑問点]",
+      "destination": "伊勢",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来津",
+      "reading": "らいつ",
+      "destination": "津",
+      "usage": "",
+      "notes": "「津」は滋賀県大津市などを指すこともある。"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来津",
+      "reading": "らいつ",
+      "destination": "大津",
+      "usage": "",
+      "notes": "「津」は三重県津市などを指すこともある。"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来阪",
+      "reading": "らいはん",
+      "destination": "大阪",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来京",
+      "reading": "らいきょう",
+      "destination": "京都",
+      "usage": "",
+      "notes": "「上洛」、「入洛」のように「洛」の字を用いることも多い。 （「京」の字が東京と紛らわしいため。）"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来神",
+      "reading": "らいしん",
+      "destination": "神戸",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来寧",
+      "reading": "らいねい",
+      "destination": "奈良",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来和",
+      "reading": "らいわ",
+      "destination": "和歌山",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来鳥",
+      "reading": "らいちょう",
+      "destination": "鳥取",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来松",
+      "reading": "らいまつ らいしょう",
+      "destination": "松江",
+      "usage": "",
+      "notes": "「松」は松本、松山を指すこともある。"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来岡",
+      "reading": "らいこう らいおか",
+      "destination": "岡山",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来広",
+      "reading": "らいこう",
+      "destination": "広島",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来山",
+      "reading": "[読み疑問点]",
+      "destination": "山口",
+      "usage": "",
+      "notes": "「来山（らいさん、らいざん）」は、多く「寺を訪れること」に用いられる。"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来徳",
+      "reading": "らいとく",
+      "destination": "徳島",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来香",
+      "reading": "らいこう",
+      "destination": "香川",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来高",
+      "reading": "らいこう",
+      "destination": "高松",
+      "usage": "",
+      "notes": "「高」は高知を指すこともある。"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来松",
+      "reading": "らいまつ らいしょう",
+      "destination": "松山",
+      "usage": "",
+      "notes": "「松」は松江、松本などを指すこともある。"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来高",
+      "reading": "らいこう",
+      "destination": "高知",
+      "usage": "",
+      "notes": "「高」は高松を指すこともある。"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来福",
+      "reading": "らいふく",
+      "destination": "福岡",
+      "usage": "",
+      "notes": "「福」は福島、福井などを指す場合もある。"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来佐",
+      "reading": "らいさ",
+      "destination": "佐賀",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来崎",
+      "reading": "らいさき らいき らいざき",
+      "destination": "長崎",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来熊",
+      "reading": "らいゆう",
+      "destination": "熊本",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来分",
+      "reading": "らいいた",
+      "destination": "大分",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来豊",
+      "reading": "らいほう",
+      "destination": "大分県",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来宮",
+      "reading": "らいぐう",
+      "destination": "宮崎",
+      "usage": "",
+      "notes": "「来宮」は、一般的に「らいきゅう」と読み「人が宮殿に来ること」の意、また、「きのみや」と読んで「霊木への崇拝から発生した神社の総称」を意味する場合もある。"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来鹿",
+      "reading": "らいか",
+      "destination": "鹿児島",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来麑",
+      "reading": "[読み疑問点]",
+      "destination": "鹿児島",
+      "usage": "",
+      "notes": "「来鹿」より昔の表現。 鹿児島に滞在する「滞麑」という表現もあり、「フランシスコザビエル聖師滞麑記念」と書かれた教会のアーチがある。"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来沖",
+      "reading": "らいおき",
+      "destination": "沖縄",
+      "usage": "",
+      "notes": "現地では「来島」もほぼ同義に用いられる。なお、「来島」は一般的に「よそから島にやって来ること。」の意。"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来覇",
+      "reading": "らいは",
+      "destination": "那覇",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来米",
+      "reading": "らいべい",
+      "destination": "亜米利加 （アメリカ）",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来紐",
+      "reading": "[読み疑問点]",
+      "destination": "紐育 （ニューヨーク）",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来桑",
+      "reading": "[読み疑問点]",
+      "destination": "桑港 （サンフランシスコ）",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来英",
+      "reading": "らいえい",
+      "destination": "英吉利 （イギリス）",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来独",
+      "reading": "らいどく",
+      "destination": "独逸 （ドイツ）",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来韓",
+      "reading": "らいかん",
+      "destination": "韓国",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来星",
+      "reading": "[読み疑問点]",
+      "destination": "星嘉坡 （シンガポール）",
+      "usage": "",
+      "notes": "「新嘉坡」、「新加坡」などの表記も一般的である。"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来港",
+      "reading": "[読み疑問点]",
+      "destination": "香港",
+      "usage": "",
+      "notes": "「港」は新潟を指す場合もある。"
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来澳",
+      "reading": "[読み疑問点]",
+      "destination": "澳門 （マカオ）",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来伯",
+      "reading": "らいはく",
+      "destination": "伯剌西爾 （ブラジル）",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来聖",
+      "reading": "[読み疑問点]",
+      "destination": "聖市 （サンパウロ）",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「来」を用いた表現",
+      "expression": "来越",
+      "reading": "らいえつ",
+      "destination": "越南 （ベトナム）",
+      "usage": "",
+      "notes": "「越」は新潟県を指す場合もある。"
+    },
+    {
+      "group": "「訪」を用いた表現",
+      "expression": "訪日",
+      "reading": "ほうにち",
+      "destination": "日本",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「訪」を用いた表現",
+      "expression": "訪韓",
+      "reading": "ほうかん",
+      "destination": "韓国",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「訪」を用いた表現",
+      "expression": "訪朝",
+      "reading": "ほうちょう",
+      "destination": "朝鮮",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「訪」を用いた表現",
+      "expression": "訪中",
+      "reading": "ほうちゅう",
+      "destination": "中国",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「訪」を用いた表現",
+      "expression": "訪米",
+      "reading": "ほうべい",
+      "destination": "亜米利加 （アメリカ）",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「訪」を用いた表現",
+      "expression": "訪仏",
+      "reading": "ほうふつ",
+      "destination": "仏蘭西 （フランス）",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「訪」を用いた表現",
+      "expression": "訪英",
+      "reading": "ほうえい",
+      "destination": "英吉利 （イギリス）",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「訪」を用いた表現",
+      "expression": "訪独",
+      "reading": "ほうどく",
+      "destination": "独逸 （ドイツ）",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「訪」を用いた表現",
+      "expression": "訪豪",
+      "reading": "ほうごう",
+      "destination": "豪州 （オーストラリア）",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「渡」を用いた表現",
+      "expression": "渡韓",
+      "reading": "とかん",
+      "destination": "韓国",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「渡」を用いた表現",
+      "expression": "渡中",
+      "reading": "とちゅう",
+      "destination": "中国",
+      "usage": "[要出典]",
+      "notes": ""
+    },
+    {
+      "group": "「渡」を用いた表現",
+      "expression": "渡米",
+      "reading": "とべい",
+      "destination": "亜米利加 （アメリカ）",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「渡」を用いた表現",
+      "expression": "渡仏",
+      "reading": "とふつ",
+      "destination": "仏蘭西 （フランス）",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「渡」を用いた表現",
+      "expression": "渡英",
+      "reading": "とえい",
+      "destination": "英吉利 （イギリス）",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「渡」を用いた表現",
+      "expression": "渡独",
+      "reading": "とどく",
+      "destination": "独逸 （ドイツ）",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「渡」を用いた表現",
+      "expression": "渡印",
+      "reading": "といん",
+      "destination": "印度 （インド）",
+      "usage": "[要出典]",
+      "notes": ""
+    },
+    {
+      "group": "「渡」を用いた表現",
+      "expression": "渡欧",
+      "reading": "とおう",
+      "destination": "欧羅巴 （ヨーロッパ）",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「渡」を用いた表現",
+      "expression": "渡満",
+      "reading": "とまん",
+      "destination": "満州（現.中国東北部）",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「在」を用いた表現",
+      "expression": "在日",
+      "reading": "ざいにち",
+      "destination": "日本",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「在」を用いた表現",
+      "expression": "在沖",
+      "reading": "ざいおき",
+      "destination": "沖縄",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「在」を用いた表現",
+      "expression": "在韓",
+      "reading": "ざいかん",
+      "destination": "韓国",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「在」を用いた表現",
+      "expression": "在米",
+      "reading": "ざいべい",
+      "destination": "亜米利加 （アメリカ）",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「在」を用いた表現",
+      "expression": "在英",
+      "reading": "ざいえい",
+      "destination": "英吉利 （イギリス）",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「在」を用いた表現",
+      "expression": "在欧",
+      "reading": "ざいおう",
+      "destination": "欧羅巴 （ヨーロッパ）",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「在」を用いた表現",
+      "expression": "在京",
+      "reading": "ざいきょう",
+      "destination": "京都",
+      "usage": "",
+      "notes": "「在洛」は類義語。"
+    },
+    {
+      "group": "「在」を用いた表現",
+      "expression": "在京",
+      "reading": "ざいきょう",
+      "destination": "東京",
+      "usage": "",
+      "notes": "「京」は首都の意味。京都を指すこともある。"
+    },
+    {
+      "group": "「在」を用いた表現",
+      "expression": "在樺",
+      "reading": "ざいか",
+      "destination": "樺太",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「駐」を用いた表現",
+      "expression": "駐日",
+      "reading": "ちゅうにち",
+      "destination": "日本",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「駐」を用いた表現",
+      "expression": "駐米",
+      "reading": "ちゅうべい",
+      "destination": "亜米利加 （アメリカ）",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「駐」を用いた表現",
+      "expression": "駐英",
+      "reading": "ちゅうえい",
+      "destination": "英吉利 （イギリス）",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「駐」を用いた表現",
+      "expression": "駐仏",
+      "reading": "ちゅうふつ",
+      "destination": "仏蘭西 （フランス）",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「上」を用いた表現",
+      "expression": "上京",
+      "reading": "じょうきょう",
+      "destination": "東京",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「上」を用いた表現",
+      "expression": "上洛",
+      "reading": "じょうらく",
+      "destination": "京都",
+      "usage": "",
+      "notes": "上洛も参照。類義語に「入洛」がある。"
+    },
+    {
+      "group": "「帰」を用いた表現",
+      "expression": "帰朝",
+      "reading": "きちょう",
+      "destination": "日本",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「帰」を用いた表現",
+      "expression": "帰札",
+      "reading": "きさつ",
+      "destination": "札幌",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「帰」を用いた表現",
+      "expression": "帰福",
+      "reading": "きふく",
+      "destination": "福島",
+      "usage": "",
+      "notes": "「福」は福井、福岡などを指す場合もある。"
+    },
+    {
+      "group": "「帰」を用いた表現",
+      "expression": "帰栃",
+      "reading": "きれい",
+      "destination": "栃木",
+      "usage": "",
+      "notes": "「栃」は国字であり、本来「れい」という読みは存在しない。"
+    },
+    {
+      "group": "「帰」を用いた表現",
+      "expression": "帰浜",
+      "reading": "きひん",
+      "destination": "横浜",
+      "usage": "",
+      "notes": "「浜」は浜松を指す場合もある。"
+    },
+    {
+      "group": "「帰」を用いた表現",
+      "expression": "帰横",
+      "reading": "[読み疑問点]",
+      "destination": "横浜",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「帰」を用いた表現",
+      "expression": "帰京",
+      "reading": "ききょう",
+      "destination": "東京",
+      "usage": "",
+      "notes": "「京」は都の意味。京都を指すこともある。"
+    },
+    {
+      "group": "「帰」を用いた表現",
+      "expression": "帰沢",
+      "reading": "[読み疑問点]",
+      "destination": "金沢",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「帰」を用いた表現",
+      "expression": "帰阪",
+      "reading": "きはん",
+      "destination": "大阪",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「帰」を用いた表現",
+      "expression": "帰京",
+      "reading": "ききょう",
+      "destination": "京都",
+      "usage": "",
+      "notes": "「帰洛」は類義語。"
+    },
+    {
+      "group": "「帰」を用いた表現",
+      "expression": "帰洛",
+      "reading": "きらく",
+      "destination": "京都",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「帰」を用いた表現",
+      "expression": "帰岡",
+      "reading": "きこう きおか",
+      "destination": "岡山",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「帰」を用いた表現",
+      "expression": "帰広",
+      "reading": "きこう きひろ",
+      "destination": "ひろしま",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「帰」を用いた表現",
+      "expression": "帰山",
+      "reading": "[読み疑問点]",
+      "destination": "山口",
+      "usage": "",
+      "notes": "「帰山」は一般的に「僧侶が寺に戻ること。」「帰郷すること。」などの意。"
+    },
+    {
+      "group": "「帰」を用いた表現",
+      "expression": "帰徳",
+      "reading": "きとく",
+      "destination": "徳島",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「帰」を用いた表現",
+      "expression": "帰高",
+      "reading": "きこう",
+      "destination": "高知",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「帰」を用いた表現",
+      "expression": "帰崎",
+      "reading": "きさき",
+      "destination": "長崎",
+      "usage": "[要出典]",
+      "notes": ""
+    },
+    {
+      "group": "「帰」を用いた表現",
+      "expression": "帰熊",
+      "reading": "きゆう",
+      "destination": "熊本",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「帰」を用いた表現",
+      "expression": "帰宮",
+      "reading": "きぐう",
+      "destination": "宮崎",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「帰」を用いた表現",
+      "expression": "帰鹿",
+      "reading": "[読み疑問点]",
+      "destination": "鹿児島",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「離」を用いた表現",
+      "expression": "離日",
+      "reading": "りにち",
+      "destination": "日本",
+      "usage": "",
+      "notes": ""
+    },
+    {
+      "group": "「離」を用いた表現",
+      "expression": "離星",
+      "reading": "[読み疑問点]",
+      "destination": "星嘉坡（シンガポール）",
+      "usage": "",
+      "notes": "「新嘉坡」、「新加坡」などの表記も一般的である。"
+    },
+    {
+      "group": "「離」を用いた表現",
+      "expression": "離道",
+      "reading": "りどう",
+      "destination": "北海道",
+      "usage": "",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "二字熟語による往来表現の一覧（来日・訪米など）(Two-kanji travel expressions) - Free Download",
+    "description": "「来日」「訪米」「帰京」のように、地名を一字で表した二字熟語による往来表現の読み・目的地・用例・備考の一覧。 Contains 133 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "二字熟語による往来表現の一覧（来日・訪米など）(Two-kanji travel expressions) | ListBase",
+    "seo_description": "Download 二字熟語による往来表現の一覧（来日・訪米など）(Two-kanji travel expressions) — 133 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 133 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%AD%97%E7%86%9F%E8%AA%9E%E3%81%AB%E3%82%88%E3%82%8B%E5%BE%80%E6%9D%A5%E8%A1%A8%E7%8F%BE%E3%81%AE%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}
