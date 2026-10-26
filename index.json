@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-26T02:11:38.915Z",
-  "total_datasets": 512,
-  "total_records": 454952,
+  "generated": "2026-10-26T02:11:42.889Z",
+  "total_datasets": 513,
+  "total_records": 455065,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "economy",
@@ -384,6 +384,30 @@
         "xlsx": {
           "name": "ja-hakubutsukan_JA.xlsx",
           "size": 190551
+        }
+      }
+    },
+    {
+      "id": "ja-kabuki-yago",
+      "name": "歌舞伎役者の屋号一覧 (Kabuki actor house names)",
+      "category": "culture",
+      "record_count": 113,
+      "columns": [
+        "yago",
+        "reading",
+        "main_stage_names"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%AD%8C%E8%88%9E%E4%BC%8E%E5%BD%B9%E8%80%85%E3%81%AE%E5%B1%8B%E5%8F%B7%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 19437,
+      "files": {
+        "csv": {
+          "name": "ja-kabuki-yago_JA.csv",
+          "size": 9542
+        },
+        "xlsx": {
+          "name": "ja-kabuki-yago_JA.xlsx",
+          "size": 11847
         }
       }
     },

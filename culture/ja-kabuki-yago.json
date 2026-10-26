@@ -1,0 +1,606 @@
+{
+  "id": "ja-kabuki-yago",
+  "name": "歌舞伎役者の屋号一覧 (Kabuki actor house names)",
+  "title": "歌舞伎役者の屋号一覧 (Kabuki actor house names)",
+  "description": "歌舞伎役者の屋号（成田屋・音羽屋など）の読みと、その屋号を名乗る主な名跡の一覧。",
+  "category": "culture",
+  "source": "https://ja.wikipedia.org/wiki/%E6%AD%8C%E8%88%9E%E4%BC%8E%E5%BD%B9%E8%80%85%E3%81%AE%E5%B1%8B%E5%8F%B7%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%AD%8C%E8%88%9E%E4%BC%8E%E5%BD%B9%E8%80%85%E3%81%AE%E5%B1%8B%E5%8F%B7%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 113,
+  "columns": [
+    {
+      "key": "yago",
+      "label": "Yago",
+      "type": "string"
+    },
+    {
+      "key": "reading",
+      "label": "Reading",
+      "type": "string"
+    },
+    {
+      "key": "main_stage_names",
+      "label": "Main Stage Names",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "yago": "明石屋",
+      "reading": "あかしや",
+      "main_stage_names": "大谷友右衞門、大谷廣右衞門（五・六代目）、大谷廣太郞、大谷廣松、 大谷廣次（五代目）"
+    },
+    {
+      "yago": "吾妻屋",
+      "reading": "あづまや",
+      "main_stage_names": "中村芝鶴（先初代）"
+    },
+    {
+      "yago": "淡路屋",
+      "reading": "あわじや",
+      "main_stage_names": "笹野高史"
+    },
+    {
+      "yago": "伊勢屋",
+      "reading": "いせや",
+      "main_stage_names": "三桝大五郞（三代目）"
+    },
+    {
+      "yago": "伊丹屋",
+      "reading": "いたみや",
+      "main_stage_names": "嵐橘三郞、嵐璃寛（二代目）、嵐德三郞（二代目）"
+    },
+    {
+      "yago": "井筒屋",
+      "reading": "いづつや",
+      "main_stage_names": "實川額十郞、實川延三郞、姬路屋中村仲藏（二代目）"
+    },
+    {
+      "yago": "梅髙屋",
+      "reading": "うめだかや",
+      "main_stage_names": "中村梅雀"
+    },
+    {
+      "yago": "江戸屋",
+      "reading": "えどや",
+      "main_stage_names": "藤川友吉、中村雀右衞門（初代）"
+    },
+    {
+      "yago": "蛭子屋",
+      "reading": "えびすや",
+      "main_stage_names": "中村歌右衞門（二代目）"
+    },
+    {
+      "yago": "大坂屋",
+      "reading": "おおさかや",
+      "main_stage_names": "三桝大五郞（二・三代目）、惣領甚六（二代目）"
+    },
+    {
+      "yago": "大橋屋",
+      "reading": "おおはしや",
+      "main_stage_names": "尾上幸藏（二代目）、尾上紋三郞（四代目）"
+    },
+    {
+      "yago": "大見屋",
+      "reading": "おおみや",
+      "main_stage_names": "市川壽美藏（三代目）"
+    },
+    {
+      "yago": "岡嶋屋",
+      "reading": "おかじまや",
+      "main_stage_names": "嵐吉三郞、嵐璃寛（初代）、嵐德三郞（初代）、嵐小六（六代目）"
+    },
+    {
+      "yago": "小谷屋",
+      "reading": "おだにや",
+      "main_stage_names": "市川男女藏（二代目）"
+    },
+    {
+      "yago": "音羽屋",
+      "reading": "おとわや",
+      "main_stage_names": "尾上菊五郞、尾上菊之助、尾上丑之助、尾上梅幸、尾上松綠、 尾上辰之助、坂東彦三郞、尾上松助、尾上松也、尾上多見藏"
+    },
+    {
+      "yago": "澤瀉屋",
+      "reading": "おもだかや",
+      "main_stage_names": "市川猿之助、市川團子、市川段四郎、市川青虎、市川亀治郎、 市川笑也、市川春猿、市川月乃助、市川笑三郎、 市川猿弥、市川中車（九代目）"
+    },
+    {
+      "yago": "尾張屋",
+      "reading": "おわりや",
+      "main_stage_names": "關三十郞（二〜六代目）"
+    },
+    {
+      "yago": "加賀屋",
+      "reading": "かがや",
+      "main_stage_names": "中村歌右衞門（初・三代目）、中村芝翫（初・三代目）、中村魁春、 中村東藏、中村松江、加賀屋福之助、加賀屋鶴助、加賀屋歌七"
+    },
+    {
+      "yago": "柏屋",
+      "reading": "かしわや",
+      "main_stage_names": "中村勘三郞（初〜十四代目）、中村勘九郞（初〜四代目）、 市川雷藏（初・二代目）"
+    },
+    {
+      "yago": "金田屋",
+      "reading": "かねだや",
+      "main_stage_names": "淺尾工左衞門"
+    },
+    {
+      "yago": "川崎屋",
+      "reading": "かわさきや",
+      "main_stage_names": "市川權十郞"
+    },
+    {
+      "yago": "川瀧屋",
+      "reading": "かわたきや",
+      "main_stage_names": "澤村四郞五郞"
+    },
+    {
+      "yago": "河内屋",
+      "reading": "かわちや",
+      "main_stage_names": "實川延若、實川延二郞、實川延郞"
+    },
+    {
+      "yago": "菊屋",
+      "reading": "きくや",
+      "main_stage_names": "市村羽左衞門（八〜十代目）"
+    },
+    {
+      "yago": "紀伊國屋",
+      "reading": "きのくにや",
+      "main_stage_names": "澤村宗十郞、澤村宗之助、澤村訥升、澤村田之助、澤村由次郞、 助髙屋髙助（初・三・四代目）、澤村源之助、澤村藤十郞"
+    },
+    {
+      "yago": "喜の字屋",
+      "reading": "きのじや",
+      "main_stage_names": "森田／守田勘彌"
+    },
+    {
+      "yago": "京屋",
+      "reading": "きょうや",
+      "main_stage_names": "中村雀右衞門、中村芝雀、中村京蔵"
+    },
+    {
+      "yago": "京極屋",
+      "reading": "きょうごくや",
+      "main_stage_names": "尾上梅鶴、尾上松鶴、尾上松録"
+    },
+    {
+      "yago": "京扇屋",
+      "reading": "きょうせんや",
+      "main_stage_names": "中村松江（四代目）、中村梅花"
+    },
+    {
+      "yago": "京桝屋",
+      "reading": "きょうますや",
+      "main_stage_names": "三桝大五郞（三・四代目）"
+    },
+    {
+      "yago": "具足屋",
+      "reading": "ぐそくや",
+      "main_stage_names": "嵐冠十郞"
+    },
+    {
+      "yago": "髙麗屋",
+      "reading": "こうらいや",
+      "main_stage_names": "松本幸四郞、松本白鸚、市川染五郞、松本金太郞、市川髙麗藏、松本錦吾"
+    },
+    {
+      "yago": "小紅屋",
+      "reading": "こべにや",
+      "main_stage_names": "市川市十郞、市川眼玉"
+    },
+    {
+      "yago": "駒村屋",
+      "reading": "こまむらや",
+      "main_stage_names": "中村歌門、中村翫右衞門"
+    },
+    {
+      "yago": "小村屋",
+      "reading": "こむらや",
+      "main_stage_names": "嵐巌笑"
+    },
+    {
+      "yago": "米屋",
+      "reading": "こめや",
+      "main_stage_names": "小佐川七藏（初代）"
+    },
+    {
+      "yago": "堺屋",
+      "reading": "さかいや",
+      "main_stage_names": "中村里好"
+    },
+    {
+      "yago": "榮屋",
+      "reading": "さかいや",
+      "main_stage_names": "中村仲藏（初・三代目）"
+    },
+    {
+      "yago": "櫻屋",
+      "reading": "さくらや",
+      "main_stage_names": "市川雷藏（五代目）"
+    },
+    {
+      "yago": "櫻㐂屋",
+      "reading": "さくらぎや",
+      "main_stage_names": "片岡嶋之亟"
+    },
+    {
+      "yago": "佐野川屋",
+      "reading": "さのがわや",
+      "main_stage_names": "佐野川萬菊、佐野川屋中村吉右衞門"
+    },
+    {
+      "yago": "島屋",
+      "reading": "しまや",
+      "main_stage_names": "惣領甚六（三代目）"
+    },
+    {
+      "yago": "十字屋",
+      "reading": "じゅうじや",
+      "main_stage_names": "大谷桂三"
+    },
+    {
+      "yago": "松鶴屋",
+      "reading": "しょうかくや",
+      "main_stage_names": "中村歌七、松本米三、松本米三郞"
+    },
+    {
+      "yago": "正月屋",
+      "reading": "しょうがつや",
+      "main_stage_names": "大谷廣右衞門（四代目）"
+    },
+    {
+      "yago": "新駒屋",
+      "reading": "しんこまや",
+      "main_stage_names": "中村魁車、中村成太郞、中村太郞、中村芝鶴（初・二代目）、中村駒雀 中村芝雀（初代）"
+    },
+    {
+      "yago": "新成田屋",
+      "reading": "しんなりたや",
+      "main_stage_names": "市川猿作、市川新十郞"
+    },
+    {
+      "yago": "末廣屋",
+      "reading": "すえひろや",
+      "main_stage_names": "中村宗十郞、中村霞仙"
+    },
+    {
+      "yago": "助髙屋",
+      "reading": "すけだかや",
+      "main_stage_names": "助髙屋髙助（五代目）、助髙屋小傳次"
+    },
+    {
+      "yago": "駿河屋",
+      "reading": "するがや",
+      "main_stage_names": "大谷廣右衞門（三代目）、大谷廣次（二代目）"
+    },
+    {
+      "yago": "錢屋",
+      "reading": "ぜにや",
+      "main_stage_names": "淺尾爲十郞、淺尾奧山"
+    },
+    {
+      "yago": "扇駒屋",
+      "reading": "せんこまや",
+      "main_stage_names": "中村松若"
+    },
+    {
+      "yago": "雜司谷屋",
+      "reading": "ぞうしがや",
+      "main_stage_names": "岩井半四郞（三代目）"
+    },
+    {
+      "yago": "大黑屋",
+      "reading": "だいこくや",
+      "main_stage_names": "市川荒次郞、嵐三右衞門（七代目）"
+    },
+    {
+      "yago": "鯛屋",
+      "reading": "たいや",
+      "main_stage_names": "山科政五郞、山科甚吉"
+    },
+    {
+      "yago": "髙砂屋",
+      "reading": "たかさごや",
+      "main_stage_names": "中村梅玉、髙砂屋中村福助、中村政治郞、中村政之助、中村莟玉"
+    },
+    {
+      "yago": "髙島屋",
+      "reading": "たかしまや",
+      "main_stage_names": "市川左團次、市川小團次（四・五代目）、市川子團次、市川九團次"
+    },
+    {
+      "yago": "髙嶋屋",
+      "reading": "たかしまや",
+      "main_stage_names": "市川右團次、市川右之助"
+    },
+    {
+      "yago": "瀧乃屋",
+      "reading": "たきのや",
+      "main_stage_names": "市川門之助、市川新車、市川小米"
+    },
+    {
+      "yago": "瀧野屋",
+      "reading": "たきのや",
+      "main_stage_names": "市川男女藏、市川男寅"
+    },
+    {
+      "yago": "橘屋",
+      "reading": "たちばなや",
+      "main_stage_names": "市村宇左衞門／羽左衛門、市村萬次郞、市村竹松、市村吉五郞、 市村家橘、市村鶴藏、助髙屋髙助（二代目)"
+    },
+    {
+      "yago": "橘屋",
+      "reading": "たちばなや",
+      "main_stage_names": "芳澤あやめ"
+    },
+    {
+      "yago": "立花屋",
+      "reading": "たちばなや",
+      "main_stage_names": "市川八百藏（四〜九代目）、市川中車（初代〜八代目）"
+    },
+    {
+      "yago": "玉屋",
+      "reading": "たまや",
+      "main_stage_names": "大川橋藏"
+    },
+    {
+      "yago": "津の國屋",
+      "reading": "つのくにや",
+      "main_stage_names": "嵐三右衞門（称十代目）"
+    },
+    {
+      "yago": "鶴屋",
+      "reading": "つるや",
+      "main_stage_names": "鶴屋南北"
+    },
+    {
+      "yago": "鶴屋",
+      "reading": "つるや",
+      "main_stage_names": "市川右團次（初代）"
+    },
+    {
+      "yago": "天王寺屋",
+      "reading": "てんのうじや",
+      "main_stage_names": "中村富十郞、中村鷹之資、中村龜鶴（初代）"
+    },
+    {
+      "yago": "豐島屋",
+      "reading": "てしまや",
+      "main_stage_names": "嵐芳三郞、嵐璃珏、嵐珏藏、嵐圭史、嵐広也"
+    },
+    {
+      "yago": "巴屋",
+      "reading": "ともえや",
+      "main_stage_names": "生島喜五郎"
+    },
+    {
+      "yago": "富田屋",
+      "reading": "とみたや",
+      "main_stage_names": "瀧中歌川"
+    },
+    {
+      "yago": "富桝屋",
+      "reading": "とみますや",
+      "main_stage_names": "片岡仁左衞門（預六代目）"
+    },
+    {
+      "yago": "豐田屋",
+      "reading": "とよだや",
+      "main_stage_names": "阪東壽三郞"
+    },
+    {
+      "yago": "中村屋",
+      "reading": "なかむらや",
+      "main_stage_names": "中村勘三郞（十七・十八代目）、中村勘九郞（六代目）、 中村七之助（二代目）、中村勘太郞（二代目）、中村四郞五郞（七代目）"
+    },
+    {
+      "yago": "成駒屋",
+      "reading": "なりこまや",
+      "main_stage_names": "中村歌右衞門（四〜六代目）、中村芝翫、中村福助、中村兒太郞、 中村梅之助、中村歌江、中村橋之助、中村鴈治郞（初〜三代目）、 中村扇雀（初〜三代目）、中村翫雀（初〜五代目）"
+    },
+    {
+      "yago": "成駒家",
+      "reading": "なりこまや",
+      "main_stage_names": "中村鴈治郞（初・四代目）、中村扇雀（三代目）、中村壱太郎、中村虎之介"
+    },
+    {
+      "yago": "成田屋",
+      "reading": "なりたや",
+      "main_stage_names": "市川團十郞、市川海老藏、市川新之助、市川三升、市川壽海、 市川小團次（四代目）、市川壽美藏（三・四代目）、嵐雛助（二・六・七代目）"
+    },
+    {
+      "yago": "南部屋",
+      "reading": "なんぶや",
+      "main_stage_names": "尾上鯉三郞"
+    },
+    {
+      "yago": "花びら屋",
+      "reading": "はなびらや",
+      "main_stage_names": "女流の日本舞踊家"
+    },
+    {
+      "yago": "濱村屋",
+      "reading": "はまむらや",
+      "main_stage_names": "瀬川菊之丞、瀬川吉次、瀬川菊三郞"
+    },
+    {
+      "yago": "葉村屋",
+      "reading": "はむらや",
+      "main_stage_names": "嵐璃寛、嵐德三郞、嵐寛壽郞"
+    },
+    {
+      "yago": "播磨屋",
+      "reading": "はりまや",
+      "main_stage_names": "中村吉右衞門、中村又五郞、中村歌六、市川鰕十郞、中村歌昇、 中村種太郞、中村種之助、市川市藏、中村吉之丞、中村もしほ"
+    },
+    {
+      "yago": "日高屋",
+      "reading": "ひだかや",
+      "main_stage_names": "中村富志郎"
+    },
+    {
+      "yago": "姬路屋",
+      "reading": "ひめじや",
+      "main_stage_names": "中村仲藏"
+    },
+    {
+      "yago": "富士屋",
+      "reading": "ふじや",
+      "main_stage_names": "市山富三郞"
+    },
+    {
+      "yago": "伏見屋",
+      "reading": "ふしみや",
+      "main_stage_names": "嵐璃光"
+    },
+    {
+      "yago": "蓬萊屋",
+      "reading": "ほうらいや",
+      "main_stage_names": "市川八百藏（初・二代目）"
+    },
+    {
+      "yago": "舞鶴屋",
+      "reading": "まいづるや",
+      "main_stage_names": "中村仲藏（三〜五代目）、中村鶴藏"
+    },
+    {
+      "yago": "政津屋",
+      "reading": "まさつや",
+      "main_stage_names": "中村仲藏（二代目）"
+    },
+    {
+      "yago": "升屋",
+      "reading": "ますや",
+      "main_stage_names": "三桝大五郞（初代）"
+    },
+    {
+      "yago": "升田屋",
+      "reading": "ますだや",
+      "main_stage_names": "市川壽美藏（五〜七代目）、市川雷藏（八代目）"
+    },
+    {
+      "yago": "松喜屋",
+      "reading": "まつきや",
+      "main_stage_names": "片岡松之亟"
+    },
+    {
+      "yago": "松嶋屋",
+      "reading": "まつしまや",
+      "main_stage_names": "片岡仁左衞門、片岡我當、片岡我童、片岡秀太郞、片岡芦燕、 片岡孝太郎、片岡愛之助（初〜四・六代目）、片岡千之助"
+    },
+    {
+      "yago": "松島屋",
+      "reading": "まつしまや",
+      "main_stage_names": "片岡市藏、片岡龜藏、片岡十藏"
+    },
+    {
+      "yago": "松鶴屋",
+      "reading": "まつつるや",
+      "main_stage_names": "片岡當十郎"
+    },
+    {
+      "yago": "松廣屋",
+      "reading": "まつひろや",
+      "main_stage_names": "片岡愛之助（五代目）"
+    },
+    {
+      "yago": "松美屋",
+      "reading": "まつみや",
+      "main_stage_names": "片岡千次郎"
+    },
+    {
+      "yago": "丸屋",
+      "reading": "まるや",
+      "main_stage_names": "大谷廣次（初・三・四代目）"
+    },
+    {
+      "yago": "三河屋",
+      "reading": "みかわや",
+      "main_stage_names": "市川團藏、市川團之助、市川銀之助、市川茂々太郞 市川荒五郞（三・四代目）、三河屋市川團子"
+    },
+    {
+      "yago": "綠屋",
+      "reading": "みどりや",
+      "main_stage_names": "片岡松之助"
+    },
+    {
+      "yago": "三芳屋",
+      "reading": "みよしや",
+      "main_stage_names": "市川荒五郞（初代）、市川團藏（六代目）"
+    },
+    {
+      "yago": "美吉屋",
+      "reading": "みよしや",
+      "main_stage_names": "上村吉彌、上村折乃助、上村吉太朗"
+    },
+    {
+      "yago": "紫屋",
+      "reading": "むらさきや",
+      "main_stage_names": "利根川金十郎"
+    },
+    {
+      "yago": "山崎屋",
+      "reading": "やまざきや",
+      "main_stage_names": "河原崎権十郞、河原崎長十郞、河原崎國太郞、山崎權一"
+    },
+    {
+      "yago": "山城屋",
+      "reading": "やましろや",
+      "main_stage_names": "坂田藤十郞（四代目）"
+    },
+    {
+      "yago": "大和屋",
+      "reading": "やまとや",
+      "main_stage_names": "坂東玉三郞、坂東三津五郞、坂東志うか、岩井半四郞、岩井粂三郞"
+    },
+    {
+      "yago": "八幡屋",
+      "reading": "やわたや",
+      "main_stage_names": "中村亀鶴（二代目）"
+    },
+    {
+      "yago": "吉田屋",
+      "reading": "よしだや",
+      "main_stage_names": "嵐三右衞門（初〜十代目）、嵐雛助（初・三〜五・八〜十代目）"
+    },
+    {
+      "yago": "吉村屋",
+      "reading": "よしむらや",
+      "main_stage_names": "市川八百藏（二代目）"
+    },
+    {
+      "yago": "淀屋",
+      "reading": "よどや",
+      "main_stage_names": "三桝大五郞（五代目）"
+    },
+    {
+      "yago": "萬屋",
+      "reading": "よろずや",
+      "main_stage_names": "中村歌六（五代目）、中村時藏（五代目）、中村歌昇（三・四代目）、 中村錦之助、中村獅童、中村種太郞（四代目）、中村種之助（初代）"
+    },
+    {
+      "yago": "若松屋",
+      "reading": "わかまつや",
+      "main_stage_names": "学士俳優"
+    },
+    {
+      "yago": "綿屋",
+      "reading": "わたや",
+      "main_stage_names": "小佐川常世"
+    }
+  ],
+  "meta": {
+    "title": "歌舞伎役者の屋号一覧 (Kabuki actor house names) - Free Download",
+    "description": "歌舞伎役者の屋号（成田屋・音羽屋など）の読みと、その屋号を名乗る主な名跡の一覧。 Contains 113 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "歌舞伎役者の屋号一覧 (Kabuki actor house names) | ListBase",
+    "seo_description": "Download 歌舞伎役者の屋号一覧 (Kabuki actor house names) — 113 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 113 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%AD%8C%E8%88%9E%E4%BC%8E%E5%BD%B9%E8%80%85%E3%81%AE%E5%B1%8B%E5%8F%B7%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}
