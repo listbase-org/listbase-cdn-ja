@@ -1,0 +1,592 @@
+{
+  "id": "ja-taiga-drama",
+  "name": "NHK大河ドラマ 作品一覧 (NHK Taiga drama series)",
+  "title": "NHK大河ドラマ 作品一覧 (NHK Taiga drama series)",
+  "description": "NHK大河ドラマの歴代作品のタイトル・放送期間・時代・主人公・主演俳優の一覧。",
+  "category": "entertainment",
+  "source": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B2%B3%E3%83%89%E3%83%A9%E3%83%9E",
+  "source_url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B2%B3%E3%83%89%E3%83%A9%E3%83%9E",
+  "updated": "2026-10",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    },
+    {
+      "key": "broadcast",
+      "label": "Broadcast",
+      "type": "string"
+    },
+    {
+      "key": "era",
+      "label": "Era",
+      "type": "string"
+    },
+    {
+      "key": "protagonist",
+      "label": "Protagonist",
+      "type": "string"
+    },
+    {
+      "key": "lead_actor",
+      "label": "Lead Actor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "title": "花の生涯",
+      "broadcast": "1963年4月-12月",
+      "era": "幕末",
+      "protagonist": "井伊直弼",
+      "lead_actor": "尾上松緑"
+    },
+    {
+      "no": 2,
+      "title": "赤穂浪士",
+      "broadcast": "1964年",
+      "era": "江戸",
+      "protagonist": "大石内蔵助",
+      "lead_actor": "長谷川一夫"
+    },
+    {
+      "no": 3,
+      "title": "太閤記",
+      "broadcast": "1965年",
+      "era": "戦国 - 安土桃山",
+      "protagonist": "豊臣秀吉",
+      "lead_actor": "緒形拳"
+    },
+    {
+      "no": 4,
+      "title": "源義経",
+      "broadcast": "1966年",
+      "era": "平安 - 治承寿永乱",
+      "protagonist": "源義経",
+      "lead_actor": "尾上菊之助"
+    },
+    {
+      "no": 5,
+      "title": "三姉妹",
+      "broadcast": "1967年",
+      "era": "幕末",
+      "protagonist": "永井家 三姉妹 （むら・るい・雪）",
+      "lead_actor": "岡田茉莉子 藤村志保 栗原小巻"
+    },
+    {
+      "no": 6,
+      "title": "竜馬がゆく",
+      "broadcast": "1968年",
+      "era": "幕末",
+      "protagonist": "坂本龍馬",
+      "lead_actor": "北大路欣也"
+    },
+    {
+      "no": 7,
+      "title": "天と地と",
+      "broadcast": "1969年",
+      "era": "戦国 - 安土桃山",
+      "protagonist": "上杉謙信",
+      "lead_actor": "石坂浩二"
+    },
+    {
+      "no": 8,
+      "title": "樅ノ木は残った",
+      "broadcast": "1970年",
+      "era": "江戸",
+      "protagonist": "原田甲斐",
+      "lead_actor": "平幹二朗"
+    },
+    {
+      "no": 9,
+      "title": "春の坂道",
+      "broadcast": "1971年",
+      "era": "安土桃山 - 江戸",
+      "protagonist": "柳生宗矩",
+      "lead_actor": "中村錦之助"
+    },
+    {
+      "no": 10,
+      "title": "新・平家物語",
+      "broadcast": "1972年",
+      "era": "平安 - 治承寿永乱",
+      "protagonist": "平清盛",
+      "lead_actor": "仲代達矢"
+    },
+    {
+      "no": 11,
+      "title": "国盗り物語",
+      "broadcast": "1973年",
+      "era": "戦国 - 安土桃山",
+      "protagonist": "斎藤道三 織田信長",
+      "lead_actor": "平幹二朗 高橋英樹"
+    },
+    {
+      "no": 12,
+      "title": "勝海舟",
+      "broadcast": "1974年",
+      "era": "幕末",
+      "protagonist": "勝海舟",
+      "lead_actor": "渡哲也 →松方弘樹"
+    },
+    {
+      "no": 13,
+      "title": "元禄太平記",
+      "broadcast": "1975年",
+      "era": "江戸",
+      "protagonist": "柳沢吉保",
+      "lead_actor": "石坂浩二"
+    },
+    {
+      "no": 14,
+      "title": "風と雲と虹と",
+      "broadcast": "1976年",
+      "era": "平安",
+      "protagonist": "平将門",
+      "lead_actor": "加藤剛"
+    },
+    {
+      "no": 15,
+      "title": "花神",
+      "broadcast": "1977年",
+      "era": "幕末",
+      "protagonist": "大村益次郎",
+      "lead_actor": "中村梅之助"
+    },
+    {
+      "no": 16,
+      "title": "黄金の日日",
+      "broadcast": "1978年",
+      "era": "戦国 - 安土桃山",
+      "protagonist": "呂宋助左衛門",
+      "lead_actor": "市川染五郎"
+    },
+    {
+      "no": 17,
+      "title": "草燃える",
+      "broadcast": "1979年",
+      "era": "治承寿永乱 - 鎌倉",
+      "protagonist": "源頼朝 北条政子",
+      "lead_actor": "石坂浩二 岩下志麻"
+    },
+    {
+      "no": 18,
+      "title": "獅子の時代",
+      "broadcast": "1980年",
+      "era": "幕末 - 明治",
+      "protagonist": "平沼銑次 苅谷嘉顕",
+      "lead_actor": "菅原文太 加藤剛"
+    },
+    {
+      "no": 19,
+      "title": "おんな太閤記",
+      "broadcast": "1981年",
+      "era": "戦国 - 江戸",
+      "protagonist": "ねね",
+      "lead_actor": "佐久間良子"
+    },
+    {
+      "no": 20,
+      "title": "峠の群像",
+      "broadcast": "1982年",
+      "era": "江戸",
+      "protagonist": "大石内蔵助",
+      "lead_actor": "緒形拳"
+    },
+    {
+      "no": 21,
+      "title": "徳川家康",
+      "broadcast": "1983年",
+      "era": "戦国 - 江戸",
+      "protagonist": "徳川家康",
+      "lead_actor": "滝田栄"
+    },
+    {
+      "no": 22,
+      "title": "山河燃ゆ",
+      "broadcast": "1984年",
+      "era": "昭和",
+      "protagonist": "天羽賢治",
+      "lead_actor": "松本幸四郎"
+    },
+    {
+      "no": 23,
+      "title": "春の波涛",
+      "broadcast": "1985年",
+      "era": "明治 - 大正",
+      "protagonist": "川上貞奴",
+      "lead_actor": "松坂慶子"
+    },
+    {
+      "no": 24,
+      "title": "いのち",
+      "broadcast": "1986年",
+      "era": "昭和",
+      "protagonist": "岩田（高原）未希",
+      "lead_actor": "三田佳子"
+    },
+    {
+      "no": 25,
+      "title": "独眼竜政宗",
+      "broadcast": "1987年",
+      "era": "安土桃山 - 江戸",
+      "protagonist": "伊達政宗",
+      "lead_actor": "渡辺謙"
+    },
+    {
+      "no": 26,
+      "title": "武田信玄",
+      "broadcast": "1988年",
+      "era": "戦国",
+      "protagonist": "武田信玄",
+      "lead_actor": "中井貴一"
+    },
+    {
+      "no": 27,
+      "title": "春日局",
+      "broadcast": "1989年",
+      "era": "安土桃山 - 江戸",
+      "protagonist": "春日局（おふく）",
+      "lead_actor": "大原麗子"
+    },
+    {
+      "no": 28,
+      "title": "翔ぶが如く",
+      "broadcast": "1990年",
+      "era": "幕末 - 明治",
+      "protagonist": "西郷隆盛 大久保利通",
+      "lead_actor": "西田敏行 鹿賀丈史"
+    },
+    {
+      "no": 29,
+      "title": "太平記",
+      "broadcast": "1991年",
+      "era": "鎌倉 - 南北朝",
+      "protagonist": "足利尊氏",
+      "lead_actor": "真田広之"
+    },
+    {
+      "no": 30,
+      "title": "信長 KING OF ZIPANGU",
+      "broadcast": "1992年",
+      "era": "戦国 - 安土桃山",
+      "protagonist": "織田信長",
+      "lead_actor": "緒形直人"
+    },
+    {
+      "no": 31,
+      "title": "琉球の風",
+      "broadcast": "1993年1月-6月",
+      "era": "安土桃山 - 江戸",
+      "protagonist": "楊啓泰",
+      "lead_actor": "東山紀之"
+    },
+    {
+      "no": 32,
+      "title": "炎立つ",
+      "broadcast": "1993年7月- 1994年3月",
+      "era": "平安 - 治承寿永乱",
+      "protagonist": "藤原経清 藤原清衡 藤原泰衡",
+      "lead_actor": "渡辺謙 村上弘明"
+    },
+    {
+      "no": 33,
+      "title": "花の乱",
+      "broadcast": "1994年4月-12月",
+      "era": "室町 - 戦国",
+      "protagonist": "日野富子",
+      "lead_actor": "三田佳子"
+    },
+    {
+      "no": 34,
+      "title": "八代将軍吉宗",
+      "broadcast": "1995年",
+      "era": "江戸",
+      "protagonist": "徳川吉宗",
+      "lead_actor": "西田敏行"
+    },
+    {
+      "no": 35,
+      "title": "秀吉",
+      "broadcast": "1996年",
+      "era": "戦国 - 安土桃山",
+      "protagonist": "豊臣秀吉",
+      "lead_actor": "竹中直人"
+    },
+    {
+      "no": 36,
+      "title": "毛利元就",
+      "broadcast": "1997年",
+      "era": "戦国",
+      "protagonist": "毛利元就",
+      "lead_actor": "中村橋之助"
+    },
+    {
+      "no": 37,
+      "title": "徳川慶喜",
+      "broadcast": "1998年",
+      "era": "幕末",
+      "protagonist": "徳川慶喜",
+      "lead_actor": "本木雅弘"
+    },
+    {
+      "no": 38,
+      "title": "元禄繚乱",
+      "broadcast": "1999年",
+      "era": "江戸",
+      "protagonist": "大石内蔵助",
+      "lead_actor": "中村勘九郎"
+    },
+    {
+      "no": 39,
+      "title": "葵 徳川三代",
+      "broadcast": "2000年",
+      "era": "安土桃山 - 江戸",
+      "protagonist": "徳川家康 徳川秀忠 徳川家光",
+      "lead_actor": "津川雅彦 西田敏行 尾上辰之助"
+    },
+    {
+      "no": 40,
+      "title": "北条時宗",
+      "broadcast": "2001年",
+      "era": "鎌倉",
+      "protagonist": "北条時宗",
+      "lead_actor": "和泉元彌"
+    },
+    {
+      "no": 41,
+      "title": "利家とまつ〜加賀百万石物語〜",
+      "broadcast": "2002年",
+      "era": "戦国 - 江戸",
+      "protagonist": "前田利家 まつ",
+      "lead_actor": "唐沢寿明 松嶋菜々子"
+    },
+    {
+      "no": 42,
+      "title": "武蔵 MUSASHI",
+      "broadcast": "2003年",
+      "era": "江戸",
+      "protagonist": "宮本武蔵",
+      "lead_actor": "市川新之助"
+    },
+    {
+      "no": 43,
+      "title": "新選組!",
+      "broadcast": "2004年",
+      "era": "幕末",
+      "protagonist": "近藤勇",
+      "lead_actor": "香取慎吾"
+    },
+    {
+      "no": 44,
+      "title": "義経",
+      "broadcast": "2005年",
+      "era": "平安 - 治承寿永乱",
+      "protagonist": "源義経",
+      "lead_actor": "滝沢秀明"
+    },
+    {
+      "no": 45,
+      "title": "功名が辻",
+      "broadcast": "2006年",
+      "era": "戦国 - 江戸",
+      "protagonist": "千代 山内一豊",
+      "lead_actor": "仲間由紀恵 上川隆也"
+    },
+    {
+      "no": 46,
+      "title": "風林火山",
+      "broadcast": "2007年",
+      "era": "戦国",
+      "protagonist": "山本勘助",
+      "lead_actor": "内野聖陽"
+    },
+    {
+      "no": 47,
+      "title": "篤姫",
+      "broadcast": "2008年",
+      "era": "幕末",
+      "protagonist": "天璋院（篤姫）",
+      "lead_actor": "宮﨑あおい"
+    },
+    {
+      "no": 48,
+      "title": "天地人",
+      "broadcast": "2009年1月-11月",
+      "era": "戦国 - 江戸",
+      "protagonist": "直江兼続",
+      "lead_actor": "妻夫木聡"
+    },
+    {
+      "no": 49,
+      "title": "龍馬伝",
+      "broadcast": "2010年1月-11月",
+      "era": "幕末",
+      "protagonist": "坂本龍馬",
+      "lead_actor": "福山雅治"
+    },
+    {
+      "no": 50,
+      "title": "江〜姫たちの戦国〜",
+      "broadcast": "2011年1月-11月",
+      "era": "戦国 - 江戸",
+      "protagonist": "江",
+      "lead_actor": "上野樹里"
+    },
+    {
+      "no": 51,
+      "title": "平清盛",
+      "broadcast": "2012年",
+      "era": "平安 - 治承寿永乱",
+      "protagonist": "平清盛",
+      "lead_actor": "松山ケンイチ"
+    },
+    {
+      "no": 52,
+      "title": "八重の桜",
+      "broadcast": "2013年",
+      "era": "幕末 - 明治",
+      "protagonist": "新島八重",
+      "lead_actor": "綾瀬はるか"
+    },
+    {
+      "no": 53,
+      "title": "軍師官兵衛",
+      "broadcast": "2014年",
+      "era": "戦国 - 江戸",
+      "protagonist": "黒田官兵衛",
+      "lead_actor": "岡田准一"
+    },
+    {
+      "no": 54,
+      "title": "花燃ゆ",
+      "broadcast": "2015年",
+      "era": "幕末 - 明治",
+      "protagonist": "杉文",
+      "lead_actor": "井上真央"
+    },
+    {
+      "no": 55,
+      "title": "真田丸",
+      "broadcast": "2016年",
+      "era": "安土桃山 - 江戸",
+      "protagonist": "真田信繁（幸村）",
+      "lead_actor": "堺雅人"
+    },
+    {
+      "no": 56,
+      "title": "おんな城主 直虎",
+      "broadcast": "2017年",
+      "era": "戦国 - 安土桃山",
+      "protagonist": "井伊直虎",
+      "lead_actor": "柴咲コウ"
+    },
+    {
+      "no": 57,
+      "title": "西郷どん",
+      "broadcast": "2018年",
+      "era": "幕末 - 明治",
+      "protagonist": "西郷隆盛",
+      "lead_actor": "鈴木亮平"
+    },
+    {
+      "no": 58,
+      "title": "いだてん〜東京オリムピック噺〜",
+      "broadcast": "2019年",
+      "era": "明治 - 昭和",
+      "protagonist": "金栗四三 田畑政治",
+      "lead_actor": "中村勘九郎 阿部サダヲ"
+    },
+    {
+      "no": 59,
+      "title": "麒麟がくる",
+      "broadcast": "2020年1月- 2021年2月",
+      "era": "戦国 - 安土桃山",
+      "protagonist": "明智光秀",
+      "lead_actor": "長谷川博己"
+    },
+    {
+      "no": 60,
+      "title": "青天を衝け",
+      "broadcast": "2021年2月-12月",
+      "era": "幕末 - 昭和",
+      "protagonist": "渋沢栄一",
+      "lead_actor": "吉沢亮"
+    },
+    {
+      "no": 61,
+      "title": "鎌倉殿の13人",
+      "broadcast": "2022年",
+      "era": "治承寿永乱 - 鎌倉",
+      "protagonist": "北条義時",
+      "lead_actor": "小栗旬"
+    },
+    {
+      "no": 62,
+      "title": "どうする家康",
+      "broadcast": "2023年",
+      "era": "戦国 - 江戸",
+      "protagonist": "徳川家康",
+      "lead_actor": "松本潤"
+    },
+    {
+      "no": 63,
+      "title": "光る君へ",
+      "broadcast": "2024年",
+      "era": "平安",
+      "protagonist": "紫式部",
+      "lead_actor": "吉高由里子"
+    },
+    {
+      "no": 64,
+      "title": "べらぼう〜蔦重栄華乃夢噺〜",
+      "broadcast": "2025年",
+      "era": "江戸",
+      "protagonist": "蔦屋重三郎",
+      "lead_actor": "横浜流星"
+    },
+    {
+      "no": 65,
+      "title": "豊臣兄弟!",
+      "broadcast": "2026年",
+      "era": "戦国 - 安土桃山",
+      "protagonist": "豊臣秀長",
+      "lead_actor": "仲野太賀"
+    },
+    {
+      "no": 66,
+      "title": "逆賊の幕臣",
+      "broadcast": "2027年予定",
+      "era": "幕末",
+      "protagonist": "小栗忠順",
+      "lead_actor": "松坂桃李"
+    },
+    {
+      "no": 67,
+      "title": "ジョン万",
+      "broadcast": "2028年予定",
+      "era": "幕末 - 明治",
+      "protagonist": "ジョン万次郎",
+      "lead_actor": "山崎賢人"
+    }
+  ],
+  "meta": {
+    "title": "NHK大河ドラマ 作品一覧 (NHK Taiga drama series) - Free Download",
+    "description": "NHK大河ドラマの歴代作品のタイトル・放送期間・時代・主人公・主演俳優の一覧。 Contains 67 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "NHK大河ドラマ 作品一覧 (NHK Taiga drama series) | ListBase",
+    "seo_description": "Download NHK大河ドラマ 作品一覧 (NHK Taiga drama series) — 67 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 67 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B2%B3%E3%83%89%E3%83%A9%E3%83%9E"
+    ]
+  }
+}

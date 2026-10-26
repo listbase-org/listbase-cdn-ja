@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-26T02:11:02.947Z",
-  "total_datasets": 503,
-  "total_records": 452832,
+  "generated": "2026-10-26T02:11:06.922Z",
+  "total_datasets": 504,
+  "total_records": 452899,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "environment",
@@ -902,6 +902,33 @@
         "xlsx": {
           "name": "ja-renzoku-terebi-shosetsu_JA.xlsx",
           "size": 22319
+        }
+      }
+    },
+    {
+      "id": "ja-taiga-drama",
+      "name": "NHK大河ドラマ 作品一覧 (NHK Taiga drama series)",
+      "category": "entertainment",
+      "record_count": 67,
+      "columns": [
+        "no",
+        "title",
+        "broadcast",
+        "era",
+        "protagonist",
+        "lead_actor"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B2%B3%E3%83%89%E3%83%A9%E3%83%9E",
+      "updated": "2026-10",
+      "size": 15448,
+      "files": {
+        "csv": {
+          "name": "ja-taiga-drama_JA.csv",
+          "size": 5853
+        },
+        "xlsx": {
+          "name": "ja-taiga-drama_JA.xlsx",
+          "size": 11253
         }
       }
     },
