@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-26T02:11:27.198Z",
-  "total_datasets": 509,
-  "total_records": 454558,
+  "generated": "2026-10-26T02:11:30.860Z",
+  "total_datasets": 510,
+  "total_records": 454594,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "transport",
@@ -14402,6 +14402,31 @@
         "xlsx": {
           "name": "ja-sakura-meisho-100sen_JA.xlsx",
           "size": 10066
+        }
+      }
+    },
+    {
+      "id": "ja-tokubetsu-meisho",
+      "name": "日本の特別名勝一覧 (Special Places of Scenic Beauty of Japan)",
+      "category": "tourism",
+      "record_count": 36,
+      "columns": [
+        "region",
+        "name",
+        "reading",
+        "notes"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%89%B9%E5%88%A5%E5%90%8D%E5%8B%9D%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 8423,
+      "files": {
+        "csv": {
+          "name": "ja-tokubetsu-meisho_JA.csv",
+          "size": 3645
+        },
+        "xlsx": {
+          "name": "ja-tokubetsu-meisho_JA.xlsx",
+          "size": 8551
         }
       }
     },

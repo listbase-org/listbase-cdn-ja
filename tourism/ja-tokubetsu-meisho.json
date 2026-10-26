@@ -1,0 +1,262 @@
+{
+  "id": "ja-tokubetsu-meisho",
+  "name": "日本の特別名勝一覧 (Special Places of Scenic Beauty of Japan)",
+  "title": "日本の特別名勝一覧 (Special Places of Scenic Beauty of Japan)",
+  "description": "文化財保護法に基づき国が指定した特別名勝（庭園・景勝地など）の名称・読み・重複指定などの備考を地方別にまとめた一覧。",
+  "category": "tourism",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%89%B9%E5%88%A5%E5%90%8D%E5%8B%9D%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%89%B9%E5%88%A5%E5%90%8D%E5%8B%9D%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "reading",
+      "label": "Reading",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "region": "北海道・東北地方",
+      "name": "十和田湖および奥入瀬渓流",
+      "reading": "とわだこおよびおいらせけいりゅう",
+      "notes": "天然記念物との重複指定"
+    },
+    {
+      "region": "北海道・東北地方",
+      "name": "毛越寺庭園",
+      "reading": "もうつうじていえん",
+      "notes": "「毛越寺境内 附 鎮守社跡」として特別史跡に指定"
+    },
+    {
+      "region": "北海道・東北地方",
+      "name": "松島",
+      "reading": "まつしま",
+      "notes": "日本三景"
+    },
+    {
+      "region": "関東地方",
+      "name": "六義園",
+      "reading": "りくぎえん",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "name": "小石川後楽園",
+      "reading": "こいしかわこうらくえん",
+      "notes": "特別史跡との重複指定"
+    },
+    {
+      "region": "関東地方",
+      "name": "旧浜離宮庭園",
+      "reading": "きゅうはまりきゅうていえん",
+      "notes": "特別史跡との重複指定"
+    },
+    {
+      "region": "中部地方",
+      "name": "御岳昇仙峡",
+      "reading": "みたけしょうせんきょう",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "name": "上高地",
+      "reading": "かみこうち",
+      "notes": "特別天然記念物との重複指定"
+    },
+    {
+      "region": "中部地方",
+      "name": "富士山",
+      "reading": "ふじさん",
+      "notes": ""
+    },
+    {
+      "region": "中部地方",
+      "name": "黒部峡谷附 猿飛ならびに奥鐘山",
+      "reading": "くろべきょうこく つけたり さるとびならびにおくかねやま",
+      "notes": "特別天然記念物との重複指定"
+    },
+    {
+      "region": "中部地方",
+      "name": "兼六園",
+      "reading": "けんろくえん",
+      "notes": "日本三名園"
+    },
+    {
+      "region": "中部地方",
+      "name": "一乗谷朝倉氏庭園",
+      "reading": "いちじょうだにあさくらしていえん",
+      "notes": "「一乗谷朝倉氏遺跡」として特別史跡に指定"
+    },
+    {
+      "region": "近畿地方",
+      "name": "天橋立",
+      "reading": "あまのはしだて",
+      "notes": "日本三景"
+    },
+    {
+      "region": "近畿地方",
+      "name": "大仙院書院庭園",
+      "reading": "だいせんいんしょいんていえん",
+      "notes": "史跡との重複指定"
+    },
+    {
+      "region": "近畿地方",
+      "name": "大徳寺方丈庭園",
+      "reading": "だいとくじほうじょうていえん",
+      "notes": "史跡との重複指定"
+    },
+    {
+      "region": "近畿地方",
+      "name": "鹿苑寺（金閣寺）庭園（ろくおんじ",
+      "reading": "きんかくじ",
+      "notes": "ていえん）特別史跡との重複指定"
+    },
+    {
+      "region": "近畿地方",
+      "name": "龍安寺方丈庭園",
+      "reading": "りょうあんじほうじょうていえん",
+      "notes": "史跡との重複指定"
+    },
+    {
+      "region": "近畿地方",
+      "name": "慈照寺（銀閣寺）庭園（じしょうじ",
+      "reading": "ぎんかくじ",
+      "notes": "ていえん）特別史跡との重複指定"
+    },
+    {
+      "region": "近畿地方",
+      "name": "法金剛院青女滝 附 五位山",
+      "reading": "ほうこんごういんせいじょのたき つけたり ごいさん",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "name": "天龍寺庭園",
+      "reading": "てんりゅうじていえん",
+      "notes": "史跡との重複指定"
+    },
+    {
+      "region": "近畿地方",
+      "name": "二条城二之丸庭園",
+      "reading": "にじょうじょうにのまるていえん",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "name": "金地院庭園",
+      "reading": "こんちいんていえん",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "name": "本願寺大書院庭園",
+      "reading": "ほんがんじだいしょいんていえん",
+      "notes": "史跡との重複指定"
+    },
+    {
+      "region": "近畿地方",
+      "name": "西芳寺庭園",
+      "reading": "さいほうじていえん",
+      "notes": "史跡との重複指定"
+    },
+    {
+      "region": "近畿地方",
+      "name": "醍醐寺三宝院庭園",
+      "reading": "だいごじさんぼういんていえん",
+      "notes": "特別史跡との重複指定"
+    },
+    {
+      "region": "近畿地方",
+      "name": "浄瑠璃寺庭園",
+      "reading": "じょうるりじていえん",
+      "notes": "史跡との重複指定"
+    },
+    {
+      "region": "近畿地方",
+      "name": "平城京左京三条二坊宮跡庭園",
+      "reading": "へいじょうきょうさきょうさんじょうにぼうみやあとていえん",
+      "notes": "特別史跡との重複指定"
+    },
+    {
+      "region": "近畿地方",
+      "name": "平城宮東院庭園",
+      "reading": "へいじょうきゅうとういんていえん",
+      "notes": ""
+    },
+    {
+      "region": "近畿地方",
+      "name": "瀞八丁",
+      "reading": "どろはっちょう",
+      "notes": "天然記念物との重複指定"
+    },
+    {
+      "region": "中国・四国地方",
+      "name": "岡山後楽園",
+      "reading": "おかやまこうらくえん",
+      "notes": "日本三名園"
+    },
+    {
+      "region": "中国・四国地方",
+      "name": "三段峡",
+      "reading": "さんだんきょう",
+      "notes": ""
+    },
+    {
+      "region": "中国・四国地方",
+      "name": "厳島",
+      "reading": "いつくしま",
+      "notes": "日本三景 / 特別史跡との重複指定"
+    },
+    {
+      "region": "中国・四国地方",
+      "name": "栗林公園",
+      "reading": "りつりんこうえん",
+      "notes": ""
+    },
+    {
+      "region": "九州・沖縄地方",
+      "name": "虹の松原",
+      "reading": "にじのまつばら",
+      "notes": ""
+    },
+    {
+      "region": "九州・沖縄地方",
+      "name": "雲仙岳",
+      "reading": "うんぜんだけ",
+      "notes": "※指定名称は「温泉岳」"
+    },
+    {
+      "region": "九州・沖縄地方",
+      "name": "識名園",
+      "reading": "しきなえん",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "日本の特別名勝一覧 (Special Places of Scenic Beauty of Japan) - Free Download",
+    "description": "文化財保護法に基づき国が指定した特別名勝（庭園・景勝地など）の名称・読み・重複指定などの備考を地方別にまとめた一覧。 Contains 36 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の特別名勝一覧 (Special Places of Scenic Beauty of Japan) | ListBase",
+    "seo_description": "Download 日本の特別名勝一覧 (Special Places of Scenic Beauty of Japan) — 36 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 36 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%89%B9%E5%88%A5%E5%90%8D%E5%8B%9D%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}
