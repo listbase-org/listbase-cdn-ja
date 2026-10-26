@@ -1,0 +1,6472 @@
+{
+  "id": "ja-seikatsu-kyodo-kumiai",
+  "name": "日本の生活協同組合（生協）一覧 (Consumer co-operatives of Japan)",
+  "title": "日本の生活協同組合（生協）一覧 (Consumer co-operatives of Japan)",
+  "description": "日本の主な生活協同組合（地域生協・職域生協・大学生協・連合会など）の名称と本部所在地の一覧。",
+  "category": "society",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%94%9F%E6%B4%BB%E5%8D%94%E5%90%8C%E7%B5%84%E5%90%88%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%94%9F%E6%B4%BB%E5%8D%94%E5%90%8C%E7%B5%84%E5%90%88%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 1071,
+  "columns": [
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "prefecture_or_type",
+      "label": "Prefecture Or Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "headquarters",
+      "label": "Headquarters",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "group": "生活協同組合連合会",
+      "prefecture_or_type": "全国中央組織・連合会",
+      "name": "日本生活協同組合連合会（日本生協連）",
+      "headquarters": "東京都渋谷区"
+    },
+    {
+      "group": "生活協同組合連合会",
+      "prefecture_or_type": "全国中央組織・連合会",
+      "name": "日本コープ共済生活協同組合連合会（コープ共済連）",
+      "headquarters": "千葉県浦安市"
+    },
+    {
+      "group": "生活協同組合連合会",
+      "prefecture_or_type": "全国中央組織・連合会",
+      "name": "全国労働者共済生活協同組合連合会（こくみん共済 coop、全労済）",
+      "headquarters": "東京都渋谷区"
+    },
+    {
+      "group": "生活協同組合連合会",
+      "prefecture_or_type": "全国中央組織・連合会",
+      "name": "全国大学生活協同組合連合会（全国大学生協連）",
+      "headquarters": "東京都杉並区"
+    },
+    {
+      "group": "生活協同組合連合会",
+      "prefecture_or_type": "全国中央組織・連合会",
+      "name": "全国生活協同組合連合会（全国生協連、都道府県民共済グループ）",
+      "headquarters": "埼玉県さいたま市"
+    },
+    {
+      "group": "生活協同組合連合会",
+      "prefecture_or_type": "全国中央組織・連合会",
+      "name": "全国共済生活協同組合連合会",
+      "headquarters": "大阪府大阪市"
+    },
+    {
+      "group": "生活協同組合連合会",
+      "prefecture_or_type": "全国中央組織・連合会",
+      "name": "日本高齢者生活協同組合連合会",
+      "headquarters": "東京都豊島区"
+    },
+    {
+      "group": "生活協同組合連合会",
+      "prefecture_or_type": "全国中央組織・連合会",
+      "name": "全国住宅生活協同組合連合会",
+      "headquarters": "東京都台東区"
+    },
+    {
+      "group": "生活協同組合連合会",
+      "prefecture_or_type": "全国中央組織・連合会",
+      "name": "生活協同組合連合会鉱住協",
+      "headquarters": "東京都千代田区"
+    },
+    {
+      "group": "生活協同組合連合会",
+      "prefecture_or_type": "全国中央組織・連合会",
+      "name": "全国電力生活協同組合連合会",
+      "headquarters": "東京都港区"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "",
+      "name": "生活協同組合連合会コープ東北サンネット事業連合",
+      "headquarters": "宮城県仙台市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "",
+      "name": "コープデリ生活協同組合連合会",
+      "headquarters": "埼玉県さいたま市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "",
+      "name": "生活協同組合連合会ユーコープ事業連合",
+      "headquarters": "神奈川県横浜市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "",
+      "name": "生活協同組合連合会コープ北陸事業連合",
+      "headquarters": "石川県金沢市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "",
+      "name": "生活協同組合連合会東海コープ事業連合",
+      "headquarters": "愛知県名古屋市名東区"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "",
+      "name": "生活協同組合連合会コープきんき事業連合",
+      "headquarters": "大阪府大阪市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "",
+      "name": "生活協同組合連合会コープ中国四国事業連合",
+      "headquarters": "広島県廿日市市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "",
+      "name": "生活協同組合連合会コープ九州事業連合",
+      "headquarters": "福岡県糟屋郡篠栗町"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "",
+      "name": "生活クラブ事業連合生活協同組合連合会",
+      "headquarters": "東京都新宿区"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "",
+      "name": "パルシステム生活協同組合連合会",
+      "headquarters": "東京都文京区"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "",
+      "name": "生活協同組合連合会コープ自然派事業連合",
+      "headquarters": "大阪府大阪市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "",
+      "name": "生活協同組合連合会きらり",
+      "headquarters": "大阪府堺市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "",
+      "name": "グリーンコープ生活協同組合連合会",
+      "headquarters": "福岡県福岡市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "",
+      "name": "大学生活協同組合連合会北海道事業連合",
+      "headquarters": "北海道札幌市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "",
+      "name": "生活協同組合連合会大学生活協同組合東北事業連合",
+      "headquarters": "宮城県仙台市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "",
+      "name": "生活協同組合連合会大学生活協同組合東京事業連合",
+      "headquarters": "東京都渋谷区"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "",
+      "name": "生活協同組合連合会大学生活協同組合北陸事業連合",
+      "headquarters": "石川県金沢市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "",
+      "name": "生活協同組合連合会大学生協東海事業連合",
+      "headquarters": "愛知県名古屋市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "",
+      "name": "生活協同組合連合会大学生活協同組合京都事業連合",
+      "headquarters": "京都府京都市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "",
+      "name": "生活協同組合連合会大学生協大阪事業連合",
+      "headquarters": "大阪府大阪市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "",
+      "name": "生活協同組合連合会大学生協神戸事業連合",
+      "headquarters": "兵庫県神戸市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "",
+      "name": "生活協同組合連合会大学生活協同組合中国・四国事業連合",
+      "headquarters": "愛媛県松山市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "",
+      "name": "生活協同組合連合会大学生活協同組合九州事業連合",
+      "headquarters": "福岡県福岡市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "北海道生活協同組合連合会",
+      "headquarters": "北海道札幌市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "青森県生活協同組合連合会",
+      "headquarters": "青森県青森市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "岩手県生活協同組合連合会",
+      "headquarters": "岩手県滝沢市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "宮城県生活協同組合連合会",
+      "headquarters": "宮城県仙台市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "秋田県生活協同組合連合会",
+      "headquarters": "秋田県秋田市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "山形県生活協同組合連合会",
+      "headquarters": "山形県山形市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "福島県生活協同組合連合会",
+      "headquarters": "福島県福島市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "茨城県生活協同組合連合会",
+      "headquarters": "茨城県水戸市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "栃木県生活協同組合連合会",
+      "headquarters": "栃木県宇都宮市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "群馬県生活協同組合連合会",
+      "headquarters": "群馬県前橋市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "埼玉県生活協同組合連合会",
+      "headquarters": "埼玉県さいたま市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "千葉県生活協同組合連合会",
+      "headquarters": "千葉県千葉市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "東京都生活協同組合連合会",
+      "headquarters": "東京都中野区"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "神奈川県生活協同組合連合会",
+      "headquarters": "神奈川県横浜市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "新潟県生活協同組合連合会",
+      "headquarters": "新潟県新潟市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "富山県生活協同組合連合会",
+      "headquarters": "富山県富山市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "石川県生活協同組合連合会",
+      "headquarters": "石川県金沢市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "福井県生活協同組合連合会",
+      "headquarters": "福井県福井市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "山梨県生活協同組合連合会",
+      "headquarters": "山梨県甲府市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "長野県生活協同組合連合会",
+      "headquarters": "長野県長野市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "全岐阜県生活協同組合連合会",
+      "headquarters": "岐阜県各務原市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "静岡県生活協同組合連合会",
+      "headquarters": "静岡県静岡市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "静岡県学校生活協同組合連合会",
+      "headquarters": "静岡県静岡市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "愛知県生活協同組合連合会",
+      "headquarters": "愛知県名古屋市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "三重県生活協同組合連合会",
+      "headquarters": "三重県津市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "滋賀県生活協同組合連合会",
+      "headquarters": "滋賀県大津市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "京都府生活協同組合連合会",
+      "headquarters": "京都府京都市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "大阪府生活協同組合連合会",
+      "headquarters": "大阪府大阪市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "兵庫県生活協同組合連合会",
+      "headquarters": "兵庫県神戸市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "奈良県生活協同組合連合会",
+      "headquarters": "奈良県奈良市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "和歌山県生活協同組合連合会",
+      "headquarters": "和歌山県和歌山市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "鳥取県生活協同組合連合会",
+      "headquarters": "鳥取県鳥取市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "島根県生活協同組合連合会",
+      "headquarters": "島根県松江市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "岡山県生活協同組合連合会",
+      "headquarters": "岡山県岡山市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "広島県生活協同組合連合会",
+      "headquarters": "広島県広島市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "山口県生活協同組合連合会",
+      "headquarters": "山口県山口市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "徳島県生活協同組合連合会",
+      "headquarters": "徳島県板野郡北島町"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "香川県生活協同組合連合会",
+      "headquarters": "香川県高松市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "愛媛県生活協同組合連合会",
+      "headquarters": "愛媛県松山市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "愛媛県学校生活協同組合連合会",
+      "headquarters": "愛媛県松山市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "高知県生活協同組合連合会",
+      "headquarters": "高知県高知市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "福岡県生活協同組合連合会",
+      "headquarters": "福岡県福岡市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "佐賀県生活協同組合連合会",
+      "headquarters": "佐賀県佐賀市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "長崎県生活協同組合連合会",
+      "headquarters": "長崎県長崎市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "熊本県生活協同組合連合会",
+      "headquarters": "熊本県水俣市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "大分県生活協同組合連合会",
+      "headquarters": "大分県大分市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "宮崎県生活協同組合連合会",
+      "headquarters": "宮崎県宮崎市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "鹿児島県生活協同組合連合会",
+      "headquarters": "鹿児島県鹿児島市"
+    },
+    {
+      "group": "事業連合",
+      "prefecture_or_type": "都道府県別連合会",
+      "name": "沖縄県生活協同組合連合会",
+      "headquarters": "沖縄県浦添市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "北海道労働者共済生活協同組合",
+      "headquarters": "札幌市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "札幌市民共済生活協同組合",
+      "headquarters": "札幌市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "北海道民共済生活協同組合",
+      "headquarters": "札幌市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "北海道勤労者住宅生活協同組合",
+      "headquarters": "札幌市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "北海道医療生活協同組合",
+      "headquarters": "札幌市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "札幌医療生活協同組合",
+      "headquarters": "札幌市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "北海道保健医療生活協同組合",
+      "headquarters": "帯広市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "生活協同組合コープさっぽろ",
+      "headquarters": "札幌市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "生活クラブ生活協同組合 (北海道)",
+      "headquarters": "札幌市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "生活協同組合北海道高齢協",
+      "headquarters": "旭川市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "さっぽろ高齢者福祉生活協同組合",
+      "headquarters": "札幌市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "北海道大学生活協同組合",
+      "headquarters": "札幌市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "北海道教育大学生活協同組合",
+      "headquarters": "札幌市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "酪農学園生活協同組合",
+      "headquarters": "江別市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "札幌学院大学生活協同組合",
+      "headquarters": "江別市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "北海学園生活協同組合",
+      "headquarters": "札幌市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "北星学園生活協同組合",
+      "headquarters": "札幌市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "札幌大学生活協同組合",
+      "headquarters": "札幌市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "北海道教育大学函館生活協同組合",
+      "headquarters": "函館市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "小樽商科大学生活協同組合",
+      "headquarters": "小樽市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "北海道教育大学岩見沢生活協同組合",
+      "headquarters": "岩見沢市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "北海道教育大学旭川生活協同組合",
+      "headquarters": "旭川市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "北見工業大学生活協同組合",
+      "headquarters": "北見市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "室蘭工業大学生活協同組合",
+      "headquarters": "室蘭市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "帯広畜産大学生活協同組合",
+      "headquarters": "帯広市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "北海道教育大学釧路生活協同組合",
+      "headquarters": "釧路市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "公立はこだて未来大学生活協同組合",
+      "headquarters": "函館市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "釧路公立大学生活協同組合",
+      "headquarters": "釧路市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "北海道電力生活協同組合",
+      "headquarters": "札幌市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "新冠種畜牧場消費生活協同組合",
+      "headquarters": "日高郡新ひだか町"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "十勝種畜牧場消費生活協同組合",
+      "headquarters": "河東郡音更町"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "北海道学校生活協同組合",
+      "headquarters": "札幌市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "函館学校生活協同組合",
+      "headquarters": "函館市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "上川地区学校生活協同組合",
+      "headquarters": "旭川市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "北海道",
+      "name": "網走四地区学校生活協同組合",
+      "headquarters": "北見市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "青森県",
+      "name": "青森県庁消費生活協同組合",
+      "headquarters": "青森市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "青森県",
+      "name": "八戸市職員生活協同組合",
+      "headquarters": "八戸市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "青森県",
+      "name": "青森市職員生活協同組合",
+      "headquarters": "青森市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "青森県",
+      "name": "弘南バス生活協同組合",
+      "headquarters": "弘前市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "青森県",
+      "name": "弘前大学生活協同組合",
+      "headquarters": "弘前市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "青森県",
+      "name": "八戸市医師会生活協同組合",
+      "headquarters": "八戸市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "青森県",
+      "name": "十和田市職員生活協同組合",
+      "headquarters": "十和田市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "青森県",
+      "name": "弘前学院生活協同組合",
+      "headquarters": "弘前市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "青森県",
+      "name": "津軽保健生活協同組合",
+      "headquarters": "弘前市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "青森県",
+      "name": "青森保健生活協同組合",
+      "headquarters": "青森市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "青森県",
+      "name": "青森県労働者共済生活協同組合",
+      "headquarters": "青森市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "青森県",
+      "name": "生活協同組合コープあおもり",
+      "headquarters": "青森市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "青森県",
+      "name": "生活協同組合とわだ",
+      "headquarters": "十和田市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "青森県",
+      "name": "青森県民生活協同組合",
+      "headquarters": "青森市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "青森県",
+      "name": "八戸医療生活協同組合",
+      "headquarters": "八戸市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "青森県",
+      "name": "生活クラブ生活協同組合",
+      "headquarters": "青森市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "青森県",
+      "name": "青森県民共済生活協同組合",
+      "headquarters": "青森市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "青森県",
+      "name": "青森県高齢者福祉生活協同組合",
+      "headquarters": "八戸市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "青森県",
+      "name": "ひまわり福祉生活協同組合",
+      "headquarters": "八戸市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "岩手県",
+      "name": "岩手県労働者共済生活協同組合",
+      "headquarters": "盛岡市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "岩手県",
+      "name": "盛岡医療生活協同組合",
+      "headquarters": "盛岡市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "岩手県",
+      "name": "消費者信用生活協同組合",
+      "headquarters": "盛岡市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "岩手県",
+      "name": "いわて生活協同組合",
+      "headquarters": "滝沢市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "岩手県",
+      "name": "岩手県民共済生活協同組合",
+      "headquarters": "盛岡市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "岩手県",
+      "name": "生活クラブ生活協同組合",
+      "headquarters": "奥州市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "岩手県",
+      "name": "みやこ映画生活協同組合",
+      "headquarters": "宮古市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "岩手県",
+      "name": "岩手県高齢者福祉生活協同組合",
+      "headquarters": "盛岡市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "岩手県",
+      "name": "岩手県学校生活協同組合",
+      "headquarters": "滝沢市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "岩手県",
+      "name": "岩手県庁生活協同組合",
+      "headquarters": "盛岡市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "岩手県",
+      "name": "大船渡市役所職員生活協同組合",
+      "headquarters": "大船渡市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "岩手県",
+      "name": "東北農業研究センター消費生活協同組合",
+      "headquarters": "盛岡市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "岩手県",
+      "name": "宮古市職員生活協同組合",
+      "headquarters": "宮古市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "岩手県",
+      "name": "岩手大学生活協同組合",
+      "headquarters": "盛岡市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "岩手県",
+      "name": "遠野市役所生活協同組合",
+      "headquarters": "遠野市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "岩手県",
+      "name": "釜石市職員生活協同組合",
+      "headquarters": "釜石市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "岩手県",
+      "name": "盛岡大学生活協同組合",
+      "headquarters": "盛岡市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "岩手県",
+      "name": "岩手県立大学生活協同組合",
+      "headquarters": "滝沢市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "宮城県",
+      "name": "東北電力生活協同組合",
+      "headquarters": "仙台市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "宮城県",
+      "name": "宮城労働者共済生活協同組合",
+      "headquarters": "仙台市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "宮城県",
+      "name": "松島医療生活協同組合",
+      "headquarters": "宮城郡松島町"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "宮城県",
+      "name": "生活協同組合あいコープみやぎ",
+      "headquarters": "仙台市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "宮城県",
+      "name": "みやぎ生活協同組合",
+      "headquarters": "仙台市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "宮城県",
+      "name": "宮城県民共済生活協同組合",
+      "headquarters": "仙台市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "宮城県",
+      "name": "みやぎ県南医療生活協同組合",
+      "headquarters": "柴田郡柴田町"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "宮城県",
+      "name": "宮城県高齢者生活協同組合",
+      "headquarters": "仙台市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "宮城県",
+      "name": "宮城県警友会消費生活協同組合",
+      "headquarters": "仙台市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "宮城県",
+      "name": "東北大学生活協同組合",
+      "headquarters": "仙台市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "宮城県",
+      "name": "宮城教育大学生活協同組合",
+      "headquarters": "仙台市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "宮城県",
+      "name": "東北工業大学生活協同組合",
+      "headquarters": "仙台市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "宮城県",
+      "name": "宮城大学生活協同組合",
+      "headquarters": "黒川郡大和町"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "宮城県",
+      "name": "東北学院大学生活協同組合",
+      "headquarters": "仙台市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "宮城県",
+      "name": "尚絅学院大学生活協同組合",
+      "headquarters": "名取市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "宮城県",
+      "name": "宮城学院生活協同組合",
+      "headquarters": "仙台市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "宮城県",
+      "name": "大学生協みやぎインターカレッジコープ",
+      "headquarters": "仙台市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "秋田県",
+      "name": "秋田県民共済生活協同組合",
+      "headquarters": "秋田市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "秋田県",
+      "name": "秋田県労働者共済生活協同組合",
+      "headquarters": "秋田市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "秋田県",
+      "name": "秋田県勤労者住宅生活協同組合",
+      "headquarters": "秋田市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "秋田県",
+      "name": "生活協同組合コープあきた",
+      "headquarters": "秋田市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "秋田県",
+      "name": "秋田県高齢者・障害者生活協同組合",
+      "headquarters": "秋田市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "秋田県",
+      "name": "秋田県学校生活協同組合",
+      "headquarters": "秋田市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "秋田県",
+      "name": "秋田県職員消費生活協同組合",
+      "headquarters": "秋田市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "秋田県",
+      "name": "秋田大学生活協同組合",
+      "headquarters": "秋田市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "秋田県",
+      "name": "中通生活協同組合",
+      "headquarters": "秋田市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "山形県",
+      "name": "生活協同組合共立社",
+      "headquarters": "鶴岡市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "山形県",
+      "name": "生活クラブやまがた生活協同組合",
+      "headquarters": "米沢市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "山形県",
+      "name": "山形県勤労者共済生活協同組合",
+      "headquarters": "山形市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "山形県",
+      "name": "庄内医療生活協同組合",
+      "headquarters": "鶴岡市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "山形県",
+      "name": "山形県労働者住宅生活協同組合",
+      "headquarters": "山形市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "山形県",
+      "name": "酒田健康生活協同組合",
+      "headquarters": "酒田市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "山形県",
+      "name": "やまがた保健生活協同組合",
+      "headquarters": "山形市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "山形県",
+      "name": "山形県高齢者福祉生活協同組合",
+      "headquarters": "鶴岡市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "山形県",
+      "name": "山形県民共済生活協同組合",
+      "headquarters": "山形市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "山形県",
+      "name": "山形県学校生活協同組合",
+      "headquarters": "山形市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "山形県",
+      "name": "山形県警察職員消費生活協同組合",
+      "headquarters": "山形市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "山形県",
+      "name": "山形大学生活協同組合",
+      "headquarters": "山形市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "山形県",
+      "name": "ふれあい生活協同組合",
+      "headquarters": "山形市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "福島県",
+      "name": "生活協同組合あいコープふくしま",
+      "headquarters": "郡山市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "福島県",
+      "name": "生活協同組合コープあいづ",
+      "headquarters": "喜多方市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "福島県",
+      "name": "生活協同組合パルシステム福島",
+      "headquarters": "いわき市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "福島県",
+      "name": "生活クラブふくしま生活協同組合",
+      "headquarters": "福島市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "福島県",
+      "name": "福島医療生活協同組合",
+      "headquarters": "福島市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "福島県",
+      "name": "福島中央市民医療生活協同組合",
+      "headquarters": "福島市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "福島県",
+      "name": "郡山医療生活協同組合",
+      "headquarters": "郡山市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "福島県",
+      "name": "会津医療生活協同組合",
+      "headquarters": "会津若松市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "福島県",
+      "name": "浜通り医療生活協同組合",
+      "headquarters": "いわき市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "福島県",
+      "name": "福島県住宅生活協同組合",
+      "headquarters": "福島市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "福島県",
+      "name": "福島県中央住宅生活協同組合",
+      "headquarters": "郡山市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "福島県",
+      "name": "福島県労働者共済生活協同組合",
+      "headquarters": "福島市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "福島県",
+      "name": "福島県民共済生活協同組合",
+      "headquarters": "福島市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "福島県",
+      "name": "福島大学生活協同組合",
+      "headquarters": "福島市"
+    },
+    {
+      "group": "北海道・東北地方",
+      "prefecture_or_type": "福島県",
+      "name": "福島製鋼生活協同組合",
+      "headquarters": "福島市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "茨城県",
+      "name": "茨城県勤労者共済生活協同組合",
+      "headquarters": "水戸市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "茨城県",
+      "name": "いばらきコープ生活協同組合",
+      "headquarters": "水戸市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "茨城県",
+      "name": "茨城保健生活協同組合",
+      "headquarters": "水戸市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "茨城県",
+      "name": "茨城県民生活協同組合",
+      "headquarters": "古河市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "茨城県",
+      "name": "常総生活協同組合",
+      "headquarters": "守谷市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "茨城県",
+      "name": "生活クラブ生活協同組合",
+      "headquarters": "牛久市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "茨城県",
+      "name": "筑波学生教職員生活協同組合",
+      "headquarters": "つくば市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "茨城県",
+      "name": "いばらきよつ葉生活協同組合",
+      "headquarters": "結城市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "茨城県",
+      "name": "茨城県学校生活協同組合",
+      "headquarters": "水戸市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "茨城県",
+      "name": "茨城県庁生活協同組合",
+      "headquarters": "水戸市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "茨城県",
+      "name": "茨城大学生活協同組合",
+      "headquarters": "水戸市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "茨城県",
+      "name": "すゞ陽生活協同組合",
+      "headquarters": "水戸市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "茨城県",
+      "name": "取手市職員生活協同組合",
+      "headquarters": "取手市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "茨城県",
+      "name": "産業技術総合研究所生活協同組合",
+      "headquarters": "つくば市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "茨城県",
+      "name": "生活協同組合パルシステム茨城 栃木",
+      "headquarters": "水戸市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "栃木県",
+      "name": "足尾銅山生活協同組合三養会",
+      "headquarters": "日光市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "栃木県",
+      "name": "富士重工宇都宮生活協同組合",
+      "headquarters": "宇都宮市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "栃木県",
+      "name": "栃木県職員生活協同組合",
+      "headquarters": "宇都宮市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "栃木県",
+      "name": "宇都宮市職員生活協同組合",
+      "headquarters": "宇都宮市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "栃木県",
+      "name": "栃木県農協連職員生活協同組合",
+      "headquarters": "宇都宮市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "栃木県",
+      "name": "住友大阪セメント栃木生活協同組合",
+      "headquarters": "佐野市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "栃木県",
+      "name": "ブリヂストン那須グループ生活協同組合",
+      "headquarters": "那須塩原市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "栃木県",
+      "name": "宇都宮大学消費生活協同組合",
+      "headquarters": "宇都宮市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "栃木県",
+      "name": "足利工業大学生活協同組合",
+      "headquarters": "足利市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "栃木県",
+      "name": "栃木県学校生活協同組合",
+      "headquarters": "宇都宮市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "栃木県",
+      "name": "栃木県労働者消費生活協同組合",
+      "headquarters": "宇都宮市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "栃木県",
+      "name": "とちぎコープ生活協同組合",
+      "headquarters": "宇都宮市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "栃木県",
+      "name": "とちぎよつ葉生活協同組合",
+      "headquarters": "小山市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "栃木県",
+      "name": "生活クラブ生活協同組合",
+      "headquarters": "宇都宮市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "栃木県",
+      "name": "栃木県保健医療生活協同組合",
+      "headquarters": "宇都宮市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "栃木県",
+      "name": "栃木県労働者共済生活協同組合",
+      "headquarters": "宇都宮市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "栃木県",
+      "name": "栃木県民共済生活協同組合",
+      "headquarters": "宇都宮市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "群馬県",
+      "name": "東和銀行生活協同組合",
+      "headquarters": "前橋市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "群馬県",
+      "name": "群馬中央医療生活協同組合",
+      "headquarters": "前橋市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "群馬県",
+      "name": "はるな生活協同組合",
+      "headquarters": "高崎市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "群馬県",
+      "name": "北毛保健生活協同組合",
+      "headquarters": "渋川市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "群馬県",
+      "name": "群馬県共済生活協同組合",
+      "headquarters": "前橋市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "群馬県",
+      "name": "生活協同組合コープぐんま",
+      "headquarters": "桐生市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "群馬県",
+      "name": "群馬県労働者生活協同組合",
+      "headquarters": "前橋市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "群馬県",
+      "name": "ぐんま自然派生活協同組合",
+      "headquarters": "伊勢崎市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "群馬県",
+      "name": "利根保健生活協同組合",
+      "headquarters": "沼田市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "群馬県",
+      "name": "群馬県民共済生活協同組合",
+      "headquarters": "前橋市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "群馬県",
+      "name": "生活クラブ生活協同組合",
+      "headquarters": "佐波郡玉村町"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "群馬県",
+      "name": "ぐんまよつ葉生活協同組合",
+      "headquarters": "太田市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "群馬県",
+      "name": "群馬県高齢者生活協同組合",
+      "headquarters": "前橋市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "群馬県",
+      "name": "生活協同組合パルシステム群馬",
+      "headquarters": "高崎市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "群馬県",
+      "name": "群馬県庁生活協同組合",
+      "headquarters": "前橋市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "群馬県",
+      "name": "群馬県学校生活協同組合",
+      "headquarters": "前橋市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "群馬県",
+      "name": "富士重工業群馬製作所生活協同組合",
+      "headquarters": "太田市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "群馬県",
+      "name": "群馬大学生活協同組合",
+      "headquarters": "前橋市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "群馬県",
+      "name": "前橋工科大学生活協同組合",
+      "headquarters": "前橋市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "群馬県",
+      "name": "高崎経済大学生活協同組合",
+      "headquarters": "高崎市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "群馬県",
+      "name": "生活協同組合学園マイネ",
+      "headquarters": "高崎市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "群馬県",
+      "name": "太田情報・医療・自動車専門学校生活協同組合",
+      "headquarters": "太田市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "埼玉県",
+      "name": "生活協同組合パルシステム埼玉",
+      "headquarters": "蕨市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "埼玉県",
+      "name": "生活協同組合コープみらい",
+      "headquarters": "さいたま市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "埼玉県",
+      "name": "埼玉県労働者共済生活協同組合",
+      "headquarters": "さいたま市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "埼玉県",
+      "name": "埼玉県民共済生活協同組合",
+      "headquarters": "さいたま市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "埼玉県",
+      "name": "埼玉大学生活協同組合",
+      "headquarters": "さいたま市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "埼玉県",
+      "name": "花菱縫製生活協同組合",
+      "headquarters": "さいたま市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "埼玉県",
+      "name": "埼玉県労働者住宅生活協同組合",
+      "headquarters": "さいたま市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "埼玉県",
+      "name": "日本ピストンリング生活協同組合",
+      "headquarters": "さいたま市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "埼玉県",
+      "name": "生活協同組合・さいたま高齢協",
+      "headquarters": "さいたま市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "埼玉県",
+      "name": "曙ブレーキ岩槻生活協同組合",
+      "headquarters": "さいたま市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "埼玉県",
+      "name": "さいたま住宅生活協同組合",
+      "headquarters": "さいたま市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "埼玉県",
+      "name": "生活クラブ生活協同組合",
+      "headquarters": "さいたま市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "埼玉県",
+      "name": "大東文化学園生活協同組合",
+      "headquarters": "東松山市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "埼玉県",
+      "name": "医療生協さいたま生活協同組合",
+      "headquarters": "川口市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "埼玉県",
+      "name": "埼玉県勤労者生活協同組合",
+      "headquarters": "川口市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "埼玉県",
+      "name": "富士重工業（株）埼玉生活協同組合",
+      "headquarters": "北本市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "埼玉県",
+      "name": "跡見学園女子大学生活協同組合",
+      "headquarters": "新座市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "埼玉県",
+      "name": "十文字学園生活協同組合",
+      "headquarters": "新座市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "埼玉県",
+      "name": "淑徳大学みずほ台生活協同組合",
+      "headquarters": "入間郡三芳町"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "埼玉県",
+      "name": "子どものその保育生活協同組合",
+      "headquarters": "ふじみ野市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "埼玉県",
+      "name": "埼玉医療生活協同組合",
+      "headquarters": "羽生市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "千葉県",
+      "name": "新日軽生活協同組合",
+      "headquarters": "船橋市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "千葉県",
+      "name": "京成電鉄生活協同組合",
+      "headquarters": "習志野市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "千葉県",
+      "name": "千葉県勤労者共済生活協同組合",
+      "headquarters": "千葉市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "千葉県",
+      "name": "千葉県民共済生活協同組合",
+      "headquarters": "船橋市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "千葉県",
+      "name": "なのはな生活協同組合",
+      "headquarters": "千葉市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "千葉県",
+      "name": "生活クラブ生活協同組合",
+      "headquarters": "千葉市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "千葉県",
+      "name": "生活協同組合パルシステム千葉",
+      "headquarters": "船橋市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "千葉県",
+      "name": "生活協同組合我孫子生活センター",
+      "headquarters": "我孫子市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "千葉県",
+      "name": "ぼうそう生活協同組合",
+      "headquarters": "木更津市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "千葉県",
+      "name": "千葉消費者住宅生活協同組合",
+      "headquarters": "千葉市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "千葉県",
+      "name": "千葉県高齢者生活協同組合",
+      "headquarters": "千葉市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "千葉県",
+      "name": "ヤマサ醤油生活協同組合",
+      "headquarters": "銚子市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "千葉県",
+      "name": "千葉県庁生活協同組合",
+      "headquarters": "千葉市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "千葉県",
+      "name": "三井造船千葉生活協同組合",
+      "headquarters": "市原市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "千葉県",
+      "name": "千葉県学校生活協同組合",
+      "headquarters": "千葉市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "千葉県",
+      "name": "東邦大学消費生活協同組合",
+      "headquarters": "船橋市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "千葉県",
+      "name": "千葉大学生活協同組合",
+      "headquarters": "千葉市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "千葉県",
+      "name": "千葉商科大学生活協同組合",
+      "headquarters": "市川市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "全日本自治体労働者共済生活協同組合",
+      "headquarters": "千代田区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "電気通信産業労働者共済生活協同組合",
+      "headquarters": "千代田区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "教職員共済生活協同組合",
+      "headquarters": "新宿区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "日本郵政グループ労働者共済生活協同組合",
+      "headquarters": "文京区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "全日本たばこ産業労働者共済生活協同組合",
+      "headquarters": "港区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "全国森林関連産業労働者共済生活協同組合",
+      "headquarters": "文京区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "全国特定郵便局長生活協同組合",
+      "headquarters": "港区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "全国酒販生活協同組合",
+      "headquarters": "目黒区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "全国たばこ販売生活協同組合",
+      "headquarters": "港区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "日本塩業生活協同組合",
+      "headquarters": "千代田区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "全国町村職員生活協同組合",
+      "headquarters": "千代田区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "生活協同組合 全国都市職員災害共済会",
+      "headquarters": "千代田区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "警察職員生活協同組合",
+      "headquarters": "千代田区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "全国電機販売生活協同組合",
+      "headquarters": "文京区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "防衛省職員生活協同組合",
+      "headquarters": "千代田区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "全国漁業無線従事者生活協同組合",
+      "headquarters": "千代田区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "横浜ゴム生活協同組合",
+      "headquarters": "港区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "トッパングループ生活協同組合",
+      "headquarters": "台東区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "JAL生活協同組合",
+      "headquarters": "大田区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "全国交通運輸産業労働者共済生活協同組合",
+      "headquarters": "杉並区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "トーハン生活協同組合",
+      "headquarters": "新宿区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東電生活協同組合",
+      "headquarters": "港区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "生活協同組合全日本消防人共済会",
+      "headquarters": "港区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "全日本水道労働者共済生活協同組合",
+      "headquarters": "文京区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "電源開発生活協同組合",
+      "headquarters": "中央区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "農林水産省職員生活協同組合",
+      "headquarters": "港区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京農業大学生活協同組合",
+      "headquarters": "世田谷区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "法政大学生活協同組合",
+      "headquarters": "新宿区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "慶應義塾生活協同組合",
+      "headquarters": "港区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京医科歯科大学生活協同組合",
+      "headquarters": "文京区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "芝浦工業大学消費生活協同組合",
+      "headquarters": "江東区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京工業大学生活協同組合",
+      "headquarters": "目黒区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東洋大学生活協同組合",
+      "headquarters": "文京区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "日本無線生活協同組合",
+      "headquarters": "三鷹市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "明治学院消費生活協同組合",
+      "headquarters": "港区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "國學院大學生活協同組合",
+      "headquarters": "渋谷区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "早稲田大学生活協同組合",
+      "headquarters": "新宿区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "日本女子大学生活協同組合",
+      "headquarters": "文京区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京芸術大学生活協同組合",
+      "headquarters": "台東区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京電機大学生活協同組合",
+      "headquarters": "千代田区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "シチズン生活協同組合",
+      "headquarters": "西東京市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "共同印刷生活協同組合",
+      "headquarters": "文京区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京大学消費生活協同組合",
+      "headquarters": "文京区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京理科大学消費生活協同組合",
+      "headquarters": "新宿区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "昭和大学生活協同組合",
+      "headquarters": "品川区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "パーカー生活協同組合",
+      "headquarters": "中野区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "気象庁生活協同組合",
+      "headquarters": "千代田区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "宮内庁生活協同組合",
+      "headquarters": "千代田区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京書籍印刷生活協同組合",
+      "headquarters": "北区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "蛇の目消費生活協同組合",
+      "headquarters": "八王子市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "国際電気生活協同組合",
+      "headquarters": "羽村市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "富士重工業三鷹生活協同組合",
+      "headquarters": "三鷹市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "岩崎通信機消費生活協同組合",
+      "headquarters": "杉並区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "ブリヂストン小平生活協同組合",
+      "headquarters": "小平市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "農林漁業中央団体生活協同組合",
+      "headquarters": "千代田区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京都学校生活協同組合",
+      "headquarters": "板橋区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京都区職員生活協同組合",
+      "headquarters": "豊島区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "関東管区警察学校消費生活協同組合",
+      "headquarters": "小平市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "中央大学生活協同組合",
+      "headquarters": "八王子市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京外国語大学生活協同組合",
+      "headquarters": "府中市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "一橋大学消費生活協同組合",
+      "headquarters": "国立市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京都立大学生活協同組合",
+      "headquarters": "八王子市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京海洋大学生活協同組合",
+      "headquarters": "港区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京農工大学消費生活協同組合",
+      "headquarters": "府中市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京経済大学生活協同組合",
+      "headquarters": "国分寺市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "お茶の水女子大学消費生活協同組合",
+      "headquarters": "文京区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "電気通信大学生活協同組合",
+      "headquarters": "調布市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京学芸大学生活協同組合",
+      "headquarters": "小金井市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "武蔵学園生活協同組合",
+      "headquarters": "練馬区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "日本社会事業大学生活協同組合",
+      "headquarters": "清瀬市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "和光学園生活協同組合",
+      "headquarters": "町田市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "津田塾大学生活協同組合",
+      "headquarters": "小平市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "桜美林学園消費生活協同組合",
+      "headquarters": "町田市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京薬科大学生活協同組合",
+      "headquarters": "八王子市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "工学院大学学園生活協同組合",
+      "headquarters": "新宿区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "日本獣医生命科学大学生活協同組合",
+      "headquarters": "武蔵野市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東邦大学生活協同組合",
+      "headquarters": "大田区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "白梅学園生活協同組合",
+      "headquarters": "小平市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "明治薬科大学生活協同組合",
+      "headquarters": "清瀬市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "星薬科大学生活協同組合",
+      "headquarters": "品川区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京工業高等専門学校生活協同組合",
+      "headquarters": "八王子市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京赤十字看護大学生活協同組合",
+      "headquarters": "渋谷区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "都南消費生活協同組合",
+      "headquarters": "品川区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "砧生活協同組合",
+      "headquarters": "世田谷区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "小笠原消費生活協同組合",
+      "headquarters": "小笠原村"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "生活協同組合パルシステム東京",
+      "headquarters": "新宿区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "生活クラブ生活協同組合",
+      "headquarters": "世田谷区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京南部生活協同組合",
+      "headquarters": "大田区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東都生活協同組合",
+      "headquarters": "世田谷区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "自然派くらぶ生活協同組合",
+      "headquarters": "八王子市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "生活協同組合向陽社",
+      "headquarters": "板橋区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "医療従事者生活協同組合",
+      "headquarters": "中央区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "生活協同組合東京インターカレッジコープ",
+      "headquarters": "渋谷区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "23区南生活クラブ生活協同組合",
+      "headquarters": "世田谷区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "北東京生活クラブ生活協同組合",
+      "headquarters": "練馬区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "多摩きた生活クラブ生活協同組合",
+      "headquarters": "東村山市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "多摩南生活クラブ生活協同組合",
+      "headquarters": "町田市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京西南文化福祉自動車交通生活協同組合",
+      "headquarters": "目黒区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "生活協同組合・東京高齢協",
+      "headquarters": "豊島区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京健康長寿生活協同組合",
+      "headquarters": "新宿区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "生活協同組合コープランド東京",
+      "headquarters": "渋谷区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "荻窪生活協同組合",
+      "headquarters": "杉並区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "足立区大韓生活協同組合",
+      "headquarters": "足立区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "韓国人豊島生活協同組合",
+      "headquarters": "豊島区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京西部保健生活協同組合",
+      "headquarters": "杉並区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "目黒医療生活協同組合",
+      "headquarters": "目黒区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "生活協同組合多摩相互病院",
+      "headquarters": "八王子市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京医療生活協同組合",
+      "headquarters": "中野区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "医療生活協同組合高田馬場診療所",
+      "headquarters": "新宿区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京保健生活協同組合",
+      "headquarters": "文京区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "医療生活協同組合早稲田診療所",
+      "headquarters": "新宿区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京ふれあい医療生活協同組合",
+      "headquarters": "北区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京葛飾医療生活協同組合",
+      "headquarters": "葛飾区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "協立医療生活協同組合",
+      "headquarters": "葛飾区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "渋谷医療生活協同組合",
+      "headquarters": "渋谷区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "西都保健生活協同組合",
+      "headquarters": "清瀬市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "いずみ医療生活協同組合",
+      "headquarters": "練馬区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "三多摩医療生活協同組合",
+      "headquarters": "国分寺市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "城南保健生活協同組合",
+      "headquarters": "大田区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "医療生活協同組合養生会",
+      "headquarters": "文京区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "足立医療生活協同組合",
+      "headquarters": "足立区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "医療生活協同組合健康家族クラブ",
+      "headquarters": "調布市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "すずしろ医療生活協同組合",
+      "headquarters": "練馬区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "北多摩中央医療生活協同組合",
+      "headquarters": "小金井市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "八王子保健生活協同組合",
+      "headquarters": "八王子市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京ほくと医療生活協同組合",
+      "headquarters": "北区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "新宿消費生活協同組合",
+      "headquarters": "葛飾区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京共済生活協同組合",
+      "headquarters": "品川区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "生活協同組合都民共済会",
+      "headquarters": "中央区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京労働者共済生活協同組合",
+      "headquarters": "新宿区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京都民共済生活協同組合",
+      "headquarters": "豊島区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "生活協同組合東京住宅供給センター",
+      "headquarters": "新宿区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "生活協同組合・消費者住宅センター",
+      "headquarters": "中野区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "東京俳優生活協同組合",
+      "headquarters": "渋谷区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "東京都",
+      "name": "福寿荘生活協同組合",
+      "headquarters": "大田区"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "全日本海員生活協同組合",
+      "headquarters": "横浜市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "富士フイルム生活協同組合",
+      "headquarters": "南足柄市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "IHI生活協同組合",
+      "headquarters": "横浜市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "東京工芸大学生活協同組合",
+      "headquarters": "厚木市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "生活協同組合ユーコープ",
+      "headquarters": "横浜市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "神奈川みなみ医療生活協同組合",
+      "headquarters": "横須賀市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "横浜市民共済生活協同組合",
+      "headquarters": "横浜市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "神奈川県総合生活協同組合",
+      "headquarters": "横浜市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "神奈川県労働者共済生活協同組合",
+      "headquarters": "横浜市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "医療生協かながわ生活協同組合",
+      "headquarters": "横浜市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "川崎医療生活協同組合",
+      "headquarters": "川崎市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "生活クラブ生活協同組合",
+      "headquarters": "横浜市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "神奈川県民共済生活協同組合",
+      "headquarters": "横浜市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "神奈川北央医療生活協同組合",
+      "headquarters": "相模原市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "生活協同組合パルシステム神奈川ゆめコープ",
+      "headquarters": "横浜市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "神奈川県勤労者医療生活協同組合",
+      "headquarters": "横浜市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "県民生活協同組合やまゆり",
+      "headquarters": "海老名市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "浦賀生活協同組合",
+      "headquarters": "横須賀市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "生活協同組合ナチュラルコープヨコハマ",
+      "headquarters": "横浜市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "福祉クラブ生活協同組合",
+      "headquarters": "横浜市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "神奈川県高齢者生活協同組合",
+      "headquarters": "横浜市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "横浜北生活クラブ生活協同組合",
+      "headquarters": "横浜市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "横浜みなみ生活クラブ生活協同組合",
+      "headquarters": "横浜市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "かわさき生活クラブ生活協同組合",
+      "headquarters": "川崎市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "湘南生活クラブ生活協同組合",
+      "headquarters": "茅ヶ崎市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "さがみ生活クラブ生活協同組合",
+      "headquarters": "相模原市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "ブリヂストン横浜生活協同組合",
+      "headquarters": "横浜市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "昭和電工川崎生活協同組合",
+      "headquarters": "川崎市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "横浜市立大学生活協同組合",
+      "headquarters": "横浜市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "横浜国立大学生活協同組合",
+      "headquarters": "横浜市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "パイロット平塚生活協同組合",
+      "headquarters": "平塚市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "麻布大学生活協同組合",
+      "headquarters": "相模原市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "神奈川大学生活協同組合",
+      "headquarters": "横浜市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "横浜消防生活協同組合",
+      "headquarters": "横浜市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "職業能力開発総合大学校生活協同組合",
+      "headquarters": "相模原市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "川崎市職員生活協同組合",
+      "headquarters": "川崎市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "宇宙科学研究本部生活協同組合",
+      "headquarters": "相模原市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "神奈川県立外語短期大学消費生活協同組合",
+      "headquarters": "横浜市"
+    },
+    {
+      "group": "関東・東京地方",
+      "prefecture_or_type": "神奈川県",
+      "name": "相模原市職員生活協同組合",
+      "headquarters": "相模原市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "新潟県",
+      "name": "新潟県学校生活協同組合",
+      "headquarters": "新潟市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "新潟県",
+      "name": "ニイガタ・生活協同組合",
+      "headquarters": "新潟市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "新潟県",
+      "name": "新潟県職員生活協同組合",
+      "headquarters": "新潟市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "新潟県",
+      "name": "新潟大学生活協同組合",
+      "headquarters": "新潟市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "新潟県",
+      "name": "上越市職員生活協同組合",
+      "headquarters": "上越市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "新潟県",
+      "name": "新潟市職員生活協同組合",
+      "headquarters": "新潟市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "新潟県",
+      "name": "新潟県立大学生活協同組合",
+      "headquarters": "新潟市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "新潟県",
+      "name": "新潟青陵大学・短期大学生活協同組合",
+      "headquarters": "新潟市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "新潟県",
+      "name": "下早川水道消費生活協同組合",
+      "headquarters": "糸魚川市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "新潟県",
+      "name": "越生活協同組合",
+      "headquarters": "糸魚川市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "新潟県",
+      "name": "新潟市火災共済生活協同組合",
+      "headquarters": "新潟市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "新潟県",
+      "name": "白根保健生活協同組合",
+      "headquarters": "新潟市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "新潟県",
+      "name": "新潟県総合生活協同組合",
+      "headquarters": "新潟市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "新潟県",
+      "name": "栄ガス消費生活協同組合",
+      "headquarters": "三条市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "新潟県",
+      "name": "新潟医療生活協同組合",
+      "headquarters": "新潟市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "新潟県",
+      "name": "新潟県民共済生活協同組合",
+      "headquarters": "新潟市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "新潟県",
+      "name": "生活協同組合コープデリにいがた",
+      "headquarters": "新潟市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "新潟県",
+      "name": "ながおか医療生活協同組合",
+      "headquarters": "長岡市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "新潟県",
+      "name": "ささえあいコミュニティ生活協同組合新潟",
+      "headquarters": "新潟市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "富山県",
+      "name": "北陸電力生活協同組合",
+      "headquarters": "富山市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "富山県",
+      "name": "荒木消費生活協同組合",
+      "headquarters": "南砺市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "富山県",
+      "name": "富山県労働者共済生活協同組合",
+      "headquarters": "富山市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "富山県",
+      "name": "富山医療生活協同組合",
+      "headquarters": "富山市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "富山県",
+      "name": "富山県勤労者住宅生活協同組合",
+      "headquarters": "富山市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "富山県",
+      "name": "とやま生活協同組合",
+      "headquarters": "富山市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "富山県",
+      "name": "富山県高齢者・障害者福祉生活協同組合",
+      "headquarters": "富山市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "富山県",
+      "name": "富山県民共済生活協同組合",
+      "headquarters": "富山市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "富山県",
+      "name": "不二越消費生活協同組合",
+      "headquarters": "富山市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "富山県",
+      "name": "高岡市役所職員消費生活協同組合",
+      "headquarters": "高岡市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "富山県",
+      "name": "富山県学校生活協同組合",
+      "headquarters": "富山市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "富山県",
+      "name": "富山大学生活協同組合",
+      "headquarters": "富山市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "富山県",
+      "name": "伏木港湾労働者生活協同組合",
+      "headquarters": "高岡市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "富山県",
+      "name": "ST生活協同組合",
+      "headquarters": "高岡市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "富山県",
+      "name": "富山県庁職員生活協同組合",
+      "headquarters": "富山市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "富山県",
+      "name": "富山県立大学生活協同組合",
+      "headquarters": "射水市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "富山県",
+      "name": "富山高等専門学校生活協同組合",
+      "headquarters": "射水市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "石川県",
+      "name": "生活協同組合コープやまなか",
+      "headquarters": "加賀市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "石川県",
+      "name": "金沢市民共済生活協同組合",
+      "headquarters": "金沢市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "石川県",
+      "name": "石川県勤労者共済生活協同組合",
+      "headquarters": "金沢市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "石川県",
+      "name": "石川県勤労者住宅生活協同組合",
+      "headquarters": "金沢市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "石川県",
+      "name": "生活協同組合コープいしかわ",
+      "headquarters": "白山市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "石川県",
+      "name": "金沢医療生活協同組合",
+      "headquarters": "金沢市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "石川県",
+      "name": "石川県民共済生活協同組合",
+      "headquarters": "金沢市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "石川県",
+      "name": "石川県学校生活協同組合",
+      "headquarters": "河北郡津幡町"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "石川県",
+      "name": "倉庫精練生活協同組合",
+      "headquarters": "金沢市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "石川県",
+      "name": "金沢大学生活協同組合",
+      "headquarters": "金沢市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "石川県",
+      "name": "石川工業高等専門学校生活協同組合",
+      "headquarters": "河北郡津幡町"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "福井県",
+      "name": "福井県労働者共済生活協同組合",
+      "headquarters": "福井市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "福井県",
+      "name": "菅浜生活協同組合",
+      "headquarters": "三方郡美浜町"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "福井県",
+      "name": "福井県医療生活協同組合",
+      "headquarters": "福井市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "福井県",
+      "name": "福井県民生活協同組合",
+      "headquarters": "福井市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "福井県",
+      "name": "福井県地域共済生活協同組合",
+      "headquarters": "福井市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "福井県",
+      "name": "福井県庁生活協同組合",
+      "headquarters": "福井市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "福井県",
+      "name": "福井県学校生活協同組合",
+      "headquarters": "福井市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "福井県",
+      "name": "福井大学生活協同組合",
+      "headquarters": "福井市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "福井県",
+      "name": "福井県民共済生活協同組合",
+      "headquarters": "福井市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "山梨県",
+      "name": "生活協同組合コープやまなし",
+      "headquarters": "甲府市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "山梨県",
+      "name": "生活クラブ生活協同組合",
+      "headquarters": "甲府市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "山梨県",
+      "name": "山梨県労働者共済生活協同組合",
+      "headquarters": "甲府市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "山梨県",
+      "name": "山梨大学生活協同組合",
+      "headquarters": "甲府市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "山梨県",
+      "name": "シチズンセイミツ生活協同組合",
+      "headquarters": "南都留郡富士河口湖町"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "山梨県",
+      "name": "都留文科大学生活協同組合",
+      "headquarters": "都留市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "山梨県",
+      "name": "富士吉田市職員生活協同組合",
+      "headquarters": "富士吉田市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "山梨県",
+      "name": "生活協同組合パルシステム山梨",
+      "headquarters": "甲府市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "長野県",
+      "name": "セイコーエプソン生活協同組合",
+      "headquarters": "諏訪市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "長野県",
+      "name": "東信医療生活協同組合",
+      "headquarters": "上田市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "長野県",
+      "name": "生活クラブ生活協同組合",
+      "headquarters": "岡谷市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "長野県",
+      "name": "上伊那医療生活協同組合",
+      "headquarters": "上伊那郡箕輪町"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "長野県",
+      "name": "更埴美容生活協同組合",
+      "headquarters": "長野市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "長野県",
+      "name": "長野県労働者共済生活協同組合",
+      "headquarters": "長野市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "長野県",
+      "name": "長野医療生活協同組合",
+      "headquarters": "長野市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "長野県",
+      "name": "生活協同組合コープながの",
+      "headquarters": "長野市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "長野県",
+      "name": "長野県労働者住宅生活協同組合",
+      "headquarters": "長野市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "長野県",
+      "name": "長野県民共済生活協同組合",
+      "headquarters": "長野市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "長野県",
+      "name": "長野県高齢者生活協同組合",
+      "headquarters": "長野市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "長野県",
+      "name": "上田日本無線生活協同組合",
+      "headquarters": "上田市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "長野県",
+      "name": "長野大学生活協同組合",
+      "headquarters": "上田市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "長野県",
+      "name": "長野県看護大学生活協同組合",
+      "headquarters": "駒ヶ根市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "長野県",
+      "name": "木曽病院生活協同組合",
+      "headquarters": "木曽郡木曽町"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "長野県",
+      "name": "信州大学生活協同組合",
+      "headquarters": "松本市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "長野県",
+      "name": "松本大学生活協同組合",
+      "headquarters": "松本市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "長野県",
+      "name": "長野市役所生活協同組合",
+      "headquarters": "長野市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "長野県",
+      "name": "長野県庁生活協同組合",
+      "headquarters": "長野市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "長野県",
+      "name": "双葉生活協同組合",
+      "headquarters": "長野市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "長野県",
+      "name": "長野県高等学校生活協同組合",
+      "headquarters": "長野市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "長野県",
+      "name": "長野日本無線生活協同組合",
+      "headquarters": "長野市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "長野県",
+      "name": "長野県警察生活協同組合",
+      "headquarters": "長野市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "長野県",
+      "name": "長野県短期大学生活協同組合",
+      "headquarters": "長野市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "長野県",
+      "name": "長野教育生活協同組合",
+      "headquarters": "長野市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "長野県",
+      "name": "清泉女学院生活協同組合",
+      "headquarters": "長野市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "岐阜県",
+      "name": "西濃医療生活協同組合",
+      "headquarters": "大垣市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "岐阜県",
+      "name": "岐阜市立女子短期大学生活協同組合",
+      "headquarters": "岐阜市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "岐阜県",
+      "name": "日本耐酸壜生活協同組合",
+      "headquarters": "大垣市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "岐阜県",
+      "name": "岐阜大学消費生活協同組合",
+      "headquarters": "岐阜市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "岐阜県",
+      "name": "生活協同組合コープぎふ",
+      "headquarters": "各務原市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "岐阜県",
+      "name": "岐阜県立多治見病院消費生活協同組合",
+      "headquarters": "多治見市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "岐阜県",
+      "name": "三菱電機中津川生活協同組合",
+      "headquarters": "中津川市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "岐阜県",
+      "name": "岐阜県労働者共済生活協同組合",
+      "headquarters": "岐阜市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "岐阜県",
+      "name": "岐阜県民共済生活協同組合",
+      "headquarters": "岐阜市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "岐阜県",
+      "name": "KYB岐阜生活協同組合",
+      "headquarters": "可児市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "岐阜県",
+      "name": "小里消費生活協同組合",
+      "headquarters": "瑞浪市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "岐阜県",
+      "name": "養老水道消費生活協同組合",
+      "headquarters": "養老郡養老町"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "岐阜県",
+      "name": "岐阜県生活協同組合",
+      "headquarters": "岐阜市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "岐阜県",
+      "name": "岐阜県学校生活協同組合",
+      "headquarters": "岐阜市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "スズキ生活協同組合",
+      "headquarters": "浜松市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "静岡県民共済生活協同組合",
+      "headquarters": "静岡市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "伊豆山仲道生活協同組合",
+      "headquarters": "熱海市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "伊豆山浜生活協同組合",
+      "headquarters": "熱海市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "渚浴場生活協同組合",
+      "headquarters": "熱海市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "伊豆山岸谷生活協同組合",
+      "headquarters": "熱海市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "日本軽金属株式会社蒲原工場消費生活協同組合",
+      "headquarters": "静岡市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "静岡大学生活協同組合",
+      "headquarters": "静岡市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "賀茂地区学校生活協同組合",
+      "headquarters": "下田市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "東豆地区学校生活協同組合",
+      "headquarters": "伊東市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "田方地区学校生活協同組合",
+      "headquarters": "伊豆の国市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "三島地区学校生活協同組合",
+      "headquarters": "三島市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "富士地区学校生活協同組合",
+      "headquarters": "富士市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "静岡県駿沼学校生活協同組合",
+      "headquarters": "沼津市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "庵原地区学校生活協同組合",
+      "headquarters": "庵原郡富士川町"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "清水地区学校生活協同組合",
+      "headquarters": "静岡市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "静岡市地区学校生活協同組合",
+      "headquarters": "静岡市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "志太地区学校生活協同組合",
+      "headquarters": "藤枝市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "小笠地区学校生活協同組合",
+      "headquarters": "掛川市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "磐田・周智地区学校生活協同組合",
+      "headquarters": "磐田市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "浜松市学校生活協同組合",
+      "headquarters": "浜松市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "浜名地区学校生活協同組合",
+      "headquarters": "浜松市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "引佐郡学校生活協同組合",
+      "headquarters": "浜松市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "生活クラブ生活協同組合",
+      "headquarters": "沼津市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "静岡県教職員生活協同組合",
+      "headquarters": "静岡市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "静岡県労働者共済生活協同組合",
+      "headquarters": "静岡市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "浜北医療生活協同組合",
+      "headquarters": "浜松市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "静岡県",
+      "name": "生活協同組合パルシステム静岡",
+      "headquarters": "駿東郡長泉町"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "中部電力生活協同組合",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "トヨタ生活協同組合",
+      "headquarters": "豊田市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "トヨタ車体生活協同組合",
+      "headquarters": "刈谷市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "一宮生活協同組合",
+      "headquarters": "一宮市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "生活協同組合コープあいち",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "かりや愛知中央生活協同組合",
+      "headquarters": "刈谷市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "あいち生活協同組合",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "生活クラブ生活協同組合",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "愛知県高齢者生活協同組合",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "西三河生活協同組合",
+      "headquarters": "西尾市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "高蔵寺ニュータウン生活協同組合",
+      "headquarters": "春日井市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "生活協同組合インターカレッジコープ愛知",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "みなと医療生活協同組合",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "南医療生活協同組合",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "北医療生活協同組合",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "愛知県労働者住宅生活協同組合",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "名古屋市民火災共済生活協同組合",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "愛知県労働者共済生活協同組合",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "愛知県共済生活協同組合",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "県民共済愛知県生活協同組合",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "愛知県学校生活協同組合",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "オークマ生活協同組合",
+      "headquarters": "丹羽郡大口町"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "愛知県警察職員生活協同組合",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "中央発條生活協同組合",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "アイアイ生活協同組合",
+      "headquarters": "稲沢市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "住友ゴム工業名古屋生活協同組合",
+      "headquarters": "豊田市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "愛知県職員生活協同組合",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "こじま生活協同組合",
+      "headquarters": "豊田市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "エイデングループ生活協同組合",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "愛知県勤務医師生活協同組合",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "名古屋大学消費生活協同組合",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "日本福祉大学生活協同組合",
+      "headquarters": "知多郡美浜町"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "名古屋工業大学生活協同組合",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "愛知県立大学生活協同組合",
+      "headquarters": "長久手市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "愛知大学名古屋生活協同組合",
+      "headquarters": "みよし市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "愛知大学豊橋消費生活協同組合",
+      "headquarters": "豊橋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "名古屋市立大学生活協同組合",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "愛知教育大学生活協同組合",
+      "headquarters": "刈谷市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "同朋学園生活協同組合",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "中京大学生活協同組合",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "名城大学生活協同組合",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "愛知県立看護大学生活協同組合",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "自然科学研究機構岡崎生活協同組合",
+      "headquarters": "岡崎市"
+    },
+    {
+      "group": "中部地方",
+      "prefecture_or_type": "愛知県",
+      "name": "金城学院大学生活協同組合",
+      "headquarters": "名古屋市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "三重県",
+      "name": "三重県学校生活協同組合",
+      "headquarters": "津市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "三重県",
+      "name": "西大手消費生活協同組合",
+      "headquarters": "伊賀市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "三重県",
+      "name": "二見町今一色生活協同組合",
+      "headquarters": "伊勢市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "三重県",
+      "name": "津医療生活協同組合",
+      "headquarters": "津市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "三重県",
+      "name": "三重県労働者共済生活協同組合",
+      "headquarters": "津市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "三重県",
+      "name": "桑名医療生活協同組合",
+      "headquarters": "桑名市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "三重県",
+      "name": "三重県労働者住宅生活協同組合",
+      "headquarters": "津市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "三重県",
+      "name": "生活協同組合コープみえ",
+      "headquarters": "松阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "三重県",
+      "name": "伊勢度会医療生活協同組合",
+      "headquarters": "伊勢市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "三重県",
+      "name": "四日市医療生活協同組合",
+      "headquarters": "四日市市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "三重県",
+      "name": "むろ医療生活協同組合",
+      "headquarters": "尾鷲市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "三重県",
+      "name": "三重県健康福祉生活協同組合",
+      "headquarters": "松阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "三重県",
+      "name": "三重県民共済生活協同組合",
+      "headquarters": "津市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "三重県",
+      "name": "三重大学生活協同組合",
+      "headquarters": "津市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "三重県",
+      "name": "三重短期大学生活協同組合",
+      "headquarters": "津市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "三重県",
+      "name": "三重県立看護大学生活協同組合",
+      "headquarters": "津市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "滋賀県",
+      "name": "滋賀県勤労者共済生活協同組合",
+      "headquarters": "大津市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "滋賀県",
+      "name": "滋賀県勤労者住宅生活協同組合",
+      "headquarters": "大津市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "滋賀県",
+      "name": "生活協同組合コープしが",
+      "headquarters": "野洲市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "滋賀県",
+      "name": "滋賀県民共済生活協同組合",
+      "headquarters": "守山市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "滋賀県",
+      "name": "しが健康医療生活協同組合",
+      "headquarters": "栗東市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "滋賀県",
+      "name": "滋賀県高齢者生活協同組合",
+      "headquarters": "栗東市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "滋賀県",
+      "name": "滋賀大学彦根地区生活協同組合",
+      "headquarters": "彦根市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "滋賀県",
+      "name": "滋賀大学大津地区生活協同組合",
+      "headquarters": "大津市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "滋賀県",
+      "name": "滋賀県立大学生活協同組合",
+      "headquarters": "彦根市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "滋賀県",
+      "name": "ブリヂストン彦根生活協同組合",
+      "headquarters": "彦根市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "滋賀県",
+      "name": "滋賀県職員生活協同組合",
+      "headquarters": "大津市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "滋賀県",
+      "name": "滋賀医科大学生活協同組合",
+      "headquarters": "大津市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "京都府",
+      "name": "立命館生活協同組合",
+      "headquarters": "京都市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "京都府",
+      "name": "龍谷大学生活協同組合",
+      "headquarters": "京都市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "京都府",
+      "name": "京都医療生活協同組合",
+      "headquarters": "京都市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "京都府",
+      "name": "芦生生活協同組合",
+      "headquarters": "南丹市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "京都府",
+      "name": "全京都勤労者共済生活協同組合",
+      "headquarters": "京都市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "京都府",
+      "name": "京都生活協同組合",
+      "headquarters": "京都市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "京都府",
+      "name": "京都労福協旅行生活協同組合",
+      "headquarters": "京都市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "京都府",
+      "name": "京都府民共済生活協同組合",
+      "headquarters": "京都市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "京都府",
+      "name": "乙訓医療生活協同組合",
+      "headquarters": "向日市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "京都府",
+      "name": "生活協同組合エル・コープ",
+      "headquarters": "京都市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "京都府",
+      "name": "やましろ健康医療生活協同組合",
+      "headquarters": "宇治市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "京都府",
+      "name": "京都ウェルネス生活協同組合",
+      "headquarters": "京都市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "京都府",
+      "name": "京都大学生活協同組合",
+      "headquarters": "京都市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "京都府",
+      "name": "同志社生活協同組合",
+      "headquarters": "京都市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "京都府",
+      "name": "京都府立医科大学府立大学生活協同組合",
+      "headquarters": "京都市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "京都府",
+      "name": "京都教育大学生活協同組合",
+      "headquarters": "京都市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "京都府",
+      "name": "京都工芸繊維大学生活協同組合",
+      "headquarters": "京都市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "京都府",
+      "name": "京都府庁生活協同組合",
+      "headquarters": "京都市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "京都府",
+      "name": "京都橘学園生活協同組合",
+      "headquarters": "京都市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "京都府",
+      "name": "池坊学園生活協同組合",
+      "headquarters": "京都市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "京都府",
+      "name": "京都経済短期大学生活協同組合",
+      "headquarters": "京都市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "京都府",
+      "name": "生活協同組合コープ自然派京都",
+      "headquarters": "久世郡久御山町"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "日本触媒生活協同組合",
+      "headquarters": "吹田市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "関西電力生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "ダイハツ生活協同組合",
+      "headquarters": "池田市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "平安女学院生活協同組合",
+      "headquarters": "高槻市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "近畿大学生活協同組合",
+      "headquarters": "東大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "泉南生活協同組合",
+      "headquarters": "泉南市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "北摂・高槻生活協同組合",
+      "headquarters": "高槻市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "生活協同組合エスコープ大阪",
+      "headquarters": "堺市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "大阪いずみ市民生活協同組合",
+      "headquarters": "堺市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "生活協同組合おおさかパルコープ",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "大阪よどがわ市民生活協同組合",
+      "headquarters": "吹田市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "大阪韓国人生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "生活協同組合コープ自然派ピュア大阪",
+      "headquarters": "摂津市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "大阪高齢者生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "グリーンコープ生活協同組合おおさか",
+      "headquarters": "吹田市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "矢田生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "部落解放浪速地区消費生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "部落解放生江地区消費生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "部落解放蛇草地区消費生活協同組合",
+      "headquarters": "東大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "部落解放南方地区消費生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "北大阪医療生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "よどがわ保健生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "なにわ保健生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "堺医療生活協同組合",
+      "headquarters": "堺市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "福島医療生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "医療生協かわち野生活協同組合",
+      "headquarters": "東大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "生活協同組合ヘルスコープおおさか",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "北野田医療生活協同組合",
+      "headquarters": "堺市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "羽曳野医療生活協同組合",
+      "headquarters": "羽曳野市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "西成医療生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "大正医療生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "豊中医療生活協同組合",
+      "headquarters": "豊中市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "大東四條畷保健生活協同組合",
+      "headquarters": "大東市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "港医療生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "南大阪医療生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "けいはん医療生活協同組合",
+      "headquarters": "寝屋川市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "阪南医療生活協同組合",
+      "headquarters": "岸和田市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "全大阪労働者共済生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "大阪市民共済生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "大阪府民共済生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "大阪ゆとり生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "住友金属生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "住友化学大阪生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "大阪学校生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "近畿管区警察学校消費生活協同組合",
+      "headquarters": "堺市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "大阪府職員生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "大阪法務局生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "関西大学生活協同組合",
+      "headquarters": "吹田市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "大阪大学生活協同組合",
+      "headquarters": "豊中市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "大阪公立大学生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "大阪経済大学生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "桃山学院大学生活協同組合",
+      "headquarters": "和泉市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "大阪工業大学消費生活協同組合",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "大阪外国語大学生活協同組合",
+      "headquarters": "箕面市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "阪南大学生活協同組合",
+      "headquarters": "松原市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "大阪電気通信大学生活協同組合",
+      "headquarters": "寝屋川市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "大阪教育大学生活協同組合",
+      "headquarters": "柏原市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "大阪千代田短期大学生活協同組合",
+      "headquarters": "河内長野市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "大学生活協同組合大阪インターカレッジコープ",
+      "headquarters": "大阪市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "大阪府",
+      "name": "生活クラブ生活協同組合大阪",
+      "headquarters": "茨木市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "生活協同組合コープこうべ",
+      "headquarters": "神戸市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "佐曽利消費生活協同組合",
+      "headquarters": "宝塚市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "生活協同組合都市生活",
+      "headquarters": "西宮市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "生活協同組合兵庫いきいきコープ",
+      "headquarters": "西宮市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "生活協同組合コープ自然派兵庫",
+      "headquarters": "西宮市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "グリーンコープ生活協同組合ひょうご",
+      "headquarters": "伊丹市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "西宮市職員生活協同組合",
+      "headquarters": "西宮市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "兵庫県学校生活協同組合",
+      "headquarters": "神戸市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "尼崎信用金庫職員生活協同組合",
+      "headquarters": "尼崎市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "神戸大学生活協同組合",
+      "headquarters": "神戸市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "関西学院大学生活協同組合",
+      "headquarters": "西宮市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "兵庫県立大学東部生活協同組合",
+      "headquarters": "神戸市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "神戸市外国語大学消費生活協同組合",
+      "headquarters": "神戸市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "甲南大学生活協同組合",
+      "headquarters": "神戸市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "兵庫県立大学西部生活協同組合",
+      "headquarters": "姫路市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "神戸薬科大学生活協同組合",
+      "headquarters": "神戸市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "神戸親和大学生活協同組合",
+      "headquarters": "神戸市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "大手前女子大学生活協同組合",
+      "headquarters": "西宮市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "園田学園女子大学生活協同組合",
+      "headquarters": "尼崎市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "甲南女子大学生活協同組合",
+      "headquarters": "神戸市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "神戸医療生活協同組合",
+      "headquarters": "神戸市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "尼崎医療生活協同組合",
+      "headquarters": "尼崎市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "阪神医療生活協同組合",
+      "headquarters": "尼崎市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "兵庫医療生活協同組合",
+      "headquarters": "神戸市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "宝塚医療生活協同組合",
+      "headquarters": "宝塚市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "姫路医療生活協同組合",
+      "headquarters": "姫路市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "ろっこう医療生活協同組合",
+      "headquarters": "神戸市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "たじま医療生活協同組合",
+      "headquarters": "豊岡市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "ひまわり医療生活協同組合",
+      "headquarters": "尼崎市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "神戸市民生活協同組合",
+      "headquarters": "神戸市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "尼崎市民共済生活協同組合",
+      "headquarters": "尼崎市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "姫路市民共済生活協同組合",
+      "headquarters": "姫路市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "西宮市民共済生活協同組合",
+      "headquarters": "西宮市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "兵庫労働共済生活協同組合",
+      "headquarters": "神戸市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "兵庫県民共済生活協同組合",
+      "headquarters": "神戸市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "兵庫ゆとり生活協同組合",
+      "headquarters": "尼崎市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "兵庫県労働者住宅生活協同組合",
+      "headquarters": "神戸市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "兵庫震災住宅復興生活協同組合",
+      "headquarters": "神戸市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "兵庫県",
+      "name": "兵庫県高齢者生活協同組合",
+      "headquarters": "神戸市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "奈良県",
+      "name": "市民生活協同組合ならコープ",
+      "headquarters": "奈良市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "奈良県",
+      "name": "生活協同組合コープ自然派奈良",
+      "headquarters": "橿原市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "奈良県",
+      "name": "奈良県労働者共済生活協同組合",
+      "headquarters": "奈良市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "奈良県",
+      "name": "奈良県民共済生活協同組合",
+      "headquarters": "奈良市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "奈良県",
+      "name": "奈良女子大学生活協同組合",
+      "headquarters": "奈良市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "奈良県",
+      "name": "奈良教育大学生活協同組合",
+      "headquarters": "奈良市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "奈良県",
+      "name": "奈良県立大学生活協同組合",
+      "headquarters": "奈良市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "奈良県",
+      "name": "奈良工業高等専門学校生活協同組合",
+      "headquarters": "大和郡山市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "奈良県",
+      "name": "大阪樟蔭女子大学関屋キャンパス生活協同組合",
+      "headquarters": "香芝市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "和歌山県",
+      "name": "メルスィー生活協同組合",
+      "headquarters": "和歌山市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "和歌山県",
+      "name": "和歌山県学校生活協同組合",
+      "headquarters": "和歌山市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "和歌山県",
+      "name": "和歌山大学消費生活協同組合",
+      "headquarters": "和歌山市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "和歌山県",
+      "name": "和歌山中央医療生活協同組合",
+      "headquarters": "和歌山市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "和歌山県",
+      "name": "和歌山県労働者共済生活協同組合",
+      "headquarters": "和歌山市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "和歌山県",
+      "name": "在日韓国人和歌山県消費生活協同組合",
+      "headquarters": "和歌山市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "和歌山県",
+      "name": "和歌山生活協同組合",
+      "headquarters": "和歌山市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "和歌山県",
+      "name": "わかやま市民生活協同組合",
+      "headquarters": "和歌山市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "和歌山県",
+      "name": "紀の国医療生活協同組合",
+      "headquarters": "和歌山市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "和歌山県",
+      "name": "和歌山県立医科大学生活協同組合",
+      "headquarters": "和歌山市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "和歌山県",
+      "name": "高野山大学生活協同組合",
+      "headquarters": "伊都郡高野町"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "和歌山県",
+      "name": "和歌山高齢者生活協同組合",
+      "headquarters": "和歌山市"
+    },
+    {
+      "group": "近畿地方",
+      "prefecture_or_type": "和歌山県",
+      "name": "ふるさとコープ生活協同組合",
+      "headquarters": "紀の川市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "鳥取県",
+      "name": "鳥取県生活協同組合",
+      "headquarters": "鳥取市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "鳥取県",
+      "name": "鳥取県共済生活協同組合",
+      "headquarters": "鳥取市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "鳥取県",
+      "name": "鳥取医療生活協同組合",
+      "headquarters": "鳥取市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "鳥取県",
+      "name": "米子医療生活協同組合",
+      "headquarters": "米子市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "鳥取県",
+      "name": "グリーンコープ生活協同組合とっとり",
+      "headquarters": "米子市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "鳥取県",
+      "name": "鳥取大学生活協同組合",
+      "headquarters": "鳥取市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "鳥取県",
+      "name": "松崎消費生活協同組合",
+      "headquarters": "東伯郡湯梨浜町"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "島根県",
+      "name": "松江保健生活協同組合",
+      "headquarters": "松江市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "島根県",
+      "name": "グリーンコープ生活協同組合",
+      "headquarters": "出雲市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "島根県",
+      "name": "島根県労働者共済生活協同組合",
+      "headquarters": "松江市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "島根県",
+      "name": "飯美生活協同組合",
+      "headquarters": "隠岐郡隠岐の島町"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "島根県",
+      "name": "ひかわ医療生活協同組合",
+      "headquarters": "出雲市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "島根県",
+      "name": "卯敷消費生活協同組合",
+      "headquarters": "隠岐郡隠岐の島町"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "島根県",
+      "name": "比津が丘消費生活協同組合",
+      "headquarters": "松江市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "島根県",
+      "name": "島根県民共済生活協同組合",
+      "headquarters": "松江市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "島根県",
+      "name": "島後消費生活協同組合",
+      "headquarters": "隠岐郡隠岐の島町"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "島根県",
+      "name": "生活協同組合しまね",
+      "headquarters": "松江市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "島根県",
+      "name": "老人保健生活協同組合",
+      "headquarters": "松江市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "島根県",
+      "name": "島根県学校生活協同組合",
+      "headquarters": "松江市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "島根県",
+      "name": "松江赤十字病院院友会消費生活協同組合",
+      "headquarters": "松江市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "島根県",
+      "name": "島根大学生活協同組合",
+      "headquarters": "松江市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "岡山県",
+      "name": "本花滝生活協同組合",
+      "headquarters": "井原市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "岡山県",
+      "name": "岡山医療生活協同組合",
+      "headquarters": "岡山市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "岡山県",
+      "name": "倉敷医療生活協同組合",
+      "headquarters": "倉敷市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "岡山県",
+      "name": "生活協同組合おかやまコープ",
+      "headquarters": "岡山市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "岡山県",
+      "name": "岡山県労働者共済生活協同組合",
+      "headquarters": "岡山市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "岡山県",
+      "name": "津山医療生活協同組合",
+      "headquarters": "津山市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "岡山県",
+      "name": "三井造船生活協同組合",
+      "headquarters": "玉野市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "岡山県",
+      "name": "岡山県民共済生活協同組合",
+      "headquarters": "岡山市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "岡山県",
+      "name": "岡山県学校生活協同組合",
+      "headquarters": "岡山市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "岡山県",
+      "name": "岡山県高齢者福祉生活協同組合",
+      "headquarters": "岡山市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "岡山県",
+      "name": "セイレイ工業岡山地区生活協同組合",
+      "headquarters": "岡山市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "岡山県",
+      "name": "生活協同組合JFEコープ",
+      "headquarters": "倉敷市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "岡山県",
+      "name": "岡山大学生活協同組合",
+      "headquarters": "岡山市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "岡山県",
+      "name": "グリーンコープ生活協同組合おかやま",
+      "headquarters": "岡山市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "広島県",
+      "name": "中国電力生活協同組合",
+      "headquarters": "広島市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "広島県",
+      "name": "竹原生活協同組合",
+      "headquarters": "竹原市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "広島県",
+      "name": "生活協同組合ひろしま",
+      "headquarters": "広島市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "広島県",
+      "name": "広島中央保健生活協同組合",
+      "headquarters": "広島市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "広島県",
+      "name": "広島医療生活協同組合",
+      "headquarters": "広島市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "広島県",
+      "name": "福山医療生活協同組合",
+      "headquarters": "福山市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "広島県",
+      "name": "広島県住宅生活協同組合",
+      "headquarters": "広島市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "広島県",
+      "name": "広島県労働者共済生活協同組合",
+      "headquarters": "広島市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "広島県",
+      "name": "広島県民共済生活協同組合",
+      "headquarters": "広島市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "広島県",
+      "name": "グリーンコープ生活協同組合ひろしま",
+      "headquarters": "広島市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "広島県",
+      "name": "三共生活協同組合",
+      "headquarters": "世羅郡世羅町"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "広島県",
+      "name": "広島県シルバー福祉生活協同組合",
+      "headquarters": "福山市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "広島県",
+      "name": "ひろしま高齢者生活協同組合",
+      "headquarters": "広島市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "広島県",
+      "name": "広島県学校生活協同組合",
+      "headquarters": "広島市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "広島県",
+      "name": "日立造船因島生活協同組合",
+      "headquarters": "尾道市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "広島県",
+      "name": "広島県高等学校生活協同組合",
+      "headquarters": "広島市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "広島県",
+      "name": "広島管区警察学校消費生活協同組合",
+      "headquarters": "広島市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "広島県",
+      "name": "広島大学消費生活協同組合",
+      "headquarters": "東広島市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "広島県",
+      "name": "広島修道大学生活協同組合",
+      "headquarters": "広島市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "広島県",
+      "name": "福山市立大学生活協同組合",
+      "headquarters": "福山市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "山口県",
+      "name": "生活協同組合コープやまぐち",
+      "headquarters": "山口市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "山口県",
+      "name": "グリーンコープやまぐち生活協同組合",
+      "headquarters": "宇部市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "山口県",
+      "name": "岩国市消費生活協同組合",
+      "headquarters": "岩国市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "山口県",
+      "name": "山口県共済生活協同組合",
+      "headquarters": "山口市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "山口県",
+      "name": "山口県民共済生活協同組合",
+      "headquarters": "周南市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "山口県",
+      "name": "医療生活協同組合健文会",
+      "headquarters": "宇部市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "山口県",
+      "name": "福祉生活協同組合さんコープ",
+      "headquarters": "山口市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "山口県",
+      "name": "東ソー生活協同組合",
+      "headquarters": "周南市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "山口県",
+      "name": "山口県学校生活協同組合",
+      "headquarters": "山口市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "山口県",
+      "name": "山口大学生活協同組合",
+      "headquarters": "山口市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "山口県",
+      "name": "下関市立大学生活協同組合",
+      "headquarters": "下関市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "山口県",
+      "name": "梅光学院大学生活協同組合",
+      "headquarters": "下関市"
+    },
+    {
+      "group": "中国地方",
+      "prefecture_or_type": "山口県",
+      "name": "水産大学校生活協同組合",
+      "headquarters": "下関市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "徳島県",
+      "name": "徳島県職員生活協同組合",
+      "headquarters": "徳島市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "徳島県",
+      "name": "徳島大学生活協同組合",
+      "headquarters": "徳島市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "徳島県",
+      "name": "生活協同組合とくしま生協",
+      "headquarters": "板野郡北島町"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "徳島県",
+      "name": "徳島県共済生活協同組合",
+      "headquarters": "徳島市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "徳島県",
+      "name": "生活協同組合徳島県勤労者住宅協会",
+      "headquarters": "徳島市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "徳島県",
+      "name": "徳島健康生活協同組合",
+      "headquarters": "徳島市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "徳島県",
+      "name": "生活協同組合コープ自然派しこく",
+      "headquarters": "徳島市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "徳島県",
+      "name": "徳島県学校生活協同組合",
+      "headquarters": "徳島市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "香川県",
+      "name": "四国電力生活協同組合",
+      "headquarters": "高松市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "香川県",
+      "name": "生活協同組合コープかがわ",
+      "headquarters": "高松市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "香川県",
+      "name": "香川医療生活協同組合",
+      "headquarters": "高松市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "香川県",
+      "name": "香川県労働者共済生活協同組合",
+      "headquarters": "高松市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "香川県",
+      "name": "香川県高齢者生活協同組合",
+      "headquarters": "高松市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "香川県",
+      "name": "香川県庁消費生活協同組合",
+      "headquarters": "高松市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "香川県",
+      "name": "香川県学校生活協同組合",
+      "headquarters": "高松市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "香川県",
+      "name": "香川県高等学校消費生活協同組合",
+      "headquarters": "高松市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "香川県",
+      "name": "香川県教職員消費生活協同組合",
+      "headquarters": "高松市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "香川県",
+      "name": "高松市職員消費生活協同組合",
+      "headquarters": "高松市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "香川県",
+      "name": "香川大学生活協同組合",
+      "headquarters": "高松市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "香川県",
+      "name": "三菱マテリアル直島生活協同組合",
+      "headquarters": "香川郡直島町"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "香川県",
+      "name": "四国学院大学生活協同組合",
+      "headquarters": "善通寺市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "香川県",
+      "name": "生活協同組合福祉生協かがわ",
+      "headquarters": "仲多度郡まんのう町"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "新居浜医療生活協同組合",
+      "headquarters": "新居浜市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "愛媛医療生活協同組合",
+      "headquarters": "松山市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "生活協同組合コープえひめ",
+      "headquarters": "松山市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "松山医療生活協同組合",
+      "headquarters": "松山市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "愛媛県共済生活協同組合",
+      "headquarters": "松山市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "生活協同組合愛媛県労働者住宅協会",
+      "headquarters": "松山市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "愛媛有機農産生活協同組合",
+      "headquarters": "松山市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "大王製紙消費生活協同組合",
+      "headquarters": "四国中央市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "宇摩学校生活協同組合",
+      "headquarters": "四国中央市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "新居浜市学校生活協同組合",
+      "headquarters": "新居浜市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "西条学校生活協同組合",
+      "headquarters": "西条市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "周桑学校生活協同組合",
+      "headquarters": "西条市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "今治越智学校生活協同組合",
+      "headquarters": "今治市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "創精会消費生活協同組合",
+      "headquarters": "松山市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "愛媛県職員消費生活協同組合",
+      "headquarters": "松山市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "松山市職員生活協同組合",
+      "headquarters": "松山市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "井関農機消費生活協同組合",
+      "headquarters": "松山市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "愛媛新聞消費生活協同組合",
+      "headquarters": "松山市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "松山大学生活協同組合",
+      "headquarters": "松山市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "愛媛大学生活協同組合",
+      "headquarters": "松山市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "松山東雲女子大学・松山東雲短期大学生活協同組合",
+      "headquarters": "松山市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "愛媛県高等学校生活協同組合",
+      "headquarters": "松山市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "松山市学校生活協同組合",
+      "headquarters": "松山市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "学校生活協同組合節約会",
+      "headquarters": "松山市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "伊予学校生活協同組合",
+      "headquarters": "伊予市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "上浮穴郡学校生活協同組合",
+      "headquarters": "上浮穴郡久万高原町"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "八幡浜市役所職員生活協同組合",
+      "headquarters": "八幡浜市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "喜多学校生活協同組合",
+      "headquarters": "大洲市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "八西学校生活協同組合",
+      "headquarters": "八幡浜市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "西予市学校生活協同組合",
+      "headquarters": "西予市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "市立宇和島病院生活協同組合",
+      "headquarters": "宇和島市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "宇和島市学校生活協同組合",
+      "headquarters": "宇和島市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "北宇和郡学校生活協同組合",
+      "headquarters": "宇和島市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "愛媛県",
+      "name": "南宇和郡学校生活協同組合",
+      "headquarters": "南宇和郡愛南町"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "高知県",
+      "name": "高知県労働者住宅生活協同組合",
+      "headquarters": "高知市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "高知県",
+      "name": "高知県労働者共済生活協同組合",
+      "headquarters": "高知市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "高知県",
+      "name": "高知医療生活協同組合",
+      "headquarters": "高知市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "高知県",
+      "name": "土佐清水地区生活協同組合",
+      "headquarters": "土佐清水市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "高知県",
+      "name": "高知県高齢者福祉生活協同組合",
+      "headquarters": "高知市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "高知県",
+      "name": "高知県庁消費生活協同組合",
+      "headquarters": "高知市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "高知県",
+      "name": "高知大学生活協同組合",
+      "headquarters": "高知市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "高知県",
+      "name": "高知県公立大学生活協同組合",
+      "headquarters": "高知市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "高知県",
+      "name": "四国銀行生活協同組合",
+      "headquarters": "高知市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "高知県",
+      "name": "高知県学校生活協同組合",
+      "headquarters": "高知市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "高知県",
+      "name": "高知新聞消費生活協同組合",
+      "headquarters": "高知市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "高知県",
+      "name": "セイレイ高知消費生活協同組合",
+      "headquarters": "南国市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "高知県",
+      "name": "ミロク消費生活協同組合",
+      "headquarters": "南国市"
+    },
+    {
+      "group": "四国地方",
+      "prefecture_or_type": "高知県",
+      "name": "大坂生活協同組合",
+      "headquarters": "高岡郡中土佐町"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "福岡県",
+      "name": "九州電力生活協同組合",
+      "headquarters": "福岡市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "福岡県",
+      "name": "ブリヂストン久留米生活協同組合",
+      "headquarters": "久留米市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "福岡県",
+      "name": "西南女学院大学生活協同組合",
+      "headquarters": "北九州市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "福岡県",
+      "name": "九州国際大学生活協同組合",
+      "headquarters": "北九州市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "福岡県",
+      "name": "福岡教育大学生活協同組合",
+      "headquarters": "宗像市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "福岡県",
+      "name": "福岡県立大学生活協同組合",
+      "headquarters": "田川市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "福岡県",
+      "name": "福岡県学校生活協同組合",
+      "headquarters": "福岡市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "福岡県",
+      "name": "ヤンマー建機消費生活協同組合",
+      "headquarters": "筑後市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "福岡県",
+      "name": "自治労福岡県本部生活協同組合",
+      "headquarters": "福岡市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "福岡県",
+      "name": "福岡女子大学生活協同組合",
+      "headquarters": "福岡市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "福岡県",
+      "name": "九州工業大学生活協同組合",
+      "headquarters": "北九州市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "福岡県",
+      "name": "北九州市立大学生活協同組合",
+      "headquarters": "北九州市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "福岡県",
+      "name": "西南学院大学消費生活協同組合",
+      "headquarters": "福岡市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "福岡県",
+      "name": "九州大学生活協同組合",
+      "headquarters": "福岡市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "福岡県",
+      "name": "生活協同組合福岡インターカレッジコープ",
+      "headquarters": "福岡市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "福岡県",
+      "name": "グリーンコープ生活協同組合ふくおか",
+      "headquarters": "福岡市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "福岡県",
+      "name": "福岡県高齢者福祉生活協同組合",
+      "headquarters": "福岡市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "福岡県",
+      "name": "くるめ医療生活協同組合",
+      "headquarters": "久留米市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "福岡県",
+      "name": "福岡県民共済生活協同組合",
+      "headquarters": "福岡市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "福岡県",
+      "name": "エフコープ生活協同組合",
+      "headquarters": "糟屋郡篠栗町"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "福岡県",
+      "name": "筑後保健生活協同組合",
+      "headquarters": "大牟田市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "福岡県",
+      "name": "大牟田地区医療生活協同組合",
+      "headquarters": "大牟田市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "福岡県",
+      "name": "北九州市民共済生活協同組合",
+      "headquarters": "北九州市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "福岡県",
+      "name": "福岡県労働者共済生活協同組合",
+      "headquarters": "福岡市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "福岡県",
+      "name": "福岡県民火災共済生活協同組合",
+      "headquarters": "福岡市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "佐賀県",
+      "name": "佐賀県連合婦人会生活協同組合",
+      "headquarters": "佐賀市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "佐賀県",
+      "name": "佐賀県労働者共済生活協同組合",
+      "headquarters": "佐賀市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "佐賀県",
+      "name": "佐賀県労働者住宅生活協同組合",
+      "headquarters": "佐賀市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "佐賀県",
+      "name": "佐賀県医療生活協同組合",
+      "headquarters": "佐賀市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "佐賀県",
+      "name": "グリーンコープ生活協同組合さが",
+      "headquarters": "佐賀市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "佐賀県",
+      "name": "コープさが生活協同組合",
+      "headquarters": "佐賀市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "佐賀県",
+      "name": "佐賀県学校生活協同組合",
+      "headquarters": "佐賀市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "佐賀県",
+      "name": "佐賀大学生活協同組合",
+      "headquarters": "佐賀市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "長崎県",
+      "name": "長崎県労働者生活協同組合",
+      "headquarters": "長崎市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "長崎県",
+      "name": "生活協同組合ララコープ",
+      "headquarters": "西彼杵郡長与町"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "長崎県",
+      "name": "長崎県地域婦人団体連絡協議会生活協同組合",
+      "headquarters": "長崎市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "長崎県",
+      "name": "長崎県漁協女性部連合会生活協同組合",
+      "headquarters": "長崎市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "長崎県",
+      "name": "グリーンコープ生活協同組合 (長崎県)",
+      "headquarters": "長崎市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "長崎県",
+      "name": "長崎県民共済生活協同組合",
+      "headquarters": "長崎市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "長崎県",
+      "name": "福祉生活協同組合いきいきコープ",
+      "headquarters": "西彼杵郡長与町"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "長崎県",
+      "name": "長崎市役所職員生活協同組合",
+      "headquarters": "長崎市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "長崎県",
+      "name": "長崎県職員生活協同組合",
+      "headquarters": "長崎市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "長崎県",
+      "name": "長崎県学校生活協同組合",
+      "headquarters": "諫早市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "長崎県",
+      "name": "長崎大学生活協同組合",
+      "headquarters": "長崎市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "長崎県",
+      "name": "長崎県立大学生活協同組合",
+      "headquarters": "佐世保市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "長崎県",
+      "name": "純心大学生活協同組合",
+      "headquarters": "長崎市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "長崎県",
+      "name": "長崎県立大学シーボルト校生活協同組合",
+      "headquarters": "西彼杵郡長与町"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "熊本県",
+      "name": "熊本くすのき生活協同組合",
+      "headquarters": "熊本市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "熊本県",
+      "name": "生活協同組合熊本インターカレッジコープアカデミア",
+      "headquarters": "熊本市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "熊本県",
+      "name": "熊本大学生活協同組合",
+      "headquarters": "熊本市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "熊本県",
+      "name": "熊本県高等学校生活協同組合",
+      "headquarters": "熊本市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "熊本県",
+      "name": "熊本県職員天草地区生活協同組合",
+      "headquarters": "天草市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "熊本県",
+      "name": "井関農機熊本消費生活協同組合",
+      "headquarters": "上益城郡益城町"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "熊本県",
+      "name": "コープ熊本学校生活協同組合",
+      "headquarters": "上益城郡益城町"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "熊本県",
+      "name": "熊本県高齢者障害者福祉生活協同組合",
+      "headquarters": "熊本市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "熊本県",
+      "name": "熊本県民共済生活協同組合",
+      "headquarters": "熊本市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "熊本県",
+      "name": "生活協同組合熊本いのちと土を考える会",
+      "headquarters": "上益城郡益城町"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "熊本県",
+      "name": "生活協同組合くまもと",
+      "headquarters": "水俣市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "熊本県",
+      "name": "グリーンコープ生活協同組合くまもと",
+      "headquarters": "熊本市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "熊本県",
+      "name": "熊本勤労者旅行会生活協同組合",
+      "headquarters": "熊本市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "熊本県",
+      "name": "熊本勤労者住宅生活協同組合",
+      "headquarters": "熊本市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "熊本県",
+      "name": "熊本県労働者共済生活協同組合",
+      "headquarters": "熊本市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "熊本県",
+      "name": "熊本地域婦人会連絡協議会生活協同組合",
+      "headquarters": "熊本市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "大分県",
+      "name": "大分県民共済生活協同組合",
+      "headquarters": "大分市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "大分県",
+      "name": "大分県医療生活協同組合",
+      "headquarters": "大分市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "大分県",
+      "name": "大分県勤労者医療生活協同組合",
+      "headquarters": "大分市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "大分県",
+      "name": "大分県高齢者福祉生活協同組合",
+      "headquarters": "大分市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "大分県",
+      "name": "自治労大分県本部信用販売生活協同組合",
+      "headquarters": "大分市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "大分県",
+      "name": "大分県学校生活協同組合",
+      "headquarters": "大分市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "大分県",
+      "name": "大分県高等学校生活協同組合",
+      "headquarters": "大分市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "大分県",
+      "name": "大分大学生活協同組合",
+      "headquarters": "大分市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "大分県",
+      "name": "大分県職員消費生活協同組合",
+      "headquarters": "大分市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "大分県",
+      "name": "太平洋セメント大分工場佐伯生活協同組合",
+      "headquarters": "佐伯市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "大分県",
+      "name": "大分県労働者総合生活協同組合",
+      "headquarters": "大分市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "大分県",
+      "name": "生活協同組合コープおおいた",
+      "headquarters": "大分市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "大分県",
+      "name": "日田市民生活協同組合",
+      "headquarters": "日田市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "大分県",
+      "name": "グリーンコープ生活協同組合おおいた",
+      "headquarters": "大分市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "宮崎県",
+      "name": "宮崎県消費者信用生活協同組合",
+      "headquarters": "宮崎市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "宮崎県",
+      "name": "宮崎県共済生活協同組合",
+      "headquarters": "宮崎市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "宮崎県",
+      "name": "宮崎県民共済生活協同組合",
+      "headquarters": "宮崎市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "宮崎県",
+      "name": "宮崎県住宅生活協同組合",
+      "headquarters": "宮崎市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "宮崎県",
+      "name": "生活協同組合コープみやざき",
+      "headquarters": "宮崎市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "宮崎県",
+      "name": "グリーンコープ生活協同組合みやざき",
+      "headquarters": "宮崎市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "宮崎県",
+      "name": "宮崎医療生活協同組合",
+      "headquarters": "宮崎市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "宮崎県",
+      "name": "みやざき福祉生活協同組合",
+      "headquarters": "宮崎市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "宮崎県",
+      "name": "王子製紙生活協同組合",
+      "headquarters": "日南市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "宮崎県",
+      "name": "宮崎県学校生活協同組合",
+      "headquarters": "宮崎市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "宮崎県",
+      "name": "宮崎大学生活協同組合",
+      "headquarters": "宮崎市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "宮崎県",
+      "name": "南九州大学生活協同組合",
+      "headquarters": "児湯郡高鍋町"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "鹿児島県",
+      "name": "鹿児島県労働者共済生活協同組合",
+      "headquarters": "鹿児島市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "鹿児島県",
+      "name": "生活協同組合コープかごしま",
+      "headquarters": "鹿児島市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "鹿児島県",
+      "name": "鹿児島医療生活協同組合",
+      "headquarters": "鹿児島市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "鹿児島県",
+      "name": "奄美医療生活協同組合",
+      "headquarters": "奄美市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "鹿児島県",
+      "name": "グリーンコープかごしま生活協同組合",
+      "headquarters": "鹿児島市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "鹿児島県",
+      "name": "鹿児島県民共済生活協同組合",
+      "headquarters": "鹿児島市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "鹿児島県",
+      "name": "鹿児島県学校生活協同組合",
+      "headquarters": "鹿児島市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "鹿児島県",
+      "name": "鹿児島県職員生活協同組合",
+      "headquarters": "鹿児島市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "鹿児島県",
+      "name": "鹿児島大学生活協同組合",
+      "headquarters": "鹿児島市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "鹿児島県",
+      "name": "鹿児島日通生活協同組合",
+      "headquarters": "鹿児島市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "鹿児島県",
+      "name": "鹿児島県立短期大学生活協同組合",
+      "headquarters": "鹿児島市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "鹿児島県",
+      "name": "鹿児島県勤務医師生活協同組合",
+      "headquarters": "鹿児島市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "沖縄県",
+      "name": "沖縄県共済生活協同組合",
+      "headquarters": "那覇市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "沖縄県",
+      "name": "沖縄電力生活協同組合",
+      "headquarters": "浦添市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "沖縄県",
+      "name": "沖縄医療生活協同組合",
+      "headquarters": "豊見城市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "沖縄県",
+      "name": "琉球大学生活協同組合",
+      "headquarters": "中頭郡西原町"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "沖縄県",
+      "name": "沖縄県学校生活協同組合",
+      "headquarters": "那覇市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "沖縄県",
+      "name": "生活協同組合コープおきなわ",
+      "headquarters": "浦添市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "沖縄県",
+      "name": "沖縄大学生活協同組合",
+      "headquarters": "那覇市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "沖縄県",
+      "name": "沖縄県立芸術大学生活協同組合",
+      "headquarters": "那覇市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "沖縄県",
+      "name": "生活協同組合・沖縄県高齢者協同組合",
+      "headquarters": "那覇市"
+    },
+    {
+      "group": "九州・沖縄地方",
+      "prefecture_or_type": "沖縄県",
+      "name": "南西生活協同組合",
+      "headquarters": "浦添市"
+    }
+  ],
+  "meta": {
+    "title": "日本の生活協同組合（生協）一覧 (Consumer co-operatives of Japan) - Free Download",
+    "description": "日本の主な生活協同組合（地域生協・職域生協・大学生協・連合会など）の名称と本部所在地の一覧。 Contains 1071 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の生活協同組合（生協）一覧 (Consumer co-operatives of Japan) | ListBase",
+    "seo_description": "Download 日本の生活協同組合（生協）一覧 (Consumer co-operatives of Japan) — 1071 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 1071 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%94%9F%E6%B4%BB%E5%8D%94%E5%90%8C%E7%B5%84%E5%90%88%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}

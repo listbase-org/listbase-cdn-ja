@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-26T02:10:50.429Z",
-  "total_datasets": 500,
-  "total_records": 450056,
+  "generated": "2026-10-26T02:10:54.647Z",
+  "total_datasets": 501,
+  "total_records": 451127,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -13669,6 +13669,31 @@
         "xlsx": {
           "name": "ja-nobel-sho-jushosha_JA.xlsx",
           "size": 9867
+        }
+      }
+    },
+    {
+      "id": "ja-seikatsu-kyodo-kumiai",
+      "name": "日本の生活協同組合（生協）一覧 (Consumer co-operatives of Japan)",
+      "category": "society",
+      "record_count": 1071,
+      "columns": [
+        "group",
+        "prefecture_or_type",
+        "name",
+        "headquarters"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%94%9F%E6%B4%BB%E5%8D%94%E5%90%8C%E7%B5%84%E5%90%88%E4%B8%80%E8%A6%A7",
+      "updated": "2026-10",
+      "size": 196374,
+      "files": {
+        "csv": {
+          "name": "ja-seikatsu-kyodo-kumiai_JA.csv",
+          "size": 92602
+        },
+        "xlsx": {
+          "name": "ja-seikatsu-kyodo-kumiai_JA.xlsx",
+          "size": 35723
         }
       }
     },
