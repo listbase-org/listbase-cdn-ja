@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-26T02:10:46.157Z",
-  "total_datasets": 499,
-  "total_records": 450004,
+  "generated": "2026-10-26T02:10:50.429Z",
+  "total_datasets": 500,
+  "total_records": 450056,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "politics",
@@ -6425,6 +6425,31 @@
         "xlsx": {
           "name": "ja-nihon-record-taisho_JA.xlsx",
           "size": 12732
+        }
+      }
+    },
+    {
+      "id": "ja-todofuken-minka",
+      "name": "都道府県民歌一覧 (Prefectural songs of Japan)",
+      "category": "music",
+      "record_count": 52,
+      "columns": [
+        "prefecture",
+        "title",
+        "established",
+        "notes"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E6%B0%91%E6%AD%8C",
+      "updated": "2026-10",
+      "size": 9805,
+      "files": {
+        "csv": {
+          "name": "ja-todofuken-minka_JA.csv",
+          "size": 3557
+        },
+        "xlsx": {
+          "name": "ja-todofuken-minka_JA.xlsx",
+          "size": 9140
         }
       }
     },

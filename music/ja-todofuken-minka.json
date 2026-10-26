@@ -1,0 +1,358 @@
+{
+  "id": "ja-todofuken-minka",
+  "name": "都道府県民歌一覧 (Prefectural songs of Japan)",
+  "title": "都道府県民歌一覧 (Prefectural songs of Japan)",
+  "description": "47都道府県が制定・発表した都道府県民歌（県民歌・道民歌など）の曲名・制定日・備考の一覧。",
+  "category": "music",
+  "source": "https://ja.wikipedia.org/wiki/%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E6%B0%91%E6%AD%8C",
+  "source_url": "https://ja.wikipedia.org/wiki/%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E6%B0%91%E6%AD%8C",
+  "updated": "2026-10",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    },
+    {
+      "key": "established",
+      "label": "Established",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "prefecture": "北海道",
+      "title": "光あふれて (行進曲)",
+      "established": "1967年5月27日",
+      "notes": "3曲同時に制定 通常は「光あふれて」を使用"
+    },
+    {
+      "prefecture": "北海道",
+      "title": "むかしのむかし (ホームソング)",
+      "established": "1967年5月27日",
+      "notes": "3曲同時に制定 通常は「光あふれて」を使用"
+    },
+    {
+      "prefecture": "北海道",
+      "title": "北海ばやし (道民音頭)",
+      "established": "1967年5月27日",
+      "notes": "3曲同時に制定 通常は「光あふれて」を使用"
+    },
+    {
+      "prefecture": "青森県",
+      "title": "青森県賛歌",
+      "established": "1971年9月23日",
+      "notes": "現在は事実上廃止状態"
+    },
+    {
+      "prefecture": "青森県",
+      "title": "青い森のメッセージ",
+      "established": "2001年1月1日",
+      "notes": ""
+    },
+    {
+      "prefecture": "岩手県",
+      "title": "岩手県民の歌",
+      "established": "1965年3月30日",
+      "notes": ""
+    },
+    {
+      "prefecture": "宮城県",
+      "title": "宮城県民歌",
+      "established": "1938年11月29日",
+      "notes": "初代、現在は愛唱歌として存続"
+    },
+    {
+      "prefecture": "宮城県",
+      "title": "輝く郷土",
+      "established": "1946年3月10日",
+      "notes": "2代目"
+    },
+    {
+      "prefecture": "秋田県",
+      "title": "秋田県民歌",
+      "established": "1930年",
+      "notes": ""
+    },
+    {
+      "prefecture": "秋田県",
+      "title": "県民の歌",
+      "established": "1959年12月7日",
+      "notes": ""
+    },
+    {
+      "prefecture": "山形県",
+      "title": "最上川",
+      "established": "1982年3月31日",
+      "notes": "昭和天皇作詞（御製歌）、発表は1930年"
+    },
+    {
+      "prefecture": "福島県",
+      "title": "福島県県民の歌",
+      "established": "1967年2月11日",
+      "notes": ""
+    },
+    {
+      "prefecture": "茨城県",
+      "title": "茨城県民の歌",
+      "established": "1963年3月16日",
+      "notes": ""
+    },
+    {
+      "prefecture": "栃木県",
+      "title": "県民の歌",
+      "established": "1962年12月25日",
+      "notes": ""
+    },
+    {
+      "prefecture": "群馬県",
+      "title": "群馬県の歌",
+      "established": "1968年10月25日",
+      "notes": "3代目"
+    },
+    {
+      "prefecture": "埼玉県",
+      "title": "埼玉県歌",
+      "established": "1965年9月21日",
+      "notes": "2代目"
+    },
+    {
+      "prefecture": "千葉県",
+      "title": "千葉県民歌",
+      "established": "1963年3月16日",
+      "notes": ""
+    },
+    {
+      "prefecture": "東京都",
+      "title": "東京都歌",
+      "established": "1947年4月19日",
+      "notes": ""
+    },
+    {
+      "prefecture": "神奈川県",
+      "title": "光あらたに",
+      "established": "1950年4月10日",
+      "notes": "2代目、1968年に4番を廃止"
+    },
+    {
+      "prefecture": "新潟県",
+      "title": "新潟県民歌",
+      "established": "1948年3月28日",
+      "notes": ""
+    },
+    {
+      "prefecture": "富山県",
+      "title": "富山県民の歌",
+      "established": "1958年4月1日",
+      "notes": ""
+    },
+    {
+      "prefecture": "石川県",
+      "title": "石川県民の歌",
+      "established": "1959年11月3日",
+      "notes": "2代目"
+    },
+    {
+      "prefecture": "福井県",
+      "title": "新福井県民歌",
+      "established": "2014年12月20日",
+      "notes": "2014年に曲を改訂（旧版は1954年5月1日制定）"
+    },
+    {
+      "prefecture": "山梨県",
+      "title": "山梨県の歌",
+      "established": "1950年8月12日",
+      "notes": ""
+    },
+    {
+      "prefecture": "長野県",
+      "title": "信濃の国",
+      "established": "1968年5月20日",
+      "notes": "1900年発表"
+    },
+    {
+      "prefecture": "岐阜県",
+      "title": "岐阜県民の歌",
+      "established": "1955年4月1日",
+      "notes": ""
+    },
+    {
+      "prefecture": "静岡県",
+      "title": "静岡県歌（あけゆく朝）",
+      "established": "1968年8月14日",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛知県",
+      "title": "われらが愛知",
+      "established": "1950年8月15日",
+      "notes": ""
+    },
+    {
+      "prefecture": "三重県",
+      "title": "三重県民歌",
+      "established": "1964年4月20日",
+      "notes": ""
+    },
+    {
+      "prefecture": "滋賀県",
+      "title": "滋賀県民の歌",
+      "established": "1954年6月15日",
+      "notes": ""
+    },
+    {
+      "prefecture": "京都府",
+      "title": "京都府の歌",
+      "established": "1984年3月22日",
+      "notes": ""
+    },
+    {
+      "prefecture": "大阪府",
+      "title": "（未制定）",
+      "established": "－",
+      "notes": "スポーツ関連では体育歌「なみはやのうた」を演奏"
+    },
+    {
+      "prefecture": "兵庫県",
+      "title": "兵庫県民歌",
+      "established": "1947年5月3日",
+      "notes": "現在は公式に歌われていない"
+    },
+    {
+      "prefecture": "奈良県",
+      "title": "奈良県民の歌",
+      "established": "1968年3月1日",
+      "notes": ""
+    },
+    {
+      "prefecture": "和歌山県",
+      "title": "和歌山県民歌",
+      "established": "1948年8月",
+      "notes": ""
+    },
+    {
+      "prefecture": "鳥取県",
+      "title": "わきあがる力",
+      "established": "1968年10月23日",
+      "notes": ""
+    },
+    {
+      "prefecture": "島根県",
+      "title": "薄紫の山脈",
+      "established": "1951年12月",
+      "notes": ""
+    },
+    {
+      "prefecture": "岡山県",
+      "title": "岡山県の歌",
+      "established": "1957年3月9日",
+      "notes": ""
+    },
+    {
+      "prefecture": "広島県",
+      "title": "（未制定）",
+      "established": "－",
+      "notes": "スポーツ関連では体育歌「虹の輝き」を演奏"
+    },
+    {
+      "prefecture": "山口県",
+      "title": "山口県民の歌",
+      "established": "1962年9月3日",
+      "notes": "3代目"
+    },
+    {
+      "prefecture": "徳島県",
+      "title": "徳島県民の歌",
+      "established": "1971年7月18日",
+      "notes": "2代目"
+    },
+    {
+      "prefecture": "香川県",
+      "title": "香川県民歌",
+      "established": "1954年1月30日",
+      "notes": ""
+    },
+    {
+      "prefecture": "愛媛県",
+      "title": "愛媛の歌",
+      "established": "1973年2月20日",
+      "notes": "3代目"
+    },
+    {
+      "prefecture": "高知県",
+      "title": "高知県民の歌",
+      "established": "1959年11月3日",
+      "notes": ""
+    },
+    {
+      "prefecture": "福岡県",
+      "title": "希望の光",
+      "established": "1970年10月17日",
+      "notes": ""
+    },
+    {
+      "prefecture": "佐賀県",
+      "title": "佐賀県民の歌",
+      "established": "1974年12月11日",
+      "notes": "2代目"
+    },
+    {
+      "prefecture": "長崎県",
+      "title": "南の風",
+      "established": "1961年6月1日",
+      "notes": ""
+    },
+    {
+      "prefecture": "熊本県",
+      "title": "熊本県民の歌",
+      "established": "1960年2月13日",
+      "notes": "2代目（熊本国体実行委員会制定）"
+    },
+    {
+      "prefecture": "大分県",
+      "title": "（未制定）",
+      "established": "－",
+      "notes": "スポーツ関連では「大分県民体育の歌」を演奏"
+    },
+    {
+      "prefecture": "宮崎県",
+      "title": "宮崎県民歌",
+      "established": "1954年6月30日",
+      "notes": "2代目"
+    },
+    {
+      "prefecture": "鹿児島県",
+      "title": "鹿児島県民の歌",
+      "established": "1948年12月16日",
+      "notes": ""
+    },
+    {
+      "prefecture": "沖縄県",
+      "title": "沖縄県民の歌",
+      "established": "1972年5月15日",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "都道府県民歌一覧 (Prefectural songs of Japan) - Free Download",
+    "description": "47都道府県が制定・発表した都道府県民歌（県民歌・道民歌など）の曲名・制定日・備考の一覧。 Contains 52 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "都道府県民歌一覧 (Prefectural songs of Japan) | ListBase",
+    "seo_description": "Download 都道府県民歌一覧 (Prefectural songs of Japan) — 52 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 52 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E6%B0%91%E6%AD%8C"
+    ]
+  }
+}
