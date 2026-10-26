@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-26T02:11:30.860Z",
-  "total_datasets": 510,
-  "total_records": 454594,
+  "generated": "2026-10-26T02:11:34.850Z",
+  "total_datasets": 511,
+  "total_records": 454696,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tech",
@@ -13907,6 +13907,36 @@
         "xlsx": {
           "name": "ja-todofuken-jinko-suii_JA.xlsx",
           "size": 10854
+        }
+      }
+    },
+    {
+      "id": "ja-hakone-ekiden-yushoko",
+      "name": "箱根駅伝 歴代総合優勝校一覧 (Hakone Ekiden overall winners)",
+      "category": "sports",
+      "record_count": 102,
+      "columns": [
+        "edition",
+        "year",
+        "wareki",
+        "date_outbound",
+        "date_return",
+        "champion",
+        "wins",
+        "teams",
+        "first_appearance"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E7%AE%B1%E6%A0%B9%E9%96%93%E5%BE%80%E5%BE%A9%E5%A4%A7%E5%AD%A6%E9%A7%85%E4%BC%9D%E7%AB%B6%E8%B5%B0",
+      "updated": "2026-10",
+      "size": 32487,
+      "files": {
+        "csv": {
+          "name": "ja-hakone-ekiden-yushoko_JA.csv",
+          "size": 11352
+        },
+        "xlsx": {
+          "name": "ja-hakone-ekiden-yushoko_JA.xlsx",
+          "size": 12547
         }
       }
     },
