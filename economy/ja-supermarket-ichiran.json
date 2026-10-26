@@ -1,0 +1,4992 @@
+{
+  "id": "ja-supermarket-ichiran",
+  "name": "日本のスーパーマーケット一覧（都道府県別）(Supermarkets in Japan by prefecture)",
+  "title": "日本のスーパーマーケット一覧（都道府県別）(Supermarkets in Japan by prefecture)",
+  "description": "都道府県別の日本のスーパーマーケット運営企業・店舗ブランド名・加盟団体（NSAJ・CGC等）・備考の一覧。",
+  "category": "economy",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7",
+  "updated": "2026-10",
+  "record_count": 617,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "company",
+      "label": "Company",
+      "type": "string"
+    },
+    {
+      "key": "store_brand",
+      "label": "Store Brand",
+      "type": "string"
+    },
+    {
+      "key": "groups",
+      "label": "Groups",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "相沢食料百貨店",
+      "store_brand": "あいざわ",
+      "groups": "NSAJ、セルコ",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "イオン北海道",
+      "store_brand": "イオン、イオンスーパーセンター、マックスバリュ、ザ･ビッグ",
+      "groups": "JCSA",
+      "notes": "イオングループ"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "一ウ商事",
+      "store_brand": "マンボウ",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "市原精肉店",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "今村商事",
+      "store_brand": "美深スーパー",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "魚長",
+      "store_brand": "生鮮夢市場、生鮮乃木市場 、生鮮げんき市場",
+      "groups": "NSAJ",
+      "notes": "コープさっぽろと業務提携"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "魚はん",
+      "store_brand": "うおはん",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "キングストア",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "JR北海道フレッシュキヨスク",
+      "store_brand": "ジェイ･アール生鮮市場",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "西條",
+      "store_brand": "西條、BESTOM、Qマート",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "産直",
+      "store_brand": "産直生鮮市場",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "生活協同組合コープさっぽろ",
+      "store_brand": "コープさっぽろ",
+      "groups": "日流",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "ダイゼン",
+      "store_brand": "DZマート",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "中央スーパー",
+      "store_brand": "チューオー",
+      "groups": "",
+      "notes": "コープさっぽろ関連会社"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "津司",
+      "store_brand": "卸売スーパー、現金問屋",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "とうかいフーズ",
+      "store_brand": "",
+      "groups": "NSAJ、セルコ",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "東光ストア",
+      "store_brand": "東光ストア、ディナーベル",
+      "groups": "NSAJ、CGC",
+      "notes": "アークスグループ 元東急グループ"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "道東アークス",
+      "store_brand": "フクハラ、スーパーアークス、ラルズマート、BASIC",
+      "groups": "NSAJ、CGC",
+      "notes": "アークスグループ"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "道南ラルズ",
+      "store_brand": "スーパーアークス、ラルズマート",
+      "groups": "NSAJ、CGC",
+      "notes": "アークスグループ"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "道北アークス",
+      "store_brand": "ウエスタン、スーパーチェーンふじ、ベストプライス、スーパーアークス、ラルズマート、Ｄａ*マルシェ",
+      "groups": "NSAJ、CGC",
+      "notes": "アークスグループ"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "東武",
+      "store_brand": "サウスヒルズ、イーストモール",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "東和システム",
+      "store_brand": "ウィズマート",
+      "groups": "",
+      "notes": "全日食チェーン加盟"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "ダイイチ",
+      "store_brand": "ダイイチ",
+      "groups": "AJS",
+      "notes": "セブン&アイグループ"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "ナカノフーズ",
+      "store_brand": "カウボーイ",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "福原",
+      "store_brand": "フクハラ、ぴあざフクハラ、ビッグハウス、スーパーアークス",
+      "groups": "NSAJ、CGC",
+      "notes": "アークスグループ"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "豊月",
+      "store_brand": "フードD、フードD365、フードD生鮮市場",
+      "groups": "NSAJ、CGC、セルコ",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "ホクノー",
+      "store_brand": "ホクノースーパー、ちびホク",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "北雄ラッキー",
+      "store_brand": "ラッキー、シティ、ラッキーマート、シティマート",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "ホクレン商事",
+      "store_brand": "ホクレンショップ、Aコープ",
+      "groups": "",
+      "notes": "ホクレン子会社"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "三ッ輪商会",
+      "store_brand": "業務スーパー",
+      "groups": "",
+      "notes": "業務スーパーFC"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "モリワキ",
+      "store_brand": "北海市場",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "北海道",
+      "company": "ラルズ",
+      "store_brand": "ラルズストア、ラルズマート、ビッグハウス、フレッティ、スーパーアークス、ホームストア",
+      "groups": "NSAJ、JSA、CGC",
+      "notes": "アークスグループ"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "青森県",
+      "company": "スーパーカケモ",
+      "store_brand": "",
+      "groups": "NSAJ、JSA、セルコ",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "青森県",
+      "company": "スーパーストア",
+      "store_brand": "",
+      "groups": "セルコ",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "青森県",
+      "company": "ファミリーマートさとう",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": "2025年4月3日事業停止"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "青森県",
+      "company": "紅屋商事",
+      "store_brand": "ベニーマート、カブセンター",
+      "groups": "NSAJ、AJS",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "青森県",
+      "company": "マエダ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "マークスHDグループ"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "青森県",
+      "company": "ユニバース",
+      "store_brand": "ユニバース、ビッグハウス、ファル、パワーズU",
+      "groups": "NSAJ、JSA、CGC",
+      "notes": "アークスグループ"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "青森県",
+      "company": "よこまち",
+      "store_brand": "",
+      "groups": "",
+      "notes": "八社会"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "岩手県",
+      "company": "小専商店",
+      "store_brand": "スーパーオセン",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "岩手県",
+      "company": "神文ストア",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "岩手県",
+      "company": "キクコウストア",
+      "store_brand": "キクコーストア",
+      "groups": "",
+      "notes": "JSAを離脱"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "岩手県",
+      "company": "ケーマート",
+      "store_brand": "",
+      "groups": "セルコ",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "岩手県",
+      "company": "たもり",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "岩手県",
+      "company": "びはん",
+      "store_brand": "びはんストア",
+      "groups": "NSAJ、CGC",
+      "notes": "マークスHDグループ"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "岩手県",
+      "company": "ベルジョイス",
+      "store_brand": "ジョイス、ベルプラス、ビッグハウス、スーパーロッキー、ロッキー、スーパーアークス",
+      "groups": "NSAJ、CGC",
+      "notes": "アークスグループ"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "岩手県",
+      "company": "マイヤ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "マークスHDグループ"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "岩手県",
+      "company": "マルイチ",
+      "store_brand": "",
+      "groups": "JSA、CGC",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "岩手県",
+      "company": "丸江",
+      "store_brand": "",
+      "groups": "NSAJ、セルコ",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "岩手県",
+      "company": "みずかみ",
+      "store_brand": "",
+      "groups": "",
+      "notes": "アークスグループ ベルジョイス子会社"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "岩手県",
+      "company": "みちのく流通システム",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "宮城県",
+      "company": "伊藤チェーン",
+      "store_brand": "イトーチェーン、食品館イトー、フーズガーデン",
+      "groups": "NSAJ、CGC",
+      "notes": "アークスグループ"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "宮城県",
+      "company": "ウジエスーパー",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "宮城県",
+      "company": "駅前ストアー",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": "ウジエスーパー傘下"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "宮城県",
+      "company": "佐市",
+      "store_brand": "さいち",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "宮城県",
+      "company": "マルニ",
+      "store_brand": "デイリーポート新鮮館",
+      "groups": "JSA、AJS",
+      "notes": "ヨークベニマルグループ"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "宮城県",
+      "company": "和興",
+      "store_brand": "ワコー",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "秋田県",
+      "company": "伊徳",
+      "store_brand": "ITOKU",
+      "groups": "NSAJ、CGC",
+      "notes": "ユナイトHDグループ"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "秋田県",
+      "company": "タカヤナギ",
+      "store_brand": "グランマート",
+      "groups": "NSAJ、CGC",
+      "notes": "ユナイトHDグループ"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "秋田県",
+      "company": "中央市場",
+      "store_brand": "ビフレ",
+      "groups": "AJS",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "秋田県",
+      "company": "テラタ",
+      "store_brand": "",
+      "groups": "セルコ",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "秋田県",
+      "company": "ドジャース商事",
+      "store_brand": "ドジャース",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "秋田県",
+      "company": "イオン東北",
+      "store_brand": "イオン、イオンスタイル 、イオンエクスプレス、マックスバリュ、マックスバリュエクスプレス、ザ・ビッグ",
+      "groups": "JSA",
+      "notes": "イオングループ"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "秋田県",
+      "company": "マルシメ",
+      "store_brand": "ラッキー",
+      "groups": "NSAJ、セルコ",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "秋田県",
+      "company": "マルダイ",
+      "store_brand": "",
+      "groups": "JSA、AJS",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "秋田県",
+      "company": "ミサトフーズ",
+      "store_brand": "AX",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "山形県",
+      "company": "おーばん",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "マークスHDグループ"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "山形県",
+      "company": "主婦の店鶴岡店",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "山形県",
+      "company": "たかき",
+      "store_brand": "フードセンターたかき",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "山形県",
+      "company": "ト一屋",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "山形県",
+      "company": "ヤマザワ",
+      "store_brand": "ヤマザワ、よねや",
+      "groups": "JSA、AJS、日流",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "油屋",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "いちい",
+      "store_brand": "",
+      "groups": "JSA",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "糸吉商店",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": "ブイチェーングループ"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "運喜",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": "ブイチェーングループ"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "桐屋本店",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "小堀商店",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": "ブイチェーングループ"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "コロナ商会",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "サンエム",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": "ブイチェーングループ"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "サンマート小林",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "清水商店",
+      "store_brand": "シミズストア",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "鈴木亨商店",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "竹田屋",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "田原",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "東北SK",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "ネモト",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "はたや",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "ファンズ",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "ブイシージー",
+      "store_brand": "ブイチェーン",
+      "groups": "NSAJ、CGC",
+      "notes": "ブイチェーングループ本部"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "ブイツー",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "ブイワン",
+      "store_brand": "ブイチェーン",
+      "groups": "CGC",
+      "notes": "ブイチェーングループ"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "フードネクストステージ",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "フレスコ",
+      "store_brand": "フレスコキクチ",
+      "groups": "NSAJ、CGC",
+      "notes": "マークスHDグループ"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "丸光酒店",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "マルト",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "マルマサ",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "リオン・ドールコーポレーション",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "ヨークベニマル",
+      "store_brand": "",
+      "groups": "JSA、JCSA",
+      "notes": "セブン&アイHDグループ"
+    },
+    {
+      "region": "北海道地方・東北地方",
+      "prefecture": "福島県",
+      "company": "若松屋",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "company": "カスミ",
+      "store_brand": "",
+      "groups": "JSA、JCSA",
+      "notes": "U.S.M.Hグループ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "company": "かわねや",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "company": "サンユーストアー",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "company": "ジャパンミート",
+      "store_brand": "",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "company": "スーパーヒロセヤ",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "company": "セイミヤ",
+      "store_brand": "",
+      "groups": "NSAJ、AJS、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "company": "タイヨー",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "company": "ハリガエ",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "company": "マスダ",
+      "store_brand": "",
+      "groups": "セルコ",
+      "notes": "エコスグループ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "茨城県",
+      "company": "結城ショッピングセンター",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "company": "オータニ",
+      "store_brand": "フードオアシスオータニ、フードマーケットオータニ",
+      "groups": "AJS、CGC",
+      "notes": "アークスグループ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "company": "かましん",
+      "store_brand": "",
+      "groups": "AJS",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "company": "サンユー",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "company": "塩原屋",
+      "store_brand": "",
+      "groups": "NSAJ、セルコ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "company": "ダイユー",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "company": "たいらや",
+      "store_brand": "",
+      "groups": "JSA、セルコ",
+      "notes": "エコスグループ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "company": "ヤオハン",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "栃木県",
+      "company": "八百半フードセンター",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "company": "カルチヤー",
+      "store_brand": "パワーセンターうおかつ",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "company": "小池",
+      "store_brand": "すーぱーこいけ",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "company": "しみず",
+      "store_brand": "しみずスーパー",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "company": "スーパー丸幸",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "company": "田村商店",
+      "store_brand": "スーパー大津",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "company": "とりせん",
+      "store_brand": "",
+      "groups": "AJS、JCSA",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "company": "フレッセイ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "アクシアルRグループ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "company": "ベイシア",
+      "store_brand": "",
+      "groups": "JCSA",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "群馬県",
+      "company": "まるおか",
+      "store_brand": "",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "company": "生活協同組合コープみらい",
+      "store_brand": "",
+      "groups": "NSAJ、JCSA",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "company": "タカラ・エムシー",
+      "store_brand": "ヤオヨシ",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "company": "ハーズ",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "company": "フーコット",
+      "store_brand": "",
+      "groups": "",
+      "notes": "ヤオコーグループ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "company": "ベルク",
+      "store_brand": "",
+      "groups": "JCSA",
+      "notes": "イオングループ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "company": "北辰商事",
+      "store_brand": "ロヂャース",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "company": "マミーマート",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "company": "丸武",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "company": "マルサンシステム",
+      "store_brand": "新鮮市場",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "company": "マルチョウストアー",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "company": "マルヤ",
+      "store_brand": "",
+      "groups": "JSA、JCSA、CGC",
+      "notes": "ゼンショーHDグループ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "company": "ヤオコー",
+      "store_brand": "",
+      "groups": "JSA、JCSA",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "埼玉県",
+      "company": "与野フードセンター",
+      "store_brand": "",
+      "groups": "JSA、セルコ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "company": "葵商事",
+      "store_brand": "アオイストアー",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "company": "アコレ",
+      "store_brand": "",
+      "groups": "",
+      "notes": "イオングループ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "company": "イオン",
+      "store_brand": "イオンスタイル",
+      "groups": "JCSA",
+      "notes": "イオングループ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "company": "石原",
+      "store_brand": "エコ・ピア",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "company": "おどや",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "company": "尾張屋",
+      "store_brand": "VERY FOODS",
+      "groups": "NSAJ",
+      "notes": "ゼンショーHDグループ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "company": "京成ストア",
+      "store_brand": "リブレ京成",
+      "groups": "NSAJ、JCSA",
+      "notes": "八社会"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "company": "京北スーパー",
+      "store_brand": "KEIHOKU",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "company": "宍倉",
+      "store_brand": "レオ、主婦の店",
+      "groups": "NSAJ、JSA、セルコ",
+      "notes": "セルコチェーン"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "company": "セレクション",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "company": "せんどう",
+      "store_brand": "",
+      "groups": "セルコ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "company": "高橋商店",
+      "store_brand": "T・マート",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "company": "トウズ",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "company": "千葉薬品",
+      "store_brand": "",
+      "groups": "AJS",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "company": "ナリタヤ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "company": "ハヤシ",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "company": "まいばすけっと",
+      "store_brand": "",
+      "groups": "",
+      "notes": "イオングループ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "千葉県",
+      "company": "ランドロームジャパン",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "旧「スーパームラコシ」"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "アキダイ",
+      "store_brand": "",
+      "groups": "",
+      "notes": "OICグループ傘下"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "アグリゲート",
+      "store_brand": "旬八青果店",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "アデガワ",
+      "store_brand": "エスカマーレ",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "アドバンスクリヤマ",
+      "store_brand": "シミズヤ",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "アブアブ赤札堂",
+      "store_brand": "",
+      "groups": "NSAJ、JCSA",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "イオンフードスタイル",
+      "store_brand": "イオンフードスタイル",
+      "groups": "",
+      "notes": "U.S.M.Hグループ。2026年3月1日、マックスバリュ関東がダイエーの関東事業とイオンマーケットを統合して商号変更"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "イトーヨーカ堂",
+      "store_brand": "イトーヨーカドー",
+      "groups": "NSAJ、JCSA",
+      "notes": "セブン&アイHDグループ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "いなげや",
+      "store_brand": "",
+      "groups": "NSAJ、JSA、JCSA",
+      "notes": "U.S.M.Hグループ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "エコス",
+      "store_brand": "",
+      "groups": "JSA、JCSA、日流、セルコ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "エフ・クライミング",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "エヌ・マート",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": "JSAを脱退"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "エムアイフードスタイル",
+      "store_brand": "クイーンズ伊勢丹",
+      "groups": "NSAJ",
+      "notes": "三越伊勢丹グループ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "オオゼキ",
+      "store_brand": "",
+      "groups": "JSA",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "Olympicグループ",
+      "store_brand": "Olympic",
+      "groups": "CGC",
+      "notes": "PPIHグループ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "カネマン",
+      "store_brand": "",
+      "groups": "セルコ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "河内屋酒販",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "関東城西セルコ",
+      "store_brand": "",
+      "groups": "セルコ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "紀ノ国屋",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "九州屋",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "銀座千疋屋",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "京王ストア",
+      "store_brand": "",
+      "groups": "NSAJ、JCSA",
+      "notes": "八社会"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "コイズミ産業",
+      "store_brand": "ベニー スーパー",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "ココスナカムラ",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "コモディイイダ",
+      "store_brand": "",
+      "groups": "JSA、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "さえきセルバホールディングス",
+      "store_brand": "さえき食品館",
+      "groups": "JSA、JCSA、日流、セルコ",
+      "notes": "さえきセルバHDグループ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "サカガミ",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "サミット",
+      "store_brand": "サミットストア",
+      "groups": "JSA、AJS、JCSA",
+      "notes": "住友商事グループ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "三德",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "サンベルクス",
+      "store_brand": "Belx",
+      "groups": "NSAJ、JSA",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "三和",
+      "store_brand": "三和、フードワン",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "G&Lマート",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "シェルガーデン",
+      "store_brand": "ザ・ガーデン自由が丘",
+      "groups": "NSAJ",
+      "notes": "セブン&アイHDグループ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "信濃屋食品",
+      "store_brand": "信濃屋",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "島田屋",
+      "store_brand": "シマダヤ",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "JALUX",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "食品の店おおた",
+      "store_brand": "",
+      "groups": "JSA",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "スーパーアルプス",
+      "store_brand": "",
+      "groups": "NSAJ、AJS",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "スーパーキタムラ",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "スーパーヤマザキ",
+      "store_brand": "",
+      "groups": "JCSA、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "西友",
+      "store_brand": "",
+      "groups": "JSA",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "全国農業協同組合連合会",
+      "store_brand": "",
+      "groups": "JSA",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "ゼンショーホールディングス",
+      "store_brand": "",
+      "groups": "JCSA",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "全日本食品",
+      "store_brand": "",
+      "groups": "JSA",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "ダイエー",
+      "store_brand": "ダイエーなど",
+      "groups": "JCSA",
+      "notes": "イオングループ。2026年3月1日に関東事業をイオンフードスタイルへ承継し、光洋を吸収合併"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "大栄青果",
+      "store_brand": "",
+      "groups": "セルコ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "たからや",
+      "store_brand": "",
+      "groups": "JSA、セルコ",
+      "notes": "エコスグループ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "東急ストア",
+      "store_brand": "",
+      "groups": "JSA、JCSA",
+      "notes": "八社会"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "東武ストア",
+      "store_brand": "",
+      "groups": "NSAJ、JCSA",
+      "notes": "八社会"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "トップ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "長崎屋",
+      "store_brand": "",
+      "groups": "",
+      "notes": "PPIHグループ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "ナショナル物産",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "日本セルコ",
+      "store_brand": "",
+      "groups": "セルコ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "日東燃料工業",
+      "store_brand": "ベニースーパー",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "八丈万有",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "ハッピー食品",
+      "store_brand": "ソウル市場",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "花正",
+      "store_brand": "ハナマサ",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "東日本旅客鉄道",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "ビッグ・エー",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": "イオングループ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "文化堂",
+      "store_brand": "",
+      "groups": "NSAJ、AJS",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "保土田",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "松江中村屋",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "マルエツ",
+      "store_brand": "",
+      "groups": "JSA、JCSA",
+      "notes": "U.S.M.Hグループ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "マルマンストア",
+      "store_brand": "",
+      "groups": "AJS",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "丸正小室",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "丸正チェーン商事",
+      "store_brand": "新宿丸正",
+      "groups": "NSAJ、JSA",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "マルフジ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "三浦屋",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "明治屋",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "ヤマイチ",
+      "store_brand": "",
+      "groups": "NSAJ、JSA、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "優翔",
+      "store_brand": "フジマート",
+      "groups": "",
+      "notes": "JSAを脱退"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "ユナイテッドベジーズ",
+      "store_brand": "",
+      "groups": "セルコ",
+      "notes": "ゼンショーHDグループ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "ヨーク",
+      "store_brand": "ヨークフーズ ヨークマート ヨークプライス",
+      "groups": "",
+      "notes": "セブン&アイHDグループ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "吉池",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "よしや",
+      "store_brand": "",
+      "groups": "NSAJ、AJS",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "東京都",
+      "company": "龍生堂本店",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "company": "アイスコ",
+      "store_brand": "TAIGA",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "company": "荒井商事",
+      "store_brand": "アルズ",
+      "groups": "NSAJ、JSA",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "company": "エイヴイ",
+      "store_brand": "AVE",
+      "groups": "CGC",
+      "notes": "ヤオコーグループ"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "company": "オーケー",
+      "store_brand": "オーケー",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "company": "小田急商事",
+      "store_brand": "OdakyuOX",
+      "groups": "NSAJ、JCSA",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "company": "小田原百貨店",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "company": "京急ストア",
+      "store_brand": "",
+      "groups": "NSAJ、JCSA",
+      "notes": "八社会"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "company": "しまむら",
+      "store_brand": "しまむらストアー",
+      "groups": "JSA、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "company": "スズキヤ",
+      "store_brand": "スズキヤ、エスパティオ",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "company": "生活協同組合ユーコープ",
+      "store_brand": "",
+      "groups": "日流",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "company": "成城石井",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "ローソン傘下"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "company": "相鉄ローゼン",
+      "store_brand": "",
+      "groups": "JCSA",
+      "notes": "八社会"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "company": "大寿",
+      "store_brand": "OONOYA",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "company": "たまや",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "company": "仲屋商事",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "company": "ビック・ライズ",
+      "store_brand": "食品館あおば",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "company": "Firsto",
+      "store_brand": "CiiNA CiiNA",
+      "groups": "",
+      "notes": "OICグループ傘下"
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "company": "富士シティオ",
+      "store_brand": "Fuji",
+      "groups": "NSAJ、日流",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "company": "丸山百貨店",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "company": "ヤオマサ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "company": "やまか",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "company": "百合ケ丘産業",
+      "store_brand": "ゆりストア",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "company": "横濱屋",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "company": "ローヤルよつや",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関東地方",
+      "prefecture": "神奈川県",
+      "company": "ロピア",
+      "store_brand": "",
+      "groups": "",
+      "notes": "OICグループ傘下 JSAを脱退"
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "新潟県",
+      "company": "イチコ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "新潟県",
+      "company": "ウオロク",
+      "store_brand": "",
+      "groups": "NSAJ、JSA、CGC",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "新潟県",
+      "company": "オーシャンシステム",
+      "store_brand": "チャレンジャー",
+      "groups": "JSA",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "新潟県",
+      "company": "キューピット",
+      "store_brand": "",
+      "groups": "NSAJ、JSA、セルコ",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "新潟県",
+      "company": "イオンリテール",
+      "store_brand": "清水フードセンター",
+      "groups": "",
+      "notes": "清水フードを運営していた清水商事を令和5年吸収合併"
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "新潟県",
+      "company": "玉木フードセンター",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "新潟県",
+      "company": "ナルス",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "アクシアルRグループ"
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "新潟県",
+      "company": "のぐち",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "新潟県",
+      "company": "ハピー",
+      "store_brand": "",
+      "groups": "NSAJ、セルコ",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "新潟県",
+      "company": "原信",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "アクシアルRグループ"
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "新潟県",
+      "company": "マルイ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "富山県",
+      "company": "アルビス",
+      "store_brand": "",
+      "groups": "NSAJ、JSA、AJS、JCSA、CGC",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "富山県",
+      "company": "大阪屋ショップ",
+      "store_brand": "",
+      "groups": "NSAJ、JSA、CGC、セルコ",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "富山県",
+      "company": "三喜有",
+      "store_brand": "サンキュー",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "富山県",
+      "company": "三幸",
+      "store_brand": "サンコー",
+      "groups": "",
+      "notes": "バローHDグループ"
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "富山県",
+      "company": "シューコーポレーション",
+      "store_brand": "",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "富山県",
+      "company": "新鮮市場オネスト",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "富山県",
+      "company": "サンショウ",
+      "store_brand": "アップル・サンショウ",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "富山県",
+      "company": "ヒラキストア",
+      "store_brand": "",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "富山県",
+      "company": "フレッシュ佐武",
+      "store_brand": "",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "富山県",
+      "company": "丸圓商店",
+      "store_brand": "ヴァローレ",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "石川県",
+      "company": "安達",
+      "store_brand": "あだちストア",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "石川県",
+      "company": "鍜治商店",
+      "store_brand": "カジマート",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "石川県",
+      "company": "大丸",
+      "store_brand": "DAIMARU",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "石川県",
+      "company": "どんたく",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "石川県",
+      "company": "ナルックス",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "石川県",
+      "company": "ニュー三久",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "石川県",
+      "company": "北陸セルコ",
+      "store_brand": "",
+      "groups": "セルコ",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "石川県",
+      "company": "マックスバリュ北陸",
+      "store_brand": "マックスバリュ",
+      "groups": "",
+      "notes": "イオングループ"
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "石川県",
+      "company": "マルエー",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "石川県",
+      "company": "三崎ストアー",
+      "store_brand": "",
+      "groups": "NSAJ、JSA、セルコ",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "石川県",
+      "company": "ジャコム石川",
+      "store_brand": "Aコープ",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "福井県",
+      "company": "いずもや",
+      "store_brand": "ビックベリーマーケット",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合ハニー加盟"
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "福井県",
+      "company": "エフレ",
+      "store_brand": "新鮮館エフレ",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合ハニー加盟"
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "福井県",
+      "company": "かじ惣",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "福井県",
+      "company": "片町フードセンター",
+      "store_brand": "食彩館",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合ハニー加盟"
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "福井県",
+      "company": "コープ武生",
+      "store_brand": "コープたけふ",
+      "groups": "CGC",
+      "notes": "協同組合ハニーと業務提携"
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "福井県",
+      "company": "新鮮館おくえつ",
+      "store_brand": "新鮮館",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合ハニー加盟"
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "福井県",
+      "company": "新鮮館ふくい",
+      "store_brand": "新鮮館",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合ハニー加盟"
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "福井県",
+      "company": "東部プラザ",
+      "store_brand": "食彩館",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合ハニー加盟"
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "福井県",
+      "company": "中吉商店",
+      "store_brand": "アレナ",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合ハニー加盟"
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "福井県",
+      "company": "ながすぎ",
+      "store_brand": "ビックベリーマーケット",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合ハニー加盟"
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "福井県",
+      "company": "富士屋",
+      "store_brand": "クランデール",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合ハニー加盟"
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "福井県",
+      "company": "フード福井",
+      "store_brand": "Aコープ",
+      "groups": "NSAJ、CGC",
+      "notes": "若狭農業協同組合として加盟"
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "福井県",
+      "company": "ママーストアー",
+      "store_brand": "",
+      "groups": "AJS",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "福井県",
+      "company": "松本フードセンター",
+      "store_brand": "食彩館",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合ハニー加盟"
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "福井県",
+      "company": "ヤスサキ",
+      "store_brand": "グルメ館",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "山梨県",
+      "company": "いちやまマート",
+      "store_brand": "",
+      "groups": "NSAJ、AJS",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "山梨県",
+      "company": "オギノ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "山梨県",
+      "company": "JA南アルプス市",
+      "store_brand": "Aコープ",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "長野県",
+      "company": "キラヤ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "長野県",
+      "company": "第一スーパー",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "長野県",
+      "company": "タケダストアー",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "長野県",
+      "company": "ツルヤ",
+      "store_brand": "",
+      "groups": "NSAJ、JSA、CGC",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "長野県",
+      "company": "デリシア",
+      "store_brand": "デリシア、ユーパレット",
+      "groups": "NSAJ、JSA、AJS",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "長野県",
+      "company": "ナナーズ",
+      "store_brand": "",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "長野県",
+      "company": "ニシザワ",
+      "store_brand": "食彩館、ベルシャイン",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "長野県",
+      "company": "マックスバリュ長野",
+      "store_brand": "ザ・ビッグ",
+      "groups": "",
+      "notes": "イオングループ"
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "長野県",
+      "company": "マルトシ",
+      "store_brand": "",
+      "groups": "セルコ",
+      "notes": ""
+    },
+    {
+      "region": "北陸・甲信越",
+      "prefecture": "長野県",
+      "company": "西源",
+      "store_brand": "ラ・ムー",
+      "groups": "",
+      "notes": "大黒天物産グループ"
+    },
+    {
+      "region": "東海",
+      "prefecture": "岐阜県",
+      "company": "バロー",
+      "store_brand": "",
+      "groups": "JSA、JCSA",
+      "notes": "バローHDグループ"
+    },
+    {
+      "region": "東海",
+      "prefecture": "岐阜県",
+      "company": "トミダヤ",
+      "store_brand": "フードセンタートミダヤ",
+      "groups": "CGC",
+      "notes": "コノミヤの屋号。元CGC加盟"
+    },
+    {
+      "region": "東海",
+      "prefecture": "岐阜県",
+      "company": "エスアンドエス",
+      "store_brand": "フレッシュマーケットワンダー",
+      "groups": "CGC",
+      "notes": "コノミヤの屋号。元CGC加盟"
+    },
+    {
+      "region": "東海",
+      "prefecture": "岐阜県",
+      "company": "三心",
+      "store_brand": "スーパー三心",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "岐阜県",
+      "company": "スーパーチェン主婦の店中津川店",
+      "store_brand": "スマイル",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "岐阜県",
+      "company": "ファミリーストアさとう",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": "北陸スパーチェーン（現アルビス）に加盟"
+    },
+    {
+      "region": "東海",
+      "prefecture": "岐阜県",
+      "company": "玉野屋",
+      "store_brand": "タマノヤ",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "岐阜県",
+      "company": "未来堂 高山",
+      "store_brand": "ボス フーズマーケット",
+      "groups": "AJS",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "岐阜県",
+      "company": "駿河屋魚一",
+      "store_brand": "フレッシュフーズ駿河屋",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "岐阜県",
+      "company": "大光",
+      "store_brand": "アミカ",
+      "groups": "",
+      "notes": "業務用スーパー"
+    },
+    {
+      "region": "東海",
+      "prefecture": "岐阜県",
+      "company": "マツオカ",
+      "store_brand": "食品スーパーマツオカ",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "岐阜県",
+      "company": "サンマートサカイ",
+      "store_brand": "",
+      "groups": "",
+      "notes": "移動スーパー「とくし丸」も運営。"
+    },
+    {
+      "region": "東海",
+      "prefecture": "岐阜県",
+      "company": "大松支店",
+      "store_brand": "オオマツフード",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "岐阜県",
+      "company": "マルナカ",
+      "store_brand": "スーパーマルナカ",
+      "groups": "",
+      "notes": "マルナカとは関係なし"
+    },
+    {
+      "region": "東海",
+      "prefecture": "静岡県",
+      "company": "あおき",
+      "store_brand": "フードストアあおき",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "静岡県",
+      "company": "綾市商店",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "静岡県",
+      "company": "遠鉄ストア",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "静岡県",
+      "company": "かきこや",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "静岡県",
+      "company": "カドイケ",
+      "store_brand": "スーパーカドイケ",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "静岡県",
+      "company": "カネカストアー",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "静岡県",
+      "company": "カネハチ",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "静岡県",
+      "company": "三善",
+      "store_brand": "サンゼン",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "静岡県",
+      "company": "静鉄ストア",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "静岡県",
+      "company": "スーパー安藤",
+      "store_brand": "スーパーアンドウ",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "静岡県",
+      "company": "スーパーラック",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "静岡県",
+      "company": "スーパーよどばし",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "静岡県",
+      "company": "タカラ・エムシー",
+      "store_brand": "フードマーケットマム、リベロ",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "静岡県",
+      "company": "タカヤナギ",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "静岡県",
+      "company": "田子重",
+      "store_brand": "",
+      "groups": "JSA、AJS",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "静岡県",
+      "company": "ナガヤ",
+      "store_brand": "スーパーナガヤ",
+      "groups": "NSAJ、AJS",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "静岡県",
+      "company": "ビッグ富士",
+      "store_brand": "エブリィビッグデー",
+      "groups": "NSAJ、AJS",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "静岡県",
+      "company": "ヒバリヤ",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "静岡県",
+      "company": "富士屋",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "静岡県",
+      "company": "ベストメイト",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "静岡県",
+      "company": "マキヤ",
+      "store_brand": "",
+      "groups": "JSA、CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "静岡県",
+      "company": "マックスバリュ東海",
+      "store_brand": "マックスバリュ",
+      "groups": "JCSA",
+      "notes": "イオングループ"
+    },
+    {
+      "region": "東海",
+      "prefecture": "静岡県",
+      "company": "三田商店",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "愛知県",
+      "company": "渥美フーズ",
+      "store_brand": "フードオアシスあつみ",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "愛知県",
+      "company": "イオンビッグ",
+      "store_brand": "ザ・ビッグなど",
+      "groups": "",
+      "notes": "イオングループ"
+    },
+    {
+      "region": "東海",
+      "prefecture": "愛知県",
+      "company": "えぷろんフーズ",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "愛知県",
+      "company": "カネ一商店",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "愛知県",
+      "company": "カネスエ",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "愛知県",
+      "company": "コノミヤ 東海事業本部",
+      "store_brand": "コノミヤ、ハローフーヅ、トミダヤ",
+      "groups": "NSAJ",
+      "notes": "コノミヤグループ"
+    },
+    {
+      "region": "東海",
+      "prefecture": "愛知県",
+      "company": "サンエース",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "愛知県",
+      "company": "サンビレッジフーズ",
+      "store_brand": "ハローフーヅ",
+      "groups": "CGC",
+      "notes": "コノミヤグループ"
+    },
+    {
+      "region": "東海",
+      "prefecture": "愛知県",
+      "company": "シジシー・ショップ東海",
+      "store_brand": "フーズアイランド、いしはら",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "愛知県",
+      "company": "シバタ",
+      "store_brand": "パワーズ、たつみストアー",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "愛知県",
+      "company": "清水屋",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "愛知県",
+      "company": "スーパーヤオスズ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "愛知県",
+      "company": "スーパーヤマダイ",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "愛知県",
+      "company": "サンヨネ",
+      "store_brand": "",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "愛知県",
+      "company": "ドミー",
+      "store_brand": "",
+      "groups": "JSA",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "愛知県",
+      "company": "たつみストアー",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "愛知県",
+      "company": "ニューライフフジ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "愛知県",
+      "company": "フィールコーポレーション",
+      "store_brand": "フィール、クオリテ、EQVo!",
+      "groups": "",
+      "notes": "元ナフコチェーン"
+    },
+    {
+      "region": "東海",
+      "prefecture": "愛知県",
+      "company": "不二屋",
+      "store_brand": "",
+      "groups": "JSA、CGC",
+      "notes": "ナフコチェーン"
+    },
+    {
+      "region": "東海",
+      "prefecture": "愛知県",
+      "company": "ヤマトストアー",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "愛知県",
+      "company": "ヤマナカ",
+      "store_brand": "ヤマナカ、フランテ など",
+      "groups": "JSA、AJS",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "愛知県",
+      "company": "山信商店",
+      "store_brand": "スーパーやまのぶ",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "愛知県",
+      "company": "ユニー",
+      "store_brand": "アピタ、ピアゴ など",
+      "groups": "",
+      "notes": "PPIHグループ"
+    },
+    {
+      "region": "東海",
+      "prefecture": "愛知県",
+      "company": "義津屋",
+      "store_brand": "ヨシヅヤ",
+      "groups": "JCSA、CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "愛知県",
+      "company": "ワイストア",
+      "store_brand": "Yストア、ヨシヅヤ",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "三重県",
+      "company": "一号館",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "三重県",
+      "company": "ぎゅーとら",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "三重県",
+      "company": "サポーレ",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "三重県",
+      "company": "主婦の店",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "三重県",
+      "company": "玉城",
+      "store_brand": "GOODAY",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "三重県",
+      "company": "マルスフードショップ",
+      "store_brand": "マルス",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "三重県",
+      "company": "マルヤス",
+      "store_brand": "マルヤス、コスモス",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "東海",
+      "prefecture": "三重県",
+      "company": "スーパーサンシ",
+      "store_brand": "サンシ",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "滋賀県",
+      "company": "スター",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": "万代グループ"
+    },
+    {
+      "region": "関西",
+      "prefecture": "滋賀県",
+      "company": "パリヤ",
+      "store_brand": "",
+      "groups": "AJS",
+      "notes": "平和堂グループ"
+    },
+    {
+      "region": "関西",
+      "prefecture": "滋賀県",
+      "company": "フタバヤ",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": "バローHDグループ"
+    },
+    {
+      "region": "関西",
+      "prefecture": "滋賀県",
+      "company": "丸善",
+      "store_brand": "マルゼン",
+      "groups": "",
+      "notes": "平和堂グループ"
+    },
+    {
+      "region": "関西",
+      "prefecture": "滋賀県",
+      "company": "平和堂",
+      "store_brand": "平和堂、アル・プラザ、フレンドマートなど",
+      "groups": "JSA、JCSA、日流",
+      "notes": "平和堂グループ"
+    },
+    {
+      "region": "関西",
+      "prefecture": "京都府",
+      "company": "伊藤軒",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "京都府",
+      "company": "エール",
+      "store_brand": "",
+      "groups": "",
+      "notes": "平和堂グループ"
+    },
+    {
+      "region": "関西",
+      "prefecture": "京都府",
+      "company": "エムジー",
+      "store_brand": "エムジーショップ",
+      "groups": "JSA、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "京都府",
+      "company": "協同組合亀岡ショッピングセンター",
+      "store_brand": "アミティ",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "京都府",
+      "company": "神崎屋",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "京都府",
+      "company": "コスモコーポレーション",
+      "store_brand": "新鮮激安市場!",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "京都府",
+      "company": "さとう",
+      "store_brand": "フレッシュバザール・バザールタウン",
+      "groups": "JSA、日流",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "京都府",
+      "company": "サンダイコー",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "京都府",
+      "company": "なかむら",
+      "store_brand": "生鮮館なかむら",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "京都府",
+      "company": "にしがき",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "京都府",
+      "company": "西山寛商事",
+      "store_brand": "スーパーマーケットニシヤマ",
+      "groups": "AJS",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "京都府",
+      "company": "ハートフレンド",
+      "store_brand": "フレスコ、コレモ",
+      "groups": "JSA",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "京都府",
+      "company": "フクヤ",
+      "store_brand": "",
+      "groups": "AJS",
+      "notes": "クスリのアオキグループ"
+    },
+    {
+      "region": "関西",
+      "prefecture": "京都府",
+      "company": "マツモト",
+      "store_brand": "",
+      "groups": "AJS",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "京都府",
+      "company": "マツヤスーパー",
+      "store_brand": "",
+      "groups": "AJS",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "大阪府",
+      "company": "イズミヤ",
+      "store_brand": "イズミヤ、デイリーカナート等",
+      "groups": "JCSA",
+      "notes": "H2Oリテイリンググループ"
+    },
+    {
+      "region": "関西",
+      "prefecture": "大阪府",
+      "company": "カノー",
+      "store_brand": "食品館アプロ",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "大阪府",
+      "company": "近商ストア",
+      "store_brand": "",
+      "groups": "AJS、JCSA、日流",
+      "notes": "JSAを脱退"
+    },
+    {
+      "region": "関西",
+      "prefecture": "大阪府",
+      "company": "京阪ザ・ストア",
+      "store_brand": "フレスト、もより市",
+      "groups": "AJS、JCSA",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "大阪府",
+      "company": "コノミヤ",
+      "store_brand": "",
+      "groups": "JSA、CGC",
+      "notes": "コノミヤグループ"
+    },
+    {
+      "region": "関西",
+      "prefecture": "大阪府",
+      "company": "サーブ",
+      "store_brand": "サボイ、味道館",
+      "groups": "JSA",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "大阪府",
+      "company": "サンプラザ",
+      "store_brand": "",
+      "groups": "JSA、AJS",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "大阪府",
+      "company": "スーパーサンエー",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "大阪府",
+      "company": "スーパーサンコー",
+      "store_brand": "",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "大阪府",
+      "company": "スーパーストアナカガワ",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "大阪府",
+      "company": "スーパーナショナル",
+      "store_brand": "",
+      "groups": "AJS",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "大阪府",
+      "company": "大近",
+      "store_brand": "ラッキー、パントリー",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "大阪府",
+      "company": "徳岡",
+      "store_brand": "ボンルパ、グランマルシェ",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "大阪府",
+      "company": "阪急オアシス",
+      "store_brand": "",
+      "groups": "NSAJ、JCSA",
+      "notes": "H2Oリテイリンググループ"
+    },
+    {
+      "region": "関西",
+      "prefecture": "大阪府",
+      "company": "不二商事",
+      "store_brand": "トップワールド",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "大阪府",
+      "company": "マルヤス",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": "東海のマルヤスとは無関係"
+    },
+    {
+      "region": "関西",
+      "prefecture": "大阪府",
+      "company": "万代",
+      "store_brand": "",
+      "groups": "JSA",
+      "notes": "万代グループ、NID加盟店"
+    },
+    {
+      "region": "関西",
+      "prefecture": "大阪府",
+      "company": "ミートモリタ屋",
+      "store_brand": "",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "大阪府",
+      "company": "ライフコーポレーション",
+      "store_brand": "ライフ、セントラルスクエア",
+      "groups": "NSAJ、JSA、JCSA",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "兵庫県",
+      "company": "いかりスーパーマーケット",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "兵庫県",
+      "company": "関西スーパーマーケット",
+      "store_brand": "関西スーパー",
+      "groups": "NSAJ、JSA、AJS",
+      "notes": "H2Oリテイリンググループ"
+    },
+    {
+      "region": "関西",
+      "prefecture": "兵庫県",
+      "company": "神戸物産",
+      "store_brand": "業務スーパー",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "兵庫県",
+      "company": "銀ビルストアー",
+      "store_brand": "ボンマルシェ、プチマルシェ",
+      "groups": "JCSA、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "兵庫県",
+      "company": "主婦の店赤穂店",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "兵庫県",
+      "company": "神鉄エンタープライズ",
+      "store_brand": "神鉄食彩館",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "兵庫県",
+      "company": "生活協同組合コープこうべ",
+      "store_brand": "コープ、コープデイズ、シーア、コープミニ",
+      "groups": "日流",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "兵庫県",
+      "company": "田中屋本店",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "兵庫県",
+      "company": "トーホー",
+      "store_brand": "トーホーストア",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "兵庫県",
+      "company": "パル・ヤマト",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "兵庫県",
+      "company": "マルアイ",
+      "store_brand": "",
+      "groups": "JSA、CGC",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "兵庫県",
+      "company": "マルハチ",
+      "store_brand": "",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "兵庫県",
+      "company": "モンマルシェ",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "兵庫県",
+      "company": "ヤマダストアー",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "奈良県",
+      "company": "いそかわ",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": "マルヤスグループ"
+    },
+    {
+      "region": "関西",
+      "prefecture": "奈良県",
+      "company": "ヤマトー",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "奈良県",
+      "company": "吉野ストア",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "和歌山県",
+      "company": "オークワ",
+      "store_brand": "",
+      "groups": "JSA、JCSA、日流",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "和歌山県",
+      "company": "サンキョー",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "和歌山県",
+      "company": "たかす",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "関西",
+      "prefecture": "和歌山県",
+      "company": "廣岡 / エバグリーン廣甚",
+      "store_brand": "デリシャス廣岡、エバグリーン",
+      "groups": "NSAJ",
+      "notes": "ドラッグストア"
+    },
+    {
+      "region": "関西",
+      "prefecture": "和歌山県",
+      "company": "松源",
+      "store_brand": "マツゲン",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "company": "エスマート",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "company": "サンマート",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "company": "東宝企業",
+      "store_brand": "東宝ストア、新あじそう",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "鳥取県",
+      "company": "丸合",
+      "store_brand": "まるごう",
+      "groups": "AJS、JCSA",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "company": "油屋",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "company": "ウシオ",
+      "store_brand": "グッディー",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "company": "キヌヤ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "company": "JAしまねラピタ",
+      "store_brand": "",
+      "groups": "AJS",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "company": "フーズマーケットホック",
+      "store_brand": "",
+      "groups": "セルコ",
+      "notes": "さえきセルバHDグループ"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "company": "ふくしま",
+      "store_brand": "ラパン",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "company": "みしまや",
+      "store_brand": "",
+      "groups": "NSAJ、日流",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "島根県",
+      "company": "ヤマダヤ",
+      "store_brand": "ひまり",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "company": "共栄商事",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": "シーエムシー"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "company": "グランドマート",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": "シーエムシー"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "company": "大黒天物産",
+      "store_brand": "ラ・ムー、ディオなど",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "company": "玉屋",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": "シーエムシー"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "company": "天満屋ストア",
+      "store_brand": "天満屋ハピータウン、天満屋ハピーズなど",
+      "groups": "AJS、JCSA",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "company": "ニシナ",
+      "store_brand": "",
+      "groups": "JSA、日流",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "company": "ハローズ",
+      "store_brand": "",
+      "groups": "NSAJ、JSA",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "company": "マツサカ",
+      "store_brand": "プラザ、チョッパーズなど",
+      "groups": "",
+      "notes": "大黒天物産グループ"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "company": "マルイ",
+      "store_brand": "",
+      "groups": "NSAJ、JSA、CGC",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "company": "丸大",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": "シーエムシー"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "company": "みかもストア",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": "シーエムシー"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "company": "両備ストアカンパニー",
+      "store_brand": "リョービプラッツ、パークス、森のマルシェ、フレッシュマルシェ",
+      "groups": "JSA、日流",
+      "notes": "両備グループ"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "岡山県",
+      "company": "わたなべ生鮮館",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": "マルイグループ"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "company": "イズミ",
+      "store_brand": "ゆめタウン、ゆめマート",
+      "groups": "JSA、JCSA",
+      "notes": "イズミグループ"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "company": "Aコープ西日本",
+      "store_brand": "エーコープ",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "company": "エブリイ",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "company": "キムラ",
+      "store_brand": "リカーランド",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "company": "西條商事",
+      "store_brand": "ショージ",
+      "groups": "NSAJ、JSA、CGC",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "company": "スパーク",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "company": "ニチエー",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": "JSAを脱退"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "company": "藤三",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "company": "フジマート",
+      "store_brand": "ピュアークック",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "company": "フレスタ",
+      "store_brand": "",
+      "groups": "NSAJ、JSA、CGC",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "company": "フジ",
+      "store_brand": "マックスバリュ、ザ・ビッグ 、マルナカ、フジ・フジグラン",
+      "groups": "JSA、JCSA",
+      "notes": "イオングループ"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "company": "万惣",
+      "store_brand": "アルゾ、万惣、マルシェー",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "company": "三谷屋",
+      "store_brand": "",
+      "groups": "AJS",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "company": "モリヤマ",
+      "store_brand": "",
+      "groups": "AJS",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "広島県",
+      "company": "ユアーズ",
+      "store_brand": "ユアーズ、アバンセ",
+      "groups": "NSAJ",
+      "notes": "イズミグループ"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "company": "丸喜",
+      "store_brand": "",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "company": "丸久",
+      "store_brand": "アルク、丸久",
+      "groups": "NSAJ、JSA、AJS、JCSA",
+      "notes": "リテールパートナーズグループ"
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "company": "ユアーズ・バリュー",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "中国地方",
+      "prefecture": "山口県",
+      "company": "大和",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "company": "オオキタ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "四国新日本スーパーマーケット協会加盟"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "company": "キョーエイ",
+      "store_brand": "",
+      "groups": "AJS",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "company": "セブン",
+      "store_brand": "",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "徳島県",
+      "company": "デイリーマート",
+      "store_brand": "",
+      "groups": "",
+      "notes": "イズミグループ"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "company": "マルヨシセンター",
+      "store_brand": "",
+      "groups": "JSA、AJS",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "香川県",
+      "company": "ミワ商店",
+      "store_brand": "ピカソ",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "company": "糸プロジェクト",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "company": "今治デパート",
+      "store_brand": "",
+      "groups": "JSA、CGC",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "company": "オズメッセ",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "company": "キッチンエヌ",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "company": "木村チェーン",
+      "store_brand": "",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "company": "セブンスター",
+      "store_brand": "",
+      "groups": "AJS",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "company": "そごうマート",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "company": "波止浜スーパー",
+      "store_brand": "ファンタブルキッチン",
+      "groups": "NSAJ、CGC",
+      "notes": "四国新日本スーパーマーケット協会加盟"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "company": "フジマート四国",
+      "store_brand": "ABC",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "愛媛県",
+      "company": "ママイ",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "company": "エースワン",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "company": "サニーマート",
+      "store_brand": "",
+      "groups": "JSA",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "company": "サンシャインチェーン本部",
+      "store_brand": "サンシャイン",
+      "groups": "NSAJ、JSA、CGC、セルコ",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "company": "サンプラザ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "company": "ショッピングセンター プラザ・パル",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "company": "末広",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "四国新日本スーパーマーケット協会加盟"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "company": "土佐山田ショッピングセンター",
+      "store_brand": "バリュー",
+      "groups": "NSAJ、CGC",
+      "notes": "四国新日本スーパーマーケット協会加盟"
+    },
+    {
+      "region": "四国地方",
+      "prefecture": "高知県",
+      "company": "ナンコクスーパー",
+      "store_brand": "",
+      "groups": "AJS",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "company": "アスタラビスタ",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "company": "麻生芳雄商事",
+      "store_brand": "スーパーASO",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "company": "イーマート",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "company": "イオン九州",
+      "store_brand": "",
+      "groups": "",
+      "notes": "イオングループ"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "company": "Aコープ九州",
+      "store_brand": "",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "company": "カーニバル",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "九州新日本スーパーマーケット協会加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "company": "佐藤",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "company": "サングリン",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "company": "サンピット",
+      "store_brand": "サンピットバリュー",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "company": "サンリブ",
+      "store_brand": "サンリブ、マルショク",
+      "groups": "JSA",
+      "notes": "サンリブ・マルショクグループ"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "company": "スーパーいずみ",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "company": "ダイキョープラザ",
+      "store_brand": "ダイキョーバリュー",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "company": "西鉄ストア",
+      "store_brand": "にしてつストア、レガネット、スピナ",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "company": "波佐間食料品店",
+      "store_brand": "ニューハザマ",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "company": "ハローデイ",
+      "store_brand": "ハローデイ、ボンラパス",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "company": "フードウェイ",
+      "store_brand": "",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "company": "ふくや",
+      "store_brand": "たべごろ百旬館",
+      "groups": "AJS",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "company": "マミーズ",
+      "store_brand": "マミーズ、ラ・ムー",
+      "groups": "",
+      "notes": "大黒天物産傘下"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "company": "マルキョウ",
+      "store_brand": "",
+      "groups": "AJS",
+      "notes": "リテールパートナーズグループ"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "company": "マルコー",
+      "store_brand": "マルコーバリュー",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "company": "明治屋食品",
+      "store_brand": "",
+      "groups": "",
+      "notes": "JSAを脱退"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "company": "ゆめマート北九州",
+      "store_brand": "ゆめマート",
+      "groups": "",
+      "notes": "イズミグループ"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "福岡県",
+      "company": "リンク",
+      "store_brand": "バリューリンク",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "company": "アルタフーズ",
+      "store_brand": "",
+      "groups": "セルコ",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "company": "三栄",
+      "store_brand": "市場バリューサンエー",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "company": "スーパーモリナガ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "company": "ダイレックス",
+      "store_brand": "",
+      "groups": "",
+      "notes": "ドラッグストア"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "company": "SMAT",
+      "store_brand": "ファインズたけだ",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "佐賀県",
+      "company": "まいづる百貨店",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "九州新日本スーパーマーケット協会加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "company": "イチヤマ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "company": "エレナ",
+      "store_brand": "",
+      "groups": "AJS",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "company": "サイキ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "company": "サンライフ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "company": "ジョイフルサンアルファ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "company": "ショッピングプラザ紀久屋",
+      "store_brand": "バリュー平山店",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "company": "タケスエ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "company": "東美",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "九州新日本スーパーマーケット協会加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "company": "中村興産",
+      "store_brand": "カミティ",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "company": "浜喜屋",
+      "store_brand": "バリューはまきや",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "長崎県",
+      "company": "ヤマグチ",
+      "store_brand": "スーパーヤマグチ",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "company": "イスミ商事",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "company": "熊本スーパーマーケットグループ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "company": "サンフードイワナガ",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "company": "サンフードてらもと",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "company": "台信商店",
+      "store_brand": "スーパーストアダイノブ",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "company": "鶴屋商事",
+      "store_brand": "FOODY ONE",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "company": "みやはら",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "company": "ユーマートトクナガ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "company": "ゆめマート熊本",
+      "store_brand": "ゆめマート、サニー",
+      "groups": "",
+      "notes": "イズミグループ"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "熊本県",
+      "company": "ロッキー",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "company": "小串商店",
+      "store_brand": "バリュー",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "company": "小野商店",
+      "store_brand": "セルフおの",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "company": "神田楽市",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "company": "キチセ",
+      "store_brand": "バリュー",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "company": "サンライフ",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "company": "ショッピングプラザエース",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "company": "スーパー青木",
+      "store_brand": "スーパーあおき",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "company": "スーパー細川",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "九州新日本スーパーマーケット協会加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "company": "そのだ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "company": "てつや",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "company": "トキハインダストリー",
+      "store_brand": "",
+      "groups": "AJS",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "company": "フレイン",
+      "store_brand": "",
+      "groups": "AJS",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "company": "ホームインプルーブメントひろせ",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "company": "マルミヤストア",
+      "store_brand": "",
+      "groups": "JSA、AJS、JCSA",
+      "notes": "リテールパートナーズグループ"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "大分県",
+      "company": "まるや",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "協同組合九州スーパーマーケット加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "company": "さわいち",
+      "store_brand": "サンフレッシュむしか えびす店",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "company": "永野",
+      "store_brand": "うめこうじ、ながの屋",
+      "groups": "JSA、CGC",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "company": "ながやま",
+      "store_brand": "ミートショップながやま、HEARTYながやま、Foodコンビニながやま",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "company": "ひろせストアー",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "company": "マルイチ",
+      "store_brand": "",
+      "groups": "JSA、AJS",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "company": "ハットリー",
+      "store_brand": "Foodaly、旬感マーケット",
+      "groups": "",
+      "notes": "マルキュウグループ"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "company": "エーコープみやざき",
+      "store_brand": "",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "company": "毎日屋",
+      "store_brand": "サンリッチ",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "宮崎県",
+      "company": "生活協同組合コープみやざき",
+      "store_brand": "コープ",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "company": "秋丸商会",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "株式会社九州スーパーマーケットグループ加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "company": "うしじまストアー、サンフーズ",
+      "store_brand": "サンシード、サンピア",
+      "groups": "NSAJ、CGC",
+      "notes": "株式会社九州スーパーマーケットグループ加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "company": "扇屋",
+      "store_brand": "",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "company": "グリーンストア",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": "株式会社シージーシー南九州センター加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "company": "シージーシー南九州センター(CGCMKC)",
+      "store_brand": "加盟組織のため店舗名なし",
+      "groups": "NSAJ、CGC",
+      "notes": "全国スーパーマーケット協会加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "company": "城山ストアー",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "company": "スーパーよしだ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": "株式会社九州スーパーマーケットグループ加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "company": "鈴東商店",
+      "store_brand": "市場バリュースズヒガシ(閉店)",
+      "groups": "",
+      "notes": "2024年閉店"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "company": "タイヘイ",
+      "store_brand": "ピコ、タイヘイ吹上店",
+      "groups": "CGC",
+      "notes": "株式会社シージーシー南九州センター加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "company": "タイヨー",
+      "store_brand": "タイヨー、サンキューなど",
+      "groups": "",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "company": "大和",
+      "store_brand": "プラッセだいわ",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "company": "タカミ",
+      "store_brand": "ホームセンタータカミ",
+      "groups": "NSAJ、CGC",
+      "notes": "株式会社九州スーパーマーケットグループ加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "company": "東郷スーパーマーケット",
+      "store_brand": "バリュートーゴー本店",
+      "groups": "NSAJ、CGC",
+      "notes": "株式会社九州スーパーマーケットグループ加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "company": "なりざわ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "company": "ニシムタ",
+      "store_brand": "",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "company": "ハルタ",
+      "store_brand": "",
+      "groups": "AJS",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "company": "福利商店",
+      "store_brand": "ショッピングセンターふくり",
+      "groups": "CGC",
+      "notes": "株式会社シージーシー南九州センター加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "company": "万世ストアー",
+      "store_brand": "",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "company": "ヤクデン商事",
+      "store_brand": "ライフセンターやくでん",
+      "groups": "CGC",
+      "notes": "株式会社シージーシー南九州センター加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "company": "山形屋ストア",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "鹿児島県",
+      "company": "義村商店",
+      "store_brand": "ダイマル(徳之島)",
+      "groups": "CGC",
+      "notes": "株式会社シージーシー南九州センター加盟"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "company": "イオン琉球",
+      "store_brand": "",
+      "groups": "",
+      "notes": "イオングループ"
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "company": "金秀商事",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "company": "サンエー",
+      "store_brand": "",
+      "groups": "JSA、日流",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "company": "野嵩商会",
+      "store_brand": "フレッシュプラザユニオン",
+      "groups": "NSAJ",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "company": "丸大",
+      "store_brand": "",
+      "groups": "CGC",
+      "notes": ""
+    },
+    {
+      "region": "九州地方",
+      "prefecture": "沖縄県",
+      "company": "リウボウストア",
+      "store_brand": "りうぼう",
+      "groups": "NSAJ、CGC",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "日本のスーパーマーケット一覧（都道府県別）(Supermarkets in Japan by prefecture) - Free Download",
+    "description": "都道府県別の日本のスーパーマーケット運営企業・店舗ブランド名・加盟団体（NSAJ・CGC等）・備考の一覧。 Contains 617 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本のスーパーマーケット一覧（都道府県別）(Supermarkets in Japan by prefecture) | ListBase",
+    "seo_description": "Download 日本のスーパーマーケット一覧（都道府県別）(Supermarkets in Japan by prefecture) — 617 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 617 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7"
+    ]
+  }
+}
