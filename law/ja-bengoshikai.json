@@ -1,0 +1,301 @@
+{
+  "id": "ja-bengoshikai",
+  "name": "日本の弁護士会一覧 (Bar associations of Japan)",
+  "title": "日本の弁護士会一覧 (Bar associations of Japan)",
+  "description": "日本の各地の弁護士会（単位弁護士会）の名称・管轄区域（地方裁判所）・所属する弁護士会連合会の一覧。",
+  "category": "law",
+  "source": "https://ja.wikipedia.org/wiki/%E5%BC%81%E8%AD%B7%E5%A3%AB%E4%BC%9A",
+  "source_url": "https://ja.wikipedia.org/wiki/%E5%BC%81%E8%AD%B7%E5%A3%AB%E4%BC%9A",
+  "updated": "2026-10",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "jurisdiction",
+      "label": "Jurisdiction",
+      "type": "string"
+    },
+    {
+      "key": "federation",
+      "label": "Federation",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "札幌弁護士会",
+      "jurisdiction": "札幌地方裁判所管轄区域",
+      "federation": "北海道弁護士会連合会 （道弁連）"
+    },
+    {
+      "name": "釧路弁護士会",
+      "jurisdiction": "釧路地方裁判所管轄区域",
+      "federation": "北海道弁護士会連合会 （道弁連）"
+    },
+    {
+      "name": "旭川弁護士会",
+      "jurisdiction": "旭川地方裁判所管轄区域",
+      "federation": "北海道弁護士会連合会 （道弁連）"
+    },
+    {
+      "name": "函館弁護士会",
+      "jurisdiction": "函館地方裁判所管轄区域",
+      "federation": "北海道弁護士会連合会 （道弁連）"
+    },
+    {
+      "name": "青森県弁護士会",
+      "jurisdiction": "青森県全域",
+      "federation": "東北弁護士会連合会 （東北弁連）"
+    },
+    {
+      "name": "岩手弁護士会",
+      "jurisdiction": "岩手県全域",
+      "federation": "東北弁護士会連合会 （東北弁連）"
+    },
+    {
+      "name": "仙台弁護士会",
+      "jurisdiction": "宮城県全域",
+      "federation": "東北弁護士会連合会 （東北弁連）"
+    },
+    {
+      "name": "秋田弁護士会",
+      "jurisdiction": "秋田県全域",
+      "federation": "東北弁護士会連合会 （東北弁連）"
+    },
+    {
+      "name": "山形県弁護士会",
+      "jurisdiction": "山形県全域",
+      "federation": "東北弁護士会連合会 （東北弁連）"
+    },
+    {
+      "name": "福島県弁護士会",
+      "jurisdiction": "福島県全域",
+      "federation": "東北弁護士会連合会 （東北弁連）"
+    },
+    {
+      "name": "東京弁護士会",
+      "jurisdiction": "東京都全域",
+      "federation": "関東弁護士会連合会 （関弁連）"
+    },
+    {
+      "name": "第一東京弁護士会",
+      "jurisdiction": "東京都全域",
+      "federation": "関東弁護士会連合会 （関弁連）"
+    },
+    {
+      "name": "第二東京弁護士会",
+      "jurisdiction": "東京都全域",
+      "federation": "関東弁護士会連合会 （関弁連）"
+    },
+    {
+      "name": "神奈川県弁護士会",
+      "jurisdiction": "神奈川県全域",
+      "federation": "関東弁護士会連合会 （関弁連）"
+    },
+    {
+      "name": "埼玉弁護士会",
+      "jurisdiction": "埼玉県全域",
+      "federation": "関東弁護士会連合会 （関弁連）"
+    },
+    {
+      "name": "千葉県弁護士会",
+      "jurisdiction": "千葉県全域",
+      "federation": "関東弁護士会連合会 （関弁連）"
+    },
+    {
+      "name": "茨城県弁護士会",
+      "jurisdiction": "茨城県全域",
+      "federation": "関東弁護士会連合会 （関弁連）"
+    },
+    {
+      "name": "栃木県弁護士会",
+      "jurisdiction": "栃木県全域",
+      "federation": "関東弁護士会連合会 （関弁連）"
+    },
+    {
+      "name": "群馬弁護士会",
+      "jurisdiction": "群馬県全域",
+      "federation": "関東弁護士会連合会 （関弁連）"
+    },
+    {
+      "name": "山梨県弁護士会",
+      "jurisdiction": "山梨県全域",
+      "federation": "関東弁護士会連合会 （関弁連）"
+    },
+    {
+      "name": "静岡県弁護士会",
+      "jurisdiction": "静岡県全域",
+      "federation": "関東弁護士会連合会 （関弁連）"
+    },
+    {
+      "name": "長野県弁護士会",
+      "jurisdiction": "長野県全域",
+      "federation": "関東弁護士会連合会 （関弁連）"
+    },
+    {
+      "name": "新潟県弁護士会",
+      "jurisdiction": "新潟県全域",
+      "federation": "関東弁護士会連合会 （関弁連）"
+    },
+    {
+      "name": "愛知県弁護士会",
+      "jurisdiction": "愛知県全域",
+      "federation": "中部弁護士会連合会 （中部弁連）"
+    },
+    {
+      "name": "岐阜県弁護士会",
+      "jurisdiction": "岐阜県全域",
+      "federation": "中部弁護士会連合会 （中部弁連）"
+    },
+    {
+      "name": "三重弁護士会",
+      "jurisdiction": "三重県全域",
+      "federation": "中部弁護士会連合会 （中部弁連）"
+    },
+    {
+      "name": "富山県弁護士会",
+      "jurisdiction": "富山県全域",
+      "federation": "中部弁護士会連合会 （中部弁連）"
+    },
+    {
+      "name": "金沢弁護士会",
+      "jurisdiction": "石川県全域",
+      "federation": "中部弁護士会連合会 （中部弁連）"
+    },
+    {
+      "name": "福井弁護士会",
+      "jurisdiction": "福井県全域",
+      "federation": "中部弁護士会連合会 （中部弁連）"
+    },
+    {
+      "name": "滋賀弁護士会",
+      "jurisdiction": "滋賀県全域",
+      "federation": "近畿弁護士会連合会 （近畿弁連）"
+    },
+    {
+      "name": "京都弁護士会",
+      "jurisdiction": "京都府全域",
+      "federation": "近畿弁護士会連合会 （近畿弁連）"
+    },
+    {
+      "name": "大阪弁護士会",
+      "jurisdiction": "大阪府全域",
+      "federation": "近畿弁護士会連合会 （近畿弁連）"
+    },
+    {
+      "name": "兵庫県弁護士会",
+      "jurisdiction": "兵庫県全域",
+      "federation": "近畿弁護士会連合会 （近畿弁連）"
+    },
+    {
+      "name": "奈良弁護士会",
+      "jurisdiction": "奈良県全域",
+      "federation": "近畿弁護士会連合会 （近畿弁連）"
+    },
+    {
+      "name": "和歌山弁護士会",
+      "jurisdiction": "和歌山県全域",
+      "federation": "近畿弁護士会連合会 （近畿弁連）"
+    },
+    {
+      "name": "鳥取県弁護士会",
+      "jurisdiction": "鳥取県全域",
+      "federation": "中国地方弁護士会連合会 （中国地方弁連）"
+    },
+    {
+      "name": "島根県弁護士会",
+      "jurisdiction": "島根県全域",
+      "federation": "中国地方弁護士会連合会 （中国地方弁連）"
+    },
+    {
+      "name": "岡山弁護士会",
+      "jurisdiction": "岡山県全域",
+      "federation": "中国地方弁護士会連合会 （中国地方弁連）"
+    },
+    {
+      "name": "広島弁護士会",
+      "jurisdiction": "広島県全域",
+      "federation": "中国地方弁護士会連合会 （中国地方弁連）"
+    },
+    {
+      "name": "山口県弁護士会",
+      "jurisdiction": "山口県全域",
+      "federation": "中国地方弁護士会連合会 （中国地方弁連）"
+    },
+    {
+      "name": "徳島弁護士会",
+      "jurisdiction": "徳島県全域",
+      "federation": "四国弁護士会連合会 （四国弁連）"
+    },
+    {
+      "name": "香川県弁護士会",
+      "jurisdiction": "香川県全域",
+      "federation": "四国弁護士会連合会 （四国弁連）"
+    },
+    {
+      "name": "愛媛弁護士会",
+      "jurisdiction": "愛媛県全域",
+      "federation": "四国弁護士会連合会 （四国弁連）"
+    },
+    {
+      "name": "高知弁護士会",
+      "jurisdiction": "高知県全域",
+      "federation": "四国弁護士会連合会 （四国弁連）"
+    },
+    {
+      "name": "福岡県弁護士会",
+      "jurisdiction": "福岡県全域",
+      "federation": "九州弁護士会連合会 （九州弁連）"
+    },
+    {
+      "name": "佐賀県弁護士会",
+      "jurisdiction": "佐賀県全域",
+      "federation": "九州弁護士会連合会 （九州弁連）"
+    },
+    {
+      "name": "長崎県弁護士会",
+      "jurisdiction": "長崎県全域",
+      "federation": "九州弁護士会連合会 （九州弁連）"
+    },
+    {
+      "name": "熊本県弁護士会",
+      "jurisdiction": "熊本県全域",
+      "federation": "九州弁護士会連合会 （九州弁連）"
+    },
+    {
+      "name": "大分県弁護士会",
+      "jurisdiction": "大分県全域",
+      "federation": "九州弁護士会連合会 （九州弁連）"
+    },
+    {
+      "name": "宮崎県弁護士会",
+      "jurisdiction": "宮崎県全域",
+      "federation": "九州弁護士会連合会 （九州弁連）"
+    },
+    {
+      "name": "鹿児島県弁護士会",
+      "jurisdiction": "鹿児島県全域",
+      "federation": "九州弁護士会連合会 （九州弁連）"
+    },
+    {
+      "name": "沖縄弁護士会",
+      "jurisdiction": "沖縄県全域",
+      "federation": "九州弁護士会連合会 （九州弁連）"
+    }
+  ],
+  "meta": {
+    "title": "日本の弁護士会一覧 (Bar associations of Japan) - Free Download",
+    "description": "日本の各地の弁護士会（単位弁護士会）の名称・管轄区域（地方裁判所）・所属する弁護士会連合会の一覧。 Contains 52 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の弁護士会一覧 (Bar associations of Japan) | ListBase",
+    "seo_description": "Download 日本の弁護士会一覧 (Bar associations of Japan) — 52 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 52 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E5%BC%81%E8%AD%B7%E5%A3%AB%E4%BC%9A"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-26T02:11:19.328Z",
-  "total_datasets": 507,
-  "total_records": 454232,
+  "generated": "2026-10-26T02:11:23.369Z",
+  "total_datasets": 508,
+  "total_records": 454284,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "music",
@@ -6363,6 +6363,30 @@
         "xlsx": {
           "name": "ja-orai-hyogen-nijijukugo_JA.xlsx",
           "size": 12846
+        }
+      }
+    },
+    {
+      "id": "ja-bengoshikai",
+      "name": "日本の弁護士会一覧 (Bar associations of Japan)",
+      "category": "law",
+      "record_count": 52,
+      "columns": [
+        "name",
+        "jurisdiction",
+        "federation"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E5%BC%81%E8%AD%B7%E5%A3%AB%E4%BC%9A",
+      "updated": "2026-10",
+      "size": 10138,
+      "files": {
+        "csv": {
+          "name": "ja-bengoshikai_JA.csv",
+          "size": 4814
+        },
+        "xlsx": {
+          "name": "ja-bengoshikai_JA.xlsx",
+          "size": 8265
         }
       }
     },
