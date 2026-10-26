@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-26T02:11:15.270Z",
-  "total_datasets": 506,
-  "total_records": 453537,
+  "generated": "2026-10-26T02:11:19.328Z",
+  "total_datasets": 507,
+  "total_records": 454232,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "geography",
@@ -1581,6 +1581,30 @@
         "xlsx": {
           "name": "ja-shochu-meka_JA.xlsx",
           "size": 10786
+        }
+      }
+    },
+    {
+      "id": "ja-shokuhin-kigyo",
+      "name": "日本の食品メーカー一覧 (Japanese food companies)",
+      "category": "food",
+      "record_count": 695,
+      "columns": [
+        "kana_group",
+        "name",
+        "notes"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BC%81%E6%A5%AD%E4%B8%80%E8%A6%A7_%28%E9%A3%9F%E6%96%99%E5%93%81%29",
+      "updated": "2026-10",
+      "size": 73098,
+      "files": {
+        "csv": {
+          "name": "ja-shokuhin-kigyo_JA.csv",
+          "size": 26764
+        },
+        "xlsx": {
+          "name": "ja-shokuhin-kigyo_JA.xlsx",
+          "size": 23366
         }
       }
     },

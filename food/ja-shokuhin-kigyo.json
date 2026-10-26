@@ -1,0 +1,3516 @@
+{
+  "id": "ja-shokuhin-kigyo",
+  "name": "日本の食品メーカー一覧 (Japanese food companies)",
+  "title": "日本の食品メーカー一覧 (Japanese food companies)",
+  "description": "日本の食料品メーカー（製菓・製パン・酒造・調味料・乳業など）の一覧。上場市場・証券コードなどの注記付き。",
+  "category": "food",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BC%81%E6%A5%AD%E4%B8%80%E8%A6%A7_%28%E9%A3%9F%E6%96%99%E5%93%81%29",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BC%81%E6%A5%AD%E4%B8%80%E8%A6%A7_%28%E9%A3%9F%E6%96%99%E5%93%81%29",
+  "updated": "2026-10",
+  "record_count": 695,
+  "columns": [
+    {
+      "key": "kana_group",
+      "label": "Kana Group",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kana_group": "ア行",
+      "name": "相生ユニビオ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アイリスフーズ",
+      "notes": "アイリスオーヤマ100%出資子会社"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アイン食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "青木食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "明石氷販",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "赤城水産",
+      "notes": "JASDAQ・2878"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "赤城乳業",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "秋田いなふく米菓",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "秋田屋本店",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "秋田銘醸",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "あき乃家",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "芥川製菓",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "浅田飴",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "浅田給食",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "味の加久の屋",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "味の素",
+      "notes": "東証プライム・2802"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "味の素AGF",
+      "notes": "AGF"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アサヒグループホールディングス",
+      "notes": "東証プライム・2502"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アサヒグループジャパン",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アサヒビール",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アサヒ飲料",
+      "notes": "東証1・2598"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "カルピス",
+      "notes": "東証1・2591"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アサヒグループ食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "ニッカウヰスキー",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "朝日酒造 (鹿児島県)",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "朝日酒造 (新潟県)",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "朝日食品工業",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "旭食品 (山梨県)",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "旭食品工業",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "旭松食品",
+      "notes": "東証スタンダード・2911"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "あじかん",
+      "notes": "東証スタンダード・2907"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "味源",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "あじまん",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "ADEKA",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "あまごころ本舗",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "奄美大島開運酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "甘利香辛食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "あみ印食品工業",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "鮎家",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "新政酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アリアケジャパン",
+      "notes": "東証プライム・2815"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "有田食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アリックス",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "あわしま堂",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "淡路麺業",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アンデルセン・パン生活文化研究所",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アンデルセン",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "タカキベーカリー",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "イートアンドホールディングス",
+      "notes": "東証プライム・2882"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "イートアンドフーズ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "大阪王将",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "一品香",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "イシイ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "イシメン",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "いずみ製菓",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "イタノ冷蔵",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "イチビキ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "いちまる",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "イトメン",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "いなば食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "イビデン物産",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "イフジ産業",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "伊賀越",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "伊藤園",
+      "notes": "東証プライム・2593"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "伊藤製パン",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "伊藤ハム米久ホールディングス",
+      "notes": "東証プライム・2296"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "伊藤ハム",
+      "notes": "東証1・2284"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "米久",
+      "notes": "東証1・2290"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "米久ケンコーハム",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "伊藤久右衛門",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "伊藤農園",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "伊豆半島",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "伊那食品工業",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "一ノ蔵",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "一心商事",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "一正蒲鉾",
+      "notes": "東証スタンダード・2904"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "一番食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "一冨士フードサービス",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "稲井",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "岩崎食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "岩崎本舗",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "岩塚製菓",
+      "notes": "東証スタンダード・2221"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "岩手くずまきワイン",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "岩手缶詰",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "五木食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "市川園",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "市島酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "石井食品",
+      "notes": "東証スタンダード・2894"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "石屋製菓",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "石昆",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "泉酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "池島フーズ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "イフジ産業",
+      "notes": "東証スタンダード・2924"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "今井酒造店",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "井村屋グループ",
+      "notes": "東証プライム・2209"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "井村屋",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "日本フード",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "ヴィ・ド・フランス",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "ウィリーウィンキー",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "上野砂糖",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "ウェルディッシュ",
+      "notes": "東証スタンダード・2901"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "ウェルネオシュガー",
+      "notes": "東証プライム・2117"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "日新製糖→ ウェルネオシュガー",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "伊藤忠製糖→ ウェルネオシュガー",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "第一糖業",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "東洋精糖",
+      "notes": "東証スタンダード・2107"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "うさぎもち",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "碓氷勝三郎商店",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "梅乃宿酒造",
+      "notes": "東証スタンダード・559A"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "浦島海苔",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "雲海酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "雲海物産",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エア・ウォーターアグリ&フーズ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "相模ハム",
+      "notes": "JASDAQ・2289"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "大山ハム",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "江崎グリコ",
+      "notes": "東証プライム・2206"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アイクレオ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "グリコ乳業",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エイト社",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "永楽屋",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エースコック",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "ASフーズ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "シベール",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エスエスケイフーズ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "STIフードホールディングス",
+      "notes": "東証スタンダード・2932"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "STIフード",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "STIデリカ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "STIエナック",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "STIミヤギ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エストルフーズ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エスビー食品",
+      "notes": "東証スタンダード・2805"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エスフーズ",
+      "notes": "東証プライム・2292"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "AFC-HDアムスライフサイエンス",
+      "notes": "東証スタンダード・2927"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "越後製菓",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "江戸屋",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エヌビーエス",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "バンデロール",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エバラ食品工業",
+      "notes": "東証スタンダード・2819"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "えひめ飲料",
+      "notes": "JA全農100%出資子会社"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エム・シーシー食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "塩水港精糖",
+      "notes": "東証スタンダード・2112"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オエノンホールディングス",
+      "notes": "東証プライム・2533"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "合同酒精",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "福徳長酒類",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "秋田県発酵工業",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オエノンプロダクトサポート",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "ワコー",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "大塚食品",
+      "notes": "大塚ホールディングス100%出資子会社"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オタフクホールディングス",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オタフクソース",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "お多福醸造",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "お好みフーズ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "ユニオンソース",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "OPP",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オイシス",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オーカワ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オカムラ食品工業",
+      "notes": "東証スタンダード・2938"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オフィスツーワン",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "おむすびころりん本舗",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "おやつカンパニー",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オリエンタル",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オリオン",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オリオンビール",
+      "notes": "東証プライム・409A"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オリバーソース",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "お菓子の香梅",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "王子コーンスターチ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "王子食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "岡井食産",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "岡山木村屋",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "岡畑農園",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "岡野食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "沖縄ハム総合食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "沖縄製粉",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "沖縄明治乳業",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "荻野屋",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "恩地食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "近江屋牛肉店",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "御菓子御殿",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "小川屋",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "大関",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "大阪屋",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "大阪前田製菓",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "大阪第一食糧",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "大森屋",
+      "notes": "東証スタンダード・2917"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "大島食品工業",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "大野海苔",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "大國酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "大澤本家酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "男山",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "加越",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "金子商店",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "加賀の井酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "柿安本店",
+      "notes": "東証プライム・2294"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "カクキュー",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "カゴメ",
+      "notes": "東証プライム・2811"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "カゴメラビオ",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "春日酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "春日井製菓",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "菓道",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "かどや製油",
+      "notes": "東証スタンダード・2612"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "金井酒造店",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "鐘崎",
+      "notes": "JASDAQ・2912"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "カネテツデリカフーズ",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "カネハツ食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "かねふく",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "かば田食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "亀田製菓",
+      "notes": "東証プライム・2220"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "亀屋万年堂",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "賀茂鶴酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "カルビー",
+      "notes": "東証プライム・2229"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "川上酢店",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "川崎飲料",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "川商フーズ",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "甘強酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "カンロ",
+      "notes": "東証スタンダード・2216"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "菊勇",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "菊水酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "喜久水酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "菊正宗酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "喜久盛酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "キーコーヒー",
+      "notes": "東証プライム・2594"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "黄桜",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "北の誉酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "橘倉酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "キッコーマン",
+      "notes": "東証プライム・2801"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "キッコーマンソイフーズ",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "喜八家本家 三福庵",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "紀文食品",
+      "notes": "東証プライム・2933"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "木村 (栃木県)",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "木村 (熊本県)",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "木村飲料",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "木村屋",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "木村屋總本店",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "キューサイ",
+      "notes": "東証2・2596"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "九星飲料工業",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "キユーピー",
+      "notes": "東証プライム・2809"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "アヲハタ",
+      "notes": "東証スタンダード・2830"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "京田食品",
+      "notes": "2012年9月民事再生法申請"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "崎陽軒",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "協同乳業",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "協和食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "清洲桜醸造",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "霧島酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "キリンホールディングス",
+      "notes": "東証プライム・2503"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "麒麟麦酒",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "キリンディスティラリー",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "キリンビバレッジ",
+      "notes": "東証1・2595"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "キンキサイン",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "金印",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "金滴酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "沓掛酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "國稀酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "熊本菓房",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "熊本ワイン",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "黒澤酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "クワムラ食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "健康コーポレーション",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "ケンコーマヨネーズ",
+      "notes": "東証プライム・2915"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "ケンミン食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "月桂冠",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "合食",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "神戸屋",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "コーミ",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "ゴールドパック",
+      "notes": "JASDAQ・2589"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "コーワ",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "コカ・コーラボトラーズジャパン",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "九重味淋",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "寿スピリッツ",
+      "notes": "東証プライム・2222"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "寿製菓",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "シュクレイ",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "ケイシイシイ",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "但馬寿",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "九十九島グループ",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "小西酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "此の友酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "小林酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "小正醸造",
+      "notes": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "コモ",
+      "notes": "東証スタンダード・2224"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "五洋食品産業",
+      "notes": "東証 PRO・2230"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "コリス",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "栄屋乳業",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "相模屋食料",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サザコーヒー",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "札幌酒精工業",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サッポロホールディングス",
+      "notes": "東証プライム・2501"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サッポロビール",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ポッカサッポロフード&ビバレッジ",
+      "notes": "東証1・2592"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "薩摩酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サトウ食品",
+      "notes": "東証スタンダード・2923"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "佐藤食品工業",
+      "notes": "東証スタンダード・2814"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サブウェイ",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サラダクラブ",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "沢の鶴",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サンクゼール",
+      "notes": "東証グロース・2937"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "三幸製菓",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サンジルシ醸造",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "三州製菓",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サントリーホールディングス",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サントリー食品インターナショナル",
+      "notes": "東証プライム・2587"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サントリーフーズ",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サントリープロダクツ",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ジャパンビバレッジホールディングス",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サントリー",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サンビシ",
+      "notes": "名証2・2808"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サンマルクホールディングス",
+      "notes": "東証プライム・3395"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サンマルクカフェ",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サンヨー食品",
+      "notes": "サッポロ一番"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サンヨー堂",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "三立製菓",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "三和酒類",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "三和豆水庵",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "JA高崎ハム",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "JFLAホールディングス",
+      "notes": "東証スタンダード・3069"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "アスラポート",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "栄喜堂",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "盛田",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "J-オイルミルズ",
+      "notes": "東証プライム・2613"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "敷島製パン",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "四国物産",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "四国乳業",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "篠崎屋",
+      "notes": "東証スタンダード・2926"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "シノブフーズ",
+      "notes": "東証スタンダード・2903"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "柴田酒造場",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "シマダヤ",
+      "notes": "東証スタンダード・250A"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "シマヤ",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "島根中酪",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "シャトレーゼ",
+      "notes": "シャトレーゼホールディングス100%出資子会社"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ジャパンフーズ",
+      "notes": "東証スタンダード・2599"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "正栄食品工業",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "正田醤油",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "昭和産業",
+      "notes": "東証プライム・2004"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ボーソー油脂",
+      "notes": "東証2・2608"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "白石食品工業",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "白子",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "白雪食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "信州志賀一",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "新進",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "瑞鷹",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "スドージャム",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "須弥山",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "寿がきや食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "総本家駿河屋",
+      "notes": "東証2・2205）（ライオンケミカル100%出資子会社"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "セイヒョー",
+      "notes": "東証スタンダード・2872"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "関乃井酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "関本製麺製粉工場",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "関谷醸造",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "繊月酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "扇雀飴本舗",
+      "notes": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "仙波糖化工業",
+      "notes": "東証スタンダード・2916"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ソントン食品",
+      "notes": "東証2・2898"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "第一屋製パン",
+      "notes": "東証スタンダード・2215"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "ダイショー",
+      "notes": "東証スタンダード・2816"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "大東カカオ",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "ダイドーグループホールディングス",
+      "notes": "東証プライム・2590"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "ダイドードリンコ",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "ダイナミックベンディングネットワーク",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "たらみ",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "大山乳業農業協同組合",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "太陽化学",
+      "notes": "名証メイン・2902"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "大冷",
+      "notes": "東証スタンダード・2883"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "タカ食品工業",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "タカノフーズ",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "高橋助作酒造店",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "高畠ワイン",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "宝酒造",
+      "notes": "宝ホールディングス100%出資子会社"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "滝沢ハム",
+      "notes": "東証スタンダード・2293"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "タクマ食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "武重本家酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "竹徳かまぼこ",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "竹屋",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "田崎酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "田中食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "ダノンジャパン",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "辰馬本家酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "たまご&カンパニー",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "チェリオコーポレーション",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "千葉製粉",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "中央食品 (埼玉県)",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "中央食品 (大阪府)",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "中央食品 (香川県)",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "中部飼料",
+      "notes": "東証プライム・2053"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "千代の園酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "チロルチョコ",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "DM三井製糖",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "デルソーレ",
+      "notes": "東証スタンダード・2876"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "出羽桜酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "田苑酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "でん六",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "東食",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "東京フード",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "東京ワンタン本舗",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "東洋水産",
+      "notes": "東証プライム・2875"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "フクシマフーズ",
+      "notes": "JASDAQ・2921"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "東洋ナッツ食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "トオカツフーズ",
+      "notes": "JASDAQ・2909"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "徳島製粉",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "土佐鶴酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "トップ製菓",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "友桝飲料",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "鳥越製粉",
+      "notes": "東証スタンダード・2009"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "鳥越グレインホールディングス",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "石橋工業",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "カネニ",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "鳥越精麦",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "中島精麦",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "トモシアホールディングス",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "旭食品 (高知県)",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "カナカン",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "丸大堀内",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "とよす",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "トランドール",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "ドンク",
+      "notes": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "トンボ飲料",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "内藤食品工業",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "中島董商店",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "永谷園ホールディングス",
+      "notes": "東証プライム・2899"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "永谷園",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "藤原製麺",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "中野物産",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ナガノトマト",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "中村屋",
+      "notes": "東証スタンダード・2204"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "なとり",
+      "notes": "東証プライム・2922"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "南薩食鳥",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "新潟銘醸",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "二階堂酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ニコニコのり",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ニシカワ食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ニシダ飴",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "西吉田酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ニチフリ食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日糧製パン",
+      "notes": "札証・2218"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ニチレイ",
+      "notes": "東証プライム・2871"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ニチレイフーズ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日和産業",
+      "notes": "東証スタンダード・2055"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日清オイリオグループ",
+      "notes": "東証プライム・2602"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "セッツ",
+      "notes": "東証2・2611"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日清食品ホールディングス",
+      "notes": "東証プライム・2897"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日清食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日清シスコ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日清ヨーク",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日清食品冷凍",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日清食品チルド",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "明星食品",
+      "notes": "東証2・2900"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "湖池屋",
+      "notes": "東証スタンダード・2226"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日新化工",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日新酒類",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日新製菓",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日清製粉グループ本社",
+      "notes": "東証プライム・2002"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日清製粉",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日清フーズ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "オリエンタル酵母工業",
+      "notes": "東証2・2891"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ニッスイ",
+      "notes": "東証プライム・1332"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日東あられ新社",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日東富士製粉",
+      "notes": "東証スタンダード・2003"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "増田製粉所",
+      "notes": "東証2・2008"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日東ベスト",
+      "notes": "東証スタンダード・2877"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本サンガリアベバレッジカンパニー",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本カバヤ・オハヨーホールディングス",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "カバヤ食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "オハヨー乳業",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本コカ・コーラ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本盛",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本食研ホールディングス",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本食研",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本食研製造",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ケーオー産業",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本清酒",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ニップン",
+      "notes": "東証プライム・2001"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "オーケー食品工業",
+      "notes": "東証スタンダード・2905"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本たばこ産業",
+      "notes": "東証プライム・2914"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "テーブルマーク",
+      "notes": "東証1・2873"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ケイエス冷凍食品",
+      "notes": "名証2・2881"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "サンジェルマン",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ジェイティフーズ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ジェイティ飲料",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本甜菜製糖",
+      "notes": "東証プライム・2108"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本ハム",
+      "notes": "東証プライム・2282"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本フードグループ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本食品化工",
+      "notes": "東証スタンダード・2892"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本デルモンテ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本農産工業",
+      "notes": "東証1・2051"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ネスレ日本",
+      "notes": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "希望食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ハウス食品グループ本社",
+      "notes": "東証プライム・2810"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ハウス食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ハウスウェルネスフーズ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ハウスギャバン",
+      "notes": "JASDAQ・2817"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "マロニー",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "白鶴酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ハグルマ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "はごろもフーズ",
+      "notes": "東証スタンダード・2831"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ハタ鉱泉",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ハチ食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ハナマルキ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "花の舞酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "浜幸",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ハマダコンフェクト",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "濵田酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "林一二",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "林兼産業",
+      "notes": "東証スタンダード・2286"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "萬乗醸造",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "万城食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ビー・アール サーティワン アイスクリーム",
+      "notes": "東証スタンダード・2268"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ピエトロ",
+      "notes": "東証スタンダード・2818"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ヒガシマル (鹿児島県)",
+      "notes": "福証・2058"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ヒガシマル醤油 (兵庫県)",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ピックルスコーポレーション",
+      "notes": "東証プライム・2925"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "日渡酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ひまわり乳業",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "兵海カラフト",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "兵庫県手延素麺協同組合",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ヒライ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ヒロコーヒー",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ファーマフーズ",
+      "notes": "東証プライム・2929"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "フィード・ワン",
+      "notes": "東証プライム・2060"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "凮月堂",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "福寿園",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "福留ハム",
+      "notes": "東証スタンダード・2291"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ふくや",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "福さ屋",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "福禄寿酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "福利物産",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "不二製油",
+      "notes": "東証プライム・2607"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "フジッコ",
+      "notes": "東証プライム・2908"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "フジ日本精糖",
+      "notes": "東証スタンダード・2114"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "フジパングループ本社",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "フジパン",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "九州フジパン",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "中国フジパン",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "フジバンビ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "フジフーズ",
+      "notes": "JASDAQ・2913"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "フジミツ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "鮒佐",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "プライフーズ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "フランソア",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "プリマハム",
+      "notes": "東証プライム・2281"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "秋田プリマ食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "フルッタフルッタ",
+      "notes": "東証グロース・2586"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ブルドックソース",
+      "notes": "東証プライム・2804"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "イカリソース",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ブルボン",
+      "notes": "東証スタンダード・2208"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "プレミアムウォーター",
+      "notes": "光通信の連結子会社"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "フロインドリーブ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "フンドーキン醤油",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "文明堂",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ベースフード",
+      "notes": "東証グロース・2936"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ヘリオス酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "母恵夢",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "星野物産",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "北海道コカ・コーラボトリング",
+      "notes": "東証スタンダード・2573）（大日本印刷の連結子会社"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ホンダ製菓",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ポンパドウル",
+      "notes": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "本坊酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "マエダ",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "前田海産",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "前田製菓",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "ますやみそ",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "松合食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "松尾製菓",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "マリンフーズ",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "マリンフード",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "丸石醸造",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "まるか食品 (群馬県)",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "まるか食品 (広島県)",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "丸金食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "マルヱ醤油",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "マルキン食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "マルコメ",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "マルサンアイ",
+      "notes": "名証メイン・2551"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "丸善",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "丸善食品工業 (東京都)",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "丸善食品工業 (長野県)",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "マルタイ",
+      "notes": "福証・2919"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "丸大食品",
+      "notes": "東証プライム・2288"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "丸徳海苔",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "マルトモ",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "マルハニチロ",
+      "notes": "東証プライム・1333"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "ヤヨイサンフーズ",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "丸美屋",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "丸美屋食品工業",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "まるや八丁味噌",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "丸屋本店",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "丸六食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "丸和油脂",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "味里",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "三島食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "みすずコーポレーション",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "Mizkan",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "三菱商事ライフサイエンス",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "三ツ矢製菓",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "美濃屋あられ製造本舗",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "ミホウジャパン",
+      "notes": "ヘラクレス・2880"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "ミホミ",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "宮坂醸造",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "宮島酒店",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "ミヨシ油脂",
+      "notes": "東証スタンダード・4404"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "三輪酒造 (岐阜県)",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "三輪酒造 (広島県)",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "三輪そうめん山本",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "明治ホールディングス",
+      "notes": "東証プライム・2269"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "明治",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "明治製菓",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "明治乳業",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "明治マクビティ",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "名城食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "名糖産業",
+      "notes": "東証プライム・2207"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "メタル食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "メルシャン",
+      "notes": "東証1・2536"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "メロディアン",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "もち吉",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "桃川",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "桃屋",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "モランボン",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "森伊蔵酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "森永製菓",
+      "notes": "東証プライム・2201"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "森永乳業",
+      "notes": "東証プライム・2264"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "モロゾフ",
+      "notes": "東証プライム・2217"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "モンデリーズ・ジャパン",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "焼津水産化学工業",
+      "notes": "東証スタンダード・2812"
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "やおきん",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ヤクルト本社",
+      "notes": "東証プライム・2267"
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "やずや",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "山形食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ヤマキ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ヤマダイ食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "山崎製パン",
+      "notes": "東証プライム・2212"
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "イケダパン",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "イズヤパン",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ヴィ・ド・フランス",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "工藤パン",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "札幌パリ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "末広製菓",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "たけや製パン",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "東ハト",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "不二家",
+      "notes": "東証プライム・2211"
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ヤマザキビスケット",
+      "notes": "旧ヤマザキナビスコ"
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "YKベーキングカンパニー",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "YKマルト",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "山口油屋福太郎",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ヤマサ蒲鉾",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ヤマサ醤油",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ヤマモト食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ヤマダイ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "山田養蜂場",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "やまみ",
+      "notes": "東証スタンダード・2820"
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "山元酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "山本海苔店",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "山本山",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "やまやコミュニケーションズ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "山芳製菓",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "八幡物産",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ヤヱガキ酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ユウキ食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "有楽製菓",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "湯川酒造店",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "雪印メグミルク",
+      "notes": "東証プライム・2270"
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "雪印種苗",
+      "notes": "東証2・2057"
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "雪印ビーンスターク",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ユーグレナ",
+      "notes": "東証プライム・2931"
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ユーシーシーホールディングス",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ユーシーシー上島珈琲",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "UCCコーヒープロフェッショナル",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ユタカフーズ",
+      "notes": "東証スタンダード・2806"
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ユニカフェ",
+      "notes": "東証スタンダード・2597"
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "アートコーヒー",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ユニ・チャーム",
+      "notes": "東証プライム・8113"
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "UHA味覚糖",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ユーハイム",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "養命酒製造",
+      "notes": "東証プライム・2540"
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "吉村酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ヨシムラ・フード・ホールディングス",
+      "notes": "東証プライム・2884"
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "楽陽食品",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ヨシムラ・フード",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ヨックモック",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "よっちゃん食品工業",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ヨネザワフーズ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "米鶴酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "ライオン菓子",
+      "notes": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "ライフドリンク カンパニー",
+      "notes": "東証プライム・2585"
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "理研ビタミン",
+      "notes": "東証プライム・4526"
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "リスカ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "リョーユーパン",
+      "notes": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "ロイズコンフェクト",
+      "notes": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "ロック・フィールド",
+      "notes": "東証プライム・2910"
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "六甲バター",
+      "notes": "東証プライム・2266"
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "ロッテホールディングス",
+      "notes": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "ロッテ",
+      "notes": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "ロッテリア",
+      "notes": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "ローマイヤ",
+      "notes": "東証2・2893"
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "ロバパン",
+      "notes": ""
+    },
+    {
+      "kana_group": "ワ行",
+      "name": "わかさ生活",
+      "notes": ""
+    },
+    {
+      "kana_group": "ワ行",
+      "name": "若松酒造",
+      "notes": ""
+    },
+    {
+      "kana_group": "ワ行",
+      "name": "和弘食品",
+      "notes": "東証スタンダード・2813"
+    },
+    {
+      "kana_group": "ワ行",
+      "name": "和田製糖",
+      "notes": ""
+    },
+    {
+      "kana_group": "ワ行",
+      "name": "わらべや日洋",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "日本の食品メーカー一覧 (Japanese food companies) - Free Download",
+    "description": "日本の食料品メーカー（製菓・製パン・酒造・調味料・乳業など）の一覧。上場市場・証券コードなどの注記付き。 Contains 695 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の食品メーカー一覧 (Japanese food companies) | ListBase",
+    "seo_description": "Download 日本の食品メーカー一覧 (Japanese food companies) — 695 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 695 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BC%81%E6%A5%AD%E4%B8%80%E8%A6%A7_%28%E9%A3%9F%E6%96%99%E5%93%81%29"
+    ]
+  }
+}
