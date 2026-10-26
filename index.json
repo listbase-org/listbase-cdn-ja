@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-26T02:11:06.922Z",
-  "total_datasets": 504,
-  "total_records": 452899,
+  "generated": "2026-10-26T02:11:11.160Z",
+  "total_datasets": 505,
+  "total_records": 452920,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "environment",
@@ -841,6 +841,35 @@
         "xlsx": {
           "name": "ja-eiga-kogyo-shunyu_JA.xlsx",
           "size": 18583
+        }
+      }
+    },
+    {
+      "id": "ja-m1-grandprix-yusho",
+      "name": "M-1グランプリ 歴代優勝者一覧 (M-1 Grand Prix winners)",
+      "category": "entertainment",
+      "record_count": 21,
+      "columns": [
+        "edition",
+        "period",
+        "entries",
+        "winner_and_agency",
+        "finals_history",
+        "formed",
+        "first_round_score_rank",
+        "final_votes"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/M-1%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA",
+      "updated": "2026-10",
+      "size": 9483,
+      "files": {
+        "csv": {
+          "name": "ja-m1-grandprix-yusho_JA.csv",
+          "size": 3343
+        },
+        "xlsx": {
+          "name": "ja-m1-grandprix-yusho_JA.xlsx",
+          "size": 8625
         }
       }
     },

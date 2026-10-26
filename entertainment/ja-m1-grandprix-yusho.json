@@ -1,0 +1,276 @@
+{
+  "id": "ja-m1-grandprix-yusho",
+  "name": "M-1グランプリ 歴代優勝者一覧 (M-1 Grand Prix winners)",
+  "title": "M-1グランプリ 歴代優勝者一覧 (M-1 Grand Prix winners)",
+  "description": "漫才コンテスト「M-1グランプリ」の各回の大会期間・エントリー数・優勝コンビ（所属事務所）・結成年・得点と票数の一覧。",
+  "category": "entertainment",
+  "source": "https://ja.wikipedia.org/wiki/M-1%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA",
+  "source_url": "https://ja.wikipedia.org/wiki/M-1%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA",
+  "updated": "2026-10",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "edition",
+      "label": "Edition",
+      "type": "number"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    },
+    {
+      "key": "entries",
+      "label": "Entries",
+      "type": "string"
+    },
+    {
+      "key": "winner_and_agency",
+      "label": "Winner And Agency",
+      "type": "string"
+    },
+    {
+      "key": "finals_history",
+      "label": "Finals History",
+      "type": "string"
+    },
+    {
+      "key": "formed",
+      "label": "Formed",
+      "type": "string"
+    },
+    {
+      "key": "first_round_score_rank",
+      "label": "First Round Score Rank",
+      "type": "string"
+    },
+    {
+      "key": "final_votes",
+      "label": "Final Votes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edition": 1,
+      "period": "2001年 9月9日-12月25日",
+      "entries": "1603組",
+      "winner_and_agency": "中川家 吉本興業",
+      "finals_history": "-",
+      "formed": "1992年",
+      "first_round_score_rank": "829 / 1000点 1位",
+      "final_votes": "6 / 7票"
+    },
+    {
+      "edition": 2,
+      "period": "2002年 8月24日-12月29日",
+      "entries": "1756組",
+      "winner_and_agency": "ますだおかだ 松竹芸能",
+      "finals_history": "2年連続",
+      "formed": "1993年",
+      "first_round_score_rank": "612 / 700点 2位",
+      "final_votes": "5 / 7票"
+    },
+    {
+      "edition": 3,
+      "period": "2003年 8月30日-12月28日",
+      "entries": "1906組",
+      "winner_and_agency": "フットボールアワー 吉本興業",
+      "finals_history": "3年連続",
+      "formed": "1999年",
+      "first_round_score_rank": "663 / 700点 1位",
+      "final_votes": "4 / 7票"
+    },
+    {
+      "edition": 4,
+      "period": "2004年 9月4日-12月26日",
+      "entries": "2617組",
+      "winner_and_agency": "アンタッチャブル プロダクション人力舎",
+      "finals_history": "2年連続 2回目",
+      "formed": "1994年",
+      "first_round_score_rank": "673 / 700点 1位",
+      "final_votes": "6 / 7票"
+    },
+    {
+      "edition": 5,
+      "period": "2005年 9月3日-12月25日",
+      "entries": "3378組",
+      "winner_and_agency": "ブラックマヨネーズ 吉本興業",
+      "finals_history": "初進出",
+      "formed": "1997年",
+      "first_round_score_rank": "659 / 700点 1位",
+      "final_votes": "4 / 7票"
+    },
+    {
+      "edition": 6,
+      "period": "2006年 9月2日-12月24日",
+      "entries": "3922組",
+      "winner_and_agency": "チュートリアル 吉本興業",
+      "finals_history": "2年連続 3回目",
+      "formed": "1998年",
+      "first_round_score_rank": "664 / 700点 1位",
+      "final_votes": "7 / 7票"
+    },
+    {
+      "edition": 7,
+      "period": "2007年 9月1日-12月23日",
+      "entries": "4239組",
+      "winner_and_agency": "サンドウィッチマン△ フラットファイヴ",
+      "finals_history": "初進出",
+      "formed": "1998年",
+      "first_round_score_rank": "651 / 700点 1位",
+      "final_votes": "4 / 7票"
+    },
+    {
+      "edition": 8,
+      "period": "2008年 8月30日-12月21日",
+      "entries": "4489組",
+      "winner_and_agency": "NON STYLE よしもとクリエイティブ・エージェンシー",
+      "finals_history": "初進出",
+      "formed": "2000年",
+      "first_round_score_rank": "644 / 700点 2位",
+      "final_votes": "5 / 7票"
+    },
+    {
+      "edition": 9,
+      "period": "2009年 8月29日-12月20日",
+      "entries": "4629組",
+      "winner_and_agency": "パンクブーブー よしもとクリエイティブ・エージェンシー",
+      "finals_history": "初進出",
+      "formed": "2001年",
+      "first_round_score_rank": "651 / 700点 2位",
+      "final_votes": "7 / 7票"
+    },
+    {
+      "edition": 10,
+      "period": "2010年 8月21日-12月26日",
+      "entries": "4835組",
+      "winner_and_agency": "笑い飯 よしもとクリエイティブ・エージェンシー",
+      "finals_history": "9年連続 9回目",
+      "formed": "2000年",
+      "first_round_score_rank": "668 / 700点 2位",
+      "final_votes": "4 / 7票"
+    },
+    {
+      "edition": 11,
+      "period": "2015年 8月17日-12月6日",
+      "entries": "3472組",
+      "winner_and_agency": "トレンディエンジェル△ よしもとクリエイティブ・エージェンシー",
+      "finals_history": "初進出 ノーシード",
+      "formed": "2005年",
+      "first_round_score_rank": "825 / 900点 2位",
+      "final_votes": "6 / 9票"
+    },
+    {
+      "edition": 12,
+      "period": "2016年 8月1日-12月4日",
+      "entries": "3503組",
+      "winner_and_agency": "銀シャリ よしもとクリエイティブ・エージェンシー",
+      "finals_history": "3大会連続 3回目",
+      "formed": "2005年",
+      "first_round_score_rank": "470 / 500点 1位",
+      "final_votes": "3 / 5票"
+    },
+    {
+      "edition": 13,
+      "period": "2017年 8月1日-12月3日",
+      "entries": "4094組",
+      "winner_and_agency": "とろサーモン よしもとクリエイティブ・エージェンシー",
+      "finals_history": "初進出",
+      "formed": "2002年",
+      "first_round_score_rank": "645 / 700点 3位",
+      "final_votes": "4 / 7票"
+    },
+    {
+      "edition": 14,
+      "period": "2018年 8月1日-12月2日",
+      "entries": "4640組",
+      "winner_and_agency": "霜降り明星 よしもとクリエイティブ・エージェンシー",
+      "finals_history": "初進出",
+      "formed": "2013年",
+      "first_round_score_rank": "662 / 700点 1位",
+      "final_votes": "4 / 7票"
+    },
+    {
+      "edition": 15,
+      "period": "2019年 8月1日-12月22日",
+      "entries": "5040組",
+      "winner_and_agency": "ミルクボーイ 吉本興業",
+      "finals_history": "初進出 ノーシード",
+      "formed": "2007年",
+      "first_round_score_rank": "681 / 700点 1位",
+      "final_votes": "6 / 7票"
+    },
+    {
+      "edition": 16,
+      "period": "2020年 8月1日-12月20日",
+      "entries": "5081組",
+      "winner_and_agency": "マヂカルラブリー 吉本興業",
+      "finals_history": "3年ぶり 2回目",
+      "formed": "2007年",
+      "first_round_score_rank": "649 / 700点 2位",
+      "final_votes": "3 / 7票"
+    },
+    {
+      "edition": 17,
+      "period": "2021年 8月1日-12月19日",
+      "entries": "6017組",
+      "winner_and_agency": "錦鯉 SMA",
+      "finals_history": "2年連続 2回目",
+      "formed": "2012年",
+      "first_round_score_rank": "655 / 700点 2位",
+      "final_votes": "5 / 7票"
+    },
+    {
+      "edition": 18,
+      "period": "2022年 8月1日-12月18日",
+      "entries": "7261組",
+      "winner_and_agency": "ウエストランド タイタン",
+      "finals_history": "2年ぶり 2回目 ノーシード",
+      "formed": "2008年",
+      "first_round_score_rank": "659 / 700点 3位",
+      "final_votes": "6 / 7票"
+    },
+    {
+      "edition": 19,
+      "period": "2023年 8月1日-12月24日",
+      "entries": "8540組",
+      "winner_and_agency": "令和ロマン 吉本興業",
+      "finals_history": "初進出",
+      "formed": "2018年",
+      "first_round_score_rank": "648 / 700点 3位",
+      "final_votes": "4 / 7票"
+    },
+    {
+      "edition": 20,
+      "period": "2024年 8月1日-12月22日",
+      "entries": "10330組",
+      "winner_and_agency": "令和ロマン 吉本興業",
+      "finals_history": "2年連続 2回目",
+      "formed": "2018年",
+      "first_round_score_rank": "850 / 900点 2位",
+      "final_votes": "5 / 9票"
+    },
+    {
+      "edition": 21,
+      "period": "2025年 8月1日-12月21日",
+      "entries": "11521組",
+      "winner_and_agency": "たくろう 吉本興業",
+      "finals_history": "初進出",
+      "formed": "2016年",
+      "first_round_score_rank": "861 / 900点 2位",
+      "final_votes": "8 / 9票"
+    }
+  ],
+  "meta": {
+    "title": "M-1グランプリ 歴代優勝者一覧 (M-1 Grand Prix winners) - Free Download",
+    "description": "漫才コンテスト「M-1グランプリ」の各回の大会期間・エントリー数・優勝コンビ（所属事務所）・結成年・得点と票数の一覧。 Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "M-1グランプリ 歴代優勝者一覧 (M-1 Grand Prix winners) | ListBase",
+    "seo_description": "Download M-1グランプリ 歴代優勝者一覧 (M-1 Grand Prix winners) — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/M-1%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA"
+    ]
+  }
+}
