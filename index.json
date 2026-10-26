@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-26T02:10:54.647Z",
-  "total_datasets": 501,
-  "total_records": 451127,
+  "generated": "2026-10-26T02:10:58.715Z",
+  "total_datasets": 502,
+  "total_records": 451850,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "time",
@@ -13977,6 +13977,31 @@
         "xlsx": {
           "name": "ja-yokozuna-ichiran_JA.xlsx",
           "size": 13938
+        }
+      }
+    },
+    {
+      "id": "ja-denki-kiki-kigyo",
+      "name": "日本の電気機器メーカー一覧 (Japanese electrical equipment companies)",
+      "category": "tech",
+      "record_count": 723,
+      "columns": [
+        "kana_group",
+        "name",
+        "products",
+        "listing"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BC%81%E6%A5%AD%E4%B8%80%E8%A6%A7_%28%E9%9B%BB%E6%B0%97%E6%A9%9F%E5%99%A8%29",
+      "updated": "2026-10",
+      "size": 111470,
+      "files": {
+        "csv": {
+          "name": "ja-denki-kiki-kigyo_JA.csv",
+          "size": 47967
+        },
+        "xlsx": {
+          "name": "ja-denki-kiki-kigyo_JA.xlsx",
+          "size": 31507
         }
       }
     },

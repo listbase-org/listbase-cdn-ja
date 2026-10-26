@@ -1,0 +1,4384 @@
+{
+  "id": "ja-denki-kiki-kigyo",
+  "name": "日本の電気機器メーカー一覧 (Japanese electrical equipment companies)",
+  "title": "日本の電気機器メーカー一覧 (Japanese electrical equipment companies)",
+  "description": "日本の電気機器・電子部品・家電・情報機器メーカーの一覧。主な製品分野と上場市場・証券コード付き。",
+  "category": "tech",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BC%81%E6%A5%AD%E4%B8%80%E8%A6%A7_%28%E9%9B%BB%E6%B0%97%E6%A9%9F%E5%99%A8%29",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BC%81%E6%A5%AD%E4%B8%80%E8%A6%A7_%28%E9%9B%BB%E6%B0%97%E6%A9%9F%E5%99%A8%29",
+  "updated": "2026-10",
+  "record_count": 723,
+  "columns": [
+    {
+      "key": "kana_group",
+      "label": "Kana Group",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "products",
+      "label": "Products",
+      "type": "string"
+    },
+    {
+      "key": "listing",
+      "label": "Listing",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kana_group": "ア行",
+      "name": "Apple Japan",
+      "products": "パソコン、音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "ASTI",
+      "products": "車載用品",
+      "listing": "東証スタンダード・6899"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "AKIBAホールディングス",
+      "products": "持株会社",
+      "listing": "東証スタンダード・6840"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アドテック",
+      "products": "PC周辺機器、AV機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "Avino",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "AlphaTheta",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "RVH (企業)",
+      "products": "",
+      "listing": "東証スタンダード・6786"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "リアルビジョン",
+      "products": "情報処理機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "Earth Power",
+      "products": "バッテリー充電器、DC-ACインバータ、AC-DC電源、制御盤",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アーム電子",
+      "products": "プリント基板",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アールエフ",
+      "products": "映像機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アイ・オー・データ機器",
+      "products": "PC周辺機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アイコム",
+      "products": "無線関係",
+      "listing": "東証プライム・6820"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アイシン高丘",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "愛知電機",
+      "products": "配電用変圧器",
+      "listing": "名証プレミア・6623"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "IDEC",
+      "products": "制御機器、旧：和泉電気",
+      "listing": "東証プライム・6652"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アイ・ディ・ケイ",
+      "products": "映像機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アイホン",
+      "products": "インターホン、携帯電話",
+      "listing": "東証プライム・6718"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アイリバー",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アイリスオーヤマ",
+      "products": "照明器具",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アイレックス",
+      "products": "プリント基板",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アイワ",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アオイ電子",
+      "products": "IC、抵抗器",
+      "listing": "東証スタンダード・6832"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "赤井電機",
+      "products": "浄水器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アキュフェーズ",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アキュートロジック",
+      "products": "映像機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アクセル",
+      "products": "LSI",
+      "listing": "東証スタンダード・6730"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アコースティック・リヴァイブ",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "朝日電器",
+      "products": "照明器具",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アジアグロースキャピタル→大黒屋ホールディングス",
+      "products": "",
+      "listing": "日本の企業一覧 (小売業)"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アスタリスク",
+      "products": "",
+      "listing": "東証グロース・6522"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アストロデザイン",
+      "products": "映像機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アズビル",
+      "products": "制御機器",
+      "listing": "東証プライム・6845"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アドテック プラズマ テクノロジー",
+      "products": "プラズマ用電源",
+      "listing": "東証スタンダード・6668"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アドバンテスト",
+      "products": "計測器",
+      "listing": "東証プライム・6857"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アバールデータ",
+      "products": "組込機器",
+      "listing": "東証スタンダード・6918"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アマダミヤチ",
+      "products": "レーザー・抵抗溶接・システム機器",
+      "listing": "旧：ミヤチテクノス"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アライドテレシスホールディングス",
+      "products": "通信機器",
+      "listing": "東証スタンダード・6835"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アルチザネットワークス",
+      "products": "通信計測機器",
+      "listing": "東証スタンダード・6778"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アルバック",
+      "products": "真空装置",
+      "listing": "東証プライム・6728"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アルファデータ",
+      "products": "PC関連",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アルプスアルパイン",
+      "products": "音響機器、磁気ヘッド、電子部品",
+      "listing": "東証プライム・6770"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アルパイン (企業)",
+      "products": "音響機器、カーオーディオ、アルプス電気系",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アロカ → 日立アロカメディカル",
+      "products": "",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アンデス電気",
+      "products": "液晶カラーフィルター、空気清浄機",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "アンリツ",
+      "products": "通信機器、計測器、NEC系",
+      "listing": "東証プライム・6754"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "IMAGICA GROUP",
+      "products": "画像システム",
+      "listing": "旧：イマジカ・ロボット ホールディングス"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "iiyama",
+      "products": "PC周辺機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "イーター電機工業",
+      "products": "スイッチング電源",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "池上通信機",
+      "products": "放送機材",
+      "listing": "東証スタンダード・6771"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "出光興産",
+      "products": "電池、電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "市光工業",
+      "products": "自動車のランプ、日産系",
+      "listing": "東証プライム・7244"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "イビデン",
+      "products": "プリント基板",
+      "listing": "東証プライム・4062"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "イリソ電子工業",
+      "products": "コネクタ",
+      "listing": "東証プライム・6908"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "岩崎通信機",
+      "products": "電話関係機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "岩崎電気",
+      "products": "街灯などの照明関係",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "岩谷産業",
+      "products": "白物家電",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "イメージニクス",
+      "products": "映像機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "インスペック",
+      "products": "検査装置",
+      "listing": "東証スタンダード・6656"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "インタフェース",
+      "products": "制御機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "インネクスト",
+      "products": "検査装置",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "インバースネット",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "インベンテック開発",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "ウイングアーク1st",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "ウインテスト",
+      "products": "検査装置",
+      "listing": "東証スタンダード・6721"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "ウシオ電機",
+      "products": "産業用ランプ",
+      "listing": "東証プライム・6925"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "A&D (オーディオ)",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エーオープン",
+      "products": "PC関連機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "AGCテクノグラス",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "Abalance",
+      "products": "",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "EIZO",
+      "products": "液晶製品",
+      "listing": "旧・ナナオ"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "ESOTERIC",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "ExaScaler",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "FDK",
+      "products": "電子部品、乾電池",
+      "listing": "東証スタンダード・6955"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "FCNT",
+      "products": "携帯電話",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "HGST",
+      "products": "PC関連",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "HPCシステムズ",
+      "products": "",
+      "listing": "東証グロース・6597"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "SMK (企業)",
+      "products": "コネクタ、スイッチ",
+      "listing": "東証プライム・6798"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "LG化学",
+      "products": "電池",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "MCJ",
+      "products": "PC関連",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "マウスコンピューター",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "MD studio",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "NKKスイッチズ",
+      "products": "スイッチ",
+      "listing": "東証スタンダード・6943"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "NECプラットフォームズ",
+      "products": "POSシステム、携帯電話",
+      "listing": "旧：日通工→NECインフロンティア"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "NECエレクトロニクス→ルネサス エレクトロニクス",
+      "products": "",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "NECトーキン→トーキン",
+      "products": "",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "NECパーソナルコンピュータ",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "NKKスイッチズ",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "NGKエレクトロデバイス",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "NTTイノベーティブデバイス",
+      "products": "映像機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エイアンドティー",
+      "products": "分析装置",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エイサー (企業)",
+      "products": "PC、AV機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エイビット",
+      "products": "携帯電話",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エウレカコンピューター",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エスケーエレクトロニクス",
+      "products": "フォトマスク",
+      "listing": "東証スタンダード・6677"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エスペック",
+      "products": "環境試験機器",
+      "listing": "東証プライム・6859"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エナジーサポート",
+      "products": "開閉器",
+      "listing": "大証2・6646"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エヌエフホールディングス",
+      "products": "計測機器",
+      "listing": "東証スタンダード・6864"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エヌエフ回路設計ブロック",
+      "products": "",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "NTT ME",
+      "products": "通信機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エネサーブ",
+      "products": "発電装置",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エノモト",
+      "products": "リードフレーム",
+      "listing": "東証スタンダード・6928"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エバーグリーン",
+      "products": "PC関連製品",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エプソンダイレクト",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エブレン",
+      "products": "",
+      "listing": "東証スタンダード・6599"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エムケー精工",
+      "products": "調理機器、電光掲示板",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エムディケー",
+      "products": "",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エルナー",
+      "products": "コンデンサ、プリント基板",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エルピーダメモリ",
+      "products": "DRAM",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エレガアコス",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エレクトロラックス",
+      "products": "白物家電",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エレコム",
+      "products": "PC周辺機器",
+      "listing": "東証プライム・6750"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "DXアンテナ",
+      "products": "受信関連機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "日本アンテナ",
+      "products": "アンテナ",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エレファンテック",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "塩谷製作所",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "遠藤照明",
+      "products": "照明器具",
+      "listing": "東証スタンダード・6932"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "エンプラス",
+      "products": "プラスチックの光学素子など",
+      "listing": "東証プライム・6961"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "Aurex",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "OSGコーポレーション",
+      "products": "浄水器",
+      "listing": "東証スタンダード・6757"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "OBARA GROUP",
+      "products": "抵抗溶接機器",
+      "listing": "東証スタンダード・6877"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オウルテック",
+      "products": "PC・スマホ周辺機器、カー用品、音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "大井電気",
+      "products": "情報通信機器",
+      "listing": "東証スタンダード・6822"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "大泉製作所",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "大崎電気工業",
+      "products": "電気のメーター（電力量計）",
+      "listing": "東証プライム・6644"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オー・エイチ・ティー",
+      "products": "検査装置",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オージス総研",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オーディオテクニカ",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オーデリック",
+      "products": "照明器具",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オービック",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オーム電機 (静岡県)",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オーディオテクニカ",
+      "products": "映像機器、音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オーム電機 (東京都)",
+      "products": "照明器具",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "岡谷電機産業",
+      "products": "ノイズ対策部品",
+      "listing": "東証スタンダード・6926"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "小川電器商会",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オキサイド (企業)",
+      "products": "",
+      "listing": "東証グロース・6521"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "沖電気工業",
+      "products": "通信機器全般、半導体など",
+      "listing": "東証プライム・6703"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "沖データ",
+      "products": "プリンター",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オタリ",
+      "products": "音響機器関係",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "小野測器",
+      "products": "計測機器",
+      "listing": "東証スタンダード・6858"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オプテックスグループ",
+      "products": "センサ関連機器",
+      "listing": "東証プライム・6914"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オプテックス",
+      "products": "センサ関連機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オプテックス・エフエー",
+      "products": "センサ関連機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オプトエレクトロニクス",
+      "products": "バーコード関連機器",
+      "listing": "東証スタンダード・6664"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オムロン",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オムロン太陽",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オリエント時計",
+      "products": "",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オリオン電機",
+      "products": "映像、音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オリジン",
+      "products": "NTT向け電源装置",
+      "listing": "東証スタンダード・6513"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オリンパス",
+      "products": "光学機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オリンパス・ボイストレックシリーズ",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オムロン",
+      "products": "健康機器、制御機器",
+      "listing": "東証プライム・6645"
+    },
+    {
+      "kana_group": "ア行",
+      "name": "オンキヨーホームエンターテイメント",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ア行",
+      "name": "音聴箱",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "カインズグループ",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "加賀電子",
+      "products": "半導体",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "加賀東芝エレクトロニクス",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "かがつう",
+      "products": "照明器具",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "カシオ計算機",
+      "products": "電卓、腕時計",
+      "listing": "東証プライム・6952"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "カシオ情報機器",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "カシオマイクロニクス",
+      "products": "半導体BUMP",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "春日電機",
+      "products": "端子台",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "金沢村田製作所",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "カナレ電気",
+      "products": "映像機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "カロッツェリア (AV機器)",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "河合楽器製作所",
+      "products": "電子楽器",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "河村電器産業",
+      "products": "配電盤",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "キーエンス",
+      "products": "FA用センサー",
+      "listing": "東証プライム・6861"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "キオクシアホールディングス",
+      "products": "",
+      "listing": "東証プライム・285A"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "キオクシア",
+      "products": "半導体",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "GIGABYTE",
+      "products": "PC関連",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "菊水ホールディングス",
+      "products": "計測機器",
+      "listing": "東証スタンダード・6912"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "北川工業",
+      "products": "電磁波環境部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "キヤノン",
+      "products": "OA機器、光学機器",
+      "listing": "東証プライム・7751"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "キヤノン電子",
+      "products": "キヤノン向けプリンタなどの製品組み立て",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "ギャザズ",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "Qbric",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "QDレーザ",
+      "products": "",
+      "listing": "東証グロース・6613"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "キューヘン",
+      "products": "変圧器・太陽光発電設備",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "京三製作所",
+      "products": "鉄道・道路用信号機",
+      "listing": "東証プライム・6742"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "京写",
+      "products": "プリント基板",
+      "listing": "東証スタンダード・6837"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "京セラ",
+      "products": "通信機器、電子部品",
+      "listing": "東証プライム・6971"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "京セラクリスタルデバイス",
+      "products": "水晶関連電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "京セラドキュメントソリューションズ",
+      "products": "プリンター",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "キョウデン",
+      "products": "プリント基板",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "協立電機",
+      "products": "FAシステム",
+      "listing": "東証スタンダード・6874"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "共和電業",
+      "products": "ひずみゲージ",
+      "listing": "東証スタンダード・6853"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "共伸 (神奈川県)",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "キングジム",
+      "products": "OA機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "技術少年出版",
+      "products": "マイコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "グラスバレー",
+      "products": "映像機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "グラフィック プロダクツ",
+      "products": "金型用CAD",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "グラフテック",
+      "products": "プロッタ",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "クラリオン→フォルシアクラリオン・エレクトロニクス",
+      "products": "",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "グリーンハウス",
+      "products": "音響機器、PC周辺機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "クリエイティブメディア",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "クリバース",
+      "products": "照明器具",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "恵安",
+      "products": "PC関連",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "玄人志向",
+      "products": "PC関連",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "群馬電機",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "KRYNA",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "ケル",
+      "products": "コネクタ",
+      "listing": "東証スタンダード・6919"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "恵安 (企業)",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "ケンウッド",
+      "products": "オーディオ、無線機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "ケンコー",
+      "products": "光学機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "Kseries",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "KDK販売",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "小泉産業",
+      "products": "照明機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "小糸製作所",
+      "products": "自動車用ランプ、トヨタ系",
+      "listing": "東証プライム・7276"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "KIホールディングス",
+      "products": "航空機シート",
+      "listing": "東証2・6747"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "コイト電工",
+      "products": "鉄道電装品、信号機",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "KOA",
+      "products": "抵抗器",
+      "listing": "東証プライム・6999"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "廣華物産",
+      "products": "音響機器、映像機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "工機ホールディングス",
+      "products": "電動工具",
+      "listing": "旧：日立工機"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "光波",
+      "products": "LED関連製品",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "コーセル",
+      "products": "スイッチング電源",
+      "listing": "東証プライム・6905"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "交通システム電機",
+      "products": "鉄道・道路用信号機",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "KOKUSAI ELECTRIC",
+      "products": "",
+      "listing": "東証プライム・6525"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "コクヨ",
+      "products": "OA機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "コシナ",
+      "products": "光学機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "コダック",
+      "products": "光学機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "コニカミノルタ",
+      "products": "精密機器・光学機器、カメラを含むフォトイメージング事業は撤退",
+      "listing": "旧：コニカミノルタホールディングス"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "湖北工業",
+      "products": "",
+      "listing": "東証スタンダード・6524"
+    },
+    {
+      "kana_group": "カ行",
+      "name": "コロナ",
+      "products": "電気式石油ファンヒーター、空調機器など",
+      "listing": ""
+    },
+    {
+      "kana_group": "カ行",
+      "name": "コンテック",
+      "products": "組み込み機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サイズ",
+      "products": "PC周辺機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サイコム (パソコンメーカー)",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サイレックス・テクノロジー",
+      "products": "ネットワーク機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ザインエレクトロニクス",
+      "products": "LSI",
+      "listing": "東証スタンダード・6769"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サウンドウーノ",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "坂口電熱",
+      "products": "電熱機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サクサ",
+      "products": "電話通信機器",
+      "listing": "旧：田村大興ホールディングス / 田村電機 / 大興電機"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ニューテック (情報機器)",
+      "products": "HDD関連製品",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "さつき (企業)",
+      "products": "映像機器、パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "澤藤電機",
+      "products": "発電機",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サムスン電子",
+      "products": "韓国の財閥系",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サンコー (長野県)",
+      "products": "機構部品製造、組立",
+      "listing": "東証スタンダード・6964"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サンケン電気",
+      "products": "スイッチング電源",
+      "listing": "東証プライム・6707"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "三社電機製作所",
+      "products": "半導体、電源",
+      "listing": "東証スタンダード・6882"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "山水電気",
+      "products": "オーディオ、元はトランス。香港グランデ傘下",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "三相電機",
+      "products": "ポンプ",
+      "listing": "東証スタンダード・6518"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "santec",
+      "products": "光関連部品、機器",
+      "listing": "東証スタンダード・6777"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "Xacti",
+      "products": "映像機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "SoundGate",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "三研マイクロホン",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サンケン電気",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "三洋電機",
+      "products": "家電総合、映像機器、携帯電話、音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "山洋電気",
+      "products": "冷却ファン",
+      "listing": "東証プライム・6516"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "三洋ハイアール",
+      "products": "白物家電",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サン電子",
+      "products": "パチンコ関連機器",
+      "listing": "東証スタンダード・6736"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "サンワサプライ",
+      "products": "PC周辺機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "三和電気計器",
+      "products": "計測機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "C&Gシステムズ",
+      "products": "金型用CAD",
+      "listing": "東証スタンダード・6633"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "CEC",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ジーエス・ユアサコーポレーション",
+      "products": "持株会社",
+      "listing": "東証プライム・6674"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "GSユアサ",
+      "products": "バッテリー",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "GSユアサエナジー",
+      "products": "電池",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "CDian",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "シーシーエス",
+      "products": "LED照明",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "シーゲート",
+      "products": "PC関連",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "JVCケンウッド",
+      "products": "オーディオ、無線機、医療用モニター",
+      "listing": "東証プライム・6632"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ジオマテック",
+      "products": "光学製品",
+      "listing": "東証スタンダード・6907"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "シキノハイテック",
+      "products": "",
+      "listing": "東証スタンダード・6614"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "シグマ",
+      "products": "光学機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "シコー",
+      "products": "モータ",
+      "listing": "旧：シコー技研"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "シスメックス",
+      "products": "検体検査機器・試薬",
+      "listing": "東証プライム・6869"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "システムバンキング九州共同センター",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "シチズン時計",
+      "products": "精密機器",
+      "listing": "東証プライム・7762"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "シチズン・システムズ",
+      "products": "時計、液晶機器、健康機器",
+      "listing": "旧：シチズンシービーエム"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "シチズン電子",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "指月電機製作所",
+      "products": "コンデンサ",
+      "listing": "東証スタンダード・6994"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "シナノケンシ",
+      "products": "モータ、CD、DVDドライブ",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "品川無線",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "芝浦電子",
+      "products": "センサー（サーミスタ）",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "芝浦メカトロニクス",
+      "products": "半導体製造装置",
+      "listing": "東証プライム・6590"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "島田理化工業",
+      "products": "情報通信機器、半導体装置",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "シャープ",
+      "products": "家電総合、電子部品",
+      "listing": "東証プライム・6753"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "シャープNECディスプレイソリューションズ",
+      "products": "映像機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "Sharp Auvi",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ジャノメ",
+      "products": "ミシン",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ジャパンディスプレイ",
+      "products": "液晶ディスプレイ",
+      "listing": "東証プライム・6740"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "JAPANNEXT",
+      "products": "液晶ディスプレイ",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ジャルコ",
+      "products": "コネクタ",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "JUKI",
+      "products": "ミシン",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "JUNS",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "情報企画",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "昭和KDE",
+      "products": "プリント基板、工業材料",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "昭和情報機器",
+      "products": "印刷機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "昭和電工マテリアルズ → レゾナック",
+      "products": "",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "昭和電工マテリアルズ・エレクトロニクス",
+      "products": "プリント基板",
+      "listing": "旧：日立化成エレクトロニクス"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "シライ電子工業",
+      "products": "プリント基板",
+      "listing": "東証スタンダード・6658"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "シンクロン",
+      "products": "真空装置",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "新光電気工業",
+      "products": "半導体パッケージ",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "新コスモス電機",
+      "products": "ガス、火災警報機",
+      "listing": "東証スタンダード・6824"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "新電元工業",
+      "products": "電源装置",
+      "listing": "東証プライム・6844"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "シントム",
+      "products": "AV機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "新日本無線→日清紡マイクロデバイス",
+      "products": "",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "シンフォニアテクノロジー",
+      "products": "プリンター、自動販売機、自動改札機",
+      "listing": "東証プライム・6507"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "神明電機",
+      "products": "スイッチ",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ズーム (楽器メーカー)",
+      "products": "音響機器",
+      "listing": "東証スタンダード・6694"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ZOOM H2",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "SCREENホールディングス",
+      "products": "持株会社",
+      "listing": "東証プライム・7735"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "SCREENセミコンダクターソリューションズ",
+      "products": "半導体製造装置",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "SCREENファインテックソリューションズ",
+      "products": "ディスプレー製造装置・成膜装置",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "SCREEN PE ソリューションズ",
+      "products": "プリント基板関連機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "SCREENアドバンストシステムソリューションズ",
+      "products": "ICTソリューションズ",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "図研",
+      "products": "プリント基板用CAD/CAMシステムの開発",
+      "listing": "東証プライム・6947"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "鈴木",
+      "products": "コネクタ",
+      "listing": "東証プライム・6785"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "スター精密",
+      "products": "産業用プリンタ、工作機械",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "スタックス",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "スタッフ (企業)",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "スタンレー電気",
+      "products": "自動車用ランプ、ホンダ系",
+      "listing": "東証プライム・6923"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "すばる光電子",
+      "products": "",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "スマホドック24",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "スミダ コーポレーション",
+      "products": "コイル。持株会社",
+      "listing": "東証プライム・6817"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "住友電装",
+      "products": "ハーネス",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "住友電気工業",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "須山歯研",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "スリーダム",
+      "products": "リチウムイオン電池",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "SEMITEC",
+      "products": "センサー（サーミスタ）",
+      "listing": "旧：石塚電子"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "セイコーグループ",
+      "products": "持株会社",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "セイコーウオッチ",
+      "products": "精密工業",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "セイコーエプソン",
+      "products": "プリンタ、複写機、プロジェクタ",
+      "listing": "東証プライム・6724"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "精工技研",
+      "products": "光関連製品",
+      "listing": "東証スタンダード・6834"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "正興電機製作所",
+      "products": "制御システム",
+      "listing": "東証プライム・6653"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "星和電機",
+      "products": "LED関連製品",
+      "listing": "東証スタンダード・6748"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "セーラー万年筆",
+      "products": "事務用機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "セコニック",
+      "products": "光学機器、事務機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ゼネラル",
+      "products": "空調機器、情報通信機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ゼネラル・エレクトリック",
+      "products": "アメリカ系家電総合",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "セリオ東洋グループ",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "泉州工業",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "象印マホービン",
+      "products": "調理家電",
+      "listing": "東証プライム・7965"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "双信電機",
+      "products": "コンデンサ",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ソシオネクスト",
+      "products": "電子部品",
+      "listing": "東証プライム・6526"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ソニーグループ",
+      "products": "持株会社",
+      "listing": "東証プライム・6758"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ソニー",
+      "products": "AV機器、通信機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ソニーモバイルコミュニケーションズ→ソニー",
+      "products": "",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ソニーホームエンタテインメント&サウンドプロダクツ→ソニー",
+      "products": "",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ソニー・インタラクティブエンタテインメント",
+      "products": "携帯電話",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ソニーエナジー・デバイス",
+      "products": "電池",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ソフィアホールディングス",
+      "products": "マイコン開発支援装置",
+      "listing": "東証スタンダード・6942"
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ソリッドソニック",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ソリトンシステムズ",
+      "products": "映像機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "サ行",
+      "name": "ソルガム・ジャパン・ホールディングス",
+      "products": "LSI開発",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "タイガー魔法瓶",
+      "products": "調理家電",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "ダイキン工業",
+      "products": "空調機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "大真空",
+      "products": "水晶振動子",
+      "listing": "東証プライム・6962"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "大光電機",
+      "products": "照明器具",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "ダイシン電機",
+      "products": "配電盤",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "大同信号",
+      "products": "鉄道信号機",
+      "listing": "東証スタンダード・6743"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "ダイドー電子",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "ダイトク",
+      "products": "照明器具",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "大日技研",
+      "products": "医療機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "大日光・エンジニアリング",
+      "products": "電子部品実装",
+      "listing": "東証スタンダード・6635"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "大日製作所",
+      "products": "配電盤",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "ダイヘン",
+      "products": "変圧器、溶接機",
+      "listing": "東証プライム・6622"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "ダイヤトーン",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "ダイヤモンドエレクトリックホールディングス",
+      "products": "持株会社",
+      "listing": "東証スタンダード・6699"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "ダイヤゼブラ電機",
+      "products": "トランス、電源",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "ダイヤモンド電機",
+      "products": "点火コイル、着火制御機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "太洋テクノレックス",
+      "products": "フレキシブルプリント基板",
+      "listing": "東証スタンダード・6663"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "太洋電機産業",
+      "products": "はんだごて",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "太陽誘電",
+      "products": "コンデンサ、光メディア",
+      "listing": "東証プライム・6976"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "タカチホメディカル",
+      "products": "一般医科器械、医用電子機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "武内工業所",
+      "products": "照明器具",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "立山科学グループ",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "ダブル・スコープ",
+      "products": "",
+      "listing": "東証プライム・6619"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "多摩川ホールディングス",
+      "products": "持株会社",
+      "listing": "東証スタンダード・6838"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "多摩川電子",
+      "products": "通信機器部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "多摩電子工業",
+      "products": "",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "タムラ製作所",
+      "products": "AV機器内部の変圧器",
+      "listing": "東証プライム・6768"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "タムロン",
+      "products": "光学機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "チノー",
+      "products": "温度関係の計測器",
+      "listing": "東証プライム・6850"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "中央製作所",
+      "products": "電源機器、表面処理装置",
+      "listing": "名証メイン・6846"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "中央電子",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "長府製作所",
+      "products": "",
+      "listing": "石油暖房・住設機器"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "千代田インテグレ",
+      "products": "フィルム、テープ",
+      "listing": "東証スタンダード・6915"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "ツインバード",
+      "products": "小型家電製品、照明器具",
+      "listing": "東証スタンダード・6897"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "鶴賀電機",
+      "products": "計測機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "つかさ電子",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "帝国通信工業",
+      "products": "抵抗器",
+      "listing": "東証プライム・6763"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "ティアック",
+      "products": "PC光学ドライブ、元はオーディオ",
+      "listing": "東証スタンダード・6803"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "ティアックエソテリック",
+      "products": "高級オーディオ",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "ディアイスクエア",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "ディーアンドエムホールディングス",
+      "products": "持株会社",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "デノン",
+      "products": "オーディオ",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "TOA (企業)",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "TAD",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "TDK",
+      "products": "記録メディア、電子部品、音響機器、フェライト",
+      "listing": "東証プライム・6762"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "TDKラムダ",
+      "products": "スイッチング電源",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "TBグループ",
+      "products": "POS、レジスター",
+      "listing": "旧：東和メックス"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "テクニカル電子",
+      "products": "駐車場関連機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "Technics",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "テクノ・セブン",
+      "products": "タイムレコーダー",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "テクノホライゾン",
+      "products": "情報通信関連機器、FA関連機器、光学機器、電気機器、精密機器",
+      "listing": "東証スタンダード・6629"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "タイテック→テクノホライゾン",
+      "products": "",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "エルモ社→テクノホライゾン",
+      "products": "",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "テクノメディカ",
+      "products": "医療分析機器",
+      "listing": "東証スタンダード・6678"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "テスコム",
+      "products": "理美容家電、調理家電",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "寺崎電気産業",
+      "products": "配電制御システム",
+      "listing": "東証スタンダード・6637"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "テラプローブ",
+      "products": "",
+      "listing": "東証2・6627"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "電気興業",
+      "products": "大型の通信アンテナ",
+      "listing": "東証プライム・6706"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "電星",
+      "products": "電池",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "デンソー",
+      "products": "日本最大の自動車部品メーカー、トヨタ系",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "デンソーテン",
+      "products": "オーディオ機器",
+      "listing": "旧：富士通テン"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "デンヨー",
+      "products": "エンジン発電機、溶接機",
+      "listing": "東証プライム・6517"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "TOA (企業)",
+      "products": "放送設備",
+      "listing": "東証プライム・6809"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "東亜ディーケーケー",
+      "products": "計測機器、分析機器、生化学機器",
+      "listing": "東証スタンダード・6848"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "東和電材",
+      "products": "配・分電盤、各種制御盤・各種監視盤",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "東京エレクトロン",
+      "products": "半導体製造装置",
+      "listing": "東証プライム・8035"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "東京カソード研究所",
+      "products": "電極、プローブ",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "東京コスモス電機",
+      "products": "スイッチ,可変抵抗器,車載電装品",
+      "listing": "東証スタンダード・6772"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "東京サウンド",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "東京電波",
+      "products": "水晶発振器",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "トーキン",
+      "products": "コンデンサ",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "東研",
+      "products": "バーコードシステム",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "東光高岳",
+      "products": "電力配電機器",
+      "listing": "東証プライム・6617"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "東芝",
+      "products": "総合電気",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "東芝テック",
+      "products": "POSシステム",
+      "listing": "東証プライム・6588"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "東芝ライテック",
+      "products": "照明器具",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "東芝電池",
+      "products": "電池",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "東芝燃料電池システム",
+      "products": "電池",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "東邦機械",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "東北村田製作所",
+      "products": "電池",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "東北パイオニア",
+      "products": "映像機器、音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "東洋電機",
+      "products": "電力配電機器",
+      "listing": "名証メイン・6655"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "東洋電機製造",
+      "products": "鉄道用電気機器",
+      "listing": "東証スタンダード・6505"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "東洋メディアリンクス",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "東レ",
+      "products": "化学",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "戸上電機製作所",
+      "products": "配電盤",
+      "listing": "東証スタンダード・6643"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "トキナー",
+      "products": "光学機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "トッキ",
+      "products": "真空技術機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "トミタ電機",
+      "products": "フェライトコア、トランス",
+      "listing": "東証スタンダード・6898"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "トヨタバッテリー",
+      "products": "電池",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "トヨトミ",
+      "products": "空調機・石油暖房機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "トライオード",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "タ行",
+      "name": "トレックス・セミコンダクター",
+      "products": "半導体デバイス",
+      "listing": "東証プライム・6616"
+    },
+    {
+      "kana_group": "タ行",
+      "name": "十和田オーディオ",
+      "products": "映像機器、音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ナガオカ (企業)",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ナガオカトレーディング",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ナカミチ",
+      "products": "オーディオ機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ナカヨ",
+      "products": "通信機器、旧ナカヨ通信機",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "長崎菱電テクニカ",
+      "products": "映像機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "名古屋電機工業",
+      "products": "情報装置、検査装置",
+      "listing": "東証スタンダード・6797"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ナックイメージテクノロジー",
+      "products": "映像機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "Nuroモバイル",
+      "products": "携帯電話",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ニコン",
+      "products": "光学機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "西芝電機",
+      "products": "発電機",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ニチコン",
+      "products": "コンデンサ",
+      "listing": "東証プライム・6996"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日清紡マイクロデバイス",
+      "products": "半導体",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日新電機",
+      "products": "電力系重電機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日照 (企業)",
+      "products": "照明器具",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ニッポ電機",
+      "products": "照明機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日東工業",
+      "products": "配電盤",
+      "listing": "東証プライム・6651"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ニデック",
+      "products": "精密小型モーター",
+      "listing": "旧日本電産"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ニデックアドバンスドモータ",
+      "products": "モータ",
+      "listing": "旧日本電産サーボ"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ニデックインスツルメンツ",
+      "products": "小型モーター、元はオルゴール、旧三協精機製作所→日本電産サンキョー",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ニデックコンポーネンツ",
+      "products": "可変抵抗器",
+      "listing": "旧日本電産コパル電子"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ニデックアドバンステクノロジー",
+      "products": "検査装置",
+      "listing": "旧日本電産リード"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ニデックSVプローブ",
+      "products": "プローブ",
+      "listing": "旧SV TCL"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本アイ・ビー・エム",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本NCR",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本オラクル",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本圧着端子製造",
+      "products": "接続コネクタ、圧着端子",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本アビオニクス",
+      "products": "映像機器",
+      "listing": "東証スタンダード・6946"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本碍子",
+      "products": "電池",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本ゲートウェイ",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本ケミコン",
+      "products": "コンデンサ",
+      "listing": "東証プライム・6997"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本高圧電気",
+      "products": "配電用機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本航空電子工業",
+      "products": "接続コネクタ",
+      "listing": "東証プライム・6807"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本高周波",
+      "products": "プラズマ応用機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本光電工業",
+      "products": "医療電子（ME）機器",
+      "listing": "東証プライム・6849"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本シイエムケイ",
+      "products": "プリント基板",
+      "listing": "東証プライム・6958"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本信号",
+      "products": "鉄道・道路用信号機",
+      "listing": "東証プライム・6741"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本セラミック",
+      "products": "センサ",
+      "listing": "東証プライム・6929"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本ソルテック",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本タングステン",
+      "products": "電気接点",
+      "listing": "東証スタンダード・6998"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本端子",
+      "products": "コネクタ",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本抵抗器製作所",
+      "products": "抵抗器",
+      "listing": "東証スタンダード・6977"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本通信",
+      "products": "通信機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本デジタル家電",
+      "products": "AV機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本電音",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本電気(NEC)",
+      "products": "コンピュータ、映像機器、通信機器",
+      "listing": "東証プライム・6701"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本電子",
+      "products": "電子顕微鏡",
+      "listing": "東証プライム・6951"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本電子工業",
+      "products": "健康機器、理美容機器、家庭用調理機器、電子応用機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本電子材料",
+      "products": "半導体検査用プローブカード",
+      "listing": "東証スタンダード・6855"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本電波工業",
+      "products": "水晶発振器",
+      "listing": "東証プライム・6779"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本トリム",
+      "products": "整水器",
+      "listing": "東証プライム・6788"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本ビクター",
+      "products": "AV機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本ヒューレット・パッカード",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本HP",
+      "products": "パソコン、プリンター",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本フェンオール",
+      "products": "火災警報器",
+      "listing": "東証スタンダード・6870"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本マイクロニクス",
+      "products": "半導体検査装置",
+      "listing": "東証プライム・6871"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "日本無線",
+      "products": "無線通信機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "長野日本無線",
+      "products": "通信電子機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "NIMASO",
+      "products": "携帯電話",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ニレコ",
+      "products": "制御装置、検査装置",
+      "listing": "東証スタンダード・6863"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "NIRO",
+      "products": "AV機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "能美防災",
+      "products": "火災報知機",
+      "listing": "東証プライム・6744"
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ノーリツ",
+      "products": "ボイラー機器、給湯器システム",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "野田スクリーン",
+      "products": "プリント基板加工",
+      "listing": ""
+    },
+    {
+      "kana_group": "ナ行",
+      "name": "ノーベル工業",
+      "products": "照明器具",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "BungBungame Japan",
+      "products": "携帯電話",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ハーマン・インターナショナル",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ハイアール",
+      "products": "中国系家電メーカー",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "VAIO (企業)",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "パイオニア",
+      "products": "AV機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "東北パイオニア",
+      "products": "カーステレオ",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "バーテックススタンダード",
+      "products": "無線通信機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "バッファロー",
+      "products": "PC周辺機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "パナソニックホールディングス",
+      "products": "",
+      "listing": "東証プライム・6752"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "パナソニック",
+      "products": "家電総合",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "パナソニック インダストリー",
+      "products": "",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "パナソニック エコシステムズ",
+      "products": "",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "パナソニック エナジー",
+      "products": "電池",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "パナソニック エレクトリックワークス池田電機",
+      "products": "照明器具",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "パナソニック コネクト",
+      "products": "映像機器、音響機器、パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "パナソニック システムネットワークス→パナソニック システムソリューションズ ジャパン→パナソニック コネクト",
+      "products": "",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "パナソニック電工→パナソニックに合併",
+      "products": "配線材料、小物主体の家電製品、健康機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "パナソニック デバイスSUNX",
+      "products": "センサー",
+      "listing": "旧・パナソニック電工SUNX"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "パナソニック デバイス佐賀",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "パナソニック モバイルコミュニケーションズ",
+      "products": "無線通信機器、携帯電話",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "パナソニック ライティングシステムズ",
+      "products": "照明器具",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "パトライト",
+      "products": "回転灯",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "浜松ホトニクス",
+      "products": "光関連電子部品",
+      "listing": "東証プライム・6965"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "原田工業",
+      "products": "車載用アンテナ",
+      "listing": "東証スタンダード・6904"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "パルステック工業",
+      "products": "光関連検査装置",
+      "listing": "東証スタンダード・6894"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "バルミューダ",
+      "products": "",
+      "listing": "東証グロース・6612"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "パワーエックス",
+      "products": "",
+      "listing": "東証グロース・485A"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ハントキー",
+      "products": "中国系電源メーカー",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "PHCホールディングス",
+      "products": "",
+      "listing": "東証プライム・6523"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "PFU",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "BIPROGY",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "日比野音療研究所",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ピースリー→トラース・オン・プロダクト",
+      "products": "",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ピーバンドットコム",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "日置電機",
+      "products": "計測機器",
+      "listing": "東証プライム・6866"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ピクセラ",
+      "products": "PC周辺機器",
+      "listing": "東証スタンダード・6731"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ビジコン",
+      "products": "計算機",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ビジュアルテクノロジー",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ヴィスコ・テクノロジーズ",
+      "products": "",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "日立製作所",
+      "products": "総合電気",
+      "listing": "東証プライム・6501"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "日立アプライアンス",
+      "products": "電池",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "日立グローバルライフソリューションズ",
+      "products": "家電・空調",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "日立グローバルライフソリューションズ",
+      "products": "電池",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "日立国際電気",
+      "products": "通信機器、放送機器",
+      "listing": "2000年10月1日国際電気、日立電子、八木アンテナの合併で発足"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "日立エーアイシー",
+      "products": "コンデンサ",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "日立ビークルエナジー",
+      "products": "電池",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "日立ヘルスケア・マニュファクチャリング",
+      "products": "医療電子（ME）機器",
+      "listing": "旧日立メディコ、製造部門以外を日立製作所に承継し改称"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "日立アロカメディカル",
+      "products": "医療用電子機器、日立系、旧日本無線系",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ヒューレット・パッカード",
+      "products": "PC関連",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "平河ヒューテック",
+      "products": "映像機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ヒロセ電機",
+      "products": "接続コネクタ",
+      "listing": "東証プライム・6806"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "final",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ファナック",
+      "products": "ロボット",
+      "listing": "東証プライム・6954"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ファストサーチ & トランスファ",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "フィリップス",
+      "products": "オランダ系家電メーカー",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "フェローテックホールディングス",
+      "products": "特殊シール",
+      "listing": "東証スタンダード・6890"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "フォスター電機",
+      "products": "スピーカー",
+      "listing": "東証プライム・6794"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "フォルシアクラリオン・エレクトロニクス",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "フォトロン",
+      "products": "映像機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "付加価値再販業者",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "フクダ電子",
+      "products": "医療機器",
+      "listing": "東証スタンダード・6960"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "FUZE",
+      "products": "音響、映像機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "双葉電子工業",
+      "products": "蛍光表示管、ラジコン",
+      "listing": "東証プライム・6986"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "フライングモール",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "プライム プラネット エナジー&ソリューションズ",
+      "products": "電池",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ブラウン",
+      "products": "シェーバー",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ブラザー工業",
+      "products": "FAXなどの情報機器、ミシン",
+      "listing": "東証プライム・6448"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "プラネックスホールディング",
+      "products": "情報機器",
+      "listing": "旧：プラネックスコミュニケーションズ"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "富士ソフト",
+      "products": "携帯電話",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "富士通",
+      "products": "コンピュータ、通信機器",
+      "listing": "東証プライム・6702"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "富士通ITプロダクツ",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "富士通テレコムネットワークス",
+      "products": "ネットワーク用通信機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "富士通コンポーネント",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "富士通フロンテック",
+      "products": "POS、ATM",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "不二電機工業",
+      "products": "制御機器",
+      "listing": "東証スタンダード・6654"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "富士電機",
+      "products": "電力などの重電機器",
+      "listing": "東証プライム・6504"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "富士フイルムホールディングス",
+      "products": "持株会社",
+      "listing": "東証プライム・4901"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "富士フイルム",
+      "products": "光学機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "富士フイルムイメージングシステムズ",
+      "products": "メディア、AXIA",
+      "listing": "旧：富士フイルム コンシューマー営業本部 / 富士フイルムイメージテック"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "富士フイルム エレクトロニクスマテリアルズ",
+      "products": "半導体",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "富士フイルムオプトマテリアルズ",
+      "products": "液晶ディスプレイ",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "富士フイルム九州",
+      "products": "液晶ディスプレイ",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "富士フイルムソフトウエア",
+      "products": "IT関連機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "富士フイルムメディアクレスト",
+      "products": "ハードウェア関連",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "富士フイルムメディアマニュファクチャリング",
+      "products": "記録メディア（磁気テープ）",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "富士フイルムビジネスイノベーション",
+      "products": "OA機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "船井電機",
+      "products": "AV機器を中心とした家電製品",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ぷらっとホーム",
+      "products": "サーバ製品",
+      "listing": "東証スタンダード・6836"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ブラザー工業",
+      "products": "プリンター",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "MUTOHホールディングス",
+      "products": "",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "武藤工業",
+      "products": "プロッタ",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ブルーエナジー",
+      "products": "電池",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "FREETEL",
+      "products": "携帯電話",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "フレパー・ネットワークス",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "古河電池",
+      "products": "バッテリー",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "古野電気",
+      "products": "魚群探知機、船舶用通信機器",
+      "listing": "東証プライム・6814"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "プロサイド",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "PEGASUS",
+      "products": "工業用・家庭用ミシン",
+      "listing": "旧：ペガサスミシン製造"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ヘリオス テクノ ホールディング",
+      "products": "",
+      "listing": "東証スタンダード・6927"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ベルニクス",
+      "products": "電源装置",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "フェニックス電機",
+      "products": "ランプ",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "PEZY Computing",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "Pepz",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ベンキュー",
+      "products": "PC周辺機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ペンタックス",
+      "products": "光学機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "BOSE",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "BoCo",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ホーチキ",
+      "products": "火災報知機",
+      "listing": "東証プライム・6745"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "北陸電気工業",
+      "products": "電子部品（抵抗器）",
+      "listing": "東証スタンダード・6989"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ホシデン",
+      "products": "電子部品（携帯電話用マイクなど）",
+      "listing": "東証プライム・6804"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ホタルクス",
+      "products": "照明器具",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "ポラロイド",
+      "products": "カメラ",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "堀場製作所",
+      "products": "分析機器",
+      "listing": "東証プライム・6856"
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "本多電子",
+      "products": "魚群探知機、超音波応用機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ハ行",
+      "name": "本多木蝋工業所",
+      "products": "照明器具",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "マーレエレクトリックドライブズジャパン",
+      "products": "点火部品、モータ",
+      "listing": "旧国産電機"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "マイクロソフト",
+      "products": "",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "日本マイクロソフト",
+      "products": "PC周辺機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "マクセル",
+      "products": "メディア、乾電池",
+      "listing": "東証プライム・6810"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "マスプロ電工",
+      "products": "アンテナ",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "マブチモーター",
+      "products": "小型モーター",
+      "listing": "東証プライム・6592"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "マミヤ・オーピー",
+      "products": "光学機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "MARUWA",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "MARUWA SHOMEI",
+      "products": "照明器具",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "ミーレ",
+      "products": "白物家電",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "三井ハイテック",
+      "products": "ICリードフレーム、精密部品",
+      "listing": "東証プライム・6966"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "ミツバ (企業)",
+      "products": "自動車用ワイパーのモーター",
+      "listing": "東証プライム・7280"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "三菱電機",
+      "products": "総合電気",
+      "listing": "東証プライム・6503"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "三菱電機エンジニアリング",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "三菱電機照明",
+      "products": "照明器具",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "三菱重工業",
+      "products": "空調機",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "ミナトホールディングス",
+      "products": "持株会社",
+      "listing": "：ミナトエレクトロニクス"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "サンマックス・テクノロジーズ",
+      "products": "メモリーモジュール、システム機器、ストレージ製品、半導体",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "ミナト・アドバンスト・テクノロジーズ",
+      "products": "電子機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "ミネベアミツミ",
+      "products": "精密ベアリング、モータ",
+      "listing": "旧：ミネベア"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "ミツミ電機",
+      "products": "光関連の電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "本多通信工業",
+      "products": "コネクタ",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "美馬精機",
+      "products": "工業用ミシン",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "ミマキエンジニアリング",
+      "products": "プリンター",
+      "listing": "東証プライム・6638"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "宮越ホールディングス",
+      "products": "持株会社",
+      "listing": "東証プライム・6620"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "宮越商事",
+      "products": "映像・音響機器",
+      "listing": "東邦電器として発足。主に海外市場向けAV機器を主体に製造・販売していた。1983年に、ダイエーのプライベートブランド家電を製造していたクラウンを買収。現在は中国でOEM製造した液晶・LEDテレビやDVDプレーヤー等を海外に販売しており、自社生産はおこなっていない"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "宮崎エプソン",
+      "products": "水晶発振器",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "ミヨシ電子",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "村田製作所",
+      "products": "コンデンサ",
+      "listing": "東証プライム・6981"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "東光 (電子部品メーカー)",
+      "products": "コイル",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "MEDIAEDGE",
+      "products": "映像機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "メイコー",
+      "products": "プリント基板",
+      "listing": "東証プライム・6787"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "明星電気",
+      "products": "気象観測機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "明電舎",
+      "products": "重電機器",
+      "listing": "東証プライム・6508"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "明和eテック",
+      "products": "生産ライン機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "メガチップス",
+      "products": "半導体",
+      "listing": "東証プライム・6875"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "メディアリンクス",
+      "products": "放送通信機器",
+      "listing": "東証スタンダード・6659"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "メディアシステム",
+      "products": "映像機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "メムテック",
+      "products": "メディア、AV機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "メルコホールディングス",
+      "products": "持株会社",
+      "listing": "東証スタンダード・6676"
+    },
+    {
+      "kana_group": "マ行",
+      "name": "バッファロー",
+      "products": "IT機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "シー・エフ・デー販売",
+      "products": "パソコン周辺機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "バイオス",
+      "products": "ストレージ関連製品",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "バッファロー・IT・ソリューションズ",
+      "products": "ネットワーク機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "アドバンスデザイン",
+      "products": "データ関連",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "デジオン",
+      "products": "ネットワーク・ストレージソフトウェア",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "目黒電波測器",
+      "products": "計測機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "マ行",
+      "name": "森尾電機",
+      "products": "LED機器",
+      "listing": "東証スタンダード・6647"
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ヤーマン",
+      "products": "美容・健康機器",
+      "listing": "東証プライム・6630"
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "安川電機",
+      "products": "サーボモーター、制御機器",
+      "listing": "東証プライム・6506"
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ワイ・イー・データ",
+      "products": "記憶装置ドライブ",
+      "listing": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ヤノ電器",
+      "products": "PC周辺機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "山一電機",
+      "products": "ICソケット",
+      "listing": "東証プライム・6941"
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "山本音響工芸",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ヤマハ",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "YAMAGIWA",
+      "products": "照明器具",
+      "listing": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "山田照明",
+      "products": "照明器具",
+      "listing": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ユーイング",
+      "products": "家庭用電気機器",
+      "listing": "旧：森田電工"
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ユー・エム・シー・エレクトロニクス",
+      "products": "電子機器受託製造（EMS）",
+      "listing": "東証スタンダード・6615"
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ユー・エム・シー・ジャパン",
+      "products": "半導体製造",
+      "listing": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ユーシン",
+      "products": "車のキーの部分",
+      "listing": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ユニデンホールディングス",
+      "products": "通信機器",
+      "listing": "旧・ユニデン"
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ユニバーサル・シェル・プログラミング研究所",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ユニパルス",
+      "products": "計測機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ユビテック",
+      "products": "映像画像設計",
+      "listing": "東証スタンダード・6662"
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ユピテル",
+      "products": "レーダー探知機",
+      "listing": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "遊歩人",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "ヨコオ",
+      "products": "車のアンテナ",
+      "listing": "東証プライム・6800"
+    },
+    {
+      "kana_group": "ヤ行",
+      "name": "横河電機",
+      "products": "制御機器、計測機器",
+      "listing": "東証プライム・6841"
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "ライカ",
+      "products": "光学機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "LIVEDATA",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "ラックスマン",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "ラトックシステム",
+      "products": "PC・スマホ周辺機器、音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "ラディウス (企業)",
+      "products": "パソコン、音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "リーダー電子",
+      "products": "計測機器",
+      "listing": "東証スタンダード・6867"
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "リード企業LEED",
+      "products": "スピーカー",
+      "listing": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "リオン",
+      "products": "補聴器",
+      "listing": "東証プライム・6823"
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "リコー",
+      "products": "OA機器、光学機器",
+      "listing": "東証プライム・7752"
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "リチウムエナジージャパン",
+      "products": "電池",
+      "listing": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "リバーエレテック",
+      "products": "水晶発振器",
+      "listing": "東証スタンダード・6666"
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "菱北電子",
+      "products": "電極端子",
+      "listing": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "ルネサス エレクトロニクス",
+      "products": "半導体",
+      "listing": "東証プライム・6723"
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "ルビコン",
+      "products": "コンデンサ",
+      "listing": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "ルクス (企業)",
+      "products": "照明器具",
+      "listing": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "ルネサスエレクトロニクス",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "レイテックス",
+      "products": "検査測定機器",
+      "listing": "フェニックス銘柄・6672"
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "レーザーテック",
+      "products": "半導体検査装置",
+      "listing": "東証プライム・6920"
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "レックスマーク",
+      "products": "プリンタ",
+      "listing": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "レノボ",
+      "products": "PC関連",
+      "listing": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "レイホー製作所",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "黎明機械科技",
+      "products": "電子部品",
+      "listing": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "レシップ",
+      "products": "照明器具",
+      "listing": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "レゾナック",
+      "products": "電池",
+      "listing": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "Rentry",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "ロアス",
+      "products": "PC周辺機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "ローム",
+      "products": "集積回路",
+      "listing": "東証プライム・6963"
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "ローヤル電機",
+      "products": "ファン、照明器具",
+      "listing": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "ローランド",
+      "products": "音響機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "ローランド ディー. ジー.",
+      "products": "大型プロッタ",
+      "listing": ""
+    },
+    {
+      "kana_group": "ラ行",
+      "name": "ロジテック",
+      "products": "PC周辺機器",
+      "listing": ""
+    },
+    {
+      "kana_group": "ワ行",
+      "name": "和光電研",
+      "products": "電子回路、医療用具、マイコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ワ行",
+      "name": "ワコム",
+      "products": "ペンタブレット",
+      "listing": "東証プライム・6727"
+    },
+    {
+      "kana_group": "ワ行",
+      "name": "ワールドインテック",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ワ行",
+      "name": "YCC情報システム",
+      "products": "パソコン",
+      "listing": ""
+    },
+    {
+      "kana_group": "ワ行",
+      "name": "ワイ・デー・ケー",
+      "products": "電子部品",
+      "listing": ""
+    }
+  ],
+  "meta": {
+    "title": "日本の電気機器メーカー一覧 (Japanese electrical equipment companies) - Free Download",
+    "description": "日本の電気機器・電子部品・家電・情報機器メーカーの一覧。主な製品分野と上場市場・証券コード付き。 Contains 723 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の電気機器メーカー一覧 (Japanese electrical equipment companies) | ListBase",
+    "seo_description": "Download 日本の電気機器メーカー一覧 (Japanese electrical equipment companies) — 723 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 723 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BC%81%E6%A5%AD%E4%B8%80%E8%A6%A7_%28%E9%9B%BB%E6%B0%97%E6%A9%9F%E5%99%A8%29"
+    ]
+  }
+}
