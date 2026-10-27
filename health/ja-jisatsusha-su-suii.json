@@ -1,0 +1,1150 @@
+{
+  "id": "ja-jisatsusha-su-suii",
+  "name": "日本の自殺者数・自殺率の推移",
+  "title": "日本の自殺者数・自殺率の推移",
+  "description": "日本の年別自殺者数（男女別）と人口10万人あたり自殺率の推移（1899年以降）。",
+  "category": "health",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%87%AA%E6%AE%BA",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%87%AA%E6%AE%BA",
+  "updated": "2026-10",
+  "record_count": 121,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "suicides_total",
+      "label": "Suicides Total",
+      "type": "number"
+    },
+    {
+      "key": "suicides_male",
+      "label": "Suicides Male",
+      "type": "number"
+    },
+    {
+      "key": "suicides_female",
+      "label": "Suicides Female",
+      "type": "number"
+    },
+    {
+      "key": "rate_total",
+      "label": "Rate Total",
+      "type": "number"
+    },
+    {
+      "key": "rate_male",
+      "label": "Rate Male",
+      "type": "number"
+    },
+    {
+      "key": "rate_female",
+      "label": "Rate Female",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1899,
+      "suicides_total": 5932,
+      "suicides_male": 3699,
+      "suicides_female": 2233,
+      "rate_total": 13.7,
+      "rate_male": 16.9,
+      "rate_female": 10.4
+    },
+    {
+      "year": 1900,
+      "suicides_total": 5863,
+      "suicides_male": 3716,
+      "suicides_female": 2147,
+      "rate_total": 13.4,
+      "rate_male": 16.9,
+      "rate_female": 9.9
+    },
+    {
+      "year": 1901,
+      "suicides_total": 7847,
+      "suicides_male": 4872,
+      "suicides_female": 2974,
+      "rate_total": 17.7,
+      "rate_male": 21.8,
+      "rate_female": 13.5
+    },
+    {
+      "year": 1902,
+      "suicides_total": 8059,
+      "suicides_male": 4986,
+      "suicides_female": 3073,
+      "rate_total": 17.9,
+      "rate_male": 22.1,
+      "rate_female": 13.7
+    },
+    {
+      "year": 1903,
+      "suicides_total": 8814,
+      "suicides_male": 5547,
+      "suicides_female": 3267,
+      "rate_total": 19.4,
+      "rate_male": 24.2,
+      "rate_female": 14.4
+    },
+    {
+      "year": 1904,
+      "suicides_total": 8966,
+      "suicides_male": 5585,
+      "suicides_female": 3381,
+      "rate_total": 19.4,
+      "rate_male": 24.1,
+      "rate_female": 14.7
+    },
+    {
+      "year": 1905,
+      "suicides_total": 8089,
+      "suicides_male": 5020,
+      "suicides_female": 3069,
+      "rate_total": 17.4,
+      "rate_male": 21.4,
+      "rate_female": 13.2
+    },
+    {
+      "year": 1906,
+      "suicides_total": 7657,
+      "suicides_male": 4665,
+      "suicides_female": 2992,
+      "rate_total": 16.3,
+      "rate_male": 19.8,
+      "rate_female": 12.8
+    },
+    {
+      "year": 1907,
+      "suicides_total": 7999,
+      "suicides_male": 4836,
+      "suicides_female": 3163,
+      "rate_total": 16.9,
+      "rate_male": 20.3,
+      "rate_female": 13.4
+    },
+    {
+      "year": 1908,
+      "suicides_total": 8324,
+      "suicides_male": 5100,
+      "suicides_female": 3224,
+      "rate_total": 17.4,
+      "rate_male": 21.2,
+      "rate_female": 13.5
+    },
+    {
+      "year": 1909,
+      "suicides_total": 9141,
+      "suicides_male": 5735,
+      "suicides_female": 3405,
+      "rate_total": 18.8,
+      "rate_male": 23.6,
+      "rate_female": 14.1
+    },
+    {
+      "year": 1910,
+      "suicides_total": 9372,
+      "suicides_male": 5928,
+      "suicides_female": 3444,
+      "rate_total": 19.1,
+      "rate_male": 24,
+      "rate_female": 14
+    },
+    {
+      "year": 1911,
+      "suicides_total": 9373,
+      "suicides_male": 5847,
+      "suicides_female": 3526,
+      "rate_total": 18.8,
+      "rate_male": 23.4,
+      "rate_female": 14.2
+    },
+    {
+      "year": 1912,
+      "suicides_total": 9475,
+      "suicides_male": 5955,
+      "suicides_female": 3520,
+      "rate_total": 18.7,
+      "rate_male": 23.5,
+      "rate_female": 14
+    },
+    {
+      "year": 1913,
+      "suicides_total": 10367,
+      "suicides_male": 6474,
+      "suicides_female": 3893,
+      "rate_total": 20.2,
+      "rate_male": 25.2,
+      "rate_female": 15.2
+    },
+    {
+      "year": 1914,
+      "suicides_total": 10902,
+      "suicides_male": 6894,
+      "suicides_female": 4008,
+      "rate_total": 20.9,
+      "rate_male": 26.4,
+      "rate_female": 15.5
+    },
+    {
+      "year": 1915,
+      "suicides_total": 10153,
+      "suicides_male": 6503,
+      "suicides_female": 3650,
+      "rate_total": 19.2,
+      "rate_male": 24.6,
+      "rate_female": 13.9
+    },
+    {
+      "year": 1916,
+      "suicides_total": 9599,
+      "suicides_male": 6065,
+      "suicides_female": 3534,
+      "rate_total": 17.9,
+      "rate_male": 22.6,
+      "rate_female": 13.3
+    },
+    {
+      "year": 1917,
+      "suicides_total": 9254,
+      "suicides_male": 5724,
+      "suicides_female": 3530,
+      "rate_total": 17.1,
+      "rate_male": 21.1,
+      "rate_female": 13.1
+    },
+    {
+      "year": 1918,
+      "suicides_total": 10101,
+      "suicides_male": 6147,
+      "suicides_female": 3954,
+      "rate_total": 18.5,
+      "rate_male": 22.4,
+      "rate_female": 14.5
+    },
+    {
+      "year": 1919,
+      "suicides_total": 9924,
+      "suicides_male": 6158,
+      "suicides_female": 3766,
+      "rate_total": 18,
+      "rate_male": 22.3,
+      "rate_female": 13.7
+    },
+    {
+      "year": 1920,
+      "suicides_total": 10630,
+      "suicides_male": 6521,
+      "suicides_female": 4109,
+      "rate_total": 19,
+      "rate_male": 23.3,
+      "rate_female": 14.7
+    },
+    {
+      "year": 1921,
+      "suicides_total": 11358,
+      "suicides_male": 6923,
+      "suicides_female": 4435,
+      "rate_total": 20,
+      "rate_male": 24.4,
+      "rate_female": 15.7
+    },
+    {
+      "year": 1922,
+      "suicides_total": 11546,
+      "suicides_male": 6984,
+      "suicides_female": 4562,
+      "rate_total": 20.1,
+      "rate_male": 24.3,
+      "rate_female": 16
+    },
+    {
+      "year": 1923,
+      "suicides_total": 11488,
+      "suicides_male": 7065,
+      "suicides_female": 4423,
+      "rate_total": 19.8,
+      "rate_male": 24.2,
+      "rate_female": 15.3
+    },
+    {
+      "year": 1924,
+      "suicides_total": 11261,
+      "suicides_male": 6958,
+      "suicides_female": 4303,
+      "rate_total": 19.1,
+      "rate_male": 23.5,
+      "rate_female": 14.7
+    },
+    {
+      "year": 1925,
+      "suicides_total": 12249,
+      "suicides_male": 7521,
+      "suicides_female": 4728,
+      "rate_total": 20.5,
+      "rate_male": 25.1,
+      "rate_female": 15.9
+    },
+    {
+      "year": 1926,
+      "suicides_total": 12484,
+      "suicides_male": 7675,
+      "suicides_female": 4805,
+      "rate_total": 20.6,
+      "rate_male": 25.1,
+      "rate_female": 15.9
+    },
+    {
+      "year": 1927,
+      "suicides_total": 12845,
+      "suicides_male": 7912,
+      "suicides_female": 4933,
+      "rate_total": 20.8,
+      "rate_male": 25.5,
+      "rate_female": 16.1
+    },
+    {
+      "year": 1928,
+      "suicides_total": 13032,
+      "suicides_male": 7984,
+      "suicides_female": 5048,
+      "rate_total": 20.8,
+      "rate_male": 25.4,
+      "rate_female": 16.2
+    },
+    {
+      "year": 1929,
+      "suicides_total": 12740,
+      "suicides_male": 7915,
+      "suicides_female": 4825,
+      "rate_total": 20.1,
+      "rate_male": 24.8,
+      "rate_female": 15.3
+    },
+    {
+      "year": 1930,
+      "suicides_total": 13942,
+      "suicides_male": 8810,
+      "suicides_female": 5132,
+      "rate_total": 21.6,
+      "rate_male": 27.2,
+      "rate_female": 16
+    },
+    {
+      "year": 1931,
+      "suicides_total": 14353,
+      "suicides_male": 9102,
+      "suicides_female": 5251,
+      "rate_total": 21.9,
+      "rate_male": 27.7,
+      "rate_female": 16.1
+    },
+    {
+      "year": 1932,
+      "suicides_total": 14746,
+      "suicides_male": 9272,
+      "suicides_female": 5474,
+      "rate_total": 22.2,
+      "rate_male": 27.8,
+      "rate_female": 16.5
+    },
+    {
+      "year": 1933,
+      "suicides_total": 14805,
+      "suicides_male": 9110,
+      "suicides_female": 5695,
+      "rate_total": 22,
+      "rate_male": 26.9,
+      "rate_female": 17
+    },
+    {
+      "year": 1934,
+      "suicides_total": 14554,
+      "suicides_male": 9065,
+      "suicides_female": 5489,
+      "rate_total": 21.3,
+      "rate_male": 26.4,
+      "rate_female": 16.1
+    },
+    {
+      "year": 1935,
+      "suicides_total": 14172,
+      "suicides_male": 8733,
+      "suicides_female": 5438,
+      "rate_total": 20.5,
+      "rate_male": 25.1,
+      "rate_female": 15.8
+    },
+    {
+      "year": 1936,
+      "suicides_total": 15423,
+      "suicides_male": 9766,
+      "suicides_female": 5657,
+      "rate_total": 22,
+      "rate_male": 27.8,
+      "rate_female": 16.2
+    },
+    {
+      "year": 1937,
+      "suicides_total": 14295,
+      "suicides_male": 8923,
+      "suicides_female": 5372,
+      "rate_total": 20.2,
+      "rate_male": 25.4,
+      "rate_female": 15.1
+    },
+    {
+      "year": 1938,
+      "suicides_total": 12223,
+      "suicides_male": 7585,
+      "suicides_female": 4638,
+      "rate_total": 17.2,
+      "rate_male": 21.6,
+      "rate_female": 12.9
+    },
+    {
+      "year": 1939,
+      "suicides_total": 10785,
+      "suicides_male": 6502,
+      "suicides_female": 4283,
+      "rate_total": 15.1,
+      "rate_male": 18.5,
+      "rate_female": 11.8
+    },
+    {
+      "year": 1940,
+      "suicides_total": 9877,
+      "suicides_male": 5841,
+      "suicides_female": 4036,
+      "rate_total": 13.7,
+      "rate_male": 16.5,
+      "rate_female": 11
+    },
+    {
+      "year": 1941,
+      "suicides_total": 9713,
+      "suicides_male": 5667,
+      "suicides_female": 4046,
+      "rate_total": 13.6,
+      "rate_male": 16.3,
+      "rate_female": 10.9
+    },
+    {
+      "year": 1942,
+      "suicides_total": 9393,
+      "suicides_male": 5498,
+      "suicides_female": 3895,
+      "rate_total": 13,
+      "rate_male": 15.8,
+      "rate_female": 10.4
+    },
+    {
+      "year": 1943,
+      "suicides_total": 8784,
+      "suicides_male": 5115,
+      "suicides_female": 3669,
+      "rate_total": 12.1,
+      "rate_male": 14.7,
+      "rate_female": 9.6
+    },
+    {
+      "year": 1944,
+      "suicides_total": "",
+      "suicides_male": "",
+      "suicides_female": "",
+      "rate_total": "",
+      "rate_male": "",
+      "rate_female": ""
+    },
+    {
+      "year": 1945,
+      "suicides_total": "",
+      "suicides_male": "",
+      "suicides_female": "",
+      "rate_total": "",
+      "rate_male": "",
+      "rate_female": ""
+    },
+    {
+      "year": 1946,
+      "suicides_total": "",
+      "suicides_male": "",
+      "suicides_female": "",
+      "rate_total": "",
+      "rate_male": "",
+      "rate_female": ""
+    },
+    {
+      "year": 1947,
+      "suicides_total": 12262,
+      "suicides_male": 7108,
+      "suicides_female": 5154,
+      "rate_total": 15.7,
+      "rate_male": 18.6,
+      "rate_female": 12.9
+    },
+    {
+      "year": 1948,
+      "suicides_total": 12753,
+      "suicides_male": 7331,
+      "suicides_female": 5422,
+      "rate_total": 15.9,
+      "rate_male": 18.7,
+      "rate_female": 13.3
+    },
+    {
+      "year": 1949,
+      "suicides_total": 14201,
+      "suicides_male": 8391,
+      "suicides_female": 5810,
+      "rate_total": 17.4,
+      "rate_male": 20.9,
+      "rate_female": 13.9
+    },
+    {
+      "year": 1950,
+      "suicides_total": 16311,
+      "suicides_male": 9820,
+      "suicides_female": 6491,
+      "rate_total": 19.6,
+      "rate_male": 24.1,
+      "rate_female": 15.3
+    },
+    {
+      "year": 1951,
+      "suicides_total": 15415,
+      "suicides_male": 9035,
+      "suicides_female": 6380,
+      "rate_total": 18.2,
+      "rate_male": 21.8,
+      "rate_female": 14.8
+    },
+    {
+      "year": 1952,
+      "suicides_total": 15776,
+      "suicides_male": 9171,
+      "suicides_female": 6605,
+      "rate_total": 18.4,
+      "rate_male": 21.8,
+      "rate_female": 15.1
+    },
+    {
+      "year": 1953,
+      "suicides_total": 17731,
+      "suicides_male": 10450,
+      "suicides_female": 7281,
+      "rate_total": 20.4,
+      "rate_male": 24.4,
+      "rate_female": 16.4
+    },
+    {
+      "year": 1954,
+      "suicides_total": 20635,
+      "suicides_male": 12641,
+      "suicides_female": 7994,
+      "rate_total": 23.4,
+      "rate_male": 29.1,
+      "rate_female": 17.8
+    },
+    {
+      "year": 1955,
+      "suicides_total": 22477,
+      "suicides_male": 13836,
+      "suicides_female": 8641,
+      "rate_total": 25.2,
+      "rate_male": 31.5,
+      "rate_female": 19
+    },
+    {
+      "year": 1956,
+      "suicides_total": 22107,
+      "suicides_male": 13222,
+      "suicides_female": 8885,
+      "rate_total": 24.5,
+      "rate_male": 29.8,
+      "rate_female": 19.4
+    },
+    {
+      "year": 1957,
+      "suicides_total": 22136,
+      "suicides_male": 13276,
+      "suicides_female": 8860,
+      "rate_total": 24.3,
+      "rate_male": 29.7,
+      "rate_female": 19.1
+    },
+    {
+      "year": 1958,
+      "suicides_total": 23641,
+      "suicides_male": 13895,
+      "suicides_female": 9746,
+      "rate_total": 25.7,
+      "rate_male": 30.7,
+      "rate_female": 20.8
+    },
+    {
+      "year": 1959,
+      "suicides_total": 21090,
+      "suicides_male": 12179,
+      "suicides_female": 8911,
+      "rate_total": 22.7,
+      "rate_male": 26.6,
+      "rate_female": 18.9
+    },
+    {
+      "year": 1960,
+      "suicides_total": 20143,
+      "suicides_male": 11506,
+      "suicides_female": 8637,
+      "rate_total": 21.6,
+      "rate_male": 25.1,
+      "rate_female": 18.2
+    },
+    {
+      "year": 1961,
+      "suicides_total": 18446,
+      "suicides_male": 10333,
+      "suicides_female": 8113,
+      "rate_total": 19.6,
+      "rate_male": 22.3,
+      "rate_female": 16.9
+    },
+    {
+      "year": 1962,
+      "suicides_total": 16724,
+      "suicides_male": 9541,
+      "suicides_female": 7183,
+      "rate_total": 17.6,
+      "rate_male": 20.4,
+      "rate_female": 14.8
+    },
+    {
+      "year": 1963,
+      "suicides_total": 15490,
+      "suicides_male": 8923,
+      "suicides_female": 6567,
+      "rate_total": 16.1,
+      "rate_male": 18.9,
+      "rate_female": 13.4
+    },
+    {
+      "year": 1964,
+      "suicides_total": 14707,
+      "suicides_male": 8336,
+      "suicides_female": 6371,
+      "rate_total": 15.1,
+      "rate_male": 17.5,
+      "rate_female": 12.9
+    },
+    {
+      "year": 1965,
+      "suicides_total": 14444,
+      "suicides_male": 8330,
+      "suicides_female": 6114,
+      "rate_total": 14.7,
+      "rate_male": 17.3,
+      "rate_female": 12.2
+    },
+    {
+      "year": 1966,
+      "suicides_total": 15050,
+      "suicides_male": 8450,
+      "suicides_female": 6600,
+      "rate_total": 15.2,
+      "rate_male": 17.4,
+      "rate_female": 13.1
+    },
+    {
+      "year": 1967,
+      "suicides_total": 14121,
+      "suicides_male": 7940,
+      "suicides_female": 6181,
+      "rate_total": 14.2,
+      "rate_male": 16.2,
+      "rate_female": 12.2
+    },
+    {
+      "year": 1968,
+      "suicides_total": 14601,
+      "suicides_male": 8174,
+      "suicides_female": 6427,
+      "rate_total": 14.5,
+      "rate_male": 16.5,
+      "rate_female": 12.5
+    },
+    {
+      "year": 1969,
+      "suicides_total": 14844,
+      "suicides_male": 8241,
+      "suicides_female": 6603,
+      "rate_total": 14.5,
+      "rate_male": 16.4,
+      "rate_female": 12.7
+    },
+    {
+      "year": 1970,
+      "suicides_total": 15728,
+      "suicides_male": 8761,
+      "suicides_female": 6967,
+      "rate_total": 15.3,
+      "rate_male": 17.3,
+      "rate_female": 13.3
+    },
+    {
+      "year": 1971,
+      "suicides_total": 16239,
+      "suicides_male": 9157,
+      "suicides_female": 7082,
+      "rate_total": 15.6,
+      "rate_male": 17.9,
+      "rate_female": 13.3
+    },
+    {
+      "year": 1972,
+      "suicides_total": 18015,
+      "suicides_male": 10231,
+      "suicides_female": 7784,
+      "rate_total": 17,
+      "rate_male": 19.7,
+      "rate_female": 14.4
+    },
+    {
+      "year": 1973,
+      "suicides_total": 18859,
+      "suicides_male": 10730,
+      "suicides_female": 8129,
+      "rate_total": 17.4,
+      "rate_male": 20.2,
+      "rate_female": 14.8
+    },
+    {
+      "year": 1974,
+      "suicides_total": 19105,
+      "suicides_male": 10723,
+      "suicides_female": 8382,
+      "rate_total": 17.5,
+      "rate_male": 20,
+      "rate_female": 15
+    },
+    {
+      "year": 1975,
+      "suicides_total": 19975,
+      "suicides_male": 11744,
+      "suicides_female": 8231,
+      "rate_total": 18,
+      "rate_male": 21.5,
+      "rate_female": 14.6
+    },
+    {
+      "year": 1976,
+      "suicides_total": 19786,
+      "suicides_male": 11744,
+      "suicides_female": 8042,
+      "rate_total": 17.6,
+      "rate_male": 21.2,
+      "rate_female": 14.1
+    },
+    {
+      "year": 1977,
+      "suicides_total": 20269,
+      "suicides_male": 12299,
+      "suicides_female": 7970,
+      "rate_total": 17.9,
+      "rate_male": 22,
+      "rate_female": 13.8
+    },
+    {
+      "year": 1978,
+      "suicides_total": 20788,
+      "suicides_male": 12859,
+      "suicides_female": 7929,
+      "rate_total": 18,
+      "rate_male": 22.7,
+      "rate_female": 13.6
+    },
+    {
+      "year": 1979,
+      "suicides_total": 21503,
+      "suicides_male": 13386,
+      "suicides_female": 8117,
+      "rate_total": 18.5,
+      "rate_male": 23.4,
+      "rate_female": 13.8
+    },
+    {
+      "year": 1980,
+      "suicides_total": 21048,
+      "suicides_male": 13155,
+      "suicides_female": 7893,
+      "rate_total": 18,
+      "rate_male": 22.8,
+      "rate_female": 13.3
+    },
+    {
+      "year": 1981,
+      "suicides_total": 20434,
+      "suicides_male": 12942,
+      "suicides_female": 7492,
+      "rate_total": 17.3,
+      "rate_male": 22.3,
+      "rate_female": 12.5
+    },
+    {
+      "year": 1982,
+      "suicides_total": 21228,
+      "suicides_male": 13654,
+      "suicides_female": 7574,
+      "rate_total": 17.9,
+      "rate_male": 23.4,
+      "rate_female": 12.6
+    },
+    {
+      "year": 1983,
+      "suicides_total": 25202,
+      "suicides_male": 17116,
+      "suicides_female": 8086,
+      "rate_total": 21.1,
+      "rate_male": 29.1,
+      "rate_female": 13.3
+    },
+    {
+      "year": 1984,
+      "suicides_total": 24596,
+      "suicides_male": 16508,
+      "suicides_female": 8088,
+      "rate_total": 20.4,
+      "rate_male": 27.9,
+      "rate_female": 13.2
+    },
+    {
+      "year": 1985,
+      "suicides_total": 23599,
+      "suicides_male": 15624,
+      "suicides_female": 7975,
+      "rate_total": 19.5,
+      "rate_male": 26.3,
+      "rate_female": 13
+    },
+    {
+      "year": 1986,
+      "suicides_total": 25524,
+      "suicides_male": 16497,
+      "suicides_female": 9027,
+      "rate_total": 21,
+      "rate_male": 27.6,
+      "rate_female": 14.6
+    },
+    {
+      "year": 1987,
+      "suicides_total": 24460,
+      "suicides_male": 15802,
+      "suicides_female": 8658,
+      "rate_total": 20,
+      "rate_male": 26.3,
+      "rate_female": 13.9
+    },
+    {
+      "year": 1988,
+      "suicides_total": 23742,
+      "suicides_male": 14934,
+      "suicides_female": 8808,
+      "rate_total": 19.3,
+      "rate_male": 24.8,
+      "rate_female": 14.1
+    },
+    {
+      "year": 1989,
+      "suicides_total": 22436,
+      "suicides_male": 13818,
+      "suicides_female": 8618,
+      "rate_total": 18.2,
+      "rate_male": 22.8,
+      "rate_female": 13.7
+    },
+    {
+      "year": 1990,
+      "suicides_total": 21346,
+      "suicides_male": 13102,
+      "suicides_female": 8244,
+      "rate_total": 17.3,
+      "rate_male": 21.6,
+      "rate_female": 13.1
+    },
+    {
+      "year": 1991,
+      "suicides_total": 21084,
+      "suicides_male": 13242,
+      "suicides_female": 7842,
+      "rate_total": 17,
+      "rate_male": 21.7,
+      "rate_female": 12.4
+    },
+    {
+      "year": 1992,
+      "suicides_total": 22104,
+      "suicides_male": 14296,
+      "suicides_female": 7808,
+      "rate_total": 17.7,
+      "rate_male": 23.4,
+      "rate_female": 12.3
+    },
+    {
+      "year": 1993,
+      "suicides_total": 21851,
+      "suicides_male": 14468,
+      "suicides_female": 7383,
+      "rate_total": 17.5,
+      "rate_male": 23.6,
+      "rate_female": 11.6
+    },
+    {
+      "year": 1994,
+      "suicides_total": 21679,
+      "suicides_male": 14560,
+      "suicides_female": 7119,
+      "rate_total": 17.3,
+      "rate_male": 23.7,
+      "rate_female": 11.2
+    },
+    {
+      "year": 1995,
+      "suicides_total": 22445,
+      "suicides_male": 14874,
+      "suicides_female": 7571,
+      "rate_total": 17.9,
+      "rate_male": 24.2,
+      "rate_female": 11.8
+    },
+    {
+      "year": 1996,
+      "suicides_total": 23104,
+      "suicides_male": 15393,
+      "suicides_female": 7711,
+      "rate_total": 18.4,
+      "rate_male": 24.9,
+      "rate_female": 12
+    },
+    {
+      "year": 1997,
+      "suicides_total": 24391,
+      "suicides_male": 16416,
+      "suicides_female": 7975,
+      "rate_total": 19.3,
+      "rate_male": 26.6,
+      "rate_female": 12.4
+    },
+    {
+      "year": 1998,
+      "suicides_total": 32863,
+      "suicides_male": 23013,
+      "suicides_female": 9850,
+      "rate_total": 26,
+      "rate_male": 37.1,
+      "rate_female": 15.3
+    },
+    {
+      "year": 1999,
+      "suicides_total": 33048,
+      "suicides_male": 23512,
+      "suicides_female": 9536,
+      "rate_total": 26.1,
+      "rate_male": 37.9,
+      "rate_female": 14.8
+    },
+    {
+      "year": 2000,
+      "suicides_total": 31957,
+      "suicides_male": 22727,
+      "suicides_female": 9230,
+      "rate_total": 25.2,
+      "rate_male": 36.6,
+      "rate_female": 14.2
+    },
+    {
+      "year": 2001,
+      "suicides_total": 31042,
+      "suicides_male": 22144,
+      "suicides_female": 8898,
+      "rate_total": 24.4,
+      "rate_male": 35.6,
+      "rate_female": 13.7
+    },
+    {
+      "year": 2002,
+      "suicides_total": 32143,
+      "suicides_male": 23080,
+      "suicides_female": 9063,
+      "rate_total": 25.2,
+      "rate_male": 37,
+      "rate_female": 13.9
+    },
+    {
+      "year": 2003,
+      "suicides_total": 34427,
+      "suicides_male": 24963,
+      "suicides_female": 9464,
+      "rate_total": 27,
+      "rate_male": 40,
+      "rate_female": 14.5
+    },
+    {
+      "year": 2004,
+      "suicides_total": 32325,
+      "suicides_male": 23272,
+      "suicides_female": 9053,
+      "rate_total": 25.3,
+      "rate_male": 37.3,
+      "rate_female": 13.8
+    },
+    {
+      "year": 2005,
+      "suicides_total": 32552,
+      "suicides_male": 23540,
+      "suicides_female": 9012,
+      "rate_total": 25.5,
+      "rate_male": 37.8,
+      "rate_female": 13.8
+    },
+    {
+      "year": 2006,
+      "suicides_total": 32155,
+      "suicides_male": 22813,
+      "suicides_female": 9342,
+      "rate_total": 25.1,
+      "rate_male": 36.6,
+      "rate_female": 14.3
+    },
+    {
+      "year": 2007,
+      "suicides_total": 33093,
+      "suicides_male": 23478,
+      "suicides_female": 9615,
+      "rate_total": 25.8,
+      "rate_male": 37.6,
+      "rate_female": 14.7
+    },
+    {
+      "year": 2008,
+      "suicides_total": 32249,
+      "suicides_male": 22831,
+      "suicides_female": 9418,
+      "rate_total": 25.2,
+      "rate_male": 36.6,
+      "rate_female": 14.3
+    },
+    {
+      "year": 2009,
+      "suicides_total": 32845,
+      "suicides_male": 23472,
+      "suicides_female": 9373,
+      "rate_total": 25.7,
+      "rate_male": 37.6,
+      "rate_female": 14.3
+    },
+    {
+      "year": 2010,
+      "suicides_total": 31690,
+      "suicides_male": 22283,
+      "suicides_female": 9407,
+      "rate_total": 24.7,
+      "rate_male": 35.8,
+      "rate_female": 14.3
+    },
+    {
+      "year": 2011,
+      "suicides_total": 30651,
+      "suicides_male": 20955,
+      "suicides_female": 9696,
+      "rate_total": 24,
+      "rate_male": 33.7,
+      "rate_female": 14.8
+    },
+    {
+      "year": 2012,
+      "suicides_total": 27858,
+      "suicides_male": 19273,
+      "suicides_female": 8585,
+      "rate_total": 21.8,
+      "rate_male": 31,
+      "rate_female": 13.1
+    },
+    {
+      "year": 2013,
+      "suicides_total": 27283,
+      "suicides_male": 18787,
+      "suicides_female": 8496,
+      "rate_total": 21.4,
+      "rate_male": 30.3,
+      "rate_female": 13
+    },
+    {
+      "year": 2014,
+      "suicides_total": 25427,
+      "suicides_male": 17386,
+      "suicides_female": 8041,
+      "rate_total": 20,
+      "rate_male": 28.1,
+      "rate_female": 12.3
+    },
+    {
+      "year": 2015,
+      "suicides_total": 24025,
+      "suicides_male": 16681,
+      "suicides_female": 7344,
+      "rate_total": 18.9,
+      "rate_male": 27,
+      "rate_female": 11.3
+    },
+    {
+      "year": 2016,
+      "suicides_total": 21897,
+      "suicides_male": 15121,
+      "suicides_female": 6776,
+      "rate_total": 17.3,
+      "rate_male": 24.5,
+      "rate_female": 10.4
+    },
+    {
+      "year": 2017,
+      "suicides_total": 21321,
+      "suicides_male": 14826,
+      "suicides_female": 6495,
+      "rate_total": 16.8,
+      "rate_male": 24,
+      "rate_female": 10
+    },
+    {
+      "year": 2018,
+      "suicides_total": 20840,
+      "suicides_male": 14290,
+      "suicides_female": 6550,
+      "rate_total": 16.5,
+      "rate_male": 23.2,
+      "rate_female": 10.1
+    },
+    {
+      "year": 2019,
+      "suicides_total": 20169,
+      "suicides_male": 14078,
+      "suicides_female": 6091,
+      "rate_total": 16,
+      "rate_male": 22.9,
+      "rate_female": 9.4
+    }
+  ],
+  "meta": {
+    "title": "日本の自殺者数・自殺率の推移 - Free Download",
+    "description": "日本の年別自殺者数（男女別）と人口10万人あたり自殺率の推移（1899年以降）。 Contains 121 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の自殺者数・自殺率の推移 | ListBase",
+    "seo_description": "Download 日本の自殺者数・自殺率の推移 — 121 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 121 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%87%AA%E6%AE%BA"
+    ]
+  }
+}

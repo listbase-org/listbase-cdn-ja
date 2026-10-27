@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-27T02:36:53.930Z",
-  "total_datasets": 523,
-  "total_records": 456513,
+  "generated": "2026-10-27T02:36:58.242Z",
+  "total_datasets": 524,
+  "total_records": 456634,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "history",
@@ -6106,6 +6106,34 @@
         "xlsx": {
           "name": "ja-iji-horei_JA.xlsx",
           "size": 11099
+        }
+      }
+    },
+    {
+      "id": "ja-jisatsusha-su-suii",
+      "name": "日本の自殺者数・自殺率の推移",
+      "category": "health",
+      "record_count": 121,
+      "columns": [
+        "year",
+        "suicides_total",
+        "suicides_male",
+        "suicides_female",
+        "rate_total",
+        "rate_male",
+        "rate_female"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%87%AA%E6%AE%BA",
+      "updated": "2026-10",
+      "size": 26275,
+      "files": {
+        "csv": {
+          "name": "ja-jisatsusha-su-suii_JA.csv",
+          "size": 6031
+        },
+        "xlsx": {
+          "name": "ja-jisatsusha-su-suii_JA.xlsx",
+          "size": 11637
         }
       }
     },
