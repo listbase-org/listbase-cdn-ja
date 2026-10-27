@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-27T02:36:49.339Z",
-  "total_datasets": 522,
-  "total_records": 456359,
+  "generated": "2026-10-27T02:36:53.930Z",
+  "total_datasets": 523,
+  "total_records": 456513,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -14008,6 +14008,41 @@
         "xlsx": {
           "name": "ja-nobel-sho-jushosha_JA.xlsx",
           "size": 9867
+        }
+      }
+    },
+    {
+      "id": "ja-jinko-dotai-nenji",
+      "name": "日本の人口動態統計（1873年以降）",
+      "category": "society",
+      "record_count": 154,
+      "columns": [
+        "year",
+        "total_population",
+        "births",
+        "deaths",
+        "natural_change",
+        "crude_birth_rate",
+        "crude_death_rate",
+        "natural_change_rate",
+        "migration_rate",
+        "total_fertility_rate",
+        "net_change",
+        "infant_mortality_per_1000",
+        "life_expectancy_male",
+        "life_expectancy_female"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BA%BA%E5%8F%A3%E7%B5%B1%E8%A8%88",
+      "updated": "2026-10",
+      "size": 72915,
+      "files": {
+        "csv": {
+          "name": "ja-jinko-dotai-nenji_JA.csv",
+          "size": 16551
+        },
+        "xlsx": {
+          "name": "ja-jinko-dotai-nenji_JA.xlsx",
+          "size": 19418
         }
       }
     },
