@@ -1,0 +1,101 @@
+{
+  "id": "ja-gold-disc-taisho-jusho-kaisu",
+  "name": "日本ゴールドディスク大賞 受賞回数ランキング",
+  "title": "日本ゴールドディスク大賞 受賞回数ランキング",
+  "description": "日本ゴールドディスク大賞の受賞回数が多いアーティストのランキング。",
+  "category": "music",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E5%A4%A7%E8%B3%9E",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E5%A4%A7%E8%B3%9E",
+  "updated": "2026-10",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "artist",
+      "label": "Artist",
+      "type": "string"
+    },
+    {
+      "key": "awards",
+      "label": "Awards",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "artist": "AKB48",
+      "awards": 67
+    },
+    {
+      "rank": 2,
+      "artist": "嵐",
+      "awards": 55
+    },
+    {
+      "rank": 3,
+      "artist": "宇多田ヒカル",
+      "awards": 39
+    },
+    {
+      "rank": 4,
+      "artist": "B'z",
+      "awards": 36
+    },
+    {
+      "rank": 4,
+      "artist": "Mr.Children",
+      "awards": 36
+    },
+    {
+      "rank": 5,
+      "artist": "EXILE",
+      "awards": 32
+    },
+    {
+      "rank": 6,
+      "artist": "DREAMS COME TRUE",
+      "awards": 19
+    },
+    {
+      "rank": 7,
+      "artist": "サザンオールスターズ",
+      "awards": 17
+    },
+    {
+      "rank": 7,
+      "artist": "浜崎あゆみ",
+      "awards": 17
+    },
+    {
+      "rank": 7,
+      "artist": "乃木坂46",
+      "awards": 17
+    },
+    {
+      "rank": 8,
+      "artist": "安室奈美恵",
+      "awards": 16
+    },
+    {
+      "rank": 9,
+      "artist": "GLAY",
+      "awards": 14
+    }
+  ],
+  "meta": {
+    "title": "日本ゴールドディスク大賞 受賞回数ランキング - Free Download",
+    "description": "日本ゴールドディスク大賞の受賞回数が多いアーティストのランキング。 Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本ゴールドディスク大賞 受賞回数ランキング | ListBase",
+    "seo_description": "Download 日本ゴールドディスク大賞 受賞回数ランキング — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E5%A4%A7%E8%B3%9E"
+    ]
+  }
+}
