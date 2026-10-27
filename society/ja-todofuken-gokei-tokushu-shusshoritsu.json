@@ -1,0 +1,328 @@
+{
+  "id": "ja-todofuken-gokei-tokushu-shusshoritsu",
+  "name": "都道府県別の合計特殊出生率",
+  "title": "都道府県別の合計特殊出生率",
+  "description": "都道府県別の合計特殊出生率（TFR）、出生数、推計人口。",
+  "category": "society",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B0%91%E5%AD%90%E5%8C%96",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B0%91%E5%AD%90%E5%8C%96",
+  "updated": "2026-10",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "tfr",
+      "label": "Tfr",
+      "type": "number"
+    },
+    {
+      "key": "births",
+      "label": "Births",
+      "type": "number"
+    },
+    {
+      "key": "estimated_population",
+      "label": "Estimated Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "prefecture": "東京",
+      "tfr": 0.99,
+      "births": 86347,
+      "estimated_population": 14296683
+    },
+    {
+      "prefecture": "北海道",
+      "tfr": 1.06,
+      "births": 24429,
+      "estimated_population": 4957383
+    },
+    {
+      "prefecture": "宮城県",
+      "tfr": 1.07,
+      "births": 12328,
+      "estimated_population": 2216077
+    },
+    {
+      "prefecture": "秋田県",
+      "tfr": 1.1,
+      "births": 3992,
+      "estimated_population": 864221
+    },
+    {
+      "prefecture": "京都府",
+      "tfr": 1.11,
+      "births": 13882,
+      "estimated_population": 2485589
+    },
+    {
+      "prefecture": "神奈川県",
+      "tfr": 1.13,
+      "births": 53989,
+      "estimated_population": 9192542
+    },
+    {
+      "prefecture": "埼玉県",
+      "tfr": 1.14,
+      "births": 42107,
+      "estimated_population": 7287447
+    },
+    {
+      "prefecture": "千葉県",
+      "tfr": 1.14,
+      "births": 35658,
+      "estimated_population": 6277325
+    },
+    {
+      "prefecture": "岩手県",
+      "tfr": 1.16,
+      "births": 5432,
+      "estimated_population": 1107310
+    },
+    {
+      "prefecture": "大阪府",
+      "tfr": 1.19,
+      "births": 55292,
+      "estimated_population": 8754511
+    },
+    {
+      "prefecture": "栃木県",
+      "tfr": 1.19,
+      "births": 9958,
+      "estimated_population": 1849836
+    },
+    {
+      "prefecture": "奈良県",
+      "tfr": 1.21,
+      "births": 6943,
+      "estimated_population": 1263770
+    },
+    {
+      "prefecture": "福島県",
+      "tfr": 1.21,
+      "births": 9019,
+      "estimated_population": 1695117
+    },
+    {
+      "prefecture": "茨城県",
+      "tfr": 1.22,
+      "births": 14898,
+      "estimated_population": 2772431
+    },
+    {
+      "prefecture": "山形県",
+      "tfr": 1.22,
+      "births": 5151,
+      "estimated_population": 978846
+    },
+    {
+      "prefecture": "青森県",
+      "tfr": 1.23,
+      "births": 5696,
+      "estimated_population": 1121734
+    },
+    {
+      "prefecture": "新潟県",
+      "tfr": 1.23,
+      "births": 10916,
+      "estimated_population": 2042305
+    },
+    {
+      "prefecture": "群馬県",
+      "tfr": 1.25,
+      "births": 9950,
+      "estimated_population": 1863014
+    },
+    {
+      "prefecture": "静岡県",
+      "tfr": 1.25,
+      "births": 18969,
+      "estimated_population": 3435185
+    },
+    {
+      "prefecture": "福岡県",
+      "tfr": 1.26,
+      "births": 33942,
+      "estimated_population": 5071942
+    },
+    {
+      "prefecture": "兵庫県",
+      "tfr": 1.29,
+      "births": 32615,
+      "estimated_population": 5292593
+    },
+    {
+      "prefecture": "愛知県",
+      "tfr": 1.29,
+      "births": 48402,
+      "estimated_population": 7443459
+    },
+    {
+      "prefecture": "三重県",
+      "tfr": 1.29,
+      "births": 9524,
+      "estimated_population": 1681328
+    },
+    {
+      "prefecture": "高知県",
+      "tfr": 1.3,
+      "births": 3380,
+      "estimated_population": 634974
+    },
+    {
+      "prefecture": "岐阜県",
+      "tfr": 1.31,
+      "births": 10469,
+      "estimated_population": 1873870
+    },
+    {
+      "prefecture": "愛媛県",
+      "tfr": 1.31,
+      "births": 6950,
+      "estimated_population": 1244298
+    },
+    {
+      "prefecture": "岡山県",
+      "tfr": 1.32,
+      "births": 11575,
+      "estimated_population": 1792971
+    },
+    {
+      "prefecture": "山梨県",
+      "tfr": 1.32,
+      "births": 4397,
+      "estimated_population": 773044
+    },
+    {
+      "prefecture": "和歌山県",
+      "tfr": 1.33,
+      "births": 4901,
+      "estimated_population": 852674
+    },
+    {
+      "prefecture": "広島県",
+      "tfr": 1.33,
+      "births": 16682,
+      "estimated_population": 2675196
+    },
+    {
+      "prefecture": "石川県",
+      "tfr": 1.34,
+      "births": 6752,
+      "estimated_population": 1078686
+    },
+    {
+      "prefecture": "長野県",
+      "tfr": 1.34,
+      "births": 11125,
+      "estimated_population": 1956274
+    },
+    {
+      "prefecture": "富山県",
+      "tfr": 1.35,
+      "births": 5512,
+      "estimated_population": 973074
+    },
+    {
+      "prefecture": "徳島県",
+      "tfr": 1.36,
+      "births": 3903,
+      "estimated_population": 666616
+    },
+    {
+      "prefecture": "滋賀県",
+      "tfr": 1.38,
+      "births": 9249,
+      "estimated_population": 1392300
+    },
+    {
+      "prefecture": "大分県",
+      "tfr": 1.39,
+      "births": 6259,
+      "estimated_population": 1063808
+    },
+    {
+      "prefecture": "香川県",
+      "tfr": 1.4,
+      "births": 5365,
+      "estimated_population": 898475
+    },
+    {
+      "prefecture": "山口県",
+      "tfr": 1.4,
+      "births": 7188,
+      "estimated_population": 1245629
+    },
+    {
+      "prefecture": "鳥取県",
+      "tfr": 1.44,
+      "births": 3263,
+      "estimated_population": 516273
+    },
+    {
+      "prefecture": "福井県",
+      "tfr": 1.46,
+      "births": 4563,
+      "estimated_population": 722475
+    },
+    {
+      "prefecture": "島根県",
+      "tfr": 1.46,
+      "births": 3759,
+      "estimated_population": 621996
+    },
+    {
+      "prefecture": "佐賀県",
+      "tfr": 1.46,
+      "births": 5144,
+      "estimated_population": 775388
+    },
+    {
+      "prefecture": "熊本県",
+      "tfr": 1.47,
+      "births": 11189,
+      "estimated_population": 1671164
+    },
+    {
+      "prefecture": "鹿児島県",
+      "tfr": 1.48,
+      "births": 9867,
+      "estimated_population": 1497411
+    },
+    {
+      "prefecture": "長崎県",
+      "tfr": 1.49,
+      "births": 7656,
+      "estimated_population": 1218948
+    },
+    {
+      "prefecture": "宮崎県",
+      "tfr": 1.49,
+      "births": 6502,
+      "estimated_population": 1005974
+    },
+    {
+      "prefecture": "沖縄県",
+      "tfr": 1.6,
+      "births": 12549,
+      "estimated_population": 1466024
+    }
+  ],
+  "meta": {
+    "title": "都道府県別の合計特殊出生率 - Free Download",
+    "description": "都道府県別の合計特殊出生率（TFR）、出生数、推計人口。 Contains 47 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "都道府県別の合計特殊出生率 | ListBase",
+    "seo_description": "Download 都道府県別の合計特殊出生率 — 47 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 47 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B0%91%E5%AD%90%E5%8C%96"
+    ]
+  }
+}
