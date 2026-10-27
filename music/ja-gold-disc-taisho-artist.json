@@ -1,0 +1,331 @@
+{
+  "id": "ja-gold-disc-taisho-artist",
+  "name": "日本ゴールドディスク大賞 アーティスト・オブ・ザ・イヤー",
+  "title": "日本ゴールドディスク大賞 アーティスト・オブ・ザ・イヤー",
+  "description": "日本レコード協会が主催する日本ゴールドディスク大賞の各回アーティスト・オブ・ザ・イヤー（邦楽・洋楽）。",
+  "category": "music",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E5%A4%A7%E8%B3%9E",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E5%A4%A7%E8%B3%9E",
+  "updated": "2026-10",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "edition",
+      "label": "Edition",
+      "type": "number"
+    },
+    {
+      "key": "held",
+      "label": "Held",
+      "type": "string"
+    },
+    {
+      "key": "target_year",
+      "label": "Target Year",
+      "type": "string"
+    },
+    {
+      "key": "artist_of_the_year_japanese",
+      "label": "Artist Of The Year Japanese",
+      "type": "string"
+    },
+    {
+      "key": "artist_of_the_year_international",
+      "label": "Artist Of The Year International",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edition": 1,
+      "held": "1987年",
+      "target_year": "1986年",
+      "artist_of_the_year_japanese": "中森明菜",
+      "artist_of_the_year_international": "マドンナ"
+    },
+    {
+      "edition": 2,
+      "held": "1988年",
+      "target_year": "1987年",
+      "artist_of_the_year_japanese": "レベッカ",
+      "artist_of_the_year_international": "ザ・ビートルズ"
+    },
+    {
+      "edition": 3,
+      "held": "1989年",
+      "target_year": "1988年",
+      "artist_of_the_year_japanese": "BOØWY",
+      "artist_of_the_year_international": "ボン・ジョヴィ"
+    },
+    {
+      "edition": 4,
+      "held": "1990年",
+      "target_year": "1989年",
+      "artist_of_the_year_japanese": "サザンオールスターズ",
+      "artist_of_the_year_international": "マドンナ"
+    },
+    {
+      "edition": 5,
+      "held": "1991年",
+      "target_year": "1990年",
+      "artist_of_the_year_japanese": "松任谷由実",
+      "artist_of_the_year_international": "マドンナ"
+    },
+    {
+      "edition": 6,
+      "held": "1992年",
+      "target_year": "1991年",
+      "artist_of_the_year_japanese": "CHAGE&ASKA",
+      "artist_of_the_year_international": "ガンズ・アンド・ローゼズ"
+    },
+    {
+      "edition": 7,
+      "held": "1993年",
+      "target_year": "1992年",
+      "artist_of_the_year_japanese": "CHAGE&ASKA",
+      "artist_of_the_year_international": "マドンナ"
+    },
+    {
+      "edition": 8,
+      "held": "1994年",
+      "target_year": "1993年",
+      "artist_of_the_year_japanese": "WANDS",
+      "artist_of_the_year_international": "ザ・ビートルズ"
+    },
+    {
+      "edition": 9,
+      "held": "1995年",
+      "target_year": "1994年",
+      "artist_of_the_year_japanese": "trf",
+      "artist_of_the_year_international": "マライア・キャリー"
+    },
+    {
+      "edition": 10,
+      "held": "1996年",
+      "target_year": "1995年",
+      "artist_of_the_year_japanese": "trf",
+      "artist_of_the_year_international": "マライア・キャリー"
+    },
+    {
+      "edition": 11,
+      "held": "1997年",
+      "target_year": "1996年",
+      "artist_of_the_year_japanese": "安室奈美恵",
+      "artist_of_the_year_international": "ミー・アンド・マイ"
+    },
+    {
+      "edition": 12,
+      "held": "1998年",
+      "target_year": "1997年",
+      "artist_of_the_year_japanese": "GLAY",
+      "artist_of_the_year_international": "セリーヌ・ディオン"
+    },
+    {
+      "edition": 13,
+      "held": "1999年",
+      "target_year": "1998年",
+      "artist_of_the_year_japanese": "B'z",
+      "artist_of_the_year_international": "セリーヌ・ディオン"
+    },
+    {
+      "edition": 14,
+      "held": "2000年",
+      "target_year": "1999年",
+      "artist_of_the_year_japanese": "宇多田ヒカル",
+      "artist_of_the_year_international": "セリーヌ・ディオン"
+    },
+    {
+      "edition": 15,
+      "held": "2001年",
+      "target_year": "2000年",
+      "artist_of_the_year_japanese": "浜崎あゆみ",
+      "artist_of_the_year_international": "ザ・ビートルズ"
+    },
+    {
+      "edition": 16,
+      "held": "2002年",
+      "target_year": "2001年",
+      "artist_of_the_year_japanese": "浜崎あゆみ",
+      "artist_of_the_year_international": "BACKSTREET BOYS"
+    },
+    {
+      "edition": 17,
+      "held": "2003年",
+      "target_year": "2002年",
+      "artist_of_the_year_japanese": "宇多田ヒカル",
+      "artist_of_the_year_international": "アヴリル・ラヴィーン"
+    },
+    {
+      "edition": 18,
+      "held": "2004年",
+      "target_year": "2003年",
+      "artist_of_the_year_japanese": "浜崎あゆみ",
+      "artist_of_the_year_international": "女子十二楽坊"
+    },
+    {
+      "edition": 19,
+      "held": "2005年",
+      "target_year": "2004年",
+      "artist_of_the_year_japanese": "ORANGE RANGE",
+      "artist_of_the_year_international": "QUEEN"
+    },
+    {
+      "edition": 20,
+      "held": "2006年",
+      "target_year": "2005年",
+      "artist_of_the_year_japanese": "倖田來未",
+      "artist_of_the_year_international": "O-ZONE"
+    },
+    {
+      "edition": 21,
+      "held": "2007年",
+      "target_year": "2006年",
+      "artist_of_the_year_japanese": "倖田來未",
+      "artist_of_the_year_international": "ダニエル・パウター"
+    },
+    {
+      "edition": 22,
+      "held": "2008年",
+      "target_year": "2007年",
+      "artist_of_the_year_japanese": "EXILE",
+      "artist_of_the_year_international": "アヴリル・ラヴィーン"
+    },
+    {
+      "edition": 23,
+      "held": "2009年",
+      "target_year": "2008年",
+      "artist_of_the_year_japanese": "EXILE",
+      "artist_of_the_year_international": "マドンナ"
+    },
+    {
+      "edition": 24,
+      "held": "2010年",
+      "target_year": "2009年",
+      "artist_of_the_year_japanese": "嵐",
+      "artist_of_the_year_international": "ザ・ビートルズ"
+    },
+    {
+      "edition": 25,
+      "held": "2011年",
+      "target_year": "2010年",
+      "artist_of_the_year_japanese": "嵐",
+      "artist_of_the_year_international": "レディー・ガガ"
+    },
+    {
+      "edition": 26,
+      "held": "2012年",
+      "target_year": "2011年",
+      "artist_of_the_year_japanese": "AKB48",
+      "artist_of_the_year_international": "レディー・ガガ"
+    },
+    {
+      "edition": 27,
+      "held": "2013年",
+      "target_year": "2012年",
+      "artist_of_the_year_japanese": "AKB48",
+      "artist_of_the_year_international": "シェネル"
+    },
+    {
+      "edition": 28,
+      "held": "2014年",
+      "target_year": "2013年",
+      "artist_of_the_year_japanese": "AKB48",
+      "artist_of_the_year_international": "ONE DIRECTION"
+    },
+    {
+      "edition": 29,
+      "held": "2015年",
+      "target_year": "2014年",
+      "artist_of_the_year_japanese": "嵐",
+      "artist_of_the_year_international": "ワン・ダイレクション"
+    },
+    {
+      "edition": 30,
+      "held": "2016年",
+      "target_year": "2015年",
+      "artist_of_the_year_japanese": "嵐",
+      "artist_of_the_year_international": "ザ・ビートルズ"
+    },
+    {
+      "edition": 31,
+      "held": "2017年",
+      "target_year": "2016年",
+      "artist_of_the_year_japanese": "嵐",
+      "artist_of_the_year_international": "アリアナ・グランデ"
+    },
+    {
+      "edition": 32,
+      "held": "2018年",
+      "target_year": "2017年",
+      "artist_of_the_year_japanese": "安室奈美恵",
+      "artist_of_the_year_international": "ザ・ビートルズ"
+    },
+    {
+      "edition": 33,
+      "held": "2019年",
+      "target_year": "2018年",
+      "artist_of_the_year_japanese": "安室奈美恵",
+      "artist_of_the_year_international": "クイーン"
+    },
+    {
+      "edition": 34,
+      "held": "2020年",
+      "target_year": "2019年",
+      "artist_of_the_year_japanese": "嵐",
+      "artist_of_the_year_international": "クイーン"
+    },
+    {
+      "edition": 35,
+      "held": "2021年",
+      "target_year": "2020年",
+      "artist_of_the_year_japanese": "嵐",
+      "artist_of_the_year_international": "クイーン"
+    },
+    {
+      "edition": 36,
+      "held": "2022年",
+      "target_year": "2021年",
+      "artist_of_the_year_japanese": "Snow Man",
+      "artist_of_the_year_international": "ザ・ビートルズ"
+    },
+    {
+      "edition": 37,
+      "held": "2023年",
+      "target_year": "2022年",
+      "artist_of_the_year_japanese": "Snow Man",
+      "artist_of_the_year_international": "ザ・ビートルズ"
+    },
+    {
+      "edition": 38,
+      "held": "2024年",
+      "target_year": "2023年",
+      "artist_of_the_year_japanese": "Snow Man",
+      "artist_of_the_year_international": "ザ・ビートルズ"
+    },
+    {
+      "edition": 39,
+      "held": "2025年",
+      "target_year": "2024年",
+      "artist_of_the_year_japanese": "Mrs. GREEN APPLE",
+      "artist_of_the_year_international": "テイラー・スウィフト"
+    },
+    {
+      "edition": 40,
+      "held": "2026年",
+      "target_year": "2025年",
+      "artist_of_the_year_japanese": "Snow Man",
+      "artist_of_the_year_international": "ザ・ビートルズ"
+    }
+  ],
+  "meta": {
+    "title": "日本ゴールドディスク大賞 アーティスト・オブ・ザ・イヤー - Free Download",
+    "description": "日本レコード協会が主催する日本ゴールドディスク大賞の各回アーティスト・オブ・ザ・イヤー（邦楽・洋楽）。 Contains 40 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本ゴールドディスク大賞 アーティスト・オブ・ザ・イヤー | ListBase",
+    "seo_description": "Download 日本ゴールドディスク大賞 アーティスト・オブ・ザ・イヤー — 40 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 40 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E5%A4%A7%E8%B3%9E"
+    ]
+  }
+}
