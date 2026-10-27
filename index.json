@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-27T02:37:54.841Z",
-  "total_datasets": 537,
-  "total_records": 457020,
+  "generated": "2026-10-27T02:37:59.090Z",
+  "total_datasets": 538,
+  "total_records": 457030,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "history",
@@ -6185,6 +6185,34 @@
         "xlsx": {
           "name": "ja-ninshin-chuzetsu-suii_JA.xlsx",
           "size": 8823
+        }
+      }
+    },
+    {
+      "id": "ja-shiin-juni",
+      "name": "日本の死因順位（男女別）",
+      "category": "health",
+      "record_count": 10,
+      "columns": [
+        "rank",
+        "cause_total",
+        "share_total_pct",
+        "cause_male",
+        "share_male_pct",
+        "cause_female",
+        "share_female_pct"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%81%A5%E5%BA%B7",
+      "updated": "2026-10",
+      "size": 4289,
+      "files": {
+        "csv": {
+          "name": "ja-shiin-juni_JA.csv",
+          "size": 853
+        },
+        "xlsx": {
+          "name": "ja-shiin-juni_JA.xlsx",
+          "size": 7326
         }
       }
     },

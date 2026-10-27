@@ -1,0 +1,151 @@
+{
+  "id": "ja-shiin-juni",
+  "name": "日本の死因順位（男女別）",
+  "title": "日本の死因順位（男女別）",
+  "description": "日本人の主な死因の順位と全死亡に占める割合（全体・男性・女性別）。",
+  "category": "health",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%81%A5%E5%BA%B7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%81%A5%E5%BA%B7",
+  "updated": "2026-10",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "cause_total",
+      "label": "Cause Total",
+      "type": "string"
+    },
+    {
+      "key": "share_total_pct",
+      "label": "Share Total Pct",
+      "type": "number"
+    },
+    {
+      "key": "cause_male",
+      "label": "Cause Male",
+      "type": "string"
+    },
+    {
+      "key": "share_male_pct",
+      "label": "Share Male Pct",
+      "type": "number"
+    },
+    {
+      "key": "cause_female",
+      "label": "Cause Female",
+      "type": "string"
+    },
+    {
+      "key": "share_female_pct",
+      "label": "Share Female Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "cause_total": "悪性新生物",
+      "share_total_pct": 24.6,
+      "cause_male": "悪性新生物",
+      "share_male_pct": 27.9,
+      "cause_female": "悪性新生物",
+      "share_female_pct": 21.1
+    },
+    {
+      "rank": 2,
+      "cause_total": "心疾患",
+      "share_total_pct": 14.8,
+      "cause_male": "心疾患",
+      "share_male_pct": 14.1,
+      "cause_female": "老衰",
+      "share_female_pct": 16.8
+    },
+    {
+      "rank": 3,
+      "cause_total": "老衰",
+      "share_total_pct": 11.4,
+      "cause_male": "脳血管疾患",
+      "share_male_pct": 6.7,
+      "cause_female": "心疾患",
+      "share_female_pct": 15.6
+    },
+    {
+      "rank": 4,
+      "cause_total": "脳血管疾患",
+      "share_total_pct": 6.8,
+      "cause_male": "老衰",
+      "share_male_pct": 6.3,
+      "cause_female": "脳血管疾患",
+      "share_female_pct": 7
+    },
+    {
+      "rank": 5,
+      "cause_total": "肺炎",
+      "share_total_pct": 4.7,
+      "cause_male": "肺炎",
+      "share_male_pct": 5.4,
+      "cause_female": "肺炎",
+      "share_female_pct": 4
+    },
+    {
+      "rank": 6,
+      "cause_total": "誤嚥性肺炎",
+      "share_total_pct": 3.6,
+      "cause_male": "誤嚥性肺炎",
+      "share_male_pct": 4.2,
+      "cause_female": "誤嚥性肺炎",
+      "share_female_pct": 2.9
+    },
+    {
+      "rank": 7,
+      "cause_total": "不慮の事故",
+      "share_total_pct": 2.8,
+      "cause_male": "不慮の事故",
+      "share_male_pct": 3.1,
+      "cause_female": "不慮の事故",
+      "share_female_pct": 2.4
+    },
+    {
+      "rank": 8,
+      "cause_total": "腎不全",
+      "share_total_pct": 2,
+      "cause_male": "腎不全",
+      "share_male_pct": 2,
+      "cause_female": "アルツハイマー病",
+      "share_female_pct": 2.1
+    },
+    {
+      "rank": 9,
+      "cause_total": "アルツハイマー病",
+      "share_total_pct": 1.6,
+      "cause_male": "（データ無し）",
+      "share_male_pct": "",
+      "cause_female": "血管性および詳細不明の認知症",
+      "share_female_pct": 2
+    },
+    {
+      "rank": 10,
+      "cause_total": "血管性および詳細不明の 認知症",
+      "share_total_pct": 1.6,
+      "cause_male": "（データ無し）",
+      "share_male_pct": "",
+      "cause_female": "腎不全",
+      "share_female_pct": 1.9
+    }
+  ],
+  "meta": {
+    "title": "日本の死因順位（男女別） - Free Download",
+    "description": "日本人の主な死因の順位と全死亡に占める割合（全体・男性・女性別）。 Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の死因順位（男女別） | ListBase",
+    "seo_description": "Download 日本の死因順位（男女別） — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%81%A5%E5%BA%B7"
+    ]
+  }
+}
