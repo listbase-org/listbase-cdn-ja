@@ -1,0 +1,106 @@
+{
+  "id": "ja-gan-bui-betsu-juni",
+  "name": "部位別がん死亡数・罹患数の順位",
+  "title": "部位別がん死亡数・罹患数の順位",
+  "description": "日本における部位別のがん死亡数（2024年）と罹患数（2023年）の順位（男女別）。",
+  "category": "health",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%81%A5%E5%BA%B7",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%81%A5%E5%BA%B7",
+  "updated": "2026-10",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "deaths_2024_male",
+      "label": "Deaths 2024 Male",
+      "type": "string"
+    },
+    {
+      "key": "deaths_2024_female",
+      "label": "Deaths 2024 Female",
+      "type": "string"
+    },
+    {
+      "key": "deaths_2024_total",
+      "label": "Deaths 2024 Total",
+      "type": "string"
+    },
+    {
+      "key": "incidence_2023_male",
+      "label": "Incidence 2023 Male",
+      "type": "string"
+    },
+    {
+      "key": "incidence_2023_female",
+      "label": "Incidence 2023 Female",
+      "type": "string"
+    },
+    {
+      "key": "incidence_2023_total",
+      "label": "Incidence 2023 Total",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "deaths_2024_male": "肺",
+      "deaths_2024_female": "大腸",
+      "deaths_2024_total": "肺",
+      "incidence_2023_male": "前立腺",
+      "incidence_2023_female": "乳房",
+      "incidence_2023_total": "大腸"
+    },
+    {
+      "rank": 2,
+      "deaths_2024_male": "大腸",
+      "deaths_2024_female": "肺",
+      "deaths_2024_total": "大腸",
+      "incidence_2023_male": "大腸",
+      "incidence_2023_female": "大腸",
+      "incidence_2023_total": "肺"
+    },
+    {
+      "rank": 3,
+      "deaths_2024_male": "胃",
+      "deaths_2024_female": "膵臓",
+      "deaths_2024_total": "膵臓",
+      "incidence_2023_male": "肺",
+      "incidence_2023_female": "肺",
+      "incidence_2023_total": "胃"
+    },
+    {
+      "rank": 4,
+      "deaths_2024_male": "膵臓",
+      "deaths_2024_female": "乳房",
+      "deaths_2024_total": "胃",
+      "incidence_2023_male": "胃",
+      "incidence_2023_female": "胃",
+      "incidence_2023_total": "乳房"
+    },
+    {
+      "rank": 5,
+      "deaths_2024_male": "肝臓",
+      "deaths_2024_female": "胃",
+      "deaths_2024_total": "肝臓",
+      "incidence_2023_male": "膵臓",
+      "incidence_2023_female": "子宮",
+      "incidence_2023_total": "前立腺"
+    }
+  ],
+  "meta": {
+    "title": "部位別がん死亡数・罹患数の順位 - Free Download",
+    "description": "日本における部位別のがん死亡数（2024年）と罹患数（2023年）の順位（男女別）。 Contains 5 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "部位別がん死亡数・罹患数の順位 | ListBase",
+    "seo_description": "Download 部位別がん死亡数・罹患数の順位 — 5 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 5 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%81%A5%E5%BA%B7"
+    ]
+  }
+}

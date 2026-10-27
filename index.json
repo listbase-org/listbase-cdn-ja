@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-27T02:36:18.644Z",
-  "total_datasets": 515,
-  "total_records": 456130,
+  "generated": "2026-10-27T02:36:23.289Z",
+  "total_datasets": 516,
+  "total_records": 456135,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "history",
@@ -6049,6 +6049,34 @@
         "xlsx": {
           "name": "ja-yamanashi-shikuchoson-kyoukai_JA.xlsx",
           "size": 52366
+        }
+      }
+    },
+    {
+      "id": "ja-gan-bui-betsu-juni",
+      "name": "部位別がん死亡数・罹患数の順位",
+      "category": "health",
+      "record_count": 5,
+      "columns": [
+        "rank",
+        "deaths_2024_male",
+        "deaths_2024_female",
+        "deaths_2024_total",
+        "incidence_2023_male",
+        "incidence_2023_female",
+        "incidence_2023_total"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%81%A5%E5%BA%B7",
+      "updated": "2026-10",
+      "size": 3314,
+      "files": {
+        "csv": {
+          "name": "ja-gan-bui-betsu-juni_JA.csv",
+          "size": 398
+        },
+        "xlsx": {
+          "name": "ja-gan-bui-betsu-juni_JA.xlsx",
+          "size": 7012
         }
       }
     },
