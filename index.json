@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-27T02:37:46.319Z",
-  "total_datasets": 535,
-  "total_records": 456997,
+  "generated": "2026-10-27T02:37:50.525Z",
+  "total_datasets": 536,
+  "total_records": 457003,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tourism",
@@ -14823,6 +14823,32 @@
         "xlsx": {
           "name": "ja-nijushi-sekki_JA.xlsx",
           "size": 8567
+        }
+      }
+    },
+    {
+      "id": "ja-rokuyo-kyureki",
+      "name": "六曜と旧暦月初日の対応",
+      "category": "time",
+      "record_count": 6,
+      "columns": [
+        "lunar_date",
+        "rokujin",
+        "sho_rokujin",
+        "daian_sokukichi",
+        "rokuyo"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E5%85%AD%E6%9B%9C",
+      "updated": "2026-10",
+      "size": 2774,
+      "files": {
+        "csv": {
+          "name": "ja-rokuyo-kyureki_JA.csv",
+          "size": 417
+        },
+        "xlsx": {
+          "name": "ja-rokuyo-kyureki_JA.xlsx",
+          "size": 7061
         }
       }
     },

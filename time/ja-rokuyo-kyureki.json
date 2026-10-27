@@ -1,0 +1,93 @@
+{
+  "id": "ja-rokuyo-kyureki",
+  "name": "六曜と旧暦月初日の対応",
+  "title": "六曜と旧暦月初日の対応",
+  "description": "旧暦の各月1日にあたる六曜（先勝・友引・先負・仏滅・大安・赤口）と、その由来とされる六壬時課・小六壬との対応。",
+  "category": "time",
+  "source": "https://ja.wikipedia.org/wiki/%E5%85%AD%E6%9B%9C",
+  "source_url": "https://ja.wikipedia.org/wiki/%E5%85%AD%E6%9B%9C",
+  "updated": "2026-10",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "lunar_date",
+      "label": "Lunar Date",
+      "type": "string"
+    },
+    {
+      "key": "rokujin",
+      "label": "Rokujin",
+      "type": "string"
+    },
+    {
+      "key": "sho_rokujin",
+      "label": "Sho Rokujin",
+      "type": "string"
+    },
+    {
+      "key": "daian_sokukichi",
+      "label": "Daian Sokukichi",
+      "type": "string"
+    },
+    {
+      "key": "rokuyo",
+      "label": "Rokuyo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lunar_date": "1月1日・7月1日",
+      "rokujin": "大安",
+      "sho_rokujin": "小吉",
+      "daian_sokukichi": "大安",
+      "rokuyo": "先勝"
+    },
+    {
+      "lunar_date": "2月1日・8月1日",
+      "rokujin": "留連",
+      "sho_rokujin": "空亡",
+      "daian_sokukichi": "立連",
+      "rokuyo": "友引"
+    },
+    {
+      "lunar_date": "3月1日・9月1日",
+      "rokujin": "速喜",
+      "sho_rokujin": "大安",
+      "daian_sokukichi": "則吉",
+      "rokuyo": "先負"
+    },
+    {
+      "lunar_date": "4月1日・10月1日",
+      "rokujin": "赤口",
+      "sho_rokujin": "留連",
+      "daian_sokukichi": "赤口",
+      "rokuyo": "仏滅"
+    },
+    {
+      "lunar_date": "5月1日・11月1日",
+      "rokujin": "将吉",
+      "sho_rokujin": "速喜",
+      "daian_sokukichi": "小吉",
+      "rokuyo": "大安"
+    },
+    {
+      "lunar_date": "6月1日・12月1日",
+      "rokujin": "空亡",
+      "sho_rokujin": "赤口",
+      "daian_sokukichi": "虚妄",
+      "rokuyo": "赤口"
+    }
+  ],
+  "meta": {
+    "title": "六曜と旧暦月初日の対応 - Free Download",
+    "description": "旧暦の各月1日にあたる六曜（先勝・友引・先負・仏滅・大安・赤口）と、その由来とされる六壬時課・小六壬との対応。 Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "六曜と旧暦月初日の対応 | ListBase",
+    "seo_description": "Download 六曜と旧暦月初日の対応 — 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E5%85%AD%E6%9B%9C"
+    ]
+  }
+}
