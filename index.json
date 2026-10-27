@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-27T02:37:20.513Z",
-  "total_datasets": 529,
-  "total_records": 456775,
+  "generated": "2026-10-27T02:37:24.827Z",
+  "total_datasets": 530,
+  "total_records": 456782,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 2
+      "dataset_count": 3
     }
   ],
   "datasets": [
@@ -17179,6 +17179,35 @@
         "xlsx": {
           "name": "ja-kyori-tani-kansan_JA.xlsx",
           "size": 7580
+        }
+      }
+    },
+    {
+      "id": "ja-nagasa-tani-kansan",
+      "name": "長さの単位換算表（尺・寸・曲尺・鯨尺）",
+      "category": "units",
+      "record_count": 7,
+      "columns": [
+        "from",
+        "メートル",
+        "インチ",
+        "フィート",
+        "ヤード",
+        "寸",
+        "曲尺",
+        "鯨尺"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E5%B0%BA",
+      "updated": "2026-10",
+      "size": 3570,
+      "files": {
+        "csv": {
+          "name": "ja-nagasa-tani-kansan_JA.csv",
+          "size": 599
+        },
+        "xlsx": {
+          "name": "ja-nagasa-tani-kansan_JA.xlsx",
+          "size": 7275
         }
       }
     }
