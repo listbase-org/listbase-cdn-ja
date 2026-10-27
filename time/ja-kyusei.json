@@ -1,0 +1,128 @@
+{
+  "id": "ja-kyusei",
+  "name": "九星一覧",
+  "title": "九星一覧",
+  "description": "九星（一白水星〜九紫火星）の読み、五行、方位、八卦、色。",
+  "category": "time",
+  "source": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E6%98%9F",
+  "source_url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E6%98%9F",
+  "updated": "2026-10",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "kyusei",
+      "label": "Kyusei",
+      "type": "string"
+    },
+    {
+      "key": "reading",
+      "label": "Reading",
+      "type": "string"
+    },
+    {
+      "key": "gogyo",
+      "label": "Gogyo",
+      "type": "string"
+    },
+    {
+      "key": "direction",
+      "label": "Direction",
+      "type": "string"
+    },
+    {
+      "key": "hakke",
+      "label": "Hakke",
+      "type": "string"
+    },
+    {
+      "key": "color",
+      "label": "Color",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kyusei": "一白水星",
+      "reading": "いっぱくすいせい",
+      "gogyo": "水",
+      "direction": "北",
+      "hakke": "坎",
+      "color": "白"
+    },
+    {
+      "kyusei": "二黒土星",
+      "reading": "じこくどせい",
+      "gogyo": "土",
+      "direction": "西南",
+      "hakke": "坤",
+      "color": "黒"
+    },
+    {
+      "kyusei": "三碧木星",
+      "reading": "さんぺきもくせい",
+      "gogyo": "木",
+      "direction": "東",
+      "hakke": "震",
+      "color": "青"
+    },
+    {
+      "kyusei": "四緑木星",
+      "reading": "しろくもくせい",
+      "gogyo": "木",
+      "direction": "東南",
+      "hakke": "巽",
+      "color": "緑"
+    },
+    {
+      "kyusei": "五黄土星",
+      "reading": "ごおうどせい",
+      "gogyo": "土",
+      "direction": "中央",
+      "hakke": "太極",
+      "color": "黄"
+    },
+    {
+      "kyusei": "六白金星",
+      "reading": "ろっぱくきんせい",
+      "gogyo": "金",
+      "direction": "西北",
+      "hakke": "乾",
+      "color": "白"
+    },
+    {
+      "kyusei": "七赤金星",
+      "reading": "しちせききんせい",
+      "gogyo": "金",
+      "direction": "西",
+      "hakke": "兌",
+      "color": "赤"
+    },
+    {
+      "kyusei": "八白土星",
+      "reading": "はっぱくどせい",
+      "gogyo": "土",
+      "direction": "東北",
+      "hakke": "艮",
+      "color": "白"
+    },
+    {
+      "kyusei": "九紫火星",
+      "reading": "きゅうしかせい",
+      "gogyo": "火",
+      "direction": "南",
+      "hakke": "離",
+      "color": "紫"
+    }
+  ],
+  "meta": {
+    "title": "九星一覧 - Free Download",
+    "description": "九星（一白水星〜九紫火星）の読み、五行、方位、八卦、色。 Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "九星一覧 | ListBase",
+    "seo_description": "Download 九星一覧 — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E4%B9%9D%E6%98%9F"
+    ]
+  }
+}

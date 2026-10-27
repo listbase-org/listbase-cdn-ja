@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-27T02:37:16.242Z",
-  "total_datasets": 528,
-  "total_records": 456766,
+  "generated": "2026-10-27T02:37:20.513Z",
+  "total_datasets": 529,
+  "total_records": 456775,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tourism",
@@ -14665,6 +14665,33 @@
         "xlsx": {
           "name": "ja-kinenbi-ichiran_JA.xlsx",
           "size": 34255
+        }
+      }
+    },
+    {
+      "id": "ja-kyusei",
+      "name": "九星一覧",
+      "category": "time",
+      "record_count": 9,
+      "columns": [
+        "kyusei",
+        "reading",
+        "gogyo",
+        "direction",
+        "hakke",
+        "color"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E6%98%9F",
+      "updated": "2026-10",
+      "size": 3130,
+      "files": {
+        "csv": {
+          "name": "ja-kyusei_JA.csv",
+          "size": 648
+        },
+        "xlsx": {
+          "name": "ja-kyusei_JA.xlsx",
+          "size": 7306
         }
       }
     },
