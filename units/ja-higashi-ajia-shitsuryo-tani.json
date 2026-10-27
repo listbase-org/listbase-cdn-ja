@@ -1,0 +1,152 @@
+{
+  "id": "ja-higashi-ajia-shitsuryo-tani",
+  "name": "東アジアの質量単位（銭・両・斤など）",
+  "title": "東アジアの質量単位（銭・両・斤など）",
+  "description": "中国・台湾・香港・日本などの伝統的な質量単位とグラム換算、両・斤との関係。",
+  "category": "units",
+  "source": "https://ja.wikipedia.org/wiki/%E5%8C%81",
+  "source_url": "https://ja.wikipedia.org/wiki/%E5%8C%81",
+  "updated": "2026-10",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "unit",
+      "label": "Unit",
+      "type": "string"
+    },
+    {
+      "key": "grams",
+      "label": "Grams",
+      "type": "string"
+    },
+    {
+      "key": "in_ryo",
+      "label": "In Ryo",
+      "type": "string"
+    },
+    {
+      "key": "in_kin",
+      "label": "In Kin",
+      "type": "string"
+    },
+    {
+      "key": "other",
+      "label": "Other",
+      "type": "string"
+    },
+    {
+      "key": "country_region",
+      "label": "Country Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unit": "銭（ 市制 ）",
+      "grams": "5 g",
+      "in_ryo": "1 ⁄ 10 両",
+      "in_kin": "1 ⁄ 100 斤",
+      "other": "",
+      "country_region": "中国"
+    },
+    {
+      "unit": "チー ( ci )",
+      "grams": "3.86 g",
+      "in_ryo": "1 ⁄ 10 テール",
+      "in_kin": "",
+      "other": "",
+      "country_region": "インドネシア"
+    },
+    {
+      "unit": "チー ( ci )",
+      "grams": "3.78 g",
+      "in_ryo": "1 ⁄ 10 タヒル",
+      "in_kin": "1 ⁄ 160 カティ",
+      "other": "2 ⁄ 15 オンス",
+      "country_region": "シンガポール マレーシア"
+    },
+    {
+      "unit": "銭 ( tsin )",
+      "grams": "3.77994 g",
+      "in_ryo": "1 ⁄ 10 両",
+      "in_kin": "1 ⁄ 160 斤",
+      "other": "2 ⁄ 15 オンス",
+      "country_region": "香港 マカオ"
+    },
+    {
+      "unit": "戔（匁）",
+      "grams": "3.75652 g",
+      "in_ryo": "1 ⁄ 10 両",
+      "in_kin": "1 ⁄ 160 斤",
+      "other": "1 ⁄ 1000 貫",
+      "country_region": "日本 (1871)"
+    },
+    {
+      "unit": "匁",
+      "grams": "3.75 g",
+      "in_ryo": "1 ⁄ 10 両",
+      "in_kin": "1 ⁄ 160 斤",
+      "other": "1 ⁄ 1000 貫",
+      "country_region": "日本 (1891-)"
+    },
+    {
+      "unit": "銭（ 台制 ）",
+      "grams": "3.75 g",
+      "in_ryo": "1 ⁄ 10 両",
+      "in_kin": "1 ⁄ 160 斤",
+      "other": "",
+      "country_region": "台湾"
+    },
+    {
+      "unit": "金衡銭",
+      "grams": "3.7429 g",
+      "in_ryo": "1 ⁄ 10 金衡両",
+      "in_kin": "",
+      "other": "",
+      "country_region": "香港"
+    },
+    {
+      "unit": "銭（旧制）",
+      "grams": "3.7301 g",
+      "in_ryo": "1 ⁄ 10 両",
+      "in_kin": "1 ⁄ 160 斤",
+      "other": "",
+      "country_region": "中国（–1929）"
+    },
+    {
+      "unit": "戔（匁）",
+      "grams": "3.73 g",
+      "in_ryo": "1 ⁄ 10 両",
+      "in_kin": "1 ⁄ 160 斤",
+      "other": "1 ⁄ 1000 貫",
+      "country_region": "日本 (江戸時代)"
+    },
+    {
+      "unit": "マース ( mas )",
+      "grams": "3.622 g",
+      "in_ryo": "1 ⁄ 10 テール",
+      "in_kin": "",
+      "other": "",
+      "country_region": "フィリピン"
+    },
+    {
+      "unit": "銭（ 市制 ）",
+      "grams": "3.125 g",
+      "in_ryo": "1 ⁄ 10 両",
+      "in_kin": "1 ⁄ 160 斤",
+      "other": "",
+      "country_region": "中国（1929–59）"
+    }
+  ],
+  "meta": {
+    "title": "東アジアの質量単位（銭・両・斤など） - Free Download",
+    "description": "中国・台湾・香港・日本などの伝統的な質量単位とグラム換算、両・斤との関係。 Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "東アジアの質量単位（銭・両・斤など） | ListBase",
+    "seo_description": "Download 東アジアの質量単位（銭・両・斤など） — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E5%8C%81"
+    ]
+  }
+}

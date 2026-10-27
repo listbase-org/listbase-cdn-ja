@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-27T02:36:40.474Z",
-  "total_datasets": 520,
-  "total_records": 456326,
+  "generated": "2026-10-27T02:36:44.874Z",
+  "total_datasets": 521,
+  "total_records": 456338,
   "categories": [
     {
       "id": "agriculture",
@@ -95,6 +95,10 @@
     {
       "id": "transport",
       "dataset_count": 51
+    },
+    {
+      "id": "units",
+      "dataset_count": 1
     }
   ],
   "datasets": [
@@ -16932,6 +16936,33 @@
         "xlsx": {
           "name": "ja-yamanashi-unlocode_JA.xlsx",
           "size": 8849
+        }
+      }
+    },
+    {
+      "id": "ja-higashi-ajia-shitsuryo-tani",
+      "name": "東アジアの質量単位（銭・両・斤など）",
+      "category": "units",
+      "record_count": 12,
+      "columns": [
+        "unit",
+        "grams",
+        "in_ryo",
+        "in_kin",
+        "other",
+        "country_region"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E5%8C%81",
+      "updated": "2026-10",
+      "size": 4201,
+      "files": {
+        "csv": {
+          "name": "ja-higashi-ajia-shitsuryo-tani_JA.csv",
+          "size": 1072
+        },
+        "xlsx": {
+          "name": "ja-higashi-ajia-shitsuryo-tani_JA.xlsx",
+          "size": 7464
         }
       }
     }
