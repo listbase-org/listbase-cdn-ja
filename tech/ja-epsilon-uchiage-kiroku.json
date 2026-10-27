@@ -1,0 +1,178 @@
+{
+  "id": "ja-epsilon-uchiage-kiroku",
+  "name": "イプシロンロケット 打ち上げ記録",
+  "title": "イプシロンロケット 打ち上げ記録",
+  "description": "イプシロンロケット各号機の打ち上げ日時、機体構成、積荷、質量、軌道、成否。",
+  "category": "tech",
+  "source": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%97%E3%82%B7%E3%83%AD%E3%83%B3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+  "source_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%97%E3%82%B7%E3%83%AD%E3%83%B3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+  "updated": "2026-10",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "vehicle",
+      "label": "Vehicle",
+      "type": "string"
+    },
+    {
+      "key": "launch_time_jst",
+      "label": "Launch Time Jst",
+      "type": "string"
+    },
+    {
+      "key": "configuration",
+      "label": "Configuration",
+      "type": "string"
+    },
+    {
+      "key": "payload",
+      "label": "Payload",
+      "type": "string"
+    },
+    {
+      "key": "mass_kg",
+      "label": "Mass Kg",
+      "type": "number"
+    },
+    {
+      "key": "orbit",
+      "label": "Orbit",
+      "type": "string"
+    },
+    {
+      "key": "result",
+      "label": "Result",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "vehicle": "試験機",
+      "launch_time_jst": "2013年 9月14日 14時00分00秒",
+      "configuration": "SRB-A M-34c KM-V2b PBS 制振機構有",
+      "payload": "惑星分光観測衛星 （惑星宇宙望遠鏡） 「 ひさき 」（SPRINT-A）",
+      "mass_kg": 340,
+      "orbit": "低軌道 950km×1150km",
+      "result": "成功"
+    },
+    {
+      "vehicle": "2号機",
+      "launch_time_jst": "2016年 12月20日 20時00分00秒",
+      "configuration": "SRB-A M-35 KM-V2c 制振機構無",
+      "payload": "ジオスペース 探査衛星 「 あらせ 」（ERG）",
+      "mass_kg": 350,
+      "orbit": "長楕円 300km×33,200km",
+      "result": "成功"
+    },
+    {
+      "vehicle": "3号機",
+      "launch_time_jst": "2018年 1月18日 6時6分11秒",
+      "configuration": "SRB-A M-35 KM-V2c PBS 制振機構有",
+      "payload": "高性能小型レーダ衛星 （ ASNARO-2 ）",
+      "mass_kg": 570,
+      "orbit": "太陽同期準回帰軌道 505km",
+      "result": "成功"
+    },
+    {
+      "vehicle": "4号機",
+      "launch_time_jst": "2019年 1月18日 9時50分20秒",
+      "configuration": "SRB-A M-35 KM-V2c PBS 制振機構有",
+      "payload": "革新的衛星技術実証1号機 （RAPIS-1）",
+      "mass_kg": 200,
+      "orbit": "太陽同期軌道 500km",
+      "result": "成功"
+    },
+    {
+      "vehicle": "4号機",
+      "launch_time_jst": "2019年 1月18日 9時50分20秒",
+      "configuration": "SRB-A M-35 KM-V2c PBS 制振機構有",
+      "payload": "超小型衛星 3基 （MicroDragon） （RISESAT） （ALE-1）",
+      "mass_kg": 506968,
+      "orbit": "太陽同期軌道 500km",
+      "result": "成功"
+    },
+    {
+      "vehicle": "4号機",
+      "launch_time_jst": "2019年 1月18日 9時50分20秒",
+      "configuration": "SRB-A M-35 KM-V2c PBS 制振機構有",
+      "payload": "キューブサット 3基 （OrigamiSat-1） （Aoba VELOX-IV） （NEXUS）",
+      "mass_kg": 431,
+      "orbit": "太陽同期軌道 500km",
+      "result": "成功"
+    },
+    {
+      "vehicle": "5号機",
+      "launch_time_jst": "2021年 11月9日 9時55分16秒",
+      "configuration": "SRB-A M-35 KM-V2c PBS 制振機構有",
+      "payload": "革新的衛星技術実証2号機 （RAISE-2）",
+      "mass_kg": 110,
+      "orbit": "太陽同期軌道 560km",
+      "result": "成功"
+    },
+    {
+      "vehicle": "5号機",
+      "launch_time_jst": "2021年 11月9日 9時55分16秒",
+      "configuration": "SRB-A M-35 KM-V2c PBS 制振機構有",
+      "payload": "超小型衛星 4基 （HIBARI） （Z-Sat） （DRUMS） （TeikyoSat-4）",
+      "mass_kg": 55466252,
+      "orbit": "太陽同期軌道 560km",
+      "result": "成功"
+    },
+    {
+      "vehicle": "5号機",
+      "launch_time_jst": "2021年 11月9日 9時55分16秒",
+      "configuration": "SRB-A M-35 KM-V2c PBS 制振機構有",
+      "payload": "キューブサット 4基 （ASTERISC） （ARICA） （NanoDragon） （KOSEN-1）",
+      "mass_kg": 4143,
+      "orbit": "太陽同期軌道 560km",
+      "result": "成功"
+    },
+    {
+      "vehicle": "6号機",
+      "launch_time_jst": "2022年 10月12日 9時50分43秒",
+      "configuration": "SRB-A M-35 KM-V2c PBS 制振機構有",
+      "payload": "革新的衛星技術実証3号機 （RAISE-3）",
+      "mass_kg": 110,
+      "orbit": "太陽同期軌道 560km",
+      "result": "失敗"
+    },
+    {
+      "vehicle": "6号機",
+      "launch_time_jst": "2022年 10月12日 9時50分43秒",
+      "configuration": "SRB-A M-35 KM-V2c PBS 制振機構有",
+      "payload": "小型衛星 2基 （QPS-SAR-3） （QPS-SAR-4）",
+      "mass_kg": 170170,
+      "orbit": "太陽同期軌道 560km",
+      "result": "失敗"
+    },
+    {
+      "vehicle": "6号機",
+      "launch_time_jst": "2022年 10月12日 9時50分43秒",
+      "configuration": "SRB-A M-35 KM-V2c PBS 制振機構有",
+      "payload": "キューブサット 5基 （MAGNARO） （MITSUBA） （KOSEN-2） （WASEDA-SAT-ZERO） （FSI-SAT）",
+      "mass_kg": 42311,
+      "orbit": "太陽同期軌道 560km",
+      "result": "失敗"
+    },
+    {
+      "vehicle": "7号機",
+      "launch_time_jst": "2026年度中 （予定）",
+      "configuration": "SRB-3 M-35a E-31 PBS",
+      "payload": "未定（システム刷新相当の機体であることを踏まえつつ、具体化を進める ）",
+      "mass_kg": "",
+      "orbit": "",
+      "result": "予定"
+    }
+  ],
+  "meta": {
+    "title": "イプシロンロケット 打ち上げ記録 - Free Download",
+    "description": "イプシロンロケット各号機の打ち上げ日時、機体構成、積荷、質量、軌道、成否。 Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "イプシロンロケット 打ち上げ記録 | ListBase",
+    "seo_description": "Download イプシロンロケット 打ち上げ記録 — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%97%E3%82%B7%E3%83%AD%E3%83%B3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88"
+    ]
+  }
+}

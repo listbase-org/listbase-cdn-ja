@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-26T02:11:46.965Z",
-  "total_datasets": 514,
-  "total_records": 456117,
+  "generated": "2026-10-27T02:36:18.644Z",
+  "total_datasets": 515,
+  "total_records": 456130,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "time",
@@ -14265,6 +14265,34 @@
         "xlsx": {
           "name": "ja-denki-kiki-kigyo_JA.xlsx",
           "size": 31507
+        }
+      }
+    },
+    {
+      "id": "ja-epsilon-uchiage-kiroku",
+      "name": "イプシロンロケット 打ち上げ記録",
+      "category": "tech",
+      "record_count": 13,
+      "columns": [
+        "vehicle",
+        "launch_time_jst",
+        "configuration",
+        "payload",
+        "mass_kg",
+        "orbit",
+        "result"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%97%E3%82%B7%E3%83%AD%E3%83%B3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+      "updated": "2026-10",
+      "size": 6524,
+      "files": {
+        "csv": {
+          "name": "ja-epsilon-uchiage-kiroku_JA.csv",
+          "size": 2639
+        },
+        "xlsx": {
+          "name": "ja-epsilon-uchiage-kiroku_JA.xlsx",
+          "size": 8052
         }
       }
     },
