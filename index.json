@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-27T02:37:50.525Z",
-  "total_datasets": 536,
-  "total_records": 457003,
+  "generated": "2026-10-27T02:37:54.841Z",
+  "total_datasets": 537,
+  "total_records": 457020,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 3
+      "dataset_count": 4
     }
   ],
   "datasets": [
@@ -17365,6 +17365,30 @@
         "xlsx": {
           "name": "ja-nagasa-tani-kansan_JA.xlsx",
           "size": 7275
+        }
+      }
+    },
+    {
+      "id": "ja-shakkanho-tani",
+      "name": "尺貫法の単位と換算値",
+      "category": "units",
+      "record_count": 17,
+      "columns": [
+        "unit",
+        "quantity",
+        "value"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E5%B0%BA%E8%B2%AB%E6%B3%95",
+      "updated": "2026-10",
+      "size": 3250,
+      "files": {
+        "csv": {
+          "name": "ja-shakkanho-tani_JA.csv",
+          "size": 662
+        },
+        "xlsx": {
+          "name": "ja-shakkanho-tani_JA.xlsx",
+          "size": 7195
         }
       }
     }

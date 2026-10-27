@@ -1,0 +1,126 @@
+{
+  "id": "ja-shakkanho-tani",
+  "name": "尺貫法の単位と換算値",
+  "title": "尺貫法の単位と換算値",
+  "description": "日本の伝統的な度量衡である尺貫法の単位（寸・分・厘・合・勺・坪・匁・斤など）と、長さ・質量・体積・面積のSI単位換算値。",
+  "category": "units",
+  "source": "https://ja.wikipedia.org/wiki/%E5%B0%BA%E8%B2%AB%E6%B3%95",
+  "source_url": "https://ja.wikipedia.org/wiki/%E5%B0%BA%E8%B2%AB%E6%B3%95",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "unit",
+      "label": "Unit",
+      "type": "string"
+    },
+    {
+      "key": "quantity",
+      "label": "Quantity",
+      "type": "string"
+    },
+    {
+      "key": "value",
+      "label": "Value",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unit": "（基本単位）",
+      "quantity": "length",
+      "value": "寸≒ 30.303 03 mm"
+    },
+    {
+      "unit": "（基本単位）",
+      "quantity": "mass",
+      "value": "匁＝ 3.75 g"
+    },
+    {
+      "unit": "分",
+      "quantity": "length",
+      "value": "≒ 3.030 303 mm"
+    },
+    {
+      "unit": "分",
+      "quantity": "mass",
+      "value": "375 mg"
+    },
+    {
+      "unit": "厘",
+      "quantity": "length",
+      "value": "≒ 303.0303 µm"
+    },
+    {
+      "unit": "厘",
+      "quantity": "mass",
+      "value": "37.5 mg"
+    },
+    {
+      "unit": "毛",
+      "quantity": "length",
+      "value": "≒ 30.303 03 µm"
+    },
+    {
+      "unit": "毛",
+      "quantity": "mass",
+      "value": "3.75 mg"
+    },
+    {
+      "unit": "（基本単位）",
+      "quantity": "volume",
+      "value": "升≒ 1.803 906 84 L"
+    },
+    {
+      "unit": "（基本単位）",
+      "quantity": "area",
+      "value": "坪/歩≒ 3.305 785 m 2"
+    },
+    {
+      "unit": "（基本単位）",
+      "quantity": "mass_kin_based",
+      "value": "斤＝ 600 g"
+    },
+    {
+      "unit": "合",
+      "quantity": "volume",
+      "value": "≒ 180.390 684 mL"
+    },
+    {
+      "unit": "合",
+      "quantity": "area",
+      "value": "≒ 0.330 578 5 m 2"
+    },
+    {
+      "unit": "合",
+      "quantity": "mass_kin_based",
+      "value": "60 g"
+    },
+    {
+      "unit": "勺",
+      "quantity": "volume",
+      "value": "≒ 18.039 068 4 mL"
+    },
+    {
+      "unit": "勺",
+      "quantity": "area",
+      "value": "≒ 0.033 057 85 m 2"
+    },
+    {
+      "unit": "勺",
+      "quantity": "mass_kin_based",
+      "value": "6.0 g"
+    }
+  ],
+  "meta": {
+    "title": "尺貫法の単位と換算値 - Free Download",
+    "description": "日本の伝統的な度量衡である尺貫法の単位（寸・分・厘・合・勺・坪・匁・斤など）と、長さ・質量・体積・面積のSI単位換算値。 Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "尺貫法の単位と換算値 | ListBase",
+    "seo_description": "Download 尺貫法の単位と換算値 — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E5%B0%BA%E8%B2%AB%E6%B3%95"
+    ]
+  }
+}
