@@ -1,0 +1,652 @@
+{
+  "id": "ja-jukujikun",
+  "name": "熟字訓の例",
+  "title": "熟字訓の例",
+  "description": "熟字訓（明日=あした、梅雨=つゆ など）の表記、読み、音読み、意味。",
+  "category": "language",
+  "source": "https://ja.wikipedia.org/wiki/%E7%86%9F%E5%AD%97%E8%A8%93",
+  "source_url": "https://ja.wikipedia.org/wiki/%E7%86%9F%E5%AD%97%E8%A8%93",
+  "updated": "2026-10",
+  "record_count": 101,
+  "columns": [
+    {
+      "key": "word",
+      "label": "Word",
+      "type": "string"
+    },
+    {
+      "key": "jukujikun_reading",
+      "label": "Jukujikun Reading",
+      "type": "string"
+    },
+    {
+      "key": "on_reading",
+      "label": "On Reading",
+      "type": "string"
+    },
+    {
+      "key": "meaning",
+      "label": "Meaning",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "word": "一昨昨日",
+      "jukujikun_reading": "さきおととい",
+      "on_reading": "いっさくさくじつ",
+      "meaning": "3日前の日"
+    },
+    {
+      "word": "一昨日",
+      "jukujikun_reading": "おととい おとつい",
+      "on_reading": "いっさくじつ",
+      "meaning": "2日前の日（前々日）"
+    },
+    {
+      "word": "昨日",
+      "jukujikun_reading": "きのう",
+      "on_reading": "さくじつ",
+      "meaning": "1日前の日（前日）"
+    },
+    {
+      "word": "今日",
+      "jukujikun_reading": "きょう",
+      "on_reading": "こんにち",
+      "meaning": "「きょう」は本日を、「こんにち」は最近を意味する。"
+    },
+    {
+      "word": "明日",
+      "jukujikun_reading": "あす あした",
+      "on_reading": "みょうにち",
+      "meaning": "1日後の日（翌日）"
+    },
+    {
+      "word": "明後日",
+      "jukujikun_reading": "あさって",
+      "on_reading": "みょうごにち",
+      "meaning": "2日後の日（翌々日）"
+    },
+    {
+      "word": "明明後日",
+      "jukujikun_reading": "しあさって",
+      "on_reading": "みょうみょうごにち",
+      "meaning": "3日後の日"
+    },
+    {
+      "word": "弥の明後日",
+      "jukujikun_reading": "やのあさって",
+      "on_reading": "",
+      "meaning": "4日後の日"
+    },
+    {
+      "word": "一日",
+      "jukujikun_reading": "ついたち",
+      "on_reading": "いちにち いちじつ",
+      "meaning": "1日"
+    },
+    {
+      "word": "晦日",
+      "jukujikun_reading": "つごもり みそか",
+      "on_reading": "かいじつ",
+      "meaning": "月 末（ただし、「大晦日」は12月31日を意味する。）"
+    },
+    {
+      "word": "如月",
+      "jukujikun_reading": "きさらぎ",
+      "on_reading": "じょげつ",
+      "meaning": "2月"
+    },
+    {
+      "word": "弥生",
+      "jukujikun_reading": "やよい",
+      "on_reading": "いやおい",
+      "meaning": "3月"
+    },
+    {
+      "word": "皐月 五月",
+      "jukujikun_reading": "さつき",
+      "on_reading": "ごがつ(五月)",
+      "meaning": "5月"
+    },
+    {
+      "word": "師走",
+      "jukujikun_reading": "しわす しはす",
+      "on_reading": "",
+      "meaning": "12月"
+    },
+    {
+      "word": "今年",
+      "jukujikun_reading": "ことし",
+      "on_reading": "こんねん",
+      "meaning": "本 年"
+    },
+    {
+      "word": "一昨年",
+      "jukujikun_reading": "おととし",
+      "on_reading": "いっさくねん",
+      "meaning": "2年前の年（前々年）"
+    },
+    {
+      "word": "今朝",
+      "jukujikun_reading": "けさ",
+      "on_reading": "こんちょう",
+      "meaning": "今日の 朝"
+    },
+    {
+      "word": "十六夜",
+      "jukujikun_reading": "いざよい",
+      "on_reading": "じゅうろくや",
+      "meaning": "満月 の次の日の夜もしくはその時に出る 月"
+    },
+    {
+      "word": "七夕",
+      "jukujikun_reading": "たなばた",
+      "on_reading": "しちせき",
+      "meaning": "7月7日またはその日に行われる 祭り"
+    },
+    {
+      "word": "一寸",
+      "jukujikun_reading": "ちょっと",
+      "on_reading": "いっすん",
+      "meaning": "「ちょっと」は短い 時間 を、「いっすん」は長さの単位『 寸 』を意味する。"
+    },
+    {
+      "word": "下手",
+      "jukujikun_reading": "へた",
+      "on_reading": "したて しもて",
+      "meaning": "「へた」・「したて」・「しもて」は、それぞれ、拙いさま・遜るさま・ 舞台 の向かって左側の位置を意味する。"
+    },
+    {
+      "word": "大人",
+      "jukujikun_reading": "おとな",
+      "on_reading": "だいにん たいじん",
+      "meaning": "成人 を意味するが「たいじん」と読む場合には度量のある 人 のことも意味する"
+    },
+    {
+      "word": "従兄弟",
+      "jukujikun_reading": "いとこ",
+      "on_reading": "じゅうけいてい",
+      "meaning": "父母 の 兄弟姉妹 の 子"
+    },
+    {
+      "word": "従姉妹",
+      "jukujikun_reading": "いとこ",
+      "on_reading": "じゅうしまい",
+      "meaning": "父母 の 兄弟姉妹 の 子"
+    },
+    {
+      "word": "伯父",
+      "jukujikun_reading": "おじ",
+      "on_reading": "はくふ",
+      "meaning": "父母の 兄"
+    },
+    {
+      "word": "叔父",
+      "jukujikun_reading": "おじ",
+      "on_reading": "しゅくふ",
+      "meaning": "父母の 弟"
+    },
+    {
+      "word": "伯母",
+      "jukujikun_reading": "おば",
+      "on_reading": "はくぼ",
+      "meaning": "父母の 姉"
+    },
+    {
+      "word": "叔母",
+      "jukujikun_reading": "おば",
+      "on_reading": "しゅくぼ",
+      "meaning": "父母の 妹"
+    },
+    {
+      "word": "曽孫",
+      "jukujikun_reading": "ひまご",
+      "on_reading": "そうそん",
+      "meaning": "孫 の子"
+    },
+    {
+      "word": "玄孫",
+      "jukujikun_reading": "やしゃご",
+      "on_reading": "げんそん",
+      "meaning": "孫の孫"
+    },
+    {
+      "word": "女将",
+      "jukujikun_reading": "おかみ",
+      "on_reading": "じょしょう",
+      "meaning": "旅館 や 料理 屋等の女主人"
+    },
+    {
+      "word": "乳母",
+      "jukujikun_reading": "うば",
+      "on_reading": "にゅうぼ",
+      "meaning": "子供 を育てるための人を意味して「うば」と読まれる。「乳母日傘」の「おんば」は「御乳母（おうば）」の撥音便から御の字が脱落したもののため、指す意味は同じだが由来は異なる。"
+    },
+    {
+      "word": "梅雨",
+      "jukujikun_reading": "つゆ",
+      "on_reading": "ばいう",
+      "meaning": "春 と 夏 の間に 雨 が多く降る期間およびその雨"
+    },
+    {
+      "word": "時雨",
+      "jukujikun_reading": "しぐれ",
+      "on_reading": "じう",
+      "meaning": "晩 秋 から初 冬 にかけての冬型の 気圧 配置に伴って 日本海 側で降る雨"
+    },
+    {
+      "word": "五月雨",
+      "jukujikun_reading": "さみだれ",
+      "on_reading": "ごがつう",
+      "meaning": "梅雨と同じ意味"
+    },
+    {
+      "word": "雪崩",
+      "jukujikun_reading": "なだれ",
+      "on_reading": "",
+      "meaning": "雪 が崩れること"
+    },
+    {
+      "word": "吹雪",
+      "jukujikun_reading": "ふぶき",
+      "on_reading": "",
+      "meaning": "風 と雪が強いこと"
+    },
+    {
+      "word": "陽炎",
+      "jukujikun_reading": "かげろう",
+      "on_reading": "ようえん",
+      "meaning": "春及び夏に起こる 気象 現象"
+    },
+    {
+      "word": "紅葉",
+      "jukujikun_reading": "もみじ",
+      "on_reading": "こうよう",
+      "meaning": "秋に起こる 落葉 樹 の 葉 の色が変わる現象（その落ち葉に対して同様の表記で「もみじば」と 当て られる）"
+    },
+    {
+      "word": "疾風",
+      "jukujikun_reading": "はやて",
+      "on_reading": "しっぷう",
+      "meaning": "非常に強く吹く風（このことから転じて、非常に速いさまを意味する場合も有る。）"
+    },
+    {
+      "word": "息吹",
+      "jukujikun_reading": "いぶき",
+      "on_reading": "",
+      "meaning": "息を吹くこと （「息吹く」とも)または 生気 ・活気の有るさま）"
+    },
+    {
+      "word": "土筆",
+      "jukujikun_reading": "つくし",
+      "on_reading": "どひつ",
+      "meaning": "「つくし」はスギナの胞子茎を、「どひつ」は焼き筆を意味する。"
+    },
+    {
+      "word": "女郎花",
+      "jukujikun_reading": "おみなえし",
+      "on_reading": "",
+      "meaning": "オミナエシ科 の 多年草"
+    },
+    {
+      "word": "山葵",
+      "jukujikun_reading": "わさび",
+      "on_reading": "",
+      "meaning": "アブラナ科 の 植物"
+    },
+    {
+      "word": "百合",
+      "jukujikun_reading": "ゆり",
+      "on_reading": "",
+      "meaning": "ユリ科 の多年草"
+    },
+    {
+      "word": "海月",
+      "jukujikun_reading": "くらげ",
+      "on_reading": "かいげつ",
+      "meaning": "浮遊生活 を送る 刺胞動物 を意味するが「かいげつ」と読まれる場合には 海面 に映った月影を意味しうる"
+    },
+    {
+      "word": "水母",
+      "jukujikun_reading": "くらげ",
+      "on_reading": "すいぼ",
+      "meaning": "浮遊生活 を送る 刺胞動物 を意味するが「かいげつ」と読まれる場合には 海面 に映った月影を意味しうる"
+    },
+    {
+      "word": "海老",
+      "jukujikun_reading": "えび",
+      "on_reading": "かいろう",
+      "meaning": "甲殻類 の 動物 の一種"
+    },
+    {
+      "word": "烏賊",
+      "jukujikun_reading": "いか",
+      "on_reading": "うぞく",
+      "meaning": "十本腕の 頭足類 の一種"
+    },
+    {
+      "word": "小豆",
+      "jukujikun_reading": "あずき",
+      "on_reading": "しょうず",
+      "meaning": "餡子 の 原料 の 豆 （ 瀬戸内海 の 播磨灘 に位置する 小豆島 の「小豆」は「しょうど」と読まれ、 香川県 に属する 小豆郡 の「小豆」は例の通りに「しょうず」と読まれる。）"
+    },
+    {
+      "word": "桜桃",
+      "jukujikun_reading": "さくらんぼ",
+      "on_reading": "おうとう",
+      "meaning": "落葉高木 で 桜 の一種"
+    },
+    {
+      "word": "大蛇",
+      "jukujikun_reading": "おろち",
+      "on_reading": "だいじゃ",
+      "meaning": "大きな 蛇 の種類や総称（ 日本神話 で登場する架空の巨大な蛇型生物『 ヤマタノオロチ 』が元来の意味である。）"
+    },
+    {
+      "word": "銀杏",
+      "jukujikun_reading": "いちょう",
+      "on_reading": "ぎんなん",
+      "meaning": "「いちょう」は イチョウ科 の落葉性 裸子植物 を、「ぎんなん」はその 種子 を意味する。"
+    },
+    {
+      "word": "無花果",
+      "jukujikun_reading": "いちじく",
+      "on_reading": "",
+      "meaning": "クワ科 イチジク属 の 落葉高木 またはその 果実 （花を咲かせずに実をつけるように見えることに由来する）"
+    },
+    {
+      "word": "紫陽花",
+      "jukujikun_reading": "あじさい",
+      "on_reading": "しようか",
+      "meaning": "アジサイ科 アジサイ属 の落葉低木の一種"
+    },
+    {
+      "word": "心太 心天",
+      "jukujikun_reading": "ところてん",
+      "on_reading": "",
+      "meaning": "海藻 類を煮溶かして作った 寒天質 を冷まして固めた 食品"
+    },
+    {
+      "word": "果物",
+      "jukujikun_reading": "くだもの",
+      "on_reading": "かぶつ",
+      "meaning": "甘味 や 酸味 の強く特に樹木に生る果実"
+    },
+    {
+      "word": "灰汁",
+      "jukujikun_reading": "あく",
+      "on_reading": "",
+      "meaning": "食品に含まれる不快な成分"
+    },
+    {
+      "word": "河岸",
+      "jukujikun_reading": "かし",
+      "on_reading": "かがん かわぎし",
+      "meaning": "「かし」は 魚市場 を、「かがん」と「かわぎし」は川の岸を意味する。"
+    },
+    {
+      "word": "海女 海士",
+      "jukujikun_reading": "あま",
+      "on_reading": "",
+      "meaning": "海 に潜り 魚介類 を採る 女性 （海女）・ 男性 （海士）"
+    },
+    {
+      "word": "眼鏡",
+      "jukujikun_reading": "めがね",
+      "on_reading": "がんきょう",
+      "meaning": "視力 を 矯正 する 道具"
+    },
+    {
+      "word": "足袋",
+      "jukujikun_reading": "たび",
+      "on_reading": "",
+      "meaning": "日本固有の伝統的な足用 下着"
+    },
+    {
+      "word": "竹刀",
+      "jukujikun_reading": "しない",
+      "on_reading": "ちくとう",
+      "meaning": "竹 で作られた 刀"
+    },
+    {
+      "word": "団扇",
+      "jukujikun_reading": "うちわ",
+      "on_reading": "だんせん",
+      "meaning": "扇ぐことで風を起こせるようにした日本の伝統的な道具"
+    },
+    {
+      "word": "松明",
+      "jukujikun_reading": "たいまつ",
+      "on_reading": "しょうみょう",
+      "meaning": "手 で持てるようにした火の点いた木切れ"
+    },
+    {
+      "word": "蚊帳",
+      "jukujikun_reading": "かや",
+      "on_reading": "ぶんちょう",
+      "meaning": "蚊 から 人 を守るための箱状の 網"
+    },
+    {
+      "word": "浴衣",
+      "jukujikun_reading": "ゆかた",
+      "on_reading": "よくい",
+      "meaning": "単純な 構造 の 和服"
+    },
+    {
+      "word": "母屋 母家",
+      "jukujikun_reading": "おもや",
+      "on_reading": "",
+      "meaning": "家屋 の主たる 建物"
+    },
+    {
+      "word": "大和",
+      "jukujikun_reading": "やまと",
+      "on_reading": "だいわ",
+      "meaning": "奈良県 天理市 付近の 地域 （奈良県や日本全体を指すこともある）や 神奈川県 大和市 （ 企業名 には熟字訓と音読みのどちらも使用されるが、人名にも使われている 姓 には熟字訓の方が使われる。）"
+    },
+    {
+      "word": "流鏑馬 鏑流馬",
+      "jukujikun_reading": "やぶさめ",
+      "on_reading": "",
+      "meaning": "疾走する 馬 上から的に 矢 を射る 弓術 の 稽古 や 儀式"
+    },
+    {
+      "word": "太刀",
+      "jukujikun_reading": "たち",
+      "on_reading": "",
+      "meaning": "大きな刀や直刀でない刀（「助太刀」は助勢や援護を意味する。）"
+    },
+    {
+      "word": "山車",
+      "jukujikun_reading": "だし",
+      "on_reading": "さんしゃ",
+      "meaning": "祭りに使われる大勢で引く 車輪 付きの出し物"
+    },
+    {
+      "word": "神酒",
+      "jukujikun_reading": "みき",
+      "on_reading": "しんしゅ",
+      "meaning": "神 に供える 酒"
+    },
+    {
+      "word": "神楽",
+      "jukujikun_reading": "かぐら",
+      "on_reading": "",
+      "meaning": "神に奉納するための歌と舞"
+    },
+    {
+      "word": "祝詞",
+      "jukujikun_reading": "のりと",
+      "on_reading": "しゅくし",
+      "meaning": "神に奉納するための 言葉"
+    },
+    {
+      "word": "女形",
+      "jukujikun_reading": "おやま",
+      "on_reading": "おんながた",
+      "meaning": "女性を演じる 男性 の 役者 （ 歌舞伎 や 能 など）"
+    },
+    {
+      "word": "土産",
+      "jukujikun_reading": "みやげ",
+      "on_reading": "どさん とさん",
+      "meaning": "「みやげ」はその土地の 特産品 や 旅先 で仕入れた品物および記念品を、「どさん」はその土地の産物を意味する。"
+    },
+    {
+      "word": "田舎",
+      "jukujikun_reading": "いなか",
+      "on_reading": "でんしゃ",
+      "meaning": "人口 が疎らで辺鄙な地域（いわゆる 地方 ）または生まれ故郷（「片田舎」は人口はそれほど少なくはないが辺鄙な地域を意味する。）"
+    },
+    {
+      "word": "相撲",
+      "jukujikun_reading": "すもう",
+      "on_reading": "",
+      "meaning": "日本の伝統的な 格闘技"
+    },
+    {
+      "word": "鍛冶",
+      "jukujikun_reading": "かじ",
+      "on_reading": "たんや",
+      "meaning": "鍛造 による 金属 製品の製作またはその業者（ 鍛冶屋 ）"
+    },
+    {
+      "word": "玩具",
+      "jukujikun_reading": "おもちゃ",
+      "on_reading": "がんぐ",
+      "meaning": "人や動物の遊び道具（狭義では子供のそれを意味する）"
+    },
+    {
+      "word": "可笑（しい）",
+      "jukujikun_reading": "おか（しい）",
+      "on_reading": "",
+      "meaning": "滑稽な・奇妙な"
+    },
+    {
+      "word": "相応（しい）",
+      "jukujikun_reading": "ふさわ（しい）",
+      "on_reading": "そうおう",
+      "meaning": "似合っている・釣合っている"
+    },
+    {
+      "word": "美味（しい）",
+      "jukujikun_reading": "おい（しい）",
+      "on_reading": "びみ",
+      "meaning": "味 が良い"
+    },
+    {
+      "word": "不味（い）",
+      "jukujikun_reading": "まず（い）",
+      "on_reading": "ふみ",
+      "meaning": "味が悪い・味気の無い"
+    },
+    {
+      "word": "彷徨（う）",
+      "jukujikun_reading": "さまよ（う）",
+      "on_reading": "ほうこう",
+      "meaning": "迷い歩く"
+    },
+    {
+      "word": "躊躇（う）",
+      "jukujikun_reading": "ためら（う）",
+      "on_reading": "ちゅうちょ",
+      "meaning": "決心がつかない"
+    },
+    {
+      "word": "蹌踉（めく）",
+      "jukujikun_reading": "よろ（めく）",
+      "on_reading": "そうろう",
+      "meaning": "よろよろする"
+    },
+    {
+      "word": "欠伸",
+      "jukujikun_reading": "あくび",
+      "on_reading": "けんしん",
+      "meaning": "反射 的に 空気 を吸うこと"
+    },
+    {
+      "word": "九十九",
+      "jukujikun_reading": "つくも",
+      "on_reading": "きゅうじゅうきゅう くじゅうく",
+      "meaning": "「つくも」はたくさん在るさまや99（数）を、「きゅうじゅうきゅう」は99（数）を意味する。なお、「九十九折」は「つづらおり」と読まれる。"
+    },
+    {
+      "word": "台詞",
+      "jukujikun_reading": "せりふ",
+      "on_reading": "だいし",
+      "meaning": "演劇 や 漫画 などの登場人物が発する言葉"
+    },
+    {
+      "word": "科白",
+      "jukujikun_reading": "せりふ",
+      "on_reading": "かはく",
+      "meaning": "演劇 や 漫画 などの登場人物が発する言葉"
+    },
+    {
+      "word": "二十歳",
+      "jukujikun_reading": "はたち",
+      "on_reading": "にじ（ゅ）っさい",
+      "meaning": "20（数）または20歳"
+    },
+    {
+      "word": "二十",
+      "jukujikun_reading": "はたち",
+      "on_reading": "にじゅう",
+      "meaning": "20（数）または20歳"
+    },
+    {
+      "word": "八百",
+      "jukujikun_reading": "やお",
+      "on_reading": "はっぴゃく",
+      "meaning": "800（数）またはたくさん在るさま"
+    },
+    {
+      "word": "十八番",
+      "jukujikun_reading": "おはこ",
+      "on_reading": "じゅうはちばん",
+      "meaning": "自分が最も得意とする芸や技"
+    },
+    {
+      "word": "為替",
+      "jukujikun_reading": "かわせ",
+      "on_reading": "",
+      "meaning": "金銭 を決済する方法"
+    },
+    {
+      "word": "美人局",
+      "jukujikun_reading": "つつもたせ",
+      "on_reading": "",
+      "meaning": "詐欺 行為の一種"
+    },
+    {
+      "word": "流石",
+      "jukujikun_reading": "さすが",
+      "on_reading": "",
+      "meaning": "実力が相応分であるさま"
+    },
+    {
+      "word": "老舗",
+      "jukujikun_reading": "しにせ",
+      "on_reading": "ろうほ",
+      "meaning": "長年の伝統の有る 店 や 企業"
+    },
+    {
+      "word": "可惜（身命）",
+      "jukujikun_reading": "あたら（しんみょう）",
+      "on_reading": "",
+      "meaning": "体 や 命 を大切にすること（「不惜身命」（命懸けで挑戦すること）の対義語では専ら 四字熟語 として使われる ）"
+    }
+  ],
+  "meta": {
+    "title": "熟字訓の例 - Free Download",
+    "description": "熟字訓（明日=あした、梅雨=つゆ など）の表記、読み、音読み、意味。 Contains 101 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "熟字訓の例 | ListBase",
+    "seo_description": "Download 熟字訓の例 — 101 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 101 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E7%86%9F%E5%AD%97%E8%A8%93"
+    ]
+  }
+}

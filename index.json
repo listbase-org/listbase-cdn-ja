@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-27T02:36:58.242Z",
-  "total_datasets": 524,
-  "total_records": 456634,
+  "generated": "2026-10-27T02:37:02.421Z",
+  "total_datasets": 525,
+  "total_records": 456735,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "law",
@@ -6496,6 +6496,31 @@
         "xlsx": {
           "name": "ja-joyo-kanji_JA.xlsx",
           "size": 114212
+        }
+      }
+    },
+    {
+      "id": "ja-jukujikun",
+      "name": "熟字訓の例",
+      "category": "language",
+      "record_count": 101,
+      "columns": [
+        "word",
+        "jukujikun_reading",
+        "on_reading",
+        "meaning"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E7%86%9F%E5%AD%97%E8%A8%93",
+      "updated": "2026-10",
+      "size": 21005,
+      "files": {
+        "csv": {
+          "name": "ja-jukujikun_JA.csv",
+          "size": 10120
+        },
+        "xlsx": {
+          "name": "ja-jukujikun_JA.xlsx",
+          "size": 13260
         }
       }
     },
