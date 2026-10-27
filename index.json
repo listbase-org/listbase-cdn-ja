@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-27T02:38:11.554Z",
-  "total_datasets": 541,
-  "total_records": 457131,
+  "generated": "2026-10-27T02:38:16.104Z",
+  "total_datasets": 542,
+  "total_records": 457181,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "history",
@@ -6238,6 +6238,52 @@
         "xlsx": {
           "name": "ja-shitei-nanbyo_JA.xlsx",
           "size": 18472
+        }
+      }
+    },
+    {
+      "id": "ja-todofuken-jisatsu",
+      "name": "都道府県別の自殺者数・自殺率（2007〜2018年）",
+      "category": "health",
+      "record_count": 50,
+      "columns": [
+        "prefecture",
+        "suicides_2018",
+        "suicides_2017",
+        "suicides_2016",
+        "suicides_2015",
+        "suicides_2014",
+        "suicides_2013",
+        "suicides_2012",
+        "suicides_2011",
+        "suicides_2010",
+        "suicides_2009",
+        "suicides_2008",
+        "suicides_2007",
+        "rate_2018",
+        "rate_2017",
+        "rate_2016",
+        "rate_2015",
+        "rate_2014",
+        "rate_2013",
+        "rate_2012",
+        "rate_2011",
+        "rate_2010",
+        "rate_2009",
+        "rate_2008",
+        "rate_2007"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%87%AA%E6%AE%BA",
+      "updated": "2026-10",
+      "size": 37982,
+      "files": {
+        "csv": {
+          "name": "ja-todofuken-jisatsu_JA.csv",
+          "size": 8749
+        },
+        "xlsx": {
+          "name": "ja-todofuken-jisatsu_JA.xlsx",
+          "size": 13306
         }
       }
     },
