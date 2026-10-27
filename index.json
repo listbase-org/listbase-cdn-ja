@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-27T02:37:33.367Z",
-  "total_datasets": 532,
-  "total_records": 456843,
+  "generated": "2026-10-27T02:37:37.508Z",
+  "total_datasets": 533,
+  "total_records": 456867,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tourism",
@@ -14742,6 +14742,37 @@
         "xlsx": {
           "name": "ja-kyusei_JA.xlsx",
           "size": 7306
+        }
+      }
+    },
+    {
+      "id": "ja-nijushi-sekki",
+      "name": "二十四節気一覧",
+      "category": "time",
+      "record_count": 24,
+      "columns": [
+        "season",
+        "setsu",
+        "month_name",
+        "solar_longitude",
+        "japanese",
+        "chinese",
+        "gregorian_approx",
+        "date_2026_japan",
+        "date_2026_china",
+        "notes"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%8D%81%E5%9B%9B%E7%AF%80%E6%B0%97",
+      "updated": "2026-10",
+      "size": 10237,
+      "files": {
+        "csv": {
+          "name": "ja-nijushi-sekki_JA.csv",
+          "size": 2813
+        },
+        "xlsx": {
+          "name": "ja-nijushi-sekki_JA.xlsx",
+          "size": 8567
         }
       }
     },

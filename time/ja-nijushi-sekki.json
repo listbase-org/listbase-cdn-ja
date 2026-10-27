@@ -1,0 +1,364 @@
+{
+  "id": "ja-nijushi-sekki",
+  "name": "二十四節気一覧",
+  "title": "二十四節気一覧",
+  "description": "二十四節気の季節・節名・月名・太陽黄経、およびグレゴリオ暦での目安日と2026年の日付（日本・中国）。",
+  "category": "time",
+  "source": "https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%8D%81%E5%9B%9B%E7%AF%80%E6%B0%97",
+  "source_url": "https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%8D%81%E5%9B%9B%E7%AF%80%E6%B0%97",
+  "updated": "2026-10",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "season",
+      "label": "Season",
+      "type": "string"
+    },
+    {
+      "key": "setsu",
+      "label": "Setsu",
+      "type": "string"
+    },
+    {
+      "key": "month_name",
+      "label": "Month Name",
+      "type": "string"
+    },
+    {
+      "key": "solar_longitude",
+      "label": "Solar Longitude",
+      "type": "string"
+    },
+    {
+      "key": "japanese",
+      "label": "Japanese",
+      "type": "string"
+    },
+    {
+      "key": "chinese",
+      "label": "Chinese",
+      "type": "string"
+    },
+    {
+      "key": "gregorian_approx",
+      "label": "Gregorian Approx",
+      "type": "string"
+    },
+    {
+      "key": "date_2026_japan",
+      "label": "Date 2026 Japan",
+      "type": "string"
+    },
+    {
+      "key": "date_2026_china",
+      "label": "Date 2026 China",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "season": "春",
+      "setsu": "寅節",
+      "month_name": "一月節",
+      "solar_longitude": "315°",
+      "japanese": "立春",
+      "chinese": "立春",
+      "gregorian_approx": "2月3 - 5日",
+      "date_2026_japan": "2月4日",
+      "date_2026_china": "2月4日",
+      "notes": "この日の前日を特に 節分 という"
+    },
+    {
+      "season": "春",
+      "setsu": "寅節",
+      "month_name": "一月中",
+      "solar_longitude": "330°",
+      "japanese": "雨水",
+      "chinese": "雨水",
+      "gregorian_approx": "2月18 - 20日",
+      "date_2026_japan": "2月19日",
+      "date_2026_china": "2月18日",
+      "notes": ""
+    },
+    {
+      "season": "春",
+      "setsu": "卯節",
+      "month_name": "二月節",
+      "solar_longitude": "345°",
+      "japanese": "啓蟄",
+      "chinese": "惊蛰",
+      "gregorian_approx": "3月4 - 6日",
+      "date_2026_japan": "3月5日",
+      "date_2026_china": "3月5日",
+      "notes": ""
+    },
+    {
+      "season": "春",
+      "setsu": "卯節",
+      "month_name": "二月中",
+      "solar_longitude": "0°",
+      "japanese": "春分",
+      "chinese": "春分",
+      "gregorian_approx": "3月20 - 21日",
+      "date_2026_japan": "3月20日",
+      "date_2026_china": "3月20日",
+      "notes": "前後3日は春の 彼岸"
+    },
+    {
+      "season": "春",
+      "setsu": "辰節",
+      "month_name": "三月節",
+      "solar_longitude": "15°",
+      "japanese": "清明",
+      "chinese": "清明",
+      "gregorian_approx": "4月4 - 5日",
+      "date_2026_japan": "4月5日",
+      "date_2026_china": "4月5日",
+      "notes": "立夏の18日前から春の 土用"
+    },
+    {
+      "season": "春",
+      "setsu": "辰節",
+      "month_name": "三月中",
+      "solar_longitude": "30°",
+      "japanese": "穀雨",
+      "chinese": "谷雨",
+      "gregorian_approx": "4月19 - 21日",
+      "date_2026_japan": "4月20日",
+      "date_2026_china": "4月20日",
+      "notes": "立夏の18日前から春の 土用"
+    },
+    {
+      "season": "夏",
+      "setsu": "巳節",
+      "month_name": "四月節",
+      "solar_longitude": "45°",
+      "japanese": "立夏",
+      "chinese": "立夏",
+      "gregorian_approx": "5月5 - 6日",
+      "date_2026_japan": "5月5日",
+      "date_2026_china": "5月5日",
+      "notes": ""
+    },
+    {
+      "season": "夏",
+      "setsu": "巳節",
+      "month_name": "四月中",
+      "solar_longitude": "60°",
+      "japanese": "小満",
+      "chinese": "小满",
+      "gregorian_approx": "5月20 - 22日",
+      "date_2026_japan": "5月21日",
+      "date_2026_china": "5月21日",
+      "notes": ""
+    },
+    {
+      "season": "夏",
+      "setsu": "午節",
+      "month_name": "五月節",
+      "solar_longitude": "75°",
+      "japanese": "芒種",
+      "chinese": "芒种",
+      "gregorian_approx": "6月5 - 6日",
+      "date_2026_japan": "6月6日",
+      "date_2026_china": "6月5日",
+      "notes": ""
+    },
+    {
+      "season": "夏",
+      "setsu": "午節",
+      "month_name": "五月中",
+      "solar_longitude": "90°",
+      "japanese": "夏至",
+      "chinese": "夏至",
+      "gregorian_approx": "6月21 - 22日",
+      "date_2026_japan": "6月21日",
+      "date_2026_china": "6月21日",
+      "notes": ""
+    },
+    {
+      "season": "夏",
+      "setsu": "未節",
+      "month_name": "六月節",
+      "solar_longitude": "105°",
+      "japanese": "小暑",
+      "chinese": "小暑",
+      "gregorian_approx": "7月6 - 8日",
+      "date_2026_japan": "7月7日",
+      "date_2026_china": "7月7日",
+      "notes": "立秋の18日前から夏の土用"
+    },
+    {
+      "season": "夏",
+      "setsu": "未節",
+      "month_name": "六月中",
+      "solar_longitude": "120°",
+      "japanese": "大暑",
+      "chinese": "大暑",
+      "gregorian_approx": "7月22 - 24日",
+      "date_2026_japan": "7月23日",
+      "date_2026_china": "7月23日",
+      "notes": "立秋の18日前から夏の土用"
+    },
+    {
+      "season": "秋",
+      "setsu": "申節",
+      "month_name": "七月節",
+      "solar_longitude": "135°",
+      "japanese": "立秋",
+      "chinese": "立秋",
+      "gregorian_approx": "8月7 - 8日",
+      "date_2026_japan": "8月7日",
+      "date_2026_china": "8月7日",
+      "notes": ""
+    },
+    {
+      "season": "秋",
+      "setsu": "申節",
+      "month_name": "七月中",
+      "solar_longitude": "150°",
+      "japanese": "処暑",
+      "chinese": "处暑",
+      "gregorian_approx": "8月22 - 24日",
+      "date_2026_japan": "8月23日",
+      "date_2026_china": "8月23日",
+      "notes": ""
+    },
+    {
+      "season": "秋",
+      "setsu": "酉節",
+      "month_name": "八月節",
+      "solar_longitude": "165°",
+      "japanese": "白露",
+      "chinese": "白露",
+      "gregorian_approx": "9月7 - 8日",
+      "date_2026_japan": "9月7日",
+      "date_2026_china": "9月7日",
+      "notes": ""
+    },
+    {
+      "season": "秋",
+      "setsu": "酉節",
+      "month_name": "八月中",
+      "solar_longitude": "180°",
+      "japanese": "秋分",
+      "chinese": "秋分",
+      "gregorian_approx": "9月22 - 24日",
+      "date_2026_japan": "9月23日",
+      "date_2026_china": "9月23日",
+      "notes": "前後3日は秋の彼岸"
+    },
+    {
+      "season": "秋",
+      "setsu": "戌節",
+      "month_name": "九月節",
+      "solar_longitude": "195°",
+      "japanese": "寒露",
+      "chinese": "寒露",
+      "gregorian_approx": "10月8 - 9日",
+      "date_2026_japan": "10月8日",
+      "date_2026_china": "10月8日",
+      "notes": "立冬の18日前から秋の土用"
+    },
+    {
+      "season": "秋",
+      "setsu": "戌節",
+      "month_name": "九月中",
+      "solar_longitude": "210°",
+      "japanese": "霜降",
+      "chinese": "霜降",
+      "gregorian_approx": "10月23 - 24日",
+      "date_2026_japan": "10月23日",
+      "date_2026_china": "10月23日",
+      "notes": "立冬の18日前から秋の土用"
+    },
+    {
+      "season": "冬",
+      "setsu": "亥節",
+      "month_name": "十月節",
+      "solar_longitude": "225°",
+      "japanese": "立冬",
+      "chinese": "立冬",
+      "gregorian_approx": "11月7 - 8日",
+      "date_2026_japan": "11月7日",
+      "date_2026_china": "11月7日",
+      "notes": ""
+    },
+    {
+      "season": "冬",
+      "setsu": "亥節",
+      "month_name": "十月中",
+      "solar_longitude": "240°",
+      "japanese": "小雪",
+      "chinese": "小雪",
+      "gregorian_approx": "11月22 - 23日",
+      "date_2026_japan": "11月22日",
+      "date_2026_china": "11月22日",
+      "notes": ""
+    },
+    {
+      "season": "冬",
+      "setsu": "子節",
+      "month_name": "十一月節",
+      "solar_longitude": "255°",
+      "japanese": "大雪",
+      "chinese": "大雪",
+      "gregorian_approx": "12月6 - 8日",
+      "date_2026_japan": "12月7日",
+      "date_2026_china": "12月7日",
+      "notes": ""
+    },
+    {
+      "season": "冬",
+      "setsu": "子節",
+      "month_name": "十一月中",
+      "solar_longitude": "270°",
+      "japanese": "冬至",
+      "chinese": "冬至",
+      "gregorian_approx": "12月21 - 22日",
+      "date_2026_japan": "12月22日",
+      "date_2026_china": "12月22日",
+      "notes": ""
+    },
+    {
+      "season": "冬",
+      "setsu": "丑節",
+      "month_name": "十二月節",
+      "solar_longitude": "285°",
+      "japanese": "小寒",
+      "chinese": "小寒",
+      "gregorian_approx": "1月5 - 6日",
+      "date_2026_japan": "1月5日",
+      "date_2026_china": "1月5日",
+      "notes": "立春の18日前から冬の土用"
+    },
+    {
+      "season": "冬",
+      "setsu": "丑節",
+      "month_name": "十二月中",
+      "solar_longitude": "300°",
+      "japanese": "大寒",
+      "chinese": "大寒",
+      "gregorian_approx": "1月20 - 21日",
+      "date_2026_japan": "1月20日",
+      "date_2026_china": "1月20日",
+      "notes": "立春の18日前から冬の土用"
+    }
+  ],
+  "meta": {
+    "title": "二十四節気一覧 - Free Download",
+    "description": "二十四節気の季節・節名・月名・太陽黄経、およびグレゴリオ暦での目安日と2026年の日付（日本・中国）。 Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "二十四節気一覧 | ListBase",
+    "seo_description": "Download 二十四節気一覧 — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%8D%81%E5%9B%9B%E7%AF%80%E6%B0%97"
+    ]
+  }
+}
