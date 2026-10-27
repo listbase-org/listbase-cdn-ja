@@ -1,0 +1,101 @@
+{
+  "id": "ja-wafu-getsumei",
+  "name": "和風月名（睦月・如月など）",
+  "title": "和風月名（睦月・如月など）",
+  "description": "旧暦の各月の和風月名（睦月、如月、弥生など）と読み、主な異称。",
+  "category": "time",
+  "source": "https://ja.wikipedia.org/wiki/%E5%92%8C%E9%A2%A8%E6%9C%88%E5%90%8D",
+  "source_url": "https://ja.wikipedia.org/wiki/%E5%92%8C%E9%A2%A8%E6%9C%88%E5%90%8D",
+  "updated": "2026-10",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "month",
+      "label": "Month",
+      "type": "string"
+    },
+    {
+      "key": "japanese_name",
+      "label": "Japanese Name",
+      "type": "string"
+    },
+    {
+      "key": "other_names",
+      "label": "Other Names",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "month": "1月",
+      "japanese_name": "睦月 （むつき）",
+      "other_names": "建寅月（けんいんげつ）、初春（しょしゅん）、新春（しんしゅん）、月正（げっせい）、他"
+    },
+    {
+      "month": "2月",
+      "japanese_name": "如月 （きさらぎ）",
+      "other_names": "建卯月（けんぼうげつ）、仲春（ちゅうしゅん）殷春（いんしゅん）、星鳥（せいちょう）、他"
+    },
+    {
+      "month": "3月",
+      "japanese_name": "弥生 （やよい）",
+      "other_names": "建辰月（けんしんげつ）、晩春（ばんしゅん）、殿春（でんしゅん）、竹秋（ちくしょう）、他"
+    },
+    {
+      "month": "4月",
+      "japanese_name": "卯月 （うづき）",
+      "other_names": "建巳月（けんしげつ）、初夏（しょか）、首夏（しゅか）、乾梅（けんばい）、他"
+    },
+    {
+      "month": "5月",
+      "japanese_name": "皐月 （さつき）",
+      "other_names": "建午月（けんごげつ）、仲夏（ちゅうか）、盛夏（せいか）、茂林（もりん）、他"
+    },
+    {
+      "month": "6月",
+      "japanese_name": "水無月 （みなづき）",
+      "other_names": "建未月（けんびげつ）、長夏（ちょうか）、晩夏（ばんか）、鶉火（じゅんか）、他"
+    },
+    {
+      "month": "7月",
+      "japanese_name": "文月 （ふみづき、ふづき）",
+      "other_names": "建申月（けんしんげつ）、初秋（しょしゅう）、新秋（しんしゅう）、瓜時（かじ）、他"
+    },
+    {
+      "month": "8月",
+      "japanese_name": "葉月 （はづき）",
+      "other_names": "建酉月（けんゆうげつ）、仲秋（ちゅうしゅう）、深秋（しんしゅう）、竹春（ちくしゅん）、他"
+    },
+    {
+      "month": "9月",
+      "japanese_name": "長月 （ながつき）",
+      "other_names": "建戌月（けんじゅつげつ）、晩秋（ばんしゅう）、暮秋（ぼしゅう）、霜辰（そうしん）、他"
+    },
+    {
+      "month": "10月",
+      "japanese_name": "神無月 （かんなづき）",
+      "other_names": "建亥月（けんがいげつ）、初冬（しょとう）、立冬（りっとう）、極陽（きょくよう）、神在月(かみありづき)、他"
+    },
+    {
+      "month": "11月",
+      "japanese_name": "霜月 （しもつき）",
+      "other_names": "建子月（けんしげつ）、仲冬（ちゅうとう）、正冬・盛冬（せいとう）、天泉（てんせん）、他"
+    },
+    {
+      "month": "12月",
+      "japanese_name": "師走 （しわす）",
+      "other_names": "建丑月（けんちゅうげつ）、晩冬（ばんとう）、残冬（ざんとう）、月窮（げっきゅう）、他"
+    }
+  ],
+  "meta": {
+    "title": "和風月名（睦月・如月など） - Free Download",
+    "description": "旧暦の各月の和風月名（睦月、如月、弥生など）と読み、主な異称。 Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "和風月名（睦月・如月など） | ListBase",
+    "seo_description": "Download 和風月名（睦月・如月など） — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E5%92%8C%E9%A2%A8%E6%9C%88%E5%90%8D"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-27T02:38:16.104Z",
-  "total_datasets": 542,
-  "total_records": 457181,
+  "generated": "2026-10-27T02:38:20.427Z",
+  "total_datasets": 543,
+  "total_records": 457193,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tourism",
@@ -15034,6 +15034,30 @@
         "xlsx": {
           "name": "ja-shukujitsu-kokka-no-kyujitsu_JA.xlsx",
           "size": 82704
+        }
+      }
+    },
+    {
+      "id": "ja-wafu-getsumei",
+      "name": "和風月名（睦月・如月など）",
+      "category": "time",
+      "record_count": 12,
+      "columns": [
+        "month",
+        "japanese_name",
+        "other_names"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E5%92%8C%E9%A2%A8%E6%9C%88%E5%90%8D",
+      "updated": "2026-10",
+      "size": 4348,
+      "files": {
+        "csv": {
+          "name": "ja-wafu-getsumei_JA.csv",
+          "size": 2010
+        },
+        "xlsx": {
+          "name": "ja-wafu-getsumei_JA.xlsx",
+          "size": 7638
         }
       }
     },
