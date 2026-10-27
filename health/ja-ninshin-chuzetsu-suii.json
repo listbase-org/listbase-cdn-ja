@@ -1,0 +1,502 @@
+{
+  "id": "ja-ninshin-chuzetsu-suii",
+  "name": "人工妊娠中絶件数の推移",
+  "title": "人工妊娠中絶件数の推移",
+  "description": "日本における人工妊娠中絶の実施数、出生数、および出生数に対する比率（%）の年度別推移（1949年以降）。",
+  "category": "health",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B0%91%E5%AD%90%E5%8C%96",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B0%91%E5%AD%90%E5%8C%96",
+  "updated": "2026-10",
+  "record_count": 76,
+  "columns": [
+    {
+      "key": "fiscal_year",
+      "label": "Fiscal Year",
+      "type": "number"
+    },
+    {
+      "key": "abortions",
+      "label": "Abortions",
+      "type": "number"
+    },
+    {
+      "key": "births",
+      "label": "Births",
+      "type": "number"
+    },
+    {
+      "key": "ratio_to_births_pct",
+      "label": "Ratio To Births Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "fiscal_year": 1949,
+      "abortions": 101601,
+      "births": 2696638,
+      "ratio_to_births_pct": 3.8
+    },
+    {
+      "fiscal_year": 1950,
+      "abortions": 320150,
+      "births": 2337507,
+      "ratio_to_births_pct": 13.7
+    },
+    {
+      "fiscal_year": 1951,
+      "abortions": 458757,
+      "births": 2137689,
+      "ratio_to_births_pct": 21.5
+    },
+    {
+      "fiscal_year": 1952,
+      "abortions": 798193,
+      "births": 2005162,
+      "ratio_to_births_pct": 39.8
+    },
+    {
+      "fiscal_year": 1953,
+      "abortions": 1068066,
+      "births": 1868040,
+      "ratio_to_births_pct": 57.2
+    },
+    {
+      "fiscal_year": 1954,
+      "abortions": 1143059,
+      "births": 1769580,
+      "ratio_to_births_pct": 64.6
+    },
+    {
+      "fiscal_year": 1955,
+      "abortions": 1170143,
+      "births": 1730692,
+      "ratio_to_births_pct": 67.6
+    },
+    {
+      "fiscal_year": 1956,
+      "abortions": 1159288,
+      "births": 1665278,
+      "ratio_to_births_pct": 69.6
+    },
+    {
+      "fiscal_year": 1957,
+      "abortions": 1122316,
+      "births": 1566713,
+      "ratio_to_births_pct": 71.6
+    },
+    {
+      "fiscal_year": 1958,
+      "abortions": 1128231,
+      "births": 1653469,
+      "ratio_to_births_pct": 68.2
+    },
+    {
+      "fiscal_year": 1959,
+      "abortions": 1098853,
+      "births": 1626088,
+      "ratio_to_births_pct": 67.6
+    },
+    {
+      "fiscal_year": 1960,
+      "abortions": 1063256,
+      "births": 1627939,
+      "ratio_to_births_pct": 66.2
+    },
+    {
+      "fiscal_year": 1961,
+      "abortions": 1035329,
+      "births": 1611772,
+      "ratio_to_births_pct": 65.1
+    },
+    {
+      "fiscal_year": 1962,
+      "abortions": 985351,
+      "births": 1639631,
+      "ratio_to_births_pct": 60.9
+    },
+    {
+      "fiscal_year": 1963,
+      "abortions": 955092,
+      "births": 1681242,
+      "ratio_to_births_pct": 57.6
+    },
+    {
+      "fiscal_year": 1964,
+      "abortions": 878748,
+      "births": 1737277,
+      "ratio_to_births_pct": 51.2
+    },
+    {
+      "fiscal_year": 1965,
+      "abortions": 843248,
+      "births": 1844452,
+      "ratio_to_births_pct": 46.2
+    },
+    {
+      "fiscal_year": 1966,
+      "abortions": 808378,
+      "births": 1378968,
+      "ratio_to_births_pct": 59.4
+    },
+    {
+      "fiscal_year": 1967,
+      "abortions": 747490,
+      "births": 1956725,
+      "ratio_to_births_pct": 38.6
+    },
+    {
+      "fiscal_year": 1968,
+      "abortions": 757389,
+      "births": 1893219,
+      "ratio_to_births_pct": 40.5
+    },
+    {
+      "fiscal_year": 1969,
+      "abortions": 744451,
+      "births": 1910927,
+      "ratio_to_births_pct": 39.4
+    },
+    {
+      "fiscal_year": 1970,
+      "abortions": 732033,
+      "births": 1955277,
+      "ratio_to_births_pct": 37.8
+    },
+    {
+      "fiscal_year": 1971,
+      "abortions": 739674,
+      "births": 2022204,
+      "ratio_to_births_pct": 37
+    },
+    {
+      "fiscal_year": 1972,
+      "abortions": 732653,
+      "births": 2059533,
+      "ratio_to_births_pct": 35.9
+    },
+    {
+      "fiscal_year": 1973,
+      "abortions": 700532,
+      "births": 2091983,
+      "ratio_to_births_pct": 33.5
+    },
+    {
+      "fiscal_year": 1974,
+      "abortions": 679837,
+      "births": 2029989,
+      "ratio_to_births_pct": 33.5
+    },
+    {
+      "fiscal_year": 1975,
+      "abortions": 671597,
+      "births": 1901440,
+      "ratio_to_births_pct": 35.3
+    },
+    {
+      "fiscal_year": 1976,
+      "abortions": 664106,
+      "births": 1832617,
+      "ratio_to_births_pct": 36.2
+    },
+    {
+      "fiscal_year": 1977,
+      "abortions": 641242,
+      "births": 1755100,
+      "ratio_to_births_pct": 36.5
+    },
+    {
+      "fiscal_year": 1978,
+      "abortions": 618044,
+      "births": 1708643,
+      "ratio_to_births_pct": 36.2
+    },
+    {
+      "fiscal_year": 1979,
+      "abortions": 613676,
+      "births": 1642580,
+      "ratio_to_births_pct": 37.4
+    },
+    {
+      "fiscal_year": 1980,
+      "abortions": 598084,
+      "births": 1576889,
+      "ratio_to_births_pct": 37.9
+    },
+    {
+      "fiscal_year": 1981,
+      "abortions": 596569,
+      "births": 1529455,
+      "ratio_to_births_pct": 39
+    },
+    {
+      "fiscal_year": 1982,
+      "abortions": 590299,
+      "births": 1515392,
+      "ratio_to_births_pct": 39
+    },
+    {
+      "fiscal_year": 1983,
+      "abortions": 568363,
+      "births": 1508687,
+      "ratio_to_births_pct": 37.7
+    },
+    {
+      "fiscal_year": 1984,
+      "abortions": 568916,
+      "births": 1489786,
+      "ratio_to_births_pct": 38.2
+    },
+    {
+      "fiscal_year": 1985,
+      "abortions": 550127,
+      "births": 1431577,
+      "ratio_to_births_pct": 38.4
+    },
+    {
+      "fiscal_year": 1986,
+      "abortions": 527900,
+      "births": 1382976,
+      "ratio_to_births_pct": 38.2
+    },
+    {
+      "fiscal_year": 1987,
+      "abortions": 497756,
+      "births": 1346658,
+      "ratio_to_births_pct": 37
+    },
+    {
+      "fiscal_year": 1988,
+      "abortions": 486146,
+      "births": 1314006,
+      "ratio_to_births_pct": 37
+    },
+    {
+      "fiscal_year": 1989,
+      "abortions": 466876,
+      "births": 1246802,
+      "ratio_to_births_pct": 37.4
+    },
+    {
+      "fiscal_year": 1990,
+      "abortions": 456797,
+      "births": 1221585,
+      "ratio_to_births_pct": 37.4
+    },
+    {
+      "fiscal_year": 1991,
+      "abortions": 436299,
+      "births": 1223245,
+      "ratio_to_births_pct": 35.7
+    },
+    {
+      "fiscal_year": 1992,
+      "abortions": 413032,
+      "births": 1208989,
+      "ratio_to_births_pct": 34.2
+    },
+    {
+      "fiscal_year": 1993,
+      "abortions": 386807,
+      "births": 1188282,
+      "ratio_to_births_pct": 32.6
+    },
+    {
+      "fiscal_year": 1994,
+      "abortions": 364350,
+      "births": 1238328,
+      "ratio_to_births_pct": 29.4
+    },
+    {
+      "fiscal_year": 1995,
+      "abortions": 343024,
+      "births": 1187064,
+      "ratio_to_births_pct": 28.9
+    },
+    {
+      "fiscal_year": 1996,
+      "abortions": 338867,
+      "births": 1206555,
+      "ratio_to_births_pct": 28.1
+    },
+    {
+      "fiscal_year": 1997,
+      "abortions": 337799,
+      "births": 1191665,
+      "ratio_to_births_pct": 28.3
+    },
+    {
+      "fiscal_year": 1998,
+      "abortions": 333220,
+      "births": 1203147,
+      "ratio_to_births_pct": 27.7
+    },
+    {
+      "fiscal_year": 1999,
+      "abortions": 337288,
+      "births": 1177669,
+      "ratio_to_births_pct": 28.6
+    },
+    {
+      "fiscal_year": 2000,
+      "abortions": 341146,
+      "births": 1190547,
+      "ratio_to_births_pct": 28.7
+    },
+    {
+      "fiscal_year": 2001,
+      "abortions": 341588,
+      "births": 1170662,
+      "ratio_to_births_pct": 29.2
+    },
+    {
+      "fiscal_year": 2002,
+      "abortions": 329326,
+      "births": 1153855,
+      "ratio_to_births_pct": 28.5
+    },
+    {
+      "fiscal_year": 2003,
+      "abortions": 319831,
+      "births": 1123610,
+      "ratio_to_births_pct": 28.5
+    },
+    {
+      "fiscal_year": 2004,
+      "abortions": 301673,
+      "births": 1110721,
+      "ratio_to_births_pct": 27.2
+    },
+    {
+      "fiscal_year": 2005,
+      "abortions": 289127,
+      "births": 1062530,
+      "ratio_to_births_pct": 27.2
+    },
+    {
+      "fiscal_year": 2006,
+      "abortions": 276352,
+      "births": 1092674,
+      "ratio_to_births_pct": 25.3
+    },
+    {
+      "fiscal_year": 2007,
+      "abortions": 256672,
+      "births": 1089818,
+      "ratio_to_births_pct": 23.6
+    },
+    {
+      "fiscal_year": 2008,
+      "abortions": 242326,
+      "births": 1091156,
+      "ratio_to_births_pct": 22.2
+    },
+    {
+      "fiscal_year": 2009,
+      "abortions": 226878,
+      "births": 1070036,
+      "ratio_to_births_pct": 21.2
+    },
+    {
+      "fiscal_year": 2010,
+      "abortions": 212694,
+      "births": 1071305,
+      "ratio_to_births_pct": 19.9
+    },
+    {
+      "fiscal_year": 2011,
+      "abortions": 202106,
+      "births": 1050807,
+      "ratio_to_births_pct": 19.2
+    },
+    {
+      "fiscal_year": 2012,
+      "abortions": 196639,
+      "births": 1037231,
+      "ratio_to_births_pct": 19
+    },
+    {
+      "fiscal_year": 2013,
+      "abortions": 186253,
+      "births": 1029817,
+      "ratio_to_births_pct": 18.1
+    },
+    {
+      "fiscal_year": 2014,
+      "abortions": 181905,
+      "births": 1003539,
+      "ratio_to_births_pct": 18.1
+    },
+    {
+      "fiscal_year": 2015,
+      "abortions": 176388,
+      "births": 1005721,
+      "ratio_to_births_pct": 17.5
+    },
+    {
+      "fiscal_year": 2016,
+      "abortions": 168015,
+      "births": 977242,
+      "ratio_to_births_pct": 17.2
+    },
+    {
+      "fiscal_year": 2017,
+      "abortions": 164621,
+      "births": 946146,
+      "ratio_to_births_pct": 17.4
+    },
+    {
+      "fiscal_year": 2018,
+      "abortions": 161741,
+      "births": 918400,
+      "ratio_to_births_pct": 17.6
+    },
+    {
+      "fiscal_year": 2019,
+      "abortions": 156430,
+      "births": 865239,
+      "ratio_to_births_pct": 18
+    },
+    {
+      "fiscal_year": 2020,
+      "abortions": 141433,
+      "births": 840832,
+      "ratio_to_births_pct": 16.8
+    },
+    {
+      "fiscal_year": 2021,
+      "abortions": 126174,
+      "births": 811604,
+      "ratio_to_births_pct": 15.5
+    },
+    {
+      "fiscal_year": 2022,
+      "abortions": 122725,
+      "births": 770747,
+      "ratio_to_births_pct": 15.9
+    },
+    {
+      "fiscal_year": 2023,
+      "abortions": 126734,
+      "births": 727277,
+      "ratio_to_births_pct": 17.4
+    },
+    {
+      "fiscal_year": 2024,
+      "abortions": 127992,
+      "births": 686061,
+      "ratio_to_births_pct": 18.7
+    }
+  ],
+  "meta": {
+    "title": "人工妊娠中絶件数の推移 - Free Download",
+    "description": "日本における人工妊娠中絶の実施数、出生数、および出生数に対する比率（%）の年度別推移（1949年以降）。 Contains 76 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "人工妊娠中絶件数の推移 | ListBase",
+    "seo_description": "Download 人工妊娠中絶件数の推移 — 76 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 76 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B0%91%E5%AD%90%E5%8C%96"
+    ]
+  }
+}
