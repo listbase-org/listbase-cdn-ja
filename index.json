@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-27T02:37:07.357Z",
-  "total_datasets": 526,
-  "total_records": 456751,
+  "generated": "2026-10-27T02:37:12.038Z",
+  "total_datasets": 527,
+  "total_records": 456757,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "time",
@@ -14565,6 +14565,29 @@
         "xlsx": {
           "name": "ja-h3-uchiage-kiroku_JA.xlsx",
           "size": 9400
+        }
+      }
+    },
+    {
+      "id": "ja-keitai-shuhasu-tai",
+      "name": "日本の携帯電話の周波数帯と各社サービス",
+      "category": "tech",
+      "record_count": 6,
+      "columns": [
+        "frequency_band",
+        "services"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1",
+      "updated": "2026-10",
+      "size": 3346,
+      "files": {
+        "csv": {
+          "name": "ja-keitai-shuhasu-tai_JA.csv",
+          "size": 1277
+        },
+        "xlsx": {
+          "name": "ja-keitai-shuhasu-tai_JA.xlsx",
+          "size": 7352
         }
       }
     },

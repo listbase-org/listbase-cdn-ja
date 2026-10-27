@@ -1,0 +1,7 @@
+﻿"Frequency Band","Services"
+"700MHz帯","NTTドコモ： Xi （ LTE ） au： au 4G LTE （LTE）"
+"新800MHz帯 （N800MHz帯）","NTTドコモ： FOMA （ W-CDMA 、 プラスエリア のみ） au：CDMA 1X WIN（CDMA2000 1x／EV-DO）、 WIN HIGH SPEED （MC-Rev.A・ iPhone 5 含む）、au 4G LTE（LTE・ Android 搭載スマートフォンのみ）"
+"900MHz帯","ソフトバンク：W-CDMA（HSPA+、 プラチナバンド ）"
+"1.5GHz帯","NTTドコモ： Xi （LTE） ソフトバンクモバイル： SoftBank 3G （W-CDMA）の新帯域として、2010年春モデル以降の一部機種で、従来の2GHz帯とのデュアル利用 au：au 4G LTE（LTE・Android搭載スマートフォンのみ）"
+"1800MHz帯","ワイモバイル：W-CDMA（HSDPA）、LTE NTTドコモ：PREMIUM 4G、Xi（LTE、東名阪地域のみ）"
+"2GHz帯 （ FDD ： 上り 1.9/ 下り 2.1）","NTTドコモ：FOMA（W-CDMA、プラスエリア除く）、 Xi （LTE） au：CDMA 1X WIN（CDMA2000 1x／EV-DO、 W02H を含み、2GHz帯に対応した au ICカード 対応au音声端末）、WIN HIGH SPEED（MC-Rev.A・iPhone 5含む）、au 4G LTE（LTE・iPhone 5のみ） ソフトバンクモバイル：SoftBank 3G（W-CDMA）、 SoftBank 4G LTE （LTE・iPhone 5含む）"

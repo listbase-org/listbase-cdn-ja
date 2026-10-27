@@ -1,0 +1,60 @@
+{
+  "id": "ja-keitai-shuhasu-tai",
+  "name": "日本の携帯電話の周波数帯と各社サービス",
+  "title": "日本の携帯電話の周波数帯と各社サービス",
+  "description": "日本の携帯電話で使われる周波数帯域と、NTTドコモ・au・ソフトバンク等の各社のサービス（LTE・W-CDMA等）。",
+  "category": "tech",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1",
+  "updated": "2026-10",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "frequency_band",
+      "label": "Frequency Band",
+      "type": "string"
+    },
+    {
+      "key": "services",
+      "label": "Services",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "frequency_band": "700MHz帯",
+      "services": "NTTドコモ： Xi （ LTE ） au： au 4G LTE （LTE）"
+    },
+    {
+      "frequency_band": "新800MHz帯 （N800MHz帯）",
+      "services": "NTTドコモ： FOMA （ W-CDMA 、 プラスエリア のみ） au：CDMA 1X WIN（CDMA2000 1x／EV-DO）、 WIN HIGH SPEED （MC-Rev.A・ iPhone 5 含む）、au 4G LTE（LTE・ Android 搭載スマートフォンのみ）"
+    },
+    {
+      "frequency_band": "900MHz帯",
+      "services": "ソフトバンク：W-CDMA（HSPA+、 プラチナバンド ）"
+    },
+    {
+      "frequency_band": "1.5GHz帯",
+      "services": "NTTドコモ： Xi （LTE） ソフトバンクモバイル： SoftBank 3G （W-CDMA）の新帯域として、2010年春モデル以降の一部機種で、従来の2GHz帯とのデュアル利用 au：au 4G LTE（LTE・Android搭載スマートフォンのみ）"
+    },
+    {
+      "frequency_band": "1800MHz帯",
+      "services": "ワイモバイル：W-CDMA（HSDPA）、LTE NTTドコモ：PREMIUM 4G、Xi（LTE、東名阪地域のみ）"
+    },
+    {
+      "frequency_band": "2GHz帯 （ FDD ： 上り 1.9/ 下り 2.1）",
+      "services": "NTTドコモ：FOMA（W-CDMA、プラスエリア除く）、 Xi （LTE） au：CDMA 1X WIN（CDMA2000 1x／EV-DO、 W02H を含み、2GHz帯に対応した au ICカード 対応au音声端末）、WIN HIGH SPEED（MC-Rev.A・iPhone 5含む）、au 4G LTE（LTE・iPhone 5のみ） ソフトバンクモバイル：SoftBank 3G（W-CDMA）、 SoftBank 4G LTE （LTE・iPhone 5含む）"
+    }
+  ],
+  "meta": {
+    "title": "日本の携帯電話の周波数帯と各社サービス - Free Download",
+    "description": "日本の携帯電話で使われる周波数帯域と、NTTドコモ・au・ソフトバンク等の各社のサービス（LTE・W-CDMA等）。 Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の携帯電話の周波数帯と各社サービス | ListBase",
+    "seo_description": "Download 日本の携帯電話の周波数帯と各社サービス — 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1"
+    ]
+  }
+}
