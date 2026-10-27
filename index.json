@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-27T02:36:36.225Z",
-  "total_datasets": 519,
-  "total_records": 456288,
+  "generated": "2026-10-27T02:36:40.474Z",
+  "total_datasets": 520,
+  "total_records": 456326,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "time",
@@ -14398,6 +14398,34 @@
         "xlsx": {
           "name": "ja-h2a-uchiage-kiroku_JA.xlsx",
           "size": 14171
+        }
+      }
+    },
+    {
+      "id": "ja-h3-uchiage-kiroku",
+      "name": "H3ロケット 打ち上げ記録",
+      "category": "tech",
+      "record_count": 38,
+      "columns": [
+        "vehicle",
+        "launch_time_jst",
+        "result",
+        "configuration",
+        "orbit",
+        "payload",
+        "notes"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+      "updated": "2026-10",
+      "size": 11924,
+      "files": {
+        "csv": {
+          "name": "ja-h3-uchiage-kiroku_JA.csv",
+          "size": 4545
+        },
+        "xlsx": {
+          "name": "ja-h3-uchiage-kiroku_JA.xlsx",
+          "size": 9400
         }
       }
     },

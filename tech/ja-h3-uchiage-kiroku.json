@@ -1,0 +1,403 @@
+{
+  "id": "ja-h3-uchiage-kiroku",
+  "name": "H3ロケット 打ち上げ記録",
+  "title": "H3ロケット 打ち上げ記録",
+  "description": "H3ロケット各号機の打ち上げ日時（日本時間）、結果、機体構成、投入軌道、ペイロード。",
+  "category": "tech",
+  "source": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+  "source_url": "https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+  "updated": "2026-10",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "vehicle",
+      "label": "Vehicle",
+      "type": "string"
+    },
+    {
+      "key": "launch_time_jst",
+      "label": "Launch Time Jst",
+      "type": "string"
+    },
+    {
+      "key": "result",
+      "label": "Result",
+      "type": "string"
+    },
+    {
+      "key": "configuration",
+      "label": "Configuration",
+      "type": "string"
+    },
+    {
+      "key": "orbit",
+      "label": "Orbit",
+      "type": "string"
+    },
+    {
+      "key": "payload",
+      "label": "Payload",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "vehicle": "試験機1号機 (TF1)",
+      "launch_time_jst": "2023年3月7日 10時37分55秒",
+      "result": "失敗",
+      "configuration": "22S",
+      "orbit": "太陽同期 準 回帰軌道",
+      "payload": "ALOS-3 （先進光学衛星「 だいち3号 」）",
+      "notes": ""
+    },
+    {
+      "vehicle": "試験機2号機 (TF2)",
+      "launch_time_jst": "2024年2月17日 09時22分55秒",
+      "result": "成功",
+      "configuration": "22S",
+      "orbit": "大気圏再突入",
+      "payload": "VEP-4 （ロケット性能確認用 ペイロード ）",
+      "notes": ""
+    },
+    {
+      "vehicle": "試験機2号機 (TF2)",
+      "launch_time_jst": "2024年2月17日 09時22分55秒",
+      "result": "成功",
+      "configuration": "22S",
+      "orbit": "太陽同期準回帰軌道",
+      "payload": "CE-SAT-1E （ キヤノン電子 の50kg級光学衛星）",
+      "notes": ""
+    },
+    {
+      "vehicle": "試験機2号機 (TF2)",
+      "launch_time_jst": "2024年2月17日 09時22分55秒",
+      "result": "成功",
+      "configuration": "22S",
+      "orbit": "太陽同期準回帰軌道",
+      "payload": "TIRSAT （ 一般財団法人 宇宙システム開発利用推進機構 の3U衛星）",
+      "notes": ""
+    },
+    {
+      "vehicle": "3号機 (F3)",
+      "launch_time_jst": "2024年7月1日 12時06分42秒",
+      "result": "成功",
+      "configuration": "22S",
+      "orbit": "太陽同期準回帰軌道",
+      "payload": "ALOS-4 （先進レーダ衛星「 だいち4号 」）",
+      "notes": ""
+    },
+    {
+      "vehicle": "4号機 (F4)",
+      "launch_time_jst": "2024年11月4日 15時48分00秒",
+      "result": "成功",
+      "configuration": "22S",
+      "orbit": "GTO",
+      "payload": "DSN-3（ Xバンド防衛通信衛星 3号機「きらめき3号」）",
+      "notes": ""
+    },
+    {
+      "vehicle": "5号機 (F5)",
+      "launch_time_jst": "2025年2月2日 17時30分00秒",
+      "result": "成功",
+      "configuration": "22S",
+      "orbit": "GTO",
+      "payload": "QZS-6 （ 準天頂衛星システム 6号機「みちびき6号機」）",
+      "notes": ""
+    },
+    {
+      "vehicle": "7号機 (F7)",
+      "launch_time_jst": "2025年10月26日 09時00分15秒",
+      "result": "成功",
+      "configuration": "24W",
+      "orbit": "ISS軌道（200×300km）",
+      "payload": "HTV-X1 （ 新型宇宙ステーション補給機 HTV-X1号機 ）",
+      "notes": ""
+    },
+    {
+      "vehicle": "8号機 (F8)",
+      "launch_time_jst": "2025年12月22日 10時51分30秒",
+      "result": "失敗",
+      "configuration": "22S",
+      "orbit": "GTO",
+      "payload": "QZS-5 （ 準天頂衛星システム 5号機「みちびき5号機」）",
+      "notes": ""
+    },
+    {
+      "vehicle": "6号機（30形態試験機） (F6)",
+      "launch_time_jst": "2026年6月12日 09時53分59秒",
+      "result": "成功",
+      "configuration": "30S",
+      "orbit": "SSO",
+      "payload": "VEP-5 （性能評価用ペイロード） 超小型衛星 6基",
+      "notes": ""
+    },
+    {
+      "vehicle": "9号機 (F9)",
+      "launch_time_jst": "2026年8月11日 04時22分31秒",
+      "result": "成功",
+      "configuration": "22S",
+      "orbit": "GTO",
+      "payload": "QZS-7 （ 準天頂衛星システム7号機 「みちびき7号機」）",
+      "notes": ""
+    },
+    {
+      "vehicle": "10号機 (F10)",
+      "launch_time_jst": "2026年10月20日 04時41分03秒",
+      "result": "成功",
+      "configuration": "24L",
+      "orbit": "火星遷移軌道",
+      "payload": "MMX （ 火星衛星探査計画 〈戦略的中型計画1〉）",
+      "notes": ""
+    },
+    {
+      "vehicle": "",
+      "launch_time_jst": "2026年度",
+      "result": "計画中",
+      "configuration": "22L",
+      "orbit": "",
+      "payload": "ETS-9 （技術試験衛星9号機「 きく9号 」）",
+      "notes": ""
+    },
+    {
+      "vehicle": "",
+      "launch_time_jst": "2026年度初頭",
+      "result": "計画中",
+      "configuration": "24W",
+      "orbit": "",
+      "payload": "HTV-X2 （新型宇宙ステーション補給機2号機）",
+      "notes": ""
+    },
+    {
+      "vehicle": "",
+      "launch_time_jst": "2026年度",
+      "result": "計画中",
+      "configuration": "24W",
+      "orbit": "",
+      "payload": "HTV-X3 （新型宇宙ステーション補給機3号機）",
+      "notes": ""
+    },
+    {
+      "vehicle": "",
+      "launch_time_jst": "2026年度",
+      "result": "計画中",
+      "configuration": "",
+      "orbit": "",
+      "payload": "IGS （ 情報収集衛星 光学多様化1号機）",
+      "notes": ""
+    },
+    {
+      "vehicle": "",
+      "launch_time_jst": "2026年度",
+      "result": "計画中",
+      "configuration": "",
+      "orbit": "GTO",
+      "payload": "SDA（宇宙領域把握衛星）",
+      "notes": ""
+    },
+    {
+      "vehicle": "",
+      "launch_time_jst": "2027年",
+      "result": "計画中",
+      "configuration": "",
+      "orbit": "",
+      "payload": "ELS-R 2号機 （ElevationSpace [1] の微小重力環境実験プラットフォーム）",
+      "notes": "相乗り"
+    },
+    {
+      "vehicle": "",
+      "launch_time_jst": "2027年度",
+      "result": "計画中",
+      "configuration": "",
+      "orbit": "",
+      "payload": "IGS-Optical 9 （情報収集衛星光学9号機）",
+      "notes": ""
+    },
+    {
+      "vehicle": "",
+      "launch_time_jst": "2027年度",
+      "result": "計画中",
+      "configuration": "",
+      "orbit": "",
+      "payload": "IGS （情報収集衛星光学多様化2号機）",
+      "notes": ""
+    },
+    {
+      "vehicle": "",
+      "launch_time_jst": "2027年以降",
+      "result": "計画中",
+      "configuration": "",
+      "orbit": "",
+      "payload": "(TBD) （ ユーテルサット 社の衛星）",
+      "notes": ""
+    },
+    {
+      "vehicle": "",
+      "launch_time_jst": "2028年度第一四半期",
+      "result": "計画中",
+      "configuration": "",
+      "orbit": "",
+      "payload": "MBR （ MBR Explorer （ 英語版 ） ）",
+      "notes": ""
+    },
+    {
+      "vehicle": "",
+      "launch_time_jst": "2028年度",
+      "result": "計画中",
+      "configuration": "",
+      "orbit": "",
+      "payload": "Himawari-10 （気象衛星「 ひまわり10号 」）",
+      "notes": ""
+    },
+    {
+      "vehicle": "",
+      "launch_time_jst": "2028年度",
+      "result": "計画中",
+      "configuration": "22S",
+      "orbit": "",
+      "payload": "ULTRA （ispaceの月面着陸船）",
+      "notes": ""
+    },
+    {
+      "vehicle": "",
+      "launch_time_jst": "2028年度",
+      "result": "計画中",
+      "configuration": "24S",
+      "orbit": "",
+      "payload": "DESTINY+",
+      "notes": ""
+    },
+    {
+      "vehicle": "",
+      "launch_time_jst": "2028年度",
+      "result": "計画中",
+      "configuration": "24S",
+      "orbit": "",
+      "payload": "RAMSES （欧州宇宙機関の小惑星探査機）",
+      "notes": ""
+    },
+    {
+      "vehicle": "",
+      "launch_time_jst": "2028年度",
+      "result": "計画中",
+      "configuration": "",
+      "orbit": "",
+      "payload": "LUPEX （ 月極域探査機 〈月面極地探査ミッション〉）",
+      "notes": ""
+    },
+    {
+      "vehicle": "",
+      "launch_time_jst": "2028年度末か2029年度初頭",
+      "result": "計画中",
+      "configuration": "",
+      "orbit": "",
+      "payload": "IGS （情報収集衛星レーダ多様化1号機）",
+      "notes": ""
+    },
+    {
+      "vehicle": "",
+      "launch_time_jst": "2029年度",
+      "result": "計画中",
+      "configuration": "",
+      "orbit": "",
+      "payload": "IGS-Optical 10 （情報収集衛星光学10号機）",
+      "notes": ""
+    },
+    {
+      "vehicle": "",
+      "launch_time_jst": "2029年度末か2030年度",
+      "result": "計画中",
+      "configuration": "",
+      "orbit": "",
+      "payload": "IGS （情報収集衛星レーダ多様化2号機）",
+      "notes": ""
+    },
+    {
+      "vehicle": "",
+      "launch_time_jst": "2031年度",
+      "result": "計画中",
+      "configuration": "",
+      "orbit": "",
+      "payload": "IGS-Radar 9 （情報収集衛星レーダ9号機）",
+      "notes": ""
+    },
+    {
+      "vehicle": "",
+      "launch_time_jst": "2032年度",
+      "result": "計画中",
+      "configuration": "",
+      "orbit": "",
+      "payload": "（情報収集衛星光学多様化後継機）",
+      "notes": ""
+    },
+    {
+      "vehicle": "",
+      "launch_time_jst": "2032年度",
+      "result": "計画中",
+      "configuration": "",
+      "orbit": "",
+      "payload": "LiteBIRD （ 宇宙マイクロ波背景放射 偏光観測衛星〈戦略的中型計画2〉）",
+      "notes": ""
+    },
+    {
+      "vehicle": "",
+      "launch_time_jst": "2033年度以降",
+      "result": "計画中",
+      "configuration": "",
+      "orbit": "",
+      "payload": "IGS-Optical 11 （情報収集衛星光学11号機）",
+      "notes": ""
+    },
+    {
+      "vehicle": "",
+      "launch_time_jst": "2033年度以降",
+      "result": "計画中",
+      "configuration": "",
+      "orbit": "",
+      "payload": "IGS-Radar 10 （情報収集衛星レーダ10号機）",
+      "notes": ""
+    },
+    {
+      "vehicle": "",
+      "launch_time_jst": "2033年度以降",
+      "result": "計画中",
+      "configuration": "",
+      "orbit": "",
+      "payload": "（情報収集衛星光学多様化後継機）",
+      "notes": ""
+    },
+    {
+      "vehicle": "",
+      "launch_time_jst": "(TBD)",
+      "result": "計画中",
+      "configuration": "",
+      "orbit": "",
+      "payload": "（TBD） （ インマルサット 社の衛星）",
+      "notes": ""
+    },
+    {
+      "vehicle": "",
+      "launch_time_jst": "(TBD)",
+      "result": "計画中",
+      "configuration": "",
+      "orbit": "",
+      "payload": "QPS-SAR×3機 （ QPS研究所 の合成開口レーダー衛星）",
+      "notes": "相乗り"
+    }
+  ],
+  "meta": {
+    "title": "H3ロケット 打ち上げ記録 - Free Download",
+    "description": "H3ロケット各号機の打ち上げ日時（日本時間）、結果、機体構成、投入軌道、ペイロード。 Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "H3ロケット 打ち上げ記録 | ListBase",
+    "seo_description": "Download H3ロケット 打ち上げ記録 — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88"
+    ]
+  }
+}
