@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-27T02:36:31.909Z",
-  "total_datasets": 518,
-  "total_records": 456187,
+  "generated": "2026-10-27T02:36:36.225Z",
+  "total_datasets": 519,
+  "total_records": 456288,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "time",
@@ -14371,6 +14371,33 @@
         "xlsx": {
           "name": "ja-epsilon-uchiage-kiroku_JA.xlsx",
           "size": 8052
+        }
+      }
+    },
+    {
+      "id": "ja-h2a-uchiage-kiroku",
+      "name": "H-IIAロケット 打ち上げ記録",
+      "category": "tech",
+      "record_count": 101,
+      "columns": [
+        "flight",
+        "launch_time_jst",
+        "result",
+        "payload",
+        "orbit",
+        "notes"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/H-IIA%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+      "updated": "2026-10",
+      "size": 42830,
+      "files": {
+        "csv": {
+          "name": "ja-h2a-uchiage-kiroku_JA.csv",
+          "size": 28799
+        },
+        "xlsx": {
+          "name": "ja-h2a-uchiage-kiroku_JA.xlsx",
+          "size": 14171
         }
       }
     },
