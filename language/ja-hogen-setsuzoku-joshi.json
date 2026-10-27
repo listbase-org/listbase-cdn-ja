@@ -1,0 +1,146 @@
+{
+  "id": "ja-hogen-setsuzoku-joshi",
+  "name": "日本の方言の接続助詞（順接・逆接）分布",
+  "title": "日本の方言の接続助詞（順接・逆接）分布",
+  "description": "日本各地の方言における順接（「から」「ので」）・逆接（「けれども」）の接続助詞の語形と分布地域。",
+  "category": "language",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%96%B9%E8%A8%80",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%96%B9%E8%A8%80",
+  "updated": "2026-10",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "form",
+      "label": "Form",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "form": "はんで・はんて・へんで・へで・んて・えんて",
+      "region": "青森県 津軽 ・ 三戸郡 ・秋田県・岩手県北部",
+      "function": "順接（から・ので）"
+    },
+    {
+      "form": "すて・して",
+      "region": "青森県 下北半島",
+      "function": "順接（から・ので）"
+    },
+    {
+      "form": "から",
+      "region": "北海道・秋田県・岩手県・南奥羽方言・関東地方とその周辺",
+      "function": "順接（から・ので）"
+    },
+    {
+      "form": "んて",
+      "region": "静岡県の 静岡市 以東と八丈島",
+      "function": "順接（から・ので）"
+    },
+    {
+      "form": "に",
+      "region": "長野県",
+      "function": "順接（から・ので）"
+    },
+    {
+      "form": "で",
+      "region": "長野県（中南信とそれに接する東北信）・静岡県・愛知県・岐阜県・ 福井県 ・三重県・滋賀県・ 京都府北部",
+      "function": "順接（から・ので）"
+    },
+    {
+      "form": "さかい・さけ・はかい・はけ・すけ・しけ・っけ・け",
+      "region": "近畿地方・北陸地方・新潟県・山形県（ 置賜 除く）・青森県 南部地方 ・岩手県北東部・長野県北端",
+      "function": "順接（から・ので）"
+    },
+    {
+      "form": "よって・よってに",
+      "region": "近畿地方・長野県南部",
+      "function": "順接（から・ので）"
+    },
+    {
+      "form": "けん・けー・きん・きー・けに・きに",
+      "region": "中国地方・四国地方・九州地方（宮崎県・鹿児島県を除く）",
+      "function": "順接（から・ので）"
+    },
+    {
+      "form": "せん・せに・せーに",
+      "region": "長崎県の所々・壱岐・ 天草",
+      "function": "順接（から・ので）"
+    },
+    {
+      "form": "で",
+      "region": "熊本県南部・ 薩隅方言",
+      "function": "順接（から・ので）"
+    },
+    {
+      "form": "から・かい",
+      "region": "宮崎県、鹿児島県 種子島 ・ 屋久島 （「かい」は宮崎県のみ）",
+      "function": "順接（から・ので）"
+    },
+    {
+      "form": "けども・けど・けんど・けれど・けんども等",
+      "region": "北海道、南奥羽方言から豊日方言まで",
+      "function": "逆接（けれども）"
+    },
+    {
+      "form": "ども",
+      "region": "北海道沿岸部・北奥羽方言・新潟県越後",
+      "function": "逆接（けれども）"
+    },
+    {
+      "form": "ばって",
+      "region": "青森県津軽・秋田県北部",
+      "function": "逆接（けれども）"
+    },
+    {
+      "form": "たって",
+      "region": "青森県下北半島",
+      "function": "逆接（けれども）"
+    },
+    {
+      "form": "ども・だども",
+      "region": "島根県出雲",
+      "function": "逆接（けれども）"
+    },
+    {
+      "form": "だえど・だいど",
+      "region": "島根県隠岐",
+      "function": "逆接（けれども）"
+    },
+    {
+      "form": "ばってん・ばって",
+      "region": "肥筑方言・薩隅陸地部南端・薩隅離島部",
+      "function": "逆接（けれども）"
+    },
+    {
+      "form": "どん・いどん・じょん・どんからん",
+      "region": "薩隅・佐賀県西部・長崎県中部",
+      "function": "逆接（けれども）"
+    },
+    {
+      "form": "しが",
+      "region": "沖縄県",
+      "function": "逆接（けれども）"
+    }
+  ],
+  "meta": {
+    "title": "日本の方言の接続助詞（順接・逆接）分布 - Free Download",
+    "description": "日本各地の方言における順接（「から」「ので」）・逆接（「けれども」）の接続助詞の語形と分布地域。 Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の方言の接続助詞（順接・逆接）分布 | ListBase",
+    "seo_description": "Download 日本の方言の接続助詞（順接・逆接）分布 — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%96%B9%E8%A8%80"
+    ]
+  }
+}
