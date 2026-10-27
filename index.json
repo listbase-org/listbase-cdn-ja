@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-27T02:37:29.171Z",
-  "total_datasets": 531,
-  "total_records": 456793,
+  "generated": "2026-10-27T02:37:33.367Z",
+  "total_datasets": 532,
+  "total_records": 456843,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -6817,6 +6817,30 @@
         "xlsx": {
           "name": "ja-nihon-sakkyoku-taisho_JA.xlsx",
           "size": 7531
+        }
+      }
+    },
+    {
+      "id": "ja-nihon-yusen-taisho",
+      "name": "日本有線大賞 歴代大賞受賞者",
+      "category": "music",
+      "record_count": 50,
+      "columns": [
+        "edition",
+        "winner",
+        "song"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%89%E7%B7%9A%E5%A4%A7%E8%B3%9E",
+      "updated": "2026-10",
+      "size": 6816,
+      "files": {
+        "csv": {
+          "name": "ja-nihon-yusen-taisho_JA.csv",
+          "size": 2279
+        },
+        "xlsx": {
+          "name": "ja-nihon-yusen-taisho_JA.xlsx",
+          "size": 8687
         }
       }
     },

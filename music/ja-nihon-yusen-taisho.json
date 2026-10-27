@@ -1,0 +1,291 @@
+{
+  "id": "ja-nihon-yusen-taisho",
+  "name": "日本有線大賞 歴代大賞受賞者",
+  "title": "日本有線大賞 歴代大賞受賞者",
+  "description": "日本有線大賞の各回の大賞受賞者と受賞曲。",
+  "category": "music",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%89%E7%B7%9A%E5%A4%A7%E8%B3%9E",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%89%E7%B7%9A%E5%A4%A7%E8%B3%9E",
+  "updated": "2026-10",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "edition",
+      "label": "Edition",
+      "type": "string"
+    },
+    {
+      "key": "winner",
+      "label": "Winner",
+      "type": "string"
+    },
+    {
+      "key": "song",
+      "label": "Song",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edition": "第1回",
+      "winner": "森進一",
+      "song": "盛り場ブルース"
+    },
+    {
+      "edition": "第2回",
+      "winner": "森進一",
+      "song": "港町ブルース"
+    },
+    {
+      "edition": "第3回",
+      "winner": "内山田洋とクール・ファイブ",
+      "song": "噂の女"
+    },
+    {
+      "edition": "第4回",
+      "winner": "鶴田浩二",
+      "song": "傷だらけの人生"
+    },
+    {
+      "edition": "第5回",
+      "winner": "欧陽菲菲",
+      "song": "雨のエアポート"
+    },
+    {
+      "edition": "第6回",
+      "winner": "内山田洋とクール・ファイブ",
+      "song": "そして、神戸"
+    },
+    {
+      "edition": "第7回",
+      "winner": "八代亜紀",
+      "song": "愛ひとすじ"
+    },
+    {
+      "edition": "第8回",
+      "winner": "野口五郎",
+      "song": "私鉄沿線"
+    },
+    {
+      "edition": "第9回",
+      "winner": "都はるみ",
+      "song": "北の宿から"
+    },
+    {
+      "edition": "第10回",
+      "winner": "沢田研二",
+      "song": "勝手にしやがれ"
+    },
+    {
+      "edition": "第11回",
+      "winner": "沢田研二",
+      "song": "ダーリング"
+    },
+    {
+      "edition": "第12回",
+      "winner": "渥美二郎",
+      "song": "夢追い酒"
+    },
+    {
+      "edition": "第13回",
+      "winner": "小林幸子",
+      "song": "とまり木"
+    },
+    {
+      "edition": "第14回",
+      "winner": "竜鉄也",
+      "song": "奥飛騨慕情"
+    },
+    {
+      "edition": "第15回",
+      "winner": "細川たかし",
+      "song": "北酒場"
+    },
+    {
+      "edition": "第16回",
+      "winner": "都はるみ 岡千秋",
+      "song": "浪花恋しぐれ"
+    },
+    {
+      "edition": "第17回",
+      "winner": "テレサ・テン",
+      "song": "つぐない"
+    },
+    {
+      "edition": "第18回",
+      "winner": "テレサ・テン",
+      "song": "愛人"
+    },
+    {
+      "edition": "第19回",
+      "winner": "テレサ・テン",
+      "song": "時の流れに身をまかせ"
+    },
+    {
+      "edition": "第20回",
+      "winner": "瀬川瑛子",
+      "song": "命くれない"
+    },
+    {
+      "edition": "第21回",
+      "winner": "桂銀淑",
+      "song": "夢おんな"
+    },
+    {
+      "edition": "第22回",
+      "winner": "PRENCESS PRINCESS",
+      "song": "Diamonds"
+    },
+    {
+      "edition": "第23回",
+      "winner": "堀内孝雄",
+      "song": "恋唄綴り"
+    },
+    {
+      "edition": "第24回",
+      "winner": "香西かおり",
+      "song": "流恋草"
+    },
+    {
+      "edition": "第25回",
+      "winner": "藤あや子",
+      "song": "こころ酒"
+    },
+    {
+      "edition": "第26回",
+      "winner": "高山厳",
+      "song": "心凍らせて"
+    },
+    {
+      "edition": "第27回",
+      "winner": "藤あや子",
+      "song": "花のワルツ"
+    },
+    {
+      "edition": "第28回",
+      "winner": "長山洋子",
+      "song": "捨てられて"
+    },
+    {
+      "edition": "第29回",
+      "winner": "シャ乱Q",
+      "song": "涙の影"
+    },
+    {
+      "edition": "第30回",
+      "winner": "GLAY",
+      "song": "HOWEVER"
+    },
+    {
+      "edition": "第31回",
+      "winner": "L'Arc〜en〜Ciel",
+      "song": "HONEY"
+    },
+    {
+      "edition": "第32回",
+      "winner": "GLAY",
+      "song": "Winter,again"
+    },
+    {
+      "edition": "第33回",
+      "winner": "小柳ゆき",
+      "song": "愛情 be alive"
+    },
+    {
+      "edition": "第34回",
+      "winner": "浜崎あゆみ",
+      "song": "Dearest"
+    },
+    {
+      "edition": "第35回",
+      "winner": "浜崎あゆみ",
+      "song": "Voyage"
+    },
+    {
+      "edition": "第36回",
+      "winner": "氷川きよし",
+      "song": "白雲の城"
+    },
+    {
+      "edition": "第37回",
+      "winner": "氷川きよし",
+      "song": "番場の忠太郎"
+    },
+    {
+      "edition": "第38回",
+      "winner": "氷川きよし",
+      "song": "面影の都"
+    },
+    {
+      "edition": "第39回",
+      "winner": "倖田來未",
+      "song": "夢のうた"
+    },
+    {
+      "edition": "第40回",
+      "winner": "氷川きよし",
+      "song": "きよしのソーラン節"
+    },
+    {
+      "edition": "第41回",
+      "winner": "EXILE",
+      "song": "Ti Amo"
+    },
+    {
+      "edition": "第42回",
+      "winner": "氷川きよし",
+      "song": "ときめきのルンバ"
+    },
+    {
+      "edition": "第43回",
+      "winner": "氷川きよし",
+      "song": "虹色のバイヨン"
+    },
+    {
+      "edition": "第44回",
+      "winner": "ふくい舞",
+      "song": "いくたびの櫻"
+    },
+    {
+      "edition": "第45回",
+      "winner": "氷川きよし",
+      "song": "櫻"
+    },
+    {
+      "edition": "第46回",
+      "winner": "氷川きよし",
+      "song": "満天の瞳"
+    },
+    {
+      "edition": "第47回",
+      "winner": "水森かおり",
+      "song": "島根恋旅"
+    },
+    {
+      "edition": "第48回",
+      "winner": "三代目J Soul Brothers from EXILE TRIBE",
+      "song": "Summer Madness"
+    },
+    {
+      "edition": "第49回",
+      "winner": "西野カナ",
+      "song": "Dear Bride"
+    },
+    {
+      "edition": "第50回",
+      "winner": "氷川きよし",
+      "song": "男の絶唱"
+    }
+  ],
+  "meta": {
+    "title": "日本有線大賞 歴代大賞受賞者 - Free Download",
+    "description": "日本有線大賞の各回の大賞受賞者と受賞曲。 Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本有線大賞 歴代大賞受賞者 | ListBase",
+    "seo_description": "Download 日本有線大賞 歴代大賞受賞者 — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%89%E7%B7%9A%E5%A4%A7%E8%B3%9E"
+    ]
+  }
+}
