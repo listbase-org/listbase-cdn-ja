@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-27T02:37:02.421Z",
-  "total_datasets": 525,
-  "total_records": 456735,
+  "generated": "2026-10-27T02:37:07.357Z",
+  "total_datasets": 526,
+  "total_records": 456751,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "sports",
@@ -14096,6 +14096,29 @@
         "xlsx": {
           "name": "ja-jinko-dotai-nenji_JA.xlsx",
           "size": 19418
+        }
+      }
+    },
+    {
+      "id": "ja-kanketsu-shusshoji-su",
+      "name": "完結出生児数の推移（出生動向基本調査）",
+      "category": "society",
+      "record_count": 16,
+      "columns": [
+        "survey",
+        "completed_fertility"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B0%91%E5%AD%90%E5%8C%96",
+      "updated": "2026-10",
+      "size": 3098,
+      "files": {
+        "csv": {
+          "name": "ja-kanketsu-shusshoji-su_JA.csv",
+          "size": 612
+        },
+        "xlsx": {
+          "name": "ja-kanketsu-shusshoji-su_JA.xlsx",
+          "size": 7033
         }
       }
     },

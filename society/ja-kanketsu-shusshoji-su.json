@@ -1,0 +1,100 @@
+{
+  "id": "ja-kanketsu-shusshoji-su",
+  "name": "完結出生児数の推移（出生動向基本調査）",
+  "title": "完結出生児数の推移（出生動向基本調査）",
+  "description": "夫婦の最終的な平均出生子ども数（完結出生児数）の出生動向基本調査各回の推移。",
+  "category": "society",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B0%91%E5%AD%90%E5%8C%96",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B0%91%E5%AD%90%E5%8C%96",
+  "updated": "2026-10",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "survey",
+      "label": "Survey",
+      "type": "string"
+    },
+    {
+      "key": "completed_fertility",
+      "label": "Completed Fertility",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "survey": "第1回調査（1940年）",
+      "completed_fertility": 4.27
+    },
+    {
+      "survey": "第2回調査（1952年）",
+      "completed_fertility": 3.5
+    },
+    {
+      "survey": "第3回調査（1957年）",
+      "completed_fertility": 3.6
+    },
+    {
+      "survey": "第4回調査（1962年）",
+      "completed_fertility": 2.83
+    },
+    {
+      "survey": "第5回調査（1967年）",
+      "completed_fertility": 2.65
+    },
+    {
+      "survey": "第6回調査（1972年）",
+      "completed_fertility": 2.2
+    },
+    {
+      "survey": "第7回調査（1977年）",
+      "completed_fertility": 2.19
+    },
+    {
+      "survey": "第8回調査（1982年）",
+      "completed_fertility": 2.23
+    },
+    {
+      "survey": "第9回調査（1987年）",
+      "completed_fertility": 2.19
+    },
+    {
+      "survey": "第10回調査（1992年）",
+      "completed_fertility": 2.21
+    },
+    {
+      "survey": "第11回調査（1997年）",
+      "completed_fertility": 2.21
+    },
+    {
+      "survey": "第12回調査（2002年）",
+      "completed_fertility": 2.23
+    },
+    {
+      "survey": "第13回調査（2005年）",
+      "completed_fertility": 2.09
+    },
+    {
+      "survey": "第14回調査（2010年）",
+      "completed_fertility": 1.96
+    },
+    {
+      "survey": "第15回調査（2015年）",
+      "completed_fertility": 1.94
+    },
+    {
+      "survey": "第16回調査（2021年）",
+      "completed_fertility": 1.9
+    }
+  ],
+  "meta": {
+    "title": "完結出生児数の推移（出生動向基本調査） - Free Download",
+    "description": "夫婦の最終的な平均出生子ども数（完結出生児数）の出生動向基本調査各回の推移。 Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "完結出生児数の推移（出生動向基本調査） | ListBase",
+    "seo_description": "Download 完結出生児数の推移（出生動向基本調査） — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B0%91%E5%AD%90%E5%8C%96"
+    ]
+  }
+}
