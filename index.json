@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-27T02:38:03.425Z",
-  "total_datasets": 539,
-  "total_records": 457037,
+  "generated": "2026-10-27T02:38:07.211Z",
+  "total_datasets": 540,
+  "total_records": 457084,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "politics",
@@ -6919,6 +6919,30 @@
         "xlsx": {
           "name": "ja-oricon-nenkan-artist-1i_JA.xlsx",
           "size": 8419
+        }
+      }
+    },
+    {
+      "id": "ja-suisogaku-renmei-shibu",
+      "name": "全日本吹奏楽コンクール 支部・都道府県・地区",
+      "category": "music",
+      "record_count": 47,
+      "columns": [
+        "branch",
+        "prefecture",
+        "districts"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E5%85%A8%E6%97%A5%E6%9C%AC%E5%90%B9%E5%A5%8F%E6%A5%BD%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%BC%E3%83%AB",
+      "updated": "2026-10",
+      "size": 8507,
+      "files": {
+        "csv": {
+          "name": "ja-suisogaku-renmei-shibu_JA.csv",
+          "size": 3453
+        },
+        "xlsx": {
+          "name": "ja-suisogaku-renmei-shibu_JA.xlsx",
+          "size": 8587
         }
       }
     },

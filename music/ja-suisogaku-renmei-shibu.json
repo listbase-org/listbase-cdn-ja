@@ -1,0 +1,276 @@
+{
+  "id": "ja-suisogaku-renmei-shibu",
+  "name": "全日本吹奏楽コンクール 支部・都道府県・地区",
+  "title": "全日本吹奏楽コンクール 支部・都道府県・地区",
+  "description": "全日本吹奏楽コンクールの支部と所属都道府県・地区大会の一覧。",
+  "category": "music",
+  "source": "https://ja.wikipedia.org/wiki/%E5%85%A8%E6%97%A5%E6%9C%AC%E5%90%B9%E5%A5%8F%E6%A5%BD%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%BC%E3%83%AB",
+  "source_url": "https://ja.wikipedia.org/wiki/%E5%85%A8%E6%97%A5%E6%9C%AC%E5%90%B9%E5%A5%8F%E6%A5%BD%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%BC%E3%83%AB",
+  "updated": "2026-10",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "branch": "北海道",
+      "prefecture": "北海道",
+      "districts": "札幌、函館、空知、旭川、名寄、留萌、稚内、北見、日胆、帯広、釧路 （北海道は全道大会が支部大会となる）"
+    },
+    {
+      "branch": "東 北",
+      "prefecture": "青森県",
+      "districts": "中央、弘前、八戸"
+    },
+    {
+      "branch": "東 北",
+      "prefecture": "岩手県",
+      "districts": "県北、盛岡、中央、県南、沿岸"
+    },
+    {
+      "branch": "東 北",
+      "prefecture": "宮城県",
+      "districts": "仙台青葉・泉、仙台太白・仙台宮城野若林、名取・仙南、多賀城・石巻、栗原・大崎、登米・本吉"
+    },
+    {
+      "branch": "東 北",
+      "prefecture": "秋田県",
+      "districts": "県北、中央、県南"
+    },
+    {
+      "branch": "東 北",
+      "prefecture": "山形県",
+      "districts": "村山、最北、置賜、田川、飽海"
+    },
+    {
+      "branch": "東 北",
+      "prefecture": "福島県",
+      "districts": "県北、県南、会津、いわき、相双"
+    },
+    {
+      "branch": "東 関東",
+      "prefecture": "茨城県",
+      "districts": "県東、県南、県西、県北、中央 （以上中及び高BCのみ※）"
+    },
+    {
+      "branch": "東 関東",
+      "prefecture": "栃木県",
+      "districts": "地区大会なし （※）"
+    },
+    {
+      "branch": "東 関東",
+      "prefecture": "千葉県",
+      "districts": "地区大会なし （※）"
+    },
+    {
+      "branch": "東 関東",
+      "prefecture": "神奈川県",
+      "districts": "横浜、川崎、相模原、県南、県央、西湘、湘南 （以上中高のみ）"
+    },
+    {
+      "branch": "西関東",
+      "prefecture": "群馬県",
+      "districts": "西部、中部、東部 （以上中Bのみ※）"
+    },
+    {
+      "branch": "西関東",
+      "prefecture": "埼玉県",
+      "districts": "中央、東部、西部、南部、北部 （以上中のみ） 、高校、大・職一"
+    },
+    {
+      "branch": "西関東",
+      "prefecture": "新潟県",
+      "districts": "上越、中越、下越 （以上中Bのみ※）"
+    },
+    {
+      "branch": "西関東",
+      "prefecture": "山梨県",
+      "districts": "地区大会なし"
+    },
+    {
+      "branch": "東 京",
+      "prefecture": "東京都",
+      "districts": "中学校、高等学校、大学、職場・一般 （東京都は都大会が支部大会となる）"
+    },
+    {
+      "branch": "北 陸",
+      "prefecture": "富山県",
+      "districts": "地区大会なし"
+    },
+    {
+      "branch": "北 陸",
+      "prefecture": "石川県",
+      "districts": "地区大会なし"
+    },
+    {
+      "branch": "北 陸",
+      "prefecture": "福井県",
+      "districts": "地区大会なし"
+    },
+    {
+      "branch": "東 海",
+      "prefecture": "長野県",
+      "districts": "北信A、北信B （※） 、東信、中信、南信A、南信B （※） （以上中のみ） 、東北信、中南信 （以上高Aのみ）"
+    },
+    {
+      "branch": "東 海",
+      "prefecture": "岐阜県",
+      "districts": "岐阜西部、岐阜東部 （以上中AC、高のみ）、 美濃飛騨、可茂東濃、岐阜西濃 （以上中Bのみ）"
+    },
+    {
+      "branch": "東 海",
+      "prefecture": "静岡県",
+      "districts": "東部、中部、西部 （以上中高のみ）"
+    },
+    {
+      "branch": "東 海",
+      "prefecture": "愛知県",
+      "districts": "名古屋、知多、東三河、東尾張、西尾張、西三河北、西三河南 （以上中高のみ※）"
+    },
+    {
+      "branch": "東 海",
+      "prefecture": "三重県",
+      "districts": "地区大会なし"
+    },
+    {
+      "branch": "関 西",
+      "prefecture": "滋賀県",
+      "districts": "中部・南部・北部 （以上中高のみ）"
+    },
+    {
+      "branch": "関 西",
+      "prefecture": "京都府",
+      "districts": "地区大会なし"
+    },
+    {
+      "branch": "関 西",
+      "prefecture": "大阪府",
+      "districts": "北摂、北、中、南 （以上中高のみ）"
+    },
+    {
+      "branch": "関 西",
+      "prefecture": "兵庫県",
+      "districts": "東阪神、西阪神、神戸、東播、西播、但馬、淡路 （以上中高のみ）"
+    },
+    {
+      "branch": "関 西",
+      "prefecture": "奈良県",
+      "districts": "地区大会なし"
+    },
+    {
+      "branch": "関 西",
+      "prefecture": "和歌山県",
+      "districts": "地区大会なし"
+    },
+    {
+      "branch": "中 国",
+      "prefecture": "鳥取県",
+      "districts": "地区大会なし"
+    },
+    {
+      "branch": "中 国",
+      "prefecture": "島根県",
+      "districts": "地区大会なし"
+    },
+    {
+      "branch": "中 国",
+      "prefecture": "岡山県",
+      "districts": "中A予選、中小編成予選、高A予選、高小編成予選"
+    },
+    {
+      "branch": "中 国",
+      "prefecture": "広島県",
+      "districts": "地区大会なし"
+    },
+    {
+      "branch": "中 国",
+      "prefecture": "山口県",
+      "districts": "地区大会なし"
+    },
+    {
+      "branch": "四 国",
+      "prefecture": "徳島県",
+      "districts": "地区大会なし"
+    },
+    {
+      "branch": "四 国",
+      "prefecture": "香川県",
+      "districts": "地区大会なし"
+    },
+    {
+      "branch": "四 国",
+      "prefecture": "愛媛県",
+      "districts": "地区大会なし"
+    },
+    {
+      "branch": "四 国",
+      "prefecture": "高知県",
+      "districts": "地区大会なし"
+    },
+    {
+      "branch": "九 州",
+      "prefecture": "福岡県",
+      "districts": "北九州、筑豊、福岡 （以上中高のみ） 、中学福岡、中学筑前、中学筑後"
+    },
+    {
+      "branch": "九 州",
+      "prefecture": "佐賀県",
+      "districts": "地区大会なし"
+    },
+    {
+      "branch": "九 州",
+      "prefecture": "長崎県",
+      "districts": "県南、県央、県北 （以上中のみ）"
+    },
+    {
+      "branch": "九 州",
+      "prefecture": "熊本県",
+      "districts": "地区大会なし （※）"
+    },
+    {
+      "branch": "九 州",
+      "prefecture": "大分県",
+      "districts": "地区大会なし"
+    },
+    {
+      "branch": "九 州",
+      "prefecture": "宮崎県",
+      "districts": "地区大会なし"
+    },
+    {
+      "branch": "九 州",
+      "prefecture": "鹿児島県",
+      "districts": "地区大会なし"
+    },
+    {
+      "branch": "九 州",
+      "prefecture": "沖縄県",
+      "districts": "地区大会なし"
+    }
+  ],
+  "meta": {
+    "title": "全日本吹奏楽コンクール 支部・都道府県・地区 - Free Download",
+    "description": "全日本吹奏楽コンクールの支部と所属都道府県・地区大会の一覧。 Contains 47 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "全日本吹奏楽コンクール 支部・都道府県・地区 | ListBase",
+    "seo_description": "Download 全日本吹奏楽コンクール 支部・都道府県・地区 — 47 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 47 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E5%85%A8%E6%97%A5%E6%9C%AC%E5%90%B9%E5%A5%8F%E6%A5%BD%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%BC%E3%83%AB"
+    ]
+  }
+}
