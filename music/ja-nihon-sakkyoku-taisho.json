@@ -1,0 +1,128 @@
+{
+  "id": "ja-nihon-sakkyoku-taisho",
+  "name": "日本作曲大賞 受賞作品",
+  "title": "日本作曲大賞 受賞作品",
+  "description": "日本作曲大賞の各回受賞作品：年度、作曲者、曲名、歌手。",
+  "category": "music",
+  "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%BD%9C%E6%9B%B2%E5%A4%A7%E8%B3%9E",
+  "source_url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%BD%9C%E6%9B%B2%E5%A4%A7%E8%B3%9E",
+  "updated": "2026-10",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "edition",
+      "label": "Edition",
+      "type": "number"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "string"
+    },
+    {
+      "key": "composer",
+      "label": "Composer",
+      "type": "string"
+    },
+    {
+      "key": "song",
+      "label": "Song",
+      "type": "string"
+    },
+    {
+      "key": "singer",
+      "label": "Singer",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edition": 1,
+      "year": "1981年 （昭和56年）",
+      "composer": "松任谷由実",
+      "song": "守ってあげたい",
+      "singer": "松任谷由実"
+    },
+    {
+      "edition": 2,
+      "year": "1982年 （昭和57年）",
+      "composer": "中村泰士",
+      "song": "北酒場",
+      "singer": "細川たかし"
+    },
+    {
+      "edition": 3,
+      "year": "1983年 （昭和58年）",
+      "composer": "来生たかお",
+      "song": "セカンド・ラブ",
+      "singer": "中森明菜"
+    },
+    {
+      "edition": 4,
+      "year": "1984年 （昭和59年）",
+      "composer": "佐藤隆",
+      "song": "桃色吐息",
+      "singer": "髙橋真梨子"
+    },
+    {
+      "edition": 5,
+      "year": "1985年 （昭和60年）",
+      "composer": "玉置浩二",
+      "song": "悲しみにさよなら",
+      "singer": "安全地帯"
+    },
+    {
+      "edition": 6,
+      "year": "1986年 （昭和61年）",
+      "composer": "三木たかし",
+      "song": "時の流れに身をまかせ",
+      "singer": "テレサ・テン"
+    },
+    {
+      "edition": 7,
+      "year": "1987年 （昭和62年）",
+      "composer": "林哲司",
+      "song": "思い出のビーチクラブ",
+      "singer": "稲垣潤一"
+    },
+    {
+      "edition": 8,
+      "year": "1988年 （昭和63年）",
+      "composer": "中崎英也",
+      "song": "静かにきたソリチュード",
+      "singer": "今井美樹"
+    },
+    {
+      "edition": 9,
+      "year": "1989年 （平成元年）",
+      "composer": "猪俣公章",
+      "song": "ふりむけばヨコハマ",
+      "singer": "マルシア"
+    },
+    {
+      "edition": 10,
+      "year": "1990年 （平成2年）",
+      "composer": "岩上峰山",
+      "song": "7時25分",
+      "singer": ""
+    },
+    {
+      "edition": 11,
+      "year": "1991年 （平成3年）",
+      "composer": "立木恵章",
+      "song": "もしもあなたなら",
+      "singer": ""
+    }
+  ],
+  "meta": {
+    "title": "日本作曲大賞 受賞作品 - Free Download",
+    "description": "日本作曲大賞の各回受賞作品：年度、作曲者、曲名、歌手。 Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本作曲大賞 受賞作品 | ListBase",
+    "seo_description": "Download 日本作曲大賞 受賞作品 — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%BD%9C%E6%9B%B2%E5%A4%A7%E8%B3%9E"
+    ]
+  }
+}

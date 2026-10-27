@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-27T02:37:24.827Z",
-  "total_datasets": 530,
-  "total_records": 456782,
+  "generated": "2026-10-27T02:37:29.171Z",
+  "total_datasets": 531,
+  "total_records": 456793,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "politics",
@@ -6791,6 +6791,32 @@
         "xlsx": {
           "name": "ja-nihon-record-taisho_JA.xlsx",
           "size": 12732
+        }
+      }
+    },
+    {
+      "id": "ja-nihon-sakkyoku-taisho",
+      "name": "日本作曲大賞 受賞作品",
+      "category": "music",
+      "record_count": 11,
+      "columns": [
+        "edition",
+        "year",
+        "composer",
+        "song",
+        "singer"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%BD%9C%E6%9B%B2%E5%A4%A7%E8%B3%9E",
+      "updated": "2026-10",
+      "size": 3617,
+      "files": {
+        "csv": {
+          "name": "ja-nihon-sakkyoku-taisho_JA.csv",
+          "size": 996
+        },
+        "xlsx": {
+          "name": "ja-nihon-sakkyoku-taisho_JA.xlsx",
+          "size": 7531
         }
       }
     },
