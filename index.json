@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-27T02:37:59.090Z",
-  "total_datasets": 538,
-  "total_records": 457030,
+  "generated": "2026-10-27T02:38:03.425Z",
+  "total_datasets": 539,
+  "total_records": 457037,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 4
+      "dataset_count": 5
     }
   ],
   "datasets": [
@@ -17417,6 +17417,35 @@
         "xlsx": {
           "name": "ja-shakkanho-tani_JA.xlsx",
           "size": 7195
+        }
+      }
+    },
+    {
+      "id": "ja-shitsuryo-tani-kansan",
+      "name": "質量の単位換算表（匁・斤・貫）",
+      "category": "units",
+      "record_count": 7,
+      "columns": [
+        "from",
+        "キログラム",
+        "グレーン",
+        "常用オンス",
+        "常用ポンド",
+        "匁",
+        "斤",
+        "貫"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E5%8C%81",
+      "updated": "2026-10",
+      "size": 3563,
+      "files": {
+        "csv": {
+          "name": "ja-shitsuryo-tani-kansan_JA.csv",
+          "size": 583
+        },
+        "xlsx": {
+          "name": "ja-shitsuryo-tani-kansan_JA.xlsx",
+          "size": 7284
         }
       }
     }
