@@ -1,0 +1,370 @@
+{
+  "id": "ja-oricon-nenkan-artist-1i",
+  "name": "オリコン年間ランキング アーティスト別1位",
+  "title": "オリコン年間ランキング アーティスト別1位",
+  "description": "オリコン年間ランキングの各年の首位アーティストと備考。",
+  "category": "music",
+  "source": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AA%E3%82%B3%E3%83%B3%E5%B9%B4%E9%96%93%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0",
+  "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AA%E3%82%B3%E3%83%B3%E5%B9%B4%E9%96%93%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0",
+  "updated": "2026-10",
+  "record_count": 54,
+  "columns": [
+    {
+      "key": "edition",
+      "label": "Edition",
+      "type": "number"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "string"
+    },
+    {
+      "key": "number_one_artist",
+      "label": "Number One Artist",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edition": 2,
+      "year": "1969年",
+      "number_one_artist": "森進一",
+      "notes": "初"
+    },
+    {
+      "edition": 3,
+      "year": "1970年",
+      "number_one_artist": "森進一",
+      "notes": "2度目"
+    },
+    {
+      "edition": 7,
+      "year": "1974年",
+      "number_one_artist": "井上陽水",
+      "notes": "初"
+    },
+    {
+      "edition": 8,
+      "year": "1975年",
+      "number_one_artist": "井上陽水",
+      "notes": "2度目"
+    },
+    {
+      "edition": 9,
+      "year": "1976年",
+      "number_one_artist": "荒井由実",
+      "notes": "初"
+    },
+    {
+      "edition": 10,
+      "year": "1977年",
+      "number_one_artist": "ピンク・レディー",
+      "notes": "初"
+    },
+    {
+      "edition": 11,
+      "year": "1978年",
+      "number_one_artist": "ピンク・レディー",
+      "notes": "2度目"
+    },
+    {
+      "edition": 12,
+      "year": "1979年",
+      "number_one_artist": "アリス",
+      "notes": "初"
+    },
+    {
+      "edition": 13,
+      "year": "1980年",
+      "number_one_artist": "イエロー・マジック・オーケストラ",
+      "notes": "初"
+    },
+    {
+      "edition": 14,
+      "year": "1981年",
+      "number_one_artist": "寺尾聰",
+      "notes": "初"
+    },
+    {
+      "edition": 15,
+      "year": "1982年",
+      "number_one_artist": "オフコース",
+      "notes": "初"
+    },
+    {
+      "edition": 16,
+      "year": "1983年",
+      "number_one_artist": "中森明菜",
+      "notes": "初"
+    },
+    {
+      "edition": 17,
+      "year": "1984年",
+      "number_one_artist": "松田聖子",
+      "notes": "初"
+    },
+    {
+      "edition": 18,
+      "year": "1985年",
+      "number_one_artist": "中森明菜",
+      "notes": "2度目"
+    },
+    {
+      "edition": 19,
+      "year": "1986年",
+      "number_one_artist": "中森明菜",
+      "notes": "3度目"
+    },
+    {
+      "edition": 20,
+      "year": "1987年",
+      "number_one_artist": "中森明菜",
+      "notes": "4度目"
+    },
+    {
+      "edition": 21,
+      "year": "1988年",
+      "number_one_artist": "光GENJI",
+      "notes": "初"
+    },
+    {
+      "edition": 22,
+      "year": "1989年",
+      "number_one_artist": "松任谷由実",
+      "notes": "2度目"
+    },
+    {
+      "edition": 23,
+      "year": "1990年",
+      "number_one_artist": "サザンオールスターズ",
+      "notes": "初"
+    },
+    {
+      "edition": 24,
+      "year": "1991年",
+      "number_one_artist": "B'z",
+      "notes": "初"
+    },
+    {
+      "edition": 25,
+      "year": "1992年",
+      "number_one_artist": "CHAGE and ASKA",
+      "notes": "初"
+    },
+    {
+      "edition": 26,
+      "year": "1993年",
+      "number_one_artist": "ZARD",
+      "notes": "初"
+    },
+    {
+      "edition": 27,
+      "year": "1994年",
+      "number_one_artist": "TRF",
+      "notes": "初"
+    },
+    {
+      "edition": 28,
+      "year": "1995年",
+      "number_one_artist": "TRF",
+      "notes": "2度目"
+    },
+    {
+      "edition": 29,
+      "year": "1996年",
+      "number_one_artist": "安室奈美恵",
+      "notes": "初"
+    },
+    {
+      "edition": 30,
+      "year": "1997年",
+      "number_one_artist": "GLAY",
+      "notes": "初"
+    },
+    {
+      "edition": 31,
+      "year": "1998年",
+      "number_one_artist": "B'z",
+      "notes": "2度目"
+    },
+    {
+      "edition": 32,
+      "year": "1999年",
+      "number_one_artist": "宇多田ヒカル",
+      "notes": "初"
+    },
+    {
+      "edition": 33,
+      "year": "2000年",
+      "number_one_artist": "浜崎あゆみ",
+      "notes": "初"
+    },
+    {
+      "edition": 34,
+      "year": "2001年",
+      "number_one_artist": "浜崎あゆみ",
+      "notes": "2度目"
+    },
+    {
+      "edition": 35,
+      "year": "2002年",
+      "number_one_artist": "宇多田ヒカル",
+      "notes": "2度目"
+    },
+    {
+      "edition": 36,
+      "year": "2003年",
+      "number_one_artist": "浜崎あゆみ",
+      "notes": "3度目"
+    },
+    {
+      "edition": 37,
+      "year": "2004年",
+      "number_one_artist": "宇多田ヒカル",
+      "notes": "3度目"
+    },
+    {
+      "edition": 38,
+      "year": "2005年",
+      "number_one_artist": "ORANGE RANGE",
+      "notes": "初"
+    },
+    {
+      "edition": 39,
+      "year": "2006年",
+      "number_one_artist": "倖田來未",
+      "notes": "初"
+    },
+    {
+      "edition": 40,
+      "year": "2007年",
+      "number_one_artist": "倖田來未",
+      "notes": "2度目"
+    },
+    {
+      "edition": 41,
+      "year": "2008年",
+      "number_one_artist": "EXILE",
+      "notes": "初"
+    },
+    {
+      "edition": 42,
+      "year": "2009年",
+      "number_one_artist": "嵐",
+      "notes": "初"
+    },
+    {
+      "edition": 43,
+      "year": "2010年",
+      "number_one_artist": "嵐",
+      "notes": "2度目"
+    },
+    {
+      "edition": 44,
+      "year": "2011年",
+      "number_one_artist": "AKB48",
+      "notes": "初"
+    },
+    {
+      "edition": 45,
+      "year": "2012年",
+      "number_one_artist": "AKB48",
+      "notes": "2度目"
+    },
+    {
+      "edition": 46,
+      "year": "2013年",
+      "number_one_artist": "嵐",
+      "notes": "3度目"
+    },
+    {
+      "edition": 47,
+      "year": "2014年",
+      "number_one_artist": "嵐",
+      "notes": "4度目"
+    },
+    {
+      "edition": 48,
+      "year": "2015年",
+      "number_one_artist": "嵐",
+      "notes": "5度目"
+    },
+    {
+      "edition": 49,
+      "year": "2016年",
+      "number_one_artist": "嵐",
+      "notes": "6度目"
+    },
+    {
+      "edition": 50,
+      "year": "2017年",
+      "number_one_artist": "嵐",
+      "notes": "7度目"
+    },
+    {
+      "edition": 51,
+      "year": "2018年",
+      "number_one_artist": "安室奈美恵",
+      "notes": "2度目"
+    },
+    {
+      "edition": 52,
+      "year": "2019年",
+      "number_one_artist": "嵐",
+      "notes": "8度目"
+    },
+    {
+      "edition": 53,
+      "year": "2020年",
+      "number_one_artist": "嵐",
+      "notes": "9度目"
+    },
+    {
+      "edition": 54,
+      "year": "2021年",
+      "number_one_artist": "BTS",
+      "notes": "初"
+    },
+    {
+      "edition": 55,
+      "year": "2022年",
+      "number_one_artist": "BTS",
+      "notes": "2度目"
+    },
+    {
+      "edition": 56,
+      "year": "2023年",
+      "number_one_artist": "King & Prince",
+      "notes": "初"
+    },
+    {
+      "edition": 57,
+      "year": "2024年",
+      "number_one_artist": "Snow Man",
+      "notes": "初"
+    },
+    {
+      "edition": 58,
+      "year": "2025年",
+      "number_one_artist": "Snow Man",
+      "notes": "2度目"
+    }
+  ],
+  "meta": {
+    "title": "オリコン年間ランキング アーティスト別1位 - Free Download",
+    "description": "オリコン年間ランキングの各年の首位アーティストと備考。 Contains 54 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "オリコン年間ランキング アーティスト別1位 | ListBase",
+    "seo_description": "Download オリコン年間ランキング アーティスト別1位 — 54 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 54 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AA%E3%82%B3%E3%83%B3%E5%B9%B4%E9%96%93%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-27T02:37:41.740Z",
-  "total_datasets": 534,
-  "total_records": 456943,
+  "generated": "2026-10-27T02:37:46.319Z",
+  "total_datasets": 535,
+  "total_records": 456997,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "politics",
@@ -6866,6 +6866,31 @@
         "xlsx": {
           "name": "ja-nihon-yusen-taisho_JA.xlsx",
           "size": 8687
+        }
+      }
+    },
+    {
+      "id": "ja-oricon-nenkan-artist-1i",
+      "name": "オリコン年間ランキング アーティスト別1位",
+      "category": "music",
+      "record_count": 54,
+      "columns": [
+        "edition",
+        "year",
+        "number_one_artist",
+        "notes"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AA%E3%82%B3%E3%83%B3%E5%B9%B4%E9%96%93%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0",
+      "updated": "2026-10",
+      "size": 8511,
+      "files": {
+        "csv": {
+          "name": "ja-oricon-nenkan-artist-1i_JA.csv",
+          "size": 2014
+        },
+        "xlsx": {
+          "name": "ja-oricon-nenkan-artist-1i_JA.xlsx",
+          "size": 8419
         }
       }
     },
