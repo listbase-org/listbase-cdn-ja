@@ -1,0 +1,826 @@
+{
+  "id": "ja-nihon-series-rekidai",
+  "name": "日本シリーズ 歴代優勝チーム一覧 (Japan Series results)",
+  "title": "日本シリーズ 歴代優勝チーム一覧 (Japan Series results)",
+  "description": "プロ野球日本シリーズの歴代開催年、優勝チーム、優勝回数、勝敗成績、敗戦チームの一覧。",
+  "category": "sports",
+  "source": "https://ja.wikipedia.org/wiki/日本シリーズ",
+  "source_url": "https://ja.wikipedia.org/wiki/日本シリーズ",
+  "updated": "2026-10",
+  "record_count": 76,
+  "columns": [
+    {
+      "key": "kai",
+      "label": "Kai",
+      "type": "number"
+    },
+    {
+      "key": "nen",
+      "label": "Nen",
+      "type": "number"
+    },
+    {
+      "key": "yusho_team",
+      "label": "Yusho Team",
+      "type": "string"
+    },
+    {
+      "key": "yusho_kaisu",
+      "label": "Yusho Kaisu",
+      "type": "string"
+    },
+    {
+      "key": "win",
+      "label": "Win",
+      "type": "number"
+    },
+    {
+      "key": "draw",
+      "label": "Draw",
+      "type": "number"
+    },
+    {
+      "key": "lose",
+      "label": "Lose",
+      "type": "number"
+    },
+    {
+      "key": "haisen_team",
+      "label": "Haisen Team",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kai": 1,
+      "nen": 1950,
+      "yusho_team": "毎日オリオンズ",
+      "yusho_kaisu": "初優勝",
+      "win": 4,
+      "draw": "",
+      "lose": 2,
+      "haisen_team": "松竹ロビンス"
+    },
+    {
+      "kai": 2,
+      "nen": 1951,
+      "yusho_team": "読売ジャイアンツ",
+      "yusho_kaisu": "初優勝",
+      "win": 4,
+      "draw": "",
+      "lose": 1,
+      "haisen_team": "南海ホークス"
+    },
+    {
+      "kai": 3,
+      "nen": 1952,
+      "yusho_team": "読売ジャイアンツ",
+      "yusho_kaisu": "02年連続02回目",
+      "win": 4,
+      "draw": "",
+      "lose": 2,
+      "haisen_team": "南海ホークス"
+    },
+    {
+      "kai": 4,
+      "nen": 1953,
+      "yusho_team": "読売ジャイアンツ",
+      "yusho_kaisu": "03年連続03回目",
+      "win": 4,
+      "draw": 1,
+      "lose": 2,
+      "haisen_team": "南海ホークス"
+    },
+    {
+      "kai": 5,
+      "nen": 1954,
+      "yusho_team": "中日ドラゴンズ",
+      "yusho_kaisu": "初優勝",
+      "win": 4,
+      "draw": "",
+      "lose": 3,
+      "haisen_team": "西鉄ライオンズ"
+    },
+    {
+      "kai": 6,
+      "nen": 1955,
+      "yusho_team": "読売ジャイアンツ",
+      "yusho_kaisu": "02年ぶり04回目",
+      "win": 4,
+      "draw": "",
+      "lose": 3,
+      "haisen_team": "南海ホークス"
+    },
+    {
+      "kai": 7,
+      "nen": 1956,
+      "yusho_team": "西鉄ライオンズ",
+      "yusho_kaisu": "初優勝",
+      "win": 4,
+      "draw": "",
+      "lose": 2,
+      "haisen_team": "読売ジャイアンツ"
+    },
+    {
+      "kai": 8,
+      "nen": 1957,
+      "yusho_team": "西鉄ライオンズ",
+      "yusho_kaisu": "02年連続02回目",
+      "win": 4,
+      "draw": 1,
+      "lose": 0,
+      "haisen_team": "読売ジャイアンツ"
+    },
+    {
+      "kai": 9,
+      "nen": 1958,
+      "yusho_team": "西鉄ライオンズ",
+      "yusho_kaisu": "03年連続03回目",
+      "win": 4,
+      "draw": "",
+      "lose": 3,
+      "haisen_team": "読売ジャイアンツ"
+    },
+    {
+      "kai": 10,
+      "nen": 1959,
+      "yusho_team": "南海ホークス",
+      "yusho_kaisu": "初優勝",
+      "win": 4,
+      "draw": "",
+      "lose": 0,
+      "haisen_team": "読売ジャイアンツ"
+    },
+    {
+      "kai": 11,
+      "nen": 1960,
+      "yusho_team": "大洋ホエールズ",
+      "yusho_kaisu": "初優勝",
+      "win": 4,
+      "draw": "",
+      "lose": 0,
+      "haisen_team": "毎日大映オリオンズ"
+    },
+    {
+      "kai": 12,
+      "nen": 1961,
+      "yusho_team": "読売ジャイアンツ",
+      "yusho_kaisu": "06年ぶり05回目",
+      "win": 4,
+      "draw": "",
+      "lose": 2,
+      "haisen_team": "南海ホークス"
+    },
+    {
+      "kai": 13,
+      "nen": 1962,
+      "yusho_team": "東映フライヤーズ",
+      "yusho_kaisu": "初優勝",
+      "win": 4,
+      "draw": 1,
+      "lose": 2,
+      "haisen_team": "阪神タイガース"
+    },
+    {
+      "kai": 14,
+      "nen": 1963,
+      "yusho_team": "読売ジャイアンツ",
+      "yusho_kaisu": "02年ぶり06回目",
+      "win": 4,
+      "draw": "",
+      "lose": 3,
+      "haisen_team": "西鉄ライオンズ"
+    },
+    {
+      "kai": 15,
+      "nen": 1964,
+      "yusho_team": "南海ホークス",
+      "yusho_kaisu": "05年ぶり02回目",
+      "win": 4,
+      "draw": "",
+      "lose": 3,
+      "haisen_team": "阪神タイガース"
+    },
+    {
+      "kai": 16,
+      "nen": 1965,
+      "yusho_team": "読売ジャイアンツ",
+      "yusho_kaisu": "02年ぶり07回目",
+      "win": 4,
+      "draw": "",
+      "lose": 1,
+      "haisen_team": "南海ホークス"
+    },
+    {
+      "kai": 17,
+      "nen": 1966,
+      "yusho_team": "読売ジャイアンツ",
+      "yusho_kaisu": "02年連続08回目",
+      "win": 4,
+      "draw": "",
+      "lose": 2,
+      "haisen_team": "南海ホークス"
+    },
+    {
+      "kai": 18,
+      "nen": 1967,
+      "yusho_team": "読売ジャイアンツ",
+      "yusho_kaisu": "03年連続09回目",
+      "win": 4,
+      "draw": "",
+      "lose": 2,
+      "haisen_team": "阪急ブレーブス"
+    },
+    {
+      "kai": 19,
+      "nen": 1968,
+      "yusho_team": "読売ジャイアンツ",
+      "yusho_kaisu": "04年連続10回目",
+      "win": 4,
+      "draw": "",
+      "lose": 2,
+      "haisen_team": "阪急ブレーブス"
+    },
+    {
+      "kai": 20,
+      "nen": 1969,
+      "yusho_team": "読売ジャイアンツ",
+      "yusho_kaisu": "05年連続11回目",
+      "win": 4,
+      "draw": "",
+      "lose": 2,
+      "haisen_team": "阪急ブレーブス"
+    },
+    {
+      "kai": 21,
+      "nen": 1970,
+      "yusho_team": "読売ジャイアンツ",
+      "yusho_kaisu": "06年連続12回目",
+      "win": 4,
+      "draw": "",
+      "lose": 1,
+      "haisen_team": "ロッテオリオンズ"
+    },
+    {
+      "kai": 22,
+      "nen": 1971,
+      "yusho_team": "読売ジャイアンツ",
+      "yusho_kaisu": "07年連続13回目",
+      "win": 4,
+      "draw": "",
+      "lose": 1,
+      "haisen_team": "阪急ブレーブス"
+    },
+    {
+      "kai": 23,
+      "nen": 1972,
+      "yusho_team": "読売ジャイアンツ",
+      "yusho_kaisu": "08年連続14回目",
+      "win": 4,
+      "draw": "",
+      "lose": 1,
+      "haisen_team": "阪急ブレーブス"
+    },
+    {
+      "kai": 24,
+      "nen": 1973,
+      "yusho_team": "読売ジャイアンツ",
+      "yusho_kaisu": "09年連続15回目",
+      "win": 4,
+      "draw": "",
+      "lose": 1,
+      "haisen_team": "南海ホークス"
+    },
+    {
+      "kai": 25,
+      "nen": 1974,
+      "yusho_team": "ロッテオリオンズ",
+      "yusho_kaisu": "24年ぶり02回目",
+      "win": 4,
+      "draw": "",
+      "lose": 2,
+      "haisen_team": "中日ドラゴンズ"
+    },
+    {
+      "kai": 26,
+      "nen": 1975,
+      "yusho_team": "阪急ブレーブス",
+      "yusho_kaisu": "初優勝",
+      "win": 4,
+      "draw": 2,
+      "lose": 0,
+      "haisen_team": "広島東洋カープ"
+    },
+    {
+      "kai": 27,
+      "nen": 1976,
+      "yusho_team": "阪急ブレーブス",
+      "yusho_kaisu": "02年連続02回目",
+      "win": 4,
+      "draw": "",
+      "lose": 3,
+      "haisen_team": "読売ジャイアンツ"
+    },
+    {
+      "kai": 28,
+      "nen": 1977,
+      "yusho_team": "阪急ブレーブス",
+      "yusho_kaisu": "03年連続03回目",
+      "win": 4,
+      "draw": "",
+      "lose": 1,
+      "haisen_team": "読売ジャイアンツ"
+    },
+    {
+      "kai": 29,
+      "nen": 1978,
+      "yusho_team": "ヤクルトスワローズ",
+      "yusho_kaisu": "初優勝",
+      "win": 4,
+      "draw": "",
+      "lose": 3,
+      "haisen_team": "阪急ブレーブス"
+    },
+    {
+      "kai": 30,
+      "nen": 1979,
+      "yusho_team": "広島東洋カープ",
+      "yusho_kaisu": "初優勝",
+      "win": 4,
+      "draw": "",
+      "lose": 3,
+      "haisen_team": "近鉄バファローズ"
+    },
+    {
+      "kai": 31,
+      "nen": 1980,
+      "yusho_team": "広島東洋カープ",
+      "yusho_kaisu": "02年連続02回目",
+      "win": 4,
+      "draw": "",
+      "lose": 3,
+      "haisen_team": "近鉄バファローズ"
+    },
+    {
+      "kai": 32,
+      "nen": 1981,
+      "yusho_team": "読売ジャイアンツ",
+      "yusho_kaisu": "08年ぶり16回目",
+      "win": 4,
+      "draw": "",
+      "lose": 2,
+      "haisen_team": "日本ハムファイターズ"
+    },
+    {
+      "kai": 33,
+      "nen": 1982,
+      "yusho_team": "西武ライオンズ",
+      "yusho_kaisu": "24年ぶり04回目",
+      "win": 4,
+      "draw": "",
+      "lose": 2,
+      "haisen_team": "中日ドラゴンズ"
+    },
+    {
+      "kai": 34,
+      "nen": 1983,
+      "yusho_team": "西武ライオンズ",
+      "yusho_kaisu": "02年連続05回目",
+      "win": 4,
+      "draw": "",
+      "lose": 3,
+      "haisen_team": "読売ジャイアンツ"
+    },
+    {
+      "kai": 35,
+      "nen": 1984,
+      "yusho_team": "広島東洋カープ",
+      "yusho_kaisu": "04年ぶり03回目",
+      "win": 4,
+      "draw": "",
+      "lose": 3,
+      "haisen_team": "阪急ブレーブス"
+    },
+    {
+      "kai": 36,
+      "nen": 1985,
+      "yusho_team": "阪神タイガース",
+      "yusho_kaisu": "初優勝",
+      "win": 4,
+      "draw": "",
+      "lose": 2,
+      "haisen_team": "西武ライオンズ"
+    },
+    {
+      "kai": 37,
+      "nen": 1986,
+      "yusho_team": "西武ライオンズ",
+      "yusho_kaisu": "03年ぶり06回目",
+      "win": 4,
+      "draw": 1,
+      "lose": 3,
+      "haisen_team": "広島東洋カープ"
+    },
+    {
+      "kai": 38,
+      "nen": 1987,
+      "yusho_team": "西武ライオンズ",
+      "yusho_kaisu": "02年連続07回目",
+      "win": 4,
+      "draw": "",
+      "lose": 2,
+      "haisen_team": "読売ジャイアンツ"
+    },
+    {
+      "kai": 39,
+      "nen": 1988,
+      "yusho_team": "西武ライオンズ",
+      "yusho_kaisu": "03年連続08回目",
+      "win": 4,
+      "draw": "",
+      "lose": 1,
+      "haisen_team": "中日ドラゴンズ"
+    },
+    {
+      "kai": 40,
+      "nen": 1989,
+      "yusho_team": "読売ジャイアンツ",
+      "yusho_kaisu": "08年ぶり17回目",
+      "win": 4,
+      "draw": "",
+      "lose": 3,
+      "haisen_team": "近鉄バファローズ"
+    },
+    {
+      "kai": 41,
+      "nen": 1990,
+      "yusho_team": "西武ライオンズ",
+      "yusho_kaisu": "02年ぶり09回目",
+      "win": 4,
+      "draw": "",
+      "lose": 0,
+      "haisen_team": "読売ジャイアンツ"
+    },
+    {
+      "kai": 42,
+      "nen": 1991,
+      "yusho_team": "西武ライオンズ",
+      "yusho_kaisu": "02年連続10回目",
+      "win": 4,
+      "draw": "",
+      "lose": 3,
+      "haisen_team": "広島東洋カープ"
+    },
+    {
+      "kai": 43,
+      "nen": 1992,
+      "yusho_team": "西武ライオンズ",
+      "yusho_kaisu": "03年連続11回目",
+      "win": 4,
+      "draw": "",
+      "lose": 3,
+      "haisen_team": "ヤクルトスワローズ"
+    },
+    {
+      "kai": 44,
+      "nen": 1993,
+      "yusho_team": "ヤクルトスワローズ",
+      "yusho_kaisu": "15年ぶり02回目",
+      "win": 4,
+      "draw": "",
+      "lose": 3,
+      "haisen_team": "西武ライオンズ"
+    },
+    {
+      "kai": 45,
+      "nen": 1994,
+      "yusho_team": "読売ジャイアンツ",
+      "yusho_kaisu": "05年ぶり18回目",
+      "win": 4,
+      "draw": "",
+      "lose": 2,
+      "haisen_team": "西武ライオンズ"
+    },
+    {
+      "kai": 46,
+      "nen": 1995,
+      "yusho_team": "ヤクルトスワローズ",
+      "yusho_kaisu": "02年ぶり03回目",
+      "win": 4,
+      "draw": "",
+      "lose": 1,
+      "haisen_team": "オリックス・ブルーウェーブ"
+    },
+    {
+      "kai": 47,
+      "nen": 1996,
+      "yusho_team": "オリックス・ブルーウェーブ",
+      "yusho_kaisu": "19年ぶり04回目",
+      "win": 4,
+      "draw": "",
+      "lose": 1,
+      "haisen_team": "読売ジャイアンツ"
+    },
+    {
+      "kai": 48,
+      "nen": 1997,
+      "yusho_team": "ヤクルトスワローズ",
+      "yusho_kaisu": "02年ぶり04回目",
+      "win": 4,
+      "draw": "",
+      "lose": 1,
+      "haisen_team": "西武ライオンズ"
+    },
+    {
+      "kai": 49,
+      "nen": 1998,
+      "yusho_team": "横浜ベイスターズ",
+      "yusho_kaisu": "38年ぶり02回目",
+      "win": 4,
+      "draw": "",
+      "lose": 2,
+      "haisen_team": "西武ライオンズ"
+    },
+    {
+      "kai": 50,
+      "nen": 1999,
+      "yusho_team": "福岡ダイエーホークス",
+      "yusho_kaisu": "35年ぶり03回目",
+      "win": 4,
+      "draw": "",
+      "lose": 1,
+      "haisen_team": "中日ドラゴンズ"
+    },
+    {
+      "kai": 51,
+      "nen": 2000,
+      "yusho_team": "読売ジャイアンツ",
+      "yusho_kaisu": "06年ぶり19回目",
+      "win": 4,
+      "draw": "",
+      "lose": 2,
+      "haisen_team": "福岡ダイエーホークス"
+    },
+    {
+      "kai": 52,
+      "nen": 2001,
+      "yusho_team": "ヤクルトスワローズ",
+      "yusho_kaisu": "04年ぶり05回目",
+      "win": 4,
+      "draw": "",
+      "lose": 1,
+      "haisen_team": "大阪近鉄バファローズ"
+    },
+    {
+      "kai": 53,
+      "nen": 2002,
+      "yusho_team": "読売ジャイアンツ",
+      "yusho_kaisu": "02年ぶり20回目",
+      "win": 4,
+      "draw": "",
+      "lose": 0,
+      "haisen_team": "西武ライオンズ"
+    },
+    {
+      "kai": 54,
+      "nen": 2003,
+      "yusho_team": "福岡ダイエーホークス",
+      "yusho_kaisu": "04年ぶり04回目",
+      "win": 4,
+      "draw": "",
+      "lose": 3,
+      "haisen_team": "阪神タイガース"
+    },
+    {
+      "kai": 55,
+      "nen": 2004,
+      "yusho_team": "西武ライオンズ",
+      "yusho_kaisu": "12年ぶり12回目",
+      "win": 4,
+      "draw": "",
+      "lose": 3,
+      "haisen_team": "中日ドラゴンズ"
+    },
+    {
+      "kai": 56,
+      "nen": 2005,
+      "yusho_team": "千葉ロッテマリーンズ",
+      "yusho_kaisu": "31年ぶり03回目",
+      "win": 4,
+      "draw": "",
+      "lose": 0,
+      "haisen_team": "阪神タイガース"
+    },
+    {
+      "kai": 57,
+      "nen": 2006,
+      "yusho_team": "北海道日本ハムファイターズ",
+      "yusho_kaisu": "44年ぶり02回目",
+      "win": 4,
+      "draw": "",
+      "lose": 1,
+      "haisen_team": "中日ドラゴンズ"
+    },
+    {
+      "kai": 58,
+      "nen": 2007,
+      "yusho_team": "中日ドラゴンズ2",
+      "yusho_kaisu": "53年ぶり02回目",
+      "win": 4,
+      "draw": "",
+      "lose": 1,
+      "haisen_team": "北海道日本ハムファイターズ"
+    },
+    {
+      "kai": 59,
+      "nen": 2008,
+      "yusho_team": "埼玉西武ライオンズ",
+      "yusho_kaisu": "04年ぶり13回目",
+      "win": 4,
+      "draw": "",
+      "lose": 3,
+      "haisen_team": "読売ジャイアンツ"
+    },
+    {
+      "kai": 60,
+      "nen": 2009,
+      "yusho_team": "読売ジャイアンツ",
+      "yusho_kaisu": "07年ぶり21回目",
+      "win": 4,
+      "draw": "",
+      "lose": 2,
+      "haisen_team": "北海道日本ハムファイターズ"
+    },
+    {
+      "kai": 61,
+      "nen": 2010,
+      "yusho_team": "千葉ロッテマリーンズ3",
+      "yusho_kaisu": "05年ぶり04回目",
+      "win": 4,
+      "draw": 1,
+      "lose": 2,
+      "haisen_team": "中日ドラゴンズ"
+    },
+    {
+      "kai": 62,
+      "nen": 2011,
+      "yusho_team": "福岡ソフトバンクホークス",
+      "yusho_kaisu": "08年ぶり05回目",
+      "win": 4,
+      "draw": "",
+      "lose": 3,
+      "haisen_team": "中日ドラゴンズ"
+    },
+    {
+      "kai": 63,
+      "nen": 2012,
+      "yusho_team": "読売ジャイアンツ",
+      "yusho_kaisu": "03年ぶり22回目",
+      "win": 4,
+      "draw": "",
+      "lose": 2,
+      "haisen_team": "北海道日本ハムファイターズ"
+    },
+    {
+      "kai": 64,
+      "nen": 2013,
+      "yusho_team": "東北楽天ゴールデンイーグルス",
+      "yusho_kaisu": "初優勝",
+      "win": 4,
+      "draw": "",
+      "lose": 3,
+      "haisen_team": "読売ジャイアンツ"
+    },
+    {
+      "kai": 65,
+      "nen": 2014,
+      "yusho_team": "福岡ソフトバンクホークス",
+      "yusho_kaisu": "03年ぶり06回目",
+      "win": 4,
+      "draw": "",
+      "lose": 1,
+      "haisen_team": "阪神タイガース2"
+    },
+    {
+      "kai": 66,
+      "nen": 2015,
+      "yusho_team": "福岡ソフトバンクホークス",
+      "yusho_kaisu": "02年連続07回目",
+      "win": 4,
+      "draw": "",
+      "lose": 1,
+      "haisen_team": "東京ヤクルトスワローズ"
+    },
+    {
+      "kai": 67,
+      "nen": 2016,
+      "yusho_team": "北海道日本ハムファイターズ",
+      "yusho_kaisu": "10年ぶり03回目",
+      "win": 4,
+      "draw": "",
+      "lose": 2,
+      "haisen_team": "広島東洋カープ"
+    },
+    {
+      "kai": 68,
+      "nen": 2017,
+      "yusho_team": "福岡ソフトバンクホークス",
+      "yusho_kaisu": "02年ぶり08回目",
+      "win": 4,
+      "draw": "",
+      "lose": 2,
+      "haisen_team": "横浜DeNAベイスターズ3"
+    },
+    {
+      "kai": 69,
+      "nen": 2018,
+      "yusho_team": "福岡ソフトバンクホークス2",
+      "yusho_kaisu": "02年連続09回目",
+      "win": 4,
+      "draw": 1,
+      "lose": 1,
+      "haisen_team": "広島東洋カープ"
+    },
+    {
+      "kai": 70,
+      "nen": 2019,
+      "yusho_team": "福岡ソフトバンクホークス2",
+      "yusho_kaisu": "03年連続10回目",
+      "win": 4,
+      "draw": "",
+      "lose": 0,
+      "haisen_team": "読売ジャイアンツ"
+    },
+    {
+      "kai": 71,
+      "nen": 2020,
+      "yusho_team": "福岡ソフトバンクホークス",
+      "yusho_kaisu": "04年連続11回目",
+      "win": 4,
+      "draw": "",
+      "lose": 0,
+      "haisen_team": "読売ジャイアンツ"
+    },
+    {
+      "kai": 72,
+      "nen": 2021,
+      "yusho_team": "東京ヤクルトスワローズ",
+      "yusho_kaisu": "20年ぶり06回目",
+      "win": 4,
+      "draw": "",
+      "lose": 2,
+      "haisen_team": "オリックス・バファローズ"
+    },
+    {
+      "kai": 73,
+      "nen": 2022,
+      "yusho_team": "オリックス・バファローズ",
+      "yusho_kaisu": "26年ぶり05回目",
+      "win": 4,
+      "draw": 1,
+      "lose": 2,
+      "haisen_team": "東京ヤクルトスワローズ"
+    },
+    {
+      "kai": 74,
+      "nen": 2023,
+      "yusho_team": "阪神タイガース",
+      "yusho_kaisu": "38年ぶり02回目",
+      "win": 4,
+      "draw": "",
+      "lose": 3,
+      "haisen_team": "オリックス・バファローズ"
+    },
+    {
+      "kai": 75,
+      "nen": 2024,
+      "yusho_team": "横浜DeNAベイスターズ3",
+      "yusho_kaisu": "26年ぶり03回目",
+      "win": 4,
+      "draw": "",
+      "lose": 2,
+      "haisen_team": "福岡ソフトバンクホークス"
+    },
+    {
+      "kai": 76,
+      "nen": 2025,
+      "yusho_team": "福岡ソフトバンクホークス",
+      "yusho_kaisu": "05年ぶり12回目",
+      "win": 4,
+      "draw": "",
+      "lose": 1,
+      "haisen_team": "阪神タイガース"
+    }
+  ],
+  "meta": {
+    "title": "日本シリーズ 歴代優勝チーム一覧 (Japan Series results) - Free Download",
+    "description": "プロ野球日本シリーズの歴代開催年、優勝チーム、優勝回数、勝敗成績、敗戦チームの一覧。 Contains 76 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本シリーズ 歴代優勝チーム一覧 (Japan Series results) | ListBase",
+    "seo_description": "Download 日本シリーズ 歴代優勝チーム一覧 (Japan Series results) — 76 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 76 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/日本シリーズ"
+    ]
+  }
+}

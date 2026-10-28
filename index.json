@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-27T02:38:20.427Z",
-  "total_datasets": 543,
-  "total_records": 457193,
+  "generated": "2026-10-28T02:16:18.574Z",
+  "total_datasets": 544,
+  "total_records": 457269,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tech",
@@ -14453,6 +14453,35 @@
         "xlsx": {
           "name": "ja-hakone-ekiden-yushoko_JA.xlsx",
           "size": 12547
+        }
+      }
+    },
+    {
+      "id": "ja-nihon-series-rekidai",
+      "name": "日本シリーズ 歴代優勝チーム一覧 (Japan Series results)",
+      "category": "sports",
+      "record_count": 76,
+      "columns": [
+        "kai",
+        "nen",
+        "yusho_team",
+        "yusho_kaisu",
+        "win",
+        "draw",
+        "lose",
+        "haisen_team"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/日本シリーズ",
+      "updated": "2026-10",
+      "size": 20299,
+      "files": {
+        "csv": {
+          "name": "ja-nihon-series-rekidai_JA.csv",
+          "size": 7613
+        },
+        "xlsx": {
+          "name": "ja-nihon-series-rekidai_JA.xlsx",
+          "size": 10290
         }
       }
     },
