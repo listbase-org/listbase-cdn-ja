@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-28T02:16:31.319Z",
+  "generated": "2026-10-28T02:17:07.782Z",
   "total_datasets": 547,
-  "total_records": 457481,
+  "total_records": 457686,
   "categories": [
     {
       "id": "agriculture",
@@ -955,10 +955,11 @@
       "id": "ja-honya-taisho",
       "name": "本屋大賞 歴代ノミネート作品・順位一覧 (Japan Booksellers' Award)",
       "category": "entertainment",
-      "record_count": 81,
+      "record_count": 286,
       "columns": [
         "nen",
         "kai",
+        "bumon",
         "juni",
         "sakuhin",
         "chosha",
@@ -968,15 +969,15 @@
       ],
       "source": "https://ja.wikipedia.org/wiki/本屋大賞",
       "updated": "2026-10",
-      "size": 26340,
+      "size": 92696,
       "files": {
         "csv": {
           "name": "ja-honya-taisho_JA.csv",
-          "size": 12961
+          "size": 45963
         },
         "xlsx": {
           "name": "ja-honya-taisho_JA.xlsx",
-          "size": 13064
+          "size": 27672
         }
       }
     },
