@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-28T02:16:18.574Z",
-  "total_datasets": 544,
-  "total_records": 457269,
+  "generated": "2026-10-28T02:16:23.020Z",
+  "total_datasets": 545,
+  "total_records": 457290,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "music",
@@ -6752,6 +6752,39 @@
         "xlsx": {
           "name": "ja-rodo-horei_JA.xlsx",
           "size": 14203
+        }
+      }
+    },
+    {
+      "id": "ja-saikosai-chokan",
+      "name": "最高裁判所長官 歴代一覧 (Chief Justices of the Supreme Court of Japan)",
+      "category": "law",
+      "record_count": 21,
+      "columns": [
+        "dai",
+        "shimei",
+        "hanji_ninmei",
+        "chokan_ninmei",
+        "tainin",
+        "shusshin_bunya",
+        "shusshinko",
+        "shushuki",
+        "zenshoku",
+        "shimei_naikaku",
+        "ninmei_tenno",
+        "fushinninritsu"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/最高裁判所長官",
+      "updated": "2026-10",
+      "size": 12897,
+      "files": {
+        "csv": {
+          "name": "ja-saikosai-chokan_JA.csv",
+          "size": 4958
+        },
+        "xlsx": {
+          "name": "ja-saikosai-chokan_JA.xlsx",
+          "size": 9349
         }
       }
     },

@@ -1,0 +1,380 @@
+{
+  "id": "ja-saikosai-chokan",
+  "name": "最高裁判所長官 歴代一覧 (Chief Justices of the Supreme Court of Japan)",
+  "title": "最高裁判所長官 歴代一覧 (Chief Justices of the Supreme Court of Japan)",
+  "description": "日本の歴代最高裁判所長官の氏名、任命・退任年月日、出身分野、出身校、前職、指名した内閣などの一覧。",
+  "category": "law",
+  "source": "https://ja.wikipedia.org/wiki/最高裁判所長官",
+  "source_url": "https://ja.wikipedia.org/wiki/最高裁判所長官",
+  "updated": "2026-10",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "dai",
+      "label": "Dai",
+      "type": "number"
+    },
+    {
+      "key": "shimei",
+      "label": "Shimei",
+      "type": "string"
+    },
+    {
+      "key": "hanji_ninmei",
+      "label": "Hanji Ninmei",
+      "type": "string"
+    },
+    {
+      "key": "chokan_ninmei",
+      "label": "Chokan Ninmei",
+      "type": "string"
+    },
+    {
+      "key": "tainin",
+      "label": "Tainin",
+      "type": "string"
+    },
+    {
+      "key": "shusshin_bunya",
+      "label": "Shusshin Bunya",
+      "type": "string"
+    },
+    {
+      "key": "shusshinko",
+      "label": "Shusshinko",
+      "type": "string"
+    },
+    {
+      "key": "shushuki",
+      "label": "Shushuki",
+      "type": "string"
+    },
+    {
+      "key": "zenshoku",
+      "label": "Zenshoku",
+      "type": "string"
+    },
+    {
+      "key": "shimei_naikaku",
+      "label": "Shimei Naikaku",
+      "type": "string"
+    },
+    {
+      "key": "ninmei_tenno",
+      "label": "Ninmei Tenno",
+      "type": "string"
+    },
+    {
+      "key": "fushinninritsu",
+      "label": "Fushinninritsu",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "dai": 1,
+      "shimei": "三淵忠彦",
+      "hanji_ninmei": "－",
+      "chokan_ninmei": "1947年（昭和22年）8月4日",
+      "tainin": "1950年（昭和25年）3月2日",
+      "shusshin_bunya": "裁判官",
+      "shusshinko": "京大",
+      "shushuki": "",
+      "zenshoku": "東京控訴院部長、三井信託銀行法律顧問、慶應義塾大学講師",
+      "shimei_naikaku": "片山内閣",
+      "ninmei_tenno": "昭和天皇",
+      "fushinninritsu": "5.54%"
+    },
+    {
+      "dai": 2,
+      "shimei": "田中耕太郎",
+      "hanji_ninmei": "－",
+      "chokan_ninmei": "1950年（昭和25年）3月3日",
+      "tainin": "1960年（昭和35年）10月24日",
+      "shusshin_bunya": "法学者",
+      "shusshinko": "東大",
+      "shushuki": "",
+      "zenshoku": "参議院議員、学習院大学教授",
+      "shimei_naikaku": "第3次吉田内閣",
+      "ninmei_tenno": "昭和天皇",
+      "fushinninritsu": "8.13%"
+    },
+    {
+      "dai": 3,
+      "shimei": "横田喜三郎",
+      "hanji_ninmei": "－",
+      "chokan_ninmei": "1960年（昭和35年）10月25日",
+      "tainin": "1966年（昭和41年）8月5日",
+      "shusshin_bunya": "法学者",
+      "shusshinko": "東大",
+      "shushuki": "",
+      "zenshoku": "東京大学教授、外務省参与",
+      "shimei_naikaku": "第1次池田内閣",
+      "ninmei_tenno": "昭和天皇",
+      "fushinninritsu": "8.23%"
+    },
+    {
+      "dai": 4,
+      "shimei": "横田正俊",
+      "hanji_ninmei": "1962年（昭和37年）2月28日",
+      "chokan_ninmei": "1966年（昭和41年）8月6日",
+      "tainin": "1969年（昭和44年）1月10日",
+      "shusshin_bunya": "裁判官",
+      "shusshinko": "東大",
+      "shushuki": "",
+      "zenshoku": "東京高等裁判所長官",
+      "shimei_naikaku": "第1次佐藤内閣（2改）",
+      "ninmei_tenno": "昭和天皇",
+      "fushinninritsu": "7.08%"
+    },
+    {
+      "dai": 5,
+      "shimei": "石田和外",
+      "hanji_ninmei": "1963年（昭和38年）6月6日",
+      "chokan_ninmei": "1969年（昭和44年）1月11日",
+      "tainin": "1973年（昭和48年）5月19日",
+      "shusshin_bunya": "裁判官",
+      "shusshinko": "東大",
+      "shushuki": "",
+      "zenshoku": "東京高等裁判所長官",
+      "shimei_naikaku": "第2次佐藤内閣（2改）",
+      "ninmei_tenno": "昭和天皇",
+      "fushinninritsu": "7.13%"
+    },
+    {
+      "dai": 6,
+      "shimei": "村上朝一",
+      "hanji_ninmei": "1968年（昭和43年）11月19日",
+      "chokan_ninmei": "1973年（昭和48年）5月21日",
+      "tainin": "1976年（昭和51年）5月24日",
+      "shusshin_bunya": "裁判官",
+      "shusshinko": "東大",
+      "shushuki": "",
+      "zenshoku": "東京高等裁判所長官",
+      "shimei_naikaku": "第2次田中角栄内閣",
+      "ninmei_tenno": "昭和天皇",
+      "fushinninritsu": "10.33%"
+    },
+    {
+      "dai": 7,
+      "shimei": "藤林益三",
+      "hanji_ninmei": "1970年（昭和45年）7月31日",
+      "chokan_ninmei": "1976年（昭和51年）5月25日",
+      "tainin": "1977年（昭和52年）8月25日",
+      "shusshin_bunya": "弁護士",
+      "shusshinko": "東大",
+      "shushuki": "",
+      "zenshoku": "第一東京弁護士会所属弁護士",
+      "shimei_naikaku": "三木内閣",
+      "ninmei_tenno": "昭和天皇",
+      "fushinninritsu": "12.09%"
+    },
+    {
+      "dai": 8,
+      "shimei": "岡原昌男",
+      "hanji_ninmei": "1970年（昭和45年）10月28日",
+      "chokan_ninmei": "1977年（昭和52年）8月26日",
+      "tainin": "1979年（昭和54年）3月31日",
+      "shusshin_bunya": "検察官",
+      "shusshinko": "東大",
+      "shushuki": "",
+      "zenshoku": "大阪高等検察庁検事長",
+      "shimei_naikaku": "福田赳夫内閣",
+      "ninmei_tenno": "昭和天皇",
+      "fushinninritsu": "12.21%"
+    },
+    {
+      "dai": 9,
+      "shimei": "服部高顯",
+      "hanji_ninmei": "1975年（昭和50年）12月3日",
+      "chokan_ninmei": "1979年（昭和54年）4月2日",
+      "tainin": "1982年（昭和57年）9月30日",
+      "shusshin_bunya": "裁判官",
+      "shusshinko": "東大",
+      "shushuki": "",
+      "zenshoku": "大阪高等裁判所長官",
+      "shimei_naikaku": "第1次大平内閣",
+      "ninmei_tenno": "昭和天皇",
+      "fushinninritsu": "11.07%"
+    },
+    {
+      "dai": 10,
+      "shimei": "寺田治郎",
+      "hanji_ninmei": "1980年（昭和55年）3月22日",
+      "chokan_ninmei": "1982年（昭和57年）10月1日",
+      "tainin": "1985年（昭和60年）11月3日",
+      "shusshin_bunya": "裁判官",
+      "shusshinko": "東大",
+      "shushuki": "",
+      "zenshoku": "東京高等裁判所長官",
+      "shimei_naikaku": "鈴木善幸内閣（改）",
+      "ninmei_tenno": "昭和天皇",
+      "fushinninritsu": "14.63%"
+    },
+    {
+      "dai": 11,
+      "shimei": "矢口洪一",
+      "hanji_ninmei": "1984年（昭和59年）2月20日",
+      "chokan_ninmei": "1985年（昭和60年）11月5日",
+      "tainin": "1990年（平成2年）2月19日",
+      "shusshin_bunya": "裁判官",
+      "shusshinko": "京大",
+      "shushuki": "高輪, 1期",
+      "zenshoku": "東京高等裁判所長官",
+      "shimei_naikaku": "第2次中曽根内閣（1改）",
+      "ninmei_tenno": "昭和天皇",
+      "fushinninritsu": "10.80%"
+    },
+    {
+      "dai": 12,
+      "shimei": "草場良八",
+      "hanji_ninmei": "1989年（平成元年）11月27日",
+      "chokan_ninmei": "1990年（平成2年）2月20日",
+      "tainin": "1995年（平成7年）11月7日",
+      "shusshin_bunya": "裁判官",
+      "shusshinko": "東大",
+      "shushuki": "3期",
+      "zenshoku": "東京高等裁判所長官",
+      "shimei_naikaku": "第1次海部内閣",
+      "ninmei_tenno": "明仁",
+      "fushinninritsu": "11.10%"
+    },
+    {
+      "dai": 13,
+      "shimei": "三好達",
+      "hanji_ninmei": "1992年（平成4年）3月25日",
+      "chokan_ninmei": "1995年（平成7年）11月7日",
+      "tainin": "1997年（平成9年）10月30日",
+      "shusshin_bunya": "裁判官",
+      "shusshinko": "海兵, 東大",
+      "shushuki": "7期",
+      "zenshoku": "東京高等裁判所長官",
+      "shimei_naikaku": "村山内閣（改）",
+      "ninmei_tenno": "明仁",
+      "fushinninritsu": "7.99%"
+    },
+    {
+      "dai": 14,
+      "shimei": "山口繁",
+      "hanji_ninmei": "1997年（平成9年）3月10日",
+      "chokan_ninmei": "1997年（平成9年）10月31日",
+      "tainin": "2002年（平成14年）11月3日",
+      "shusshin_bunya": "裁判官",
+      "shusshinko": "京大",
+      "shushuki": "9期",
+      "zenshoku": "福岡高等裁判所長官",
+      "shimei_naikaku": "第2次橋本内閣（改）",
+      "ninmei_tenno": "明仁",
+      "fushinninritsu": "9.61%"
+    },
+    {
+      "dai": 15,
+      "shimei": "町田顯",
+      "hanji_ninmei": "2000年（平成12年）3月22日",
+      "chokan_ninmei": "2002年（平成14年）11月6日",
+      "tainin": "2006年（平成18年）10月15日",
+      "shusshin_bunya": "裁判官",
+      "shusshinko": "東大",
+      "shushuki": "13期",
+      "zenshoku": "東京高等裁判所長官",
+      "shimei_naikaku": "第1次小泉内閣（1改）",
+      "ninmei_tenno": "明仁",
+      "fushinninritsu": "9.37%"
+    },
+    {
+      "dai": 16,
+      "shimei": "島田仁郎",
+      "hanji_ninmei": "2002年（平成14年）11月7日",
+      "chokan_ninmei": "2006年（平成18年）10月16日",
+      "tainin": "2008年（平成20年）11月21日",
+      "shusshin_bunya": "裁判官",
+      "shusshinko": "東大",
+      "shushuki": "16期",
+      "zenshoku": "大阪高等裁判所長官",
+      "shimei_naikaku": "第1次安倍内閣",
+      "ninmei_tenno": "明仁",
+      "fushinninritsu": "6.93%"
+    },
+    {
+      "dai": 17,
+      "shimei": "竹﨑博允",
+      "hanji_ninmei": "－",
+      "chokan_ninmei": "2008年（平成20年）11月25日",
+      "tainin": "2014年（平成26年）3月31日",
+      "shusshin_bunya": "裁判官",
+      "shusshinko": "東大",
+      "shushuki": "21期",
+      "zenshoku": "東京高等裁判所長官",
+      "shimei_naikaku": "麻生内閣",
+      "ninmei_tenno": "明仁",
+      "fushinninritsu": "6.25%"
+    },
+    {
+      "dai": 18,
+      "shimei": "寺田逸郎",
+      "hanji_ninmei": "2010年（平成22年）12月27日",
+      "chokan_ninmei": "2014年（平成26年）4月1日",
+      "tainin": "2018年（平成30年）1月8日",
+      "shusshin_bunya": "裁判官",
+      "shusshinko": "東大",
+      "shushuki": "26期",
+      "zenshoku": "広島高等裁判所長官",
+      "shimei_naikaku": "第2次安倍内閣",
+      "ninmei_tenno": "明仁",
+      "fushinninritsu": "7.95%"
+    },
+    {
+      "dai": 19,
+      "shimei": "大谷直人",
+      "hanji_ninmei": "2015年（平成27年）2月17日",
+      "chokan_ninmei": "2018年（平成30年）1月9日",
+      "tainin": "2022年（令和4年）6月22日",
+      "shusshin_bunya": "裁判官",
+      "shusshinko": "東大",
+      "shushuki": "29期",
+      "zenshoku": "大阪高等裁判所長官",
+      "shimei_naikaku": "第4次安倍内閣",
+      "ninmei_tenno": "明仁",
+      "fushinninritsu": "7.96%"
+    },
+    {
+      "dai": 20,
+      "shimei": "戸倉三郎",
+      "hanji_ninmei": "2017年（平成29年）3月14日",
+      "chokan_ninmei": "2022年（令和4年）6月24日",
+      "tainin": "2024年（令和6年）8月10日",
+      "shusshin_bunya": "裁判官",
+      "shusshinko": "一橋大",
+      "shushuki": "34期",
+      "zenshoku": "東京高等裁判所長官",
+      "shimei_naikaku": "第2次岸田内閣",
+      "ninmei_tenno": "徳仁",
+      "fushinninritsu": "8.53%"
+    },
+    {
+      "dai": 21,
+      "shimei": "今崎幸彦",
+      "hanji_ninmei": "2022年（令和4年）6月24日",
+      "chokan_ninmei": "2024年（令和6年）8月16日",
+      "tainin": "2027年（令和9年）11月9日（予定）",
+      "shusshin_bunya": "裁判官",
+      "shusshinko": "京大",
+      "shushuki": "35期",
+      "zenshoku": "東京高等裁判所長官",
+      "shimei_naikaku": "第2次岸田内閣（2改）",
+      "ninmei_tenno": "徳仁",
+      "fushinninritsu": "11.46%"
+    }
+  ],
+  "meta": {
+    "title": "最高裁判所長官 歴代一覧 (Chief Justices of the Supreme Court of Japan) - Free Download",
+    "description": "日本の歴代最高裁判所長官の氏名、任命・退任年月日、出身分野、出身校、前職、指名した内閣などの一覧。 Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "最高裁判所長官 歴代一覧 (Chief Justices of the Supreme Court of Japan) | ListBase",
+    "seo_description": "Download 最高裁判所長官 歴代一覧 (Chief Justices of the Supreme Court of Japan) — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/最高裁判所長官"
+    ]
+  }
+}
