@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-28T02:17:07.782Z",
-  "total_datasets": 547,
-  "total_records": 457686,
+  "generated": "2026-10-28T02:17:46.538Z",
+  "total_datasets": 548,
+  "total_records": 457696,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "society",
@@ -14269,6 +14269,32 @@
         "xlsx": {
           "name": "ja-gakkai-ichiran_JA.xlsx",
           "size": 9855
+        }
+      }
+    },
+    {
+      "id": "ja-jishin-shisha-joi",
+      "name": "日本の地震 死者・行方不明者数上位 (Deadliest earthquakes in Japan)",
+      "category": "science",
+      "record_count": 10,
+      "columns": [
+        "juni",
+        "meisho",
+        "hasseibi",
+        "shisha_yukuefumei",
+        "kibo_m"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/日本の地震年表",
+      "updated": "2026-10",
+      "size": 3600,
+      "files": {
+        "csv": {
+          "name": "ja-jishin-shisha-joi_JA.csv",
+          "size": 689
+        },
+        "xlsx": {
+          "name": "ja-jishin-shisha-joi_JA.xlsx",
+          "size": 7300
         }
       }
     },

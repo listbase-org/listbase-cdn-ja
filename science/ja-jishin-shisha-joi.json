@@ -1,0 +1,121 @@
+{
+  "id": "ja-jishin-shisha-joi",
+  "name": "日本の地震 死者・行方不明者数上位 (Deadliest earthquakes in Japan)",
+  "title": "日本の地震 死者・行方不明者数上位 (Deadliest earthquakes in Japan)",
+  "description": "日本で発生した地震のうち死者・行方不明者数が多い上位の地震の名称、発生日、被害者数、マグニチュード。",
+  "category": "science",
+  "source": "https://ja.wikipedia.org/wiki/日本の地震年表",
+  "source_url": "https://ja.wikipedia.org/wiki/日本の地震年表",
+  "updated": "2026-10",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "juni",
+      "label": "Juni",
+      "type": "number"
+    },
+    {
+      "key": "meisho",
+      "label": "Meisho",
+      "type": "string"
+    },
+    {
+      "key": "hasseibi",
+      "label": "Hasseibi",
+      "type": "string"
+    },
+    {
+      "key": "shisha_yukuefumei",
+      "label": "Shisha Yukuefumei",
+      "type": "number"
+    },
+    {
+      "key": "kibo_m",
+      "label": "Kibo M",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "juni": 1,
+      "meisho": "関東地震（関東大震災）",
+      "hasseibi": "1923年9月1日",
+      "shisha_yukuefumei": 105385,
+      "kibo_m": 7.9
+    },
+    {
+      "juni": 2,
+      "meisho": "東北地方太平洋沖地震（東日本大震災）",
+      "hasseibi": "2011年3月11日",
+      "shisha_yukuefumei": 22312,
+      "kibo_m": 9
+    },
+    {
+      "juni": 3,
+      "meisho": "明治三陸地震",
+      "hasseibi": "1896年6月15日",
+      "shisha_yukuefumei": 21959,
+      "kibo_m": 8.2
+    },
+    {
+      "juni": 4,
+      "meisho": "濃尾地震",
+      "hasseibi": "1891年10月28日",
+      "shisha_yukuefumei": 7273,
+      "kibo_m": 8
+    },
+    {
+      "juni": 5,
+      "meisho": "兵庫県南部地震（阪神・淡路大震災）",
+      "hasseibi": "1995年1月17日",
+      "shisha_yukuefumei": 6437,
+      "kibo_m": 7.3
+    },
+    {
+      "juni": 6,
+      "meisho": "福井地震",
+      "hasseibi": "1948年6月28日",
+      "shisha_yukuefumei": 3769,
+      "kibo_m": 7.1
+    },
+    {
+      "juni": 7,
+      "meisho": "昭和三陸地震",
+      "hasseibi": "1933年3月3日",
+      "shisha_yukuefumei": 3064,
+      "kibo_m": 8.1
+    },
+    {
+      "juni": 8,
+      "meisho": "北丹後地震",
+      "hasseibi": "1927年3月7日",
+      "shisha_yukuefumei": 2912,
+      "kibo_m": 7.3
+    },
+    {
+      "juni": 9,
+      "meisho": "三河地震",
+      "hasseibi": "1945年1月13日",
+      "shisha_yukuefumei": 1961,
+      "kibo_m": 6.8
+    },
+    {
+      "juni": 10,
+      "meisho": "昭和南海地震",
+      "hasseibi": "1946年12月21日",
+      "shisha_yukuefumei": 1443,
+      "kibo_m": 8
+    }
+  ],
+  "meta": {
+    "title": "日本の地震 死者・行方不明者数上位 (Deadliest earthquakes in Japan) - Free Download",
+    "description": "日本で発生した地震のうち死者・行方不明者数が多い上位の地震の名称、発生日、被害者数、マグニチュード。 Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の地震 死者・行方不明者数上位 (Deadliest earthquakes in Japan) | ListBase",
+    "seo_description": "Download 日本の地震 死者・行方不明者数上位 (Deadliest earthquakes in Japan) — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/日本の地震年表"
+    ]
+  }
+}
