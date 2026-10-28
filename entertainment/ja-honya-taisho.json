@@ -1,0 +1,876 @@
+{
+  "id": "ja-honya-taisho",
+  "name": "本屋大賞 歴代ノミネート作品・順位一覧 (Japan Booksellers' Award)",
+  "title": "本屋大賞 歴代ノミネート作品・順位一覧 (Japan Booksellers' Award)",
+  "description": "全国の書店員が選ぶ本屋大賞の各回の順位、作品名、著者、得点、出版社、メディア展開の一覧。",
+  "category": "entertainment",
+  "source": "https://ja.wikipedia.org/wiki/本屋大賞",
+  "source_url": "https://ja.wikipedia.org/wiki/本屋大賞",
+  "updated": "2026-10",
+  "record_count": 81,
+  "columns": [
+    {
+      "key": "nen",
+      "label": "Nen",
+      "type": "number"
+    },
+    {
+      "key": "kai",
+      "label": "Kai",
+      "type": "string"
+    },
+    {
+      "key": "juni",
+      "label": "Juni",
+      "type": "number"
+    },
+    {
+      "key": "sakuhin",
+      "label": "Sakuhin",
+      "type": "string"
+    },
+    {
+      "key": "chosha",
+      "label": "Chosha",
+      "type": "string"
+    },
+    {
+      "key": "tokuten",
+      "label": "Tokuten",
+      "type": "string"
+    },
+    {
+      "key": "shuppansha",
+      "label": "Shuppansha",
+      "type": "string"
+    },
+    {
+      "key": "biko",
+      "label": "Biko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nen": 2004,
+      "kai": "2004年（第1回）",
+      "juni": 1,
+      "sakuhin": "博士の愛した数式",
+      "chosha": "小川洋子",
+      "tokuten": "202点",
+      "shuppansha": "新潮社",
+      "biko": "第55回読売文学賞受賞作 2006年1月映画化 2006年3月ラジオドラマ化"
+    },
+    {
+      "nen": 2004,
+      "kai": "2004年（第1回）",
+      "juni": 2,
+      "sakuhin": "クライマーズ・ハイ",
+      "chosha": "横山秀夫",
+      "tokuten": "148点",
+      "shuppansha": "文藝春秋",
+      "biko": "『週刊文春ミステリーベスト10』2003年版1位 2005年12月テレビドラマ化 2008年7月映画化"
+    },
+    {
+      "nen": 2004,
+      "kai": "2004年（第1回）",
+      "juni": 3,
+      "sakuhin": "アヒルと鴨のコインロッカー",
+      "chosha": "伊坂幸太郎",
+      "tokuten": "111点",
+      "shuppansha": "東京創元社",
+      "biko": "第25回吉川英治文学新人賞受賞作 2007年5月映画化"
+    },
+    {
+      "nen": 2004,
+      "kai": "2004年（第1回）",
+      "juni": 4,
+      "sakuhin": "永遠の出口",
+      "chosha": "森絵都",
+      "tokuten": "109点",
+      "shuppansha": "集英社",
+      "biko": ""
+    },
+    {
+      "nen": 2004,
+      "kai": "2004年（第1回）",
+      "juni": 5,
+      "sakuhin": "重力ピエロ",
+      "chosha": "伊坂幸太郎",
+      "tokuten": "99点",
+      "shuppansha": "新潮社",
+      "biko": "2009年5月映画化"
+    },
+    {
+      "nen": 2004,
+      "kai": "2004年（第1回）",
+      "juni": 6,
+      "sakuhin": "4TEEN",
+      "chosha": "石田衣良",
+      "tokuten": "76点",
+      "shuppansha": "新潮社",
+      "biko": "第129回直木賞受賞作 2004年漫画化 2004年7月テレビドラマ化"
+    },
+    {
+      "nen": 2004,
+      "kai": "2004年（第1回）",
+      "juni": 7,
+      "sakuhin": "デッドエンドの思い出",
+      "chosha": "よしもとばなな",
+      "tokuten": "54点",
+      "shuppansha": "文藝春秋",
+      "biko": "2018年映画化"
+    },
+    {
+      "nen": 2004,
+      "kai": "2004年（第1回）",
+      "juni": 8,
+      "sakuhin": "終戦のローレライ",
+      "chosha": "福井晴敏",
+      "tokuten": "51点",
+      "shuppansha": "講談社",
+      "biko": "第24回吉川英治文学新人賞受賞作 第21回日本冒険小説協会大賞日本軍大賞受賞作 2005年3月漫画化 2005年7月『ローレライ』として映画化"
+    },
+    {
+      "nen": 2004,
+      "kai": "2004年（第1回）",
+      "juni": 9,
+      "sakuhin": "陰摩羅鬼の瑕",
+      "chosha": "京極夏彦",
+      "tokuten": "38点",
+      "shuppansha": "講談社",
+      "biko": ""
+    },
+    {
+      "nen": 2004,
+      "kai": "2004年（第1回）",
+      "juni": 10,
+      "sakuhin": "ららら科學の子",
+      "chosha": "矢作俊彦",
+      "tokuten": "38点",
+      "shuppansha": "文藝春秋",
+      "biko": ""
+    },
+    {
+      "nen": 2005,
+      "kai": "2005年（第2回）",
+      "juni": 1,
+      "sakuhin": "夜のピクニック",
+      "chosha": "恩田陸",
+      "tokuten": "374点",
+      "shuppansha": "新潮社",
+      "biko": "第26回吉川英治文学新人賞受賞作 2006年9月映画化"
+    },
+    {
+      "nen": 2005,
+      "kai": "2005年（第2回）",
+      "juni": 2,
+      "sakuhin": "明日の記憶",
+      "chosha": "荻原浩",
+      "tokuten": "302点",
+      "shuppansha": "光文社",
+      "biko": "第18回山本周五郎賞受賞作 2006年5月映画化 2006年9月ラジオドラマ化"
+    },
+    {
+      "nen": 2005,
+      "kai": "2005年（第2回）",
+      "juni": 3,
+      "sakuhin": "家守綺譚",
+      "chosha": "梨木香歩",
+      "tokuten": "274点",
+      "shuppansha": "新潮社",
+      "biko": "2005年2月ラジオドラマ化"
+    },
+    {
+      "nen": 2005,
+      "kai": "2005年（第2回）",
+      "juni": 4,
+      "sakuhin": "袋小路の男",
+      "chosha": "絲山秋子",
+      "tokuten": "185点",
+      "shuppansha": "講談社",
+      "biko": "第30回川端康成文学賞受賞作 2009年4月ラジオドラマ化"
+    },
+    {
+      "nen": 2005,
+      "kai": "2005年（第2回）",
+      "juni": 5,
+      "sakuhin": "チルドレン",
+      "chosha": "伊坂幸太郎",
+      "tokuten": "155点",
+      "shuppansha": "講談社",
+      "biko": "2006年5月テレビドラマ化 2006年11月映画化"
+    },
+    {
+      "nen": 2005,
+      "kai": "2005年（第2回）",
+      "juni": 6,
+      "sakuhin": "対岸の彼女",
+      "chosha": "角田光代",
+      "tokuten": "153点",
+      "shuppansha": "文藝春秋",
+      "biko": "第132回直木賞受賞作 2006年1月テレビドラマ化"
+    },
+    {
+      "nen": 2005,
+      "kai": "2005年（第2回）",
+      "juni": 7,
+      "sakuhin": "犯人に告ぐ",
+      "chosha": "雫井脩介",
+      "tokuten": "138点",
+      "shuppansha": "双葉社",
+      "biko": "第7回大藪春彦賞受賞作 『週刊文春ミステリーベスト10』2004年版1位 『週刊現代最高に面白い本』2004年版1位 2007年10月映画化"
+    },
+    {
+      "nen": 2005,
+      "kai": "2005年（第2回）",
+      "juni": 8,
+      "sakuhin": "黄金旅風",
+      "chosha": "飯嶋和一",
+      "tokuten": "102点",
+      "shuppansha": "小学館",
+      "biko": ""
+    },
+    {
+      "nen": 2005,
+      "kai": "2005年（第2回）",
+      "juni": 9,
+      "sakuhin": "私が語りはじめた彼は",
+      "chosha": "三浦しをん",
+      "tokuten": "92点",
+      "shuppansha": "新潮社",
+      "biko": ""
+    },
+    {
+      "nen": 2005,
+      "kai": "2005年（第2回）",
+      "juni": 10,
+      "sakuhin": "そのときは彼によろしく",
+      "chosha": "市川拓司",
+      "tokuten": "74点",
+      "shuppansha": "小学館",
+      "biko": "2007年6月映画化"
+    },
+    {
+      "nen": 2006,
+      "kai": "2006年（第3回）",
+      "juni": 1,
+      "sakuhin": "東京タワー 〜オカンとボクと、時々、オトン〜",
+      "chosha": "リリー・フランキー",
+      "tokuten": "279点",
+      "shuppansha": "扶桑社",
+      "biko": "2006・2007年テレビドラマ化 2007年映画化、舞台化"
+    },
+    {
+      "nen": 2006,
+      "kai": "2006年（第3回）",
+      "juni": 2,
+      "sakuhin": "サウスバウンド",
+      "chosha": "奥田英朗",
+      "tokuten": "196.5点",
+      "shuppansha": "角川書店",
+      "biko": "2007年10月映画化"
+    },
+    {
+      "nen": 2006,
+      "kai": "2006年（第3回）",
+      "juni": 3,
+      "sakuhin": "死神の精度",
+      "chosha": "伊坂幸太郎",
+      "tokuten": "190点",
+      "shuppansha": "文藝春秋",
+      "biko": "第57回日本推理作家協会賞短編部門受賞作 2006年10月ラジオドラマ化 2008年3月『Sweet Rain 死神の精度』として映画化"
+    },
+    {
+      "nen": 2006,
+      "kai": "2006年（第3回）",
+      "juni": 4,
+      "sakuhin": "容疑者Xの献身",
+      "chosha": "東野圭吾",
+      "tokuten": "184.5点",
+      "shuppansha": "文藝春秋",
+      "biko": "第134回直木賞受賞作 第6回本格ミステリ大賞受賞作 『週刊文春ミステリーベスト10』2005年版1位 『本格ミステリベスト10』2006年版1位 『このミステリーがすごい!』2006年版1位 2008年10月映画化 2009年4月舞台化"
+    },
+    {
+      "nen": 2006,
+      "kai": "2006年（第3回）",
+      "juni": 5,
+      "sakuhin": "その日のまえに",
+      "chosha": "重松清",
+      "tokuten": "179.5点",
+      "shuppansha": "文藝春秋",
+      "biko": "2007年3月ラジオドラマ化 2008年11月映画化 2014年テレビドラマ化 2016年朗読劇"
+    },
+    {
+      "nen": 2006,
+      "kai": "2006年（第3回）",
+      "juni": 6,
+      "sakuhin": "ナラタージュ",
+      "chosha": "島本理生",
+      "tokuten": "162点",
+      "shuppansha": "角川書店",
+      "biko": "2017年10月映画化"
+    },
+    {
+      "nen": 2006,
+      "kai": "2006年（第3回）",
+      "juni": 7,
+      "sakuhin": "告白",
+      "chosha": "町田康",
+      "tokuten": "152.5点",
+      "shuppansha": "中央公論新社",
+      "biko": "第41回谷崎潤一郎賞受賞作"
+    },
+    {
+      "nen": 2006,
+      "kai": "2006年（第3回）",
+      "juni": 8,
+      "sakuhin": "ベルカ、吠えないのか？",
+      "chosha": "古川日出男",
+      "tokuten": "152点",
+      "shuppansha": "文藝春秋",
+      "biko": ""
+    },
+    {
+      "nen": 2006,
+      "kai": "2006年（第3回）",
+      "juni": 9,
+      "sakuhin": "県庁の星",
+      "chosha": "桂望実",
+      "tokuten": "141点",
+      "shuppansha": "小学館",
+      "biko": "2005年漫画化 2006年2月映画化"
+    },
+    {
+      "nen": 2006,
+      "kai": "2006年（第3回）",
+      "juni": 10,
+      "sakuhin": "さくら",
+      "chosha": "西加奈子",
+      "tokuten": "135点",
+      "shuppansha": "小学館",
+      "biko": "2020年11月映画化"
+    },
+    {
+      "nen": 2006,
+      "kai": "2006年（第3回）",
+      "juni": 11,
+      "sakuhin": "魔王",
+      "chosha": "伊坂幸太郎",
+      "tokuten": "103点",
+      "shuppansha": "講談社",
+      "biko": "2007年『魔王 JUVENILE REMIX』として漫画化"
+    },
+    {
+      "nen": 2007,
+      "kai": "2007年（第4回）",
+      "juni": 1,
+      "sakuhin": "一瞬の風になれ",
+      "chosha": "佐藤多佳子",
+      "tokuten": "475.5点",
+      "shuppansha": "講談社",
+      "biko": "第28回吉川英治文学新人賞受賞作 2008年2月テレビドラマ化 2007年7月漫画化 2007年5月ラジオドラマ化"
+    },
+    {
+      "nen": 2007,
+      "kai": "2007年（第4回）",
+      "juni": 2,
+      "sakuhin": "夜は短し歩けよ乙女",
+      "chosha": "森見登美彦",
+      "tokuten": "455点",
+      "shuppansha": "角川書店",
+      "biko": "第20回山本周五郎賞受賞作 2007年7月漫画化 2009年4月舞台化 2017年4月アニメ映画化"
+    },
+    {
+      "nen": 2007,
+      "kai": "2007年（第4回）",
+      "juni": 3,
+      "sakuhin": "風が強く吹いている",
+      "chosha": "三浦しをん",
+      "tokuten": "247点",
+      "shuppansha": "新潮社",
+      "biko": "『週刊ヤングジャンプ』にて漫画化 2009年10月映画化 2009年1月舞台化 2007年12月ラジオドラマ化 2018年10月テレビアニメ化"
+    },
+    {
+      "nen": 2007,
+      "kai": "2007年（第4回）",
+      "juni": 4,
+      "sakuhin": "終末のフール",
+      "chosha": "伊坂幸太郎",
+      "tokuten": "228点",
+      "shuppansha": "集英社",
+      "biko": "2007年漫画化 2010年2月ラジオドラマ化"
+    },
+    {
+      "nen": 2007,
+      "kai": "2007年（第4回）",
+      "juni": 5,
+      "sakuhin": "図書館戦争",
+      "chosha": "有川浩",
+      "tokuten": "176点",
+      "shuppansha": "メディアワークス",
+      "biko": "2007年11月漫画化 2008年4月テレビアニメ化 2012年6月アニメ映画化 2013年4月、2015年10月実写映画化"
+    },
+    {
+      "nen": 2007,
+      "kai": "2007年（第4回）",
+      "juni": 6,
+      "sakuhin": "鴨川ホルモー",
+      "chosha": "万城目学",
+      "tokuten": "175点",
+      "shuppansha": "産業編集センター",
+      "biko": "第4回ボイルドエッグズ新人賞受賞 2009年5月映画化 2009年5月舞台化"
+    },
+    {
+      "nen": 2007,
+      "kai": "2007年（第4回）",
+      "juni": 7,
+      "sakuhin": "ミーナの行進",
+      "chosha": "小川洋子",
+      "tokuten": "152.5点",
+      "shuppansha": "中央公論新社",
+      "biko": "第42回谷崎潤一郎賞受賞作"
+    },
+    {
+      "nen": 2007,
+      "kai": "2007年（第4回）",
+      "juni": 8,
+      "sakuhin": "陰日向に咲く",
+      "chosha": "劇団ひとり",
+      "tokuten": "139点",
+      "shuppansha": "幻冬舎",
+      "biko": "2008年1月映画化"
+    },
+    {
+      "nen": 2007,
+      "kai": "2007年（第4回）",
+      "juni": 9,
+      "sakuhin": "失われた町",
+      "chosha": "三崎亜記",
+      "tokuten": "127.5点",
+      "shuppansha": "集英社",
+      "biko": ""
+    },
+    {
+      "nen": 2007,
+      "kai": "2007年（第4回）",
+      "juni": 10,
+      "sakuhin": "名もなき毒",
+      "chosha": "宮部みゆき",
+      "tokuten": "89点",
+      "shuppansha": "幻冬舎",
+      "biko": "第41回吉川英治文学賞受賞作 2013年8月テレビドラマ化"
+    },
+    {
+      "nen": 2008,
+      "kai": "2008年（第5回）",
+      "juni": 1,
+      "sakuhin": "ゴールデンスランバー",
+      "chosha": "伊坂幸太郎",
+      "tokuten": "509.5点",
+      "shuppansha": "新潮社",
+      "biko": "第21回山本周五郎賞受賞作品 『このミステリーがすごい!』2009年版1位 2010年1月映画化 2016年11月舞台化"
+    },
+    {
+      "nen": 2008,
+      "kai": "2008年（第5回）",
+      "juni": 2,
+      "sakuhin": "サクリファイス",
+      "chosha": "近藤史恵",
+      "tokuten": "312点",
+      "shuppansha": "新潮社",
+      "biko": "第10回大藪春彦賞受賞作 2008年漫画化"
+    },
+    {
+      "nen": 2008,
+      "kai": "2008年（第5回）",
+      "juni": 3,
+      "sakuhin": "有頂天家族",
+      "chosha": "森見登美彦",
+      "tokuten": "280.5点",
+      "shuppansha": "幻冬舎",
+      "biko": "2008年11月ラジオドラマ化 2013年6月漫画化 2013年7月テレビアニメ化 2014年1月舞台化"
+    },
+    {
+      "nen": 2008,
+      "kai": "2008年（第5回）",
+      "juni": 4,
+      "sakuhin": "悪人",
+      "chosha": "吉田修一",
+      "tokuten": "233.5点",
+      "shuppansha": "朝日新聞社",
+      "biko": "第61回毎日出版文化賞受賞作 第34回大佛次郎賞受賞作 2010年9月映画化"
+    },
+    {
+      "nen": 2008,
+      "kai": "2008年（第5回）",
+      "juni": 5,
+      "sakuhin": "映画篇",
+      "chosha": "金城一紀",
+      "tokuten": "227.5点",
+      "shuppansha": "集英社",
+      "biko": ""
+    },
+    {
+      "nen": 2008,
+      "kai": "2008年（第5回）",
+      "juni": 6,
+      "sakuhin": "八日目の蝉",
+      "chosha": "角田光代",
+      "tokuten": "225点",
+      "shuppansha": "中央公論新社",
+      "biko": "第2回中央公論文芸賞受賞作 2010年3月テレビドラマ化 2011年4月映画化"
+    },
+    {
+      "nen": 2008,
+      "kai": "2008年（第5回）",
+      "juni": 7,
+      "sakuhin": "赤朽葉家の伝説",
+      "chosha": "桜庭一樹",
+      "tokuten": "213.5点",
+      "shuppansha": "東京創元社",
+      "biko": "第60回日本推理作家協会賞受賞"
+    },
+    {
+      "nen": 2008,
+      "kai": "2008年（第5回）",
+      "juni": 8,
+      "sakuhin": "鹿男あをによし",
+      "chosha": "万城目学",
+      "tokuten": "196.5点",
+      "shuppansha": "幻冬舎",
+      "biko": "2008年1月テレビドラマ化 2008年5月漫画化"
+    },
+    {
+      "nen": 2008,
+      "kai": "2008年（第5回）",
+      "juni": 9,
+      "sakuhin": "私の男",
+      "chosha": "桜庭一樹",
+      "tokuten": "129.5点",
+      "shuppansha": "文藝春秋",
+      "biko": "第138回直木賞受賞作 2014年6月映画化"
+    },
+    {
+      "nen": 2008,
+      "kai": "2008年（第5回）",
+      "juni": 10,
+      "sakuhin": "カシオペアの丘で",
+      "chosha": "重松清",
+      "tokuten": "126点",
+      "shuppansha": "講談社",
+      "biko": "2008年8月ラジオドラマ化"
+    },
+    {
+      "nen": 2009,
+      "kai": "2009年（第6回）",
+      "juni": 1,
+      "sakuhin": "告白",
+      "chosha": "湊かなえ",
+      "tokuten": "411点",
+      "shuppansha": "双葉社",
+      "biko": "『週刊文春ミステリーベスト10』2008年版1位 2010年6月映画化"
+    },
+    {
+      "nen": 2009,
+      "kai": "2009年（第6回）",
+      "juni": 2,
+      "sakuhin": "のぼうの城",
+      "chosha": "和田竜",
+      "tokuten": "328点",
+      "shuppansha": "小学館",
+      "biko": "2012年11月映画化"
+    },
+    {
+      "nen": 2009,
+      "kai": "2009年（第6回）",
+      "juni": 3,
+      "sakuhin": "ジョーカー・ゲーム",
+      "chosha": "柳広司",
+      "tokuten": "243.5点",
+      "shuppansha": "角川書店",
+      "biko": "第30回吉川英治文学新人賞受賞 第62回日本推理作家協会賞受賞 2009年1月漫画化 2015年1月映画化 2016年4月テレビアニメ化"
+    },
+    {
+      "nen": 2009,
+      "kai": "2009年（第6回）",
+      "juni": 4,
+      "sakuhin": "テンペスト",
+      "chosha": "池上永一",
+      "tokuten": "228.5点",
+      "shuppansha": "角川書店",
+      "biko": "2011年2月舞台化 2011年7月テレビドラマ化 2012年1月映画化"
+    },
+    {
+      "nen": 2009,
+      "kai": "2009年（第6回）",
+      "juni": 5,
+      "sakuhin": "ボックス!",
+      "chosha": "百田尚樹",
+      "tokuten": "214.5点",
+      "shuppansha": "太田出版",
+      "biko": "2010年5月映画化"
+    },
+    {
+      "nen": 2009,
+      "kai": "2009年（第6回）",
+      "juni": 6,
+      "sakuhin": "新世界より",
+      "chosha": "貴志祐介",
+      "tokuten": "207.5点",
+      "shuppansha": "講談社",
+      "biko": "第29回日本SF大賞受賞作 2012年6月漫画化 2012年10月テレビアニメ化"
+    },
+    {
+      "nen": 2009,
+      "kai": "2009年（第6回）",
+      "juni": 7,
+      "sakuhin": "出星前夜",
+      "chosha": "飯嶋和一",
+      "tokuten": "203.5点",
+      "shuppansha": "小学館",
+      "biko": "第35回大佛次郎賞受賞作"
+    },
+    {
+      "nen": 2009,
+      "kai": "2009年（第6回）",
+      "juni": 8,
+      "sakuhin": "悼む人",
+      "chosha": "天童荒太",
+      "tokuten": "203.5点",
+      "shuppansha": "文藝春秋",
+      "biko": "第140回直木賞受賞作 2015年2月映画化"
+    },
+    {
+      "nen": 2009,
+      "kai": "2009年（第6回）",
+      "juni": 9,
+      "sakuhin": "流星の絆",
+      "chosha": "東野圭吾",
+      "tokuten": "139点",
+      "shuppansha": "講談社",
+      "biko": "2008年10月テレビドラマ化"
+    },
+    {
+      "nen": 2009,
+      "kai": "2009年（第6回）",
+      "juni": 10,
+      "sakuhin": "モダンタイムス",
+      "chosha": "伊坂幸太郎",
+      "tokuten": "135点",
+      "shuppansha": "講談社",
+      "biko": ""
+    },
+    {
+      "nen": 2010,
+      "kai": "2010年（第7回）",
+      "juni": 1,
+      "sakuhin": "天地明察",
+      "chosha": "冲方丁",
+      "tokuten": "384.5点",
+      "shuppansha": "角川書店",
+      "biko": "第31回吉川英治文学新人賞受賞作 第7回北東文芸賞受賞作 第4回舟橋聖一文学賞受賞作 第4回大学読書人大賞受賞作 2011年6月漫画化 2012年9月映画化 2015年7月オーディオドラマ化"
+    },
+    {
+      "nen": 2010,
+      "kai": "2010年（第7回）",
+      "juni": 2,
+      "sakuhin": "神様のカルテ",
+      "chosha": "夏川草介",
+      "tokuten": "294.0点",
+      "shuppansha": "小学館",
+      "biko": "第10回小学館文庫小説賞受賞作 2010年8月漫画化 2011年8月映画化"
+    },
+    {
+      "nen": 2010,
+      "kai": "2010年（第7回）",
+      "juni": 3,
+      "sakuhin": "横道世之介",
+      "chosha": "吉田修一",
+      "tokuten": "270.0点",
+      "shuppansha": "毎日新聞社",
+      "biko": "第23回柴田錬三郎賞受賞作 2013年2月映画化"
+    },
+    {
+      "nen": 2010,
+      "kai": "2010年（第7回）",
+      "juni": 4,
+      "sakuhin": "神去なあなあ日常",
+      "chosha": "三浦しをん",
+      "tokuten": "256.0点",
+      "shuppansha": "徳間書店",
+      "biko": "2010年9月ラジオドラマ化 2014年5月映画化"
+    },
+    {
+      "nen": 2010,
+      "kai": "2010年（第7回）",
+      "juni": 5,
+      "sakuhin": "猫を抱いて象と泳ぐ",
+      "chosha": "小川洋子",
+      "tokuten": "237.0点",
+      "shuppansha": "文藝春秋",
+      "biko": ""
+    },
+    {
+      "nen": 2010,
+      "kai": "2010年（第7回）",
+      "juni": 6,
+      "sakuhin": "ヘヴン",
+      "chosha": "川上未映子",
+      "tokuten": "220.0点",
+      "shuppansha": "講談社",
+      "biko": ""
+    },
+    {
+      "nen": 2010,
+      "kai": "2010年（第7回）",
+      "juni": 7,
+      "sakuhin": "船に乗れ!",
+      "chosha": "藤谷治",
+      "tokuten": "209.0点",
+      "shuppansha": "ジャイブ",
+      "biko": "2013年12月舞台化"
+    },
+    {
+      "nen": 2010,
+      "kai": "2010年（第7回）",
+      "juni": 8,
+      "sakuhin": "植物図鑑",
+      "chosha": "有川浩",
+      "tokuten": "182.5点",
+      "shuppansha": "角川書店",
+      "biko": "2016年6月映画化"
+    },
+    {
+      "nen": 2010,
+      "kai": "2010年（第7回）",
+      "juni": 9,
+      "sakuhin": "新参者",
+      "chosha": "東野圭吾",
+      "tokuten": "130.5点",
+      "shuppansha": "講談社",
+      "biko": "『このミステリーがすごい!』2010年版1位 『週刊文春ミステリーベスト10』2010年版1位 2010年4月テレビドラマ化"
+    },
+    {
+      "nen": 2010,
+      "kai": "2010年（第7回）",
+      "juni": 10,
+      "sakuhin": "1Q84",
+      "chosha": "村上春樹",
+      "tokuten": "091.5点",
+      "shuppansha": "新潮社",
+      "biko": "第63回毎日出版文化賞受賞"
+    },
+    {
+      "nen": 2011,
+      "kai": "2011年（第8回）",
+      "juni": 1,
+      "sakuhin": "謎解きはディナーのあとで",
+      "chosha": "東川篤哉",
+      "tokuten": "386.5点",
+      "shuppansha": "小学館",
+      "biko": "2011年10月テレビドラマ化 2012年8月舞台化 2013年8月映画化 2025年4月テレビアニメ化"
+    },
+    {
+      "nen": 2011,
+      "kai": "2011年（第8回）",
+      "juni": 2,
+      "sakuhin": "ふがいない僕は空を見た",
+      "chosha": "窪美澄",
+      "tokuten": "354.5点",
+      "shuppansha": "新潮社",
+      "biko": "第8回女による女のためのR-18文学賞大賞受賞作（第1章） 第24回山本周五郎賞受賞作 2012年11月映画化"
+    },
+    {
+      "nen": 2011,
+      "kai": "2011年（第8回）",
+      "juni": 3,
+      "sakuhin": "ペンギン・ハイウェイ",
+      "chosha": "森見登美彦",
+      "tokuten": "310.0点",
+      "shuppansha": "角川書店",
+      "biko": "第31回日本SF大賞受賞作 2018年8月アニメ映画化"
+    },
+    {
+      "nen": 2011,
+      "kai": "2011年（第8回）",
+      "juni": 4,
+      "sakuhin": "錨を上げよ",
+      "chosha": "百田尚樹",
+      "tokuten": "307.5点",
+      "shuppansha": "講談社",
+      "biko": ""
+    },
+    {
+      "nen": 2011,
+      "kai": "2011年（第8回）",
+      "juni": 5,
+      "sakuhin": "シューマンの指",
+      "chosha": "奥泉光",
+      "tokuten": "270.5点",
+      "shuppansha": "講談社",
+      "biko": ""
+    },
+    {
+      "nen": 2011,
+      "kai": "2011年（第8回）",
+      "juni": 6,
+      "sakuhin": "叫びと祈り",
+      "chosha": "梓崎優",
+      "tokuten": "263.0点",
+      "shuppansha": "東京創元社",
+      "biko": ""
+    },
+    {
+      "nen": 2011,
+      "kai": "2011年（第8回）",
+      "juni": 7,
+      "sakuhin": "悪の教典",
+      "chosha": "貴志祐介",
+      "tokuten": "259.5点",
+      "shuppansha": "文藝春秋",
+      "biko": "第1回山田風太郎賞受賞作 『このミステリーがすごい!』2011年版1位 2012年3月漫画化 2012年11月映画化"
+    },
+    {
+      "nen": 2011,
+      "kai": "2011年（第8回）",
+      "juni": 8,
+      "sakuhin": "神様のカルテ2",
+      "chosha": "夏川草介",
+      "tokuten": "259.0点",
+      "shuppansha": "小学館",
+      "biko": "2014年3月映画化"
+    },
+    {
+      "nen": 2011,
+      "kai": "2011年（第8回）",
+      "juni": 9,
+      "sakuhin": "キケン",
+      "chosha": "有川浩",
+      "tokuten": "241.0点",
+      "shuppansha": "新潮社",
+      "biko": ""
+    },
+    {
+      "nen": 2011,
+      "kai": "2011年（第8回）",
+      "juni": 10,
+      "sakuhin": "ストーリー・セラー",
+      "chosha": "有川浩",
+      "tokuten": "202.0点",
+      "shuppansha": "新潮社",
+      "biko": ""
+    }
+  ],
+  "meta": {
+    "title": "本屋大賞 歴代ノミネート作品・順位一覧 (Japan Booksellers' Award) - Free Download",
+    "description": "全国の書店員が選ぶ本屋大賞の各回の順位、作品名、著者、得点、出版社、メディア展開の一覧。 Contains 81 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "本屋大賞 歴代ノミネート作品・順位一覧 (Japan Booksellers' Award) | ListBase",
+    "seo_description": "Download 本屋大賞 歴代ノミネート作品・順位一覧 (Japan Booksellers' Award) — 81 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 81 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/本屋大賞"
+    ]
+  }
+}
