@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-28T02:17:46.538Z",
-  "total_datasets": 548,
-  "total_records": 457696,
+  "generated": "2026-10-28T02:17:50.531Z",
+  "total_datasets": 549,
+  "total_records": 457706,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "transport",
@@ -15306,6 +15306,33 @@
         "xlsx": {
           "name": "ja-sakura-meisho-100sen_JA.xlsx",
           "size": 10066
+        }
+      }
+    },
+    {
+      "id": "ja-suizokukan-sosuiryo-ranking",
+      "name": "日本の水族館 総水量ランキング (Largest aquariums in Japan by water volume)",
+      "category": "tourism",
+      "record_count": 10,
+      "columns": [
+        "juni",
+        "meisho",
+        "shozaichi",
+        "kaikannen",
+        "sosuiryo",
+        "type"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/日本の水族館",
+      "updated": "2026-10",
+      "size": 3932,
+      "files": {
+        "csv": {
+          "name": "ja-suizokukan-sosuiryo-ranking_JA.csv",
+          "size": 842
+        },
+        "xlsx": {
+          "name": "ja-suizokukan-sosuiryo-ranking_JA.xlsx",
+          "size": 7435
         }
       }
     },

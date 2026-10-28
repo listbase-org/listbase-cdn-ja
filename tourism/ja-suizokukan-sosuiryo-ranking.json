@@ -1,0 +1,136 @@
+{
+  "id": "ja-suizokukan-sosuiryo-ranking",
+  "name": "日本の水族館 総水量ランキング (Largest aquariums in Japan by water volume)",
+  "title": "日本の水族館 総水量ランキング (Largest aquariums in Japan by water volume)",
+  "description": "日本の水族館を総水量で順位付けした上位ランキング。所在地、開館年、タイプを含む。",
+  "category": "tourism",
+  "source": "https://ja.wikipedia.org/wiki/日本の水族館",
+  "source_url": "https://ja.wikipedia.org/wiki/日本の水族館",
+  "updated": "2026-10",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "juni",
+      "label": "Juni",
+      "type": "number"
+    },
+    {
+      "key": "meisho",
+      "label": "Meisho",
+      "type": "string"
+    },
+    {
+      "key": "shozaichi",
+      "label": "Shozaichi",
+      "type": "string"
+    },
+    {
+      "key": "kaikannen",
+      "label": "Kaikannen",
+      "type": "string"
+    },
+    {
+      "key": "sosuiryo",
+      "label": "Sosuiryo",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "juni": 1,
+      "meisho": "名古屋港水族館",
+      "shozaichi": "愛知県",
+      "kaikannen": "1992年",
+      "sosuiryo": "24,600t",
+      "type": "分棟型"
+    },
+    {
+      "juni": 2,
+      "meisho": "八景島シーパラダイス（アクアリゾーツ）",
+      "shozaichi": "神奈川県",
+      "kaikannen": "1993年",
+      "sosuiryo": "16,500t",
+      "type": "分棟型"
+    },
+    {
+      "juni": 3,
+      "meisho": "鴨川シーワールド",
+      "shozaichi": "千葉県",
+      "kaikannen": "1970年",
+      "sosuiryo": "12,000t",
+      "type": "分棟型"
+    },
+    {
+      "juni": 4,
+      "meisho": "大阪海遊館",
+      "shozaichi": "大阪府",
+      "kaikannen": "1990年",
+      "sosuiryo": "11,000t",
+      "type": "単棟型"
+    },
+    {
+      "juni": 5,
+      "meisho": "沖縄美ら海水族館",
+      "shozaichi": "沖縄県",
+      "kaikannen": "1997年",
+      "sosuiryo": "10,400t",
+      "type": "分棟型"
+    },
+    {
+      "juni": 6,
+      "meisho": "マリンワールド海の中道",
+      "shozaichi": "福岡県",
+      "kaikannen": "1989年",
+      "sosuiryo": "6,050t",
+      "type": "単棟型"
+    },
+    {
+      "juni": 7,
+      "meisho": "鳥羽水族館",
+      "shozaichi": "三重県",
+      "kaikannen": "1955年",
+      "sosuiryo": "6,000t",
+      "type": "単棟型"
+    },
+    {
+      "juni": 8,
+      "meisho": "アクアワールド・大洗",
+      "shozaichi": "茨城県",
+      "kaikannen": "2002年",
+      "sosuiryo": "5,100t",
+      "type": "単棟型"
+    },
+    {
+      "juni": 9,
+      "meisho": "アクアパーク品川",
+      "shozaichi": "東京都",
+      "kaikannen": "2005年",
+      "sosuiryo": "4,800t",
+      "type": "部分型"
+    },
+    {
+      "juni": 10,
+      "meisho": "島根県立しまね海洋館",
+      "shozaichi": "島根県",
+      "kaikannen": "2000年",
+      "sosuiryo": "4,500t",
+      "type": "単棟型"
+    }
+  ],
+  "meta": {
+    "title": "日本の水族館 総水量ランキング (Largest aquariums in Japan by water volume) - Free Download",
+    "description": "日本の水族館を総水量で順位付けした上位ランキング。所在地、開館年、タイプを含む。 Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の水族館 総水量ランキング (Largest aquariums in Japan by water volume) | ListBase",
+    "seo_description": "Download 日本の水族館 総水量ランキング (Largest aquariums in Japan by water volume) — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/日本の水族館"
+    ]
+  }
+}
