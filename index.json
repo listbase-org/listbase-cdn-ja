@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-29T02:20:09.964Z",
-  "total_datasets": 550,
-  "total_records": 457952,
+  "generated": "2026-10-29T02:20:14.300Z",
+  "total_datasets": 551,
+  "total_records": 458027,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "music",
@@ -6811,6 +6811,32 @@
         "xlsx": {
           "name": "ja-horitsu-kaikei-shikaku_JA.xlsx",
           "size": 8568
+        }
+      }
+    },
+    {
+      "id": "ja-keimusho-ichiran",
+      "name": "日本の刑務所・少年刑務所一覧 (Prisons in Japan)",
+      "category": "law",
+      "record_count": 75,
+      "columns": [
+        "name",
+        "address",
+        "regional_correction_bureau",
+        "parent_facility",
+        "note"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/日本の刑務所",
+      "updated": "2026-10",
+      "size": 19155,
+      "files": {
+        "csv": {
+          "name": "ja-keimusho-ichiran_JA.csv",
+          "size": 8167
+        },
+        "xlsx": {
+          "name": "ja-keimusho-ichiran_JA.xlsx",
+          "size": 10921
         }
       }
     },
