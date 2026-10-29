@@ -1,0 +1,3160 @@
+{
+  "id": "ja-yuenchi-ichiran",
+  "name": "日本の遊園地一覧（営業中・閉園済）(Amusement parks in Japan)",
+  "title": "日本の遊園地一覧（営業中・閉園済）(Amusement parks in Japan)",
+  "description": "日本の遊園地の営業中・閉園済の一覧（名称、所在地、開園日、閉園日、備考）",
+  "category": "tourism",
+  "source": "https://ja.wikipedia.org/wiki/遊園地",
+  "source_url": "https://ja.wikipedia.org/wiki/遊園地",
+  "updated": "2026-10",
+  "record_count": 388,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "opened",
+      "label": "Opened",
+      "type": "string"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "北海道グリーンランド",
+      "location": "北海道 岩見沢市",
+      "opened": "1986年6月22日",
+      "closed": "",
+      "status": "営業中",
+      "note": "旧・ 北海道21世紀博覧会 /いわみざわ 三井グリーンランド"
+    },
+    {
+      "name": "ルスツリゾート",
+      "location": "北海道 虻田郡 留寿都村",
+      "opened": "1983年6月10日",
+      "closed": "",
+      "status": "営業中",
+      "note": "旧・ルスツ高原カントリーランド"
+    },
+    {
+      "name": "きたみファミリーランド",
+      "location": "北海道 北見市",
+      "opened": "1983",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "登別マリンパークニクス ニクスランド",
+      "location": "北海道 登別市",
+      "opened": "1990",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "ファミリー愛ランドYOU",
+      "location": "北海道 紋別郡 湧別町",
+      "opened": "1998",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "祝津マリンランド",
+      "location": "北海道 小樽市",
+      "opened": "1959",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "函館公園こどものくに",
+      "location": "北海道 函館市",
+      "opened": "1956",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "八戸公園 こどもの国",
+      "location": "青森県 八戸市",
+      "opened": "1981",
+      "closed": "",
+      "status": "営業中",
+      "note": "旧・ 八戸市児童遊園地"
+    },
+    {
+      "name": "ファンタジードームはちのへ",
+      "location": "青森県八戸市",
+      "opened": "1990",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "岩山パークランド",
+      "location": "岩手県 盛岡市",
+      "opened": "1972",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "チャチャワールドいしこし",
+      "location": "宮城県 登米市",
+      "opened": "1995",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "八木山ベニーランド",
+      "location": "宮城県 仙台市 太白区",
+      "opened": "1968年4月14日",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "大森山ゆうえんちアニパ",
+      "location": "秋田県 秋田市",
+      "opened": "2008",
+      "closed": "",
+      "status": "営業中",
+      "note": "旧・ 大森山遊園地 （2007.6休園）"
+    },
+    {
+      "name": "リナワールド",
+      "location": "山形県 上山市",
+      "opened": "1969",
+      "closed": "",
+      "status": "営業中",
+      "note": "旧・山交ランド"
+    },
+    {
+      "name": "郡山カルチャーパーク ドリームランド",
+      "location": "福島県 郡山市",
+      "opened": "1989年4月25日",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "国営ひたち海浜公園(プレジャーガーデン)",
+      "location": "茨城県 ひたちなか市",
+      "opened": "1991",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "かみね公園",
+      "location": "茨城県 日立市",
+      "opened": "1957",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "宇都宮動物園",
+      "location": "栃木県 宇都宮市",
+      "opened": "1981",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "とちのきファミリーランド",
+      "location": "栃木県宇都宮市",
+      "opened": "1979年4月15日",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "那須ハイランドパーク",
+      "location": "栃木県 那須郡 那須町",
+      "opened": "1969",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "那須りんどう湖 ファミリー牧場",
+      "location": "栃木県那須郡那須町",
+      "opened": "1965",
+      "closed": "",
+      "status": "営業中",
+      "note": "旧・りんどう湖ファミリー牧場"
+    },
+    {
+      "name": "華蔵寺公園遊園地",
+      "location": "群馬県 伊勢崎市",
+      "opened": "1970",
+      "closed": "",
+      "status": "営業中",
+      "note": "旧・伊勢崎公園（1911）"
+    },
+    {
+      "name": "るなぱあく",
+      "location": "群馬県 前橋市",
+      "opened": "1954",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "渋川スカイランドパーク",
+      "location": "群馬県 渋川市",
+      "opened": "1998",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "軽井沢 おもちゃ王国",
+      "location": "群馬県 吾妻郡 嬬恋村",
+      "opened": "1999",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "桐生が岡遊園地",
+      "location": "群馬県 桐生市",
+      "opened": "1953",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "西武園ゆうえんち",
+      "location": "埼玉県 所沢市",
+      "opened": "1950",
+      "closed": "",
+      "status": "営業中",
+      "note": "旧・東村山文化園"
+    },
+    {
+      "name": "東武動物公園",
+      "location": "埼玉県 南埼玉郡 宮代町",
+      "opened": "1981",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "むさしの村",
+      "location": "埼玉県 加須市",
+      "opened": "1969",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "木更津かんらんしゃパークKISARAPIA",
+      "location": "千葉県 木更津市",
+      "opened": "2016年7月1日",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "東京ディズニーリゾート 東京ディズニーランド 東京ディズニーシー",
+      "location": "千葉県 浦安市",
+      "opened": "1983年4月15日 1983年4月15日 2001年9月4日",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "東京ドイツ村",
+      "location": "千葉県 袖ケ浦市",
+      "opened": "2001",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "マザー牧場(わくわくランド)",
+      "location": "千葉県 富津市",
+      "opened": "1962",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "千葉こどもの国キッズダム",
+      "location": "千葉県 市原市",
+      "opened": "1971",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "もりのゆうえんち",
+      "location": "千葉県 野田市",
+      "opened": "1989年7月8日",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "浅草花やしき",
+      "location": "東京都 台東区",
+      "opened": "1853",
+      "closed": "",
+      "status": "営業中",
+      "note": "旧・花屋敷"
+    },
+    {
+      "name": "あらかわ遊園",
+      "location": "東京都 荒川区",
+      "opened": "1922",
+      "closed": "",
+      "status": "営業中",
+      "note": "旧・荒川遊園"
+    },
+    {
+      "name": "東京ドームシティアトラクションズ",
+      "location": "東京都 文京区",
+      "opened": "1955年7月1日",
+      "closed": "",
+      "status": "営業中",
+      "note": "旧・後楽園ゆうえんち"
+    },
+    {
+      "name": "東京ジョイポリス",
+      "location": "東京都港区",
+      "opened": "1996",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "ナンジャタウン",
+      "location": "東京都 豊島区",
+      "opened": "1996",
+      "closed": "",
+      "status": "営業中",
+      "note": "旧・ナムコ・ナンジャタウン"
+    },
+    {
+      "name": "東京サマーランド",
+      "location": "東京都 あきる野市",
+      "opened": "1967",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "よみうりランド",
+      "location": "東京都 稲城市",
+      "opened": "1964",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "サンリオピューロランド",
+      "location": "東京都 多摩市",
+      "opened": "1990",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "こどもの国",
+      "location": "神奈川県 横浜市 青葉区",
+      "opened": "1965",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "よこはまコスモワールド",
+      "location": "神奈川県横浜市 中区",
+      "opened": "1989",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "横浜・八景島シーパラダイス(プレジャーランド)",
+      "location": "神奈川県横浜市 金沢区",
+      "opened": "1993",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "さがみ湖MORI MORI",
+      "location": "神奈川県 相模原市 緑区",
+      "opened": "1972",
+      "closed": "",
+      "status": "営業中",
+      "note": "旧・さがみ湖ピクニックランド、旧・さがみ湖リゾートプレジャーフォレスト"
+    },
+    {
+      "name": "長井海の手公園 ソレイユの丘",
+      "location": "神奈川県 横須賀市",
+      "opened": "2005",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "サントピアワールド",
+      "location": "新潟県 阿賀野市",
+      "opened": "1976",
+      "closed": "",
+      "status": "営業中",
+      "note": "旧・安田アイランド"
+    },
+    {
+      "name": "妙高サンシャインランド",
+      "location": "新潟県 上越市",
+      "opened": "1989年7月",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "富山市ファミリーパーク",
+      "location": "富山県 富山市",
+      "opened": "1984",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "ミラージュランド",
+      "location": "富山県 魚津市",
+      "opened": "1982",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "手取フィッシュランド",
+      "location": "石川県 能美市",
+      "opened": "1967",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "芝政ワールド",
+      "location": "福井県 坂井市",
+      "opened": "1977",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "富士急ハイランド",
+      "location": "山梨県 富士吉田市",
+      "opened": "1961",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "白樺リゾート池の平ファミリーランド",
+      "location": "長野県 北佐久郡 立科町",
+      "opened": "1968",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "恵那峡ワンダーランド",
+      "location": "岐阜県 中津川市",
+      "opened": "2002年4月",
+      "closed": "",
+      "status": "営業中",
+      "note": "旧・恵那峡ランド"
+    },
+    {
+      "name": "養老ランド",
+      "location": "岐阜県 養老郡 養老町",
+      "opened": "1972",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "御殿場プレミアム・アウトレット HILL SIDE PLAYGROUND",
+      "location": "静岡県 御殿場市",
+      "opened": "2000",
+      "closed": "",
+      "status": "営業中",
+      "note": "旧・ 小田急御殿場ファミリーランド"
+    },
+    {
+      "name": "伊豆ぐらんぱる公園",
+      "location": "静岡県 伊東市",
+      "opened": "1965",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "伊豆アニマルキングダム",
+      "location": "静岡県 賀茂郡 東伊豆町",
+      "opened": "1977",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "ぐりんぱ",
+      "location": "静岡県 裾野市",
+      "opened": "1973",
+      "closed": "",
+      "status": "営業中",
+      "note": "旧・日本ランドHOWゆうえんち"
+    },
+    {
+      "name": "日本サイクルスポーツセンター",
+      "location": "静岡県 伊豆市",
+      "opened": "1965",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "浜名湖パルパル",
+      "location": "静岡県 浜松市 中央区",
+      "opened": "1959年",
+      "closed": "",
+      "status": "営業中",
+      "note": "旧・遊園地パルパル"
+    },
+    {
+      "name": "岡崎市南公園",
+      "location": "愛知県 岡崎市",
+      "opened": "1962",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "刈谷パーキングエリア",
+      "location": "愛知県 刈谷市",
+      "opened": "2004",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "刈谷市交通児童遊園",
+      "location": "愛知県 刈谷市",
+      "opened": "1975",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "碧南市明石公園",
+      "location": "愛知県 碧南市",
+      "opened": "1989",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "豊橋総合動植物公園",
+      "location": "愛知県 豊橋市",
+      "opened": "1899",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "堀内公園",
+      "location": "愛知県 安城市",
+      "opened": "1992",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "名古屋港シートレインランド",
+      "location": "愛知県 名古屋市 港区",
+      "opened": "1995年7月15日",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "レゴランド・ジャパン",
+      "location": "愛知県名古屋市港区",
+      "opened": "2017年4月1日",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "日本モンキーパーク",
+      "location": "愛知県 犬山市",
+      "opened": "1960年",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "南知多ビーチランド",
+      "location": "愛知県 知多郡 美浜町",
+      "opened": "1980",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "ラグーナテンボス ・ ラグナシア",
+      "location": "愛知県 蒲郡市",
+      "opened": "2002年4月25日",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "ナガシマスパーランド",
+      "location": "三重県 桑名市",
+      "opened": "1966年4月9日",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "鈴鹿サーキット",
+      "location": "三重県 鈴鹿市",
+      "opened": "1963",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "志摩スペイン村",
+      "location": "三重県 志摩市",
+      "opened": "1994年4月22日",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "天橋立ビューランド",
+      "location": "京都府 宮津市",
+      "opened": "1970",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "ANIPO（ EXPOCITY )",
+      "location": "大阪府 吹田市",
+      "opened": "2015",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "ひらかたパーク",
+      "location": "大阪府 枚方市",
+      "opened": "1912",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "関西サイクルスポーツセンター",
+      "location": "大阪府 河内長野市",
+      "opened": "1974",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "ユニバーサル・スタジオ・ジャパン",
+      "location": "大阪府 大阪市 此花区",
+      "opened": "2001年3月31日",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "須磨浦山上遊園",
+      "location": "兵庫県 神戸市 須磨区",
+      "opened": "1959",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "道の駅神戸フルーツ・フラワーパーク大沢 おとぎの国",
+      "location": "兵庫県神戸市 北区",
+      "opened": "1993",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "東条湖おもちゃ王国",
+      "location": "兵庫県 加東市",
+      "opened": "2000",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "姫路セントラルパーク",
+      "location": "兵庫県 姫路市",
+      "opened": "1984",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "赤穂海浜公園(わくわくランド)",
+      "location": "兵庫県 赤穂市",
+      "opened": "1987",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "淡路ワールドパークONOKORO",
+      "location": "兵庫県 淡路市",
+      "opened": "1985",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "生駒山上遊園地",
+      "location": "奈良県 生駒市",
+      "opened": "1929",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "ポルトヨーロッパ",
+      "location": "和歌山県 和歌山市",
+      "opened": "1994",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "アドベンチャーワールド",
+      "location": "和歌山県 西牟婁郡 白浜町",
+      "opened": "1978年4月22日",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "鷲羽山ハイランド",
+      "location": "岡山県 倉敷市",
+      "opened": "1971年",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "おもちゃ王国",
+      "location": "岡山県 玉野市",
+      "opened": "1996年",
+      "closed": "",
+      "status": "営業中",
+      "note": "旧・ 王子ファンシーランド"
+    },
+    {
+      "name": "ヒルゼン高原センター ジョイフルパーク",
+      "location": "岡山県 真庭市",
+      "opened": "1968",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "みろくの里",
+      "location": "広島県 福山市",
+      "opened": "1987",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "ときわ遊園地",
+      "location": "山口県 の 宇部市",
+      "opened": "1958",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "秋吉台サファリランド",
+      "location": "山口県 美祢市",
+      "opened": "1977",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "はい!からっと横丁",
+      "location": "山口県 下関市",
+      "opened": "2013年9月14日",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "とくしまファミリーランド",
+      "location": "徳島県 徳島市",
+      "opened": "1998",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "ニューレオマワールド",
+      "location": "香川県 丸亀市",
+      "opened": "2004",
+      "closed": "",
+      "status": "営業中",
+      "note": "レオマワールド（2000年閉園）"
+    },
+    {
+      "name": "えひめこどもの城",
+      "location": "愛媛県 松山市",
+      "opened": "1996",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "わんぱーくこうちアニマルランド",
+      "location": "高知県 高知市",
+      "opened": "1950",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "到津の森公園 プレイランド",
+      "location": "福岡県 北九州市 小倉北区",
+      "opened": "2002",
+      "closed": "",
+      "status": "営業中",
+      "note": "旧・ 到津遊園"
+    },
+    {
+      "name": "国営海の中道海浜公園",
+      "location": "福岡県 福岡市 東区",
+      "opened": "1981",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "だざいふ遊園地",
+      "location": "福岡県 太宰府市",
+      "opened": "1957",
+      "closed": "",
+      "status": "営業中",
+      "note": "旧・だざいふえん"
+    },
+    {
+      "name": "神野公園こども遊園地",
+      "location": "佐賀県 佐賀市",
+      "opened": "1964",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "メルヘン村",
+      "location": "佐賀県 武雄市",
+      "opened": "1992",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "ハウステンボス",
+      "location": "長崎県 佐世保市",
+      "opened": "1992年3月25日",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "熊本市動植物園",
+      "location": "熊本県 熊本市 東区",
+      "opened": "1929",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "グリーンランド",
+      "location": "熊本県 荒尾市",
+      "opened": "1966",
+      "closed": "",
+      "status": "営業中",
+      "note": "旧・三井グリーンランド"
+    },
+    {
+      "name": "城島高原パーク",
+      "location": "大分県 別府市",
+      "opened": "1967",
+      "closed": "",
+      "status": "営業中",
+      "note": "旧・キジマモートピアランド、旧・城島後楽園ゆうえんち、旧・セントレジャー城島高原パーク"
+    },
+    {
+      "name": "別府ラクテンチ",
+      "location": "大分県別府市",
+      "opened": "1929",
+      "closed": "",
+      "status": "営業中",
+      "note": "旧・別府遊園、旧・別府ケーブルラクテンチ、旧・別府ワンダーラクテンチ"
+    },
+    {
+      "name": "ハーモニーランド",
+      "location": "大分県 見郡 日出町",
+      "opened": "1991年4月26日",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "青島リゾートこどものくに",
+      "location": "宮崎県 宮崎市",
+      "opened": "1939",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "宮崎市フェニックス自然動物園",
+      "location": "宮崎県宮崎市",
+      "opened": "1971年3月24日",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "鹿児島市平川動物公園",
+      "location": "鹿児島県 鹿児島市",
+      "opened": "1972",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "ダグリ岬遊園地",
+      "location": "鹿児島県 志布志市",
+      "opened": "1981",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "ジャングリア沖縄",
+      "location": "沖縄県 国頭郡 今帰仁村",
+      "opened": "2025年7月25日",
+      "closed": "",
+      "status": "営業中",
+      "note": ""
+    },
+    {
+      "name": "石炭の歴史村 アドベンチャーファミリー",
+      "location": "北海道",
+      "opened": "1983年6月1日",
+      "closed": "2006年10月14日",
+      "status": "閉園済",
+      "note": "/石炭博物館のみ営業中"
+    },
+    {
+      "name": "いなせランド総合遊園地",
+      "location": "北海道",
+      "opened": "?-",
+      "closed": "2001",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "ウトナイ遊園地",
+      "location": "北海道",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "大沼遊園地",
+      "location": "北海道",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "オタモイ遊園地",
+      "location": "北海道",
+      "opened": "1935-",
+      "closed": "1952",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "小樽公園",
+      "location": "北海道",
+      "opened": "1970-",
+      "closed": "2006",
+      "status": "閉園済",
+      "note": "/公園部分は営業中"
+    },
+    {
+      "name": "帯広ファンタジードーム",
+      "location": "北海道",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": "/ファンタジープラザ"
+    },
+    {
+      "name": "カナディアンワールド",
+      "location": "北海道",
+      "opened": "?-",
+      "closed": "1997",
+      "status": "閉園済",
+      "note": "/民営公園"
+    },
+    {
+      "name": "グリュック王国",
+      "location": "北海道",
+      "opened": "1989年7月1日",
+      "closed": "2007年2月5日",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "紅桜庭園",
+      "location": "北海道",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": "庭園のみ営業中"
+    },
+    {
+      "name": "桜山遊園地",
+      "location": "北海道",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": "/公園のみ営業中"
+    },
+    {
+      "name": "サンタプレゼントパーク ノエルガーデン",
+      "location": "北海道",
+      "opened": "1996",
+      "closed": "2007",
+      "status": "閉園済",
+      "note": "/スキー場・展望台のみ営業中"
+    },
+    {
+      "name": "シーサイドパーク広尾",
+      "location": "北海道",
+      "opened": "1972-",
+      "closed": "2005",
+      "status": "閉園済",
+      "note": "/キャンプ場のみ営業中"
+    },
+    {
+      "name": "ジョイランド樽前",
+      "location": "北海道",
+      "opened": "1984-",
+      "closed": "?",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "ダイナレックス小樽",
+      "location": "北海道",
+      "opened": "1999-",
+      "closed": "2003",
+      "status": "閉園済",
+      "note": "/イカロスの城、ベイサイドクリフ浜壁"
+    },
+    {
+      "name": "太平洋スカイランド",
+      "location": "北海道",
+      "opened": "1969-",
+      "closed": "2002",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "TBS樽前ハイランド",
+      "location": "北海道",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "洞爺サマーランド",
+      "location": "北海道",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "内外レジャーランド",
+      "location": "北海道",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "中島公園 子供の国",
+      "location": "北海道",
+      "opened": "1958-",
+      "closed": "1994",
+      "status": "閉園済",
+      "note": "北海道大博覧会 中島会場こどもの国/円山子供の国キッドランドに移転"
+    },
+    {
+      "name": "錦沢遊園地",
+      "location": "北海道",
+      "opened": "?-",
+      "closed": "1970",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "茨戸ハワイランド",
+      "location": "北海道",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "苫小牧ファンタジードーム",
+      "location": "北海道",
+      "opened": "1990年9月5日",
+      "closed": "1997年1月16日",
+      "status": "閉園済",
+      "note": "日本初の屋内型遊園地 / 現 MEGAドン・キホーテ 苫小牧店"
+    },
+    {
+      "name": "東大沼遊園地",
+      "location": "北海道",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "伏見レジャーランド",
+      "location": "北海道",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "北都ヘルスプラザ",
+      "location": "北海道",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "ホリディ摩周ランド",
+      "location": "北海道",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "サマーランドだいりん",
+      "location": "北海道",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "北光ヘルスセンター",
+      "location": "北海道",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "むしむしランド",
+      "location": "北海道",
+      "opened": "1990",
+      "closed": "1993",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "藻岩ドリームランド",
+      "location": "北海道",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "円山 子供の国キッドランド",
+      "location": "北海道",
+      "opened": "1995-",
+      "closed": "2010",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "テイネオリンピア遊園地",
+      "location": "北海道",
+      "opened": "1966-",
+      "closed": "2009",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "稚内公園",
+      "location": "北海道",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": "/公園部分は営業中"
+    },
+    {
+      "name": "八戸市児童遊園地",
+      "location": "青森",
+      "opened": "1958-",
+      "closed": "1985",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "三八五観光遊園地",
+      "location": "青森",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "はごろも自然遊園地",
+      "location": "青森",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "プレイピア白浜",
+      "location": "青森",
+      "opened": "1985-",
+      "closed": "1998",
+      "status": "閉園済",
+      "note": "/2009年より公園部分は休業中"
+    },
+    {
+      "name": "ワンダーランドASAMUSHI",
+      "location": "青森",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": "旧・あさむしキディランド"
+    },
+    {
+      "name": "馬仙峡ユーランド",
+      "location": "岩手",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "サニーランド蛇の島",
+      "location": "岩手",
+      "opened": "1967-",
+      "closed": "1970",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "志戸平遊楽園",
+      "location": "岩手",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "マリンパーク山田",
+      "location": "岩手",
+      "opened": "1988-",
+      "closed": "1999",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "青葉山ジャルダン",
+      "location": "宮城",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "国見ジャルダン",
+      "location": "宮城",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "国見ランド",
+      "location": "宮城",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "泉ランド",
+      "location": "宮城",
+      "opened": "1966-",
+      "closed": "?",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "西花苑遊園地",
+      "location": "宮城",
+      "opened": "1963-",
+      "closed": "?",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "秋保ファミリーランド一休さん",
+      "location": "宮城",
+      "opened": "",
+      "closed": "2003(?)",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "バリハイセンター",
+      "location": "宮城",
+      "opened": "1973-",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "富谷グリーンパーク",
+      "location": "宮城",
+      "opened": "1965-",
+      "closed": "1999",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "化女沼レジャーランド",
+      "location": "宮城",
+      "opened": "1979-",
+      "closed": "2000",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "ベイパーク石巻",
+      "location": "宮城",
+      "opened": "1993-",
+      "closed": "2002",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "三陸海岸気仙沼遊園地",
+      "location": "宮城",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "南三陸シーサイドパレス",
+      "location": "宮城",
+      "opened": "1972-",
+      "closed": "?",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "仙台ハイランド",
+      "location": "宮城",
+      "opened": "1974-",
+      "closed": "2015年8月30日",
+      "status": "閉園済",
+      "note": "旧・西仙台ハイランド"
+    },
+    {
+      "name": "秋田ハワイアンセンター",
+      "location": "秋田",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "田沢湖スイス村",
+      "location": "秋田",
+      "opened": "1988年7月",
+      "closed": "2001年11月",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "天鷺遊園ファミリーランド",
+      "location": "秋田",
+      "opened": "1989",
+      "closed": "2008",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "仁別レジャーランド",
+      "location": "秋田",
+      "opened": "1989年3月",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "猿羽根山遊園地",
+      "location": "山形",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "諏訪山遊園地",
+      "location": "山形",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "山形ハワイドリームランド",
+      "location": "山形",
+      "opened": "1967年",
+      "closed": "1971年",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "山寺芭蕉園",
+      "location": "山形",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "ゆのはまランド",
+      "location": "山形",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "いわき仏の里",
+      "location": "福島",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "高子沼グリーンランド",
+      "location": "福島",
+      "opened": "1973年",
+      "closed": "1999年",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "照島ランド",
+      "location": "福島",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "アリスの森",
+      "location": "茨城",
+      "opened": "1989-",
+      "closed": "1993",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "偕楽園レイクランド",
+      "location": "茨城",
+      "opened": "1968-",
+      "closed": "?",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "ネオジオワールドつくば",
+      "location": "茨城",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "ゆう・もあ村",
+      "location": "茨城",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "小山ゆうえんち",
+      "location": "栃木",
+      "opened": "1960-",
+      "closed": "2005",
+      "status": "閉園済",
+      "note": "/ おやまゆうえんハーヴェストウォーク 、 小山 思川温泉"
+    },
+    {
+      "name": "ドンドンサ",
+      "location": "栃木",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "那須ロイヤルセンター",
+      "location": "栃木",
+      "opened": "1969-",
+      "closed": "2000",
+      "status": "閉園済",
+      "note": "/ コナミ キャンパス アネックス"
+    },
+    {
+      "name": "八幡山遊園地",
+      "location": "栃木",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "カッパピア",
+      "location": "群馬",
+      "opened": "1961-",
+      "closed": "2003年11月30日",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "軽井沢プレイランド",
+      "location": "群馬",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "新川児童遊園地",
+      "location": "群馬",
+      "opened": "1953-",
+      "closed": "1971",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "テングランド",
+      "location": "群馬",
+      "opened": "",
+      "closed": "1987年頃",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "ながめ遊園地",
+      "location": "群馬",
+      "opened": "1925-",
+      "closed": "1987",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "犬吠オーシャンランド",
+      "location": "千葉",
+      "opened": "1973-",
+      "closed": "1989",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "笠森遊園地",
+      "location": "千葉",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "恐竜パーク木更津",
+      "location": "千葉",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "行川アイランド",
+      "location": "千葉",
+      "opened": "1964-",
+      "closed": "2001",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "船橋ヘルスセンター",
+      "location": "千葉",
+      "opened": "1955年11月3日",
+      "closed": "1977年5月5日",
+      "status": "閉園済",
+      "note": "/ ららぽーとTOKYO-BAY"
+    },
+    {
+      "name": "谷津遊園",
+      "location": "千葉",
+      "opened": "1925",
+      "closed": "1982年12月21日",
+      "status": "閉園済",
+      "note": "/ 谷津バラ園"
+    },
+    {
+      "name": "妖怪ランド",
+      "location": "千葉",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "朝霞テック",
+      "location": "埼玉",
+      "opened": "1964-",
+      "closed": "1973",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "東松山遊園地",
+      "location": "埼玉",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "ユネスコ村",
+      "location": "埼玉",
+      "opened": "1951-",
+      "closed": "2006",
+      "status": "閉園済",
+      "note": "/ ところざわのゆり園"
+    },
+    {
+      "name": "わんぱくランド",
+      "location": "埼玉",
+      "opened": "1968-",
+      "closed": "2019",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "市川東華園",
+      "location": "東京",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "兎月園",
+      "location": "東京",
+      "opened": "1924-",
+      "closed": "1943",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "青梅鉄道楽々園",
+      "location": "東京",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "京王閣",
+      "location": "東京",
+      "opened": "1927-",
+      "closed": "1947",
+      "status": "閉園済",
+      "note": "/ 京王閣競輪場"
+    },
+    {
+      "name": "京王遊園",
+      "location": "東京",
+      "opened": "1955-",
+      "closed": "1971",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "新宿園",
+      "location": "東京",
+      "opened": "1924-",
+      "closed": "1926",
+      "status": "閉園済",
+      "note": "/ 国立大学町 に設備を移設"
+    },
+    {
+      "name": "新宿ジョイポリス",
+      "location": "東京",
+      "opened": "1996-",
+      "closed": "2000",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "多摩川園",
+      "location": "東京",
+      "opened": "1925-",
+      "closed": "1979",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "多摩川原遊園",
+      "location": "東京",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "多摩テック",
+      "location": "東京",
+      "opened": "1961年10月1日",
+      "closed": "2009年9月30日",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "つばさ遊園地",
+      "location": "東京",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "東京マリン",
+      "location": "東京",
+      "opened": "1972-",
+      "closed": "2001",
+      "status": "閉園済",
+      "note": "/ 東京アクアージュ"
+    },
+    {
+      "name": "としまえん",
+      "location": "東京",
+      "opened": "1926-",
+      "closed": "2020年8月31日",
+      "status": "閉園済",
+      "note": "/ ワーナーブラザース スタジオツアー東京"
+    },
+    {
+      "name": "ナムコ・ワンダーエッグ",
+      "location": "東京",
+      "opened": "1992-",
+      "closed": "2000",
+      "status": "閉園済",
+      "note": "/ 二子玉川ライズ"
+    },
+    {
+      "name": "ネオジオワールド東京ベイサイド",
+      "location": "東京",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "二子玉川園",
+      "location": "東京",
+      "opened": "1922-",
+      "closed": "1985",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "麺食王国",
+      "location": "東京",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "ルナパーク (浅草)",
+      "location": "東京",
+      "opened": "1910-",
+      "closed": "1911",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "花月園遊園地",
+      "location": "神奈川",
+      "opened": "1914-",
+      "closed": "1946",
+      "status": "閉園済",
+      "note": "/ 花月園競輪場"
+    },
+    {
+      "name": "ダイナレックス本牧",
+      "location": "神奈川",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "竜口園",
+      "location": "神奈川",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "野毛山遊園地",
+      "location": "神奈川",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "向ヶ丘遊園",
+      "location": "神奈川",
+      "opened": "1927年4月1日",
+      "closed": "2002年3月31日",
+      "status": "閉園済",
+      "note": "/ 藤子・F・不二雄ミュージアム"
+    },
+    {
+      "name": "横浜ドリームランド",
+      "location": "神奈川",
+      "opened": "1964-",
+      "closed": "2002",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "横浜ジョイポリス",
+      "location": "神奈川",
+      "opened": "1994-",
+      "closed": "2001",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "ワイルドブルーヨコハマ",
+      "location": "神奈川",
+      "opened": "1992-",
+      "closed": "2001",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "富士ガリバー王国",
+      "location": "山梨",
+      "opened": "1997-",
+      "closed": "2001",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "河口湖遊園",
+      "location": "山梨",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "小松遊覧農場",
+      "location": "山梨",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "光の楽園",
+      "location": "山梨",
+      "opened": "1995-",
+      "closed": "2001",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "とやのレイクランド",
+      "location": "新潟",
+      "opened": "1989-",
+      "closed": "1996",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "新潟ジョイポリス",
+      "location": "新潟",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "新潟遊園",
+      "location": "新潟",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "野積ドリームランド",
+      "location": "新潟",
+      "opened": "1981-",
+      "closed": "?",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "松ヶ峰遊園",
+      "location": "新潟",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "ラパーク聖籠ファンタジードーム",
+      "location": "新潟",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "ゴールデンランド （通称、きんちゃん）",
+      "location": "富山",
+      "opened": "1984-",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "大川寺遊園",
+      "location": "富山",
+      "opened": "1958-",
+      "closed": "1996",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "粟崎遊園",
+      "location": "石川",
+      "opened": "1925-",
+      "closed": "1941",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "濤々園",
+      "location": "石川",
+      "opened": "1926-",
+      "closed": "1943",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "金沢サニーランド",
+      "location": "石川",
+      "opened": "1958-",
+      "closed": "1993",
+      "status": "閉園済",
+      "note": "旧・金沢ヘルスセンター/ いしかわ動物園"
+    },
+    {
+      "name": "山中水無山展望台",
+      "location": "石川",
+      "opened": "1959-",
+      "closed": "?",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "手取遊園",
+      "location": "石川",
+      "opened": "1955-",
+      "closed": "1971",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "ユートピア加賀の郷",
+      "location": "石川",
+      "opened": "1987-",
+      "closed": "1999",
+      "status": "閉園済",
+      "note": "/ 加賀寺"
+    },
+    {
+      "name": "東尋坊温泉ファミリーランド",
+      "location": "福井",
+      "opened": "1964-",
+      "closed": "1988",
+      "status": "閉園済",
+      "note": "旧・三国観光ホテル/ 三国オーシャンリゾート&ホテル"
+    },
+    {
+      "name": "湯田中遊園地",
+      "location": "長野",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "ゴールドタウン",
+      "location": "静岡",
+      "opened": "1960年代",
+      "closed": "？（1980年以前）",
+      "status": "閉園済",
+      "note": "大仁金山跡地を再開発した施設。/帝産ヘルスセンター（1990年代に閉鎖）、 伊豆温泉村"
+    },
+    {
+      "name": "伊豆富士見ランド",
+      "location": "静岡",
+      "opened": "1966-",
+      "closed": "1999",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "小田急花鳥山脈",
+      "location": "静岡",
+      "opened": "1970-",
+      "closed": "1998",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "小田急御殿場ファミリーランド",
+      "location": "静岡",
+      "opened": "1974年11月15日",
+      "closed": "1999年9月5日",
+      "status": "閉園済",
+      "note": "一部はスリルバレーとして2002年まで営業。/ 御殿場プレミアム・アウトレット"
+    },
+    {
+      "name": "御前崎ランド",
+      "location": "静岡",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "狐ヶ崎ヤングランド",
+      "location": "静岡",
+      "opened": "1926-",
+      "closed": "1993",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "三保文化ランド",
+      "location": "静岡",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "内海フォレストパーク",
+      "location": "愛知",
+      "opened": "1982-",
+      "closed": "2003",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "大塚遊園地",
+      "location": "愛知",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "三谷弘法山遊園地",
+      "location": "愛知",
+      "opened": "1959-",
+      "closed": "1984",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "とぼねスカイランド",
+      "location": "愛知",
+      "opened": "1978-",
+      "closed": "1998",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "長山遊園地",
+      "location": "愛知",
+      "opened": "1930-",
+      "closed": "1940年代頃?",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "八事遊園地",
+      "location": "愛知",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "恵那峡ランド",
+      "location": "岐阜",
+      "opened": "1970年",
+      "closed": "2000年11月30日",
+      "status": "閉園済",
+      "note": "/ 恵那峡ワンダーランド"
+    },
+    {
+      "name": "郡上八幡サンパークランド",
+      "location": "岐阜",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "セキスポファミリーランド",
+      "location": "岐阜",
+      "opened": "1976-",
+      "closed": "?",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "関の孫六苑",
+      "location": "岐阜",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "関ヶ原メナードランド",
+      "location": "岐阜",
+      "opened": "1972-",
+      "closed": "2000",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "柳津パーク",
+      "location": "岐阜",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "甲賀ファミリーランド",
+      "location": "滋賀",
+      "opened": "1970年頃",
+      "closed": "1985年",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "佐和山遊園",
+      "location": "滋賀",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "多賀SLパーク",
+      "location": "滋賀",
+      "opened": "1996-",
+      "closed": "2000",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "ちびっこ広場",
+      "location": "滋賀",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "びわ湖タワー",
+      "location": "滋賀",
+      "opened": "1965年",
+      "closed": "2001年8月31日",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "びわ湖パラダイス",
+      "location": "滋賀",
+      "opened": "1966-",
+      "closed": "1998",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "びわ湖わんわん王国",
+      "location": "滋賀",
+      "opened": "1998-",
+      "closed": "2005",
+      "status": "閉園済",
+      "note": "/ ピエリ守山"
+    },
+    {
+      "name": "八日市遊園地",
+      "location": "滋賀",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "御殿場遊園地",
+      "location": "三重",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "ダイナレックス桑名",
+      "location": "三重",
+      "opened": "1995-",
+      "closed": "2012年2月19日",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "名鉄スポーツバレー東海",
+      "location": "三重",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "近鉄あやめ池遊園地",
+      "location": "奈良",
+      "opened": "1926-",
+      "closed": "2004年6月6日",
+      "status": "閉園済",
+      "note": "/近鉄あやめ池住宅地"
+    },
+    {
+      "name": "生駒テック",
+      "location": "奈良",
+      "opened": "1961-",
+      "closed": "1965",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "奈良ドリームランド",
+      "location": "奈良",
+      "opened": "1961-",
+      "closed": "2006年8月31日",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "愛宕山遊園地",
+      "location": "京都",
+      "opened": "1929-",
+      "closed": "1944",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "宇治川遊園",
+      "location": "京都",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "京都ジョイポリス",
+      "location": "京都",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "清滝遊園地",
+      "location": "京都",
+      "opened": "1929-",
+      "closed": "1944",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "森のゆうえんち",
+      "location": "京都",
+      "opened": "1964年10月",
+      "closed": "2001年11月30日",
+      "status": "閉園済",
+      "note": "旧・八瀬遊園 / エクシブ京都八瀬離宮"
+    },
+    {
+      "name": "比叡山頂遊園地",
+      "location": "京都",
+      "opened": "1959-",
+      "closed": "2001",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "伏見桃山城キャッスルランド",
+      "location": "京都",
+      "opened": "1964-",
+      "closed": "2003",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "市岡パラダイス",
+      "location": "大阪",
+      "opened": "1925-",
+      "closed": "1930",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "エキスポランド",
+      "location": "大阪",
+      "opened": "1970年3月15日",
+      "closed": "2009年2月",
+      "status": "閉園済",
+      "note": "/ EXPOCITY"
+    },
+    {
+      "name": "大浜パーク",
+      "location": "大阪",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "近鉄玉手山遊園地",
+      "location": "大阪",
+      "opened": "1908-",
+      "closed": "1998",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "香里遊園地",
+      "location": "大阪",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "さやま遊園",
+      "location": "大阪",
+      "opened": "1938-",
+      "closed": "2000",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "シムランドQ",
+      "location": "大阪",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "砂川遊園",
+      "location": "大阪",
+      "opened": "1935-",
+      "closed": "?",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "千里山遊園",
+      "location": "大阪",
+      "opened": "1921-",
+      "closed": "1950",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "淡輪遊園",
+      "location": "大阪",
+      "opened": "1911-",
+      "closed": "?",
+      "status": "閉園済",
+      "note": "/あたご山公園"
+    },
+    {
+      "name": "天保山遊園",
+      "location": "大阪",
+      "opened": "1888-",
+      "closed": "1897",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "PLランド（桜ケ丘遊園）",
+      "location": "大阪",
+      "opened": "1957-",
+      "closed": "1989",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "ファンタジードーム岸和田",
+      "location": "大阪",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "フェスティバルゲート",
+      "location": "大阪",
+      "opened": "1997年7月18日",
+      "closed": "2007",
+      "status": "閉園済",
+      "note": "/ マルハン 新世界店・ MEGAドン・キホーテ 新世界店"
+    },
+    {
+      "name": "みなと遊園",
+      "location": "大阪",
+      "opened": "1961-",
+      "closed": "1969",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "りんくうパパラ",
+      "location": "大阪",
+      "opened": "1994-",
+      "closed": "2004",
+      "status": "閉園済",
+      "note": "/ りんくうプレジャータウンSEACLE"
+    },
+    {
+      "name": "ルナパーク (大阪)",
+      "location": "大阪",
+      "opened": "1912-",
+      "closed": "1923",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "みさき公園",
+      "location": "大阪",
+      "opened": "1957年4月1日",
+      "closed": "2020年3月31日",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "大池遊園",
+      "location": "和歌山",
+      "opened": "1954-",
+      "closed": "1959",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "家族遊園ピンポンパン",
+      "location": "和歌山",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "新和歌遊園",
+      "location": "和歌山",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "和歌浦遊園",
+      "location": "和歌山",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "アリバシティ神戸",
+      "location": "兵庫",
+      "opened": "1992-",
+      "closed": "1997",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "奥摩耶遊園地",
+      "location": "兵庫",
+      "opened": "1955-",
+      "closed": "?",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "キリンガーデンコミュニティ",
+      "location": "兵庫",
+      "opened": "1998-",
+      "closed": "2001",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "甲子園阪神パーク",
+      "location": "兵庫",
+      "opened": "1950-",
+      "closed": "2003",
+      "status": "閉園済",
+      "note": "/ ららぽーと甲子園"
+    },
+    {
+      "name": "神戸ポートピアランド",
+      "location": "兵庫",
+      "opened": "1981年10月1日",
+      "closed": "2006年3月31日",
+      "status": "閉園済",
+      "note": "旧・ 神戸ポートアイランド博覧会 / IKEA神戸"
+    },
+    {
+      "name": "モザイクガーデン",
+      "location": "兵庫",
+      "opened": "1995-",
+      "closed": "2013",
+      "status": "閉園済",
+      "note": "/ 神戸アンパンマンこどもミュージアム&モール"
+    },
+    {
+      "name": "香枦園遊園地",
+      "location": "兵庫",
+      "opened": "1907-",
+      "closed": "1913",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "宝塚ファミリーランド",
+      "location": "兵庫",
+      "opened": "1911-",
+      "closed": "2003",
+      "status": "閉園済",
+      "note": "/ 宝塚ガーデンフィールズ （2013年閉園）・ ベビーザらス 阪急宝塚店・ 関西学院初等部"
+    },
+    {
+      "name": "東条湖ランド",
+      "location": "兵庫",
+      "opened": "1969-",
+      "closed": "2000",
+      "status": "閉園済",
+      "note": "/東条湖 おもちゃ王国"
+    },
+    {
+      "name": "摩耶ケーブル遊園地",
+      "location": "兵庫",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "六甲ランドAOIA",
+      "location": "兵庫",
+      "opened": "1991年",
+      "closed": "1995年1月16日",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "ひめじ手柄山遊園",
+      "location": "兵庫",
+      "opened": "1966-",
+      "closed": "2020",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "きびの郷ワンダーランド",
+      "location": "岡山",
+      "opened": "1980-",
+      "closed": "1996",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "京山ロープウェー遊園",
+      "location": "岡山",
+      "opened": "1956-",
+      "closed": "1998",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "倉敷チボリ公園",
+      "location": "岡山",
+      "opened": "1997-",
+      "closed": "2008年1月1日",
+      "status": "閉園済",
+      "note": "/ アリオ倉敷 ・ 三井アウトレットパーク 倉敷 ・ 倉敷みらい公園"
+    },
+    {
+      "name": "赤坂遊園",
+      "location": "広島",
+      "opened": "1972-",
+      "closed": "1991",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "太田川遊園地",
+      "location": "広島",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "呉ポートピアランド",
+      "location": "広島",
+      "opened": "1992-",
+      "closed": "1998",
+      "status": "閉園済",
+      "note": "/ 呉ポートピアパーク"
+    },
+    {
+      "name": "小ノ池遊園",
+      "location": "広島",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "サンパーク日名内",
+      "location": "広島",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "シトラスパーク瀬戸田",
+      "location": "広島",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "千光寺山グリーンランド",
+      "location": "広島",
+      "opened": "1966-",
+      "closed": "2007",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "田中パーク",
+      "location": "広島",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "野呂山遊園地",
+      "location": "広島",
+      "opened": "1968-",
+      "closed": "1974",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "ヒロシマナタリー",
+      "location": "広島",
+      "opened": "1974年4月23日",
+      "closed": "1996年3月31日",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "楽々園遊園地",
+      "location": "広島",
+      "opened": "1936-",
+      "closed": "1972",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "三朝ファミリーランド",
+      "location": "鳥取",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "大山寺遊園地",
+      "location": "鳥取",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "鳥取プレイランド",
+      "location": "鳥取",
+      "opened": "1986-",
+      "closed": "1995",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "弓ヶ浜わくわくランド",
+      "location": "鳥取",
+      "opened": "1998-",
+      "closed": "2006",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "一畑パーク",
+      "location": "島根",
+      "opened": "1961-",
+      "closed": "1979",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "川棚温泉自然ランド",
+      "location": "山口",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "下関マリンランド",
+      "location": "山口",
+      "opened": "1971-",
+      "closed": "1999",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "長府楽園地",
+      "location": "山口",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "マリンピアくろい",
+      "location": "山口",
+      "opened": "1977-",
+      "closed": "1997",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "亀山公園こどもの国",
+      "location": "香川",
+      "opened": "1964-",
+      "closed": "2007",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "仁尾サンシャインランド",
+      "location": "香川",
+      "opened": "1984-",
+      "closed": "1995",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "スカイランド眉山",
+      "location": "徳島",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "園瀬リバーパーク",
+      "location": "徳島",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "吉野川遊園地",
+      "location": "徳島",
+      "opened": "1931-",
+      "closed": "2011",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "赤松遊園地",
+      "location": "愛媛",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "唐子浜パーク",
+      "location": "愛媛",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "梅津寺パーク",
+      "location": "愛媛",
+      "opened": "1963",
+      "closed": "2009",
+      "status": "閉園済",
+      "note": "/ 梅津寺公園"
+    },
+    {
+      "name": "三宝山スカイパーク",
+      "location": "高知",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "到津遊園",
+      "location": "福岡",
+      "opened": "1932-",
+      "closed": "2000",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "スペースワールド",
+      "location": "福岡",
+      "opened": "1990年4月22日",
+      "closed": "2018年1月1日",
+      "status": "閉園済",
+      "note": "/ THE OUTLETS KITAKYUSHU"
+    },
+    {
+      "name": "梶ヶ鼻遊園地",
+      "location": "福岡",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "玄海彫刻の岬・恋の浦",
+      "location": "福岡",
+      "opened": "1984-",
+      "closed": "2001",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "かしいかえん",
+      "location": "福岡",
+      "opened": "1938-",
+      "closed": "2021",
+      "status": "閉園済",
+      "note": "旧・香椎チューリップ園"
+    },
+    {
+      "name": "福岡ジョイポリス",
+      "location": "福岡",
+      "opened": "1996-",
+      "closed": "2009",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "平尾台丸和ランド",
+      "location": "福岡",
+      "opened": "1967-",
+      "closed": "?",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "ネイブルランド",
+      "location": "福岡",
+      "opened": "1995-",
+      "closed": "1998",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "志高ユートピア",
+      "location": "大分",
+      "opened": "1968-",
+      "closed": "2003",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "鶴見園",
+      "location": "大分",
+      "opened": "1925-",
+      "closed": "1943",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "西海橋遊園地水族館",
+      "location": "長崎",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "長崎遊園地",
+      "location": "長崎",
+      "opened": "1957-",
+      "closed": "1996",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "阿蘇東急ワンダーランド",
+      "location": "熊本",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "ひのくにランド",
+      "location": "熊本",
+      "opened": "1975-",
+      "closed": "1997",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "国分ジャングルパーク",
+      "location": "鹿児島",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "さつま湖遊園地",
+      "location": "鹿児島",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "桜島遊園地",
+      "location": "鹿児島",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "ジャングルパーク遊園地",
+      "location": "鹿児島",
+      "opened": "1970-",
+      "closed": "2005",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "城山遊楽園",
+      "location": "鹿児島",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "沖縄アイランドパーク",
+      "location": "沖縄",
+      "opened": "1990年",
+      "closed": "1999年",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "沖縄エキスポランド",
+      "location": "沖縄",
+      "opened": "1975-",
+      "closed": "2000",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "沖縄グランドパーク",
+      "location": "沖縄",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "中城公園遊園地",
+      "location": "沖縄",
+      "opened": "",
+      "closed": "",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "ひめゆりパーク",
+      "location": "沖縄",
+      "opened": "1983-",
+      "closed": "2005",
+      "status": "閉園済",
+      "note": ""
+    },
+    {
+      "name": "与那原テック",
+      "location": "沖縄",
+      "opened": "1966-",
+      "closed": "1986",
+      "status": "閉園済",
+      "note": "/マリンタウンゴルフ"
+    }
+  ],
+  "meta": {
+    "title": "日本の遊園地一覧（営業中・閉園済）(Amusement parks in Japan) - Free Download",
+    "description": "日本の遊園地の営業中・閉園済の一覧（名称、所在地、開園日、閉園日、備考） Contains 388 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の遊園地一覧（営業中・閉園済）(Amusement parks in Japan) | ListBase",
+    "seo_description": "Download 日本の遊園地一覧（営業中・閉園済）(Amusement parks in Japan) — 388 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 388 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/遊園地"
+    ]
+  }
+}

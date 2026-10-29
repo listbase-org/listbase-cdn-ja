@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-29T02:20:22.526Z",
-  "total_datasets": 553,
-  "total_records": 458170,
+  "generated": "2026-10-29T02:20:26.646Z",
+  "total_datasets": 554,
+  "total_records": 458558,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "transport",
@@ -15465,6 +15465,33 @@
         "xlsx": {
           "name": "ja-tokubetsu-meisho_JA.xlsx",
           "size": 8551
+        }
+      }
+    },
+    {
+      "id": "ja-yuenchi-ichiran",
+      "name": "日本の遊園地一覧（営業中・閉園済）(Amusement parks in Japan)",
+      "category": "tourism",
+      "record_count": 388,
+      "columns": [
+        "name",
+        "location",
+        "opened",
+        "closed",
+        "status",
+        "note"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/遊園地",
+      "updated": "2026-10",
+      "size": 75726,
+      "files": {
+        "csv": {
+          "name": "ja-yuenchi-ichiran_JA.csv",
+          "size": 30460
+        },
+        "xlsx": {
+          "name": "ja-yuenchi-ichiran_JA.xlsx",
+          "size": 25001
         }
       }
     },
