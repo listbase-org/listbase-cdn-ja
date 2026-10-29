@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-29T02:20:18.392Z",
-  "total_datasets": 552,
-  "total_records": 458108,
+  "generated": "2026-10-29T02:20:22.526Z",
+  "total_datasets": 553,
+  "total_records": 458170,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "education",
@@ -580,6 +580,34 @@
         "xlsx": {
           "name": "ja-todofuken-symbol_JA.xlsx",
           "size": 9822
+        }
+      }
+    },
+    {
+      "id": "ja-chiho-ginko-ichiran",
+      "name": "地方銀行一覧 (Regional banks of Japan)",
+      "category": "economy",
+      "record_count": 62,
+      "columns": [
+        "bank",
+        "headquarters",
+        "branches",
+        "deposits_oku_yen",
+        "loans_oku_yen",
+        "capital_ratio_pct",
+        "bank_code"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/地方銀行",
+      "updated": "2026-10",
+      "size": 16769,
+      "files": {
+        "csv": {
+          "name": "ja-chiho-ginko-ichiran_JA.csv",
+          "size": 4967
+        },
+        "xlsx": {
+          "name": "ja-chiho-ginko-ichiran_JA.xlsx",
+          "size": 10702
         }
       }
     },

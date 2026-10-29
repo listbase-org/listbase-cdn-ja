@@ -1,0 +1,619 @@
+{
+  "id": "ja-chiho-ginko-ichiran",
+  "name": "地方銀行一覧 (Regional banks of Japan)",
+  "title": "地方銀行一覧 (Regional banks of Japan)",
+  "description": "日本の地方銀行（全国地方銀行協会加盟行）の本店所在地、店舗数、預金・貸出金、自己資本比率、金融機関コードの一覧",
+  "category": "economy",
+  "source": "https://ja.wikipedia.org/wiki/地方銀行",
+  "source_url": "https://ja.wikipedia.org/wiki/地方銀行",
+  "updated": "2026-10",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "headquarters",
+      "label": "Headquarters",
+      "type": "string"
+    },
+    {
+      "key": "branches",
+      "label": "Branches",
+      "type": "number"
+    },
+    {
+      "key": "deposits_oku_yen",
+      "label": "Deposits Oku Yen",
+      "type": "number"
+    },
+    {
+      "key": "loans_oku_yen",
+      "label": "Loans Oku Yen",
+      "type": "number"
+    },
+    {
+      "key": "capital_ratio_pct",
+      "label": "Capital Ratio Pct",
+      "type": "number"
+    },
+    {
+      "key": "bank_code",
+      "label": "Bank Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "北海道銀行",
+      "headquarters": "北海道 札幌市 中央区",
+      "branches": 144,
+      "deposits_oku_yen": 60941,
+      "loans_oku_yen": 45757,
+      "capital_ratio_pct": 9.37,
+      "bank_code": "0116"
+    },
+    {
+      "bank": "青森みちのく銀行",
+      "headquarters": "青森県 青森市",
+      "branches": 178,
+      "deposits_oku_yen": 50382,
+      "loans_oku_yen": 35497,
+      "capital_ratio_pct": 8.68,
+      "bank_code": "0117"
+    },
+    {
+      "bank": "秋田銀行",
+      "headquarters": "秋田県 秋田市",
+      "branches": 98,
+      "deposits_oku_yen": 31337,
+      "loans_oku_yen": 20641,
+      "capital_ratio_pct": 11.79,
+      "bank_code": "0119"
+    },
+    {
+      "bank": "北都銀行",
+      "headquarters": "秋田県秋田市",
+      "branches": 85,
+      "deposits_oku_yen": 13632,
+      "loans_oku_yen": 9579,
+      "capital_ratio_pct": 9.33,
+      "bank_code": "0120"
+    },
+    {
+      "bank": "荘内銀行",
+      "headquarters": "山形県 山形市",
+      "branches": 89,
+      "deposits_oku_yen": 13128,
+      "loans_oku_yen": 9739,
+      "capital_ratio_pct": 10.39,
+      "bank_code": "0121"
+    },
+    {
+      "bank": "山形銀行",
+      "headquarters": "山形県山形市",
+      "branches": 84,
+      "deposits_oku_yen": 28498,
+      "loans_oku_yen": 20407,
+      "capital_ratio_pct": 9.8,
+      "bank_code": "0122"
+    },
+    {
+      "bank": "岩手銀行",
+      "headquarters": "岩手県 盛岡市",
+      "branches": 110,
+      "deposits_oku_yen": 32022,
+      "loans_oku_yen": 22066,
+      "capital_ratio_pct": 11.09,
+      "bank_code": "0123"
+    },
+    {
+      "bank": "東北銀行",
+      "headquarters": "岩手県盛岡市",
+      "branches": 57,
+      "deposits_oku_yen": 9217,
+      "loans_oku_yen": 6982,
+      "capital_ratio_pct": 8.99,
+      "bank_code": "0124"
+    },
+    {
+      "bank": "七十七銀行",
+      "headquarters": "宮城県 仙台市 青葉区",
+      "branches": 144,
+      "deposits_oku_yen": 88305,
+      "loans_oku_yen": 61880,
+      "capital_ratio_pct": 10.21,
+      "bank_code": "0125"
+    },
+    {
+      "bank": "東邦銀行",
+      "headquarters": "福島県 福島市",
+      "branches": 123,
+      "deposits_oku_yen": 57709,
+      "loans_oku_yen": 40540,
+      "capital_ratio_pct": 10.27,
+      "bank_code": "0126"
+    },
+    {
+      "bank": "群馬銀行",
+      "headquarters": "群馬県 前橋市",
+      "branches": 161,
+      "deposits_oku_yen": 84629,
+      "loans_oku_yen": 68451,
+      "capital_ratio_pct": 12.39,
+      "bank_code": "0128"
+    },
+    {
+      "bank": "足利銀行",
+      "headquarters": "栃木県 宇都宮市",
+      "branches": 134,
+      "deposits_oku_yen": 71505,
+      "loans_oku_yen": 56262,
+      "capital_ratio_pct": 11.69,
+      "bank_code": "0129"
+    },
+    {
+      "bank": "常陽銀行",
+      "headquarters": "茨城県 水戸市",
+      "branches": 181,
+      "deposits_oku_yen": 104571,
+      "loans_oku_yen": 77330,
+      "capital_ratio_pct": 12.47,
+      "bank_code": "0130"
+    },
+    {
+      "bank": "筑波銀行",
+      "headquarters": "茨城県 土浦市",
+      "branches": 148,
+      "deposits_oku_yen": 26343,
+      "loans_oku_yen": 21160,
+      "capital_ratio_pct": 9.37,
+      "bank_code": "0131"
+    },
+    {
+      "bank": "埼玉りそな銀行",
+      "headquarters": "埼玉県 さいたま市 浦和区",
+      "branches": 127,
+      "deposits_oku_yen": 177438,
+      "loans_oku_yen": 87519,
+      "capital_ratio_pct": 15.55,
+      "bank_code": "0017"
+    },
+    {
+      "bank": "武蔵野銀行",
+      "headquarters": "埼玉県さいたま市 大宮区",
+      "branches": 100,
+      "deposits_oku_yen": 50688,
+      "loans_oku_yen": 41264,
+      "capital_ratio_pct": 12.64,
+      "bank_code": "0133"
+    },
+    {
+      "bank": "千葉銀行",
+      "headquarters": "千葉県 千葉市 中央区",
+      "branches": 187,
+      "deposits_oku_yen": 162687,
+      "loans_oku_yen": 132333,
+      "capital_ratio_pct": 14.14,
+      "bank_code": "0134"
+    },
+    {
+      "bank": "千葉興業銀行",
+      "headquarters": "千葉県千葉市 美浜区",
+      "branches": 74,
+      "deposits_oku_yen": 28795,
+      "loans_oku_yen": 24203,
+      "capital_ratio_pct": 9.18,
+      "bank_code": "0135"
+    },
+    {
+      "bank": "きらぼし銀行",
+      "headquarters": "東京都 港区",
+      "branches": 163,
+      "deposits_oku_yen": 54678,
+      "loans_oku_yen": 49530,
+      "capital_ratio_pct": 9.12,
+      "bank_code": "0137"
+    },
+    {
+      "bank": "横浜銀行",
+      "headquarters": "神奈川県 横浜市 西区",
+      "branches": 208,
+      "deposits_oku_yen": 185621,
+      "loans_oku_yen": 147833,
+      "capital_ratio_pct": 13.96,
+      "bank_code": "0138"
+    },
+    {
+      "bank": "第四北越銀行",
+      "headquarters": "新潟県 新潟市 中央区",
+      "branches": 207,
+      "deposits_oku_yen": 85493,
+      "loans_oku_yen": 56143,
+      "capital_ratio_pct": 9.42,
+      "bank_code": "0140"
+    },
+    {
+      "bank": "山梨中央銀行",
+      "headquarters": "山梨県 甲府市",
+      "branches": 99,
+      "deposits_oku_yen": 35489,
+      "loans_oku_yen": 27600,
+      "capital_ratio_pct": 9.69,
+      "bank_code": "0142"
+    },
+    {
+      "bank": "八十二長野銀行",
+      "headquarters": "長野県 長野市",
+      "branches": 153,
+      "deposits_oku_yen": 86938,
+      "loans_oku_yen": 60260,
+      "capital_ratio_pct": 15.65,
+      "bank_code": "0143"
+    },
+    {
+      "bank": "北陸銀行",
+      "headquarters": "富山県 富山市",
+      "branches": 188,
+      "deposits_oku_yen": 78739,
+      "loans_oku_yen": 59017,
+      "capital_ratio_pct": 10.08,
+      "bank_code": "0144"
+    },
+    {
+      "bank": "富山銀行",
+      "headquarters": "富山県 高岡市",
+      "branches": 39,
+      "deposits_oku_yen": 5027,
+      "loans_oku_yen": 3844,
+      "capital_ratio_pct": 8.93,
+      "bank_code": "0145"
+    },
+    {
+      "bank": "北國銀行",
+      "headquarters": "石川県 金沢市",
+      "branches": 106,
+      "deposits_oku_yen": 49158,
+      "loans_oku_yen": 26297,
+      "capital_ratio_pct": 8.3,
+      "bank_code": "0146"
+    },
+    {
+      "bank": "福井銀行",
+      "headquarters": "福井県 福井市",
+      "branches": 98,
+      "deposits_oku_yen": 29012,
+      "loans_oku_yen": 20430,
+      "capital_ratio_pct": 8.1,
+      "bank_code": "0147"
+    },
+    {
+      "bank": "静岡銀行",
+      "headquarters": "静岡県 静岡市 葵区",
+      "branches": 207,
+      "deposits_oku_yen": 119847,
+      "loans_oku_yen": 107350,
+      "capital_ratio_pct": 12.55,
+      "bank_code": "0149"
+    },
+    {
+      "bank": "スルガ銀行",
+      "headquarters": "静岡県 沼津市",
+      "branches": 100,
+      "deposits_oku_yen": 31540,
+      "loans_oku_yen": 21838,
+      "capital_ratio_pct": 11.27,
+      "bank_code": "0150"
+    },
+    {
+      "bank": "清水銀行",
+      "headquarters": "静岡県静岡市 清水区",
+      "branches": 79,
+      "deposits_oku_yen": 15984,
+      "loans_oku_yen": 12617,
+      "capital_ratio_pct": 8.35,
+      "bank_code": "0151"
+    },
+    {
+      "bank": "大垣共立銀行",
+      "headquarters": "岐阜県 大垣市",
+      "branches": 155,
+      "deposits_oku_yen": 57232,
+      "loans_oku_yen": 44947,
+      "capital_ratio_pct": 9.31,
+      "bank_code": "0152"
+    },
+    {
+      "bank": "十六銀行",
+      "headquarters": "岐阜県 岐阜市",
+      "branches": 160,
+      "deposits_oku_yen": 63738,
+      "loans_oku_yen": 50327,
+      "capital_ratio_pct": 10.02,
+      "bank_code": "0153"
+    },
+    {
+      "bank": "三十三銀行",
+      "headquarters": "三重県 四日市市",
+      "branches": 172,
+      "deposits_oku_yen": 38697,
+      "loans_oku_yen": 30372,
+      "capital_ratio_pct": 8.18,
+      "bank_code": "0154"
+    },
+    {
+      "bank": "百五銀行",
+      "headquarters": "三重県 津市",
+      "branches": 145,
+      "deposits_oku_yen": 59843,
+      "loans_oku_yen": 50781,
+      "capital_ratio_pct": 11.92,
+      "bank_code": "0155"
+    },
+    {
+      "bank": "滋賀銀行",
+      "headquarters": "滋賀県 大津市",
+      "branches": 100,
+      "deposits_oku_yen": 58125,
+      "loans_oku_yen": 45632,
+      "capital_ratio_pct": 13.34,
+      "bank_code": "0157"
+    },
+    {
+      "bank": "京都銀行",
+      "headquarters": "京都府 京都市 下京区",
+      "branches": 174,
+      "deposits_oku_yen": 92876,
+      "loans_oku_yen": 73222,
+      "capital_ratio_pct": 10.64,
+      "bank_code": "0158"
+    },
+    {
+      "bank": "関西みらい銀行",
+      "headquarters": "大阪府 大阪市 中央区",
+      "branches": 266,
+      "deposits_oku_yen": 76050,
+      "loans_oku_yen": 71927,
+      "capital_ratio_pct": 11.26,
+      "bank_code": "0159"
+    },
+    {
+      "bank": "池田泉州銀行",
+      "headquarters": "大阪府大阪市 北区",
+      "branches": 139,
+      "deposits_oku_yen": 57151,
+      "loans_oku_yen": 47153,
+      "capital_ratio_pct": 10.1,
+      "bank_code": "0161"
+    },
+    {
+      "bank": "南都銀行",
+      "headquarters": "奈良県 奈良市",
+      "branches": 137,
+      "deposits_oku_yen": 58800,
+      "loans_oku_yen": 44932,
+      "capital_ratio_pct": 10.93,
+      "bank_code": "0162"
+    },
+    {
+      "bank": "紀陽銀行",
+      "headquarters": "和歌山県 和歌山市",
+      "branches": 113,
+      "deposits_oku_yen": 46782,
+      "loans_oku_yen": 41690,
+      "capital_ratio_pct": 11.24,
+      "bank_code": "0163"
+    },
+    {
+      "bank": "但馬銀行",
+      "headquarters": "兵庫県 豊岡市",
+      "branches": 69,
+      "deposits_oku_yen": 11521,
+      "loans_oku_yen": 9843,
+      "capital_ratio_pct": 8.53,
+      "bank_code": "0164"
+    },
+    {
+      "bank": "鳥取銀行",
+      "headquarters": "鳥取県 鳥取市",
+      "branches": 65,
+      "deposits_oku_yen": 10199,
+      "loans_oku_yen": 8822,
+      "capital_ratio_pct": 8.58,
+      "bank_code": "0166"
+    },
+    {
+      "bank": "山陰合同銀行",
+      "headquarters": "島根県 松江市",
+      "branches": 108,
+      "deposits_oku_yen": 62333,
+      "loans_oku_yen": 51322,
+      "capital_ratio_pct": 11.12,
+      "bank_code": "0167"
+    },
+    {
+      "bank": "中国銀行",
+      "headquarters": "岡山県 岡山市 北区",
+      "branches": 169,
+      "deposits_oku_yen": 82822,
+      "loans_oku_yen": 66019,
+      "capital_ratio_pct": 11.51,
+      "bank_code": "0168"
+    },
+    {
+      "bank": "広島銀行",
+      "headquarters": "広島県 広島市 中区",
+      "branches": 157,
+      "deposits_oku_yen": 93059,
+      "loans_oku_yen": 79842,
+      "capital_ratio_pct": 9.95,
+      "bank_code": "0169"
+    },
+    {
+      "bank": "山口銀行",
+      "headquarters": "山口県 下関市",
+      "branches": 126,
+      "deposits_oku_yen": 58768,
+      "loans_oku_yen": 46613,
+      "capital_ratio_pct": 13.77,
+      "bank_code": "0170"
+    },
+    {
+      "bank": "阿波銀行",
+      "headquarters": "徳島県 徳島市",
+      "branches": 105,
+      "deposits_oku_yen": 32722,
+      "loans_oku_yen": 24568,
+      "capital_ratio_pct": 10.43,
+      "bank_code": "0172"
+    },
+    {
+      "bank": "百十四銀行",
+      "headquarters": "香川県 高松市",
+      "branches": 133,
+      "deposits_oku_yen": 45816,
+      "loans_oku_yen": 35128,
+      "capital_ratio_pct": 8.78,
+      "bank_code": "0173"
+    },
+    {
+      "bank": "伊予銀行",
+      "headquarters": "愛媛県 松山市",
+      "branches": 150,
+      "deposits_oku_yen": 65170,
+      "loans_oku_yen": 58800,
+      "capital_ratio_pct": 14.19,
+      "bank_code": "0174"
+    },
+    {
+      "bank": "四国銀行",
+      "headquarters": "高知県 高知市",
+      "branches": 104,
+      "deposits_oku_yen": 29522,
+      "loans_oku_yen": 21030,
+      "capital_ratio_pct": 8.64,
+      "bank_code": "0175"
+    },
+    {
+      "bank": "福岡銀行",
+      "headquarters": "福岡県 福岡市 中央区",
+      "branches": 170,
+      "deposits_oku_yen": 138926,
+      "loans_oku_yen": 126248,
+      "capital_ratio_pct": 10.58,
+      "bank_code": "0177"
+    },
+    {
+      "bank": "筑邦銀行",
+      "headquarters": "福岡県 久留米市",
+      "branches": 44,
+      "deposits_oku_yen": 7943,
+      "loans_oku_yen": 5726,
+      "capital_ratio_pct": 8.85,
+      "bank_code": "0178"
+    },
+    {
+      "bank": "西日本シティ銀行",
+      "headquarters": "福岡県福岡市 博多区",
+      "branches": 176,
+      "deposits_oku_yen": 98275,
+      "loans_oku_yen": 96955,
+      "capital_ratio_pct": 12.36,
+      "bank_code": "0190"
+    },
+    {
+      "bank": "北九州銀行",
+      "headquarters": "福岡県 北九州市 小倉北区",
+      "branches": 37,
+      "deposits_oku_yen": 12826,
+      "loans_oku_yen": 14261,
+      "capital_ratio_pct": 13.45,
+      "bank_code": "0191"
+    },
+    {
+      "bank": "佐賀銀行",
+      "headquarters": "佐賀県 佐賀市",
+      "branches": 103,
+      "deposits_oku_yen": 29178,
+      "loans_oku_yen": 22574,
+      "capital_ratio_pct": 8.13,
+      "bank_code": "0179"
+    },
+    {
+      "bank": "十八親和銀行",
+      "headquarters": "長崎県 長崎市",
+      "branches": 188,
+      "deposits_oku_yen": 55269,
+      "loans_oku_yen": 38965,
+      "capital_ratio_pct": 11.27,
+      "bank_code": "0181"
+    },
+    {
+      "bank": "肥後銀行",
+      "headquarters": "熊本県 熊本市 中央区",
+      "branches": 124,
+      "deposits_oku_yen": 54741,
+      "loans_oku_yen": 47028,
+      "capital_ratio_pct": 10.92,
+      "bank_code": "0182"
+    },
+    {
+      "bank": "大分銀行",
+      "headquarters": "大分県 大分市",
+      "branches": 93,
+      "deposits_oku_yen": 35032,
+      "loans_oku_yen": 22823,
+      "capital_ratio_pct": 9.21,
+      "bank_code": "0183"
+    },
+    {
+      "bank": "宮崎銀行",
+      "headquarters": "宮崎県 宮崎市",
+      "branches": 96,
+      "deposits_oku_yen": 31250,
+      "loans_oku_yen": 23965,
+      "capital_ratio_pct": 9.63,
+      "bank_code": "0184"
+    },
+    {
+      "bank": "鹿児島銀行",
+      "headquarters": "鹿児島県 鹿児島市",
+      "branches": 151,
+      "deposits_oku_yen": 48671,
+      "loans_oku_yen": 44235,
+      "capital_ratio_pct": 11.36,
+      "bank_code": "0185"
+    },
+    {
+      "bank": "琉球銀行",
+      "headquarters": "沖縄県 那覇市",
+      "branches": 75,
+      "deposits_oku_yen": 27772,
+      "loans_oku_yen": 20019,
+      "capital_ratio_pct": 9.48,
+      "bank_code": "0187"
+    },
+    {
+      "bank": "沖縄銀行",
+      "headquarters": "沖縄県那覇市",
+      "branches": 65,
+      "deposits_oku_yen": 27070,
+      "loans_oku_yen": 19552,
+      "capital_ratio_pct": 10.52,
+      "bank_code": "0188"
+    }
+  ],
+  "meta": {
+    "title": "地方銀行一覧 (Regional banks of Japan) - Free Download",
+    "description": "日本の地方銀行（全国地方銀行協会加盟行）の本店所在地、店舗数、預金・貸出金、自己資本比率、金融機関コードの一覧 Contains 62 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "地方銀行一覧 (Regional banks of Japan) | ListBase",
+    "seo_description": "Download 地方銀行一覧 (Regional banks of Japan) — 62 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 62 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/地方銀行"
+    ]
+  }
+}
