@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-29T02:20:14.300Z",
-  "total_datasets": 551,
-  "total_records": 458027,
+  "generated": "2026-10-29T02:20:18.392Z",
+  "total_datasets": 552,
+  "total_records": 458108,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -14463,6 +14463,31 @@
         "xlsx": {
           "name": "ja-jinko-dotai-nenji_JA.xlsx",
           "size": 19418
+        }
+      }
+    },
+    {
+      "id": "ja-jukeisha-su-suii",
+      "name": "日本の受刑者数の推移 (Number of prisoners in Japan by year)",
+      "category": "society",
+      "record_count": 81,
+      "columns": [
+        "year",
+        "population_thousand",
+        "prisoners",
+        "per_100k"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/日本の刑務所",
+      "updated": "2026-10",
+      "size": 11308,
+      "files": {
+        "csv": {
+          "name": "ja-jukeisha-su-suii_JA.csv",
+          "size": 2620
+        },
+        "xlsx": {
+          "name": "ja-jukeisha-su-suii_JA.xlsx",
+          "size": 8947
         }
       }
     },

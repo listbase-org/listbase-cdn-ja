@@ -1,0 +1,532 @@
+{
+  "id": "ja-jukeisha-su-suii",
+  "name": "日本の受刑者数の推移 (Number of prisoners in Japan by year)",
+  "title": "日本の受刑者数の推移 (Number of prisoners in Japan by year)",
+  "description": "日本の年別人口と受刑者数、人口比の推移",
+  "category": "society",
+  "source": "https://ja.wikipedia.org/wiki/日本の刑務所",
+  "source_url": "https://ja.wikipedia.org/wiki/日本の刑務所",
+  "updated": "2026-10",
+  "record_count": 81,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "population_thousand",
+      "label": "Population Thousand",
+      "type": "number"
+    },
+    {
+      "key": "prisoners",
+      "label": "Prisoners",
+      "type": "number"
+    },
+    {
+      "key": "per_100k",
+      "label": "Per 100k",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1945,
+      "population_thousand": 72147,
+      "prisoners": 36824,
+      "per_100k": 51.04
+    },
+    {
+      "year": 1946,
+      "population_thousand": 75750,
+      "prisoners": 55925,
+      "per_100k": 73.83
+    },
+    {
+      "year": 1947,
+      "population_thousand": 78101,
+      "prisoners": 64663,
+      "per_100k": 82.79
+    },
+    {
+      "year": 1948,
+      "population_thousand": 80002,
+      "prisoners": 76897,
+      "per_100k": 96.12
+    },
+    {
+      "year": 1949,
+      "population_thousand": 81773,
+      "prisoners": 79692,
+      "per_100k": 97.46
+    },
+    {
+      "year": 1950,
+      "population_thousand": 84115,
+      "prisoners": 80589,
+      "per_100k": 95.81
+    },
+    {
+      "year": 1951,
+      "population_thousand": 84541,
+      "prisoners": 78441,
+      "per_100k": 92.78
+    },
+    {
+      "year": 1952,
+      "population_thousand": 85808,
+      "prisoners": 63278,
+      "per_100k": 73.74
+    },
+    {
+      "year": 1953,
+      "population_thousand": 86981,
+      "prisoners": 64558,
+      "per_100k": 74.22
+    },
+    {
+      "year": 1954,
+      "population_thousand": 88239,
+      "prisoners": 63589,
+      "per_100k": 72.06
+    },
+    {
+      "year": 1955,
+      "population_thousand": 90077,
+      "prisoners": 67813,
+      "per_100k": 75.28
+    },
+    {
+      "year": 1956,
+      "population_thousand": 90172,
+      "prisoners": 67984,
+      "per_100k": 75.39
+    },
+    {
+      "year": 1957,
+      "population_thousand": 90928,
+      "prisoners": 65565,
+      "per_100k": 72.11
+    },
+    {
+      "year": 1958,
+      "population_thousand": 91767,
+      "prisoners": 65478,
+      "per_100k": 71.35
+    },
+    {
+      "year": 1959,
+      "population_thousand": 92641,
+      "prisoners": 64700,
+      "per_100k": 69.84
+    },
+    {
+      "year": 1960,
+      "population_thousand": 94302,
+      "prisoners": 61100,
+      "per_100k": 64.79
+    },
+    {
+      "year": 1961,
+      "population_thousand": 94287,
+      "prisoners": 57599,
+      "per_100k": 61.09
+    },
+    {
+      "year": 1962,
+      "population_thousand": 95181,
+      "prisoners": 55310,
+      "per_100k": 58.11
+    },
+    {
+      "year": 1963,
+      "population_thousand": 96156,
+      "prisoners": 53888,
+      "per_100k": 56.04
+    },
+    {
+      "year": 1964,
+      "population_thousand": 97182,
+      "prisoners": 52344,
+      "per_100k": 53.86
+    },
+    {
+      "year": 1965,
+      "population_thousand": 99209,
+      "prisoners": 52657,
+      "per_100k": 53.08
+    },
+    {
+      "year": 1966,
+      "population_thousand": 99036,
+      "prisoners": 53655,
+      "per_100k": 54.18
+    },
+    {
+      "year": 1967,
+      "population_thousand": 100196,
+      "prisoners": 49638,
+      "per_100k": 49.54
+    },
+    {
+      "year": 1968,
+      "population_thousand": 101331,
+      "prisoners": 46117,
+      "per_100k": 45.51
+    },
+    {
+      "year": 1969,
+      "population_thousand": 102536,
+      "prisoners": 42275,
+      "per_100k": 41.23
+    },
+    {
+      "year": 1970,
+      "population_thousand": 104665,
+      "prisoners": 39724,
+      "per_100k": 37.95
+    },
+    {
+      "year": 1971,
+      "population_thousand": 106100,
+      "prisoners": 39279,
+      "per_100k": 37.02
+    },
+    {
+      "year": 1972,
+      "population_thousand": 107595,
+      "prisoners": 40426,
+      "per_100k": 37.57
+    },
+    {
+      "year": 1973,
+      "population_thousand": 109104,
+      "prisoners": 38854,
+      "per_100k": 35.61
+    },
+    {
+      "year": 1974,
+      "population_thousand": 110573,
+      "prisoners": 37769,
+      "per_100k": 34.16
+    },
+    {
+      "year": 1975,
+      "population_thousand": 111940,
+      "prisoners": 37744,
+      "per_100k": 33.72
+    },
+    {
+      "year": 1976,
+      "population_thousand": 113094,
+      "prisoners": 38715,
+      "per_100k": 34.23
+    },
+    {
+      "year": 1977,
+      "population_thousand": 114165,
+      "prisoners": 39834,
+      "per_100k": 34.89
+    },
+    {
+      "year": 1978,
+      "population_thousand": 115190,
+      "prisoners": 41319,
+      "per_100k": 35.87
+    },
+    {
+      "year": 1979,
+      "population_thousand": 116155,
+      "prisoners": 42277,
+      "per_100k": 36.4
+    },
+    {
+      "year": 1980,
+      "population_thousand": 117060,
+      "prisoners": 41835,
+      "per_100k": 35.74
+    },
+    {
+      "year": 1981,
+      "population_thousand": 117902,
+      "prisoners": 43234,
+      "per_100k": 36.67
+    },
+    {
+      "year": 1982,
+      "population_thousand": 118728,
+      "prisoners": 44955,
+      "per_100k": 37.86
+    },
+    {
+      "year": 1983,
+      "population_thousand": 119536,
+      "prisoners": 44869,
+      "per_100k": 37.54
+    },
+    {
+      "year": 1984,
+      "population_thousand": 120305,
+      "prisoners": 45346,
+      "per_100k": 37.69
+    },
+    {
+      "year": 1985,
+      "population_thousand": 121049,
+      "prisoners": 46105,
+      "per_100k": 38.09
+    },
+    {
+      "year": 1986,
+      "population_thousand": 121660,
+      "prisoners": 46050,
+      "per_100k": 37.85
+    },
+    {
+      "year": 1987,
+      "population_thousand": 122239,
+      "prisoners": 45958,
+      "per_100k": 37.6
+    },
+    {
+      "year": 1988,
+      "population_thousand": 122745,
+      "prisoners": 45736,
+      "per_100k": 37.26
+    },
+    {
+      "year": 1989,
+      "population_thousand": 123205,
+      "prisoners": 42615,
+      "per_100k": 34.59
+    },
+    {
+      "year": 1990,
+      "population_thousand": 123611,
+      "prisoners": 39892,
+      "per_100k": 32.27
+    },
+    {
+      "year": 1991,
+      "population_thousand": 124101,
+      "prisoners": 37765,
+      "per_100k": 30.43
+    },
+    {
+      "year": 1992,
+      "population_thousand": 124567,
+      "prisoners": 37237,
+      "per_100k": 29.89
+    },
+    {
+      "year": 1993,
+      "population_thousand": 124938,
+      "prisoners": 37164,
+      "per_100k": 29.75
+    },
+    {
+      "year": 1994,
+      "population_thousand": 125265,
+      "prisoners": 37425,
+      "per_100k": 29.88
+    },
+    {
+      "year": 1995,
+      "population_thousand": 125570,
+      "prisoners": 38585,
+      "per_100k": 30.73
+    },
+    {
+      "year": 1996,
+      "population_thousand": 125859,
+      "prisoners": 40389,
+      "per_100k": 32.09
+    },
+    {
+      "year": 1997,
+      "population_thousand": 126157,
+      "prisoners": 41689,
+      "per_100k": 33.05
+    },
+    {
+      "year": 1998,
+      "population_thousand": 126472,
+      "prisoners": 43245,
+      "per_100k": 34.19
+    },
+    {
+      "year": 1999,
+      "population_thousand": 126667,
+      "prisoners": 45322,
+      "per_100k": 35.78
+    },
+    {
+      "year": 2000,
+      "population_thousand": 126926,
+      "prisoners": 49814,
+      "per_100k": 39.25
+    },
+    {
+      "year": 2001,
+      "population_thousand": 127316,
+      "prisoners": 53284,
+      "per_100k": 41.85
+    },
+    {
+      "year": 2002,
+      "population_thousand": 127486,
+      "prisoners": 56959,
+      "per_100k": 44.68
+    },
+    {
+      "year": 2003,
+      "population_thousand": 127694,
+      "prisoners": 60851,
+      "per_100k": 47.65
+    },
+    {
+      "year": 2004,
+      "population_thousand": 127787,
+      "prisoners": 64047,
+      "per_100k": 50.12
+    },
+    {
+      "year": 2005,
+      "population_thousand": 127768,
+      "prisoners": 67423,
+      "per_100k": 52.77
+    },
+    {
+      "year": 2006,
+      "population_thousand": 127901,
+      "prisoners": 70496,
+      "per_100k": 55.12
+    },
+    {
+      "year": 2007,
+      "population_thousand": 128033,
+      "prisoners": 70053,
+      "per_100k": 54.71
+    },
+    {
+      "year": 2008,
+      "population_thousand": 128084,
+      "prisoners": 67672,
+      "per_100k": 52.83
+    },
+    {
+      "year": 2009,
+      "population_thousand": 128032,
+      "prisoners": 65951,
+      "per_100k": 51.51
+    },
+    {
+      "year": 2010,
+      "population_thousand": 128057,
+      "prisoners": 63845,
+      "per_100k": 49.86
+    },
+    {
+      "year": 2011,
+      "population_thousand": 127834,
+      "prisoners": 61102,
+      "per_100k": 47.8
+    },
+    {
+      "year": 2012,
+      "population_thousand": 127593,
+      "prisoners": 58726,
+      "per_100k": 46.03
+    },
+    {
+      "year": 2013,
+      "population_thousand": 127414,
+      "prisoners": 55316,
+      "per_100k": 43.41
+    },
+    {
+      "year": 2014,
+      "population_thousand": 127237,
+      "prisoners": 52860,
+      "per_100k": 41.54
+    },
+    {
+      "year": 2015,
+      "population_thousand": 127095,
+      "prisoners": 51175,
+      "per_100k": 40.27
+    },
+    {
+      "year": 2016,
+      "population_thousand": 127042,
+      "prisoners": 49027,
+      "per_100k": 38.59
+    },
+    {
+      "year": 2017,
+      "population_thousand": 126919,
+      "prisoners": 46702,
+      "per_100k": 36.8
+    },
+    {
+      "year": 2018,
+      "population_thousand": 126749,
+      "prisoners": 44186,
+      "per_100k": 34.86
+    },
+    {
+      "year": 2019,
+      "population_thousand": 126555,
+      "prisoners": 41867,
+      "per_100k": 33.08
+    },
+    {
+      "year": 2020,
+      "population_thousand": 126146,
+      "prisoners": 39813,
+      "per_100k": 31.56
+    },
+    {
+      "year": 2021,
+      "population_thousand": 125502,
+      "prisoners": 38366,
+      "per_100k": 30.57
+    },
+    {
+      "year": 2022,
+      "population_thousand": 124947,
+      "prisoners": 35842,
+      "per_100k": 28.69
+    },
+    {
+      "year": 2023,
+      "population_thousand": 124352,
+      "prisoners": 33882,
+      "per_100k": 27.25
+    },
+    {
+      "year": 2024,
+      "population_thousand": 123802,
+      "prisoners": 33745,
+      "per_100k": 27.26
+    },
+    {
+      "year": 2025,
+      "population_thousand": 123219,
+      "prisoners": 34374,
+      "per_100k": 27.92
+    }
+  ],
+  "meta": {
+    "title": "日本の受刑者数の推移 (Number of prisoners in Japan by year) - Free Download",
+    "description": "日本の年別人口と受刑者数、人口比の推移 Contains 81 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の受刑者数の推移 (Number of prisoners in Japan by year) | ListBase",
+    "seo_description": "Download 日本の受刑者数の推移 (Number of prisoners in Japan by year) — 81 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 81 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/日本の刑務所"
+    ]
+  }
+}
