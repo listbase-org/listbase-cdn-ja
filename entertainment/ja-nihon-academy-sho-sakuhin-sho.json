@@ -1,0 +1,2275 @@
+{
+  "id": "ja-nihon-academy-sho-sakuhin-sho",
+  "name": "日本アカデミー賞 最優秀作品賞・優秀作品賞 一覧 (Japan Academy Film Prize for Picture of the Year)",
+  "title": "日本アカデミー賞 最優秀作品賞・優秀作品賞 一覧 (Japan Academy Film Prize for Picture of the Year)",
+  "description": "日本アカデミー賞の各回の最優秀作品賞および優秀作品賞（ノミネート）作品と製作会社・監督・脚本の一覧",
+  "category": "entertainment",
+  "source": "https://ja.wikipedia.org/wiki/日本アカデミー賞最優秀作品賞",
+  "source_url": "https://ja.wikipedia.org/wiki/日本アカデミー賞最優秀作品賞",
+  "updated": "2026-10",
+  "record_count": 246,
+  "columns": [
+    {
+      "key": "film_year",
+      "label": "Film Year",
+      "type": "number"
+    },
+    {
+      "key": "ceremony",
+      "label": "Ceremony",
+      "type": "string"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    },
+    {
+      "key": "production_company",
+      "label": "Production Company",
+      "type": "string"
+    },
+    {
+      "key": "director",
+      "label": "Director",
+      "type": "string"
+    },
+    {
+      "key": "screenplay",
+      "label": "Screenplay",
+      "type": "string"
+    },
+    {
+      "key": "result",
+      "label": "Result",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "film_year": 1977,
+      "ceremony": "第1回",
+      "film": "幸福の黄色いハンカチ",
+      "production_company": "松竹",
+      "director": "山田洋次",
+      "screenplay": "山田洋次 、 朝間義隆",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 1977,
+      "ceremony": "第1回",
+      "film": "青春の門・自立篇",
+      "production_company": "東宝映画",
+      "director": "浦山桐郎",
+      "screenplay": "早坂暁 、浦山桐郎",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1977,
+      "ceremony": "第1回",
+      "film": "竹山ひとり旅",
+      "production_company": "近代映画協会 、 ジャンジャン",
+      "director": "新藤兼人",
+      "screenplay": "新藤兼人",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1977,
+      "ceremony": "第1回",
+      "film": "八甲田山",
+      "production_company": "橋本プロ 、 東宝映画 、 シナノ企画",
+      "director": "森谷司郎",
+      "screenplay": "橋本忍",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1977,
+      "ceremony": "第1回",
+      "film": "はなれ瞽女おりん",
+      "production_company": "表現社",
+      "director": "篠田正浩",
+      "screenplay": "長谷部慶治 、篠田正浩",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1978,
+      "ceremony": "第2回",
+      "film": "事件",
+      "production_company": "松竹",
+      "director": "野村芳太郎",
+      "screenplay": "新藤兼人",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 1978,
+      "ceremony": "第2回",
+      "film": "愛の亡霊",
+      "production_company": "ルゴス・フィルム （ フランス語版 ） 、 大島渚プロ",
+      "director": "大島渚",
+      "screenplay": "大島渚",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1978,
+      "ceremony": "第2回",
+      "film": "鬼畜",
+      "production_company": "松竹",
+      "director": "野村芳太郎",
+      "screenplay": "井手雅人",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1978,
+      "ceremony": "第2回",
+      "film": "サード",
+      "production_company": "幻燈社",
+      "director": "東陽一",
+      "screenplay": "寺山修司",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1978,
+      "ceremony": "第2回",
+      "film": "柳生一族の陰謀",
+      "production_company": "東映",
+      "director": "深作欣二",
+      "screenplay": "野上龍雄 、 松田寛夫 、深作欣二",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1979,
+      "ceremony": "第3回",
+      "film": "復讐するは我にあり",
+      "production_company": "松竹 、 今村プロ",
+      "director": "今村昌平",
+      "screenplay": "馬場当",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 1979,
+      "ceremony": "第3回",
+      "film": "あゝ野麦峠",
+      "production_company": "新日本映画",
+      "director": "山本薩夫",
+      "screenplay": "服部佳",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1979,
+      "ceremony": "第3回",
+      "film": "衝動殺人 息子よ",
+      "production_company": "松竹 、 東京放送",
+      "director": "木下惠介",
+      "screenplay": "砂田量爾 、木下惠介",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1979,
+      "ceremony": "第3回",
+      "film": "太陽を盗んだ男",
+      "production_company": "キティ・フィルム・コーポレーション",
+      "director": "長谷川和彦",
+      "screenplay": "レナード・シュレイダー 、長谷川和彦",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1979,
+      "ceremony": "第3回",
+      "film": "もう頬づえはつかない",
+      "production_company": "あんぐる、 ATG",
+      "director": "東陽一",
+      "screenplay": "小林竜雄 、東陽一",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1980,
+      "ceremony": "第4回",
+      "film": "ツィゴイネルワイゼン",
+      "production_company": "シネマ・プラセット",
+      "director": "鈴木清順",
+      "screenplay": "田中陽造",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 1980,
+      "ceremony": "第4回",
+      "film": "父よ母よ!",
+      "production_company": "松竹",
+      "director": "木下恵介",
+      "screenplay": "木下恵介",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1980,
+      "ceremony": "第4回",
+      "film": "動乱",
+      "production_company": "東映 、 シナノ企画",
+      "director": "森谷司郎",
+      "screenplay": "山田信夫",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1980,
+      "ceremony": "第4回",
+      "film": "二百三高地",
+      "production_company": "東映",
+      "director": "舛田利雄",
+      "screenplay": "笠原和夫",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1980,
+      "ceremony": "第4回",
+      "film": "遙かなる山の呼び声",
+      "production_company": "松竹",
+      "director": "山田洋次",
+      "screenplay": "山田洋次、 朝間義隆",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1981,
+      "ceremony": "第5回",
+      "film": "駅 STATION",
+      "production_company": "東宝映画",
+      "director": "降旗康男",
+      "screenplay": "倉本聰",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 1981,
+      "ceremony": "第5回",
+      "film": "ええじゃないか",
+      "production_company": "松竹 、 今村プロ",
+      "director": "今村昌平",
+      "screenplay": "今村昌平、 宮本研",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1981,
+      "ceremony": "第5回",
+      "film": "遠雷",
+      "production_company": "にっかつ撮影所 、ニューセンチュリープロデューサーズ、 ATG",
+      "director": "根岸吉太郎",
+      "screenplay": "荒井晴彦",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1981,
+      "ceremony": "第5回",
+      "film": "泥の河",
+      "production_company": "東映",
+      "director": "小栗康平",
+      "screenplay": "重森孝子",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1981,
+      "ceremony": "第5回",
+      "film": "日本の熱い日々 謀殺・下山事件",
+      "production_company": "俳優座映画放送",
+      "director": "熊井啓",
+      "screenplay": "菊島隆三",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1982,
+      "ceremony": "第6回",
+      "film": "蒲田行進曲",
+      "production_company": "松竹 、 角川春樹事務所",
+      "director": "深作欣二",
+      "screenplay": "つかこうへい",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 1982,
+      "ceremony": "第6回",
+      "film": "鬼龍院花子の生涯",
+      "production_company": "東映 、 俳優座映画放送",
+      "director": "五社英雄",
+      "screenplay": "高田宏治",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1982,
+      "ceremony": "第6回",
+      "film": "疑惑",
+      "production_company": "松竹 、霧プロ",
+      "director": "野村芳太郎",
+      "screenplay": "古田求 、野村芳太郎",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1982,
+      "ceremony": "第6回",
+      "film": "未完の対局",
+      "production_company": "北京電影制片廠 （ 中国語版 ） 、東光徳間",
+      "director": "佐藤純彌 、 段吉順 （ 中国語版 ）",
+      "screenplay": "神波史男 、 大野靖子 、 安倍徹郎 、李洪洲、葛康同",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1982,
+      "ceremony": "第6回",
+      "film": "誘拐報道",
+      "production_company": "東映 、 日本テレビ",
+      "director": "伊藤俊也",
+      "screenplay": "松田寛夫",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1983,
+      "ceremony": "第7回",
+      "film": "楢山節考",
+      "production_company": "東映 、 今村プロ",
+      "director": "今村昌平",
+      "screenplay": "今村昌平",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 1983,
+      "ceremony": "第7回",
+      "film": "家族ゲーム",
+      "production_company": "にっかつ撮影所 、NCP、 ATG",
+      "director": "森田芳光",
+      "screenplay": "森田芳光",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1983,
+      "ceremony": "第7回",
+      "film": "細雪",
+      "production_company": "東宝映画",
+      "director": "市川崑",
+      "screenplay": "市川崑、 日高真也",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1983,
+      "ceremony": "第7回",
+      "film": "戦場のメリークリスマス",
+      "production_company": "大島渚プロ 、 ザ・レコーディッド・ピクチュア・カンパニー （ 英語版 ）",
+      "director": "大島渚",
+      "screenplay": "大島渚、 ポール・メイヤーズバーグ （ 英語版 ）",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1983,
+      "ceremony": "第7回",
+      "film": "南極物語",
+      "production_company": "フジテレビ 、 学研 、 蔵原プロ",
+      "director": "蔵原惟繕",
+      "screenplay": "蔵原惟繕、 野上龍雄 、 佐治乾 、 石堂淑朗",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1984,
+      "ceremony": "第8回",
+      "film": "お葬式",
+      "production_company": "NCP 、 伊丹プロダクション",
+      "director": "伊丹十三",
+      "screenplay": "伊丹十三",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 1984,
+      "ceremony": "第8回",
+      "film": "おはん",
+      "production_company": "東宝映画",
+      "director": "市川崑",
+      "screenplay": "市川崑、 日高真也",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1984,
+      "ceremony": "第8回",
+      "film": "瀬戸内少年野球団",
+      "production_company": "YOUの会、 ヘラルド・エース",
+      "director": "篠田正浩",
+      "screenplay": "田村孟",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1984,
+      "ceremony": "第8回",
+      "film": "天国の駅",
+      "production_company": "東映",
+      "director": "出目昌伸",
+      "screenplay": "早坂暁",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1984,
+      "ceremony": "第8回",
+      "film": "麻雀放浪記",
+      "production_company": "東映 、 角川春樹事務所",
+      "director": "和田誠",
+      "screenplay": "澤井信一郎 、和田誠",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1985,
+      "ceremony": "第9回",
+      "film": "花いちもんめ",
+      "production_company": "東映",
+      "director": "伊藤俊也",
+      "screenplay": "松田寛夫",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 1985,
+      "ceremony": "第9回",
+      "film": "恋文",
+      "production_company": "松竹富士 、廣済堂映像、ケイ・エンタープライズ",
+      "director": "神代辰巳",
+      "screenplay": "高田純 、神代辰巳",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1985,
+      "ceremony": "第9回",
+      "film": "それから",
+      "production_company": "東映",
+      "director": "森田芳光",
+      "screenplay": "筒井ともみ",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1985,
+      "ceremony": "第9回",
+      "film": "Wの悲劇",
+      "production_company": "角川春樹事務所",
+      "director": "澤井信一郎",
+      "screenplay": "荒井晴彦 、澤井信一郎",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1985,
+      "ceremony": "第9回",
+      "film": "ビルマの竪琴",
+      "production_company": "フジテレビジョン 、 博報堂 、キネマ東京",
+      "director": "市川崑",
+      "screenplay": "和田夏十",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1986,
+      "ceremony": "第10回",
+      "film": "火宅の人",
+      "production_company": "東映",
+      "director": "深作欣二",
+      "screenplay": "神波史男 、 深作欣二",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 1986,
+      "ceremony": "第10回",
+      "film": "植村直己物語",
+      "production_company": "電通 、 毎日放送",
+      "director": "佐藤純彌",
+      "screenplay": "岩間芳樹 、佐藤純彌",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1986,
+      "ceremony": "第10回",
+      "film": "キネマの天地",
+      "production_company": "松竹",
+      "director": "山田洋次",
+      "screenplay": "井上ひさし 、 山田太一 、 朝間義隆 、山田洋次",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1986,
+      "ceremony": "第10回",
+      "film": "新・喜びも悲しみも幾歳月",
+      "production_company": "松竹 、 東京放送 、 博報堂",
+      "director": "木下恵介",
+      "screenplay": "木下恵介",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1986,
+      "ceremony": "第10回",
+      "film": "人間の約束",
+      "production_company": "西友 〈 西武セゾングループ 〉、 テレビ朝日 、キネマ東京",
+      "director": "吉田喜重 、 宮内婦貴子",
+      "screenplay": "吉田喜重 、 宮内婦貴子",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1987,
+      "ceremony": "第11回",
+      "film": "マルサの女",
+      "production_company": "伊丹プロダクション 、 ニュー・センチュリー・プロデューサーズ",
+      "director": "伊丹十三",
+      "screenplay": "伊丹十三",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 1987,
+      "ceremony": "第11回",
+      "film": "竹取物語",
+      "production_company": "東宝映画 、 フジテレビ",
+      "director": "市川崑",
+      "screenplay": "菊島隆三 、 石上三登志 、 日高真也 、市川崑",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1987,
+      "ceremony": "第11回",
+      "film": "ハチ公物語",
+      "production_company": "東急グループ 、 三井物産 、 松竹グループ",
+      "director": "神山征二郎",
+      "screenplay": "新藤兼人",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1987,
+      "ceremony": "第11回",
+      "film": "夜汽車",
+      "production_company": "東映",
+      "director": "山下耕作",
+      "screenplay": "松田寛夫 、 長田紀生",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1987,
+      "ceremony": "第11回",
+      "film": "吉原炎上",
+      "production_company": "東映",
+      "director": "五社英雄",
+      "screenplay": "中島貞夫",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1988,
+      "ceremony": "第12回",
+      "film": "敦煌",
+      "production_company": "大映 、 電通 、 丸紅",
+      "director": "佐藤純彌",
+      "screenplay": "吉田剛 、 佐藤純彌",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 1988,
+      "ceremony": "第12回",
+      "film": "異人たちとの夏",
+      "production_company": "松竹",
+      "director": "大林宣彦",
+      "screenplay": "市川森一",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1988,
+      "ceremony": "第12回",
+      "film": "ダウンタウンヒーローズ",
+      "production_company": "松竹",
+      "director": "山田洋次",
+      "screenplay": "山田洋次、 朝間義隆",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1988,
+      "ceremony": "第12回",
+      "film": "華の乱",
+      "production_company": "東映",
+      "director": "深作欣二",
+      "screenplay": "深作欣二、 筒井ともみ 、 神波史男",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1988,
+      "ceremony": "第12回",
+      "film": "優駿",
+      "production_company": "フジテレビ 、 仕事",
+      "director": "杉田成道",
+      "screenplay": "池端俊策",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1989,
+      "ceremony": "第13回",
+      "film": "黒い雨",
+      "production_company": "今村プロダクション 、 林原グループ",
+      "director": "今村昌平",
+      "screenplay": "石堂淑朗 、 今村昌平",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 1989,
+      "ceremony": "第13回",
+      "film": "あ・うん",
+      "production_company": "東宝映画 、フイルム フェイス",
+      "director": "降旗康男",
+      "screenplay": "中村努",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1989,
+      "ceremony": "第13回",
+      "film": "社葬",
+      "production_company": "東映",
+      "director": "舛田利雄",
+      "screenplay": "松田寛夫",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1989,
+      "ceremony": "第13回",
+      "film": "本覺坊遺文 千利休",
+      "production_company": "西友",
+      "director": "熊井啓",
+      "screenplay": "依田義賢",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1989,
+      "ceremony": "第13回",
+      "film": "利休",
+      "production_company": "勅使河原プロダクション 、松竹映像、 伊藤忠商事 、 博報堂",
+      "director": "勅使河原宏",
+      "screenplay": "赤瀬川原平 、勅使河原宏",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1990,
+      "ceremony": "第14回",
+      "film": "少年時代",
+      "production_company": "藤子スタジオ 、 小学館 、 中央公論社 、 テレビ朝日 、 旭通信社 、 シンエイ動画",
+      "director": "篠田正浩",
+      "screenplay": "山田太一",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 1990,
+      "ceremony": "第14回",
+      "film": "櫻の園",
+      "production_company": "サントリー 、ニュー・センチュリー・プロデューサーズ",
+      "director": "中原俊",
+      "screenplay": "じんのひろあき",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1990,
+      "ceremony": "第14回",
+      "film": "死の棘",
+      "production_company": "松竹 、松竹第一興行",
+      "director": "小栗康平",
+      "screenplay": "小栗康平",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1990,
+      "ceremony": "第14回",
+      "film": "白い手",
+      "production_company": "関西テレビ放送",
+      "director": "神山征二郎",
+      "screenplay": "佐藤繁子",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1990,
+      "ceremony": "第14回",
+      "film": "夢",
+      "production_company": "黒澤プロダクション",
+      "director": "黒澤明",
+      "screenplay": "黒澤明",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1991,
+      "ceremony": "第15回",
+      "film": "息子",
+      "production_company": "松竹映像",
+      "director": "山田洋次",
+      "screenplay": "朝間義隆 、 山田洋次",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 1991,
+      "ceremony": "第15回",
+      "film": "あの夏、いちばん静かな海。",
+      "production_company": "オフィス北野 、 東通",
+      "director": "北野武",
+      "screenplay": "北野武",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1991,
+      "ceremony": "第15回",
+      "film": "大誘拐 RAINBOW KIDS",
+      "production_company": "喜八プロ 、 ニチメン 、 フジエイト",
+      "director": "岡本喜八",
+      "screenplay": "岡本喜八",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1991,
+      "ceremony": "第15回",
+      "film": "八月の狂詩曲",
+      "production_company": "黒澤プロダクション 、 松竹",
+      "director": "黒澤明",
+      "screenplay": "黒澤明",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1991,
+      "ceremony": "第15回",
+      "film": "無能の人",
+      "production_company": "ケイエスエス 、松竹第一興行",
+      "director": "竹中直人",
+      "screenplay": "丸内敏治",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1992,
+      "ceremony": "第16回",
+      "film": "シコふんじゃった。",
+      "production_company": "大映 、 キャビン",
+      "director": "周防正行",
+      "screenplay": "周防正行",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 1992,
+      "ceremony": "第16回",
+      "film": "いつかギラギラする日",
+      "production_company": "松竹第一興行、 日本テレビ放送網 、 バンダイ",
+      "director": "深作欣二",
+      "screenplay": "丸山昇一",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1992,
+      "ceremony": "第16回",
+      "film": "青春デンデケデケデケ",
+      "production_company": "ギャラックプレミアム、 ピー・エス・シー 、リバティフォックス",
+      "director": "大林宣彦",
+      "screenplay": "石森史郎",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1992,
+      "ceremony": "第16回",
+      "film": "遠き落日",
+      "production_company": "松竹グループ 、 テレビ朝日 、 東急グループ",
+      "director": "神山征二郎",
+      "screenplay": "新藤兼人",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1992,
+      "ceremony": "第16回",
+      "film": "ミンボーの女",
+      "production_company": "ITAMI FILMS INC.",
+      "director": "伊丹十三",
+      "screenplay": "伊丹十三",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1993,
+      "ceremony": "第17回",
+      "film": "学校",
+      "production_company": "松竹 、 日本テレビ放送網 、 住友商事",
+      "director": "山田洋次",
+      "screenplay": "山田洋次 、 朝間義隆",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 1993,
+      "ceremony": "第17回",
+      "film": "月はどっちに出ている",
+      "production_company": "シネカノン",
+      "director": "崔洋一",
+      "screenplay": "鄭義信 、崔洋一",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1993,
+      "ceremony": "第17回",
+      "film": "虹の橋",
+      "production_company": "小川企画",
+      "director": "松山善三",
+      "screenplay": "松山善三",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1993,
+      "ceremony": "第17回",
+      "film": "僕らはみんな生きている",
+      "production_company": "松竹",
+      "director": "滝田洋二郎",
+      "screenplay": "一色伸幸",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1993,
+      "ceremony": "第17回",
+      "film": "わが愛の譜 滝廉太郎物語",
+      "production_company": "東映 、 日本テレビ放送網",
+      "director": "澤井信一郎",
+      "screenplay": "宮崎晃 、 伊藤亮爾 、澤井信一郎",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1994,
+      "ceremony": "第18回",
+      "film": "忠臣蔵外伝 四谷怪談",
+      "production_company": "松竹",
+      "director": "深作欣二",
+      "screenplay": "古田求 、 深作欣二",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 1994,
+      "ceremony": "第18回",
+      "film": "居酒屋ゆうれい",
+      "production_company": "サントリー 、 テレビ朝日 、 東北新社 、 キティ・フィルム",
+      "director": "渡邊孝好",
+      "screenplay": "田中陽三",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1994,
+      "ceremony": "第18回",
+      "film": "119",
+      "production_company": "松竹 、 テレビ東京 、イメージファクトリー・アイエム",
+      "director": "竹中直人",
+      "screenplay": "筒井ともみ 、 宮沢章夫 、竹中直人",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1994,
+      "ceremony": "第18回",
+      "film": "四十七人の刺客",
+      "production_company": "東宝 、 日本テレビ 、 サントリー",
+      "director": "市川崑",
+      "screenplay": "池上金男 、 竹山洋 、市川崑",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1994,
+      "ceremony": "第18回",
+      "film": "ラストソング",
+      "production_company": "東宝 、 フジテレビ",
+      "director": "杉田成道",
+      "screenplay": "野沢尚",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1995,
+      "ceremony": "第19回",
+      "film": "午後の遺言状",
+      "production_company": "近代映画協会",
+      "director": "新藤兼人",
+      "screenplay": "新藤兼人",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 1995,
+      "ceremony": "第19回",
+      "film": "きけ、わだつみの声",
+      "production_company": "東映 、 バンダイ",
+      "director": "出目昌伸",
+      "screenplay": "早坂暁",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1995,
+      "ceremony": "第19回",
+      "film": "藏",
+      "production_company": "東映 、 松プロダクション",
+      "director": "降旗康男",
+      "screenplay": "高田宏治",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1995,
+      "ceremony": "第19回",
+      "film": "写楽",
+      "production_company": "西友 、 カルチャー・コンビニエンス・クラブ 、 堺綜合企画 、表現社、 テレビ朝日",
+      "director": "篠田正浩",
+      "screenplay": "皆川博子 、 堺正俊 、 片倉美登 、篠田正浩",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1995,
+      "ceremony": "第19回",
+      "film": "Love Letter",
+      "production_company": "フジテレビジョン",
+      "director": "岩井俊二",
+      "screenplay": "岩井俊二",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1996,
+      "ceremony": "第20回",
+      "film": "Shall we ダンス?",
+      "production_company": "大映 、 日本テレビ放送網 、 博報堂 、 日本出版販売",
+      "director": "周防正行",
+      "screenplay": "周防正行",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 1996,
+      "ceremony": "第20回",
+      "film": "学校II",
+      "production_company": "松竹 、 日本テレビ放送網 、 住友商事",
+      "director": "山田洋次",
+      "screenplay": "山田洋次、 朝間義隆",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1996,
+      "ceremony": "第20回",
+      "film": "スーパーの女",
+      "production_company": "伊丹プロダクション",
+      "director": "伊丹十三",
+      "screenplay": "伊丹十三",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1996,
+      "ceremony": "第20回",
+      "film": "スワロウテイル",
+      "production_company": "烏龍舎 、 ポニーキャニオン 、 日本ヘラルド映画 、 エースピクチャーズ 、 フジテレビジョン",
+      "director": "岩井俊二",
+      "screenplay": "岩井俊二",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1996,
+      "ceremony": "第20回",
+      "film": "わが心の銀河鉄道 宮沢賢治物語",
+      "production_company": "朝日新聞社 、 西友 、 ソニー・ミュージックエンタテインメント 、 テレビ朝日 、 東映 、 日本インベストメント・ファイナンス 、 日本出版販売 、 東日本ハウス 、 文化放送 、 メガソフト",
+      "director": "大森一樹",
+      "screenplay": "那須真知子",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1997,
+      "ceremony": "第21回",
+      "film": "もののけ姫",
+      "production_company": "徳間書店 、 日本テレビ放送網 、 電通 、 スタジオジブリ",
+      "director": "宮崎駿",
+      "screenplay": "宮崎駿",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 1997,
+      "ceremony": "第21回",
+      "film": "うなぎ",
+      "production_company": "ケイエスエス 、 衛星劇場 、グルーヴコーポレーション",
+      "director": "今村昌平",
+      "screenplay": "冨川元文 、 天願大介 、今村昌平",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1997,
+      "ceremony": "第21回",
+      "film": "東京日和",
+      "production_company": "フジテレビジョン 、 バーニングプロダクション",
+      "director": "竹中直人",
+      "screenplay": "岩松了",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1997,
+      "ceremony": "第21回",
+      "film": "誘拐",
+      "production_company": "東宝映画",
+      "director": "大河原孝夫",
+      "screenplay": "森下直",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1997,
+      "ceremony": "第21回",
+      "film": "ラヂオの時間",
+      "production_company": "フジテレビジョン 、 東宝",
+      "director": "三谷幸喜",
+      "screenplay": "三谷幸喜",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1998,
+      "ceremony": "第22回",
+      "film": "愛を乞うひと",
+      "production_company": "東宝 、 角川書店 、 サンダンス・カンパニー",
+      "director": "平山秀幸",
+      "screenplay": "鄭義信",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 1998,
+      "ceremony": "第22回",
+      "film": "踊る大捜査線 THE MOVIE",
+      "production_company": "フジテレビジョン",
+      "director": "本広克行",
+      "screenplay": "君塚良一",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1998,
+      "ceremony": "第22回",
+      "film": "学校III",
+      "production_company": "松竹 、 日本テレビ放送網 、 住友商事 、 角川書店 、 読売新聞社",
+      "director": "山田洋次",
+      "screenplay": "山田洋次、 朝間義隆",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1998,
+      "ceremony": "第22回",
+      "film": "カンゾー先生",
+      "production_company": "今村プロダクション 、 東映 、 東北新社 、 角川書店",
+      "director": "今村昌平",
+      "screenplay": "今村昌平、天願大介",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1998,
+      "ceremony": "第22回",
+      "film": "HANA-BI",
+      "production_company": "バンダイビジュアル 、 テレビ東京 、 TOKYO FM 、 オフィス北野",
+      "director": "北野武",
+      "screenplay": "北野武",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1999,
+      "ceremony": "第23回",
+      "film": "鉄道員",
+      "production_company": "東映 、 テレビ朝日 、 住友商事 、 集英社 、 日本出版販売 、 朝日新聞社 、 高倉プロモーション 、 TOKYO FM 、 東北新社",
+      "director": "降旗康男",
+      "screenplay": "岩間芳樹 、 降旗康男",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 1999,
+      "ceremony": "第23回",
+      "film": "菊次郎の夏",
+      "production_company": "バンダイビジュアル 、 TOKYO FM 、 日本ヘラルド映画 、 オフィス北野",
+      "director": "北野武",
+      "screenplay": "北野武",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1999,
+      "ceremony": "第23回",
+      "film": "金融腐蝕列島 呪縛",
+      "production_company": "東映 、 角川書店 、 産経新聞社",
+      "director": "原田眞人",
+      "screenplay": "高杉良 、 鈴木智 、 木下麦太",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1999,
+      "ceremony": "第23回",
+      "film": "御法度",
+      "production_company": "松竹 、 角川書店 、 BS朝日 、 IMAGICA 、 衛星劇場 、 大島渚プロ",
+      "director": "大島渚",
+      "screenplay": "大島渚",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 1999,
+      "ceremony": "第23回",
+      "film": "梟の城",
+      "production_company": "フジテレビ 、 東宝 、 任天堂 、 平和 、 産経新聞 、 ニッポン放送 、 ポニーキャニオン 、 サンケイリビング新聞 、 イマジカ",
+      "director": "篠田正浩",
+      "screenplay": "篠田正浩、 成瀬活雄",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2000,
+      "ceremony": "第24回",
+      "film": "雨あがる",
+      "production_company": "スタッフ東京 、 イマジカ 、 博報堂 、 住友商事 、 日本カルミック 、 サミー 、 テレビ東京 、 角川書店 、 アスミック・エース エンタテインメント",
+      "director": "小泉堯史",
+      "screenplay": "黒澤明",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 2000,
+      "ceremony": "第24回",
+      "film": "顔",
+      "production_company": "松竹 、 衛星劇場 、 毎日放送 、セディックインターナショナル、KИHO",
+      "director": "阪本順治",
+      "screenplay": "阪本順治、 宇野イサム",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2000,
+      "ceremony": "第24回",
+      "film": "十五才 学校IV",
+      "production_company": "松竹 、 日本テレビ放送網 、 住友商事 、 角川書店 、 博報堂",
+      "director": "山田洋次",
+      "screenplay": "山田洋次、 朝間義隆 、 平松恵美子",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2000,
+      "ceremony": "第24回",
+      "film": "バトル・ロワイアル",
+      "production_company": "東映 、アム アソシエイツ、広美、 日本出版販売 、MFピクチャーズ、 WOWOW 、 ギャガ・コミュニケーションズ",
+      "director": "深作欣二",
+      "screenplay": "深作健太",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2000,
+      "ceremony": "第24回",
+      "film": "ホワイトアウト",
+      "production_company": "日本ヘラルド映画 、 フジテレビ 、 東宝 、 日本ビクター 、 アイ・エヌ・ピー 、デスティニー",
+      "director": "若松節朗",
+      "screenplay": "真保裕一 、 長谷川康夫 、 飯田健三郎",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2001,
+      "ceremony": "第25回",
+      "film": "千と千尋の神隠し",
+      "production_company": "徳間書店 、 スタジオジブリ 、 日本テレビ放送網 、 電通 、 ディズニー 、 東北新社 、 三菱商事",
+      "director": "宮崎駿",
+      "screenplay": "宮崎駿",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 2001,
+      "ceremony": "第25回",
+      "film": "ウォーターボーイズ",
+      "production_company": "フジテレビジョン 、 アルタミラピクチャーズ 、 東宝 、 電通",
+      "director": "矢口史靖",
+      "screenplay": "矢口史靖",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2001,
+      "ceremony": "第25回",
+      "film": "GO",
+      "production_company": "東映 、STARMAX、 テレビ東京 、 東映ビデオ 、 TOKYO FM",
+      "director": "行定勲",
+      "screenplay": "宮藤官九郎",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2001,
+      "ceremony": "第25回",
+      "film": "千年の恋 ひかる源氏物語",
+      "production_company": "東映 、 加賀電子 、 サミー 、 丸紅 、 テレビ朝日 、 電通 、 日本出版販売 、 東映ビデオ 、 TOKYO FM 、 朝日新聞社 、 朝日放送",
+      "director": "堀川とんこう",
+      "screenplay": "早坂暁",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2001,
+      "ceremony": "第25回",
+      "film": "ホタル",
+      "production_company": "東映 、 テレビ朝日 、 住友商事 、 角川書店 、 東北新社 、 日本出版販売 、 TOKYO FM 、 朝日新聞社 、 高倉プロモーション",
+      "director": "降旗康男",
+      "screenplay": "竹山洋 、降旗康男",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2002,
+      "ceremony": "第26回",
+      "film": "たそがれ清兵衛",
+      "production_company": "松竹 、 日本テレビ放送網 、 住友商事 、 博報堂 、 日本出版販売 、 衛星劇場",
+      "director": "山田洋次",
+      "screenplay": "山田洋次 、 朝間義隆",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 2002,
+      "ceremony": "第26回",
+      "film": "阿弥陀堂だより",
+      "production_company": "アスミック・エース エンタテインメント 、 日本出版販売 、 IMAGICA 、 テレビ東京 、 住友商事 、 博報堂 、 角川書店",
+      "director": "小泉堯史",
+      "screenplay": "小泉堯史",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2002,
+      "ceremony": "第26回",
+      "film": "突入せよ!『あさま山荘』事件",
+      "production_company": "東映 、 アスミック・エース 、 TBS 、 産経新聞社",
+      "director": "原田眞人",
+      "screenplay": "原田眞人",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2002,
+      "ceremony": "第26回",
+      "film": "陽はまた昇る",
+      "production_company": "東映 、JVCピクチャーズ、 東映ビデオ 、 シチエ 、 加賀電子 、 日本出版販売",
+      "director": "佐々部清",
+      "screenplay": "西岡琢也 、佐々部清",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2002,
+      "ceremony": "第26回",
+      "film": "ピンポン",
+      "production_company": "アスミック・エース エンタテインメント 、 小学館 、 TBS 、 BS-i 、 IMAGICA 、 日本出版販売",
+      "director": "曽利文彦",
+      "screenplay": "宮藤官九郎",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2003,
+      "ceremony": "第27回",
+      "film": "壬生義士伝",
+      "production_company": "松竹 、 テレビ東京 、 テレビ大阪 、 電通 、 衛星劇場 、 カルチュア・パブリッシャーズ 、 IBC岩手放送",
+      "director": "滝田洋二郎",
+      "screenplay": "中島丈博",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 2003,
+      "ceremony": "第27回",
+      "film": "阿修羅のごとく",
+      "production_company": "東宝 、 博報堂 、 毎日新聞社 、 日本出版販売",
+      "director": "森田芳光",
+      "screenplay": "筒井ともみ",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2003,
+      "ceremony": "第27回",
+      "film": "踊る大捜査線 THE MOVIE 2 レインボーブリッジを封鎖せよ!",
+      "production_company": "フジテレビジョン 、 アイ・エヌ・ピー",
+      "director": "本広克行",
+      "screenplay": "君塚良一",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2003,
+      "ceremony": "第27回",
+      "film": "座頭市",
+      "production_company": "バンダイビジュアル 、 TOKYO FM 、 電通 、 テレビ朝日 、齋藤エンターテイメント、 オフィス北野",
+      "director": "北野武",
+      "screenplay": "北野武",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2003,
+      "ceremony": "第27回",
+      "film": "スパイ・ゾルゲ",
+      "production_company": "表現社、 アスミック・エース エンタテインメント 、 東宝 、 セガ 、 日本情報通信コンサルティング 、 オービック 、 イマジカ 、 カルチュア・パブリッシャーズ 、 テレビ朝日 、 サミー 、 フィールズ",
+      "director": "篠田正浩",
+      "screenplay": "篠田正浩、 ロバート・マンディ",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2004,
+      "ceremony": "第28回",
+      "film": "半落ち",
+      "production_company": "東映 、 TBS 、 住友商事 、 東京都ASA連合会",
+      "director": "佐々部清",
+      "screenplay": "田部俊行 、 佐々部清",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 2004,
+      "ceremony": "第28回",
+      "film": "隠し剣 鬼の爪",
+      "production_company": "松竹 、 日本テレビ放送網 、 住友商事 、 博報堂DYメディアパートナーズ 、 日販 、 衛星劇場",
+      "director": "山田洋次",
+      "screenplay": "山田洋次",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2004,
+      "ceremony": "第28回",
+      "film": "スウィングガールズ",
+      "production_company": "フジテレビジョン 、 アルタミラピクチャーズ 、 東宝 、 電通",
+      "director": "矢口史靖",
+      "screenplay": "矢口史靖",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2004,
+      "ceremony": "第28回",
+      "film": "世界の中心で、愛をさけぶ",
+      "production_company": "東宝 、 TBS 、 博報堂DYメディアパートナーズ 、 小学館 、 S・D・P 、 MBS",
+      "director": "行定勲",
+      "screenplay": "坂元裕二 、 伊藤ちひろ 、行定勲",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2004,
+      "ceremony": "第28回",
+      "film": "血と骨",
+      "production_company": "ビーワイルド 、アーティストフィルム、 東芝エンタテインメント 、 衛星劇場 、 朝日放送 、 ザナドゥー",
+      "director": "崔洋一",
+      "screenplay": "崔洋一、 鄭義信",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2005,
+      "ceremony": "第29回",
+      "film": "ALWAYS 三丁目の夕日",
+      "production_company": "日本テレビ 、 ROBOT 、 小学館 、 バップ 、 東宝 、 電通 、 読売テレビ 、 読売新聞 、 白組 、 IMAGICA 、 STV 、 MMT 、 CTV 、 HTV 、 FBS",
+      "director": "山崎貴",
+      "screenplay": "山崎貴 、 古沢良太",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 2005,
+      "ceremony": "第29回",
+      "film": "北の零年",
+      "production_company": "東映 、 テレビ朝日 、 加賀電子 、 TOKYO FM 、 日本出版販売 、 名古屋テレビ 、 東映ビデオ 、 朝日放送 、 北海道テレビ 、 アップフロントエージェンシー 、 JR北海道 、 九州朝日放送 、 広島ホームテレビ 、 北海道新聞社 、 サッポロビール 、 ゲオ 、プリズム、ハーベストフューチャーズ、 朝日新聞社 、 札幌ステラプレイス 、 サークルケイ・ジャパン 、 サンクスアンドアソシエイツ",
+      "director": "行定勲",
+      "screenplay": "那須真知子",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2005,
+      "ceremony": "第29回",
+      "film": "蟬しぐれ",
+      "production_company": "電通 、セディックインターナショナル、ケイセブン、 ジェネオン エンタテイメント 、 東宝 、 テレビ朝日 、 朝日放送 、 メ〜テレ 、 朝日新聞社 、東京都ASA連合会",
+      "director": "黒土三男",
+      "screenplay": "黒土三男",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2005,
+      "ceremony": "第29回",
+      "film": "パッチギ!",
+      "production_company": "シネカノン 、 ハピネット・ピクチャーズ 、 衛星劇場 、 メモリーテック 、 S・D・P",
+      "director": "井筒和幸",
+      "screenplay": "羽原大介 、井筒和幸",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2005,
+      "ceremony": "第29回",
+      "film": "亡国のイージス",
+      "production_company": "日本ヘラルド映画 、 松竹 、 電通 、 バンダイビジュアル 、 ジェネオン エンタテイメント 、 IMAGICA 、 TOKYO FM 、 産経新聞社 、デスティニー",
+      "director": "阪本順治",
+      "screenplay": "長谷川康夫 、 飯田健三郎",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2006,
+      "ceremony": "第30回",
+      "film": "フラガール",
+      "production_company": "シネカノン 、 ハピネット 、 S・D・P",
+      "director": "李相日",
+      "screenplay": "李相日 、 羽原大介",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 2006,
+      "ceremony": "第30回",
+      "film": "明日の記憶",
+      "production_company": "東映 、 住友商事 、 東映ビデオ 、 日本出版販売 、 光文社 、 読売新聞 、 ケイダッシュ",
+      "director": "堤幸彦",
+      "screenplay": "砂本量 、 三浦有為子",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2006,
+      "ceremony": "第30回",
+      "film": "男たちの大和/YAMATO",
+      "production_company": "東映 、 角川春樹事務所 、 テレビ朝日 、 東映ビデオ 、 朝日放送 、 広島ホームテレビ 、 九州朝日放送 、 北海道テレビ 、 長崎文化放送 、 鹿児島放送 、 朝日新聞社 、東京都ASA連合会、 中国新聞社 、 北日本新聞社 、 東映アニメーション 、 ゲオ 、 TOKYO FM 、 幻戯書房 、サンブック社、 東映エージエンシー",
+      "director": "佐藤純彌",
+      "screenplay": "佐藤純彌",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2006,
+      "ceremony": "第30回",
+      "film": "THE 有頂天ホテル",
+      "production_company": "フジテレビ 、 東宝",
+      "director": "三谷幸喜",
+      "screenplay": "三谷幸喜",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2006,
+      "ceremony": "第30回",
+      "film": "武士の一分",
+      "production_company": "松竹 、 テレビ朝日 、 住友商事 、 博報堂DYメディアパートナーズ 、 日販 、 J-dream 、 TOKYO FM 、 読売新聞 、 Yahoo! JAPAN 、 マガジンハウス 、 朝日放送 、 メ〜テレ",
+      "director": "山田洋次",
+      "screenplay": "山本一郎 、 平松恵美子 、山田洋次",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2007,
+      "ceremony": "第31回",
+      "film": "東京タワー 〜オカンとボクと、時々、オトン〜",
+      "production_company": "日本テレビ放送網 、 リトルモア 、 松竹 、 衛星劇場 、 三井物産 、 電通 、 扶桑社 、 バンダイフィル 、 読売新聞 、 読売テレビ放送 、 ガンパウダー 、 アンシャンテ 、 フィルムメイカーズ 、 札幌テレビ 、 中京テレビ 、 広島テレビ 、 福岡放送",
+      "director": "松岡錠司",
+      "screenplay": "松尾スズキ",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 2007,
+      "ceremony": "第31回",
+      "film": "ALWAYS 続・三丁目の夕日",
+      "production_company": "日本テレビ 、 ROBOT 、 小学館 、 バップ 、 東宝 、 電通 、 読売テレビ 、 読売新聞 、 白組 、 IMAGICA 、 STV 、 MMT 、 SDT 、 CTV 、 HTV 、 FBS",
+      "director": "山崎貴",
+      "screenplay": "山崎貴、 古沢良太",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2007,
+      "ceremony": "第31回",
+      "film": "キサラギ",
+      "production_company": "ミコット・エンド・バサラ、 ショウゲート 、 テレビ東京 、 キングレコード 、 読売広告社 、 東映チャンネル 、 東映ビデオ 、 Yahoo! JAPAN 、 PARCO",
+      "director": "佐藤祐市",
+      "screenplay": "古沢良太",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2007,
+      "ceremony": "第31回",
+      "film": "それでもボクはやってない",
+      "production_company": "フジテレビジョン 、 アルタミラピクチャーズ 、 東宝",
+      "director": "周防正行",
+      "screenplay": "周防正行",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2007,
+      "ceremony": "第31回",
+      "film": "眉山",
+      "production_company": "東宝 、 フジテレビジョン 、 幻冬舎 、 博報堂DYメディアパートナーズ 、 関西テレビ放送 、PPM、キアロスクーロ〔 IMJ-E 〕",
+      "director": "犬童一心",
+      "screenplay": "山室有紀子",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2008,
+      "ceremony": "第32回",
+      "film": "おくりびと",
+      "production_company": "TBS 、 セディックインターナショナル 、 松竹 、 電通 、 アミューズソフトエンタテインメント 、 小学館 、 毎日放送 、 朝日新聞社 、 テレビユー山形 、 TBSラジオ",
+      "director": "滝田洋二郎",
+      "screenplay": "小山薫堂",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 2008,
+      "ceremony": "第32回",
+      "film": "母べえ",
+      "production_company": "松竹 、 住友商事 、 テレビ朝日 、 博報堂DYメディアパートナーズ 、 衛星劇場 、 日販 、 TOKYO FM 、 Yahoo! JAPAN 、 読売新聞 、 朝日放送 、 メ〜テレ",
+      "director": "山田洋次",
+      "screenplay": "山田洋次、 平松恵美子",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2008,
+      "ceremony": "第32回",
+      "film": "クライマーズ・ハイ",
+      "production_company": "ビーワイルド、 ソニー・ピクチャーズ エンタテインメント 、トゥモロゥー",
+      "director": "原田眞人",
+      "screenplay": "加藤正人 、 成島出 、原田眞人",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2008,
+      "ceremony": "第32回",
+      "film": "ザ・マジックアワー",
+      "production_company": "フジテレビジョン 、 東宝",
+      "director": "三谷幸喜",
+      "screenplay": "三谷幸喜",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2008,
+      "ceremony": "第32回",
+      "film": "容疑者Xの献身",
+      "production_company": "フジテレビジョン 、 アミューズ 、 S・D・P 、 FNS27社",
+      "director": "西谷弘",
+      "screenplay": "福田靖",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2009,
+      "ceremony": "第33回",
+      "film": "沈まぬ太陽",
+      "production_company": "角川映画 、 東宝 、 ケイダッシュ 、 新潮社 、 日本出版販売",
+      "director": "若松節朗",
+      "screenplay": "西岡琢也",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 2009,
+      "ceremony": "第33回",
+      "film": "ヴィヨンの妻 〜桜桃とタンポポ〜",
+      "production_company": "フジテレビジョン 、 パパドゥ 、 新潮社 、 日本映画衛星放送",
+      "director": "根岸吉太郎",
+      "screenplay": "田中陽造",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2009,
+      "ceremony": "第33回",
+      "film": "ゼロの焦点",
+      "production_company": "電通 、 東宝 、 テレビ朝日 、 木下工務店 、 朝日新聞社 、 日販 、 Yahoo! JAPAN 、 TOKYO FM 、 朝日放送 、 メ～テレ 、 IMJエンタテインメント 、 TSUTAYAグループ 、 FLaMme 、 九州朝日放送 、 北海道テレビ 、 北陸朝日放送 、 広島ホームテレビ 、 愛媛朝日テレビ",
+      "director": "犬童一心",
+      "screenplay": "犬童一心、 中園健司",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2009,
+      "ceremony": "第33回",
+      "film": "劒岳 点の記",
+      "production_company": "東映 、 フジテレビジョン 、 住友商事 、 朝日新聞社 、 北日本新聞社",
+      "director": "木村大作",
+      "screenplay": "木村大作、 菊池淳夫 、 宮村敏正",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2009,
+      "ceremony": "第33回",
+      "film": "ディア・ドクター",
+      "production_company": "エンジンフィルム、 バンダイビジュアル 、 テレビマンユニオン 、 電通 、 衛星劇場 、 デンナーシステムズ 、 Yahoo! JAPAN",
+      "director": "西川美和",
+      "screenplay": "西川美和",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2010,
+      "ceremony": "第34回",
+      "film": "告白",
+      "production_company": "東宝 、 博報堂DYメディアパートナーズ 、 フェイス・ワンダワークス 、 リクリ 、 双葉社 、 日本出版販売 、 ソニー・ミュージックエンタテインメント 、' Yahoo! JAPAN 、 TSUTAYAグループ",
+      "director": "中島哲也",
+      "screenplay": "中島哲也",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 2010,
+      "ceremony": "第34回",
+      "film": "悪人",
+      "production_company": "東宝 、 電通 、 朝日新聞社 、 ソニー・ミュージックエンタテインメント 、 日本出版販売 、 ホリプロ 、 アミューズ 、 KDDI 、 Yahoo! JAPAN 、 TSUTAYAグループ 、 朝日新聞出版",
+      "director": "李相日",
+      "screenplay": "吉田修一 、李相日",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2010,
+      "ceremony": "第34回",
+      "film": "おとうと",
+      "production_company": "松竹 、 住友商事 、 テレビ朝日 、 博報堂DYメディアパートナーズ 、 衛星劇場 、 デンナーシステムズ 、 日販 、 TOKYO FM 、 Yahoo! JAPAN 、 読売新聞 、 朝日放送 、 名古屋テレビ放送 、 木下グループ",
+      "director": "山田洋次",
+      "screenplay": "山田洋次、 平松恵美子",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2010,
+      "ceremony": "第34回",
+      "film": "孤高のメス",
+      "production_company": "東映 、 テレビ朝日 、 木下工務店 、 アミューズソフトエンタテインメント 、 東映ビデオ 、 読売新聞 、 幻冬舎 、 博報堂DYメディアパートナーズ 、 朝日放送 、 メ〜テレ 、 東映チャンネル 、 北海道テレビ 、 九州朝日放送",
+      "director": "成島出",
+      "screenplay": "加藤正人",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2010,
+      "ceremony": "第34回",
+      "film": "十三人の刺客",
+      "production_company": "テレビ朝日 、 東宝 、セディックインターナショナル、 電通 、 小学館 、 Recorded Picture Company （ 英語版 ） 、 朝日新聞社 、 朝日放送 、 メ〜テレ 、 九州朝日放送 、 北海道テレビ 、 Yahoo! JAPAN 、 TSUTAYAグループ 、 東日本放送 、 静岡朝日テレビ 、 広島ホームテレビ",
+      "director": "三池崇史",
+      "screenplay": "天願大介",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2011,
+      "ceremony": "第35回",
+      "film": "八日目の蝉",
+      "production_company": "日活 、 松竹 、 アミューズソフトエンタテインメント 、 博報堂DYメディアパートナーズ 、 ソニー・ミュージックエンタテインメント 、 Yahoo! JAPAN 、 読売新聞 、 中央公論新社",
+      "director": "成島出",
+      "screenplay": "奥寺佐渡子",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 2011,
+      "ceremony": "第35回",
+      "film": "大鹿村騒動記",
+      "production_company": "セディックインターナショナル、 パパドゥ 、 関西テレビ放送 、 講談社 、 TOKYO FM 、KNHO",
+      "director": "阪本順治",
+      "screenplay": "荒井晴彦 、阪本順治",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2011,
+      "ceremony": "第35回",
+      "film": "最後の忠臣蔵",
+      "production_company": "ワーナー・ブラザース映画 、 電通 、 角川映画 、 日本映画衛星放送 、 レッド・エンタテインメント 、 角川書店 、 Yahoo! JAPAN",
+      "director": "杉田成道",
+      "screenplay": "田中陽造",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2011,
+      "ceremony": "第35回",
+      "film": "ステキな金縛り",
+      "production_company": "フジテレビ 、 東宝",
+      "director": "三谷幸喜",
+      "screenplay": "三谷幸喜",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2011,
+      "ceremony": "第35回",
+      "film": "探偵はBARにいる",
+      "production_company": "東映 、 テレビ朝日 、 木下グループ 、 東映ビデオ 、 アミューズ 、 クリエイティブオフィスキュー 、 東映チャンネル 、 北海道新聞社 、 北海道テレビ 、 メ～テレ 、 朝日放送 、 広島ホームテレビ 、 九州朝日放送",
+      "director": "橋本一",
+      "screenplay": "古沢良太 、 須藤泰司",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2012,
+      "ceremony": "第36回",
+      "film": "桐島、部活やめるってよ",
+      "production_company": "日本テレビ放送網 、 集英社 、 読売テレビ放送 、 バップ 、 DNドリームパートナーズ 、 アミューズ 、 WOWOW",
+      "director": "吉田大八",
+      "screenplay": "喜安浩平 、 吉田大八",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 2012,
+      "ceremony": "第36回",
+      "film": "あなたへ",
+      "production_company": "東宝 、 テレビ朝日 、 電通 、 日本経済新聞社 、 幻冬舎 、 朝日放送 、 メ～テレ 、 TOKYO FM 、 Yahoo! JAPAN 、 日本出版販売 、 KBC 、 HTB 、 SATV 、 中日新聞社 、 北海道新聞社 、 北日本新聞社 、 KNB 、 BBT 、 TUT 、 HOME 、 HAB 、 KHB 、 NCC 、 yab 、 KSB",
+      "director": "降旗康男",
+      "screenplay": "青島武",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2012,
+      "ceremony": "第36回",
+      "film": "北のカナリアたち",
+      "production_company": "東映 、 テレビ朝日 、 木下グループ 、 博報堂 、 博報堂DYメディアパートナーズ 、 加賀電子 、 朝日放送 、 セントラル・アーツ 、 メ～テレ 、イノベーションデザイン、 TOKYO FM 、 アマゾン ジャパン 、 北海道テレビ 、 朝日新聞社 、 読売新聞社 、 幻冬舎 、 日本出版販売 、 東映ビデオ 、 北海道新聞社 、 九州朝日放送 、 東日本放送 、 新潟テレビ21 、 静岡朝日テレビ 、 広島ホームテレビ 、 愛媛朝日テレビ 、 瀬戸内海放送",
+      "director": "阪本順治",
+      "screenplay": "那須真知子",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2012,
+      "ceremony": "第36回",
+      "film": "のぼうの城",
+      "production_company": "TBSテレビ 、 アスミック・エース エンタテインメント 、 毎日放送 、 CBC 、 東宝 、 小学館 、 C&Iエンタテインメント 、 博報堂DYメディアパートナーズ 、 ADK 、 ジェイアール東日本企画 、 WOWOW 、 ハピネット 、 TBS R&C 、 RKB毎日放送 、 北海道放送 、 静岡放送 、 中国放送 、 ヤフー・ジャパン 、 日販 、 サイバード 、 朝日新聞社 、 シブサワコウプロダクション 、 テレビ埼玉 、 東北放送 、 テレビ山梨 、 TSUTAYA 、 新潟放送 、 TOKYO FM",
+      "director": "犬童一心 、 樋口真嗣",
+      "screenplay": "和田竜",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2012,
+      "ceremony": "第36回",
+      "film": "わが母の記",
+      "production_company": "松竹 、 キングレコード 、 電通 、 衛星劇場 、 CBC 、 Yahoo! JAPAN 、 ワコー 、 朝日新聞社 、 静岡新聞社",
+      "director": "原田眞人",
+      "screenplay": "原田眞人",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2013,
+      "ceremony": "第37回",
+      "film": "舟を編む",
+      "production_company": "テレビ東京 、 松竹 、 アスミック・エースエンタテインメント 、 電通 、 光文社 、 朝日放送 、 テレビ大阪 、 読売テレビ 、 朝日新聞社 、 フィルムメイカーズ 、 リトルモア",
+      "director": "石井裕也",
+      "screenplay": "渡辺謙作",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 2013,
+      "ceremony": "第37回",
+      "film": "凶悪",
+      "production_company": "日活 、 ハピネット",
+      "director": "白石和彌",
+      "screenplay": "高橋泉 、白石和彌",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2013,
+      "ceremony": "第37回",
+      "film": "少年H",
+      "production_company": "テレビ朝日 、 東宝 、 トライサム 、 博報堂DYメディアパートナーズ 、 朝日放送 、クリーク・アンド・リバー社、 メ～テレ 、 北海道テレビ 、 九州朝日放送 、 朝日新聞社 、 神戸新聞社 、 講談社 、 GyaO!",
+      "director": "降旗康男",
+      "screenplay": "古沢良太",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2013,
+      "ceremony": "第37回",
+      "film": "そして父になる",
+      "production_company": "フジテレビジョン 、 アミューズ 、 ギャガ",
+      "director": "是枝裕和",
+      "screenplay": "是枝裕和",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2013,
+      "ceremony": "第37回",
+      "film": "東京家族",
+      "production_company": "松竹 、 住友商事 、 テレビ朝日 、 衛星劇場 、 博報堂DYメディアパートナーズ 、 講談社 、 日販 、 Yahoo! JAPAN 、 ぴあ 、 読売新聞社 、 TOKYO FM 、 朝日放送 、 メ～テレ 、 RCC 、 九州朝日放送 、 北海道テレビ",
+      "director": "山田洋次",
+      "screenplay": "山田洋次、 平松恵美子",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2013,
+      "ceremony": "第37回",
+      "film": "利休にたずねよ",
+      "production_company": "東映 、 木下グループ 、 キングレコード 、 東映ビデオ 、 テレビ東京 、 東急エージェンシー 、ギルド、 テレビ大阪 、クリエイターズユニオン、 日本出版販売 、 PHP研究所 、 読売新聞社 、 東映チャンネル",
+      "director": "田中光敏",
+      "screenplay": "小松江里子",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2014,
+      "ceremony": "第38回",
+      "film": "永遠の0",
+      "production_company": "東宝 、 アミューズ 、 アミューズソフトエンタテインメント 、 電通 、 ROBOT 、 白組 、 阿部秀司事務所 、 ジェイ・ストーム 、 太田出版 、 講談社 、 双葉社 、 朝日新聞社 、 日本経済新聞社 、 KDDI 、 TOKYO FM 、 日本出版販売 、 GyaO! 、 中日新聞社 、 西日本新聞社",
+      "director": "山崎貴",
+      "screenplay": "山崎貴 、 林民夫",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 2014,
+      "ceremony": "第38回",
+      "film": "紙の月",
+      "production_company": "松竹 、 ポニーキャニオン 、 ロボット 、 アスミック・エース 、 博報堂 、 朝日新聞社 、 ぴあ 、 KDDI",
+      "director": "吉田大八",
+      "screenplay": "早船歌江子",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2014,
+      "ceremony": "第38回",
+      "film": "小さいおうち",
+      "production_company": "松竹 、 住友商事 、 テレビ朝日 、 博報堂DYメディアパートナーズ 、 衛星劇場 、 日販 、 ぴあ 、 読売新聞社 、 TOKYO FM 、 博報堂 、 GyaO! 、 朝日放送 、 メ～テレ 、 北海道テレビ 、 北陸朝日放送",
+      "director": "山田洋次",
+      "screenplay": "山田洋次、 平松恵美子",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2014,
+      "ceremony": "第38回",
+      "film": "蜩ノ記",
+      "production_company": "東宝 、 テレビ東京 、 日本経済新聞社 、 電通 、 読売新聞社 、 テレビ大阪 、 BSジャパン 、 日本出版販売 、 KDDI 、 祥伝社 、 GyaO! 、 中日新聞社 、 テレビ愛知 、 TVQ九州放送 、 テレビ北海道 、 テレビせとうち 、 西日本新聞社",
+      "director": "小泉堯史",
+      "screenplay": "小泉堯史、 古田求",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2014,
+      "ceremony": "第38回",
+      "film": "ふしぎな岬の物語",
+      "production_company": "東映 、 TBS 、 木下グループ 、 電通 、 ジェイアール東日本企画 、 東映ビデオ 、 TBSラジオ 、 幻冬舎 、 TOKYO FM 、イノベーションデザイン、 MBS 、 CBCテレビ 、 読売新聞社 、 毎日新聞社 、 RKB 、 HBC",
+      "director": "成島出",
+      "screenplay": "加藤正人 、 安倍照雄",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2015,
+      "ceremony": "第39回",
+      "film": "海街diary",
+      "production_company": "フジテレビジョン 、 小学館 、 東宝 、 ギャガ",
+      "director": "是枝裕和",
+      "screenplay": "是枝裕和",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 2015,
+      "ceremony": "第39回",
+      "film": "海難1890",
+      "production_company": "東映 、 木下グループ 、 東映ビデオ 、 電通 、 読売テレビ 、クリエーターズユニオン、 ぴあ 、イノベーションデザイン、 ノーリツ鋼機 、 読売新聞社 、 朝日放送 、 毎日新聞社 、 BSフジ 、 MXエンターテインメント 、 北日本新聞社 、 トルコ共和国 文化観光省映画総局",
+      "director": "田中光敏",
+      "screenplay": "小松江里子",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2015,
+      "ceremony": "第39回",
+      "film": "日本のいちばん長い日",
+      "production_company": "松竹 、 アスミック・エース 、 テレビ朝日 、 木下グループ 、 WOWOW 、巌本金属、 読売新聞社 、 中日新聞社",
+      "director": "原田眞人",
+      "screenplay": "原田眞人",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2015,
+      "ceremony": "第39回",
+      "film": "母と暮せば",
+      "production_company": "松竹 、 住友商事 、 テレビ朝日 、 木下グループ 、 博報堂DYメディアパートナーズ 、 松竹ブロードキャスティング 、 Jストーム 、 読売新聞社 、 博報堂 、 朝日放送 、 日販 、 GYAO 、 メ～テレ 、 こまつ座 、 長崎新聞社 、 長崎文化放送 、 講談社 、 九州朝日放送 、 北海道テレビ",
+      "director": "山田洋次",
+      "screenplay": "山田洋次、 平松恵美子",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2015,
+      "ceremony": "第39回",
+      "film": "百円の恋",
+      "production_company": "東映ビデオ",
+      "director": "武正晴",
+      "screenplay": "足立紳",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2016,
+      "ceremony": "第40回",
+      "film": "シン・ゴジラ",
+      "production_company": "東宝株式会社",
+      "director": "庵野秀明 （総監督）、 樋口真嗣 （監督）",
+      "screenplay": "庵野秀明",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 2016,
+      "ceremony": "第40回",
+      "film": "怒り",
+      "production_company": "東宝 、 電通 、 ジェイアール東日本企画 、 ケイダッシュ 、 KDDI 、 読売新聞社 、 中央公論新社 、 日本出版販売 、 ソニー・ミュージックエンタテインメント 、 GYAO 、 中日新聞社",
+      "director": "李相日",
+      "screenplay": "李相日",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2016,
+      "ceremony": "第40回",
+      "film": "家族はつらいよ",
+      "production_company": "松竹 、 住友商事 、 テレビ朝日 、 木下グループ 、 博報堂DYメディアパートナーズ 、 松竹ブロードキャスティング 、 読売新聞社 、 博報堂 、 朝日放送 、 日本出版販売 、 GYAO 、 メ～テレ 、 講談社 、 九州朝日放送 、 北海道テレビ放送",
+      "director": "山田洋次",
+      "screenplay": "山田洋次、 平松恵美子",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2016,
+      "ceremony": "第40回",
+      "film": "湯を沸かすほどの熱い愛",
+      "production_company": "クロックワークス 、 テレビ東京 、 博報堂DYミュージック&ピクチャーズ 、パイプライン、 ひかりTV",
+      "director": "中野量太",
+      "screenplay": "中野量太",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2016,
+      "ceremony": "第40回",
+      "film": "64-ロクヨン- 前編",
+      "production_company": "TBSテレビ 、 東宝 、 電通 、 CBCテレビ 、 WOWOW 、 朝日新聞社 、 毎日新聞社 、 TBSラジオ 、 MBS 、 RKB 、 KDDI 、コブラピクチャーズ、 HBC 、 TBC 、 BSN 、 SBS 、 RSK 、 RCC 、 GYAO 、 TCエンタテインメント 、 日本出版販売",
+      "director": "瀬々敬久",
+      "screenplay": "久松真一 、瀬々敬久",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2017,
+      "ceremony": "第41回",
+      "film": "三度目の殺人",
+      "production_company": "フジテレビジョン 、 アミューズ 、 ギャガ",
+      "director": "是枝裕和",
+      "screenplay": "是枝裕和",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 2017,
+      "ceremony": "第41回",
+      "film": "君の膵臓をたべたい",
+      "production_company": "東宝 、 博報堂DYミュージック&ピクチャーズ 、 双葉社 、 ジェイアール東日本企画 、 博報堂 、 KDDI 、 日本出版販売 、 トライストーン・エンタテイメント 、 S・D・P 、 東急エージェンシー 、 GYAO 、 トーハン",
+      "director": "月川翔",
+      "screenplay": "吉田智子",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2017,
+      "ceremony": "第41回",
+      "film": "関ヶ原",
+      "production_company": "東宝 、 アスミック・エース 、 住友商事 、 電通 、 ジェイアール東日本企画 、 木下グループ 、 ジェイ・ストーム 、 朝日新聞社 、 毎日新聞社 、 時事通信社 、 WOWOW 、 阪急交通社 、 東急エージェンシー 、 時代劇専門チャンネル 、 GYAO 、 日本出版販売 、 中日新聞社 、 コーエーテクモゲームス",
+      "director": "原田眞人",
+      "screenplay": "原田眞人",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2017,
+      "ceremony": "第41回",
+      "film": "ナミヤ雑貨店の奇蹟",
+      "production_company": "KADOKAWA 、 松竹 、 ハピネット 、 ジェイ・ストーム 、 朝日新聞社",
+      "director": "廣木隆一",
+      "screenplay": "斉藤ひろし",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2017,
+      "ceremony": "第41回",
+      "film": "花戦さ",
+      "production_company": "東映 、 木下グループ 、 東映ビデオ 、 竹田本社 、 エネット 、 たねやグループ 、エスカワゴエ、 全日本空輸 、 朝日新聞社 、 日本出版販売 、デスティニー",
+      "director": "篠原哲雄",
+      "screenplay": "森下佳子",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2018,
+      "ceremony": "第42回",
+      "film": "万引き家族",
+      "production_company": "フジテレビジョン 、 ギャガ 、 AOI Pro.",
+      "director": "是枝裕和",
+      "screenplay": "是枝裕和",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 2018,
+      "ceremony": "第42回",
+      "film": "カメラを止めるな!",
+      "production_company": "ENBUゼミナール",
+      "director": "上田慎一郎",
+      "screenplay": "上田慎一郎",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2018,
+      "ceremony": "第42回",
+      "film": "北の桜守",
+      "production_company": "東映 、 テレビ朝日 、 木下グループ 、 東映アニメーション 、 博報堂 、 博報堂DYミュージック&ピクチャーズ 、 東映ビデオ 、 朝日放送 、 ジェイアール東日本企画 、 朝日新聞社 、 読売新聞社 、 北海道テレビ 、 メ～テレ 、 九州朝日放送 、 北海道新聞社 、イノベーション デザイン、 静岡朝日テレビ 、 広島ホームテレビ 、 東日本放送 、 新潟テレビ21",
+      "director": "滝田洋二郎",
+      "screenplay": "那須真知子",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2018,
+      "ceremony": "第42回",
+      "film": "孤狼の血",
+      "production_company": "東映 、 木下グループ 、 KADOKAWA 、 日活 、山陽鋼業、 電通 、 朝日新聞社 、 東映ビデオ 、 WOWOW 、 ダイバーシティメディア 、 報知新聞社 、 GYAO 、 トーハン 、プルーク",
+      "director": "白石和彌",
+      "screenplay": "池上純哉",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2018,
+      "ceremony": "第42回",
+      "film": "空飛ぶタイヤ",
+      "production_company": "松竹 、 木下グループ 、 日活 、 ジェイストーム 、 講談社 、 朝日新聞社 、 実業之日本社 、 GYAO 、 オフィスIKEIDO 、 コロナワールド 、 イオンエンターテイメント",
+      "director": "本木克英",
+      "screenplay": "林民夫",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2019,
+      "ceremony": "第43回",
+      "film": "新聞記者",
+      "production_company": "VAP 、 スターサンズ 、 KADOKAWA 、 朝日新聞社 、 イオンエンターテイメント",
+      "director": "藤井道人",
+      "screenplay": "詩森ろば 、 高石明彦 、 藤井道人",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 2019,
+      "ceremony": "第43回",
+      "film": "キングダム",
+      "production_company": "ソニー・ピクチャーズ エンタテインメント 、 日本テレビ放送網 、 集英社 、 東宝 、 読売テレビ放送 、 KDDI 、 GYAO 、CREDEUS、 ジェイアール東日本企画 、 東急エージェンシー 、 博報堂 、 ぴえろ 、 札幌テレビ放送 、 宮城テレビ放送 、 静岡第一テレビ 、 中京テレビ放送 、 広島テレビ放送 、 福岡放送",
+      "director": "佐藤信介",
+      "screenplay": "黒岩勉 、佐藤信介、 原泰久",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2019,
+      "ceremony": "第43回",
+      "film": "翔んで埼玉",
+      "production_company": "フジテレビジョン 、 東映 、 テレビ埼玉",
+      "director": "武内英樹",
+      "screenplay": "徳永友一",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2019,
+      "ceremony": "第43回",
+      "film": "閉鎖病棟 -それぞれの朝-",
+      "production_company": "東映 、 東映ビデオ 、 木下グループ 、 朝日新聞社 、 MBS 、 ダイバーシティメディア 、山陽鋼業、 JVCケンウッド・ビクターエンタテインメント 、 ブースタープロジェクト",
+      "director": "平山秀幸",
+      "screenplay": "平山秀幸",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2019,
+      "ceremony": "第43回",
+      "film": "蜜蜂と遠雷",
+      "production_company": "東宝 、 木下グループ 、 幻冬舎 、 ソニー・ミュージックエンタテインメント 、 博報堂 、 朝日新聞社 、 東急エージェンシー 、 ひかりTV 、 日本出版販売 、 時事通信社 、 ヤマハ 、 河合楽器製作所 、 ヒラタインターナショナル 、 フォスター 、 GYAO 、 中日新聞社",
+      "director": "石川慶",
+      "screenplay": "石川慶",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2020,
+      "ceremony": "第44回",
+      "film": "ミッドナイトスワン",
+      "production_company": "CULEN 、 アットムービー",
+      "director": "内田英治",
+      "screenplay": "内田英治",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 2020,
+      "ceremony": "第44回",
+      "film": "浅田家!",
+      "production_company": "東宝 、 ジェイ・ストーム 、 ホリプロ 、 ジェイアール東日本企画 、 カルチュア・エンタテインメント 、パイプライン、 朝日新聞社 、 毎日新聞社 、ブリッジヘッド、パパドゥ音楽出版、 LINE 、 日本出版販売 、 GYAO 、 中日新聞社",
+      "director": "中野量太",
+      "screenplay": "中野量太、 菅野友恵",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2020,
+      "ceremony": "第44回",
+      "film": "男はつらいよ お帰り 寅さん",
+      "production_company": "松竹",
+      "director": "山田洋次",
+      "screenplay": "山田洋次、 朝原雄三",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2020,
+      "ceremony": "第44回",
+      "film": "罪の声",
+      "production_company": "TBSテレビ 、 講談社 、 WOWOW 、 TBSスパークル 、 トライストーン・エンタテイメント 、 ジェイアール東日本企画 、 TCエンタテインメント 、 朝日新聞 、 毎日新聞",
+      "director": "土井裕泰",
+      "screenplay": "野木亜紀子",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2020,
+      "ceremony": "第44回",
+      "film": "Fukushima 50",
+      "production_company": "KADOKAWA 、 松竹 、 IMAGICA GROUP 、 中日新聞社 、 報知新聞社 、 読売新聞社 、 福島民友新聞社 、 産経新聞社 、 西日本新聞社 、 中国新聞社 、 ムービーウォーカー",
+      "director": "若松節朗",
+      "screenplay": "前川洋一",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2021,
+      "ceremony": "第45回",
+      "film": "ドライブ・マイ・カー",
+      "production_company": "カルチュア・エンタテインメント 、 ビターズ・エンド 、 ねこじゃらし 、 クオラス 、 日本出版販売 、 文藝春秋 、 レスパスビジョン 、 C&Iエンタテインメント 、 朝日新聞社",
+      "director": "濱口竜介",
+      "screenplay": "濱口竜介 、 大江崇允",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 2021,
+      "ceremony": "第45回",
+      "film": "キネマの神様",
+      "production_company": "松竹 、 テレビ朝日 、 木下グループ 、 住友商事 、 松竹ブロードキャスティング 、 voque ting 、 博報堂 、 博報堂DYメディアパートナーズ 、 読売新聞東京本社 、 朝日放送テレビ 、 日本出版販売 、 GYAO 、 文藝春秋 、 名古屋テレビ",
+      "director": "山田洋次",
+      "screenplay": "山田洋次、 朝原雄三",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2021,
+      "ceremony": "第45回",
+      "film": "孤狼の血 LEVEL2",
+      "production_company": "東映 、 木下グループ 、 テレビ東京 、山陽鋼業、 KADOKAWA 、 東映ビデオ 、 電通 、 朝日新聞社 、 ダイバーシティメディア 、 報知新聞社 、 GYAO 、 ニッポン放送 、 Filmarks",
+      "director": "白石和彌",
+      "screenplay": "池上純哉",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2021,
+      "ceremony": "第45回",
+      "film": "すばらしき世界",
+      "production_company": "バンダイナムコアーツ 、 AOI Pro. 、 ワーナー・ブラザース映画 、 ギャガ 、 講談社 、 Filmarks 、 U-NEXT",
+      "director": "西川美和",
+      "screenplay": "西川美和",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2021,
+      "ceremony": "第45回",
+      "film": "護られなかった者たちへ",
+      "production_company": "松竹 、 アミューズ 、 木下グループ 、 トーハン 、 イオンエンターテイメント 、 NHK出版 、 松竹ブロードキャスティング",
+      "director": "瀬々敬久",
+      "screenplay": "林民夫 、瀬々敬久",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2022,
+      "ceremony": "第46回",
+      "film": "ある男",
+      "production_company": "松竹 、 木下グループ 、 GYAO 、 文藝春秋 、 イオンエンターテイメント 、 コルク 、 松竹ブロードキャスティング",
+      "director": "石川慶",
+      "screenplay": "向井康介",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 2022,
+      "ceremony": "第46回",
+      "film": "シン・ウルトラマン",
+      "production_company": "円谷プロダクション 、 東宝 、 カラー",
+      "director": "樋口真嗣",
+      "screenplay": "庵野秀明",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2022,
+      "ceremony": "第46回",
+      "film": "月の満ち欠け",
+      "production_company": "松竹 、 アミューズ 、 JR東日本企画 、 トーハン 、 イオンエンターテイメント 、 クリエイティブオフィスキュー 、 松竹ブロードキャスティング",
+      "director": "廣木隆一",
+      "screenplay": "橋本裕志",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2022,
+      "ceremony": "第46回",
+      "film": "ハケンアニメ!",
+      "production_company": "東映 、 東映アニメーション 、 ベンチャーバンクエンターテインメント 、 東映ビデオ 、 MBS 、 マガジンハウス 、 西武鉄道",
+      "director": "吉野耕平",
+      "screenplay": "政池洋佑",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2022,
+      "ceremony": "第46回",
+      "film": "流浪の月",
+      "production_company": "UNO-FILMS 、 ギャガ 、 UNITED PRODUCTIONS",
+      "director": "李相日",
+      "screenplay": "李相日",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2023,
+      "ceremony": "第47回",
+      "film": "ゴジラ-1.0",
+      "production_company": "東宝",
+      "director": "山崎貴",
+      "screenplay": "山崎貴",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 2023,
+      "ceremony": "第47回",
+      "film": "怪物",
+      "production_company": "東宝 、 フジテレビジョン 、 ギャガ 、 AOI Pro. 、分福",
+      "director": "是枝裕和",
+      "screenplay": "坂元裕二",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2023,
+      "ceremony": "第47回",
+      "film": "こんにちは、母さん",
+      "production_company": "松竹 、 木下グループ 、 テレビ朝日 、 住友商事 、 松竹ブロードキャスティング 、 アミューズ 、 博報堂 、 博報堂DYメディアパートナーズ 、 読売新聞社 、 LINEヤフー 、 朝日放送テレビ 、 BS朝日 、 日本出版販売 、 クリエイティブオフィスキュー 、 講談社 、 メ～テレ 、 北海道テレビ 、 静岡朝日テレビ 、 九州朝日放送",
+      "director": "山田洋次",
+      "screenplay": "山田洋次、 朝原雄三",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2023,
+      "ceremony": "第47回",
+      "film": "福田村事件",
+      "production_company": "テンカラット 、 カタログハウス 、 辻野弥生 、ピカンテサーカス、 MBS 、ドッグシュガー、太秦",
+      "director": "森達也",
+      "screenplay": "佐伯俊道 、 井上淳一 、 荒井晴彦",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2023,
+      "ceremony": "第47回",
+      "film": "PERFECT DAYS",
+      "production_company": "MASTER MIND",
+      "director": "ヴィム・ヴェンダース",
+      "screenplay": "ヴィム・ヴェンダース、 高崎卓馬",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2024,
+      "ceremony": "第48回",
+      "film": "侍タイムスリッパー",
+      "production_company": "未来映画社",
+      "director": "安田淳一",
+      "screenplay": "安田淳一",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 2024,
+      "ceremony": "第48回",
+      "film": "キングダム 大将軍の帰還",
+      "production_company": "集英社 、 日本テレビ放送網 、 ソニー・ピクチャーズ エンタテインメント 、 読売テレビ放送 、 東宝 、 CREDEUS 、 ジェイアール東日本企画 、 東急エージェンシー 、 博報堂 、 ぴえろ 、 LINEヤフー",
+      "director": "佐藤信介",
+      "screenplay": "黒岩勉 、 原泰久",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2024,
+      "ceremony": "第48回",
+      "film": "正体",
+      "production_company": "TBSテレビ 、 松竹 、 毎日放送 、 TCエンタテインメント 、 CBCテレビ 、 ジェイアール東日本企画 、 RKB毎日放送 、 TBSスパークル 、 サイバーエージェント 、 北海道放送 、 光文社",
+      "director": "藤井道人",
+      "screenplay": "小寺和久 、藤井道人",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2024,
+      "ceremony": "第48回",
+      "film": "夜明けのすべて",
+      "production_company": "バンダイナムコフィルムワークス 、 アスミック・エース 、 KDDI 、 ストームレーベルズ 、 ホリプロ 、 ザフール 、 日本出版販売 、 博報堂DYミュージック&ピクチャーズ 、 水鈴社 、 東宝芸能 、 ギャンビット",
+      "director": "三宅唱",
+      "screenplay": "和田清人 、三宅唱",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2024,
+      "ceremony": "第48回",
+      "film": "ラストマイル",
+      "production_company": "TBSスパークル 、 TBSテレビ 、 東宝 、 毎日放送 、 CBCテレビ 、 RKB毎日放送 、 北海道放送",
+      "director": "塚原あゆ子",
+      "screenplay": "野木亜紀子",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2025,
+      "ceremony": "第49回",
+      "film": "国宝",
+      "production_company": "アニプレックス 、 MYRIAGON STUDIO 、 アミューズ 、 東宝 、 ローソン 、 CREDEUS",
+      "director": "李相日",
+      "screenplay": "奥寺佐渡子",
+      "result": "最優秀作品賞"
+    },
+    {
+      "film_year": 2025,
+      "ceremony": "第49回",
+      "film": "宝島",
+      "production_company": "電通 、クロスメディア、 講談社 、 ソニー・ピクチャーズ エンタテインメント 、 東映 、ウィーンの森、LUKA Productions International、 VAP 、 吉本興業 、 フォスター・プラス 、 朝日新聞社 、 琉球朝日放送 、 琉球放送 、 沖縄タイムス社 、 文教大学 、 フラッグ 、 エフエム沖縄",
+      "director": "大友啓史",
+      "screenplay": "高田亮 、大友啓史、大浦光太",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2025,
+      "ceremony": "第49回",
+      "film": "爆弾",
+      "production_company": "フジテレビジョン 、 ワーナー・ブラザース映画 、 講談社",
+      "director": "永井聡",
+      "screenplay": "八津弘幸 、 山浦雅大",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2025,
+      "ceremony": "第49回",
+      "film": "ファーストキス 1ST KISS",
+      "production_company": "東宝 、 AOI Pro. 、 ジェイアール東日本企画 、 ローソン 、 ニッポン放送",
+      "director": "塚原あゆ子",
+      "screenplay": "坂元裕二",
+      "result": "優秀作品賞"
+    },
+    {
+      "film_year": 2025,
+      "ceremony": "第49回",
+      "film": "TOKYOタクシー",
+      "production_company": "松竹 、 テレビ朝日 、 木下グループ 、 ストームレーベルズ 、 住友商事 、 松竹ブロードキャスティング 、 博報堂 、 ABCテレビ 、 BS朝日 、 LINEヤフー 、 読売新聞社 、 日本出版販売 、 メ～テレ 、 北海道テレビ 、 東日本放送 、 静岡朝日テレビ 、 九州朝日放送",
+      "director": "山田洋次",
+      "screenplay": "山田洋次、 朝原雄三",
+      "result": "優秀作品賞"
+    }
+  ],
+  "meta": {
+    "title": "日本アカデミー賞 最優秀作品賞・優秀作品賞 一覧 (Japan Academy Film Prize for Picture of the Year) - Free Download",
+    "description": "日本アカデミー賞の各回の最優秀作品賞および優秀作品賞（ノミネート）作品と製作会社・監督・脚本の一覧 Contains 246 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本アカデミー賞 最優秀作品賞・優秀作品賞 一覧 (Japan Academy Film Prize for Picture of the Year) | ListBase",
+    "seo_description": "Download 日本アカデミー賞 最優秀作品賞・優秀作品賞 一覧 (Japan Academy Film Prize for Picture of the Year) — 246 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 246 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/日本アカデミー賞最優秀作品賞"
+    ]
+  }
+}

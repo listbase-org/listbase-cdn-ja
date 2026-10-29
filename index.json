@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-28T02:17:50.531Z",
-  "total_datasets": 549,
-  "total_records": 457706,
+  "generated": "2026-10-29T02:20:09.964Z",
+  "total_datasets": 550,
+  "total_records": 457952,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "environment",
@@ -1036,6 +1036,34 @@
         "xlsx": {
           "name": "ja-million-seller-game_JA.xlsx",
           "size": 23568
+        }
+      }
+    },
+    {
+      "id": "ja-nihon-academy-sho-sakuhin-sho",
+      "name": "日本アカデミー賞 最優秀作品賞・優秀作品賞 一覧 (Japan Academy Film Prize for Picture of the Year)",
+      "category": "entertainment",
+      "record_count": 246,
+      "columns": [
+        "film_year",
+        "ceremony",
+        "film",
+        "production_company",
+        "director",
+        "screenplay",
+        "result"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/日本アカデミー賞最優秀作品賞",
+      "updated": "2026-10",
+      "size": 92510,
+      "files": {
+        "csv": {
+          "name": "ja-nihon-academy-sho-sakuhin-sho_JA.csv",
+          "size": 53295
+        },
+        "xlsx": {
+          "name": "ja-nihon-academy-sho-sakuhin-sho_JA.xlsx",
+          "size": 26692
         }
       }
     },
