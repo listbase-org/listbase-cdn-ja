@@ -1,0 +1,1051 @@
+{
+  "id": "ja-yurukyara-grandprix-joi",
+  "name": "ゆるキャラグランプリ 歴代上位キャラクター (Yuru-chara Grand Prix top 10 by year)",
+  "title": "ゆるキャラグランプリ 歴代上位キャラクター (Yuru-chara Grand Prix top 10 by year)",
+  "description": "ゆるキャラグランプリ（2010年〜2020年）の年別上位10キャラクター（ご当地部門）の順位、都道府県、所属、得票数",
+  "category": "entertainment",
+  "source": "https://ja.wikipedia.org/wiki/ゆるキャラ",
+  "source_url": "https://ja.wikipedia.org/wiki/ゆるキャラ",
+  "updated": "2026-10",
+  "record_count": 110,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "affiliation",
+      "label": "Affiliation",
+      "type": "string"
+    },
+    {
+      "key": "character",
+      "label": "Character",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2010,
+      "category": "携帯投票",
+      "rank": 1,
+      "prefecture": "滋賀県",
+      "affiliation": "",
+      "character": "タボくん",
+      "votes": 26421
+    },
+    {
+      "year": 2010,
+      "category": "携帯投票",
+      "rank": 2,
+      "prefecture": "佐賀県 唐津市",
+      "affiliation": "",
+      "character": "唐ワンくん",
+      "votes": 24240
+    },
+    {
+      "year": 2010,
+      "category": "携帯投票",
+      "rank": 3,
+      "prefecture": "岐阜県 岐阜市",
+      "affiliation": "",
+      "character": "やなな",
+      "votes": 16097
+    },
+    {
+      "year": 2010,
+      "category": "携帯投票",
+      "rank": 4,
+      "prefecture": "愛知県 名古屋市",
+      "affiliation": "",
+      "character": "はち丸",
+      "votes": 15140
+    },
+    {
+      "year": 2010,
+      "category": "携帯投票",
+      "rank": 5,
+      "prefecture": "福井県 美浜町",
+      "affiliation": "",
+      "character": "へしこちゃん",
+      "votes": 15048
+    },
+    {
+      "year": 2010,
+      "category": "携帯投票",
+      "rank": 6,
+      "prefecture": "大阪府 東大阪市",
+      "affiliation": "",
+      "character": "いしきりん",
+      "votes": 13144
+    },
+    {
+      "year": 2010,
+      "category": "携帯投票",
+      "rank": 7,
+      "prefecture": "京都府京都市",
+      "affiliation": "",
+      "character": "鸞恩くん",
+      "votes": 12707
+    },
+    {
+      "year": 2010,
+      "category": "携帯投票",
+      "rank": 8,
+      "prefecture": "千葉県 成田市",
+      "affiliation": "",
+      "character": "うなりくん",
+      "votes": 11055
+    },
+    {
+      "year": 2010,
+      "category": "携帯投票",
+      "rank": 9,
+      "prefecture": "滋賀県彦根市",
+      "affiliation": "",
+      "character": "ひこにゃん",
+      "votes": 10041
+    },
+    {
+      "year": 2010,
+      "category": "携帯投票",
+      "rank": 10,
+      "prefecture": "愛知県 稲沢市",
+      "affiliation": "",
+      "character": "いなッピー",
+      "votes": 8592
+    },
+    {
+      "year": 2011,
+      "category": "総合",
+      "rank": 1,
+      "prefecture": "熊本県",
+      "affiliation": "",
+      "character": "くまモン",
+      "votes": 287315
+    },
+    {
+      "year": 2011,
+      "category": "総合",
+      "rank": 2,
+      "prefecture": "愛媛県 今治市",
+      "affiliation": "",
+      "character": "バリィさん",
+      "votes": 245238
+    },
+    {
+      "year": 2011,
+      "category": "総合",
+      "rank": 3,
+      "prefecture": "東京都 国分寺市",
+      "affiliation": "",
+      "character": "にしこくん",
+      "votes": 174079
+    },
+    {
+      "year": 2011,
+      "category": "総合",
+      "rank": 4,
+      "prefecture": "栃木県 大田原市",
+      "affiliation": "",
+      "character": "与一くん",
+      "votes": 172798
+    },
+    {
+      "year": 2011,
+      "category": "総合",
+      "rank": 5,
+      "prefecture": "愛知県名古屋市",
+      "affiliation": "",
+      "character": "はち丸・だなも・エビザベス",
+      "votes": 158756
+    },
+    {
+      "year": 2011,
+      "category": "総合",
+      "rank": 6,
+      "prefecture": "埼玉県 深谷市",
+      "affiliation": "",
+      "character": "ふっかちゃん",
+      "votes": 154243
+    },
+    {
+      "year": 2011,
+      "category": "総合",
+      "rank": 7,
+      "prefecture": "福岡県 北九州市",
+      "affiliation": "",
+      "character": "モモマルくん",
+      "votes": 126583
+    },
+    {
+      "year": 2011,
+      "category": "総合",
+      "rank": 8,
+      "prefecture": "岐阜県岐阜市",
+      "affiliation": "",
+      "character": "やなな",
+      "votes": 115866
+    },
+    {
+      "year": 2011,
+      "category": "総合",
+      "rank": 9,
+      "prefecture": "大阪府 箕面市",
+      "affiliation": "",
+      "character": "滝ノ道ゆずる",
+      "votes": 110900
+    },
+    {
+      "year": 2011,
+      "category": "総合",
+      "rank": 10,
+      "prefecture": "新潟県",
+      "affiliation": "",
+      "character": "レルヒさん",
+      "votes": 90569
+    },
+    {
+      "year": 2012,
+      "category": "総合",
+      "rank": 1,
+      "prefecture": "愛媛県今治市",
+      "affiliation": "",
+      "character": "バリィさん",
+      "votes": 547284
+    },
+    {
+      "year": 2012,
+      "category": "総合",
+      "rank": 2,
+      "prefecture": "山口県",
+      "affiliation": "",
+      "character": "ちょるる",
+      "votes": 462970
+    },
+    {
+      "year": 2012,
+      "category": "総合",
+      "rank": 3,
+      "prefecture": "群馬県",
+      "affiliation": "",
+      "character": "ぐんまちゃん",
+      "votes": 260512
+    },
+    {
+      "year": 2012,
+      "category": "総合",
+      "rank": 4,
+      "prefecture": "栃木県 佐野市",
+      "affiliation": "",
+      "character": "さのまる",
+      "votes": 163258
+    },
+    {
+      "year": 2012,
+      "category": "総合",
+      "rank": 5,
+      "prefecture": "埼玉県深谷市",
+      "affiliation": "",
+      "character": "ふっかちゃん",
+      "votes": 158343
+    },
+    {
+      "year": 2012,
+      "category": "総合",
+      "rank": 6,
+      "prefecture": "島根県",
+      "affiliation": "",
+      "character": "しまねっこ",
+      "votes": 141723
+    },
+    {
+      "year": 2012,
+      "category": "総合",
+      "rank": 7,
+      "prefecture": "静岡県 浜松市",
+      "affiliation": "",
+      "character": "出世大名家康くん",
+      "votes": 137099
+    },
+    {
+      "year": 2012,
+      "category": "総合",
+      "rank": 8,
+      "prefecture": "岐阜県岐阜市",
+      "affiliation": "",
+      "character": "やなな",
+      "votes": 127820
+    },
+    {
+      "year": 2012,
+      "category": "総合",
+      "rank": 9,
+      "prefecture": "神奈川県 厚木市",
+      "affiliation": "",
+      "character": "あゆコロちゃん",
+      "votes": 122161
+    },
+    {
+      "year": 2012,
+      "category": "総合",
+      "rank": 10,
+      "prefecture": "大阪府箕面市",
+      "affiliation": "",
+      "character": "滝ノ道ゆずる",
+      "votes": 114600
+    },
+    {
+      "year": 2013,
+      "category": "ご当地",
+      "rank": 1,
+      "prefecture": "栃木県",
+      "affiliation": "佐野市",
+      "character": "さのまる",
+      "votes": 1204255
+    },
+    {
+      "year": 2013,
+      "category": "ご当地",
+      "rank": 2,
+      "prefecture": "静岡県",
+      "affiliation": "浜松市",
+      "character": "出世大名家康くん",
+      "votes": 1148585
+    },
+    {
+      "year": 2013,
+      "category": "ご当地",
+      "rank": 3,
+      "prefecture": "群馬県",
+      "affiliation": "群馬県",
+      "character": "ぐんまちゃん",
+      "votes": 752789
+    },
+    {
+      "year": 2013,
+      "category": "ご当地",
+      "rank": 4,
+      "prefecture": "埼玉県",
+      "affiliation": "深谷市",
+      "character": "ふっかちゃん",
+      "votes": 425694
+    },
+    {
+      "year": 2013,
+      "category": "ご当地",
+      "rank": 5,
+      "prefecture": "栃木県",
+      "affiliation": "大田原市観光協会",
+      "character": "与一くん",
+      "votes": 406968
+    },
+    {
+      "year": 2013,
+      "category": "ご当地",
+      "rank": 6,
+      "prefecture": "神奈川県",
+      "affiliation": "厚木市",
+      "character": "あゆコロちゃん",
+      "votes": 404644
+    },
+    {
+      "year": 2013,
+      "category": "ご当地",
+      "rank": 7,
+      "prefecture": "山口県",
+      "affiliation": "山口県",
+      "character": "ちょるる",
+      "votes": 385027
+    },
+    {
+      "year": 2013,
+      "category": "ご当地",
+      "rank": 8,
+      "prefecture": "福岡県",
+      "affiliation": "（株）ふくや",
+      "character": "かわりみ千兵衛",
+      "votes": 361104
+    },
+    {
+      "year": 2013,
+      "category": "ご当地",
+      "rank": 9,
+      "prefecture": "静岡県",
+      "affiliation": "磐田市",
+      "character": "しっぺい",
+      "votes": 358319
+    },
+    {
+      "year": 2013,
+      "category": "ご当地",
+      "rank": 10,
+      "prefecture": "島根県",
+      "affiliation": "（公団）島根県観光連盟",
+      "character": "しまねっこ",
+      "votes": 343695
+    },
+    {
+      "year": 2014,
+      "category": "ご当地",
+      "rank": 1,
+      "prefecture": "群馬県",
+      "affiliation": "群馬県",
+      "character": "ぐんまちゃん",
+      "votes": 1002505
+    },
+    {
+      "year": 2014,
+      "category": "ご当地",
+      "rank": 2,
+      "prefecture": "埼玉県",
+      "affiliation": "深谷市",
+      "character": "ふっかちゃん",
+      "votes": 835981
+    },
+    {
+      "year": 2014,
+      "category": "ご当地",
+      "rank": 3,
+      "prefecture": "愛媛県",
+      "affiliation": "愛媛県",
+      "character": "みきゃん",
+      "votes": 749911
+    },
+    {
+      "year": 2014,
+      "category": "ご当地",
+      "rank": 4,
+      "prefecture": "高知県",
+      "affiliation": "須崎市",
+      "character": "しんじょう君",
+      "votes": 525306
+    },
+    {
+      "year": 2014,
+      "category": "ご当地",
+      "rank": 5,
+      "prefecture": "京都府",
+      "affiliation": "宇治商工会議所",
+      "character": "チャチャ王国のおうじちゃま",
+      "votes": 522704
+    },
+    {
+      "year": 2014,
+      "category": "ご当地",
+      "rank": 6,
+      "prefecture": "栃木県",
+      "affiliation": "大田原市観光協会",
+      "character": "与一くん",
+      "votes": 501122
+    },
+    {
+      "year": 2014,
+      "category": "ご当地",
+      "rank": 7,
+      "prefecture": "島根県",
+      "affiliation": "（公団）島根県観光連盟",
+      "character": "しまねっこ",
+      "votes": 469791
+    },
+    {
+      "year": 2014,
+      "category": "ご当地",
+      "rank": 8,
+      "prefecture": "栃木県",
+      "affiliation": "栃木市",
+      "character": "とち介",
+      "votes": 469684
+    },
+    {
+      "year": 2014,
+      "category": "ご当地",
+      "rank": 9,
+      "prefecture": "神奈川県",
+      "affiliation": "厚木市",
+      "character": "あゆコロちゃん",
+      "votes": 428061
+    },
+    {
+      "year": 2014,
+      "category": "ご当地",
+      "rank": 10,
+      "prefecture": "静岡県",
+      "affiliation": "磐田市",
+      "character": "しっぺい",
+      "votes": 404123
+    },
+    {
+      "year": 2015,
+      "category": "ご当地",
+      "rank": 1,
+      "prefecture": "静岡県",
+      "affiliation": "浜松市",
+      "character": "出世大名家康くん",
+      "votes": 6953461
+    },
+    {
+      "year": 2015,
+      "category": "ご当地",
+      "rank": 2,
+      "prefecture": "愛媛県",
+      "affiliation": "愛媛県",
+      "character": "みきゃん",
+      "votes": 6915774
+    },
+    {
+      "year": 2015,
+      "category": "ご当地",
+      "rank": 3,
+      "prefecture": "埼玉県",
+      "affiliation": "深谷市",
+      "character": "ふっかちゃん",
+      "votes": 4011758
+    },
+    {
+      "year": 2015,
+      "category": "ご当地",
+      "rank": 4,
+      "prefecture": "高知県",
+      "affiliation": "須崎市",
+      "character": "しんじょう君",
+      "votes": 2242317
+    },
+    {
+      "year": 2015,
+      "category": "ご当地",
+      "rank": 5,
+      "prefecture": "富山県",
+      "affiliation": "小矢部市",
+      "character": "メルギューくん・メルモモちゃん",
+      "votes": 1551716
+    },
+    {
+      "year": 2015,
+      "category": "ご当地",
+      "rank": 6,
+      "prefecture": "栃木県",
+      "affiliation": "栃木市",
+      "character": "とち介",
+      "votes": 992524
+    },
+    {
+      "year": 2015,
+      "category": "ご当地",
+      "rank": 7,
+      "prefecture": "埼玉県",
+      "affiliation": "本庄市",
+      "character": "はにぽん",
+      "votes": 903455
+    },
+    {
+      "year": 2015,
+      "category": "ご当地",
+      "rank": 8,
+      "prefecture": "栃木県",
+      "affiliation": "小山市 観光協会",
+      "character": "政光くん ・ 寒川尼ちゃん",
+      "votes": 848973
+    },
+    {
+      "year": 2015,
+      "category": "ご当地",
+      "rank": 9,
+      "prefecture": "愛知県",
+      "affiliation": "半田市",
+      "character": "だし丸くん",
+      "votes": 792279
+    },
+    {
+      "year": 2015,
+      "category": "ご当地",
+      "rank": 10,
+      "prefecture": "島根県",
+      "affiliation": "（公団）島根県観光連盟",
+      "character": "しまねっこ",
+      "votes": 717148
+    },
+    {
+      "year": 2016,
+      "category": "ご当地",
+      "rank": 1,
+      "prefecture": "高知県",
+      "affiliation": "須崎市",
+      "character": "しんじょう君",
+      "votes": 4345960
+    },
+    {
+      "year": 2016,
+      "category": "ご当地",
+      "rank": 2,
+      "prefecture": "埼玉県",
+      "affiliation": "本庄市",
+      "character": "はにぽん",
+      "votes": 4341662
+    },
+    {
+      "year": 2016,
+      "category": "ご当地",
+      "rank": 3,
+      "prefecture": "岡山県",
+      "affiliation": "総社市",
+      "character": "チュッピー",
+      "votes": 4236540
+    },
+    {
+      "year": 2016,
+      "category": "ご当地",
+      "rank": 4,
+      "prefecture": "栃木県",
+      "affiliation": "栃木市",
+      "character": "とち介",
+      "votes": 1885649
+    },
+    {
+      "year": 2016,
+      "category": "ご当地",
+      "rank": 5,
+      "prefecture": "大阪府",
+      "affiliation": "箕面市",
+      "character": "滝ノ道ゆずる",
+      "votes": 1115165
+    },
+    {
+      "year": 2016,
+      "category": "ご当地",
+      "rank": 6,
+      "prefecture": "埼玉県",
+      "affiliation": "美里町",
+      "character": "ミムリン",
+      "votes": 1058618
+    },
+    {
+      "year": 2016,
+      "category": "ご当地",
+      "rank": 7,
+      "prefecture": "島根県",
+      "affiliation": "（公団）島根県観光連盟",
+      "character": "しまねっこ",
+      "votes": 819750
+    },
+    {
+      "year": 2016,
+      "category": "ご当地",
+      "rank": 8,
+      "prefecture": "徳島県",
+      "affiliation": "株式会社 chico",
+      "character": "ゆずがっぱ",
+      "votes": 752294
+    },
+    {
+      "year": 2016,
+      "category": "ご当地",
+      "rank": 9,
+      "prefecture": "大阪府",
+      "affiliation": "高槻市",
+      "character": "はにたん",
+      "votes": 492428
+    },
+    {
+      "year": 2016,
+      "category": "ご当地",
+      "rank": 10,
+      "prefecture": "大阪府",
+      "affiliation": "貝塚市",
+      "character": "つげさん",
+      "votes": 472830
+    },
+    {
+      "year": 2017,
+      "category": "ご当地",
+      "rank": 1,
+      "prefecture": "千葉県",
+      "affiliation": "成田市",
+      "character": "うなりくん",
+      "votes": 805328
+    },
+    {
+      "year": 2017,
+      "category": "ご当地",
+      "rank": 2,
+      "prefecture": "愛知県",
+      "affiliation": "知立市",
+      "character": "ちりゅっぴ",
+      "votes": 766359
+    },
+    {
+      "year": 2017,
+      "category": "ご当地",
+      "rank": 3,
+      "prefecture": "大阪府",
+      "affiliation": "東大阪市",
+      "character": "トライくん",
+      "votes": 503846
+    },
+    {
+      "year": 2017,
+      "category": "ご当地",
+      "rank": 4,
+      "prefecture": "三重県",
+      "affiliation": "四日市市",
+      "character": "こにゅうどうくん",
+      "votes": 497530
+    },
+    {
+      "year": 2017,
+      "category": "ご当地",
+      "rank": 5,
+      "prefecture": "茨城県",
+      "affiliation": "稲敷市",
+      "character": "稲敷いなのすけ",
+      "votes": 317077
+    },
+    {
+      "year": 2017,
+      "category": "ご当地",
+      "rank": 6,
+      "prefecture": "福岡県",
+      "affiliation": "大牟田市",
+      "character": "ジャー坊",
+      "votes": 313313
+    },
+    {
+      "year": 2017,
+      "category": "ご当地",
+      "rank": 7,
+      "prefecture": "茨城県",
+      "affiliation": "神栖市",
+      "character": "カミスココくん",
+      "votes": 290771
+    },
+    {
+      "year": 2017,
+      "category": "ご当地",
+      "rank": 8,
+      "prefecture": "福井県",
+      "affiliation": "福井市",
+      "character": "朝倉ゆめまる",
+      "votes": 272855
+    },
+    {
+      "year": 2017,
+      "category": "ご当地",
+      "rank": 9,
+      "prefecture": "大阪府",
+      "affiliation": "箕面市",
+      "character": "滝ノ道ゆずる",
+      "votes": 270346
+    },
+    {
+      "year": 2017,
+      "category": "ご当地",
+      "rank": 10,
+      "prefecture": "愛媛県",
+      "affiliation": "愛南町",
+      "character": "なーしくん",
+      "votes": 210260
+    },
+    {
+      "year": 2018,
+      "category": "ご当地",
+      "rank": 1,
+      "prefecture": "埼玉県",
+      "affiliation": "(公財）志木市文化スポーツ振興公社",
+      "character": "カパル",
+      "votes": 889346
+    },
+    {
+      "year": 2018,
+      "category": "ご当地",
+      "rank": 2,
+      "prefecture": "福岡県",
+      "affiliation": "大牟田市",
+      "character": "ジャー坊",
+      "votes": 843682
+    },
+    {
+      "year": 2018,
+      "category": "ご当地",
+      "rank": 3,
+      "prefecture": "三重県",
+      "affiliation": "四日市市",
+      "character": "こにゅうどうくん",
+      "votes": 807592
+    },
+    {
+      "year": 2018,
+      "category": "ご当地",
+      "rank": 4,
+      "prefecture": "大阪府",
+      "affiliation": "泉佐野市",
+      "character": "一生犬鳴!イヌナキン!",
+      "votes": 605177
+    },
+    {
+      "year": 2018,
+      "category": "ご当地",
+      "rank": 5,
+      "prefecture": "大阪府",
+      "affiliation": "箕面市",
+      "character": "滝ノ道ゆずる",
+      "votes": 192326
+    },
+    {
+      "year": 2018,
+      "category": "ご当地",
+      "rank": 6,
+      "prefecture": "愛知県",
+      "affiliation": "大府市",
+      "character": "おぶちゃん",
+      "votes": 91687
+    },
+    {
+      "year": 2018,
+      "category": "ご当地",
+      "rank": 7,
+      "prefecture": "福岡県",
+      "affiliation": "大野城市",
+      "character": "大野ジョー",
+      "votes": 88390
+    },
+    {
+      "year": 2018,
+      "category": "ご当地",
+      "rank": 8,
+      "prefecture": "大阪府",
+      "affiliation": "松原市",
+      "character": "マッキー",
+      "votes": 77424
+    },
+    {
+      "year": 2018,
+      "category": "ご当地",
+      "rank": 9,
+      "prefecture": "岐阜県",
+      "affiliation": "神戸町",
+      "character": "ばら菜",
+      "votes": 71341
+    },
+    {
+      "year": 2018,
+      "category": "ご当地",
+      "rank": 10,
+      "prefecture": "長崎県",
+      "affiliation": "島原市",
+      "character": "島原守護神しまばらん",
+      "votes": 55398
+    },
+    {
+      "year": 2019,
+      "category": "ご当地",
+      "rank": 1,
+      "prefecture": "長野県",
+      "affiliation": "長野県",
+      "character": "アルクマ",
+      "votes": 106419
+    },
+    {
+      "year": 2019,
+      "category": "ご当地",
+      "rank": 2,
+      "prefecture": "大阪府",
+      "affiliation": "泉佐野市",
+      "character": "一生犬鳴!イヌナキン!",
+      "votes": 106358
+    },
+    {
+      "year": 2019,
+      "category": "ご当地",
+      "rank": 3,
+      "prefecture": "熊本県",
+      "affiliation": "熊本県",
+      "character": "ころう君",
+      "votes": 95904
+    },
+    {
+      "year": 2019,
+      "category": "ご当地",
+      "rank": 4,
+      "prefecture": "大阪府",
+      "affiliation": "箕面市",
+      "character": "滝ノ道ゆずる",
+      "votes": 74572
+    },
+    {
+      "year": 2019,
+      "category": "ご当地",
+      "rank": 5,
+      "prefecture": "高知県",
+      "affiliation": "安田町",
+      "character": "安田朗",
+      "votes": 67176
+    },
+    {
+      "year": 2019,
+      "category": "ご当地",
+      "rank": 6,
+      "prefecture": "高知県",
+      "affiliation": "株式会社はりま家",
+      "character": "とさけんぴ",
+      "votes": 61332
+    },
+    {
+      "year": 2019,
+      "category": "ご当地",
+      "rank": 7,
+      "prefecture": "岐阜県",
+      "affiliation": "池田町",
+      "character": "ちゃちゃまる",
+      "votes": 47742
+    },
+    {
+      "year": 2019,
+      "category": "ご当地",
+      "rank": 8,
+      "prefecture": "新潟県",
+      "affiliation": "（一社）柏崎青年会議所",
+      "character": "えちゴン",
+      "votes": 47086
+    },
+    {
+      "year": 2019,
+      "category": "ご当地",
+      "rank": 9,
+      "prefecture": "福岡県",
+      "affiliation": "久留米市",
+      "character": "くるっぱ",
+      "votes": 45170
+    },
+    {
+      "year": 2019,
+      "category": "ご当地",
+      "rank": 10,
+      "prefecture": "愛知県",
+      "affiliation": "オカザえもんの会",
+      "character": "オカザえもん",
+      "votes": 39626
+    },
+    {
+      "year": 2020,
+      "category": "ご当地",
+      "rank": 1,
+      "prefecture": "岩手県",
+      "affiliation": "陸前高田市（AidTAKATA）",
+      "character": "たかたのゆめちゃん",
+      "votes": 280017
+    },
+    {
+      "year": 2020,
+      "category": "ご当地",
+      "rank": 2,
+      "prefecture": "大阪府",
+      "affiliation": "泉佐野市",
+      "character": "ゆるナキン",
+      "votes": 271180
+    },
+    {
+      "year": 2020,
+      "category": "ご当地",
+      "rank": 3,
+      "prefecture": "埼玉県",
+      "affiliation": "鶴ヶ島市",
+      "character": "つるゴン",
+      "votes": "268,201６"
+    },
+    {
+      "year": 2020,
+      "category": "ご当地",
+      "rank": 4,
+      "prefecture": "大阪府",
+      "affiliation": "箕面市",
+      "character": "滝ノ道ゆずる",
+      "votes": "267,664６"
+    },
+    {
+      "year": 2020,
+      "category": "ご当地",
+      "rank": 5,
+      "prefecture": "高知県",
+      "affiliation": "安田町",
+      "character": "安田朗",
+      "votes": "173,973７"
+    },
+    {
+      "year": 2020,
+      "category": "ご当地",
+      "rank": 6,
+      "prefecture": "大阪府",
+      "affiliation": "豊能市",
+      "character": "とよのん",
+      "votes": 119025
+    },
+    {
+      "year": 2020,
+      "category": "ご当地",
+      "rank": 7,
+      "prefecture": "東京都",
+      "affiliation": "西東京商工会青年部",
+      "character": "キャベッツさん",
+      "votes": 109200
+    },
+    {
+      "year": 2020,
+      "category": "ご当地",
+      "rank": 8,
+      "prefecture": "千葉県",
+      "affiliation": "多古町",
+      "character": "ふっくらたまこ",
+      "votes": 98422
+    },
+    {
+      "year": 2020,
+      "category": "ご当地",
+      "rank": 9,
+      "prefecture": "新潟県",
+      "affiliation": "（一社）柏崎青年会議所",
+      "character": "えちゴン",
+      "votes": "89,862９"
+    },
+    {
+      "year": 2020,
+      "category": "ご当地",
+      "rank": 10,
+      "prefecture": "千葉県",
+      "affiliation": "白井の自然薯を応援する会",
+      "character": "しろい地底王国忍者じねんじゃー",
+      "votes": 83698
+    }
+  ],
+  "meta": {
+    "title": "ゆるキャラグランプリ 歴代上位キャラクター (Yuru-chara Grand Prix top 10 by year) - Free Download",
+    "description": "ゆるキャラグランプリ（2010年〜2020年）の年別上位10キャラクター（ご当地部門）の順位、都道府県、所属、得票数 Contains 110 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "ゆるキャラグランプリ 歴代上位キャラクター (Yuru-chara Grand Prix top 10 by year) | ListBase",
+    "seo_description": "Download ゆるキャラグランプリ 歴代上位キャラクター (Yuru-chara Grand Prix top 10 by year) — 110 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 110 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/ゆるキャラ"
+    ]
+  }
+}

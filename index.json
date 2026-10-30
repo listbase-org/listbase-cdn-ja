@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-30T02:29:04.519Z",
-  "total_datasets": 557,
-  "total_records": 458867,
+  "generated": "2026-10-30T02:29:15.644Z",
+  "total_datasets": 558,
+  "total_records": 458977,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "environment",
@@ -1151,6 +1151,34 @@
         "xlsx": {
           "name": "ja-taiga-drama_JA.xlsx",
           "size": 11253
+        }
+      }
+    },
+    {
+      "id": "ja-yurukyara-grandprix-joi",
+      "name": "ゆるキャラグランプリ 歴代上位キャラクター (Yuru-chara Grand Prix top 10 by year)",
+      "category": "entertainment",
+      "record_count": 110,
+      "columns": [
+        "year",
+        "category",
+        "rank",
+        "prefecture",
+        "affiliation",
+        "character",
+        "votes"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/ゆるキャラ",
+      "updated": "2026-10",
+      "size": 25650,
+      "files": {
+        "csv": {
+          "name": "ja-yurukyara-grandprix-joi_JA.csv",
+          "size": 8767
+        },
+        "xlsx": {
+          "name": "ja-yurukyara-grandprix-joi_JA.xlsx",
+          "size": 11943
         }
       }
     },
