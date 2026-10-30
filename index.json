@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-30T02:28:53.616Z",
-  "total_datasets": 556,
-  "total_records": 458703,
+  "generated": "2026-10-30T02:29:04.519Z",
+  "total_datasets": 557,
+  "total_records": 458867,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 51
+      "dataset_count": 52
     },
     {
       "id": "units",
@@ -15720,6 +15720,38 @@
         "xlsx": {
           "name": "ja-chiba-unlocode_JA.xlsx",
           "size": 11746
+        }
+      }
+    },
+    {
+      "id": "ja-doro-tunnel-encho-ranking",
+      "name": "日本の道路トンネル 延長ランキング (Longest road tunnels in Japan)",
+      "category": "transport",
+      "record_count": 164,
+      "columns": [
+        "rank",
+        "name",
+        "prefecture",
+        "route_location",
+        "length_m",
+        "traffic_signals",
+        "hazmat_vehicles",
+        "construction_started",
+        "breakthrough",
+        "opened",
+        "notes"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/延長別日本の道路トンネルの一覧",
+      "updated": "2026-10",
+      "size": 71682,
+      "files": {
+        "csv": {
+          "name": "ja-doro-tunnel-encho-ranking_JA.csv",
+          "size": 29423
+        },
+        "xlsx": {
+          "name": "ja-doro-tunnel-encho-ranking_JA.xlsx",
+          "size": 21312
         }
       }
     },
