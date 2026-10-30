@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-29T02:20:26.646Z",
-  "total_datasets": 554,
-  "total_records": 458558,
+  "generated": "2026-10-30T02:28:43.376Z",
+  "total_datasets": 555,
+  "total_records": 458653,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "geography",
@@ -1634,6 +1634,33 @@
         "xlsx": {
           "name": "ja-yucho-bank-branches_JA.xlsx",
           "size": 11414
+        }
+      }
+    },
+    {
+      "id": "ja-b1-grandprix-kamei-dantai",
+      "name": "B-1グランプリ 加盟団体とご当地グルメ一覧 (B-1 Grand Prix member groups and local dishes)",
+      "category": "food",
+      "record_count": 95,
+      "columns": [
+        "prefecture",
+        "municipality",
+        "organization",
+        "dish",
+        "membership",
+        "appearances"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/B-1グランプリ",
+      "updated": "2026-10",
+      "size": 26229,
+      "files": {
+        "csv": {
+          "name": "ja-b1-grandprix-kamei-dantai_JA.csv",
+          "size": 11296
+        },
+        "xlsx": {
+          "name": "ja-b1-grandprix-kamei-dantai_JA.xlsx",
+          "size": 12336
         }
       }
     },

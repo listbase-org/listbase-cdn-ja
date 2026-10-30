@@ -1,0 +1,816 @@
+{
+  "id": "ja-b1-grandprix-kamei-dantai",
+  "name": "B-1グランプリ 加盟団体とご当地グルメ一覧 (B-1 Grand Prix member groups and local dishes)",
+  "title": "B-1グランプリ 加盟団体とご当地グルメ一覧 (B-1 Grand Prix member groups and local dishes)",
+  "description": "B級ご当地グルメの祭典「B-1グランプリ」の加盟団体（現・過去）と出展料理、都道府県・市区町村、出場回数の一覧",
+  "category": "food",
+  "source": "https://ja.wikipedia.org/wiki/B-1グランプリ",
+  "source_url": "https://ja.wikipedia.org/wiki/B-1グランプリ",
+  "updated": "2026-10",
+  "record_count": 95,
+  "columns": [
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "organization",
+      "label": "Organization",
+      "type": "string"
+    },
+    {
+      "key": "dish",
+      "label": "Dish",
+      "type": "string"
+    },
+    {
+      "key": "membership",
+      "label": "Membership",
+      "type": "string"
+    },
+    {
+      "key": "appearances",
+      "label": "Appearances",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "prefecture": "北海道",
+      "municipality": "北見市",
+      "organization": "オホーツク北見塩やきそば応塩隊",
+      "dish": "オホーツク北見塩やきそば",
+      "membership": "本部加盟会員",
+      "appearances": 7
+    },
+    {
+      "prefecture": "北海道",
+      "municipality": "釧路市",
+      "organization": "釧路ザンタレなんまら盛り揚げ隊",
+      "dish": "釧路ザンタレ",
+      "membership": "本部加盟会員",
+      "appearances": 3
+    },
+    {
+      "prefecture": "北海道",
+      "municipality": "小樽市",
+      "organization": "小樽あんかけ焼そば親衛隊",
+      "dish": "小樽あんかけ焼そば",
+      "membership": "本部加盟会員",
+      "appearances": 4
+    },
+    {
+      "prefecture": "北海道",
+      "municipality": "名寄市",
+      "organization": "第746なよろ煮込みジンギス艦隊",
+      "dish": "なよろ 煮込みジンギスカン",
+      "membership": "本部加盟会員",
+      "appearances": 4
+    },
+    {
+      "prefecture": "青森県",
+      "municipality": "八戸市",
+      "organization": "八戸せんべい汁研究所",
+      "dish": "八戸 せんべい汁",
+      "membership": "本部加盟会員",
+      "appearances": 8
+    },
+    {
+      "prefecture": "青森県",
+      "municipality": "黒石市",
+      "organization": "黒石つゆやきそば伝紹会",
+      "dish": "黒石 つゆ焼きそば",
+      "membership": "本部加盟会員",
+      "appearances": 9
+    },
+    {
+      "prefecture": "青森県",
+      "municipality": "十和田市",
+      "organization": "十和田バラ焼きゼミナール",
+      "dish": "十和田 バラ焼き",
+      "membership": "本部加盟会員",
+      "appearances": 6
+    },
+    {
+      "prefecture": "岩手県",
+      "municipality": "久慈市",
+      "organization": "久慈まめぶ部屋",
+      "dish": "久慈 まめぶ汁",
+      "membership": "本部加盟会員",
+      "appearances": 7
+    },
+    {
+      "prefecture": "岩手県",
+      "municipality": "一関市",
+      "organization": "いちのせきハラミ焼なじょったべ隊",
+      "dish": "いちのせきハラミ焼",
+      "membership": "本部加盟会員",
+      "appearances": 4
+    },
+    {
+      "prefecture": "岩手県",
+      "municipality": "北上市",
+      "organization": "北上コロッケまるっとLab",
+      "dish": "北上コロッケ",
+      "membership": "本部加盟会員",
+      "appearances": 8
+    },
+    {
+      "prefecture": "岩手県",
+      "municipality": "岩手町",
+      "organization": "いわてまち焼きうどん連合歓隊",
+      "dish": "いわてまち焼きうどん",
+      "membership": "本部加盟会員",
+      "appearances": 7
+    },
+    {
+      "prefecture": "岩手県",
+      "municipality": "岩泉町",
+      "organization": "いわいずみ炭鉱ホルモン鍋発掘隊",
+      "dish": "岩泉ホルモン鍋",
+      "membership": "本部加盟会員",
+      "appearances": 1
+    },
+    {
+      "prefecture": "宮城県",
+      "municipality": "石巻市",
+      "organization": "石巻茶色い焼きそばアカデミー",
+      "dish": "石巻焼きそば",
+      "membership": "本部加盟会員",
+      "appearances": 7
+    },
+    {
+      "prefecture": "秋田県",
+      "municipality": "男鹿市",
+      "organization": "男鹿のやきそばを広める会",
+      "dish": "男鹿しょっつるやきそば",
+      "membership": "本部加盟会員",
+      "appearances": 6
+    },
+    {
+      "prefecture": "秋田県",
+      "municipality": "由利本荘市",
+      "organization": "本荘ハムフライ ハム民の会",
+      "dish": "本荘 ハムフライ",
+      "membership": "本部加盟会員",
+      "appearances": 7
+    },
+    {
+      "prefecture": "秋田県",
+      "municipality": "横手市",
+      "organization": "横手やきそばサンライ's",
+      "dish": "横手やきそば",
+      "membership": "本部加盟会員",
+      "appearances": 5
+    },
+    {
+      "prefecture": "秋田県",
+      "municipality": "大仙市",
+      "organization": "大曲納豆汁 旨めもの研究会",
+      "dish": "大曲 納豆汁",
+      "membership": "本部加盟会員",
+      "appearances": 5
+    },
+    {
+      "prefecture": "山形県",
+      "municipality": "河北町",
+      "organization": "かほく冷たい肉そば研究会",
+      "dish": "かほく 冷たい肉そば",
+      "membership": "本部加盟会員",
+      "appearances": 7
+    },
+    {
+      "prefecture": "山形県",
+      "municipality": "山形市",
+      "organization": "山形芋煮カレーうどん寄合",
+      "dish": "山形 芋煮 カレーうどん",
+      "membership": "本部加盟会員",
+      "appearances": 3
+    },
+    {
+      "prefecture": "茨城県",
+      "municipality": "笠間市",
+      "organization": "笠間いなり寿司いな吉会",
+      "dish": "笠間いなり寿司",
+      "membership": "本部加盟会員",
+      "appearances": 6
+    },
+    {
+      "prefecture": "茨城県",
+      "municipality": "ひたちなか市",
+      "organization": "那珂湊焼きそば大学院",
+      "dish": "那珂湊焼きそば",
+      "membership": "本部加盟会員",
+      "appearances": 3
+    },
+    {
+      "prefecture": "群馬県",
+      "municipality": "太田市",
+      "organization": "上州太田焼そばEnJOY麺berS",
+      "dish": "上州 太田焼きそば",
+      "membership": "本部加盟会員",
+      "appearances": 11
+    },
+    {
+      "prefecture": "埼玉県",
+      "municipality": "行田市",
+      "organization": "行田ゼリーフライ研究会",
+      "dish": "行田 ゼリーフライ",
+      "membership": "本部加盟会員",
+      "appearances": 11
+    },
+    {
+      "prefecture": "千葉県",
+      "municipality": "勝浦市",
+      "organization": "熱血!勝浦タンタンメン船団",
+      "dish": "勝浦タンタンメン",
+      "membership": "本部加盟会員",
+      "appearances": 6
+    },
+    {
+      "prefecture": "新潟県",
+      "municipality": "南魚沼市",
+      "organization": "南魚沼きりざいDE愛隊",
+      "dish": "南魚沼 きりざい 丼",
+      "membership": "本部加盟会員",
+      "appearances": 5
+    },
+    {
+      "prefecture": "福井県",
+      "municipality": "坂井市",
+      "organization": "越前坂井辛み蕎麦であなたの蕎麦で辛み隊",
+      "dish": "越前坂井辛み蕎麦",
+      "membership": "本部加盟会員",
+      "appearances": 4
+    },
+    {
+      "prefecture": "山梨県",
+      "municipality": "甲府市",
+      "organization": "甲府鳥もつ煮でみなさまの縁をとりもつ隊",
+      "dish": "甲府鳥もつ煮",
+      "membership": "本部加盟会員",
+      "appearances": 2
+    },
+    {
+      "prefecture": "長野県",
+      "municipality": "駒ヶ根市",
+      "organization": "駒ヶ根ソースかつ丼フライヤーズ",
+      "dish": "駒ヶ根ソース かつ丼",
+      "membership": "本部加盟会員",
+      "appearances": 8
+    },
+    {
+      "prefecture": "長野県",
+      "municipality": "伊那市",
+      "organization": "伊那ローメンZUKUラブ",
+      "dish": "伊那 ローメン",
+      "membership": "本部加盟会員",
+      "appearances": 6
+    },
+    {
+      "prefecture": "静岡県",
+      "municipality": "袋井市",
+      "organization": "袋井宿たまごふわふわほっと隊",
+      "dish": "袋井宿 たまごふわふわ",
+      "membership": "本部加盟会員",
+      "appearances": 9
+    },
+    {
+      "prefecture": "静岡県",
+      "municipality": "浜松市",
+      "organization": "浜松餃子学会",
+      "dish": "浜松餃子",
+      "membership": "本部加盟会員",
+      "appearances": 11
+    },
+    {
+      "prefecture": "静岡県",
+      "municipality": "富士宮市",
+      "organization": "富士宮やきそば学会",
+      "dish": "富士宮やきそば",
+      "membership": "本部加盟会員",
+      "appearances": 5
+    },
+    {
+      "prefecture": "静岡県",
+      "municipality": "富士市",
+      "organization": "富士つけナポリタン大志館",
+      "dish": "富士 つけナポリタン",
+      "membership": "本部加盟会員",
+      "appearances": 7
+    },
+    {
+      "prefecture": "静岡県",
+      "municipality": "西伊豆町",
+      "organization": "西伊豆しおかつお研究会",
+      "dish": "西伊豆しおかつおうどん",
+      "membership": "本部加盟会員",
+      "appearances": 7
+    },
+    {
+      "prefecture": "愛知県",
+      "municipality": "豊川市",
+      "organization": "豊川いなり寿司で豊川市をもりあげ隊",
+      "dish": "豊川 いなり寿司",
+      "membership": "本部加盟会員",
+      "appearances": 7
+    },
+    {
+      "prefecture": "愛知県",
+      "municipality": "高浜市",
+      "organization": "高浜とりめし学会",
+      "dish": "高浜とりめし",
+      "membership": "本部加盟会員",
+      "appearances": 6
+    },
+    {
+      "prefecture": "愛知県",
+      "municipality": "瀬戸市",
+      "organization": "瀬戸焼そばアカデミー",
+      "dish": "瀬戸焼そば",
+      "membership": "本部加盟会員",
+      "appearances": 3
+    },
+    {
+      "prefecture": "岐阜県",
+      "municipality": "郡上市",
+      "organization": "郡上奥美濃カレーファミリー",
+      "dish": "奥美濃カレー ライス",
+      "membership": "本部加盟会員",
+      "appearances": 11
+    },
+    {
+      "prefecture": "岐阜県",
+      "municipality": "郡上市",
+      "organization": "めいほう鶏ちゃん研究会",
+      "dish": "めいほう 鶏ちゃん",
+      "membership": "本部加盟会員",
+      "appearances": 8
+    },
+    {
+      "prefecture": "三重県",
+      "municipality": "津市",
+      "organization": "津ぎょうざ小学校",
+      "dish": "津ぎょうざ",
+      "membership": "本部加盟会員",
+      "appearances": 7
+    },
+    {
+      "prefecture": "三重県",
+      "municipality": "四日市市",
+      "organization": "四日市とんてき協会",
+      "dish": "四日市とんてき",
+      "membership": "本部加盟会員",
+      "appearances": 8
+    },
+    {
+      "prefecture": "三重県",
+      "municipality": "亀山市",
+      "organization": "亀山みそ焼きうどん本舗",
+      "dish": "亀山みそ焼きうどん",
+      "membership": "本部加盟会員",
+      "appearances": 7
+    },
+    {
+      "prefecture": "三重県",
+      "municipality": "松阪市",
+      "organization": "Do it! 松阪鶏焼き肉隊",
+      "dish": "松阪鶏焼き肉",
+      "membership": "本部加盟会員",
+      "appearances": 5
+    },
+    {
+      "prefecture": "三重県",
+      "municipality": "名張市",
+      "organization": "名張牛汁協会",
+      "dish": "名張牛汁",
+      "membership": "本部加盟会員",
+      "appearances": 5
+    },
+    {
+      "prefecture": "大阪府",
+      "municipality": "高槻市",
+      "organization": "高槻うどんギョーザの会",
+      "dish": "高槻うどんギョーザ",
+      "membership": "本部加盟会員",
+      "appearances": 2
+    },
+    {
+      "prefecture": "兵庫県",
+      "municipality": "明石市",
+      "organization": "あかし玉子焼ひろめ隊",
+      "dish": "あかし玉子焼",
+      "membership": "本部加盟会員",
+      "appearances": 7
+    },
+    {
+      "prefecture": "兵庫県",
+      "municipality": "加古川市",
+      "organization": "うまいでぇ! 加古川かつめしの会",
+      "dish": "加古川 かつめし",
+      "membership": "本部加盟会員",
+      "appearances": 6
+    },
+    {
+      "prefecture": "鳥取県",
+      "municipality": "鳥取市",
+      "organization": "鳥取とうふちくわ総研",
+      "dish": "鳥取 とうふちくわ",
+      "membership": "本部加盟会員",
+      "appearances": 12
+    },
+    {
+      "prefecture": "島根県",
+      "municipality": "出雲市",
+      "organization": "出雲ぜんざい学会",
+      "dish": "出雲 ぜんざい",
+      "membership": "本部加盟会員",
+      "appearances": 7
+    },
+    {
+      "prefecture": "岡山県",
+      "municipality": "津山市",
+      "organization": "津山ホルモンうどん研究会",
+      "dish": "津山 ホルモンうどん",
+      "membership": "本部加盟会員",
+      "appearances": 9
+    },
+    {
+      "prefecture": "岡山県",
+      "municipality": "真庭市",
+      "organization": "ひるぜん焼そば好いとん会",
+      "dish": "ひるぜん焼そば",
+      "membership": "本部加盟会員",
+      "appearances": 3
+    },
+    {
+      "prefecture": "広島県",
+      "municipality": "府中市",
+      "organization": "備後府中焼きを広める会",
+      "dish": "備後府中焼き",
+      "membership": "本部加盟会員",
+      "appearances": 8
+    },
+    {
+      "prefecture": "徳島県",
+      "municipality": "徳島市",
+      "organization": "とくしま豆天玉連",
+      "dish": "とくしま 豆天玉焼き",
+      "membership": "本部加盟会員",
+      "appearances": 2
+    },
+    {
+      "prefecture": "愛媛県",
+      "municipality": "今治市",
+      "organization": "今治焼豚玉子飯世界普及委員会",
+      "dish": "今治 焼豚玉子飯",
+      "membership": "本部加盟会員",
+      "appearances": 7
+    },
+    {
+      "prefecture": "福岡県",
+      "municipality": "田川市",
+      "organization": "田川ホルモン喰楽歩",
+      "dish": "田川ホルモン 鍋",
+      "membership": "本部加盟会員",
+      "appearances": 5
+    },
+    {
+      "prefecture": "佐賀県",
+      "municipality": "佐賀市",
+      "organization": "佐賀市はシシリアンライスdeどっとこむ",
+      "dish": "佐賀 シシリアンライス",
+      "membership": "本部加盟会員",
+      "appearances": 5
+    },
+    {
+      "prefecture": "長崎県",
+      "municipality": "大村市",
+      "organization": "大村あま辛カレーうまか隊!",
+      "dish": "大村あま辛黒カレー",
+      "membership": "本部加盟会員",
+      "appearances": 8
+    },
+    {
+      "prefecture": "長崎県",
+      "municipality": "雲仙市",
+      "organization": "小浜ちゃんぽん愛好会",
+      "dish": "小浜 ちゃんぽん",
+      "membership": "本部加盟会員",
+      "appearances": 8
+    },
+    {
+      "prefecture": "長崎県",
+      "municipality": "対馬市",
+      "organization": "対馬とんちゃん部隊",
+      "dish": "上 対馬とんちゃん",
+      "membership": "本部加盟会員",
+      "appearances": 6
+    },
+    {
+      "prefecture": "大分県",
+      "municipality": "佐伯市",
+      "organization": "佐伯ごまだしうどん大作戦",
+      "dish": "佐伯ごまだし うどん",
+      "membership": "本部加盟会員",
+      "appearances": 9
+    },
+    {
+      "prefecture": "大分県",
+      "municipality": "日田市",
+      "organization": "日田やきそば研究会",
+      "dish": "日田やきそば",
+      "membership": "本部加盟会員",
+      "appearances": 7
+    },
+    {
+      "prefecture": "北海道",
+      "municipality": "室蘭市",
+      "organization": "室蘭やきとり逸匹会",
+      "dish": "室蘭やきとり",
+      "membership": "過去に加盟していた団体",
+      "appearances": 2
+    },
+    {
+      "prefecture": "北海道",
+      "municipality": "富良野市",
+      "organization": "富良野オムカレー推進協議会",
+      "dish": "富良野オムカレー",
+      "membership": "過去に加盟していた団体",
+      "appearances": 7
+    },
+    {
+      "prefecture": "青森県",
+      "municipality": "青森市",
+      "organization": "青森おでんの会",
+      "dish": "青森生姜味噌おでん",
+      "membership": "過去に加盟していた団体",
+      "appearances": 6
+    },
+    {
+      "prefecture": "秋田県",
+      "municipality": "秋田市",
+      "organization": "秋田かやき協議会",
+      "dish": "秋田 かやき",
+      "membership": "過去に加盟していた団体",
+      "appearances": 1
+    },
+    {
+      "prefecture": "秋田県",
+      "municipality": "仙北市",
+      "organization": "あいがけ神代カレー神代活性化協議会",
+      "dish": "あいがけ神代カレー",
+      "membership": "過去に加盟していた団体",
+      "appearances": 4
+    },
+    {
+      "prefecture": "宮城県",
+      "municipality": "登米市",
+      "organization": "とよま油麩丼の会",
+      "dish": "登米・ 油麩丼",
+      "membership": "過去に加盟していた団体",
+      "appearances": 8
+    },
+    {
+      "prefecture": "福島県",
+      "municipality": "浪江町",
+      "organization": "浪江焼麺太国",
+      "dish": "なみえ焼そば",
+      "membership": "過去に加盟していた団体",
+      "appearances": 4
+    },
+    {
+      "prefecture": "東京都",
+      "municipality": "中央区",
+      "organization": "月島もんじゃ振興会協同組合",
+      "dish": "月島 もんじゃ焼",
+      "membership": "過去に加盟していた団体",
+      "appearances": 0
+    },
+    {
+      "prefecture": "神奈川県",
+      "municipality": "南足柄市",
+      "organization": "足柄まさカリー金時隊",
+      "dish": "足柄まさカリー",
+      "membership": "過去に加盟していた団体",
+      "appearances": 2
+    },
+    {
+      "prefecture": "神奈川県",
+      "municipality": "厚木市",
+      "organization": "厚木シロコロ・ホルモン探検隊",
+      "dish": "厚木シロコロ・ホルモン",
+      "membership": "過去に加盟していた団体",
+      "appearances": 3
+    },
+    {
+      "prefecture": "神奈川県",
+      "municipality": "三浦市",
+      "organization": "三浦まぐろラーメンズ",
+      "dish": "三浦まぐろラーメン",
+      "membership": "過去に加盟していた団体",
+      "appearances": 7
+    },
+    {
+      "prefecture": "神奈川県",
+      "municipality": "湯河原町",
+      "organization": "湯河原坦々やきそば会",
+      "dish": "たんたんたぬきの担々やきそば",
+      "membership": "過去に加盟していた団体",
+      "appearances": 2
+    },
+    {
+      "prefecture": "山梨県",
+      "municipality": "大月市",
+      "organization": "大月市おつけだんごの会",
+      "dish": "大月 おつけだんご",
+      "membership": "過去に加盟していた団体",
+      "appearances": 7
+    },
+    {
+      "prefecture": "富山県",
+      "municipality": "高岡市",
+      "organization": "高岡コロッケ実行委員会",
+      "dish": "高岡コロッケ",
+      "membership": "過去に加盟していた団体",
+      "appearances": 0
+    },
+    {
+      "prefecture": "福井県",
+      "municipality": "小浜市",
+      "organization": "小浜焼き鯖研究会",
+      "dish": "浜焼き鯖バラ ちらし寿司",
+      "membership": "過去に加盟していた団体",
+      "appearances": 4
+    },
+    {
+      "prefecture": "長野県",
+      "municipality": "飯田市",
+      "organization": "飯田五平もち楽会",
+      "dish": "五平もち",
+      "membership": "過去に加盟していた団体",
+      "appearances": 0
+    },
+    {
+      "prefecture": "静岡県",
+      "municipality": "三島市",
+      "organization": "みしまコロッケの会",
+      "dish": "みしまコロッケ",
+      "membership": "過去に加盟していた団体",
+      "appearances": 3
+    },
+    {
+      "prefecture": "静岡県",
+      "municipality": "静岡市",
+      "organization": "静岡おでんの会",
+      "dish": "静岡おでん",
+      "membership": "過去に加盟していた団体",
+      "appearances": 6
+    },
+    {
+      "prefecture": "静岡県",
+      "municipality": "裾野市",
+      "organization": "すそのギョーザ倶楽部",
+      "dish": "すその水ギョーザ",
+      "membership": "過去に加盟していた団体",
+      "appearances": 6
+    },
+    {
+      "prefecture": "岐阜県",
+      "municipality": "各務原市",
+      "organization": "各務原キムチ鍋奉行所",
+      "dish": "各務原キムチ 鍋",
+      "membership": "過去に加盟していた団体",
+      "appearances": 7
+    },
+    {
+      "prefecture": "岐阜県",
+      "municipality": "下呂市",
+      "organization": "下呂飲食業組合",
+      "dish": "ケイチャン",
+      "membership": "過去に加盟していた団体",
+      "appearances": 0
+    },
+    {
+      "prefecture": "京都府",
+      "municipality": "京都市 伏見区",
+      "organization": "伏見稲荷寿司ひろめ隊",
+      "dish": "伏見 稲荷寿司",
+      "membership": "過去に加盟していた団体",
+      "appearances": 5
+    },
+    {
+      "prefecture": "兵庫県",
+      "municipality": "佐用町",
+      "organization": "佐用ホルモンうどん食わせ隊",
+      "dish": "佐用 ホルモンうどん",
+      "membership": "過去に加盟していた団体",
+      "appearances": 0
+    },
+    {
+      "prefecture": "兵庫県",
+      "municipality": "姫路市",
+      "organization": "姫路おでん普及委員会",
+      "dish": "姫路おでん",
+      "membership": "過去に加盟していた団体",
+      "appearances": 5
+    },
+    {
+      "prefecture": "兵庫県",
+      "municipality": "高砂市",
+      "organization": "高砂にくてん喰わん会",
+      "dish": "高砂 にくてん",
+      "membership": "過去に加盟していた団体",
+      "appearances": 7
+    },
+    {
+      "prefecture": "兵庫県",
+      "municipality": "小野市",
+      "organization": "おの恋ホルモン焼きそば広め隊",
+      "dish": "おの恋ホルモン焼きそば",
+      "membership": "過去に加盟していた団体",
+      "appearances": 0
+    },
+    {
+      "prefecture": "岡山県",
+      "municipality": "備前市",
+      "organization": "日生カキオコまちづくりの会",
+      "dish": "日生 カキオコ",
+      "membership": "過去に加盟していた団体",
+      "appearances": 3
+    },
+    {
+      "prefecture": "広島県",
+      "municipality": "呉市",
+      "organization": "呉細うどんカレーじゃ研",
+      "dish": "呉細うどんカレー",
+      "membership": "過去に加盟していた団体",
+      "appearances": 0
+    },
+    {
+      "prefecture": "広島県",
+      "municipality": "庄原市",
+      "organization": "庄原焼きプロジェクトこめぽんズ",
+      "dish": "庄原焼き",
+      "membership": "過去に加盟していた団体",
+      "appearances": 0
+    },
+    {
+      "prefecture": "高知県",
+      "municipality": "須崎市",
+      "organization": "須崎名物「鍋焼きラーメン」プロジェクトX",
+      "dish": "鍋焼きラーメン",
+      "membership": "過去に加盟していた団体",
+      "appearances": 5
+    },
+    {
+      "prefecture": "福岡県",
+      "municipality": "北九州市",
+      "organization": "小倉焼うどん研究所",
+      "dish": "小倉発祥 焼うどん",
+      "membership": "過去に加盟していた団体",
+      "appearances": 8
+    },
+    {
+      "prefecture": "福岡県",
+      "municipality": "久留米市",
+      "organization": "久留米焼きとり文化振興会",
+      "dish": "久留米 やきとり",
+      "membership": "過去に加盟していた団体",
+      "appearances": 6
+    },
+    {
+      "prefecture": "大分県",
+      "municipality": "宇佐市",
+      "organization": "USA★宇佐からあげ合衆国",
+      "dish": "宇佐 からあげ",
+      "membership": "過去に加盟していた団体",
+      "appearances": 2
+    },
+    {
+      "prefecture": "宮崎県",
+      "municipality": "延岡市",
+      "organization": "延岡発祥チキン南蛮党",
+      "dish": "延岡発祥 チキン南蛮",
+      "membership": "過去に加盟していた団体",
+      "appearances": 3
+    }
+  ],
+  "meta": {
+    "title": "B-1グランプリ 加盟団体とご当地グルメ一覧 (B-1 Grand Prix member groups and local dishes) - Free Download",
+    "description": "B級ご当地グルメの祭典「B-1グランプリ」の加盟団体（現・過去）と出展料理、都道府県・市区町村、出場回数の一覧 Contains 95 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "B-1グランプリ 加盟団体とご当地グルメ一覧 (B-1 Grand Prix member groups and local dishes) | ListBase",
+    "seo_description": "Download B-1グランプリ 加盟団体とご当地グルメ一覧 (B-1 Grand Prix member groups and local dishes) — 95 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 95 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/B-1グランプリ"
+    ]
+  }
+}
