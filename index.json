@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-30T02:29:15.644Z",
-  "total_datasets": 558,
-  "total_records": 458977,
+  "generated": "2026-10-30T02:29:24.270Z",
+  "total_datasets": 559,
+  "total_records": 459003,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "society",
@@ -14483,6 +14483,28 @@
         "xlsx": {
           "name": "ja-kishocho-meimei-gensho_JA.xlsx",
           "size": 10055
+        }
+      }
+    },
+    {
+      "id": "ja-kokuritsu-kenkyu-kaihatsu-hojin",
+      "name": "国立研究開発法人一覧 (National Research and Development Agencies of Japan)",
+      "category": "science",
+      "record_count": 26,
+      "columns": [
+        "name"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/国立研究開発法人",
+      "updated": "2026-10",
+      "size": 3161,
+      "files": {
+        "csv": {
+          "name": "ja-kokuritsu-kenkyu-kaihatsu-hojin_JA.csv",
+          "size": 888
+        },
+        "xlsx": {
+          "name": "ja-kokuritsu-kenkyu-kaihatsu-hojin_JA.xlsx",
+          "size": 7270
         }
       }
     },
