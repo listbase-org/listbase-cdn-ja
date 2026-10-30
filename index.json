@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-30T02:28:43.376Z",
-  "total_datasets": 555,
-  "total_records": 458653,
+  "generated": "2026-10-30T02:28:53.616Z",
+  "total_datasets": 556,
+  "total_records": 458703,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "transport",
@@ -15467,6 +15467,31 @@
         "xlsx": {
           "name": "ja-suizokukan-sosuiryo-ranking_JA.xlsx",
           "size": 7435
+        }
+      }
+    },
+    {
+      "id": "ja-todai-50sen",
+      "name": "日本の灯台50選 (50 Lighthouses of Japan)",
+      "category": "tourism",
+      "record_count": 50,
+      "columns": [
+        "name",
+        "location",
+        "first_lit",
+        "region"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/日本の灯台50選",
+      "updated": "2026-10",
+      "size": 11832,
+      "files": {
+        "csv": {
+          "name": "ja-todai-50sen_JA.csv",
+          "size": 6143
+        },
+        "xlsx": {
+          "name": "ja-todai-50sen_JA.xlsx",
+          "size": 9793
         }
       }
     },
