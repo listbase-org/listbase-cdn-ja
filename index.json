@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-02T02:34:41.786Z",
-  "total_datasets": 560,
-  "total_records": 459128,
+  "generated": "2026-11-02T02:34:52.639Z",
+  "total_datasets": 561,
+  "total_records": 459250,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "music",
@@ -6920,6 +6920,32 @@
         "xlsx": {
           "name": "ja-keimusho-ichiran_JA.xlsx",
           "size": 10921
+        }
+      }
+    },
+    {
+      "id": "ja-rekidai-homu-daijin",
+      "name": "歴代法務大臣一覧（1952年以降）",
+      "category": "law",
+      "record_count": 122,
+      "columns": [
+        "dai",
+        "shimei",
+        "naikaku",
+        "shuninbi",
+        "seito"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/法務大臣",
+      "updated": "2026-11",
+      "size": 23344,
+      "files": {
+        "csv": {
+          "name": "ja-rekidai-homu-daijin_JA.csv",
+          "size": 10221
+        },
+        "xlsx": {
+          "name": "ja-rekidai-homu-daijin_JA.xlsx",
+          "size": 12043
         }
       }
     },
