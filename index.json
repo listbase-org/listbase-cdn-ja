@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-02T02:35:01.910Z",
-  "total_datasets": 562,
-  "total_records": 459448,
+  "generated": "2026-11-02T02:35:11.759Z",
+  "total_datasets": 563,
+  "total_records": 459502,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "sports",
@@ -14773,6 +14773,36 @@
         "xlsx": {
           "name": "ja-todofuken-jinko-suii_JA.xlsx",
           "size": 10854
+        }
+      }
+    },
+    {
+      "id": "ja-zairyu-gaikokujin-kokusekibetsu",
+      "name": "国籍・地域別 在留外国人数の推移（2018〜2025年）",
+      "category": "society",
+      "record_count": 54,
+      "columns": [
+        "shusshinkoku",
+        "y2025",
+        "y2024",
+        "y2023",
+        "y2022",
+        "y2021",
+        "y2020",
+        "y2019",
+        "y2018"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/日本の外国人",
+      "updated": "2026-11",
+      "size": 14364,
+      "files": {
+        "csv": {
+          "name": "ja-zairyu-gaikokujin-kokusekibetsu_JA.csv",
+          "size": 4289
+        },
+        "xlsx": {
+          "name": "ja-zairyu-gaikokujin-kokusekibetsu_JA.xlsx",
+          "size": 10172
         }
       }
     },
