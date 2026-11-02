@@ -1,0 +1,796 @@
+{
+  "id": "ja-kokai-tenmondai",
+  "name": "日本の公開天文台一覧",
+  "title": "日本の公開天文台一覧",
+  "description": "一般公開されている日本国内の天文台（公開天文台・科学館の天体観測施設）の一覧。名称、所在地、主な望遠鏡などの備考を地方別に収録。",
+  "category": "science",
+  "source": "https://ja.wikipedia.org/wiki/公開天文台一覧",
+  "source_url": "https://ja.wikipedia.org/wiki/公開天文台一覧",
+  "updated": "2026-11",
+  "record_count": 125,
+  "columns": [
+    {
+      "key": "meisho",
+      "label": "Meisho",
+      "type": "string"
+    },
+    {
+      "key": "shozaichi",
+      "label": "Shozaichi",
+      "type": "string"
+    },
+    {
+      "key": "biko",
+      "label": "Biko",
+      "type": "string"
+    },
+    {
+      "key": "chiho",
+      "label": "Chiho",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "meisho": "しょさんべつ天文台",
+      "shozaichi": "苫前郡 初山別村",
+      "biko": "口径65cm反射式望遠鏡",
+      "chiho": "北海道地区"
+    },
+    {
+      "meisho": "なよろ市立天文台きたすばる",
+      "shozaichi": "名寄市",
+      "biko": "口径160cm反射式望遠鏡",
+      "chiho": "北海道地区"
+    },
+    {
+      "meisho": "北網圏北見文化センター",
+      "shozaichi": "北見市",
+      "biko": "口径20cm屈折式望遠鏡",
+      "chiho": "北海道地区"
+    },
+    {
+      "meisho": "旭川市科学館 サイパル",
+      "shozaichi": "旭川市",
+      "biko": "口径65cm反射式望遠鏡、口径20cm屈折式望遠鏡",
+      "chiho": "北海道地区"
+    },
+    {
+      "meisho": "丘のまち郷土学館「美宙」",
+      "shozaichi": "上川郡 美瑛町",
+      "biko": "口径40cm反射式望遠鏡",
+      "chiho": "北海道地区"
+    },
+    {
+      "meisho": "銀河の森天文台",
+      "shozaichi": "足寄郡 陸別町",
+      "biko": "口径115cm反射式望遠鏡",
+      "chiho": "北海道地区"
+    },
+    {
+      "meisho": "札幌市天文台",
+      "shozaichi": "札幌市 中央区",
+      "biko": "口径20cm屈折式望遠鏡",
+      "chiho": "北海道地区"
+    },
+    {
+      "meisho": "札幌市青少年科学館",
+      "shozaichi": "札幌市 厚別区",
+      "biko": "口径60cm反射式望遠鏡、25cm屈折式望遠鏡、口径10cm屈折式望遠鏡",
+      "chiho": "北海道地区"
+    },
+    {
+      "meisho": "帯広市児童会館",
+      "shozaichi": "帯広市",
+      "biko": "口径20cm屈折式望遠鏡",
+      "chiho": "北海道地区"
+    },
+    {
+      "meisho": "国立天文台 水沢VLBI観測所",
+      "shozaichi": "岩手県 奥州市",
+      "biko": "20m電波望遠鏡、口径35cm反射式望遠鏡",
+      "chiho": "東北地区"
+    },
+    {
+      "meisho": "仙台市天文台",
+      "shozaichi": "宮城県 仙台市",
+      "biko": "旧：口径41cm反射式望遠鏡、現：130cm反射式望遠鏡",
+      "chiho": "東北地区"
+    },
+    {
+      "meisho": "天体観測館コスモス童夢",
+      "shozaichi": "山形県 酒田市",
+      "biko": "口径50cm反射式望遠鏡",
+      "chiho": "東北地区"
+    },
+    {
+      "meisho": "福島市浄土平天文台",
+      "shozaichi": "福島県 福島市",
+      "biko": "口径40cm反射式望遠鏡、口径15cm屈折式望遠鏡",
+      "chiho": "東北地区"
+    },
+    {
+      "meisho": "星の村天文台",
+      "shozaichi": "福島県 田村市",
+      "biko": "口径65cm反射式望遠鏡",
+      "chiho": "東北地区"
+    },
+    {
+      "meisho": "栃木県子ども総合科学館",
+      "shozaichi": "栃木県 宇都宮市",
+      "biko": "口径75cm反射式望遠鏡",
+      "chiho": "関東地区"
+    },
+    {
+      "meisho": "向井千秋記念子ども科学館",
+      "shozaichi": "群馬県 館林市",
+      "biko": "口径20cm屈折式望遠鏡",
+      "chiho": "関東地区"
+    },
+    {
+      "meisho": "群馬県立ぐんま天文台",
+      "shozaichi": "群馬県 吾妻郡 高山村",
+      "biko": "口径150cm反射式望遠鏡、口径65cm反射式望遠鏡",
+      "chiho": "関東地区"
+    },
+    {
+      "meisho": "加須未来館",
+      "shozaichi": "埼玉県 加須市",
+      "biko": "口径20cm屈折式望遠鏡",
+      "chiho": "関東地区"
+    },
+    {
+      "meisho": "熊谷市立文化センタープラネタリウム館",
+      "shozaichi": "埼玉県 熊谷市",
+      "biko": "口径40cm反射式望遠鏡、口径15cm屈折式望遠鏡",
+      "chiho": "関東地区"
+    },
+    {
+      "meisho": "埼玉県立小川げんきプラザ",
+      "shozaichi": "埼玉県 比企郡 小川町",
+      "biko": "口径20cm屈折式望遠鏡",
+      "chiho": "関東地区"
+    },
+    {
+      "meisho": "ときがわ町星と緑の創造センター",
+      "shozaichi": "埼玉県比企郡 ときがわ町",
+      "biko": "口径91cm反射式望遠鏡、口径45cm反射式望遠鏡、口径30cm反射式望遠鏡",
+      "chiho": "関東地区"
+    },
+    {
+      "meisho": "さいたま市青少年科学館",
+      "shozaichi": "埼玉県 さいたま市",
+      "biko": "口径20cm屈折式望遠鏡",
+      "chiho": "関東地区"
+    },
+    {
+      "meisho": "川口市立科学館",
+      "shozaichi": "埼玉県 川口市",
+      "biko": "口径65cm反射式望遠鏡、口径20cm屈折式望遠鏡、6連式太陽望遠鏡",
+      "chiho": "関東地区"
+    },
+    {
+      "meisho": "相模原市立博物館",
+      "shozaichi": "神奈川県 相模原市",
+      "biko": "口径40cm反射式望遠鏡",
+      "chiho": "関東地区"
+    },
+    {
+      "meisho": "葛飾区郷土と天文の博物館",
+      "shozaichi": "東京都 葛飾区",
+      "biko": "口径25cm屈折式望遠鏡",
+      "chiho": "東京地区"
+    },
+    {
+      "meisho": "杉並区立科学館",
+      "shozaichi": "東京都 杉並区",
+      "biko": "口径15cm屈折式望遠鏡",
+      "chiho": "東京地区"
+    },
+    {
+      "meisho": "国立科学博物館",
+      "shozaichi": "東京都 台東区",
+      "biko": "筑波分館では、天体望遠鏡で観望会を行っている。",
+      "chiho": "東京地区"
+    },
+    {
+      "meisho": "国立天文台三鷹キャンパス",
+      "shozaichi": "東京都 三鷹市",
+      "biko": "口径50cm反射式望遠鏡",
+      "chiho": "東京地区"
+    },
+    {
+      "meisho": "府中市郷土の森博物館",
+      "shozaichi": "東京都 府中市",
+      "biko": "口径35cm反射式望遠鏡（移動式天文観測車に搭載） 他",
+      "chiho": "東京地区"
+    },
+    {
+      "meisho": "新潟県立自然科学館",
+      "shozaichi": "新潟県 新潟市",
+      "biko": "口径60cm反射式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "上越清里星のふるさと館",
+      "shozaichi": "新潟県 上越市",
+      "biko": "口径65cm反射式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "富山市科学博物館 付属 富山市天文台 （ 2021年 3月31日閉館）",
+      "shozaichi": "富山県 富山市",
+      "biko": "口径100cm反射式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "あおき天文台",
+      "shozaichi": "富山県富山市",
+      "biko": "口径43cm反射式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "国立立山青少年自然の家 ・立山ドーム",
+      "shozaichi": "富山県 中新川郡 立山町",
+      "biko": "口径60cm反射式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "星の観察館満天星",
+      "shozaichi": "石川県 鳳珠郡 能登町",
+      "biko": "口径60cm反射式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "キゴ山天体観察センター",
+      "shozaichi": "石川県 金沢市",
+      "biko": "口径20cm屈折式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "福井市自然史博物館",
+      "shozaichi": "福井県 福井市",
+      "biko": "口径20cm屈折式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "福井県自然保護センター観察棟",
+      "shozaichi": "福井県 大野市",
+      "biko": "口径80cm反射式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "長野市立博物館",
+      "shozaichi": "長野県 長野市",
+      "biko": "口径40cm反射式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "うすだスタードーム",
+      "shozaichi": "長野県 佐久市",
+      "biko": "口径60cm反射式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "宇宙航空研究開発機構 宇宙科学研究所 臼田宇宙空間観測所",
+      "shozaichi": "長野県佐久市",
+      "biko": "64m電波望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "国立天文台 野辺山宇宙電波観測所",
+      "shozaichi": "長野県 南佐久郡 南牧村",
+      "biko": "45m電波望遠鏡他",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "国立天文台 野辺山太陽電波観測所",
+      "shozaichi": "長野県南佐久郡南牧村",
+      "biko": "太陽電波望遠鏡他",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "おんたけ休暇村 天文館",
+      "shozaichi": "長野県 木曽郡 王滝村",
+      "biko": "口径60cm反射式望遠鏡、20cm屈折式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "東京大学大学院理学系研究科附属天文学教育研究センター 木曾観測所",
+      "shozaichi": "長野県木曽郡 木曽町",
+      "biko": "口径105cm シュミット式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "銀河ドーム",
+      "shozaichi": "長野県 上伊那郡 中川村",
+      "biko": "口径30cmカセグレン式反射望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "京都大学大学院理学研究科附属飛騨天文台",
+      "shozaichi": "岐阜県 高山市",
+      "biko": "口径60cmドームレス望遠鏡他",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "岐阜市科学館",
+      "shozaichi": "岐阜県 岐阜市",
+      "biko": "口径50cm反射式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "岐阜天文台",
+      "shozaichi": "岐阜県岐阜市",
+      "biko": "口径25cm屈折式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "各務原市少年自然の家",
+      "shozaichi": "岐阜県 各務原市",
+      "biko": "口径15cm屈折式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "ハートピア安八",
+      "shozaichi": "岐阜県 安八郡 安八町",
+      "biko": "口径70cm反射式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "スイトピアセンター",
+      "shozaichi": "岐阜県 大垣市",
+      "biko": "口径20cm屈折望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "三の倉市民の里 地球村",
+      "shozaichi": "岐阜県 多治見市",
+      "biko": "口径15cm屈折式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "西美濃天文台",
+      "shozaichi": "岐阜県 揖斐郡 揖斐川町",
+      "biko": "口径50cm反射式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "関市まなびセンター",
+      "shozaichi": "岐阜県 関市",
+      "biko": "口径15cm屈折式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "姫治地区センター",
+      "shozaichi": "岐阜県 可児市",
+      "biko": "15cm屈折式望遠鏡、口径12.5cm屈折望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "飛騨プラネタリウム",
+      "shozaichi": "岐阜県高山市",
+      "biko": "20cm屈折望遠鏡（ 移動天文車 ）",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "月光天文台",
+      "shozaichi": "静岡県 田方郡 函南町",
+      "biko": "口径50cm反射式望遠鏡、20cm屈折式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "星の広場天文台",
+      "shozaichi": "静岡県 静岡市",
+      "biko": "口径41cm反射式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "岩崎一彰 ・宇宙美術館 (2016年9月閉館)",
+      "shozaichi": "静岡県 伊東市",
+      "biko": "口径61cm反射式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "ディスカバリーパーク焼津",
+      "shozaichi": "静岡県 焼津市",
+      "biko": "口径80cm反射式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "浜松市天文台",
+      "shozaichi": "静岡県 浜松市",
+      "biko": "口径20cm屈折式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "スカイワードあさひ",
+      "shozaichi": "愛知県 尾張旭市",
+      "biko": "口径50cm反射式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "名古屋市科学館",
+      "shozaichi": "愛知県 名古屋市",
+      "biko": "口径80cm反射式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "半田空の科学館",
+      "shozaichi": "愛知県 半田市",
+      "biko": "口径30cm反射式望遠鏡",
+      "chiho": "中部地区"
+    },
+    {
+      "meisho": "尾鷲市立天文科学館",
+      "shozaichi": "三重県 尾鷲市",
+      "biko": "口径81cm反射式望遠鏡",
+      "chiho": "近畿地区"
+    },
+    {
+      "meisho": "ダイニックアストロパーク天究館",
+      "shozaichi": "滋賀県 犬上郡 多賀町",
+      "biko": "口径60cm反射式望遠鏡",
+      "chiho": "近畿地区"
+    },
+    {
+      "meisho": "綾部市天文館パオ",
+      "shozaichi": "京都府 綾部市",
+      "biko": "口径95cm反射式望遠鏡",
+      "chiho": "近畿地区"
+    },
+    {
+      "meisho": "京都大学 理学系研究科附属 花山天文台",
+      "shozaichi": "京都府京都市",
+      "biko": "口径45cm屈折式望遠鏡、口径70cmシロースタット型太陽望遠鏡、口径18cm屈折式望遠鏡",
+      "chiho": "近畿地区"
+    },
+    {
+      "meisho": "丹波天文館",
+      "shozaichi": "京都府 船井郡 京丹波町",
+      "biko": "口径50cm反射式望遠鏡",
+      "chiho": "近畿地区"
+    },
+    {
+      "meisho": "京都産業大学 神山天文台",
+      "shozaichi": "京都府 京都市",
+      "biko": "口径130cm反射式望遠鏡",
+      "chiho": "近畿地区"
+    },
+    {
+      "meisho": "アクトパル宇治",
+      "shozaichi": "京都府 宇治市",
+      "biko": "口径25cm屈折式望遠鏡",
+      "chiho": "近畿地区"
+    },
+    {
+      "meisho": "大阪市立科学館",
+      "shozaichi": "大阪府 大阪市",
+      "biko": "口径50cm反射式望遠鏡",
+      "chiho": "近畿地区"
+    },
+    {
+      "meisho": "LICはびきの",
+      "shozaichi": "大阪府 羽曳野市",
+      "biko": "口径40cm反射式望遠鏡",
+      "chiho": "近畿地区"
+    },
+    {
+      "meisho": "ソフィア・堺",
+      "shozaichi": "大阪府 堺市",
+      "biko": "口径60cm反射式望遠鏡",
+      "chiho": "近畿地区"
+    },
+    {
+      "meisho": "善兵衛ランド",
+      "shozaichi": "大阪府 貝塚市",
+      "biko": "口径60cm反射式望遠鏡",
+      "chiho": "近畿地区"
+    },
+    {
+      "meisho": "兵庫県立大学 西はりま天文台",
+      "shozaichi": "兵庫県 佐用郡 佐用町",
+      "biko": "口径200cm反射式望遠鏡、 口径60cm反射式望遠鏡",
+      "chiho": "近畿地区"
+    },
+    {
+      "meisho": "猪名川天文台",
+      "shozaichi": "兵庫県 川辺郡 猪名川町",
+      "biko": "口径50cm反射式望遠鏡",
+      "chiho": "近畿地区"
+    },
+    {
+      "meisho": "にしわき経緯度地球科学館",
+      "shozaichi": "兵庫県 西脇市",
+      "biko": "口径81cm反射式望遠鏡",
+      "chiho": "近畿地区"
+    },
+    {
+      "meisho": "星の子館",
+      "shozaichi": "兵庫県 姫路市",
+      "biko": "口径90cm反射式望遠鏡",
+      "chiho": "近畿地区"
+    },
+    {
+      "meisho": "神戸市立青少年科学館",
+      "shozaichi": "兵庫県 神戸市",
+      "biko": "口径25cm屈折式望遠鏡",
+      "chiho": "近畿地区"
+    },
+    {
+      "meisho": "明石市立天文科学館",
+      "shozaichi": "兵庫県 明石市",
+      "biko": "口径40cm反射式望遠鏡",
+      "chiho": "近畿地区"
+    },
+    {
+      "meisho": "大塔コスミックパーク星のくに",
+      "shozaichi": "奈良県 五條市",
+      "biko": "口径45cm反射式望遠鏡、口径40cm反射式望遠鏡",
+      "chiho": "近畿地区"
+    },
+    {
+      "meisho": "みさと天文台",
+      "shozaichi": "和歌山県 海草郡 紀美野町",
+      "biko": "口径105cm反射式望遠鏡",
+      "chiho": "近畿地区"
+    },
+    {
+      "meisho": "かわべ天文公園",
+      "shozaichi": "和歌山県 日高郡 日高川町",
+      "biko": "口径100cm反射式望遠鏡",
+      "chiho": "近畿地区"
+    },
+    {
+      "meisho": "鳥取市さじアストロパーク・佐治天文台",
+      "shozaichi": "鳥取県 鳥取市",
+      "biko": "口径103cm反射式望遠鏡",
+      "chiho": "中国・四国地区"
+    },
+    {
+      "meisho": "島根県立三瓶自然館",
+      "shozaichi": "島根県 大田市",
+      "biko": "口径60cm反射式望遠鏡、口径20cm屈折式望遠鏡",
+      "chiho": "中国・四国地区"
+    },
+    {
+      "meisho": "日原天文台",
+      "shozaichi": "島根県 鹿足郡 津和野町",
+      "biko": "口径75cm反射式望遠鏡",
+      "chiho": "中国・四国地区"
+    },
+    {
+      "meisho": "美星天文台",
+      "shozaichi": "岡山県 井原市",
+      "biko": "口径101cm反射式望遠鏡",
+      "chiho": "中国・四国地区"
+    },
+    {
+      "meisho": "公益財団法人倉敷天文台",
+      "shozaichi": "岡山県 倉敷市",
+      "biko": "口径32cm反射式望遠鏡",
+      "chiho": "中国・四国地区"
+    },
+    {
+      "meisho": "国立天文台 岡山天体物理観測所",
+      "shozaichi": "岡山県 浅口市",
+      "biko": "口径188cm反射式望遠鏡、口径91cm反射式望遠鏡",
+      "chiho": "中国・四国地区"
+    },
+    {
+      "meisho": "岡山天文博物館",
+      "shozaichi": "岡山県浅口市",
+      "biko": "太陽観測用15cm屈折式望遠鏡、同架望遠鏡8cm屈折式望遠鏡",
+      "chiho": "中国・四国地区"
+    },
+    {
+      "meisho": "山口県立山口博物館",
+      "shozaichi": "山口県 山口市",
+      "biko": "口径20cm屈折式望遠鏡",
+      "chiho": "中国・四国地区"
+    },
+    {
+      "meisho": "阿南市科学センター",
+      "shozaichi": "徳島県 阿南市",
+      "biko": "口径113cm反射式望遠鏡",
+      "chiho": "中国・四国地区"
+    },
+    {
+      "meisho": "まんのう天文台",
+      "shozaichi": "香川県 仲多度郡 まんのう町",
+      "biko": "口径30cm反射式望遠鏡",
+      "chiho": "中国・四国地区"
+    },
+    {
+      "meisho": "久万高原天体観測館",
+      "shozaichi": "愛媛県 上浮穴郡 久万高原町",
+      "biko": "口径60cm反射式望遠鏡",
+      "chiho": "中国・四国地区"
+    },
+    {
+      "meisho": "高知みらい科学館",
+      "shozaichi": "高知県 高知市",
+      "biko": "口径60cm反射式望遠鏡",
+      "chiho": "中国・四国地区"
+    },
+    {
+      "meisho": "梶ヶ森天文台",
+      "shozaichi": "高知県 長岡郡 大豊町",
+      "biko": "口径60cm反射式望遠鏡",
+      "chiho": "中国・四国地区"
+    },
+    {
+      "meisho": "芸西天文学習館",
+      "shozaichi": "高知県 安芸郡 芸西村",
+      "biko": "口径60cm反射式望遠鏡",
+      "chiho": "中国・四国地区"
+    },
+    {
+      "meisho": "四万十市天体観測施設「四万十天文台」",
+      "shozaichi": "高知県 四万十市",
+      "biko": "口径36cm反射式望遠鏡",
+      "chiho": "中国・四国地区"
+    },
+    {
+      "meisho": "小郡市生涯学習センター天体ドーム",
+      "shozaichi": "福岡県 小郡市",
+      "biko": "口径40cm反射式望遠鏡、口径20cm屈折式望遠鏡 - 無料",
+      "chiho": "九州地区"
+    },
+    {
+      "meisho": "福岡県青少年科学館",
+      "shozaichi": "福岡県 久留米市",
+      "biko": "口径20cm屈折式望遠鏡",
+      "chiho": "九州地区"
+    },
+    {
+      "meisho": "久留米市天文台",
+      "shozaichi": "福岡県久留米市",
+      "biko": "口径40cm反射式望遠鏡、太陽観測装置 - 土曜日のみ無料",
+      "chiho": "九州地区"
+    },
+    {
+      "meisho": "八女市星の文化館",
+      "shozaichi": "福岡県 八女市 星野村",
+      "biko": "口径100cm反射式望遠鏡、口径65cm反射式望遠鏡、口径15cm屈折式望遠鏡 - 入館無料、観望有料",
+      "chiho": "九州地区"
+    },
+    {
+      "meisho": "西与賀コミュニティーセンター",
+      "shozaichi": "佐賀県 佐賀市",
+      "biko": "- 口径20cm屈折望遠鏡 - 無料",
+      "chiho": "九州地区"
+    },
+    {
+      "meisho": "佐賀県立宇宙科学館",
+      "shozaichi": "佐賀県 武雄市",
+      "biko": "口径20cm屈折望遠鏡 - 有料",
+      "chiho": "九州地区"
+    },
+    {
+      "meisho": "長崎市科学館スターシップ",
+      "shozaichi": "長崎県 長崎市",
+      "biko": "口径70cm反射式望遠鏡、口径15cm屈折式望遠鏡 - 有料",
+      "chiho": "九州地区"
+    },
+    {
+      "meisho": "五島市鬼岳天文台",
+      "shozaichi": "長崎県 五島市",
+      "biko": "口径60cm反射式望遠鏡、口径10cm屈折式望遠鏡 - 入館無料、観望有料",
+      "chiho": "九州地区"
+    },
+    {
+      "meisho": "合志市西合志図書館天文台",
+      "shozaichi": "熊本県 合志市",
+      "biko": "口径40cm反射式望遠鏡",
+      "chiho": "九州地区"
+    },
+    {
+      "meisho": "南阿蘇ルナ天文台",
+      "shozaichi": "熊本県 阿蘇郡 南阿蘇村",
+      "biko": "口径82cm反射式望遠鏡、7連式太陽望遠鏡 - 有料、完全予約",
+      "chiho": "九州地区"
+    },
+    {
+      "meisho": "清和高原天文台",
+      "shozaichi": "熊本県 上益城郡 山都町",
+      "biko": "口径50cm反射式望遠鏡 - 有料",
+      "chiho": "九州地区"
+    },
+    {
+      "meisho": "熊本県民天文台",
+      "shozaichi": "熊本県 熊本市",
+      "biko": "口径41cm反射式望遠鏡 - 無料（募金制）",
+      "chiho": "九州地区"
+    },
+    {
+      "meisho": "さかもと八竜天文台",
+      "shozaichi": "熊本県 八代市",
+      "biko": "口径45cm反射式望遠鏡、口径30cm屈折式望遠鏡 - 有料",
+      "chiho": "九州地区"
+    },
+    {
+      "meisho": "ミューイ天文台",
+      "shozaichi": "熊本県 上天草市",
+      "biko": "口径50cm反射式望遠鏡、口径15cm屈折式望遠鏡 - 有料",
+      "chiho": "九州地区"
+    },
+    {
+      "meisho": "梅園の里天文台天球館",
+      "shozaichi": "大分県 国東市",
+      "biko": "口径65cm反射式望遠鏡、口径15cm屈折式望遠鏡 - 有料",
+      "chiho": "九州地区"
+    },
+    {
+      "meisho": "関崎海星館",
+      "shozaichi": "大分県 大分市",
+      "biko": "口径60cm反射式望遠鏡",
+      "chiho": "九州地区"
+    },
+    {
+      "meisho": "コンパルホール",
+      "shozaichi": "大分県大分市",
+      "biko": "口径30cm反射式望遠鏡",
+      "chiho": "九州地区"
+    },
+    {
+      "meisho": "たちばな天文台",
+      "shozaichi": "宮崎県 都城市",
+      "biko": "口径50cm反射式望遠鏡、口径20cm屈折式望遠鏡 - 有料",
+      "chiho": "九州地区"
+    },
+    {
+      "meisho": "中小屋天文台昴ドーム",
+      "shozaichi": "宮崎県 美郷町",
+      "biko": "口径60cm反射式望遠鏡 - 有料",
+      "chiho": "九州地区"
+    },
+    {
+      "meisho": "せんだい宇宙館",
+      "shozaichi": "鹿児島県 薩摩川内市",
+      "biko": "口径50cm反射式望遠鏡、口径15cm屈折式望遠鏡 - 有料",
+      "chiho": "九州地区"
+    },
+    {
+      "meisho": "スターランドAIRA",
+      "shozaichi": "鹿児島県 姶良市",
+      "biko": "口径40cm反射式望遠鏡 - 有料",
+      "chiho": "九州地区"
+    },
+    {
+      "meisho": "輝北天球館",
+      "shozaichi": "鹿児島県 鹿屋市",
+      "biko": "口径65cm反射式望遠鏡 - 有料",
+      "chiho": "九州地区"
+    },
+    {
+      "meisho": "十島村中之島天文台",
+      "shozaichi": "鹿児島県 鹿児島郡 十島村",
+      "biko": "口径60cm反射式望遠鏡 - 詳細不明",
+      "chiho": "九州地区"
+    },
+    {
+      "meisho": "石垣島天文台",
+      "shozaichi": "沖縄県 石垣市",
+      "biko": "口径105cm反射式望遠鏡 - 無料（要予約）",
+      "chiho": "沖縄地区"
+    },
+    {
+      "meisho": "波照間島星空観測タワー",
+      "shozaichi": "沖縄県 八重山郡 竹富町",
+      "biko": "口径20cm屈折式望遠鏡 - 有料",
+      "chiho": "沖縄地区"
+    }
+  ],
+  "meta": {
+    "title": "日本の公開天文台一覧 - Free Download",
+    "description": "一般公開されている日本国内の天文台（公開天文台・科学館の天体観測施設）の一覧。名称、所在地、主な望遠鏡などの備考を地方別に収録。 Contains 125 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の公開天文台一覧 | ListBase",
+    "seo_description": "Download 日本の公開天文台一覧 — 125 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 125 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/公開天文台一覧"
+    ]
+  }
+}

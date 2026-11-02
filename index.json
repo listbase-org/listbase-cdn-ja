@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-10-30T02:29:24.270Z",
-  "total_datasets": 559,
-  "total_records": 459003,
+  "generated": "2026-11-02T02:34:41.786Z",
+  "total_datasets": 560,
+  "total_records": 459128,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "society",
@@ -14483,6 +14483,31 @@
         "xlsx": {
           "name": "ja-kishocho-meimei-gensho_JA.xlsx",
           "size": 10055
+        }
+      }
+    },
+    {
+      "id": "ja-kokai-tenmondai",
+      "name": "日本の公開天文台一覧",
+      "category": "science",
+      "record_count": 125,
+      "columns": [
+        "meisho",
+        "shozaichi",
+        "biko",
+        "chiho"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/公開天文台一覧",
+      "updated": "2026-11",
+      "size": 26203,
+      "files": {
+        "csv": {
+          "name": "ja-kokai-tenmondai_JA.csv",
+          "size": 14572
+        },
+        "xlsx": {
+          "name": "ja-kokai-tenmondai_JA.xlsx",
+          "size": 12949
         }
       }
     },
