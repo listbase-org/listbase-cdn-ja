@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-02T02:34:52.639Z",
-  "total_datasets": 561,
-  "total_records": 459250,
+  "generated": "2026-11-02T02:35:01.910Z",
+  "total_datasets": 562,
+  "total_records": 459448,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "time",
@@ -15242,6 +15242,37 @@
         "xlsx": {
           "name": "ja-shigai-kyokuban_JA.xlsx",
           "size": 45572
+        }
+      }
+    },
+    {
+      "id": "ja-uchuki-ichiran",
+      "name": "日本の宇宙機（人工衛星・探査機）一覧",
+      "category": "tech",
+      "record_count": 198,
+      "columns": [
+        "meisho",
+        "ryakuji",
+        "mokuteki",
+        "seizo_kaihatsu",
+        "shitsuryo_kg",
+        "uchiage_bi",
+        "uchiage_ki",
+        "shajo",
+        "kido",
+        "kubun"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/日本の宇宙機の一覧",
+      "updated": "2026-11",
+      "size": 79226,
+      "files": {
+        "csv": {
+          "name": "ja-uchuki-ichiran_JA.csv",
+          "size": 36705
+        },
+        "xlsx": {
+          "name": "ja-uchuki-ichiran_JA.xlsx",
+          "size": 24076
         }
       }
     },
