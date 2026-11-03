@@ -1,0 +1,156 @@
+{
+  "id": "ja-miso-no-shurui",
+  "name": "味噌の種類（原料・味・色別）",
+  "title": "味噌の種類（原料・味・色別）",
+  "description": "米味噌・麦味噌・豆味噌など日本の味噌の種類ごとの味と色、麹歩合、塩分、醸造期間、主な産地、代表例。",
+  "category": "food",
+  "source": "https://ja.wikipedia.org/wiki/味噌",
+  "source_url": "https://ja.wikipedia.org/wiki/味噌",
+  "updated": "2026-11",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "shurui",
+      "label": "Shurui",
+      "type": "string"
+    },
+    {
+      "key": "aji",
+      "label": "Aji",
+      "type": "string"
+    },
+    {
+      "key": "iro",
+      "label": "Iro",
+      "type": "string"
+    },
+    {
+      "key": "koji_buai_pct",
+      "label": "Koji Buai Pct",
+      "type": "string"
+    },
+    {
+      "key": "enbun_pct",
+      "label": "Enbun Pct",
+      "type": "string"
+    },
+    {
+      "key": "jozo_kikan",
+      "label": "Jozo Kikan",
+      "type": "string"
+    },
+    {
+      "key": "omo_na_sanchi",
+      "label": "Omo Na Sanchi",
+      "type": "string"
+    },
+    {
+      "key": "rei",
+      "label": "Rei",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "shurui": "米味噌",
+      "aji": "甘味噌",
+      "iro": "白",
+      "koji_buai_pct": "15 - 30",
+      "enbun_pct": "5 - 7",
+      "jozo_kikan": "5 - 20日",
+      "omo_na_sanchi": "近畿地方、中国地方、瀬戸内 （岡山、広島、山口、香川）",
+      "rei": "関西白味噌"
+    },
+    {
+      "shurui": "米味噌",
+      "aji": "甘味噌",
+      "iro": "赤",
+      "koji_buai_pct": "12 - 20",
+      "enbun_pct": "5 - 7",
+      "jozo_kikan": "5 - 20日",
+      "omo_na_sanchi": "東京",
+      "rei": "江戸甘味噌"
+    },
+    {
+      "shurui": "米味噌",
+      "aji": "甘口味噌",
+      "iro": "淡色",
+      "koji_buai_pct": "8 - 15",
+      "enbun_pct": "7 - 12",
+      "jozo_kikan": "5 - 20日",
+      "omo_na_sanchi": "静岡、九州",
+      "rei": "相白味噌"
+    },
+    {
+      "shurui": "米味噌",
+      "aji": "甘口味噌",
+      "iro": "赤",
+      "koji_buai_pct": "10 - 15",
+      "enbun_pct": "11 - 13",
+      "jozo_kikan": "3 - 6カ月",
+      "omo_na_sanchi": "徳島、その他",
+      "rei": "御膳味噌"
+    },
+    {
+      "shurui": "米味噌",
+      "aji": "辛口味噌",
+      "iro": "淡色",
+      "koji_buai_pct": "5 - 10",
+      "enbun_pct": "11 - 13",
+      "jozo_kikan": "2 - 3カ月",
+      "omo_na_sanchi": "関東甲信越、北陸、その他",
+      "rei": "信州味噌"
+    },
+    {
+      "shurui": "米味噌",
+      "aji": "辛口味噌",
+      "iro": "赤",
+      "koji_buai_pct": "5 - 10",
+      "enbun_pct": "11 - 13",
+      "jozo_kikan": "3 - 12カ月",
+      "omo_na_sanchi": "関東甲信越、東北、北海道 その他",
+      "rei": "仙台味噌"
+    },
+    {
+      "shurui": "麦味噌",
+      "aji": "甘口味噌",
+      "iro": "甘口味噌",
+      "koji_buai_pct": "15 - 25",
+      "enbun_pct": "9 - 11",
+      "jozo_kikan": "1 - 3カ月",
+      "omo_na_sanchi": "九州、中国、四国 日本海沿岸",
+      "rei": "薩摩味噌"
+    },
+    {
+      "shurui": "麦味噌",
+      "aji": "辛口味噌",
+      "iro": "辛口味噌",
+      "koji_buai_pct": "8 - 15",
+      "enbun_pct": "11 - 13",
+      "jozo_kikan": "3 - 12カ月",
+      "omo_na_sanchi": "九州、中国 、四国 関東北部",
+      "rei": "長崎味噌"
+    },
+    {
+      "shurui": "豆味噌",
+      "aji": "辛口味噌",
+      "iro": "辛口味噌",
+      "koji_buai_pct": "全量",
+      "enbun_pct": "10 - 12",
+      "jozo_kikan": "5 - 20カ月",
+      "omo_na_sanchi": "中京（愛知、三重、岐阜）",
+      "rei": "八丁味噌"
+    }
+  ],
+  "meta": {
+    "title": "味噌の種類（原料・味・色別） - Free Download",
+    "description": "米味噌・麦味噌・豆味噌など日本の味噌の種類ごとの味と色、麹歩合、塩分、醸造期間、主な産地、代表例。 Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "味噌の種類（原料・味・色別） | ListBase",
+    "seo_description": "Download 味噌の種類（原料・味・色別） — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/味噌"
+    ]
+  }
+}
