@@ -1,0 +1,152 @@
+{
+  "id": "ja-daihyoteki-na-tsukemono",
+  "name": "日本の代表的な漬物一覧",
+  "title": "日本の代表的な漬物一覧",
+  "description": "沢庵漬け・千枚漬け・野沢菜漬・奈良漬けなど、日本の代表的な漬物の一覧。",
+  "category": "food",
+  "source": "https://ja.wikipedia.org/wiki/漬物",
+  "source_url": "https://ja.wikipedia.org/wiki/漬物",
+  "updated": "2026-11",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "tsukemono",
+      "label": "Tsukemono",
+      "type": "string"
+    },
+    {
+      "key": "setsumei",
+      "label": "Setsumei",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "tsukemono": "赤かぶ漬",
+      "setsumei": ""
+    },
+    {
+      "tsukemono": "あちゃら（アチャラ、阿茶羅）漬け",
+      "setsumei": "食べ易く切った数種類の野菜を赤唐辛子と共に甘酢に漬け込んだもの。"
+    },
+    {
+      "tsukemono": "浅漬 （一夜漬け）",
+      "setsumei": ""
+    },
+    {
+      "tsukemono": "いぶりがっこ",
+      "setsumei": ""
+    },
+    {
+      "tsukemono": "梅干し",
+      "setsumei": ""
+    },
+    {
+      "tsukemono": "柴漬",
+      "setsumei": ""
+    },
+    {
+      "tsukemono": "青菜漬け",
+      "setsumei": ""
+    },
+    {
+      "tsukemono": "山海漬",
+      "setsumei": ""
+    },
+    {
+      "tsukemono": "塩 ウニ ・塩 数の子 ・塩 鮭 （ 新巻鮭 ）",
+      "setsumei": ""
+    },
+    {
+      "tsukemono": "すぐき （すぐき漬）",
+      "setsumei": ""
+    },
+    {
+      "tsukemono": "すんき漬け",
+      "setsumei": "無塩で乳酸発酵させられる珍しい漬物で生産量は少ない"
+    },
+    {
+      "tsukemono": "千枚漬け",
+      "setsumei": ""
+    },
+    {
+      "tsukemono": "沢庵漬け",
+      "setsumei": ""
+    },
+    {
+      "tsukemono": "高菜漬け",
+      "setsumei": ""
+    },
+    {
+      "tsukemono": "たまり漬け",
+      "setsumei": ""
+    },
+    {
+      "tsukemono": "壺漬け",
+      "setsumei": ""
+    },
+    {
+      "tsukemono": "奈良漬け （奈良漬）",
+      "setsumei": ""
+    },
+    {
+      "tsukemono": "鉈漬",
+      "setsumei": ""
+    },
+    {
+      "tsukemono": "野沢菜漬",
+      "setsumei": ""
+    },
+    {
+      "tsukemono": "鰊漬け",
+      "setsumei": ""
+    },
+    {
+      "tsukemono": "糠",
+      "setsumei": "ニシン・糠サンマ・糠ホッケ"
+    },
+    {
+      "tsukemono": "広島菜漬",
+      "setsumei": ""
+    },
+    {
+      "tsukemono": "福神漬",
+      "setsumei": ""
+    },
+    {
+      "tsukemono": "古漬け",
+      "setsumei": ""
+    },
+    {
+      "tsukemono": "べったら漬",
+      "setsumei": ""
+    },
+    {
+      "tsukemono": "松前漬け",
+      "setsumei": ""
+    },
+    {
+      "tsukemono": "壬生菜漬",
+      "setsumei": ""
+    },
+    {
+      "tsukemono": "らっきょう （甘酢漬け、醤油漬け、 たまり漬け ）",
+      "setsumei": ""
+    },
+    {
+      "tsukemono": "わさび漬け",
+      "setsumei": ""
+    }
+  ],
+  "meta": {
+    "title": "日本の代表的な漬物一覧 - Free Download",
+    "description": "沢庵漬け・千枚漬け・野沢菜漬・奈良漬けなど、日本の代表的な漬物の一覧。 Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の代表的な漬物一覧 | ListBase",
+    "seo_description": "Download 日本の代表的な漬物一覧 — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/漬物"
+    ]
+  }
+}

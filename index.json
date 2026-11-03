@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-02T02:35:11.759Z",
-  "total_datasets": 563,
-  "total_records": 459502,
+  "generated": "2026-11-03T02:31:24.485Z",
+  "total_datasets": 564,
+  "total_records": 459531,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "geography",
@@ -1689,6 +1689,29 @@
         "xlsx": {
           "name": "ja-b1-grandprix-kamei-dantai_JA.xlsx",
           "size": 12336
+        }
+      }
+    },
+    {
+      "id": "ja-daihyoteki-na-tsukemono",
+      "name": "日本の代表的な漬物一覧",
+      "category": "food",
+      "record_count": 29,
+      "columns": [
+        "tsukemono",
+        "setsumei"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/漬物",
+      "updated": "2026-11",
+      "size": 3680,
+      "files": {
+        "csv": {
+          "name": "ja-daihyoteki-na-tsukemono_JA.csv",
+          "size": 918
+        },
+        "xlsx": {
+          "name": "ja-daihyoteki-na-tsukemono_JA.xlsx",
+          "size": 7532
         }
       }
     },
