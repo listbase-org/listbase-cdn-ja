@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-03T02:31:45.950Z",
-  "total_datasets": 566,
-  "total_records": 459591,
+  "generated": "2026-11-03T02:31:55.396Z",
+  "total_datasets": 567,
+  "total_records": 459831,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "economy",
@@ -521,6 +521,31 @@
         "xlsx": {
           "name": "ja-naoki-sho-jushosha_JA.xlsx",
           "size": 17269
+        }
+      }
+    },
+    {
+      "id": "ja-nihon-no-iro",
+      "name": "日本の色（伝統色）の一覧",
+      "category": "culture",
+      "record_count": 240,
+      "columns": [
+        "iromei",
+        "yomi",
+        "hex",
+        "biko"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/日本の色の一覧",
+      "updated": "2026-11",
+      "size": 43495,
+      "files": {
+        "csv": {
+          "name": "ja-nihon-no-iro_JA.csv",
+          "size": 24458
+        },
+        "xlsx": {
+          "name": "ja-nihon-no-iro_JA.xlsx",
+          "size": 20687
         }
       }
     },
