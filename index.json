@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-04T02:24:54.958Z",
-  "total_datasets": 568,
-  "total_records": 459971,
+  "generated": "2026-11-04T02:25:04.920Z",
+  "total_datasets": 569,
+  "total_records": 460997,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "law",
@@ -6781,6 +6781,29 @@
         "xlsx": {
           "name": "ja-tokubetsu-shiseki_JA.xlsx",
           "size": 8875
+        }
+      }
+    },
+    {
+      "id": "ja-gakunen-betsu-kanji-haitohyo",
+      "name": "学年別漢字配当表（小学校で習う漢字）",
+      "category": "language",
+      "record_count": 1026,
+      "columns": [
+        "kanji",
+        "gakunen"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/学年別漢字配当表",
+      "updated": "2026-11",
+      "size": 56946,
+      "files": {
+        "csv": {
+          "name": "ja-gakunen-betsu-kanji-haitohyo_JA.csv",
+          "size": 10280
+        },
+        "xlsx": {
+          "name": "ja-gakunen-betsu-kanji-haitohyo_JA.xlsx",
+          "size": 21638
         }
       }
     },

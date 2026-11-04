@@ -1,0 +1,4140 @@
+{
+  "id": "ja-gakunen-betsu-kanji-haitohyo",
+  "name": "学年別漢字配当表（小学校で習う漢字）",
+  "title": "学年別漢字配当表（小学校で習う漢字）",
+  "description": "2020年度施行の学習指導要領による学年別漢字配当表。小学校1〜6年生で学ぶ教育漢字1026字と配当学年。",
+  "category": "language",
+  "source": "https://ja.wikipedia.org/wiki/学年別漢字配当表",
+  "source_url": "https://ja.wikipedia.org/wiki/学年別漢字配当表",
+  "updated": "2026-11",
+  "record_count": 1026,
+  "columns": [
+    {
+      "key": "kanji",
+      "label": "Kanji",
+      "type": "string"
+    },
+    {
+      "key": "gakunen",
+      "label": "Gakunen",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kanji": "一",
+      "gakunen": 1
+    },
+    {
+      "kanji": "右",
+      "gakunen": 1
+    },
+    {
+      "kanji": "雨",
+      "gakunen": 1
+    },
+    {
+      "kanji": "円",
+      "gakunen": 1
+    },
+    {
+      "kanji": "王",
+      "gakunen": 1
+    },
+    {
+      "kanji": "音",
+      "gakunen": 1
+    },
+    {
+      "kanji": "下",
+      "gakunen": 1
+    },
+    {
+      "kanji": "火",
+      "gakunen": 1
+    },
+    {
+      "kanji": "花",
+      "gakunen": 1
+    },
+    {
+      "kanji": "貝",
+      "gakunen": 1
+    },
+    {
+      "kanji": "学",
+      "gakunen": 1
+    },
+    {
+      "kanji": "気",
+      "gakunen": 1
+    },
+    {
+      "kanji": "九",
+      "gakunen": 1
+    },
+    {
+      "kanji": "休",
+      "gakunen": 1
+    },
+    {
+      "kanji": "玉",
+      "gakunen": 1
+    },
+    {
+      "kanji": "金",
+      "gakunen": 1
+    },
+    {
+      "kanji": "空",
+      "gakunen": 1
+    },
+    {
+      "kanji": "月",
+      "gakunen": 1
+    },
+    {
+      "kanji": "犬",
+      "gakunen": 1
+    },
+    {
+      "kanji": "見",
+      "gakunen": 1
+    },
+    {
+      "kanji": "五",
+      "gakunen": 1
+    },
+    {
+      "kanji": "口",
+      "gakunen": 1
+    },
+    {
+      "kanji": "校",
+      "gakunen": 1
+    },
+    {
+      "kanji": "左",
+      "gakunen": 1
+    },
+    {
+      "kanji": "三",
+      "gakunen": 1
+    },
+    {
+      "kanji": "山",
+      "gakunen": 1
+    },
+    {
+      "kanji": "子",
+      "gakunen": 1
+    },
+    {
+      "kanji": "四",
+      "gakunen": 1
+    },
+    {
+      "kanji": "糸",
+      "gakunen": 1
+    },
+    {
+      "kanji": "字",
+      "gakunen": 1
+    },
+    {
+      "kanji": "耳",
+      "gakunen": 1
+    },
+    {
+      "kanji": "七",
+      "gakunen": 1
+    },
+    {
+      "kanji": "車",
+      "gakunen": 1
+    },
+    {
+      "kanji": "手",
+      "gakunen": 1
+    },
+    {
+      "kanji": "十",
+      "gakunen": 1
+    },
+    {
+      "kanji": "出",
+      "gakunen": 1
+    },
+    {
+      "kanji": "女",
+      "gakunen": 1
+    },
+    {
+      "kanji": "小",
+      "gakunen": 1
+    },
+    {
+      "kanji": "上",
+      "gakunen": 1
+    },
+    {
+      "kanji": "森",
+      "gakunen": 1
+    },
+    {
+      "kanji": "人",
+      "gakunen": 1
+    },
+    {
+      "kanji": "水",
+      "gakunen": 1
+    },
+    {
+      "kanji": "正",
+      "gakunen": 1
+    },
+    {
+      "kanji": "生",
+      "gakunen": 1
+    },
+    {
+      "kanji": "青",
+      "gakunen": 1
+    },
+    {
+      "kanji": "夕",
+      "gakunen": 1
+    },
+    {
+      "kanji": "石",
+      "gakunen": 1
+    },
+    {
+      "kanji": "赤",
+      "gakunen": 1
+    },
+    {
+      "kanji": "千",
+      "gakunen": 1
+    },
+    {
+      "kanji": "川",
+      "gakunen": 1
+    },
+    {
+      "kanji": "先",
+      "gakunen": 1
+    },
+    {
+      "kanji": "早",
+      "gakunen": 1
+    },
+    {
+      "kanji": "草",
+      "gakunen": 1
+    },
+    {
+      "kanji": "足",
+      "gakunen": 1
+    },
+    {
+      "kanji": "村",
+      "gakunen": 1
+    },
+    {
+      "kanji": "大",
+      "gakunen": 1
+    },
+    {
+      "kanji": "男",
+      "gakunen": 1
+    },
+    {
+      "kanji": "竹",
+      "gakunen": 1
+    },
+    {
+      "kanji": "中",
+      "gakunen": 1
+    },
+    {
+      "kanji": "虫",
+      "gakunen": 1
+    },
+    {
+      "kanji": "町",
+      "gakunen": 1
+    },
+    {
+      "kanji": "天",
+      "gakunen": 1
+    },
+    {
+      "kanji": "田",
+      "gakunen": 1
+    },
+    {
+      "kanji": "土",
+      "gakunen": 1
+    },
+    {
+      "kanji": "二",
+      "gakunen": 1
+    },
+    {
+      "kanji": "日",
+      "gakunen": 1
+    },
+    {
+      "kanji": "入",
+      "gakunen": 1
+    },
+    {
+      "kanji": "年",
+      "gakunen": 1
+    },
+    {
+      "kanji": "白",
+      "gakunen": 1
+    },
+    {
+      "kanji": "八",
+      "gakunen": 1
+    },
+    {
+      "kanji": "百",
+      "gakunen": 1
+    },
+    {
+      "kanji": "文",
+      "gakunen": 1
+    },
+    {
+      "kanji": "木",
+      "gakunen": 1
+    },
+    {
+      "kanji": "本",
+      "gakunen": 1
+    },
+    {
+      "kanji": "名",
+      "gakunen": 1
+    },
+    {
+      "kanji": "目",
+      "gakunen": 1
+    },
+    {
+      "kanji": "立",
+      "gakunen": 1
+    },
+    {
+      "kanji": "力",
+      "gakunen": 1
+    },
+    {
+      "kanji": "林",
+      "gakunen": 1
+    },
+    {
+      "kanji": "六",
+      "gakunen": 1
+    },
+    {
+      "kanji": "引",
+      "gakunen": 2
+    },
+    {
+      "kanji": "羽",
+      "gakunen": 2
+    },
+    {
+      "kanji": "雲",
+      "gakunen": 2
+    },
+    {
+      "kanji": "園",
+      "gakunen": 2
+    },
+    {
+      "kanji": "遠",
+      "gakunen": 2
+    },
+    {
+      "kanji": "何",
+      "gakunen": 2
+    },
+    {
+      "kanji": "科",
+      "gakunen": 2
+    },
+    {
+      "kanji": "夏",
+      "gakunen": 2
+    },
+    {
+      "kanji": "家",
+      "gakunen": 2
+    },
+    {
+      "kanji": "歌",
+      "gakunen": 2
+    },
+    {
+      "kanji": "画",
+      "gakunen": 2
+    },
+    {
+      "kanji": "回",
+      "gakunen": 2
+    },
+    {
+      "kanji": "会",
+      "gakunen": 2
+    },
+    {
+      "kanji": "海",
+      "gakunen": 2
+    },
+    {
+      "kanji": "絵",
+      "gakunen": 2
+    },
+    {
+      "kanji": "外",
+      "gakunen": 2
+    },
+    {
+      "kanji": "角",
+      "gakunen": 2
+    },
+    {
+      "kanji": "楽",
+      "gakunen": 2
+    },
+    {
+      "kanji": "活",
+      "gakunen": 2
+    },
+    {
+      "kanji": "間",
+      "gakunen": 2
+    },
+    {
+      "kanji": "丸",
+      "gakunen": 2
+    },
+    {
+      "kanji": "岩",
+      "gakunen": 2
+    },
+    {
+      "kanji": "顔",
+      "gakunen": 2
+    },
+    {
+      "kanji": "汽",
+      "gakunen": 2
+    },
+    {
+      "kanji": "記",
+      "gakunen": 2
+    },
+    {
+      "kanji": "帰",
+      "gakunen": 2
+    },
+    {
+      "kanji": "弓",
+      "gakunen": 2
+    },
+    {
+      "kanji": "牛",
+      "gakunen": 2
+    },
+    {
+      "kanji": "魚",
+      "gakunen": 2
+    },
+    {
+      "kanji": "京",
+      "gakunen": 2
+    },
+    {
+      "kanji": "強",
+      "gakunen": 2
+    },
+    {
+      "kanji": "教",
+      "gakunen": 2
+    },
+    {
+      "kanji": "近",
+      "gakunen": 2
+    },
+    {
+      "kanji": "兄",
+      "gakunen": 2
+    },
+    {
+      "kanji": "形",
+      "gakunen": 2
+    },
+    {
+      "kanji": "計",
+      "gakunen": 2
+    },
+    {
+      "kanji": "元",
+      "gakunen": 2
+    },
+    {
+      "kanji": "言",
+      "gakunen": 2
+    },
+    {
+      "kanji": "原",
+      "gakunen": 2
+    },
+    {
+      "kanji": "戸",
+      "gakunen": 2
+    },
+    {
+      "kanji": "古",
+      "gakunen": 2
+    },
+    {
+      "kanji": "午",
+      "gakunen": 2
+    },
+    {
+      "kanji": "後",
+      "gakunen": 2
+    },
+    {
+      "kanji": "語",
+      "gakunen": 2
+    },
+    {
+      "kanji": "工",
+      "gakunen": 2
+    },
+    {
+      "kanji": "公",
+      "gakunen": 2
+    },
+    {
+      "kanji": "広",
+      "gakunen": 2
+    },
+    {
+      "kanji": "交",
+      "gakunen": 2
+    },
+    {
+      "kanji": "光",
+      "gakunen": 2
+    },
+    {
+      "kanji": "考",
+      "gakunen": 2
+    },
+    {
+      "kanji": "行",
+      "gakunen": 2
+    },
+    {
+      "kanji": "高",
+      "gakunen": 2
+    },
+    {
+      "kanji": "黄",
+      "gakunen": 2
+    },
+    {
+      "kanji": "合",
+      "gakunen": 2
+    },
+    {
+      "kanji": "谷",
+      "gakunen": 2
+    },
+    {
+      "kanji": "国",
+      "gakunen": 2
+    },
+    {
+      "kanji": "黒",
+      "gakunen": 2
+    },
+    {
+      "kanji": "今",
+      "gakunen": 2
+    },
+    {
+      "kanji": "才",
+      "gakunen": 2
+    },
+    {
+      "kanji": "細",
+      "gakunen": 2
+    },
+    {
+      "kanji": "作",
+      "gakunen": 2
+    },
+    {
+      "kanji": "算",
+      "gakunen": 2
+    },
+    {
+      "kanji": "止",
+      "gakunen": 2
+    },
+    {
+      "kanji": "市",
+      "gakunen": 2
+    },
+    {
+      "kanji": "矢",
+      "gakunen": 2
+    },
+    {
+      "kanji": "姉",
+      "gakunen": 2
+    },
+    {
+      "kanji": "思",
+      "gakunen": 2
+    },
+    {
+      "kanji": "紙",
+      "gakunen": 2
+    },
+    {
+      "kanji": "寺",
+      "gakunen": 2
+    },
+    {
+      "kanji": "自",
+      "gakunen": 2
+    },
+    {
+      "kanji": "時",
+      "gakunen": 2
+    },
+    {
+      "kanji": "室",
+      "gakunen": 2
+    },
+    {
+      "kanji": "社",
+      "gakunen": 2
+    },
+    {
+      "kanji": "弱",
+      "gakunen": 2
+    },
+    {
+      "kanji": "首",
+      "gakunen": 2
+    },
+    {
+      "kanji": "秋",
+      "gakunen": 2
+    },
+    {
+      "kanji": "週",
+      "gakunen": 2
+    },
+    {
+      "kanji": "春",
+      "gakunen": 2
+    },
+    {
+      "kanji": "書",
+      "gakunen": 2
+    },
+    {
+      "kanji": "少",
+      "gakunen": 2
+    },
+    {
+      "kanji": "場",
+      "gakunen": 2
+    },
+    {
+      "kanji": "色",
+      "gakunen": 2
+    },
+    {
+      "kanji": "食",
+      "gakunen": 2
+    },
+    {
+      "kanji": "心",
+      "gakunen": 2
+    },
+    {
+      "kanji": "新",
+      "gakunen": 2
+    },
+    {
+      "kanji": "親",
+      "gakunen": 2
+    },
+    {
+      "kanji": "図",
+      "gakunen": 2
+    },
+    {
+      "kanji": "数",
+      "gakunen": 2
+    },
+    {
+      "kanji": "西",
+      "gakunen": 2
+    },
+    {
+      "kanji": "声",
+      "gakunen": 2
+    },
+    {
+      "kanji": "星",
+      "gakunen": 2
+    },
+    {
+      "kanji": "晴",
+      "gakunen": 2
+    },
+    {
+      "kanji": "切",
+      "gakunen": 2
+    },
+    {
+      "kanji": "雪",
+      "gakunen": 2
+    },
+    {
+      "kanji": "船",
+      "gakunen": 2
+    },
+    {
+      "kanji": "線",
+      "gakunen": 2
+    },
+    {
+      "kanji": "前",
+      "gakunen": 2
+    },
+    {
+      "kanji": "組",
+      "gakunen": 2
+    },
+    {
+      "kanji": "走",
+      "gakunen": 2
+    },
+    {
+      "kanji": "多",
+      "gakunen": 2
+    },
+    {
+      "kanji": "太",
+      "gakunen": 2
+    },
+    {
+      "kanji": "体",
+      "gakunen": 2
+    },
+    {
+      "kanji": "台",
+      "gakunen": 2
+    },
+    {
+      "kanji": "地",
+      "gakunen": 2
+    },
+    {
+      "kanji": "池",
+      "gakunen": 2
+    },
+    {
+      "kanji": "知",
+      "gakunen": 2
+    },
+    {
+      "kanji": "茶",
+      "gakunen": 2
+    },
+    {
+      "kanji": "昼",
+      "gakunen": 2
+    },
+    {
+      "kanji": "長",
+      "gakunen": 2
+    },
+    {
+      "kanji": "鳥",
+      "gakunen": 2
+    },
+    {
+      "kanji": "朝",
+      "gakunen": 2
+    },
+    {
+      "kanji": "直",
+      "gakunen": 2
+    },
+    {
+      "kanji": "通",
+      "gakunen": 2
+    },
+    {
+      "kanji": "弟",
+      "gakunen": 2
+    },
+    {
+      "kanji": "店",
+      "gakunen": 2
+    },
+    {
+      "kanji": "点",
+      "gakunen": 2
+    },
+    {
+      "kanji": "電",
+      "gakunen": 2
+    },
+    {
+      "kanji": "刀",
+      "gakunen": 2
+    },
+    {
+      "kanji": "冬",
+      "gakunen": 2
+    },
+    {
+      "kanji": "当",
+      "gakunen": 2
+    },
+    {
+      "kanji": "東",
+      "gakunen": 2
+    },
+    {
+      "kanji": "答",
+      "gakunen": 2
+    },
+    {
+      "kanji": "頭",
+      "gakunen": 2
+    },
+    {
+      "kanji": "同",
+      "gakunen": 2
+    },
+    {
+      "kanji": "道",
+      "gakunen": 2
+    },
+    {
+      "kanji": "読",
+      "gakunen": 2
+    },
+    {
+      "kanji": "内",
+      "gakunen": 2
+    },
+    {
+      "kanji": "南",
+      "gakunen": 2
+    },
+    {
+      "kanji": "肉",
+      "gakunen": 2
+    },
+    {
+      "kanji": "馬",
+      "gakunen": 2
+    },
+    {
+      "kanji": "売",
+      "gakunen": 2
+    },
+    {
+      "kanji": "買",
+      "gakunen": 2
+    },
+    {
+      "kanji": "麦",
+      "gakunen": 2
+    },
+    {
+      "kanji": "半",
+      "gakunen": 2
+    },
+    {
+      "kanji": "番",
+      "gakunen": 2
+    },
+    {
+      "kanji": "父",
+      "gakunen": 2
+    },
+    {
+      "kanji": "風",
+      "gakunen": 2
+    },
+    {
+      "kanji": "分",
+      "gakunen": 2
+    },
+    {
+      "kanji": "聞",
+      "gakunen": 2
+    },
+    {
+      "kanji": "米",
+      "gakunen": 2
+    },
+    {
+      "kanji": "歩",
+      "gakunen": 2
+    },
+    {
+      "kanji": "母",
+      "gakunen": 2
+    },
+    {
+      "kanji": "方",
+      "gakunen": 2
+    },
+    {
+      "kanji": "北",
+      "gakunen": 2
+    },
+    {
+      "kanji": "毎",
+      "gakunen": 2
+    },
+    {
+      "kanji": "妹",
+      "gakunen": 2
+    },
+    {
+      "kanji": "万",
+      "gakunen": 2
+    },
+    {
+      "kanji": "明",
+      "gakunen": 2
+    },
+    {
+      "kanji": "鳴",
+      "gakunen": 2
+    },
+    {
+      "kanji": "毛",
+      "gakunen": 2
+    },
+    {
+      "kanji": "門",
+      "gakunen": 2
+    },
+    {
+      "kanji": "夜",
+      "gakunen": 2
+    },
+    {
+      "kanji": "野",
+      "gakunen": 2
+    },
+    {
+      "kanji": "友",
+      "gakunen": 2
+    },
+    {
+      "kanji": "用",
+      "gakunen": 2
+    },
+    {
+      "kanji": "曜",
+      "gakunen": 2
+    },
+    {
+      "kanji": "来",
+      "gakunen": 2
+    },
+    {
+      "kanji": "里",
+      "gakunen": 2
+    },
+    {
+      "kanji": "理",
+      "gakunen": 2
+    },
+    {
+      "kanji": "話",
+      "gakunen": 2
+    },
+    {
+      "kanji": "悪",
+      "gakunen": 3
+    },
+    {
+      "kanji": "安",
+      "gakunen": 3
+    },
+    {
+      "kanji": "暗",
+      "gakunen": 3
+    },
+    {
+      "kanji": "医",
+      "gakunen": 3
+    },
+    {
+      "kanji": "委",
+      "gakunen": 3
+    },
+    {
+      "kanji": "意",
+      "gakunen": 3
+    },
+    {
+      "kanji": "育",
+      "gakunen": 3
+    },
+    {
+      "kanji": "員",
+      "gakunen": 3
+    },
+    {
+      "kanji": "院",
+      "gakunen": 3
+    },
+    {
+      "kanji": "飲",
+      "gakunen": 3
+    },
+    {
+      "kanji": "運",
+      "gakunen": 3
+    },
+    {
+      "kanji": "泳",
+      "gakunen": 3
+    },
+    {
+      "kanji": "駅",
+      "gakunen": 3
+    },
+    {
+      "kanji": "央",
+      "gakunen": 3
+    },
+    {
+      "kanji": "横",
+      "gakunen": 3
+    },
+    {
+      "kanji": "屋",
+      "gakunen": 3
+    },
+    {
+      "kanji": "温",
+      "gakunen": 3
+    },
+    {
+      "kanji": "化",
+      "gakunen": 3
+    },
+    {
+      "kanji": "荷",
+      "gakunen": 3
+    },
+    {
+      "kanji": "界",
+      "gakunen": 3
+    },
+    {
+      "kanji": "開",
+      "gakunen": 3
+    },
+    {
+      "kanji": "階",
+      "gakunen": 3
+    },
+    {
+      "kanji": "寒",
+      "gakunen": 3
+    },
+    {
+      "kanji": "感",
+      "gakunen": 3
+    },
+    {
+      "kanji": "漢",
+      "gakunen": 3
+    },
+    {
+      "kanji": "館",
+      "gakunen": 3
+    },
+    {
+      "kanji": "岸",
+      "gakunen": 3
+    },
+    {
+      "kanji": "起",
+      "gakunen": 3
+    },
+    {
+      "kanji": "期",
+      "gakunen": 3
+    },
+    {
+      "kanji": "客",
+      "gakunen": 3
+    },
+    {
+      "kanji": "究",
+      "gakunen": 3
+    },
+    {
+      "kanji": "急",
+      "gakunen": 3
+    },
+    {
+      "kanji": "級",
+      "gakunen": 3
+    },
+    {
+      "kanji": "宮",
+      "gakunen": 3
+    },
+    {
+      "kanji": "球",
+      "gakunen": 3
+    },
+    {
+      "kanji": "去",
+      "gakunen": 3
+    },
+    {
+      "kanji": "橋",
+      "gakunen": 3
+    },
+    {
+      "kanji": "業",
+      "gakunen": 3
+    },
+    {
+      "kanji": "曲",
+      "gakunen": 3
+    },
+    {
+      "kanji": "局",
+      "gakunen": 3
+    },
+    {
+      "kanji": "銀",
+      "gakunen": 3
+    },
+    {
+      "kanji": "区",
+      "gakunen": 3
+    },
+    {
+      "kanji": "苦",
+      "gakunen": 3
+    },
+    {
+      "kanji": "具",
+      "gakunen": 3
+    },
+    {
+      "kanji": "君",
+      "gakunen": 3
+    },
+    {
+      "kanji": "係",
+      "gakunen": 3
+    },
+    {
+      "kanji": "軽",
+      "gakunen": 3
+    },
+    {
+      "kanji": "血",
+      "gakunen": 3
+    },
+    {
+      "kanji": "決",
+      "gakunen": 3
+    },
+    {
+      "kanji": "研",
+      "gakunen": 3
+    },
+    {
+      "kanji": "県",
+      "gakunen": 3
+    },
+    {
+      "kanji": "庫",
+      "gakunen": 3
+    },
+    {
+      "kanji": "湖",
+      "gakunen": 3
+    },
+    {
+      "kanji": "向",
+      "gakunen": 3
+    },
+    {
+      "kanji": "幸",
+      "gakunen": 3
+    },
+    {
+      "kanji": "港",
+      "gakunen": 3
+    },
+    {
+      "kanji": "号",
+      "gakunen": 3
+    },
+    {
+      "kanji": "根",
+      "gakunen": 3
+    },
+    {
+      "kanji": "祭",
+      "gakunen": 3
+    },
+    {
+      "kanji": "皿",
+      "gakunen": 3
+    },
+    {
+      "kanji": "仕",
+      "gakunen": 3
+    },
+    {
+      "kanji": "死",
+      "gakunen": 3
+    },
+    {
+      "kanji": "使",
+      "gakunen": 3
+    },
+    {
+      "kanji": "始",
+      "gakunen": 3
+    },
+    {
+      "kanji": "指",
+      "gakunen": 3
+    },
+    {
+      "kanji": "歯",
+      "gakunen": 3
+    },
+    {
+      "kanji": "詩",
+      "gakunen": 3
+    },
+    {
+      "kanji": "次",
+      "gakunen": 3
+    },
+    {
+      "kanji": "事",
+      "gakunen": 3
+    },
+    {
+      "kanji": "持",
+      "gakunen": 3
+    },
+    {
+      "kanji": "式",
+      "gakunen": 3
+    },
+    {
+      "kanji": "実",
+      "gakunen": 3
+    },
+    {
+      "kanji": "写",
+      "gakunen": 3
+    },
+    {
+      "kanji": "者",
+      "gakunen": 3
+    },
+    {
+      "kanji": "主",
+      "gakunen": 3
+    },
+    {
+      "kanji": "守",
+      "gakunen": 3
+    },
+    {
+      "kanji": "取",
+      "gakunen": 3
+    },
+    {
+      "kanji": "酒",
+      "gakunen": 3
+    },
+    {
+      "kanji": "受",
+      "gakunen": 3
+    },
+    {
+      "kanji": "州",
+      "gakunen": 3
+    },
+    {
+      "kanji": "拾",
+      "gakunen": 3
+    },
+    {
+      "kanji": "終",
+      "gakunen": 3
+    },
+    {
+      "kanji": "習",
+      "gakunen": 3
+    },
+    {
+      "kanji": "集",
+      "gakunen": 3
+    },
+    {
+      "kanji": "住",
+      "gakunen": 3
+    },
+    {
+      "kanji": "重",
+      "gakunen": 3
+    },
+    {
+      "kanji": "宿",
+      "gakunen": 3
+    },
+    {
+      "kanji": "所",
+      "gakunen": 3
+    },
+    {
+      "kanji": "暑",
+      "gakunen": 3
+    },
+    {
+      "kanji": "助",
+      "gakunen": 3
+    },
+    {
+      "kanji": "昭",
+      "gakunen": 3
+    },
+    {
+      "kanji": "消",
+      "gakunen": 3
+    },
+    {
+      "kanji": "商",
+      "gakunen": 3
+    },
+    {
+      "kanji": "章",
+      "gakunen": 3
+    },
+    {
+      "kanji": "勝",
+      "gakunen": 3
+    },
+    {
+      "kanji": "乗",
+      "gakunen": 3
+    },
+    {
+      "kanji": "植",
+      "gakunen": 3
+    },
+    {
+      "kanji": "申",
+      "gakunen": 3
+    },
+    {
+      "kanji": "身",
+      "gakunen": 3
+    },
+    {
+      "kanji": "神",
+      "gakunen": 3
+    },
+    {
+      "kanji": "真",
+      "gakunen": 3
+    },
+    {
+      "kanji": "深",
+      "gakunen": 3
+    },
+    {
+      "kanji": "進",
+      "gakunen": 3
+    },
+    {
+      "kanji": "世",
+      "gakunen": 3
+    },
+    {
+      "kanji": "整",
+      "gakunen": 3
+    },
+    {
+      "kanji": "昔",
+      "gakunen": 3
+    },
+    {
+      "kanji": "全",
+      "gakunen": 3
+    },
+    {
+      "kanji": "相",
+      "gakunen": 3
+    },
+    {
+      "kanji": "送",
+      "gakunen": 3
+    },
+    {
+      "kanji": "想",
+      "gakunen": 3
+    },
+    {
+      "kanji": "息",
+      "gakunen": 3
+    },
+    {
+      "kanji": "速",
+      "gakunen": 3
+    },
+    {
+      "kanji": "族",
+      "gakunen": 3
+    },
+    {
+      "kanji": "他",
+      "gakunen": 3
+    },
+    {
+      "kanji": "打",
+      "gakunen": 3
+    },
+    {
+      "kanji": "対",
+      "gakunen": 3
+    },
+    {
+      "kanji": "待",
+      "gakunen": 3
+    },
+    {
+      "kanji": "代",
+      "gakunen": 3
+    },
+    {
+      "kanji": "第",
+      "gakunen": 3
+    },
+    {
+      "kanji": "題",
+      "gakunen": 3
+    },
+    {
+      "kanji": "炭",
+      "gakunen": 3
+    },
+    {
+      "kanji": "短",
+      "gakunen": 3
+    },
+    {
+      "kanji": "談",
+      "gakunen": 3
+    },
+    {
+      "kanji": "着",
+      "gakunen": 3
+    },
+    {
+      "kanji": "注",
+      "gakunen": 3
+    },
+    {
+      "kanji": "柱",
+      "gakunen": 3
+    },
+    {
+      "kanji": "丁",
+      "gakunen": 3
+    },
+    {
+      "kanji": "帳",
+      "gakunen": 3
+    },
+    {
+      "kanji": "調",
+      "gakunen": 3
+    },
+    {
+      "kanji": "追",
+      "gakunen": 3
+    },
+    {
+      "kanji": "定",
+      "gakunen": 3
+    },
+    {
+      "kanji": "庭",
+      "gakunen": 3
+    },
+    {
+      "kanji": "笛",
+      "gakunen": 3
+    },
+    {
+      "kanji": "鉄",
+      "gakunen": 3
+    },
+    {
+      "kanji": "転",
+      "gakunen": 3
+    },
+    {
+      "kanji": "都",
+      "gakunen": 3
+    },
+    {
+      "kanji": "度",
+      "gakunen": 3
+    },
+    {
+      "kanji": "投",
+      "gakunen": 3
+    },
+    {
+      "kanji": "豆",
+      "gakunen": 3
+    },
+    {
+      "kanji": "島",
+      "gakunen": 3
+    },
+    {
+      "kanji": "湯",
+      "gakunen": 3
+    },
+    {
+      "kanji": "登",
+      "gakunen": 3
+    },
+    {
+      "kanji": "等",
+      "gakunen": 3
+    },
+    {
+      "kanji": "動",
+      "gakunen": 3
+    },
+    {
+      "kanji": "童",
+      "gakunen": 3
+    },
+    {
+      "kanji": "農",
+      "gakunen": 3
+    },
+    {
+      "kanji": "波",
+      "gakunen": 3
+    },
+    {
+      "kanji": "配",
+      "gakunen": 3
+    },
+    {
+      "kanji": "倍",
+      "gakunen": 3
+    },
+    {
+      "kanji": "箱",
+      "gakunen": 3
+    },
+    {
+      "kanji": "畑",
+      "gakunen": 3
+    },
+    {
+      "kanji": "発",
+      "gakunen": 3
+    },
+    {
+      "kanji": "反",
+      "gakunen": 3
+    },
+    {
+      "kanji": "坂",
+      "gakunen": 3
+    },
+    {
+      "kanji": "板",
+      "gakunen": 3
+    },
+    {
+      "kanji": "皮",
+      "gakunen": 3
+    },
+    {
+      "kanji": "悲",
+      "gakunen": 3
+    },
+    {
+      "kanji": "美",
+      "gakunen": 3
+    },
+    {
+      "kanji": "鼻",
+      "gakunen": 3
+    },
+    {
+      "kanji": "筆",
+      "gakunen": 3
+    },
+    {
+      "kanji": "氷",
+      "gakunen": 3
+    },
+    {
+      "kanji": "表",
+      "gakunen": 3
+    },
+    {
+      "kanji": "秒",
+      "gakunen": 3
+    },
+    {
+      "kanji": "病",
+      "gakunen": 3
+    },
+    {
+      "kanji": "品",
+      "gakunen": 3
+    },
+    {
+      "kanji": "負",
+      "gakunen": 3
+    },
+    {
+      "kanji": "部",
+      "gakunen": 3
+    },
+    {
+      "kanji": "服",
+      "gakunen": 3
+    },
+    {
+      "kanji": "福",
+      "gakunen": 3
+    },
+    {
+      "kanji": "物",
+      "gakunen": 3
+    },
+    {
+      "kanji": "平",
+      "gakunen": 3
+    },
+    {
+      "kanji": "返",
+      "gakunen": 3
+    },
+    {
+      "kanji": "勉",
+      "gakunen": 3
+    },
+    {
+      "kanji": "放",
+      "gakunen": 3
+    },
+    {
+      "kanji": "味",
+      "gakunen": 3
+    },
+    {
+      "kanji": "命",
+      "gakunen": 3
+    },
+    {
+      "kanji": "面",
+      "gakunen": 3
+    },
+    {
+      "kanji": "問",
+      "gakunen": 3
+    },
+    {
+      "kanji": "役",
+      "gakunen": 3
+    },
+    {
+      "kanji": "薬",
+      "gakunen": 3
+    },
+    {
+      "kanji": "由",
+      "gakunen": 3
+    },
+    {
+      "kanji": "油",
+      "gakunen": 3
+    },
+    {
+      "kanji": "有",
+      "gakunen": 3
+    },
+    {
+      "kanji": "遊",
+      "gakunen": 3
+    },
+    {
+      "kanji": "予",
+      "gakunen": 3
+    },
+    {
+      "kanji": "羊",
+      "gakunen": 3
+    },
+    {
+      "kanji": "洋",
+      "gakunen": 3
+    },
+    {
+      "kanji": "葉",
+      "gakunen": 3
+    },
+    {
+      "kanji": "陽",
+      "gakunen": 3
+    },
+    {
+      "kanji": "様",
+      "gakunen": 3
+    },
+    {
+      "kanji": "落",
+      "gakunen": 3
+    },
+    {
+      "kanji": "流",
+      "gakunen": 3
+    },
+    {
+      "kanji": "旅",
+      "gakunen": 3
+    },
+    {
+      "kanji": "両",
+      "gakunen": 3
+    },
+    {
+      "kanji": "緑",
+      "gakunen": 3
+    },
+    {
+      "kanji": "礼",
+      "gakunen": 3
+    },
+    {
+      "kanji": "列",
+      "gakunen": 3
+    },
+    {
+      "kanji": "練",
+      "gakunen": 3
+    },
+    {
+      "kanji": "路",
+      "gakunen": 3
+    },
+    {
+      "kanji": "和",
+      "gakunen": 3
+    },
+    {
+      "kanji": "愛",
+      "gakunen": 4
+    },
+    {
+      "kanji": "案",
+      "gakunen": 4
+    },
+    {
+      "kanji": "以",
+      "gakunen": 4
+    },
+    {
+      "kanji": "衣",
+      "gakunen": 4
+    },
+    {
+      "kanji": "位",
+      "gakunen": 4
+    },
+    {
+      "kanji": "茨",
+      "gakunen": 4
+    },
+    {
+      "kanji": "印",
+      "gakunen": 4
+    },
+    {
+      "kanji": "英",
+      "gakunen": 4
+    },
+    {
+      "kanji": "栄",
+      "gakunen": 4
+    },
+    {
+      "kanji": "媛",
+      "gakunen": 4
+    },
+    {
+      "kanji": "塩",
+      "gakunen": 4
+    },
+    {
+      "kanji": "岡",
+      "gakunen": 4
+    },
+    {
+      "kanji": "億",
+      "gakunen": 4
+    },
+    {
+      "kanji": "加",
+      "gakunen": 4
+    },
+    {
+      "kanji": "果",
+      "gakunen": 4
+    },
+    {
+      "kanji": "貨",
+      "gakunen": 4
+    },
+    {
+      "kanji": "課",
+      "gakunen": 4
+    },
+    {
+      "kanji": "芽",
+      "gakunen": 4
+    },
+    {
+      "kanji": "賀",
+      "gakunen": 4
+    },
+    {
+      "kanji": "改",
+      "gakunen": 4
+    },
+    {
+      "kanji": "械",
+      "gakunen": 4
+    },
+    {
+      "kanji": "害",
+      "gakunen": 4
+    },
+    {
+      "kanji": "街",
+      "gakunen": 4
+    },
+    {
+      "kanji": "各",
+      "gakunen": 4
+    },
+    {
+      "kanji": "覚",
+      "gakunen": 4
+    },
+    {
+      "kanji": "潟",
+      "gakunen": 4
+    },
+    {
+      "kanji": "完",
+      "gakunen": 4
+    },
+    {
+      "kanji": "官",
+      "gakunen": 4
+    },
+    {
+      "kanji": "管",
+      "gakunen": 4
+    },
+    {
+      "kanji": "関",
+      "gakunen": 4
+    },
+    {
+      "kanji": "観",
+      "gakunen": 4
+    },
+    {
+      "kanji": "願",
+      "gakunen": 4
+    },
+    {
+      "kanji": "岐",
+      "gakunen": 4
+    },
+    {
+      "kanji": "希",
+      "gakunen": 4
+    },
+    {
+      "kanji": "季",
+      "gakunen": 4
+    },
+    {
+      "kanji": "旗",
+      "gakunen": 4
+    },
+    {
+      "kanji": "器",
+      "gakunen": 4
+    },
+    {
+      "kanji": "機",
+      "gakunen": 4
+    },
+    {
+      "kanji": "議",
+      "gakunen": 4
+    },
+    {
+      "kanji": "求",
+      "gakunen": 4
+    },
+    {
+      "kanji": "泣",
+      "gakunen": 4
+    },
+    {
+      "kanji": "給",
+      "gakunen": 4
+    },
+    {
+      "kanji": "挙",
+      "gakunen": 4
+    },
+    {
+      "kanji": "漁",
+      "gakunen": 4
+    },
+    {
+      "kanji": "共",
+      "gakunen": 4
+    },
+    {
+      "kanji": "協",
+      "gakunen": 4
+    },
+    {
+      "kanji": "鏡",
+      "gakunen": 4
+    },
+    {
+      "kanji": "競",
+      "gakunen": 4
+    },
+    {
+      "kanji": "極",
+      "gakunen": 4
+    },
+    {
+      "kanji": "熊",
+      "gakunen": 4
+    },
+    {
+      "kanji": "訓",
+      "gakunen": 4
+    },
+    {
+      "kanji": "軍",
+      "gakunen": 4
+    },
+    {
+      "kanji": "郡",
+      "gakunen": 4
+    },
+    {
+      "kanji": "群",
+      "gakunen": 4
+    },
+    {
+      "kanji": "径",
+      "gakunen": 4
+    },
+    {
+      "kanji": "景",
+      "gakunen": 4
+    },
+    {
+      "kanji": "芸",
+      "gakunen": 4
+    },
+    {
+      "kanji": "欠",
+      "gakunen": 4
+    },
+    {
+      "kanji": "結",
+      "gakunen": 4
+    },
+    {
+      "kanji": "建",
+      "gakunen": 4
+    },
+    {
+      "kanji": "健",
+      "gakunen": 4
+    },
+    {
+      "kanji": "験",
+      "gakunen": 4
+    },
+    {
+      "kanji": "固",
+      "gakunen": 4
+    },
+    {
+      "kanji": "功",
+      "gakunen": 4
+    },
+    {
+      "kanji": "好",
+      "gakunen": 4
+    },
+    {
+      "kanji": "香",
+      "gakunen": 4
+    },
+    {
+      "kanji": "候",
+      "gakunen": 4
+    },
+    {
+      "kanji": "康",
+      "gakunen": 4
+    },
+    {
+      "kanji": "佐",
+      "gakunen": 4
+    },
+    {
+      "kanji": "差",
+      "gakunen": 4
+    },
+    {
+      "kanji": "菜",
+      "gakunen": 4
+    },
+    {
+      "kanji": "最",
+      "gakunen": 4
+    },
+    {
+      "kanji": "埼",
+      "gakunen": 4
+    },
+    {
+      "kanji": "材",
+      "gakunen": 4
+    },
+    {
+      "kanji": "崎",
+      "gakunen": 4
+    },
+    {
+      "kanji": "昨",
+      "gakunen": 4
+    },
+    {
+      "kanji": "札",
+      "gakunen": 4
+    },
+    {
+      "kanji": "刷",
+      "gakunen": 4
+    },
+    {
+      "kanji": "察",
+      "gakunen": 4
+    },
+    {
+      "kanji": "参",
+      "gakunen": 4
+    },
+    {
+      "kanji": "産",
+      "gakunen": 4
+    },
+    {
+      "kanji": "散",
+      "gakunen": 4
+    },
+    {
+      "kanji": "残",
+      "gakunen": 4
+    },
+    {
+      "kanji": "氏",
+      "gakunen": 4
+    },
+    {
+      "kanji": "司",
+      "gakunen": 4
+    },
+    {
+      "kanji": "試",
+      "gakunen": 4
+    },
+    {
+      "kanji": "児",
+      "gakunen": 4
+    },
+    {
+      "kanji": "治",
+      "gakunen": 4
+    },
+    {
+      "kanji": "滋",
+      "gakunen": 4
+    },
+    {
+      "kanji": "辞",
+      "gakunen": 4
+    },
+    {
+      "kanji": "鹿",
+      "gakunen": 4
+    },
+    {
+      "kanji": "失",
+      "gakunen": 4
+    },
+    {
+      "kanji": "借",
+      "gakunen": 4
+    },
+    {
+      "kanji": "種",
+      "gakunen": 4
+    },
+    {
+      "kanji": "周",
+      "gakunen": 4
+    },
+    {
+      "kanji": "祝",
+      "gakunen": 4
+    },
+    {
+      "kanji": "順",
+      "gakunen": 4
+    },
+    {
+      "kanji": "初",
+      "gakunen": 4
+    },
+    {
+      "kanji": "松",
+      "gakunen": 4
+    },
+    {
+      "kanji": "笑",
+      "gakunen": 4
+    },
+    {
+      "kanji": "唱",
+      "gakunen": 4
+    },
+    {
+      "kanji": "焼",
+      "gakunen": 4
+    },
+    {
+      "kanji": "照",
+      "gakunen": 4
+    },
+    {
+      "kanji": "城",
+      "gakunen": 4
+    },
+    {
+      "kanji": "縄",
+      "gakunen": 4
+    },
+    {
+      "kanji": "臣",
+      "gakunen": 4
+    },
+    {
+      "kanji": "信",
+      "gakunen": 4
+    },
+    {
+      "kanji": "井",
+      "gakunen": 4
+    },
+    {
+      "kanji": "成",
+      "gakunen": 4
+    },
+    {
+      "kanji": "省",
+      "gakunen": 4
+    },
+    {
+      "kanji": "清",
+      "gakunen": 4
+    },
+    {
+      "kanji": "静",
+      "gakunen": 4
+    },
+    {
+      "kanji": "席",
+      "gakunen": 4
+    },
+    {
+      "kanji": "積",
+      "gakunen": 4
+    },
+    {
+      "kanji": "折",
+      "gakunen": 4
+    },
+    {
+      "kanji": "節",
+      "gakunen": 4
+    },
+    {
+      "kanji": "説",
+      "gakunen": 4
+    },
+    {
+      "kanji": "浅",
+      "gakunen": 4
+    },
+    {
+      "kanji": "戦",
+      "gakunen": 4
+    },
+    {
+      "kanji": "選",
+      "gakunen": 4
+    },
+    {
+      "kanji": "然",
+      "gakunen": 4
+    },
+    {
+      "kanji": "争",
+      "gakunen": 4
+    },
+    {
+      "kanji": "倉",
+      "gakunen": 4
+    },
+    {
+      "kanji": "巣",
+      "gakunen": 4
+    },
+    {
+      "kanji": "束",
+      "gakunen": 4
+    },
+    {
+      "kanji": "側",
+      "gakunen": 4
+    },
+    {
+      "kanji": "続",
+      "gakunen": 4
+    },
+    {
+      "kanji": "卒",
+      "gakunen": 4
+    },
+    {
+      "kanji": "孫",
+      "gakunen": 4
+    },
+    {
+      "kanji": "帯",
+      "gakunen": 4
+    },
+    {
+      "kanji": "隊",
+      "gakunen": 4
+    },
+    {
+      "kanji": "達",
+      "gakunen": 4
+    },
+    {
+      "kanji": "単",
+      "gakunen": 4
+    },
+    {
+      "kanji": "置",
+      "gakunen": 4
+    },
+    {
+      "kanji": "仲",
+      "gakunen": 4
+    },
+    {
+      "kanji": "沖",
+      "gakunen": 4
+    },
+    {
+      "kanji": "兆",
+      "gakunen": 4
+    },
+    {
+      "kanji": "低",
+      "gakunen": 4
+    },
+    {
+      "kanji": "底",
+      "gakunen": 4
+    },
+    {
+      "kanji": "的",
+      "gakunen": 4
+    },
+    {
+      "kanji": "典",
+      "gakunen": 4
+    },
+    {
+      "kanji": "伝",
+      "gakunen": 4
+    },
+    {
+      "kanji": "徒",
+      "gakunen": 4
+    },
+    {
+      "kanji": "努",
+      "gakunen": 4
+    },
+    {
+      "kanji": "灯",
+      "gakunen": 4
+    },
+    {
+      "kanji": "働",
+      "gakunen": 4
+    },
+    {
+      "kanji": "特",
+      "gakunen": 4
+    },
+    {
+      "kanji": "徳",
+      "gakunen": 4
+    },
+    {
+      "kanji": "栃",
+      "gakunen": 4
+    },
+    {
+      "kanji": "奈",
+      "gakunen": 4
+    },
+    {
+      "kanji": "梨",
+      "gakunen": 4
+    },
+    {
+      "kanji": "熱",
+      "gakunen": 4
+    },
+    {
+      "kanji": "念",
+      "gakunen": 4
+    },
+    {
+      "kanji": "敗",
+      "gakunen": 4
+    },
+    {
+      "kanji": "梅",
+      "gakunen": 4
+    },
+    {
+      "kanji": "博",
+      "gakunen": 4
+    },
+    {
+      "kanji": "阪",
+      "gakunen": 4
+    },
+    {
+      "kanji": "飯",
+      "gakunen": 4
+    },
+    {
+      "kanji": "飛",
+      "gakunen": 4
+    },
+    {
+      "kanji": "必",
+      "gakunen": 4
+    },
+    {
+      "kanji": "票",
+      "gakunen": 4
+    },
+    {
+      "kanji": "標",
+      "gakunen": 4
+    },
+    {
+      "kanji": "不",
+      "gakunen": 4
+    },
+    {
+      "kanji": "夫",
+      "gakunen": 4
+    },
+    {
+      "kanji": "付",
+      "gakunen": 4
+    },
+    {
+      "kanji": "府",
+      "gakunen": 4
+    },
+    {
+      "kanji": "阜",
+      "gakunen": 4
+    },
+    {
+      "kanji": "富",
+      "gakunen": 4
+    },
+    {
+      "kanji": "副",
+      "gakunen": 4
+    },
+    {
+      "kanji": "兵",
+      "gakunen": 4
+    },
+    {
+      "kanji": "別",
+      "gakunen": 4
+    },
+    {
+      "kanji": "辺",
+      "gakunen": 4
+    },
+    {
+      "kanji": "変",
+      "gakunen": 4
+    },
+    {
+      "kanji": "便",
+      "gakunen": 4
+    },
+    {
+      "kanji": "包",
+      "gakunen": 4
+    },
+    {
+      "kanji": "法",
+      "gakunen": 4
+    },
+    {
+      "kanji": "望",
+      "gakunen": 4
+    },
+    {
+      "kanji": "牧",
+      "gakunen": 4
+    },
+    {
+      "kanji": "末",
+      "gakunen": 4
+    },
+    {
+      "kanji": "満",
+      "gakunen": 4
+    },
+    {
+      "kanji": "未",
+      "gakunen": 4
+    },
+    {
+      "kanji": "民",
+      "gakunen": 4
+    },
+    {
+      "kanji": "無",
+      "gakunen": 4
+    },
+    {
+      "kanji": "約",
+      "gakunen": 4
+    },
+    {
+      "kanji": "勇",
+      "gakunen": 4
+    },
+    {
+      "kanji": "要",
+      "gakunen": 4
+    },
+    {
+      "kanji": "養",
+      "gakunen": 4
+    },
+    {
+      "kanji": "浴",
+      "gakunen": 4
+    },
+    {
+      "kanji": "利",
+      "gakunen": 4
+    },
+    {
+      "kanji": "陸",
+      "gakunen": 4
+    },
+    {
+      "kanji": "良",
+      "gakunen": 4
+    },
+    {
+      "kanji": "料",
+      "gakunen": 4
+    },
+    {
+      "kanji": "量",
+      "gakunen": 4
+    },
+    {
+      "kanji": "輪",
+      "gakunen": 4
+    },
+    {
+      "kanji": "類",
+      "gakunen": 4
+    },
+    {
+      "kanji": "令",
+      "gakunen": 4
+    },
+    {
+      "kanji": "冷",
+      "gakunen": 4
+    },
+    {
+      "kanji": "例",
+      "gakunen": 4
+    },
+    {
+      "kanji": "連",
+      "gakunen": 4
+    },
+    {
+      "kanji": "老",
+      "gakunen": 4
+    },
+    {
+      "kanji": "労",
+      "gakunen": 4
+    },
+    {
+      "kanji": "録",
+      "gakunen": 4
+    },
+    {
+      "kanji": "圧",
+      "gakunen": 5
+    },
+    {
+      "kanji": "囲",
+      "gakunen": 5
+    },
+    {
+      "kanji": "移",
+      "gakunen": 5
+    },
+    {
+      "kanji": "因",
+      "gakunen": 5
+    },
+    {
+      "kanji": "永",
+      "gakunen": 5
+    },
+    {
+      "kanji": "営",
+      "gakunen": 5
+    },
+    {
+      "kanji": "衛",
+      "gakunen": 5
+    },
+    {
+      "kanji": "易",
+      "gakunen": 5
+    },
+    {
+      "kanji": "益",
+      "gakunen": 5
+    },
+    {
+      "kanji": "液",
+      "gakunen": 5
+    },
+    {
+      "kanji": "演",
+      "gakunen": 5
+    },
+    {
+      "kanji": "応",
+      "gakunen": 5
+    },
+    {
+      "kanji": "往",
+      "gakunen": 5
+    },
+    {
+      "kanji": "桜",
+      "gakunen": 5
+    },
+    {
+      "kanji": "可",
+      "gakunen": 5
+    },
+    {
+      "kanji": "仮",
+      "gakunen": 5
+    },
+    {
+      "kanji": "価",
+      "gakunen": 5
+    },
+    {
+      "kanji": "河",
+      "gakunen": 5
+    },
+    {
+      "kanji": "過",
+      "gakunen": 5
+    },
+    {
+      "kanji": "快",
+      "gakunen": 5
+    },
+    {
+      "kanji": "解",
+      "gakunen": 5
+    },
+    {
+      "kanji": "格",
+      "gakunen": 5
+    },
+    {
+      "kanji": "確",
+      "gakunen": 5
+    },
+    {
+      "kanji": "額",
+      "gakunen": 5
+    },
+    {
+      "kanji": "刊",
+      "gakunen": 5
+    },
+    {
+      "kanji": "幹",
+      "gakunen": 5
+    },
+    {
+      "kanji": "慣",
+      "gakunen": 5
+    },
+    {
+      "kanji": "眼",
+      "gakunen": 5
+    },
+    {
+      "kanji": "紀",
+      "gakunen": 5
+    },
+    {
+      "kanji": "基",
+      "gakunen": 5
+    },
+    {
+      "kanji": "寄",
+      "gakunen": 5
+    },
+    {
+      "kanji": "規",
+      "gakunen": 5
+    },
+    {
+      "kanji": "喜",
+      "gakunen": 5
+    },
+    {
+      "kanji": "技",
+      "gakunen": 5
+    },
+    {
+      "kanji": "義",
+      "gakunen": 5
+    },
+    {
+      "kanji": "逆",
+      "gakunen": 5
+    },
+    {
+      "kanji": "久",
+      "gakunen": 5
+    },
+    {
+      "kanji": "旧",
+      "gakunen": 5
+    },
+    {
+      "kanji": "救",
+      "gakunen": 5
+    },
+    {
+      "kanji": "居",
+      "gakunen": 5
+    },
+    {
+      "kanji": "許",
+      "gakunen": 5
+    },
+    {
+      "kanji": "境",
+      "gakunen": 5
+    },
+    {
+      "kanji": "均",
+      "gakunen": 5
+    },
+    {
+      "kanji": "禁",
+      "gakunen": 5
+    },
+    {
+      "kanji": "句",
+      "gakunen": 5
+    },
+    {
+      "kanji": "型",
+      "gakunen": 5
+    },
+    {
+      "kanji": "経",
+      "gakunen": 5
+    },
+    {
+      "kanji": "潔",
+      "gakunen": 5
+    },
+    {
+      "kanji": "件",
+      "gakunen": 5
+    },
+    {
+      "kanji": "険",
+      "gakunen": 5
+    },
+    {
+      "kanji": "検",
+      "gakunen": 5
+    },
+    {
+      "kanji": "限",
+      "gakunen": 5
+    },
+    {
+      "kanji": "現",
+      "gakunen": 5
+    },
+    {
+      "kanji": "減",
+      "gakunen": 5
+    },
+    {
+      "kanji": "故",
+      "gakunen": 5
+    },
+    {
+      "kanji": "個",
+      "gakunen": 5
+    },
+    {
+      "kanji": "護",
+      "gakunen": 5
+    },
+    {
+      "kanji": "効",
+      "gakunen": 5
+    },
+    {
+      "kanji": "厚",
+      "gakunen": 5
+    },
+    {
+      "kanji": "耕",
+      "gakunen": 5
+    },
+    {
+      "kanji": "航",
+      "gakunen": 5
+    },
+    {
+      "kanji": "鉱",
+      "gakunen": 5
+    },
+    {
+      "kanji": "構",
+      "gakunen": 5
+    },
+    {
+      "kanji": "興",
+      "gakunen": 5
+    },
+    {
+      "kanji": "講",
+      "gakunen": 5
+    },
+    {
+      "kanji": "告",
+      "gakunen": 5
+    },
+    {
+      "kanji": "混",
+      "gakunen": 5
+    },
+    {
+      "kanji": "査",
+      "gakunen": 5
+    },
+    {
+      "kanji": "再",
+      "gakunen": 5
+    },
+    {
+      "kanji": "災",
+      "gakunen": 5
+    },
+    {
+      "kanji": "妻",
+      "gakunen": 5
+    },
+    {
+      "kanji": "採",
+      "gakunen": 5
+    },
+    {
+      "kanji": "際",
+      "gakunen": 5
+    },
+    {
+      "kanji": "在",
+      "gakunen": 5
+    },
+    {
+      "kanji": "財",
+      "gakunen": 5
+    },
+    {
+      "kanji": "罪",
+      "gakunen": 5
+    },
+    {
+      "kanji": "殺",
+      "gakunen": 5
+    },
+    {
+      "kanji": "雑",
+      "gakunen": 5
+    },
+    {
+      "kanji": "酸",
+      "gakunen": 5
+    },
+    {
+      "kanji": "賛",
+      "gakunen": 5
+    },
+    {
+      "kanji": "士",
+      "gakunen": 5
+    },
+    {
+      "kanji": "支",
+      "gakunen": 5
+    },
+    {
+      "kanji": "史",
+      "gakunen": 5
+    },
+    {
+      "kanji": "志",
+      "gakunen": 5
+    },
+    {
+      "kanji": "枝",
+      "gakunen": 5
+    },
+    {
+      "kanji": "師",
+      "gakunen": 5
+    },
+    {
+      "kanji": "資",
+      "gakunen": 5
+    },
+    {
+      "kanji": "飼",
+      "gakunen": 5
+    },
+    {
+      "kanji": "示",
+      "gakunen": 5
+    },
+    {
+      "kanji": "似",
+      "gakunen": 5
+    },
+    {
+      "kanji": "識",
+      "gakunen": 5
+    },
+    {
+      "kanji": "質",
+      "gakunen": 5
+    },
+    {
+      "kanji": "舎",
+      "gakunen": 5
+    },
+    {
+      "kanji": "謝",
+      "gakunen": 5
+    },
+    {
+      "kanji": "授",
+      "gakunen": 5
+    },
+    {
+      "kanji": "修",
+      "gakunen": 5
+    },
+    {
+      "kanji": "述",
+      "gakunen": 5
+    },
+    {
+      "kanji": "術",
+      "gakunen": 5
+    },
+    {
+      "kanji": "準",
+      "gakunen": 5
+    },
+    {
+      "kanji": "序",
+      "gakunen": 5
+    },
+    {
+      "kanji": "招",
+      "gakunen": 5
+    },
+    {
+      "kanji": "証",
+      "gakunen": 5
+    },
+    {
+      "kanji": "象",
+      "gakunen": 5
+    },
+    {
+      "kanji": "賞",
+      "gakunen": 5
+    },
+    {
+      "kanji": "条",
+      "gakunen": 5
+    },
+    {
+      "kanji": "状",
+      "gakunen": 5
+    },
+    {
+      "kanji": "常",
+      "gakunen": 5
+    },
+    {
+      "kanji": "情",
+      "gakunen": 5
+    },
+    {
+      "kanji": "織",
+      "gakunen": 5
+    },
+    {
+      "kanji": "職",
+      "gakunen": 5
+    },
+    {
+      "kanji": "制",
+      "gakunen": 5
+    },
+    {
+      "kanji": "性",
+      "gakunen": 5
+    },
+    {
+      "kanji": "政",
+      "gakunen": 5
+    },
+    {
+      "kanji": "勢",
+      "gakunen": 5
+    },
+    {
+      "kanji": "精",
+      "gakunen": 5
+    },
+    {
+      "kanji": "製",
+      "gakunen": 5
+    },
+    {
+      "kanji": "税",
+      "gakunen": 5
+    },
+    {
+      "kanji": "責",
+      "gakunen": 5
+    },
+    {
+      "kanji": "績",
+      "gakunen": 5
+    },
+    {
+      "kanji": "接",
+      "gakunen": 5
+    },
+    {
+      "kanji": "設",
+      "gakunen": 5
+    },
+    {
+      "kanji": "絶",
+      "gakunen": 5
+    },
+    {
+      "kanji": "祖",
+      "gakunen": 5
+    },
+    {
+      "kanji": "素",
+      "gakunen": 5
+    },
+    {
+      "kanji": "総",
+      "gakunen": 5
+    },
+    {
+      "kanji": "造",
+      "gakunen": 5
+    },
+    {
+      "kanji": "像",
+      "gakunen": 5
+    },
+    {
+      "kanji": "増",
+      "gakunen": 5
+    },
+    {
+      "kanji": "則",
+      "gakunen": 5
+    },
+    {
+      "kanji": "測",
+      "gakunen": 5
+    },
+    {
+      "kanji": "属",
+      "gakunen": 5
+    },
+    {
+      "kanji": "率",
+      "gakunen": 5
+    },
+    {
+      "kanji": "損",
+      "gakunen": 5
+    },
+    {
+      "kanji": "貸",
+      "gakunen": 5
+    },
+    {
+      "kanji": "態",
+      "gakunen": 5
+    },
+    {
+      "kanji": "団",
+      "gakunen": 5
+    },
+    {
+      "kanji": "断",
+      "gakunen": 5
+    },
+    {
+      "kanji": "築",
+      "gakunen": 5
+    },
+    {
+      "kanji": "貯",
+      "gakunen": 5
+    },
+    {
+      "kanji": "張",
+      "gakunen": 5
+    },
+    {
+      "kanji": "停",
+      "gakunen": 5
+    },
+    {
+      "kanji": "提",
+      "gakunen": 5
+    },
+    {
+      "kanji": "程",
+      "gakunen": 5
+    },
+    {
+      "kanji": "適",
+      "gakunen": 5
+    },
+    {
+      "kanji": "統",
+      "gakunen": 5
+    },
+    {
+      "kanji": "堂",
+      "gakunen": 5
+    },
+    {
+      "kanji": "銅",
+      "gakunen": 5
+    },
+    {
+      "kanji": "導",
+      "gakunen": 5
+    },
+    {
+      "kanji": "得",
+      "gakunen": 5
+    },
+    {
+      "kanji": "毒",
+      "gakunen": 5
+    },
+    {
+      "kanji": "独",
+      "gakunen": 5
+    },
+    {
+      "kanji": "任",
+      "gakunen": 5
+    },
+    {
+      "kanji": "燃",
+      "gakunen": 5
+    },
+    {
+      "kanji": "能",
+      "gakunen": 5
+    },
+    {
+      "kanji": "破",
+      "gakunen": 5
+    },
+    {
+      "kanji": "犯",
+      "gakunen": 5
+    },
+    {
+      "kanji": "判",
+      "gakunen": 5
+    },
+    {
+      "kanji": "版",
+      "gakunen": 5
+    },
+    {
+      "kanji": "比",
+      "gakunen": 5
+    },
+    {
+      "kanji": "肥",
+      "gakunen": 5
+    },
+    {
+      "kanji": "非",
+      "gakunen": 5
+    },
+    {
+      "kanji": "費",
+      "gakunen": 5
+    },
+    {
+      "kanji": "備",
+      "gakunen": 5
+    },
+    {
+      "kanji": "評",
+      "gakunen": 5
+    },
+    {
+      "kanji": "貧",
+      "gakunen": 5
+    },
+    {
+      "kanji": "布",
+      "gakunen": 5
+    },
+    {
+      "kanji": "婦",
+      "gakunen": 5
+    },
+    {
+      "kanji": "武",
+      "gakunen": 5
+    },
+    {
+      "kanji": "復",
+      "gakunen": 5
+    },
+    {
+      "kanji": "複",
+      "gakunen": 5
+    },
+    {
+      "kanji": "仏",
+      "gakunen": 5
+    },
+    {
+      "kanji": "粉",
+      "gakunen": 5
+    },
+    {
+      "kanji": "編",
+      "gakunen": 5
+    },
+    {
+      "kanji": "弁",
+      "gakunen": 5
+    },
+    {
+      "kanji": "保",
+      "gakunen": 5
+    },
+    {
+      "kanji": "墓",
+      "gakunen": 5
+    },
+    {
+      "kanji": "報",
+      "gakunen": 5
+    },
+    {
+      "kanji": "豊",
+      "gakunen": 5
+    },
+    {
+      "kanji": "防",
+      "gakunen": 5
+    },
+    {
+      "kanji": "貿",
+      "gakunen": 5
+    },
+    {
+      "kanji": "暴",
+      "gakunen": 5
+    },
+    {
+      "kanji": "脈",
+      "gakunen": 5
+    },
+    {
+      "kanji": "務",
+      "gakunen": 5
+    },
+    {
+      "kanji": "夢",
+      "gakunen": 5
+    },
+    {
+      "kanji": "迷",
+      "gakunen": 5
+    },
+    {
+      "kanji": "綿",
+      "gakunen": 5
+    },
+    {
+      "kanji": "輸",
+      "gakunen": 5
+    },
+    {
+      "kanji": "余",
+      "gakunen": 5
+    },
+    {
+      "kanji": "容",
+      "gakunen": 5
+    },
+    {
+      "kanji": "略",
+      "gakunen": 5
+    },
+    {
+      "kanji": "留",
+      "gakunen": 5
+    },
+    {
+      "kanji": "領",
+      "gakunen": 5
+    },
+    {
+      "kanji": "歴",
+      "gakunen": 5
+    },
+    {
+      "kanji": "胃",
+      "gakunen": 6
+    },
+    {
+      "kanji": "異",
+      "gakunen": 6
+    },
+    {
+      "kanji": "遺",
+      "gakunen": 6
+    },
+    {
+      "kanji": "域",
+      "gakunen": 6
+    },
+    {
+      "kanji": "宇",
+      "gakunen": 6
+    },
+    {
+      "kanji": "映",
+      "gakunen": 6
+    },
+    {
+      "kanji": "延",
+      "gakunen": 6
+    },
+    {
+      "kanji": "沿",
+      "gakunen": 6
+    },
+    {
+      "kanji": "恩",
+      "gakunen": 6
+    },
+    {
+      "kanji": "我",
+      "gakunen": 6
+    },
+    {
+      "kanji": "灰",
+      "gakunen": 6
+    },
+    {
+      "kanji": "拡",
+      "gakunen": 6
+    },
+    {
+      "kanji": "革",
+      "gakunen": 6
+    },
+    {
+      "kanji": "閣",
+      "gakunen": 6
+    },
+    {
+      "kanji": "割",
+      "gakunen": 6
+    },
+    {
+      "kanji": "株",
+      "gakunen": 6
+    },
+    {
+      "kanji": "干",
+      "gakunen": 6
+    },
+    {
+      "kanji": "巻",
+      "gakunen": 6
+    },
+    {
+      "kanji": "看",
+      "gakunen": 6
+    },
+    {
+      "kanji": "簡",
+      "gakunen": 6
+    },
+    {
+      "kanji": "危",
+      "gakunen": 6
+    },
+    {
+      "kanji": "机",
+      "gakunen": 6
+    },
+    {
+      "kanji": "揮",
+      "gakunen": 6
+    },
+    {
+      "kanji": "貴",
+      "gakunen": 6
+    },
+    {
+      "kanji": "疑",
+      "gakunen": 6
+    },
+    {
+      "kanji": "吸",
+      "gakunen": 6
+    },
+    {
+      "kanji": "供",
+      "gakunen": 6
+    },
+    {
+      "kanji": "胸",
+      "gakunen": 6
+    },
+    {
+      "kanji": "郷",
+      "gakunen": 6
+    },
+    {
+      "kanji": "勤",
+      "gakunen": 6
+    },
+    {
+      "kanji": "筋",
+      "gakunen": 6
+    },
+    {
+      "kanji": "系",
+      "gakunen": 6
+    },
+    {
+      "kanji": "敬",
+      "gakunen": 6
+    },
+    {
+      "kanji": "警",
+      "gakunen": 6
+    },
+    {
+      "kanji": "劇",
+      "gakunen": 6
+    },
+    {
+      "kanji": "激",
+      "gakunen": 6
+    },
+    {
+      "kanji": "穴",
+      "gakunen": 6
+    },
+    {
+      "kanji": "券",
+      "gakunen": 6
+    },
+    {
+      "kanji": "絹",
+      "gakunen": 6
+    },
+    {
+      "kanji": "権",
+      "gakunen": 6
+    },
+    {
+      "kanji": "憲",
+      "gakunen": 6
+    },
+    {
+      "kanji": "源",
+      "gakunen": 6
+    },
+    {
+      "kanji": "厳",
+      "gakunen": 6
+    },
+    {
+      "kanji": "己",
+      "gakunen": 6
+    },
+    {
+      "kanji": "呼",
+      "gakunen": 6
+    },
+    {
+      "kanji": "誤",
+      "gakunen": 6
+    },
+    {
+      "kanji": "后",
+      "gakunen": 6
+    },
+    {
+      "kanji": "孝",
+      "gakunen": 6
+    },
+    {
+      "kanji": "皇",
+      "gakunen": 6
+    },
+    {
+      "kanji": "紅",
+      "gakunen": 6
+    },
+    {
+      "kanji": "降",
+      "gakunen": 6
+    },
+    {
+      "kanji": "鋼",
+      "gakunen": 6
+    },
+    {
+      "kanji": "刻",
+      "gakunen": 6
+    },
+    {
+      "kanji": "穀",
+      "gakunen": 6
+    },
+    {
+      "kanji": "骨",
+      "gakunen": 6
+    },
+    {
+      "kanji": "困",
+      "gakunen": 6
+    },
+    {
+      "kanji": "砂",
+      "gakunen": 6
+    },
+    {
+      "kanji": "座",
+      "gakunen": 6
+    },
+    {
+      "kanji": "済",
+      "gakunen": 6
+    },
+    {
+      "kanji": "裁",
+      "gakunen": 6
+    },
+    {
+      "kanji": "策",
+      "gakunen": 6
+    },
+    {
+      "kanji": "冊",
+      "gakunen": 6
+    },
+    {
+      "kanji": "蚕",
+      "gakunen": 6
+    },
+    {
+      "kanji": "至",
+      "gakunen": 6
+    },
+    {
+      "kanji": "私",
+      "gakunen": 6
+    },
+    {
+      "kanji": "姿",
+      "gakunen": 6
+    },
+    {
+      "kanji": "視",
+      "gakunen": 6
+    },
+    {
+      "kanji": "詞",
+      "gakunen": 6
+    },
+    {
+      "kanji": "誌",
+      "gakunen": 6
+    },
+    {
+      "kanji": "磁",
+      "gakunen": 6
+    },
+    {
+      "kanji": "射",
+      "gakunen": 6
+    },
+    {
+      "kanji": "捨",
+      "gakunen": 6
+    },
+    {
+      "kanji": "尺",
+      "gakunen": 6
+    },
+    {
+      "kanji": "若",
+      "gakunen": 6
+    },
+    {
+      "kanji": "樹",
+      "gakunen": 6
+    },
+    {
+      "kanji": "収",
+      "gakunen": 6
+    },
+    {
+      "kanji": "宗",
+      "gakunen": 6
+    },
+    {
+      "kanji": "就",
+      "gakunen": 6
+    },
+    {
+      "kanji": "衆",
+      "gakunen": 6
+    },
+    {
+      "kanji": "従",
+      "gakunen": 6
+    },
+    {
+      "kanji": "縦",
+      "gakunen": 6
+    },
+    {
+      "kanji": "縮",
+      "gakunen": 6
+    },
+    {
+      "kanji": "熟",
+      "gakunen": 6
+    },
+    {
+      "kanji": "純",
+      "gakunen": 6
+    },
+    {
+      "kanji": "処",
+      "gakunen": 6
+    },
+    {
+      "kanji": "署",
+      "gakunen": 6
+    },
+    {
+      "kanji": "諸",
+      "gakunen": 6
+    },
+    {
+      "kanji": "除",
+      "gakunen": 6
+    },
+    {
+      "kanji": "承",
+      "gakunen": 6
+    },
+    {
+      "kanji": "将",
+      "gakunen": 6
+    },
+    {
+      "kanji": "傷",
+      "gakunen": 6
+    },
+    {
+      "kanji": "障",
+      "gakunen": 6
+    },
+    {
+      "kanji": "蒸",
+      "gakunen": 6
+    },
+    {
+      "kanji": "針",
+      "gakunen": 6
+    },
+    {
+      "kanji": "仁",
+      "gakunen": 6
+    },
+    {
+      "kanji": "垂",
+      "gakunen": 6
+    },
+    {
+      "kanji": "推",
+      "gakunen": 6
+    },
+    {
+      "kanji": "寸",
+      "gakunen": 6
+    },
+    {
+      "kanji": "盛",
+      "gakunen": 6
+    },
+    {
+      "kanji": "聖",
+      "gakunen": 6
+    },
+    {
+      "kanji": "誠",
+      "gakunen": 6
+    },
+    {
+      "kanji": "舌",
+      "gakunen": 6
+    },
+    {
+      "kanji": "宣",
+      "gakunen": 6
+    },
+    {
+      "kanji": "専",
+      "gakunen": 6
+    },
+    {
+      "kanji": "泉",
+      "gakunen": 6
+    },
+    {
+      "kanji": "洗",
+      "gakunen": 6
+    },
+    {
+      "kanji": "染",
+      "gakunen": 6
+    },
+    {
+      "kanji": "銭",
+      "gakunen": 6
+    },
+    {
+      "kanji": "善",
+      "gakunen": 6
+    },
+    {
+      "kanji": "奏",
+      "gakunen": 6
+    },
+    {
+      "kanji": "窓",
+      "gakunen": 6
+    },
+    {
+      "kanji": "創",
+      "gakunen": 6
+    },
+    {
+      "kanji": "装",
+      "gakunen": 6
+    },
+    {
+      "kanji": "層",
+      "gakunen": 6
+    },
+    {
+      "kanji": "操",
+      "gakunen": 6
+    },
+    {
+      "kanji": "蔵",
+      "gakunen": 6
+    },
+    {
+      "kanji": "臓",
+      "gakunen": 6
+    },
+    {
+      "kanji": "存",
+      "gakunen": 6
+    },
+    {
+      "kanji": "尊",
+      "gakunen": 6
+    },
+    {
+      "kanji": "退",
+      "gakunen": 6
+    },
+    {
+      "kanji": "宅",
+      "gakunen": 6
+    },
+    {
+      "kanji": "担",
+      "gakunen": 6
+    },
+    {
+      "kanji": "探",
+      "gakunen": 6
+    },
+    {
+      "kanji": "誕",
+      "gakunen": 6
+    },
+    {
+      "kanji": "段",
+      "gakunen": 6
+    },
+    {
+      "kanji": "暖",
+      "gakunen": 6
+    },
+    {
+      "kanji": "値",
+      "gakunen": 6
+    },
+    {
+      "kanji": "宙",
+      "gakunen": 6
+    },
+    {
+      "kanji": "忠",
+      "gakunen": 6
+    },
+    {
+      "kanji": "著",
+      "gakunen": 6
+    },
+    {
+      "kanji": "庁",
+      "gakunen": 6
+    },
+    {
+      "kanji": "頂",
+      "gakunen": 6
+    },
+    {
+      "kanji": "腸",
+      "gakunen": 6
+    },
+    {
+      "kanji": "潮",
+      "gakunen": 6
+    },
+    {
+      "kanji": "賃",
+      "gakunen": 6
+    },
+    {
+      "kanji": "痛",
+      "gakunen": 6
+    },
+    {
+      "kanji": "敵",
+      "gakunen": 6
+    },
+    {
+      "kanji": "展",
+      "gakunen": 6
+    },
+    {
+      "kanji": "討",
+      "gakunen": 6
+    },
+    {
+      "kanji": "党",
+      "gakunen": 6
+    },
+    {
+      "kanji": "糖",
+      "gakunen": 6
+    },
+    {
+      "kanji": "届",
+      "gakunen": 6
+    },
+    {
+      "kanji": "難",
+      "gakunen": 6
+    },
+    {
+      "kanji": "乳",
+      "gakunen": 6
+    },
+    {
+      "kanji": "認",
+      "gakunen": 6
+    },
+    {
+      "kanji": "納",
+      "gakunen": 6
+    },
+    {
+      "kanji": "脳",
+      "gakunen": 6
+    },
+    {
+      "kanji": "派",
+      "gakunen": 6
+    },
+    {
+      "kanji": "拝",
+      "gakunen": 6
+    },
+    {
+      "kanji": "背",
+      "gakunen": 6
+    },
+    {
+      "kanji": "肺",
+      "gakunen": 6
+    },
+    {
+      "kanji": "俳",
+      "gakunen": 6
+    },
+    {
+      "kanji": "班",
+      "gakunen": 6
+    },
+    {
+      "kanji": "晩",
+      "gakunen": 6
+    },
+    {
+      "kanji": "否",
+      "gakunen": 6
+    },
+    {
+      "kanji": "批",
+      "gakunen": 6
+    },
+    {
+      "kanji": "秘",
+      "gakunen": 6
+    },
+    {
+      "kanji": "俵",
+      "gakunen": 6
+    },
+    {
+      "kanji": "腹",
+      "gakunen": 6
+    },
+    {
+      "kanji": "奮",
+      "gakunen": 6
+    },
+    {
+      "kanji": "並",
+      "gakunen": 6
+    },
+    {
+      "kanji": "陛",
+      "gakunen": 6
+    },
+    {
+      "kanji": "閉",
+      "gakunen": 6
+    },
+    {
+      "kanji": "片",
+      "gakunen": 6
+    },
+    {
+      "kanji": "補",
+      "gakunen": 6
+    },
+    {
+      "kanji": "暮",
+      "gakunen": 6
+    },
+    {
+      "kanji": "宝",
+      "gakunen": 6
+    },
+    {
+      "kanji": "訪",
+      "gakunen": 6
+    },
+    {
+      "kanji": "亡",
+      "gakunen": 6
+    },
+    {
+      "kanji": "忘",
+      "gakunen": 6
+    },
+    {
+      "kanji": "棒",
+      "gakunen": 6
+    },
+    {
+      "kanji": "枚",
+      "gakunen": 6
+    },
+    {
+      "kanji": "幕",
+      "gakunen": 6
+    },
+    {
+      "kanji": "密",
+      "gakunen": 6
+    },
+    {
+      "kanji": "盟",
+      "gakunen": 6
+    },
+    {
+      "kanji": "模",
+      "gakunen": 6
+    },
+    {
+      "kanji": "訳",
+      "gakunen": 6
+    },
+    {
+      "kanji": "郵",
+      "gakunen": 6
+    },
+    {
+      "kanji": "優",
+      "gakunen": 6
+    },
+    {
+      "kanji": "預",
+      "gakunen": 6
+    },
+    {
+      "kanji": "幼",
+      "gakunen": 6
+    },
+    {
+      "kanji": "欲",
+      "gakunen": 6
+    },
+    {
+      "kanji": "翌",
+      "gakunen": 6
+    },
+    {
+      "kanji": "乱",
+      "gakunen": 6
+    },
+    {
+      "kanji": "卵",
+      "gakunen": 6
+    },
+    {
+      "kanji": "覧",
+      "gakunen": 6
+    },
+    {
+      "kanji": "裏",
+      "gakunen": 6
+    },
+    {
+      "kanji": "律",
+      "gakunen": 6
+    },
+    {
+      "kanji": "臨",
+      "gakunen": 6
+    },
+    {
+      "kanji": "朗",
+      "gakunen": 6
+    },
+    {
+      "kanji": "論",
+      "gakunen": 6
+    }
+  ],
+  "meta": {
+    "title": "学年別漢字配当表（小学校で習う漢字） - Free Download",
+    "description": "2020年度施行の学習指導要領による学年別漢字配当表。小学校1〜6年生で学ぶ教育漢字1026字と配当学年。 Contains 1026 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "学年別漢字配当表（小学校で習う漢字） | ListBase",
+    "seo_description": "Download 学年別漢字配当表（小学校で習う漢字） — 1026 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 1026 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/学年別漢字配当表"
+    ]
+  }
+}
