@@ -1,0 +1,741 @@
+{
+  "id": "ja-josushi-ichiran",
+  "name": "日本語の助数詞一覧（物の数え方）",
+  "title": "日本語の助数詞一覧（物の数え方）",
+  "description": "日本語で物を数えるときの助数詞の一覧。対象となる物と数え方（読み）を五十音の行別に収録。",
+  "category": "language",
+  "source": "https://ja.wikipedia.org/wiki/助数詞",
+  "source_url": "https://ja.wikipedia.org/wiki/助数詞",
+  "updated": "2026-11",
+  "record_count": 140,
+  "columns": [
+    {
+      "key": "taisho",
+      "label": "Taisho",
+      "type": "string"
+    },
+    {
+      "key": "josushi",
+      "label": "Josushi",
+      "type": "string"
+    },
+    {
+      "key": "gyo",
+      "label": "Gyo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "taisho": "灯り",
+      "josushi": "1灯（とう）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "アリ",
+      "josushi": "1頭（とう）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "安打",
+      "josushi": "1本（ほん）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "行燈",
+      "josushi": "1張（はり）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "家",
+      "josushi": "1戸（こ）、1軒（けん）、1棟（むね、とう）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "イカ",
+      "josushi": "食品の場合は1杯（はい）、生物の場合は1匹（ひき）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "筏",
+      "josushi": "1枚（まい）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "衣桁",
+      "josushi": "1架（か）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "遺骨",
+      "josushi": "1体（たい）、1柱（はしら）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "囲碁 の対局",
+      "josushi": "1局（きょく）、1番（ばん）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "椅子",
+      "josushi": "1脚（きゃく）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "井戸",
+      "josushi": "1本（ほん）、1基（き）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "衣類",
+      "josushi": "1着（ちゃく）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "印籠",
+      "josushi": "1具（ぐ）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "ウサギ",
+      "josushi": "1羽（わ）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "牛",
+      "josushi": "1頭（とう）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "謡い物・語り物 の一段落",
+      "josushi": "1闋（けつ）。一闋（ひとくさり）とも",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "宴",
+      "josushi": "1席（せき）、1献（こん）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "団扇",
+      "josushi": "1柄（へい）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "うどん",
+      "josushi": "麺を指す場合は1玉（たま）。1杯（はい）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "映画",
+      "josushi": "1巻（かん）、1齣（こま/シーン）、1本（ほん）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "枝",
+      "josushi": "1枝（えだ）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "エビ",
+      "josushi": "1頭（かしら）、1尾（び）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "烏帽子",
+      "josushi": "1頭（かしら）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "襟",
+      "josushi": "1掛（かけ）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "演能",
+      "josushi": "1番（ばん）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "お年玉",
+      "josushi": "1封（ふう）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "鬼",
+      "josushi": "1匹・疋（ひき）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "斧",
+      "josushi": "1挺（ちょう）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "帯",
+      "josushi": "1筋（すじ）、1条（じょう）",
+      "gyo": "あ行"
+    },
+    {
+      "taisho": "蚕",
+      "josushi": "1頭（とう）",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "鏡",
+      "josushi": "1面（めん）",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "掛け軸",
+      "josushi": "1幅（ふく）、双幅の場合には1対（つい）",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "駕籠",
+      "josushi": "1挺（ちょう）",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "傘",
+      "josushi": "1本（ほん）、和傘は1張（はり）",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "蟹",
+      "josushi": "1杯（はい）、1匹（ひき）",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "株式",
+      "josushi": "1株（かぶ）",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "兜",
+      "josushi": "1刎（はね）",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "神",
+      "josushi": "1柱（はしら）",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "（特定の場所に祀られている）神",
+      "josushi": "1座（ざ）",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "蚊帳",
+      "josushi": "1張（はり、ちょう）",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "カレイ（魚）",
+      "josushi": "1枚（まい）",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "乾麺",
+      "josushi": "1把（わ）、",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "騎馬・騎兵",
+      "josushi": "1騎（き）",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "（文章の）行",
+      "josushi": "1行（ぎょう、くだり）",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "銀行",
+      "josushi": "1行（こう）",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "薬",
+      "josushi": "1錠（じょう）、1カプセル、1服（ふく）、1包（ほう）、薬に包んだ散薬は1貼（ちょう）",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "果物",
+      "josushi": "1果（か）、1菓（か）、果実 は1顆（か）",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "靴",
+      "josushi": "1足（そく/左右1組で）",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "袈裟",
+      "josushi": "1領（りょう）",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "原動機",
+      "josushi": "1発（はつ）、1基（き）",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "航空機",
+      "josushi": "1機（き）",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "こて（アイロン）",
+      "josushi": "1丁（ちょう）",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "琴",
+      "josushi": "1面（めん）、1張（はり、ちょう）",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "子供",
+      "josushi": "1人（ひとり）",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "米俵",
+      "josushi": "1俵（ひょう）、1輿（こし）",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "ご飯",
+      "josushi": "1膳（ぜん）、1杯（はい）",
+      "gyo": "か行"
+    },
+    {
+      "taisho": "魚",
+      "josushi": "1匹（ひき）、1尾（び）、1喉（こん）",
+      "gyo": "さ行"
+    },
+    {
+      "taisho": "酒",
+      "josushi": "1献（こん）",
+      "gyo": "さ行"
+    },
+    {
+      "taisho": "砂糖",
+      "josushi": "1斤（きん）、1叺（かます）、1貫（ぬき）",
+      "gyo": "さ行"
+    },
+    {
+      "taisho": "詩",
+      "josushi": "1篇（へん）",
+      "gyo": "さ行"
+    },
+    {
+      "taisho": "地蔵",
+      "josushi": "1尊（そん）",
+      "gyo": "さ行"
+    },
+    {
+      "taisho": "三味線",
+      "josushi": "1棹（さお）、1挺（ちょう）",
+      "gyo": "さ行"
+    },
+    {
+      "taisho": "車両",
+      "josushi": "1台（だい/ 自動車）、1両（りょう/ 鉄道車両 など、ただし公営交通事業などの場合、バス にも使用されることもある）",
+      "gyo": "さ行"
+    },
+    {
+      "taisho": "銃",
+      "josushi": "1挺（ちょう）",
+      "gyo": "さ行"
+    },
+    {
+      "taisho": "数珠",
+      "josushi": "1連（れん）",
+      "gyo": "さ行"
+    },
+    {
+      "taisho": "将棋 の対局",
+      "josushi": "1局（きょく）、1番（ばん）",
+      "gyo": "さ行"
+    },
+    {
+      "taisho": "食パン",
+      "josushi": "1斤（きん）",
+      "gyo": "さ行"
+    },
+    {
+      "taisho": "書類",
+      "josushi": "1部（ぶ/同じ書類を作る場合）、1葉（よう）、1頁（ページ）",
+      "gyo": "さ行"
+    },
+    {
+      "taisho": "真空管",
+      "josushi": "1球（きゅう）",
+      "gyo": "さ行"
+    },
+    {
+      "taisho": "新聞",
+      "josushi": "1部（ぶ）",
+      "gyo": "さ行"
+    },
+    {
+      "taisho": "握り寿司",
+      "josushi": "1貫（かん/二個で1貫説、1個で1貫説あり）、1個（こ）",
+      "gyo": "さ行"
+    },
+    {
+      "taisho": "墨",
+      "josushi": "1挺（ちょう）",
+      "gyo": "さ行"
+    },
+    {
+      "taisho": "戦車",
+      "josushi": "1両（りょう）",
+      "gyo": "さ行"
+    },
+    {
+      "taisho": "相撲",
+      "josushi": "1番（ばん/取組）、1枚（まい/ 番付 の地位）",
+      "gyo": "さ行"
+    },
+    {
+      "taisho": "線香",
+      "josushi": "1炷（しゅ）",
+      "gyo": "さ行"
+    },
+    {
+      "taisho": "川柳",
+      "josushi": "1句（く）",
+      "gyo": "さ行"
+    },
+    {
+      "taisho": "算盤",
+      "josushi": "1面（めん）、1挺（ちょう）",
+      "gyo": "さ行"
+    },
+    {
+      "taisho": "田",
+      "josushi": "1枚（まい）、1面（めん）",
+      "gyo": "た行"
+    },
+    {
+      "taisho": "大砲",
+      "josushi": "1門（もん）",
+      "gyo": "た行"
+    },
+    {
+      "taisho": "タイヤ",
+      "josushi": "1本（ほん）1輪（りん）",
+      "gyo": "た行"
+    },
+    {
+      "taisho": "タコ",
+      "josushi": "食品の場合は1杯（はい）、生物の場合は1匹（ひき）",
+      "gyo": "た行"
+    },
+    {
+      "taisho": "戦い",
+      "josushi": "1戦（せん）",
+      "gyo": "た行"
+    },
+    {
+      "taisho": "畳",
+      "josushi": "1畳（じょう）",
+      "gyo": "た行"
+    },
+    {
+      "taisho": "魂",
+      "josushi": "1柱（はしら）",
+      "gyo": "た行"
+    },
+    {
+      "taisho": "ダム",
+      "josushi": "1基（き）",
+      "gyo": "た行"
+    },
+    {
+      "taisho": "弾丸",
+      "josushi": "1発（はつ、ぱつ）",
+      "gyo": "た行"
+    },
+    {
+      "taisho": "箪笥",
+      "josushi": "1棹（さお）",
+      "gyo": "た行"
+    },
+    {
+      "taisho": "反物",
+      "josushi": "1反（たん）、1匹・疋（ひき、むら）",
+      "gyo": "た行"
+    },
+    {
+      "taisho": "蝶",
+      "josushi": "1頭（とう）",
+      "gyo": "た行"
+    },
+    {
+      "taisho": "鳥類",
+      "josushi": "1羽（わ）",
+      "gyo": "た行"
+    },
+    {
+      "taisho": "提灯",
+      "josushi": "1張（はり、ちょう）、1帳（ちょう）",
+      "gyo": "た行"
+    },
+    {
+      "taisho": "机",
+      "josushi": "1脚（きゃく）、1台（だい）、1卓（たく）",
+      "gyo": "た行"
+    },
+    {
+      "taisho": "鼓",
+      "josushi": "1張（はり、ちょう）、1丁（ちょう）",
+      "gyo": "た行"
+    },
+    {
+      "taisho": "壺",
+      "josushi": "1口（く、こう）、1壺（こ、つぼ）",
+      "gyo": "た行"
+    },
+    {
+      "taisho": "テープ（音響用、データ用）",
+      "josushi": "1巻（かん）",
+      "gyo": "た行"
+    },
+    {
+      "taisho": "手紙（書簡）",
+      "josushi": "1通（つう）、1封（ふう）、1本（ほん）",
+      "gyo": "た行"
+    },
+    {
+      "taisho": "テント",
+      "josushi": "1張（はり、ちょう）",
+      "gyo": "た行"
+    },
+    {
+      "taisho": "刀剣",
+      "josushi": "1振（ふり）、1腰（こし）、1口（くち）、1剣（けん）、1刀（とう）",
+      "gyo": "た行"
+    },
+    {
+      "taisho": "塔婆",
+      "josushi": "1基（き）",
+      "gyo": "た行"
+    },
+    {
+      "taisho": "投票",
+      "josushi": "1票（ひょう）（投票された票の数）",
+      "gyo": "た行"
+    },
+    {
+      "taisho": "豆腐",
+      "josushi": "1丁（ちょう）",
+      "gyo": "た行"
+    },
+    {
+      "taisho": "灯籠",
+      "josushi": "1基（き）",
+      "gyo": "た行"
+    },
+    {
+      "taisho": "土地",
+      "josushi": "1筆（ひつ・ぴつ、時に「ふで」）、特に不動産登記の単位として",
+      "gyo": "た行"
+    },
+    {
+      "taisho": "海苔",
+      "josushi": "1帖（じょう）10枚",
+      "gyo": "な行"
+    },
+    {
+      "taisho": "俳句",
+      "josushi": "1句（く）",
+      "gyo": "は行"
+    },
+    {
+      "taisho": "はさみ",
+      "josushi": "1挺（ちょう）",
+      "gyo": "は行"
+    },
+    {
+      "taisho": "箸",
+      "josushi": "1膳（ぜん）",
+      "gyo": "は行"
+    },
+    {
+      "taisho": "花",
+      "josushi": "1輪（りん）",
+      "gyo": "は行"
+    },
+    {
+      "taisho": "花びら",
+      "josushi": "1片（ひら、へん）、1枚（まい）",
+      "gyo": "は行"
+    },
+    {
+      "taisho": "はららご（たらこ、筋子 など、魚 の卵塊）",
+      "josushi": "1腹（はら）",
+      "gyo": "は行"
+    },
+    {
+      "taisho": "半紙",
+      "josushi": "1帖（じょう）20枚",
+      "gyo": "は行"
+    },
+    {
+      "taisho": "半導体素子（トランジスタ、ダイオード など）",
+      "josushi": "1石（せき）（ラジオなどに使われているトランジスタなどの数）",
+      "gyo": "は行"
+    },
+    {
+      "taisho": "ビデオゲーム で次にプレイ可能な残されたプレイヤー数",
+      "josushi": "1機（き）",
+      "gyo": "は行"
+    },
+    {
+      "taisho": "人",
+      "josushi": "1人（にん・たり）、1名（めい）",
+      "gyo": "は行"
+    },
+    {
+      "taisho": "屏風",
+      "josushi": "1台（だい）、1架（か）。二架で1双（そう）。",
+      "gyo": "は行"
+    },
+    {
+      "taisho": "拍子",
+      "josushi": "1拍（はく）",
+      "gyo": "は行"
+    },
+    {
+      "taisho": "ヒラメ（魚）",
+      "josushi": "1枚（まい）",
+      "gyo": "は行"
+    },
+    {
+      "taisho": "鰭",
+      "josushi": "1基（き）",
+      "gyo": "は行"
+    },
+    {
+      "taisho": "仏像",
+      "josushi": "1躯（く）、1体（たい）",
+      "gyo": "は行"
+    },
+    {
+      "taisho": "船",
+      "josushi": "1隻（せき/ 船舶、艦船、艦艇 など）、1艘（そう/ 帆掛舟 等）、1艇（てい/ ヨット、競漕 ボート、艦艇 など）、1杯（はい/ 伝馬船、艦艇 など）",
+      "gyo": "は行"
+    },
+    {
+      "taisho": "褌",
+      "josushi": "1丁（ちょう）",
+      "gyo": "は行"
+    },
+    {
+      "taisho": "ヘラブナ（魚）",
+      "josushi": "1枚（まい）",
+      "gyo": "は行"
+    },
+    {
+      "taisho": "宝石",
+      "josushi": "1粒（つぶ）、1顆（か）",
+      "gyo": "は行"
+    },
+    {
+      "taisho": "墓所",
+      "josushi": "1区画（くかく）",
+      "gyo": "は行"
+    },
+    {
+      "taisho": "墓石",
+      "josushi": "1基（き）",
+      "gyo": "は行"
+    },
+    {
+      "taisho": "本",
+      "josushi": "1冊（さつ）、1部（ぶ）",
+      "gyo": "は行"
+    },
+    {
+      "taisho": "巻物",
+      "josushi": "1巻（かん）",
+      "gyo": "は行"
+    },
+    {
+      "taisho": "幕",
+      "josushi": "1張（はり、ちょう）",
+      "gyo": "ま行 - わ行"
+    },
+    {
+      "taisho": "神輿",
+      "josushi": "1基（き）",
+      "gyo": "ま行 - わ行"
+    },
+    {
+      "taisho": "美濃紙",
+      "josushi": "1帖（じょう）48枚",
+      "gyo": "ま行 - わ行"
+    },
+    {
+      "taisho": "虫",
+      "josushi": "1匹（ひき）",
+      "gyo": "ま行 - わ行"
+    },
+    {
+      "taisho": "矢",
+      "josushi": "1手（て）（矢二本で1手）、1条（じょう）、1本（ほん）",
+      "gyo": "ま行 - わ行"
+    },
+    {
+      "taisho": "槍",
+      "josushi": "1本（ほん）、1筋（すじ）、1条（じょう）、",
+      "gyo": "ま行 - わ行"
+    },
+    {
+      "taisho": "弓",
+      "josushi": "1張（はり、ちょう）",
+      "gyo": "ま行 - わ行"
+    },
+    {
+      "taisho": "羊羹",
+      "josushi": "1棹（さお）、1本（ほん）、1切れ（きれ）",
+      "gyo": "ま行 - わ行"
+    },
+    {
+      "taisho": "料理",
+      "josushi": "1品（しな、ひん）、1人前（にんまえ）",
+      "gyo": "ま行 - わ行"
+    },
+    {
+      "taisho": "類人猿",
+      "josushi": "1頭（とう）、1人（にん・たり）",
+      "gyo": "ま行 - わ行"
+    },
+    {
+      "taisho": "霊",
+      "josushi": "1柱（はしら）、1位（い）",
+      "gyo": "ま行 - わ行"
+    },
+    {
+      "taisho": "和歌",
+      "josushi": "1首（しゅ）",
+      "gyo": "ま行 - わ行"
+    }
+  ],
+  "meta": {
+    "title": "日本語の助数詞一覧（物の数え方） - Free Download",
+    "description": "日本語で物を数えるときの助数詞の一覧。対象となる物と数え方（読み）を五十音の行別に収録。 Contains 140 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本語の助数詞一覧（物の数え方） | ListBase",
+    "seo_description": "Download 日本語の助数詞一覧（物の数え方） — 140 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 140 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/助数詞"
+    ]
+  }
+}
