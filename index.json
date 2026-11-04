@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-04T02:25:04.920Z",
-  "total_datasets": 569,
-  "total_records": 460997,
+  "generated": "2026-11-04T02:25:12.586Z",
+  "total_datasets": 570,
+  "total_records": 461029,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -687,6 +687,29 @@
         "xlsx": {
           "name": "ja-chiiki-dantai-shohyo_JA.xlsx",
           "size": 83839
+        }
+      }
+    },
+    {
+      "id": "ja-nihon-no-zaibatsu",
+      "name": "日本の財閥一覧",
+      "category": "economy",
+      "record_count": 32,
+      "columns": [
+        "zaibatsu",
+        "bunrui"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/財閥",
+      "updated": "2026-11",
+      "size": 5037,
+      "files": {
+        "csv": {
+          "name": "ja-nihon-no-zaibatsu_JA.csv",
+          "size": 2140
+        },
+        "xlsx": {
+          "name": "ja-nihon-no-zaibatsu_JA.xlsx",
+          "size": 7660
         }
       }
     },

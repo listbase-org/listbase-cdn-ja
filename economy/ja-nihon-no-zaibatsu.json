@@ -1,0 +1,164 @@
+{
+  "id": "ja-nihon-no-zaibatsu",
+  "name": "日本の財閥一覧",
+  "title": "日本の財閥一覧",
+  "description": "戦前日本の財閥・コンツェルンの一覧。三大財閥・四大財閥・十五大財閥や成立時期（江戸・明治・大正・昭和）などの分類付き。",
+  "category": "economy",
+  "source": "https://ja.wikipedia.org/wiki/財閥",
+  "source_url": "https://ja.wikipedia.org/wiki/財閥",
+  "updated": "2026-11",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "zaibatsu",
+      "label": "Zaibatsu",
+      "type": "string"
+    },
+    {
+      "key": "bunrui",
+      "label": "Bunrui",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zaibatsu": "三菱財閥",
+      "bunrui": "三大財閥、四大財閥、十五大財閥"
+    },
+    {
+      "zaibatsu": "住友財閥",
+      "bunrui": "三大財閥、四大財閥、江戸時代成立の財閥、十五大財閥"
+    },
+    {
+      "zaibatsu": "三井財閥",
+      "bunrui": "三大財閥、四大財閥、江戸時代成立の財閥、十五大財閥"
+    },
+    {
+      "zaibatsu": "安田財閥",
+      "bunrui": "四大財閥、三大財閥以外の明治成立の財閥、十五大財閥"
+    },
+    {
+      "zaibatsu": "鴻池財閥",
+      "bunrui": "江戸時代成立の財閥"
+    },
+    {
+      "zaibatsu": "渋沢財閥",
+      "bunrui": "三大財閥以外の明治成立の財閥、十五大財閥"
+    },
+    {
+      "zaibatsu": "浅野財閥",
+      "bunrui": "三大財閥以外の明治成立の財閥、十五大財閥"
+    },
+    {
+      "zaibatsu": "大倉財閥",
+      "bunrui": "三大財閥以外の明治成立の財閥、十五大財閥"
+    },
+    {
+      "zaibatsu": "古河財閥",
+      "bunrui": "三大財閥以外の明治成立の財閥、十五大財閥"
+    },
+    {
+      "zaibatsu": "川崎財閥（川崎八右衛門系）（関東）",
+      "bunrui": "三大財閥以外の明治成立の財閥"
+    },
+    {
+      "zaibatsu": "藤田財閥",
+      "bunrui": "三大財閥以外の明治成立の財閥"
+    },
+    {
+      "zaibatsu": "岩井財閥",
+      "bunrui": "三大財閥以外の明治成立の財閥"
+    },
+    {
+      "zaibatsu": "野村財閥",
+      "bunrui": "大正財閥、十五大財閥"
+    },
+    {
+      "zaibatsu": "久原財閥",
+      "bunrui": "大正財閥"
+    },
+    {
+      "zaibatsu": "鈴木財閥",
+      "bunrui": "大正財閥"
+    },
+    {
+      "zaibatsu": "根津財閥",
+      "bunrui": "大正財閥"
+    },
+    {
+      "zaibatsu": "川崎財閥（川崎正蔵系）（近畿）",
+      "bunrui": "大正財閥"
+    },
+    {
+      "zaibatsu": "理研コンツェルン",
+      "bunrui": "昭和期の新興コンツェルン、十五大財閥"
+    },
+    {
+      "zaibatsu": "日産コンツェルン（鮎川 財閥）",
+      "bunrui": "昭和期の新興コンツェルン"
+    },
+    {
+      "zaibatsu": "森コンツェルン",
+      "bunrui": "昭和期の新興コンツェルン"
+    },
+    {
+      "zaibatsu": "日窒コンツェルン（野口 財閥）",
+      "bunrui": "昭和期の新興コンツェルン"
+    },
+    {
+      "zaibatsu": "日曹コンツェルン",
+      "bunrui": "昭和期の新興コンツェルン、十五大財閥"
+    },
+    {
+      "zaibatsu": "中島飛行機（財閥解体後、主要5社が合同し、富士産業（現・SUBARU）を設立）",
+      "bunrui": "その他の財閥"
+    },
+    {
+      "zaibatsu": "石原産業",
+      "bunrui": "その他の財閥"
+    },
+    {
+      "zaibatsu": "藤山コンツェルン（大日本製糖（現・DM三井製糖））",
+      "bunrui": "その他の財閥"
+    },
+    {
+      "zaibatsu": "中外コンツェルン（旧朝鮮紡織、日本化薬、中外鉱業 など）",
+      "bunrui": "その他の財閥"
+    },
+    {
+      "zaibatsu": "是川グループ",
+      "bunrui": "その他の財閥"
+    },
+    {
+      "zaibatsu": "横河グループ",
+      "bunrui": "その他の財閥"
+    },
+    {
+      "zaibatsu": "鮎川財閥",
+      "bunrui": "十五大財閥"
+    },
+    {
+      "zaibatsu": "中島財閥",
+      "bunrui": "十五大財閥"
+    },
+    {
+      "zaibatsu": "神戸川崎財閥",
+      "bunrui": "十五大財閥"
+    },
+    {
+      "zaibatsu": "日窒コンツェルン",
+      "bunrui": "十五大財閥"
+    }
+  ],
+  "meta": {
+    "title": "日本の財閥一覧 - Free Download",
+    "description": "戦前日本の財閥・コンツェルンの一覧。三大財閥・四大財閥・十五大財閥や成立時期（江戸・明治・大正・昭和）などの分類付き。 Contains 32 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の財閥一覧 | ListBase",
+    "seo_description": "Download 日本の財閥一覧 — 32 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 32 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/財閥"
+    ]
+  }
+}
