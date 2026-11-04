@@ -1,0 +1,86 @@
+{
+  "id": "ja-gosekku",
+  "name": "五節句一覧（人日・上巳・端午・七夕・重陽）",
+  "title": "五節句一覧（人日・上巳・端午・七夕・重陽）",
+  "description": "江戸時代に定められた五節句の漢名・日付・和名・節句料理・五行の対応表。",
+  "category": "time",
+  "source": "https://ja.wikipedia.org/wiki/節句",
+  "source_url": "https://ja.wikipedia.org/wiki/節句",
+  "updated": "2026-11",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "kanmei",
+      "label": "Kanmei",
+      "type": "string"
+    },
+    {
+      "key": "hizuke",
+      "label": "Hizuke",
+      "type": "string"
+    },
+    {
+      "key": "wamei",
+      "label": "Wamei",
+      "type": "string"
+    },
+    {
+      "key": "sekku_ryori",
+      "label": "Sekku Ryori",
+      "type": "string"
+    },
+    {
+      "key": "gogyo",
+      "label": "Gogyo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kanmei": "人日（じんじつ）",
+      "hizuke": "1月7日",
+      "wamei": "七草 の節句",
+      "sekku_ryori": "七草粥。",
+      "gogyo": "木"
+    },
+    {
+      "kanmei": "上巳（じょうし）",
+      "hizuke": "3月3日",
+      "wamei": "桃の節句 雛祭り",
+      "sekku_ryori": "菱餅 や 白酒 など。",
+      "gogyo": "火"
+    },
+    {
+      "kanmei": "端午（たんご）",
+      "hizuke": "5月5日",
+      "wamei": "菖蒲の節句",
+      "sekku_ryori": "菖蒲酒。菖蒲湯 の習俗あり。関東では 柏餅、中国や関西では ちまき。",
+      "gogyo": "土"
+    },
+    {
+      "kanmei": "七夕（しちせき）",
+      "hizuke": "7月7日",
+      "wamei": "笹の節句 七夕（たなばた）",
+      "sekku_ryori": "裁縫の上達を願い 素麺 が食される（織姫 も参照）。",
+      "gogyo": "金"
+    },
+    {
+      "kanmei": "重陽（ちょうよう）",
+      "hizuke": "9月9日",
+      "wamei": "菊の節句",
+      "sekku_ryori": "菊 を浮かべた酒など（菊酒 も参照）。",
+      "gogyo": "水"
+    }
+  ],
+  "meta": {
+    "title": "五節句一覧（人日・上巳・端午・七夕・重陽） - Free Download",
+    "description": "江戸時代に定められた五節句の漢名・日付・和名・節句料理・五行の対応表。 Contains 5 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "五節句一覧（人日・上巳・端午・七夕・重陽） | ListBase",
+    "seo_description": "Download 五節句一覧（人日・上巳・端午・七夕・重陽） — 5 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 5 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/節句"
+    ]
+  }
+}

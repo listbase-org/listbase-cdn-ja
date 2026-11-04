@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-04T02:25:12.586Z",
-  "total_datasets": 570,
-  "total_records": 461029,
+  "generated": "2026-11-04T02:25:21.242Z",
+  "total_datasets": 571,
+  "total_records": 461034,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tourism",
@@ -15477,6 +15477,32 @@
         "xlsx": {
           "name": "ja-uchuki-ichiran_JA.xlsx",
           "size": 24076
+        }
+      }
+    },
+    {
+      "id": "ja-gosekku",
+      "name": "五節句一覧（人日・上巳・端午・七夕・重陽）",
+      "category": "time",
+      "record_count": 5,
+      "columns": [
+        "kanmei",
+        "hizuke",
+        "wamei",
+        "sekku_ryori",
+        "gogyo"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/節句",
+      "updated": "2026-11",
+      "size": 2798,
+      "files": {
+        "csv": {
+          "name": "ja-gosekku_JA.csv",
+          "size": 662
+        },
+        "xlsx": {
+          "name": "ja-gosekku_JA.xlsx",
+          "size": 7238
         }
       }
     },
