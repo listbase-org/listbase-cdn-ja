@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-05T02:23:29.260Z",
-  "total_datasets": 572,
-  "total_records": 461039,
+  "generated": "2026-11-05T02:23:39.845Z",
+  "total_datasets": 573,
+  "total_records": 461084,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "food",
@@ -1567,6 +1567,32 @@
         "xlsx": {
           "name": "ja-mufg-bank-branches_JA.xlsx",
           "size": 49099
+        }
+      }
+    },
+    {
+      "id": "ja-nihon-ginko-shiten",
+      "name": "日本銀行の支店・事務所一覧",
+      "category": "finance",
+      "record_count": 45,
+      "columns": [
+        "gyomu_tokatsu",
+        "tenmei",
+        "ichi",
+        "kaisetsubi",
+        "kankatsu_chiiki"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/日本銀行",
+      "updated": "2026-11",
+      "size": 13300,
+      "files": {
+        "csv": {
+          "name": "ja-nihon-ginko-shiten_JA.csv",
+          "size": 6486
+        },
+        "xlsx": {
+          "name": "ja-nihon-ginko-shiten_JA.xlsx",
+          "size": 9737
         }
       }
     },

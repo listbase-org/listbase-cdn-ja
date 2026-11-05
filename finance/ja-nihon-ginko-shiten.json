@@ -1,0 +1,366 @@
+{
+  "id": "ja-nihon-ginko-shiten",
+  "name": "日本銀行の支店・事務所一覧",
+  "title": "日本銀行の支店・事務所一覧",
+  "description": "日本銀行の国内支店および事務所の一覧。業務統括店、店名、位置（座標）、開設日、管轄地域を収録。",
+  "category": "finance",
+  "source": "https://ja.wikipedia.org/wiki/日本銀行",
+  "source_url": "https://ja.wikipedia.org/wiki/日本銀行",
+  "updated": "2026-11",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "gyomu_tokatsu",
+      "label": "Gyomu Tokatsu",
+      "type": "string"
+    },
+    {
+      "key": "tenmei",
+      "label": "Tenmei",
+      "type": "string"
+    },
+    {
+      "key": "ichi",
+      "label": "Ichi",
+      "type": "string"
+    },
+    {
+      "key": "kaisetsubi",
+      "label": "Kaisetsubi",
+      "type": "string"
+    },
+    {
+      "key": "kankatsu_chiiki",
+      "label": "Kankatsu Chiiki",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "gyomu_tokatsu": "札幌支店",
+      "tenmei": "釧路支店",
+      "ichi": "北緯42度58分48.9秒 東経144度23分11.5秒",
+      "kaisetsubi": "1952年 （昭和27年）10月01日",
+      "kankatsu_chiiki": "道東 3局（ 釧路 ・ 十勝 ・ 根室 ）"
+    },
+    {
+      "gyomu_tokatsu": "札幌支店",
+      "tenmei": "帯広事務所",
+      "ichi": "北緯42度55分4.3秒 東経143度12分12.6秒",
+      "kaisetsubi": "1946年（昭和21年）08月",
+      "kankatsu_chiiki": "（十勝総合振興局）"
+    },
+    {
+      "gyomu_tokatsu": "札幌支店",
+      "tenmei": "札幌支店",
+      "ichi": "北緯43度3分39.4秒 東経141度20分53.8秒",
+      "kaisetsubi": "1942年（昭和17年） 01月06日",
+      "kankatsu_chiiki": "釧路・函館両支店管轄外の道内9局"
+    },
+    {
+      "gyomu_tokatsu": "札幌支店",
+      "tenmei": "旭川事務所",
+      "ichi": "北緯43度46分6.8秒 東経142度21分46.8秒",
+      "kaisetsubi": "1946年（昭和21年）08月01日",
+      "kankatsu_chiiki": "（ 道北 3局（ 上川 ・ 宗谷 ・ オホーツク ））"
+    },
+    {
+      "gyomu_tokatsu": "札幌支店",
+      "tenmei": "函館支店",
+      "ichi": "北緯41度46分12.3秒 東経140度43分45秒",
+      "kaisetsubi": "1893年 （明治26年） 04月01日",
+      "kankatsu_chiiki": "道南 2局（ 渡島 ・ 檜山 ）"
+    },
+    {
+      "gyomu_tokatsu": "仙台支店",
+      "tenmei": "青森支店",
+      "ichi": "北緯40度49分21.5秒 東経140度44分46.3秒",
+      "kaisetsubi": "1945年（昭和20年）05月",
+      "kankatsu_chiiki": "青森県"
+    },
+    {
+      "gyomu_tokatsu": "仙台支店",
+      "tenmei": "秋田支店",
+      "ichi": "北緯39度43分5.8秒 東経140度6分58.2秒",
+      "kaisetsubi": "1917年 （大正6年） 08月01日",
+      "kankatsu_chiiki": "秋田県"
+    },
+    {
+      "gyomu_tokatsu": "仙台支店",
+      "tenmei": "仙台支店",
+      "ichi": "北緯38度15分38秒 東経140度52分15.7秒",
+      "kaisetsubi": "1941年 （昭和16年）10月10日",
+      "kankatsu_chiiki": "宮城県 ・ 岩手県 ・ 山形県"
+    },
+    {
+      "gyomu_tokatsu": "仙台支店",
+      "tenmei": "盛岡事務所",
+      "ichi": "北緯39度42分15.1秒 東経141度9分0.7秒",
+      "kaisetsubi": "1945年（昭和20年） 08月10日",
+      "kankatsu_chiiki": "（岩手県）"
+    },
+    {
+      "gyomu_tokatsu": "仙台支店",
+      "tenmei": "山形事務所",
+      "ichi": "北緯38度15分14.9秒 東経140度20分24.6秒",
+      "kaisetsubi": "1945年（昭和20年）08月",
+      "kankatsu_chiiki": "（山形県）"
+    },
+    {
+      "gyomu_tokatsu": "仙台支店",
+      "tenmei": "福島支店",
+      "ichi": "北緯37度45分13.9秒 東経140度27分55.7秒",
+      "kaisetsubi": "1899年 （明治32年） 07月15日",
+      "kankatsu_chiiki": "福島県"
+    },
+    {
+      "gyomu_tokatsu": "本店調査統計局",
+      "tenmei": "前橋支店",
+      "ichi": "北緯36度23分28.8秒 東経139度3分58.9秒",
+      "kaisetsubi": "1944年（昭和19年）12月11日",
+      "kankatsu_chiiki": "群馬県"
+    },
+    {
+      "gyomu_tokatsu": "本店調査統計局",
+      "tenmei": "本店",
+      "ichi": "北緯35度41分11.5秒 東経139度46分17秒",
+      "kaisetsubi": "1882年（ 明治 15年）10月10日",
+      "kankatsu_chiiki": "東京都・ 埼玉県 ・ 千葉県 ・ 栃木県 ・ 茨城県"
+    },
+    {
+      "gyomu_tokatsu": "本店調査統計局",
+      "tenmei": "水戸事務所",
+      "ichi": "北緯36度22分33.1秒 東経140度28分18秒",
+      "kaisetsubi": "1945年（昭和20年）08月",
+      "kankatsu_chiiki": "（茨城県）"
+    },
+    {
+      "gyomu_tokatsu": "本店調査統計局",
+      "tenmei": "横浜支店",
+      "ichi": "北緯35度26分45.1秒 東経139度38分27.9秒",
+      "kaisetsubi": "1945年（昭和20年）08月",
+      "kankatsu_chiiki": "神奈川県"
+    },
+    {
+      "gyomu_tokatsu": "本店調査統計局",
+      "tenmei": "新潟支店",
+      "ichi": "北緯37度55分23.1秒 東経139度2分27.4秒",
+      "kaisetsubi": "1914年（大正3年）07月01日",
+      "kankatsu_chiiki": "新潟県"
+    },
+    {
+      "gyomu_tokatsu": "本店調査統計局",
+      "tenmei": "甲府支店",
+      "ichi": "北緯35度39分34.2秒 東経138度34分2.9秒",
+      "kaisetsubi": "1945年（昭和20年） 07月23日",
+      "kankatsu_chiiki": "山梨県"
+    },
+    {
+      "gyomu_tokatsu": "本店調査統計局",
+      "tenmei": "松本支店",
+      "ichi": "北緯36度14分13.9秒 東経137度58分17.5秒",
+      "kaisetsubi": "1914年 （ 大正 3年） 07月01日",
+      "kankatsu_chiiki": "長野県"
+    },
+    {
+      "gyomu_tokatsu": "本店調査統計局",
+      "tenmei": "長野事務所",
+      "ichi": "北緯36度38分38.2秒 東経138度10分59.7秒",
+      "kaisetsubi": "1945年（昭和20年）07月",
+      "kankatsu_chiiki": ""
+    },
+    {
+      "gyomu_tokatsu": "金沢支店",
+      "tenmei": "金沢支店",
+      "ichi": "北緯36度33分47.4秒 東経136度39分11.5秒",
+      "kaisetsubi": "1909年 （明治42年） 03月15日",
+      "kankatsu_chiiki": "石川県・ 富山県 ・ 福井県"
+    },
+    {
+      "gyomu_tokatsu": "金沢支店",
+      "tenmei": "富山事務所",
+      "ichi": "北緯36度41分20.7秒 東経137度13分3.5秒",
+      "kaisetsubi": "1945年（昭和20年）08月01日",
+      "kankatsu_chiiki": "（富山県）"
+    },
+    {
+      "gyomu_tokatsu": "金沢支店",
+      "tenmei": "福井事務所",
+      "ichi": "北緯36度3分47.3秒 東経136度13分1.8秒",
+      "kaisetsubi": "1946年（昭和21年） 02月15日",
+      "kankatsu_chiiki": "（福井県）"
+    },
+    {
+      "gyomu_tokatsu": "名古屋支店",
+      "tenmei": "静岡支店",
+      "ichi": "北緯34度58分34.2秒 東経138度22分40.4秒",
+      "kaisetsubi": "1943年（昭和18年）06月01日",
+      "kankatsu_chiiki": "静岡県"
+    },
+    {
+      "gyomu_tokatsu": "名古屋支店",
+      "tenmei": "名古屋支店",
+      "ichi": "北緯35度10分20.5秒 東経136度53分51.1秒",
+      "kaisetsubi": "1897年 （明治30年）03月",
+      "kankatsu_chiiki": "愛知県 ・ 岐阜県 ・三重県"
+    },
+    {
+      "gyomu_tokatsu": "大阪支店",
+      "tenmei": "京都支店",
+      "ichi": "北緯35度0分45.6秒 東経135度46分9.9秒",
+      "kaisetsubi": "1894年 （明治27年）04月01日",
+      "kankatsu_chiiki": "京都府 ・ 滋賀県"
+    },
+    {
+      "gyomu_tokatsu": "大阪支店",
+      "tenmei": "大阪支店",
+      "ichi": "北緯34度41分37.5秒 東経135度29分58.8秒",
+      "kaisetsubi": "1882年（明治15年） 12月15日",
+      "kankatsu_chiiki": "大阪府・ 奈良県 ・ 和歌山県"
+    },
+    {
+      "gyomu_tokatsu": "大阪支店",
+      "tenmei": "神戸支店",
+      "ichi": "北緯34度41分15.7秒 東経135度11分37.9秒",
+      "kaisetsubi": "1927年（ 昭和 2年） 06月01日",
+      "kankatsu_chiiki": "兵庫県"
+    },
+    {
+      "gyomu_tokatsu": "広島支店",
+      "tenmei": "松江支店",
+      "ichi": "北緯35度28分28.3秒 東経133度3分21.5秒",
+      "kaisetsubi": "1918年 （大正7年）03月",
+      "kankatsu_chiiki": "島根県 ・ 鳥取県"
+    },
+    {
+      "gyomu_tokatsu": "広島支店",
+      "tenmei": "鳥取事務所",
+      "ichi": "北緯35度29分48.7秒 東経134度13分42.9秒",
+      "kaisetsubi": "1945年（昭和20年） 10月15日",
+      "kankatsu_chiiki": "（鳥取県）"
+    },
+    {
+      "gyomu_tokatsu": "広島支店",
+      "tenmei": "岡山支店",
+      "ichi": "北緯34度39分48.3秒 東経133度55分51.3秒",
+      "kaisetsubi": "1922年 （大正11年）04月01日",
+      "kankatsu_chiiki": "岡山県"
+    },
+    {
+      "gyomu_tokatsu": "広島支店",
+      "tenmei": "広島支店",
+      "ichi": "北緯34度23分49.8秒 東経132度27分41.9秒",
+      "kaisetsubi": "1905年 （明治38年）09月",
+      "kankatsu_chiiki": "広島県"
+    },
+    {
+      "gyomu_tokatsu": "広島支店",
+      "tenmei": "下関支店",
+      "ichi": "北緯33度57分11.3秒 東経130度56分7.4秒",
+      "kaisetsubi": "1947年 （昭和22年）12月01日",
+      "kankatsu_chiiki": "山口県"
+    },
+    {
+      "gyomu_tokatsu": "高松支店",
+      "tenmei": "高松支店",
+      "ichi": "北緯34度20分52.8秒 東経134度2分53秒",
+      "kaisetsubi": "1942年（昭和17年） 02月02日",
+      "kankatsu_chiiki": "香川県 ・ 徳島県"
+    },
+    {
+      "gyomu_tokatsu": "高松支店",
+      "tenmei": "徳島事務所",
+      "ichi": "北緯34度4分23秒 東経134度32分48秒",
+      "kaisetsubi": "1945年（昭和20年）04月",
+      "kankatsu_chiiki": "（徳島県）"
+    },
+    {
+      "gyomu_tokatsu": "高松支店",
+      "tenmei": "松山支店",
+      "ichi": "北緯33度50分19秒 東経132度45分54.6秒",
+      "kaisetsubi": "1932年 （昭和7年） 11月01日",
+      "kankatsu_chiiki": "愛媛県"
+    },
+    {
+      "gyomu_tokatsu": "高松支店",
+      "tenmei": "高知支店",
+      "ichi": "北緯33度33分29.8秒 東経133度32分6.8秒",
+      "kaisetsubi": "1943年（昭和18年） 11月10日",
+      "kankatsu_chiiki": "高知県"
+    },
+    {
+      "gyomu_tokatsu": "福岡支店",
+      "tenmei": "北九州支店",
+      "ichi": "北緯33度52分49.4秒 東経130度53分10.1秒",
+      "kaisetsubi": "1893年（明治26年） 10月01日",
+      "kankatsu_chiiki": "北九州市1 政令市 および 京築地方 2市5町"
+    },
+    {
+      "gyomu_tokatsu": "福岡支店",
+      "tenmei": "福岡支店",
+      "ichi": "北緯33度35分35.8秒 東経130度24分1.4秒",
+      "kaisetsubi": "1941年（昭和16年） 12月01日",
+      "kankatsu_chiiki": "北九州支店管轄外の福岡県・ 佐賀県"
+    },
+    {
+      "gyomu_tokatsu": "福岡支店",
+      "tenmei": "佐賀事務所",
+      "ichi": "北緯33度15分35.9秒 東経130度17分57.2秒",
+      "kaisetsubi": "1946年（昭和21年）02月",
+      "kankatsu_chiiki": "（佐賀県）"
+    },
+    {
+      "gyomu_tokatsu": "福岡支店",
+      "tenmei": "大分支店",
+      "ichi": "北緯33度14分19.3秒 東経131度37分4.4秒",
+      "kaisetsubi": "1945年（昭和20年）07月",
+      "kankatsu_chiiki": "大分県"
+    },
+    {
+      "gyomu_tokatsu": "福岡支店",
+      "tenmei": "長崎支店",
+      "ichi": "北緯32度45分9.8秒 東経129度52分52.4秒",
+      "kaisetsubi": "1945年（昭和20年） 04月02日",
+      "kankatsu_chiiki": "長崎県"
+    },
+    {
+      "gyomu_tokatsu": "福岡支店",
+      "tenmei": "熊本支店",
+      "ichi": "北緯32度47分49.1秒 東経130度42分15秒",
+      "kaisetsubi": "1917年（大正6年）08月",
+      "kankatsu_chiiki": "熊本県"
+    },
+    {
+      "gyomu_tokatsu": "福岡支店",
+      "tenmei": "鹿児島支店",
+      "ichi": "北緯31度34分58.6秒 東経130度32分57.9秒",
+      "kaisetsubi": "1943年 （昭和18年）04月01日",
+      "kankatsu_chiiki": "鹿児島県・宮崎県"
+    },
+    {
+      "gyomu_tokatsu": "福岡支店",
+      "tenmei": "宮崎事務所",
+      "ichi": "北緯31度55分9.5秒 東経131度25分26.7秒",
+      "kaisetsubi": "1946年（昭和21年）02月",
+      "kankatsu_chiiki": "（宮崎県）"
+    },
+    {
+      "gyomu_tokatsu": "福岡支店",
+      "tenmei": "那覇支店",
+      "ichi": "北緯26度13分27.6秒 東経127度41分39.4秒",
+      "kaisetsubi": "1972年 （昭和47年） 05月15日",
+      "kankatsu_chiiki": "沖縄県"
+    }
+  ],
+  "meta": {
+    "title": "日本銀行の支店・事務所一覧 - Free Download",
+    "description": "日本銀行の国内支店および事務所の一覧。業務統括店、店名、位置（座標）、開設日、管轄地域を収録。 Contains 45 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本銀行の支店・事務所一覧 | ListBase",
+    "seo_description": "Download 日本銀行の支店・事務所一覧 — 45 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 45 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/日本銀行"
+    ]
+  }
+}
