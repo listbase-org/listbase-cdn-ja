@@ -1,0 +1,66 @@
+{
+  "id": "ja-taiseki-tani-kansan",
+  "name": "体積の単位換算表（石・斗・升・合）",
+  "title": "体積の単位換算表（石・斗・升・合）",
+  "description": "尺貫法の体積（容積）の単位（石・斗・升・合）の相互関係とリットル換算値の一覧。",
+  "category": "units",
+  "source": "https://ja.wikipedia.org/wiki/尺貫法",
+  "source_url": "https://ja.wikipedia.org/wiki/尺貫法",
+  "updated": "2026-11",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "tani",
+      "label": "Tani",
+      "type": "string"
+    },
+    {
+      "key": "kankei",
+      "label": "Kankei",
+      "type": "string"
+    },
+    {
+      "key": "si_kansanchi",
+      "label": "Si Kansanchi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "tani": "石",
+      "kankei": "= 10 斗",
+      "si_kansanchi": "≒ 180.390684 L"
+    },
+    {
+      "tani": "斗",
+      "kankei": "= 10 升",
+      "si_kansanchi": "≒ 18.039068 L"
+    },
+    {
+      "tani": "升",
+      "kankei": "= 10 合 = 2401/1331 L",
+      "si_kansanchi": "≒ 1.803906837 L"
+    },
+    {
+      "tani": "合",
+      "kankei": "= 10 勺",
+      "si_kansanchi": "≒ 180.3906837 mL"
+    },
+    {
+      "tani": "勺",
+      "kankei": "",
+      "si_kansanchi": "≒ 18.0390684 mL"
+    }
+  ],
+  "meta": {
+    "title": "体積の単位換算表（石・斗・升・合） - Free Download",
+    "description": "尺貫法の体積（容積）の単位（石・斗・升・合）の相互関係とリットル換算値の一覧。 Contains 5 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "体積の単位換算表（石・斗・升・合） | ListBase",
+    "seo_description": "Download 体積の単位換算表（石・斗・升・合） — 5 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 5 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/尺貫法"
+    ]
+  }
+}

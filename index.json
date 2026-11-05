@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-05T02:24:05.871Z",
-  "total_datasets": 575,
-  "total_records": 461322,
+  "generated": "2026-11-05T02:24:16.431Z",
+  "total_datasets": 576,
+  "total_records": 461327,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 6
+      "dataset_count": 7
     }
   ],
   "datasets": [
@@ -18420,6 +18420,30 @@
         "xlsx": {
           "name": "ja-shitsuryo-tani-kansan_JA.xlsx",
           "size": 7284
+        }
+      }
+    },
+    {
+      "id": "ja-taiseki-tani-kansan",
+      "name": "体積の単位換算表（石・斗・升・合）",
+      "category": "units",
+      "record_count": 5,
+      "columns": [
+        "tani",
+        "kankei",
+        "si_kansanchi"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/尺貫法",
+      "updated": "2026-11",
+      "size": 2030,
+      "files": {
+        "csv": {
+          "name": "ja-taiseki-tani-kansan_JA.csv",
+          "size": 222
+        },
+        "xlsx": {
+          "name": "ja-taiseki-tani-kansan_JA.xlsx",
+          "size": 6873
         }
       }
     }
