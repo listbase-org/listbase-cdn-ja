@@ -1,0 +1,1664 @@
+{
+  "id": "ja-rekidai-monbu-daijin",
+  "name": "歴代文部卿・文部大臣・文部科学大臣一覧",
+  "title": "歴代文部卿・文部大臣・文部科学大臣一覧",
+  "description": "明治以降の文部卿、文部大臣（1885年〜2001年）および文部科学大臣（2001年〜）の歴代一覧。代数、氏名、内閣、就任年月日、出身母体を収録。",
+  "category": "education",
+  "source": "https://ja.wikipedia.org/wiki/文部科学大臣",
+  "source_url": "https://ja.wikipedia.org/wiki/文部科学大臣",
+  "updated": "2026-11",
+  "record_count": 201,
+  "columns": [
+    {
+      "key": "yakushoku",
+      "label": "Yakushoku",
+      "type": "string"
+    },
+    {
+      "key": "dai",
+      "label": "Dai",
+      "type": "number"
+    },
+    {
+      "key": "shimei",
+      "label": "Shimei",
+      "type": "string"
+    },
+    {
+      "key": "naikaku",
+      "label": "Naikaku",
+      "type": "string"
+    },
+    {
+      "key": "shunin_nengappi",
+      "label": "Shunin Nengappi",
+      "type": "string"
+    },
+    {
+      "key": "shusshin_botai",
+      "label": "Shusshin Botai",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "yakushoku": "文部卿",
+      "dai": "1",
+      "shimei": "大木喬任",
+      "naikaku": "",
+      "shunin_nengappi": "1871年 9月12日 （ 明治 4年 7月28日 ） - 1873年 （明治6年） 4月19日",
+      "shusshin_botai": "肥前藩"
+    },
+    {
+      "yakushoku": "文部卿",
+      "dai": "2",
+      "shimei": "木戸孝允",
+      "naikaku": "",
+      "shunin_nengappi": "1874年 （明治7年） 1月25日 - 1874年 （明治7年） 5月13日",
+      "shusshin_botai": "長州藩"
+    },
+    {
+      "yakushoku": "文部卿",
+      "dai": "－",
+      "shimei": "田中不二麿",
+      "naikaku": "",
+      "shunin_nengappi": "木戸の辞任から西郷の着任まで、 文部大輔 の田中が文部卿の職務を代行 。",
+      "shusshin_botai": "尾張藩"
+    },
+    {
+      "yakushoku": "文部卿",
+      "dai": "3",
+      "shimei": "西郷従道",
+      "naikaku": "",
+      "shunin_nengappi": "1878年 （明治11年） 5月24日 - 1878年 （明治11年） 12月24日",
+      "shusshin_botai": "薩摩藩"
+    },
+    {
+      "yakushoku": "文部卿",
+      "dai": "4",
+      "shimei": "寺島宗則",
+      "naikaku": "",
+      "shunin_nengappi": "1879年 （明治12年） 9月10日 - 1880年 （明治13年）2月28日",
+      "shusshin_botai": "薩摩藩"
+    },
+    {
+      "yakushoku": "文部卿",
+      "dai": "5",
+      "shimei": "河野敏鎌",
+      "naikaku": "",
+      "shunin_nengappi": "1880年 （明治13年） 2月28日 - 1881年 （明治14年）4月7日",
+      "shusshin_botai": "土佐藩"
+    },
+    {
+      "yakushoku": "文部卿",
+      "dai": "6",
+      "shimei": "福岡孝弟",
+      "naikaku": "",
+      "shunin_nengappi": "1881年 （明治14年） 4月7日 - 1883年 （明治16年）12月12日",
+      "shusshin_botai": "土佐藩"
+    },
+    {
+      "yakushoku": "文部卿",
+      "dai": "7",
+      "shimei": "大木喬任",
+      "naikaku": "",
+      "shunin_nengappi": "1883年 （明治16年） 12月12日 - 1885年 （明治18年） 12月22日",
+      "shusshin_botai": "肥前藩"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "1",
+      "shimei": "森有礼",
+      "naikaku": "第1次伊藤内閣",
+      "shunin_nengappi": "1885年 （明治18年） 12月22日",
+      "shusshin_botai": "薩摩藩"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "1",
+      "shimei": "森有礼",
+      "naikaku": "黒田内閣",
+      "shunin_nengappi": "1888年 （明治21年）4月30日",
+      "shusshin_botai": "薩摩藩"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "-",
+      "shimei": "大山巌 （臨時兼任）",
+      "naikaku": "黒田内閣",
+      "shunin_nengappi": "1889年 （明治22年） 2月16日",
+      "shusshin_botai": "薩摩藩"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "2",
+      "shimei": "榎本武揚",
+      "naikaku": "黒田内閣",
+      "shunin_nengappi": "1889年 （明治22年） 3月22日",
+      "shusshin_botai": "幕臣"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "2",
+      "shimei": "榎本武揚",
+      "naikaku": "第1次山縣内閣",
+      "shunin_nengappi": "1889年 (明治22年) 12月24日",
+      "shusshin_botai": "幕臣"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "3",
+      "shimei": "芳川顕正",
+      "naikaku": "第1次山縣内閣",
+      "shunin_nengappi": "1890年 （明治23年） 5月17日",
+      "shusshin_botai": "徳島藩"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "3",
+      "shimei": "芳川顕正",
+      "naikaku": "第1次松方内閣",
+      "shunin_nengappi": "1891年 （明治24年）5月6日",
+      "shusshin_botai": "徳島藩"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "4",
+      "shimei": "大木喬任",
+      "naikaku": "第1次松方内閣",
+      "shunin_nengappi": "1891年 （明治24年） 6月1日",
+      "shusshin_botai": "肥前藩"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "5",
+      "shimei": "河野敏鎌",
+      "naikaku": "第2次伊藤内閣",
+      "shunin_nengappi": "1892年 （明治25年） 8月8日",
+      "shusshin_botai": "土佐藩"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "6",
+      "shimei": "井上毅",
+      "naikaku": "第2次伊藤内閣",
+      "shunin_nengappi": "1893年 （明治26年） 3月7日",
+      "shusshin_botai": "肥前藩"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "-",
+      "shimei": "芳川顕正 （臨時兼任）",
+      "naikaku": "第2次伊藤内閣",
+      "shunin_nengappi": "1894年 （明治27年） 8月29日",
+      "shusshin_botai": "徳島藩"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "7",
+      "shimei": "西園寺公望",
+      "naikaku": "第2次伊藤内閣",
+      "shunin_nengappi": "1894年 （明治27年） 10月3日",
+      "shusshin_botai": "公家"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "7",
+      "shimei": "西園寺公望",
+      "naikaku": "第2次松方内閣",
+      "shunin_nengappi": "1896年 （明治29年）9月18日",
+      "shusshin_botai": "公家"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "8",
+      "shimei": "蜂須賀茂韶",
+      "naikaku": "第2次松方内閣",
+      "shunin_nengappi": "1896年 （明治29年）9月28日",
+      "shusshin_botai": "徳島藩"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "9",
+      "shimei": "浜尾新",
+      "naikaku": "第2次松方内閣",
+      "shunin_nengappi": "1897年 （明治30年） 11月6日",
+      "shusshin_botai": "豊岡藩"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "10",
+      "shimei": "西園寺公望",
+      "naikaku": "第3次伊藤内閣",
+      "shunin_nengappi": "1898年 （明治31年） 1月12日",
+      "shusshin_botai": "公家"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "11",
+      "shimei": "外山正一",
+      "naikaku": "第3次伊藤内閣",
+      "shunin_nengappi": "1898年 （明治31年） 4月30日",
+      "shusshin_botai": "幕臣"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "12",
+      "shimei": "尾崎行雄",
+      "naikaku": "第1次大隈内閣",
+      "shunin_nengappi": "1898年 （明治31年） 6月30日",
+      "shusshin_botai": "憲政党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "13",
+      "shimei": "犬養毅",
+      "naikaku": "第1次大隈内閣",
+      "shunin_nengappi": "1898年 （明治31年） 10月27日",
+      "shusshin_botai": "憲政党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "14",
+      "shimei": "樺山資紀",
+      "naikaku": "第2次山縣内閣",
+      "shunin_nengappi": "1898年 （明治31年）11月8日",
+      "shusshin_botai": "海軍"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "15",
+      "shimei": "松田正久",
+      "naikaku": "第4次伊藤内閣",
+      "shunin_nengappi": "1900年 （明治33年） 10月19日",
+      "shusshin_botai": "立憲政友会"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "16",
+      "shimei": "菊池大麓",
+      "naikaku": "第1次桂内閣",
+      "shunin_nengappi": "1901年 （明治34年） 6月2日",
+      "shusshin_botai": "貴族院"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "17",
+      "shimei": "児玉源太郎 （兼任）",
+      "naikaku": "第1次桂内閣",
+      "shunin_nengappi": "1903年 （明治36年） 7月17日",
+      "shusshin_botai": "陸軍"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "18",
+      "shimei": "久保田譲",
+      "naikaku": "第1次桂内閣",
+      "shunin_nengappi": "1903年 （明治36年） 9月22日",
+      "shusshin_botai": "貴族院"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "19",
+      "shimei": "桂太郎 （兼任）",
+      "naikaku": "第1次桂内閣",
+      "shunin_nengappi": "1905年 （明治38年） 12月14日",
+      "shusshin_botai": "陸軍"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "-",
+      "shimei": "西園寺公望 （臨時兼任）",
+      "naikaku": "第1次西園寺内閣",
+      "shunin_nengappi": "1906年 （明治39年） 1月7日",
+      "shusshin_botai": "立憲政友会"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "20",
+      "shimei": "牧野伸顕",
+      "naikaku": "第1次西園寺内閣",
+      "shunin_nengappi": "1906年 （明治39年） 3月27日",
+      "shusshin_botai": "外務 官僚"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "21",
+      "shimei": "小松原英太郎",
+      "naikaku": "第2次桂内閣",
+      "shunin_nengappi": "1908年 （明治41年） 7月14日",
+      "shusshin_botai": "貴族院"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "22",
+      "shimei": "長谷場純孝",
+      "naikaku": "第2次西園寺内閣",
+      "shunin_nengappi": "1911年 （明治44年） 8月30日",
+      "shusshin_botai": "立憲政友会"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "-",
+      "shimei": "牧野伸顕 （臨時兼任）",
+      "naikaku": "第2次西園寺内閣",
+      "shunin_nengappi": "1912年 （ 大正 元年） 11月9日",
+      "shusshin_botai": "外務官僚"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "23",
+      "shimei": "柴田家門",
+      "naikaku": "第3次桂内閣",
+      "shunin_nengappi": "1912年 （大正元年） 12月21日",
+      "shusshin_botai": "貴族院"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "24",
+      "shimei": "奥田義人",
+      "naikaku": "第1次山本内閣",
+      "shunin_nengappi": "1913年 （大正2年） 2月20日",
+      "shusshin_botai": "立憲政友会"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "25",
+      "shimei": "大岡育造",
+      "naikaku": "第1次山本内閣",
+      "shunin_nengappi": "1914年 （大正3年） 3月6日",
+      "shusshin_botai": "貴族院"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "26",
+      "shimei": "一木喜徳郎",
+      "naikaku": "第2次大隈内閣",
+      "shunin_nengappi": "1914年 （大正3年） 4月16日",
+      "shusshin_botai": "貴族院"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "27",
+      "shimei": "高田早苗",
+      "naikaku": "第2次大隈内閣",
+      "shunin_nengappi": "1915年 （大正4年） 8月10日",
+      "shusshin_botai": "貴族院"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "28",
+      "shimei": "岡田良平",
+      "naikaku": "寺内内閣",
+      "shunin_nengappi": "1916年 （大正5年） 10月9日",
+      "shusshin_botai": "貴族院"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "29",
+      "shimei": "中橋徳五郎",
+      "naikaku": "原内閣",
+      "shunin_nengappi": "1918年 （大正7年） 9月29日",
+      "shusshin_botai": "立憲政友会"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "29",
+      "shimei": "中橋徳五郎",
+      "naikaku": "高橋内閣",
+      "shunin_nengappi": "1921年 （大正10年）11月13日",
+      "shusshin_botai": "立憲政友会"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "30",
+      "shimei": "鎌田栄吉",
+      "naikaku": "加藤友三郎内閣",
+      "shunin_nengappi": "1922年 （大正11年） 6月12日",
+      "shusshin_botai": "貴族院"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "31",
+      "shimei": "犬養毅 （兼任）",
+      "naikaku": "第2次山本内閣",
+      "shunin_nengappi": "1923年 （大正12年） 9月2日",
+      "shusshin_botai": "革新倶楽部"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "32",
+      "shimei": "岡野敬次郎 （兼任）",
+      "naikaku": "第2次山本内閣",
+      "shunin_nengappi": "1923年 （大正12年） 9月6日",
+      "shusshin_botai": "貴族院立憲政友会"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "33",
+      "shimei": "江木千之",
+      "naikaku": "清浦内閣",
+      "shunin_nengappi": "1924年 （大正13年）1月7日",
+      "shusshin_botai": "貴族院"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "34",
+      "shimei": "岡田良平",
+      "naikaku": "加藤高明内閣",
+      "shunin_nengappi": "1924年 （大正13年） 6月11日",
+      "shusshin_botai": "貴族院"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "34",
+      "shimei": "岡田良平",
+      "naikaku": "第1次若槻内閣",
+      "shunin_nengappi": "1926年 （大正15年）1月30日",
+      "shusshin_botai": "貴族院"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "35",
+      "shimei": "三土忠造",
+      "naikaku": "田中義一内閣",
+      "shunin_nengappi": "1927年 （ 昭和 2年） 4月20日",
+      "shusshin_botai": "立憲政友会"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "36",
+      "shimei": "水野錬太郎",
+      "naikaku": "田中義一内閣",
+      "shunin_nengappi": "1927年 （昭和2年）6月2日",
+      "shusshin_botai": "立憲政友会"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "37",
+      "shimei": "勝田主計",
+      "naikaku": "田中義一内閣",
+      "shunin_nengappi": "1928年 （昭和3年） 5月25日",
+      "shusshin_botai": "貴族院"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "38",
+      "shimei": "小橋一太",
+      "naikaku": "濱口内閣",
+      "shunin_nengappi": "1929年 （昭和4年） 7月2日",
+      "shusshin_botai": "立憲民政党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "39",
+      "shimei": "田中隆三",
+      "naikaku": "濱口内閣",
+      "shunin_nengappi": "1929年 （昭和4年） 11月29日",
+      "shusshin_botai": "立憲民政党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "39",
+      "shimei": "田中隆三",
+      "naikaku": "第2次若槻内閣",
+      "shunin_nengappi": "1931年 （昭和6年）4月14日",
+      "shusshin_botai": "立憲民政党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "40",
+      "shimei": "鳩山一郎",
+      "naikaku": "犬養内閣",
+      "shunin_nengappi": "1931年 （昭和6年） 12月13日",
+      "shusshin_botai": "立憲政友会"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "40",
+      "shimei": "鳩山一郎",
+      "naikaku": "齋藤内閣",
+      "shunin_nengappi": "1932年（昭和7年）5月26日",
+      "shusshin_botai": "立憲政友会"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "41",
+      "shimei": "斎藤実 （兼任）",
+      "naikaku": "齋藤内閣",
+      "shunin_nengappi": "1933年 （昭和8年） 3月3日",
+      "shusshin_botai": "海軍"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "42",
+      "shimei": "松田源治",
+      "naikaku": "岡田内閣",
+      "shunin_nengappi": "1934年 （昭和9年） 7月8日",
+      "shusshin_botai": "立憲民政党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "43",
+      "shimei": "川崎卓吉",
+      "naikaku": "岡田内閣",
+      "shunin_nengappi": "1936年 （昭和11年） 2月2日",
+      "shusshin_botai": "立憲民政党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "44",
+      "shimei": "潮恵之輔 （兼任）",
+      "naikaku": "廣田内閣",
+      "shunin_nengappi": "1936年 （昭和11年） 3月9日",
+      "shusshin_botai": "貴族院"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "45",
+      "shimei": "平生釟三郎",
+      "naikaku": "廣田内閣",
+      "shunin_nengappi": "1936年 （昭和11年） 3月25日",
+      "shusshin_botai": "貴族院"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "46",
+      "shimei": "林銑十郎 （兼任）",
+      "naikaku": "林内閣",
+      "shunin_nengappi": "1937年 （昭和12年）2月2日",
+      "shusshin_botai": "陸軍"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "47",
+      "shimei": "安井英二",
+      "naikaku": "第1次近衛内閣",
+      "shunin_nengappi": "1937年 （昭和12年） 6月4日",
+      "shusshin_botai": "内務 官僚"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "48",
+      "shimei": "木戸幸一",
+      "naikaku": "第1次近衛内閣",
+      "shunin_nengappi": "1937年 （昭和12年） 10月22日",
+      "shusshin_botai": "貴族院"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "49",
+      "shimei": "荒木貞夫",
+      "naikaku": "第1次近衛内閣",
+      "shunin_nengappi": "1938年 （昭和13年） 5月26日",
+      "shusshin_botai": "陸軍"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "49",
+      "shimei": "荒木貞夫",
+      "naikaku": "平沼内閣",
+      "shunin_nengappi": "1939年 （昭和14年）1月5日",
+      "shusshin_botai": "陸軍"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "50",
+      "shimei": "河原田稼吉",
+      "naikaku": "阿部内閣",
+      "shunin_nengappi": "1939年 （昭和14年）8月30日",
+      "shusshin_botai": "貴族院"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "51",
+      "shimei": "松浦鎮次郎",
+      "naikaku": "米内内閣",
+      "shunin_nengappi": "1940年 （昭和15年） 1月16日",
+      "shusshin_botai": "文部官僚"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "52",
+      "shimei": "橋田邦彦",
+      "naikaku": "第2次近衛内閣",
+      "shunin_nengappi": "1940年 （昭和15年） 7月22日",
+      "shusshin_botai": "東大 教授"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "52",
+      "shimei": "橋田邦彦",
+      "naikaku": "第3次近衛内閣",
+      "shunin_nengappi": "1941年 （昭和16年）7月18日",
+      "shusshin_botai": "東大 教授"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "52",
+      "shimei": "橋田邦彦",
+      "naikaku": "東條内閣",
+      "shunin_nengappi": "1941年 （昭和16年）10月18日",
+      "shusshin_botai": "東大 教授"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "53",
+      "shimei": "東條英機 （兼任）",
+      "naikaku": "東條内閣",
+      "shunin_nengappi": "1943年 （昭和18年）4月20日",
+      "shusshin_botai": "陸軍"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "54",
+      "shimei": "岡部長景",
+      "naikaku": "東條内閣",
+      "shunin_nengappi": "1943年 （昭和18年） 4月23日",
+      "shusshin_botai": "貴族院"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "55",
+      "shimei": "二宮治重",
+      "naikaku": "小磯内閣",
+      "shunin_nengappi": "1944年 （昭和19年）7月22日",
+      "shusshin_botai": "陸軍"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "56",
+      "shimei": "児玉秀雄",
+      "naikaku": "小磯内閣",
+      "shunin_nengappi": "1945年 （昭和20年） 2月10日",
+      "shusshin_botai": "貴族院"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "57",
+      "shimei": "太田耕造",
+      "naikaku": "鈴木貫太郎内閣",
+      "shunin_nengappi": "1945年 （昭和20年） 4月7日",
+      "shusshin_botai": "貴族院"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "58",
+      "shimei": "松村謙三 （兼任）",
+      "naikaku": "東久邇宮内閣",
+      "shunin_nengappi": "1945年 （昭和20年） 8月17日",
+      "shusshin_botai": "大日本政治会"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "59",
+      "shimei": "前田多門",
+      "naikaku": "東久邇宮内閣",
+      "shunin_nengappi": "1945年 （昭和20年） 8月18日",
+      "shusshin_botai": "貴族院"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "59",
+      "shimei": "前田多門",
+      "naikaku": "幣原内閣",
+      "shunin_nengappi": "1945年 （昭和20年）10月9日",
+      "shusshin_botai": "貴族院"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "60",
+      "shimei": "安倍能成",
+      "naikaku": "幣原内閣",
+      "shunin_nengappi": "1946年 （昭和21年）1月13日",
+      "shusshin_botai": "貴族院"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "61",
+      "shimei": "田中耕太郎",
+      "naikaku": "第1次吉田内閣",
+      "shunin_nengappi": "1946年 （昭和21年） 5月22日",
+      "shusshin_botai": "民間人"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "62",
+      "shimei": "高橋誠一郎",
+      "naikaku": "第1次吉田内閣",
+      "shunin_nengappi": "1947年 （昭和22年） 1月31日",
+      "shusshin_botai": "民間人"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "-",
+      "shimei": "片山哲 （臨時代理）",
+      "naikaku": "片山内閣",
+      "shunin_nengappi": "1947年 （昭和22年）5月24日",
+      "shusshin_botai": "日本社会党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "63",
+      "shimei": "森戸辰男",
+      "naikaku": "片山内閣",
+      "shunin_nengappi": "1947年 （昭和22年）6月1日",
+      "shusshin_botai": "日本社会党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "64",
+      "shimei": "森戸辰男",
+      "naikaku": "芦田内閣",
+      "shunin_nengappi": "1948年 （昭和23年）3月10日",
+      "shusshin_botai": "日本社会党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "-",
+      "shimei": "吉田茂 （臨時代理）",
+      "naikaku": "第2次吉田内閣",
+      "shunin_nengappi": "1948年 （昭和23年）10月15日",
+      "shusshin_botai": "民主自由党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "65",
+      "shimei": "下条康麿",
+      "naikaku": "第2次吉田内閣",
+      "shunin_nengappi": "1948年 （昭和23年） 10月19日",
+      "shusshin_botai": "参議院 緑風会"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "66",
+      "shimei": "高瀬荘太郎",
+      "naikaku": "第3次吉田内閣",
+      "shunin_nengappi": "1949年 （昭和24年）2月16日",
+      "shusshin_botai": "参議院緑風会"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "67",
+      "shimei": "天野貞祐",
+      "naikaku": "第3次吉田内閣",
+      "shunin_nengappi": "1950年 （昭和25年）5月6日",
+      "shusshin_botai": "民間人"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "67",
+      "shimei": "天野貞祐",
+      "naikaku": "第3次吉田第1次改造内閣",
+      "shunin_nengappi": "1950年 （昭和25年）6月28日",
+      "shusshin_botai": "民間人"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "67",
+      "shimei": "天野貞祐",
+      "naikaku": "第3次吉田第2次改造内閣",
+      "shunin_nengappi": "1951年 （昭和26年）7月4日",
+      "shusshin_botai": "民間人"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "67",
+      "shimei": "天野貞祐",
+      "naikaku": "第3次吉田第3次改造内閣",
+      "shunin_nengappi": "1951年 （昭和26年）12月26日",
+      "shusshin_botai": "民間人"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "68",
+      "shimei": "岡野清豪",
+      "naikaku": "第3次吉田第3次改造内閣",
+      "shunin_nengappi": "1952年 （昭和27年） 8月12日",
+      "shusshin_botai": "自由党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "69",
+      "shimei": "岡野清豪",
+      "naikaku": "第4次吉田内閣",
+      "shunin_nengappi": "1952年 （昭和27年） 10月30日",
+      "shusshin_botai": "自由党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "70",
+      "shimei": "大達茂雄",
+      "naikaku": "第5次吉田内閣",
+      "shunin_nengappi": "1953年 （昭和28年） 5月21日",
+      "shusshin_botai": "参議院自由党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "71",
+      "shimei": "安藤正純",
+      "naikaku": "第1次鳩山内閣",
+      "shunin_nengappi": "1954年 （昭和29年） 12月10日",
+      "shusshin_botai": "日本民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "72",
+      "shimei": "松村謙三",
+      "naikaku": "第2次鳩山内閣",
+      "shunin_nengappi": "1955年 （昭和30年） 3月19日",
+      "shusshin_botai": "日本民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "73",
+      "shimei": "清瀬一郎",
+      "naikaku": "第3次鳩山内閣",
+      "shunin_nengappi": "1955年 （昭和30年） 11月22日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "-",
+      "shimei": "石橋湛山 （臨時代理）",
+      "naikaku": "石橋内閣",
+      "shunin_nengappi": "1956年 （昭和31年）12月23日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "74",
+      "shimei": "灘尾弘吉",
+      "naikaku": "石橋内閣",
+      "shunin_nengappi": "1956年 （昭和31年） 12月23日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "75",
+      "shimei": "灘尾弘吉",
+      "naikaku": "第1次岸内閣",
+      "shunin_nengappi": "1957年 （昭和32年） 2月25日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "76",
+      "shimei": "松永東",
+      "naikaku": "第1次岸改造内閣",
+      "shunin_nengappi": "1957年 （昭和32年） 7月10日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "77",
+      "shimei": "灘尾弘吉",
+      "naikaku": "第2次岸内閣",
+      "shunin_nengappi": "1958年 （昭和33年）6月12日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "78",
+      "shimei": "橋本龍伍",
+      "naikaku": "第2次岸内閣",
+      "shunin_nengappi": "1958年 （昭和33年） 12月31日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "79",
+      "shimei": "松田竹千代",
+      "naikaku": "第2次岸改造内閣",
+      "shunin_nengappi": "1959年 （昭和34年） 6月18日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "80",
+      "shimei": "荒木萬壽夫",
+      "naikaku": "第1次池田内閣",
+      "shunin_nengappi": "1960年 （昭和35年） 7月19日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "81",
+      "shimei": "荒木萬壽夫",
+      "naikaku": "第2次池田内閣",
+      "shunin_nengappi": "1960年 （昭和35年） 12月8日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "81",
+      "shimei": "荒木萬壽夫",
+      "naikaku": "第2次池田第1次改造内閣",
+      "shunin_nengappi": "1961年 （昭和36年）7月18日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "81",
+      "shimei": "荒木萬壽夫",
+      "naikaku": "第2次池田第2次改造内閣",
+      "shunin_nengappi": "1962年 （昭和37年）7月18日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "82",
+      "shimei": "灘尾弘吉",
+      "naikaku": "第2次池田第3次改造内閣",
+      "shunin_nengappi": "1963年 （昭和38年） 7月18日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "83",
+      "shimei": "灘尾弘吉",
+      "naikaku": "第3次池田内閣",
+      "shunin_nengappi": "1963年 （昭和38年） 12月9日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "84",
+      "shimei": "愛知揆一",
+      "naikaku": "第3次池田改造内閣",
+      "shunin_nengappi": "1964年 （昭和39年）7月18日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "85",
+      "shimei": "愛知揆一",
+      "naikaku": "第1次佐藤内閣",
+      "shunin_nengappi": "1964年 （昭和39年）11月9日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "86",
+      "shimei": "中村梅吉",
+      "naikaku": "第1次佐藤第1次改造内閣",
+      "shunin_nengappi": "1965年 （昭和40年） 6月3日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "87",
+      "shimei": "有田喜一",
+      "naikaku": "第1次佐藤第2次改造内閣",
+      "shunin_nengappi": "1966年 （昭和41年） 8月1日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "88",
+      "shimei": "剱木亨弘",
+      "naikaku": "第1次佐藤第3次改造内閣",
+      "shunin_nengappi": "1966年 （昭和41年） 12月3日",
+      "shusshin_botai": "参議院自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "89",
+      "shimei": "剱木亨弘",
+      "naikaku": "第2次佐藤内閣",
+      "shunin_nengappi": "1967年 （昭和42年） 2月17日",
+      "shusshin_botai": "参議院自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "90",
+      "shimei": "灘尾弘吉",
+      "naikaku": "第2次佐藤第1次改造内閣",
+      "shunin_nengappi": "1967年 （昭和42年） 11月25日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "91",
+      "shimei": "坂田道太",
+      "naikaku": "第2次佐藤第2次改造内閣",
+      "shunin_nengappi": "1968年 （昭和43年） 11月30日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "92",
+      "shimei": "坂田道太",
+      "naikaku": "第3次佐藤内閣",
+      "shunin_nengappi": "1970年 （昭和45年） 1月14日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "93",
+      "shimei": "高見三郎",
+      "naikaku": "第3次佐藤改造内閣",
+      "shunin_nengappi": "1971年 （昭和46年） 7月5日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "94",
+      "shimei": "稲葉修",
+      "naikaku": "第1次田中角栄内閣",
+      "shunin_nengappi": "1972年 （昭和47年） 7月7日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "95",
+      "shimei": "奥野誠亮",
+      "naikaku": "第2次田中角栄内閣",
+      "shunin_nengappi": "1972年 （昭和47年）12月22日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "95",
+      "shimei": "奥野誠亮",
+      "naikaku": "第2次田中角栄第1次改造内閣",
+      "shunin_nengappi": "1972年 （昭和47年）12月22日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "96",
+      "shimei": "三原朝雄",
+      "naikaku": "第2次田中角栄第2次改造内閣",
+      "shunin_nengappi": "1974年 （昭和49年） 11月11日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "97",
+      "shimei": "永井道雄",
+      "naikaku": "三木内閣",
+      "shunin_nengappi": "1974年 （昭和49年） 12月9日",
+      "shusshin_botai": "民間人"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "97",
+      "shimei": "永井道雄",
+      "naikaku": "三木改造内閣",
+      "shunin_nengappi": "1974年 （昭和49年） 12月9日",
+      "shusshin_botai": "民間人"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "98",
+      "shimei": "海部俊樹",
+      "naikaku": "福田赳夫内閣",
+      "shunin_nengappi": "1976年 （昭和51年） 12月24日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "99",
+      "shimei": "砂田重民",
+      "naikaku": "福田赳夫改造内閣",
+      "shunin_nengappi": "1977年 （昭和52年） 11月28日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "100",
+      "shimei": "内藤誉三郎",
+      "naikaku": "第1次大平内閣",
+      "shunin_nengappi": "1978年 （昭和53年） 12月7日",
+      "shusshin_botai": "参議院自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "-",
+      "shimei": "大平正芳 （臨時代理）",
+      "naikaku": "第2次大平内閣",
+      "shunin_nengappi": "1979年 （昭和54年）11月9日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "101",
+      "shimei": "谷垣専一",
+      "naikaku": "第2次大平内閣",
+      "shunin_nengappi": "1979年 （昭和54年） 11月20日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "102",
+      "shimei": "田中龍夫",
+      "naikaku": "鈴木善幸内閣",
+      "shunin_nengappi": "1980年 （昭和55年）7月17日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "103",
+      "shimei": "小川平二",
+      "naikaku": "鈴木善幸改造内閣",
+      "shunin_nengappi": "1981年 （昭和56年）11月30日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "104",
+      "shimei": "瀬戸山三男",
+      "naikaku": "第1次中曽根内閣",
+      "shunin_nengappi": "1982年 （昭和57年） 11月27日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "105",
+      "shimei": "森喜朗",
+      "naikaku": "第2次中曽根内閣",
+      "shunin_nengappi": "1983年 （昭和58年） 12月27日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "106",
+      "shimei": "松永光",
+      "naikaku": "第2次中曽根第1次改造内閣",
+      "shunin_nengappi": "1984年 （昭和59年） 11月1日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "107",
+      "shimei": "海部俊樹",
+      "naikaku": "第2次中曽根第2次改造内閣",
+      "shunin_nengappi": "1985年 （昭和60年） 12月28日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "108",
+      "shimei": "藤尾正行",
+      "naikaku": "第3次中曽根内閣",
+      "shunin_nengappi": "1986年 （昭和61年）7月22日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "109",
+      "shimei": "塩川正十郎",
+      "naikaku": "第3次中曽根内閣",
+      "shunin_nengappi": "1986年 （昭和61年） 9月9日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "110",
+      "shimei": "中島源太郎",
+      "naikaku": "竹下内閣",
+      "shunin_nengappi": "1987年 （昭和62年）11月6日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "111",
+      "shimei": "西岡武夫",
+      "naikaku": "竹下改造内閣",
+      "shunin_nengappi": "1988年 （昭和63年）12月27日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "112",
+      "shimei": "西岡武夫",
+      "naikaku": "宇野内閣",
+      "shunin_nengappi": "1989年 （ 平成 元年）6月3日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "113",
+      "shimei": "石橋一弥",
+      "naikaku": "第1次海部内閣",
+      "shunin_nengappi": "1989年 （平成元年）8月10日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "114",
+      "shimei": "保利耕輔",
+      "naikaku": "第2次海部内閣",
+      "shunin_nengappi": "1990年 （平成2年） 2月28日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "115",
+      "shimei": "井上裕",
+      "naikaku": "第2次海部改造内閣",
+      "shunin_nengappi": "1990年 （平成2年） 12月29日",
+      "shusshin_botai": "参議院自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "116",
+      "shimei": "鳩山邦夫",
+      "naikaku": "宮澤内閣",
+      "shunin_nengappi": "1991年 （平成3年） 11月5日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "117",
+      "shimei": "森山真弓",
+      "naikaku": "宮澤改造内閣",
+      "shunin_nengappi": "1992年 （平成4年） 12月12日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "118",
+      "shimei": "赤松良子",
+      "naikaku": "細川内閣",
+      "shunin_nengappi": "1993年 （平成5年） 8月9日",
+      "shusshin_botai": "民間人"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "-",
+      "shimei": "羽田孜 （臨時代理）",
+      "naikaku": "羽田内閣",
+      "shunin_nengappi": "1994年 （平成6年） 4月28日",
+      "shusshin_botai": "新生党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "119",
+      "shimei": "赤松良子",
+      "naikaku": "羽田内閣",
+      "shunin_nengappi": "1994年 （平成6年） 4月28日",
+      "shusshin_botai": "民間人"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "120",
+      "shimei": "与謝野馨",
+      "naikaku": "村山内閣",
+      "shunin_nengappi": "1994年 （平成6年）6月30日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "121",
+      "shimei": "島村宣伸",
+      "naikaku": "村山改造内閣",
+      "shunin_nengappi": "1995年 （平成7年）8月8日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "122",
+      "shimei": "奥田幹生",
+      "naikaku": "第1次橋本内閣",
+      "shunin_nengappi": "1996年 （平成8年） 1月11日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "123",
+      "shimei": "小杉隆",
+      "naikaku": "第2次橋本内閣",
+      "shunin_nengappi": "1996年 （平成8年） 11月7日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "124",
+      "shimei": "町村信孝",
+      "naikaku": "第2次橋本改造内閣",
+      "shunin_nengappi": "1997年 （平成9年） 9月11日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "125",
+      "shimei": "有馬朗人",
+      "naikaku": "小渕内閣",
+      "shunin_nengappi": "1998年 （平成10年） 7月30日",
+      "shusshin_botai": "参議院自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "125",
+      "shimei": "有馬朗人",
+      "naikaku": "小渕第1次改造内閣",
+      "shunin_nengappi": "1999年 （平成11年）1月14日",
+      "shusshin_botai": "参議院自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "126",
+      "shimei": "中曽根弘文",
+      "naikaku": "小渕第2次改造内閣",
+      "shunin_nengappi": "1999年 （平成11年） 10月5日",
+      "shusshin_botai": "参議院自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "127",
+      "shimei": "中曽根弘文",
+      "naikaku": "第1次森内閣",
+      "shunin_nengappi": "2000年 （平成12年） 4月5日",
+      "shusshin_botai": "参議院自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "128",
+      "shimei": "大島理森",
+      "naikaku": "第2次森内閣",
+      "shunin_nengappi": "2000年 （平成12年） 7月4日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部大臣",
+      "dai": "129",
+      "shimei": "町村信孝",
+      "naikaku": "第2次森改造内閣",
+      "shunin_nengappi": "2000年 （平成12年） 12月5日",
+      "shusshin_botai": "自由民主党"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "1",
+      "shimei": "町村信孝",
+      "naikaku": "第2次森改造内閣（再編後）",
+      "shunin_nengappi": "2001年 （平成13年） 1月6日",
+      "shusshin_botai": "自由民主党 （ 森派 ）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "2",
+      "shimei": "遠山敦子",
+      "naikaku": "第1次小泉内閣 第1次小泉第1次改造内閣",
+      "shunin_nengappi": "2001年 （平成13年） 4月26日",
+      "shusshin_botai": "民間"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "3",
+      "shimei": "河村建夫",
+      "naikaku": "第1次小泉第2次改造内閣",
+      "shunin_nengappi": "2003年 （平成15年） 9月22日",
+      "shusshin_botai": "自由民主党 （江藤・亀井派）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "4",
+      "shimei": "河村建夫",
+      "naikaku": "第2次小泉内閣",
+      "shunin_nengappi": "2003年 （平成15年） 11月19日",
+      "shusshin_botai": "自由民主党 （亀井派）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "5",
+      "shimei": "中山成彬",
+      "naikaku": "第2次小泉改造内閣",
+      "shunin_nengappi": "2004年 （平成16年） 9月27日",
+      "shusshin_botai": "自由民主党 （森派）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "6",
+      "shimei": "中山成彬",
+      "naikaku": "第3次小泉内閣",
+      "shunin_nengappi": "2005年 （平成17年） 9月21日",
+      "shusshin_botai": "自由民主党 （森派）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "7",
+      "shimei": "小坂憲次",
+      "naikaku": "第3次小泉改造内閣",
+      "shunin_nengappi": "2005年 （平成17年） 10月31日",
+      "shusshin_botai": "自由民主党 （ 旧橋本派 ）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "8",
+      "shimei": "伊吹文明",
+      "naikaku": "第1次安倍内閣 第1次安倍改造内閣",
+      "shunin_nengappi": "2006年 （平成18年） 9月26日",
+      "shusshin_botai": "自由民主党 （ 伊吹派 ）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "9",
+      "shimei": "渡海紀三朗",
+      "naikaku": "福田康夫内閣",
+      "shunin_nengappi": "2007年 （平成19年）9月26日",
+      "shusshin_botai": "自由民主党 （ 山崎派 ）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "10",
+      "shimei": "鈴木恒夫",
+      "naikaku": "福田康夫改造内閣",
+      "shunin_nengappi": "2008年 （平成20年）8月2日",
+      "shusshin_botai": "自由民主党 （ 麻生派 ）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "11",
+      "shimei": "塩谷立",
+      "naikaku": "麻生内閣",
+      "shunin_nengappi": "2008年 （平成20年）9月24日",
+      "shusshin_botai": "自由民主党 （ 町村派 ）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "12",
+      "shimei": "川端達夫",
+      "naikaku": "鳩山由紀夫内閣",
+      "shunin_nengappi": "2009年 （平成21年）9月16日",
+      "shusshin_botai": "民主党 （ 川端グループ ・ 旧民社グループ ・ 鳩山グループ ）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "13",
+      "shimei": "川端達夫",
+      "naikaku": "菅直人内閣",
+      "shunin_nengappi": "2010年 （平成22年） 6月8日",
+      "shusshin_botai": "民主党 （ 川端グループ ・ 旧民社グループ ・ 鳩山グループ ）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "14",
+      "shimei": "高木義明",
+      "naikaku": "菅直人第1次改造内閣 菅直人第2次改造内閣",
+      "shunin_nengappi": "2010年 （平成22年） 9月17日",
+      "shusshin_botai": "民主党 （旧民社グループ）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "15",
+      "shimei": "中川正春",
+      "naikaku": "野田内閣",
+      "shunin_nengappi": "2011年 （平成23年） 9月2日",
+      "shusshin_botai": "民主党 （ 羽田グループ ）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "16",
+      "shimei": "平野博文",
+      "naikaku": "野田第1次改造内閣 野田第2次改造内閣",
+      "shunin_nengappi": "2012年 （平成24年） 1月13日",
+      "shusshin_botai": "民主党 （ 鳩山グループ ）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "17",
+      "shimei": "田中眞紀子",
+      "naikaku": "野田第3次改造内閣",
+      "shunin_nengappi": "2012年 （平成24年） 10月1日",
+      "shusshin_botai": "民主党 （ 小沢グループ ）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "18",
+      "shimei": "下村博文",
+      "naikaku": "第2次安倍内閣 第2次安倍改造内閣",
+      "shunin_nengappi": "2012年 （平成24年） 12月26日",
+      "shusshin_botai": "自由民主党 （町村派）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "19",
+      "shimei": "下村博文",
+      "naikaku": "第3次安倍内閣",
+      "shunin_nengappi": "2014年 （平成26年） 12月24日",
+      "shusshin_botai": "自由民主党 （町村派）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "20",
+      "shimei": "馳浩",
+      "naikaku": "第3次安倍第1次改造内閣",
+      "shunin_nengappi": "2015年 （平成27年） 10月7日",
+      "shusshin_botai": "自由民主党 （ 細田派 ）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "21",
+      "shimei": "松野博一",
+      "naikaku": "第3次安倍第2次改造内閣",
+      "shunin_nengappi": "2016年 （平成28年） 8月3日",
+      "shusshin_botai": "自由民主党 （ 細田派 ）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "22",
+      "shimei": "林芳正",
+      "naikaku": "第3次安倍第3次改造内閣",
+      "shunin_nengappi": "2017年 （平成29年） 8月3日",
+      "shusshin_botai": "自由民主党 （ 岸田派 ）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "23",
+      "shimei": "林芳正",
+      "naikaku": "第4次安倍内閣",
+      "shunin_nengappi": "2017年 （平成29年） 11月1日",
+      "shusshin_botai": "自由民主党 （ 岸田派 ）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "24",
+      "shimei": "柴山昌彦",
+      "naikaku": "第4次安倍第1次改造内閣",
+      "shunin_nengappi": "2018年 （平成30年） 10月2日",
+      "shusshin_botai": "自由民主党 （細田派- 安倍派 ）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "25",
+      "shimei": "萩生田光一",
+      "naikaku": "第4次安倍第2次改造内閣",
+      "shunin_nengappi": "2019年 （令和元年） 9月11日",
+      "shusshin_botai": "自由民主党 （細田派- 安倍派 ）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "26",
+      "shimei": "萩生田光一",
+      "naikaku": "菅義偉内閣",
+      "shunin_nengappi": "2020年 （令和2年） 9月16日",
+      "shusshin_botai": "自由民主党 （細田派- 安倍派 ）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "27",
+      "shimei": "末松信介",
+      "naikaku": "第1次岸田内閣",
+      "shunin_nengappi": "2021年 （令和3年） 10月4日",
+      "shusshin_botai": "自由民主党 （細田派- 安倍派 ）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "28",
+      "shimei": "末松信介",
+      "naikaku": "第2次岸田内閣",
+      "shunin_nengappi": "2021年 （令和3年） 11月10日",
+      "shusshin_botai": "自由民主党 （細田派- 安倍派 ）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "29",
+      "shimei": "永岡桂子",
+      "naikaku": "第2次岸田第1次改造内閣",
+      "shunin_nengappi": "2022年 （令和4年） 8月10日",
+      "shusshin_botai": "自由民主党 （麻生派）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "30",
+      "shimei": "盛山正仁",
+      "naikaku": "第2次岸田第2次改造内閣",
+      "shunin_nengappi": "2023年 （令和5年） 9月13日",
+      "shusshin_botai": "自由民主党 （岸田派）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "31",
+      "shimei": "阿部俊子",
+      "naikaku": "第1次石破内閣",
+      "shunin_nengappi": "2024年 （令和6年） 10月1日",
+      "shusshin_botai": "自由民主党 （無派閥）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "32",
+      "shimei": "阿部俊子",
+      "naikaku": "第2次石破内閣",
+      "shunin_nengappi": "2024年 （令和6年） 11月11日",
+      "shusshin_botai": "自由民主党 （無派閥）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "33",
+      "shimei": "松本洋平",
+      "naikaku": "第1次高市内閣",
+      "shunin_nengappi": "2025年 （令和7年） 10月21日",
+      "shusshin_botai": "自由民主党 （無派閥）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "34",
+      "shimei": "松本洋平",
+      "naikaku": "第2次高市内閣",
+      "shunin_nengappi": "2026年 （令和8年） 2月18日",
+      "shusshin_botai": "自由民主党 （無派閥）"
+    },
+    {
+      "yakushoku": "文部科学大臣",
+      "dai": "35",
+      "shimei": "関芳弘",
+      "naikaku": "第2次高市改造内閣",
+      "shunin_nengappi": "2026年 （令和8年） 9月17日",
+      "shusshin_botai": "自由民主党 （無派閥）"
+    }
+  ],
+  "meta": {
+    "title": "歴代文部卿・文部大臣・文部科学大臣一覧 - Free Download",
+    "description": "明治以降の文部卿、文部大臣（1885年〜2001年）および文部科学大臣（2001年〜）の歴代一覧。代数、氏名、内閣、就任年月日、出身母体を収録。 Contains 201 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "歴代文部卿・文部大臣・文部科学大臣一覧 | ListBase",
+    "seo_description": "Download 歴代文部卿・文部大臣・文部科学大臣一覧 — 201 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 201 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/文部科学大臣"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-05T02:23:53.549Z",
-  "total_datasets": 574,
-  "total_records": 461121,
+  "generated": "2026-11-05T02:24:05.871Z",
+  "total_datasets": 575,
+  "total_records": 461322,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "entertainment",
@@ -1023,6 +1023,33 @@
         "xlsx": {
           "name": "ja-nogyo-koko_JA.xlsx",
           "size": 21105
+        }
+      }
+    },
+    {
+      "id": "ja-rekidai-monbu-daijin",
+      "name": "歴代文部卿・文部大臣・文部科学大臣一覧",
+      "category": "education",
+      "record_count": 201,
+      "columns": [
+        "yakushoku",
+        "dai",
+        "shimei",
+        "naikaku",
+        "shunin_nengappi",
+        "shusshin_botai"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/文部科学大臣",
+      "updated": "2026-11",
+      "size": 52479,
+      "files": {
+        "csv": {
+          "name": "ja-rekidai-monbu-daijin_JA.csv",
+          "size": 24015
+        },
+        "xlsx": {
+          "name": "ja-rekidai-monbu-daijin_JA.xlsx",
+          "size": 16907
         }
       }
     },
