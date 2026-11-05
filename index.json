@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-05T02:23:39.845Z",
-  "total_datasets": 573,
-  "total_records": 461084,
+  "generated": "2026-11-05T02:23:53.549Z",
+  "total_datasets": 574,
+  "total_records": 461121,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -687,6 +687,33 @@
         "xlsx": {
           "name": "ja-chiiki-dantai-shohyo_JA.xlsx",
           "size": 83839
+        }
+      }
+    },
+    {
+      "id": "ja-nihon-ginko-sosai",
+      "name": "歴代日本銀行総裁一覧",
+      "category": "economy",
+      "record_count": 37,
+      "columns": [
+        "dai",
+        "shimei",
+        "zaishoku_kikan",
+        "shusshinchi",
+        "shusshinko",
+        "zenshoku_biko"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/日本銀行",
+      "updated": "2026-11",
+      "size": 12597,
+      "files": {
+        "csv": {
+          "name": "ja-nihon-ginko-sosai_JA.csv",
+          "size": 5923
+        },
+        "xlsx": {
+          "name": "ja-nihon-ginko-sosai_JA.xlsx",
+          "size": 9845
         }
       }
     },

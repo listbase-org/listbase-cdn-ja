@@ -1,0 +1,352 @@
+{
+  "id": "ja-nihon-ginko-sosai",
+  "name": "歴代日本銀行総裁一覧",
+  "title": "歴代日本銀行総裁一覧",
+  "description": "1882年の日本銀行創立以来の歴代総裁の一覧。代数、氏名、在職期間、出身地、出身校、前職・備考を収録。",
+  "category": "economy",
+  "source": "https://ja.wikipedia.org/wiki/日本銀行",
+  "source_url": "https://ja.wikipedia.org/wiki/日本銀行",
+  "updated": "2026-11",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "dai",
+      "label": "Dai",
+      "type": "number"
+    },
+    {
+      "key": "shimei",
+      "label": "Shimei",
+      "type": "string"
+    },
+    {
+      "key": "zaishoku_kikan",
+      "label": "Zaishoku Kikan",
+      "type": "string"
+    },
+    {
+      "key": "shusshinchi",
+      "label": "Shusshinchi",
+      "type": "string"
+    },
+    {
+      "key": "shusshinko",
+      "label": "Shusshinko",
+      "type": "string"
+    },
+    {
+      "key": "zenshoku_biko",
+      "label": "Zenshoku Biko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "dai": "1",
+      "shimei": "吉原重俊",
+      "zaishoku_kikan": "1882年 10月6日 - 1887年 12月19日 （亡）",
+      "shusshinchi": "鹿児島県",
+      "shusshinko": "イェール大学",
+      "zenshoku_biko": "大蔵 少輔（次官）"
+    },
+    {
+      "dai": "2",
+      "shimei": "富田鐵之助",
+      "zaishoku_kikan": "1888年 2月22日 - 1889年 9月3日 （不）",
+      "shusshinchi": "宮城県",
+      "shusshinko": "ニューアーク 商業学校",
+      "zenshoku_biko": "大蔵大書記官"
+    },
+    {
+      "dai": "3",
+      "shimei": "川田小一郎",
+      "zaishoku_kikan": "1889年9月3日 - 1896年 11月7日 （亡）",
+      "shusshinchi": "高知県",
+      "shusshinko": "土佐藩",
+      "zenshoku_biko": "三菱 事務総監"
+    },
+    {
+      "dai": "4",
+      "shimei": "岩崎彌之助",
+      "zaishoku_kikan": "1896年 11月11日 - 1898年 10月20日 （願）",
+      "shusshinchi": "高知県",
+      "shusshinko": "致道館 成達書院",
+      "zenshoku_biko": "三菱財閥総帥"
+    },
+    {
+      "dai": "5",
+      "shimei": "山本達雄",
+      "zaishoku_kikan": "1898年10月20日 - 1903年 10月19日 （満）",
+      "shusshinchi": "大分県",
+      "shusshinko": "慶應義塾 三菱商業学校",
+      "zenshoku_biko": "郵便汽船三菱会社（現 日本郵船 ）"
+    },
+    {
+      "dai": "6",
+      "shimei": "松尾臣善",
+      "zaishoku_kikan": "1903年10月20日 - 1911年 6月1日 （願）",
+      "shusshinchi": "兵庫県",
+      "shusshinko": "宇和島藩",
+      "zenshoku_biko": "大蔵省 主計局長 、大蔵省 理財局長"
+    },
+    {
+      "dai": "7",
+      "shimei": "高橋是清",
+      "zaishoku_kikan": "1911年6月1日 - 1913年 2月20日 （不）",
+      "shusshinchi": "東京都",
+      "shusshinko": "ヘボン塾",
+      "zenshoku_biko": "特許局 初代長官、第20代 内閣総理大臣"
+    },
+    {
+      "dai": "8",
+      "shimei": "三島彌太郎",
+      "zaishoku_kikan": "1913年 2月28日 - 1919年 3月7日 （亡）",
+      "shusshinchi": "鹿児島県",
+      "shusshinko": "駒場農学校 マサチューセッツ農科大学",
+      "zenshoku_biko": "横浜正金銀行 頭取"
+    },
+    {
+      "dai": "9",
+      "shimei": "井上準之助 (1期目)",
+      "zaishoku_kikan": "1919年 3月13日 - 1923年 9月2日 （不）",
+      "shusshinchi": "大分県",
+      "shusshinko": "東京帝国大学",
+      "zenshoku_biko": "日本銀行はえぬき第1号、横浜正金銀行頭取"
+    },
+    {
+      "dai": "10",
+      "shimei": "市来乙彦",
+      "zaishoku_kikan": "1923年 9月5日 - 1927年 5月9日 （不）",
+      "shusshinchi": "鹿児島県",
+      "shusshinko": "東京帝国大学",
+      "zenshoku_biko": "大蔵 次官 、 大蔵大臣"
+    },
+    {
+      "dai": "11",
+      "shimei": "井上準之助 (2期目)",
+      "zaishoku_kikan": "1927年 5月10日 - 1928年 6月12日 （不）",
+      "shusshinchi": "大分県",
+      "shusshinko": "前掲",
+      "zenshoku_biko": "貴族院議員 、 東洋文庫 初代理事長"
+    },
+    {
+      "dai": "12",
+      "shimei": "土方久徴",
+      "zaishoku_kikan": "1928年6月12日 - 1935年 6月4日 （不）",
+      "shusshinchi": "三重県",
+      "shusshinko": "東京帝国大学",
+      "zenshoku_biko": "日本銀行、 日本興業銀行 総裁"
+    },
+    {
+      "dai": "13",
+      "shimei": "深井英五",
+      "zaishoku_kikan": "1935年6月4日 - 1937年 2月9日 （不）",
+      "shusshinchi": "群馬県",
+      "shusshinko": "同志社英学校",
+      "zenshoku_biko": "國民新聞社 外報部長、 松方正義 蔵相秘書官"
+    },
+    {
+      "dai": "14",
+      "shimei": "池田成彬",
+      "zaishoku_kikan": "1937年2月9日 - 1937年 7月27日 （不）",
+      "shusshinchi": "山形県",
+      "shusshinko": "慶應義塾大学",
+      "zenshoku_biko": "三井銀行筆頭常務取締役、 三井合名会社 筆頭常務理事"
+    },
+    {
+      "dai": "15",
+      "shimei": "結城豊太郎",
+      "zaishoku_kikan": "1937年7月27日 - 1944年 3月18日 （不）",
+      "shusshinchi": "山形県",
+      "shusshinko": "東京帝国大学",
+      "zenshoku_biko": "日本銀行、日本興業銀行総裁、 商工組合中央金庫 初代理事長"
+    },
+    {
+      "dai": "16",
+      "shimei": "渋沢敬三",
+      "zaishoku_kikan": "1944年3月18日 - 1945年 10月9日 （不）",
+      "shusshinchi": "東京都",
+      "shusshinko": "東京帝国大学",
+      "zenshoku_biko": "第一銀行 副頭取"
+    },
+    {
+      "dai": "17",
+      "shimei": "新木榮吉 (1期目)",
+      "zaishoku_kikan": "1945年10月9日 - 1946年 6月1日（不）",
+      "shusshinchi": "石川県",
+      "shusshinko": "東京帝国大学",
+      "zenshoku_biko": "日本銀行理事"
+    },
+    {
+      "dai": "18",
+      "shimei": "一万田尚登",
+      "zaishoku_kikan": "1946年6月1日 - 1951年 5月31日 （満）",
+      "shusshinchi": "大分県",
+      "shusshinko": "東京帝国大学",
+      "zenshoku_biko": "日本銀行最長在職。「法王」と呼ばれる。"
+    },
+    {
+      "dai": "18",
+      "shimei": "一万田尚登",
+      "zaishoku_kikan": "1951年6月1日 - 1954年 12月10日 （願）",
+      "shusshinchi": "大分県",
+      "shusshinko": "東京帝国大学",
+      "zenshoku_biko": "日本銀行最長在職。「法王」と呼ばれる。"
+    },
+    {
+      "dai": "19",
+      "shimei": "新木榮吉 (2期目)",
+      "zaishoku_kikan": "1954年 12月11日 - 1956年 11月30日 （願）",
+      "shusshinchi": "石川県",
+      "shusshinko": "前掲",
+      "zenshoku_biko": "東京電力 会長、駐米大使"
+    },
+    {
+      "dai": "20",
+      "shimei": "山際正道",
+      "zaishoku_kikan": "1956年11月30日 - 1961年 11月29日 （満）",
+      "shusshinchi": "東京都",
+      "shusshinko": "東京帝国大学",
+      "zenshoku_biko": "大蔵事務次官、 日本輸出入銀行 総裁"
+    },
+    {
+      "dai": "20",
+      "shimei": "山際正道",
+      "zaishoku_kikan": "1961年11月30日 - 1964年 12月17日 （願）",
+      "shusshinchi": "東京都",
+      "shusshinko": "東京帝国大学",
+      "zenshoku_biko": "大蔵事務次官、 日本輸出入銀行 総裁"
+    },
+    {
+      "dai": "21",
+      "shimei": "宇佐美洵",
+      "zaishoku_kikan": "1964年12月17日 - 1969年 12月16日 （満）",
+      "shusshinchi": "山形県",
+      "shusshinko": "慶應義塾大学",
+      "zenshoku_biko": "三菱銀行 頭取"
+    },
+    {
+      "dai": "22",
+      "shimei": "佐々木直",
+      "zaishoku_kikan": "1969年12月17日 - 1974年 12月16日（満）",
+      "shusshinchi": "山口県",
+      "shusshinko": "東京帝国大学",
+      "zenshoku_biko": "日本銀行副総裁"
+    },
+    {
+      "dai": "23",
+      "shimei": "森永貞一郎",
+      "zaishoku_kikan": "1974年12月17日 - 1979年 12月16日（満）",
+      "shusshinchi": "宮崎県",
+      "shusshinko": "東京帝国大学",
+      "zenshoku_biko": "大蔵事務次官、 東京証券取引所 理事長"
+    },
+    {
+      "dai": "24",
+      "shimei": "前川春雄",
+      "zaishoku_kikan": "1979年12月17日 - 1984年 12月16日（満）",
+      "shusshinchi": "東京都",
+      "shusshinko": "東京帝国大学",
+      "zenshoku_biko": "日本銀行副総裁"
+    },
+    {
+      "dai": "25",
+      "shimei": "澄田智",
+      "zaishoku_kikan": "1984年12月17日 - 1989年 12月16日（満）",
+      "shusshinchi": "群馬県",
+      "shusshinko": "東京帝国大学",
+      "zenshoku_biko": "大蔵事務次官、日本輸出入銀行総裁、日本銀行副総裁"
+    },
+    {
+      "dai": "26",
+      "shimei": "三重野康",
+      "zaishoku_kikan": "1989年12月17日 - 1994年 12月16日（満）",
+      "shusshinchi": "大分県",
+      "shusshinko": "東京帝国大学",
+      "zenshoku_biko": "日本銀行副総裁"
+    },
+    {
+      "dai": "27",
+      "shimei": "松下康雄",
+      "zaishoku_kikan": "1994年12月17日 - 1998年 3月20日 （願）",
+      "shusshinchi": "兵庫県",
+      "shusshinko": "東京大学",
+      "zenshoku_biko": "大蔵事務次官、 太陽神戸銀行 頭取、 さくら銀行 会長"
+    },
+    {
+      "dai": "28",
+      "shimei": "速水優",
+      "zaishoku_kikan": "1998年3月20日 - 2003年 3月19日 （満）",
+      "shusshinchi": "兵庫県",
+      "shusshinko": "東京商科大学",
+      "zenshoku_biko": "日本銀行理事、 日商岩井 会長、 経済同友会 代表幹事"
+    },
+    {
+      "dai": "29",
+      "shimei": "福井俊彦",
+      "zaishoku_kikan": "2003年3月20日 - 2008年 3月19日（満）",
+      "shusshinchi": "大阪府",
+      "shusshinko": "東京大学",
+      "zenshoku_biko": "日本銀行副総裁、 富士通総研 理事長、経済同友会副代表幹事"
+    },
+    {
+      "dai": "-",
+      "shimei": "白川方明",
+      "zaishoku_kikan": "(2008年3月20日 - 2008年 4月9日)",
+      "shusshinchi": "福岡県",
+      "shusshinko": "東京大学",
+      "zenshoku_biko": "日本銀行理事、 京都大学 教授 （2008年4月9日まで副総裁（総裁代行）、同日から総裁に昇格 ）"
+    },
+    {
+      "dai": "30",
+      "shimei": "白川方明",
+      "zaishoku_kikan": "2008年4月9日 - 2013年3月19日（願）",
+      "shusshinchi": "福岡県",
+      "shusshinko": "東京大学",
+      "zenshoku_biko": "日本銀行理事、 京都大学 教授 （2008年4月9日まで副総裁（総裁代行）、同日から総裁に昇格 ）"
+    },
+    {
+      "dai": "31",
+      "shimei": "黒田東彦",
+      "zaishoku_kikan": "2013年3月20日 - 2013年 4月8日 （満）",
+      "shusshinchi": "福岡県",
+      "shusshinko": "東京大学",
+      "zenshoku_biko": "財務官 、 一橋大学 教授、 アジア開発銀行 総裁"
+    },
+    {
+      "dai": "31",
+      "shimei": "黒田東彦",
+      "zaishoku_kikan": "2013年4月9日 - 2018年4月8日（満）",
+      "shusshinchi": "福岡県",
+      "shusshinko": "東京大学",
+      "zenshoku_biko": "財務官 、 一橋大学 教授、 アジア開発銀行 総裁"
+    },
+    {
+      "dai": "31",
+      "shimei": "黒田東彦",
+      "zaishoku_kikan": "2018年4月9日 - 2023年4月8日（満）",
+      "shusshinchi": "福岡県",
+      "shusshinko": "東京大学",
+      "zenshoku_biko": "財務官 、 一橋大学 教授、 アジア開発銀行 総裁"
+    },
+    {
+      "dai": "32",
+      "shimei": "植田和男",
+      "zaishoku_kikan": "2023年4月9日 - 現在",
+      "shusshinchi": "静岡県",
+      "shusshinko": "東京大学",
+      "zenshoku_biko": "共立女子大学 教授 、 東京大学 教授、 日揮ホールディングス株式会社社外取締役 、 日本経済学会会長"
+    }
+  ],
+  "meta": {
+    "title": "歴代日本銀行総裁一覧 - Free Download",
+    "description": "1882年の日本銀行創立以来の歴代総裁の一覧。代数、氏名、在職期間、出身地、出身校、前職・備考を収録。 Contains 37 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "歴代日本銀行総裁一覧 | ListBase",
+    "seo_description": "Download 歴代日本銀行総裁一覧 — 37 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 37 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/日本銀行"
+    ]
+  }
+}
