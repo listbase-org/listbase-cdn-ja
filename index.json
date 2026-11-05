@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-04T02:25:21.242Z",
-  "total_datasets": 571,
-  "total_records": 461034,
+  "generated": "2026-11-05T02:23:29.260Z",
+  "total_datasets": 572,
+  "total_records": 461039,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 5
+      "dataset_count": 6
     }
   ],
   "datasets": [
@@ -18234,6 +18234,30 @@
         "xlsx": {
           "name": "ja-kyori-tani-kansan_JA.xlsx",
           "size": 7580
+        }
+      }
+    },
+    {
+      "id": "ja-menseki-tani-kansan",
+      "name": "面積の単位換算表（町・反・畝・坪・合）",
+      "category": "units",
+      "record_count": 5,
+      "columns": [
+        "tani",
+        "kankei",
+        "si_kansanchi"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/尺貫法",
+      "updated": "2026-11",
+      "size": 2160,
+      "files": {
+        "csv": {
+          "name": "ja-menseki-tani-kansan_JA.csv",
+          "size": 274
+        },
+        "xlsx": {
+          "name": "ja-menseki-tani-kansan_JA.xlsx",
+          "size": 6916
         }
       }
     },

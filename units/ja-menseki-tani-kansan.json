@@ -1,0 +1,66 @@
+{
+  "id": "ja-menseki-tani-kansan",
+  "name": "面積の単位換算表（町・反・畝・坪・合）",
+  "title": "面積の単位換算表（町・反・畝・坪・合）",
+  "description": "尺貫法の面積の単位（町・反（段）・畝・坪（歩）・合・勺）の相互関係と平方メートル換算値の一覧。",
+  "category": "units",
+  "source": "https://ja.wikipedia.org/wiki/尺貫法",
+  "source_url": "https://ja.wikipedia.org/wiki/尺貫法",
+  "updated": "2026-11",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "tani",
+      "label": "Tani",
+      "type": "string"
+    },
+    {
+      "key": "kankei",
+      "label": "Kankei",
+      "type": "string"
+    },
+    {
+      "key": "si_kansanchi",
+      "label": "Si Kansanchi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "tani": "町",
+      "kankei": "= 10 反（段）",
+      "si_kansanchi": "≒ 9917.355372 m²"
+    },
+    {
+      "tani": "反（段）",
+      "kankei": "= 10 畝",
+      "si_kansanchi": "≒ 991.735537 m²"
+    },
+    {
+      "tani": "畝",
+      "kankei": "= 30 坪（歩）",
+      "si_kansanchi": "≒ 99.173553 m²"
+    },
+    {
+      "tani": "坪（歩）",
+      "kankei": "= 10 合 = 400/121平米",
+      "si_kansanchi": "≒ 3.305785 m²"
+    },
+    {
+      "tani": "合",
+      "kankei": "= 10 勺",
+      "si_kansanchi": "≒ 0.330578512 m²"
+    }
+  ],
+  "meta": {
+    "title": "面積の単位換算表（町・反・畝・坪・合） - Free Download",
+    "description": "尺貫法の面積の単位（町・反（段）・畝・坪（歩）・合・勺）の相互関係と平方メートル換算値の一覧。 Contains 5 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "面積の単位換算表（町・反・畝・坪・合） | ListBase",
+    "seo_description": "Download 面積の単位換算表（町・反・畝・坪・合） — 5 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 5 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/尺貫法"
+    ]
+  }
+}
