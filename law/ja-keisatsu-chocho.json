@@ -1,0 +1,340 @@
+{
+  "id": "ja-keisatsu-chocho",
+  "name": "歴代警察庁長官一覧",
+  "title": "歴代警察庁長官一覧",
+  "description": "1954年警察庁発足以降の歴代警察庁長官の代、氏名、入省/入庁年次、任命年月日、退任後の主な公職の一覧。",
+  "category": "law",
+  "source": "https://ja.wikipedia.org/wiki/警察庁長官",
+  "source_url": "https://ja.wikipedia.org/wiki/警察庁長官",
+  "updated": "2026-11",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "dai",
+      "label": "Dai",
+      "type": "number"
+    },
+    {
+      "key": "shimei",
+      "label": "Shimei",
+      "type": "string"
+    },
+    {
+      "key": "nyusho_nenji",
+      "label": "Nyusho Nenji",
+      "type": "string"
+    },
+    {
+      "key": "ninmei_nengappi",
+      "label": "Ninmei Nengappi",
+      "type": "string"
+    },
+    {
+      "key": "tainingo_shoku",
+      "label": "Tainingo Shoku",
+      "type": "string"
+    },
+    {
+      "key": "ikai",
+      "label": "Ikai",
+      "type": "string"
+    },
+    {
+      "key": "kunto",
+      "label": "Kunto",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "dai": "1",
+      "shimei": "斎藤昇",
+      "nyusho_nenji": "1927年 （昭和2年）",
+      "ninmei_nengappi": "1954年 7月1日 （昭和29年）",
+      "tainingo_shoku": "厚生大臣 ・ 運輸大臣",
+      "ikai": "正三位",
+      "kunto": "勲一等"
+    },
+    {
+      "dai": "2",
+      "shimei": "石井榮三",
+      "nyusho_nenji": "1932年 （昭和7年）",
+      "ninmei_nengappi": "1955年 7月1日 （昭和30年）",
+      "tainingo_shoku": "社団法人 全日本指定自動車教習所協会連合会 会長",
+      "ikai": "従三位",
+      "kunto": "勲二等"
+    },
+    {
+      "dai": "3",
+      "shimei": "柏村信雄",
+      "nyusho_nenji": "1934年 （昭和9年）",
+      "ninmei_nengappi": "1958年 8月29日 （昭和33年）",
+      "tainingo_shoku": "海外移住事業団 理事長",
+      "ikai": "従三位",
+      "kunto": "勲一等"
+    },
+    {
+      "dai": "4",
+      "shimei": "江口俊男",
+      "nyusho_nenji": "1935年 （昭和10年）",
+      "ninmei_nengappi": "1963年 5月10日 （昭和38年）",
+      "tainingo_shoku": "公害防止事業団 理事長",
+      "ikai": "",
+      "kunto": "勲一等"
+    },
+    {
+      "dai": "5",
+      "shimei": "新井裕",
+      "nyusho_nenji": "1937年 （昭和12年）",
+      "ninmei_nengappi": "1965年 5月19日 （昭和40年）",
+      "tainingo_shoku": "警察協会 会長 都市防犯研究センター会長",
+      "ikai": "従三位",
+      "kunto": "勲二等"
+    },
+    {
+      "dai": "6",
+      "shimei": "後藤田正晴",
+      "nyusho_nenji": "1939年 （昭和14年）",
+      "ninmei_nengappi": "1969年 8月12日 （昭和44年）",
+      "tainingo_shoku": "内閣官房長官 ・ 副総理 ・ 法務大臣",
+      "ikai": "正三位",
+      "kunto": "勲一等"
+    },
+    {
+      "dai": "7",
+      "shimei": "高橋幹夫",
+      "nyusho_nenji": "1941年 （昭和16年）",
+      "ninmei_nengappi": "1972年 6月24日 （昭和47年）",
+      "tainingo_shoku": "（社） 日本自動車連盟 会長",
+      "ikai": "正三位",
+      "kunto": "勲二等"
+    },
+    {
+      "dai": "8",
+      "shimei": "淺沼清太郎",
+      "nyusho_nenji": "1942年 （昭和17年）",
+      "ninmei_nengappi": "1974年 10月9日 （昭和49年）",
+      "tainingo_shoku": "阪神高速道路公団 理事長 （財）都市交通問題調査会理事長 （財）関西空港調査会理事長",
+      "ikai": "正四位",
+      "kunto": "瑞宝重光章"
+    },
+    {
+      "dai": "9",
+      "shimei": "山本鎭彦",
+      "nyusho_nenji": "1943年 （昭和18年）",
+      "ninmei_nengappi": "1978年 6月1日 （昭和53年）",
+      "tainingo_shoku": "ベルギー大使",
+      "ikai": "従三位",
+      "kunto": "勲二等"
+    },
+    {
+      "dai": "10",
+      "shimei": "三井脩",
+      "nyusho_nenji": "1946年 （昭和21年）",
+      "ninmei_nengappi": "1981年 6月2日 （昭和56年）",
+      "tainingo_shoku": "日本道路交通情報センター 理事長",
+      "ikai": "正三位",
+      "kunto": "勲二等"
+    },
+    {
+      "dai": "11",
+      "shimei": "鈴木貞敏",
+      "nyusho_nenji": "1948年 （昭和23年）",
+      "ninmei_nengappi": "1984年 9月25日 （昭和59年）",
+      "tainingo_shoku": "参議院議員 参議院 農林水産委員長",
+      "ikai": "従三位",
+      "kunto": "勲二等"
+    },
+    {
+      "dai": "12",
+      "shimei": "山田英雄",
+      "nyusho_nenji": "1953年 （昭和28年）",
+      "ninmei_nengappi": "1985年 8月27日 （昭和60年）",
+      "tainingo_shoku": "（財）公共政策調査会理事長",
+      "ikai": "",
+      "kunto": "勲二等"
+    },
+    {
+      "dai": "13",
+      "shimei": "金澤昭雄",
+      "nyusho_nenji": "1954年 （昭和29年）",
+      "ninmei_nengappi": "1988年 1月22日 （昭和63年）",
+      "tainingo_shoku": "自動車安全運転センター 理事長 （社）全日本指定自動車教習所協会連合会会長",
+      "ikai": "",
+      "kunto": "勲二等"
+    },
+    {
+      "dai": "14",
+      "shimei": "鈴木良一",
+      "nyusho_nenji": "1956年 （昭和31年）",
+      "ninmei_nengappi": "1990年 12月7日 （ 平成 2年）",
+      "tainingo_shoku": "警察共済組合 理事長",
+      "ikai": "",
+      "kunto": "勲二等"
+    },
+    {
+      "dai": "15",
+      "shimei": "城内康光",
+      "nyusho_nenji": "1958年 （昭和33年）",
+      "ninmei_nengappi": "1992年 9月18日 （平成4年）",
+      "tainingo_shoku": "ギリシャ大使",
+      "ikai": "",
+      "kunto": "瑞宝重光章"
+    },
+    {
+      "dai": "16",
+      "shimei": "國松孝次",
+      "nyusho_nenji": "1961年 （昭和36年）",
+      "ninmei_nengappi": "1994年 7月12日 （平成6年）",
+      "tainingo_shoku": "スイス大使 救急ヘリ病院ネットワーク会長",
+      "ikai": "",
+      "kunto": ""
+    },
+    {
+      "dai": "17",
+      "shimei": "関口祐弘",
+      "nyusho_nenji": "1963年 （昭和38年）",
+      "ninmei_nengappi": "1997年 3月31日 （平成9年）",
+      "tainingo_shoku": "警察共済組合理事長",
+      "ikai": "従三位",
+      "kunto": "瑞宝重光章"
+    },
+    {
+      "dai": "18",
+      "shimei": "田中節夫",
+      "nyusho_nenji": "1966年 （昭和41年）",
+      "ninmei_nengappi": "2000年 1月11日 （平成12年）",
+      "tainingo_shoku": "日本自動車連盟会長",
+      "ikai": "",
+      "kunto": "瑞宝重光章"
+    },
+    {
+      "dai": "19",
+      "shimei": "佐藤英彦",
+      "nyusho_nenji": "1968年 （昭和43年）",
+      "ninmei_nengappi": "2002年 8月2日 （平成14年）",
+      "tainingo_shoku": "警察共済組合理事長",
+      "ikai": "",
+      "kunto": "瑞宝重光章"
+    },
+    {
+      "dai": "20",
+      "shimei": "漆間巌",
+      "nyusho_nenji": "1969年 （昭和44年）",
+      "ninmei_nengappi": "2004年 8月13日 （平成16年）",
+      "tainingo_shoku": "財団法人 交通事故総合分析センター 理事長 内閣官房副長官 （事務担当）",
+      "ikai": "",
+      "kunto": "旭日大綬章"
+    },
+    {
+      "dai": "21",
+      "shimei": "吉村博人",
+      "nyusho_nenji": "1971年 （昭和46年）",
+      "ninmei_nengappi": "2007年 8月16日 （平成19年）",
+      "tainingo_shoku": "日本生命 顧問 警察共済組合理事長",
+      "ikai": "",
+      "kunto": "瑞宝重光章"
+    },
+    {
+      "dai": "22",
+      "shimei": "安藤隆春",
+      "nyusho_nenji": "1972年 （昭和47年）",
+      "ninmei_nengappi": "2009年 6月26日 （平成21年）",
+      "tainingo_shoku": "三井住友海上火災保険 顧問 ニトリホールディングス 取締役 東横イン 取締役、 アミューズ 取締役 ゼンショーホールディングス 取締役 デジタルデータソリューション 取締役 日本ゴルフツアー機構 理事",
+      "ikai": "",
+      "kunto": "瑞宝重光章"
+    },
+    {
+      "dai": "23",
+      "shimei": "片桐裕",
+      "nyusho_nenji": "1975年 （昭和50年）",
+      "ninmei_nengappi": "2011年 10月17日 （平成23年）",
+      "tainingo_shoku": "（財）公共政策調査会理事長 第一三共 監査役、 東京商工会議所 顧問",
+      "ikai": "",
+      "kunto": "瑞宝重光章"
+    },
+    {
+      "dai": "24",
+      "shimei": "米田壮",
+      "nyusho_nenji": "1976年 （昭和51年）",
+      "ninmei_nengappi": "2013年 1月25日 （平成25年）",
+      "tainingo_shoku": "神戸市 顧問、 日本取引所グループ 取締役 （財）公共政策調査会理事長",
+      "ikai": "",
+      "kunto": "瑞宝重光章"
+    },
+    {
+      "dai": "25",
+      "shimei": "金髙雅仁",
+      "nyusho_nenji": "1978年 （昭和53年）",
+      "ninmei_nengappi": "2015年 1月23日 （平成27年）",
+      "tainingo_shoku": "警察共済組合理事長",
+      "ikai": "",
+      "kunto": "瑞宝重光章"
+    },
+    {
+      "dai": "26",
+      "shimei": "坂口正芳",
+      "nyusho_nenji": "1980年 （昭和55年）",
+      "ninmei_nengappi": "2016年 8月10日 （平成28年）",
+      "tainingo_shoku": "日本生命保険 相互会社特別顧問、 日本ガイシ 監査役 日本自動車連盟会長",
+      "ikai": "",
+      "kunto": ""
+    },
+    {
+      "dai": "27",
+      "shimei": "栗生俊一",
+      "nyusho_nenji": "1981年 （昭和56年）",
+      "ninmei_nengappi": "2018年 1月18日 （平成30年）",
+      "tainingo_shoku": "ANAホールディングス 顧問 内閣官房副長官（事務担当）",
+      "ikai": "",
+      "kunto": ""
+    },
+    {
+      "dai": "28",
+      "shimei": "松本光弘",
+      "nyusho_nenji": "1983年 （昭和58年）",
+      "ninmei_nengappi": "2020年 1月17日 （令和2年）",
+      "tainingo_shoku": "日本生命保険相互会社特別顧問、第一三共監査役",
+      "ikai": "",
+      "kunto": ""
+    },
+    {
+      "dai": "29",
+      "shimei": "中村格",
+      "nyusho_nenji": "1986年 （昭和61年）",
+      "ninmei_nengappi": "2021年 9月22日 （令和3年）",
+      "tainingo_shoku": "日本生命保険相互会社特別顧問",
+      "ikai": "",
+      "kunto": ""
+    },
+    {
+      "dai": "30",
+      "shimei": "露木康浩",
+      "nyusho_nenji": "1986年 （昭和61年）",
+      "ninmei_nengappi": "2022年 8月30日 （令和4年）",
+      "tainingo_shoku": "内閣官房副長官（事務担当）",
+      "ikai": "",
+      "kunto": ""
+    },
+    {
+      "dai": "31",
+      "shimei": "楠芳伸",
+      "nyusho_nenji": "1989年 （平成元年）",
+      "ninmei_nengappi": "2025年 1月27日 （令和7年）",
+      "tainingo_shoku": "",
+      "ikai": "",
+      "kunto": ""
+    }
+  ],
+  "meta": {
+    "title": "歴代警察庁長官一覧 - Free Download",
+    "description": "1954年警察庁発足以降の歴代警察庁長官の代、氏名、入省/入庁年次、任命年月日、退任後の主な公職の一覧。 Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "歴代警察庁長官一覧 | ListBase",
+    "seo_description": "Download 歴代警察庁長官一覧 — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/警察庁長官"
+    ]
+  }
+}

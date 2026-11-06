@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-06T02:29:45.563Z",
-  "total_datasets": 578,
-  "total_records": 461660,
+  "generated": "2026-11-06T02:29:54.590Z",
+  "total_datasets": 579,
+  "total_records": 461691,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "music",
@@ -7201,6 +7201,34 @@
         "xlsx": {
           "name": "ja-keimusho-ichiran_JA.xlsx",
           "size": 10921
+        }
+      }
+    },
+    {
+      "id": "ja-keisatsu-chocho",
+      "name": "歴代警察庁長官一覧",
+      "category": "law",
+      "record_count": 31,
+      "columns": [
+        "dai",
+        "shimei",
+        "nyusho_nenji",
+        "ninmei_nengappi",
+        "tainingo_shoku",
+        "ikai",
+        "kunto"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/警察庁長官",
+      "updated": "2026-11",
+      "size": 11521,
+      "files": {
+        "csv": {
+          "name": "ja-keisatsu-chocho_JA.csv",
+          "size": 5193
+        },
+        "xlsx": {
+          "name": "ja-keisatsu-chocho_JA.xlsx",
+          "size": 9621
         }
       }
     },
