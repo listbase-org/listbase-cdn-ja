@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-06T02:29:35.395Z",
-  "total_datasets": 577,
-  "total_records": 461613,
+  "generated": "2026-11-06T02:29:45.563Z",
+  "total_datasets": 578,
+  "total_records": 461660,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 48
+      "dataset_count": 49
     },
     {
       "id": "reference",
@@ -8667,6 +8667,36 @@
         "xlsx": {
           "name": "ja-tochigi-shugiin-senkyoku_JA.xlsx",
           "size": 7001
+        }
+      }
+    },
+    {
+      "id": "ja-todofuken-chiji",
+      "name": "都道府県知事の一覧",
+      "category": "politics",
+      "record_count": 47,
+      "columns": [
+        "todofuken",
+        "shimei",
+        "nenrei",
+        "shuninnbi",
+        "ninki_manryobi",
+        "ki",
+        "shozoku",
+        "shusshin_ko",
+        "mae_shoku"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/都道府県知事の一覧",
+      "updated": "2026-11",
+      "size": 19141,
+      "files": {
+        "csv": {
+          "name": "ja-todofuken-chiji_JA.csv",
+          "size": 8766
+        },
+        "xlsx": {
+          "name": "ja-todofuken-chiji_JA.xlsx",
+          "size": 11670
         }
       }
     },

@@ -1,0 +1,588 @@
+{
+  "id": "ja-todofuken-chiji",
+  "name": "都道府県知事の一覧",
+  "title": "都道府県知事の一覧",
+  "description": "日本の47都道府県の現職知事一覧（氏名、就任日、任期満了日、期、所属党派、出身校、主な前職）。",
+  "category": "politics",
+  "source": "https://ja.wikipedia.org/wiki/都道府県知事の一覧",
+  "source_url": "https://ja.wikipedia.org/wiki/都道府県知事の一覧",
+  "updated": "2026-11",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "todofuken",
+      "label": "Todofuken",
+      "type": "string"
+    },
+    {
+      "key": "shimei",
+      "label": "Shimei",
+      "type": "string"
+    },
+    {
+      "key": "nenrei",
+      "label": "Nenrei",
+      "type": "number"
+    },
+    {
+      "key": "shuninnbi",
+      "label": "Shuninnbi",
+      "type": "string"
+    },
+    {
+      "key": "ninki_manryobi",
+      "label": "Ninki Manryobi",
+      "type": "string"
+    },
+    {
+      "key": "ki",
+      "label": "Ki",
+      "type": "number"
+    },
+    {
+      "key": "shozoku",
+      "label": "Shozoku",
+      "type": "string"
+    },
+    {
+      "key": "shusshin_ko",
+      "label": "Shusshin Ko",
+      "type": "string"
+    },
+    {
+      "key": "mae_shoku",
+      "label": "Mae Shoku",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "todofuken": "北海道",
+      "shimei": "鈴木直道",
+      "nenrei": 45,
+      "shuninnbi": "2019年 4月23日",
+      "ninki_manryobi": "2027年 4月22日",
+      "ki": 2,
+      "shozoku": "無所属",
+      "shusshin_ko": "法政大学 第二部 法学部",
+      "mae_shoku": "東京都 職員 夕張市長"
+    },
+    {
+      "todofuken": "青森県",
+      "shimei": "宮下宗一郎",
+      "nenrei": 47,
+      "shuninnbi": "2023年 6月29日",
+      "ninki_manryobi": "2027年 6月28日",
+      "ki": 1,
+      "shozoku": "無所属",
+      "shusshin_ko": "東北大学法学部",
+      "mae_shoku": "国土交通省 職員 むつ市長"
+    },
+    {
+      "todofuken": "岩手県",
+      "shimei": "達増拓也",
+      "nenrei": 62,
+      "shuninnbi": "2007年 4月30日",
+      "ninki_manryobi": "2027年 9月10日",
+      "ki": 5,
+      "shozoku": "無所属",
+      "shusshin_ko": "東京大学法学部 ジョンズ・ホプキンス大学SAIS",
+      "mae_shoku": "外務省 職員 衆議院議員"
+    },
+    {
+      "todofuken": "宮城県",
+      "shimei": "村井嘉浩",
+      "nenrei": 66,
+      "shuninnbi": "2005年 11月21日",
+      "ninki_manryobi": "2029年 11月20日",
+      "ki": 6,
+      "shozoku": "無所属",
+      "shusshin_ko": "防衛大学校 理工学専攻",
+      "mae_shoku": "陸上自衛官 宮城県議会議員"
+    },
+    {
+      "todofuken": "秋田県",
+      "shimei": "鈴木健太",
+      "nenrei": 51,
+      "shuninnbi": "2025年 4月20日",
+      "ninki_manryobi": "2029年 4月19日",
+      "ki": 1,
+      "shozoku": "無所属",
+      "shusshin_ko": "京都大学法学部",
+      "mae_shoku": "陸上自衛官 司法書士 秋田県議会議員 秋田県議会副議長"
+    },
+    {
+      "todofuken": "山形県",
+      "shimei": "吉村美栄子",
+      "nenrei": 75,
+      "shuninnbi": "2009年 2月14日",
+      "ninki_manryobi": "2029年 2月13日",
+      "ki": 5,
+      "shozoku": "無所属",
+      "shusshin_ko": "お茶の水女子大学 文教育学部",
+      "mae_shoku": "リクルート 従業員 行政書士"
+    },
+    {
+      "todofuken": "福島県",
+      "shimei": "内堀雅雄",
+      "nenrei": 62,
+      "shuninnbi": "2014年 11月12日",
+      "ninki_manryobi": "2030年 11月11日",
+      "ki": 4,
+      "shozoku": "無所属",
+      "shusshin_ko": "東京大学経済学部",
+      "mae_shoku": "総務省 自治財政局 地方債課理事官 福島県 副知事"
+    },
+    {
+      "todofuken": "茨城県",
+      "shimei": "大井川和彦",
+      "nenrei": 62,
+      "shuninnbi": "2017年 9月26日",
+      "ninki_manryobi": "2029年9月25日",
+      "ki": 3,
+      "shozoku": "無所属",
+      "shusshin_ko": "東京大学法学部 ワシントン大学 ロースクール",
+      "mae_shoku": "経済産業省 商務流通政策グループ政策調整官補佐 シスコシステムズ 専務 ドワンゴ 取締役"
+    },
+    {
+      "todofuken": "栃木県",
+      "shimei": "福田富一",
+      "nenrei": 73,
+      "shuninnbi": "2004年 12月9日",
+      "ninki_manryobi": "2028年 12月8日",
+      "ki": 6,
+      "shozoku": "無所属",
+      "shusshin_ko": "日本大学理工学部",
+      "mae_shoku": "栃木県 職員 宇都宮市長"
+    },
+    {
+      "todofuken": "群馬県",
+      "shimei": "山本一太",
+      "nenrei": 68,
+      "shuninnbi": "2019年 7月28日",
+      "ninki_manryobi": "2027年 7月27日",
+      "ki": 2,
+      "shozoku": "無所属",
+      "shusshin_ko": "中央大学法学部 ジョージタウン大学 エドムンド・A・ウォルシュ外交大学院 （ 英語版 ）",
+      "mae_shoku": "内閣府特命担当大臣 参議院議員"
+    },
+    {
+      "todofuken": "埼玉県",
+      "shimei": "大野元裕",
+      "nenrei": 62,
+      "shuninnbi": "2019年 8月31日",
+      "ninki_manryobi": "2027年 8月30日",
+      "ki": 2,
+      "shozoku": "無所属",
+      "shusshin_ko": "慶應義塾大学法学部 国際大学 大学院 国際関係学研究科",
+      "mae_shoku": "日本テレビ ・ ニッポン放送 コメンテーター 参議院議員 防衛大臣政務官 外交官"
+    },
+    {
+      "todofuken": "千葉県",
+      "shimei": "熊谷俊人",
+      "nenrei": 48,
+      "shuninnbi": "2021年 4月5日",
+      "ninki_manryobi": "2029年 4月4日",
+      "ki": 2,
+      "shozoku": "無所属",
+      "shusshin_ko": "早稲田大学政治経済学部",
+      "mae_shoku": "千葉市議会議員 千葉市長"
+    },
+    {
+      "todofuken": "東京都",
+      "shimei": "小池百合子",
+      "nenrei": 74,
+      "shuninnbi": "2016年 8月2日",
+      "ninki_manryobi": "2028年 7月30日",
+      "ki": 3,
+      "shozoku": "無所属",
+      "shusshin_ko": "関西学院大学社会学部 中退 カイロ大学 文学部 社会学科",
+      "mae_shoku": "ニュースキャスター 参議院議員 衆議院議員 環境大臣 防衛大臣"
+    },
+    {
+      "todofuken": "神奈川県",
+      "shimei": "黒岩祐治",
+      "nenrei": 72,
+      "shuninnbi": "2011年 4月23日",
+      "ninki_manryobi": "2027年 4月22日",
+      "ki": 4,
+      "shozoku": "無所属",
+      "shusshin_ko": "早稲田大学政治経済学部",
+      "mae_shoku": "フジテレビジョン 従業員"
+    },
+    {
+      "todofuken": "新潟県",
+      "shimei": "花角英世",
+      "nenrei": 68,
+      "shuninnbi": "2018年 6月12日",
+      "ninki_manryobi": "2030年 6月9日",
+      "ki": 3,
+      "shozoku": "無所属",
+      "shusshin_ko": "東京大学法学部",
+      "mae_shoku": "国土交通省 職員 新潟県副知事 海上保安庁 次長"
+    },
+    {
+      "todofuken": "富山県",
+      "shimei": "新田八朗",
+      "nenrei": 68,
+      "shuninnbi": "2020年 11月9日",
+      "ninki_manryobi": "2028年 11月8日",
+      "ki": 2,
+      "shozoku": "無所属",
+      "shusshin_ko": "一橋大学経済学部",
+      "mae_shoku": "日本海ガス 代表取締役社長 日本青年会議所 会頭"
+    },
+    {
+      "todofuken": "石川県",
+      "shimei": "山野之義",
+      "nenrei": 64,
+      "shuninnbi": "2026年 3月27日",
+      "ninki_manryobi": "2030年 3月26日",
+      "ki": 1,
+      "shozoku": "無所属",
+      "shusshin_ko": "慶應義塾大学文学部",
+      "mae_shoku": "ソフトバンク 従業員 金沢市議会議員 金沢市長 金沢大学 客員教授"
+    },
+    {
+      "todofuken": "福井県",
+      "shimei": "石田嵩人",
+      "nenrei": 36,
+      "shuninnbi": "2026年 1月28日",
+      "ninki_manryobi": "2030年 1月24日",
+      "ki": 1,
+      "shozoku": "無所属",
+      "shusshin_ko": "関西外国語大学 国際言語学部 パシフィック大学 ジョージタウン大学 外交政策大学院 政策研究大学院大学",
+      "mae_shoku": "外務省 職員"
+    },
+    {
+      "todofuken": "山梨県",
+      "shimei": "長崎幸太郎",
+      "nenrei": 58,
+      "shuninnbi": "2019年 2月17日",
+      "ninki_manryobi": "2027年 2月16日",
+      "ki": 2,
+      "shozoku": "無所属",
+      "shusshin_ko": "東京大学法学部 コーネル大学 ロースクール",
+      "mae_shoku": "財務省 職員 衆議院議員"
+    },
+    {
+      "todofuken": "長野県",
+      "shimei": "阿部守一",
+      "nenrei": 65,
+      "shuninnbi": "2010年 9月1日",
+      "ninki_manryobi": "2030年 8月31日",
+      "ki": 5,
+      "shozoku": "無所属",
+      "shusshin_ko": "東京大学法学部",
+      "mae_shoku": "自治省職員 内閣府 行政刷新会議 事務局次長 長野県副知事"
+    },
+    {
+      "todofuken": "岐阜県",
+      "shimei": "江崎禎英",
+      "nenrei": 61,
+      "shuninnbi": "2025年 2月6日",
+      "ninki_manryobi": "2029年 2月5日",
+      "ki": 1,
+      "shozoku": "無所属",
+      "shusshin_ko": "東京大学教養学部",
+      "mae_shoku": "通商産業省・経済産業省職員 岐阜県商工労働部長"
+    },
+    {
+      "todofuken": "静岡県",
+      "shimei": "鈴木康友",
+      "nenrei": 69,
+      "shuninnbi": "2024年 5月28日",
+      "ninki_manryobi": "2028年 5月25日",
+      "ki": 1,
+      "shozoku": "無所属",
+      "shusshin_ko": "慶應義塾大学法学部",
+      "mae_shoku": "浜松市長 衆議院議員"
+    },
+    {
+      "todofuken": "愛知県",
+      "shimei": "大村秀章",
+      "nenrei": 66,
+      "shuninnbi": "2011年 2月15日",
+      "ninki_manryobi": "2027年 2月14日",
+      "ki": 4,
+      "shozoku": "無所属",
+      "shusshin_ko": "東京大学法学部",
+      "mae_shoku": "農林水産省 職員 衆議院議員 厚生労働副大臣 内閣府副大臣"
+    },
+    {
+      "todofuken": "三重県",
+      "shimei": "一見勝之",
+      "nenrei": 63,
+      "shuninnbi": "2021年 9月14日",
+      "ninki_manryobi": "2029年 9月11日",
+      "ki": 2,
+      "shozoku": "無所属",
+      "shusshin_ko": "東京大学法学部",
+      "mae_shoku": "国土交通省 自動車局 長 内閣府 総合海洋政策推進事務局長"
+    },
+    {
+      "todofuken": "滋賀県",
+      "shimei": "三日月大造",
+      "nenrei": 55,
+      "shuninnbi": "2014年 7月20日",
+      "ninki_manryobi": "2030年 7月19日",
+      "ki": 4,
+      "shozoku": "無所属",
+      "shusshin_ko": "一橋大学経済学部",
+      "mae_shoku": "西日本旅客鉄道 従業員 衆議院議員 国土交通副大臣"
+    },
+    {
+      "todofuken": "京都府",
+      "shimei": "西脇隆俊",
+      "nenrei": 71,
+      "shuninnbi": "2018年 4月16日",
+      "ninki_manryobi": "2030年 4月14日",
+      "ki": 3,
+      "shozoku": "無所属",
+      "shusshin_ko": "東京大学法学部",
+      "mae_shoku": "国土交通省 職員 復興庁 事務次官"
+    },
+    {
+      "todofuken": "大阪府",
+      "shimei": "吉村洋文",
+      "nenrei": 51,
+      "shuninnbi": "2019年 4月8日",
+      "ninki_manryobi": "2027年 4月8日",
+      "ki": 3,
+      "shozoku": "大阪維新の会",
+      "shusshin_ko": "九州大学法学部",
+      "mae_shoku": "衆議院議員 大阪市長"
+    },
+    {
+      "todofuken": "兵庫県",
+      "shimei": "斎藤元彦",
+      "nenrei": 48,
+      "shuninnbi": "2021年 8月1日",
+      "ninki_manryobi": "2028年 11月16日",
+      "ki": 2,
+      "shozoku": "無所属",
+      "shusshin_ko": "東京大学経済学部",
+      "mae_shoku": "総務省職員 大阪府財務部財政課長"
+    },
+    {
+      "todofuken": "奈良県",
+      "shimei": "山下真",
+      "nenrei": 58,
+      "shuninnbi": "2023年 5月3日",
+      "ninki_manryobi": "2027年 5月2日",
+      "ki": 1,
+      "shozoku": "日本維新の会",
+      "shusshin_ko": "東京大学文学部 京都大学法学部",
+      "mae_shoku": "朝日新聞社 従業員 弁護士 生駒市長"
+    },
+    {
+      "todofuken": "和歌山県",
+      "shimei": "宮﨑泉",
+      "nenrei": 67,
+      "shuninnbi": "2025年 6月3日",
+      "ninki_manryobi": "2029年 5月31日",
+      "ki": 1,
+      "shozoku": "無所属",
+      "shusshin_ko": "大阪大学人間科学部",
+      "mae_shoku": "和歌山県 職員 和歌山県 教育長 和歌山県副知事"
+    },
+    {
+      "todofuken": "鳥取県",
+      "shimei": "平井伸治",
+      "nenrei": 65,
+      "shuninnbi": "2007年 4月13日",
+      "ninki_manryobi": "2027年 4月12日",
+      "ki": 5,
+      "shozoku": "無所属",
+      "shusshin_ko": "東京大学法学部",
+      "mae_shoku": "総務省職員 鳥取県副知事"
+    },
+    {
+      "todofuken": "島根県",
+      "shimei": "丸山達也",
+      "nenrei": 56,
+      "shuninnbi": "2019年 4月30日",
+      "ninki_manryobi": "2027年 4月29日",
+      "ki": 2,
+      "shozoku": "無所属",
+      "shusshin_ko": "東京大学法学部",
+      "mae_shoku": "総務省職員 島根県政策企画局長"
+    },
+    {
+      "todofuken": "岡山県",
+      "shimei": "伊原木隆太",
+      "nenrei": 60,
+      "shuninnbi": "2012年 11月12日",
+      "ninki_manryobi": "2028年 11月11日",
+      "ki": 4,
+      "shozoku": "無所属",
+      "shusshin_ko": "東京大学工学部",
+      "mae_shoku": "実業家 天満屋 代表取締役社長"
+    },
+    {
+      "todofuken": "広島県",
+      "shimei": "横田美香",
+      "nenrei": 55,
+      "shuninnbi": "2025年 11月29日",
+      "ninki_manryobi": "2029年 11月28日",
+      "ki": 1,
+      "shozoku": "無所属",
+      "shusshin_ko": "東京大学法学部",
+      "mae_shoku": "農林水産省職員 広島県副知事 富山県副知事"
+    },
+    {
+      "todofuken": "山口県",
+      "shimei": "村岡嗣政",
+      "nenrei": 53,
+      "shuninnbi": "2014年 2月25日",
+      "ninki_manryobi": "2030年 2月22日",
+      "ki": 4,
+      "shozoku": "無所属",
+      "shusshin_ko": "東京大学経済学部",
+      "mae_shoku": "総務省職員"
+    },
+    {
+      "todofuken": "徳島県",
+      "shimei": "後藤田正純",
+      "nenrei": 57,
+      "shuninnbi": "2023年 5月18日",
+      "ninki_manryobi": "2027年 5月17日",
+      "ki": 1,
+      "shozoku": "無所属",
+      "shusshin_ko": "慶應義塾大学商学部",
+      "mae_shoku": "衆議院議員"
+    },
+    {
+      "todofuken": "香川県",
+      "shimei": "池田豊人",
+      "nenrei": 65,
+      "shuninnbi": "2022年 9月5日",
+      "ninki_manryobi": "2030年 9月4日",
+      "ki": 2,
+      "shozoku": "無所属",
+      "shusshin_ko": "東京大学工学部 東京大学大学院工学系研究科",
+      "mae_shoku": "建設省 ・ 国土交通省 職員 国土交通省 近畿地方整備局 長 国土交通省 道路局 長"
+    },
+    {
+      "todofuken": "愛媛県",
+      "shimei": "中村時広",
+      "nenrei": 66,
+      "shuninnbi": "2010年 12月1日",
+      "ninki_manryobi": "2026年 11月30日",
+      "ki": 4,
+      "shozoku": "無所属",
+      "shusshin_ko": "慶應義塾大学法学部",
+      "mae_shoku": "三菱商事 従業員 愛媛県議会議員 衆議院議員 松山市長"
+    },
+    {
+      "todofuken": "高知県",
+      "shimei": "浜田省司",
+      "nenrei": 63,
+      "shuninnbi": "2019年 12月7日",
+      "ninki_manryobi": "2027年 12月6日",
+      "ki": 2,
+      "shozoku": "無所属",
+      "shusshin_ko": "東京大学法学部",
+      "mae_shoku": "自治省職員 大阪府副知事 総務省大臣官房総括審議官"
+    },
+    {
+      "todofuken": "福岡県",
+      "shimei": "服部誠太郎",
+      "nenrei": 72,
+      "shuninnbi": "2021年 4月14日",
+      "ninki_manryobi": "2029年 4月10日",
+      "ki": 2,
+      "shozoku": "無所属",
+      "shusshin_ko": "中央大学法学部",
+      "mae_shoku": "福岡県 職員 福岡県副知事"
+    },
+    {
+      "todofuken": "佐賀県",
+      "shimei": "山口祥義",
+      "nenrei": 61,
+      "shuninnbi": "2015年 1月14日",
+      "ninki_manryobi": "2027年 1月10日",
+      "ki": 3,
+      "shozoku": "無所属",
+      "shusshin_ko": "東京大学法学部",
+      "mae_shoku": "総務省職員 東京大学大学院総合文化研究科 教授"
+    },
+    {
+      "todofuken": "長崎県",
+      "shimei": "平田研",
+      "nenrei": 59,
+      "shuninnbi": "2026年 3月2日",
+      "ninki_manryobi": "2030年 3月1日",
+      "ki": 1,
+      "shozoku": "無所属",
+      "shusshin_ko": "東京大学法学部",
+      "mae_shoku": "建設省・国土交通省職員 長崎県副知事 国土交通省大臣官房総括審議官"
+    },
+    {
+      "todofuken": "熊本県",
+      "shimei": "木村敬",
+      "nenrei": 52,
+      "shuninnbi": "2024年 4月16日",
+      "ninki_manryobi": "2028年 4月15日",
+      "ki": 1,
+      "shozoku": "無所属",
+      "shusshin_ko": "東京大学法学部",
+      "mae_shoku": "自治省職員 熊本県副知事"
+    },
+    {
+      "todofuken": "大分県",
+      "shimei": "佐藤樹一郎",
+      "nenrei": 68,
+      "shuninnbi": "2023年 4月28日",
+      "ninki_manryobi": "2027年 4月27日",
+      "ki": 1,
+      "shozoku": "無所属",
+      "shusshin_ko": "東京大学法学部",
+      "mae_shoku": "経済産業省職員 大分市長"
+    },
+    {
+      "todofuken": "宮崎県",
+      "shimei": "河野俊嗣",
+      "nenrei": 62,
+      "shuninnbi": "2011年 1月21日",
+      "ninki_manryobi": "2027年 1月20日",
+      "ki": 4,
+      "shozoku": "無所属",
+      "shusshin_ko": "東京大学法学部 ハーバード大学ロースクール",
+      "mae_shoku": "自治省職員 宮崎県副知事"
+    },
+    {
+      "todofuken": "鹿児島県",
+      "shimei": "塩田康一",
+      "nenrei": 61,
+      "shuninnbi": "2020年 7月28日",
+      "ninki_manryobi": "2028年 7月27日",
+      "ki": 2,
+      "shozoku": "無所属",
+      "shusshin_ko": "東京大学法学部",
+      "mae_shoku": "経済産業省職員 九州経済産業局 長"
+    },
+    {
+      "todofuken": "沖縄県",
+      "shimei": "古謝玄太",
+      "nenrei": 43,
+      "shuninnbi": "2026年 9月30日",
+      "ninki_manryobi": "2030年 9月29日",
+      "ki": 1,
+      "shozoku": "無所属",
+      "shusshin_ko": "東京大学薬学部 東京大学大学院薬学系研究科 中退",
+      "mae_shoku": "総務省職員 那覇市 副市長"
+    }
+  ],
+  "meta": {
+    "title": "都道府県知事の一覧 - Free Download",
+    "description": "日本の47都道府県の現職知事一覧（氏名、就任日、任期満了日、期、所属党派、出身校、主な前職）。 Contains 47 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "都道府県知事の一覧 | ListBase",
+    "seo_description": "Download 都道府県知事の一覧 — 47 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 47 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/都道府県知事の一覧"
+    ]
+  }
+}
