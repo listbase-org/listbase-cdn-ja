@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-05T02:24:16.431Z",
-  "total_datasets": 576,
-  "total_records": 461327,
+  "generated": "2026-11-06T02:29:35.395Z",
+  "total_datasets": 577,
+  "total_records": 461613,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "economy",
@@ -387,6 +387,33 @@
         "xlsx": {
           "name": "ja-dento-kogeihin_JA.xlsx",
           "size": 19791
+        }
+      }
+    },
+    {
+      "id": "ja-dentoteki-kogeihin",
+      "name": "経済産業大臣指定伝統的工芸品一覧",
+      "category": "culture",
+      "record_count": 286,
+      "columns": [
+        "kogeihin",
+        "bunrui",
+        "shiteinen",
+        "todofuken",
+        "shuyo_seizo_chiiki",
+        "biko"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/経済産業大臣指定伝統的工芸品",
+      "updated": "2026-11",
+      "size": 68664,
+      "files": {
+        "csv": {
+          "name": "ja-dentoteki-kogeihin_JA.csv",
+          "size": 29083
+        },
+        "xlsx": {
+          "name": "ja-dentoteki-kogeihin_JA.xlsx",
+          "size": 21168
         }
       }
     },

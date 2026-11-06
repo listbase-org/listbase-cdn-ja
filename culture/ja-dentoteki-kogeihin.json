@@ -1,0 +1,2344 @@
+{
+  "id": "ja-dentoteki-kogeihin",
+  "name": "経済産業大臣指定伝統的工芸品一覧",
+  "title": "経済産業大臣指定伝統的工芸品一覧",
+  "description": "経済産業大臣が指定する伝統的工芸品の名称、分類、指定年、都道府県、主要製造地域の一覧。",
+  "category": "culture",
+  "source": "https://ja.wikipedia.org/wiki/経済産業大臣指定伝統的工芸品",
+  "source_url": "https://ja.wikipedia.org/wiki/経済産業大臣指定伝統的工芸品",
+  "updated": "2026-11",
+  "record_count": 286,
+  "columns": [
+    {
+      "key": "kogeihin",
+      "label": "Kogeihin",
+      "type": "string"
+    },
+    {
+      "key": "bunrui",
+      "label": "Bunrui",
+      "type": "string"
+    },
+    {
+      "key": "shiteinen",
+      "label": "Shiteinen",
+      "type": "string"
+    },
+    {
+      "key": "todofuken",
+      "label": "Todofuken",
+      "type": "string"
+    },
+    {
+      "key": "shuyo_seizo_chiiki",
+      "label": "Shuyo Seizo Chiiki",
+      "type": "string"
+    },
+    {
+      "key": "biko",
+      "label": "Biko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kogeihin": "二風谷イタ",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "2013年",
+      "todofuken": "北海道",
+      "shuyo_seizo_chiiki": "平取町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "二風谷 アットゥシ",
+      "bunrui": "織物",
+      "shiteinen": "2013年",
+      "todofuken": "北海道",
+      "shuyo_seizo_chiiki": "平取町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "津軽塗",
+      "bunrui": "漆器",
+      "shiteinen": "1975年",
+      "todofuken": "青森県",
+      "shuyo_seizo_chiiki": "青森市 、 弘前市 、 黒石市 、 平川市 、 深浦町 、 藤崎町 、 板柳町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "南部鉄器",
+      "bunrui": "金工品",
+      "shiteinen": "1975年",
+      "todofuken": "岩手県",
+      "shuyo_seizo_chiiki": "盛岡市 、 奥州市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "岩谷堂箪笥",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1982年",
+      "todofuken": "岩手県",
+      "shuyo_seizo_chiiki": "奥州市、盛岡市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "秀衡塗",
+      "bunrui": "漆器",
+      "shiteinen": "1985年",
+      "todofuken": "岩手県",
+      "shuyo_seizo_chiiki": "盛岡市、 花巻市 、 一関市 、奥州市、 平泉町 、 滝沢市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "浄法寺塗",
+      "bunrui": "漆器",
+      "shiteinen": "1985年",
+      "todofuken": "岩手県",
+      "shuyo_seizo_chiiki": "盛岡市、 二戸市 、 八幡平市 、滝沢市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "宮城 伝統こけし",
+      "bunrui": "人形・こけし",
+      "shiteinen": "1981年",
+      "todofuken": "宮城県",
+      "shuyo_seizo_chiiki": "仙台市 、 白石市 、 大崎市 、 蔵王町 、 七ヶ宿町 、 川崎町 、 松島町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "雄勝硯",
+      "bunrui": "文具",
+      "shiteinen": "1985年",
+      "todofuken": "宮城県",
+      "shuyo_seizo_chiiki": "仙台市、 石巻市",
+      "biko": "cf. 「 硯#和硯 」「 雄勝石 」"
+    },
+    {
+      "kogeihin": "鳴子漆器",
+      "bunrui": "漆器",
+      "shiteinen": "1991年",
+      "todofuken": "宮城県",
+      "shuyo_seizo_chiiki": "大崎市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "仙台箪笥",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "2015年",
+      "todofuken": "宮城県",
+      "shuyo_seizo_chiiki": "仙台市、 塩竈市 、 東松島市 、 富谷市 、 大衡村 、 柴田町 、 涌谷町 、 利府町 、 亘理町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "川連漆器",
+      "bunrui": "漆器",
+      "shiteinen": "1976年",
+      "todofuken": "秋田県",
+      "shuyo_seizo_chiiki": "湯沢市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "樺細工",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1976年",
+      "todofuken": "秋田県",
+      "shuyo_seizo_chiiki": "仙北市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "大館曲げわっぱ",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1980年",
+      "todofuken": "秋田県",
+      "shuyo_seizo_chiiki": "大館市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "秋田杉桶樽",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1984年",
+      "todofuken": "秋田県",
+      "shuyo_seizo_chiiki": "大館市、 能代市 、 秋田市 、 横手市 ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "山形鋳物",
+      "bunrui": "金工品",
+      "shiteinen": "1975年",
+      "todofuken": "山形県",
+      "shuyo_seizo_chiiki": "山形市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "置賜紬",
+      "bunrui": "織物",
+      "shiteinen": "1976年",
+      "todofuken": "山形県",
+      "shuyo_seizo_chiiki": "米沢市 、 長井市 、 白鷹町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "羽越しな布",
+      "bunrui": "織物",
+      "shiteinen": "2005年",
+      "todofuken": "山形県",
+      "shuyo_seizo_chiiki": "鶴岡市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "羽越しな布",
+      "bunrui": "織物",
+      "shiteinen": "2005年",
+      "todofuken": "新潟県",
+      "shuyo_seizo_chiiki": "村上市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "山形仏壇",
+      "bunrui": "仏壇・仏具",
+      "shiteinen": "1980年",
+      "todofuken": "山形県",
+      "shuyo_seizo_chiiki": "山形市、 天童市 、 尾花沢市 、 酒田市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "天童将棋駒",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "1996年",
+      "todofuken": "山形県",
+      "shuyo_seizo_chiiki": "天童市、山形市、 村山市",
+      "biko": "cf.「 駒_(将棋) 」"
+    },
+    {
+      "kogeihin": "会津塗",
+      "bunrui": "漆器",
+      "shiteinen": "1975年",
+      "todofuken": "福島県",
+      "shuyo_seizo_chiiki": "会津若松市 、 喜多方市 、 南会津町 、 西会津町 、 北塩原村 、 会津美里町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "大堀相馬焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "1978年",
+      "todofuken": "福島県",
+      "shuyo_seizo_chiiki": "浪江町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "会津本郷焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "1993年",
+      "todofuken": "福島県",
+      "shuyo_seizo_chiiki": "会津美里町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "奥会津編み組細工",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "2003年",
+      "todofuken": "福島県",
+      "shuyo_seizo_chiiki": "三島町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "奥会津昭和からむし織",
+      "bunrui": "織物",
+      "shiteinen": "2017年",
+      "todofuken": "福島県",
+      "shuyo_seizo_chiiki": "昭和村",
+      "biko": ""
+    },
+    {
+      "kogeihin": "結城紬",
+      "bunrui": "織物",
+      "shiteinen": "1977年",
+      "todofuken": "茨城県",
+      "shuyo_seizo_chiiki": "結城市 、 下妻市 、 筑西市 、 八千代町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "結城紬",
+      "bunrui": "織物",
+      "shiteinen": "1977年",
+      "todofuken": "栃木県",
+      "shuyo_seizo_chiiki": "小山市 、 下野市 、 上三川町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "笠間焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "1992年",
+      "todofuken": "茨城県",
+      "shuyo_seizo_chiiki": "笠間市 、 水戸市 、 石岡市 、 常陸太田市 、 ひたちなか市 、筑西市ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "真壁石燈籠",
+      "bunrui": "石工品",
+      "shiteinen": "1995年",
+      "todofuken": "茨城県",
+      "shuyo_seizo_chiiki": "桜川市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "益子焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "1979年",
+      "todofuken": "栃木県",
+      "shuyo_seizo_chiiki": "真岡市、 益子町 、 市貝町 、 茂木町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "伊勢崎絣",
+      "bunrui": "織物",
+      "shiteinen": "1975年",
+      "todofuken": "群馬県",
+      "shuyo_seizo_chiiki": "伊勢崎市 、 太田市 、埼玉県 本庄市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "桐生織",
+      "bunrui": "織物",
+      "shiteinen": "1977年",
+      "todofuken": "群馬県",
+      "shuyo_seizo_chiiki": "桐生市 、太田市、 みどり市 、栃木県 足利市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "岩槻人形",
+      "bunrui": "人形・こけし",
+      "shiteinen": "2007年",
+      "todofuken": "埼玉県",
+      "shuyo_seizo_chiiki": "さいたま市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "春日部桐箪笥",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1979年",
+      "todofuken": "埼玉県",
+      "shuyo_seizo_chiiki": "さいたま市、春日部市、 越谷市 、 白岡市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "秩父銘仙",
+      "bunrui": "織物",
+      "shiteinen": "2013年",
+      "todofuken": "埼玉県",
+      "shuyo_seizo_chiiki": "秩父市 、 横瀬町 、 小鹿野町 、 皆野町 、 長瀞町",
+      "biko": "cf. 「 銘仙#秩父銘仙 」"
+    },
+    {
+      "kogeihin": "行田足袋",
+      "bunrui": "その他繊維製品",
+      "shiteinen": "2019年",
+      "todofuken": "埼玉県",
+      "shuyo_seizo_chiiki": "行田市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "房州うちわ",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2003年",
+      "todofuken": "千葉県",
+      "shuyo_seizo_chiiki": "館山市 、 南房総市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "千葉工匠具",
+      "bunrui": "金工品",
+      "shiteinen": "2017年",
+      "todofuken": "千葉県",
+      "shuyo_seizo_chiiki": "船橋市 、館山市、 松戸市 、 野田市 、 成田市 、 柏市 、 市原市 、 流山市 、 鴨川市 、 鎌ケ谷市 、 君津市 、南房総市、 香取市 、 いすみ市 、 酒々井町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "村山大島紬",
+      "bunrui": "織物",
+      "shiteinen": "1975年",
+      "todofuken": "東京都",
+      "shuyo_seizo_chiiki": "立川市 、 青梅市 、 昭島市 、 東大和市 、 武蔵村山市 ほか、埼玉県 飯能市 ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "本場 黄八丈",
+      "bunrui": "織物",
+      "shiteinen": "1977年",
+      "todofuken": "東京都",
+      "shuyo_seizo_chiiki": "八丈町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸木目込人形",
+      "bunrui": "人形・こけし",
+      "shiteinen": "1978年",
+      "todofuken": "東京都",
+      "shuyo_seizo_chiiki": "文京区 、 台東区 、 墨田区 、 北区 、 荒川区 、 板橋区 、 足立区 、 葛飾区 、 江戸川区",
+      "biko": "cf. 「 木目込人形 」"
+    },
+    {
+      "kogeihin": "江戸木目込人形",
+      "bunrui": "人形・こけし",
+      "shiteinen": "1978年",
+      "todofuken": "埼玉県",
+      "shuyo_seizo_chiiki": "さいたま市 、 春日部市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "多摩織",
+      "bunrui": "織物",
+      "shiteinen": "1980年",
+      "todofuken": "東京都",
+      "shuyo_seizo_chiiki": "八王子市 、 あきる野市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "東京染小紋",
+      "bunrui": "染色品",
+      "shiteinen": "1976年",
+      "todofuken": "東京都",
+      "shuyo_seizo_chiiki": "千代田区 、 新宿区 、 世田谷区 、 豊島区 、 練馬区 ほか",
+      "biko": "cf. 「 小紋#東京染小紋 」"
+    },
+    {
+      "kogeihin": "江戸節句人形",
+      "bunrui": "人形・こけし",
+      "shiteinen": "2007年",
+      "todofuken": "東京都",
+      "shuyo_seizo_chiiki": "足立区、荒川区ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸節句人形",
+      "bunrui": "人形・こけし",
+      "shiteinen": "2007年",
+      "todofuken": "埼玉県※",
+      "shuyo_seizo_chiiki": "さいたま市ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸押絵",
+      "bunrui": "人形・こけし",
+      "shiteinen": "2019年",
+      "todofuken": "東京都",
+      "shuyo_seizo_chiiki": "台東区、墨田区、葛飾区",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸押絵",
+      "bunrui": "人形・こけし",
+      "shiteinen": "2019年",
+      "todofuken": "埼玉県※",
+      "shuyo_seizo_chiiki": "川越市 、春日部市、 新座市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸押絵",
+      "bunrui": "人形・こけし",
+      "shiteinen": "2019年",
+      "todofuken": "神奈川県※",
+      "shuyo_seizo_chiiki": "二宮町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "東京銀器",
+      "bunrui": "金工品",
+      "shiteinen": "1979年",
+      "todofuken": "東京都",
+      "shuyo_seizo_chiiki": "港区 を除く 特別区部 、 武蔵野市 、 町田市 、 小平市 、 西東京市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "東京アンチモニー工芸品",
+      "bunrui": "金工品",
+      "shiteinen": "2015年",
+      "todofuken": "東京都",
+      "shuyo_seizo_chiiki": "台東区、墨田区、荒川区、葛飾区、港区、足立区、 江東区",
+      "biko": "cf. 「 アンチモン#アンチモニー (合金) 」"
+    },
+    {
+      "kogeihin": "東京アンチモニー工芸品",
+      "bunrui": "金工品",
+      "shiteinen": "2015年",
+      "todofuken": "千葉県※",
+      "shuyo_seizo_chiiki": "我孫子市 、 市川市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "東京手描友禅",
+      "bunrui": "染色品",
+      "shiteinen": "1980年",
+      "todofuken": "東京都",
+      "shuyo_seizo_chiiki": "特別区全域ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "東京無地染",
+      "bunrui": "染色品",
+      "shiteinen": "2017年",
+      "todofuken": "東京都",
+      "shuyo_seizo_chiiki": "千代田区、新宿区、墨田区、江東区、 中野区 、 杉並区 、豊島区、北区、板橋区、練馬区、足立区",
+      "biko": ""
+    },
+    {
+      "kogeihin": "東京無地染",
+      "bunrui": "染色品",
+      "shiteinen": "2017年",
+      "todofuken": "神奈川県※",
+      "shuyo_seizo_chiiki": "川崎市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸和竿",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1991年",
+      "todofuken": "東京都",
+      "shuyo_seizo_chiiki": "千代田区ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸和竿",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1991年",
+      "todofuken": "栃木県※",
+      "shuyo_seizo_chiiki": "高根沢町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸和竿",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1991年",
+      "todofuken": "埼玉県※",
+      "shuyo_seizo_chiiki": "川口市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸和竿",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1991年",
+      "todofuken": "千葉県※",
+      "shuyo_seizo_chiiki": "市川市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸和竿",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1991年",
+      "todofuken": "神奈川県※",
+      "shuyo_seizo_chiiki": "横浜市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸指物",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1997年",
+      "todofuken": "東京都",
+      "shuyo_seizo_chiiki": "台東区、荒川区、足立区、葛飾区、江東区",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸からかみ",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "1999年",
+      "todofuken": "東京都",
+      "shuyo_seizo_chiiki": "文京区、台東区ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸からかみ",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "1999年",
+      "todofuken": "千葉県※",
+      "shuyo_seizo_chiiki": "松戸市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸からかみ",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "1999年",
+      "todofuken": "埼玉県※",
+      "shuyo_seizo_chiiki": "ときがわ町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸切子",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2002年",
+      "todofuken": "東京都",
+      "shuyo_seizo_chiiki": "江東区、墨田区、江戸川区、葛飾区、 大田区 、",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸切子",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2002年",
+      "todofuken": "千葉県※",
+      "shuyo_seizo_chiiki": "市川市、 千葉市 、船橋市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸切子",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2002年",
+      "todofuken": "埼玉県※",
+      "shuyo_seizo_chiiki": "所沢市 、 草加市 、飯能市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸切子",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2002年",
+      "todofuken": "神奈川県※",
+      "shuyo_seizo_chiiki": "川崎市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸切子",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2002年",
+      "todofuken": "茨城県※",
+      "shuyo_seizo_chiiki": "龍ケ崎市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸木版画",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2007年",
+      "todofuken": "東京都",
+      "shuyo_seizo_chiiki": "荒川区、新宿区、足立区、台東区、 中央区 、文京区、 目黒区 、練馬区、西東京市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸木版画",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2007年",
+      "todofuken": "千葉県※",
+      "shuyo_seizo_chiiki": "松戸市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸木版画",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2007年",
+      "todofuken": "茨城県※",
+      "shuyo_seizo_chiiki": "常総市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸硝子",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2014年",
+      "todofuken": "東京都",
+      "shuyo_seizo_chiiki": "江戸川区、墨田区、江東区",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸硝子",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2014年",
+      "todofuken": "千葉県※",
+      "shuyo_seizo_chiiki": "八千代市 、 九十九里町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸べっ甲",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2015年",
+      "todofuken": "東京都",
+      "shuyo_seizo_chiiki": "台東区、文京区、豊島区、荒川区、練馬区、江戸川区、墨田区、板橋区、江東区、北区、千代田区、中野区、港区",
+      "biko": "cf. 「 鼈甲#鼈甲細工 」"
+    },
+    {
+      "kogeihin": "江戸べっ甲",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2015年",
+      "todofuken": "埼玉県※",
+      "shuyo_seizo_chiiki": "入間市 、越谷市、 深谷市 、 寄居町 、 嵐山町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸べっ甲",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2015年",
+      "todofuken": "千葉県※",
+      "shuyo_seizo_chiiki": "市川市、松戸市、流山市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸べっ甲",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2015年",
+      "todofuken": "群馬県※",
+      "shuyo_seizo_chiiki": "太田市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸べっ甲",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2015年",
+      "todofuken": "栃木県※",
+      "shuyo_seizo_chiiki": "佐野市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸べっ甲",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2015年",
+      "todofuken": "山梨県※",
+      "shuyo_seizo_chiiki": "大月市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸べっ甲",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2015年",
+      "todofuken": "茨城県※",
+      "shuyo_seizo_chiiki": "桜川市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "東京三味線",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2022年",
+      "todofuken": "東京都",
+      "shuyo_seizo_chiiki": "中央区、台東区、豊島区ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "東京琴",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2022年",
+      "todofuken": "東京都",
+      "shuyo_seizo_chiiki": "文京区、世田谷区、 渋谷区 ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "江戸表具",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2022年",
+      "todofuken": "東京都",
+      "shuyo_seizo_chiiki": "大田区、江東区、台東区ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "東京本染注染",
+      "bunrui": "染色品",
+      "shiteinen": "2023年",
+      "todofuken": "東京都",
+      "shuyo_seizo_chiiki": "足立区、葛飾区、江戸川区",
+      "biko": ""
+    },
+    {
+      "kogeihin": "東京本染注染",
+      "bunrui": "染色品",
+      "shiteinen": "2023年",
+      "todofuken": "栃木県※",
+      "shuyo_seizo_chiiki": "宇都宮市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "東京本染注染",
+      "bunrui": "染色品",
+      "shiteinen": "2023年",
+      "todofuken": "群馬県※",
+      "shuyo_seizo_chiiki": "高崎市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "東京手彫り印章",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2025年",
+      "todofuken": "東京都",
+      "shuyo_seizo_chiiki": "千代田区、中央区、港区、新宿区、文京区、台東区、墨田区、江東区、品川区、目黒区、大田区、世田谷区、中野区、杉並区、豊島区、荒川区、足立区、葛飾区、江戸川区、八王子市、立川市、武蔵野市、三鷹市、青梅市、小金井市、東村山市、国立市、西東京市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "東京手彫り印章",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2025年",
+      "todofuken": "神奈川県※",
+      "shuyo_seizo_chiiki": "川崎市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "鎌倉彫",
+      "bunrui": "漆器",
+      "shiteinen": "1979年",
+      "todofuken": "神奈川県",
+      "shuyo_seizo_chiiki": "横浜市 、 横須賀市 、 鎌倉市 、 藤沢市 、 小田原市 、 茅ヶ崎市 、 逗子市 、 相模原市 、 三浦市 、 大和市 、 座間市 、 綾瀬市 、 大磯町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "小田原漆器",
+      "bunrui": "漆器",
+      "shiteinen": "1984年",
+      "todofuken": "神奈川県",
+      "shuyo_seizo_chiiki": "小田原市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "箱根寄木細工",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1984年",
+      "todofuken": "神奈川県",
+      "shuyo_seizo_chiiki": "小田原市、 箱根町",
+      "biko": "cf. 「 寄木細工 」"
+    },
+    {
+      "kogeihin": "塩沢紬",
+      "bunrui": "織物",
+      "shiteinen": "1975年",
+      "todofuken": "新潟県",
+      "shuyo_seizo_chiiki": "南魚沼市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "小千谷縮",
+      "bunrui": "織物",
+      "shiteinen": "1975年",
+      "todofuken": "新潟県",
+      "shuyo_seizo_chiiki": "長岡市 、 小千谷市 、 十日町市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "小千谷紬",
+      "bunrui": "織物",
+      "shiteinen": "1975年",
+      "todofuken": "新潟県",
+      "shuyo_seizo_chiiki": "長岡市、小千谷市、十日町市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "本塩沢",
+      "bunrui": "織物",
+      "shiteinen": "1976年",
+      "todofuken": "新潟県",
+      "shuyo_seizo_chiiki": "南魚沼市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "十日町絣",
+      "bunrui": "織物",
+      "shiteinen": "1982年",
+      "todofuken": "新潟県",
+      "shuyo_seizo_chiiki": "十日町市、 津南町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "十日町明石ちぢみ",
+      "bunrui": "織物",
+      "shiteinen": "1982年",
+      "todofuken": "新潟県",
+      "shuyo_seizo_chiiki": "十日町市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "村上木彫堆朱",
+      "bunrui": "漆器",
+      "shiteinen": "1976年",
+      "todofuken": "新潟県",
+      "shuyo_seizo_chiiki": "村上市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "新潟漆器",
+      "bunrui": "漆器",
+      "shiteinen": "2003年",
+      "todofuken": "新潟県",
+      "shuyo_seizo_chiiki": "新潟市 、 加茂市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "加茂桐箪笥",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1976年",
+      "todofuken": "新潟県",
+      "shuyo_seizo_chiiki": "加茂市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "新潟・白根仏壇",
+      "bunrui": "仏壇・仏具",
+      "shiteinen": "1980年",
+      "todofuken": "新潟県",
+      "shuyo_seizo_chiiki": "新潟市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "長岡仏壇",
+      "bunrui": "仏壇・仏具",
+      "shiteinen": "1980年",
+      "todofuken": "新潟県",
+      "shuyo_seizo_chiiki": "長岡市、小千谷市、十日町市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "三条仏壇",
+      "bunrui": "仏壇・仏具",
+      "shiteinen": "1980年",
+      "todofuken": "新潟県",
+      "shuyo_seizo_chiiki": "新潟市、 三条市 、 燕市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "燕鎚起銅器",
+      "bunrui": "金工品",
+      "shiteinen": "1981年",
+      "todofuken": "新潟県",
+      "shuyo_seizo_chiiki": "燕市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "越後与板打刃物",
+      "bunrui": "金工品",
+      "shiteinen": "1986年",
+      "todofuken": "新潟県",
+      "shuyo_seizo_chiiki": "長岡市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "越後三条打刃物",
+      "bunrui": "金工品",
+      "shiteinen": "2009年",
+      "todofuken": "新潟県",
+      "shuyo_seizo_chiiki": "三条市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "佐渡 無名異焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "2024年",
+      "todofuken": "新潟県",
+      "shuyo_seizo_chiiki": "佐渡市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "高岡漆器",
+      "bunrui": "漆器",
+      "shiteinen": "1975年",
+      "todofuken": "富山県",
+      "shuyo_seizo_chiiki": "高岡市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "井波彫刻",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1975年",
+      "todofuken": "富山県",
+      "shuyo_seizo_chiiki": "砺波市 、 南砺市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "高岡銅器",
+      "bunrui": "金工品",
+      "shiteinen": "1975年",
+      "todofuken": "富山県",
+      "shuyo_seizo_chiiki": "高岡市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "庄川挽物木地",
+      "bunrui": "工芸材料・工芸用具",
+      "shiteinen": "1978年",
+      "todofuken": "富山県",
+      "shuyo_seizo_chiiki": "高岡市、砺波市、南砺市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "越中和紙",
+      "bunrui": "和紙",
+      "shiteinen": "1988年",
+      "todofuken": "富山県",
+      "shuyo_seizo_chiiki": "朝日町 、 富山市 、南砺市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "越中福岡の菅笠",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2017年",
+      "todofuken": "富山県",
+      "shuyo_seizo_chiiki": "高岡市、砺波市、 小矢部市 、南砺市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "加賀友禅",
+      "bunrui": "染色品",
+      "shiteinen": "1975年",
+      "todofuken": "石川県",
+      "shuyo_seizo_chiiki": "金沢市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "九谷焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "1975年",
+      "todofuken": "石川県",
+      "shuyo_seizo_chiiki": "金沢市、 小松市 、 加賀市 、 能美市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "輪島塗",
+      "bunrui": "漆器",
+      "shiteinen": "1975年",
+      "todofuken": "石川県",
+      "shuyo_seizo_chiiki": "輪島市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "山中漆器",
+      "bunrui": "漆器",
+      "shiteinen": "1975年",
+      "todofuken": "石川県",
+      "shuyo_seizo_chiiki": "加賀市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "金沢漆器",
+      "bunrui": "漆器",
+      "shiteinen": "1980年",
+      "todofuken": "石川県",
+      "shuyo_seizo_chiiki": "金沢市、 野々市市 、 内灘町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "金沢仏壇",
+      "bunrui": "仏壇・仏具",
+      "shiteinen": "1976年",
+      "todofuken": "石川県",
+      "shuyo_seizo_chiiki": "金沢市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "七尾仏壇",
+      "bunrui": "仏壇・仏具",
+      "shiteinen": "1978年",
+      "todofuken": "石川県",
+      "shuyo_seizo_chiiki": "七尾市 、 中能登町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "金沢箔",
+      "bunrui": "工芸材料・工芸用具",
+      "shiteinen": "1977年",
+      "todofuken": "石川県",
+      "shuyo_seizo_chiiki": "金沢市、小松市ほか",
+      "biko": "cf. 「 金箔#産地 」"
+    },
+    {
+      "kogeihin": "金沢箔",
+      "bunrui": "工芸材料・工芸用具",
+      "shiteinen": "1977年",
+      "todofuken": "富山県※",
+      "shuyo_seizo_chiiki": "富山市、小矢部市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "牛首紬",
+      "bunrui": "織物",
+      "shiteinen": "1988年",
+      "todofuken": "石川県",
+      "shuyo_seizo_chiiki": "白山市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "加賀繍",
+      "bunrui": "その他繊維製品",
+      "shiteinen": "1991年",
+      "todofuken": "石川県",
+      "shuyo_seizo_chiiki": "金沢市、能美市、白山市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "越前漆器",
+      "bunrui": "漆器",
+      "shiteinen": "1975年",
+      "todofuken": "福井県",
+      "shuyo_seizo_chiiki": "福井市 、 鯖江市 、 越前市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "若狭塗",
+      "bunrui": "漆器",
+      "shiteinen": "1978年",
+      "todofuken": "福井県",
+      "shuyo_seizo_chiiki": "小浜市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "越前和紙",
+      "bunrui": "和紙",
+      "shiteinen": "1976年",
+      "todofuken": "福井県",
+      "shuyo_seizo_chiiki": "越前市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "若狭めのう細工",
+      "bunrui": "貴石細工",
+      "shiteinen": "1976年",
+      "todofuken": "福井県",
+      "shuyo_seizo_chiiki": "小浜市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "越前打刃物",
+      "bunrui": "金工品",
+      "shiteinen": "1979年",
+      "todofuken": "福井県",
+      "shuyo_seizo_chiiki": "越前市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "越前焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "1986年",
+      "todofuken": "福井県",
+      "shuyo_seizo_chiiki": "福井市、 あわら市 、 越前町 、 若狭町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "越前箪笥",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "2013年",
+      "todofuken": "福井県",
+      "shuyo_seizo_chiiki": "越前市、鯖江市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "甲州水晶貴石細工",
+      "bunrui": "貴石細工",
+      "shiteinen": "1976年",
+      "todofuken": "山梨県",
+      "shuyo_seizo_chiiki": "甲府市 、 甲州市 、 甲斐市 、 市川三郷町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "甲州印伝",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "1987年",
+      "todofuken": "山梨県",
+      "shuyo_seizo_chiiki": "甲府市、甲斐市、市川三郷町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "甲州手彫印章",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2000年",
+      "todofuken": "山梨県",
+      "shuyo_seizo_chiiki": "甲府市、市川三郷町、 身延町 、 昭和町 ほか",
+      "biko": "cf. 「 印章 」"
+    },
+    {
+      "kogeihin": "信州紬",
+      "bunrui": "織物",
+      "shiteinen": "1975年",
+      "todofuken": "長野県",
+      "shuyo_seizo_chiiki": "長野市 、 松本市 、 上田市 、 岡谷市 、 飯田市 、 駒ヶ根市 ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "木曽漆器",
+      "bunrui": "漆器",
+      "shiteinen": "1975年",
+      "todofuken": "長野県",
+      "shuyo_seizo_chiiki": "松本市、 塩尻市 、 木曽町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "飯山仏壇",
+      "bunrui": "仏壇・仏具",
+      "shiteinen": "1975年",
+      "todofuken": "長野県",
+      "shuyo_seizo_chiiki": "飯山市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "松本家具",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1976年",
+      "todofuken": "長野県",
+      "shuyo_seizo_chiiki": "松本市、塩尻市、 安曇野市 、 木祖村",
+      "biko": ""
+    },
+    {
+      "kogeihin": "南木曽ろくろ細工",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1980年",
+      "todofuken": "長野県",
+      "shuyo_seizo_chiiki": "南木曽町 、 阿智村",
+      "biko": ""
+    },
+    {
+      "kogeihin": "南木曽ろくろ細工",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1980年",
+      "todofuken": "岐阜県※",
+      "shuyo_seizo_chiiki": "中津川市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "内山紙",
+      "bunrui": "和紙",
+      "shiteinen": "1976年",
+      "todofuken": "長野県",
+      "shuyo_seizo_chiiki": "飯山市、 野沢温泉村 、 栄村",
+      "biko": ""
+    },
+    {
+      "kogeihin": "信州打刃物",
+      "bunrui": "金工品",
+      "shiteinen": "1982年",
+      "todofuken": "長野県",
+      "shuyo_seizo_chiiki": "長野市 、 千曲市 、 信濃町 、 飯綱町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "飛騨春慶",
+      "bunrui": "漆器",
+      "shiteinen": "1975年",
+      "todofuken": "岐阜県",
+      "shuyo_seizo_chiiki": "高山市 、 飛騨市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "一位一刀彫",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1975年",
+      "todofuken": "岐阜県",
+      "shuyo_seizo_chiiki": "高山市、飛騨市、 下呂市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "岐阜和傘",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "2022年",
+      "todofuken": "岐阜県",
+      "shuyo_seizo_chiiki": "岐阜市 、 瑞穂市 、 北方町 、 岐南町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "美濃焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "1978年",
+      "todofuken": "岐阜県",
+      "shuyo_seizo_chiiki": "多治見市 、 土岐市 、 瑞浪市 、 可児市 、 恵那市 、 御嵩町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "美濃和紙",
+      "bunrui": "和紙",
+      "shiteinen": "1985年",
+      "todofuken": "岐阜県",
+      "shuyo_seizo_chiiki": "美濃市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "岐阜提灯",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "1995年",
+      "todofuken": "岐阜県",
+      "shuyo_seizo_chiiki": "岐阜市、 山県市 、瑞穂市、岐南町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "駿河竹千筋細工",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1976年",
+      "todofuken": "静岡県",
+      "shuyo_seizo_chiiki": "静岡市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "駿河雛具",
+      "bunrui": "人形・こけし",
+      "shiteinen": "1994年",
+      "todofuken": "静岡県",
+      "shuyo_seizo_chiiki": "静岡市、 焼津市 、 掛川市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "駿河雛人形",
+      "bunrui": "人形・こけし",
+      "shiteinen": "1994年",
+      "todofuken": "静岡県",
+      "shuyo_seizo_chiiki": "静岡市、焼津市、 藤枝市 、 富士市 、 牧之原市 、 吉田町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "有松・鳴海絞り",
+      "bunrui": "染色品",
+      "shiteinen": "1975年",
+      "todofuken": "愛知県",
+      "shuyo_seizo_chiiki": "名古屋市 、 岡崎市 、 半田市 、 刈谷市 、 知多半島 ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "名古屋友禅",
+      "bunrui": "染色品",
+      "shiteinen": "1983年",
+      "todofuken": "愛知県",
+      "shuyo_seizo_chiiki": "名古屋市、 春日井市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "名古屋黒紋付染",
+      "bunrui": "染色品",
+      "shiteinen": "1983年",
+      "todofuken": "愛知県",
+      "shuyo_seizo_chiiki": "名古屋市、 西尾市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "常滑焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "1976年",
+      "todofuken": "愛知県",
+      "shuyo_seizo_chiiki": "常滑市 、半田市、 知多市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "赤津焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "1977年",
+      "todofuken": "愛知県",
+      "shuyo_seizo_chiiki": "瀬戸市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "瀬戸染付焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "1997年",
+      "todofuken": "愛知県",
+      "shuyo_seizo_chiiki": "瀬戸市、 尾張旭市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "三州鬼瓦 工芸品",
+      "bunrui": "陶磁器",
+      "shiteinen": "2017年",
+      "todofuken": "愛知県",
+      "shuyo_seizo_chiiki": "碧南市 、 安城市 、 高浜市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "名古屋仏壇",
+      "bunrui": "仏壇・仏具",
+      "shiteinen": "1976年",
+      "todofuken": "愛知県",
+      "shuyo_seizo_chiiki": "名古屋市、岡崎市、 一宮市 、瀬戸市、半田市ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "三河仏壇",
+      "bunrui": "仏壇・仏具",
+      "shiteinen": "1976年",
+      "todofuken": "愛知県",
+      "shuyo_seizo_chiiki": "岡崎市、 豊橋市 、半田市、安城市、西尾市、 知立市 、刈谷市、 蒲郡市 、碧南市、 豊田市 ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "尾張仏具",
+      "bunrui": "仏壇・仏具",
+      "shiteinen": "2016年",
+      "todofuken": "愛知県",
+      "shuyo_seizo_chiiki": "名古屋市、一宮市、瀬戸市、春日井市、 津島市 、刈谷市、 犬山市 、 江南市 、 小牧市 、 稲沢市 、 東海市 、 大府市 、知立市、尾張旭市、 日進市 、 愛西市 、 清須市 、 弥富市 、 大治町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "尾張仏具",
+      "bunrui": "仏壇・仏具",
+      "shiteinen": "2016年",
+      "todofuken": "岐阜県※",
+      "shuyo_seizo_chiiki": "岐阜市、多治見市、 海津市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "豊橋筆",
+      "bunrui": "文具",
+      "shiteinen": "1976年",
+      "todofuken": "愛知県",
+      "shuyo_seizo_chiiki": "豊橋市、 豊川市 、蒲郡市、 新城市 ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "岡崎石工品",
+      "bunrui": "石工品",
+      "shiteinen": "1979年",
+      "todofuken": "愛知県",
+      "shuyo_seizo_chiiki": "岡崎市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "名古屋桐箪笥",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1981年",
+      "todofuken": "愛知県",
+      "shuyo_seizo_chiiki": "名古屋市、春日井市ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "尾張七宝",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "1995年",
+      "todofuken": "愛知県",
+      "shuyo_seizo_chiiki": "名古屋市、 あま市 、清須市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "名古屋節句飾",
+      "bunrui": "人形・こけし",
+      "shiteinen": "2021年",
+      "todofuken": "愛知県",
+      "shuyo_seizo_chiiki": "名古屋市、岡崎市ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "名古屋節句飾",
+      "bunrui": "人形・こけし",
+      "shiteinen": "2021年",
+      "todofuken": "岐阜県※",
+      "shuyo_seizo_chiiki": "岐阜市ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "伊賀くみひも",
+      "bunrui": "その他繊維製品",
+      "shiteinen": "1976年",
+      "todofuken": "三重県",
+      "shuyo_seizo_chiiki": "伊賀市 、 名張市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "四日市萬古焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "1979年",
+      "todofuken": "三重県",
+      "shuyo_seizo_chiiki": "四日市市 、 桑名市 、 鈴鹿市 、 いなべ市 、 東員町 、 菰野町 、 朝日町 、 川越町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "伊賀焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "1982年",
+      "todofuken": "三重県",
+      "shuyo_seizo_chiiki": "伊賀市、名張市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "鈴鹿墨",
+      "bunrui": "文具",
+      "shiteinen": "1980年",
+      "todofuken": "三重県",
+      "shuyo_seizo_chiiki": "鈴鹿市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "伊勢形紙",
+      "bunrui": "工芸材料・工芸用具",
+      "shiteinen": "1983年",
+      "todofuken": "三重県",
+      "shuyo_seizo_chiiki": "鈴鹿市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "信楽焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "1975年",
+      "todofuken": "滋賀県",
+      "shuyo_seizo_chiiki": "甲賀市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "彦根仏壇",
+      "bunrui": "仏壇・仏具",
+      "shiteinen": "1975年",
+      "todofuken": "滋賀県",
+      "shuyo_seizo_chiiki": "彦根市 、 米原市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "近江上布",
+      "bunrui": "織物",
+      "shiteinen": "1977年",
+      "todofuken": "滋賀県",
+      "shuyo_seizo_chiiki": "東近江市 、 愛荘町 、 多賀町",
+      "biko": "cf. 「 上布 」"
+    },
+    {
+      "kogeihin": "西陣織",
+      "bunrui": "織物",
+      "shiteinen": "1976年",
+      "todofuken": "京都府",
+      "shuyo_seizo_chiiki": "京都市 、 宇治市 、 亀岡市 、 城陽市 、 長岡京市 ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "京鹿の子絞",
+      "bunrui": "染色品",
+      "shiteinen": "1976年",
+      "todofuken": "京都府",
+      "shuyo_seizo_chiiki": "京都市、亀岡市、 井手町 、 笠置町 、 和束町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "京友禅",
+      "bunrui": "染色品",
+      "shiteinen": "1976年",
+      "todofuken": "京都府",
+      "shuyo_seizo_chiiki": "京都市、宇治市、亀岡市、城陽市、 向日市 、 久御山町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "京小紋",
+      "bunrui": "染色品",
+      "shiteinen": "1976年",
+      "todofuken": "京都府",
+      "shuyo_seizo_chiiki": "京都市、宇治市、亀岡市、城陽市、向日市ほか",
+      "biko": "cf. 「 小紋#京小紋 」"
+    },
+    {
+      "kogeihin": "京黒紋付染",
+      "bunrui": "染色品",
+      "shiteinen": "1979年",
+      "todofuken": "京都府",
+      "shuyo_seizo_chiiki": "京都市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "京繍",
+      "bunrui": "その他繊維製品",
+      "shiteinen": "1976年",
+      "todofuken": "京都府",
+      "shuyo_seizo_chiiki": "京都市、宇治市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "京くみひも",
+      "bunrui": "その他繊維製品",
+      "shiteinen": "1976年",
+      "todofuken": "京都府",
+      "shuyo_seizo_chiiki": "京都市、宇治市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "京漆器",
+      "bunrui": "漆器",
+      "shiteinen": "1976年",
+      "todofuken": "京都府",
+      "shuyo_seizo_chiiki": "京都市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "京指物",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1976年",
+      "todofuken": "京都府",
+      "shuyo_seizo_chiiki": "京都市",
+      "biko": "cf. 「 指物#京指物 」"
+    },
+    {
+      "kogeihin": "京仏壇",
+      "bunrui": "仏壇・仏具",
+      "shiteinen": "1976年",
+      "todofuken": "京都府",
+      "shuyo_seizo_chiiki": "京都市、宇治市、亀岡市、城陽市、向日市、長岡京市、 木津川市 、 南丹市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "京仏具",
+      "bunrui": "仏壇・仏具",
+      "shiteinen": "1976年",
+      "todofuken": "京都府",
+      "shuyo_seizo_chiiki": "京都市、宇治市、亀岡市、城陽市、向日市、長岡京市、木津川市、南丹市",
+      "biko": "cf. 「 仏具 」"
+    },
+    {
+      "kogeihin": "京焼 ・ 清水焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "1977年",
+      "todofuken": "京都府",
+      "shuyo_seizo_chiiki": "京都市、宇治市、城陽市、向日市、亀岡市、長岡京市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "京扇子",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "1977年",
+      "todofuken": "京都府",
+      "shuyo_seizo_chiiki": "京都市、宇治市、亀岡市、南丹市",
+      "biko": "cf. 「 扇子 」"
+    },
+    {
+      "kogeihin": "京うちわ",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "1977年",
+      "todofuken": "京都府",
+      "shuyo_seizo_chiiki": "京都市、南丹市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "京表具",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "1997年",
+      "todofuken": "京都府",
+      "shuyo_seizo_chiiki": "京都市ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "京石工芸品",
+      "bunrui": "石工品",
+      "shiteinen": "1982年",
+      "todofuken": "京都府",
+      "shuyo_seizo_chiiki": "京都市、宇治市、亀岡市、向日市、 八幡市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "京人形",
+      "bunrui": "人形・こけし",
+      "shiteinen": "1986年",
+      "todofuken": "京都府",
+      "shuyo_seizo_chiiki": "京都市、宇治市、亀岡市、八幡市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "大阪欄間",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1975年",
+      "todofuken": "大阪府",
+      "shuyo_seizo_chiiki": "大阪市 、 岸和田市 、 吹田市 、 貝塚市 、 枚方市 、 茨木市 、 松原市 、 摂津市 、 東大阪市 、 能勢町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "大阪唐木指物",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1977年",
+      "todofuken": "大阪府",
+      "shuyo_seizo_chiiki": "大阪市ほか",
+      "biko": "cf. 「 指物#大阪唐木指物 」"
+    },
+    {
+      "kogeihin": "大阪唐木指物",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1977年",
+      "todofuken": "兵庫県※",
+      "shuyo_seizo_chiiki": "姫路市 ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "大阪唐木指物",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1977年",
+      "todofuken": "奈良県※",
+      "shuyo_seizo_chiiki": "奈良市ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "大阪唐木指物",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1977年",
+      "todofuken": "和歌山県※",
+      "shuyo_seizo_chiiki": "有田市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "大阪唐木指物",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1977年",
+      "todofuken": "福井県※",
+      "shuyo_seizo_chiiki": "越前市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "大阪泉州桐箪笥",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1989年",
+      "todofuken": "大阪府",
+      "shuyo_seizo_chiiki": "岸和田市、 堺市 、 和泉市 、東大阪市、大阪市、 忠岡町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "大阪金剛簾",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1996年",
+      "todofuken": "大阪府",
+      "shuyo_seizo_chiiki": "大阪市、 富田林市 、 河内長野市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "堺打刃物",
+      "bunrui": "金工品",
+      "shiteinen": "1982年",
+      "todofuken": "大阪府",
+      "shuyo_seizo_chiiki": "堺市、大阪市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "大阪浪華錫器",
+      "bunrui": "金工品",
+      "shiteinen": "1983年",
+      "todofuken": "大阪府",
+      "shuyo_seizo_chiiki": "大阪市、松原市、 羽曳野市 、東大阪市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "大阪仏壇",
+      "bunrui": "仏壇・仏具",
+      "shiteinen": "1982年",
+      "todofuken": "大阪府",
+      "shuyo_seizo_chiiki": "大阪市、 八尾市 、東大阪市、堺市、岸和田市ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "浪華本染め",
+      "bunrui": "染色品",
+      "shiteinen": "2019年",
+      "todofuken": "大阪府",
+      "shuyo_seizo_chiiki": "堺市、 柏原市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "いずみガラス",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2024年",
+      "todofuken": "大阪府",
+      "shuyo_seizo_chiiki": "和泉市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "播州そろばん",
+      "bunrui": "文具",
+      "shiteinen": "1976年",
+      "todofuken": "兵庫県",
+      "shuyo_seizo_chiiki": "小野市 、 加西市 、 三木市 、 加古川市 、 加東市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "丹波立杭焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "1978年",
+      "todofuken": "兵庫県",
+      "shuyo_seizo_chiiki": "丹波篠山市 、 三田市 、加西市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "出石焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "1980年",
+      "todofuken": "兵庫県",
+      "shuyo_seizo_chiiki": "豊岡市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "播州毛鉤",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "1987年",
+      "todofuken": "兵庫県",
+      "shuyo_seizo_chiiki": "西脇市 、 丹波市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "豊岡杞柳細工",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1992年",
+      "todofuken": "兵庫県",
+      "shuyo_seizo_chiiki": "豊岡市、 養父市 、 香美町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "播州三木打刃物",
+      "bunrui": "金工品",
+      "shiteinen": "1996年",
+      "todofuken": "兵庫県",
+      "shuyo_seizo_chiiki": "三木市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "高山茶筌",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1975年",
+      "todofuken": "奈良県",
+      "shuyo_seizo_chiiki": "生駒市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "奈良筆",
+      "bunrui": "文具",
+      "shiteinen": "1977年",
+      "todofuken": "奈良県",
+      "shuyo_seizo_chiiki": "奈良市 、 大和郡山市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "奈良墨",
+      "bunrui": "文具",
+      "shiteinen": "2018年",
+      "todofuken": "奈良県",
+      "shuyo_seizo_chiiki": "奈良市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "紀州漆器",
+      "bunrui": "漆器",
+      "shiteinen": "1978年",
+      "todofuken": "和歌山県",
+      "shuyo_seizo_chiiki": "和歌山市 、 海南市 、 紀美野町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "紀州箪笥",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1987年",
+      "todofuken": "和歌山県",
+      "shuyo_seizo_chiiki": "和歌山市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "紀州へら竿",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "2013年",
+      "todofuken": "和歌山県",
+      "shuyo_seizo_chiiki": "橋本市 、 九度山町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "弓浜絣",
+      "bunrui": "織物",
+      "shiteinen": "1975年",
+      "todofuken": "鳥取県",
+      "shuyo_seizo_chiiki": "米子市 、 境港市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "因州和紙",
+      "bunrui": "和紙",
+      "shiteinen": "1975年",
+      "todofuken": "鳥取県",
+      "shuyo_seizo_chiiki": "鳥取市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "出雲石燈ろう",
+      "bunrui": "石工品",
+      "shiteinen": "1976年",
+      "todofuken": "島根県",
+      "shuyo_seizo_chiiki": "松江市 、 出雲市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "出雲石燈ろう",
+      "bunrui": "石工品",
+      "shiteinen": "1976年",
+      "todofuken": "鳥取県",
+      "shuyo_seizo_chiiki": "境港市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "雲州そろばん",
+      "bunrui": "文具",
+      "shiteinen": "1985年",
+      "todofuken": "島根県",
+      "shuyo_seizo_chiiki": "奥出雲町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "石州和紙",
+      "bunrui": "和紙",
+      "shiteinen": "1989年",
+      "todofuken": "島根県",
+      "shuyo_seizo_chiiki": "江津市 、 浜田市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "石見焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "1994年",
+      "todofuken": "島根県",
+      "shuyo_seizo_chiiki": "江津市、浜田市、 益田市 、 大田市 、 津和野町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "勝山竹細工",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1979年",
+      "todofuken": "岡山県",
+      "shuyo_seizo_chiiki": "真庭市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "備前焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "1982年",
+      "todofuken": "岡山県",
+      "shuyo_seizo_chiiki": "備前市 、 岡山市 、 瀬戸内市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "熊野筆",
+      "bunrui": "文具",
+      "shiteinen": "1975年",
+      "todofuken": "広島県",
+      "shuyo_seizo_chiiki": "熊野町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "川尻筆",
+      "bunrui": "文具",
+      "shiteinen": "2004年",
+      "todofuken": "広島県",
+      "shuyo_seizo_chiiki": "呉市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "広島仏壇",
+      "bunrui": "仏壇・仏具",
+      "shiteinen": "1978年",
+      "todofuken": "広島県",
+      "shuyo_seizo_chiiki": "広島市 、 三原市 、 福山市 、 府中市 、 三次市 ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "宮島細工",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1982年",
+      "todofuken": "広島県",
+      "shuyo_seizo_chiiki": "廿日市市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "福山琴",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "1985年",
+      "todofuken": "広島県",
+      "shuyo_seizo_chiiki": "福山市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "赤間硯",
+      "bunrui": "文具",
+      "shiteinen": "1976年",
+      "todofuken": "山口県",
+      "shuyo_seizo_chiiki": "下関市 、 宇部市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "大内塗",
+      "bunrui": "漆器",
+      "shiteinen": "1989年",
+      "todofuken": "山口県",
+      "shuyo_seizo_chiiki": "山口市 、 萩市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "萩焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "2002年",
+      "todofuken": "山口県",
+      "shuyo_seizo_chiiki": "萩市、 長門市 、山口市、 阿武町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "阿波和紙",
+      "bunrui": "和紙",
+      "shiteinen": "1976年",
+      "todofuken": "徳島県",
+      "shuyo_seizo_chiiki": "吉野川市 、 那賀町 、 三好市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "阿波正藍しじら織",
+      "bunrui": "織物",
+      "shiteinen": "1978年",
+      "todofuken": "徳島県",
+      "shuyo_seizo_chiiki": "徳島市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "大谷焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "2003年",
+      "todofuken": "徳島県",
+      "shuyo_seizo_chiiki": "鳴門市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "香川漆器",
+      "bunrui": "漆器",
+      "shiteinen": "1976年",
+      "todofuken": "香川県",
+      "shuyo_seizo_chiiki": "高松市 、 丸亀市 、 さぬき市 、 三豊市 、 観音寺市 、 三木町 、 まんのう町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "丸亀うちわ",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "1997年",
+      "todofuken": "香川県",
+      "shuyo_seizo_chiiki": "丸亀市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "砥部焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "1976年",
+      "todofuken": "愛媛県",
+      "shuyo_seizo_chiiki": "松山市 、 松前町 、 砥部町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "大洲和紙",
+      "bunrui": "和紙",
+      "shiteinen": "1977年",
+      "todofuken": "愛媛県",
+      "shuyo_seizo_chiiki": "西予市 、 内子町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "土佐和紙",
+      "bunrui": "和紙",
+      "shiteinen": "1976年",
+      "todofuken": "高知県",
+      "shuyo_seizo_chiiki": "南国市 、 土佐市 、 いの町 、 津野町 ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "土佐打刃物",
+      "bunrui": "金工品",
+      "shiteinen": "1998年",
+      "todofuken": "高知県",
+      "shuyo_seizo_chiiki": "高知市 、 安芸市 、南国市、 須崎市 、 土佐清水市 、 香美市 ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "小石原焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "1975年",
+      "todofuken": "福岡県",
+      "shuyo_seizo_chiiki": "東峰村",
+      "biko": ""
+    },
+    {
+      "kogeihin": "上野焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "1983年",
+      "todofuken": "福岡県",
+      "shuyo_seizo_chiiki": "福智町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "博多織",
+      "bunrui": "織物",
+      "shiteinen": "1976年",
+      "todofuken": "福岡県",
+      "shuyo_seizo_chiiki": "福岡市 、 筑紫野市 、 大野城市 ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "博多織",
+      "bunrui": "織物",
+      "shiteinen": "1976年",
+      "todofuken": "佐賀県※",
+      "shuyo_seizo_chiiki": "唐津市ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "博多織",
+      "bunrui": "織物",
+      "shiteinen": "1976年",
+      "todofuken": "大分県※",
+      "shuyo_seizo_chiiki": "",
+      "biko": ""
+    },
+    {
+      "kogeihin": "久留米絣",
+      "bunrui": "織物",
+      "shiteinen": "1976年",
+      "todofuken": "福岡県",
+      "shuyo_seizo_chiiki": "久留米市 、 八女市 、 筑後市 、 大川市 、 うきは市 、 広川町 、 大木町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "博多人形",
+      "bunrui": "人形・こけし",
+      "shiteinen": "1976年",
+      "todofuken": "福岡県",
+      "shuyo_seizo_chiiki": "福岡市、 小郡市 、筑紫野市、 春日市 、大野城市、 太宰府市 、 糸島市 ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "八女福島仏壇",
+      "bunrui": "仏壇・仏具",
+      "shiteinen": "1977年",
+      "todofuken": "福岡県",
+      "shuyo_seizo_chiiki": "八女市、久留米市、筑後市、 みやま市 、広川町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "八女提灯",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2001年",
+      "todofuken": "福岡県",
+      "shuyo_seizo_chiiki": "八女市、 柳川市 、筑後市、広川町、久留米市、みやま市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "伊万里焼 ・ 有田焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "1977年",
+      "todofuken": "佐賀県",
+      "shuyo_seizo_chiiki": "伊万里市 、 武雄市 、 嬉野市 、 有田町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "唐津焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "1988年",
+      "todofuken": "佐賀県",
+      "shuyo_seizo_chiiki": "唐津市 、武雄市、 多久市 、伊万里市、嬉野市、 玄海町 、有田町、 白石町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "三川内焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "1978年",
+      "todofuken": "長崎県",
+      "shuyo_seizo_chiiki": "佐世保市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "波佐見焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "1978年",
+      "todofuken": "長崎県",
+      "shuyo_seizo_chiiki": "波佐見町 、 川棚町 、 東彼杵町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "長崎べっ甲",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2016年",
+      "todofuken": "長崎県",
+      "shuyo_seizo_chiiki": "長崎市 、 諫早市 、 西海市 、 長与町",
+      "biko": "cf. 「 鼈甲#鼈甲細工 」"
+    },
+    {
+      "kogeihin": "小代焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "2003年",
+      "todofuken": "熊本県",
+      "shuyo_seizo_chiiki": "荒尾市 、 熊本市 、 宇城市 、 南関町 、 長洲町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "天草陶磁器",
+      "bunrui": "陶磁器",
+      "shiteinen": "2003年",
+      "todofuken": "熊本県",
+      "shuyo_seizo_chiiki": "上天草市 、 苓北町 、 天草市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "肥後象嵌",
+      "bunrui": "金工品",
+      "shiteinen": "2003年",
+      "todofuken": "熊本県",
+      "shuyo_seizo_chiiki": "熊本市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "山鹿灯籠",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2013年",
+      "todofuken": "熊本県",
+      "shuyo_seizo_chiiki": "山鹿市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "別府竹細工",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1979年",
+      "todofuken": "大分県",
+      "shuyo_seizo_chiiki": "大分市 、 別府市 、 日田市 、 杵築市 、 由布市 、 日出町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "都城大弓",
+      "bunrui": "木工品・竹工品",
+      "shiteinen": "1994年",
+      "todofuken": "宮崎県",
+      "shuyo_seizo_chiiki": "都城市 、 三股町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "本場大島紬",
+      "bunrui": "織物",
+      "shiteinen": "1975年",
+      "todofuken": "鹿児島県",
+      "shuyo_seizo_chiiki": "奄美市 、 鹿児島市 、 龍郷町 、 喜界町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "本場大島紬",
+      "bunrui": "織物",
+      "shiteinen": "1975年",
+      "todofuken": "宮崎県",
+      "shuyo_seizo_chiiki": "都城市ほか",
+      "biko": ""
+    },
+    {
+      "kogeihin": "川辺仏壇",
+      "bunrui": "仏壇・仏具",
+      "shiteinen": "1975年",
+      "todofuken": "鹿児島県",
+      "shuyo_seizo_chiiki": "南九州市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "薩摩焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "2002年",
+      "todofuken": "鹿児島県",
+      "shuyo_seizo_chiiki": "鹿児島市、 指宿市 、 日置市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "久米島紬",
+      "bunrui": "織物",
+      "shiteinen": "1975年",
+      "todofuken": "沖縄県",
+      "shuyo_seizo_chiiki": "久米島町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "宮古上布",
+      "bunrui": "織物",
+      "shiteinen": "1975年",
+      "todofuken": "沖縄県",
+      "shuyo_seizo_chiiki": "宮古島市 、 多良間村",
+      "biko": ""
+    },
+    {
+      "kogeihin": "読谷山花織",
+      "bunrui": "織物",
+      "shiteinen": "1976年",
+      "todofuken": "沖縄県",
+      "shuyo_seizo_chiiki": "読谷村",
+      "biko": ""
+    },
+    {
+      "kogeihin": "読谷山 ミンサー",
+      "bunrui": "織物",
+      "shiteinen": "1976年",
+      "todofuken": "沖縄県",
+      "shuyo_seizo_chiiki": "読谷村",
+      "biko": ""
+    },
+    {
+      "kogeihin": "琉球絣",
+      "bunrui": "織物",
+      "shiteinen": "1983年",
+      "todofuken": "沖縄県",
+      "shuyo_seizo_chiiki": "那覇市 、 八重瀬町 、 南風原町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "首里織",
+      "bunrui": "織物",
+      "shiteinen": "1983年",
+      "todofuken": "沖縄県",
+      "shuyo_seizo_chiiki": "那覇市、 西原町 、南風原町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "与那国織",
+      "bunrui": "織物",
+      "shiteinen": "1987年",
+      "todofuken": "沖縄県",
+      "shuyo_seizo_chiiki": "与那国町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "喜如嘉の芭蕉布",
+      "bunrui": "織物",
+      "shiteinen": "1988年",
+      "todofuken": "沖縄県",
+      "shuyo_seizo_chiiki": "大宜味村",
+      "biko": ""
+    },
+    {
+      "kogeihin": "八重山ミンサー",
+      "bunrui": "織物",
+      "shiteinen": "1989年",
+      "todofuken": "沖縄県",
+      "shuyo_seizo_chiiki": "石垣市 、 竹富町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "八重山上布",
+      "bunrui": "織物",
+      "shiteinen": "1989年",
+      "todofuken": "沖縄県",
+      "shuyo_seizo_chiiki": "石垣市、竹富町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "知花花織",
+      "bunrui": "織物",
+      "shiteinen": "2012年",
+      "todofuken": "沖縄県",
+      "shuyo_seizo_chiiki": "沖縄市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "南風原花織",
+      "bunrui": "織物",
+      "shiteinen": "2016年",
+      "todofuken": "沖縄県",
+      "shuyo_seizo_chiiki": "南風原町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "壺屋焼",
+      "bunrui": "陶磁器",
+      "shiteinen": "1976年",
+      "todofuken": "沖縄県",
+      "shuyo_seizo_chiiki": "那覇市、 恩納村 、読谷村",
+      "biko": ""
+    },
+    {
+      "kogeihin": "琉球 びんがた",
+      "bunrui": "染色品",
+      "shiteinen": "1984年",
+      "todofuken": "沖縄県",
+      "shuyo_seizo_chiiki": "那覇市、 宜野湾市 、 浦添市 、 糸満市 、 豊見城市",
+      "biko": ""
+    },
+    {
+      "kogeihin": "琉球漆器",
+      "bunrui": "漆器",
+      "shiteinen": "1986年",
+      "todofuken": "沖縄県",
+      "shuyo_seizo_chiiki": "那覇市、浦添市、糸満市、沖縄市、豊見城市、 中城村 、南風原町",
+      "biko": ""
+    },
+    {
+      "kogeihin": "三線",
+      "bunrui": "その他の工芸品",
+      "shiteinen": "2018年",
+      "todofuken": "沖縄県",
+      "shuyo_seizo_chiiki": "那覇市、宜野湾市、浦添市、糸満市、沖縄市、豊見城市、 うるま市 、 南城市 、読谷村、南風原町、久米島町、八重瀬町、竹富町",
+      "biko": ""
+    }
+  ],
+  "meta": {
+    "title": "経済産業大臣指定伝統的工芸品一覧 - Free Download",
+    "description": "経済産業大臣が指定する伝統的工芸品の名称、分類、指定年、都道府県、主要製造地域の一覧。 Contains 286 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "経済産業大臣指定伝統的工芸品一覧 | ListBase",
+    "seo_description": "Download 経済産業大臣指定伝統的工芸品一覧 — 286 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 286 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/経済産業大臣指定伝統的工芸品"
+    ]
+  }
+}
