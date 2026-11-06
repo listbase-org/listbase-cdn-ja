@@ -1,0 +1,1378 @@
+{
+  "id": "ja-akutagawa-sho",
+  "name": "芥川龍之介賞 歴代受賞者・受賞作一覧",
+  "title": "芥川龍之介賞 歴代受賞者・受賞作一覧",
+  "description": "芥川龍之介賞（芥川賞）の回次・対象期間・受賞者・受賞作の一覧。",
+  "category": "entertainment",
+  "source": "https://ja.wikipedia.org/wiki/芥川龍之介賞",
+  "source_url": "https://ja.wikipedia.org/wiki/芥川龍之介賞",
+  "updated": "2026-11",
+  "record_count": 222,
+  "columns": [
+    {
+      "key": "kai",
+      "label": "Kai",
+      "type": "string"
+    },
+    {
+      "key": "taisho_kikan",
+      "label": "Taisho Kikan",
+      "type": "string"
+    },
+    {
+      "key": "jushosha",
+      "label": "Jushosha",
+      "type": "string"
+    },
+    {
+      "key": "jushosaku",
+      "label": "Jushosaku",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kai": "第1回",
+      "taisho_kikan": "1935年上半期",
+      "jushosha": "石川達三",
+      "jushosaku": "「 蒼氓 」"
+    },
+    {
+      "kai": "第2回",
+      "taisho_kikan": "1935年下半期",
+      "jushosha": "該当作品なし（ 二・二六事件 のため審査中止）",
+      "jushosaku": "該当作品なし（ 二・二六事件 のため審査中止）"
+    },
+    {
+      "kai": "第3回",
+      "taisho_kikan": "1936年上半期",
+      "jushosha": "小田嶽夫",
+      "jushosaku": "「城外」"
+    },
+    {
+      "kai": "第3回",
+      "taisho_kikan": "1936年上半期",
+      "jushosha": "鶴田知也",
+      "jushosaku": "「 コシャマイン記 」"
+    },
+    {
+      "kai": "第4回",
+      "taisho_kikan": "1936年下半期",
+      "jushosha": "石川淳",
+      "jushosaku": "「 普賢 」"
+    },
+    {
+      "kai": "第4回",
+      "taisho_kikan": "1936年下半期",
+      "jushosha": "冨澤有爲男",
+      "jushosaku": "「地中海」"
+    },
+    {
+      "kai": "第5回",
+      "taisho_kikan": "1937年上半期",
+      "jushosha": "尾崎一雄",
+      "jushosaku": "「暢気眼鏡」他"
+    },
+    {
+      "kai": "第6回",
+      "taisho_kikan": "1937年下半期",
+      "jushosha": "火野葦平",
+      "jushosaku": "「 糞尿譚 」"
+    },
+    {
+      "kai": "第7回",
+      "taisho_kikan": "1938年上半期",
+      "jushosha": "中山義秀",
+      "jushosaku": "「厚物咲」"
+    },
+    {
+      "kai": "第8回",
+      "taisho_kikan": "1938年下半期",
+      "jushosha": "中里恒子",
+      "jushosaku": "「乗合馬車」他"
+    },
+    {
+      "kai": "第9回",
+      "taisho_kikan": "1939年上半期",
+      "jushosha": "半田義之",
+      "jushosaku": "「鶏騒動」"
+    },
+    {
+      "kai": "第9回",
+      "taisho_kikan": "1939年上半期",
+      "jushosha": "長谷健",
+      "jushosaku": "「あさくさの子供」"
+    },
+    {
+      "kai": "第10回",
+      "taisho_kikan": "1939年下半期",
+      "jushosha": "寒川光太郎",
+      "jushosaku": "「密獵者」"
+    },
+    {
+      "kai": "第11回",
+      "taisho_kikan": "1940年上半期",
+      "jushosha": "該当作品なし（ 高木卓 「歌と門の盾」が受賞辞退）",
+      "jushosaku": "該当作品なし（ 高木卓 「歌と門の盾」が受賞辞退）"
+    },
+    {
+      "kai": "第12回",
+      "taisho_kikan": "1940年下半期",
+      "jushosha": "櫻田常久",
+      "jushosaku": "「平賀源内」"
+    },
+    {
+      "kai": "第13回",
+      "taisho_kikan": "1941年上半期",
+      "jushosha": "多田裕計",
+      "jushosaku": "「長江デルタ」"
+    },
+    {
+      "kai": "第14回",
+      "taisho_kikan": "1941年下半期",
+      "jushosha": "芝木好子",
+      "jushosaku": "「青果の市」"
+    },
+    {
+      "kai": "第15回",
+      "taisho_kikan": "1942年上半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第16回",
+      "taisho_kikan": "1942年下半期",
+      "jushosha": "倉光俊夫",
+      "jushosaku": "「連絡員」"
+    },
+    {
+      "kai": "第17回",
+      "taisho_kikan": "1943年上半期",
+      "jushosha": "石塚喜久三",
+      "jushosaku": "「纏足の頃」"
+    },
+    {
+      "kai": "第18回",
+      "taisho_kikan": "1943年下半期",
+      "jushosha": "東野邊薫",
+      "jushosaku": "「和紙」"
+    },
+    {
+      "kai": "第19回",
+      "taisho_kikan": "1944年上半期",
+      "jushosha": "八木義徳",
+      "jushosaku": "「劉廣福」"
+    },
+    {
+      "kai": "第19回",
+      "taisho_kikan": "1944年上半期",
+      "jushosha": "小尾十三",
+      "jushosaku": "「登攀」"
+    },
+    {
+      "kai": "第20回",
+      "taisho_kikan": "1944年下半期",
+      "jushosha": "清水基吉",
+      "jushosaku": "「雁立」"
+    },
+    {
+      "kai": "第21回",
+      "taisho_kikan": "1949年上半期",
+      "jushosha": "由起しげ子",
+      "jushosaku": "「本の話」"
+    },
+    {
+      "kai": "第21回",
+      "taisho_kikan": "1949年上半期",
+      "jushosha": "小谷剛",
+      "jushosaku": "「確証」"
+    },
+    {
+      "kai": "第22回",
+      "taisho_kikan": "1949年下半期",
+      "jushosha": "井上靖",
+      "jushosaku": "「 闘牛 」"
+    },
+    {
+      "kai": "第23回",
+      "taisho_kikan": "1950年上半期",
+      "jushosha": "辻亮一",
+      "jushosaku": "「 異邦人 」"
+    },
+    {
+      "kai": "第24回",
+      "taisho_kikan": "1950年下半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第25回",
+      "taisho_kikan": "1951年上半期",
+      "jushosha": "安部公房",
+      "jushosaku": "「 壁 S・カルマ氏の犯罪 」"
+    },
+    {
+      "kai": "第25回",
+      "taisho_kikan": "1951年上半期",
+      "jushosha": "石川利光",
+      "jushosaku": "「春の草」他"
+    },
+    {
+      "kai": "第26回",
+      "taisho_kikan": "1951年下半期",
+      "jushosha": "堀田善衛",
+      "jushosaku": "「広場の孤独」「漢奸」他"
+    },
+    {
+      "kai": "第27回",
+      "taisho_kikan": "1952年上半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第28回",
+      "taisho_kikan": "1952年下半期",
+      "jushosha": "五味康祐",
+      "jushosaku": "「喪神」"
+    },
+    {
+      "kai": "第28回",
+      "taisho_kikan": "1952年下半期",
+      "jushosha": "松本清張",
+      "jushosaku": "「 或る『小倉日記』伝 」"
+    },
+    {
+      "kai": "第29回",
+      "taisho_kikan": "1953年上半期",
+      "jushosha": "安岡章太郎",
+      "jushosaku": "「悪い仲間」「陰気な愉しみ」"
+    },
+    {
+      "kai": "第30回",
+      "taisho_kikan": "1953年下半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第31回",
+      "taisho_kikan": "1954年上半期",
+      "jushosha": "吉行淳之介",
+      "jushosaku": "「 驟雨 」他"
+    },
+    {
+      "kai": "第32回",
+      "taisho_kikan": "1954年下半期",
+      "jushosha": "小島信夫",
+      "jushosaku": "「 アメリカン・スクール 」"
+    },
+    {
+      "kai": "第32回",
+      "taisho_kikan": "1954年下半期",
+      "jushosha": "庄野潤三",
+      "jushosaku": "「 プールサイド小景 」"
+    },
+    {
+      "kai": "第33回",
+      "taisho_kikan": "1955年上半期",
+      "jushosha": "遠藤周作",
+      "jushosaku": "「白い人」"
+    },
+    {
+      "kai": "第34回",
+      "taisho_kikan": "1955年下半期",
+      "jushosha": "石原慎太郎",
+      "jushosaku": "「 太陽の季節 」"
+    },
+    {
+      "kai": "第35回",
+      "taisho_kikan": "1956年上半期",
+      "jushosha": "近藤啓太郎",
+      "jushosaku": "「海人舟」"
+    },
+    {
+      "kai": "第36回",
+      "taisho_kikan": "1956年下半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第37回",
+      "taisho_kikan": "1957年上半期",
+      "jushosha": "菊村到",
+      "jushosaku": "「硫黄島」"
+    },
+    {
+      "kai": "第38回",
+      "taisho_kikan": "1957年下半期",
+      "jushosha": "開高健",
+      "jushosaku": "「 裸の王様 」"
+    },
+    {
+      "kai": "第39回",
+      "taisho_kikan": "1958年上半期",
+      "jushosha": "大江健三郎",
+      "jushosaku": "「 飼育 」"
+    },
+    {
+      "kai": "第40回",
+      "taisho_kikan": "1958年下半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第41回",
+      "taisho_kikan": "1959年上半期",
+      "jushosha": "斯波四郎",
+      "jushosaku": "「山塔」"
+    },
+    {
+      "kai": "第42回",
+      "taisho_kikan": "1959年下半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第43回",
+      "taisho_kikan": "1960年上半期",
+      "jushosha": "北杜夫",
+      "jushosaku": "「 夜と霧の隅で 」"
+    },
+    {
+      "kai": "第44回",
+      "taisho_kikan": "1960年下半期",
+      "jushosha": "三浦哲郎",
+      "jushosaku": "「 忍ぶ川 」"
+    },
+    {
+      "kai": "第45回",
+      "taisho_kikan": "1961年上半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第46回",
+      "taisho_kikan": "1961年下半期",
+      "jushosha": "宇能鴻一郎",
+      "jushosaku": "「 鯨神 」"
+    },
+    {
+      "kai": "第47回",
+      "taisho_kikan": "1962年上半期",
+      "jushosha": "川村晃",
+      "jushosaku": "「美談の出発」"
+    },
+    {
+      "kai": "第48回",
+      "taisho_kikan": "1962年下半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第49回",
+      "taisho_kikan": "1963年上半期",
+      "jushosha": "後藤紀一",
+      "jushosaku": "「少年の橋」"
+    },
+    {
+      "kai": "第49回",
+      "taisho_kikan": "1963年上半期",
+      "jushosha": "河野多惠子",
+      "jushosaku": "「蟹」"
+    },
+    {
+      "kai": "第50回",
+      "taisho_kikan": "1963年下半期",
+      "jushosha": "田辺聖子",
+      "jushosaku": "「 感傷旅行 センチメンタル・ジャーニィ 」"
+    },
+    {
+      "kai": "第51回",
+      "taisho_kikan": "1964年上半期",
+      "jushosha": "柴田翔",
+      "jushosaku": "「 されどわれらが日々── 」"
+    },
+    {
+      "kai": "第52回",
+      "taisho_kikan": "1964年下半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第53回",
+      "taisho_kikan": "1965年上半期",
+      "jushosha": "津村節子",
+      "jushosaku": "「玩具」"
+    },
+    {
+      "kai": "第54回",
+      "taisho_kikan": "1965年下半期",
+      "jushosha": "高井有一",
+      "jushosaku": "「北の河」"
+    },
+    {
+      "kai": "第55回",
+      "taisho_kikan": "1966年上半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第56回",
+      "taisho_kikan": "1966年下半期",
+      "jushosha": "丸山健二",
+      "jushosaku": "「夏の流れ」"
+    },
+    {
+      "kai": "第57回",
+      "taisho_kikan": "1967年上半期",
+      "jushosha": "大城立裕",
+      "jushosaku": "「カクテル・パーティー」"
+    },
+    {
+      "kai": "第58回",
+      "taisho_kikan": "1967年下半期",
+      "jushosha": "柏原兵三",
+      "jushosaku": "「徳山道助の帰郷」"
+    },
+    {
+      "kai": "第59回",
+      "taisho_kikan": "1968年上半期",
+      "jushosha": "丸谷才一",
+      "jushosaku": "「年の残り」"
+    },
+    {
+      "kai": "第59回",
+      "taisho_kikan": "1968年上半期",
+      "jushosha": "大庭みな子",
+      "jushosaku": "「三匹の蟹」"
+    },
+    {
+      "kai": "第60回",
+      "taisho_kikan": "1968年下半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第61回",
+      "taisho_kikan": "1969年上半期",
+      "jushosha": "庄司薫",
+      "jushosaku": "「 赤頭巾ちゃん気をつけて 」"
+    },
+    {
+      "kai": "第61回",
+      "taisho_kikan": "1969年上半期",
+      "jushosha": "田久保英夫",
+      "jushosaku": "「深い河」"
+    },
+    {
+      "kai": "第62回",
+      "taisho_kikan": "1969年下半期",
+      "jushosha": "清岡卓行",
+      "jushosaku": "「 アカシヤの大連 」"
+    },
+    {
+      "kai": "第63回",
+      "taisho_kikan": "1970年上半期",
+      "jushosha": "吉田知子",
+      "jushosaku": "「無明長夜」"
+    },
+    {
+      "kai": "第63回",
+      "taisho_kikan": "1970年上半期",
+      "jushosha": "古山高麗雄",
+      "jushosaku": "「プレオー8の夜明け」"
+    },
+    {
+      "kai": "第64回",
+      "taisho_kikan": "1970年下半期",
+      "jushosha": "古井由吉",
+      "jushosaku": "「杳子」"
+    },
+    {
+      "kai": "第65回",
+      "taisho_kikan": "1971年上半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第66回",
+      "taisho_kikan": "1971年下半期",
+      "jushosha": "李恢成",
+      "jushosaku": "「砧をうつ女」"
+    },
+    {
+      "kai": "第66回",
+      "taisho_kikan": "1971年下半期",
+      "jushosha": "東峰夫",
+      "jushosaku": "「オキナワの少年」"
+    },
+    {
+      "kai": "第67回",
+      "taisho_kikan": "1972年上半期",
+      "jushosha": "畑山博",
+      "jushosaku": "「いつか汽笛を鳴らして」"
+    },
+    {
+      "kai": "第67回",
+      "taisho_kikan": "1972年上半期",
+      "jushosha": "宮原昭夫",
+      "jushosaku": "「誰かが触った」"
+    },
+    {
+      "kai": "第68回",
+      "taisho_kikan": "1972年下半期",
+      "jushosha": "山本道子",
+      "jushosaku": "「ベティさんの庭」"
+    },
+    {
+      "kai": "第68回",
+      "taisho_kikan": "1972年下半期",
+      "jushosha": "郷静子",
+      "jushosaku": "「れくいえむ」"
+    },
+    {
+      "kai": "第69回",
+      "taisho_kikan": "1973年上半期",
+      "jushosha": "三木卓",
+      "jushosaku": "「鶸」"
+    },
+    {
+      "kai": "第70回",
+      "taisho_kikan": "1973年下半期",
+      "jushosha": "野呂邦暢",
+      "jushosaku": "「草のつるぎ」"
+    },
+    {
+      "kai": "第70回",
+      "taisho_kikan": "1973年下半期",
+      "jushosha": "森敦",
+      "jushosaku": "「 月山 」"
+    },
+    {
+      "kai": "第71回",
+      "taisho_kikan": "1974年上半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第72回",
+      "taisho_kikan": "1974年下半期",
+      "jushosha": "日野啓三",
+      "jushosaku": "「あの夕陽」"
+    },
+    {
+      "kai": "第72回",
+      "taisho_kikan": "1974年下半期",
+      "jushosha": "阪田寛夫",
+      "jushosaku": "「土の器」"
+    },
+    {
+      "kai": "第73回",
+      "taisho_kikan": "1975年上半期",
+      "jushosha": "林京子",
+      "jushosaku": "「祭りの場」"
+    },
+    {
+      "kai": "第74回",
+      "taisho_kikan": "1975年下半期",
+      "jushosha": "中上健次",
+      "jushosaku": "「 岬 」"
+    },
+    {
+      "kai": "第74回",
+      "taisho_kikan": "1975年下半期",
+      "jushosha": "岡松和夫",
+      "jushosaku": "「志賀島」"
+    },
+    {
+      "kai": "第75回",
+      "taisho_kikan": "1976年上半期",
+      "jushosha": "村上龍",
+      "jushosaku": "「 限りなく透明に近いブルー 」"
+    },
+    {
+      "kai": "第76回",
+      "taisho_kikan": "1976年下半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第77回",
+      "taisho_kikan": "1977年上半期",
+      "jushosha": "三田誠広",
+      "jushosaku": "「 僕って何 」"
+    },
+    {
+      "kai": "第77回",
+      "taisho_kikan": "1977年上半期",
+      "jushosha": "池田満寿夫",
+      "jushosaku": "「 エーゲ海に捧ぐ 」"
+    },
+    {
+      "kai": "第78回",
+      "taisho_kikan": "1977年下半期",
+      "jushosha": "宮本輝",
+      "jushosaku": "「 螢川 」"
+    },
+    {
+      "kai": "第78回",
+      "taisho_kikan": "1977年下半期",
+      "jushosha": "高城修三",
+      "jushosaku": "「榧の木祭り」"
+    },
+    {
+      "kai": "第79回",
+      "taisho_kikan": "1978年上半期",
+      "jushosha": "高橋揆一郎",
+      "jushosaku": "「伸予」"
+    },
+    {
+      "kai": "第79回",
+      "taisho_kikan": "1978年上半期",
+      "jushosha": "高橋三千綱",
+      "jushosaku": "「 九月の空 」"
+    },
+    {
+      "kai": "第80回",
+      "taisho_kikan": "1978年下半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第81回",
+      "taisho_kikan": "1979年上半期",
+      "jushosha": "重兼芳子",
+      "jushosaku": "「やまあいの煙」"
+    },
+    {
+      "kai": "第81回",
+      "taisho_kikan": "1979年上半期",
+      "jushosha": "青野聰",
+      "jushosaku": "「愚者の夜」"
+    },
+    {
+      "kai": "第82回",
+      "taisho_kikan": "1979年下半期",
+      "jushosha": "森禮子",
+      "jushosaku": "「モッキングバードのいる町」"
+    },
+    {
+      "kai": "第83回",
+      "taisho_kikan": "1980年上半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第84回",
+      "taisho_kikan": "1980年下半期",
+      "jushosha": "尾辻克彦",
+      "jushosaku": "「父が消えた」"
+    },
+    {
+      "kai": "第85回",
+      "taisho_kikan": "1981年上半期",
+      "jushosha": "吉行理恵",
+      "jushosaku": "「小さな貴婦人」"
+    },
+    {
+      "kai": "第86回",
+      "taisho_kikan": "1981年下半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第87回",
+      "taisho_kikan": "1982年上半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第88回",
+      "taisho_kikan": "1982年下半期",
+      "jushosha": "加藤幸子",
+      "jushosaku": "「夢の壁」"
+    },
+    {
+      "kai": "第88回",
+      "taisho_kikan": "1982年下半期",
+      "jushosha": "唐十郎",
+      "jushosaku": "「佐川君からの手紙」"
+    },
+    {
+      "kai": "第89回",
+      "taisho_kikan": "1983年上半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第90回",
+      "taisho_kikan": "1983年下半期",
+      "jushosha": "笠原淳",
+      "jushosaku": "「杢二の世界」"
+    },
+    {
+      "kai": "第90回",
+      "taisho_kikan": "1983年下半期",
+      "jushosha": "髙樹のぶ子",
+      "jushosaku": "「光抱く友よ」"
+    },
+    {
+      "kai": "第91回",
+      "taisho_kikan": "1984年上半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第92回",
+      "taisho_kikan": "1984年下半期",
+      "jushosha": "木崎さと子",
+      "jushosaku": "「青桐」"
+    },
+    {
+      "kai": "第93回",
+      "taisho_kikan": "1985年上半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第94回",
+      "taisho_kikan": "1985年下半期",
+      "jushosha": "米谷ふみ子",
+      "jushosaku": "「過越しの祭」"
+    },
+    {
+      "kai": "第95回",
+      "taisho_kikan": "1986年上半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第96回",
+      "taisho_kikan": "1986年下半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第97回",
+      "taisho_kikan": "1987年上半期",
+      "jushosha": "村田喜代子",
+      "jushosaku": "「鍋の中」"
+    },
+    {
+      "kai": "第98回",
+      "taisho_kikan": "1987年下半期",
+      "jushosha": "池澤夏樹",
+      "jushosaku": "「 スティル・ライフ 」"
+    },
+    {
+      "kai": "第98回",
+      "taisho_kikan": "1987年下半期",
+      "jushosha": "三浦清宏",
+      "jushosaku": "「長男の出家」"
+    },
+    {
+      "kai": "第99回",
+      "taisho_kikan": "1988年上半期",
+      "jushosha": "新井満",
+      "jushosaku": "「尋ね人の時間」"
+    },
+    {
+      "kai": "第100回",
+      "taisho_kikan": "1988年下半期",
+      "jushosha": "南木佳士",
+      "jushosaku": "「ダイヤモンドダスト」"
+    },
+    {
+      "kai": "第100回",
+      "taisho_kikan": "1988年下半期",
+      "jushosha": "李良枝",
+      "jushosaku": "「由煕」"
+    },
+    {
+      "kai": "第101回",
+      "taisho_kikan": "1989年上半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第102回",
+      "taisho_kikan": "1989年下半期",
+      "jushosha": "大岡玲",
+      "jushosaku": "「表層生活」"
+    },
+    {
+      "kai": "第102回",
+      "taisho_kikan": "1989年下半期",
+      "jushosha": "瀧澤美恵子",
+      "jushosaku": "「ネコババのいる町で」"
+    },
+    {
+      "kai": "第103回",
+      "taisho_kikan": "1990年上半期",
+      "jushosha": "辻原登",
+      "jushosaku": "「村の名前」"
+    },
+    {
+      "kai": "第104回",
+      "taisho_kikan": "1990年下半期",
+      "jushosha": "小川洋子",
+      "jushosaku": "「 妊娠カレンダー 」"
+    },
+    {
+      "kai": "第105回",
+      "taisho_kikan": "1991年上半期",
+      "jushosha": "辺見庸",
+      "jushosaku": "「自動起床装置」"
+    },
+    {
+      "kai": "第105回",
+      "taisho_kikan": "1991年上半期",
+      "jushosha": "荻野アンナ",
+      "jushosaku": "「背負い水」"
+    },
+    {
+      "kai": "第106回",
+      "taisho_kikan": "1991年下半期",
+      "jushosha": "松村栄子",
+      "jushosaku": "「至高聖所アバトーン」"
+    },
+    {
+      "kai": "第107回",
+      "taisho_kikan": "1992年上半期",
+      "jushosha": "藤原智美",
+      "jushosaku": "「運転士」"
+    },
+    {
+      "kai": "第108回",
+      "taisho_kikan": "1992年下半期",
+      "jushosha": "多和田葉子",
+      "jushosaku": "「犬婿入り」"
+    },
+    {
+      "kai": "第109回",
+      "taisho_kikan": "1993年上半期",
+      "jushosha": "吉目木晴彦",
+      "jushosaku": "「寂寥郊野」"
+    },
+    {
+      "kai": "第110回",
+      "taisho_kikan": "1993年下半期",
+      "jushosha": "奥泉光",
+      "jushosaku": "「石の来歴」"
+    },
+    {
+      "kai": "第111回",
+      "taisho_kikan": "1994年上半期",
+      "jushosha": "室井光広",
+      "jushosaku": "「おどるでく」"
+    },
+    {
+      "kai": "第111回",
+      "taisho_kikan": "1994年上半期",
+      "jushosha": "笙野頼子",
+      "jushosaku": "「 タイムスリップ・コンビナート 」"
+    },
+    {
+      "kai": "第112回",
+      "taisho_kikan": "1994年下半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第113回",
+      "taisho_kikan": "1995年上半期",
+      "jushosha": "保坂和志",
+      "jushosaku": "「この人の閾」"
+    },
+    {
+      "kai": "第114回",
+      "taisho_kikan": "1995年下半期",
+      "jushosha": "又吉栄喜",
+      "jushosaku": "「豚の報い」"
+    },
+    {
+      "kai": "第115回",
+      "taisho_kikan": "1996年上半期",
+      "jushosha": "川上弘美",
+      "jushosaku": "「 蛇を踏む 」"
+    },
+    {
+      "kai": "第116回",
+      "taisho_kikan": "1996年下半期",
+      "jushosha": "辻仁成",
+      "jushosaku": "「 海峡の光 」"
+    },
+    {
+      "kai": "第116回",
+      "taisho_kikan": "1996年下半期",
+      "jushosha": "柳美里",
+      "jushosaku": "「家族シネマ」"
+    },
+    {
+      "kai": "第117回",
+      "taisho_kikan": "1997年上半期",
+      "jushosha": "目取真俊",
+      "jushosaku": "「水滴」"
+    },
+    {
+      "kai": "第118回",
+      "taisho_kikan": "1997年下半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第119回",
+      "taisho_kikan": "1998年上半期",
+      "jushosha": "花村萬月",
+      "jushosaku": "「 ゲルマニウムの夜 」"
+    },
+    {
+      "kai": "第119回",
+      "taisho_kikan": "1998年上半期",
+      "jushosha": "藤沢周",
+      "jushosaku": "「ブエノスアイレス午前零時」"
+    },
+    {
+      "kai": "第120回",
+      "taisho_kikan": "1998年下半期",
+      "jushosha": "平野啓一郎",
+      "jushosaku": "「 日蝕 」"
+    },
+    {
+      "kai": "第121回",
+      "taisho_kikan": "1999年上半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第122回",
+      "taisho_kikan": "1999年下半期",
+      "jushosha": "玄月",
+      "jushosaku": "「蔭の棲みか」"
+    },
+    {
+      "kai": "第122回",
+      "taisho_kikan": "1999年下半期",
+      "jushosha": "藤野千夜",
+      "jushosaku": "「 夏の約束 」"
+    },
+    {
+      "kai": "第123回",
+      "taisho_kikan": "2000年上半期",
+      "jushosha": "町田康",
+      "jushosaku": "「きれぎれ」"
+    },
+    {
+      "kai": "第123回",
+      "taisho_kikan": "2000年上半期",
+      "jushosha": "松浦寿輝",
+      "jushosaku": "「 花腐し 」"
+    },
+    {
+      "kai": "第124回",
+      "taisho_kikan": "2000年下半期",
+      "jushosha": "青来有一",
+      "jushosaku": "「聖水」"
+    },
+    {
+      "kai": "第124回",
+      "taisho_kikan": "2000年下半期",
+      "jushosha": "堀江敏幸",
+      "jushosaku": "「熊の敷石」"
+    },
+    {
+      "kai": "第125回",
+      "taisho_kikan": "2001年上半期",
+      "jushosha": "玄侑宗久",
+      "jushosaku": "「中陰の花」"
+    },
+    {
+      "kai": "第126回",
+      "taisho_kikan": "2001年下半期",
+      "jushosha": "長嶋有",
+      "jushosaku": "「猛スピードで母は」"
+    },
+    {
+      "kai": "第127回",
+      "taisho_kikan": "2002年上半期",
+      "jushosha": "吉田修一",
+      "jushosaku": "「パーク・ライフ」"
+    },
+    {
+      "kai": "第128回",
+      "taisho_kikan": "2002年下半期",
+      "jushosha": "大道珠貴",
+      "jushosaku": "「しょっぱいドライブ」"
+    },
+    {
+      "kai": "第129回",
+      "taisho_kikan": "2003年上半期",
+      "jushosha": "吉村萬壱",
+      "jushosaku": "「ハリガネムシ」"
+    },
+    {
+      "kai": "第130回",
+      "taisho_kikan": "2003年下半期",
+      "jushosha": "金原ひとみ",
+      "jushosaku": "「 蛇にピアス 」"
+    },
+    {
+      "kai": "第130回",
+      "taisho_kikan": "2003年下半期",
+      "jushosha": "綿矢りさ",
+      "jushosaku": "「 蹴りたい背中 」"
+    },
+    {
+      "kai": "第131回",
+      "taisho_kikan": "2004年上半期",
+      "jushosha": "モブ・ノリオ",
+      "jushosaku": "「介護入門」"
+    },
+    {
+      "kai": "第132回",
+      "taisho_kikan": "2004年下半期",
+      "jushosha": "阿部和重",
+      "jushosaku": "「グランド・フィナーレ」"
+    },
+    {
+      "kai": "第133回",
+      "taisho_kikan": "2005年上半期",
+      "jushosha": "中村文則",
+      "jushosaku": "「土の中の子供」"
+    },
+    {
+      "kai": "第134回",
+      "taisho_kikan": "2005年下半期",
+      "jushosha": "絲山秋子",
+      "jushosaku": "「 沖で待つ 」"
+    },
+    {
+      "kai": "第135回",
+      "taisho_kikan": "2006年上半期",
+      "jushosha": "伊藤たかみ",
+      "jushosaku": "「八月の路上に捨てる」"
+    },
+    {
+      "kai": "第136回",
+      "taisho_kikan": "2006年下半期",
+      "jushosha": "青山七恵",
+      "jushosaku": "「ひとり日和」"
+    },
+    {
+      "kai": "第137回",
+      "taisho_kikan": "2007年上半期",
+      "jushosha": "諏訪哲史",
+      "jushosaku": "「アサッテの人」"
+    },
+    {
+      "kai": "第138回",
+      "taisho_kikan": "2007年下半期",
+      "jushosha": "川上未映子",
+      "jushosaku": "「 乳と卵 」"
+    },
+    {
+      "kai": "第139回",
+      "taisho_kikan": "2008年上半期",
+      "jushosha": "楊逸",
+      "jushosaku": "「 時が滲む朝 」"
+    },
+    {
+      "kai": "第140回",
+      "taisho_kikan": "2008年下半期",
+      "jushosha": "津村記久子",
+      "jushosaku": "「 ポトスライムの舟 」"
+    },
+    {
+      "kai": "第141回",
+      "taisho_kikan": "2009年上半期",
+      "jushosha": "磯崎憲一郎",
+      "jushosaku": "「終の住処」"
+    },
+    {
+      "kai": "第142回",
+      "taisho_kikan": "2009年下半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第143回",
+      "taisho_kikan": "2010年上半期",
+      "jushosha": "赤染晶子",
+      "jushosaku": "「 乙女の密告 」"
+    },
+    {
+      "kai": "第144回",
+      "taisho_kikan": "2010年下半期",
+      "jushosha": "朝吹真理子",
+      "jushosaku": "「きことわ」"
+    },
+    {
+      "kai": "第144回",
+      "taisho_kikan": "2010年下半期",
+      "jushosha": "西村賢太",
+      "jushosaku": "「 苦役列車 」"
+    },
+    {
+      "kai": "第145回",
+      "taisho_kikan": "2011年上半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第146回",
+      "taisho_kikan": "2011年下半期",
+      "jushosha": "円城塔",
+      "jushosaku": "「道化師の蝶」"
+    },
+    {
+      "kai": "第146回",
+      "taisho_kikan": "2011年下半期",
+      "jushosha": "田中慎弥",
+      "jushosaku": "「 共喰い 」"
+    },
+    {
+      "kai": "第147回",
+      "taisho_kikan": "2012年上半期",
+      "jushosha": "鹿島田真希",
+      "jushosaku": "「冥土めぐり」"
+    },
+    {
+      "kai": "第148回",
+      "taisho_kikan": "2012年下半期",
+      "jushosha": "黒田夏子",
+      "jushosaku": "「 abさんご 」"
+    },
+    {
+      "kai": "第149回",
+      "taisho_kikan": "2013年上半期",
+      "jushosha": "藤野可織",
+      "jushosaku": "「爪と目」"
+    },
+    {
+      "kai": "第150回",
+      "taisho_kikan": "2013年下半期",
+      "jushosha": "小山田浩子",
+      "jushosaku": "「穴」"
+    },
+    {
+      "kai": "第151回",
+      "taisho_kikan": "2014年上半期",
+      "jushosha": "柴崎友香",
+      "jushosaku": "「 春の庭 」"
+    },
+    {
+      "kai": "第152回",
+      "taisho_kikan": "2014年下半期",
+      "jushosha": "小野正嗣",
+      "jushosaku": "「九年前の祈り」"
+    },
+    {
+      "kai": "第153回",
+      "taisho_kikan": "2015年上半期",
+      "jushosha": "羽田圭介",
+      "jushosaku": "「 スクラップ・アンド・ビルド 」"
+    },
+    {
+      "kai": "第153回",
+      "taisho_kikan": "2015年上半期",
+      "jushosha": "又吉直樹",
+      "jushosaku": "「 火花 」"
+    },
+    {
+      "kai": "第154回",
+      "taisho_kikan": "2015年下半期",
+      "jushosha": "滝口悠生",
+      "jushosaku": "「死んでいない者」"
+    },
+    {
+      "kai": "第154回",
+      "taisho_kikan": "2015年下半期",
+      "jushosha": "本谷有希子",
+      "jushosaku": "「異類婚姻譚」"
+    },
+    {
+      "kai": "第155回",
+      "taisho_kikan": "2016年上半期",
+      "jushosha": "村田沙耶香",
+      "jushosaku": "「 コンビニ人間 」"
+    },
+    {
+      "kai": "第156回",
+      "taisho_kikan": "2016年下半期",
+      "jushosha": "山下澄人",
+      "jushosaku": "「 しんせかい 」"
+    },
+    {
+      "kai": "第157回",
+      "taisho_kikan": "2017年上半期",
+      "jushosha": "沼田真佑",
+      "jushosaku": "「 影裏 」"
+    },
+    {
+      "kai": "第158回",
+      "taisho_kikan": "2017年下半期",
+      "jushosha": "石井遊佳",
+      "jushosaku": "「百年泥」"
+    },
+    {
+      "kai": "第158回",
+      "taisho_kikan": "2017年下半期",
+      "jushosha": "若竹千佐子",
+      "jushosaku": "「 おらおらでひとりいぐも 」"
+    },
+    {
+      "kai": "第159回",
+      "taisho_kikan": "2018年上半期",
+      "jushosha": "高橋弘希",
+      "jushosaku": "「送り火」"
+    },
+    {
+      "kai": "第160回",
+      "taisho_kikan": "2018年下半期",
+      "jushosha": "上田岳弘",
+      "jushosaku": "「 ニムロッド 」"
+    },
+    {
+      "kai": "第160回",
+      "taisho_kikan": "2018年下半期",
+      "jushosha": "町屋良平",
+      "jushosaku": "「1R1分34秒」"
+    },
+    {
+      "kai": "第161回",
+      "taisho_kikan": "2019年上半期",
+      "jushosha": "今村夏子",
+      "jushosaku": "「むらさきのスカートの女」"
+    },
+    {
+      "kai": "第162回",
+      "taisho_kikan": "2019年下半期",
+      "jushosha": "古川真人",
+      "jushosaku": "「背高泡立草」"
+    },
+    {
+      "kai": "第163回",
+      "taisho_kikan": "2020年上半期",
+      "jushosha": "高山羽根子",
+      "jushosaku": "「首里の馬」"
+    },
+    {
+      "kai": "第163回",
+      "taisho_kikan": "2020年上半期",
+      "jushosha": "遠野遥",
+      "jushosaku": "「破局」"
+    },
+    {
+      "kai": "第164回",
+      "taisho_kikan": "2020年下半期",
+      "jushosha": "宇佐見りん",
+      "jushosaku": "「 推し、燃ゆ 」"
+    },
+    {
+      "kai": "第165回",
+      "taisho_kikan": "2021年上半期",
+      "jushosha": "石沢麻依",
+      "jushosaku": "「貝に続く場所にて」"
+    },
+    {
+      "kai": "第165回",
+      "taisho_kikan": "2021年上半期",
+      "jushosha": "李琴峰",
+      "jushosaku": "「彼岸花が咲く島」"
+    },
+    {
+      "kai": "第166回",
+      "taisho_kikan": "2021年下半期",
+      "jushosha": "砂川文次",
+      "jushosaku": "「 ブラックボックス 」"
+    },
+    {
+      "kai": "第167回",
+      "taisho_kikan": "2022年上半期",
+      "jushosha": "高瀬隼子",
+      "jushosaku": "「 おいしいごはんが食べられますように 」"
+    },
+    {
+      "kai": "第168回",
+      "taisho_kikan": "2022年下半期",
+      "jushosha": "井戸川射子",
+      "jushosaku": "「 この世の喜びよ 」"
+    },
+    {
+      "kai": "第168回",
+      "taisho_kikan": "2022年下半期",
+      "jushosha": "佐藤厚志",
+      "jushosaku": "「荒地の家族」"
+    },
+    {
+      "kai": "第169回",
+      "taisho_kikan": "2023年上半期",
+      "jushosha": "市川沙央",
+      "jushosaku": "「ハンチバック」"
+    },
+    {
+      "kai": "第170回",
+      "taisho_kikan": "2023年下半期",
+      "jushosha": "九段理江",
+      "jushosaku": "「 東京都同情塔 」"
+    },
+    {
+      "kai": "第171回",
+      "taisho_kikan": "2024年上半期",
+      "jushosha": "朝比奈秋",
+      "jushosaku": "「サンショウウオの四十九日」"
+    },
+    {
+      "kai": "第171回",
+      "taisho_kikan": "2024年上半期",
+      "jushosha": "松永K三蔵",
+      "jushosaku": "「バリ山行」"
+    },
+    {
+      "kai": "第172回",
+      "taisho_kikan": "2024年下半期",
+      "jushosha": "安堂ホセ",
+      "jushosaku": "「DTOPIA」"
+    },
+    {
+      "kai": "第172回",
+      "taisho_kikan": "2024年下半期",
+      "jushosha": "鈴木結生",
+      "jushosaku": "「ゲーテはすべてを言った」"
+    },
+    {
+      "kai": "第173回",
+      "taisho_kikan": "2025年上半期",
+      "jushosha": "該当作品なし",
+      "jushosaku": "該当作品なし"
+    },
+    {
+      "kai": "第174回",
+      "taisho_kikan": "2025年下半期",
+      "jushosha": "鳥山まこと",
+      "jushosaku": "「時の家」"
+    },
+    {
+      "kai": "第174回",
+      "taisho_kikan": "2025年下半期",
+      "jushosha": "畠山丑雄",
+      "jushosaku": "「叫び」"
+    },
+    {
+      "kai": "第175回",
+      "taisho_kikan": "2026年上半期",
+      "jushosha": "小砂川チト",
+      "jushosaku": "「ゾンビ回収婦」"
+    }
+  ],
+  "meta": {
+    "title": "芥川龍之介賞 歴代受賞者・受賞作一覧 - Free Download",
+    "description": "芥川龍之介賞（芥川賞）の回次・対象期間・受賞者・受賞作の一覧。 Contains 222 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "芥川龍之介賞 歴代受賞者・受賞作一覧 | ListBase",
+    "seo_description": "Download 芥川龍之介賞 歴代受賞者・受賞作一覧 — 222 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 222 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/芥川龍之介賞"
+    ]
+  }
+}

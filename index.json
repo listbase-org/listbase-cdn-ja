@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-06T02:29:54.590Z",
-  "total_datasets": 579,
-  "total_records": 461691,
+  "generated": "2026-11-06T02:30:03.602Z",
+  "total_datasets": 580,
+  "total_records": 461913,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "environment",
@@ -1102,6 +1102,31 @@
         "xlsx": {
           "name": "ja-shogyo-koko_JA.xlsx",
           "size": 26063
+        }
+      }
+    },
+    {
+      "id": "ja-akutagawa-sho",
+      "name": "芥川龍之介賞 歴代受賞者・受賞作一覧",
+      "category": "entertainment",
+      "record_count": 222,
+      "columns": [
+        "kai",
+        "taisho_kikan",
+        "jushosha",
+        "jushosaku"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/芥川龍之介賞",
+      "updated": "2026-11",
+      "size": 37056,
+      "files": {
+        "csv": {
+          "name": "ja-akutagawa-sho_JA.csv",
+          "size": 15974
+        },
+        "xlsx": {
+          "name": "ja-akutagawa-sho_JA.xlsx",
+          "size": 16414
         }
       }
     },
