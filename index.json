@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-06T02:30:03.602Z",
-  "total_datasets": 580,
-  "total_records": 461913,
+  "generated": "2026-11-06T02:30:13.043Z",
+  "total_datasets": 581,
+  "total_records": 461942,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "sports",
@@ -15031,6 +15031,35 @@
         "xlsx": {
           "name": "ja-kanketsu-shusshoji-su_JA.xlsx",
           "size": 7033
+        }
+      }
+    },
+    {
+      "id": "ja-kokumin-eiyo-sho",
+      "name": "国民栄誉賞 歴代受賞者一覧",
+      "category": "society",
+      "record_count": 29,
+      "columns": [
+        "bangou",
+        "jushosha",
+        "jushouji_nenrei",
+        "jushoshiki",
+        "shokugyo",
+        "jiyu",
+        "kinenhin",
+        "hoka_eiten"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/国民栄誉賞",
+      "updated": "2026-11",
+      "size": 18291,
+      "files": {
+        "csv": {
+          "name": "ja-kokumin-eiyo-sho_JA.csv",
+          "size": 11520
+        },
+        "xlsx": {
+          "name": "ja-kokumin-eiyo-sho_JA.xlsx",
+          "size": 12198
         }
       }
     },

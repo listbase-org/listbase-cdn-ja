@@ -1,0 +1,356 @@
+{
+  "id": "ja-kokumin-eiyo-sho",
+  "name": "国民栄誉賞 歴代受賞者一覧",
+  "title": "国民栄誉賞 歴代受賞者一覧",
+  "description": "国民栄誉賞の歴代受賞者（氏名、受賞時年齢、授賞式・内閣、職業、受賞事由、記念品、他の栄典）一覧。",
+  "category": "society",
+  "source": "https://ja.wikipedia.org/wiki/国民栄誉賞",
+  "source_url": "https://ja.wikipedia.org/wiki/国民栄誉賞",
+  "updated": "2026-11",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "bangou",
+      "label": "Bangou",
+      "type": "number"
+    },
+    {
+      "key": "jushosha",
+      "label": "Jushosha",
+      "type": "string"
+    },
+    {
+      "key": "jushouji_nenrei",
+      "label": "Jushouji Nenrei",
+      "type": "string"
+    },
+    {
+      "key": "jushoshiki",
+      "label": "Jushoshiki",
+      "type": "string"
+    },
+    {
+      "key": "shokugyo",
+      "label": "Shokugyo",
+      "type": "string"
+    },
+    {
+      "key": "jiyu",
+      "label": "Jiyu",
+      "type": "string"
+    },
+    {
+      "key": "kinenhin",
+      "label": "Kinenhin",
+      "type": "string"
+    },
+    {
+      "key": "hoka_eiten",
+      "label": "Hoka Eiten",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bangou": "1",
+      "jushosha": "王貞治",
+      "jushouji_nenrei": "37歳",
+      "jushoshiki": "1977年 9月5日 （ 福田赳夫内閣 ）",
+      "shokugyo": "プロ野球選手",
+      "jiyu": "通算本塁打数世界新記録達成（756本）。",
+      "kinenhin": "鷲の剥製",
+      "hoka_eiten": "文化功労者"
+    },
+    {
+      "bangou": "2",
+      "jushosha": "古賀正夫 （ 古賀政男 ）",
+      "jushouji_nenrei": "没後受賞 （満73歳没）",
+      "jushoshiki": "1978年 8月4日 （ 福田赳夫改造内閣 ）",
+      "shokugyo": "作曲家",
+      "jiyu": "独自の曲調「古賀メロディー」作曲による業績。",
+      "kinenhin": "懐中時計",
+      "hoka_eiten": "従四位 勲三等 瑞宝章 紫綬褒章 銀杯一個（菊紋）"
+    },
+    {
+      "bangou": "3",
+      "jushosha": "長谷川一夫",
+      "jushouji_nenrei": "没後受賞 （満76歳没）",
+      "jushoshiki": "1984年 4月19日 （ 第2次中曽根内閣 ）",
+      "shokugyo": "俳優",
+      "jiyu": "真摯な精進 卓越した演技と映画演劇界への貢献。次の植村と共に初の複数人同時受賞となった。",
+      "kinenhin": "銀製飾り額 花挿し",
+      "hoka_eiten": "勲三等瑞宝章 紫綬褒章 銀杯一個（菊紋）"
+    },
+    {
+      "bangou": "4",
+      "jushosha": "植村直己",
+      "jushouji_nenrei": "没後受賞 （満43歳没）",
+      "jushoshiki": "1984年 4月19日 （第2次中曽根内閣）",
+      "shokugyo": "冒険家",
+      "jiyu": "世界五大陸最高峰登頂など。上の長谷川と共に初の複数人同時受賞となった。",
+      "kinenhin": "陶製壺",
+      "hoka_eiten": ""
+    },
+    {
+      "bangou": "5",
+      "jushosha": "山下泰裕",
+      "jushouji_nenrei": "27歳",
+      "jushoshiki": "1984年 10月9日 （第2次中曽根内閣）",
+      "shokugyo": "柔道選手",
+      "jiyu": "柔道における真摯な精進。前人未踏の記録達成など。",
+      "kinenhin": "置き時計",
+      "hoka_eiten": "紫綬褒章 銀杯一組（菊紋）"
+    },
+    {
+      "bangou": "6",
+      "jushosha": "衣笠祥雄",
+      "jushouji_nenrei": "40歳",
+      "jushoshiki": "1987年 6月22日 （ 第3次中曽根内閣 ）",
+      "shokugyo": "プロ野球選手",
+      "jiyu": "連続試合出場世界新記録達成（2131試合）。",
+      "kinenhin": "銀製レリーフ",
+      "hoka_eiten": ""
+    },
+    {
+      "bangou": "7",
+      "jushosha": "加藤和枝 （ 美空ひばり ）",
+      "jushouji_nenrei": "没後受賞 （満52歳没）",
+      "jushoshiki": "1989年 7月6日 （ 宇野内閣 ）",
+      "shokugyo": "歌手",
+      "jiyu": "真摯な精進、歌謡曲を通じて国民に夢と希望を与えた。",
+      "kinenhin": "銀製花瓶",
+      "hoka_eiten": "紺綬褒章"
+    },
+    {
+      "bangou": "8",
+      "jushosha": "秋元貢 （ 千代の富士貢 ）",
+      "jushouji_nenrei": "34歳",
+      "jushoshiki": "1989年 9月29日 （ 第1次海部内閣 ）",
+      "shokugyo": "大相撲力士",
+      "jiyu": "通算勝ち星最高記録更新。相撲界への著しい貢献。",
+      "kinenhin": "青磁製壺",
+      "hoka_eiten": "従四位 旭日中綬章"
+    },
+    {
+      "bangou": "9",
+      "jushosha": "増永丈夫 （ 藤山一郎 ）",
+      "jushouji_nenrei": "81歳",
+      "jushoshiki": "1992年 5月28日 （ 宮澤内閣 ）",
+      "shokugyo": "歌手",
+      "jiyu": "歌謡曲を通じて国民に希望と励ましを与えた功労。美しい日本語の普及に貢献。",
+      "kinenhin": "懐中時計",
+      "hoka_eiten": "従四位 勲三等瑞宝章 紫綬褒章 銀杯一個（菊紋）"
+    },
+    {
+      "bangou": "10",
+      "jushosha": "長谷川町子",
+      "jushouji_nenrei": "没後受賞 （満72歳没）",
+      "jushoshiki": "1992年 7月28日 （宮澤内閣）",
+      "shokugyo": "漫画家",
+      "jiyu": "家庭漫画（『 サザエさん 』）を通じて 第二次世界大戦後 の日本社会に潤いと安らぎを与えた。",
+      "kinenhin": "銀製花瓶",
+      "hoka_eiten": "勲四等 宝冠章 紫綬褒章"
+    },
+    {
+      "bangou": "11",
+      "jushosha": "服部良一",
+      "jushouji_nenrei": "没後受賞 （満85歳没）",
+      "jushoshiki": "1993年 2月26日 （ 宮澤改造内閣 ）",
+      "shokugyo": "作曲家",
+      "jiyu": "数多くの歌謡曲を作り、国民に希望と潤いを与えた。",
+      "kinenhin": "銀製花瓶",
+      "hoka_eiten": "従四位 勲三等瑞宝章 紫綬褒章 銀杯一個（菊紋）"
+    },
+    {
+      "bangou": "12",
+      "jushosha": "田所康雄 （ 渥美清 ）",
+      "jushouji_nenrei": "没後受賞 （満68歳没）",
+      "jushoshiki": "1996年 9月3日 （ 第1次橋本内閣 ）",
+      "shokugyo": "俳優",
+      "jiyu": "映画『 男はつらいよ 』シリーズを通じて、人情味豊かな演技で広く国民に喜びと潤いを与えた。",
+      "kinenhin": "銀製花器",
+      "hoka_eiten": "紫綬褒章 銀杯一個（菊紋）"
+    },
+    {
+      "bangou": "13",
+      "jushosha": "吉田正",
+      "jushouji_nenrei": "没後受賞 （満77歳没）",
+      "jushoshiki": "1998年 7月7日 （ 第2次橋本改造内閣 ）",
+      "shokugyo": "作曲家",
+      "jiyu": "独自の曲調「吉田メロディー」の作曲により国民に夢と希望と潤いを与えた。",
+      "kinenhin": "銀製飾り皿",
+      "hoka_eiten": "従四位 勲三等旭日中綬章 紫綬褒章"
+    },
+    {
+      "bangou": "14",
+      "jushosha": "黒澤明",
+      "jushouji_nenrei": "没後受賞 （満88歳没）",
+      "jushoshiki": "1998年 10月1日 （ 小渕内閣 ）",
+      "shokugyo": "映画監督",
+      "jiyu": "数々の不朽の名作によって国民に深い感動を与えるとともに、世界の映画史に輝かしい足跡を残した。",
+      "kinenhin": "陶製花瓶",
+      "hoka_eiten": "従三位 文化勲章 文化功労者 銀杯一組（菊紋）"
+    },
+    {
+      "bangou": "15",
+      "jushosha": "高橋尚子",
+      "jushouji_nenrei": "28歳",
+      "jushoshiki": "2000年 10月30日 （ 第2次森内閣 ）",
+      "shokugyo": "陸上競技選手",
+      "jiyu": "2000年シドニーオリンピック 女子マラソンで優勝し、陸上競技で日本女子選手初の金メダルを獲得した。",
+      "kinenhin": "腕時計 (パテック・フィリップ)",
+      "hoka_eiten": "銀杯一組（菊紋）"
+    },
+    {
+      "bangou": "16",
+      "jushosha": "遠藤実",
+      "jushouji_nenrei": "没後受賞 （満76歳没）",
+      "jushoshiki": "2009年 1月23日 （ 麻生内閣 ）",
+      "shokugyo": "作曲家",
+      "jiyu": "世代を超えて長く愛唱される、情感に満ちあふれた名曲を数多く世に送り出した 。",
+      "kinenhin": "腕時計",
+      "hoka_eiten": "正四位 勲三等旭日中綬章 旭日重光章 文化功労者 紫綬褒章"
+    },
+    {
+      "bangou": "17",
+      "jushosha": "村上美津 （ 森光子 ）",
+      "jushouji_nenrei": "89歳",
+      "jushoshiki": "2009年 7月1日 （麻生内閣）",
+      "shokugyo": "俳優",
+      "jiyu": "長年にわたって芸能分野の第一線で活躍し、特に『 放浪記 』において2000回を超える主演を務めた 。現在、存命中に受賞した者の中では最年長記録保持者 。",
+      "kinenhin": "腕時計 (オメガ)",
+      "hoka_eiten": "従三位 文化勲章 勲三等瑞宝章 文化功労者 紫綬褒章"
+    },
+    {
+      "bangou": "18",
+      "jushosha": "森繁久彌",
+      "jushouji_nenrei": "没後受賞 （満96歳没）",
+      "jushoshiki": "2009年 12月22日 （ 鳩山由紀夫内閣 ）",
+      "shokugyo": "俳優",
+      "jiyu": "芸能の分野において長年にわたり第一線で多彩に活躍。数多くの優れた演技と歌唱は広く国民に愛された 。",
+      "kinenhin": "腕時計",
+      "hoka_eiten": "従三位 文化勲章 勲二等瑞宝章 文化功労者 紫綬褒章 紺綬褒章"
+    },
+    {
+      "bangou": "19",
+      "jushosha": "2011 FIFA 女子ワールドカップ 日本女子代表",
+      "jushouji_nenrei": "団体受賞",
+      "jushoshiki": "2011年 8月18日 （ 菅第2次改造内閣 ）",
+      "shokugyo": "サッカー チーム",
+      "jiyu": "東日本大震災 などの発生によって日本国民が極めて困難な状況下に置かれるなか、同年の FIFA女子ワールドカップ で初優勝を果たし、最後まで諦めないひたむきな姿勢によって国民に爽やかな感動と困難に立ち向かう勇気を与えた 。",
+      "kinenhin": "化粧筆 (熊野筆)",
+      "hoka_eiten": "褒状 （ 紫綬 ）"
+    },
+    {
+      "bangou": "20",
+      "jushosha": "吉田沙保里",
+      "jushouji_nenrei": "30歳",
+      "jushoshiki": "2012年 11月7日 （ 野田第3次改造内閣 ）",
+      "shokugyo": "アマチュアレスリング選手",
+      "jiyu": "世界大会13連覇という、レスリング競技史上前人未到の偉業を成し遂げ、国民に感動と希望、勇気を与えた 。",
+      "kinenhin": "真珠のネックレス (ミキモト 製)",
+      "hoka_eiten": "紫綬褒章"
+    },
+    {
+      "bangou": "21",
+      "jushosha": "納谷幸喜 （ 大鵬幸喜 ）",
+      "jushouji_nenrei": "没後受賞 （満72歳没）",
+      "jushoshiki": "2013年 2月25日 （ 第2次安倍内閣 ）",
+      "shokugyo": "大相撲力士",
+      "jiyu": "1960年代 に“子どもの好きな物”として 読売ジャイアンツ や玉子焼きと並び称されることが流行語になったほどの人気者。大相撲史上最多となる32回の幕内優勝を成し遂げるなど、“昭和の大横綱”として相撲界に輝かしい功績を残すとともに、多くの国民に愛される国民的な英雄として社会に明るい夢と希望と勇気を与えることに顕著な業績があった 。",
+      "kinenhin": "掛け時計",
+      "hoka_eiten": "正四位 旭日重光章 文化功労者 紫綬褒章"
+    },
+    {
+      "bangou": "22",
+      "jushosha": "長嶋茂雄",
+      "jushouji_nenrei": "77歳",
+      "jushoshiki": "2013年 5月5日 （第2次安倍内閣）",
+      "shokugyo": "プロ野球選手",
+      "jiyu": "闘志あふれるプレイと驚異的な勝負強さで野球史に輝かしい成績を残し、“ミスタープロ野球”として誰からも愛される国民的スターとしてプロ野球を国民的なスポーツにまで高め、野球界の発展にきわめて顕著な貢献をしたとともに、国民に深い感動と社会に明るい夢と希望を与える事に顕著な実績があった 。なお、受賞日をこの日（2013年5月5日）に選んだ理由は、長嶋の背番号『3』、および長嶋のプロ生活から55年にちなむ。",
+      "kinenhin": "純金製のバット",
+      "hoka_eiten": "従三位 文化勲章 文化功労者"
+    },
+    {
+      "bangou": "23",
+      "jushosha": "松井秀喜",
+      "jushouji_nenrei": "38歳",
+      "jushoshiki": "2013年5月5日 （第2次安倍内閣）",
+      "shokugyo": "プロ野球選手",
+      "jiyu": "長嶋茂雄との師弟関係にあり、ひたむきな努力と真摯なプレイにより日米通じて20年間にわたり常にチームの主軸を担い、日本人初となるワールドシリーズMVPの獲得など数々の素晴らしい成績を残し、“ゴジラ”の愛称で日米の国民から愛され、親しまれ、その活躍は社会に大きな感動と喜びを与え、多くの青少年に夢や希望を与えた 。 なお、受賞日をこの日（2013年5月5日）に選んだ理由は、松井の背番号が『55』であるため。長嶋と松井の同時受賞は1984年の植村・長谷川以来、29年振り2組目となる。",
+      "kinenhin": "純金製のバット",
+      "hoka_eiten": ""
+    },
+    {
+      "bangou": "24",
+      "jushosha": "伊調馨",
+      "jushouji_nenrei": "32歳",
+      "jushoshiki": "2016年 10月20日 （ 第3次安倍第2次改造内閣 ）",
+      "shokugyo": "アマチュアレスリング選手",
+      "jiyu": "オリンピック競技大会史上初めて女子個人種目・格闘技系種目四連覇という世界的な偉業を成し遂げられ、多くの国民に深い感動と勇気、社会に明るい希望を与えたこと 。",
+      "kinenhin": "帯",
+      "hoka_eiten": "紫綬褒章"
+    },
+    {
+      "bangou": "25",
+      "jushosha": "羽生善治",
+      "jushouji_nenrei": "47歳",
+      "jushoshiki": "2018年 2月13日 （ 第4次安倍内閣 ）",
+      "shokugyo": "将棋棋士",
+      "jiyu": "将棋界を牽引する棋士の第一人者として、1996年に初めて七冠を同時に制覇するなど比類なき功績を重ね、将棋界初の永世七冠という歴史に刻まれる偉業を達成、多くの国民に夢と感動を、社会に明るい希望と勇気を与えることに顕著な業績があった",
+      "kinenhin": "雨畑硯 熊野筆",
+      "hoka_eiten": "内閣総理大臣顕彰 紫綬褒章"
+    },
+    {
+      "bangou": "26",
+      "jushosha": "井山裕太",
+      "jushouji_nenrei": "28歳",
+      "jushoshiki": "2018年2月13日 （第4次安倍内閣）",
+      "shokugyo": "囲碁棋士",
+      "jiyu": "囲碁界を牽引する棋士の第一人者として、顕著な功績を重ね続け、年間グランドスラムを含む囲碁界初の2度の七冠同時制覇という歴史に刻まれる偉業を達成、多くの国民に夢と感動を、社会に明るい希望と勇気を与えることに顕著な業績があった 。井山が平成生まれでは初の国民栄誉賞受賞者となる。羽生善治と井山の同時受賞は、2013年の長嶋・松井以来5年振り、3組目となる。",
+      "kinenhin": "雨畑硯 熊野筆",
+      "hoka_eiten": "内閣総理大臣顕彰 紫綬褒章"
+    },
+    {
+      "bangou": "27",
+      "jushosha": "羽生結弦",
+      "jushouji_nenrei": "23歳",
+      "jushoshiki": "2018年 7月2日 （第4次安倍内閣）",
+      "shokugyo": "フィギュアスケート選手",
+      "jiyu": "2018年平昌オリンピック フィギュアスケート男子で優勝し、男子シングル種目で66年ぶりとなる2連覇を達成、世界の歴史に残る快挙を成し遂げ、多くの国民に夢と感動を、社会に明るい希望と勇気を与えた 。現在の受賞者の中で最年少記録保持者（個人）。記念品および金一封の授与を辞退した（受賞後の会見で「（被災地の）皆さんと共に取れた賞であり、個人的な気持ちは出したくない」と述べている）。",
+      "kinenhin": "辞退",
+      "hoka_eiten": "紫綬褒章"
+    },
+    {
+      "bangou": "28",
+      "jushosha": "国枝慎吾",
+      "jushouji_nenrei": "39歳",
+      "jushoshiki": "2023年 3月17日 （ 第2次岸田内閣 ）",
+      "shokugyo": "車いすテニス 選手",
+      "jiyu": "車いすテニス4大大会及び パラリンピック 車いすテニス競技男子シングルス優勝の生涯ゴールデンスラムを達成し、パラスポーツの社会的認知度向上とその発展に著しく貢献した 。パラスポーツ選手の受賞は初めて 。",
+      "kinenhin": "腕時計 （ グランドセイコー ）",
+      "hoka_eiten": "紫綬褒章"
+    },
+    {
+      "bangou": "29",
+      "jushosha": "髙木美帆",
+      "jushouji_nenrei": "32歳",
+      "jushoshiki": "2026年 8月4日 （ 第2次高市内閣 ）",
+      "shokugyo": "スピードスケート選手",
+      "jiyu": "スピードスケート界の第一人者として世界の第一線で活躍し、オリンピックで日本の女子選手としては2個の金メダルを含む最多の10個のメダルを獲得し、 スピードスケートW杯 では日本最多となる38勝を記録するなど歴史に残る快挙を成し遂げ、多くの国民に夢と感動を、社会に明るい希望と勇気を与えた 。",
+      "kinenhin": "包丁10本セット",
+      "hoka_eiten": "紫綬褒章"
+    }
+  ],
+  "meta": {
+    "title": "国民栄誉賞 歴代受賞者一覧 - Free Download",
+    "description": "国民栄誉賞の歴代受賞者（氏名、受賞時年齢、授賞式・内閣、職業、受賞事由、記念品、他の栄典）一覧。 Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "国民栄誉賞 歴代受賞者一覧 | ListBase",
+    "seo_description": "Download 国民栄誉賞 歴代受賞者一覧 — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/国民栄誉賞"
+    ]
+  }
+}
