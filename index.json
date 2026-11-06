@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-06T02:30:13.043Z",
-  "total_datasets": 581,
-  "total_records": 461942,
+  "generated": "2026-11-06T02:30:21.824Z",
+  "total_datasets": 582,
+  "total_records": 462180,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "environment",
@@ -1245,6 +1245,31 @@
         "xlsx": {
           "name": "ja-million-seller-game_JA.xlsx",
           "size": 23568
+        }
+      }
+    },
+    {
+      "id": "ja-naoki-sho",
+      "name": "直木三十五賞 歴代受賞者・受賞作一覧",
+      "category": "entertainment",
+      "record_count": 238,
+      "columns": [
+        "kai",
+        "taisho_kikan",
+        "jushosha",
+        "jushosaku"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/直木三十五賞",
+      "updated": "2026-11",
+      "size": 39798,
+      "files": {
+        "csv": {
+          "name": "ja-naoki-sho_JA.csv",
+          "size": 17312
+        },
+        "xlsx": {
+          "name": "ja-naoki-sho_JA.xlsx",
+          "size": 17361
         }
       }
     },
