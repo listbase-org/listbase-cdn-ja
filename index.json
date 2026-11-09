@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-09T02:40:30.958Z",
-  "total_datasets": 586,
-  "total_records": 462600,
+  "generated": "2026-11-09T02:40:40.500Z",
+  "total_datasets": 587,
+  "total_records": 462700,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "transport",
@@ -16171,6 +16171,31 @@
         "xlsx": {
           "name": "ja-suizokukan-sosuiryo-ranking_JA.xlsx",
           "size": 7435
+        }
+      }
+    },
+    {
+      "id": "ja-taki-hyakusen",
+      "name": "日本の滝百選一覧",
+      "category": "tourism",
+      "record_count": 100,
+      "columns": [
+        "bango",
+        "meisho",
+        "todofuken",
+        "shikuchoson"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/日本の滝百選",
+      "updated": "2026-11",
+      "size": 14633,
+      "files": {
+        "csv": {
+          "name": "ja-taki-hyakusen_JA.csv",
+          "size": 4678
+        },
+        "xlsx": {
+          "name": "ja-taki-hyakusen_JA.xlsx",
+          "size": 10595
         }
       }
     },

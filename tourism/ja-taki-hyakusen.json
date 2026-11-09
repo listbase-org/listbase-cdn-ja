@@ -1,0 +1,646 @@
+{
+  "id": "ja-taki-hyakusen",
+  "name": "日本の滝百選一覧",
+  "title": "日本の滝百選一覧",
+  "description": "1990年に選定された「日本の滝百選」の滝の名称と所在地（都道府県・市区町村）の一覧。",
+  "category": "tourism",
+  "source": "https://ja.wikipedia.org/wiki/日本の滝百選",
+  "source_url": "https://ja.wikipedia.org/wiki/日本の滝百選",
+  "updated": "2026-11",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "bango",
+      "label": "Bango",
+      "type": "number"
+    },
+    {
+      "key": "meisho",
+      "label": "Meisho",
+      "type": "string"
+    },
+    {
+      "key": "todofuken",
+      "label": "Todofuken",
+      "type": "string"
+    },
+    {
+      "key": "shikuchoson",
+      "label": "Shikuchoson",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bango": 1,
+      "meisho": "羽衣の滝",
+      "todofuken": "北海道",
+      "shikuchoson": "東川町"
+    },
+    {
+      "bango": 2,
+      "meisho": "インクラの滝",
+      "todofuken": "北海道",
+      "shikuchoson": "白老町"
+    },
+    {
+      "bango": 3,
+      "meisho": "\"飛竜\"賀老の滝",
+      "todofuken": "北海道",
+      "shikuchoson": "島牧村"
+    },
+    {
+      "bango": 4,
+      "meisho": "流星・銀河の滝",
+      "todofuken": "北海道",
+      "shikuchoson": "上川町"
+    },
+    {
+      "bango": 5,
+      "meisho": "アシリベツの滝",
+      "todofuken": "北海道",
+      "shikuchoson": "札幌市南区"
+    },
+    {
+      "bango": 6,
+      "meisho": "オシンコシンの滝",
+      "todofuken": "北海道",
+      "shikuchoson": "斜里町"
+    },
+    {
+      "bango": 7,
+      "meisho": "くろくまの滝",
+      "todofuken": "青森県",
+      "shikuchoson": "鯵ヶ沢町"
+    },
+    {
+      "bango": 8,
+      "meisho": "松見の滝",
+      "todofuken": "青森県",
+      "shikuchoson": "十和田市"
+    },
+    {
+      "bango": 9,
+      "meisho": "不動の滝",
+      "todofuken": "岩手県",
+      "shikuchoson": "八幡平市"
+    },
+    {
+      "bango": 10,
+      "meisho": "秋保大滝",
+      "todofuken": "宮城県",
+      "shikuchoson": "仙台市太白区"
+    },
+    {
+      "bango": 11,
+      "meisho": "三階の滝",
+      "todofuken": "宮城県",
+      "shikuchoson": "蔵王町"
+    },
+    {
+      "bango": 12,
+      "meisho": "七滝",
+      "todofuken": "秋田県",
+      "shikuchoson": "小坂町"
+    },
+    {
+      "bango": 13,
+      "meisho": "茶釜の滝",
+      "todofuken": "秋田県",
+      "shikuchoson": "鹿角市"
+    },
+    {
+      "bango": 14,
+      "meisho": "法体の滝",
+      "todofuken": "秋田県",
+      "shikuchoson": "由利本荘市"
+    },
+    {
+      "bango": 15,
+      "meisho": "安の滝",
+      "todofuken": "秋田県",
+      "shikuchoson": "北秋田市"
+    },
+    {
+      "bango": 16,
+      "meisho": "滑川大滝",
+      "todofuken": "山形県",
+      "shikuchoson": "米沢市"
+    },
+    {
+      "bango": 17,
+      "meisho": "白糸の滝",
+      "todofuken": "山形県",
+      "shikuchoson": "戸沢村"
+    },
+    {
+      "bango": 18,
+      "meisho": "七ツ滝",
+      "todofuken": "山形県",
+      "shikuchoson": "鶴岡市"
+    },
+    {
+      "bango": 19,
+      "meisho": "乙字ケ滝",
+      "todofuken": "福島県",
+      "shikuchoson": "須賀川市"
+    },
+    {
+      "bango": 20,
+      "meisho": "三条の滝",
+      "todofuken": "福島県",
+      "shikuchoson": "檜枝岐村"
+    },
+    {
+      "bango": 21,
+      "meisho": "銚子ケ滝",
+      "todofuken": "福島県",
+      "shikuchoson": "郡山市"
+    },
+    {
+      "bango": 22,
+      "meisho": "袋田の滝",
+      "todofuken": "茨城県",
+      "shikuchoson": "大子町"
+    },
+    {
+      "bango": 23,
+      "meisho": "華厳滝",
+      "todofuken": "栃木県",
+      "shikuchoson": "日光市"
+    },
+    {
+      "bango": 24,
+      "meisho": "霧降の滝",
+      "todofuken": "栃木県",
+      "shikuchoson": "日光市"
+    },
+    {
+      "bango": 25,
+      "meisho": "吹割の滝",
+      "todofuken": "群馬県",
+      "shikuchoson": "沼田市"
+    },
+    {
+      "bango": 26,
+      "meisho": "常布の滝",
+      "todofuken": "群馬県",
+      "shikuchoson": "草津町"
+    },
+    {
+      "bango": 27,
+      "meisho": "棚下の不動滝",
+      "todofuken": "群馬県",
+      "shikuchoson": "渋川市"
+    },
+    {
+      "bango": 28,
+      "meisho": "丸神の滝",
+      "todofuken": "埼玉県",
+      "shikuchoson": "小鹿野町"
+    },
+    {
+      "bango": 29,
+      "meisho": "払沢の滝",
+      "todofuken": "東京都",
+      "shikuchoson": "檜原村"
+    },
+    {
+      "bango": 30,
+      "meisho": "早戸大滝",
+      "todofuken": "神奈川県",
+      "shikuchoson": "相模原市緑区"
+    },
+    {
+      "bango": 31,
+      "meisho": "洒水の滝",
+      "todofuken": "神奈川県",
+      "shikuchoson": "山北町"
+    },
+    {
+      "bango": 32,
+      "meisho": "七ツ釜五段の滝",
+      "todofuken": "山梨県",
+      "shikuchoson": "山梨市"
+    },
+    {
+      "bango": 33,
+      "meisho": "北精進ケ滝",
+      "todofuken": "山梨県",
+      "shikuchoson": "北杜市"
+    },
+    {
+      "bango": 34,
+      "meisho": "仙娥滝",
+      "todofuken": "山梨県",
+      "shikuchoson": "甲府市"
+    },
+    {
+      "bango": 35,
+      "meisho": "鈴ヶ滝",
+      "todofuken": "新潟県",
+      "shikuchoson": "村上市"
+    },
+    {
+      "bango": 36,
+      "meisho": "苗名滝",
+      "todofuken": "新潟県",
+      "shikuchoson": "妙高市"
+    },
+    {
+      "bango": 37,
+      "meisho": "惣滝",
+      "todofuken": "新潟県",
+      "shikuchoson": "妙高市"
+    },
+    {
+      "bango": 38,
+      "meisho": "称名滝",
+      "todofuken": "富山県",
+      "shikuchoson": "立山町"
+    },
+    {
+      "bango": 39,
+      "meisho": "姥ケ滝",
+      "todofuken": "石川県",
+      "shikuchoson": "白山市"
+    },
+    {
+      "bango": 40,
+      "meisho": "龍双ケ滝",
+      "todofuken": "福井県",
+      "shikuchoson": "池田町"
+    },
+    {
+      "bango": 41,
+      "meisho": "米子大瀑布",
+      "todofuken": "長野県",
+      "shikuchoson": "須坂市"
+    },
+    {
+      "bango": 42,
+      "meisho": "三本滝",
+      "todofuken": "長野県",
+      "shikuchoson": "松本市"
+    },
+    {
+      "bango": 43,
+      "meisho": "田立の滝",
+      "todofuken": "長野県",
+      "shikuchoson": "南木曽町"
+    },
+    {
+      "bango": 44,
+      "meisho": "根尾の滝",
+      "todofuken": "岐阜県",
+      "shikuchoson": "下呂市"
+    },
+    {
+      "bango": 45,
+      "meisho": "平湯大滝",
+      "todofuken": "岐阜県",
+      "shikuchoson": "高山市"
+    },
+    {
+      "bango": 46,
+      "meisho": "養老の滝",
+      "todofuken": "岐阜県",
+      "shikuchoson": "養老町"
+    },
+    {
+      "bango": 47,
+      "meisho": "阿弥陀ケ滝",
+      "todofuken": "岐阜県",
+      "shikuchoson": "郡上市"
+    },
+    {
+      "bango": 48,
+      "meisho": "安倍の大滝",
+      "todofuken": "静岡県",
+      "shikuchoson": "静岡市葵区"
+    },
+    {
+      "bango": 49,
+      "meisho": "浄蓮の滝",
+      "todofuken": "静岡県",
+      "shikuchoson": "伊豆市"
+    },
+    {
+      "bango": 50,
+      "meisho": "白糸の滝＋音止の滝",
+      "todofuken": "静岡県",
+      "shikuchoson": "富士宮市"
+    },
+    {
+      "bango": 51,
+      "meisho": "阿寺の七滝",
+      "todofuken": "愛知県",
+      "shikuchoson": "新城市"
+    },
+    {
+      "bango": 52,
+      "meisho": "布引の滝",
+      "todofuken": "三重県",
+      "shikuchoson": "熊野市"
+    },
+    {
+      "bango": 53,
+      "meisho": "赤目四十八滝",
+      "todofuken": "三重県",
+      "shikuchoson": "名張市"
+    },
+    {
+      "bango": 54,
+      "meisho": "七ツ釜滝",
+      "todofuken": "三重県",
+      "shikuchoson": "大台町"
+    },
+    {
+      "bango": 55,
+      "meisho": "八ツ淵の滝",
+      "todofuken": "滋賀県",
+      "shikuchoson": "高島市"
+    },
+    {
+      "bango": 56,
+      "meisho": "金引の滝",
+      "todofuken": "京都府",
+      "shikuchoson": "宮津市"
+    },
+    {
+      "bango": 57,
+      "meisho": "箕面滝",
+      "todofuken": "大阪府",
+      "shikuchoson": "箕面市"
+    },
+    {
+      "bango": 58,
+      "meisho": "原不動滝",
+      "todofuken": "兵庫県",
+      "shikuchoson": "宍粟市"
+    },
+    {
+      "bango": 59,
+      "meisho": "猿尾滝",
+      "todofuken": "兵庫県",
+      "shikuchoson": "香美町"
+    },
+    {
+      "bango": 60,
+      "meisho": "天滝",
+      "todofuken": "兵庫県",
+      "shikuchoson": "養父市"
+    },
+    {
+      "bango": 61,
+      "meisho": "布引の滝",
+      "todofuken": "兵庫県",
+      "shikuchoson": "神戸市中央区"
+    },
+    {
+      "bango": 62,
+      "meisho": "双門の滝",
+      "todofuken": "奈良県",
+      "shikuchoson": "天川村"
+    },
+    {
+      "bango": 63,
+      "meisho": "不動七重の滝",
+      "todofuken": "奈良県",
+      "shikuchoson": "下北山村"
+    },
+    {
+      "bango": 64,
+      "meisho": "笹の滝",
+      "todofuken": "奈良県",
+      "shikuchoson": "十津川村"
+    },
+    {
+      "bango": 65,
+      "meisho": "中の滝",
+      "todofuken": "奈良県",
+      "shikuchoson": "上北山村"
+    },
+    {
+      "bango": 66,
+      "meisho": "那智滝",
+      "todofuken": "和歌山県",
+      "shikuchoson": "那智勝浦町"
+    },
+    {
+      "bango": 67,
+      "meisho": "桑ノ木の滝",
+      "todofuken": "和歌山県",
+      "shikuchoson": "新宮市"
+    },
+    {
+      "bango": 68,
+      "meisho": "八草の滝",
+      "todofuken": "和歌山県",
+      "shikuchoson": "白浜町"
+    },
+    {
+      "bango": 69,
+      "meisho": "大山滝",
+      "todofuken": "鳥取県",
+      "shikuchoson": "琴浦町"
+    },
+    {
+      "bango": 70,
+      "meisho": "雨滝",
+      "todofuken": "鳥取県",
+      "shikuchoson": "鳥取市"
+    },
+    {
+      "bango": 71,
+      "meisho": "壇鏡の滝",
+      "todofuken": "島根県",
+      "shikuchoson": "隠岐の島町"
+    },
+    {
+      "bango": 72,
+      "meisho": "龍頭八重滝",
+      "todofuken": "島根県",
+      "shikuchoson": "雲南市"
+    },
+    {
+      "bango": 73,
+      "meisho": "神庭の滝",
+      "todofuken": "岡山県",
+      "shikuchoson": "真庭市"
+    },
+    {
+      "bango": 74,
+      "meisho": "常清滝",
+      "todofuken": "広島県",
+      "shikuchoson": "三次市"
+    },
+    {
+      "bango": 75,
+      "meisho": "寂地峡五竜の滝",
+      "todofuken": "山口県",
+      "shikuchoson": "岩国市"
+    },
+    {
+      "bango": 76,
+      "meisho": "大釜の滝",
+      "todofuken": "徳島県",
+      "shikuchoson": "那賀町"
+    },
+    {
+      "bango": 77,
+      "meisho": "轟九十九滝",
+      "todofuken": "徳島県",
+      "shikuchoson": "海陽町"
+    },
+    {
+      "bango": 78,
+      "meisho": "雨乞の滝",
+      "todofuken": "徳島県",
+      "shikuchoson": "神山町"
+    },
+    {
+      "bango": 79,
+      "meisho": "雪輪の滝",
+      "todofuken": "愛媛県",
+      "shikuchoson": "宇和島市"
+    },
+    {
+      "bango": 80,
+      "meisho": "御来光の滝",
+      "todofuken": "愛媛県",
+      "shikuchoson": "久万高原町"
+    },
+    {
+      "bango": 81,
+      "meisho": "龍王の滝",
+      "todofuken": "高知県",
+      "shikuchoson": "大豊町"
+    },
+    {
+      "bango": 82,
+      "meisho": "轟の滝",
+      "todofuken": "高知県",
+      "shikuchoson": "香美市"
+    },
+    {
+      "bango": 83,
+      "meisho": "大樽の滝",
+      "todofuken": "高知県",
+      "shikuchoson": "越知町"
+    },
+    {
+      "bango": 84,
+      "meisho": "観音の滝",
+      "todofuken": "佐賀県",
+      "shikuchoson": "唐津市"
+    },
+    {
+      "bango": 85,
+      "meisho": "見帰りの滝",
+      "todofuken": "佐賀県",
+      "shikuchoson": "唐津市"
+    },
+    {
+      "bango": 86,
+      "meisho": "四十三万滝",
+      "todofuken": "熊本県",
+      "shikuchoson": "菊池市"
+    },
+    {
+      "bango": 87,
+      "meisho": "栴檀轟の滝",
+      "todofuken": "熊本県",
+      "shikuchoson": "八代市"
+    },
+    {
+      "bango": 88,
+      "meisho": "数鹿流ヶ滝",
+      "todofuken": "熊本県",
+      "shikuchoson": "南阿蘇村"
+    },
+    {
+      "bango": 89,
+      "meisho": "鹿目の滝",
+      "todofuken": "熊本県",
+      "shikuchoson": "人吉市"
+    },
+    {
+      "bango": 90,
+      "meisho": "東椎屋の滝",
+      "todofuken": "大分県",
+      "shikuchoson": "宇佐市"
+    },
+    {
+      "bango": 91,
+      "meisho": "原尻の滝",
+      "todofuken": "大分県",
+      "shikuchoson": "豊後大野市"
+    },
+    {
+      "bango": 92,
+      "meisho": "震動の滝",
+      "todofuken": "大分県",
+      "shikuchoson": "九重町"
+    },
+    {
+      "bango": 93,
+      "meisho": "西椎屋の滝",
+      "todofuken": "大分県",
+      "shikuchoson": "玖珠町"
+    },
+    {
+      "bango": 94,
+      "meisho": "関之尾滝",
+      "todofuken": "宮崎県",
+      "shikuchoson": "都城市"
+    },
+    {
+      "bango": 95,
+      "meisho": "矢研の滝",
+      "todofuken": "宮崎県",
+      "shikuchoson": "都農町"
+    },
+    {
+      "bango": 96,
+      "meisho": "行縢（むかばき）の滝",
+      "todofuken": "宮崎県",
+      "shikuchoson": "延岡市"
+    },
+    {
+      "bango": 97,
+      "meisho": "真名井の滝",
+      "todofuken": "宮崎県",
+      "shikuchoson": "高千穂町"
+    },
+    {
+      "bango": 98,
+      "meisho": "龍門滝",
+      "todofuken": "鹿児島県",
+      "shikuchoson": "姶良市"
+    },
+    {
+      "bango": 99,
+      "meisho": "大川の滝",
+      "todofuken": "鹿児島県",
+      "shikuchoson": "屋久島町"
+    },
+    {
+      "bango": 100,
+      "meisho": "マリユドゥの滝",
+      "todofuken": "沖縄県",
+      "shikuchoson": "竹富町"
+    }
+  ],
+  "meta": {
+    "title": "日本の滝百選一覧 - Free Download",
+    "description": "1990年に選定された「日本の滝百選」の滝の名称と所在地（都道府県・市区町村）の一覧。 Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の滝百選一覧 | ListBase",
+    "seo_description": "Download 日本の滝百選一覧 — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/日本の滝百選"
+    ]
+  }
+}
