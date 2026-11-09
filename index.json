@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-09T02:40:11.321Z",
-  "total_datasets": 584,
-  "total_records": 462400,
+  "generated": "2026-11-09T02:40:20.346Z",
+  "total_datasets": 585,
+  "total_records": 462500,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "transport",
@@ -16019,6 +16019,30 @@
         "xlsx": {
           "name": "ja-juyo-dentoteki-kenzobutsugun_JA.xlsx",
           "size": 13681
+        }
+      }
+    },
+    {
+      "id": "ja-nagisa-hyakusen",
+      "name": "日本の渚百選一覧",
+      "category": "tourism",
+      "record_count": 100,
+      "columns": [
+        "shisetsu_mei",
+        "todofuken",
+        "jichitai"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/日本の渚百選",
+      "updated": "2026-11",
+      "size": 13632,
+      "files": {
+        "csv": {
+          "name": "ja-nagisa-hyakusen_JA.csv",
+          "size": 4834
+        },
+        "xlsx": {
+          "name": "ja-nagisa-hyakusen_JA.xlsx",
+          "size": 10376
         }
       }
     },

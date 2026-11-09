@@ -1,0 +1,541 @@
+{
+  "id": "ja-nagisa-hyakusen",
+  "name": "日本の渚百選一覧",
+  "title": "日本の渚百選一覧",
+  "description": "1996年に選定された「日本の渚百選」の海岸・浜の名称と所在地（都道府県・自治体）の一覧。",
+  "category": "tourism",
+  "source": "https://ja.wikipedia.org/wiki/日本の渚百選",
+  "source_url": "https://ja.wikipedia.org/wiki/日本の渚百選",
+  "updated": "2026-11",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "shisetsu_mei",
+      "label": "Shisetsu Mei",
+      "type": "string"
+    },
+    {
+      "key": "todofuken",
+      "label": "Todofuken",
+      "type": "string"
+    },
+    {
+      "key": "jichitai",
+      "label": "Jichitai",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "shisetsu_mei": "島武意海岸",
+      "todofuken": "北海道",
+      "jichitai": "積丹郡積丹町"
+    },
+    {
+      "shisetsu_mei": "江ノ島海岸",
+      "todofuken": "北海道",
+      "jichitai": "島牧郡島牧村"
+    },
+    {
+      "shisetsu_mei": "百人浜・襟裳岬",
+      "todofuken": "北海道",
+      "jichitai": "幌泉郡えりも町"
+    },
+    {
+      "shisetsu_mei": "トド原",
+      "todofuken": "北海道",
+      "jichitai": "野付郡別海町"
+    },
+    {
+      "shisetsu_mei": "イタンキ浜",
+      "todofuken": "北海道",
+      "jichitai": "室蘭市"
+    },
+    {
+      "shisetsu_mei": "岡崎海岸",
+      "todofuken": "青森県",
+      "jichitai": "西津軽郡深浦町"
+    },
+    {
+      "shisetsu_mei": "椿山海岸",
+      "todofuken": "青森県",
+      "jichitai": "東津軽郡平内町"
+    },
+    {
+      "shisetsu_mei": "大須賀海岸",
+      "todofuken": "青森県",
+      "jichitai": "八戸市"
+    },
+    {
+      "shisetsu_mei": "高田松原",
+      "todofuken": "岩手県",
+      "jichitai": "陸前高田市"
+    },
+    {
+      "shisetsu_mei": "浄土ヶ浜",
+      "todofuken": "岩手県",
+      "jichitai": "宮古市"
+    },
+    {
+      "shisetsu_mei": "碁石海岸",
+      "todofuken": "岩手県",
+      "jichitai": "大船渡市"
+    },
+    {
+      "shisetsu_mei": "奥松島",
+      "todofuken": "宮城県",
+      "jichitai": "東松島市"
+    },
+    {
+      "shisetsu_mei": "十八鳴浜",
+      "todofuken": "宮城県",
+      "jichitai": "気仙沼市"
+    },
+    {
+      "shisetsu_mei": "象潟海岸",
+      "todofuken": "秋田県",
+      "jichitai": "にかほ市"
+    },
+    {
+      "shisetsu_mei": "鵜ノ崎海岸",
+      "todofuken": "秋田県",
+      "jichitai": "男鹿市"
+    },
+    {
+      "shisetsu_mei": "荒崎",
+      "todofuken": "山形県",
+      "jichitai": "酒田市"
+    },
+    {
+      "shisetsu_mei": "由良海岸",
+      "todofuken": "山形県",
+      "jichitai": "鶴岡市"
+    },
+    {
+      "shisetsu_mei": "薄磯海岸",
+      "todofuken": "福島県",
+      "jichitai": "いわき市"
+    },
+    {
+      "shisetsu_mei": "大洲海岸",
+      "todofuken": "福島県",
+      "jichitai": "相馬市"
+    },
+    {
+      "shisetsu_mei": "大洗海岸",
+      "todofuken": "茨城県",
+      "jichitai": "東茨城郡大洗町"
+    },
+    {
+      "shisetsu_mei": "五浦海岸",
+      "todofuken": "茨城県",
+      "jichitai": "北茨城市"
+    },
+    {
+      "shisetsu_mei": "高戸小浜海岸",
+      "todofuken": "茨城県",
+      "jichitai": "高萩市"
+    },
+    {
+      "shisetsu_mei": "九十九里浜",
+      "todofuken": "千葉県",
+      "jichitai": "旭市、匝瑳市、山武市、山武郡横芝光町、九十九里町、大網白里市、長生郡白子町、長生村、一宮町"
+    },
+    {
+      "shisetsu_mei": "鵜原・守谷海岸",
+      "todofuken": "千葉県",
+      "jichitai": "勝浦市"
+    },
+    {
+      "shisetsu_mei": "犬吠埼君ヶ浜海岸",
+      "todofuken": "千葉県",
+      "jichitai": "銚子市"
+    },
+    {
+      "shisetsu_mei": "前原・横渚海岸",
+      "todofuken": "千葉県",
+      "jichitai": "鴨川市"
+    },
+    {
+      "shisetsu_mei": "筆島",
+      "todofuken": "東京都",
+      "jichitai": "大島町"
+    },
+    {
+      "shisetsu_mei": "葛西海浜公園東なぎさ・西なぎさ",
+      "todofuken": "東京都",
+      "jichitai": "江戸川区"
+    },
+    {
+      "shisetsu_mei": "照ヶ崎海岸（こゆるぎの浜）",
+      "todofuken": "神奈川県",
+      "jichitai": "中郡大磯町"
+    },
+    {
+      "shisetsu_mei": "葉山海岸",
+      "todofuken": "神奈川県",
+      "jichitai": "三浦郡葉山町"
+    },
+    {
+      "shisetsu_mei": "七里ヶ浜海岸",
+      "todofuken": "神奈川県",
+      "jichitai": "鎌倉市"
+    },
+    {
+      "shisetsu_mei": "鯨波・青海川海岸",
+      "todofuken": "新潟県",
+      "jichitai": "柏崎市"
+    },
+    {
+      "shisetsu_mei": "尖閣湾",
+      "todofuken": "新潟県",
+      "jichitai": "佐渡市"
+    },
+    {
+      "shisetsu_mei": "雨晴海岸・松田江の長浜",
+      "todofuken": "富山県",
+      "jichitai": "高岡市、氷見市"
+    },
+    {
+      "shisetsu_mei": "宮崎・境海岸",
+      "todofuken": "富山県",
+      "jichitai": "下新川郡朝日町"
+    },
+    {
+      "shisetsu_mei": "千里浜なぎさドライブウェイ",
+      "todofuken": "石川県",
+      "jichitai": "羽咋市、羽咋郡宝達志水町"
+    },
+    {
+      "shisetsu_mei": "鉢が崎海岸",
+      "todofuken": "石川県",
+      "jichitai": "珠洲市"
+    },
+    {
+      "shisetsu_mei": "小舞子海岸",
+      "todofuken": "石川県",
+      "jichitai": "白山市"
+    },
+    {
+      "shisetsu_mei": "越前松島東尋坊",
+      "todofuken": "福井県",
+      "jichitai": "坂井市"
+    },
+    {
+      "shisetsu_mei": "越前海岸",
+      "todofuken": "福井県",
+      "jichitai": "丹生郡越前町、福井市"
+    },
+    {
+      "shisetsu_mei": "若狭小浜",
+      "todofuken": "福井県",
+      "jichitai": "小浜市"
+    },
+    {
+      "shisetsu_mei": "山中湖夕焼けの渚",
+      "todofuken": "山梨県",
+      "jichitai": "南都留郡"
+    },
+    {
+      "shisetsu_mei": "河口湖留守が岩浜",
+      "todofuken": "山梨県",
+      "jichitai": "南都留郡"
+    },
+    {
+      "shisetsu_mei": "諏訪湖ふれあい渚",
+      "todofuken": "長野県",
+      "jichitai": "諏訪市"
+    },
+    {
+      "shisetsu_mei": "弓ヶ浜",
+      "todofuken": "静岡県",
+      "jichitai": "賀茂郡南伊豆町"
+    },
+    {
+      "shisetsu_mei": "牛臥・島郷・志下海岸",
+      "todofuken": "静岡県",
+      "jichitai": "沼津市"
+    },
+    {
+      "shisetsu_mei": "恋路ヶ浜",
+      "todofuken": "愛知県",
+      "jichitai": "田原市"
+    },
+    {
+      "shisetsu_mei": "千鳥ヶ浜",
+      "todofuken": "愛知県",
+      "jichitai": "知多郡南知多町"
+    },
+    {
+      "shisetsu_mei": "七里御浜",
+      "todofuken": "三重県",
+      "jichitai": "熊野市"
+    },
+    {
+      "shisetsu_mei": "二見浦海岸",
+      "todofuken": "三重県",
+      "jichitai": "伊勢市"
+    },
+    {
+      "shisetsu_mei": "琵琶湖湖岸なぎさ公園",
+      "todofuken": "滋賀県",
+      "jichitai": "大津市、守山市、高島市"
+    },
+    {
+      "shisetsu_mei": "天橋立",
+      "todofuken": "京都府",
+      "jichitai": "宮津市"
+    },
+    {
+      "shisetsu_mei": "伊根湾舟屋群",
+      "todofuken": "京都府",
+      "jichitai": "与謝郡伊根町"
+    },
+    {
+      "shisetsu_mei": "琴引浜",
+      "todofuken": "京都府",
+      "jichitai": "京丹後市"
+    },
+    {
+      "shisetsu_mei": "慶野松原",
+      "todofuken": "兵庫県",
+      "jichitai": "南あわじ市"
+    },
+    {
+      "shisetsu_mei": "竹野浜海岸",
+      "todofuken": "兵庫県",
+      "jichitai": "豊岡市"
+    },
+    {
+      "shisetsu_mei": "須磨海岸",
+      "todofuken": "兵庫県",
+      "jichitai": "神戸市"
+    },
+    {
+      "shisetsu_mei": "白崎海岸",
+      "todofuken": "和歌山県",
+      "jichitai": "日高郡由良町"
+    },
+    {
+      "shisetsu_mei": "白良浜",
+      "todofuken": "和歌山県",
+      "jichitai": "西牟婁郡白浜町"
+    },
+    {
+      "shisetsu_mei": "浦富海岸",
+      "todofuken": "鳥取県",
+      "jichitai": "岩美郡岩美町"
+    },
+    {
+      "shisetsu_mei": "鳥取砂丘、白兎海岸",
+      "todofuken": "鳥取県",
+      "jichitai": "鳥取市"
+    },
+    {
+      "shisetsu_mei": "弓ヶ浜海岸",
+      "todofuken": "鳥取県",
+      "jichitai": "境港市、米子市"
+    },
+    {
+      "shisetsu_mei": "稲佐の浜",
+      "todofuken": "島根県",
+      "jichitai": "出雲市"
+    },
+    {
+      "shisetsu_mei": "琴ヶ浜",
+      "todofuken": "島根県",
+      "jichitai": "大田市"
+    },
+    {
+      "shisetsu_mei": "渋川海岸",
+      "todofuken": "岡山県",
+      "jichitai": "玉野市"
+    },
+    {
+      "shisetsu_mei": "沙美海岸",
+      "todofuken": "岡山県",
+      "jichitai": "倉敷市"
+    },
+    {
+      "shisetsu_mei": "桂浜",
+      "todofuken": "広島県",
+      "jichitai": "呉市"
+    },
+    {
+      "shisetsu_mei": "ロマン・ビーチ県民の浜・恋が浜",
+      "todofuken": "広島県",
+      "jichitai": "呉市"
+    },
+    {
+      "shisetsu_mei": "室積・虹ヶ浜海岸",
+      "todofuken": "山口県",
+      "jichitai": "光市"
+    },
+    {
+      "shisetsu_mei": "青海島",
+      "todofuken": "山口県",
+      "jichitai": "長門市"
+    },
+    {
+      "shisetsu_mei": "大浜海岸",
+      "todofuken": "徳島県",
+      "jichitai": "海部郡美波町"
+    },
+    {
+      "shisetsu_mei": "北の脇海岸",
+      "todofuken": "徳島県",
+      "jichitai": "阿南市"
+    },
+    {
+      "shisetsu_mei": "津田の松原",
+      "todofuken": "香川県",
+      "jichitai": "さぬき市"
+    },
+    {
+      "shisetsu_mei": "有明海岸",
+      "todofuken": "香川県",
+      "jichitai": "観音寺市"
+    },
+    {
+      "shisetsu_mei": "満濃池",
+      "todofuken": "香川県",
+      "jichitai": "仲多度郡まんのう町"
+    },
+    {
+      "shisetsu_mei": "桜井海岸",
+      "todofuken": "愛媛県",
+      "jichitai": "今治市"
+    },
+    {
+      "shisetsu_mei": "須ノ川海岸",
+      "todofuken": "愛媛県",
+      "jichitai": "南宇和郡愛南町"
+    },
+    {
+      "shisetsu_mei": "桂浜公園",
+      "todofuken": "高知県",
+      "jichitai": "高知市"
+    },
+    {
+      "shisetsu_mei": "入野海岸",
+      "todofuken": "高知県",
+      "jichitai": "幡多郡黒潮町"
+    },
+    {
+      "shisetsu_mei": "室戸岬",
+      "todofuken": "高知県",
+      "jichitai": "室戸市"
+    },
+    {
+      "shisetsu_mei": "二見ヶ浦",
+      "todofuken": "福岡県",
+      "jichitai": "糸島市・福岡市"
+    },
+    {
+      "shisetsu_mei": "海の中道",
+      "todofuken": "福岡県",
+      "jichitai": "福岡市"
+    },
+    {
+      "shisetsu_mei": "虹の松原",
+      "todofuken": "佐賀県",
+      "jichitai": "唐津市"
+    },
+    {
+      "shisetsu_mei": "波戸岬海岸",
+      "todofuken": "佐賀県",
+      "jichitai": "唐津市"
+    },
+    {
+      "shisetsu_mei": "高浜海水浴場",
+      "todofuken": "長崎県",
+      "jichitai": "長崎市"
+    },
+    {
+      "shisetsu_mei": "筒城浜",
+      "todofuken": "長崎県",
+      "jichitai": "壱岐市"
+    },
+    {
+      "shisetsu_mei": "三宇田浜",
+      "todofuken": "長崎県",
+      "jichitai": "対馬市"
+    },
+    {
+      "shisetsu_mei": "高浜",
+      "todofuken": "長崎県",
+      "jichitai": "五島市"
+    },
+    {
+      "shisetsu_mei": "キリシタンの里崎津",
+      "todofuken": "熊本県",
+      "jichitai": "天草市"
+    },
+    {
+      "shisetsu_mei": "白鶴浜・妙見ヶ浜",
+      "todofuken": "熊本県",
+      "jichitai": "天草市"
+    },
+    {
+      "shisetsu_mei": "有明海・砂干潟",
+      "todofuken": "熊本県",
+      "jichitai": "宇土市"
+    },
+    {
+      "shisetsu_mei": "元猿海岸",
+      "todofuken": "大分県",
+      "jichitai": "佐伯市"
+    },
+    {
+      "shisetsu_mei": "黒ヶ浜",
+      "todofuken": "大分県",
+      "jichitai": "大分市"
+    },
+    {
+      "shisetsu_mei": "日豊海岸・小倉ヶ浜",
+      "todofuken": "宮崎県",
+      "jichitai": "日向市"
+    },
+    {
+      "shisetsu_mei": "日南海岸",
+      "todofuken": "宮崎県",
+      "jichitai": "宮崎市、串間市"
+    },
+    {
+      "shisetsu_mei": "吹上浜",
+      "todofuken": "鹿児島県",
+      "jichitai": "日置市"
+    },
+    {
+      "shisetsu_mei": "大浜海浜公園",
+      "todofuken": "鹿児島県",
+      "jichitai": "奄美市"
+    },
+    {
+      "shisetsu_mei": "二見ヶ浦海岸",
+      "todofuken": "沖縄県",
+      "jichitai": "島尻郡"
+    },
+    {
+      "shisetsu_mei": "イーフ",
+      "todofuken": "沖縄県",
+      "jichitai": "島尻郡"
+    },
+    {
+      "shisetsu_mei": "佐和田の浜",
+      "todofuken": "沖縄県",
+      "jichitai": "宮古島市"
+    }
+  ],
+  "meta": {
+    "title": "日本の渚百選一覧 - Free Download",
+    "description": "1996年に選定された「日本の渚百選」の海岸・浜の名称と所在地（都道府県・自治体）の一覧。 Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の渚百選一覧 | ListBase",
+    "seo_description": "Download 日本の渚百選一覧 — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/日本の渚百選"
+    ]
+  }
+}
