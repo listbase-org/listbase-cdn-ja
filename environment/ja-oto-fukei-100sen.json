@@ -1,0 +1,646 @@
+{
+  "id": "ja-oto-fukei-100sen",
+  "name": "日本の音風景100選一覧",
+  "title": "日本の音風景100選一覧",
+  "description": "環境庁（現環境省）が1996年に選定した「日本の音風景100選」の名称・所在地・分類の一覧。",
+  "category": "environment",
+  "source": "https://ja.wikipedia.org/wiki/日本の音風景100選",
+  "source_url": "https://ja.wikipedia.org/wiki/日本の音風景100選",
+  "updated": "2026-11",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "oto_fukei",
+      "label": "Oto Fukei",
+      "type": "string"
+    },
+    {
+      "key": "shozaichi",
+      "label": "Shozaichi",
+      "type": "string"
+    },
+    {
+      "key": "bunrui",
+      "label": "Bunrui",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "oto_fukei": "オホーツク海の流氷",
+      "shozaichi": "北海道オホーツク海沿岸",
+      "bunrui": "海"
+    },
+    {
+      "no": 2,
+      "oto_fukei": "時計台の鐘",
+      "shozaichi": "北海道札幌市",
+      "bunrui": "鐘"
+    },
+    {
+      "no": 3,
+      "oto_fukei": "函館ハリストス正教会の鐘",
+      "shozaichi": "北海道函館市",
+      "bunrui": "鐘"
+    },
+    {
+      "no": 4,
+      "oto_fukei": "大雪山旭岳の山の生き物",
+      "shozaichi": "北海道東川町",
+      "bunrui": "生物複合"
+    },
+    {
+      "no": 5,
+      "oto_fukei": "鶴居のタンチョウサンクチュアリ",
+      "shozaichi": "北海道鶴居村",
+      "bunrui": "鳥"
+    },
+    {
+      "no": 6,
+      "oto_fukei": "八戸港・蕪島のウミネコ",
+      "shozaichi": "青森県八戸市",
+      "bunrui": "鳥"
+    },
+    {
+      "no": 7,
+      "oto_fukei": "小川原湖畔の野鳥",
+      "shozaichi": "青森県三沢市",
+      "bunrui": "鳥"
+    },
+    {
+      "no": 8,
+      "oto_fukei": "奥入瀬の渓流",
+      "shozaichi": "青森県十和田市",
+      "bunrui": "陸水"
+    },
+    {
+      "no": 9,
+      "oto_fukei": "ねぶた祭・ねぷたまつり",
+      "shozaichi": "青森県青森市、弘前市",
+      "bunrui": "祭り等"
+    },
+    {
+      "no": 10,
+      "oto_fukei": "碁石海岸・雷岩",
+      "shozaichi": "岩手県大船渡市",
+      "bunrui": "海"
+    },
+    {
+      "no": 11,
+      "oto_fukei": "水沢駅の南部風鈴",
+      "shozaichi": "岩手県奥州市",
+      "bunrui": "生活その他"
+    },
+    {
+      "no": 12,
+      "oto_fukei": "チャグチャグ馬コの鈴の音",
+      "shozaichi": "岩手県滝沢市",
+      "bunrui": "祭り等"
+    },
+    {
+      "no": 13,
+      "oto_fukei": "宮城野のスズムシ",
+      "shozaichi": "宮城県仙台市",
+      "bunrui": "昆虫"
+    },
+    {
+      "no": 14,
+      "oto_fukei": "広瀬川のカジカガエルと野鳥",
+      "shozaichi": "宮城県仙台市",
+      "bunrui": "生物複合"
+    },
+    {
+      "no": 15,
+      "oto_fukei": "北上川河口のヨシ原",
+      "shozaichi": "宮城県石巻市",
+      "bunrui": "植物"
+    },
+    {
+      "no": 16,
+      "oto_fukei": "伊豆沼・内沼のマガン",
+      "shozaichi": "宮城県栗原市、登米市",
+      "bunrui": "鳥"
+    },
+    {
+      "no": 17,
+      "oto_fukei": "風の松原",
+      "shozaichi": "秋田県能代市",
+      "bunrui": "植物"
+    },
+    {
+      "no": 18,
+      "oto_fukei": "山寺の蝉",
+      "shozaichi": "山形県山形市",
+      "bunrui": "昆虫"
+    },
+    {
+      "no": 19,
+      "oto_fukei": "松の勧進の法螺貝",
+      "shozaichi": "山形県鶴岡市",
+      "bunrui": "祭り等"
+    },
+    {
+      "no": 20,
+      "oto_fukei": "最上川河口の白鳥",
+      "shozaichi": "山形県酒田市",
+      "bunrui": "鳥"
+    },
+    {
+      "no": 21,
+      "oto_fukei": "福島市小鳥の森",
+      "shozaichi": "福島県福島市",
+      "bunrui": "鳥"
+    },
+    {
+      "no": 22,
+      "oto_fukei": "大内宿の自然用水",
+      "shozaichi": "福島県下郷町",
+      "bunrui": "陸水"
+    },
+    {
+      "no": 23,
+      "oto_fukei": "からむし織のはた音",
+      "shozaichi": "福島県昭和村",
+      "bunrui": "産業・交通"
+    },
+    {
+      "no": 24,
+      "oto_fukei": "五浦海岸の波音",
+      "shozaichi": "茨城県北茨城市",
+      "bunrui": "海"
+    },
+    {
+      "no": 25,
+      "oto_fukei": "太平山あじさい坂の雨蛙",
+      "shozaichi": "栃木県栃木市",
+      "bunrui": "カエル"
+    },
+    {
+      "no": 26,
+      "oto_fukei": "水琴亭の水琴窟",
+      "shozaichi": "群馬県高崎市",
+      "bunrui": "生活その他"
+    },
+    {
+      "no": 27,
+      "oto_fukei": "川越の時の鐘",
+      "shozaichi": "埼玉県川越市",
+      "bunrui": "鐘"
+    },
+    {
+      "no": 28,
+      "oto_fukei": "荒川・押切の虫の声",
+      "shozaichi": "埼玉県熊谷市",
+      "bunrui": "昆虫"
+    },
+    {
+      "no": 29,
+      "oto_fukei": "樋橋の落水",
+      "shozaichi": "千葉県香取市",
+      "bunrui": "陸水"
+    },
+    {
+      "no": 30,
+      "oto_fukei": "麻綿原のヒメハルゼミ",
+      "shozaichi": "千葉県大多喜町",
+      "bunrui": "昆虫"
+    },
+    {
+      "no": 31,
+      "oto_fukei": "柴又帝釈天界隈と矢切の渡し",
+      "shozaichi": "千葉県松戸市、東京都葛飾区",
+      "bunrui": "複合"
+    },
+    {
+      "no": 32,
+      "oto_fukei": "上野のお山の時の鐘",
+      "shozaichi": "東京都台東区",
+      "bunrui": "鐘"
+    },
+    {
+      "no": 33,
+      "oto_fukei": "三宝寺池の鳥と水と樹々の音",
+      "shozaichi": "東京都練馬区",
+      "bunrui": "複合"
+    },
+    {
+      "no": 34,
+      "oto_fukei": "成蹊学園ケヤキ並木",
+      "shozaichi": "東京都武蔵野市",
+      "bunrui": "植物"
+    },
+    {
+      "no": 35,
+      "oto_fukei": "横浜港新年を迎える船の汽笛",
+      "shozaichi": "神奈川県横浜市",
+      "bunrui": "産業・交通"
+    },
+    {
+      "no": 36,
+      "oto_fukei": "川崎大師の参道",
+      "shozaichi": "神奈川県川崎市",
+      "bunrui": "産業・交通"
+    },
+    {
+      "no": 37,
+      "oto_fukei": "道保川公園のせせらぎと野鳥の声",
+      "shozaichi": "神奈川県相模原市",
+      "bunrui": "複合"
+    },
+    {
+      "no": 38,
+      "oto_fukei": "福島潟のヒシクイ",
+      "shozaichi": "新潟県新潟市",
+      "bunrui": "鳥"
+    },
+    {
+      "no": 39,
+      "oto_fukei": "尾山のヒメハルゼミ",
+      "shozaichi": "新潟県糸魚川市",
+      "bunrui": "昆虫"
+    },
+    {
+      "no": 40,
+      "oto_fukei": "富士山麓・西湖畔の野鳥の森",
+      "shozaichi": "山梨県富士河口湖町",
+      "bunrui": "鳥"
+    },
+    {
+      "no": 41,
+      "oto_fukei": "善光寺の鐘",
+      "shozaichi": "長野県長野市",
+      "bunrui": "鐘"
+    },
+    {
+      "no": 42,
+      "oto_fukei": "塩嶺の小鳥のさえずり",
+      "shozaichi": "長野県岡谷市、塩尻市",
+      "bunrui": "鳥"
+    },
+    {
+      "no": 43,
+      "oto_fukei": "八島湿原の蛙鳴",
+      "shozaichi": "長野県下諏訪町、諏訪市",
+      "bunrui": "カエル"
+    },
+    {
+      "no": 44,
+      "oto_fukei": "称名滝",
+      "shozaichi": "富山県立山町",
+      "bunrui": "陸水"
+    },
+    {
+      "no": 45,
+      "oto_fukei": "エンナカの水音とおわら風の盆",
+      "shozaichi": "富山県富山市",
+      "bunrui": "複合"
+    },
+    {
+      "no": 46,
+      "oto_fukei": "井波の木彫りの音",
+      "shozaichi": "富山県南砺市",
+      "bunrui": "産業・交通"
+    },
+    {
+      "no": 47,
+      "oto_fukei": "本多の森の蝉時雨",
+      "shozaichi": "石川県金沢市",
+      "bunrui": "昆虫"
+    },
+    {
+      "no": 48,
+      "oto_fukei": "寺町寺院群の鐘",
+      "shozaichi": "石川県金沢市",
+      "bunrui": "鐘"
+    },
+    {
+      "no": 49,
+      "oto_fukei": "蓑脇の時水",
+      "shozaichi": "福井県越前市",
+      "bunrui": "陸水"
+    },
+    {
+      "no": 50,
+      "oto_fukei": "卯建の町の水琴窟",
+      "shozaichi": "岐阜県美濃市",
+      "bunrui": "生活その他"
+    },
+    {
+      "no": 51,
+      "oto_fukei": "吉田川の川遊び",
+      "shozaichi": "岐阜県郡上市",
+      "bunrui": "生活その他"
+    },
+    {
+      "no": 52,
+      "oto_fukei": "長良川の鵜飼",
+      "shozaichi": "岐阜県岐阜市、関市",
+      "bunrui": "生活その他"
+    },
+    {
+      "no": 53,
+      "oto_fukei": "遠州灘の海鳴・波小僧",
+      "shozaichi": "静岡県遠州灘",
+      "bunrui": "海"
+    },
+    {
+      "no": 54,
+      "oto_fukei": "大井川鉄道のSL",
+      "shozaichi": "静岡県川根本町",
+      "bunrui": "産業・交通"
+    },
+    {
+      "no": 55,
+      "oto_fukei": "東山植物園の野鳥",
+      "shozaichi": "愛知県名古屋市",
+      "bunrui": "鳥"
+    },
+    {
+      "no": 56,
+      "oto_fukei": "伊良湖岬恋路ヶ浜の潮騒",
+      "shozaichi": "愛知県田原市",
+      "bunrui": "海"
+    },
+    {
+      "no": 57,
+      "oto_fukei": "伊勢志摩の海女の磯笛",
+      "shozaichi": "三重県鳥羽市、志摩市",
+      "bunrui": "産業・交通"
+    },
+    {
+      "no": 58,
+      "oto_fukei": "三井の晩鐘",
+      "shozaichi": "滋賀県大津市",
+      "bunrui": "鐘"
+    },
+    {
+      "no": 59,
+      "oto_fukei": "彦根城の時報鐘と虫の音",
+      "shozaichi": "滋賀県彦根市",
+      "bunrui": "複合"
+    },
+    {
+      "no": 60,
+      "oto_fukei": "京の竹林",
+      "shozaichi": "京都府京都市",
+      "bunrui": "植物"
+    },
+    {
+      "no": 61,
+      "oto_fukei": "るり渓",
+      "shozaichi": "京都府南丹市",
+      "bunrui": "陸水"
+    },
+    {
+      "no": 62,
+      "oto_fukei": "琴引浜の鳴き砂",
+      "shozaichi": "京都府京丹後市",
+      "bunrui": "海"
+    },
+    {
+      "no": 63,
+      "oto_fukei": "淀川河川敷のマツムシ",
+      "shozaichi": "大阪府大阪市",
+      "bunrui": "昆虫"
+    },
+    {
+      "no": 64,
+      "oto_fukei": "常光寺境内の河内音頭",
+      "shozaichi": "大阪府八尾市",
+      "bunrui": "祭り等"
+    },
+    {
+      "no": 65,
+      "oto_fukei": "垂水漁港のイカナゴ漁",
+      "shozaichi": "兵庫県神戸市",
+      "bunrui": "産業・交通"
+    },
+    {
+      "no": 66,
+      "oto_fukei": "灘のけんか祭りのだんじり太鼓",
+      "shozaichi": "兵庫県姫路市",
+      "bunrui": "祭り等"
+    },
+    {
+      "no": 67,
+      "oto_fukei": "春日野の鹿と諸寺の鐘",
+      "shozaichi": "奈良県奈良市",
+      "bunrui": "複合"
+    },
+    {
+      "no": 68,
+      "oto_fukei": "不動山の巨石で聞こえる紀ノ川",
+      "shozaichi": "和歌山県橋本市",
+      "bunrui": "複合"
+    },
+    {
+      "no": 69,
+      "oto_fukei": "那智滝",
+      "shozaichi": "和歌山県那智勝浦町",
+      "bunrui": "陸水"
+    },
+    {
+      "no": 70,
+      "oto_fukei": "水鳥公園の渡り鳥",
+      "shozaichi": "鳥取県米子市",
+      "bunrui": "鳥"
+    },
+    {
+      "no": 71,
+      "oto_fukei": "三徳川のせせらぎとカジカガエル",
+      "shozaichi": "鳥取県三朝町",
+      "bunrui": "複合"
+    },
+    {
+      "no": 72,
+      "oto_fukei": "因州和紙の紙すき",
+      "shozaichi": "鳥取県鳥取市",
+      "bunrui": "産業・交通"
+    },
+    {
+      "no": 73,
+      "oto_fukei": "琴ヶ浜海岸の鳴き砂",
+      "shozaichi": "島根県大田市",
+      "bunrui": "海"
+    },
+    {
+      "no": 74,
+      "oto_fukei": "諏訪洞・備中川のせせらぎと水車",
+      "shozaichi": "岡山県真庭市",
+      "bunrui": "複合"
+    },
+    {
+      "no": 75,
+      "oto_fukei": "新庄宿の小川",
+      "shozaichi": "岡山県新庄村",
+      "bunrui": "陸水"
+    },
+    {
+      "no": 76,
+      "oto_fukei": "広島の平和の鐘",
+      "shozaichi": "広島県広島市",
+      "bunrui": "鐘"
+    },
+    {
+      "no": 77,
+      "oto_fukei": "千光寺驚音楼の鐘",
+      "shozaichi": "広島県尾道市",
+      "bunrui": "鐘"
+    },
+    {
+      "no": 78,
+      "oto_fukei": "山口線のSL",
+      "shozaichi": "山口県山口市・島根県津和野町間",
+      "bunrui": "産業・交通"
+    },
+    {
+      "no": 79,
+      "oto_fukei": "鳴門の渦潮",
+      "shozaichi": "徳島県鳴門市",
+      "bunrui": "海"
+    },
+    {
+      "no": 80,
+      "oto_fukei": "阿波踊り",
+      "shozaichi": "徳島県徳島市他",
+      "bunrui": "祭り等"
+    },
+    {
+      "no": 81,
+      "oto_fukei": "大窪寺の鐘とお遍路さんの鈴",
+      "shozaichi": "香川県さぬき市",
+      "bunrui": "生活複合"
+    },
+    {
+      "no": 82,
+      "oto_fukei": "満濃池のゆるぬきとせせらぎ",
+      "shozaichi": "香川県まんのう町",
+      "bunrui": "複合"
+    },
+    {
+      "no": 83,
+      "oto_fukei": "道後温泉振鷺閣の刻太鼓",
+      "shozaichi": "愛媛県松山市",
+      "bunrui": "生活その他"
+    },
+    {
+      "no": 84,
+      "oto_fukei": "室戸岬・御厨人窟の波音",
+      "shozaichi": "高知県室戸市",
+      "bunrui": "海"
+    },
+    {
+      "no": 85,
+      "oto_fukei": "博多祇園山笠の舁き山笠",
+      "shozaichi": "福岡県福岡市",
+      "bunrui": "祭り等"
+    },
+    {
+      "no": 86,
+      "oto_fukei": "観世音寺の鐘",
+      "shozaichi": "福岡県太宰府市",
+      "bunrui": "鐘"
+    },
+    {
+      "no": 87,
+      "oto_fukei": "関門海峡の潮騒と汽笛",
+      "shozaichi": "福岡県北九州市、山口県下関市",
+      "bunrui": "複合"
+    },
+    {
+      "no": 88,
+      "oto_fukei": "唐津くんちの曳山囃子",
+      "shozaichi": "佐賀県唐津市",
+      "bunrui": "祭り等"
+    },
+    {
+      "no": 89,
+      "oto_fukei": "伊万里の焼物の音",
+      "shozaichi": "佐賀県伊万里市",
+      "bunrui": "産業・交通"
+    },
+    {
+      "no": 90,
+      "oto_fukei": "山王神社被爆クスノキ",
+      "shozaichi": "長崎県長崎市",
+      "bunrui": "複合"
+    },
+    {
+      "no": 91,
+      "oto_fukei": "通潤橋の放水",
+      "shozaichi": "熊本県山都町",
+      "bunrui": "陸水"
+    },
+    {
+      "no": 92,
+      "oto_fukei": "五和の海のイルカ",
+      "shozaichi": "熊本県天草市",
+      "bunrui": "哺乳類"
+    },
+    {
+      "no": 93,
+      "oto_fukei": "小鹿田皿山の唐臼",
+      "shozaichi": "大分県日田市",
+      "bunrui": "産業・交通"
+    },
+    {
+      "no": 94,
+      "oto_fukei": "岡城跡の松籟",
+      "shozaichi": "大分県竹田市",
+      "bunrui": "植物"
+    },
+    {
+      "no": 95,
+      "oto_fukei": "三之宮峡の櫓の轟",
+      "shozaichi": "宮崎県小林市",
+      "bunrui": "陸水"
+    },
+    {
+      "no": 96,
+      "oto_fukei": "えびの高原の野生鹿",
+      "shozaichi": "宮崎県えびの市",
+      "bunrui": "哺乳類"
+    },
+    {
+      "no": 97,
+      "oto_fukei": "出水のツル",
+      "shozaichi": "鹿児島県出水市",
+      "bunrui": "鳥"
+    },
+    {
+      "no": 98,
+      "oto_fukei": "千頭川の渓流とトロッコ",
+      "shozaichi": "鹿児島県屋久島町",
+      "bunrui": "複合"
+    },
+    {
+      "no": 99,
+      "oto_fukei": "後良川周辺の亜熱帯林の生き物",
+      "shozaichi": "沖縄県竹富町",
+      "bunrui": "生物複合"
+    },
+    {
+      "no": 100,
+      "oto_fukei": "エイサー",
+      "shozaichi": "沖縄県うるま市",
+      "bunrui": "祭り等"
+    }
+  ],
+  "meta": {
+    "title": "日本の音風景100選一覧 - Free Download",
+    "description": "環境庁（現環境省）が1996年に選定した「日本の音風景100選」の名称・所在地・分類の一覧。 Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の音風景100選一覧 | ListBase",
+    "seo_description": "Download 日本の音風景100選一覧 — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/日本の音風景100選"
+    ]
+  }
+}

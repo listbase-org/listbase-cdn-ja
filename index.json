@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-09T02:40:20.346Z",
-  "total_datasets": 585,
-  "total_records": 462500,
+  "generated": "2026-11-09T02:40:30.958Z",
+  "total_datasets": 586,
+  "total_records": 462600,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "finance",
@@ -1605,6 +1605,31 @@
         "xlsx": {
           "name": "ja-meisui-hyakusen_JA.xlsx",
           "size": 12068
+        }
+      }
+    },
+    {
+      "id": "ja-oto-fukei-100sen",
+      "name": "日本の音風景100選一覧",
+      "category": "environment",
+      "record_count": 100,
+      "columns": [
+        "no",
+        "oto_fukei",
+        "shozaichi",
+        "bunrui"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/日本の音風景100選",
+      "updated": "2026-11",
+      "size": 16338,
+      "files": {
+        "csv": {
+          "name": "ja-oto-fukei-100sen_JA.csv",
+          "size": 6827
+        },
+        "xlsx": {
+          "name": "ja-oto-fukei-100sen_JA.xlsx",
+          "size": 11668
         }
       }
     },
