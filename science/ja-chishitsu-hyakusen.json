@@ -1,0 +1,641 @@
+{
+  "id": "ja-chishitsu-hyakusen",
+  "name": "日本の地質百選一覧",
+  "title": "日本の地質百選一覧",
+  "description": "全国地質調査業協会連合会などが選定した「日本の地質百選」の地名と所在県の一覧。",
+  "category": "science",
+  "source": "https://ja.wikipedia.org/wiki/日本の地質百選",
+  "source_url": "https://ja.wikipedia.org/wiki/日本の地質百選",
+  "updated": "2026-11",
+  "record_count": 120,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "chimei",
+      "label": "Chimei",
+      "type": "string"
+    },
+    {
+      "key": "kenmei",
+      "label": "Kenmei",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "001",
+      "chimei": "知床半島",
+      "kenmei": "北海道"
+    },
+    {
+      "no": "002",
+      "chimei": "白滝黒曜石",
+      "kenmei": "北海道"
+    },
+    {
+      "no": "003",
+      "chimei": "神居古潭渓谷の変成岩",
+      "kenmei": "北海道"
+    },
+    {
+      "no": "004",
+      "chimei": "夕張岳と蛇紋岩メランジュ",
+      "kenmei": "北海道"
+    },
+    {
+      "no": "005",
+      "chimei": "夕張の石炭大露頭",
+      "kenmei": "北海道"
+    },
+    {
+      "no": "006",
+      "chimei": "幌尻岳の七つ沼カール",
+      "kenmei": "北海道"
+    },
+    {
+      "no": "007",
+      "chimei": "有珠山・昭和新山",
+      "kenmei": "北海道"
+    },
+    {
+      "no": "008",
+      "chimei": "恐山の金鉱床",
+      "kenmei": "青森"
+    },
+    {
+      "no": "009",
+      "chimei": "仏ヶ浦",
+      "kenmei": "青森"
+    },
+    {
+      "no": "010",
+      "chimei": "龍泉洞",
+      "kenmei": "岩手"
+    },
+    {
+      "no": "011",
+      "chimei": "唐桑半島",
+      "kenmei": "宮城"
+    },
+    {
+      "no": "012",
+      "chimei": "松島",
+      "kenmei": "宮城"
+    },
+    {
+      "no": "013",
+      "chimei": "蔵王火山",
+      "kenmei": "宮城・山形"
+    },
+    {
+      "no": "014",
+      "chimei": "尾去沢鉱山",
+      "kenmei": "秋田"
+    },
+    {
+      "no": "015",
+      "chimei": "男鹿一ノ目潟",
+      "kenmei": "秋田"
+    },
+    {
+      "no": "016",
+      "chimei": "鳥海山",
+      "kenmei": "秋田・山形"
+    },
+    {
+      "no": "017",
+      "chimei": "磐梯山",
+      "kenmei": "福島"
+    },
+    {
+      "no": "018",
+      "chimei": "筑波山",
+      "kenmei": "茨城"
+    },
+    {
+      "no": "019",
+      "chimei": "華厳の滝",
+      "kenmei": "栃木"
+    },
+    {
+      "no": "020",
+      "chimei": "足尾銅山",
+      "kenmei": "栃木"
+    },
+    {
+      "no": "021",
+      "chimei": "浅間山",
+      "kenmei": "群馬・長野"
+    },
+    {
+      "no": "022",
+      "chimei": "跡倉クリッペ",
+      "kenmei": "群馬"
+    },
+    {
+      "no": "023",
+      "chimei": "瀬林の漣痕と恐竜足跡",
+      "kenmei": "群馬"
+    },
+    {
+      "no": "024",
+      "chimei": "秩父・長瀞",
+      "kenmei": "埼玉"
+    },
+    {
+      "no": "025",
+      "chimei": "犬吠埼",
+      "kenmei": "千葉"
+    },
+    {
+      "no": "026",
+      "chimei": "養老渓谷・黒滝不整合",
+      "kenmei": "千葉"
+    },
+    {
+      "no": "027",
+      "chimei": "伊豆大島",
+      "kenmei": "東京"
+    },
+    {
+      "no": "028",
+      "chimei": "三宅島",
+      "kenmei": "東京"
+    },
+    {
+      "no": "029",
+      "chimei": "父島無人岩（ボニナイト）",
+      "kenmei": "東京"
+    },
+    {
+      "no": "030",
+      "chimei": "城ヶ島",
+      "kenmei": "神奈川"
+    },
+    {
+      "no": "031",
+      "chimei": "箱根火山",
+      "kenmei": "神奈川"
+    },
+    {
+      "no": "032",
+      "chimei": "佐渡金山",
+      "kenmei": "新潟"
+    },
+    {
+      "no": "033",
+      "chimei": "佐渡小木海岸",
+      "kenmei": "新潟"
+    },
+    {
+      "no": "034",
+      "chimei": "新津油田",
+      "kenmei": "新潟"
+    },
+    {
+      "no": "035",
+      "chimei": "糸魚川－静岡構造線（糸魚川）",
+      "kenmei": "新潟"
+    },
+    {
+      "no": "036",
+      "chimei": "小滝・青海川ヒスイ峡",
+      "kenmei": "新潟"
+    },
+    {
+      "no": "037",
+      "chimei": "魚津埋没林",
+      "kenmei": "富山"
+    },
+    {
+      "no": "038",
+      "chimei": "立山カルデラ",
+      "kenmei": "富山"
+    },
+    {
+      "no": "039",
+      "chimei": "白峰百万貫岩",
+      "kenmei": "石川"
+    },
+    {
+      "no": "040",
+      "chimei": "東尋坊",
+      "kenmei": "福井"
+    },
+    {
+      "no": "041",
+      "chimei": "糸魚川－静岡構造線（早川）",
+      "kenmei": "山梨"
+    },
+    {
+      "no": "042",
+      "chimei": "富士山",
+      "kenmei": "山梨・静岡"
+    },
+    {
+      "no": "043",
+      "chimei": "八ケ岳",
+      "kenmei": "長野・山梨"
+    },
+    {
+      "no": "044",
+      "chimei": "上高地と滝谷花崗岩",
+      "kenmei": "長野"
+    },
+    {
+      "no": "045",
+      "chimei": "御嶽山",
+      "kenmei": "長野・岐阜"
+    },
+    {
+      "no": "046",
+      "chimei": "中央構造線（大鹿村）",
+      "kenmei": "長野"
+    },
+    {
+      "no": "047",
+      "chimei": "神岡鉱山",
+      "kenmei": "岐阜"
+    },
+    {
+      "no": "048",
+      "chimei": "根尾谷断層",
+      "kenmei": "岐阜"
+    },
+    {
+      "no": "049",
+      "chimei": "飛水峡・上麻生礫岩",
+      "kenmei": "岐阜"
+    },
+    {
+      "no": "050",
+      "chimei": "丹那断層",
+      "kenmei": "静岡"
+    },
+    {
+      "no": "051",
+      "chimei": "大崩海岸",
+      "kenmei": "静岡"
+    },
+    {
+      "no": "052",
+      "chimei": "鳳来寺山",
+      "kenmei": "愛知"
+    },
+    {
+      "no": "053",
+      "chimei": "中央構造線（月出）",
+      "kenmei": "三重"
+    },
+    {
+      "no": "054",
+      "chimei": "石山寺硅灰石",
+      "kenmei": "滋賀"
+    },
+    {
+      "no": "055",
+      "chimei": "天橋立",
+      "kenmei": "京都"
+    },
+    {
+      "no": "056",
+      "chimei": "玄武洞",
+      "kenmei": "兵庫"
+    },
+    {
+      "no": "057",
+      "chimei": "生野鉱山",
+      "kenmei": "兵庫"
+    },
+    {
+      "no": "058",
+      "chimei": "六甲－淡路断層系",
+      "kenmei": "兵庫"
+    },
+    {
+      "no": "059",
+      "chimei": "玉置山",
+      "kenmei": "奈良"
+    },
+    {
+      "no": "060",
+      "chimei": "鳥取砂丘",
+      "kenmei": "鳥取"
+    },
+    {
+      "no": "061",
+      "chimei": "隠岐島前カルデラ",
+      "kenmei": "島根"
+    },
+    {
+      "no": "062",
+      "chimei": "石見銀山",
+      "kenmei": "島根"
+    },
+    {
+      "no": "063",
+      "chimei": "羅生門",
+      "kenmei": "岡山"
+    },
+    {
+      "no": "064",
+      "chimei": "久井の岩海",
+      "kenmei": "広島"
+    },
+    {
+      "no": "065",
+      "chimei": "須佐ホルンフェルス",
+      "kenmei": "山口"
+    },
+    {
+      "no": "066",
+      "chimei": "秋吉台・秋芳洞",
+      "kenmei": "山口"
+    },
+    {
+      "no": "067",
+      "chimei": "宍喰浦舌状漣痕",
+      "kenmei": "徳島"
+    },
+    {
+      "no": "068",
+      "chimei": "サヌカイト",
+      "kenmei": "香川"
+    },
+    {
+      "no": "069",
+      "chimei": "砥部衝上断層",
+      "kenmei": "愛媛"
+    },
+    {
+      "no": "070",
+      "chimei": "龍河洞",
+      "kenmei": "高知"
+    },
+    {
+      "no": "071",
+      "chimei": "横倉山・佐川",
+      "kenmei": "高知"
+    },
+    {
+      "no": "072",
+      "chimei": "久礼メランジュ",
+      "kenmei": "高知"
+    },
+    {
+      "no": "073",
+      "chimei": "雲仙",
+      "kenmei": "長崎"
+    },
+    {
+      "no": "074",
+      "chimei": "阿蘇",
+      "kenmei": "熊本"
+    },
+    {
+      "no": "075",
+      "chimei": "御所浦",
+      "kenmei": "熊本"
+    },
+    {
+      "no": "076",
+      "chimei": "玖珠二重メサ",
+      "kenmei": "大分"
+    },
+    {
+      "no": "077",
+      "chimei": "青島",
+      "kenmei": "宮崎"
+    },
+    {
+      "no": "078",
+      "chimei": "市木不整合",
+      "kenmei": "宮崎"
+    },
+    {
+      "no": "079",
+      "chimei": "霧島火山群",
+      "kenmei": "鹿児島"
+    },
+    {
+      "no": "080",
+      "chimei": "桜島",
+      "kenmei": "鹿児島"
+    },
+    {
+      "no": "081",
+      "chimei": "屋久島",
+      "kenmei": "鹿児島"
+    },
+    {
+      "no": "082",
+      "chimei": "奥武島の畳石",
+      "kenmei": "沖縄"
+    },
+    {
+      "no": "083",
+      "chimei": "大東隆起環礁",
+      "kenmei": "沖縄"
+    },
+    {
+      "no": "084",
+      "chimei": "アポイ岳と高山植物群落",
+      "kenmei": "北海道"
+    },
+    {
+      "no": "085",
+      "chimei": "霧多布湿原",
+      "kenmei": "北海道"
+    },
+    {
+      "no": "086",
+      "chimei": "オンネトー湯の滝",
+      "kenmei": "北海道"
+    },
+    {
+      "no": "087",
+      "chimei": "十和田湖・奥入瀬渓谷",
+      "kenmei": "青森"
+    },
+    {
+      "no": "088",
+      "chimei": "大船渡の中古生界",
+      "kenmei": "岩手"
+    },
+    {
+      "no": "089",
+      "chimei": "久慈層群と琥珀",
+      "kenmei": "岩手"
+    },
+    {
+      "no": "090",
+      "chimei": "荒砥沢ダムの上流崩壊地",
+      "kenmei": "宮城"
+    },
+    {
+      "no": "091",
+      "chimei": "豊川油田",
+      "kenmei": "秋田"
+    },
+    {
+      "no": "092",
+      "chimei": "千屋断層",
+      "kenmei": "秋田"
+    },
+    {
+      "no": "093",
+      "chimei": "五浦海岸",
+      "kenmei": "茨城"
+    },
+    {
+      "no": "094",
+      "chimei": "大谷石",
+      "kenmei": "栃木"
+    },
+    {
+      "no": "095",
+      "chimei": "塩原湖成層と木の葉石",
+      "kenmei": "栃木"
+    },
+    {
+      "no": "096",
+      "chimei": "葛生石灰岩",
+      "kenmei": "栃木"
+    },
+    {
+      "no": "097",
+      "chimei": "秩父・ようばけ",
+      "kenmei": "埼玉"
+    },
+    {
+      "no": "098",
+      "chimei": "丹沢山地の変成岩",
+      "kenmei": "神奈川"
+    },
+    {
+      "no": "099",
+      "chimei": "信濃川河岸段丘と活褶曲",
+      "kenmei": "新潟"
+    },
+    {
+      "no": "100",
+      "chimei": "能登珪藻土",
+      "kenmei": "石川"
+    },
+    {
+      "no": "101",
+      "chimei": "犀川沿い大桑層",
+      "kenmei": "石川"
+    },
+    {
+      "no": "102",
+      "chimei": "ふくい恐竜渓谷",
+      "kenmei": "福井"
+    },
+    {
+      "no": "103",
+      "chimei": "昇仙峡",
+      "kenmei": "山梨"
+    },
+    {
+      "no": "104",
+      "chimei": "白骨温泉と湯俣の噴湯丘",
+      "kenmei": "長野"
+    },
+    {
+      "no": "105",
+      "chimei": "鵜沼のチャート",
+      "kenmei": "岐阜・愛知"
+    },
+    {
+      "no": "106",
+      "chimei": "瑞浪の化石",
+      "kenmei": "岐阜"
+    },
+    {
+      "no": "107",
+      "chimei": "南あわじの鞘形褶曲",
+      "kenmei": "兵庫"
+    },
+    {
+      "no": "108",
+      "chimei": "古座川弧状岩脈",
+      "kenmei": "和歌山"
+    },
+    {
+      "no": "109",
+      "chimei": "山陰海岸",
+      "kenmei": "鳥取・兵庫"
+    },
+    {
+      "no": "110",
+      "chimei": "三瓶埋没林",
+      "kenmei": "島根"
+    },
+    {
+      "no": "111",
+      "chimei": "阿波の土柱",
+      "kenmei": "徳島"
+    },
+    {
+      "no": "112",
+      "chimei": "大島シュードタキライトと変成岩類",
+      "kenmei": "愛媛"
+    },
+    {
+      "no": "113",
+      "chimei": "室戸岬の斑レイ岩",
+      "kenmei": "高知"
+    },
+    {
+      "no": "114",
+      "chimei": "竜串・見残し海岸",
+      "kenmei": "高知"
+    },
+    {
+      "no": "115",
+      "chimei": "平尾台カルスト",
+      "kenmei": "福岡"
+    },
+    {
+      "no": "116",
+      "chimei": "有明海干潟",
+      "kenmei": "佐賀"
+    },
+    {
+      "no": "117",
+      "chimei": "小値賀島単成火山群",
+      "kenmei": "長崎"
+    },
+    {
+      "no": "118",
+      "chimei": "肥後変成帯",
+      "kenmei": "熊本"
+    },
+    {
+      "no": "119",
+      "chimei": "竹田の阿蘇火砕流堆積物",
+      "kenmei": "大分"
+    },
+    {
+      "no": "120",
+      "chimei": "甑島の白亜紀―古第三紀層",
+      "kenmei": "鹿児島"
+    }
+  ],
+  "meta": {
+    "title": "日本の地質百選一覧 - Free Download",
+    "description": "全国地質調査業協会連合会などが選定した「日本の地質百選」の地名と所在県の一覧。 Contains 120 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の地質百選一覧 | ListBase",
+    "seo_description": "Download 日本の地質百選一覧 — 120 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 120 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/日本の地質百選"
+    ]
+  }
+}

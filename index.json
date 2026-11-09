@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-06T02:30:21.824Z",
-  "total_datasets": 582,
-  "total_records": 462180,
+  "generated": "2026-11-09T02:40:02.446Z",
+  "total_datasets": 583,
+  "total_records": 462300,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "society",
@@ -14771,6 +14771,30 @@
         "xlsx": {
           "name": "ja-yokohama-swift-codo_JA.xlsx",
           "size": 6916
+        }
+      }
+    },
+    {
+      "id": "ja-chishitsu-hyakusen",
+      "name": "日本の地質百選一覧",
+      "category": "science",
+      "record_count": 120,
+      "columns": [
+        "no",
+        "chimei",
+        "kenmei"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/日本の地質百選",
+      "updated": "2026-11",
+      "size": 12950,
+      "files": {
+        "csv": {
+          "name": "ja-chishitsu-hyakusen_JA.csv",
+          "size": 4480
+        },
+        "xlsx": {
+          "name": "ja-chishitsu-hyakusen_JA.xlsx",
+          "size": 10899
         }
       }
     },
