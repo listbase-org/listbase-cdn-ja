@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-09T02:40:02.446Z",
-  "total_datasets": 583,
-  "total_records": 462300,
+  "generated": "2026-11-09T02:40:11.321Z",
+  "total_datasets": 584,
+  "total_records": 462400,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "finance",
@@ -1504,6 +1504,31 @@
         "xlsx": {
           "name": "ja-hatsudensho_JA.xlsx",
           "size": 44522
+        }
+      }
+    },
+    {
+      "id": "ja-heisei-meisui-hyakusen",
+      "name": "平成の名水百選一覧",
+      "category": "environment",
+      "record_count": 100,
+      "columns": [
+        "no",
+        "meisho",
+        "shurui",
+        "shozaichi"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/平成の名水百選",
+      "updated": "2026-11",
+      "size": 15310,
+      "files": {
+        "csv": {
+          "name": "ja-heisei-meisui-hyakusen_JA.csv",
+          "size": 6108
+        },
+        "xlsx": {
+          "name": "ja-heisei-meisui-hyakusen_JA.xlsx",
+          "size": 11169
         }
       }
     },

@@ -1,0 +1,646 @@
+{
+  "id": "ja-heisei-meisui-hyakusen",
+  "name": "平成の名水百選一覧",
+  "title": "平成の名水百選一覧",
+  "description": "環境省が2008年に選定した「平成の名水百選」の名称・種類（湧水・河川など）・所在地の一覧。",
+  "category": "environment",
+  "source": "https://ja.wikipedia.org/wiki/平成の名水百選",
+  "source_url": "https://ja.wikipedia.org/wiki/平成の名水百選",
+  "updated": "2026-11",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "meisho",
+      "label": "Meisho",
+      "type": "string"
+    },
+    {
+      "key": "shurui",
+      "label": "Shurui",
+      "type": "string"
+    },
+    {
+      "key": "shozaichi",
+      "label": "Shozaichi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "meisho": "大雪旭岳源水",
+      "shurui": "湧水",
+      "shozaichi": "北海道上川郡東川町"
+    },
+    {
+      "no": 2,
+      "meisho": "仁宇布の冷水と十六滝",
+      "shurui": "湧水",
+      "shozaichi": "北海道中川郡美深町"
+    },
+    {
+      "no": 3,
+      "meisho": "沼袋の水",
+      "shurui": "湧水",
+      "shozaichi": "青森県十和田市"
+    },
+    {
+      "no": 4,
+      "meisho": "沸壷池の清水",
+      "shurui": "湧水",
+      "shozaichi": "青森県西津軽郡深浦町"
+    },
+    {
+      "no": 5,
+      "meisho": "湧つぼ",
+      "shurui": "湧水",
+      "shozaichi": "青森県北津軽郡中泊町"
+    },
+    {
+      "no": 6,
+      "meisho": "大慈清水・青龍水",
+      "shurui": "地下水",
+      "shozaichi": "岩手県盛岡市"
+    },
+    {
+      "no": 7,
+      "meisho": "中津川綱取ダム下流",
+      "shurui": "河川",
+      "shozaichi": "岩手県盛岡市"
+    },
+    {
+      "no": 8,
+      "meisho": "須川岳秘水ぶなの恵み",
+      "shurui": "湧水",
+      "shozaichi": "岩手県一関市"
+    },
+    {
+      "no": 9,
+      "meisho": "獅子ケ鼻湿原“出壷”",
+      "shurui": "湧水",
+      "shozaichi": "秋田県にかほ市"
+    },
+    {
+      "no": 10,
+      "meisho": "元滝伏流水",
+      "shurui": "湧水",
+      "shozaichi": "秋田県にかほ市"
+    },
+    {
+      "no": 11,
+      "meisho": "立谷沢川",
+      "shurui": "河川",
+      "shozaichi": "山形県東田川郡庄内町"
+    },
+    {
+      "no": 12,
+      "meisho": "荒川",
+      "shurui": "河川",
+      "shozaichi": "福島県福島市"
+    },
+    {
+      "no": 13,
+      "meisho": "栂峰渓流水",
+      "shurui": "河川",
+      "shozaichi": "福島県喜多方市"
+    },
+    {
+      "no": 14,
+      "meisho": "右近清水",
+      "shurui": "湧水",
+      "shozaichi": "福島県相馬郡新地町"
+    },
+    {
+      "no": 15,
+      "meisho": "泉が森湧水及びイトヨの里泉が森公園",
+      "shurui": "湧水",
+      "shozaichi": "茨城県日立市"
+    },
+    {
+      "no": 16,
+      "meisho": "神流川源流",
+      "shurui": "河川",
+      "shozaichi": "群馬県多野郡上野村"
+    },
+    {
+      "no": 17,
+      "meisho": "尾瀬の郷片品湧水群",
+      "shurui": "湧水",
+      "shozaichi": "群馬県利根郡片品村"
+    },
+    {
+      "no": 18,
+      "meisho": "元荒川ムサシトミヨ生息地",
+      "shurui": "河川",
+      "shozaichi": "埼玉県熊谷市"
+    },
+    {
+      "no": 19,
+      "meisho": "武甲山伏流水",
+      "shurui": "地下水",
+      "shozaichi": "埼玉県秩父市"
+    },
+    {
+      "no": 20,
+      "meisho": "妙音沢",
+      "shurui": "河川",
+      "shozaichi": "埼玉県新座市"
+    },
+    {
+      "no": 21,
+      "meisho": "毘沙門水",
+      "shurui": "湧水",
+      "shozaichi": "埼玉県秩父郡小鹿野町"
+    },
+    {
+      "no": 22,
+      "meisho": "生きた水・久留里",
+      "shurui": "地下水",
+      "shozaichi": "千葉県君津市"
+    },
+    {
+      "no": 23,
+      "meisho": "落合川と南沢湧水群",
+      "shurui": "湧水",
+      "shozaichi": "東京都東久留米市"
+    },
+    {
+      "no": 24,
+      "meisho": "清左衛門地獄池",
+      "shurui": "湧水",
+      "shozaichi": "神奈川県南足柄市"
+    },
+    {
+      "no": 25,
+      "meisho": "吉祥清水",
+      "shurui": "湧水",
+      "shozaichi": "新潟県村上市"
+    },
+    {
+      "no": 26,
+      "meisho": "宇棚の清水",
+      "shurui": "湧水",
+      "shozaichi": "新潟県妙高市"
+    },
+    {
+      "no": 27,
+      "meisho": "大出口泉水",
+      "shurui": "湧水",
+      "shozaichi": "新潟県上越市"
+    },
+    {
+      "no": 28,
+      "meisho": "荒川",
+      "shurui": "河川",
+      "shozaichi": "新潟県岩船郡関川村・村上市・胎内市"
+    },
+    {
+      "no": 29,
+      "meisho": "いたち川の水辺と清水",
+      "shurui": "湧水河川地下水",
+      "shozaichi": "富山県富山市"
+    },
+    {
+      "no": 30,
+      "meisho": "弓の清水",
+      "shurui": "湧水",
+      "shozaichi": "富山県高岡市"
+    },
+    {
+      "no": 31,
+      "meisho": "行田の沢清水",
+      "shurui": "湧水",
+      "shozaichi": "富山県滑川市"
+    },
+    {
+      "no": 32,
+      "meisho": "不動滝の霊水",
+      "shurui": "湧水",
+      "shozaichi": "富山県南砺市"
+    },
+    {
+      "no": 33,
+      "meisho": "藤瀬の水",
+      "shurui": "湧水",
+      "shozaichi": "石川県七尾市"
+    },
+    {
+      "no": 34,
+      "meisho": "桜生水",
+      "shurui": "湧水",
+      "shozaichi": "石川県小松市"
+    },
+    {
+      "no": 35,
+      "meisho": "白山伏流水群",
+      "shurui": "湧水",
+      "shozaichi": "石川県白山市"
+    },
+    {
+      "no": 36,
+      "meisho": "遣水観音霊水",
+      "shurui": "湧水",
+      "shozaichi": "石川県能美市"
+    },
+    {
+      "no": 37,
+      "meisho": "雲城水",
+      "shurui": "地下水",
+      "shozaichi": "福井県小浜市"
+    },
+    {
+      "no": 38,
+      "meisho": "本願清水",
+      "shurui": "湧水",
+      "shozaichi": "福井県大野市"
+    },
+    {
+      "no": 39,
+      "meisho": "熊川宿前川",
+      "shurui": "用水",
+      "shozaichi": "福井県三方上中郡若狭町"
+    },
+    {
+      "no": 40,
+      "meisho": "御岳昇仙峡",
+      "shurui": "河川",
+      "shozaichi": "山梨県甲府市"
+    },
+    {
+      "no": 41,
+      "meisho": "十日市場・夏狩湧水群",
+      "shurui": "湧水",
+      "shozaichi": "山梨県都留市"
+    },
+    {
+      "no": 42,
+      "meisho": "西沢渓谷",
+      "shurui": "河川",
+      "shozaichi": "山梨県山梨市"
+    },
+    {
+      "no": 43,
+      "meisho": "金峰山・瑞牆山源流",
+      "shurui": "河川",
+      "shozaichi": "山梨県北杜市"
+    },
+    {
+      "no": 44,
+      "meisho": "まつもと城下町湧水群",
+      "shurui": "湧水",
+      "shozaichi": "長野県松本市"
+    },
+    {
+      "no": 45,
+      "meisho": "観音霊水",
+      "shurui": "湧水",
+      "shozaichi": "長野県飯田市"
+    },
+    {
+      "no": 46,
+      "meisho": "木曽川源流の里水木沢",
+      "shurui": "湧水河川",
+      "shozaichi": "長野県木曽郡木祖村"
+    },
+    {
+      "no": 47,
+      "meisho": "龍興寺清水",
+      "shurui": "湧水",
+      "shozaichi": "長野県下高井郡木島平村"
+    },
+    {
+      "no": 48,
+      "meisho": "達目洞（逆川上流）",
+      "shurui": "河川",
+      "shozaichi": "岐阜県岐阜市"
+    },
+    {
+      "no": 49,
+      "meisho": "加賀野八幡神社井戸",
+      "shurui": "地下水",
+      "shozaichi": "岐阜県大垣市"
+    },
+    {
+      "no": 50,
+      "meisho": "和良川",
+      "shurui": "河川",
+      "shozaichi": "岐阜県郡上市"
+    },
+    {
+      "no": 51,
+      "meisho": "馬瀬川上流",
+      "shurui": "河川",
+      "shozaichi": "岐阜県下呂市"
+    },
+    {
+      "no": 52,
+      "meisho": "安倍川",
+      "shurui": "河川",
+      "shozaichi": "静岡県静岡市"
+    },
+    {
+      "no": 53,
+      "meisho": "阿多古川",
+      "shurui": "河川",
+      "shozaichi": "静岡県浜松市"
+    },
+    {
+      "no": 54,
+      "meisho": "源兵衛川",
+      "shurui": "用水",
+      "shozaichi": "静岡県三島市"
+    },
+    {
+      "no": 55,
+      "meisho": "湧玉池",
+      "shurui": "湧水",
+      "shozaichi": "静岡県富士宮市"
+    },
+    {
+      "no": 56,
+      "meisho": "鳥川ホタルの里湧水群",
+      "shurui": "湧水",
+      "shozaichi": "愛知県岡崎市"
+    },
+    {
+      "no": 57,
+      "meisho": "八曽滝",
+      "shurui": "河川",
+      "shozaichi": "愛知県犬山市"
+    },
+    {
+      "no": 58,
+      "meisho": "赤目四十八滝",
+      "shurui": "河川",
+      "shozaichi": "三重県名張市"
+    },
+    {
+      "no": 59,
+      "meisho": "堂来清水",
+      "shurui": "湧水",
+      "shozaichi": "滋賀県長浜市"
+    },
+    {
+      "no": 60,
+      "meisho": "針江の生水",
+      "shurui": "湧水",
+      "shozaichi": "滋賀県高島市"
+    },
+    {
+      "no": 61,
+      "meisho": "居醒の清水",
+      "shurui": "湧水",
+      "shozaichi": "滋賀県米原市"
+    },
+    {
+      "no": 62,
+      "meisho": "山比古湧水",
+      "shurui": "湧水",
+      "shozaichi": "滋賀県愛知郡愛荘町"
+    },
+    {
+      "no": 63,
+      "meisho": "大杉の清水",
+      "shurui": "湧水",
+      "shozaichi": "京都府舞鶴市"
+    },
+    {
+      "no": 64,
+      "meisho": "真名井の清水",
+      "shurui": "湧水",
+      "shozaichi": "京都府舞鶴市"
+    },
+    {
+      "no": 65,
+      "meisho": "玉川(井手町)",
+      "shurui": "河川",
+      "shozaichi": "京都府綴喜郡井手町"
+    },
+    {
+      "no": 66,
+      "meisho": "松か井の水",
+      "shurui": "湧水",
+      "shozaichi": "兵庫県多可郡多可町"
+    },
+    {
+      "no": 67,
+      "meisho": "かつらの千年水",
+      "shurui": "湧水",
+      "shozaichi": "兵庫県美方郡香美町"
+    },
+    {
+      "no": 68,
+      "meisho": "曽爾高原湧水群",
+      "shurui": "湧水",
+      "shozaichi": "奈良県宇陀郡曽爾村"
+    },
+    {
+      "no": 69,
+      "meisho": "七滝八壷",
+      "shurui": "河川",
+      "shozaichi": "奈良県吉野郡東吉野村"
+    },
+    {
+      "no": 70,
+      "meisho": "熊野川（川の古道）",
+      "shurui": "河川",
+      "shozaichi": "和歌山県新宮市"
+    },
+    {
+      "no": 71,
+      "meisho": "那智滝",
+      "shurui": "河川",
+      "shozaichi": "和歌山県東牟婁郡那智勝浦町"
+    },
+    {
+      "no": 72,
+      "meisho": "古座川",
+      "shurui": "河川",
+      "shozaichi": "和歌山県東牟婁郡古座川町・串本町"
+    },
+    {
+      "no": 73,
+      "meisho": "布勢の清水",
+      "shurui": "湧水",
+      "shozaichi": "鳥取県鳥取市"
+    },
+    {
+      "no": 74,
+      "meisho": "宇野地蔵ダキ",
+      "shurui": "湧水",
+      "shozaichi": "鳥取県東伯郡湯梨浜町"
+    },
+    {
+      "no": 75,
+      "meisho": "地蔵滝の泉",
+      "shurui": "湧水",
+      "shozaichi": "鳥取県西伯郡伯耆町"
+    },
+    {
+      "no": 76,
+      "meisho": "浜山湧水群",
+      "shurui": "湧水",
+      "shozaichi": "島根県出雲市"
+    },
+    {
+      "no": 77,
+      "meisho": "鷹入の滝",
+      "shurui": "河川",
+      "shozaichi": "島根県安来市"
+    },
+    {
+      "no": 78,
+      "meisho": "一本杉の湧水",
+      "shurui": "湧水",
+      "shozaichi": "島根県鹿足郡吉賀町"
+    },
+    {
+      "no": 79,
+      "meisho": "夏日の極上水",
+      "shurui": "湧水",
+      "shozaichi": "岡山県新見市"
+    },
+    {
+      "no": 80,
+      "meisho": "桂の滝",
+      "shurui": "河川",
+      "shozaichi": "広島県呉市"
+    },
+    {
+      "no": 81,
+      "meisho": "八王子よみがえりの水",
+      "shurui": "地下水",
+      "shozaichi": "広島県山県郡北広島町"
+    },
+    {
+      "no": 82,
+      "meisho": "三明戸湧水・阿字雄の滝",
+      "shurui": "湧水",
+      "shozaichi": "山口県萩市"
+    },
+    {
+      "no": 83,
+      "meisho": "潮音洞・清流通り",
+      "shurui": "用水",
+      "shozaichi": "山口県周南市"
+    },
+    {
+      "no": 84,
+      "meisho": "海部川",
+      "shurui": "河川",
+      "shozaichi": "徳島県海部郡海陽町"
+    },
+    {
+      "no": 85,
+      "meisho": "楠井の泉",
+      "shurui": "湧水",
+      "shozaichi": "香川県高松市"
+    },
+    {
+      "no": 86,
+      "meisho": "つづら淵",
+      "shurui": "湧水",
+      "shozaichi": "愛媛県新居浜市"
+    },
+    {
+      "no": 87,
+      "meisho": "鏡川",
+      "shurui": "河川",
+      "shozaichi": "高知県高知市"
+    },
+    {
+      "no": 88,
+      "meisho": "黒尊川",
+      "shurui": "河川",
+      "shozaichi": "高知県四万十市"
+    },
+    {
+      "no": 89,
+      "meisho": "岩屋湧水",
+      "shurui": "湧水",
+      "shozaichi": "福岡県朝倉郡東峰村"
+    },
+    {
+      "no": 90,
+      "meisho": "水前寺江津湖湧水群",
+      "shurui": "湧水",
+      "shozaichi": "熊本県熊本市"
+    },
+    {
+      "no": 91,
+      "meisho": "金峰山湧水群",
+      "shurui": "湧水",
+      "shozaichi": "熊本県熊本市・玉名市"
+    },
+    {
+      "no": 92,
+      "meisho": "南阿蘇村湧水群",
+      "shurui": "湧水",
+      "shozaichi": "熊本県阿蘇郡南阿蘇村"
+    },
+    {
+      "no": 93,
+      "meisho": "六嘉湧水群・浮島",
+      "shurui": "湧水",
+      "shozaichi": "熊本県上益城郡嘉島町浮島神社"
+    },
+    {
+      "no": 94,
+      "meisho": "下園妙見様湧水",
+      "shurui": "湧水",
+      "shozaichi": "大分県玖珠郡玖珠町"
+    },
+    {
+      "no": 95,
+      "meisho": "妙見神水",
+      "shurui": "湧水",
+      "shozaichi": "宮崎県西臼杵郡五ヶ瀬町"
+    },
+    {
+      "no": 96,
+      "meisho": "甲突池",
+      "shurui": "湧水",
+      "shozaichi": "鹿児島県鹿児島市"
+    },
+    {
+      "no": 97,
+      "meisho": "唐船峡京田湧水",
+      "shurui": "湧水",
+      "shozaichi": "鹿児島県指宿市"
+    },
+    {
+      "no": 98,
+      "meisho": "普現堂湧水源",
+      "shurui": "湧水",
+      "shozaichi": "鹿児島県志布志市"
+    },
+    {
+      "no": 99,
+      "meisho": "ジッキョヌホー",
+      "shurui": "湧水",
+      "shozaichi": "鹿児島県大島郡知名町"
+    },
+    {
+      "no": 100,
+      "meisho": "荻道大城湧水群",
+      "shurui": "湧水",
+      "shozaichi": "沖縄県中頭郡北中城村"
+    }
+  ],
+  "meta": {
+    "title": "平成の名水百選一覧 - Free Download",
+    "description": "環境省が2008年に選定した「平成の名水百選」の名称・種類（湧水・河川など）・所在地の一覧。 Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "平成の名水百選一覧 | ListBase",
+    "seo_description": "Download 平成の名水百選一覧 — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/平成の名水百選"
+    ]
+  }
+}
