@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-10T02:35:50.483Z",
-  "total_datasets": 590,
-  "total_records": 462919,
+  "generated": "2026-11-10T02:36:03.659Z",
+  "total_datasets": 591,
+  "total_records": 463027,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "tech",
@@ -15402,6 +15402,34 @@
         "xlsx": {
           "name": "ja-hakone-ekiden-yushoko_JA.xlsx",
           "size": 12547
+        }
+      }
+    },
+    {
+      "id": "ja-koshien-natsu-yushoko",
+      "name": "全国高等学校野球選手権大会（夏の甲子園）歴代優勝校",
+      "category": "sports",
+      "record_count": 108,
+      "columns": [
+        "kai",
+        "kaisaibi",
+        "kosu",
+        "yushoko",
+        "kessho_score",
+        "junyushoko",
+        "biko"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会歴代優勝校",
+      "updated": "2026-11",
+      "size": 36717,
+      "files": {
+        "csv": {
+          "name": "ja-koshien-natsu-yushoko_JA.csv",
+          "size": 20226
+        },
+        "xlsx": {
+          "name": "ja-koshien-natsu-yushoko_JA.xlsx",
+          "size": 15862
         }
       }
     },

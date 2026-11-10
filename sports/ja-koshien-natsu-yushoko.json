@@ -1,0 +1,1033 @@
+{
+  "id": "ja-koshien-natsu-yushoko",
+  "name": "全国高等学校野球選手権大会（夏の甲子園）歴代優勝校",
+  "title": "全国高等学校野球選手権大会（夏の甲子園）歴代優勝校",
+  "description": "夏の甲子園（全国高等学校野球選手権大会、旧・全国中等学校優勝野球大会）の歴代優勝校・準優勝校・決勝スコア。",
+  "category": "sports",
+  "source": "https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会歴代優勝校",
+  "source_url": "https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会歴代優勝校",
+  "updated": "2026-11",
+  "record_count": 108,
+  "columns": [
+    {
+      "key": "kai",
+      "label": "Kai",
+      "type": "number"
+    },
+    {
+      "key": "kaisaibi",
+      "label": "Kaisaibi",
+      "type": "string"
+    },
+    {
+      "key": "kosu",
+      "label": "Kosu",
+      "type": "number"
+    },
+    {
+      "key": "yushoko",
+      "label": "Yushoko",
+      "type": "string"
+    },
+    {
+      "key": "kessho_score",
+      "label": "Kessho Score",
+      "type": "string"
+    },
+    {
+      "key": "junyushoko",
+      "label": "Junyushoko",
+      "type": "string"
+    },
+    {
+      "key": "biko",
+      "label": "Biko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kai": 1,
+      "kaisaibi": "1915年8月22日",
+      "kosu": 10,
+      "yushoko": "京都二中 （京都）",
+      "kessho_score": "2x - 1",
+      "junyushoko": "秋田中 （秋田）",
+      "biko": "豊中グラウンド 近畿 勢初優勝"
+    },
+    {
+      "kai": 2,
+      "kaisaibi": "1916年8月20日",
+      "kosu": 12,
+      "yushoko": "慶応普通部 （東京）",
+      "kessho_score": "6 - 2",
+      "junyushoko": "市岡中 （大阪）",
+      "biko": "豊中グラウンド 関東 勢初優勝 慶応普通部、初出場初優勝 敗者復活制度導入"
+    },
+    {
+      "kai": 3,
+      "kaisaibi": "1917年8月19日",
+      "kosu": 12,
+      "yushoko": "愛知一中 （愛知）",
+      "kessho_score": "1 - 0",
+      "junyushoko": "関西学院中 （兵庫）",
+      "biko": "鳴尾球場 東海 勢初優勝 愛知一中、初出場初優勝 初の敗者復活制度による復活優勝"
+    },
+    {
+      "kai": 4,
+      "kaisaibi": "1918年",
+      "kosu": 14,
+      "yushoko": "代表校は決定して現地入りもしていたが、 米騒動 により本大会中止",
+      "kessho_score": "代表校は決定して現地入りもしていたが、 米騒動 により本大会中止",
+      "junyushoko": "代表校は決定して現地入りもしていたが、 米騒動 により本大会中止",
+      "biko": "代表校は決定して現地入りもしていたが、 米騒動 により本大会中止"
+    },
+    {
+      "kai": 5,
+      "kaisaibi": "1919年8月19日",
+      "kosu": 14,
+      "yushoko": "神戸一中 （兵庫）",
+      "kessho_score": "7 - 4",
+      "junyushoko": "長野師範 （長野）",
+      "biko": "鳴尾球場 敗者復活制度廃止 神戸一中、初出場初優勝 甲信 勢初の決勝進出"
+    },
+    {
+      "kai": 6,
+      "kaisaibi": "1920年8月19日",
+      "kosu": 15,
+      "yushoko": "関西学院中 （兵庫）",
+      "kessho_score": "17 - 0",
+      "junyushoko": "慶応普通部 （東京）",
+      "biko": "鳴尾球場 兵庫勢2連覇"
+    },
+    {
+      "kai": 7,
+      "kaisaibi": "1921年8月18日",
+      "kosu": 17,
+      "yushoko": "和歌山中 （和歌山）",
+      "kessho_score": "16 - 4",
+      "junyushoko": "京都一商 （京都）",
+      "biko": "鳴尾球場 朝鮮 ・ 満州 初参加 和歌山中、 大会記録 の75得点・29盗塁"
+    },
+    {
+      "kai": 8,
+      "kaisaibi": "1922年8月18日",
+      "kosu": 17,
+      "yushoko": "和歌山中 （和歌山）",
+      "kessho_score": "8 - 4",
+      "junyushoko": "神戸商 （兵庫）",
+      "biko": "鳴尾球場 和歌山中、大会初の2連覇 準優勝投手は 浜崎真二"
+    },
+    {
+      "kai": 9,
+      "kaisaibi": "1923年8月20日",
+      "kosu": 19,
+      "yushoko": "甲陽中 （兵庫）",
+      "kessho_score": "5 - 2",
+      "junyushoko": "和歌山中 （和歌山）",
+      "biko": "鳴尾球場 台湾 初参加 甲陽中、初出場初優勝 和歌山中、初の3年連続決勝進出"
+    },
+    {
+      "kai": 10,
+      "kaisaibi": "1924年8月19日",
+      "kosu": 19,
+      "yushoko": "広島商 （広島）",
+      "kessho_score": "3 - 0",
+      "junyushoko": "松本商 （長野）",
+      "biko": "甲子園球場 完成 中国 （ 山陽地方 ）勢初優勝"
+    },
+    {
+      "kai": 11,
+      "kaisaibi": "1925年8月23日",
+      "kosu": 21,
+      "yushoko": "高松商 （香川）",
+      "kessho_score": "5 - 3",
+      "junyushoko": "早稲田実 （東京）",
+      "biko": "第1回選抜大会 以来、初の決勝再戦 四国 勢初優勝 高松商、初の春夏両大会での優勝"
+    },
+    {
+      "kai": 12,
+      "kaisaibi": "1926年8月20日",
+      "kosu": 22,
+      "yushoko": "静岡中 （静岡）",
+      "kessho_score": "2 - 1",
+      "junyushoko": "大連商（満州）",
+      "biko": "満州から初の決勝進出 静岡勢初優勝"
+    },
+    {
+      "kai": 13,
+      "kaisaibi": "1927年8月20日",
+      "kosu": 22,
+      "yushoko": "高松商 （香川）",
+      "kessho_score": "5 - 1",
+      "junyushoko": "広陵中 （広島）",
+      "biko": "昭和初の大会 優勝投手は 水原茂"
+    },
+    {
+      "kai": 14,
+      "kaisaibi": "1928年8月22日",
+      "kosu": 22,
+      "yushoko": "松本商 （長野）",
+      "kessho_score": "3 - 1",
+      "junyushoko": "平安中 （京都）",
+      "biko": "長野勢初優勝 優勝投手は 中島治康"
+    },
+    {
+      "kai": 15,
+      "kaisaibi": "1929年8月20日",
+      "kosu": 22,
+      "yushoko": "広島商 （広島）",
+      "kessho_score": "3 - 0",
+      "junyushoko": "海草中 （和歌山）",
+      "biko": ""
+    },
+    {
+      "kai": 16,
+      "kaisaibi": "1930年8月20日",
+      "kosu": 22,
+      "yushoko": "広島商 （広島）",
+      "kessho_score": "8 - 2",
+      "junyushoko": "諏訪蚕糸 （長野）",
+      "biko": "夏2連覇 優勝投手は 灰山元治"
+    },
+    {
+      "kai": 17,
+      "kaisaibi": "1931年8月21日",
+      "kosu": 22,
+      "yushoko": "中京商 （愛知）",
+      "kessho_score": "4 - 0",
+      "junyushoko": "嘉義農林 （台湾）",
+      "biko": "台湾から初の決勝進出 中京商、初出場初優勝 優勝投手は 吉田正男"
+    },
+    {
+      "kai": 18,
+      "kaisaibi": "1932年8月20日",
+      "kosu": 22,
+      "yushoko": "中京商 （愛知）",
+      "kessho_score": "4x - 3",
+      "junyushoko": "松山商 （愛媛）",
+      "biko": "延長11回 夏2連覇 優勝投手は吉田正男、準優勝投手は 景浦將"
+    },
+    {
+      "kai": 19,
+      "kaisaibi": "1933年8月20日",
+      "kosu": 22,
+      "yushoko": "中京商 （愛知）",
+      "kessho_score": "2 - 1",
+      "junyushoko": "平安中 （京都）",
+      "biko": "大会史上唯一の夏3連覇達成 優勝投手は吉田正男"
+    },
+    {
+      "kai": 20,
+      "kaisaibi": "1934年8月20日",
+      "kosu": 22,
+      "yushoko": "呉港中 （広島）",
+      "kessho_score": "2 - 0",
+      "junyushoko": "熊本工 （熊本）",
+      "biko": "九州 勢初の決勝進出 優勝投手は 藤村富美男"
+    },
+    {
+      "kai": 21,
+      "kaisaibi": "1935年8月21日",
+      "kosu": 22,
+      "yushoko": "松山商 （愛媛）",
+      "kessho_score": "6 - 1",
+      "junyushoko": "育英商 （兵庫）",
+      "biko": "優勝投手は 中山正嘉"
+    },
+    {
+      "kai": 22,
+      "kaisaibi": "1936年8月20日",
+      "kosu": 22,
+      "yushoko": "岐阜商 （岐阜）",
+      "kessho_score": "9 - 1",
+      "junyushoko": "平安中 （京都）",
+      "biko": "岐阜商、初出場初優勝 優勝投手は 松井栄造"
+    },
+    {
+      "kai": 23,
+      "kaisaibi": "1937年8月20日",
+      "kosu": 22,
+      "yushoko": "中京商 （愛知）",
+      "kessho_score": "3 - 1",
+      "junyushoko": "熊本工 （熊本）",
+      "biko": "優勝投手は 野口二郎 、準優勝投手は 川上哲治"
+    },
+    {
+      "kai": 24,
+      "kaisaibi": "1938年8月22日",
+      "kosu": 22,
+      "yushoko": "平安中 （京都）",
+      "kessho_score": "2x - 1",
+      "junyushoko": "岐阜商 （岐阜）",
+      "biko": "準優勝投手は 大島信雄"
+    },
+    {
+      "kai": 25,
+      "kaisaibi": "1939年8月20日",
+      "kosu": 22,
+      "yushoko": "海草中 （和歌山）",
+      "kessho_score": "5 - 0",
+      "junyushoko": "下関商 （山口）",
+      "biko": "史上初決勝戦で ノーヒットノーラン 達成 優勝投手は 嶋清一"
+    },
+    {
+      "kai": 26,
+      "kaisaibi": "1940年8月19日",
+      "kosu": 22,
+      "yushoko": "海草中 （和歌山）",
+      "kessho_score": "2 - 1",
+      "junyushoko": "島田商 （静岡）",
+      "biko": "夏2連覇 優勝投手は 真田重蔵"
+    },
+    {
+      "kai": 27,
+      "kaisaibi": "1941年",
+      "kosu": 0,
+      "yushoko": "日華事変 激化に伴い中止、以降 1945 年まで 第二次世界大戦 による中断",
+      "kessho_score": "日華事変 激化に伴い中止、以降 1945 年まで 第二次世界大戦 による中断",
+      "junyushoko": "日華事変 激化に伴い中止、以降 1945 年まで 第二次世界大戦 による中断",
+      "biko": "日華事変 激化に伴い中止、以降 1945 年まで 第二次世界大戦 による中断"
+    },
+    {
+      "kai": 28,
+      "kaisaibi": "1946年8月21日",
+      "kosu": 19,
+      "yushoko": "浪華商 （大阪）",
+      "kessho_score": "2 - 0",
+      "junyushoko": "京都二中 （京都）",
+      "biko": "阪急西宮球場 優勝投手は 平古場昭二"
+    },
+    {
+      "kai": 29,
+      "kaisaibi": "1947年8月19日",
+      "kosu": 19,
+      "yushoko": "小倉中 （福岡）",
+      "kessho_score": "6 - 3",
+      "junyushoko": "岐阜商 （岐阜）",
+      "biko": "甲子園球場に戻る 九州勢(北部九州)初優勝 優勝投手は 福嶋一雄"
+    },
+    {
+      "kai": 30,
+      "kaisaibi": "1948年8月20日",
+      "kosu": 23,
+      "yushoko": "小倉 （福岡）",
+      "kessho_score": "1 - 0",
+      "junyushoko": "桐蔭 （和歌山）",
+      "biko": "小倉＝旧制小倉中 桐蔭＝旧制和歌山中 戦後初の夏2連覇 優勝投手は福嶋一雄、準優勝投手は 西村修"
+    },
+    {
+      "kai": 31,
+      "kaisaibi": "1949年8月20日",
+      "kosu": 23,
+      "yushoko": "湘南 （神奈川）",
+      "kessho_score": "5 - 3",
+      "junyushoko": "岐阜 （岐阜）",
+      "biko": "湘南、初出場初優勝 準優勝投手は 花井悠"
+    },
+    {
+      "kai": 32,
+      "kaisaibi": "1950年8月21日",
+      "kosu": 23,
+      "yushoko": "松山東 （愛媛）",
+      "kessho_score": "12 - 8",
+      "junyushoko": "鳴門 （徳島）",
+      "biko": "徳島勢初の決勝進出 松山東は松山商と統合"
+    },
+    {
+      "kai": 33,
+      "kaisaibi": "1951年8月19日",
+      "kosu": 23,
+      "yushoko": "平安 （京都）",
+      "kessho_score": "7 - 4",
+      "junyushoko": "熊谷 （埼玉）",
+      "biko": "平安＝旧制平安中 埼玉勢初の決勝進出 優勝投手は 清水宏員"
+    },
+    {
+      "kai": 34,
+      "kaisaibi": "1952年8月20日",
+      "kosu": 23,
+      "yushoko": "芦屋 （兵庫）",
+      "kessho_score": "4 - 1",
+      "junyushoko": "八尾 （大阪）",
+      "biko": "優勝投手は 植村義信"
+    },
+    {
+      "kai": 35,
+      "kaisaibi": "1953年8月20日",
+      "kosu": 23,
+      "yushoko": "松山商 （愛媛）",
+      "kessho_score": "3 - 2",
+      "junyushoko": "土佐 （高知）",
+      "biko": "テレビ中継開始 延長13回 高知勢初の決勝進出 松山商、松山東との分離後の優勝 優勝投手は 空谷泰"
+    },
+    {
+      "kai": 36,
+      "kaisaibi": "1954年8月22日",
+      "kosu": 23,
+      "yushoko": "中京商 （愛知）",
+      "kessho_score": "3 - 0",
+      "junyushoko": "静岡商 （静岡）",
+      "biko": "優勝投手は 中山俊丈"
+    },
+    {
+      "kai": 37,
+      "kaisaibi": "1955年8月17日",
+      "kosu": 23,
+      "yushoko": "四日市 （三重）",
+      "kessho_score": "4 - 1",
+      "junyushoko": "坂出商 （香川）",
+      "biko": "三重勢初の決勝進出 三重勢初優勝 四日市、初出場初優勝 優勝投手は 高橋正勝"
+    },
+    {
+      "kai": 38,
+      "kaisaibi": "1956年8月20日",
+      "kosu": 23,
+      "yushoko": "平安 （京都）",
+      "kessho_score": "3 - 2",
+      "junyushoko": "岐阜商 （岐阜）",
+      "biko": ""
+    },
+    {
+      "kai": 39,
+      "kaisaibi": "1957年8月20日",
+      "kosu": 23,
+      "yushoko": "広島商 （広島）",
+      "kessho_score": "3 - 1",
+      "junyushoko": "法政二 （神奈川）",
+      "biko": ""
+    },
+    {
+      "kai": 40,
+      "kaisaibi": "1958年8月19日",
+      "kosu": 47,
+      "yushoko": "柳井 （山口）",
+      "kessho_score": "7 - 0",
+      "junyushoko": "徳島商 （徳島）",
+      "biko": "46都道府県＋沖縄の47代表 甲子園・西宮の併催 徳島商の 板東英二 は大会記録の83奪三振及び準優勝投手"
+    },
+    {
+      "kai": 41,
+      "kaisaibi": "1959年8月18日",
+      "kosu": 29,
+      "yushoko": "西条 （愛媛）",
+      "kessho_score": "8 - 2",
+      "junyushoko": "宇都宮工 （栃木）",
+      "biko": "北海道代表が南北に分割 延長15回 栃木勢初の決勝進出 優勝投手は 金子哲夫 、準優勝投手は 大井道夫"
+    },
+    {
+      "kai": 42,
+      "kaisaibi": "1960年8月21日",
+      "kosu": 30,
+      "yushoko": "法政二 （神奈川）",
+      "kessho_score": "3 - 0",
+      "junyushoko": "静岡 （静岡）",
+      "biko": "静岡＝旧制静岡中 優勝投手は 柴田勲"
+    },
+    {
+      "kai": 43,
+      "kaisaibi": "1961年8月20日",
+      "kosu": 30,
+      "yushoko": "浪商 （大阪）",
+      "kessho_score": "1 - 0",
+      "junyushoko": "桐蔭 （和歌山）",
+      "biko": "浪商＝旧制浪華商 優勝投手は 尾崎行雄"
+    },
+    {
+      "kai": 44,
+      "kaisaibi": "1962年8月19日",
+      "kosu": 30,
+      "yushoko": "作新学院 （栃木）",
+      "kessho_score": "1 - 0",
+      "junyushoko": "久留米商 （福岡）",
+      "biko": "作新学院、史上初の春夏連覇 優勝投手は 加藤斌"
+    },
+    {
+      "kai": 45,
+      "kaisaibi": "1963年8月20日",
+      "kosu": 48,
+      "yushoko": "明星 （大阪）",
+      "kessho_score": "2 - 1",
+      "junyushoko": "下関商 （山口）",
+      "biko": "甲子園・西宮併催 準優勝投手は 池永正明"
+    },
+    {
+      "kai": 46,
+      "kaisaibi": "1964年8月18日",
+      "kosu": 30,
+      "yushoko": "高知 （高知）",
+      "kessho_score": "2 - 0",
+      "junyushoko": "早鞆 （山口）",
+      "biko": "山口勢、2年連続決勝進出"
+    },
+    {
+      "kai": 47,
+      "kaisaibi": "1965年8月22日",
+      "kosu": 30,
+      "yushoko": "三池工 （福岡）",
+      "kessho_score": "2 - 0",
+      "junyushoko": "銚子商 （千葉）",
+      "biko": "三池工、初出場初優勝 大会史上初の工業高校の優勝 優勝投手は 上田卓三 、準優勝投手は 木樽正明"
+    },
+    {
+      "kai": 48,
+      "kaisaibi": "1966年8月24日",
+      "kosu": 30,
+      "yushoko": "中京商 （愛知）",
+      "kessho_score": "3 - 1",
+      "junyushoko": "松山商 （愛媛）",
+      "biko": "4年ぶり2校目の春夏連覇 優勝投手は 加藤英夫 、準優勝投手は 西本明和"
+    },
+    {
+      "kai": 49,
+      "kaisaibi": "1967年8月20日",
+      "kosu": 30,
+      "yushoko": "習志野 （千葉）",
+      "kessho_score": "7 - 1",
+      "junyushoko": "広陵 （広島）",
+      "biko": "広陵＝旧制広陵中 千葉勢初優勝"
+    },
+    {
+      "kai": 50,
+      "kaisaibi": "1968年8月22日",
+      "kosu": 48,
+      "yushoko": "興国 （大阪）",
+      "kessho_score": "1 - 0",
+      "junyushoko": "静岡商 （静岡）",
+      "biko": "興国、初出場初優勝 準優勝投手は 新浦壽夫"
+    },
+    {
+      "kai": 51,
+      "kaisaibi": "1969年8月18日 8月19日",
+      "kosu": 30,
+      "yushoko": "松山商 （愛媛）",
+      "kessho_score": "0 - 0 4 - 2",
+      "junyushoko": "三沢 （青森）",
+      "biko": "延長18回引き分け再試合 優勝投手は 井上明 、準優勝投手は 太田幸司"
+    },
+    {
+      "kai": 52,
+      "kaisaibi": "1970年8月20日",
+      "kosu": 30,
+      "yushoko": "東海大相模 （神奈川）",
+      "kessho_score": "10 - 6",
+      "junyushoko": "PL学園 （大阪）",
+      "biko": "準優勝投手は 新美敏"
+    },
+    {
+      "kai": 53,
+      "kaisaibi": "1971年8月16日",
+      "kosu": 30,
+      "yushoko": "桐蔭学園 （神奈川）",
+      "kessho_score": "1 - 0",
+      "junyushoko": "磐城 （福島）",
+      "biko": "神奈川勢2連覇 桐蔭学園、初出場初優勝 決勝戦最早開催日 準優勝投手は 田村隆寿"
+    },
+    {
+      "kai": 54,
+      "kaisaibi": "1972年8月23日",
+      "kosu": 30,
+      "yushoko": "津久見 （大分）",
+      "kessho_score": "3 - 1",
+      "junyushoko": "柳井 （山口）",
+      "biko": "津久見、 第39回選抜大会 と併せて九州勢初の春夏制覇"
+    },
+    {
+      "kai": 55,
+      "kaisaibi": "1973年8月22日",
+      "kosu": 48,
+      "yushoko": "広島商 （広島）",
+      "kessho_score": "3x - 2",
+      "junyushoko": "静岡 （静岡）",
+      "biko": "史上初の決勝戦でのサヨナラスクイズ 優勝投手は 佃正樹"
+    },
+    {
+      "kai": 56,
+      "kaisaibi": "1974年8月19日",
+      "kosu": 34,
+      "yushoko": "銚子商 （千葉）",
+      "kessho_score": "7 - 0",
+      "junyushoko": "防府商 （山口）",
+      "biko": "東京代表が東東京代表と西東京代表に分割 金属製 バット 解禁 優勝投手は 土屋正勝"
+    },
+    {
+      "kai": 57,
+      "kaisaibi": "1975年8月24日",
+      "kosu": 38,
+      "yushoko": "習志野 （千葉）",
+      "kessho_score": "5x - 4",
+      "junyushoko": "新居浜商 （愛媛）",
+      "biko": "千葉勢2連覇 優勝投手は 小川淳司"
+    },
+    {
+      "kai": 58,
+      "kaisaibi": "1976年8月21日",
+      "kosu": 41,
+      "yushoko": "桜美林 （西東京）",
+      "kessho_score": "4x - 3",
+      "junyushoko": "PL学園 （大阪）",
+      "biko": "桜美林、初出場初優勝 東京 - 大阪対決 延長11回"
+    },
+    {
+      "kai": 59,
+      "kaisaibi": "1977年8月20日",
+      "kosu": 41,
+      "yushoko": "東洋大姫路 （兵庫）",
+      "kessho_score": "4x - 1",
+      "junyushoko": "東邦 （愛知）",
+      "biko": "延長10回 史上初の決勝戦でのサヨナラ本塁打 優勝投手は 松本正志 、準優勝投手は 坂本佳一"
+    },
+    {
+      "kai": 60,
+      "kaisaibi": "1978年8月20日",
+      "kosu": 49,
+      "yushoko": "PL学園 （大阪）",
+      "kessho_score": "3x - 2",
+      "junyushoko": "高知商 （高知）",
+      "biko": "逆転のPL 優勝投手は 西田真二 、準優勝投手は 森浩二"
+    },
+    {
+      "kai": 61,
+      "kaisaibi": "1979年8月21日",
+      "kosu": 49,
+      "yushoko": "箕島 （和歌山）",
+      "kessho_score": "4 - 3",
+      "junyushoko": "池田 （徳島）",
+      "biko": "正式に全都道府県の代表が出場 13年ぶり3校目、公立校では初の春夏連覇 優勝投手は 石井毅"
+    },
+    {
+      "kai": 62,
+      "kaisaibi": "1980年8月22日",
+      "kosu": 49,
+      "yushoko": "横浜 （神奈川）",
+      "kessho_score": "6 - 4",
+      "junyushoko": "早稲田実 （東東京）",
+      "biko": "優勝投手は 愛甲猛 、準優勝投手は 荒木大輔"
+    },
+    {
+      "kai": 63,
+      "kaisaibi": "1981年8月21日",
+      "kosu": 49,
+      "yushoko": "報徳学園 （兵庫）",
+      "kessho_score": "2 - 0",
+      "junyushoko": "京都商 （京都）",
+      "biko": "優勝投手は 金村義明"
+    },
+    {
+      "kai": 64,
+      "kaisaibi": "1982年8月20日",
+      "kosu": 49,
+      "yushoko": "池田 （徳島）",
+      "kessho_score": "12 - 2",
+      "junyushoko": "広島商 （広島）",
+      "biko": "徳島勢初優勝 優勝投手は 畠山準"
+    },
+    {
+      "kai": 65,
+      "kaisaibi": "1983年8月21日",
+      "kosu": 49,
+      "yushoko": "PL学園 （大阪）",
+      "kessho_score": "3 - 0",
+      "junyushoko": "横浜商 （神奈川）",
+      "biko": "優勝投手は 桑田真澄 、準優勝投手は 三浦将明"
+    },
+    {
+      "kai": 66,
+      "kaisaibi": "1984年8月21日",
+      "kosu": 49,
+      "yushoko": "取手二 （茨城）",
+      "kessho_score": "8 - 4",
+      "junyushoko": "PL学園 （大阪）",
+      "biko": "延長10回 茨城勢初優勝 PL学園、2年連続決勝進出 PL学園、3季連続決勝進出 優勝投手は 石田文樹 、準優勝投手は桑田真澄"
+    },
+    {
+      "kai": 67,
+      "kaisaibi": "1985年8月21日",
+      "kosu": 49,
+      "yushoko": "PL学園 （大阪）",
+      "kessho_score": "4x - 3",
+      "junyushoko": "宇部商 （山口）",
+      "biko": "PL学園、戦後初の3年連続決勝進出 宇部商の 藤井進 が大会記録の14打点 優勝投手は桑田真澄"
+    },
+    {
+      "kai": 68,
+      "kaisaibi": "1986年8月21日",
+      "kosu": 49,
+      "yushoko": "天理 （奈良）",
+      "kessho_score": "3 - 2",
+      "junyushoko": "松山商 （愛媛）",
+      "biko": "奈良勢初優勝 松山商の 水口栄二 が大会記録の19安打"
+    },
+    {
+      "kai": 69,
+      "kaisaibi": "1987年8月21日",
+      "kosu": 49,
+      "yushoko": "PL学園 （大阪）",
+      "kessho_score": "5 - 2",
+      "junyushoko": "常総学院 （茨城）",
+      "biko": "8年ぶり4校目の春夏連覇 優勝投手は 野村弘樹 、準優勝投手は 島田直也"
+    },
+    {
+      "kai": 70,
+      "kaisaibi": "1988年8月22日",
+      "kosu": 49,
+      "yushoko": "広島商 （広島）",
+      "kessho_score": "1 - 0",
+      "junyushoko": "福岡第一 （福岡）",
+      "biko": "昭和最後の大会 準優勝投手は 前田幸長"
+    },
+    {
+      "kai": 71,
+      "kaisaibi": "1989年8月22日",
+      "kosu": 49,
+      "yushoko": "帝京 （東東京）",
+      "kessho_score": "2 - 0",
+      "junyushoko": "仙台育英 （宮城）",
+      "biko": "平成初の大会 宮城勢初の決勝進出 延長10回 優勝投手は 吉岡雄二 、準優勝投手は 大越基"
+    },
+    {
+      "kai": 72,
+      "kaisaibi": "1990年8月21日",
+      "kosu": 49,
+      "yushoko": "天理 （奈良）",
+      "kessho_score": "1 - 0",
+      "junyushoko": "沖縄水産 （沖縄）",
+      "biko": "沖縄勢初の決勝進出 優勝投手は 南竜次"
+    },
+    {
+      "kai": 73,
+      "kaisaibi": "1991年8月21日",
+      "kosu": 49,
+      "yushoko": "大阪桐蔭 （大阪）",
+      "kessho_score": "13 - 8",
+      "junyushoko": "沖縄水産 （沖縄）",
+      "biko": "大阪桐蔭、初出場初優勝 沖縄水産、2年連続決勝進出 準優勝投手は 大野倫"
+    },
+    {
+      "kai": 74,
+      "kaisaibi": "1992年8月25日",
+      "kosu": 49,
+      "yushoko": "西日本短大付 （福岡）",
+      "kessho_score": "1 - 0",
+      "junyushoko": "拓大紅陵 （千葉）",
+      "biko": "九州勢20年ぶりの優勝"
+    },
+    {
+      "kai": 75,
+      "kaisaibi": "1993年8月23日",
+      "kosu": 49,
+      "yushoko": "育英 （兵庫）",
+      "kessho_score": "3 - 2",
+      "junyushoko": "春日部共栄 （埼玉）",
+      "biko": "育英＝旧制育英商 育英、 大会記録 の30犠打 準優勝投手は 土肥義弘"
+    },
+    {
+      "kai": 76,
+      "kaisaibi": "1994年8月21日",
+      "kosu": 49,
+      "yushoko": "佐賀商 （佐賀）",
+      "kessho_score": "8 - 4",
+      "junyushoko": "樟南 （鹿児島）",
+      "biko": "初の決勝戦九州対決 佐賀勢・鹿児島勢ともに春夏通じて初の決勝進出 佐賀県勢初優勝 史上初の決勝戦での満塁本塁打"
+    },
+    {
+      "kai": 77,
+      "kaisaibi": "1995年8月21日",
+      "kosu": 49,
+      "yushoko": "帝京 （東東京）",
+      "kessho_score": "3 - 1",
+      "junyushoko": "星稜 （石川）",
+      "biko": "北陸勢初の決勝進出 準優勝投手は 山本省吾"
+    },
+    {
+      "kai": 78,
+      "kaisaibi": "1996年8月21日",
+      "kosu": 49,
+      "yushoko": "松山商 （愛媛）",
+      "kessho_score": "6 - 3",
+      "junyushoko": "熊本工 （熊本）",
+      "biko": "延長11回 14年ぶりの決勝戦公立校対決 奇跡のバックホーム 松山商、春夏通じて初の3元号（大正・昭和・平成）優勝"
+    },
+    {
+      "kai": 79,
+      "kaisaibi": "1997年8月21日",
+      "kosu": 49,
+      "yushoko": "智弁和歌山 （和歌山）",
+      "kessho_score": "6 - 3",
+      "junyushoko": "平安 （京都）",
+      "biko": "準優勝投手は 川口知哉"
+    },
+    {
+      "kai": 80,
+      "kaisaibi": "1998年8月22日",
+      "kosu": 55,
+      "yushoko": "横浜 （東神奈川）",
+      "kessho_score": "3 - 0",
+      "junyushoko": "京都成章 （京都）",
+      "biko": "11年ぶり5校目の春夏連覇 59年ぶり決勝戦で ノーヒットノーラン 達成 優勝投手は 松坂大輔"
+    },
+    {
+      "kai": 81,
+      "kaisaibi": "1999年8月21日",
+      "kosu": 49,
+      "yushoko": "桐生第一 （群馬）",
+      "kessho_score": "14 - 1",
+      "junyushoko": "岡山理大附 （岡山）",
+      "biko": "群馬勢・岡山勢ともに初の決勝進出 群馬勢初優勝 優勝投手は 正田樹"
+    },
+    {
+      "kai": 82,
+      "kaisaibi": "2000年8月21日",
+      "kosu": 49,
+      "yushoko": "智弁和歌山 （和歌山）",
+      "kessho_score": "11 - 6",
+      "junyushoko": "東海大浦安 （千葉）",
+      "biko": "20世紀最後の大会 智弁和歌山、 大会記録 の100安打・11本塁打・157塁打"
+    },
+    {
+      "kai": 83,
+      "kaisaibi": "2001年8月22日",
+      "kosu": 49,
+      "yushoko": "日大三 （西東京）",
+      "kessho_score": "5 - 2",
+      "junyushoko": "近江 （滋賀）",
+      "biko": "21世紀初の大会 滋賀勢初の決勝進出 優勝投手は 近藤一樹 、準優勝投手は 竹内和也 ・ 島脇信也"
+    },
+    {
+      "kai": 84,
+      "kaisaibi": "2002年8月21日",
+      "kosu": 49,
+      "yushoko": "明徳義塾 （高知）",
+      "kessho_score": "7 - 2",
+      "junyushoko": "智弁和歌山 （和歌山）",
+      "biko": "ベスト8に四国勢4校が全て残る"
+    },
+    {
+      "kai": 85,
+      "kaisaibi": "2003年8月23日",
+      "kosu": 49,
+      "yushoko": "常総学院 （茨城）",
+      "kessho_score": "4 - 2",
+      "junyushoko": "東北 （宮城）",
+      "biko": "準優勝投手は ダルビッシュ有"
+    },
+    {
+      "kai": 86,
+      "kaisaibi": "2004年8月22日",
+      "kosu": 49,
+      "yushoko": "駒大苫小牧 （南北海道）",
+      "kessho_score": "13 - 10",
+      "junyushoko": "済美 （愛媛）",
+      "biko": "北海道勢初優勝 済美、初出場で春夏連続決勝進出 準優勝投手は 福井優也"
+    },
+    {
+      "kai": 87,
+      "kaisaibi": "2005年8月20日",
+      "kosu": 49,
+      "yushoko": "駒大苫小牧 （南北海道）",
+      "kessho_score": "5 - 3",
+      "junyushoko": "京都外大西 （京都）",
+      "biko": "駒大苫小牧、57年ぶりの夏2連覇 優勝投手は 田中将大"
+    },
+    {
+      "kai": 88,
+      "kaisaibi": "2006年8月20日 8月21日",
+      "kosu": 49,
+      "yushoko": "早稲田実 （西東京）",
+      "kessho_score": "1 - 1 4 - 3",
+      "junyushoko": "駒大苫小牧 （南北海道）",
+      "biko": "駒大苫小牧、3年連続決勝進出 37年ぶり 延長15回、引き分け再試合 優勝投手は 斎藤佑樹 、準優勝投手は田中将大"
+    },
+    {
+      "kai": 89,
+      "kaisaibi": "2007年8月22日",
+      "kosu": 49,
+      "yushoko": "佐賀北 （佐賀）",
+      "kessho_score": "5 - 4",
+      "junyushoko": "広陵 （広島）",
+      "biko": "佐賀北、8回裏逆転満塁ホームラン 11年ぶりの公立校優勝 準優勝投手は 野村祐輔"
+    },
+    {
+      "kai": 90,
+      "kaisaibi": "2008年8月18日",
+      "kosu": 55,
+      "yushoko": "大阪桐蔭 （北大阪）",
+      "kessho_score": "17 - 0",
+      "junyushoko": "常葉菊川 （静岡）",
+      "biko": "第6回大会以来の決勝戦大差得点 大阪桐蔭、決勝戦最多の21安打 準優勝投手は 戸狩聡希"
+    },
+    {
+      "kai": 91,
+      "kaisaibi": "2009年8月24日",
+      "kosu": 49,
+      "yushoko": "中京大中京 （愛知）",
+      "kessho_score": "10 - 9",
+      "junyushoko": "日本文理 （新潟）",
+      "biko": "中京大中京＝旧制（新制時代も含む）中京商 中京大中京、大会史上最多7回目の優勝 中京大中京、43年ぶりの優勝（史上4番目に長いブランク） 新潟勢初の決勝進出 日本文理、9回表2アウト、10-4から1点差まで追い上げる 優勝投手は 堂林翔太"
+    },
+    {
+      "kai": 92,
+      "kaisaibi": "2010年8月21日",
+      "kosu": 49,
+      "yushoko": "興南 （沖縄）",
+      "kessho_score": "13 - 1",
+      "junyushoko": "東海大相模 （神奈川）",
+      "biko": "12年ぶり6校目の春夏連覇 沖縄勢初優勝 優勝投手は 島袋洋奨 、準優勝投手は 一二三慎太"
+    },
+    {
+      "kai": 93,
+      "kaisaibi": "2011年8月20日",
+      "kosu": 49,
+      "yushoko": "日大三 （西東京）",
+      "kessho_score": "11 - 0",
+      "junyushoko": "光星学院 （青森）",
+      "biko": "優勝投手は 吉永健太朗"
+    },
+    {
+      "kai": 94,
+      "kaisaibi": "2012年8月23日",
+      "kosu": 49,
+      "yushoko": "大阪桐蔭 （大阪）",
+      "kessho_score": "3 - 0",
+      "junyushoko": "光星学院 （青森）",
+      "biko": "2年ぶり7校目の春夏連覇 史上初の春夏同一カードでの決勝 光星学院、3季連続決勝進出 優勝投手は 藤浪晋太郎"
+    },
+    {
+      "kai": 95,
+      "kaisaibi": "2013年8月22日",
+      "kosu": 49,
+      "yushoko": "前橋育英 （群馬）",
+      "kessho_score": "4 - 3",
+      "junyushoko": "延岡学園 （宮崎）",
+      "biko": "前橋育英、初出場初優勝 延岡学園、宮崎勢初の決勝進出 優勝投手は 髙橋光成"
+    },
+    {
+      "kai": 96,
+      "kaisaibi": "2014年8月25日",
+      "kosu": 49,
+      "yushoko": "大阪桐蔭 （大阪）",
+      "kessho_score": "4 - 3",
+      "junyushoko": "三重 （三重）",
+      "biko": "三重勢59年ぶりの決勝進出"
+    },
+    {
+      "kai": 97,
+      "kaisaibi": "2015年8月20日",
+      "kosu": 49,
+      "yushoko": "東海大相模 （神奈川）",
+      "kessho_score": "10 - 6",
+      "junyushoko": "仙台育英 （宮城）",
+      "biko": "第1回大会 から100年 東海大相模、45年ぶりの優勝（史上3番目に長いブランク） 優勝投手は 小笠原慎之介 ・ 吉田凌 、準優勝投手は 佐藤世那"
+    },
+    {
+      "kai": 98,
+      "kaisaibi": "2016年8月21日",
+      "kosu": 49,
+      "yushoko": "作新学院 （栃木）",
+      "kessho_score": "7 - 1",
+      "junyushoko": "北海 （南北海道）",
+      "biko": "作新学院、54年ぶりの優勝（史上2番目に長いブランク） 北海、37度目の出場にして初の決勝進出 優勝投手は 今井達也"
+    },
+    {
+      "kai": 99,
+      "kaisaibi": "2017年8月23日",
+      "kosu": 49,
+      "yushoko": "花咲徳栄 （埼玉）",
+      "kessho_score": "14 - 4",
+      "junyushoko": "広陵 （広島）",
+      "biko": "埼玉勢初優勝 大会本塁打数最多の68本 広陵の 中村奨成 が大会記録の6本塁打19安打17打点 優勝投手は 清水達也"
+    },
+    {
+      "kai": 100,
+      "kaisaibi": "2018年8月21日",
+      "kosu": 56,
+      "yushoko": "大阪桐蔭 （北大阪）",
+      "kessho_score": "13 - 2",
+      "junyushoko": "金足農 （秋田）",
+      "biko": "平成最後の大会 史上初大阪桐蔭、2度目の春夏連覇 金農旋風 秋田勢第1回大会以来103年ぶりの決勝進出 優勝投手は 柿木蓮 、準優勝投手は 吉田輝星"
+    },
+    {
+      "kai": 101,
+      "kaisaibi": "2019年8月22日",
+      "kosu": 49,
+      "yushoko": "履正社 （大阪）",
+      "kessho_score": "5 - 3",
+      "junyushoko": "星稜 （石川）",
+      "biko": "令和初の大会 大阪勢2年連続の優勝 優勝投手は 岩崎峻典 、準優勝投手は 奥川恭伸"
+    },
+    {
+      "kai": 102,
+      "kaisaibi": "2020年",
+      "kosu": "--",
+      "yushoko": "新型コロナウイルス感染症（COVID-19） の流行を考慮し、開催中止",
+      "kessho_score": "新型コロナウイルス感染症（COVID-19） の流行を考慮し、開催中止",
+      "junyushoko": "新型コロナウイルス感染症（COVID-19） の流行を考慮し、開催中止",
+      "biko": "新型コロナウイルス感染症（COVID-19） の流行を考慮し、開催中止"
+    },
+    {
+      "kai": 103,
+      "kaisaibi": "2021年8月29日",
+      "kosu": 49,
+      "yushoko": "智弁和歌山 （和歌山）",
+      "kessho_score": "9 - 2",
+      "junyushoko": "智弁学園 （奈良）",
+      "biko": "大会史上最多7度の雨天順延 ベスト4が全て近畿勢 決勝戦最遅開催日 大会史上初決勝での系列校同士対決 優勝投手は 中西聖輝"
+    },
+    {
+      "kai": 104,
+      "kaisaibi": "2022年8月22日",
+      "kosu": 49,
+      "yushoko": "仙台育英 （宮城）",
+      "kessho_score": "8 - 1",
+      "junyushoko": "下関国際 （山口）",
+      "biko": "春夏通じて東北勢、宮城勢初優勝 山口勢37年ぶりの決勝進出 準優勝投手は 古賀康誠 ・ 仲井慎"
+    },
+    {
+      "kai": 105,
+      "kaisaibi": "2023年8月23日",
+      "kosu": 49,
+      "yushoko": "慶応 （神奈川）",
+      "kessho_score": "8 - 2",
+      "junyushoko": "仙台育英 （宮城）",
+      "biko": "慶応＝旧制慶応普通部 慶応、103年ぶりの決勝進出及び107年ぶりの優勝（ともに史上最長ブランク） 慶応、史上初複数の都道府県（東京及び神奈川）代表で優勝 決勝戦で史上初の先頭打者本塁打 仙台育英、2年連続決勝進出"
+    },
+    {
+      "kai": 106,
+      "kaisaibi": "2024年8月23日",
+      "kosu": 49,
+      "yushoko": "京都国際 （京都）",
+      "kessho_score": "2 - 1",
+      "junyushoko": "関東第一 （東東京）",
+      "biko": "京都勢68年ぶりの優勝 決勝18年ぶりの延長戦（10回）、決勝初のタイブレーク 準優勝投手は 坂井遼"
+    },
+    {
+      "kai": 107,
+      "kaisaibi": "2025年8月23日",
+      "kosu": 49,
+      "yushoko": "沖縄尚学 （沖縄）",
+      "kessho_score": "3 - 1",
+      "junyushoko": "日大三 （西東京）",
+      "biko": "沖縄勢15年ぶりの優勝 東京勢2年連続決勝進出 優勝投手は 末吉良丞"
+    },
+    {
+      "kai": 108,
+      "kaisaibi": "2026年8月22日",
+      "kosu": 49,
+      "yushoko": "智弁和歌山 （和歌山）",
+      "kessho_score": "4 - 3",
+      "junyushoko": "健大高崎 （群馬）",
+      "biko": "健大高崎初の決勝進出 智弁和歌山 新年号で初の複数優勝"
+    }
+  ],
+  "meta": {
+    "title": "全国高等学校野球選手権大会（夏の甲子園）歴代優勝校 - Free Download",
+    "description": "夏の甲子園（全国高等学校野球選手権大会、旧・全国中等学校優勝野球大会）の歴代優勝校・準優勝校・決勝スコア。 Contains 108 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "全国高等学校野球選手権大会（夏の甲子園）歴代優勝校 | ListBase",
+    "seo_description": "Download 全国高等学校野球選手権大会（夏の甲子園）歴代優勝校 — 108 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 108 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会歴代優勝校"
+    ]
+  }
+}
