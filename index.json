@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-10T02:36:03.659Z",
-  "total_datasets": 591,
-  "total_records": 463027,
+  "generated": "2026-11-10T02:36:14.407Z",
+  "total_datasets": 592,
+  "total_records": 463132,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "tech",
@@ -15655,6 +15655,34 @@
         "xlsx": {
           "name": "ja-sakka-kurabu_JA.xlsx",
           "size": 10249
+        }
+      }
+    },
+    {
+      "id": "ja-tennohai-rekidai-kessho",
+      "name": "天皇杯全日本サッカー選手権大会 歴代決勝結果",
+      "category": "sports",
+      "record_count": 105,
+      "columns": [
+        "kai",
+        "nendo",
+        "yusho",
+        "kekka",
+        "junyusho",
+        "team_su",
+        "biko"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/天皇杯_JFA_全日本サッカー選手権大会",
+      "updated": "2026-11",
+      "size": 25473,
+      "files": {
+        "csv": {
+          "name": "ja-tennohai-rekidai-kessho_JA.csv",
+          "size": 10668
+        },
+        "xlsx": {
+          "name": "ja-tennohai-rekidai-kessho_JA.xlsx",
+          "size": 12457
         }
       }
     },

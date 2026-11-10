@@ -1,0 +1,1006 @@
+{
+  "id": "ja-tennohai-rekidai-kessho",
+  "name": "天皇杯全日本サッカー選手権大会 歴代決勝結果",
+  "title": "天皇杯全日本サッカー選手権大会 歴代決勝結果",
+  "description": "天皇杯 JFA 全日本サッカー選手権大会の歴代優勝・準優勝チームと決勝スコア（1921年〜）。",
+  "category": "sports",
+  "source": "https://ja.wikipedia.org/wiki/天皇杯_JFA_全日本サッカー選手権大会",
+  "source_url": "https://ja.wikipedia.org/wiki/天皇杯_JFA_全日本サッカー選手権大会",
+  "updated": "2026-11",
+  "record_count": 105,
+  "columns": [
+    {
+      "key": "kai",
+      "label": "Kai",
+      "type": "number"
+    },
+    {
+      "key": "nendo",
+      "label": "Nendo",
+      "type": "string"
+    },
+    {
+      "key": "yusho",
+      "label": "Yusho",
+      "type": "string"
+    },
+    {
+      "key": "kekka",
+      "label": "Kekka",
+      "type": "string"
+    },
+    {
+      "key": "junyusho",
+      "label": "Junyusho",
+      "type": "string"
+    },
+    {
+      "key": "team_su",
+      "label": "Team Su",
+      "type": "number"
+    },
+    {
+      "key": "biko",
+      "label": "Biko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kai": 1,
+      "nendo": "1921年",
+      "yusho": "東京蹴球団",
+      "kekka": "1 - 0",
+      "junyusho": "御影蹴球団",
+      "team_su": 4,
+      "biko": ""
+    },
+    {
+      "kai": 2,
+      "nendo": "1922年",
+      "yusho": "名古屋蹴球団",
+      "kekka": "1 - 0",
+      "junyusho": "広島高師",
+      "team_su": 4,
+      "biko": ""
+    },
+    {
+      "kai": 3,
+      "nendo": "1923年",
+      "yusho": "アストラ・クラブ",
+      "kekka": "2 - 1",
+      "junyusho": "名古屋蹴球団",
+      "team_su": 4,
+      "biko": "大正関東地震 （ 関東大震災 ）の影響で1924年2月に開催。"
+    },
+    {
+      "kai": 4,
+      "nendo": "1924年",
+      "yusho": "鯉城クラブ",
+      "kekka": "1 - 0",
+      "junyusho": "全御影師範クラブ",
+      "team_su": 4,
+      "biko": "第1回 明治神宮大会 を兼ねる。"
+    },
+    {
+      "kai": 5,
+      "nendo": "1925年",
+      "yusho": "鯉城蹴球団",
+      "kekka": "3 - 0",
+      "junyusho": "東京帝国大学",
+      "team_su": 6,
+      "biko": "第2回明治神宮大会を兼ねる。"
+    },
+    {
+      "kai": 6,
+      "nendo": "1926年",
+      "yusho": "大正天皇 崩御のため中止",
+      "kekka": "大正天皇 崩御のため中止",
+      "junyusho": "大正天皇 崩御のため中止",
+      "team_su": "大正天皇 崩御のため中止",
+      "biko": "大正天皇 崩御のため中止"
+    },
+    {
+      "kai": 7,
+      "nendo": "1927年",
+      "yusho": "神戸一中クラブ",
+      "kekka": "2 - 0",
+      "junyusho": "鯉城クラブ",
+      "team_su": 8,
+      "biko": "第4回明治神宮大会を兼ねる。"
+    },
+    {
+      "kai": 8,
+      "nendo": "1928年",
+      "yusho": "早大WMW",
+      "kekka": "6 - 1",
+      "junyusho": "京都帝国大学",
+      "team_su": 7,
+      "biko": ""
+    },
+    {
+      "kai": 9,
+      "nendo": "1929年",
+      "yusho": "関学クラブ",
+      "kekka": "3 - 0",
+      "junyusho": "法政大学",
+      "team_su": 8,
+      "biko": "第5回明治神宮大会を兼ねる。"
+    },
+    {
+      "kai": 10,
+      "nendo": "1930年",
+      "yusho": "関学クラブ",
+      "kekka": "3 - 0",
+      "junyusho": "慶應BRB",
+      "team_su": 4,
+      "biko": "1931年5月に開催。"
+    },
+    {
+      "kai": 11,
+      "nendo": "1931年",
+      "yusho": "東京帝大LB",
+      "kekka": "5 - 1",
+      "junyusho": "興文中学",
+      "team_su": 7,
+      "biko": "第6回明治神宮大会、第1回全国地方対抗を兼ねる。"
+    },
+    {
+      "kai": 12,
+      "nendo": "1932年",
+      "yusho": "慶應クラブ",
+      "kekka": "5 - 1",
+      "junyusho": "芳野クラブ",
+      "team_su": 3,
+      "biko": "第2回全国地方対抗を兼ねる。"
+    },
+    {
+      "kai": 13,
+      "nendo": "1933年",
+      "yusho": "東京OBクラブ",
+      "kekka": "4 - 1",
+      "junyusho": "仙台サッカークラブ",
+      "team_su": 8,
+      "biko": "第7回明治神宮大会、第3回全国地方大会を兼ねる。"
+    },
+    {
+      "kai": 14,
+      "nendo": "1934年",
+      "yusho": "極東選手権 への準備のため中止",
+      "kekka": "極東選手権 への準備のため中止",
+      "junyusho": "極東選手権 への準備のため中止",
+      "team_su": "極東選手権 への準備のため中止",
+      "biko": "極東選手権 への準備のため中止"
+    },
+    {
+      "kai": 15,
+      "nendo": "1935年",
+      "yusho": "全京城蹴球団 （ 英語版 ）",
+      "kekka": "6 - 1",
+      "junyusho": "東京文理科大学",
+      "team_su": 6,
+      "biko": "第1回全日本総合選手権を兼ねて開催される。"
+    },
+    {
+      "kai": 16,
+      "nendo": "1936年",
+      "yusho": "慶應BRB",
+      "kekka": "3 - 2",
+      "junyusho": "普成専門",
+      "team_su": 5,
+      "biko": "第2回全日本総合選手権を兼ねて開催される。"
+    },
+    {
+      "kai": 17,
+      "nendo": "1937年",
+      "yusho": "慶應義塾大学",
+      "kekka": "3 - 0",
+      "junyusho": "神戸商業大学",
+      "team_su": 4,
+      "biko": "第3回全日本総合選手権を兼ねて開催される。"
+    },
+    {
+      "kai": 18,
+      "nendo": "1938年",
+      "yusho": "早稲田大学",
+      "kekka": "4 - 1",
+      "junyusho": "慶應義塾大学",
+      "team_su": 5,
+      "biko": "第4回全日本総合選手権を兼ねて開催される。"
+    },
+    {
+      "kai": 19,
+      "nendo": "1939年",
+      "yusho": "慶應BRB",
+      "kekka": "3 - 2 aet",
+      "junyusho": "早稲田大学",
+      "team_su": 8,
+      "biko": "第5回全日本総合選手権を兼ねて開催される。"
+    },
+    {
+      "kai": 20,
+      "nendo": "1940年",
+      "yusho": "慶應BRB",
+      "kekka": "1 - 0",
+      "junyusho": "早大WMW",
+      "team_su": 8,
+      "biko": "第6回全日本総合選手権を兼ねて開催される。"
+    },
+    {
+      "kai": 21,
+      "nendo": "1941年",
+      "yusho": "太平洋戦争 のため諸行事中止",
+      "kekka": "太平洋戦争 のため諸行事中止",
+      "junyusho": "太平洋戦争 のため諸行事中止",
+      "team_su": "太平洋戦争 のため諸行事中止",
+      "biko": "太平洋戦争 のため諸行事中止"
+    },
+    {
+      "kai": 22,
+      "nendo": "1942年",
+      "yusho": "太平洋戦争 のため諸行事中止",
+      "kekka": "太平洋戦争 のため諸行事中止",
+      "junyusho": "太平洋戦争 のため諸行事中止",
+      "team_su": "太平洋戦争 のため諸行事中止",
+      "biko": "太平洋戦争 のため諸行事中止"
+    },
+    {
+      "kai": 23,
+      "nendo": "1943年",
+      "yusho": "太平洋戦争 のため諸行事中止",
+      "kekka": "太平洋戦争 のため諸行事中止",
+      "junyusho": "太平洋戦争 のため諸行事中止",
+      "team_su": "太平洋戦争 のため諸行事中止",
+      "biko": "太平洋戦争 のため諸行事中止"
+    },
+    {
+      "kai": 24,
+      "nendo": "1944年",
+      "yusho": "太平洋戦争 のため諸行事中止",
+      "kekka": "太平洋戦争 のため諸行事中止",
+      "junyusho": "太平洋戦争 のため諸行事中止",
+      "team_su": "太平洋戦争 のため諸行事中止",
+      "biko": "太平洋戦争 のため諸行事中止"
+    },
+    {
+      "kai": 25,
+      "nendo": "1945年",
+      "yusho": "太平洋戦争 のため諸行事中止",
+      "kekka": "太平洋戦争 のため諸行事中止",
+      "junyusho": "太平洋戦争 のため諸行事中止",
+      "team_su": "太平洋戦争 のため諸行事中止",
+      "biko": "太平洋戦争 のため諸行事中止"
+    },
+    {
+      "kai": 26,
+      "nendo": "1946年",
+      "yusho": "東大LB",
+      "kekka": "6 - 2",
+      "junyusho": "神経大クラブ",
+      "team_su": 2,
+      "biko": ""
+    },
+    {
+      "kai": 27,
+      "nendo": "1947年",
+      "yusho": "世情不安のため中止",
+      "kekka": "世情不安のため中止",
+      "junyusho": "世情不安のため中止",
+      "team_su": "世情不安のため中止",
+      "biko": "世情不安のため中止"
+    },
+    {
+      "kai": 28,
+      "nendo": "1948年",
+      "yusho": "世情不安のため中止",
+      "kekka": "世情不安のため中止",
+      "junyusho": "世情不安のため中止",
+      "team_su": "世情不安のため中止",
+      "biko": "世情不安のため中止"
+    },
+    {
+      "kai": 29,
+      "nendo": "1949年",
+      "yusho": "東大LB",
+      "kekka": "5 - 2",
+      "junyusho": "関大クラブ",
+      "team_su": 5,
+      "biko": ""
+    },
+    {
+      "kai": 30,
+      "nendo": "1950年",
+      "yusho": "全関学",
+      "kekka": "6 - 1",
+      "junyusho": "慶應義塾大学",
+      "team_su": 15,
+      "biko": ""
+    },
+    {
+      "kai": 31,
+      "nendo": "1951年",
+      "yusho": "慶應BRB",
+      "kekka": "3 - 2 aet",
+      "junyusho": "大阪クラブ",
+      "team_su": 14,
+      "biko": "この回から天皇杯が授与。"
+    },
+    {
+      "kai": 32,
+      "nendo": "1952年",
+      "yusho": "全慶應",
+      "kekka": "6 - 2",
+      "junyusho": "大阪クラブ",
+      "team_su": 15,
+      "biko": ""
+    },
+    {
+      "kai": 33,
+      "nendo": "1953年",
+      "yusho": "全関学",
+      "kekka": "5 - 4 aet",
+      "junyusho": "大阪クラブ",
+      "team_su": 16,
+      "biko": ""
+    },
+    {
+      "kai": 34,
+      "nendo": "1954年",
+      "yusho": "慶應BRB",
+      "kekka": "5 - 3 aet",
+      "junyusho": "東洋工業",
+      "team_su": 16,
+      "biko": ""
+    },
+    {
+      "kai": 35,
+      "nendo": "1955年",
+      "yusho": "全関学",
+      "kekka": "4 - 3",
+      "junyusho": "中大クラブ",
+      "team_su": 16,
+      "biko": ""
+    },
+    {
+      "kai": 36,
+      "nendo": "1956年",
+      "yusho": "慶應BRB",
+      "kekka": "4 - 2",
+      "junyusho": "八幡製鉄",
+      "team_su": 16,
+      "biko": ""
+    },
+    {
+      "kai": 37,
+      "nendo": "1957年",
+      "yusho": "中大クラブ",
+      "kekka": "2 - 1",
+      "junyusho": "東洋工業",
+      "team_su": 16,
+      "biko": ""
+    },
+    {
+      "kai": 38,
+      "nendo": "1958年",
+      "yusho": "関学クラブ",
+      "kekka": "2 - 1",
+      "junyusho": "八幡製鉄",
+      "team_su": 16,
+      "biko": ""
+    },
+    {
+      "kai": 39,
+      "nendo": "1959年",
+      "yusho": "関学クラブ",
+      "kekka": "1 - 0",
+      "junyusho": "中央大学",
+      "team_su": 16,
+      "biko": ""
+    },
+    {
+      "kai": 40,
+      "nendo": "1960年",
+      "yusho": "古河電工",
+      "kekka": "4 - 0",
+      "junyusho": "慶應BRB",
+      "team_su": 16,
+      "biko": ""
+    },
+    {
+      "kai": 41,
+      "nendo": "1961年",
+      "yusho": "古河電工",
+      "kekka": "3 - 2",
+      "junyusho": "中央大学",
+      "team_su": 16,
+      "biko": ""
+    },
+    {
+      "kai": 42,
+      "nendo": "1962年",
+      "yusho": "中央大学",
+      "kekka": "2 - 1",
+      "junyusho": "古河電工",
+      "team_su": 16,
+      "biko": ""
+    },
+    {
+      "kai": 43,
+      "nendo": "1963年",
+      "yusho": "早稲田大学",
+      "kekka": "3 - 0",
+      "junyusho": "日立製作所",
+      "team_su": 7,
+      "biko": "第22回朝日招待サッカーを兼ねる。"
+    },
+    {
+      "kai": 44,
+      "nendo": "1964年",
+      "yusho": "八幡製鉄 、 古河電工",
+      "kekka": "0 - 0 aet",
+      "junyusho": "",
+      "team_su": 10,
+      "biko": "両チーム優勝。 第23回朝日招待サッカーを兼ねる。"
+    },
+    {
+      "kai": 45,
+      "nendo": "1965年",
+      "yusho": "東洋工業",
+      "kekka": "3 - 2",
+      "junyusho": "八幡製鉄",
+      "team_su": 8,
+      "biko": ""
+    },
+    {
+      "kai": 46,
+      "nendo": "1966年",
+      "yusho": "早稲田大学",
+      "kekka": "3 - 2 aet",
+      "junyusho": "東洋工業",
+      "team_su": 8,
+      "biko": ""
+    },
+    {
+      "kai": 47,
+      "nendo": "1967年",
+      "yusho": "東洋工業",
+      "kekka": "1 - 0",
+      "junyusho": "三菱重工",
+      "team_su": 8,
+      "biko": ""
+    },
+    {
+      "kai": 48,
+      "nendo": "1968年",
+      "yusho": "ヤンマー",
+      "kekka": "1 - 0",
+      "junyusho": "三菱重工",
+      "team_su": 8,
+      "biko": "この回から決勝戦が1月1日に設定。"
+    },
+    {
+      "kai": 49,
+      "nendo": "1969年",
+      "yusho": "東洋工業",
+      "kekka": "4 - 1",
+      "junyusho": "立教大学",
+      "team_su": 8,
+      "biko": ""
+    },
+    {
+      "kai": 50,
+      "nendo": "1970年",
+      "yusho": "ヤンマー",
+      "kekka": "2 - 1 aet",
+      "junyusho": "東洋工業",
+      "team_su": 8,
+      "biko": ""
+    },
+    {
+      "kai": 51,
+      "nendo": "1971年",
+      "yusho": "三菱重工",
+      "kekka": "3 - 1",
+      "junyusho": "ヤンマー",
+      "team_su": 8,
+      "biko": ""
+    },
+    {
+      "kai": 52,
+      "nendo": "1972年",
+      "yusho": "日立製作所",
+      "kekka": "2 - 1",
+      "junyusho": "ヤンマー",
+      "team_su": 24,
+      "biko": "大会のオープン化。"
+    },
+    {
+      "kai": 53,
+      "nendo": "1973年",
+      "yusho": "三菱重工",
+      "kekka": "2 - 1",
+      "junyusho": "日立製作所",
+      "team_su": 26,
+      "biko": ""
+    },
+    {
+      "kai": 54,
+      "nendo": "1974年",
+      "yusho": "ヤンマー",
+      "kekka": "2 - 1",
+      "junyusho": "永大産業",
+      "team_su": 26,
+      "biko": ""
+    },
+    {
+      "kai": 55,
+      "nendo": "1975年",
+      "yusho": "日立製作所",
+      "kekka": "2 - 0",
+      "junyusho": "フジタ工業",
+      "team_su": 26,
+      "biko": ""
+    },
+    {
+      "kai": 56,
+      "nendo": "1976年",
+      "yusho": "古河電工",
+      "kekka": "4 - 1",
+      "junyusho": "ヤンマー",
+      "team_su": 26,
+      "biko": ""
+    },
+    {
+      "kai": 57,
+      "nendo": "1977年",
+      "yusho": "フジタ工業",
+      "kekka": "4 - 1",
+      "junyusho": "ヤンマー",
+      "team_su": 28,
+      "biko": ""
+    },
+    {
+      "kai": 58,
+      "nendo": "1978年",
+      "yusho": "三菱重工",
+      "kekka": "1 - 0",
+      "junyusho": "東洋工業",
+      "team_su": 28,
+      "biko": ""
+    },
+    {
+      "kai": 59,
+      "nendo": "1979年",
+      "yusho": "フジタ工業",
+      "kekka": "2 - 1",
+      "junyusho": "三菱重工",
+      "team_su": 28,
+      "biko": ""
+    },
+    {
+      "kai": 60,
+      "nendo": "1980年",
+      "yusho": "三菱重工",
+      "kekka": "1 - 0",
+      "junyusho": "田辺製薬",
+      "team_su": 30,
+      "biko": ""
+    },
+    {
+      "kai": 61,
+      "nendo": "1981年",
+      "yusho": "日本鋼管",
+      "kekka": "2 - 0",
+      "junyusho": "読売クラブ",
+      "team_su": 28,
+      "biko": "2部リーグチームとして初優勝。"
+    },
+    {
+      "kai": 62,
+      "nendo": "1982年",
+      "yusho": "ヤマハ発動機",
+      "kekka": "1 - 0 aet",
+      "junyusho": "フジタ工業",
+      "team_su": 28,
+      "biko": "2年連続で2部リーグチームが優勝。"
+    },
+    {
+      "kai": 63,
+      "nendo": "1983年",
+      "yusho": "日産自動車",
+      "kekka": "2 - 0",
+      "junyusho": "ヤンマー",
+      "team_su": 28,
+      "biko": ""
+    },
+    {
+      "kai": 64,
+      "nendo": "1984年",
+      "yusho": "読売クラブ",
+      "kekka": "2 - 0",
+      "junyusho": "古河電工",
+      "team_su": 32,
+      "biko": ""
+    },
+    {
+      "kai": 65,
+      "nendo": "1985年",
+      "yusho": "日産自動車",
+      "kekka": "2 - 0",
+      "junyusho": "フジタ工業",
+      "team_su": 32,
+      "biko": ""
+    },
+    {
+      "kai": 66,
+      "nendo": "1986年",
+      "yusho": "読売クラブ",
+      "kekka": "2 - 1",
+      "junyusho": "日本鋼管",
+      "team_su": 32,
+      "biko": ""
+    },
+    {
+      "kai": 67,
+      "nendo": "1987年",
+      "yusho": "読売クラブ",
+      "kekka": "2 - 0",
+      "junyusho": "マツダSC",
+      "team_su": 32,
+      "biko": ""
+    },
+    {
+      "kai": 68,
+      "nendo": "1988年",
+      "yusho": "日産自動車",
+      "kekka": "3 - 1 aet",
+      "junyusho": "フジタ工業",
+      "team_su": 32,
+      "biko": ""
+    },
+    {
+      "kai": 69,
+      "nendo": "1989年",
+      "yusho": "日産自動車",
+      "kekka": "3 - 2",
+      "junyusho": "ヤマハ発動機",
+      "team_su": 32,
+      "biko": ""
+    },
+    {
+      "kai": 70,
+      "nendo": "1990年",
+      "yusho": "松下電器",
+      "kekka": "0 - 0 aet (PK 4 - 3)",
+      "junyusho": "日産自動車",
+      "team_su": 32,
+      "biko": "初のPK戦決着。"
+    },
+    {
+      "kai": 71,
+      "nendo": "1991年",
+      "yusho": "日産自動車",
+      "kekka": "4 - 1 aet",
+      "junyusho": "読売クラブ",
+      "team_su": 32,
+      "biko": ""
+    },
+    {
+      "kai": 72,
+      "nendo": "1992年",
+      "yusho": "日産FC横浜マリノス",
+      "kekka": "2 - 1 aet",
+      "junyusho": "読売ヴェルディ",
+      "team_su": 32,
+      "biko": "Jリーグチーム初参加。"
+    },
+    {
+      "kai": 73,
+      "nendo": "1993年",
+      "yusho": "横浜フリューゲルス",
+      "kekka": "6 - 2 aet",
+      "junyusho": "鹿島アントラーズ",
+      "team_su": 32,
+      "biko": "53,540人。"
+    },
+    {
+      "kai": 74,
+      "nendo": "1994年",
+      "yusho": "ベルマーレ平塚",
+      "kekka": "2 - 0",
+      "junyusho": "セレッソ大阪",
+      "team_su": 32,
+      "biko": "48,312人"
+    },
+    {
+      "kai": 75,
+      "nendo": "1995年",
+      "yusho": "名古屋グランパスエイト",
+      "kekka": "3 - 0",
+      "junyusho": "サンフレッチェ広島",
+      "team_su": 32,
+      "biko": "47,021人"
+    },
+    {
+      "kai": 76,
+      "nendo": "1996年",
+      "yusho": "ヴェルディ川崎",
+      "kekka": "3 - 0",
+      "junyusho": "サンフレッチェ広島",
+      "team_su": 80,
+      "biko": "38,737人"
+    },
+    {
+      "kai": 77,
+      "nendo": "1997年",
+      "yusho": "鹿島アントラーズ",
+      "kekka": "3 - 0",
+      "junyusho": "横浜フリューゲルス",
+      "team_su": 81,
+      "biko": "48,016人"
+    },
+    {
+      "kai": 78,
+      "nendo": "1998年",
+      "yusho": "横浜フリューゲルス",
+      "kekka": "2 - 1",
+      "junyusho": "清水エスパルス",
+      "team_su": 82,
+      "biko": "50,304人"
+    },
+    {
+      "kai": 79,
+      "nendo": "1999年",
+      "yusho": "名古屋グランパスエイト",
+      "kekka": "2 - 0",
+      "junyusho": "サンフレッチェ広島",
+      "team_su": 80,
+      "biko": "47,172人"
+    },
+    {
+      "kai": 80,
+      "nendo": "2000年",
+      "yusho": "鹿島アントラーズ",
+      "kekka": "3 - 2 VG",
+      "junyusho": "清水エスパルス",
+      "team_su": 80,
+      "biko": "53,501人"
+    },
+    {
+      "kai": 81,
+      "nendo": "2001年",
+      "yusho": "清水エスパルス",
+      "kekka": "3 - 2 VG",
+      "junyusho": "セレッソ大阪",
+      "team_su": 80,
+      "biko": "46,728人"
+    },
+    {
+      "kai": 82,
+      "nendo": "2002年",
+      "yusho": "京都パープルサンガ",
+      "kekka": "2 - 1",
+      "junyusho": "鹿島アントラーズ",
+      "team_su": 80,
+      "biko": "50,526人"
+    },
+    {
+      "kai": 83,
+      "nendo": "2003年",
+      "yusho": "ジュビロ磐田",
+      "kekka": "1 - 0",
+      "junyusho": "セレッソ大阪",
+      "team_su": 80,
+      "biko": "51,167人"
+    },
+    {
+      "kai": 84,
+      "nendo": "2004年",
+      "yusho": "東京ヴェルディ1969",
+      "kekka": "2 - 1",
+      "junyusho": "ジュビロ磐田",
+      "team_su": 80,
+      "biko": "50,233人"
+    },
+    {
+      "kai": 85,
+      "nendo": "2005年",
+      "yusho": "浦和レッズ",
+      "kekka": "2 - 1",
+      "junyusho": "清水エスパルス",
+      "team_su": 80,
+      "biko": "51,536人"
+    },
+    {
+      "kai": 86,
+      "nendo": "2006年",
+      "yusho": "浦和レッズ",
+      "kekka": "1 - 0",
+      "junyusho": "ガンバ大阪",
+      "team_su": 80,
+      "biko": "46,880人"
+    },
+    {
+      "kai": 87,
+      "nendo": "2007年",
+      "yusho": "鹿島アントラーズ",
+      "kekka": "2 - 0",
+      "junyusho": "サンフレッチェ広島",
+      "team_su": 80,
+      "biko": "46,357人"
+    },
+    {
+      "kai": 88,
+      "nendo": "2008年",
+      "yusho": "ガンバ大阪",
+      "kekka": "1 - 0 aet",
+      "junyusho": "柏レイソル",
+      "team_su": 82,
+      "biko": "44,066人"
+    },
+    {
+      "kai": 89,
+      "nendo": "2009年",
+      "yusho": "ガンバ大阪",
+      "kekka": "4 - 1",
+      "junyusho": "名古屋グランパス",
+      "team_su": 88,
+      "biko": "42,140人"
+    },
+    {
+      "kai": 90,
+      "nendo": "2010年",
+      "yusho": "鹿島アントラーズ",
+      "kekka": "2 - 1",
+      "junyusho": "清水エスパルス",
+      "team_su": 88,
+      "biko": "41,348人"
+    },
+    {
+      "kai": 91,
+      "nendo": "2011年",
+      "yusho": "FC東京",
+      "kekka": "4 - 2",
+      "junyusho": "京都サンガF.C.",
+      "team_su": 88,
+      "biko": "41,974人。初の J2 クラブの優勝。"
+    },
+    {
+      "kai": 92,
+      "nendo": "2012年",
+      "yusho": "柏レイソル",
+      "kekka": "1 - 0",
+      "junyusho": "ガンバ大阪",
+      "team_su": 88,
+      "biko": "46,480人"
+    },
+    {
+      "kai": 93,
+      "nendo": "2013年",
+      "yusho": "横浜F・マリノス",
+      "kekka": "2 - 0",
+      "junyusho": "サンフレッチェ広島",
+      "team_su": 88,
+      "biko": "46,599人。 旧国立競技場 で最後の決勝戦。"
+    },
+    {
+      "kai": 94,
+      "nendo": "2014年",
+      "yusho": "ガンバ大阪",
+      "kekka": "3 - 1",
+      "junyusho": "モンテディオ山形",
+      "team_su": 88,
+      "biko": "47,829人。47大会ぶりに元日以外の決勝開催。日産スタジアム。"
+    },
+    {
+      "kai": 95,
+      "nendo": "2015年",
+      "yusho": "ガンバ大阪",
+      "kekka": "2 - 1",
+      "junyusho": "浦和レッズ",
+      "team_su": 88,
+      "biko": "43,809人。 味の素スタジアム 。"
+    },
+    {
+      "kai": 96,
+      "nendo": "2016年",
+      "yusho": "鹿島アントラーズ",
+      "kekka": "2 - 1 aet",
+      "junyusho": "川崎フロンターレ",
+      "team_su": 88,
+      "biko": "34,166人。 パナソニックスタジアム吹田 。"
+    },
+    {
+      "kai": 97,
+      "nendo": "2017年",
+      "yusho": "セレッソ大阪",
+      "kekka": "2 - 1 aet",
+      "junyusho": "横浜F・マリノス",
+      "team_su": 88,
+      "biko": "42,029人。 埼玉スタジアム2002 。"
+    },
+    {
+      "kai": 98,
+      "nendo": "2018年",
+      "yusho": "浦和レッズ",
+      "kekka": "1 - 0",
+      "junyusho": "ベガルタ仙台",
+      "team_su": 88,
+      "biko": "50,978人。埼玉スタジアム2002。"
+    },
+    {
+      "kai": 99,
+      "nendo": "2019年",
+      "yusho": "ヴィッセル神戸",
+      "kekka": "2 - 0",
+      "junyusho": "鹿島アントラーズ",
+      "team_su": 88,
+      "biko": "57,597人。 新国立競技場 で初の決勝開催。"
+    },
+    {
+      "kai": 100,
+      "nendo": "2020年",
+      "yusho": "川崎フロンターレ",
+      "kekka": "1 - 0",
+      "junyusho": "ガンバ大阪",
+      "team_su": 52,
+      "biko": "13,318人。国立競技場。"
+    },
+    {
+      "kai": 101,
+      "nendo": "2021年",
+      "yusho": "浦和レッズ",
+      "kekka": "2 - 1",
+      "junyusho": "大分トリニータ",
+      "team_su": 90,
+      "biko": "57,785人。国立競技場。"
+    },
+    {
+      "kai": 102,
+      "nendo": "2022年",
+      "yusho": "ヴァンフォーレ甲府",
+      "kekka": "1 - 1 aet (PK 5 - 4)",
+      "junyusho": "サンフレッチェ広島",
+      "team_su": 88,
+      "biko": "37,998人。日産スタジアム。"
+    },
+    {
+      "kai": 103,
+      "nendo": "2023年",
+      "yusho": "川崎フロンターレ",
+      "kekka": "0 - 0 aet (PK 8 - 7)",
+      "junyusho": "柏レイソル",
+      "team_su": 88,
+      "biko": "62,837人。"
+    },
+    {
+      "kai": 104,
+      "nendo": "2024年",
+      "yusho": "ヴィッセル神戸",
+      "kekka": "1 - 0",
+      "junyusho": "ガンバ大阪",
+      "team_su": 88,
+      "biko": "56,824人。"
+    },
+    {
+      "kai": 105,
+      "nendo": "2025年",
+      "yusho": "FC町田ゼルビア",
+      "kekka": "3 - 1",
+      "junyusho": "ヴィッセル神戸",
+      "team_su": 88,
+      "biko": "31,414人。"
+    }
+  ],
+  "meta": {
+    "title": "天皇杯全日本サッカー選手権大会 歴代決勝結果 - Free Download",
+    "description": "天皇杯 JFA 全日本サッカー選手権大会の歴代優勝・準優勝チームと決勝スコア（1921年〜）。 Contains 105 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "天皇杯全日本サッカー選手権大会 歴代決勝結果 | ListBase",
+    "seo_description": "Download 天皇杯全日本サッカー選手権大会 歴代決勝結果 — 105 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 105 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/天皇杯_JFA_全日本サッカー選手権大会"
+    ]
+  }
+}
