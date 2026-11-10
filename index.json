@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-10T02:36:14.407Z",
-  "total_datasets": 592,
-  "total_records": 463132,
+  "generated": "2026-11-10T02:36:25.666Z",
+  "total_datasets": 593,
+  "total_records": 463182,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "law",
@@ -7272,6 +7272,30 @@
         "xlsx": {
           "name": "ja-orai-hyogen-nijijukugo_JA.xlsx",
           "size": 12846
+        }
+      }
+    },
+    {
+      "id": "ja-yuto-yomi-rei",
+      "name": "湯桶読みの熟語例",
+      "category": "language",
+      "record_count": 50,
+      "columns": [
+        "jukugo",
+        "yomi",
+        "biko"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/湯桶読み",
+      "updated": "2026-11",
+      "size": 5728,
+      "files": {
+        "csv": {
+          "name": "ja-yuto-yomi-rei_JA.csv",
+          "size": 1468
+        },
+        "xlsx": {
+          "name": "ja-yuto-yomi-rei_JA.xlsx",
+          "size": 8169
         }
       }
     },

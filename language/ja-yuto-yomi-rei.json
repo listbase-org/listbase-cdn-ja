@@ -1,0 +1,291 @@
+{
+  "id": "ja-yuto-yomi-rei",
+  "name": "湯桶読みの熟語例",
+  "title": "湯桶読みの熟語例",
+  "description": "上の字を訓読み・下の字を音読みで読む「湯桶読み」の熟語の例と読み方。",
+  "category": "language",
+  "source": "https://ja.wikipedia.org/wiki/湯桶読み",
+  "source_url": "https://ja.wikipedia.org/wiki/湯桶読み",
+  "updated": "2026-11",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "jukugo",
+      "label": "Jukugo",
+      "type": "string"
+    },
+    {
+      "key": "yomi",
+      "label": "Yomi",
+      "type": "string"
+    },
+    {
+      "key": "biko",
+      "label": "Biko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jukugo": "湯桶",
+      "yomi": "ゆトウ",
+      "biko": ""
+    },
+    {
+      "jukugo": "朝晩",
+      "yomi": "あさバン",
+      "biko": ""
+    },
+    {
+      "jukugo": "油絵",
+      "yomi": "あぶらエ",
+      "biko": ""
+    },
+    {
+      "jukugo": "雨具",
+      "yomi": "あまグ",
+      "biko": ""
+    },
+    {
+      "jukugo": "甘食",
+      "yomi": "あまショク",
+      "biko": ""
+    },
+    {
+      "jukugo": "甘茶",
+      "yomi": "あまチャ",
+      "biko": ""
+    },
+    {
+      "jukugo": "粗熱",
+      "yomi": "あらネツ",
+      "biko": ""
+    },
+    {
+      "jukugo": "粗利",
+      "yomi": "あらリ",
+      "biko": ""
+    },
+    {
+      "jukugo": "梅酒",
+      "yomi": "うめシュ",
+      "biko": ""
+    },
+    {
+      "jukugo": "大仰",
+      "yomi": "おおギョウ",
+      "biko": ""
+    },
+    {
+      "jukugo": "遅番",
+      "yomi": "おそバン",
+      "biko": ""
+    },
+    {
+      "jukugo": "親機",
+      "yomi": "おやキ",
+      "biko": ""
+    },
+    {
+      "jukugo": "親分",
+      "yomi": "おやブン",
+      "biko": ""
+    },
+    {
+      "jukugo": "影絵",
+      "yomi": "かげエ",
+      "biko": ""
+    },
+    {
+      "jukugo": "株券",
+      "yomi": "かぶケン",
+      "biko": ""
+    },
+    {
+      "jukugo": "雷竜",
+      "yomi": "かみなりリュウ",
+      "biko": "cf. アパトサウルス#異名、和名など"
+    },
+    {
+      "jukugo": "切土",
+      "yomi": "きりド",
+      "biko": ""
+    },
+    {
+      "jukugo": "子機",
+      "yomi": "こキ",
+      "biko": ""
+    },
+    {
+      "jukugo": "子分",
+      "yomi": "こブン",
+      "biko": ""
+    },
+    {
+      "jukugo": "指図",
+      "yomi": "さしズ",
+      "biko": ""
+    },
+    {
+      "jukugo": "鈴蘭",
+      "yomi": "すずラン",
+      "biko": ""
+    },
+    {
+      "jukugo": "立役",
+      "yomi": "たちヤク",
+      "biko": ""
+    },
+    {
+      "jukugo": "立役",
+      "yomi": "たてヤク",
+      "biko": ""
+    },
+    {
+      "jukugo": "立役者",
+      "yomi": "たてヤクシャ",
+      "biko": ""
+    },
+    {
+      "jukugo": "強気",
+      "yomi": "つよキ",
+      "biko": ""
+    },
+    {
+      "jukugo": "強吟",
+      "yomi": "つよギン",
+      "biko": ""
+    },
+    {
+      "jukugo": "永年",
+      "yomi": "ながネン",
+      "biko": ""
+    },
+    {
+      "jukugo": "練製品",
+      "yomi": "ねりセイヒン",
+      "biko": ""
+    },
+    {
+      "jukugo": "野宿",
+      "yomi": "のジュク",
+      "biko": ""
+    },
+    {
+      "jukugo": "早番",
+      "yomi": "はやバン",
+      "biko": ""
+    },
+    {
+      "jukugo": "盛土",
+      "yomi": "もりド",
+      "biko": ""
+    },
+    {
+      "jukugo": "結納",
+      "yomi": "ゆいノウ",
+      "biko": ""
+    },
+    {
+      "jukugo": "夕刊",
+      "yomi": "ゆうカン",
+      "biko": ""
+    },
+    {
+      "jukugo": "床本",
+      "yomi": "ゆかボン・ゆかホン",
+      "biko": ""
+    },
+    {
+      "jukugo": "雪合戦",
+      "yomi": "ゆきガッセン",
+      "biko": ""
+    },
+    {
+      "jukugo": "湯気",
+      "yomi": "ゆゲ",
+      "biko": ""
+    },
+    {
+      "jukugo": "湯銭",
+      "yomi": "ゆセン",
+      "biko": ""
+    },
+    {
+      "jukugo": "湯茶",
+      "yomi": "ゆチャ",
+      "biko": ""
+    },
+    {
+      "jukugo": "弱気",
+      "yomi": "よわキ",
+      "biko": ""
+    },
+    {
+      "jukugo": "弱吟",
+      "yomi": "よわギン",
+      "biko": ""
+    },
+    {
+      "jukugo": "若気",
+      "yomi": "わかゲ",
+      "biko": ""
+    },
+    {
+      "jukugo": "若衆",
+      "yomi": "わかシュ・わかシュ",
+      "biko": ""
+    },
+    {
+      "jukugo": "若僧 ・ 若造 ・ 若蔵",
+      "yomi": "わかゾウ",
+      "biko": ""
+    },
+    {
+      "jukugo": "業師",
+      "yomi": "わざシ",
+      "biko": ""
+    },
+    {
+      "jukugo": "綿菓子",
+      "yomi": "わたガシ",
+      "biko": ""
+    },
+    {
+      "jukugo": "綿帽子",
+      "yomi": "わたボウシ",
+      "biko": ""
+    },
+    {
+      "jukugo": "割印",
+      "yomi": "わりイン",
+      "biko": ""
+    },
+    {
+      "jukugo": "割勘",
+      "yomi": "わりカン",
+      "biko": ""
+    },
+    {
+      "jukugo": "割注",
+      "yomi": "わりチュウ",
+      "biko": ""
+    },
+    {
+      "jukugo": "悪気",
+      "yomi": "わるギ",
+      "biko": ""
+    }
+  ],
+  "meta": {
+    "title": "湯桶読みの熟語例 - Free Download",
+    "description": "上の字を訓読み・下の字を音読みで読む「湯桶読み」の熟語の例と読み方。 Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "湯桶読みの熟語例 | ListBase",
+    "seo_description": "Download 湯桶読みの熟語例 — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/湯桶読み"
+    ]
+  }
+}
