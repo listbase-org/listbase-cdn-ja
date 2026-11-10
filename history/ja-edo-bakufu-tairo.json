@@ -1,0 +1,250 @@
+{
+  "id": "ja-edo-bakufu-tairo",
+  "name": "江戸幕府 歴代大老一覧",
+  "title": "江戸幕府 歴代大老一覧",
+  "description": "江戸幕府の大老の氏名・官位・前職・在職期間・辞職理由・城地の一覧。",
+  "category": "history",
+  "source": "https://ja.wikipedia.org/wiki/大老",
+  "source_url": "https://ja.wikipedia.org/wiki/大老",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "shimei",
+      "label": "Shimei",
+      "type": "string"
+    },
+    {
+      "key": "kani",
+      "label": "Kani",
+      "type": "string"
+    },
+    {
+      "key": "zenshoku",
+      "label": "Zenshoku",
+      "type": "string"
+    },
+    {
+      "key": "zaishoku_kikan",
+      "label": "Zaishoku Kikan",
+      "type": "string"
+    },
+    {
+      "key": "jishoku_riyu",
+      "label": "Jishoku Riyu",
+      "type": "string"
+    },
+    {
+      "key": "jochi",
+      "label": "Jochi",
+      "type": "string"
+    },
+    {
+      "key": "biko",
+      "label": "Biko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "shimei": "井伊直政",
+      "kani": "従四位下侍従",
+      "zenshoku": "-",
+      "zaishoku_kikan": "- 慶長 7年（1602年）2月1日",
+      "jishoku_riyu": "死没",
+      "jochi": "近江国 彦根藩",
+      "biko": "執事職（柳営補任） 権現様御先手三人衆（諸役人系図）"
+    },
+    {
+      "shimei": "本多忠勝",
+      "kani": "従五位下中務大輔",
+      "zenshoku": "-",
+      "zaishoku_kikan": "- 慶長15年（1610年）10月18日",
+      "jishoku_riyu": "死没",
+      "jochi": "伊勢国 桑名藩",
+      "biko": "執事職（柳営補任） 権現様御先手三人衆（諸役人系図）"
+    },
+    {
+      "shimei": "榊原康政",
+      "kani": "従五位下式部大輔",
+      "zenshoku": "-",
+      "zaishoku_kikan": "- 慶長11年（1606年）5月14日",
+      "jishoku_riyu": "死没",
+      "jochi": "上野国 館林藩",
+      "biko": "執事職（柳営補任） 権現様御先手三人衆（諸役人系図）"
+    },
+    {
+      "shimei": "井伊直孝",
+      "kani": "従四位上行右近衛権少将兼掃部頭 →従四位上行右近衛権少将",
+      "zenshoku": "-",
+      "zaishoku_kikan": "寛永 9年（ 1632年 ）正月- 万治 2年6月28日 （1659年8月16日）",
+      "jishoku_riyu": "死没",
+      "jochi": "近江国彦根藩",
+      "biko": "執事職（柳営補任） 大老（諸役人系図）"
+    },
+    {
+      "shimei": "松平忠明",
+      "kani": "従四位下侍従",
+      "zenshoku": "-",
+      "zaishoku_kikan": "寛永 9年（ 1632年 ）正月 - 寛永21年（1644年）3月25日",
+      "jishoku_riyu": "死没",
+      "jochi": "大和国 郡山藩 播磨国 姫路藩",
+      "biko": "執事職（柳営補任） 大老（諸役人系図）"
+    },
+    {
+      "shimei": "保科正之",
+      "kani": "従四位下侍従",
+      "zenshoku": "-",
+      "zaishoku_kikan": "寛永16年（ 1639年 ）正月 - 寛文 12年（1673年）12月18日",
+      "jishoku_riyu": "死没",
+      "jochi": "陸奥国 会津藩",
+      "biko": "執事職（柳営補任） 大老（諸役人系図）"
+    },
+    {
+      "shimei": "榊原忠次",
+      "kani": "従四位下侍従",
+      "zenshoku": "-",
+      "zaishoku_kikan": "- 延宝4年（1676年）1月3日",
+      "jishoku_riyu": "死没",
+      "jochi": "播磨国姫路藩",
+      "biko": "執事職（柳営補任） 大老（諸役人系図）"
+    },
+    {
+      "shimei": "酒井忠世",
+      "kani": "従四位下行侍従兼雅楽頭",
+      "zenshoku": "不明",
+      "zaishoku_kikan": "寛永13年 3月12日 （ 1636年 4月17日 ） - 3月19日 （ 4月24日 ）",
+      "jishoku_riyu": "死没",
+      "jochi": "上野国 前橋藩",
+      "biko": "元老（柳営補任） 大老（諸役人系図）"
+    },
+    {
+      "shimei": "土井利勝",
+      "kani": "従四位下行侍従兼大炊頭 →従四位下行左近衛権少将兼大炊頭",
+      "zenshoku": "老中",
+      "zaishoku_kikan": "寛永15年 11月7日 （ 1638年 12月12日 ） - 寛永21年 7月10日 （ 1644年 8月12日 ）",
+      "jishoku_riyu": "死没",
+      "jochi": "下総国 古河藩",
+      "biko": "元老（柳営補任）"
+    },
+    {
+      "shimei": "酒井忠勝",
+      "kani": "従四位下行侍従兼讃岐守 →従四位上行左近衛権少将兼讃岐守",
+      "zenshoku": "老中",
+      "zaishoku_kikan": "寛永15年11月7日 （1638年12月12日） - 明暦 2年（ 1656年 ） 3月19日",
+      "jishoku_riyu": "致仕",
+      "jochi": "若狭国 小浜藩",
+      "biko": "元老（柳営補任） 大老（諸役人系図）"
+    },
+    {
+      "shimei": "酒井忠清",
+      "kani": "従四位下行左近衛権少将兼雅楽頭",
+      "zenshoku": "老中",
+      "zaishoku_kikan": "寛文 6年 3月29日 （ 1666年 5月3日 ） - 延宝 8年 12月9日 （ 1681年 1月28日 ）",
+      "jishoku_riyu": "致仕",
+      "jochi": "上野国前橋藩",
+      "biko": "元老（柳営補任） 大老（諸役人系図）"
+    },
+    {
+      "shimei": "阿部忠秋",
+      "kani": "従四位下豊後守",
+      "zenshoku": "老中",
+      "zaishoku_kikan": "寛文 6年 3月29日 （ 1666年 5月3日 ） -寛文11年5月25日",
+      "jishoku_riyu": "致仕",
+      "jochi": "武蔵国 忍藩",
+      "biko": "栗田元次 の説だが、支持者はほとんどない 。"
+    },
+    {
+      "shimei": "井伊直澄",
+      "kani": "従四位下行左近衛権少将兼掃部頭",
+      "zenshoku": "溜間詰",
+      "zaishoku_kikan": "寛文8年 11月19日 （ 1668年 12月22日 ） - 延宝4年 1月3日 （ 1676年 2月16日 ）",
+      "jishoku_riyu": "辞任",
+      "jochi": "近江国彦根藩",
+      "biko": "執事職（柳営補任） 大老（諸役人系図）"
+    },
+    {
+      "shimei": "堀田正俊",
+      "kani": "従四位下行侍従兼筑前守 →従四位下行左近衛権少将兼筑前守",
+      "zenshoku": "老中",
+      "zaishoku_kikan": "天和 元年 12月11日 （ 1682年 1月19日 ） - 貞享 元年 8月28日 （ 1684年 10月7日 ）",
+      "jishoku_riyu": "遭難",
+      "jochi": "下総国古河藩",
+      "biko": "元老（柳営補任） 大老（諸役人系図）"
+    },
+    {
+      "shimei": "井伊直興",
+      "kani": "従四位下行左近衛権少将兼掃部頭",
+      "zenshoku": "溜間詰",
+      "zaishoku_kikan": "元禄 10年 6月13日 （ 1697年 7月30日 ） - 元禄13年 3月2日 （ 1700年 4月20日 ）",
+      "jishoku_riyu": "致仕",
+      "jochi": "近江国彦根藩",
+      "biko": "執事職（柳営補任） 大老（諸役人系図）"
+    },
+    {
+      "shimei": "柳沢吉保",
+      "kani": "従四位下行左近衛権少将兼美濃守",
+      "zenshoku": "側用人 老中格",
+      "zaishoku_kikan": "宝永 3年 1月11日 （ 1706年 2月23日 ） - 宝永6年 6月3日 （ 1709年 7月9日 ）",
+      "jishoku_riyu": "致仕",
+      "jochi": "甲斐国 甲府藩",
+      "biko": "大老格とされることが多い 元老（柳営補任）"
+    },
+    {
+      "shimei": "井伊直該",
+      "kani": "従四位下行左近衛権少将兼掃部頭 →正四位上行左近衛権中将兼掃部頭",
+      "zenshoku": "溜間詰",
+      "zaishoku_kikan": "宝永 8年 2月13日 （ 1711年 3月31日 ） - 正徳4年 2月23日 （ 1714年 4月7日 ）",
+      "jishoku_riyu": "致仕",
+      "jochi": "近江国彦根藩",
+      "biko": "再任"
+    },
+    {
+      "shimei": "井伊直幸",
+      "kani": "正四位上行左近衛権中将兼掃部頭",
+      "zenshoku": "溜間詰",
+      "zaishoku_kikan": "天明 4年 11月28日 （ 1785年 1月8日 ） - 天明7年（ 1787年 ） 9月11日",
+      "jishoku_riyu": "辞任",
+      "jochi": "近江国彦根藩",
+      "biko": "元老（柳営補任）"
+    },
+    {
+      "shimei": "井伊直亮",
+      "kani": "正四位上行左近衛権中将兼掃部頭",
+      "zenshoku": "溜間詰",
+      "zaishoku_kikan": "天保 6年 12月28日 （ 1836年 2月14日 ） - 天保12年（ 1841年 ） 5月13日",
+      "jishoku_riyu": "辞任",
+      "jochi": "近江国彦根藩",
+      "biko": "元老（柳営補任）"
+    },
+    {
+      "shimei": "井伊直弼",
+      "kani": "従四位上行左近衛権中将兼掃部頭 →正四位上行左近衛権中将兼掃部頭",
+      "zenshoku": "溜間詰",
+      "zaishoku_kikan": "安政 5年 4月23日 （ 1858年 6月4日 ） - 安政7年 3月3日 （ 1860年 3月24日 ）",
+      "jishoku_riyu": "遭難",
+      "jochi": "近江国彦根藩",
+      "biko": "元老（柳営補任）"
+    },
+    {
+      "shimei": "酒井忠績",
+      "kani": "従四位下行侍従兼雅楽頭 →従四位下行左近衛権少将兼雅楽頭",
+      "zenshoku": "溜間詰 元老中",
+      "zaishoku_kikan": "元治 2年 2月1日 （ 1865年 2月26日 ） - 慶応 元年（ 1865年 ） 11月15日",
+      "jishoku_riyu": "辞任",
+      "jochi": "播磨国姫路藩",
+      "biko": "元老（柳営補任）"
+    }
+  ],
+  "meta": {
+    "title": "江戸幕府 歴代大老一覧 - Free Download",
+    "description": "江戸幕府の大老の氏名・官位・前職・在職期間・辞職理由・城地の一覧。 Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "江戸幕府 歴代大老一覧 | ListBase",
+    "seo_description": "Download 江戸幕府 歴代大老一覧 — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/大老"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-10T02:35:27.439Z",
-  "total_datasets": 588,
-  "total_records": 462847,
+  "generated": "2026-11-10T02:35:39.335Z",
+  "total_datasets": 589,
+  "total_records": 462868,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "language",
@@ -6810,6 +6810,34 @@
         "xlsx": {
           "name": "ja-edo-bakufu-roju_JA.xlsx",
           "size": 11481
+        }
+      }
+    },
+    {
+      "id": "ja-edo-bakufu-tairo",
+      "name": "江戸幕府 歴代大老一覧",
+      "category": "history",
+      "record_count": 21,
+      "columns": [
+        "shimei",
+        "kani",
+        "zenshoku",
+        "zaishoku_kikan",
+        "jishoku_riyu",
+        "jochi",
+        "biko"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/大老",
+      "updated": "2026-11",
+      "size": 9725,
+      "files": {
+        "csv": {
+          "name": "ja-edo-bakufu-tairo_JA.csv",
+          "size": 5105
+        },
+        "xlsx": {
+          "name": "ja-edo-bakufu-tairo_JA.xlsx",
+          "size": 8875
         }
       }
     },
