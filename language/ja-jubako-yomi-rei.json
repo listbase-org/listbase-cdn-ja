@@ -1,0 +1,296 @@
+{
+  "id": "ja-jubako-yomi-rei",
+  "name": "重箱読みの熟語例",
+  "title": "重箱読みの熟語例",
+  "description": "上の字を音読み・下の字を訓読みで読む「重箱読み」の熟語の例と読み方。",
+  "category": "language",
+  "source": "https://ja.wikipedia.org/wiki/重箱読み",
+  "source_url": "https://ja.wikipedia.org/wiki/重箱読み",
+  "updated": "2026-11",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "jukugo",
+      "label": "Jukugo",
+      "type": "string"
+    },
+    {
+      "key": "yomi",
+      "label": "Yomi",
+      "type": "string"
+    },
+    {
+      "key": "biko",
+      "label": "Biko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jukugo": "重箱",
+      "yomi": "ジュウばこ",
+      "biko": ""
+    },
+    {
+      "jukugo": "一手",
+      "yomi": "イッて",
+      "biko": ""
+    },
+    {
+      "jukugo": "一時",
+      "yomi": "イッとき",
+      "biko": ""
+    },
+    {
+      "jukugo": "音読み",
+      "yomi": "オンよみ",
+      "biko": ""
+    },
+    {
+      "jukugo": "額縁",
+      "yomi": "ガクぶち",
+      "biko": ""
+    },
+    {
+      "jukugo": "客間",
+      "yomi": "キャクま",
+      "biko": ""
+    },
+    {
+      "jukugo": "経木",
+      "yomi": "キョウぎ",
+      "biko": ""
+    },
+    {
+      "jukugo": "金熊（賞）",
+      "yomi": "キンくま（ショウ）",
+      "biko": ""
+    },
+    {
+      "jukugo": "金星",
+      "yomi": "キンぼし",
+      "biko": ""
+    },
+    {
+      "jukugo": "訓読み",
+      "yomi": "クンよみ",
+      "biko": ""
+    },
+    {
+      "jukugo": "香醋",
+      "yomi": "コウず",
+      "biko": ""
+    },
+    {
+      "jukugo": "工場",
+      "yomi": "コウば",
+      "biko": ""
+    },
+    {
+      "jukugo": "最高値",
+      "yomi": "サイたかね",
+      "biko": ""
+    },
+    {
+      "jukugo": "最安値",
+      "yomi": "サイやすね",
+      "biko": ""
+    },
+    {
+      "jukugo": "残高",
+      "yomi": "ザンだか",
+      "biko": ""
+    },
+    {
+      "jukugo": "桟橋",
+      "yomi": "サンばし",
+      "biko": ""
+    },
+    {
+      "jukugo": "新顔",
+      "yomi": "シンがお",
+      "biko": ""
+    },
+    {
+      "jukugo": "新参者",
+      "yomi": "シンザンもの",
+      "biko": ""
+    },
+    {
+      "jukugo": "雑木",
+      "yomi": "ゾウき",
+      "biko": ""
+    },
+    {
+      "jukugo": "総花",
+      "yomi": "ソウばな",
+      "biko": ""
+    },
+    {
+      "jukugo": "台所",
+      "yomi": "ダイどころ",
+      "biko": ""
+    },
+    {
+      "jukugo": "大横綱",
+      "yomi": "ダイよこづな",
+      "biko": ""
+    },
+    {
+      "jukugo": "反物",
+      "yomi": "タンもの",
+      "biko": ""
+    },
+    {
+      "jukugo": "団子",
+      "yomi": "ダンご",
+      "biko": ""
+    },
+    {
+      "jukugo": "竹輪",
+      "yomi": "チクわ",
+      "biko": ""
+    },
+    {
+      "jukugo": "蝶番",
+      "yomi": "チョウつがい",
+      "biko": ""
+    },
+    {
+      "jukugo": "賃上げ",
+      "yomi": "チンあげ",
+      "biko": ""
+    },
+    {
+      "jukugo": "頭突き",
+      "yomi": "ズつき",
+      "biko": ""
+    },
+    {
+      "jukugo": "等幅フォント",
+      "yomi": "トウはば -",
+      "biko": ""
+    },
+    {
+      "jukugo": "豚汁",
+      "yomi": "トンじる",
+      "biko": ""
+    },
+    {
+      "jukugo": "番組",
+      "yomi": "バンぐみ",
+      "biko": ""
+    },
+    {
+      "jukugo": "本棚",
+      "yomi": "ホンだな",
+      "biko": ""
+    },
+    {
+      "jukugo": "本物",
+      "yomi": "ホンもの",
+      "biko": ""
+    },
+    {
+      "jukugo": "本屋",
+      "yomi": "ホンや",
+      "biko": ""
+    },
+    {
+      "jukugo": "無傷",
+      "yomi": "ムきず",
+      "biko": ""
+    },
+    {
+      "jukugo": "役場",
+      "yomi": "ヤクば",
+      "biko": ""
+    },
+    {
+      "jukugo": "路肩",
+      "yomi": "ロかた",
+      "biko": ""
+    },
+    {
+      "jukugo": "電場",
+      "yomi": "デンば",
+      "biko": ""
+    },
+    {
+      "jukugo": "磁場",
+      "yomi": "ジば",
+      "biko": ""
+    },
+    {
+      "jukugo": "重力場",
+      "yomi": "ジュウリョクば",
+      "biko": ""
+    },
+    {
+      "jukugo": "音場",
+      "yomi": "オンば",
+      "biko": ""
+    },
+    {
+      "jukugo": "半値幅",
+      "yomi": "ハンチはば",
+      "biko": ""
+    },
+    {
+      "jukugo": "半値全幅",
+      "yomi": "ハンチゼンはば",
+      "biko": ""
+    },
+    {
+      "jukugo": "試合",
+      "yomi": "シあい",
+      "biko": ""
+    },
+    {
+      "jukugo": "馬鹿",
+      "yomi": "バか",
+      "biko": ""
+    },
+    {
+      "jukugo": "派手",
+      "yomi": "ハで",
+      "biko": ""
+    },
+    {
+      "jukugo": "半田",
+      "yomi": "ハンだ",
+      "biko": ""
+    },
+    {
+      "jukugo": "味方",
+      "yomi": "ミかた",
+      "biko": ""
+    },
+    {
+      "jukugo": "定宿",
+      "yomi": "ジョウやど",
+      "biko": ""
+    },
+    {
+      "jukugo": "新橋",
+      "yomi": "シンばし",
+      "biko": ""
+    },
+    {
+      "jukugo": "山谷",
+      "yomi": "サンや",
+      "biko": ""
+    }
+  ],
+  "meta": {
+    "title": "重箱読みの熟語例 - Free Download",
+    "description": "上の字を音読み・下の字を訓読みで読む「重箱読み」の熟語の例と読み方。 Contains 51 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "重箱読みの熟語例 | ListBase",
+    "seo_description": "Download 重箱読みの熟語例 — 51 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 51 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/重箱読み"
+    ]
+  }
+}

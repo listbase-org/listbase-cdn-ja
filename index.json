@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-10T02:35:39.335Z",
-  "total_datasets": 589,
-  "total_records": 462868,
+  "generated": "2026-11-10T02:35:50.483Z",
+  "total_datasets": 590,
+  "total_records": 462919,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "law",
@@ -7196,6 +7196,30 @@
         "xlsx": {
           "name": "ja-joyo-kanji_JA.xlsx",
           "size": 114212
+        }
+      }
+    },
+    {
+      "id": "ja-jubako-yomi-rei",
+      "name": "重箱読みの熟語例",
+      "category": "language",
+      "record_count": 51,
+      "columns": [
+        "jukugo",
+        "yomi",
+        "biko"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/重箱読み",
+      "updated": "2026-11",
+      "size": 5782,
+      "files": {
+        "csv": {
+          "name": "ja-jubako-yomi-rei_JA.csv",
+          "size": 1461
+        },
+        "xlsx": {
+          "name": "ja-jubako-yomi-rei_JA.xlsx",
+          "size": 8181
         }
       }
     },
