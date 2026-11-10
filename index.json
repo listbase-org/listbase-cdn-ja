@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-09T02:40:40.500Z",
-  "total_datasets": 587,
-  "total_records": 462700,
+  "generated": "2026-11-10T02:35:27.439Z",
+  "total_datasets": 588,
+  "total_records": 462847,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "language",
@@ -6785,6 +6785,31 @@
         "xlsx": {
           "name": "ja-todofuken-jisatsu_JA.xlsx",
           "size": 13306
+        }
+      }
+    },
+    {
+      "id": "ja-edo-bakufu-roju",
+      "name": "江戸幕府 歴代老中一覧",
+      "category": "history",
+      "record_count": 147,
+      "columns": [
+        "shimei",
+        "zaishoku_kikan",
+        "jidai",
+        "biko"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/老中",
+      "updated": "2026-11",
+      "size": 23478,
+      "files": {
+        "csv": {
+          "name": "ja-edo-bakufu-roju_JA.csv",
+          "size": 9591
+        },
+        "xlsx": {
+          "name": "ja-edo-bakufu-roju_JA.xlsx",
+          "size": 11481
         }
       }
     },

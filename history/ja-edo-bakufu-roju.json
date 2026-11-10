@@ -1,0 +1,928 @@
+{
+  "id": "ja-edo-bakufu-roju",
+  "name": "江戸幕府 歴代老中一覧",
+  "title": "江戸幕府 歴代老中一覧",
+  "description": "江戸幕府の老中を将軍の代ごとに在職期間とともにまとめた一覧。",
+  "category": "history",
+  "source": "https://ja.wikipedia.org/wiki/老中",
+  "source_url": "https://ja.wikipedia.org/wiki/老中",
+  "updated": "2026-11",
+  "record_count": 147,
+  "columns": [
+    {
+      "key": "shimei",
+      "label": "Shimei",
+      "type": "string"
+    },
+    {
+      "key": "zaishoku_kikan",
+      "label": "Zaishoku Kikan",
+      "type": "string"
+    },
+    {
+      "key": "jidai",
+      "label": "Jidai",
+      "type": "string"
+    },
+    {
+      "key": "biko",
+      "label": "Biko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "shimei": "大久保忠隣",
+      "zaishoku_kikan": "1593年 - 1614年",
+      "jidai": "徳川家康・秀忠時代",
+      "biko": ""
+    },
+    {
+      "shimei": "本多正信",
+      "zaishoku_kikan": "1593年 - 1616年",
+      "jidai": "徳川家康・秀忠時代",
+      "biko": ""
+    },
+    {
+      "shimei": "成瀬正成",
+      "zaishoku_kikan": "1600年 - 1616年",
+      "jidai": "徳川家康・秀忠時代",
+      "biko": ""
+    },
+    {
+      "shimei": "安藤直次",
+      "zaishoku_kikan": "1600年 - 1616年",
+      "jidai": "徳川家康・秀忠時代",
+      "biko": ""
+    },
+    {
+      "shimei": "本多正純",
+      "zaishoku_kikan": "1600年 - 1622年",
+      "jidai": "徳川家康・秀忠時代",
+      "biko": ""
+    },
+    {
+      "shimei": "大久保長安",
+      "zaishoku_kikan": "1600年 - 1613年",
+      "jidai": "徳川家康・秀忠時代",
+      "biko": ""
+    },
+    {
+      "shimei": "内藤清成",
+      "zaishoku_kikan": "1601年 - 1606年",
+      "jidai": "徳川家康・秀忠時代",
+      "biko": ""
+    },
+    {
+      "shimei": "青山忠成",
+      "zaishoku_kikan": "1601年 - 1606年",
+      "jidai": "徳川家康・秀忠時代",
+      "biko": ""
+    },
+    {
+      "shimei": "青山成重",
+      "zaishoku_kikan": "1608年 - 1613年",
+      "jidai": "徳川家康・秀忠時代",
+      "biko": ""
+    },
+    {
+      "shimei": "酒井忠利",
+      "zaishoku_kikan": "1609年 - 1627年",
+      "jidai": "徳川家康・秀忠時代",
+      "biko": ""
+    },
+    {
+      "shimei": "酒井忠世",
+      "zaishoku_kikan": "1610年 - 1634年",
+      "jidai": "徳川家康・秀忠時代",
+      "biko": ""
+    },
+    {
+      "shimei": "土井利勝",
+      "zaishoku_kikan": "1610年 - 1638年",
+      "jidai": "徳川家康・秀忠時代",
+      "biko": ""
+    },
+    {
+      "shimei": "安藤重信",
+      "zaishoku_kikan": "1611年 - 1621年",
+      "jidai": "徳川家康・秀忠時代",
+      "biko": ""
+    },
+    {
+      "shimei": "内藤清次",
+      "zaishoku_kikan": "1616年 - 1617年",
+      "jidai": "徳川家康・秀忠時代",
+      "biko": ""
+    },
+    {
+      "shimei": "青山忠俊",
+      "zaishoku_kikan": "1616年 - 1623年",
+      "jidai": "徳川家康・秀忠時代",
+      "biko": ""
+    },
+    {
+      "shimei": "井上正就",
+      "zaishoku_kikan": "1617年 - 1628年",
+      "jidai": "徳川家康・秀忠時代",
+      "biko": ""
+    },
+    {
+      "shimei": "永井尚政",
+      "zaishoku_kikan": "1622年 - 1633年",
+      "jidai": "徳川家康・秀忠時代",
+      "biko": ""
+    },
+    {
+      "shimei": "阿部正次",
+      "zaishoku_kikan": "1623年 - 1626年",
+      "jidai": "徳川家光時代",
+      "biko": ""
+    },
+    {
+      "shimei": "稲葉正勝",
+      "zaishoku_kikan": "1623年 - 1634年",
+      "jidai": "徳川家光時代",
+      "biko": ""
+    },
+    {
+      "shimei": "内藤忠重",
+      "zaishoku_kikan": "1623年 - 1633年",
+      "jidai": "徳川家光時代",
+      "biko": ""
+    },
+    {
+      "shimei": "酒井忠勝",
+      "zaishoku_kikan": "1624年 - 1638年",
+      "jidai": "徳川家光時代",
+      "biko": ""
+    },
+    {
+      "shimei": "森川重俊",
+      "zaishoku_kikan": "1628年 - 1632年",
+      "jidai": "徳川家光時代",
+      "biko": ""
+    },
+    {
+      "shimei": "青山幸成",
+      "zaishoku_kikan": "1628年 - 1633年",
+      "jidai": "徳川家光時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平信綱",
+      "zaishoku_kikan": "△1632年 - 1662年",
+      "jidai": "徳川家光時代",
+      "biko": ""
+    },
+    {
+      "shimei": "阿部忠秋",
+      "zaishoku_kikan": "△1633年 - 1666年",
+      "jidai": "徳川家光時代",
+      "biko": ""
+    },
+    {
+      "shimei": "堀田正盛",
+      "zaishoku_kikan": "△1633年 - 1635年",
+      "jidai": "徳川家光時代",
+      "biko": ""
+    },
+    {
+      "shimei": "阿部重次",
+      "zaishoku_kikan": "1638年 - 1651年",
+      "jidai": "徳川家光時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平乗寿",
+      "zaishoku_kikan": "1642年 - 1654年",
+      "jidai": "徳川家光時代",
+      "biko": ""
+    },
+    {
+      "shimei": "酒井忠清",
+      "zaishoku_kikan": "1653年 - 1666年",
+      "jidai": "徳川家綱時代",
+      "biko": ""
+    },
+    {
+      "shimei": "稲葉正則",
+      "zaishoku_kikan": "1657年 - 1681年",
+      "jidai": "徳川家綱時代",
+      "biko": ""
+    },
+    {
+      "shimei": "久世広之",
+      "zaishoku_kikan": "1663年 - 1679年",
+      "jidai": "徳川家綱時代",
+      "biko": ""
+    },
+    {
+      "shimei": "板倉重矩",
+      "zaishoku_kikan": "1665年 - 1668年，1670年 - 1673年",
+      "jidai": "徳川家綱時代",
+      "biko": ""
+    },
+    {
+      "shimei": "土屋数直",
+      "zaishoku_kikan": "1665年 - 1679年",
+      "jidai": "徳川家綱時代",
+      "biko": ""
+    },
+    {
+      "shimei": "阿部正能",
+      "zaishoku_kikan": "1673年 - 1676年",
+      "jidai": "徳川家綱時代",
+      "biko": ""
+    },
+    {
+      "shimei": "大久保忠朝",
+      "zaishoku_kikan": "1677年 - 1698年",
+      "jidai": "徳川家綱時代",
+      "biko": ""
+    },
+    {
+      "shimei": "堀田正俊",
+      "zaishoku_kikan": "1679年 - 1681年",
+      "jidai": "徳川家綱時代",
+      "biko": ""
+    },
+    {
+      "shimei": "土井利房",
+      "zaishoku_kikan": "1679年 - 1681年",
+      "jidai": "徳川家綱時代",
+      "biko": ""
+    },
+    {
+      "shimei": "板倉重種",
+      "zaishoku_kikan": "1680年 - 1681年",
+      "jidai": "徳川家綱時代",
+      "biko": ""
+    },
+    {
+      "shimei": "戸田忠昌",
+      "zaishoku_kikan": "1681年 - 1699年",
+      "jidai": "徳川綱吉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "阿部正武",
+      "zaishoku_kikan": "1681年 - 1704年",
+      "jidai": "徳川綱吉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "柳沢吉保",
+      "zaishoku_kikan": "▲1694年 - 1709年",
+      "jidai": "徳川綱吉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平信之",
+      "zaishoku_kikan": "1685年 - 1686年",
+      "jidai": "徳川綱吉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "土屋政直",
+      "zaishoku_kikan": "1687年 - 1718年",
+      "jidai": "徳川綱吉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "小笠原長重",
+      "zaishoku_kikan": "1697年 - 1705年，1709年 - 1710年",
+      "jidai": "徳川綱吉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "秋元喬知",
+      "zaishoku_kikan": "1699年 - 1714年",
+      "jidai": "徳川綱吉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "稲葉正往",
+      "zaishoku_kikan": "1701年 - 1707年",
+      "jidai": "徳川綱吉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "本多正永",
+      "zaishoku_kikan": "1704年 - 1711年",
+      "jidai": "徳川綱吉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "大久保忠増",
+      "zaishoku_kikan": "1705年 - 1713年",
+      "jidai": "徳川綱吉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "井上正岑",
+      "zaishoku_kikan": "1705年 - 1722年",
+      "jidai": "徳川綱吉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "間部詮房",
+      "zaishoku_kikan": "▲1709年 - 1716年",
+      "jidai": "徳川家宣・家継時代",
+      "biko": ""
+    },
+    {
+      "shimei": "阿部正喬",
+      "zaishoku_kikan": "1711年 - 1717年",
+      "jidai": "徳川家宣・家継時代",
+      "biko": ""
+    },
+    {
+      "shimei": "久世重之",
+      "zaishoku_kikan": "1713年 - 1720年",
+      "jidai": "徳川家宣・家継時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平信庸",
+      "zaishoku_kikan": "1714年 - 1716年",
+      "jidai": "徳川家宣・家継時代",
+      "biko": ""
+    },
+    {
+      "shimei": "戸田忠真",
+      "zaishoku_kikan": "1714年 - 1729年",
+      "jidai": "徳川家宣・家継時代",
+      "biko": ""
+    },
+    {
+      "shimei": "水野忠之",
+      "zaishoku_kikan": "1717年 - 1730年",
+      "jidai": "徳川吉宗時代",
+      "biko": ""
+    },
+    {
+      "shimei": "安藤信友",
+      "zaishoku_kikan": "1722年 - 1732年",
+      "jidai": "徳川吉宗時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平乗邑",
+      "zaishoku_kikan": "1723年 - 1745年",
+      "jidai": "徳川吉宗時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平忠周",
+      "zaishoku_kikan": "1724年 - 1728年",
+      "jidai": "徳川吉宗時代",
+      "biko": ""
+    },
+    {
+      "shimei": "大久保常春",
+      "zaishoku_kikan": "1728年",
+      "jidai": "徳川吉宗時代",
+      "biko": ""
+    },
+    {
+      "shimei": "酒井忠音",
+      "zaishoku_kikan": "1728年 - 1735年",
+      "jidai": "徳川吉宗時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平信祝",
+      "zaishoku_kikan": "1730年 - 1744年",
+      "jidai": "徳川吉宗時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平輝貞",
+      "zaishoku_kikan": "▲1730年 - 1745年",
+      "jidai": "徳川吉宗時代",
+      "biko": ""
+    },
+    {
+      "shimei": "黒田直邦",
+      "zaishoku_kikan": "1732年 - 1735年",
+      "jidai": "徳川吉宗時代",
+      "biko": ""
+    },
+    {
+      "shimei": "本多忠良",
+      "zaishoku_kikan": "1734年 - 1746年",
+      "jidai": "徳川吉宗時代",
+      "biko": ""
+    },
+    {
+      "shimei": "土岐頼稔",
+      "zaishoku_kikan": "1742年 - 1744年",
+      "jidai": "徳川吉宗時代",
+      "biko": ""
+    },
+    {
+      "shimei": "酒井忠恭",
+      "zaishoku_kikan": "1744年 - 1749年",
+      "jidai": "徳川吉宗時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平乗賢",
+      "zaishoku_kikan": "1745年 - 1746年",
+      "jidai": "徳川吉宗時代",
+      "biko": ""
+    },
+    {
+      "shimei": "堀田正亮",
+      "zaishoku_kikan": "1745年 - 1761年",
+      "jidai": "徳川吉宗時代",
+      "biko": ""
+    },
+    {
+      "shimei": "西尾忠尚",
+      "zaishoku_kikan": "1746年 - 1760年",
+      "jidai": "徳川家重時代",
+      "biko": ""
+    },
+    {
+      "shimei": "本多正珍",
+      "zaishoku_kikan": "1746年 - 1758年",
+      "jidai": "徳川家重時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平武元",
+      "zaishoku_kikan": "1746年 - 1779年",
+      "jidai": "徳川家重時代",
+      "biko": ""
+    },
+    {
+      "shimei": "酒井忠寄",
+      "zaishoku_kikan": "1749年 - 1764年",
+      "jidai": "徳川家重時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平輝高",
+      "zaishoku_kikan": "1758年 - 1781年",
+      "jidai": "徳川家重時代",
+      "biko": ""
+    },
+    {
+      "shimei": "井上正経",
+      "zaishoku_kikan": "1760年 - 1763年",
+      "jidai": "徳川家重時代",
+      "biko": ""
+    },
+    {
+      "shimei": "秋元凉朝",
+      "zaishoku_kikan": "1747年 - 1764年，1765年 - 1767年",
+      "jidai": "徳川家重時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平康福",
+      "zaishoku_kikan": "1762年 - 1788年",
+      "jidai": "徳川家治時代",
+      "biko": ""
+    },
+    {
+      "shimei": "阿部正右",
+      "zaishoku_kikan": "1764年 - 1769年",
+      "jidai": "徳川家治時代",
+      "biko": ""
+    },
+    {
+      "shimei": "板倉勝清",
+      "zaishoku_kikan": "1769年 - 1780年",
+      "jidai": "徳川家治時代",
+      "biko": ""
+    },
+    {
+      "shimei": "田沼意次",
+      "zaishoku_kikan": "△1769年 - 1786年",
+      "jidai": "徳川家治時代",
+      "biko": ""
+    },
+    {
+      "shimei": "阿部正允",
+      "zaishoku_kikan": "1780年",
+      "jidai": "徳川家治時代",
+      "biko": ""
+    },
+    {
+      "shimei": "久世広明",
+      "zaishoku_kikan": "1781年 - 1785年",
+      "jidai": "徳川家治時代",
+      "biko": ""
+    },
+    {
+      "shimei": "水野忠友",
+      "zaishoku_kikan": "△1781年 - 1788年，1796年 - 1802年",
+      "jidai": "徳川家治時代",
+      "biko": ""
+    },
+    {
+      "shimei": "鳥居忠意",
+      "zaishoku_kikan": "1781年 - 1793年",
+      "jidai": "徳川家治時代",
+      "biko": ""
+    },
+    {
+      "shimei": "牧野貞長",
+      "zaishoku_kikan": "1784年 - 1790年",
+      "jidai": "徳川家治時代",
+      "biko": ""
+    },
+    {
+      "shimei": "阿部正倫",
+      "zaishoku_kikan": "1787年 - 1788年",
+      "jidai": "徳川家斉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平定信",
+      "zaishoku_kikan": "1787年 - 1793年",
+      "jidai": "徳川家斉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平信明",
+      "zaishoku_kikan": "1788年 - 1803年，1806年 - 1817年",
+      "jidai": "徳川家斉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平乗完",
+      "zaishoku_kikan": "1789年 - 1793年",
+      "jidai": "徳川家斉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "本多忠籌",
+      "zaishoku_kikan": "▲1790年 - 1798年",
+      "jidai": "徳川家斉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "戸田氏教",
+      "zaishoku_kikan": "1790年 - 1806年",
+      "jidai": "徳川家斉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "太田資愛",
+      "zaishoku_kikan": "1793年 - 1801年",
+      "jidai": "徳川家斉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "安藤信成",
+      "zaishoku_kikan": "1793年 - 1810年",
+      "jidai": "徳川家斉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "牧野忠精",
+      "zaishoku_kikan": "1801年 - 1816年，1828年 - 1831年",
+      "jidai": "徳川家斉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "土井利厚",
+      "zaishoku_kikan": "1802年 - 1822年",
+      "jidai": "徳川家斉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "青山忠裕",
+      "zaishoku_kikan": "1804年 - 1835年",
+      "jidai": "徳川家斉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平乗保",
+      "zaishoku_kikan": "1810年 - 1826年",
+      "jidai": "徳川家斉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "酒井忠進",
+      "zaishoku_kikan": "1815年 - 1828年",
+      "jidai": "徳川家斉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "水野忠成",
+      "zaishoku_kikan": "△1817年 - 1834年",
+      "jidai": "徳川家斉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "阿部正精",
+      "zaishoku_kikan": "1817年 - 1823年",
+      "jidai": "徳川家斉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "大久保忠真",
+      "zaishoku_kikan": "1818年 - 1837年",
+      "jidai": "徳川家斉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平乗寛",
+      "zaishoku_kikan": "1822年 - 1839年",
+      "jidai": "徳川家斉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平輝延",
+      "zaishoku_kikan": "1823年 - 1825年",
+      "jidai": "徳川家斉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "植村家長",
+      "zaishoku_kikan": "△1825年 - 1828年",
+      "jidai": "徳川家斉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平康任",
+      "zaishoku_kikan": "1826年 - 1835年",
+      "jidai": "徳川家斉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "水野忠邦",
+      "zaishoku_kikan": "1828年 - 1843年，1844年 - 1845年",
+      "jidai": "徳川家斉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平宗発",
+      "zaishoku_kikan": "1831年 - 1840年",
+      "jidai": "徳川家斉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "太田資始",
+      "zaishoku_kikan": "1834年 - 1841年，1863年",
+      "jidai": "徳川家斉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "脇坂安董",
+      "zaishoku_kikan": "△1836年 - 1841年",
+      "jidai": "徳川家斉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平信順",
+      "zaishoku_kikan": "1837年",
+      "jidai": "徳川家斉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "堀田正睦",
+      "zaishoku_kikan": "1837年 - 1843年，1855年 - 1858年",
+      "jidai": "徳川家斉時代",
+      "biko": ""
+    },
+    {
+      "shimei": "土井利位",
+      "zaishoku_kikan": "1838年 - 1844年",
+      "jidai": "徳川家慶・家定時代",
+      "biko": ""
+    },
+    {
+      "shimei": "井上正春",
+      "zaishoku_kikan": "1840年 - 1843年",
+      "jidai": "徳川家慶・家定時代",
+      "biko": ""
+    },
+    {
+      "shimei": "間部詮勝",
+      "zaishoku_kikan": "1840年 - 1843年，1858年 - 1859年",
+      "jidai": "徳川家慶・家定時代",
+      "biko": ""
+    },
+    {
+      "shimei": "真田幸貫",
+      "zaishoku_kikan": "1841年 - 1844年",
+      "jidai": "徳川家慶・家定時代",
+      "biko": ""
+    },
+    {
+      "shimei": "堀親寚",
+      "zaishoku_kikan": "▲1843年 - 1845年",
+      "jidai": "徳川家慶・家定時代",
+      "biko": ""
+    },
+    {
+      "shimei": "戸田忠温",
+      "zaishoku_kikan": "1843年 - 1851年",
+      "jidai": "徳川家慶・家定時代",
+      "biko": ""
+    },
+    {
+      "shimei": "牧野忠雅",
+      "zaishoku_kikan": "1843年 - 1857年",
+      "jidai": "徳川家慶・家定時代",
+      "biko": ""
+    },
+    {
+      "shimei": "阿部正弘",
+      "zaishoku_kikan": "1843年 - 1857年",
+      "jidai": "徳川家慶・家定時代",
+      "biko": ""
+    },
+    {
+      "shimei": "青山忠良",
+      "zaishoku_kikan": "1844年 - 1848年",
+      "jidai": "徳川家慶・家定時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平乗全",
+      "zaishoku_kikan": "1845年 - 1855年，1858年 - 1860年",
+      "jidai": "徳川家慶・家定時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平忠優",
+      "zaishoku_kikan": "1848年 - 1855年，1857年 - 1858年",
+      "jidai": "徳川家慶・家定時代",
+      "biko": ""
+    },
+    {
+      "shimei": "久世広周",
+      "zaishoku_kikan": "1851年 - 1858年",
+      "jidai": "徳川家慶・家定時代",
+      "biko": ""
+    },
+    {
+      "shimei": "内藤信親",
+      "zaishoku_kikan": "1851年 - 1862年",
+      "jidai": "徳川家慶・家定時代",
+      "biko": ""
+    },
+    {
+      "shimei": "脇坂安宅",
+      "zaishoku_kikan": "1857年 - 1860年",
+      "jidai": "徳川家慶・家定時代",
+      "biko": ""
+    },
+    {
+      "shimei": "安藤信正",
+      "zaishoku_kikan": "1860年 - 1862年",
+      "jidai": "徳川家茂・慶喜時代",
+      "biko": ""
+    },
+    {
+      "shimei": "本多忠民",
+      "zaishoku_kikan": "1860年 - 1862年",
+      "jidai": "徳川家茂・慶喜時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平信義",
+      "zaishoku_kikan": "1860年 - 1863年",
+      "jidai": "徳川家茂・慶喜時代",
+      "biko": ""
+    },
+    {
+      "shimei": "小笠原長行",
+      "zaishoku_kikan": "▲1862年 - 1863年，△1865年，1866年 - 1868年",
+      "jidai": "徳川家茂・慶喜時代",
+      "biko": ""
+    },
+    {
+      "shimei": "板倉勝静",
+      "zaishoku_kikan": "1862年 - 1864年，1865年 - 1868年",
+      "jidai": "徳川家茂・慶喜時代",
+      "biko": ""
+    },
+    {
+      "shimei": "井上正直",
+      "zaishoku_kikan": "1862年 - 1864年，1865年 - 1867年",
+      "jidai": "徳川家茂・慶喜時代",
+      "biko": ""
+    },
+    {
+      "shimei": "水野忠精",
+      "zaishoku_kikan": "1862年 - 1866年",
+      "jidai": "徳川家茂・慶喜時代",
+      "biko": ""
+    },
+    {
+      "shimei": "酒井忠績",
+      "zaishoku_kikan": "1863年 - 1864年",
+      "jidai": "徳川家茂・慶喜時代",
+      "biko": ""
+    },
+    {
+      "shimei": "有馬道純",
+      "zaishoku_kikan": "1863年 - 1864年",
+      "jidai": "徳川家茂・慶喜時代",
+      "biko": ""
+    },
+    {
+      "shimei": "牧野忠恭",
+      "zaishoku_kikan": "1863年 - 1865年",
+      "jidai": "徳川家茂・慶喜時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松前崇広",
+      "zaishoku_kikan": "△1864年 - 1865年",
+      "jidai": "徳川家茂・慶喜時代",
+      "biko": ""
+    },
+    {
+      "shimei": "阿部正外",
+      "zaishoku_kikan": "1864年 - 1865年",
+      "jidai": "徳川家茂・慶喜時代",
+      "biko": ""
+    },
+    {
+      "shimei": "諏訪忠誠",
+      "zaishoku_kikan": "△1864年 - 1865年",
+      "jidai": "徳川家茂・慶喜時代",
+      "biko": ""
+    },
+    {
+      "shimei": "稲葉正邦",
+      "zaishoku_kikan": "1864年 - 1865年，1866年 - 1868年",
+      "jidai": "徳川家茂・慶喜時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平宗秀",
+      "zaishoku_kikan": "1864年 - 1866年",
+      "jidai": "徳川家茂・慶喜時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平康英",
+      "zaishoku_kikan": "1865年 - 1868年",
+      "jidai": "徳川家茂・慶喜時代",
+      "biko": ""
+    },
+    {
+      "shimei": "水野忠誠",
+      "zaishoku_kikan": "1866年",
+      "jidai": "徳川家茂・慶喜時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平乗謨",
+      "zaishoku_kikan": "▲1866年 - 1868年",
+      "jidai": "徳川家茂・慶喜時代",
+      "biko": ""
+    },
+    {
+      "shimei": "稲葉正巳",
+      "zaishoku_kikan": "▲1866年 - 1868年",
+      "jidai": "徳川家茂・慶喜時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平定昭",
+      "zaishoku_kikan": "1867年",
+      "jidai": "徳川家茂・慶喜時代",
+      "biko": ""
+    },
+    {
+      "shimei": "松平正質",
+      "zaishoku_kikan": "▲1867年 - 1868年",
+      "jidai": "徳川家茂・慶喜時代",
+      "biko": ""
+    },
+    {
+      "shimei": "酒井忠惇",
+      "zaishoku_kikan": "1867年 - 1868年",
+      "jidai": "徳川家茂・慶喜時代",
+      "biko": ""
+    },
+    {
+      "shimei": "立花種恭",
+      "zaishoku_kikan": "▲1868年",
+      "jidai": "徳川家茂・慶喜時代",
+      "biko": ""
+    }
+  ],
+  "meta": {
+    "title": "江戸幕府 歴代老中一覧 - Free Download",
+    "description": "江戸幕府の老中を将軍の代ごとに在職期間とともにまとめた一覧。 Contains 147 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "江戸幕府 歴代老中一覧 | ListBase",
+    "seo_description": "Download 江戸幕府 歴代老中一覧 — 147 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 147 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/老中"
+    ]
+  }
+}
