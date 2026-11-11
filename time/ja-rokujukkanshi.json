@@ -1,0 +1,666 @@
+{
+  "id": "ja-rokujukkanshi",
+  "name": "六十干支（十干十二支）一覧",
+  "title": "六十干支（十干十二支）一覧",
+  "description": "六十干支（えと）それぞれの読み、該当する西暦年（1804年〜2043年）、五行、選日、その干支に関する歴史上の事項の一覧。",
+  "category": "time",
+  "source": "https://ja.wikipedia.org/wiki/干支",
+  "source_url": "https://ja.wikipedia.org/wiki/干支",
+  "updated": "2026-11",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "seireki_60_de_watta_amari",
+      "label": "Seireki 60 De Watta Amari",
+      "type": "number"
+    },
+    {
+      "key": "kanshi",
+      "label": "Kanshi",
+      "type": "string"
+    },
+    {
+      "key": "yomi",
+      "label": "Yomi",
+      "type": "string"
+    },
+    {
+      "key": "seireki_nen",
+      "label": "Seireki Nen",
+      "type": "string"
+    },
+    {
+      "key": "gogyo_kan",
+      "label": "Gogyo Kan",
+      "type": "string"
+    },
+    {
+      "key": "gogyo_shi",
+      "label": "Gogyo Shi",
+      "type": "string"
+    },
+    {
+      "key": "sen_jitsu",
+      "label": "Sen Jitsu",
+      "type": "string"
+    },
+    {
+      "key": "kanren_jiko",
+      "label": "Kanren Jiko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "seireki_60_de_watta_amari": 0,
+      "kanshi": "庚申",
+      "yomi": "かのえさる・こうしん",
+      "seireki_nen": "1860年 – 1861年 1920年 1980年 2040年",
+      "gogyo_kan": "金",
+      "gogyo_shi": "金",
+      "sen_jitsu": "八専",
+      "kanren_jiko": "庚申信仰（ 庚申塔 ） 庚申換局 （ 1680年 、朝鮮）"
+    },
+    {
+      "seireki_60_de_watta_amari": 1,
+      "kanshi": "辛酉",
+      "yomi": "かのととり・しんゆう",
+      "seireki_nen": "1861年 – 1862年 1921年 1981年 2041年",
+      "gogyo_kan": "金",
+      "gogyo_shi": "金",
+      "sen_jitsu": "八専",
+      "kanren_jiko": "辛酉邪獄 （ 1801年 、朝鮮） 辛酉政変 （ 1861年 、中国） 辛酉革命 ・ 辛酉改元"
+    },
+    {
+      "seireki_60_de_watta_amari": 2,
+      "kanshi": "壬戌",
+      "yomi": "みずのえいぬ・じんじゅつ",
+      "seireki_nen": "1862年 – 1863年 1922年 1982年 2042年",
+      "gogyo_kan": "水",
+      "gogyo_shi": "土",
+      "sen_jitsu": "",
+      "kanren_jiko": "壬戌民乱 （ 1862年 、朝鮮）"
+    },
+    {
+      "seireki_60_de_watta_amari": 3,
+      "kanshi": "癸亥",
+      "yomi": "みずのとい・きがい",
+      "seireki_nen": "1863年 – 1864年 1923年 1983年 2043年",
+      "gogyo_kan": "水",
+      "gogyo_shi": "水",
+      "sen_jitsu": "八専",
+      "kanren_jiko": "癸亥約定（ 嘉吉条約 、 1443年 、朝鮮）"
+    },
+    {
+      "seireki_60_de_watta_amari": 4,
+      "kanshi": "甲子",
+      "yomi": "きのえね・かっし",
+      "seireki_nen": "1804年 – 1805年 1864年 – 1865年 1924年 1984年",
+      "gogyo_kan": "木",
+      "gogyo_shi": "水",
+      "sen_jitsu": "天赦日 （立冬後）",
+      "kanren_jiko": "甲子士禍 （ 1504年 、 朝鮮 ） 芭蕉 『 甲子吟行 』（ 1684年 ） 松浦静山 『 甲子夜話 』（ 1821年 、甲子の日に執筆開始） 伊東甲子太郎 上洛（ 1864年 ） 阪神甲子園球場 開園（ 1924年 ） 甲子信用組合 創業（1924年） 甲子革令 ・ 甲子改元 甲子正宗"
+    },
+    {
+      "seireki_60_de_watta_amari": 5,
+      "kanshi": "乙丑",
+      "yomi": "きのとうし・いっちゅう",
+      "seireki_nen": "1805年 – 1806年 1865年 – 1866年 1925年 1985年",
+      "gogyo_kan": "木",
+      "gogyo_shi": "土",
+      "sen_jitsu": "",
+      "kanren_jiko": ""
+    },
+    {
+      "seireki_60_de_watta_amari": 6,
+      "kanshi": "丙寅",
+      "yomi": "ひのえとら・へいいん",
+      "seireki_nen": "1806年 – 1807年 1866年 – 1867年 1926年 1986年",
+      "gogyo_kan": "火",
+      "gogyo_shi": "木",
+      "sen_jitsu": "",
+      "kanren_jiko": "丙寅の大火 （ 1806年 、日本） 丙寅教獄 ・ 丙寅洋擾 （ 1866年 、朝鮮）"
+    },
+    {
+      "seireki_60_de_watta_amari": 7,
+      "kanshi": "丁卯",
+      "yomi": "ひのとう・ていぼう",
+      "seireki_nen": "1807年 – 1808年 1867年 – 1868年 1927年 1987年",
+      "gogyo_kan": "火",
+      "gogyo_shi": "木",
+      "sen_jitsu": "",
+      "kanren_jiko": "丁卯胡乱 （ 1627年 、朝鮮）"
+    },
+    {
+      "seireki_60_de_watta_amari": 8,
+      "kanshi": "戊辰",
+      "yomi": "つちのえたつ・ぼしん",
+      "seireki_nen": "1808年 – 1809年 1868年 – 1869年 1928年 1988年",
+      "gogyo_kan": "土",
+      "gogyo_shi": "土",
+      "sen_jitsu": "",
+      "kanren_jiko": "戊辰戦争 （ 1868年 、 日本 ）"
+    },
+    {
+      "seireki_60_de_watta_amari": 9,
+      "kanshi": "己巳",
+      "yomi": "つちのとみ・きし",
+      "seireki_nen": "1809年 – 1810年 1869年 – 1870年 1929年 1989年",
+      "gogyo_kan": "土",
+      "gogyo_shi": "火",
+      "sen_jitsu": "",
+      "kanren_jiko": "己巳換局 （ 1689年 、朝鮮）"
+    },
+    {
+      "seireki_60_de_watta_amari": 10,
+      "kanshi": "庚午",
+      "yomi": "かのえうま・こうご",
+      "seireki_nen": "1810年 – 1811年 1870年 – 1871年 1930年 1990年",
+      "gogyo_kan": "金",
+      "gogyo_shi": "火",
+      "sen_jitsu": "大土",
+      "kanren_jiko": "庚午年籍 （ 670年 、日本） 庚午事変 （ 1870年 、日本）"
+    },
+    {
+      "seireki_60_de_watta_amari": 11,
+      "kanshi": "辛未",
+      "yomi": "かのとひつじ・しんび",
+      "seireki_nen": "1811年 – 1812年 1871年 – 1872年 1931年 1991年",
+      "gogyo_kan": "金",
+      "gogyo_shi": "土",
+      "sen_jitsu": "大土",
+      "kanren_jiko": "辛未戸籍 （ 1871年 、日本） 辛未洋擾 （1871年、朝鮮）"
+    },
+    {
+      "seireki_60_de_watta_amari": 12,
+      "kanshi": "壬申",
+      "yomi": "みずのえさる・じんしん",
+      "seireki_nen": "1812年 – 1813年 1872年 1932年 1992年",
+      "gogyo_kan": "水",
+      "gogyo_shi": "金",
+      "sen_jitsu": "大土",
+      "kanren_jiko": "壬申の乱 （ 672年 、日本） 壬申戸籍 （ 1872年 、日本）"
+    },
+    {
+      "seireki_60_de_watta_amari": 13,
+      "kanshi": "癸酉",
+      "yomi": "みずのととり・きゆう",
+      "seireki_nen": "1813年 – 1814年 1873年 1933年 1993年",
+      "gogyo_kan": "水",
+      "gogyo_shi": "金",
+      "sen_jitsu": "大土",
+      "kanren_jiko": "癸酉靖難 （ 1453年 、朝鮮）"
+    },
+    {
+      "seireki_60_de_watta_amari": 14,
+      "kanshi": "甲戌",
+      "yomi": "きのえいぬ・こうじゅつ",
+      "seireki_nen": "1814年 – 1815年 1874年 1934年 1994年",
+      "gogyo_kan": "木",
+      "gogyo_shi": "土",
+      "sen_jitsu": "大土",
+      "kanren_jiko": "甲戌の獄 ・ 甲戌換局 （ 1694年 、朝鮮）"
+    },
+    {
+      "seireki_60_de_watta_amari": 15,
+      "kanshi": "乙亥",
+      "yomi": "きのとい・いつがい",
+      "seireki_nen": "1815年 – 1816年 1875年 1935年 1995年",
+      "gogyo_kan": "木",
+      "gogyo_shi": "水",
+      "sen_jitsu": "大土",
+      "kanren_jiko": "乙亥党論 （ 1575年 、朝鮮）"
+    },
+    {
+      "seireki_60_de_watta_amari": 16,
+      "kanshi": "丙子",
+      "yomi": "ひのえね・へいし",
+      "seireki_nen": "1816年 – 1817年 1876年 1936年 1996年",
+      "gogyo_kan": "火",
+      "gogyo_shi": "水",
+      "sen_jitsu": "大土",
+      "kanren_jiko": "丙子冤獄 （ 1456年 、朝鮮） 丙子胡乱 （ 1636年 、朝鮮） 丙子修交条約 （日朝修好条規・江華島条約、 1876年 、朝鮮）"
+    },
+    {
+      "seireki_60_de_watta_amari": 17,
+      "kanshi": "丁丑",
+      "yomi": "ひのとうし・ていちゅう",
+      "seireki_nen": "1817年 – 1818年 1877年 1937年 1997年",
+      "gogyo_kan": "火",
+      "gogyo_shi": "土",
+      "sen_jitsu": "",
+      "kanren_jiko": "丁丑公論 （ 1877年 、日本）"
+    },
+    {
+      "seireki_60_de_watta_amari": 18,
+      "kanshi": "戊寅",
+      "yomi": "つちのえとら・ぼいん",
+      "seireki_nen": "1818年 – 1819年 1878年 1938年 1998年",
+      "gogyo_kan": "土",
+      "gogyo_shi": "木",
+      "sen_jitsu": "小土 天赦日（ 立春 後）",
+      "kanren_jiko": "戊寅元暦 （ 中国 ）"
+    },
+    {
+      "seireki_60_de_watta_amari": 19,
+      "kanshi": "己卯",
+      "yomi": "つちのとう・きぼう",
+      "seireki_nen": "1819年 – 1820年 1879年 1939年 1999年",
+      "gogyo_kan": "土",
+      "gogyo_shi": "木",
+      "sen_jitsu": "小土",
+      "kanren_jiko": "己卯士禍 （ 1519年 、朝鮮）"
+    },
+    {
+      "seireki_60_de_watta_amari": 20,
+      "kanshi": "庚辰",
+      "yomi": "かのえたつ・こうしん",
+      "seireki_nen": "1820年 – 1821年 1880年 1940年 2000年",
+      "gogyo_kan": "金",
+      "gogyo_shi": "土",
+      "sen_jitsu": "小土",
+      "kanren_jiko": ""
+    },
+    {
+      "seireki_60_de_watta_amari": 21,
+      "kanshi": "辛巳",
+      "yomi": "かのとみ・しんし",
+      "seireki_nen": "1821年 – 1822年 1881年 1941年 2001年",
+      "gogyo_kan": "金",
+      "gogyo_shi": "火",
+      "sen_jitsu": "小土",
+      "kanren_jiko": ""
+    },
+    {
+      "seireki_60_de_watta_amari": 22,
+      "kanshi": "壬午",
+      "yomi": "みずのえうま・じんご",
+      "seireki_nen": "1822年 – 1823年 1882年 1942年 2002年",
+      "gogyo_kan": "水",
+      "gogyo_shi": "火",
+      "sen_jitsu": "小土",
+      "kanren_jiko": "壬午事変 （ 1882年 、朝鮮）"
+    },
+    {
+      "seireki_60_de_watta_amari": 23,
+      "kanshi": "癸未",
+      "yomi": "みずのとひつじ・きび",
+      "seireki_nen": "1823年 – 1824年 1883年 1943年 2003年",
+      "gogyo_kan": "水",
+      "gogyo_shi": "土",
+      "sen_jitsu": "小土",
+      "kanren_jiko": ""
+    },
+    {
+      "seireki_60_de_watta_amari": 24,
+      "kanshi": "甲申",
+      "yomi": "きのえさる・こうしん",
+      "seireki_nen": "1824年 – 1825年 1884年 1944年 2004年",
+      "gogyo_kan": "木",
+      "gogyo_shi": "金",
+      "sen_jitsu": "小土・ 十方暮",
+      "kanren_jiko": "甲申政変 （ 1884年 、朝鮮）"
+    },
+    {
+      "seireki_60_de_watta_amari": 25,
+      "kanshi": "乙酉",
+      "yomi": "きのととり・いつゆう",
+      "seireki_nen": "1825年 – 1826年 1885年 1945年 2005年",
+      "gogyo_kan": "木",
+      "gogyo_shi": "金",
+      "sen_jitsu": "十方暮",
+      "kanren_jiko": ""
+    },
+    {
+      "seireki_60_de_watta_amari": 26,
+      "kanshi": "丙戌",
+      "yomi": "ひのえいぬ・へいじゅつ",
+      "seireki_nen": "1826年 – 1827年 1886年 1946年 2006年",
+      "gogyo_kan": "火",
+      "gogyo_shi": "土",
+      "sen_jitsu": "十方暮",
+      "kanren_jiko": ""
+    },
+    {
+      "seireki_60_de_watta_amari": 27,
+      "kanshi": "丁亥",
+      "yomi": "ひのとい・ていがい",
+      "seireki_nen": "1827年 – 1828年 1887年 1947年 2007年",
+      "gogyo_kan": "火",
+      "gogyo_shi": "水",
+      "sen_jitsu": "十方暮",
+      "kanren_jiko": ""
+    },
+    {
+      "seireki_60_de_watta_amari": 28,
+      "kanshi": "戊子",
+      "yomi": "つちのえね・ぼし",
+      "seireki_nen": "1828年 – 1829年 1888年 1948年 2008年",
+      "gogyo_kan": "土",
+      "gogyo_shi": "水",
+      "sen_jitsu": "十方暮",
+      "kanren_jiko": ""
+    },
+    {
+      "seireki_60_de_watta_amari": 29,
+      "kanshi": "己丑",
+      "yomi": "つちのとうし・きちゅう",
+      "seireki_nen": "1829年 – 1830年 1889年 1949年 2009年",
+      "gogyo_kan": "土",
+      "gogyo_shi": "土",
+      "sen_jitsu": "十方暮",
+      "kanren_jiko": ""
+    },
+    {
+      "seireki_60_de_watta_amari": 30,
+      "kanshi": "庚寅",
+      "yomi": "かのえとら・こういん",
+      "seireki_nen": "1830年 – 1831年 1890年 1950年 2010年",
+      "gogyo_kan": "金",
+      "gogyo_shi": "木",
+      "sen_jitsu": "十方暮",
+      "kanren_jiko": "庚寅年籍 （ 690年 、日本) 庚寅新誌社 創業（ 1890年 、4年後に日本初の 時刻表 創刊）"
+    },
+    {
+      "seireki_60_de_watta_amari": 31,
+      "kanshi": "辛卯",
+      "yomi": "かのとう・しんぼう",
+      "seireki_nen": "1831年 – 1832年 1891年 1951年 2011年",
+      "gogyo_kan": "金",
+      "gogyo_shi": "木",
+      "sen_jitsu": "十方暮",
+      "kanren_jiko": ""
+    },
+    {
+      "seireki_60_de_watta_amari": 32,
+      "kanshi": "壬辰",
+      "yomi": "みずのえたつ・じんしん",
+      "seireki_nen": "1832年 – 1833年 1892年 1952年 2012年",
+      "gogyo_kan": "水",
+      "gogyo_shi": "土",
+      "sen_jitsu": "十方暮",
+      "kanren_jiko": "壬辰倭乱 （ 文禄の役 、 1592年 、朝鮮）"
+    },
+    {
+      "seireki_60_de_watta_amari": 33,
+      "kanshi": "癸巳",
+      "yomi": "みずのとみ・きし",
+      "seireki_nen": "1833年 – 1834年 1893年 1953年 2013年",
+      "gogyo_kan": "水",
+      "gogyo_shi": "火",
+      "sen_jitsu": "十方暮 天一天上",
+      "kanren_jiko": ""
+    },
+    {
+      "seireki_60_de_watta_amari": 34,
+      "kanshi": "甲午",
+      "yomi": "きのえうま・こうご",
+      "seireki_nen": "1834年 – 1835年 1894年 1954年 2014年",
+      "gogyo_kan": "木",
+      "gogyo_shi": "火",
+      "sen_jitsu": "天一天上 天赦日（立夏後）",
+      "kanren_jiko": "甲午農民戦争 （ 1894年 、朝鮮） 甲午戦争 （ 日清戦争 1894年、中国）"
+    },
+    {
+      "seireki_60_de_watta_amari": 35,
+      "kanshi": "乙未",
+      "yomi": "きのとひつじ・いつび",
+      "seireki_nen": "1835年 – 1836年 1895年 1955年 2015年",
+      "gogyo_kan": "木",
+      "gogyo_shi": "土",
+      "sen_jitsu": "天一天上",
+      "kanren_jiko": "乙未戦争（ 1895年 、 台湾征服戦争 ） 乙未事変 （1895年、朝鮮）"
+    },
+    {
+      "seireki_60_de_watta_amari": 36,
+      "kanshi": "丙申",
+      "yomi": "ひのえさる・へいしん",
+      "seireki_nen": "1836年 – 1837年 1896年 1956年 2016年",
+      "gogyo_kan": "火",
+      "gogyo_shi": "金",
+      "sen_jitsu": "天一天上",
+      "kanren_jiko": ""
+    },
+    {
+      "seireki_60_de_watta_amari": 37,
+      "kanshi": "丁酉",
+      "yomi": "ひのととり・ていゆう",
+      "seireki_nen": "1837年 – 1838年 1897年 1957年 2017年",
+      "gogyo_kan": "火",
+      "gogyo_shi": "金",
+      "sen_jitsu": "天一天上",
+      "kanren_jiko": "丁酉再乱 （ 慶長の役 、 1597年 、朝鮮） 丁酉火事 （ 1657年 、日本） 丁酉文社 （ 1897年 、日本）"
+    },
+    {
+      "seireki_60_de_watta_amari": 38,
+      "kanshi": "戊戌",
+      "yomi": "つちのえいぬ・ぼじゅつ",
+      "seireki_nen": "1838年 – 1839年 1898年 1958年 2018年",
+      "gogyo_kan": "土",
+      "gogyo_shi": "土",
+      "sen_jitsu": "天一天上",
+      "kanren_jiko": "高野長英 『 戊戌夢物語 』（ 1838年 ） 戊戌変法 ・ 戊戌政変 （ 1898年 、中国）"
+    },
+    {
+      "seireki_60_de_watta_amari": 39,
+      "kanshi": "己亥",
+      "yomi": "つちのとい・きがい",
+      "seireki_nen": "1839年 – 1840年 1899年 1959年 2019年",
+      "gogyo_kan": "土",
+      "gogyo_shi": "水",
+      "sen_jitsu": "天一天上",
+      "kanren_jiko": "己亥東征（ 応永の外寇 、 1419年 、朝鮮） 己亥礼訟 （ 1659年 、朝鮮） 己亥邪獄 （ 1839年 、朝鮮）"
+    },
+    {
+      "seireki_60_de_watta_amari": 40,
+      "kanshi": "庚子",
+      "yomi": "かのえね・こうし",
+      "seireki_nen": "1840年 – 1841年 1900年 1960年 2020年",
+      "gogyo_kan": "金",
+      "gogyo_shi": "水",
+      "sen_jitsu": "天一天上",
+      "kanren_jiko": "庚子事変（北清事変） （ 1900年 、中国） 庚子賠款 （1900年、中国）"
+    },
+    {
+      "seireki_60_de_watta_amari": 41,
+      "kanshi": "辛丑",
+      "yomi": "かのとうし・しんちゅう",
+      "seireki_nen": "1841年 – 1842年 1901年 1961年 2021年",
+      "gogyo_kan": "金",
+      "gogyo_shi": "土",
+      "sen_jitsu": "天一天上",
+      "kanren_jiko": "辛丑条約（北京議定書） （ 1901年 、中国）"
+    },
+    {
+      "seireki_60_de_watta_amari": 42,
+      "kanshi": "壬寅",
+      "yomi": "みずのえとら・じんいん",
+      "seireki_nen": "1842年 – 1843年 1902年 1962年 2022年",
+      "gogyo_kan": "水",
+      "gogyo_shi": "木",
+      "sen_jitsu": "天一天上",
+      "kanren_jiko": ""
+    },
+    {
+      "seireki_60_de_watta_amari": 43,
+      "kanshi": "癸卯",
+      "yomi": "みずのとう・きぼう",
+      "seireki_nen": "1843年 – 1844年 1903年 1963年 2023年",
+      "gogyo_kan": "水",
+      "gogyo_shi": "木",
+      "sen_jitsu": "天一天上",
+      "kanren_jiko": "癸卯園遊会 （ 1903年 、日本）"
+    },
+    {
+      "seireki_60_de_watta_amari": 44,
+      "kanshi": "甲辰",
+      "yomi": "きのえたつ・こうしん",
+      "seireki_nen": "1844年 – 1845年 1904年 1964年 2024年",
+      "gogyo_kan": "木",
+      "gogyo_shi": "土",
+      "sen_jitsu": "天一天上",
+      "kanren_jiko": ""
+    },
+    {
+      "seireki_60_de_watta_amari": 45,
+      "kanshi": "乙巳",
+      "yomi": "きのとみ・いっし",
+      "seireki_nen": "1845年 – 1846年 1905年 1965年 2025年",
+      "gogyo_kan": "木",
+      "gogyo_shi": "火",
+      "sen_jitsu": "天一天上",
+      "kanren_jiko": "乙巳の変 （ 645年 、日本） 乙巳士禍 （ 1545年 、朝鮮） 乙巳保護条約 （ 1905年 、日本・ 大韓帝国 ）"
+    },
+    {
+      "seireki_60_de_watta_amari": 46,
+      "kanshi": "丙午",
+      "yomi": "ひのえうま・へいご",
+      "seireki_nen": "1846年 – 1847年 1906年 1966年 2026年",
+      "gogyo_kan": "火",
+      "gogyo_shi": "火",
+      "sen_jitsu": "天一天上",
+      "kanren_jiko": "生まれ年にかかる俗信（ ひのえうまの迷信 ）"
+    },
+    {
+      "seireki_60_de_watta_amari": 47,
+      "kanshi": "丁未",
+      "yomi": "ひのとひつじ・ていび",
+      "seireki_nen": "1847年 – 1848年 1907年 1967年 2027年",
+      "gogyo_kan": "火",
+      "gogyo_shi": "土",
+      "sen_jitsu": "天一天上",
+      "kanren_jiko": "丁未換局 （ 1727年 、朝鮮） 丁未印社 （ 1907年 、日本）"
+    },
+    {
+      "seireki_60_de_watta_amari": 48,
+      "kanshi": "戊申",
+      "yomi": "つちのえさる・ぼしん",
+      "seireki_nen": "1848年 – 1849年 1908年 1968年 2028年",
+      "gogyo_kan": "土",
+      "gogyo_shi": "金",
+      "sen_jitsu": "天一天上 天赦日（立秋後）",
+      "kanren_jiko": "戊申の乱 （ 1728年 、朝鮮） 戊申詔書 （ 1908年 、日本） 事件節戊申（ テト攻勢 、1968年、ベトナム）"
+    },
+    {
+      "seireki_60_de_watta_amari": 49,
+      "kanshi": "己酉",
+      "yomi": "つちのととり・きゆう",
+      "seireki_nen": "1849年 – 1850年 1909年 1969年 2029年",
+      "gogyo_kan": "土",
+      "gogyo_shi": "金",
+      "sen_jitsu": "",
+      "kanren_jiko": "己酉約条 （慶長条約、 1609年 、朝鮮）"
+    },
+    {
+      "seireki_60_de_watta_amari": 50,
+      "kanshi": "庚戌",
+      "yomi": "かのえいぬ・こうじゅつ",
+      "seireki_nen": "1850年 – 1851年 1910年 1970年 2030年",
+      "gogyo_kan": "金",
+      "gogyo_shi": "土",
+      "sen_jitsu": "",
+      "kanren_jiko": "庚戌の変 （ 1550年 、中国）"
+    },
+    {
+      "seireki_60_de_watta_amari": 51,
+      "kanshi": "辛亥",
+      "yomi": "かのとい・しんがい",
+      "seireki_nen": "1851年 – 1852年 1911年 1971年 2031年",
+      "gogyo_kan": "金",
+      "gogyo_shi": "水",
+      "sen_jitsu": "",
+      "kanren_jiko": "辛亥邪獄 （ 1791年 、朝鮮） 辛亥革命 （ 1911年 、中国）"
+    },
+    {
+      "seireki_60_de_watta_amari": 52,
+      "kanshi": "壬子",
+      "yomi": "みずのえね・じんし",
+      "seireki_nen": "1852年 – 1853年 1912年 1972年 2032年",
+      "gogyo_kan": "水",
+      "gogyo_shi": "水",
+      "sen_jitsu": "八専",
+      "kanren_jiko": ""
+    },
+    {
+      "seireki_60_de_watta_amari": 53,
+      "kanshi": "癸丑",
+      "yomi": "みずのとうし・きちゅう",
+      "seireki_nen": "1853年 – 1854年 1913年 1973年 2033年",
+      "gogyo_kan": "水",
+      "gogyo_shi": "土",
+      "sen_jitsu": "",
+      "kanren_jiko": ""
+    },
+    {
+      "seireki_60_de_watta_amari": 54,
+      "kanshi": "甲寅",
+      "yomi": "きのえとら・こういん",
+      "seireki_nen": "1854年 – 1855年 1914年 1974年 2034年",
+      "gogyo_kan": "木",
+      "gogyo_shi": "木",
+      "sen_jitsu": "八専",
+      "kanren_jiko": "甲寅礼訟 （ 1674年 、朝鮮）"
+    },
+    {
+      "seireki_60_de_watta_amari": 55,
+      "kanshi": "乙卯",
+      "yomi": "きのとう・いつぼう",
+      "seireki_nen": "1855年 – 1856年 1915年 1975年 2035年",
+      "gogyo_kan": "木",
+      "gogyo_shi": "木",
+      "sen_jitsu": "八専",
+      "kanren_jiko": ""
+    },
+    {
+      "seireki_60_de_watta_amari": 56,
+      "kanshi": "丙辰",
+      "yomi": "ひのえたつ・へいしん",
+      "seireki_nen": "1856年 – 1857年 1916年 1976年 2036年",
+      "gogyo_kan": "火",
+      "gogyo_shi": "土",
+      "sen_jitsu": "",
+      "kanren_jiko": ""
+    },
+    {
+      "seireki_60_de_watta_amari": 57,
+      "kanshi": "丁巳",
+      "yomi": "ひのとみ・ていし",
+      "seireki_nen": "1857年 – 1858年 1917年 1977年 2037年",
+      "gogyo_kan": "火",
+      "gogyo_shi": "火",
+      "sen_jitsu": "八専",
+      "kanren_jiko": ""
+    },
+    {
+      "seireki_60_de_watta_amari": 58,
+      "kanshi": "戊午",
+      "yomi": "つちのえうま・ぼご",
+      "seireki_nen": "1858年 – 1859年 1918年 1978年 2038年",
+      "gogyo_kan": "土",
+      "gogyo_shi": "火",
+      "sen_jitsu": "",
+      "kanren_jiko": "戊午士禍 （ 1498年 、朝鮮） 戊午の密勅 （ 1858年 、日本）"
+    },
+    {
+      "seireki_60_de_watta_amari": 59,
+      "kanshi": "己未",
+      "yomi": "つちのとひつじ・きび",
+      "seireki_nen": "1859年 – 1860年 1919年 1979年 2039年",
+      "gogyo_kan": "土",
+      "gogyo_shi": "土",
+      "sen_jitsu": "八専",
+      "kanren_jiko": ""
+    }
+  ],
+  "meta": {
+    "title": "六十干支（十干十二支）一覧 - Free Download",
+    "description": "六十干支（えと）それぞれの読み、該当する西暦年（1804年〜2043年）、五行、選日、その干支に関する歴史上の事項の一覧。 Contains 60 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "六十干支（十干十二支）一覧 | ListBase",
+    "seo_description": "Download 六十干支（十干十二支）一覧 — 60 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 60 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/干支"
+    ]
+  }
+}

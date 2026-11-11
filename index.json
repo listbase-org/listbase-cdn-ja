@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-11T02:24:31.411Z",
-  "total_datasets": 596,
-  "total_records": 463338,
+  "generated": "2026-11-11T02:24:43.035Z",
+  "total_datasets": 597,
+  "total_records": 463398,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "tourism",
@@ -16140,6 +16140,35 @@
         "xlsx": {
           "name": "ja-nijushi-sekki_JA.xlsx",
           "size": 8567
+        }
+      }
+    },
+    {
+      "id": "ja-rokujukkanshi",
+      "name": "六十干支（十干十二支）一覧",
+      "category": "time",
+      "record_count": 60,
+      "columns": [
+        "seireki_60_de_watta_amari",
+        "kanshi",
+        "yomi",
+        "seireki_nen",
+        "gogyo_kan",
+        "gogyo_shi",
+        "sen_jitsu",
+        "kanren_jiko"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/干支",
+      "updated": "2026-11",
+      "size": 23219,
+      "files": {
+        "csv": {
+          "name": "ja-rokujukkanshi_JA.csv",
+          "size": 10391
+        },
+        "xlsx": {
+          "name": "ja-rokujukkanshi_JA.xlsx",
+          "size": 12089
         }
       }
     },
