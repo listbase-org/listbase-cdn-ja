@@ -1,0 +1,116 @@
+{
+  "id": "ja-rinsho-kenkyu-chukaku-byoin",
+  "name": "臨床研究中核病院一覧",
+  "title": "臨床研究中核病院一覧",
+  "description": "医療法に基づき厚生労働大臣が承認した臨床研究中核病院の名称、所在地、承認年月日の一覧。",
+  "category": "health",
+  "source": "https://ja.wikipedia.org/wiki/大学病院",
+  "source_url": "https://ja.wikipedia.org/wiki/大学病院",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "meisho",
+      "label": "Meisho",
+      "type": "string"
+    },
+    {
+      "key": "shozaichi",
+      "label": "Shozaichi",
+      "type": "string"
+    },
+    {
+      "key": "shonin_nengappi",
+      "label": "Shonin Nengappi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "meisho": "東北大学病院",
+      "shozaichi": "宮城県 仙台市",
+      "shonin_nengappi": "2015年 8月7日"
+    },
+    {
+      "meisho": "国立がん研究センター 東病院",
+      "shozaichi": "千葉県 柏市",
+      "shonin_nengappi": "2015年9月29日"
+    },
+    {
+      "meisho": "千葉大学医学部附属病院",
+      "shozaichi": "千葉県 千葉市",
+      "shonin_nengappi": "2017年3月23日"
+    },
+    {
+      "meisho": "国立がん研究センター中央病院",
+      "shozaichi": "東京都 中央区",
+      "shonin_nengappi": "2015年8月7日"
+    },
+    {
+      "meisho": "慶應義塾大学病院",
+      "shozaichi": "東京都 新宿区",
+      "shonin_nengappi": "2016年3月25日"
+    },
+    {
+      "meisho": "東京大学医学部附属病院",
+      "shozaichi": "東京都 文京区",
+      "shonin_nengappi": "2016年3月25日"
+    },
+    {
+      "meisho": "順天堂大学医学部附属順天堂医院",
+      "shozaichi": "東京都 文京区",
+      "shonin_nengappi": "2020年3月24日"
+    },
+    {
+      "meisho": "名古屋大学医学部附属病院",
+      "shozaichi": "愛知県 名古屋市",
+      "shonin_nengappi": "2016年 1月27日"
+    },
+    {
+      "meisho": "京都大学医学部附属病院",
+      "shozaichi": "京都府 京都市",
+      "shonin_nengappi": "2017年 3月23日"
+    },
+    {
+      "meisho": "大阪大学医学部附属病院",
+      "shozaichi": "大阪府 吹田市",
+      "shonin_nengappi": "2015年8月7日"
+    },
+    {
+      "meisho": "神戸大学医学部附属病院",
+      "shozaichi": "兵庫県 神戸市",
+      "shonin_nengappi": "2021年4月7日"
+    },
+    {
+      "meisho": "岡山大学病院",
+      "shozaichi": "岡山県 岡山市",
+      "shonin_nengappi": "2017年3月23日"
+    },
+    {
+      "meisho": "九州大学病院",
+      "shozaichi": "福岡県 福岡市",
+      "shonin_nengappi": "2016年1月27日"
+    },
+    {
+      "meisho": "北海道大学病院",
+      "shozaichi": "北海道 札幌市",
+      "shonin_nengappi": "2018年3月23日"
+    },
+    {
+      "meisho": "長崎大学病院",
+      "shozaichi": "長崎県 長崎市",
+      "shonin_nengappi": "2023年4月10日"
+    }
+  ],
+  "meta": {
+    "title": "臨床研究中核病院一覧 - Free Download",
+    "description": "医療法に基づき厚生労働大臣が承認した臨床研究中核病院の名称、所在地、承認年月日の一覧。 Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "臨床研究中核病院一覧 | ListBase",
+    "seo_description": "Download 臨床研究中核病院一覧 — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/大学病院"
+    ]
+  }
+}

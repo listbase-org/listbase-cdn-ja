@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-11T02:24:18.801Z",
-  "total_datasets": 595,
-  "total_records": 463323,
+  "generated": "2026-11-11T02:24:31.411Z",
+  "total_datasets": 596,
+  "total_records": 463338,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "history",
@@ -6741,6 +6741,30 @@
         "xlsx": {
           "name": "ja-ninshin-chuzetsu-suii_JA.xlsx",
           "size": 8823
+        }
+      }
+    },
+    {
+      "id": "ja-rinsho-kenkyu-chukaku-byoin",
+      "name": "臨床研究中核病院一覧",
+      "category": "health",
+      "record_count": 15,
+      "columns": [
+        "meisho",
+        "shozaichi",
+        "shonin_nengappi"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/大学病院",
+      "updated": "2026-11",
+      "size": 3692,
+      "files": {
+        "csv": {
+          "name": "ja-rinsho-kenkyu-chukaku-byoin_JA.csv",
+          "size": 1145
+        },
+        "xlsx": {
+          "name": "ja-rinsho-kenkyu-chukaku-byoin_JA.xlsx",
+          "size": 7397
         }
       }
     },
