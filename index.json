@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-11T02:24:05.600Z",
-  "total_datasets": 594,
-  "total_records": 463208,
+  "generated": "2026-11-11T02:24:18.801Z",
+  "total_datasets": 595,
+  "total_records": 463323,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "history",
@@ -6659,6 +6659,37 @@
         "xlsx": {
           "name": "ja-jisatsusha-su-suii_JA.xlsx",
           "size": 11637
+        }
+      }
+    },
+    {
+      "id": "ja-kansensho-ho-ruibetsu",
+      "name": "感染症法に基づく感染症の類型一覧",
+      "category": "health",
+      "record_count": 115,
+      "columns": [
+        "bunrui",
+        "konkyo_horei",
+        "meisho",
+        "kyu_densenbyo_bunrui",
+        "gakko_kansensho",
+        "ken_eki_kansensho",
+        "teiryu_kikan",
+        "nyukoku_kyohi",
+        "biko",
+        "hassei_doko_chosa"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/感染症の予防及び感染症の患者に対する医療に関する法律",
+      "updated": "2026-11",
+      "size": 51500,
+      "files": {
+        "csv": {
+          "name": "ja-kansensho-ho-ruibetsu_JA.csv",
+          "size": 20910
+        },
+        "xlsx": {
+          "name": "ja-kansensho-ho-ruibetsu_JA.xlsx",
+          "size": 13663
         }
       }
     },
