@@ -1,0 +1,171 @@
+{
+  "id": "ja-igakubu-nyugaku-teiin",
+  "name": "医学部入学定員の推移",
+  "title": "医学部入学定員の推移",
+  "description": "日本の大学医学部の入学定員（全国合計）の年度別推移。",
+  "category": "health",
+  "source": "https://ja.wikipedia.org/wiki/医学部",
+  "source_url": "https://ja.wikipedia.org/wiki/医学部",
+  "updated": "2026-11",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "nendo",
+      "label": "Nendo",
+      "type": "number"
+    },
+    {
+      "key": "wareki",
+      "label": "Wareki",
+      "type": "string"
+    },
+    {
+      "key": "teiin",
+      "label": "Teiin",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nendo": 1998,
+      "wareki": "平成10年",
+      "teiin": 7640
+    },
+    {
+      "nendo": 1999,
+      "wareki": "平成11年",
+      "teiin": 7630
+    },
+    {
+      "nendo": 2000,
+      "wareki": "平成12年",
+      "teiin": 7630
+    },
+    {
+      "nendo": 2001,
+      "wareki": "平成13年",
+      "teiin": 7630
+    },
+    {
+      "nendo": 2002,
+      "wareki": "平成14年",
+      "teiin": 7630
+    },
+    {
+      "nendo": 2003,
+      "wareki": "平成15年",
+      "teiin": 7625
+    },
+    {
+      "nendo": 2004,
+      "wareki": "平成16年",
+      "teiin": 7625
+    },
+    {
+      "nendo": 2005,
+      "wareki": "平成17年",
+      "teiin": 7625
+    },
+    {
+      "nendo": 2006,
+      "wareki": "平成18年",
+      "teiin": 7625
+    },
+    {
+      "nendo": 2007,
+      "wareki": "平成19年",
+      "teiin": 7625
+    },
+    {
+      "nendo": 2008,
+      "wareki": "平成20年",
+      "teiin": 7793
+    },
+    {
+      "nendo": 2009,
+      "wareki": "平成21年",
+      "teiin": 8486
+    },
+    {
+      "nendo": 2010,
+      "wareki": "平成22年",
+      "teiin": 8846
+    },
+    {
+      "nendo": 2011,
+      "wareki": "平成23年",
+      "teiin": 8923
+    },
+    {
+      "nendo": 2012,
+      "wareki": "平成24年",
+      "teiin": 8991
+    },
+    {
+      "nendo": 2013,
+      "wareki": "平成25年",
+      "teiin": 9041
+    },
+    {
+      "nendo": 2014,
+      "wareki": "平成26年",
+      "teiin": 9069
+    },
+    {
+      "nendo": 2015,
+      "wareki": "平成27年",
+      "teiin": 9134
+    },
+    {
+      "nendo": 2016,
+      "wareki": "平成28年",
+      "teiin": 9262
+    },
+    {
+      "nendo": 2017,
+      "wareki": "平成29年",
+      "teiin": 9420
+    },
+    {
+      "nendo": 2018,
+      "wareki": "平成30年",
+      "teiin": 9419
+    },
+    {
+      "nendo": 2019,
+      "wareki": "令和元年",
+      "teiin": 9420
+    },
+    {
+      "nendo": 2020,
+      "wareki": "令和2年",
+      "teiin": 9330
+    },
+    {
+      "nendo": 2021,
+      "wareki": "令和3年",
+      "teiin": 9357
+    },
+    {
+      "nendo": 2022,
+      "wareki": "令和4年",
+      "teiin": 9374
+    },
+    {
+      "nendo": 2023,
+      "wareki": "令和5年",
+      "teiin": 9384
+    }
+  ],
+  "meta": {
+    "title": "医学部入学定員の推移 - Free Download",
+    "description": "日本の大学医学部の入学定員（全国合計）の年度別推移。 Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "医学部入学定員の推移 | ListBase",
+    "seo_description": "Download 医学部入学定員の推移 — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/医学部"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-10T02:36:25.666Z",
-  "total_datasets": 593,
-  "total_records": 463182,
+  "generated": "2026-11-11T02:24:05.600Z",
+  "total_datasets": 594,
+  "total_records": 463208,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "history",
@@ -6582,6 +6582,30 @@
         "xlsx": {
           "name": "ja-gan-bui-betsu-juni_JA.xlsx",
           "size": 7012
+        }
+      }
+    },
+    {
+      "id": "ja-igakubu-nyugaku-teiin",
+      "name": "医学部入学定員の推移",
+      "category": "health",
+      "record_count": 26,
+      "columns": [
+        "nendo",
+        "wareki",
+        "teiin"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/医学部",
+      "updated": "2026-11",
+      "size": 3525,
+      "files": {
+        "csv": {
+          "name": "ja-igakubu-nyugaku-teiin_JA.csv",
+          "size": 752
+        },
+        "xlsx": {
+          "name": "ja-igakubu-nyugaku-teiin_JA.xlsx",
+          "size": 7293
         }
       }
     },
