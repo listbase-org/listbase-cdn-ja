@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-11T02:24:43.035Z",
-  "total_datasets": 597,
-  "total_records": 463398,
+  "generated": "2026-11-12T02:09:39.588Z",
+  "total_datasets": 598,
+  "total_records": 463522,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 7
+      "dataset_count": 8
     }
   ],
   "datasets": [
@@ -18835,6 +18835,33 @@
         "xlsx": {
           "name": "ja-higashi-ajia-shitsuryo-tani_JA.xlsx",
           "size": 7464
+        }
+      }
+    },
+    {
+      "id": "ja-kami-no-sunpo",
+      "name": "紙の寸法一覧（A判・B判・JIS・四六判など）",
+      "category": "units",
+      "record_count": 124,
+      "columns": [
+        "group",
+        "name",
+        "size_mm",
+        "size_in",
+        "ratio",
+        "usage"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/紙の寸法",
+      "updated": "2026-11",
+      "size": 22568,
+      "files": {
+        "csv": {
+          "name": "ja-kami-no-sunpo_JA.csv",
+          "size": 6976
+        },
+        "xlsx": {
+          "name": "ja-kami-no-sunpo_JA.xlsx",
+          "size": 11765
         }
       }
     },

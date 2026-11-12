@@ -1,0 +1,1048 @@
+{
+  "id": "ja-kami-no-sunpo",
+  "name": "紙の寸法一覧（A判・B判・JIS・四六判など）",
+  "title": "紙の寸法一覧（A判・B判・JIS・四六判など）",
+  "description": "A列・B列・C列・JIS B列・原紙寸法・日本独自の判型・写真・新聞など紙の規格寸法（mm・インチ）と縦横比、用途の例。",
+  "category": "units",
+  "source": "https://ja.wikipedia.org/wiki/紙の寸法",
+  "source_url": "https://ja.wikipedia.org/wiki/紙の寸法",
+  "updated": "2026-11",
+  "record_count": 124,
+  "columns": [
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "size_mm",
+      "label": "Size Mm",
+      "type": "string"
+    },
+    {
+      "key": "size_in",
+      "label": "Size In",
+      "type": "string"
+    },
+    {
+      "key": "ratio",
+      "label": "Ratio",
+      "type": "string"
+    },
+    {
+      "key": "usage",
+      "label": "Usage",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "group": "A列",
+      "name": "A0",
+      "size_mm": "841×1189",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "A列",
+      "name": "A1",
+      "size_mm": "594×841",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "A列",
+      "name": "A2",
+      "size_mm": "420×594",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "A列",
+      "name": "A3",
+      "size_mm": "297×420",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "A列",
+      "name": "A4",
+      "size_mm": "210×297",
+      "size_in": "",
+      "ratio": "",
+      "usage": "写真集 ・美術全集"
+    },
+    {
+      "group": "A列",
+      "name": "A5",
+      "size_mm": "148×210",
+      "size_in": "",
+      "ratio": "",
+      "usage": "学術書・ 教科書"
+    },
+    {
+      "group": "A列",
+      "name": "A6",
+      "size_mm": "105×148",
+      "size_in": "",
+      "ratio": "",
+      "usage": "文庫本"
+    },
+    {
+      "group": "A列",
+      "name": "A7",
+      "size_mm": "74×105",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "A列",
+      "name": "A8",
+      "size_mm": "52×74",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "A列",
+      "name": "A9",
+      "size_mm": "37×52",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "A列",
+      "name": "A10",
+      "size_mm": "26×37",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "延長サイズ",
+      "name": "A3×3",
+      "size_mm": "420×891",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "延長サイズ",
+      "name": "A3×4",
+      "size_mm": "420×1189",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "延長サイズ",
+      "name": "A4×3",
+      "size_mm": "297×630",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "延長サイズ",
+      "name": "A4×4",
+      "size_mm": "297×841",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "延長サイズ",
+      "name": "A4×5",
+      "size_mm": "297×1051",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "延長サイズ",
+      "name": "A0×2",
+      "size_mm": "1189×1682",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "延長サイズ",
+      "name": "A0×3",
+      "size_mm": "1189×2523",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "延長サイズ",
+      "name": "A1×3",
+      "size_mm": "841×1783",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "延長サイズ",
+      "name": "A1×4",
+      "size_mm": "841×2378",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "延長サイズ",
+      "name": "A2×3",
+      "size_mm": "594×1262",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "延長サイズ",
+      "name": "A2×4",
+      "size_mm": "594×1682",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "延長サイズ",
+      "name": "A2×5",
+      "size_mm": "594×2102",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "延長サイズ",
+      "name": "A3×5",
+      "size_mm": "420×1486",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "延長サイズ",
+      "name": "A3×6",
+      "size_mm": "420×1783",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "延長サイズ",
+      "name": "A3×7",
+      "size_mm": "420×2080",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "延長サイズ",
+      "name": "A4×6",
+      "size_mm": "297×1261",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "延長サイズ",
+      "name": "A4×7",
+      "size_mm": "297×1471",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "延長サイズ",
+      "name": "A4×8",
+      "size_mm": "297×1682",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "延長サイズ",
+      "name": "A4×9",
+      "size_mm": "297×1892",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "B列",
+      "name": "B0",
+      "size_mm": "1000×1414",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "B列",
+      "name": "B1",
+      "size_mm": "707×1000",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "B列",
+      "name": "B2",
+      "size_mm": "500×707",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "B列",
+      "name": "B3",
+      "size_mm": "353×500",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "B列",
+      "name": "B4",
+      "size_mm": "250×353",
+      "size_in": "",
+      "ratio": "",
+      "usage": "画集・ グラフ雑誌"
+    },
+    {
+      "group": "B列",
+      "name": "B5",
+      "size_mm": "176×250",
+      "size_in": "",
+      "ratio": "",
+      "usage": "週刊誌 ・一般雑誌"
+    },
+    {
+      "group": "B列",
+      "name": "B6",
+      "size_mm": "125×176",
+      "size_in": "",
+      "ratio": "",
+      "usage": "単行本"
+    },
+    {
+      "group": "B列",
+      "name": "B7",
+      "size_mm": "88×125",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "B列",
+      "name": "B8",
+      "size_mm": "63×88",
+      "size_in": "",
+      "ratio": "",
+      "usage": "カードゲーム ・ トレカ"
+    },
+    {
+      "group": "B列",
+      "name": "B9",
+      "size_mm": "44×63",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "B列",
+      "name": "B10",
+      "size_mm": "31×44",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "C列",
+      "name": "C0",
+      "size_mm": "917×1297",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "C列",
+      "name": "C1",
+      "size_mm": "648×917",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "C列",
+      "name": "C2",
+      "size_mm": "458×648",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "C列",
+      "name": "C3",
+      "size_mm": "324×458",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "C列",
+      "name": "C4",
+      "size_mm": "229×324",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "C列",
+      "name": "C5",
+      "size_mm": "162×229",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "C列",
+      "name": "C6",
+      "size_mm": "114×162",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "C列",
+      "name": "C7",
+      "size_mm": "81×114",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "C列",
+      "name": "C8",
+      "size_mm": "57×81",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "C列",
+      "name": "C9",
+      "size_mm": "40×57",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "C列",
+      "name": "C10",
+      "size_mm": "28×40",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "RA列およびSRA列",
+      "name": "RA0",
+      "size_mm": "860×1220",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "RA列およびSRA列",
+      "name": "RA1",
+      "size_mm": "610×860",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "RA列およびSRA列",
+      "name": "RA2",
+      "size_mm": "430×610",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "RA列およびSRA列",
+      "name": "RA3",
+      "size_mm": "305×430",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "RA列およびSRA列",
+      "name": "RA4",
+      "size_mm": "215×305",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "RA列およびSRA列",
+      "name": "SRA0",
+      "size_mm": "900×1280",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "RA列およびSRA列",
+      "name": "SRA1",
+      "size_mm": "640×900",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "RA列およびSRA列",
+      "name": "SRA2",
+      "size_mm": "450×640",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "RA列およびSRA列",
+      "name": "SRA3",
+      "size_mm": "320×450",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "RA列およびSRA列",
+      "name": "SRA4",
+      "size_mm": "225×320",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "DIN（ドイツ）",
+      "name": "4A0",
+      "size_mm": "1682×2378",
+      "size_in": "",
+      "ratio": "√ 2 （≒1.414）",
+      "usage": ""
+    },
+    {
+      "group": "DIN（ドイツ）",
+      "name": "2A0",
+      "size_mm": "1189×1682",
+      "size_in": "",
+      "ratio": "√ 2 （≒1.414）",
+      "usage": ""
+    },
+    {
+      "group": "JIS（日本）",
+      "name": "JIS B0",
+      "size_mm": "1030×1456",
+      "size_in": "",
+      "ratio": "1.414",
+      "usage": ""
+    },
+    {
+      "group": "JIS（日本）",
+      "name": "JIS B1",
+      "size_mm": "728×1030",
+      "size_in": "",
+      "ratio": "1.414",
+      "usage": ""
+    },
+    {
+      "group": "JIS（日本）",
+      "name": "JIS B2",
+      "size_mm": "515×728",
+      "size_in": "",
+      "ratio": "1.414",
+      "usage": ""
+    },
+    {
+      "group": "JIS（日本）",
+      "name": "JIS B3",
+      "size_mm": "364×515",
+      "size_in": "",
+      "ratio": "1.414",
+      "usage": ""
+    },
+    {
+      "group": "JIS（日本）",
+      "name": "JIS B4",
+      "size_mm": "257×364",
+      "size_in": "",
+      "ratio": "1.414",
+      "usage": ""
+    },
+    {
+      "group": "JIS（日本）",
+      "name": "JIS B5",
+      "size_mm": "182×257",
+      "size_in": "",
+      "ratio": "1.414",
+      "usage": ""
+    },
+    {
+      "group": "JIS（日本）",
+      "name": "JIS B6",
+      "size_mm": "128×182",
+      "size_in": "",
+      "ratio": "1.414",
+      "usage": ""
+    },
+    {
+      "group": "JIS（日本）",
+      "name": "JIS B7",
+      "size_mm": "91×128",
+      "size_in": "",
+      "ratio": "1.414",
+      "usage": ""
+    },
+    {
+      "group": "JIS（日本）",
+      "name": "JIS B8",
+      "size_mm": "64×91",
+      "size_in": "",
+      "ratio": "1.414",
+      "usage": ""
+    },
+    {
+      "group": "JIS（日本）",
+      "name": "JIS B9",
+      "size_mm": "45×64",
+      "size_in": "",
+      "ratio": "1.414",
+      "usage": ""
+    },
+    {
+      "group": "JIS（日本）",
+      "name": "JIS B10",
+      "size_mm": "32×45",
+      "size_in": "",
+      "ratio": "1.414",
+      "usage": ""
+    },
+    {
+      "group": "JIS（日本）",
+      "name": "A列本判",
+      "size_mm": "625×880",
+      "size_in": "",
+      "ratio": "1.408",
+      "usage": ""
+    },
+    {
+      "group": "JIS（日本）",
+      "name": "B列本判",
+      "size_mm": "765×1085",
+      "size_in": "",
+      "ratio": "1.418",
+      "usage": ""
+    },
+    {
+      "group": "JIS（日本）",
+      "name": "四六判",
+      "size_mm": "788×1091",
+      "size_in": "",
+      "ratio": "1.385",
+      "usage": ""
+    },
+    {
+      "group": "JIS（日本）",
+      "name": "菊判",
+      "size_mm": "636×939",
+      "size_in": "",
+      "ratio": "1.476",
+      "usage": ""
+    },
+    {
+      "group": "JIS（日本）",
+      "name": "ハトロン判",
+      "size_mm": "900×1200",
+      "size_in": "",
+      "ratio": "1.333",
+      "usage": ""
+    },
+    {
+      "group": "ANSI（アメリカ合衆国）",
+      "name": "ANSI E",
+      "size_mm": "864×1118",
+      "size_in": "34×44",
+      "ratio": "1.294",
+      "usage": ""
+    },
+    {
+      "group": "ANSI（アメリカ合衆国）",
+      "name": "ANSI D",
+      "size_mm": "559×864",
+      "size_in": "22×34",
+      "ratio": "1.546",
+      "usage": ""
+    },
+    {
+      "group": "ANSI（アメリカ合衆国）",
+      "name": "ANSI C",
+      "size_mm": "432×559",
+      "size_in": "17×22",
+      "ratio": "1.294",
+      "usage": ""
+    },
+    {
+      "group": "ANSI（アメリカ合衆国）",
+      "name": "ANSI B",
+      "size_mm": "279×432 432×279",
+      "size_in": "11×17 17×11",
+      "ratio": "1.546",
+      "usage": ""
+    },
+    {
+      "group": "ANSI（アメリカ合衆国）",
+      "name": "ANSI A",
+      "size_mm": "216×279",
+      "size_in": "8 1 / 2 ×11",
+      "ratio": "1.294",
+      "usage": ""
+    },
+    {
+      "group": "北アメリカ",
+      "name": "タブロイド レジャー / Tabloid Ledger（LDR）",
+      "size_mm": "279×432 432×279",
+      "size_in": "11×17 17×11",
+      "ratio": "1.546",
+      "usage": ""
+    },
+    {
+      "group": "北アメリカ",
+      "name": "リーガル / Legal（LGL）",
+      "size_mm": "216×356",
+      "size_in": "8 1 / 2 ×14",
+      "ratio": "1.647",
+      "usage": ""
+    },
+    {
+      "group": "北アメリカ",
+      "name": "フォリオ / Folio",
+      "size_mm": "210×330",
+      "size_in": "8.27×13",
+      "ratio": "1.625",
+      "usage": ""
+    },
+    {
+      "group": "北アメリカ",
+      "name": "クォート / Quarto",
+      "size_mm": "229×279",
+      "size_in": "9×11",
+      "ratio": "1.222",
+      "usage": ""
+    },
+    {
+      "group": "北アメリカ",
+      "name": "レター / Letter（LTR）",
+      "size_mm": "216×279",
+      "size_in": "8 1 / 2 ×11",
+      "ratio": "1.294",
+      "usage": ""
+    },
+    {
+      "group": "北アメリカ",
+      "name": "エグゼクティヴ / Executive（EXEC）",
+      "size_mm": "184×267",
+      "size_in": "7 1 / 4 ×10 1 / 2",
+      "ratio": "1.448",
+      "usage": ""
+    },
+    {
+      "group": "北アメリカ",
+      "name": "ステイトメント ハーフレター / Statement（STMT） Half Letter",
+      "size_mm": "140×216",
+      "size_in": "5 1 / 2 ×8 1 / 2",
+      "ratio": "1.545",
+      "usage": ""
+    },
+    {
+      "group": "日本",
+      "name": "AB判",
+      "size_mm": "210×257",
+      "size_in": "",
+      "ratio": "1.225",
+      "usage": ""
+    },
+    {
+      "group": "日本",
+      "name": "菊判",
+      "size_mm": "152×218",
+      "size_in": "",
+      "ratio": "1.434",
+      "usage": ""
+    },
+    {
+      "group": "日本",
+      "name": "四六判",
+      "size_mm": "127×188",
+      "size_in": "",
+      "ratio": "1.480",
+      "usage": ""
+    },
+    {
+      "group": "日本",
+      "name": "B40判",
+      "size_mm": "103×182",
+      "size_in": "",
+      "ratio": "1.768",
+      "usage": ""
+    },
+    {
+      "group": "日本",
+      "name": "三五判",
+      "size_mm": "84×148",
+      "size_in": "",
+      "ratio": "1.768",
+      "usage": ""
+    },
+    {
+      "group": "写真",
+      "name": "大全紙",
+      "size_mm": "508×610",
+      "size_in": "20×24",
+      "ratio": "6:5（1.200）",
+      "usage": ""
+    },
+    {
+      "group": "写真",
+      "name": "全紙",
+      "size_mm": "457×560",
+      "size_in": "18×22",
+      "ratio": "11:9（1.222）",
+      "usage": ""
+    },
+    {
+      "group": "写真",
+      "name": "A3ノビ",
+      "size_mm": "329×483",
+      "size_in": "13×19",
+      "ratio": "19:13（1.462）",
+      "usage": ""
+    },
+    {
+      "group": "写真",
+      "name": "半切",
+      "size_mm": "356×432",
+      "size_in": "14×17",
+      "ratio": "17:14（1.214）",
+      "usage": ""
+    },
+    {
+      "group": "写真",
+      "name": "大四つ切",
+      "size_mm": "279×355",
+      "size_in": "11×14",
+      "ratio": "14:11（1.272）",
+      "usage": ""
+    },
+    {
+      "group": "写真",
+      "name": "四つ切",
+      "size_mm": "254×305",
+      "size_in": "10×12",
+      "ratio": "6:5（1.200）",
+      "usage": ""
+    },
+    {
+      "group": "写真",
+      "name": "六つ切ワイド",
+      "size_mm": "203×305",
+      "size_in": "8×12",
+      "ratio": "3:2（1.500）",
+      "usage": ""
+    },
+    {
+      "group": "写真",
+      "name": "六つ切",
+      "size_mm": "203×254",
+      "size_in": "8×10",
+      "ratio": "5:4（1.250）",
+      "usage": ""
+    },
+    {
+      "group": "写真",
+      "name": "2L",
+      "size_mm": "127×178",
+      "size_in": "5×7",
+      "ratio": "7:5（1.400）",
+      "usage": ""
+    },
+    {
+      "group": "写真",
+      "name": "ハガキ（KG）",
+      "size_mm": "102×152",
+      "size_in": "4×6",
+      "ratio": "3:2（1.500）",
+      "usage": ""
+    },
+    {
+      "group": "写真",
+      "name": "L（サービスサイズ）",
+      "size_mm": "89×127",
+      "size_in": "3 1 / 2 ×5",
+      "ratio": "10:7（1.429）",
+      "usage": ""
+    },
+    {
+      "group": "写真",
+      "name": "DSC",
+      "size_mm": "89×119",
+      "size_in": "3 1 / 2 ×4.69",
+      "ratio": "4:3（1.333）",
+      "usage": ""
+    },
+    {
+      "group": "新聞",
+      "name": "ブロードシート判（Broadsheet）",
+      "size_mm": "375×600",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "新聞",
+      "name": "ノルディッシュ判（Nordisch）",
+      "size_mm": "400×570",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "新聞",
+      "name": "レニッシュ判（Rheinisch）",
+      "size_mm": "350×510",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "新聞",
+      "name": "レニッシュ判（Rheinisch）",
+      "size_mm": "350×520",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "新聞",
+      "name": "レニッシュ判（Rheinisch）",
+      "size_mm": "360×530",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "新聞",
+      "name": "スイス判（NZZ判、Schweizer Format）",
+      "size_mm": "320×475",
+      "size_in": "",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "新聞",
+      "name": "ベルリナー判 （Berliner）",
+      "size_mm": "315×470",
+      "size_in": "12 3 / 8 ×18 1 / 2",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "新聞",
+      "name": "タブロイド・エクストラ（Tabloid Extra）",
+      "size_mm": "305×455",
+      "size_in": "12×18",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "新聞",
+      "name": "ハーフ・ブロードシート判（Half Broadsheet）",
+      "size_mm": "300×375",
+      "size_in": "12×14 3 / 4",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "新聞",
+      "name": "ハーフ・レニッシュ判（Half Rheinisch）",
+      "size_mm": "255〜265×365〜370",
+      "size_in": "10〜10 1 / 2 ×14 1 / 2",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "新聞",
+      "name": "ハーフ・レニッシュ判（Half Rheinisch）",
+      "size_mm": "260×325",
+      "size_in": "10 1 / 4 ×12 3 / 4",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "新聞",
+      "name": "ハーフ・スイス判（Half Schweizer Format）",
+      "size_mm": "240×330",
+      "size_in": "9 1 / 2 ×13",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "新聞",
+      "name": "ハーフ・ベルリナー判 （Half Berliner）",
+      "size_mm": "230〜240×310〜320",
+      "size_in": "9〜9 1 / 4 ×12 1 / 4 〜12 1 / 2",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "新聞",
+      "name": "タブロイド判 （Tabloid）",
+      "size_mm": "285×400",
+      "size_in": "11 1 / 4 ×15 3 / 4",
+      "ratio": "",
+      "usage": ""
+    },
+    {
+      "group": "新聞",
+      "name": "タブロイド判 （Tabloid）",
+      "size_mm": "235×315",
+      "size_in": "9 1 / 4 ×12 1 / 2",
+      "ratio": "",
+      "usage": ""
+    }
+  ],
+  "meta": {
+    "title": "紙の寸法一覧（A判・B判・JIS・四六判など） - Free Download",
+    "description": "A列・B列・C列・JIS B列・原紙寸法・日本独自の判型・写真・新聞など紙の規格寸法（mm・インチ）と縦横比、用途の例。 Contains 124 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "紙の寸法一覧（A判・B判・JIS・四六判など） | ListBase",
+    "seo_description": "Download 紙の寸法一覧（A判・B判・JIS・四六判など） — 124 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 124 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/紙の寸法"
+    ]
+  }
+}
