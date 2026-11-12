@@ -1,0 +1,192 @@
+{
+  "id": "ja-nintendo-hardware-nenpyo",
+  "name": "任天堂のゲーム機・ハードウェア発売年表",
+  "title": "任天堂のゲーム機・ハードウェア発売年表",
+  "description": "任天堂が発売した家庭用・携帯型ゲーム機などのハードウェアを発売年順にまとめた一覧（1977年〜）。",
+  "category": "tech",
+  "source": "https://ja.wikipedia.org/wiki/任天堂",
+  "source_url": "https://ja.wikipedia.org/wiki/任天堂",
+  "updated": "2026-11",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1977,
+      "product": "カラーテレビゲーム15"
+    },
+    {
+      "year": 1977,
+      "product": "カラーテレビゲーム6"
+    },
+    {
+      "year": 1978,
+      "product": "レーシング112"
+    },
+    {
+      "year": 1979,
+      "product": "ブロック崩し"
+    },
+    {
+      "year": 1980,
+      "product": "コンピュータTVゲーム"
+    },
+    {
+      "year": 1980,
+      "product": "ゲーム&ウオッチ （ ボール ）"
+    },
+    {
+      "year": 1983,
+      "product": "ファミリーコンピュータ"
+    },
+    {
+      "year": 1986,
+      "product": "ファミリーコンピュータ ディスクシステム"
+    },
+    {
+      "year": 1989,
+      "product": "ゲームボーイ"
+    },
+    {
+      "year": 1990,
+      "product": "スーパーファミコン"
+    },
+    {
+      "year": 1993,
+      "product": "AV仕様ファミリーコンピュータ"
+    },
+    {
+      "year": 1995,
+      "product": "バーチャルボーイ"
+    },
+    {
+      "year": 1996,
+      "product": "NINTENDO 64"
+    },
+    {
+      "year": 1996,
+      "product": "ゲームボーイポケット"
+    },
+    {
+      "year": 1998,
+      "product": "スーパーファミコンジュニア"
+    },
+    {
+      "year": 1998,
+      "product": "ゲームボーイライト"
+    },
+    {
+      "year": 1998,
+      "product": "ゲームボーイカラー"
+    },
+    {
+      "year": 2001,
+      "product": "ゲームボーイアドバンス"
+    },
+    {
+      "year": 2001,
+      "product": "ニンテンドー ゲームキューブ"
+    },
+    {
+      "year": 2003,
+      "product": "ゲームボーイアドバンスSP"
+    },
+    {
+      "year": 2004,
+      "product": "ニンテンドーDS"
+    },
+    {
+      "year": 2005,
+      "product": "ゲームボーイミクロ"
+    },
+    {
+      "year": 2006,
+      "product": "ニンテンドーDS Lite"
+    },
+    {
+      "year": 2006,
+      "product": "Wii"
+    },
+    {
+      "year": 2008,
+      "product": "ニンテンドーDSi"
+    },
+    {
+      "year": 2009,
+      "product": "ニンテンドーDSi LL"
+    },
+    {
+      "year": 2011,
+      "product": "ニンテンドー3DS"
+    },
+    {
+      "year": 2011,
+      "product": "Wii Family Edition"
+    },
+    {
+      "year": 2012,
+      "product": "ニンテンドー3DS LL"
+    },
+    {
+      "year": 2012,
+      "product": "Wii U"
+    },
+    {
+      "year": 2012,
+      "product": "Wii Mini"
+    },
+    {
+      "year": 2013,
+      "product": "ニンテンドー2DS"
+    },
+    {
+      "year": 2014,
+      "product": "Newニンテンドー3DS"
+    },
+    {
+      "year": 2014,
+      "product": "Newニンテンドー3DS LL"
+    },
+    {
+      "year": 2017,
+      "product": "Nintendo Switch"
+    },
+    {
+      "year": 2017,
+      "product": "Newニンテンドー2DS LL"
+    },
+    {
+      "year": 2019,
+      "product": "Nintendo Switch Lite"
+    },
+    {
+      "year": 2021,
+      "product": "Nintendo Switch（有機ELモデル）"
+    },
+    {
+      "year": 2025,
+      "product": "Nintendo Switch 2"
+    }
+  ],
+  "meta": {
+    "title": "任天堂のゲーム機・ハードウェア発売年表 - Free Download",
+    "description": "任天堂が発売した家庭用・携帯型ゲーム機などのハードウェアを発売年順にまとめた一覧（1977年〜）。 Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "任天堂のゲーム機・ハードウェア発売年表 | ListBase",
+    "seo_description": "Download 任天堂のゲーム機・ハードウェア発売年表 — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/任天堂"
+    ]
+  }
+}

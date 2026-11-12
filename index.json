@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-12T02:09:39.588Z",
-  "total_datasets": 598,
-  "total_records": 463522,
+  "generated": "2026-11-12T02:09:48.546Z",
+  "total_datasets": 599,
+  "total_records": 463561,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "time",
@@ -15948,6 +15948,29 @@
         "xlsx": {
           "name": "ja-keitai-shuhasu-tai_JA.xlsx",
           "size": 7352
+        }
+      }
+    },
+    {
+      "id": "ja-nintendo-hardware-nenpyo",
+      "name": "任天堂のゲーム機・ハードウェア発売年表",
+      "category": "tech",
+      "record_count": 39,
+      "columns": [
+        "year",
+        "product"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/任天堂",
+      "updated": "2026-11",
+      "size": 4551,
+      "files": {
+        "csv": {
+          "name": "ja-nintendo-hardware-nenpyo_JA.csv",
+          "size": 1399
+        },
+        "xlsx": {
+          "name": "ja-nintendo-hardware-nenpyo_JA.xlsx",
+          "size": 7606
         }
       }
     },
