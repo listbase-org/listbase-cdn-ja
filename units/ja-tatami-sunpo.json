@@ -1,0 +1,93 @@
+{
+  "id": "ja-tatami-sunpo",
+  "name": "畳の種類と寸法（京間・江戸間・団地間など）",
+  "title": "畳の種類と寸法（京間・江戸間・団地間など）",
+  "description": "日本の畳の主な規格（御所畳・京間・中京間・江戸間・団地間など）の尺貫法とミリメートルでの寸法、主な地域・用途。",
+  "category": "units",
+  "source": "https://ja.wikipedia.org/wiki/畳",
+  "source_url": "https://ja.wikipedia.org/wiki/畳",
+  "updated": "2026-11",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "size_shakkan",
+      "label": "Size Shakkan",
+      "type": "string"
+    },
+    {
+      "key": "length_mm",
+      "label": "Length Mm",
+      "type": "number"
+    },
+    {
+      "key": "width_mm",
+      "label": "Width Mm",
+      "type": "number"
+    },
+    {
+      "key": "region_use",
+      "label": "Region Use",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "御所畳",
+      "size_shakkan": "7尺3寸×3尺5寸",
+      "length_mm": 2121,
+      "width_mm": 1061,
+      "region_use": ""
+    },
+    {
+      "name": "昔畳",
+      "size_shakkan": "6尺5寸×3尺2寸5分",
+      "length_mm": 1970,
+      "width_mm": 985,
+      "region_use": ""
+    },
+    {
+      "name": "京間（本間）",
+      "size_shakkan": "6尺3寸×3尺1寸5分",
+      "length_mm": 1910,
+      "width_mm": 955,
+      "region_use": "関西地方"
+    },
+    {
+      "name": "中京間 （中間 、相の間 、 三六間 ）",
+      "size_shakkan": "6尺×3尺",
+      "length_mm": 1820,
+      "width_mm": 910,
+      "region_use": "中京地方"
+    },
+    {
+      "name": "江戸間 （田舎間、関東間、 五八間 ）",
+      "size_shakkan": "5尺8寸×2尺9寸",
+      "length_mm": 1760,
+      "width_mm": 880,
+      "region_use": "関東地方"
+    },
+    {
+      "name": "団地間（ 五六間 ）",
+      "size_shakkan": "5尺6寸×2尺8寸",
+      "length_mm": 1700,
+      "width_mm": 850,
+      "region_use": "集合住宅"
+    }
+  ],
+  "meta": {
+    "title": "畳の種類と寸法（京間・江戸間・団地間など） - Free Download",
+    "description": "日本の畳の主な規格（御所畳・京間・中京間・江戸間・団地間など）の尺貫法とミリメートルでの寸法、主な地域・用途。 Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "畳の種類と寸法（京間・江戸間・団地間など） | ListBase",
+    "seo_description": "Download 畳の種類と寸法（京間・江戸間・団地間など） — 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/畳"
+    ]
+  }
+}

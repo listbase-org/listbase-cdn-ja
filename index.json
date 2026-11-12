@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-12T02:09:48.546Z",
-  "total_datasets": 599,
-  "total_records": 463561,
+  "generated": "2026-11-12T02:09:57.705Z",
+  "total_datasets": 600,
+  "total_records": 463567,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 8
+      "dataset_count": 9
     }
   ],
   "datasets": [
@@ -19046,6 +19046,32 @@
         "xlsx": {
           "name": "ja-taiseki-tani-kansan_JA.xlsx",
           "size": 6873
+        }
+      }
+    },
+    {
+      "id": "ja-tatami-sunpo",
+      "name": "畳の種類と寸法（京間・江戸間・団地間など）",
+      "category": "units",
+      "record_count": 6,
+      "columns": [
+        "name",
+        "size_shakkan",
+        "length_mm",
+        "width_mm",
+        "region_use"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/畳",
+      "updated": "2026-11",
+      "size": 2908,
+      "files": {
+        "csv": {
+          "name": "ja-tatami-sunpo_JA.csv",
+          "size": 509
+        },
+        "xlsx": {
+          "name": "ja-tatami-sunpo_JA.xlsx",
+          "size": 7129
         }
       }
     }
