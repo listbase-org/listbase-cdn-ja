@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-13T02:21:10.178Z",
-  "total_datasets": 602,
-  "total_records": 463621,
+  "generated": "2026-11-13T02:21:19.641Z",
+  "total_datasets": 603,
+  "total_records": 463691,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "tech",
@@ -15818,6 +15818,32 @@
         "xlsx": {
           "name": "ja-sakka-kurabu_JA.xlsx",
           "size": 10249
+        }
+      }
+    },
+    {
+      "id": "ja-senbatsu-21seiki-waku-shutsujoko",
+      "name": "選抜高校野球 21世紀枠 出場校一覧",
+      "category": "sports",
+      "record_count": 70,
+      "columns": [
+        "year",
+        "region",
+        "school",
+        "selection_reason",
+        "result"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/選抜高等学校野球大会",
+      "updated": "2026-11",
+      "size": 27863,
+      "files": {
+        "csv": {
+          "name": "ja-senbatsu-21seiki-waku-shutsujoko_JA.csv",
+          "size": 18722
+        },
+        "xlsx": {
+          "name": "ja-senbatsu-21seiki-waku-shutsujoko_JA.xlsx",
+          "size": 15431
         }
       }
     },
