@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-13T02:20:59.770Z",
-  "total_datasets": 601,
-  "total_records": 463600,
+  "generated": "2026-11-13T02:21:10.178Z",
+  "total_datasets": 602,
+  "total_records": 463621,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "politics",
@@ -7702,6 +7702,38 @@
         "xlsx": {
           "name": "ja-kohaku-shichoritsu_JA.xlsx",
           "size": 11144
+        }
+      }
+    },
+    {
+      "id": "ja-nihon-orchestra-renmei-katsudo-jisseki",
+      "name": "日本オーケストラ連盟 加盟楽団の活動実績推移",
+      "category": "music",
+      "record_count": 21,
+      "columns": [
+        "year",
+        "concerts",
+        "total_audience",
+        "musicians",
+        "annual_income_thousand_yen",
+        "performance_income_thousand_yen",
+        "annual_expenditure_thousand_yen",
+        "full_members",
+        "associate_members",
+        "added_full_members",
+        "added_associate_members"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/日本オーケストラ連盟",
+      "updated": "2026-11",
+      "size": 11221,
+      "files": {
+        "csv": {
+          "name": "ja-nihon-orchestra-renmei-katsudo-jisseki_JA.csv",
+          "size": 2233
+        },
+        "xlsx": {
+          "name": "ja-nihon-orchestra-renmei-katsudo-jisseki_JA.xlsx",
+          "size": 8583
         }
       }
     },

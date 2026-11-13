@@ -1,0 +1,354 @@
+{
+  "id": "ja-nihon-orchestra-renmei-katsudo-jisseki",
+  "name": "日本オーケストラ連盟 加盟楽団の活動実績推移",
+  "title": "日本オーケストラ連盟 加盟楽団の活動実績推移",
+  "description": "日本オーケストラ連盟加盟のプロ・オーケストラ全体の年度別活動実績。公演数、総入場者数、楽員数、年間収入・支出、正会員・準会員の団体数。",
+  "category": "music",
+  "source": "https://ja.wikipedia.org/wiki/日本オーケストラ連盟",
+  "source_url": "https://ja.wikipedia.org/wiki/日本オーケストラ連盟",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "concerts",
+      "label": "Concerts",
+      "type": "number"
+    },
+    {
+      "key": "total_audience",
+      "label": "Total Audience",
+      "type": "number"
+    },
+    {
+      "key": "musicians",
+      "label": "Musicians",
+      "type": "number"
+    },
+    {
+      "key": "annual_income_thousand_yen",
+      "label": "Annual Income Thousand Yen",
+      "type": "number"
+    },
+    {
+      "key": "performance_income_thousand_yen",
+      "label": "Performance Income Thousand Yen",
+      "type": "number"
+    },
+    {
+      "key": "annual_expenditure_thousand_yen",
+      "label": "Annual Expenditure Thousand Yen",
+      "type": "number"
+    },
+    {
+      "key": "full_members",
+      "label": "Full Members",
+      "type": "number"
+    },
+    {
+      "key": "associate_members",
+      "label": "Associate Members",
+      "type": "number"
+    },
+    {
+      "key": "added_full_members",
+      "label": "Added Full Members",
+      "type": "string"
+    },
+    {
+      "key": "added_associate_members",
+      "label": "Added Associate Members",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2004,
+      "concerts": 3042,
+      "total_audience": 3513000,
+      "musicians": 1742,
+      "annual_income_thousand_yen": 24255392,
+      "performance_income_thousand_yen": 12312614,
+      "annual_expenditure_thousand_yen": 23928189,
+      "full_members": 23,
+      "associate_members": "",
+      "added_full_members": "",
+      "added_associate_members": ""
+    },
+    {
+      "year": 2005,
+      "concerts": 3042,
+      "total_audience": 3344923,
+      "musicians": 1724,
+      "annual_income_thousand_yen": 24066045,
+      "performance_income_thousand_yen": 12089370,
+      "annual_expenditure_thousand_yen": 23884972,
+      "full_members": 23,
+      "associate_members": "",
+      "added_full_members": "",
+      "added_associate_members": ""
+    },
+    {
+      "year": 2006,
+      "concerts": 3403,
+      "total_audience": 3589396,
+      "musicians": 1887,
+      "annual_income_thousand_yen": 25029365,
+      "performance_income_thousand_yen": 14007622,
+      "annual_expenditure_thousand_yen": 24677718,
+      "full_members": 23,
+      "associate_members": 4,
+      "added_full_members": "",
+      "added_associate_members": "京都P 、 中部P 、 東京NC 、 東京YP"
+    },
+    {
+      "year": 2007,
+      "concerts": 3564,
+      "total_audience": 3850034,
+      "musicians": 1978,
+      "annual_income_thousand_yen": 25540777,
+      "performance_income_thousand_yen": 14859341,
+      "annual_expenditure_thousand_yen": 24893796,
+      "full_members": 23,
+      "associate_members": 6,
+      "added_full_members": "",
+      "added_associate_members": "静岡響 、 カレッジオペラハウス"
+    },
+    {
+      "year": 2008,
+      "concerts": 3731,
+      "total_audience": 4258921,
+      "musicians": 2036,
+      "annual_income_thousand_yen": 26142005,
+      "performance_income_thousand_yen": 14038953,
+      "annual_expenditure_thousand_yen": 25810265,
+      "full_members": 24,
+      "associate_members": 6,
+      "added_full_members": "兵庫芸管",
+      "added_associate_members": ""
+    },
+    {
+      "year": 2009,
+      "concerts": 3652,
+      "total_audience": 4025587,
+      "musicians": 2028,
+      "annual_income_thousand_yen": 27398085,
+      "performance_income_thousand_yen": 14213226,
+      "annual_expenditure_thousand_yen": 26883482,
+      "full_members": 24,
+      "associate_members": 7,
+      "added_full_members": "",
+      "added_associate_members": "NP千葉"
+    },
+    {
+      "year": 2010,
+      "concerts": 3616,
+      "total_audience": 3970634,
+      "musicians": 2019,
+      "annual_income_thousand_yen": 26858963,
+      "performance_income_thousand_yen": 14095523,
+      "annual_expenditure_thousand_yen": 26431196,
+      "full_members": 24,
+      "associate_members": 7,
+      "added_full_members": "",
+      "added_associate_members": ""
+    },
+    {
+      "year": 2011,
+      "concerts": 3772,
+      "total_audience": 4128451,
+      "musicians": 2047,
+      "annual_income_thousand_yen": 26376422,
+      "performance_income_thousand_yen": 13869154,
+      "annual_expenditure_thousand_yen": 25607203,
+      "full_members": 25,
+      "associate_members": 7,
+      "added_full_members": "東京NC",
+      "added_associate_members": "テレマン室内オケ （△東京NC）"
+    },
+    {
+      "year": 2012,
+      "concerts": 3742,
+      "total_audience": 4080843,
+      "musicians": 2049,
+      "annual_income_thousand_yen": 26199820,
+      "performance_income_thousand_yen": 13906174,
+      "annual_expenditure_thousand_yen": 25774925,
+      "full_members": 25,
+      "associate_members": 8,
+      "added_full_members": "",
+      "added_associate_members": "奈良フィル"
+    },
+    {
+      "year": 2013,
+      "concerts": 3806,
+      "total_audience": 4247990,
+      "musicians": 2035,
+      "annual_income_thousand_yen": 27029120,
+      "performance_income_thousand_yen": 14226597,
+      "annual_expenditure_thousand_yen": 26388967,
+      "full_members": 25,
+      "associate_members": 8,
+      "added_full_members": "",
+      "added_associate_members": ""
+    },
+    {
+      "year": 2014,
+      "concerts": 3836,
+      "total_audience": 4016192,
+      "musicians": 2042,
+      "annual_income_thousand_yen": 25931093,
+      "performance_income_thousand_yen": 13785330,
+      "annual_expenditure_thousand_yen": 25785674,
+      "full_members": 25,
+      "associate_members": 8,
+      "added_full_members": "",
+      "added_associate_members": ""
+    },
+    {
+      "year": 2015,
+      "concerts": 3938,
+      "total_audience": 4237110,
+      "musicians": 2146,
+      "annual_income_thousand_yen": 26595559,
+      "performance_income_thousand_yen": 14290092,
+      "annual_expenditure_thousand_yen": 26261175,
+      "full_members": 25,
+      "associate_members": 9,
+      "added_full_members": "",
+      "added_associate_members": "瀬戸フィル"
+    },
+    {
+      "year": 2016,
+      "concerts": 3850,
+      "total_audience": 4340769,
+      "musicians": 2213,
+      "annual_income_thousand_yen": 27124923,
+      "performance_income_thousand_yen": 14592106,
+      "annual_expenditure_thousand_yen": 26480824,
+      "full_members": 25,
+      "associate_members": 9,
+      "added_full_members": "",
+      "added_associate_members": ""
+    },
+    {
+      "year": 2017,
+      "concerts": 3810,
+      "total_audience": 4293484,
+      "musicians": 2230,
+      "annual_income_thousand_yen": 26396322,
+      "performance_income_thousand_yen": 14422010,
+      "annual_expenditure_thousand_yen": 26174896,
+      "full_members": 25,
+      "associate_members": 11,
+      "added_full_members": "",
+      "added_associate_members": "藝大P 、 岡山P"
+    },
+    {
+      "year": 2018,
+      "concerts": 3879,
+      "total_audience": 4112481,
+      "musicians": 2251,
+      "annual_income_thousand_yen": 26057444,
+      "performance_income_thousand_yen": 14659813,
+      "annual_expenditure_thousand_yen": 26948468,
+      "full_members": 25,
+      "associate_members": 12,
+      "added_full_members": "",
+      "added_associate_members": "長崎OMURA"
+    },
+    {
+      "year": 2019,
+      "concerts": 3611,
+      "total_audience": 3692555,
+      "musicians": 2274,
+      "annual_income_thousand_yen": 26842597,
+      "performance_income_thousand_yen": 13514044,
+      "annual_expenditure_thousand_yen": 26425575,
+      "full_members": 25,
+      "associate_members": 13,
+      "added_full_members": "",
+      "added_associate_members": "アマービレP"
+    },
+    {
+      "year": 2020,
+      "concerts": 2323,
+      "total_audience": 1319207,
+      "musicians": 2267,
+      "annual_income_thousand_yen": 23479034,
+      "performance_income_thousand_yen": 8337817,
+      "annual_expenditure_thousand_yen": 21817739,
+      "full_members": 25,
+      "associate_members": 13,
+      "added_full_members": "",
+      "added_associate_members": ""
+    },
+    {
+      "year": 2021,
+      "concerts": 3013,
+      "total_audience": 2383388,
+      "musicians": 2263,
+      "annual_income_thousand_yen": 25320361,
+      "performance_income_thousand_yen": 12348474,
+      "annual_expenditure_thousand_yen": 24841315,
+      "full_members": 25,
+      "associate_members": 13,
+      "added_full_members": "",
+      "added_associate_members": ""
+    },
+    {
+      "year": 2022,
+      "concerts": 3963,
+      "total_audience": 3523539,
+      "musicians": 2353,
+      "annual_income_thousand_yen": 28735466,
+      "performance_income_thousand_yen": 15204195,
+      "annual_expenditure_thousand_yen": 27941500,
+      "full_members": 25,
+      "associate_members": 15,
+      "added_full_members": "",
+      "added_associate_members": "愛知室内オケ 、 神戸市室内管"
+    },
+    {
+      "year": 2023,
+      "concerts": 3772,
+      "total_audience": 3725874,
+      "musicians": 2345,
+      "annual_income_thousand_yen": 28364829,
+      "performance_income_thousand_yen": 15405323,
+      "annual_expenditure_thousand_yen": 28876993,
+      "full_members": 25,
+      "associate_members": 15,
+      "added_full_members": "",
+      "added_associate_members": ""
+    },
+    {
+      "year": 2024,
+      "concerts": 3965,
+      "total_audience": 3922598,
+      "musicians": 2339,
+      "annual_income_thousand_yen": 29088029,
+      "performance_income_thousand_yen": 15895941,
+      "annual_expenditure_thousand_yen": 29506015,
+      "full_members": 27,
+      "associate_members": 13,
+      "added_full_members": "静岡響 、 中部フィル",
+      "added_associate_members": "△ 静岡響 、△ 中部フィル"
+    }
+  ],
+  "meta": {
+    "title": "日本オーケストラ連盟 加盟楽団の活動実績推移 - Free Download",
+    "description": "日本オーケストラ連盟加盟のプロ・オーケストラ全体の年度別活動実績。公演数、総入場者数、楽員数、年間収入・支出、正会員・準会員の団体数。 Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本オーケストラ連盟 加盟楽団の活動実績推移 | ListBase",
+    "seo_description": "Download 日本オーケストラ連盟 加盟楽団の活動実績推移 — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/日本オーケストラ連盟"
+    ]
+  }
+}
