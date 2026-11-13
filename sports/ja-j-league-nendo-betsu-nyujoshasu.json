@@ -1,0 +1,358 @@
+{
+  "id": "ja-j-league-nendo-betsu-nyujoshasu",
+  "name": "Jリーグ 年度別入場者数（J1・J2・J3）",
+  "title": "Jリーグ 年度別入場者数（J1・J2・J3）",
+  "description": "1993年の開幕以降のJリーグ公式戦の年度別入場者数。J1・J2・J3それぞれの合計入場者数と1試合平均入場者数。",
+  "category": "sports",
+  "source": "https://ja.wikipedia.org/wiki/Jリーグ",
+  "source_url": "https://ja.wikipedia.org/wiki/Jリーグ",
+  "updated": "2026-11",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "string"
+    },
+    {
+      "key": "j1_total",
+      "label": "J1 Total",
+      "type": "number"
+    },
+    {
+      "key": "j1_average",
+      "label": "J1 Average",
+      "type": "number"
+    },
+    {
+      "key": "j2_total",
+      "label": "J2 Total",
+      "type": "string"
+    },
+    {
+      "key": "j2_average",
+      "label": "J2 Average",
+      "type": "string"
+    },
+    {
+      "key": "j3_total",
+      "label": "J3 Total",
+      "type": "string"
+    },
+    {
+      "key": "j3_average",
+      "label": "J3 Average",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": "1993年",
+      "j1_total": 3235750,
+      "j1_average": 17976,
+      "j2_total": "-",
+      "j2_average": "-",
+      "j3_total": "-",
+      "j3_average": "-"
+    },
+    {
+      "year": "1994年",
+      "j1_total": 5173817,
+      "j1_average": 19598,
+      "j2_total": "-",
+      "j2_average": "-",
+      "j3_total": "-",
+      "j3_average": "-"
+    },
+    {
+      "year": "1995年",
+      "j1_total": 6159691,
+      "j1_average": 16922,
+      "j2_total": "-",
+      "j2_average": "-",
+      "j3_total": "-",
+      "j3_average": "-"
+    },
+    {
+      "year": "1996年",
+      "j1_total": 3204807,
+      "j1_average": 13353,
+      "j2_total": "-",
+      "j2_average": "-",
+      "j3_total": "-",
+      "j3_average": "-"
+    },
+    {
+      "year": "1997年",
+      "j1_total": 2755698,
+      "j1_average": 10131,
+      "j2_total": "-",
+      "j2_average": "-",
+      "j3_total": "-",
+      "j3_average": "-"
+    },
+    {
+      "year": "1998年",
+      "j1_total": 3666496,
+      "j1_average": 11982,
+      "j2_total": "-",
+      "j2_average": "-",
+      "j3_total": "-",
+      "j3_average": "-"
+    },
+    {
+      "year": "1999年",
+      "j1_total": 2798005,
+      "j1_average": 11658,
+      "j2_total": 827217,
+      "j2_average": 4596,
+      "j3_total": "-",
+      "j3_average": "-"
+    },
+    {
+      "year": "2000年",
+      "j1_total": 2655553,
+      "j1_average": 11065,
+      "j2_total": 1340820,
+      "j2_average": 6095,
+      "j3_total": "-",
+      "j3_average": "-"
+    },
+    {
+      "year": "2001年",
+      "j1_total": 3971415,
+      "j1_average": 16548,
+      "j2_total": 1505722,
+      "j2_average": 5703,
+      "j3_total": "-",
+      "j3_average": "-"
+    },
+    {
+      "year": "2002年",
+      "j1_total": 3928215,
+      "j1_average": 16368,
+      "j2_total": 1806392,
+      "j2_average": 6842,
+      "j3_total": "-",
+      "j3_average": "-"
+    },
+    {
+      "year": "2003年",
+      "j1_total": 4164229,
+      "j1_average": 17351,
+      "j2_total": 2084185,
+      "j2_average": 7895,
+      "j3_total": "-",
+      "j3_average": "-"
+    },
+    {
+      "year": "2004年",
+      "j1_total": 4551695,
+      "j1_average": 18965,
+      "j2_total": 1904172,
+      "j2_average": 7213,
+      "j3_total": "-",
+      "j3_average": "-"
+    },
+    {
+      "year": "2005年",
+      "j1_total": 5742233,
+      "j1_average": 18765,
+      "j2_total": 1975340,
+      "j2_average": 7482,
+      "j3_total": "-",
+      "j3_average": "-"
+    },
+    {
+      "year": "2006年",
+      "j1_total": 5597408,
+      "j1_average": 18292,
+      "j2_total": 1998648,
+      "j2_average": 6406,
+      "j3_total": "-",
+      "j3_average": "-"
+    },
+    {
+      "year": "2007年",
+      "j1_total": 5834081,
+      "j1_average": 19066,
+      "j2_total": 2034543,
+      "j2_average": 6521,
+      "j3_total": "-",
+      "j3_average": "-"
+    },
+    {
+      "year": "2008年",
+      "j1_total": 5875865,
+      "j1_average": 19202,
+      "j2_total": 2227570,
+      "j2_average": 7072,
+      "j3_total": "-",
+      "j3_average": "-"
+    },
+    {
+      "year": "2009年",
+      "j1_total": 5809516,
+      "j1_average": 18985,
+      "j2_total": 2903607,
+      "j2_average": 6326,
+      "j3_total": "-",
+      "j3_average": "-"
+    },
+    {
+      "year": "2010年",
+      "j1_total": 5638894,
+      "j1_average": 18428,
+      "j2_total": 2290082,
+      "j2_average": 6696,
+      "j3_total": "-",
+      "j3_average": "-"
+    },
+    {
+      "year": "2011年",
+      "j1_total": 4833782,
+      "j1_average": 15797,
+      "j2_total": 2440695,
+      "j2_average": 6423,
+      "j3_total": "-",
+      "j3_average": "-"
+    },
+    {
+      "year": "2012年",
+      "j1_total": 5375300,
+      "j1_average": 17566,
+      "j2_total": 2681881,
+      "j2_average": 5805,
+      "j3_total": "-",
+      "j3_average": "-"
+    },
+    {
+      "year": "2013年",
+      "j1_total": 5271047,
+      "j1_average": 17226,
+      "j2_total": 3079181,
+      "j2_average": 6665,
+      "j3_total": "-",
+      "j3_average": "-"
+    },
+    {
+      "year": "2014年",
+      "j1_total": 5275387,
+      "j1_average": 17240,
+      "j2_total": 3043948,
+      "j2_average": 6589,
+      "j3_total": 440388,
+      "j3_average": 2224
+    },
+    {
+      "year": "2015年",
+      "j1_total": 5447602,
+      "j1_average": 17803,
+      "j2_total": 3152545,
+      "j2_average": 6824,
+      "j3_total": 563606,
+      "j3_average": 2409
+    },
+    {
+      "year": "2016年",
+      "j1_total": 5498222,
+      "j1_average": 17968,
+      "j2_total": 3209051,
+      "j2_average": 6946,
+      "j3_total": 704953,
+      "j3_average": 2937
+    },
+    {
+      "year": "2017年",
+      "j1_total": 5778178,
+      "j1_average": 18883,
+      "j2_total": 3219936,
+      "j2_average": 6970,
+      "j3_total": 705910,
+      "j3_average": 2595
+    },
+    {
+      "year": "2018年",
+      "j1_total": 5833538,
+      "j1_average": 19064,
+      "j2_total": 3256416,
+      "j2_average": 7049,
+      "j3_total": 671854,
+      "j3_average": 2470
+    },
+    {
+      "year": "2019年",
+      "j1_total": 6349681,
+      "j1_average": 20751,
+      "j2_total": 3315234,
+      "j2_average": 7176,
+      "j3_total": 732567,
+      "j3_average": 2394
+    },
+    {
+      "year": "2020年",
+      "j1_total": 1773481,
+      "j1_average": 5796,
+      "j2_total": 1270808,
+      "j2_average": 2751,
+      "j3_total": 348875,
+      "j3_average": 1140
+    },
+    {
+      "year": "2021年",
+      "j1_total": 2531007,
+      "j1_average": 6661,
+      "j2_total": 1806409,
+      "j2_average": 3910,
+      "j3_total": 401776,
+      "j3_average": 1913
+    },
+    {
+      "year": "2022年",
+      "j1_total": 4384401,
+      "j1_average": 14328,
+      "j2_total": 2318829,
+      "j2_average": 5019,
+      "j3_total": 833042,
+      "j3_average": 2722
+    },
+    {
+      "year": "2023年",
+      "j1_total": 5811987,
+      "j1_average": 18993,
+      "j2_total": 3189591,
+      "j2_average": 6904,
+      "j3_total": 1141166,
+      "j3_average": 3003
+    },
+    {
+      "year": "2024年",
+      "j1_total": 7734871,
+      "j1_average": 20355,
+      "j2_total": 2913415,
+      "j2_average": 7667,
+      "j3_total": 1283794,
+      "j3_average": 3378
+    },
+    {
+      "year": "2025年",
+      "j1_total": 8073557,
+      "j1_average": 21246,
+      "j2_total": 3377480,
+      "j2_average": 8888,
+      "j3_total": 1428621,
+      "j3_average": 3760
+    }
+  ],
+  "meta": {
+    "title": "Jリーグ 年度別入場者数（J1・J2・J3） - Free Download",
+    "description": "1993年の開幕以降のJリーグ公式戦の年度別入場者数。J1・J2・J3それぞれの合計入場者数と1試合平均入場者数。 Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Jリーグ 年度別入場者数（J1・J2・J3） | ListBase",
+    "seo_description": "Download Jリーグ 年度別入場者数（J1・J2・J3） — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/Jリーグ"
+    ]
+  }
+}

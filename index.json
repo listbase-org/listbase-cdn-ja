@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-12T02:09:57.705Z",
-  "total_datasets": 600,
-  "total_records": 463567,
+  "generated": "2026-11-13T02:20:59.770Z",
+  "total_datasets": 601,
+  "total_records": 463600,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "tech",
@@ -15505,6 +15505,34 @@
         "xlsx": {
           "name": "ja-hakone-ekiden-yushoko_JA.xlsx",
           "size": 12547
+        }
+      }
+    },
+    {
+      "id": "ja-j-league-nendo-betsu-nyujoshasu",
+      "name": "Jリーグ 年度別入場者数（J1・J2・J3）",
+      "category": "sports",
+      "record_count": 33,
+      "columns": [
+        "year",
+        "j1_total",
+        "j1_average",
+        "j2_total",
+        "j2_average",
+        "j3_total",
+        "j3_average"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/Jリーグ",
+      "updated": "2026-11",
+      "size": 8295,
+      "files": {
+        "csv": {
+          "name": "ja-j-league-nendo-betsu-nyujoshasu_JA.csv",
+          "size": 1872
+        },
+        "xlsx": {
+          "name": "ja-j-league-nendo-betsu-nyujoshasu_JA.xlsx",
+          "size": 8375
         }
       }
     },
