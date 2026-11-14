@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-14T02:15:44.845Z",
-  "total_datasets": 604,
-  "total_records": 464158,
+  "generated": "2026-11-14T02:15:58.563Z",
+  "total_datasets": 605,
+  "total_records": 464244,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "society",
@@ -15258,6 +15258,30 @@
         "xlsx": {
           "name": "ja-kokuritsu-kenkyu-kaihatsu-hojin_JA.xlsx",
           "size": 7270
+        }
+      }
+    },
+    {
+      "id": "ja-nihon-kokusai-sho",
+      "name": "日本国際賞 歴代受賞者一覧",
+      "category": "science",
+      "record_count": 86,
+      "columns": [
+        "year",
+        "laureates",
+        "citation"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/日本国際賞",
+      "updated": "2026-11",
+      "size": 16479,
+      "files": {
+        "csv": {
+          "name": "ja-nihon-kokusai-sho_JA.csv",
+          "size": 9443
+        },
+        "xlsx": {
+          "name": "ja-nihon-kokusai-sho_JA.xlsx",
+          "size": 12230
         }
       }
     },
