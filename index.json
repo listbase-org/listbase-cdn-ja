@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-13T02:21:19.641Z",
-  "total_datasets": 603,
-  "total_records": 463691,
+  "generated": "2026-11-14T02:15:44.845Z",
+  "total_datasets": 604,
+  "total_records": 464158,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "economy",
@@ -361,6 +361,33 @@
         "xlsx": {
           "name": "ja-akutagawa-sho-jushosha_JA.xlsx",
           "size": 16328
+        }
+      }
+    },
+    {
+      "id": "ja-bunka-kunsho-jushosha",
+      "name": "文化勲章 歴代受章者一覧",
+      "category": "culture",
+      "record_count": 467,
+      "columns": [
+        "year",
+        "fiscal_year_jp",
+        "conferred",
+        "name",
+        "field",
+        "note"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/文化勲章受章者の一覧",
+      "updated": "2026-11",
+      "size": 100028,
+      "files": {
+        "csv": {
+          "name": "ja-bunka-kunsho-jushosha_JA.csv",
+          "size": 44214
+        },
+        "xlsx": {
+          "name": "ja-bunka-kunsho-jushosha_JA.xlsx",
+          "size": 25649
         }
       }
     },

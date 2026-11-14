@@ -1,0 +1,3792 @@
+{
+  "id": "ja-bunka-kunsho-jushosha",
+  "name": "文化勲章 歴代受章者一覧",
+  "title": "文化勲章 歴代受章者一覧",
+  "description": "1937年の創設以来の文化勲章受章者：年度、発令日、受章者名、分野。",
+  "category": "culture",
+  "source": "https://ja.wikipedia.org/wiki/文化勲章受章者の一覧",
+  "source_url": "https://ja.wikipedia.org/wiki/文化勲章受章者の一覧",
+  "updated": "2026-11",
+  "record_count": 467,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "fiscal_year_jp",
+      "label": "Fiscal Year Jp",
+      "type": "string"
+    },
+    {
+      "key": "conferred",
+      "label": "Conferred",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "field",
+      "label": "Field",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1937,
+      "fiscal_year_jp": "昭和12年度",
+      "conferred": "4月28日発令",
+      "name": "長岡半太郎",
+      "field": "物理学",
+      "note": ""
+    },
+    {
+      "year": 1937,
+      "fiscal_year_jp": "昭和12年度",
+      "conferred": "4月28日発令",
+      "name": "本多光太郎",
+      "field": "金属物理学",
+      "note": ""
+    },
+    {
+      "year": 1937,
+      "fiscal_year_jp": "昭和12年度",
+      "conferred": "4月28日発令",
+      "name": "木村栄",
+      "field": "地球物理学",
+      "note": ""
+    },
+    {
+      "year": 1937,
+      "fiscal_year_jp": "昭和12年度",
+      "conferred": "4月28日発令",
+      "name": "岡田三郎助",
+      "field": "洋画",
+      "note": ""
+    },
+    {
+      "year": 1937,
+      "fiscal_year_jp": "昭和12年度",
+      "conferred": "4月28日発令",
+      "name": "藤島武二",
+      "field": "洋画",
+      "note": ""
+    },
+    {
+      "year": 1937,
+      "fiscal_year_jp": "昭和12年度",
+      "conferred": "4月28日発令",
+      "name": "竹内栖鳳",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1937,
+      "fiscal_year_jp": "昭和12年度",
+      "conferred": "4月28日発令",
+      "name": "佐佐木信綱",
+      "field": "和歌・和歌史",
+      "note": ""
+    },
+    {
+      "year": 1937,
+      "fiscal_year_jp": "昭和12年度",
+      "conferred": "4月28日発令",
+      "name": "幸田露伴",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 1937,
+      "fiscal_year_jp": "昭和12年度",
+      "conferred": "4月28日発令",
+      "name": "横山大観",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1940,
+      "fiscal_year_jp": "昭和15年度",
+      "conferred": "11月10日発令",
+      "name": "高木貞治",
+      "field": "数学",
+      "note": ""
+    },
+    {
+      "year": 1940,
+      "fiscal_year_jp": "昭和15年度",
+      "conferred": "11月10日発令",
+      "name": "西田幾多郎",
+      "field": "哲学",
+      "note": ""
+    },
+    {
+      "year": 1940,
+      "fiscal_year_jp": "昭和15年度",
+      "conferred": "11月10日発令",
+      "name": "川合玉堂",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1940,
+      "fiscal_year_jp": "昭和15年度",
+      "conferred": "11月10日発令",
+      "name": "佐々木隆興",
+      "field": "生化学・病理学",
+      "note": ""
+    },
+    {
+      "year": 1943,
+      "fiscal_year_jp": "昭和18年度",
+      "conferred": "4月29日発令",
+      "name": "伊東忠太",
+      "field": "建築学",
+      "note": ""
+    },
+    {
+      "year": 1943,
+      "fiscal_year_jp": "昭和18年度",
+      "conferred": "4月29日発令",
+      "name": "鈴木梅太郎",
+      "field": "農芸化学",
+      "note": ""
+    },
+    {
+      "year": 1943,
+      "fiscal_year_jp": "昭和18年度",
+      "conferred": "4月29日発令",
+      "name": "朝比奈泰彦",
+      "field": "薬学・植物化学",
+      "note": ""
+    },
+    {
+      "year": 1943,
+      "fiscal_year_jp": "昭和18年度",
+      "conferred": "4月29日発令",
+      "name": "湯川秀樹",
+      "field": "原子物理学、ノーベル物理学賞受賞者",
+      "note": ""
+    },
+    {
+      "year": 1943,
+      "fiscal_year_jp": "昭和18年度",
+      "conferred": "4月29日発令",
+      "name": "徳富蘇峰",
+      "field": "歴史・政治評論",
+      "note": "1946年（昭和21年）返上"
+    },
+    {
+      "year": 1943,
+      "fiscal_year_jp": "昭和18年度",
+      "conferred": "4月29日発令",
+      "name": "三宅雪嶺",
+      "field": "社会評論",
+      "note": ""
+    },
+    {
+      "year": 1943,
+      "fiscal_year_jp": "昭和18年度",
+      "conferred": "4月29日発令",
+      "name": "和田英作",
+      "field": "洋画",
+      "note": ""
+    },
+    {
+      "year": 1944,
+      "fiscal_year_jp": "昭和19年度",
+      "conferred": "4月29日発令",
+      "name": "高楠順次郎",
+      "field": "インド哲学",
+      "note": ""
+    },
+    {
+      "year": 1944,
+      "fiscal_year_jp": "昭和19年度",
+      "conferred": "4月29日発令",
+      "name": "狩野直喜",
+      "field": "中国文学",
+      "note": ""
+    },
+    {
+      "year": 1944,
+      "fiscal_year_jp": "昭和19年度",
+      "conferred": "4月29日発令",
+      "name": "田中館愛橘",
+      "field": "地球物理学・航空学",
+      "note": ""
+    },
+    {
+      "year": 1944,
+      "fiscal_year_jp": "昭和19年度",
+      "conferred": "4月29日発令",
+      "name": "岡部金治郎",
+      "field": "電気工学",
+      "note": ""
+    },
+    {
+      "year": 1944,
+      "fiscal_year_jp": "昭和19年度",
+      "conferred": "4月29日発令",
+      "name": "稲田龍吉",
+      "field": "細菌学",
+      "note": ""
+    },
+    {
+      "year": 1944,
+      "fiscal_year_jp": "昭和19年度",
+      "conferred": "4月29日発令",
+      "name": "志賀潔",
+      "field": "細菌学",
+      "note": ""
+    },
+    {
+      "year": 1946,
+      "fiscal_year_jp": "昭和21年度",
+      "conferred": "2月11日発令",
+      "name": "中田薫",
+      "field": "法制史・日本法制史",
+      "note": ""
+    },
+    {
+      "year": 1946,
+      "fiscal_year_jp": "昭和21年度",
+      "conferred": "2月11日発令",
+      "name": "宮部金吾",
+      "field": "植物学",
+      "note": ""
+    },
+    {
+      "year": 1946,
+      "fiscal_year_jp": "昭和21年度",
+      "conferred": "2月11日発令",
+      "name": "俵国一",
+      "field": "金属学",
+      "note": ""
+    },
+    {
+      "year": 1946,
+      "fiscal_year_jp": "昭和21年度",
+      "conferred": "2月11日発令",
+      "name": "仁科芳雄",
+      "field": "原子物理学",
+      "note": ""
+    },
+    {
+      "year": 1946,
+      "fiscal_year_jp": "昭和21年度",
+      "conferred": "2月11日発令",
+      "name": "初世梅若万三郎",
+      "field": "能楽",
+      "note": ""
+    },
+    {
+      "year": 1946,
+      "fiscal_year_jp": "昭和21年度",
+      "conferred": "2月11日発令",
+      "name": "岩波茂雄",
+      "field": "出版",
+      "note": ""
+    },
+    {
+      "year": 1948,
+      "fiscal_year_jp": "昭和23年度",
+      "conferred": "11月2日発令・宮中伝達式",
+      "name": "木原均",
+      "field": "遺伝学",
+      "note": ""
+    },
+    {
+      "year": 1948,
+      "fiscal_year_jp": "昭和23年度",
+      "conferred": "11月2日発令・宮中伝達式",
+      "name": "長谷川如是閑",
+      "field": "評論",
+      "note": ""
+    },
+    {
+      "year": 1948,
+      "fiscal_year_jp": "昭和23年度",
+      "conferred": "11月2日発令・宮中伝達式",
+      "name": "安田靫彦",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1948,
+      "fiscal_year_jp": "昭和23年度",
+      "conferred": "11月2日発令・宮中伝達式",
+      "name": "朝倉文夫",
+      "field": "彫塑",
+      "note": ""
+    },
+    {
+      "year": 1948,
+      "fiscal_year_jp": "昭和23年度",
+      "conferred": "11月2日発令・宮中伝達式",
+      "name": "上村松園",
+      "field": "日本画、初の女性受章者",
+      "note": ""
+    },
+    {
+      "year": 1949,
+      "fiscal_year_jp": "昭和24年度",
+      "conferred": "7月10日発令 （同年 7月19日 付官報告示）",
+      "name": "六代目尾上菊五郎",
+      "field": "歌舞伎、没後追贈",
+      "note": ""
+    },
+    {
+      "year": 1949,
+      "fiscal_year_jp": "昭和24年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "津田左右吉",
+      "field": "東洋哲学・日本古代史",
+      "note": ""
+    },
+    {
+      "year": 1949,
+      "fiscal_year_jp": "昭和24年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "鈴木大拙",
+      "field": "仏教学",
+      "note": ""
+    },
+    {
+      "year": 1949,
+      "fiscal_year_jp": "昭和24年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "三浦謹之助",
+      "field": "内科学",
+      "note": ""
+    },
+    {
+      "year": 1949,
+      "fiscal_year_jp": "昭和24年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "岡田武松",
+      "field": "気象学",
+      "note": ""
+    },
+    {
+      "year": 1949,
+      "fiscal_year_jp": "昭和24年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "真島利行",
+      "field": "化学",
+      "note": ""
+    },
+    {
+      "year": 1949,
+      "fiscal_year_jp": "昭和24年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "谷崎潤一郎",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 1949,
+      "fiscal_year_jp": "昭和24年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "志賀直哉",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 1950,
+      "fiscal_year_jp": "昭和25年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "牧野英一",
+      "field": "刑法・法理学",
+      "note": ""
+    },
+    {
+      "year": 1950,
+      "fiscal_year_jp": "昭和25年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "田辺元",
+      "field": "哲学",
+      "note": ""
+    },
+    {
+      "year": 1950,
+      "fiscal_year_jp": "昭和25年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "藤井健次郎",
+      "field": "植物学",
+      "note": ""
+    },
+    {
+      "year": 1950,
+      "fiscal_year_jp": "昭和25年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "三島徳七",
+      "field": "金属学",
+      "note": ""
+    },
+    {
+      "year": 1950,
+      "fiscal_year_jp": "昭和25年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "小林古径",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1950,
+      "fiscal_year_jp": "昭和25年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "土井晩翠",
+      "field": "詩",
+      "note": ""
+    },
+    {
+      "year": 1950,
+      "fiscal_year_jp": "昭和25年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "正宗白鳥",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 1951,
+      "fiscal_year_jp": "昭和26年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "菊池正士",
+      "field": "原子物理学",
+      "note": ""
+    },
+    {
+      "year": 1951,
+      "fiscal_year_jp": "昭和26年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "斎藤茂吉",
+      "field": "短歌",
+      "note": ""
+    },
+    {
+      "year": 1951,
+      "fiscal_year_jp": "昭和26年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "初代中村吉右衛門",
+      "field": "歌舞伎",
+      "note": ""
+    },
+    {
+      "year": 1951,
+      "fiscal_year_jp": "昭和26年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "西川正治",
+      "field": "原子物理学",
+      "note": ""
+    },
+    {
+      "year": 1951,
+      "fiscal_year_jp": "昭和26年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "光田健輔",
+      "field": "癩医学",
+      "note": ""
+    },
+    {
+      "year": 1951,
+      "fiscal_year_jp": "昭和26年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "武者小路実篤",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 1951,
+      "fiscal_year_jp": "昭和26年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "柳田国男",
+      "field": "民俗学",
+      "note": ""
+    },
+    {
+      "year": 1952,
+      "fiscal_year_jp": "昭和27年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "梅原龍三郎",
+      "field": "洋画",
+      "note": ""
+    },
+    {
+      "year": 1952,
+      "fiscal_year_jp": "昭和27年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "熊谷岱蔵",
+      "field": "結核医学",
+      "note": ""
+    },
+    {
+      "year": 1952,
+      "fiscal_year_jp": "昭和27年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "佐々木惣一",
+      "field": "憲法学・行政学",
+      "note": ""
+    },
+    {
+      "year": 1952,
+      "fiscal_year_jp": "昭和27年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "辻善之助",
+      "field": "日本史・仏教学",
+      "note": ""
+    },
+    {
+      "year": 1952,
+      "fiscal_year_jp": "昭和27年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "朝永振一郎",
+      "field": "原子物理学、ノーベル賞受賞者",
+      "note": ""
+    },
+    {
+      "year": 1952,
+      "fiscal_year_jp": "昭和27年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "永井荷風",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 1952,
+      "fiscal_year_jp": "昭和27年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "安井曽太郎",
+      "field": "洋画",
+      "note": ""
+    },
+    {
+      "year": 1953,
+      "fiscal_year_jp": "昭和28年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "板谷波山",
+      "field": "陶芸",
+      "note": ""
+    },
+    {
+      "year": 1953,
+      "fiscal_year_jp": "昭和28年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "宇井伯寿",
+      "field": "インド哲学",
+      "note": ""
+    },
+    {
+      "year": 1953,
+      "fiscal_year_jp": "昭和28年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "香取秀真",
+      "field": "鋳金",
+      "note": ""
+    },
+    {
+      "year": 1953,
+      "fiscal_year_jp": "昭和28年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "十四世喜多六平太",
+      "field": "謡曲",
+      "note": ""
+    },
+    {
+      "year": 1953,
+      "fiscal_year_jp": "昭和28年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "羽田亨",
+      "field": "東洋史",
+      "note": ""
+    },
+    {
+      "year": 1953,
+      "fiscal_year_jp": "昭和28年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "矢部長克",
+      "field": "地質学・古生物学",
+      "note": ""
+    },
+    {
+      "year": 1954,
+      "fiscal_year_jp": "昭和29年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "勝沼精蔵",
+      "field": "血液学",
+      "note": ""
+    },
+    {
+      "year": 1954,
+      "fiscal_year_jp": "昭和29年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "鏑木清方",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1954,
+      "fiscal_year_jp": "昭和29年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "金田一京助",
+      "field": "言語学",
+      "note": ""
+    },
+    {
+      "year": 1954,
+      "fiscal_year_jp": "昭和29年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "高浜虚子",
+      "field": "俳句",
+      "note": ""
+    },
+    {
+      "year": 1954,
+      "fiscal_year_jp": "昭和29年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "萩原雄祐",
+      "field": "天文学",
+      "note": ""
+    },
+    {
+      "year": 1955,
+      "fiscal_year_jp": "昭和30年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "大谷竹次郎",
+      "field": "演劇事業",
+      "note": ""
+    },
+    {
+      "year": 1955,
+      "fiscal_year_jp": "昭和30年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "二代目稀音家浄観",
+      "field": "長唄",
+      "note": ""
+    },
+    {
+      "year": 1955,
+      "fiscal_year_jp": "昭和30年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "平沼亮三",
+      "field": "体育",
+      "note": ""
+    },
+    {
+      "year": 1955,
+      "fiscal_year_jp": "昭和30年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "二木謙三",
+      "field": "伝染病学",
+      "note": ""
+    },
+    {
+      "year": 1955,
+      "fiscal_year_jp": "昭和30年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "前田青邨",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1955,
+      "fiscal_year_jp": "昭和30年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "増本量",
+      "field": "金属学",
+      "note": ""
+    },
+    {
+      "year": 1955,
+      "fiscal_year_jp": "昭和30年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "和辻哲郎",
+      "field": "倫理学",
+      "note": ""
+    },
+    {
+      "year": 1955,
+      "fiscal_year_jp": "昭和30年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "河井寛次郎",
+      "field": "陶芸",
+      "note": "辞退"
+    },
+    {
+      "year": 1956,
+      "fiscal_year_jp": "昭和31年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "安藤広太郎",
+      "field": "農学",
+      "note": ""
+    },
+    {
+      "year": 1956,
+      "fiscal_year_jp": "昭和31年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "坂本繁二郎",
+      "field": "洋画",
+      "note": ""
+    },
+    {
+      "year": 1956,
+      "fiscal_year_jp": "昭和31年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "新村出",
+      "field": "言語学・国語学",
+      "note": ""
+    },
+    {
+      "year": 1956,
+      "fiscal_year_jp": "昭和31年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "古畑種基",
+      "field": "法医学",
+      "note": ""
+    },
+    {
+      "year": 1956,
+      "fiscal_year_jp": "昭和31年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "村上武次郎",
+      "field": "金属学",
+      "note": ""
+    },
+    {
+      "year": 1956,
+      "fiscal_year_jp": "昭和31年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "八木秀次",
+      "field": "電気工学",
+      "note": ""
+    },
+    {
+      "year": 1956,
+      "fiscal_year_jp": "昭和31年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "山田耕筰",
+      "field": "作曲",
+      "note": ""
+    },
+    {
+      "year": 1957,
+      "fiscal_year_jp": "昭和32年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "牧野富太郎",
+      "field": "植物学、没後追贈",
+      "note": ""
+    },
+    {
+      "year": 1957,
+      "fiscal_year_jp": "昭和32年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "緒方知三郎",
+      "field": "病理学",
+      "note": ""
+    },
+    {
+      "year": 1957,
+      "fiscal_year_jp": "昭和32年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "久保田万太郎",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 1957,
+      "fiscal_year_jp": "昭和32年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "小平邦彦",
+      "field": "数学,フィールズ賞受賞者",
+      "note": ""
+    },
+    {
+      "year": 1957,
+      "fiscal_year_jp": "昭和32年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "西山翠嶂",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1957,
+      "fiscal_year_jp": "昭和32年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "山田孝雄",
+      "field": "国語学",
+      "note": ""
+    },
+    {
+      "year": 1957,
+      "fiscal_year_jp": "昭和32年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "四代目吉住小三郎",
+      "field": "長唄",
+      "note": ""
+    },
+    {
+      "year": 1958,
+      "fiscal_year_jp": "昭和33年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "北村西望",
+      "field": "彫塑",
+      "note": ""
+    },
+    {
+      "year": 1958,
+      "fiscal_year_jp": "昭和33年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "近藤平三郎",
+      "field": "薬学・薬化学",
+      "note": ""
+    },
+    {
+      "year": 1958,
+      "fiscal_year_jp": "昭和33年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "野副鉄男",
+      "field": "有機化学",
+      "note": ""
+    },
+    {
+      "year": 1958,
+      "fiscal_year_jp": "昭和33年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "松林桂月",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1959,
+      "fiscal_year_jp": "昭和34年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "川端龍子",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1959,
+      "fiscal_year_jp": "昭和34年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "小泉信三",
+      "field": "経済学",
+      "note": ""
+    },
+    {
+      "year": 1959,
+      "fiscal_year_jp": "昭和34年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "丹羽保次郎",
+      "field": "電気工学",
+      "note": ""
+    },
+    {
+      "year": 1959,
+      "fiscal_year_jp": "昭和34年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "里見弴",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 1959,
+      "fiscal_year_jp": "昭和34年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "吉田富三",
+      "field": "病理学",
+      "note": ""
+    },
+    {
+      "year": 1960,
+      "fiscal_year_jp": "昭和35年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "岡潔",
+      "field": "数学",
+      "note": ""
+    },
+    {
+      "year": 1960,
+      "fiscal_year_jp": "昭和35年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "佐藤春夫",
+      "field": "小説・詩",
+      "note": ""
+    },
+    {
+      "year": 1960,
+      "fiscal_year_jp": "昭和35年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "田中耕太郎",
+      "field": "商法・法哲学",
+      "note": ""
+    },
+    {
+      "year": 1960,
+      "fiscal_year_jp": "昭和35年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "吉川英治",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 1961,
+      "fiscal_year_jp": "昭和36年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "川端康成",
+      "field": "小説,ノーベル賞受賞者",
+      "note": ""
+    },
+    {
+      "year": 1961,
+      "fiscal_year_jp": "昭和36年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "鈴木虎雄",
+      "field": "中国文学・漢詩・和歌",
+      "note": ""
+    },
+    {
+      "year": 1961,
+      "fiscal_year_jp": "昭和36年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "富本憲吉",
+      "field": "陶芸",
+      "note": ""
+    },
+    {
+      "year": 1961,
+      "fiscal_year_jp": "昭和36年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "堂本印象",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1961,
+      "fiscal_year_jp": "昭和36年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "福田平八郎",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1961,
+      "fiscal_year_jp": "昭和36年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "水島三一郎",
+      "field": "化学",
+      "note": ""
+    },
+    {
+      "year": 1962,
+      "fiscal_year_jp": "昭和37年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "梅沢浜夫",
+      "field": "微生物学",
+      "note": ""
+    },
+    {
+      "year": 1962,
+      "fiscal_year_jp": "昭和37年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "奥村土牛",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1962,
+      "fiscal_year_jp": "昭和37年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "桑田義備",
+      "field": "植物細胞学",
+      "note": ""
+    },
+    {
+      "year": 1962,
+      "fiscal_year_jp": "昭和37年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "中村岳陵",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1962,
+      "fiscal_year_jp": "昭和37年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "平櫛田中",
+      "field": "木彫",
+      "note": ""
+    },
+    {
+      "year": 1963,
+      "fiscal_year_jp": "昭和38年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "久野寧",
+      "field": "生理学",
+      "note": ""
+    },
+    {
+      "year": 1963,
+      "fiscal_year_jp": "昭和38年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "古賀逸策",
+      "field": "電気工学",
+      "note": ""
+    },
+    {
+      "year": 1964,
+      "fiscal_year_jp": "昭和39年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "茅誠司",
+      "field": "物理学",
+      "note": ""
+    },
+    {
+      "year": 1964,
+      "fiscal_year_jp": "昭和39年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "大仏次郎",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 1964,
+      "fiscal_year_jp": "昭和39年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "藪田貞治郎",
+      "field": "農芸化学",
+      "note": ""
+    },
+    {
+      "year": 1964,
+      "fiscal_year_jp": "昭和39年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "吉田五十八",
+      "field": "建築",
+      "note": ""
+    },
+    {
+      "year": 1964,
+      "fiscal_year_jp": "昭和39年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "我妻栄",
+      "field": "民法",
+      "note": ""
+    },
+    {
+      "year": 1965,
+      "fiscal_year_jp": "昭和40年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "赤堀四郎",
+      "field": "生物有機学",
+      "note": ""
+    },
+    {
+      "year": 1965,
+      "fiscal_year_jp": "昭和40年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "小糸源太郎",
+      "field": "洋画",
+      "note": ""
+    },
+    {
+      "year": 1965,
+      "fiscal_year_jp": "昭和40年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "諸橋轍次",
+      "field": "漢文学",
+      "note": ""
+    },
+    {
+      "year": 1965,
+      "fiscal_year_jp": "昭和40年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "山口蓬春",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1965,
+      "fiscal_year_jp": "昭和40年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "山本有三",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 1966,
+      "fiscal_year_jp": "昭和41年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "井伏鱒二",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 1966,
+      "fiscal_year_jp": "昭和41年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "徳岡神泉",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1966,
+      "fiscal_year_jp": "昭和41年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "仁田勇",
+      "field": "結晶化学",
+      "note": ""
+    },
+    {
+      "year": 1967,
+      "fiscal_year_jp": "昭和42年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "小林秀雄",
+      "field": "文芸評論",
+      "note": ""
+    },
+    {
+      "year": 1967,
+      "fiscal_year_jp": "昭和42年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "坂口謹一郎",
+      "field": "微生物学・酵素学",
+      "note": ""
+    },
+    {
+      "year": 1967,
+      "fiscal_year_jp": "昭和42年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "林武",
+      "field": "洋画",
+      "note": ""
+    },
+    {
+      "year": 1967,
+      "fiscal_year_jp": "昭和42年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "村野藤吾",
+      "field": "建築",
+      "note": ""
+    },
+    {
+      "year": 1967,
+      "fiscal_year_jp": "昭和42年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "山県昌夫",
+      "field": "造船工学",
+      "note": ""
+    },
+    {
+      "year": 1968,
+      "fiscal_year_jp": "昭和43年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "堅山南風",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1968,
+      "fiscal_year_jp": "昭和43年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "黒川利雄",
+      "field": "内科学",
+      "note": ""
+    },
+    {
+      "year": 1968,
+      "fiscal_year_jp": "昭和43年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "鈴木雅次",
+      "field": "土木工学",
+      "note": ""
+    },
+    {
+      "year": 1968,
+      "fiscal_year_jp": "昭和43年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "濱田庄司",
+      "field": "陶芸",
+      "note": ""
+    },
+    {
+      "year": 1968,
+      "fiscal_year_jp": "昭和43年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "熊谷守一",
+      "field": "洋画",
+      "note": "辞退"
+    },
+    {
+      "year": 1969,
+      "fiscal_year_jp": "昭和44年度",
+      "conferred": "10月31日発令・官邸で手交",
+      "name": "ニール・アームストロング",
+      "field": "アポロ11号宇宙飛行士、アメリカ人",
+      "note": ""
+    },
+    {
+      "year": 1969,
+      "fiscal_year_jp": "昭和44年度",
+      "conferred": "10月31日発令・官邸で手交",
+      "name": "マイケル・コリンズ",
+      "field": "同",
+      "note": ""
+    },
+    {
+      "year": 1969,
+      "fiscal_year_jp": "昭和44年度",
+      "conferred": "10月31日発令・官邸で手交",
+      "name": "エドウィン・オルドリン",
+      "field": "同",
+      "note": ""
+    },
+    {
+      "year": 1969,
+      "fiscal_year_jp": "昭和44年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "獅子文六",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 1969,
+      "fiscal_year_jp": "昭和44年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "落合英二",
+      "field": "薬化学",
+      "note": ""
+    },
+    {
+      "year": 1969,
+      "fiscal_year_jp": "昭和44年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "正田建次郎",
+      "field": "数学",
+      "note": ""
+    },
+    {
+      "year": 1969,
+      "fiscal_year_jp": "昭和44年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "東山魁夷",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1970,
+      "fiscal_year_jp": "昭和45年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "冲中重雄",
+      "field": "内科学・神経学",
+      "note": ""
+    },
+    {
+      "year": 1970,
+      "fiscal_year_jp": "昭和45年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "棟方志功",
+      "field": "版画",
+      "note": ""
+    },
+    {
+      "year": 1971,
+      "fiscal_year_jp": "昭和46年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "赤木正雄",
+      "field": "砂防計画学",
+      "note": ""
+    },
+    {
+      "year": 1971,
+      "fiscal_year_jp": "昭和46年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "荒川豊蔵",
+      "field": "陶芸",
+      "note": ""
+    },
+    {
+      "year": 1971,
+      "fiscal_year_jp": "昭和46年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "野上弥生子",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 1971,
+      "fiscal_year_jp": "昭和46年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "安井琢磨",
+      "field": "近代経済学",
+      "note": ""
+    },
+    {
+      "year": 1972,
+      "fiscal_year_jp": "昭和47年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "内田祥三",
+      "field": "建築学・防災工学",
+      "note": ""
+    },
+    {
+      "year": 1972,
+      "fiscal_year_jp": "昭和47年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "小野清一郎",
+      "field": "刑事法学",
+      "note": ""
+    },
+    {
+      "year": 1972,
+      "fiscal_year_jp": "昭和47年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "岡鹿之助",
+      "field": "洋画",
+      "note": ""
+    },
+    {
+      "year": 1972,
+      "fiscal_year_jp": "昭和47年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "早石修",
+      "field": "生化学",
+      "note": ""
+    },
+    {
+      "year": 1973,
+      "fiscal_year_jp": "昭和48年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "石原謙",
+      "field": "宗教史",
+      "note": ""
+    },
+    {
+      "year": 1973,
+      "fiscal_year_jp": "昭和48年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "勝木保次",
+      "field": "生理学",
+      "note": ""
+    },
+    {
+      "year": 1973,
+      "fiscal_year_jp": "昭和48年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "久保亮五",
+      "field": "統計力学",
+      "note": ""
+    },
+    {
+      "year": 1973,
+      "fiscal_year_jp": "昭和48年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "瀬藤象二",
+      "field": "電気工学",
+      "note": ""
+    },
+    {
+      "year": 1973,
+      "fiscal_year_jp": "昭和48年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "谷口吉郎",
+      "field": "建築",
+      "note": ""
+    },
+    {
+      "year": 1974,
+      "fiscal_year_jp": "昭和49年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "石坂公成",
+      "field": "免疫学",
+      "note": ""
+    },
+    {
+      "year": 1974,
+      "fiscal_year_jp": "昭和49年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "江崎玲於奈",
+      "field": "電子工学、ノーベル賞受賞者",
+      "note": ""
+    },
+    {
+      "year": 1974,
+      "fiscal_year_jp": "昭和49年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "杉山寧",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1974,
+      "fiscal_year_jp": "昭和49年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "永田武",
+      "field": "地球物理学",
+      "note": ""
+    },
+    {
+      "year": 1974,
+      "fiscal_year_jp": "昭和49年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "橋本明治",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1975,
+      "fiscal_year_jp": "昭和50年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "江橋節郎",
+      "field": "薬理学",
+      "note": ""
+    },
+    {
+      "year": 1975,
+      "fiscal_year_jp": "昭和50年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "小山敬三",
+      "field": "洋画",
+      "note": ""
+    },
+    {
+      "year": 1975,
+      "fiscal_year_jp": "昭和50年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "田崎広助",
+      "field": "洋画",
+      "note": ""
+    },
+    {
+      "year": 1975,
+      "fiscal_year_jp": "昭和50年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "中川一政",
+      "field": "洋画",
+      "note": ""
+    },
+    {
+      "year": 1975,
+      "fiscal_year_jp": "昭和50年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "広中平祐",
+      "field": "数学",
+      "note": ""
+    },
+    {
+      "year": 1976,
+      "fiscal_year_jp": "昭和51年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "井上靖",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 1976,
+      "fiscal_year_jp": "昭和51年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "小野竹喬",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1976,
+      "fiscal_year_jp": "昭和51年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "木村資生",
+      "field": "遺伝学",
+      "note": ""
+    },
+    {
+      "year": 1976,
+      "fiscal_year_jp": "昭和51年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "松田権六",
+      "field": "漆芸",
+      "note": ""
+    },
+    {
+      "year": 1976,
+      "fiscal_year_jp": "昭和51年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "森嶋通夫",
+      "field": "理論経済学",
+      "note": ""
+    },
+    {
+      "year": 1977,
+      "fiscal_year_jp": "昭和52年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "桜田一郎",
+      "field": "応用化学・高分子化学",
+      "note": ""
+    },
+    {
+      "year": 1977,
+      "fiscal_year_jp": "昭和52年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "田宮博",
+      "field": "細胞生理化学",
+      "note": ""
+    },
+    {
+      "year": 1977,
+      "fiscal_year_jp": "昭和52年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "中村元",
+      "field": "インド哲学",
+      "note": ""
+    },
+    {
+      "year": 1977,
+      "fiscal_year_jp": "昭和52年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "丹羽文雄",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 1977,
+      "fiscal_year_jp": "昭和52年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "山本丘人",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1978,
+      "fiscal_year_jp": "昭和53年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "尾崎一雄",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 1978,
+      "fiscal_year_jp": "昭和53年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "楠部彌弌",
+      "field": "陶芸",
+      "note": ""
+    },
+    {
+      "year": 1978,
+      "fiscal_year_jp": "昭和53年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "杉村隆",
+      "field": "癌生理学",
+      "note": ""
+    },
+    {
+      "year": 1978,
+      "fiscal_year_jp": "昭和53年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "田中美知太郎",
+      "field": "哲学・西洋古典学",
+      "note": ""
+    },
+    {
+      "year": 1978,
+      "fiscal_year_jp": "昭和53年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "南部陽一郎",
+      "field": "理論物理学、ノーベル賞受賞者、アメリカ国籍",
+      "note": ""
+    },
+    {
+      "year": 1979,
+      "fiscal_year_jp": "昭和54年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "今西錦司",
+      "field": "霊長類学",
+      "note": ""
+    },
+    {
+      "year": 1979,
+      "fiscal_year_jp": "昭和54年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "六代目中村歌右衛門",
+      "field": "歌舞伎",
+      "note": ""
+    },
+    {
+      "year": 1979,
+      "fiscal_year_jp": "昭和54年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "沢田政広",
+      "field": "木彫",
+      "note": ""
+    },
+    {
+      "year": 1979,
+      "fiscal_year_jp": "昭和54年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "高橋誠一郎",
+      "field": "経済史学",
+      "note": ""
+    },
+    {
+      "year": 1979,
+      "fiscal_year_jp": "昭和54年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "堀口大学",
+      "field": "詩・翻訳",
+      "note": ""
+    },
+    {
+      "year": 1980,
+      "fiscal_year_jp": "昭和55年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "小倉遊亀",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1980,
+      "fiscal_year_jp": "昭和55年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "小谷正雄",
+      "field": "分子生理学・生物物理学",
+      "note": ""
+    },
+    {
+      "year": 1980,
+      "fiscal_year_jp": "昭和55年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "丹下健三",
+      "field": "建築",
+      "note": ""
+    },
+    {
+      "year": 1980,
+      "fiscal_year_jp": "昭和55年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "東畑精一",
+      "field": "農業経済学",
+      "note": ""
+    },
+    {
+      "year": 1980,
+      "fiscal_year_jp": "昭和55年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "十七代目中村勘三郎",
+      "field": "歌舞伎",
+      "note": ""
+    },
+    {
+      "year": 1981,
+      "fiscal_year_jp": "昭和56年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "高柳健次郎",
+      "field": "電子工学・テレビジョン工学",
+      "note": ""
+    },
+    {
+      "year": 1981,
+      "fiscal_year_jp": "昭和56年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "永井龍男",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 1981,
+      "fiscal_year_jp": "昭和56年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "初代松本白鸚",
+      "field": "歌舞伎",
+      "note": ""
+    },
+    {
+      "year": 1981,
+      "fiscal_year_jp": "昭和56年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "山口華楊",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1981,
+      "fiscal_year_jp": "昭和56年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "横田喜三郎",
+      "field": "国際法学",
+      "note": ""
+    },
+    {
+      "year": 1981,
+      "fiscal_year_jp": "昭和56年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "福井謙一",
+      "field": "工業化学、ノーベル賞受賞者",
+      "note": ""
+    },
+    {
+      "year": 1982,
+      "fiscal_year_jp": "昭和57年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "坂本太郎",
+      "field": "日本史学",
+      "note": ""
+    },
+    {
+      "year": 1982,
+      "fiscal_year_jp": "昭和57年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "髙山辰雄",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1982,
+      "fiscal_year_jp": "昭和57年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "津田恭介",
+      "field": "薬学・有機化学",
+      "note": ""
+    },
+    {
+      "year": 1982,
+      "fiscal_year_jp": "昭和57年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "六代目藤間勘十郎",
+      "field": "邦舞",
+      "note": ""
+    },
+    {
+      "year": 1982,
+      "fiscal_year_jp": "昭和57年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "吉識雅夫",
+      "field": "船舶工学",
+      "note": ""
+    },
+    {
+      "year": 1983,
+      "fiscal_year_jp": "昭和58年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "山本健吉",
+      "field": "文芸評論",
+      "note": ""
+    },
+    {
+      "year": 1983,
+      "fiscal_year_jp": "昭和58年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "牛島憲之",
+      "field": "洋画",
+      "note": ""
+    },
+    {
+      "year": 1983,
+      "fiscal_year_jp": "昭和58年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "小磯良平",
+      "field": "洋画",
+      "note": ""
+    },
+    {
+      "year": 1983,
+      "fiscal_year_jp": "昭和58年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "服部四郎",
+      "field": "言語学",
+      "note": ""
+    },
+    {
+      "year": 1983,
+      "fiscal_year_jp": "昭和58年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "武藤清",
+      "field": "建築構造学",
+      "note": ""
+    },
+    {
+      "year": 1984,
+      "fiscal_year_jp": "昭和59年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "上村松篁",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1984,
+      "fiscal_year_jp": "昭和59年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "奥田元宋",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1984,
+      "fiscal_year_jp": "昭和59年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "貝塚茂樹",
+      "field": "東洋史学",
+      "note": ""
+    },
+    {
+      "year": 1984,
+      "fiscal_year_jp": "昭和59年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "高橋信次",
+      "field": "放射線医学",
+      "note": ""
+    },
+    {
+      "year": 1984,
+      "fiscal_year_jp": "昭和59年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "利根川進",
+      "field": "分子生物学、ノーベル賞受賞者",
+      "note": ""
+    },
+    {
+      "year": 1985,
+      "fiscal_year_jp": "昭和60年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "円地文子",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 1985,
+      "fiscal_year_jp": "昭和60年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "黒澤明",
+      "field": "映画",
+      "note": ""
+    },
+    {
+      "year": 1985,
+      "fiscal_year_jp": "昭和60年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "相良守峯",
+      "field": "ドイツ語学・ドイツ文学",
+      "note": ""
+    },
+    {
+      "year": 1985,
+      "fiscal_year_jp": "昭和60年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "西川寧",
+      "field": "書",
+      "note": ""
+    },
+    {
+      "year": 1985,
+      "fiscal_year_jp": "昭和60年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "和達清夫",
+      "field": "地球物理学",
+      "note": ""
+    },
+    {
+      "year": 1986,
+      "fiscal_year_jp": "昭和61年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "荻須高徳",
+      "field": "洋画、没後追贈",
+      "note": ""
+    },
+    {
+      "year": 1986,
+      "fiscal_year_jp": "昭和61年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "岡義武",
+      "field": "政治史",
+      "note": ""
+    },
+    {
+      "year": 1986,
+      "fiscal_year_jp": "昭和61年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "土屋文明",
+      "field": "短歌",
+      "note": ""
+    },
+    {
+      "year": 1986,
+      "fiscal_year_jp": "昭和61年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "名取礼二",
+      "field": "筋生理学",
+      "note": ""
+    },
+    {
+      "year": 1986,
+      "fiscal_year_jp": "昭和61年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "林忠四郎",
+      "field": "宇宙物理学",
+      "note": ""
+    },
+    {
+      "year": 1987,
+      "fiscal_year_jp": "昭和62年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "池田遥邨",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1987,
+      "fiscal_year_jp": "昭和62年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "岡田善雄",
+      "field": "細胞遺伝学",
+      "note": ""
+    },
+    {
+      "year": 1987,
+      "fiscal_year_jp": "昭和62年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "草野心平",
+      "field": "詩",
+      "note": ""
+    },
+    {
+      "year": 1987,
+      "fiscal_year_jp": "昭和62年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "桑原武夫",
+      "field": "フランス文学・評論",
+      "note": ""
+    },
+    {
+      "year": 1987,
+      "fiscal_year_jp": "昭和62年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "二代目尾上松緑",
+      "field": "歌舞伎",
+      "note": ""
+    },
+    {
+      "year": 1988,
+      "fiscal_year_jp": "昭和63年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "今井功",
+      "field": "流体力学",
+      "note": ""
+    },
+    {
+      "year": 1988,
+      "fiscal_year_jp": "昭和63年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "円鍔勝三",
+      "field": "彫刻",
+      "note": ""
+    },
+    {
+      "year": 1988,
+      "fiscal_year_jp": "昭和63年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "河盛好蔵",
+      "field": "翻訳・評論",
+      "note": ""
+    },
+    {
+      "year": 1988,
+      "fiscal_year_jp": "昭和63年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "末永雅雄",
+      "field": "考古学",
+      "note": ""
+    },
+    {
+      "year": 1988,
+      "fiscal_year_jp": "昭和63年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "西塚泰美",
+      "field": "生化学",
+      "note": ""
+    },
+    {
+      "year": 1989,
+      "fiscal_year_jp": "平成元年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "片岡球子",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1989,
+      "fiscal_year_jp": "平成元年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "鈴木竹雄",
+      "field": "商法学",
+      "note": ""
+    },
+    {
+      "year": 1989,
+      "fiscal_year_jp": "平成元年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "富永直樹",
+      "field": "彫刻",
+      "note": ""
+    },
+    {
+      "year": 1989,
+      "fiscal_year_jp": "平成元年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "西沢潤一",
+      "field": "電子工学",
+      "note": ""
+    },
+    {
+      "year": 1989,
+      "fiscal_year_jp": "平成元年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "吉井淳二",
+      "field": "洋画",
+      "note": ""
+    },
+    {
+      "year": 1990,
+      "fiscal_year_jp": "平成2年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "石井良助",
+      "field": "日本法制史",
+      "note": ""
+    },
+    {
+      "year": 1990,
+      "fiscal_year_jp": "平成2年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "市古貞次",
+      "field": "日本文学",
+      "note": ""
+    },
+    {
+      "year": 1990,
+      "fiscal_year_jp": "平成2年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "四代目井上八千代",
+      "field": "邦舞",
+      "note": ""
+    },
+    {
+      "year": 1990,
+      "fiscal_year_jp": "平成2年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "金子鷗亭",
+      "field": "書",
+      "note": ""
+    },
+    {
+      "year": 1990,
+      "fiscal_year_jp": "平成2年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "長倉三郎",
+      "field": "物理化学",
+      "note": ""
+    },
+    {
+      "year": 1991,
+      "fiscal_year_jp": "平成3年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "猪瀬博",
+      "field": "電子工学",
+      "note": ""
+    },
+    {
+      "year": 1991,
+      "fiscal_year_jp": "平成3年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "江上波夫",
+      "field": "アジア考古学",
+      "note": ""
+    },
+    {
+      "year": 1991,
+      "fiscal_year_jp": "平成3年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "蓮田修吾郎",
+      "field": "鋳金",
+      "note": ""
+    },
+    {
+      "year": 1991,
+      "fiscal_year_jp": "平成3年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "福沢一郎",
+      "field": "洋画",
+      "note": ""
+    },
+    {
+      "year": 1991,
+      "fiscal_year_jp": "平成3年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "森繁久弥",
+      "field": "大衆芸能",
+      "note": ""
+    },
+    {
+      "year": 1992,
+      "fiscal_year_jp": "平成4年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "青山杉雨",
+      "field": "書",
+      "note": ""
+    },
+    {
+      "year": 1992,
+      "fiscal_year_jp": "平成4年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "井深大",
+      "field": "電子技術",
+      "note": ""
+    },
+    {
+      "year": 1992,
+      "fiscal_year_jp": "平成4年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "大塚久雄",
+      "field": "西洋経済史",
+      "note": ""
+    },
+    {
+      "year": 1992,
+      "fiscal_year_jp": "平成4年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "佐藤太清",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1992,
+      "fiscal_year_jp": "平成4年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "森野米三",
+      "field": "構造化学",
+      "note": ""
+    },
+    {
+      "year": 1993,
+      "fiscal_year_jp": "平成5年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "大隅健一郎",
+      "field": "商法・経済法",
+      "note": ""
+    },
+    {
+      "year": 1993,
+      "fiscal_year_jp": "平成5年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "小田稔",
+      "field": "宇宙物理学",
+      "note": ""
+    },
+    {
+      "year": 1993,
+      "fiscal_year_jp": "平成5年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "帖佐美行",
+      "field": "彫金",
+      "note": ""
+    },
+    {
+      "year": 1993,
+      "fiscal_year_jp": "平成5年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "司馬遼太郎",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 1993,
+      "fiscal_year_jp": "平成5年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "森田茂",
+      "field": "洋画",
+      "note": ""
+    },
+    {
+      "year": 1994,
+      "fiscal_year_jp": "平成6年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "朝比奈隆",
+      "field": "洋楽・指揮",
+      "note": ""
+    },
+    {
+      "year": 1994,
+      "fiscal_year_jp": "平成6年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "岩橋英遠",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1994,
+      "fiscal_year_jp": "平成6年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "梅棹忠夫",
+      "field": "民族学",
+      "note": ""
+    },
+    {
+      "year": 1994,
+      "fiscal_year_jp": "平成6年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "島秀雄",
+      "field": "鉄道工学",
+      "note": ""
+    },
+    {
+      "year": 1994,
+      "fiscal_year_jp": "平成6年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "満田久輝",
+      "field": "栄養化学・食料化学",
+      "note": ""
+    },
+    {
+      "year": 1994,
+      "fiscal_year_jp": "平成6年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "大江健三郎",
+      "field": "小説",
+      "note": "拒絶"
+    },
+    {
+      "year": 1995,
+      "fiscal_year_jp": "平成7年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "遠藤周作",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 1995,
+      "fiscal_year_jp": "平成7年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "佐治賢使",
+      "field": "漆工芸",
+      "note": ""
+    },
+    {
+      "year": 1995,
+      "fiscal_year_jp": "平成7年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "団藤重光",
+      "field": "刑事法学",
+      "note": ""
+    },
+    {
+      "year": 1995,
+      "fiscal_year_jp": "平成7年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "花房秀三郎",
+      "field": "ウイルス学・腫瘍学",
+      "note": ""
+    },
+    {
+      "year": 1995,
+      "fiscal_year_jp": "平成7年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "増田四郎",
+      "field": "西洋経済史",
+      "note": ""
+    },
+    {
+      "year": 1995,
+      "fiscal_year_jp": "平成7年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "杉村春子",
+      "field": "演劇",
+      "note": "辞退"
+    },
+    {
+      "year": 1996,
+      "fiscal_year_jp": "平成8年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "浅蔵五十吉",
+      "field": "陶芸",
+      "note": ""
+    },
+    {
+      "year": 1996,
+      "fiscal_year_jp": "平成8年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "伊藤清永",
+      "field": "洋画",
+      "note": ""
+    },
+    {
+      "year": 1996,
+      "fiscal_year_jp": "平成8年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "伊藤正男",
+      "field": "神経生理学・神経科学",
+      "note": ""
+    },
+    {
+      "year": 1996,
+      "fiscal_year_jp": "平成8年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "竹内理三",
+      "field": "日本史学",
+      "note": ""
+    },
+    {
+      "year": 1996,
+      "fiscal_year_jp": "平成8年度",
+      "conferred": "11月3日発令・宮中伝達式",
+      "name": "森英恵",
+      "field": "服飾デザイン",
+      "note": ""
+    },
+    {
+      "year": 1997,
+      "fiscal_year_jp": "平成9年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "十五代千宗室",
+      "field": "茶道",
+      "note": ""
+    },
+    {
+      "year": 1997,
+      "fiscal_year_jp": "平成9年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "宇沢弘文",
+      "field": "理論経済学",
+      "note": ""
+    },
+    {
+      "year": 1997,
+      "fiscal_year_jp": "平成9年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "小柴昌俊",
+      "field": "素粒子実験",
+      "note": ""
+    },
+    {
+      "year": 1997,
+      "fiscal_year_jp": "平成9年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "高橋節郎",
+      "field": "漆芸",
+      "note": ""
+    },
+    {
+      "year": 1997,
+      "fiscal_year_jp": "平成9年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "向山光昭",
+      "field": "有機合成化学",
+      "note": ""
+    },
+    {
+      "year": 1998,
+      "fiscal_year_jp": "平成10年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "芦原義信",
+      "field": "建築",
+      "note": ""
+    },
+    {
+      "year": 1998,
+      "fiscal_year_jp": "平成10年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "岸本忠三",
+      "field": "免疫学",
+      "note": ""
+    },
+    {
+      "year": 1998,
+      "fiscal_year_jp": "平成10年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "平山郁夫",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1998,
+      "fiscal_year_jp": "平成10年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "村上三島",
+      "field": "書",
+      "note": ""
+    },
+    {
+      "year": 1998,
+      "fiscal_year_jp": "平成10年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "山本達郎",
+      "field": "東洋史学",
+      "note": ""
+    },
+    {
+      "year": 1999,
+      "fiscal_year_jp": "平成11年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "阿川弘之",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 1999,
+      "fiscal_year_jp": "平成11年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "秋野不矩",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 1999,
+      "fiscal_year_jp": "平成11年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "伊藤正己",
+      "field": "英米法・憲法",
+      "note": ""
+    },
+    {
+      "year": 1999,
+      "fiscal_year_jp": "平成11年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "梅原猛",
+      "field": "日本文化研究",
+      "note": ""
+    },
+    {
+      "year": 1999,
+      "fiscal_year_jp": "平成11年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "田村三郎",
+      "field": "生物有機化学・生物環境生物科学",
+      "note": ""
+    },
+    {
+      "year": 2000,
+      "fiscal_year_jp": "平成12年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "石川忠雄",
+      "field": "現代中国研究",
+      "note": ""
+    },
+    {
+      "year": 2000,
+      "fiscal_year_jp": "平成12年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "大久保婦久子",
+      "field": "皮革工芸",
+      "note": ""
+    },
+    {
+      "year": 2000,
+      "fiscal_year_jp": "平成12年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "白川英樹",
+      "field": "物質科学、ノーベル賞受賞者",
+      "note": ""
+    },
+    {
+      "year": 2000,
+      "fiscal_year_jp": "平成12年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "杉岡華邨",
+      "field": "書・仮名",
+      "note": ""
+    },
+    {
+      "year": 2000,
+      "fiscal_year_jp": "平成12年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "野依良治",
+      "field": "有機化学",
+      "note": ""
+    },
+    {
+      "year": 2000,
+      "fiscal_year_jp": "平成12年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "山田五十鈴",
+      "field": "演劇",
+      "note": ""
+    },
+    {
+      "year": 2001,
+      "fiscal_year_jp": "平成13年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "井口洋夫",
+      "field": "分子エレクトロニクス",
+      "note": ""
+    },
+    {
+      "year": 2001,
+      "fiscal_year_jp": "平成13年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "豊島久真男",
+      "field": "ウイルス学",
+      "note": ""
+    },
+    {
+      "year": 2001,
+      "fiscal_year_jp": "平成13年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "中根千枝",
+      "field": "社会人類学",
+      "note": ""
+    },
+    {
+      "year": 2001,
+      "fiscal_year_jp": "平成13年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "守屋多々志",
+      "field": "日本画・古画表現",
+      "note": ""
+    },
+    {
+      "year": 2001,
+      "fiscal_year_jp": "平成13年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "淀井敏夫",
+      "field": "彫刻",
+      "note": ""
+    },
+    {
+      "year": 2002,
+      "fiscal_year_jp": "平成14年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "小宮隆太郎",
+      "field": "国際経済学",
+      "note": ""
+    },
+    {
+      "year": 2002,
+      "fiscal_year_jp": "平成14年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "近藤次郎",
+      "field": "航空宇宙工学・応用数学・環境科学・学術振興",
+      "note": ""
+    },
+    {
+      "year": 2002,
+      "fiscal_year_jp": "平成14年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "新藤兼人",
+      "field": "映画",
+      "note": ""
+    },
+    {
+      "year": 2002,
+      "fiscal_year_jp": "平成14年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "杉本苑子",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 2002,
+      "fiscal_year_jp": "平成14年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "田中耕一",
+      "field": "質量分析学、ノーベル賞受賞者",
+      "note": ""
+    },
+    {
+      "year": 2002,
+      "fiscal_year_jp": "平成14年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "藤田喬平",
+      "field": "ガラス工芸",
+      "note": ""
+    },
+    {
+      "year": 2003,
+      "fiscal_year_jp": "平成15年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "大岡信",
+      "field": "詩・評論",
+      "note": ""
+    },
+    {
+      "year": 2003,
+      "fiscal_year_jp": "平成15年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "緒方貞子",
+      "field": "政治学・国際活動・国際貢献",
+      "note": ""
+    },
+    {
+      "year": 2003,
+      "fiscal_year_jp": "平成15年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "加山又造",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 2003,
+      "fiscal_year_jp": "平成15年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "西島和彦",
+      "field": "素粒子物理学",
+      "note": ""
+    },
+    {
+      "year": 2003,
+      "fiscal_year_jp": "平成15年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "森亘",
+      "field": "病理学・科学技術・学術振興",
+      "note": ""
+    },
+    {
+      "year": 2004,
+      "fiscal_year_jp": "平成16年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "四代目中村雀右衛門",
+      "field": "歌舞伎",
+      "note": ""
+    },
+    {
+      "year": 2004,
+      "fiscal_year_jp": "平成16年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "小林斗盦",
+      "field": "書・篆刻",
+      "note": ""
+    },
+    {
+      "year": 2004,
+      "fiscal_year_jp": "平成16年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "白川静",
+      "field": "中国古代文化",
+      "note": ""
+    },
+    {
+      "year": 2004,
+      "fiscal_year_jp": "平成16年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "戸塚洋二",
+      "field": "宇宙線物理学",
+      "note": ""
+    },
+    {
+      "year": 2004,
+      "fiscal_year_jp": "平成16年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "福王寺法林",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 2005,
+      "fiscal_year_jp": "平成17年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "青木龍山",
+      "field": "陶芸",
+      "note": ""
+    },
+    {
+      "year": 2005,
+      "fiscal_year_jp": "平成17年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "斎藤眞",
+      "field": "アメリカ政治外交史",
+      "note": ""
+    },
+    {
+      "year": 2005,
+      "fiscal_year_jp": "平成17年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "沢田敏男",
+      "field": "農業工学",
+      "note": ""
+    },
+    {
+      "year": 2005,
+      "fiscal_year_jp": "平成17年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "日野原重明",
+      "field": "内科学・看護教育・医療振興",
+      "note": ""
+    },
+    {
+      "year": 2005,
+      "fiscal_year_jp": "平成17年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "森光子",
+      "field": "大衆演劇",
+      "note": ""
+    },
+    {
+      "year": 2006,
+      "fiscal_year_jp": "平成18年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "荒田吉明",
+      "field": "溶接工学",
+      "note": ""
+    },
+    {
+      "year": 2006,
+      "fiscal_year_jp": "平成18年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "大山忠作",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 2006,
+      "fiscal_year_jp": "平成18年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "篠原三代平",
+      "field": "日本経済論",
+      "note": ""
+    },
+    {
+      "year": 2006,
+      "fiscal_year_jp": "平成18年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "瀬戸内寂聴",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 2006,
+      "fiscal_year_jp": "平成18年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "吉田秀和",
+      "field": "音楽評論",
+      "note": ""
+    },
+    {
+      "year": 2007,
+      "fiscal_year_jp": "平成19年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "岡田節人",
+      "field": "発生生物学",
+      "note": ""
+    },
+    {
+      "year": 2007,
+      "fiscal_year_jp": "平成19年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "四世茂山千作",
+      "field": "狂言",
+      "note": ""
+    },
+    {
+      "year": 2007,
+      "fiscal_year_jp": "平成19年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "中西香爾",
+      "field": "有機化学",
+      "note": ""
+    },
+    {
+      "year": 2007,
+      "fiscal_year_jp": "平成19年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "中村晋也",
+      "field": "彫刻",
+      "note": ""
+    },
+    {
+      "year": 2007,
+      "fiscal_year_jp": "平成19年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "三ヶ月章",
+      "field": "裁判法学",
+      "note": ""
+    },
+    {
+      "year": 2008,
+      "fiscal_year_jp": "平成20年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "伊藤清",
+      "field": "数学",
+      "note": ""
+    },
+    {
+      "year": 2008,
+      "fiscal_year_jp": "平成20年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "小沢征爾",
+      "field": "指揮",
+      "note": ""
+    },
+    {
+      "year": 2008,
+      "fiscal_year_jp": "平成20年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "小林誠",
+      "field": "素粒子物理学、ノーベル賞受賞者",
+      "note": ""
+    },
+    {
+      "year": 2008,
+      "fiscal_year_jp": "平成20年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "下村脩",
+      "field": "海洋生物学、ノーベル賞受賞者",
+      "note": ""
+    },
+    {
+      "year": 2008,
+      "fiscal_year_jp": "平成20年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "田辺聖子",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 2008,
+      "fiscal_year_jp": "平成20年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "ドナルド・キーン",
+      "field": "日本文学・評論、アメリカ人、2012年に日本国籍を取得",
+      "note": ""
+    },
+    {
+      "year": 2008,
+      "fiscal_year_jp": "平成20年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "古橋広之進",
+      "field": "スポーツ",
+      "note": ""
+    },
+    {
+      "year": 2008,
+      "fiscal_year_jp": "平成20年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "益川敏英",
+      "field": "素粒子物理学、ノーベル賞受賞者",
+      "note": ""
+    },
+    {
+      "year": 2009,
+      "fiscal_year_jp": "平成21年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "飯島澄男",
+      "field": "材料科学",
+      "note": ""
+    },
+    {
+      "year": 2009,
+      "fiscal_year_jp": "平成21年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "三代目桂米朝",
+      "field": "古典落語",
+      "note": ""
+    },
+    {
+      "year": 2009,
+      "fiscal_year_jp": "平成21年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "四代目坂田藤十郎",
+      "field": "歌舞伎",
+      "note": ""
+    },
+    {
+      "year": 2009,
+      "fiscal_year_jp": "平成21年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "速水融",
+      "field": "社会経済史・歴史人口学",
+      "note": ""
+    },
+    {
+      "year": 2009,
+      "fiscal_year_jp": "平成21年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "日沼頼夫",
+      "field": "ウイルス学",
+      "note": ""
+    },
+    {
+      "year": 2010,
+      "fiscal_year_jp": "平成22年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "有馬朗人",
+      "field": "原子核物理学・学術振興",
+      "note": ""
+    },
+    {
+      "year": 2010,
+      "fiscal_year_jp": "平成22年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "安藤忠雄",
+      "field": "建築",
+      "note": ""
+    },
+    {
+      "year": 2010,
+      "fiscal_year_jp": "平成22年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "鈴木章",
+      "field": "有機合成化学、ノーベル賞受賞者",
+      "note": ""
+    },
+    {
+      "year": 2010,
+      "fiscal_year_jp": "平成22年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "蜷川幸雄",
+      "field": "演劇",
+      "note": ""
+    },
+    {
+      "year": 2010,
+      "fiscal_year_jp": "平成22年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "根岸英一",
+      "field": "有機合成化学、ノーベル賞受賞者",
+      "note": ""
+    },
+    {
+      "year": 2010,
+      "fiscal_year_jp": "平成22年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "三宅一生",
+      "field": "服飾デザイン",
+      "note": ""
+    },
+    {
+      "year": 2010,
+      "fiscal_year_jp": "平成22年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "脇田晴子",
+      "field": "日本中世史",
+      "note": ""
+    },
+    {
+      "year": 2011,
+      "fiscal_year_jp": "平成23年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "赤﨑勇",
+      "field": "半導体電子工学、ノーベル賞受賞者",
+      "note": ""
+    },
+    {
+      "year": 2011,
+      "fiscal_year_jp": "平成23年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "大樋年朗",
+      "field": "陶芸",
+      "note": ""
+    },
+    {
+      "year": 2011,
+      "fiscal_year_jp": "平成23年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "丸谷才一",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 2011,
+      "fiscal_year_jp": "平成23年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "三谷太一郎",
+      "field": "日本政治外交史",
+      "note": ""
+    },
+    {
+      "year": 2011,
+      "fiscal_year_jp": "平成23年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "柳田充弘",
+      "field": "分子遺伝学・分子生理学",
+      "note": ""
+    },
+    {
+      "year": 2012,
+      "fiscal_year_jp": "平成24年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "小田滋",
+      "field": "国際法学・国際貢献",
+      "note": ""
+    },
+    {
+      "year": 2012,
+      "fiscal_year_jp": "平成24年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "高階秀爾",
+      "field": "美術評論・文化振興",
+      "note": ""
+    },
+    {
+      "year": 2012,
+      "fiscal_year_jp": "平成24年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "松尾敏男",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 2012,
+      "fiscal_year_jp": "平成24年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "山田康之",
+      "field": "植物分子細胞生物学・植物バイオテクノロジー",
+      "note": ""
+    },
+    {
+      "year": 2012,
+      "fiscal_year_jp": "平成24年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "山田洋次",
+      "field": "映画",
+      "note": ""
+    },
+    {
+      "year": 2012,
+      "fiscal_year_jp": "平成24年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "山中伸弥",
+      "field": "幹細胞生物学、ノーベル賞受賞者",
+      "note": ""
+    },
+    {
+      "year": 2013,
+      "fiscal_year_jp": "平成25年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "岩崎俊一",
+      "field": "電子工学",
+      "note": ""
+    },
+    {
+      "year": 2013,
+      "fiscal_year_jp": "平成25年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "高倉健",
+      "field": "映画",
+      "note": ""
+    },
+    {
+      "year": 2013,
+      "fiscal_year_jp": "平成25年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "高木聖鶴",
+      "field": "書",
+      "note": ""
+    },
+    {
+      "year": 2013,
+      "fiscal_year_jp": "平成25年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "中西進",
+      "field": "日本文学・比較文学",
+      "note": ""
+    },
+    {
+      "year": 2013,
+      "fiscal_year_jp": "平成25年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "本庶佑",
+      "field": "医化学・分子免疫学",
+      "note": ""
+    },
+    {
+      "year": 2014,
+      "fiscal_year_jp": "平成26年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "天野浩",
+      "field": "半導体工学、ノーベル賞受賞者",
+      "note": ""
+    },
+    {
+      "year": 2014,
+      "fiscal_year_jp": "平成26年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "河野多惠子",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 2014,
+      "fiscal_year_jp": "平成26年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "竹本住太夫",
+      "field": "人形浄瑠璃、人間国宝",
+      "note": ""
+    },
+    {
+      "year": 2014,
+      "fiscal_year_jp": "平成26年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "国武豊喜",
+      "field": "分子組織化学",
+      "note": ""
+    },
+    {
+      "year": 2014,
+      "fiscal_year_jp": "平成26年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "中村修二",
+      "field": "電子工学、ノーベル賞受賞者、アメリカ国籍",
+      "note": ""
+    },
+    {
+      "year": 2014,
+      "fiscal_year_jp": "平成26年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "根岸隆",
+      "field": "経済理論・経済学説史",
+      "note": ""
+    },
+    {
+      "year": 2014,
+      "fiscal_year_jp": "平成26年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "野見山暁治",
+      "field": "洋画",
+      "note": ""
+    },
+    {
+      "year": 2015,
+      "fiscal_year_jp": "平成27年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "大村智",
+      "field": "天然物有機化学・薬学、ノーベル賞受賞者",
+      "note": ""
+    },
+    {
+      "year": 2015,
+      "fiscal_year_jp": "平成27年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "梶田隆章",
+      "field": "素粒子・宇宙線物理学、ノーベル賞受賞者",
+      "note": ""
+    },
+    {
+      "year": 2015,
+      "fiscal_year_jp": "平成27年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "塩野宏",
+      "field": "行政法学",
+      "note": ""
+    },
+    {
+      "year": 2015,
+      "fiscal_year_jp": "平成27年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "志村ふくみ",
+      "field": "染織",
+      "note": ""
+    },
+    {
+      "year": 2015,
+      "fiscal_year_jp": "平成27年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "末松安晴",
+      "field": "光通信工学",
+      "note": ""
+    },
+    {
+      "year": 2015,
+      "fiscal_year_jp": "平成27年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "仲代達矢",
+      "field": "俳優",
+      "note": ""
+    },
+    {
+      "year": 2015,
+      "fiscal_year_jp": "平成27年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "中西重忠",
+      "field": "神経科学",
+      "note": ""
+    },
+    {
+      "year": 2016,
+      "fiscal_year_jp": "平成28年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "大隅良典",
+      "field": "分子細胞生物学、ノーベル賞受賞者",
+      "note": ""
+    },
+    {
+      "year": 2016,
+      "fiscal_year_jp": "平成28年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "草間彌生",
+      "field": "前衛美術、絵画",
+      "note": ""
+    },
+    {
+      "year": 2016,
+      "fiscal_year_jp": "平成28年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "中野三敏",
+      "field": "日本近世文学",
+      "note": ""
+    },
+    {
+      "year": 2016,
+      "fiscal_year_jp": "平成28年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "太田朋子",
+      "field": "集団遺伝学",
+      "note": ""
+    },
+    {
+      "year": 2016,
+      "fiscal_year_jp": "平成28年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "平岩弓枝",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 2016,
+      "fiscal_year_jp": "平成28年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "船村徹",
+      "field": "作曲",
+      "note": ""
+    },
+    {
+      "year": 2017,
+      "fiscal_year_jp": "平成29年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "奥谷博",
+      "field": "洋画",
+      "note": ""
+    },
+    {
+      "year": 2017,
+      "fiscal_year_jp": "平成29年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "芝祐靖",
+      "field": "雅楽",
+      "note": ""
+    },
+    {
+      "year": 2017,
+      "fiscal_year_jp": "平成29年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "斯波義信",
+      "field": "中国史",
+      "note": ""
+    },
+    {
+      "year": 2017,
+      "fiscal_year_jp": "平成29年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "藤嶋昭",
+      "field": "光化学・電気化学",
+      "note": ""
+    },
+    {
+      "year": 2017,
+      "fiscal_year_jp": "平成29年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "松原謙一",
+      "field": "分子生物学",
+      "note": ""
+    },
+    {
+      "year": 2018,
+      "fiscal_year_jp": "平成30年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "一柳慧",
+      "field": "作曲",
+      "note": ""
+    },
+    {
+      "year": 2018,
+      "fiscal_year_jp": "平成30年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "今井政之",
+      "field": "陶芸",
+      "note": ""
+    },
+    {
+      "year": 2018,
+      "fiscal_year_jp": "平成30年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "金子宏",
+      "field": "租税法学",
+      "note": ""
+    },
+    {
+      "year": 2018,
+      "fiscal_year_jp": "平成30年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "長尾真",
+      "field": "情報工学",
+      "note": ""
+    },
+    {
+      "year": 2018,
+      "fiscal_year_jp": "平成30年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "山崎正和",
+      "field": "劇作・評論",
+      "note": ""
+    },
+    {
+      "year": 2019,
+      "fiscal_year_jp": "令和元年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "甘利俊一",
+      "field": "数理工学",
+      "note": ""
+    },
+    {
+      "year": 2019,
+      "fiscal_year_jp": "令和元年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "坂口志文",
+      "field": "免疫学",
+      "note": ""
+    },
+    {
+      "year": 2019,
+      "fiscal_year_jp": "令和元年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "佐々木毅",
+      "field": "政治学",
+      "note": ""
+    },
+    {
+      "year": 2019,
+      "fiscal_year_jp": "令和元年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "田沼武能",
+      "field": "写真",
+      "note": ""
+    },
+    {
+      "year": 2019,
+      "fiscal_year_jp": "令和元年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "野村萬",
+      "field": "狂言",
+      "note": ""
+    },
+    {
+      "year": 2019,
+      "fiscal_year_jp": "令和元年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "吉野彰",
+      "field": "電気化学、ノーベル賞受賞者",
+      "note": ""
+    },
+    {
+      "year": 2020,
+      "fiscal_year_jp": "令和2年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "橋田壽賀子",
+      "field": "脚本",
+      "note": ""
+    },
+    {
+      "year": 2020,
+      "fiscal_year_jp": "令和2年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "奥田小由女",
+      "field": "人形",
+      "note": ""
+    },
+    {
+      "year": 2020,
+      "fiscal_year_jp": "令和2年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "久保田淳",
+      "field": "日本文学",
+      "note": ""
+    },
+    {
+      "year": 2020,
+      "fiscal_year_jp": "令和2年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "近藤淳",
+      "field": "物性物理学",
+      "note": ""
+    },
+    {
+      "year": 2020,
+      "fiscal_year_jp": "令和2年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "澄川喜一",
+      "field": "彫刻",
+      "note": ""
+    },
+    {
+      "year": 2021,
+      "fiscal_year_jp": "令和3年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "岡崎恒子",
+      "field": "分子生物学",
+      "note": ""
+    },
+    {
+      "year": 2021,
+      "fiscal_year_jp": "令和3年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "岡野弘彦",
+      "field": "短歌",
+      "note": ""
+    },
+    {
+      "year": 2021,
+      "fiscal_year_jp": "令和3年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "川田順造",
+      "field": "文化人類学",
+      "note": ""
+    },
+    {
+      "year": 2021,
+      "fiscal_year_jp": "令和3年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "絹谷幸二",
+      "field": "洋画",
+      "note": ""
+    },
+    {
+      "year": 2021,
+      "fiscal_year_jp": "令和3年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "七代目尾上菊五郎",
+      "field": "歌舞伎",
+      "note": ""
+    },
+    {
+      "year": 2021,
+      "fiscal_year_jp": "令和3年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "長嶋茂雄",
+      "field": "スポーツ",
+      "note": ""
+    },
+    {
+      "year": 2021,
+      "fiscal_year_jp": "令和3年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "牧阿佐美",
+      "field": "バレエ、没後追贈",
+      "note": ""
+    },
+    {
+      "year": 2021,
+      "fiscal_year_jp": "令和3年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "眞鍋淑郎",
+      "field": "気象学・気候学、ノーベル賞受賞者、アメリカ国籍",
+      "note": ""
+    },
+    {
+      "year": 2021,
+      "fiscal_year_jp": "令和3年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "森重文",
+      "field": "数学",
+      "note": ""
+    },
+    {
+      "year": 2022,
+      "fiscal_year_jp": "令和4年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "上村淳之",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 2022,
+      "fiscal_year_jp": "令和4年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "山勢松韻",
+      "field": "筝曲",
+      "note": ""
+    },
+    {
+      "year": 2022,
+      "fiscal_year_jp": "令和4年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "榊裕之",
+      "field": "電子工学",
+      "note": ""
+    },
+    {
+      "year": 2022,
+      "fiscal_year_jp": "令和4年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "二代目松本白鸚",
+      "field": "歌舞伎",
+      "note": ""
+    },
+    {
+      "year": 2022,
+      "fiscal_year_jp": "令和4年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "別府輝彦",
+      "field": "発酵学",
+      "note": ""
+    },
+    {
+      "year": 2022,
+      "fiscal_year_jp": "令和4年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "吉川忠夫",
+      "field": "中国思想史・中国史学",
+      "note": ""
+    },
+    {
+      "year": 2023,
+      "fiscal_year_jp": "令和5年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "井茂圭洞",
+      "field": "書",
+      "note": ""
+    },
+    {
+      "year": 2023,
+      "fiscal_year_jp": "令和5年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "岩井克人",
+      "field": "経済学",
+      "note": ""
+    },
+    {
+      "year": 2023,
+      "fiscal_year_jp": "令和5年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "川淵三郎",
+      "field": "スポーツ",
+      "note": ""
+    },
+    {
+      "year": 2023,
+      "fiscal_year_jp": "令和5年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "塩野七生",
+      "field": "小説",
+      "note": ""
+    },
+    {
+      "year": 2023,
+      "fiscal_year_jp": "令和5年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "谷口維紹",
+      "field": "分子生物学・免疫学",
+      "note": ""
+    },
+    {
+      "year": 2023,
+      "fiscal_year_jp": "令和5年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "玉尾皓平",
+      "field": "有機合成化学・有機金属化学",
+      "note": ""
+    },
+    {
+      "year": 2023,
+      "fiscal_year_jp": "令和5年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "野村万作",
+      "field": "狂言",
+      "note": ""
+    },
+    {
+      "year": 2024,
+      "fiscal_year_jp": "令和6年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "江頭憲治郎",
+      "field": "商法学",
+      "note": ""
+    },
+    {
+      "year": 2024,
+      "fiscal_year_jp": "令和6年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "高橋睦郎",
+      "field": "詩",
+      "note": ""
+    },
+    {
+      "year": 2024,
+      "fiscal_year_jp": "令和6年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "田渕俊夫",
+      "field": "日本画",
+      "note": ""
+    },
+    {
+      "year": 2024,
+      "fiscal_year_jp": "令和6年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "ちばてつや",
+      "field": "漫画",
+      "note": ""
+    },
+    {
+      "year": 2024,
+      "fiscal_year_jp": "令和6年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "堤剛",
+      "field": "チェロ",
+      "note": ""
+    },
+    {
+      "year": 2024,
+      "fiscal_year_jp": "令和6年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "中西準子",
+      "field": "環境リスク管理学",
+      "note": ""
+    },
+    {
+      "year": 2024,
+      "fiscal_year_jp": "令和6年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "廣川信隆",
+      "field": "細胞分子生物学",
+      "note": ""
+    },
+    {
+      "year": 2025,
+      "fiscal_year_jp": "令和7年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "王貞治",
+      "field": "スポーツ、中華民国国籍",
+      "note": ""
+    },
+    {
+      "year": 2025,
+      "fiscal_year_jp": "令和7年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "十五代目片岡仁左衛門",
+      "field": "歌舞伎",
+      "note": ""
+    },
+    {
+      "year": 2025,
+      "fiscal_year_jp": "令和7年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "川島康生",
+      "field": "心臓血管外科学",
+      "note": ""
+    },
+    {
+      "year": 2025,
+      "fiscal_year_jp": "令和7年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "北川進",
+      "field": "無機化学",
+      "note": ""
+    },
+    {
+      "year": 2025,
+      "fiscal_year_jp": "令和7年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "小松和彦",
+      "field": "文化人類学・民俗学",
+      "note": ""
+    },
+    {
+      "year": 2025,
+      "fiscal_year_jp": "令和7年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "コシノジュンコ",
+      "field": "服飾デザイン",
+      "note": ""
+    },
+    {
+      "year": 2025,
+      "fiscal_year_jp": "令和7年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "辻惟雄",
+      "field": "美術史・美術評論",
+      "note": ""
+    },
+    {
+      "year": 2025,
+      "fiscal_year_jp": "令和7年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "山本尚",
+      "field": "有機合成化学",
+      "note": ""
+    },
+    {
+      "year": 2026,
+      "fiscal_year_jp": "令和8年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "石井幹子",
+      "field": "照明デザイン",
+      "note": ""
+    },
+    {
+      "year": 2026,
+      "fiscal_year_jp": "令和8年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "伊東豊雄",
+      "field": "建築",
+      "note": ""
+    },
+    {
+      "year": 2026,
+      "fiscal_year_jp": "令和8年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "黒岩常祥",
+      "field": "生物科学",
+      "note": ""
+    },
+    {
+      "year": 2026,
+      "fiscal_year_jp": "令和8年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "塩川徹也",
+      "field": "フランス文学",
+      "note": ""
+    },
+    {
+      "year": 2026,
+      "fiscal_year_jp": "令和8年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "硤合憲三",
+      "field": "有機合成化学",
+      "note": ""
+    },
+    {
+      "year": 2026,
+      "fiscal_year_jp": "令和8年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "都倉俊一",
+      "field": "大衆音楽",
+      "note": ""
+    },
+    {
+      "year": 2026,
+      "fiscal_year_jp": "令和8年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "長田重一",
+      "field": "免疫学",
+      "note": ""
+    },
+    {
+      "year": 2026,
+      "fiscal_year_jp": "令和8年度",
+      "conferred": "11月3日発令・宮中親授式",
+      "name": "宮本茂",
+      "field": "ゲームメディア芸術",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "文化勲章 歴代受章者一覧 - Free Download",
+    "description": "1937年の創設以来の文化勲章受章者：年度、発令日、受章者名、分野。 Contains 467 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "文化勲章 歴代受章者一覧 | ListBase",
+    "seo_description": "Download 文化勲章 歴代受章者一覧 — 467 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 467 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/文化勲章受章者の一覧"
+    ]
+  }
+}
