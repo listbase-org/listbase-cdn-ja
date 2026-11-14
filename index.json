@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-14T02:15:58.563Z",
-  "total_datasets": 605,
-  "total_records": 464244,
+  "generated": "2026-11-14T02:16:08.050Z",
+  "total_datasets": 606,
+  "total_records": 464434,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "society",
@@ -15310,6 +15310,32 @@
         "xlsx": {
           "name": "ja-nobel-sho-jushosha_JA.xlsx",
           "size": 9867
+        }
+      }
+    },
+    {
+      "id": "ja-onshisho-nihon-gakushiin",
+      "name": "恩賜賞（日本学士院）歴代受賞者一覧",
+      "category": "science",
+      "record_count": 190,
+      "columns": [
+        "edition",
+        "ceremony_date",
+        "laureate",
+        "degree",
+        "research_title"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/恩賜賞_(日本学士院)",
+      "updated": "2026-11",
+      "size": 43919,
+      "files": {
+        "csv": {
+          "name": "ja-onshisho-nihon-gakushiin_JA.csv",
+          "size": 20231
+        },
+        "xlsx": {
+          "name": "ja-onshisho-nihon-gakushiin_JA.xlsx",
+          "size": 18589
         }
       }
     },

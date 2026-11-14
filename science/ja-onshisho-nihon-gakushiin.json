@@ -1,0 +1,1381 @@
+{
+  "id": "ja-onshisho-nihon-gakushiin",
+  "name": "恩賜賞（日本学士院）歴代受賞者一覧",
+  "title": "恩賜賞（日本学士院）歴代受賞者一覧",
+  "description": "日本学士院が学術上特に優れた論文・著書・研究業績に授与する恩賜賞の歴代受賞者：回次、授賞式開催日、受賞者、学位、研究題目。",
+  "category": "science",
+  "source": "https://ja.wikipedia.org/wiki/恩賜賞_(日本学士院)",
+  "source_url": "https://ja.wikipedia.org/wiki/恩賜賞_(日本学士院)",
+  "updated": "2026-11",
+  "record_count": 190,
+  "columns": [
+    {
+      "key": "edition",
+      "label": "Edition",
+      "type": "string"
+    },
+    {
+      "key": "ceremony_date",
+      "label": "Ceremony Date",
+      "type": "string"
+    },
+    {
+      "key": "laureate",
+      "label": "Laureate",
+      "type": "string"
+    },
+    {
+      "key": "degree",
+      "label": "Degree",
+      "type": "string"
+    },
+    {
+      "key": "research_title",
+      "label": "Research Title",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edition": "第1回",
+      "ceremony_date": "1911年7月5日",
+      "laureate": "木村栄",
+      "degree": "理学博士",
+      "research_title": "地軸変動の研究特に（Z）項の発見"
+    },
+    {
+      "edition": "第2回",
+      "ceremony_date": "1912年5月12日",
+      "laureate": "有賀長雄",
+      "degree": "法学博士 文学博士",
+      "research_title": "仏文 日清戦役 国際法論及仏文 日露陸戦 国際法論"
+    },
+    {
+      "edition": "第2回",
+      "ceremony_date": "1912年5月12日",
+      "laureate": "富士川游",
+      "degree": "",
+      "research_title": "日本医学史"
+    },
+    {
+      "edition": "第2回",
+      "ceremony_date": "1912年5月12日",
+      "laureate": "平瀬作五郎",
+      "degree": "",
+      "research_title": "公孫樹 の精虫の発見"
+    },
+    {
+      "edition": "第2回",
+      "ceremony_date": "1912年5月12日",
+      "laureate": "池野成一郎",
+      "degree": "理学博士",
+      "research_title": "蘇鉄 の精虫の発見"
+    },
+    {
+      "edition": "第3回",
+      "ceremony_date": "1913年7月5日",
+      "laureate": "村岡良弼",
+      "degree": "",
+      "research_title": "続日本後紀纂詁"
+    },
+    {
+      "edition": "第3回",
+      "ceremony_date": "1913年7月5日",
+      "laureate": "上坂熊勝",
+      "degree": "医学博士",
+      "research_title": "脳神経起首の研究"
+    },
+    {
+      "edition": "第4回",
+      "ceremony_date": "1914年7月5日",
+      "laureate": "田原淳",
+      "degree": "医学博士",
+      "research_title": "哺乳動物の心臓に於ける刺戟伝導筋系統の研究"
+    },
+    {
+      "edition": "第5回",
+      "ceremony_date": "1915年7月5日",
+      "laureate": "野口英世",
+      "degree": "医学博士 理学博士",
+      "research_title": "スピロヘータパリーダの研究"
+    },
+    {
+      "edition": "第6回",
+      "ceremony_date": "1916年7月2日",
+      "laureate": "大矢透",
+      "degree": "",
+      "research_title": "仮名に関する研究"
+    },
+    {
+      "edition": "第6回",
+      "ceremony_date": "1916年7月2日",
+      "laureate": "林泰輔",
+      "degree": "文学博士",
+      "research_title": "周公 と其時代"
+    },
+    {
+      "edition": "第6回",
+      "ceremony_date": "1916年7月2日",
+      "laureate": "稲田龍吉",
+      "degree": "医学博士",
+      "research_title": "黄疸出血性スピロヘーテ病に関する研究"
+    },
+    {
+      "edition": "第6回",
+      "ceremony_date": "1916年7月2日",
+      "laureate": "井戸泰",
+      "degree": "",
+      "research_title": "黄疸出血性スピロヘーテ病に関する研究"
+    },
+    {
+      "edition": "第7回",
+      "ceremony_date": "1917年7月1日",
+      "laureate": "佐佐木信綱",
+      "degree": "文学博士",
+      "research_title": "日本歌学史及和歌史の研究"
+    },
+    {
+      "edition": "第7回",
+      "ceremony_date": "1917年7月1日",
+      "laureate": "寺田寅彦",
+      "degree": "理学博士",
+      "research_title": "ラウエ映画の実験方法及其説明に関する研究"
+    },
+    {
+      "edition": "第8回",
+      "ceremony_date": "1918年5月12日",
+      "laureate": "和田英松",
+      "degree": "",
+      "research_title": "宸記集及皇室御撰解題"
+    },
+    {
+      "edition": "第8回",
+      "ceremony_date": "1918年5月12日",
+      "laureate": "木村泰賢",
+      "degree": "",
+      "research_title": "印度六派哲学"
+    },
+    {
+      "edition": "第8回",
+      "ceremony_date": "1918年5月12日",
+      "laureate": "柴田桂太",
+      "degree": "理学博士",
+      "research_title": "植物界に於けるフラヴォン体の研究"
+    },
+    {
+      "edition": "第9回",
+      "ceremony_date": "1919年5月25日",
+      "laureate": "石原純",
+      "degree": "理学博士",
+      "research_title": "相対性原理 、 万有引力 論及び 量子論 の研究"
+    },
+    {
+      "edition": "第10回",
+      "ceremony_date": "1920年5月30日",
+      "laureate": "三浦周行",
+      "degree": "文学博士",
+      "research_title": "法制史 之研究"
+    },
+    {
+      "edition": "第10回",
+      "ceremony_date": "1920年5月30日",
+      "laureate": "辻本満丸",
+      "degree": "工学博士",
+      "research_title": "脂油の研究"
+    },
+    {
+      "edition": "第11回",
+      "ceremony_date": "1921年5月22日",
+      "laureate": "辻善之助",
+      "degree": "文学博士",
+      "research_title": "日本仏教史 之研究"
+    },
+    {
+      "edition": "第11回",
+      "ceremony_date": "1921年5月22日",
+      "laureate": "布施現之助",
+      "degree": "医学博士",
+      "research_title": "脳の解剖的研究"
+    },
+    {
+      "edition": "第12回",
+      "ceremony_date": "1922年5月21日",
+      "laureate": "高嶺俊夫",
+      "degree": "理学博士",
+      "research_title": "スタルク効果の共同研究"
+    },
+    {
+      "edition": "第12回",
+      "ceremony_date": "1922年5月21日",
+      "laureate": "吉田卯三郎",
+      "degree": "理学博士",
+      "research_title": "スタルク効果の共同研究"
+    },
+    {
+      "edition": "第13回",
+      "ceremony_date": "1923年5月27日",
+      "laureate": "徳富猪一郎",
+      "degree": "",
+      "research_title": "近世日本国民史"
+    },
+    {
+      "edition": "第13回",
+      "ceremony_date": "1923年5月27日",
+      "laureate": "柿村重松",
+      "degree": "",
+      "research_title": "本朝文粋註釈"
+    },
+    {
+      "edition": "第13回",
+      "ceremony_date": "1923年5月27日",
+      "laureate": "朝比奈泰彦",
+      "degree": "薬学博士",
+      "research_title": "漢薬成分の化学的研究"
+    },
+    {
+      "edition": "第13回",
+      "ceremony_date": "1923年5月27日",
+      "laureate": "木下季吉",
+      "degree": "理学博士",
+      "research_title": "放射線 に関する研究"
+    },
+    {
+      "edition": "第14回",
+      "ceremony_date": "1924年6月8日",
+      "laureate": "八代国治",
+      "degree": "文学博士",
+      "research_title": "長慶天皇 御即位の研究"
+    },
+    {
+      "edition": "第14回",
+      "ceremony_date": "1924年6月8日",
+      "laureate": "佐々木隆興",
+      "degree": "医学博士",
+      "research_title": "蛋白質 及び之を構成する アミノ酸 の細菌に因る分解とアミノ酸の合成に関する研究"
+    },
+    {
+      "edition": "第15回",
+      "ceremony_date": "1925年5月31日",
+      "laureate": "矢吹慶輝",
+      "degree": "文学博士",
+      "research_title": "三階教 の研究"
+    },
+    {
+      "edition": "第15回",
+      "ceremony_date": "1925年5月31日",
+      "laureate": "物部長穂",
+      "degree": "工学博士",
+      "research_title": "構造物の振動殊に其の耐震性の研究"
+    },
+    {
+      "edition": "第16回",
+      "ceremony_date": "1926年5月16日",
+      "laureate": "沼田頼輔",
+      "degree": "",
+      "research_title": "日本紋章学"
+    },
+    {
+      "edition": "第16回",
+      "ceremony_date": "1926年5月16日",
+      "laureate": "小沢儀明",
+      "degree": "理学博士",
+      "research_title": "中国地方の古生層並に中生層の層位学上の研究"
+    },
+    {
+      "edition": "第17回",
+      "ceremony_date": "1927年5月20日",
+      "laureate": "加藤繁",
+      "degree": "文学博士",
+      "research_title": "唐宋時代に於ける金銀の研究（但し其の貨幣的機能を中心として）"
+    },
+    {
+      "edition": "第17回",
+      "ceremony_date": "1927年5月20日",
+      "laureate": "柴田雄次",
+      "degree": "理学博士",
+      "research_title": "金属錯塩の分光化学的研究"
+    },
+    {
+      "edition": "第18回",
+      "ceremony_date": "1928年4月14日",
+      "laureate": "神戸正雄",
+      "degree": "法学博士",
+      "research_title": "租税 研究"
+    },
+    {
+      "edition": "第18回",
+      "ceremony_date": "1928年4月14日",
+      "laureate": "掛谷宗一",
+      "degree": "理学博士",
+      "research_title": "連立積分方程式及び之に関連せる函数論的研究"
+    },
+    {
+      "edition": "第19回",
+      "ceremony_date": "1929年4月26日",
+      "laureate": "志田順",
+      "degree": "理学博士",
+      "research_title": "地球及 地殻 の剛性並に地震動に関する研究"
+    },
+    {
+      "edition": "第20回",
+      "ceremony_date": "1930年5月30日",
+      "laureate": "足立文太郎",
+      "degree": "医学博士",
+      "research_title": "日本人の動脈系統"
+    },
+    {
+      "edition": "第21回",
+      "ceremony_date": "1931年5月14日",
+      "laureate": "妹沢克惟",
+      "degree": "工学博士",
+      "research_title": "地震波 の生成伝播其他に関する理論的研究"
+    },
+    {
+      "edition": "第22回",
+      "ceremony_date": "1932年5月10日",
+      "laureate": "金田一京助",
+      "degree": "",
+      "research_title": "アイヌ 叙事詩 ユーカラ の研究"
+    },
+    {
+      "edition": "第22回",
+      "ceremony_date": "1932年5月10日",
+      "laureate": "和達清夫",
+      "degree": "理学博士",
+      "research_title": "深処に発生する地震に関する研究"
+    },
+    {
+      "edition": "第23回",
+      "ceremony_date": "1933年5月11日",
+      "laureate": "辻二郎",
+      "degree": "工学博士",
+      "research_title": "光弾性 の研究"
+    },
+    {
+      "edition": "第23回",
+      "ceremony_date": "1933年5月11日",
+      "laureate": "鈴木文助",
+      "degree": "農学博士",
+      "research_title": "脂肪酸及之を含有する生物体成分の研究"
+    },
+    {
+      "edition": "第24回",
+      "ceremony_date": "1934年5月11日",
+      "laureate": "仁井田陞",
+      "degree": "",
+      "research_title": "唐令拾遺"
+    },
+    {
+      "edition": "第24回",
+      "ceremony_date": "1934年5月11日",
+      "laureate": "坪井誠太郎",
+      "degree": "理学博士",
+      "research_title": "火成岩 の成因に関する研究"
+    },
+    {
+      "edition": "第25回",
+      "ceremony_date": "1935年5月31日",
+      "laureate": "小倉進平",
+      "degree": "文学博士",
+      "research_title": "郷歌及び吏読の研究"
+    },
+    {
+      "edition": "第25回",
+      "ceremony_date": "1935年5月31日",
+      "laureate": "花山信勝",
+      "degree": "",
+      "research_title": "聖徳太子 御製 法華義疏 の研究"
+    },
+    {
+      "edition": "第26回",
+      "ceremony_date": "1936年6月1日",
+      "laureate": "小川尚義",
+      "degree": "",
+      "research_title": "原語による台湾高砂族伝説集"
+    },
+    {
+      "edition": "第26回",
+      "ceremony_date": "1936年6月1日",
+      "laureate": "佐々木隆興",
+      "degree": "医学博士",
+      "research_title": "o-Amidoazotoluolの経口的投与による 肝臓癌 成生の実験的研究"
+    },
+    {
+      "edition": "第26回",
+      "ceremony_date": "1936年6月1日",
+      "laureate": "吉田富三",
+      "degree": "",
+      "research_title": "o-Amidoazotoluolの経口的投与による 肝臓癌 成生の実験的研究"
+    },
+    {
+      "edition": "第27回",
+      "ceremony_date": "1937年5月13日",
+      "laureate": "堀場信吉",
+      "degree": "理学博士",
+      "research_title": "化学反応 速度の熱解析"
+    },
+    {
+      "edition": "第27回",
+      "ceremony_date": "1937年5月13日",
+      "laureate": "丹羽保次郎",
+      "degree": "工学博士",
+      "research_title": "写真電送装置に関する研究"
+    },
+    {
+      "edition": "第28回",
+      "ceremony_date": "1938年5月13日",
+      "laureate": "受賞者なし",
+      "degree": "受賞者なし",
+      "research_title": "受賞者なし"
+    },
+    {
+      "edition": "第29回",
+      "ceremony_date": "1939年5月11日",
+      "laureate": "石川謙",
+      "degree": "",
+      "research_title": "石門心学史之研究"
+    },
+    {
+      "edition": "第29回",
+      "ceremony_date": "1939年5月11日",
+      "laureate": "呉建",
+      "degree": "医学博士",
+      "research_title": "脊髄副交感神経に関する研究"
+    },
+    {
+      "edition": "第30回",
+      "ceremony_date": "1940年5月30日",
+      "laureate": "能勢朝次",
+      "degree": "",
+      "research_title": "能楽 源流考"
+    },
+    {
+      "edition": "第30回",
+      "ceremony_date": "1940年5月30日",
+      "laureate": "湯川秀樹",
+      "degree": "理学博士",
+      "research_title": "素粒子 間の相互作用に関する理論的研究並に宇宙線中の新粒子Mesotronの存在に対する予言"
+    },
+    {
+      "edition": "第30回",
+      "ceremony_date": "1940年5月30日",
+      "laureate": "堀内寿郎",
+      "degree": "理学博士",
+      "research_title": "化学反応速度論の理論及実験的研究"
+    },
+    {
+      "edition": "第31回",
+      "ceremony_date": "1941年5月13日",
+      "laureate": "松本栄一",
+      "degree": "文学博士",
+      "research_title": "燉煌画 の研究 図像篇"
+    },
+    {
+      "edition": "第31回",
+      "ceremony_date": "1941年5月13日",
+      "laureate": "岡部金治郎",
+      "degree": "工学博士",
+      "research_title": "磁電管に関する研究"
+    },
+    {
+      "edition": "第31回",
+      "ceremony_date": "1941年5月13日",
+      "laureate": "久野寧",
+      "degree": "医学博士",
+      "research_title": "人体発汗の研究"
+    },
+    {
+      "edition": "第32回",
+      "ceremony_date": "1942年5月13日",
+      "laureate": "宇野円空",
+      "degree": "文学博士",
+      "research_title": "マライシヤ に於ける稲米儀礼"
+    },
+    {
+      "edition": "第33回",
+      "ceremony_date": "1943年5月13日",
+      "laureate": "信夫淳平",
+      "degree": "法学博士",
+      "research_title": "戦時 国際法 講義"
+    },
+    {
+      "edition": "第33回",
+      "ceremony_date": "1943年5月13日",
+      "laureate": "古畑種基",
+      "degree": "医学博士",
+      "research_title": "血液型 の研究"
+    },
+    {
+      "edition": "第33回",
+      "ceremony_date": "1943年5月13日",
+      "laureate": "木原均",
+      "degree": "理学博士",
+      "research_title": "小麦 の細胞遺伝学的研究"
+    },
+    {
+      "edition": "第34回",
+      "ceremony_date": "1944年5月10日",
+      "laureate": "緒方知三郎",
+      "degree": "医学博士",
+      "research_title": "唾液腺 の内分泌に関する研究"
+    },
+    {
+      "edition": "第35回",
+      "ceremony_date": "1945年6月12日",
+      "laureate": "三島徳七",
+      "degree": "工学博士",
+      "research_title": "特殊鋼殊にM.K.磁石鋼の研究"
+    },
+    {
+      "edition": "第35回",
+      "ceremony_date": "1945年6月12日",
+      "laureate": "船田享二",
+      "degree": "法学博士",
+      "research_title": "羅馬法"
+    },
+    {
+      "edition": "第35回",
+      "ceremony_date": "1945年6月12日",
+      "laureate": "奥野高広",
+      "degree": "",
+      "research_title": "皇室御経済史の研究"
+    },
+    {
+      "edition": "第36回",
+      "ceremony_date": "1946年6月13日",
+      "laureate": "増本量",
+      "degree": "理学博士",
+      "research_title": "異常特性を有する鉄合金の研究"
+    },
+    {
+      "edition": "第37回",
+      "ceremony_date": "1947年5月13日",
+      "laureate": "松村武雄",
+      "degree": "文学博士",
+      "research_title": "神話学原論析"
+    },
+    {
+      "edition": "第38回",
+      "ceremony_date": "1948年6月11日",
+      "laureate": "家永三郎",
+      "degree": "",
+      "research_title": "上代倭絵年表 上代倭絵全史"
+    },
+    {
+      "edition": "第39回",
+      "ceremony_date": "1949年6月15日",
+      "laureate": "後藤格次",
+      "degree": "農学博士",
+      "research_title": "シノメニンに関する研究"
+    },
+    {
+      "edition": "第40回",
+      "ceremony_date": "1950年5月11日",
+      "laureate": "坂田昌一",
+      "degree": "理学博士",
+      "research_title": "二 中間子 理論"
+    },
+    {
+      "edition": "第41回",
+      "ceremony_date": "1951年5月15日",
+      "laureate": "外山修之",
+      "degree": "工学博士",
+      "research_title": "油脂 殊に海産動物油に関する研究"
+    },
+    {
+      "edition": "第42回",
+      "ceremony_date": "1952年5月13日",
+      "laureate": "水野清一",
+      "degree": "",
+      "research_title": "雲岡石窟 に関する研究"
+    },
+    {
+      "edition": "第42回",
+      "ceremony_date": "1952年5月13日",
+      "laureate": "長広敏雄",
+      "degree": "",
+      "research_title": "雲岡石窟 に関する研究"
+    },
+    {
+      "edition": "第43回",
+      "ceremony_date": "1953年5月12日",
+      "laureate": "吉田富三",
+      "degree": "医学博士",
+      "research_title": "吉田肉腫の病理学的研究"
+    },
+    {
+      "edition": "第44回",
+      "ceremony_date": "1954年5月12日",
+      "laureate": "田村実造",
+      "degree": "文学博士",
+      "research_title": "慶陵"
+    },
+    {
+      "edition": "第44回",
+      "ceremony_date": "1954年5月12日",
+      "laureate": "小林行雄",
+      "degree": "",
+      "research_title": "慶陵"
+    },
+    {
+      "edition": "第45回",
+      "ceremony_date": "1955年5月12日",
+      "laureate": "藤田良雄",
+      "degree": "理学博士",
+      "research_title": "低温度星の 分光学 的研究"
+    },
+    {
+      "edition": "第46回",
+      "ceremony_date": "1956年5月14日",
+      "laureate": "志方益三",
+      "degree": "農学博士",
+      "research_title": "ポーラログラフィーの研究"
+    },
+    {
+      "edition": "第46回",
+      "ceremony_date": "1956年5月14日",
+      "laureate": "舘勇",
+      "degree": "農学博士",
+      "research_title": "ポーラログラフィーの研究"
+    },
+    {
+      "edition": "第47回",
+      "ceremony_date": "1957年5月14日",
+      "laureate": "中村元",
+      "degree": "文学博士",
+      "research_title": "初期ヴェーダーンタ哲学史"
+    },
+    {
+      "edition": "第48回",
+      "ceremony_date": "1958年5月12日",
+      "laureate": "新関良三",
+      "degree": "文学博士",
+      "research_title": "ギリシャ・ローマ演劇史"
+    },
+    {
+      "edition": "第49回",
+      "ceremony_date": "1959年6月2日",
+      "laureate": "今井功",
+      "degree": "理学博士",
+      "research_title": "航空力学への寄与"
+    },
+    {
+      "edition": "第50回",
+      "ceremony_date": "1960年5月18日",
+      "laureate": "高田修",
+      "degree": "",
+      "research_title": "醍醐寺 五重塔の壁画"
+    },
+    {
+      "edition": "第50回",
+      "ceremony_date": "1960年5月18日",
+      "laureate": "伊東卓治",
+      "degree": "",
+      "research_title": "醍醐寺 五重塔の壁画"
+    },
+    {
+      "edition": "第50回",
+      "ceremony_date": "1960年5月18日",
+      "laureate": "山崎一雄",
+      "degree": "農学博士",
+      "research_title": "醍醐寺 五重塔の壁画"
+    },
+    {
+      "edition": "第50回",
+      "ceremony_date": "1960年5月18日",
+      "laureate": "上野アキ",
+      "degree": "",
+      "research_title": "醍醐寺 五重塔の壁画"
+    },
+    {
+      "edition": "第50回",
+      "ceremony_date": "1960年5月18日",
+      "laureate": "柳沢孝",
+      "degree": "",
+      "research_title": "醍醐寺 五重塔の壁画"
+    },
+    {
+      "edition": "第50回",
+      "ceremony_date": "1960年5月18日",
+      "laureate": "宮次男",
+      "degree": "",
+      "research_title": "醍醐寺 五重塔の壁画"
+    },
+    {
+      "edition": "第51回",
+      "ceremony_date": "1961年5月12日",
+      "laureate": "冲中重雄",
+      "degree": "医学博士",
+      "research_title": "自律神経 に関する研究"
+    },
+    {
+      "edition": "第52回",
+      "ceremony_date": "1962年5月11日",
+      "laureate": "笹淵友一",
+      "degree": "文学博士",
+      "research_title": "近代日本文学における浪漫主義の研究"
+    },
+    {
+      "edition": "第53回",
+      "ceremony_date": "1963年5月10日",
+      "laureate": "永宮健夫",
+      "degree": "理学博士",
+      "research_title": "反強磁性体の理論的研究"
+    },
+    {
+      "edition": "第54回",
+      "ceremony_date": "1964年5月8日",
+      "laureate": "武藤清",
+      "degree": "工学博士",
+      "research_title": "耐震構造に関する研究"
+    },
+    {
+      "edition": "第55回",
+      "ceremony_date": "1965年5月18日",
+      "laureate": "小島憲之",
+      "degree": "文学博士",
+      "research_title": "上代日本文学と中国文学"
+    },
+    {
+      "edition": "第56回",
+      "ceremony_date": "1966年5月25日",
+      "laureate": "前田恵学",
+      "degree": "文学博士",
+      "research_title": "原始 仏教 聖典の成立史研究"
+    },
+    {
+      "edition": "第57回",
+      "ceremony_date": "1967年5月23日",
+      "laureate": "吉田耕作",
+      "degree": "理学博士",
+      "research_title": "近代解析の研究"
+    },
+    {
+      "edition": "第58回",
+      "ceremony_date": "1968年5月30日",
+      "laureate": "西田龍雄",
+      "degree": "文学博士",
+      "research_title": "西夏語 の研究"
+    },
+    {
+      "edition": "第59回",
+      "ceremony_date": "1969年6月9日",
+      "laureate": "久保亮五",
+      "degree": "理学博士",
+      "research_title": "非可逆過程の統計力学における線型応答理論"
+    },
+    {
+      "edition": "第60回",
+      "ceremony_date": "1970年5月18日",
+      "laureate": "中村栄孝",
+      "degree": "文学博士",
+      "research_title": "日鮮関係史の研究"
+    },
+    {
+      "edition": "第60回",
+      "ceremony_date": "1970年5月18日",
+      "laureate": "岡村誠三",
+      "degree": "工学博士",
+      "research_title": "放射線 重合 に関する研究"
+    },
+    {
+      "edition": "第61回",
+      "ceremony_date": "1971年5月27日",
+      "laureate": "宮本又次",
+      "degree": "経済学博士",
+      "research_title": "小野組 の研究"
+    },
+    {
+      "edition": "第61回",
+      "ceremony_date": "1971年5月27日",
+      "laureate": "林忠四郎",
+      "degree": "理学博士",
+      "research_title": "核反応 と 恒星 の進化に関する研究"
+    },
+    {
+      "edition": "第62回",
+      "ceremony_date": "1972年5月27日",
+      "laureate": "松下忠",
+      "degree": "文学博士",
+      "research_title": "江戸時代 の詩風詩論―明清の詩論とその摂取"
+    },
+    {
+      "edition": "第62回",
+      "ceremony_date": "1972年5月27日",
+      "laureate": "江橋節郎",
+      "degree": "医学博士",
+      "research_title": "筋の収縮及び弛緩の機構に関する研究"
+    },
+    {
+      "edition": "第63回",
+      "ceremony_date": "1973年6月1日",
+      "laureate": "竹島卓一",
+      "degree": "工学博士",
+      "research_title": "営造法式の研究"
+    },
+    {
+      "edition": "第63回",
+      "ceremony_date": "1973年6月1日",
+      "laureate": "近藤淳",
+      "degree": "理学博士",
+      "research_title": "極低温における稀薄磁性合金の電気抵抗の極小に関する研究"
+    },
+    {
+      "edition": "第64回",
+      "ceremony_date": "1974年6月10日",
+      "laureate": "三上次男",
+      "degree": "文学博士",
+      "research_title": "金 史研究"
+    },
+    {
+      "edition": "第64回",
+      "ceremony_date": "1974年6月10日",
+      "laureate": "石坂公成",
+      "degree": "医学博士",
+      "research_title": "免疫グロブリンEの発見とレアギン型アレルギーの機序に関する研究"
+    },
+    {
+      "edition": "第65回",
+      "ceremony_date": "1975年6月2日",
+      "laureate": "高崎直道",
+      "degree": "文学博士",
+      "research_title": "如来蔵 思想の形成"
+    },
+    {
+      "edition": "第65回",
+      "ceremony_date": "1975年6月2日",
+      "laureate": "小田稔",
+      "degree": "理学博士",
+      "research_title": "すだれコリメータの発明と X線 天文学への寄与"
+    },
+    {
+      "edition": "第66回",
+      "ceremony_date": "1976年6月7日",
+      "laureate": "杉村隆",
+      "degree": "医学博士",
+      "research_title": "胃癌 発生に関する実験的研究"
+    },
+    {
+      "edition": "第67回",
+      "ceremony_date": "1977年6月13日",
+      "laureate": "高橋信次",
+      "degree": "医学博士",
+      "research_title": "X線による生体病理解剖の研究"
+    },
+    {
+      "edition": "第68回",
+      "ceremony_date": "1978年6月14日",
+      "laureate": "伊藤清",
+      "degree": "理学博士",
+      "research_title": "確率微分方程式の研究"
+    },
+    {
+      "edition": "第69回",
+      "ceremony_date": "1979年6月11日",
+      "laureate": "古在由秀",
+      "degree": "理学博士",
+      "research_title": "土星 衛星 、 人工衛星 及び 小惑星 の運動の研究"
+    },
+    {
+      "edition": "第70回",
+      "ceremony_date": "1980年6月11日",
+      "laureate": "岡田善雄",
+      "degree": "医学博士",
+      "research_title": "細胞融合現象の解析と細胞工学的応用"
+    },
+    {
+      "edition": "第71回",
+      "ceremony_date": "1981年6月10日",
+      "laureate": "長野泰一",
+      "degree": "医学博士",
+      "research_title": "インターフェロン の研究"
+    },
+    {
+      "edition": "第72回",
+      "ceremony_date": "1982年6月14日",
+      "laureate": "原亨吉",
+      "degree": "ドクトゥール・ド・ トロワジェーム・シクル・ アン・ロジック",
+      "research_title": "パスカル の数学的業績（仏文“L'ŒUVRE MATHEMATIQUE DE PASCAL”）"
+    },
+    {
+      "edition": "第72回",
+      "ceremony_date": "1982年6月14日",
+      "laureate": "角谷静夫",
+      "degree": "理学博士",
+      "research_title": "函数 解析の研究"
+    },
+    {
+      "edition": "第73回",
+      "ceremony_date": "1983年6月13日",
+      "laureate": "向山光昭",
+      "degree": "理学博士",
+      "research_title": "有機合成化学の新手法開拓と生体関連物質の合成"
+    },
+    {
+      "edition": "第74回",
+      "ceremony_date": "1984年6月11日",
+      "laureate": "仲宗根政善",
+      "degree": "文学博士",
+      "research_title": "沖縄今帰仁方言辞典―今帰仁方言の研究・語彙篇―"
+    },
+    {
+      "edition": "第74回",
+      "ceremony_date": "1984年6月11日",
+      "laureate": "田村学造",
+      "degree": "農学博士",
+      "research_title": "火落酸の発見並びに イソプレノイド の関与する複合糖質の生合成阻害に関する研究"
+    },
+    {
+      "edition": "第75回",
+      "ceremony_date": "1985年6月10日",
+      "laureate": "佐藤了",
+      "degree": "理学博士",
+      "research_title": "ミクロソームの複合酸素添加酵素系に関する研究"
+    },
+    {
+      "edition": "第76回",
+      "ceremony_date": "1986年6月9日",
+      "laureate": "伊藤正男",
+      "degree": "医学博士",
+      "research_title": "小脳 の神経機構と運動学習の機序"
+    },
+    {
+      "edition": "第77回",
+      "ceremony_date": "1987年6月8日",
+      "laureate": "福山敏男",
+      "degree": "工学博士",
+      "research_title": "寺院建築の研究・神社建築の研究（福山敏男著作集 1〜4）"
+    },
+    {
+      "edition": "第77回",
+      "ceremony_date": "1987年6月8日",
+      "laureate": "山崎敏光",
+      "degree": "理学博士",
+      "research_title": "中間子物理の実験的研究"
+    },
+    {
+      "edition": "第78回",
+      "ceremony_date": "1988年6月13日",
+      "laureate": "西村暹",
+      "degree": "理学博士",
+      "research_title": "核酸 塩基修飾に関する有機化学・生化学的研究"
+    },
+    {
+      "edition": "第79回",
+      "ceremony_date": "1989年6月12日",
+      "laureate": "佐伯富",
+      "degree": "文学博士",
+      "research_title": "中国塩政史の研究"
+    },
+    {
+      "edition": "第79回",
+      "ceremony_date": "1989年6月12日",
+      "laureate": "日沼頼夫",
+      "degree": "医学博士",
+      "research_title": "成人 T細胞 白血病 のウイルス病因に関する研究"
+    },
+    {
+      "edition": "第80回",
+      "ceremony_date": "1990年6月11日",
+      "laureate": "中西香爾",
+      "degree": "理学博士",
+      "research_title": "機能性天然有機化合物の構造および生体内機能発現に関する研究"
+    },
+    {
+      "edition": "第81回",
+      "ceremony_date": "1991年6月10日",
+      "laureate": "小林芳規",
+      "degree": "文学博士",
+      "research_title": "角筆文献の国語学的研究"
+    },
+    {
+      "edition": "第81回",
+      "ceremony_date": "1991年6月10日",
+      "laureate": "外村彰",
+      "degree": "工学博士",
+      "research_title": "電子線ホログラフィの開発とAB効果の実証"
+    },
+    {
+      "edition": "第82回",
+      "ceremony_date": "1992年6月8日",
+      "laureate": "都築忠七",
+      "degree": "ドクター・オブ・ フィロソフィー",
+      "research_title": "19世紀 後半の イギリス 社会主義思想および運動の研究"
+    },
+    {
+      "edition": "第82回",
+      "ceremony_date": "1992年6月8日",
+      "laureate": "岸本忠三",
+      "degree": "医学博士",
+      "research_title": "インターロイキン6（IL-6）に関する研究"
+    },
+    {
+      "edition": "第83回",
+      "ceremony_date": "1993年6月7日",
+      "laureate": "田仲一成",
+      "degree": "文学博士",
+      "research_title": "中国祭祀演劇に関する研究"
+    },
+    {
+      "edition": "第83回",
+      "ceremony_date": "1993年6月7日",
+      "laureate": "田中靖郎",
+      "degree": "理学博士",
+      "research_title": "X線天体の相対論的特性"
+    },
+    {
+      "edition": "第84回",
+      "ceremony_date": "1994年6月6日",
+      "laureate": "熊田誠",
+      "degree": "工学博士",
+      "research_title": "有機ケイ素化学に関する研究（共同研究）"
+    },
+    {
+      "edition": "第84回",
+      "ceremony_date": "1994年6月6日",
+      "laureate": "桜井英樹",
+      "degree": "理学博士",
+      "research_title": "有機ケイ素化学に関する研究（共同研究）"
+    },
+    {
+      "edition": "第85回",
+      "ceremony_date": "1995年6月12日",
+      "laureate": "三根谷徹",
+      "degree": "文学博士",
+      "research_title": "中古漢語と越南漢字音"
+    },
+    {
+      "edition": "第85回",
+      "ceremony_date": "1995年6月12日",
+      "laureate": "深尾良夫",
+      "degree": "理学博士",
+      "research_title": "マントル ダイナミクスに関する地震学的研究"
+    },
+    {
+      "edition": "第86回",
+      "ceremony_date": "1996年6月10日",
+      "laureate": "本庶佑",
+      "degree": "医学博士",
+      "research_title": "抗体クラススイッチ制御に関する研究"
+    },
+    {
+      "edition": "第87回",
+      "ceremony_date": "1997年7月7日",
+      "laureate": "中西重忠",
+      "degree": "医学博士",
+      "research_title": "神経伝達の分子メカニズムに関する研究"
+    },
+    {
+      "edition": "第88回",
+      "ceremony_date": "1998年6月22日",
+      "laureate": "柳田敏雄",
+      "degree": "工学博士",
+      "research_title": "生物運動の分子機械の直接操作と観測"
+    },
+    {
+      "edition": "第89回",
+      "ceremony_date": "1999年6月14日",
+      "laureate": "夫馬進",
+      "degree": "博士（文学）",
+      "research_title": "中国善会善堂史研究"
+    },
+    {
+      "edition": "第89回",
+      "ceremony_date": "1999年6月14日",
+      "laureate": "岸義人",
+      "degree": "理学博士",
+      "research_title": "海洋天然化合物の有機化学的研究"
+    },
+    {
+      "edition": "第90回",
+      "ceremony_date": "2000年6月12日",
+      "laureate": "佐藤次高",
+      "degree": "文学博士",
+      "research_title": "State and Rural Society in Medieval Islam: Sultans, Muqta‘s and Fallāhūn"
+    },
+    {
+      "edition": "第90回",
+      "ceremony_date": "2000年6月12日",
+      "laureate": "長田重一",
+      "degree": "理学博士",
+      "research_title": "アポトーシス の分子機構の研究"
+    },
+    {
+      "edition": "第91回",
+      "ceremony_date": "2001年6月11日",
+      "laureate": "林文夫",
+      "degree": "Ph.D.",
+      "research_title": "Understanding Saving: Evidence from the United States and Japan"
+    },
+    {
+      "edition": "第91回",
+      "ceremony_date": "2001年6月11日",
+      "laureate": "浅島誠",
+      "degree": "理学博士",
+      "research_title": "初期発生における形態形成の基礎的研究"
+    },
+    {
+      "edition": "第92回",
+      "ceremony_date": "2002年6月10日",
+      "laureate": "藤本隆宏",
+      "degree": "D.B.A.",
+      "research_title": "The Evolution of a Manufacturing System at Toyota"
+    },
+    {
+      "edition": "第92回",
+      "ceremony_date": "2002年6月10日",
+      "laureate": "飯島澄男",
+      "degree": "理学博士",
+      "research_title": "高分解能 電子顕微鏡 の開発と カーボンナノチューブ の発見"
+    },
+    {
+      "edition": "第93回",
+      "ceremony_date": "2003年6月9日",
+      "laureate": "柳田充弘",
+      "degree": "理学博士",
+      "research_title": "細胞周期の制御と染色体分配の機構"
+    },
+    {
+      "edition": "第94回",
+      "ceremony_date": "2004年6月14日",
+      "laureate": "須磨千頴",
+      "degree": "",
+      "research_title": "賀茂別雷神社境内諸郷の復元的研究"
+    },
+    {
+      "edition": "第94回",
+      "ceremony_date": "2004年6月14日",
+      "laureate": "安元健",
+      "degree": "農学博士",
+      "research_title": "海洋生物毒の化学とそれらの毒物の海洋生態系における動態解析"
+    },
+    {
+      "edition": "第95回",
+      "ceremony_date": "2005年6月13日",
+      "laureate": "加藤和也",
+      "degree": "理学博士",
+      "research_title": "数論 幾何学 の研究"
+    },
+    {
+      "edition": "第96回",
+      "ceremony_date": "2006年7月3日",
+      "laureate": "成宮周",
+      "degree": "医学博士",
+      "research_title": "プロスタグランジン受容体の研究"
+    },
+    {
+      "edition": "第97回",
+      "ceremony_date": "2007年6月11日",
+      "laureate": "秀村選三",
+      "degree": "経済学博士",
+      "research_title": "幕末 期 薩摩藩 の農業と社会― 大隅国 高山郷士守屋家をめぐって―"
+    },
+    {
+      "edition": "第97回",
+      "ceremony_date": "2007年6月11日",
+      "laureate": "審良靜男",
+      "degree": "医学博士",
+      "research_title": "自然免疫による病原体認識とシグナル伝達"
+    },
+    {
+      "edition": "第98回",
+      "ceremony_date": "2008年6月9日",
+      "laureate": "諸熊奎治",
+      "degree": "工学博士",
+      "research_title": "分子 の構造・機能・反応設計に関する理論的研究"
+    },
+    {
+      "edition": "第99回",
+      "ceremony_date": "2009年6月1日",
+      "laureate": "村上哲見",
+      "degree": "文学博士",
+      "research_title": "宋詞に関する研究"
+    },
+    {
+      "edition": "第99回",
+      "ceremony_date": "2009年6月1日",
+      "laureate": "江口徹",
+      "degree": "理学博士",
+      "research_title": "数理物理学的な手法による素粒子論の研究"
+    },
+    {
+      "edition": "第100回",
+      "ceremony_date": "2010年6月21日",
+      "laureate": "表章",
+      "degree": "文学博士",
+      "research_title": "能楽 史の研究"
+    },
+    {
+      "edition": "第100回",
+      "ceremony_date": "2010年6月21日",
+      "laureate": "山中伸弥",
+      "degree": "医学博士",
+      "research_title": "人工多能性幹細胞 （iPS 細胞）の研究樹立"
+    },
+    {
+      "edition": "第101回",
+      "ceremony_date": "2011年6月20日",
+      "laureate": "佐竹明",
+      "degree": "神学博士",
+      "research_title": "「 ヨハネの黙示録 」に関する研究"
+    },
+    {
+      "edition": "第101回",
+      "ceremony_date": "2011年6月20日",
+      "laureate": "宮田秀明",
+      "degree": "工学博士",
+      "research_title": "船舶 の非線形造波に関する研究"
+    },
+    {
+      "edition": "第102回",
+      "ceremony_date": "2012年6月4日",
+      "laureate": "吉川一義",
+      "degree": "文学博士",
+      "research_title": "「Proust et l'art pictural」（『 プルースト と絵画芸術』）"
+    },
+    {
+      "edition": "第102回",
+      "ceremony_date": "2012年6月4日",
+      "laureate": "難波啓一",
+      "degree": "工学博士",
+      "research_title": "生体超分子の立体構造と機能の解明"
+    },
+    {
+      "edition": "第103回",
+      "ceremony_date": "2013年6月17日",
+      "laureate": "松浦純",
+      "degree": "文学修士",
+      "research_title": "「Martin Luther: Erfurter Annotationen 1509-1510/11」（『 マルティン・ルター ：エルフルト期注記集 1509-1510/11』）"
+    },
+    {
+      "edition": "第103回",
+      "ceremony_date": "2013年6月17日",
+      "laureate": "十倉好紀",
+      "degree": "工学博士",
+      "research_title": "強相関電子材料の物性研究"
+    },
+    {
+      "edition": "第104回",
+      "ceremony_date": "2014年7月7日",
+      "laureate": "赤﨑勇",
+      "degree": "工学博士",
+      "research_title": "高品質GaN系窒化物半導体単結晶の創製とp–n接合青色発光デバイスの発明"
+    },
+    {
+      "edition": "第105回",
+      "ceremony_date": "2015年6月1日",
+      "laureate": "細野秀雄",
+      "degree": "工学博士",
+      "research_title": "無機電子機能物質の創製と応用に関する研究"
+    },
+    {
+      "edition": "第106回",
+      "ceremony_date": "2016年6月27日",
+      "laureate": "森和俊",
+      "degree": "薬学博士",
+      "research_title": "小胞体ストレス応答の発見と解明"
+    },
+    {
+      "edition": "第107回",
+      "ceremony_date": "2017年6月12日",
+      "laureate": "長谷川昭",
+      "degree": "理学博士",
+      "research_title": "沈み込み帯のテクトニクスに関する地震学的研究"
+    },
+    {
+      "edition": "第108回",
+      "ceremony_date": "2018年6月25日",
+      "laureate": "松村剛",
+      "degree": "パリ第4大学 博士 （フランス語学）",
+      "research_title": "「Dictionnaire du français médiéval」(『 中世フランス語 辞典』）"
+    },
+    {
+      "edition": "第108回",
+      "ceremony_date": "2018年6月25日",
+      "laureate": "豊島近",
+      "degree": "理学博士",
+      "research_title": "原子構造に基づくイオンポンプ作動機構の解明"
+    },
+    {
+      "edition": "第109回",
+      "ceremony_date": "2019年6月17日",
+      "laureate": "藤田誠",
+      "degree": "工学博士",
+      "research_title": "結晶スポンジ法—Ｘ線構造解析の革新と分子科学技術への展開"
+    },
+    {
+      "edition": "第110回",
+      "ceremony_date": "2021年6月21日",
+      "laureate": "斎藤通紀",
+      "degree": "医学博士",
+      "research_title": "生殖細胞の発生機構の解明とその試験管内再構成"
+    },
+    {
+      "edition": "第111回",
+      "ceremony_date": "2021年6月21日",
+      "laureate": "藤本幸夫",
+      "degree": "文学博士",
+      "research_title": "日本現存朝鮮本研究 史部"
+    },
+    {
+      "edition": "第111回",
+      "ceremony_date": "2021年6月21日",
+      "laureate": "石井志保子",
+      "degree": "理学博士",
+      "research_title": "特異点に関する多角的研究"
+    },
+    {
+      "edition": "第112回",
+      "ceremony_date": "2022年6月27日",
+      "laureate": "河西春郎",
+      "degree": "医学博士",
+      "research_title": "大脳シナプスの形態可塑性法則の発見"
+    },
+    {
+      "edition": "第113回",
+      "ceremony_date": "2023年6月12日",
+      "laureate": "原昌宏",
+      "degree": "",
+      "research_title": "QRコード・システムの開発とその世界的普及への貢献"
+    },
+    {
+      "edition": "第114回",
+      "ceremony_date": "2024年7月8日",
+      "laureate": "菊地重仁",
+      "degree": "Ph. D",
+      "research_title": "『カロリング朝時代の支配、委任、コミュニケーション ミッシ・ドミニキ（751－888年）の研究』"
+    },
+    {
+      "edition": "第114回",
+      "ceremony_date": "2024年7月8日",
+      "laureate": "小原一成",
+      "degree": "理学博士",
+      "research_title": "プレート境界における深部低周波微動の発見とスロー地震学への発展"
+    },
+    {
+      "edition": "第115回",
+      "ceremony_date": "2025年6月10日",
+      "laureate": "小川誠二",
+      "degree": "理学博士",
+      "research_title": "機能的磁気共鳴画像法の基本原理の発見及び脳科学への展開"
+    },
+    {
+      "edition": "第116回",
+      "ceremony_date": "2026年7月13日",
+      "laureate": "後藤由季子",
+      "degree": "理学博士",
+      "research_title": "細胞運命を制御するシグナル伝達の解明"
+    }
+  ],
+  "meta": {
+    "title": "恩賜賞（日本学士院）歴代受賞者一覧 - Free Download",
+    "description": "日本学士院が学術上特に優れた論文・著書・研究業績に授与する恩賜賞の歴代受賞者：回次、授賞式開催日、受賞者、学位、研究題目。 Contains 190 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "恩賜賞（日本学士院）歴代受賞者一覧 | ListBase",
+    "seo_description": "Download 恩賜賞（日本学士院）歴代受賞者一覧 — 190 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 190 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/恩賜賞_(日本学士院)"
+    ]
+  }
+}
