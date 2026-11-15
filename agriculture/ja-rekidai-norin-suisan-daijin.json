@@ -1,0 +1,1392 @@
+{
+  "id": "ja-rekidai-norin-suisan-daijin",
+  "name": "歴代農林大臣・農林水産大臣一覧",
+  "title": "歴代農林大臣・農林水産大臣一覧",
+  "description": "1925年の農林省設置以降の歴代農林大臣および農林水産大臣の一覧（代数、氏名、内閣、就任日、出身党派）。",
+  "category": "agriculture",
+  "source": "https://ja.wikipedia.org/wiki/農林水産大臣",
+  "source_url": "https://ja.wikipedia.org/wiki/農林水産大臣",
+  "updated": "2026-11",
+  "record_count": 167,
+  "columns": [
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "cabinet",
+      "label": "Cabinet",
+      "type": "string"
+    },
+    {
+      "key": "took_office",
+      "label": "Took Office",
+      "type": "string"
+    },
+    {
+      "key": "affiliation",
+      "label": "Affiliation",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "title": "農林大臣",
+      "number": "1",
+      "name": "高橋是清",
+      "cabinet": "加藤高明内閣",
+      "took_office": "1925年 4月1日 商工大臣 兼任",
+      "affiliation": "立憲政友会"
+    },
+    {
+      "title": "農林大臣",
+      "number": "2",
+      "name": "岡崎邦輔",
+      "cabinet": "加藤高明内閣",
+      "took_office": "1925年 4月17日",
+      "affiliation": "立憲政友会"
+    },
+    {
+      "title": "農林大臣",
+      "number": "3",
+      "name": "早速整爾",
+      "cabinet": "加藤高明内閣",
+      "took_office": "1925年 8月2日",
+      "affiliation": "憲政会"
+    },
+    {
+      "title": "農林大臣",
+      "number": "3",
+      "name": "早速整爾",
+      "cabinet": "第1次若槻内閣",
+      "took_office": "1926年 1月30日",
+      "affiliation": "憲政会"
+    },
+    {
+      "title": "農林大臣",
+      "number": "4",
+      "name": "町田忠治",
+      "cabinet": "第1次若槻内閣",
+      "took_office": "1926年 6月3日",
+      "affiliation": "憲政会"
+    },
+    {
+      "title": "農林大臣",
+      "number": "5",
+      "name": "山本悌二郎",
+      "cabinet": "田中義一内閣",
+      "took_office": "1927年 4月20日",
+      "affiliation": "立憲政友会"
+    },
+    {
+      "title": "農林大臣",
+      "number": "6",
+      "name": "町田忠治",
+      "cabinet": "濱口内閣",
+      "took_office": "1929年 7月2日",
+      "affiliation": "立憲民政党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "6",
+      "name": "町田忠治",
+      "cabinet": "第2次若槻内閣",
+      "took_office": "1931年 4月14日",
+      "affiliation": "立憲民政党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "7",
+      "name": "山本悌二郎",
+      "cabinet": "犬養内閣",
+      "took_office": "1931年 12月13日",
+      "affiliation": "立憲政友会"
+    },
+    {
+      "title": "農林大臣",
+      "number": "8",
+      "name": "後藤文夫",
+      "cabinet": "齋藤内閣",
+      "took_office": "1932年 5月26日",
+      "affiliation": "貴族院 議員"
+    },
+    {
+      "title": "農林大臣",
+      "number": "9",
+      "name": "山崎達之輔",
+      "cabinet": "岡田内閣",
+      "took_office": "1934年 7月8日",
+      "affiliation": "立憲政友会→ 昭和会"
+    },
+    {
+      "title": "農林大臣",
+      "number": "10",
+      "name": "島田俊雄",
+      "cabinet": "廣田内閣",
+      "took_office": "1936年 3月9日",
+      "affiliation": "立憲政友会"
+    },
+    {
+      "title": "農林大臣",
+      "number": "11",
+      "name": "山崎達之輔",
+      "cabinet": "林内閣",
+      "took_office": "1937年 2月2日",
+      "affiliation": "昭和会"
+    },
+    {
+      "title": "農林大臣",
+      "number": "12",
+      "name": "有馬頼寧",
+      "cabinet": "第1次近衛内閣",
+      "took_office": "1937年 6月4日",
+      "affiliation": "貴族院議員"
+    },
+    {
+      "title": "農林大臣",
+      "number": "13",
+      "name": "櫻内幸雄",
+      "cabinet": "平沼内閣",
+      "took_office": "1939年 1月5日",
+      "affiliation": "立憲民政党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "14",
+      "name": "伍堂卓雄",
+      "cabinet": "阿部内閣",
+      "took_office": "1939年 8月30日",
+      "affiliation": "貴族院議員"
+    },
+    {
+      "title": "農林大臣",
+      "number": "15",
+      "name": "酒井忠正",
+      "cabinet": "阿部内閣",
+      "took_office": "1939年 10月16日",
+      "affiliation": "貴族院議員"
+    },
+    {
+      "title": "農林大臣",
+      "number": "16",
+      "name": "島田俊雄",
+      "cabinet": "米内内閣",
+      "took_office": "1940年 1月16日",
+      "affiliation": "立憲政友会"
+    },
+    {
+      "title": "農林大臣",
+      "number": "17",
+      "name": "近衛文麿",
+      "cabinet": "第2次近衛内閣",
+      "took_office": "1940年 7月22日 内閣総理大臣兼任",
+      "affiliation": "貴族院議員"
+    },
+    {
+      "title": "農林大臣",
+      "number": "18",
+      "name": "石黒忠篤",
+      "cabinet": "第2次近衛内閣",
+      "took_office": "1940年 7月24日",
+      "affiliation": "農林官僚"
+    },
+    {
+      "title": "農林大臣",
+      "number": "19",
+      "name": "井野碩哉",
+      "cabinet": "第2次近衛内閣",
+      "took_office": "1941年 6月11日",
+      "affiliation": "農林官僚"
+    },
+    {
+      "title": "農林大臣",
+      "number": "19",
+      "name": "井野碩哉",
+      "cabinet": "第3次近衛内閣",
+      "took_office": "1941年 7月18日",
+      "affiliation": "農林官僚"
+    },
+    {
+      "title": "農林大臣",
+      "number": "19",
+      "name": "井野碩哉",
+      "cabinet": "東條内閣",
+      "took_office": "1941年 10月18日",
+      "affiliation": "農林官僚"
+    },
+    {
+      "title": "農林大臣",
+      "number": "20",
+      "name": "山崎達之輔",
+      "cabinet": "東條内閣",
+      "took_office": "1943年 4月20日",
+      "affiliation": "翼賛政治会"
+    },
+    {
+      "title": "農林大臣",
+      "number": "1",
+      "name": "千石興太郎",
+      "cabinet": "東久邇内閣",
+      "took_office": "1945年 8月26日",
+      "affiliation": "貴族院 議員"
+    },
+    {
+      "title": "農林大臣",
+      "number": "2",
+      "name": "松村謙三",
+      "cabinet": "幣原内閣",
+      "took_office": "1945年 10月9日",
+      "affiliation": "日本進歩党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "3",
+      "name": "副島千八",
+      "cabinet": "幣原内閣",
+      "took_office": "1946年 1月13日",
+      "affiliation": "民間"
+    },
+    {
+      "title": "農林大臣",
+      "number": "4",
+      "name": "和田博雄",
+      "cabinet": "第1次吉田内閣",
+      "took_office": "1946年 5月22日",
+      "affiliation": "農林省"
+    },
+    {
+      "title": "農林大臣",
+      "number": "5",
+      "name": "吉田茂",
+      "cabinet": "第1次吉田内閣",
+      "took_office": "1947年 1月31日 内閣総理大臣兼任",
+      "affiliation": "自由党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "6",
+      "name": "木村小左衛門",
+      "cabinet": "第1次吉田内閣",
+      "took_office": "1947年 2月15日",
+      "affiliation": "日本進歩党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "‐",
+      "name": "片山哲",
+      "cabinet": "片山内閣",
+      "took_office": "1947年 5月24日 臨時代理",
+      "affiliation": "日本社会党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "7",
+      "name": "平野力三",
+      "cabinet": "片山内閣",
+      "took_office": "1947年 6月1日",
+      "affiliation": "日本社会党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "‐",
+      "name": "片山哲",
+      "cabinet": "片山内閣",
+      "took_office": "1947年 11月4日 臨時代理",
+      "affiliation": "日本社会党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "8",
+      "name": "波多野鼎",
+      "cabinet": "片山内閣",
+      "took_office": "1947年 12月13日",
+      "affiliation": "日本社会党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "9",
+      "name": "永江一夫",
+      "cabinet": "芦田内閣",
+      "took_office": "1948年 3月10日",
+      "affiliation": "日本社会党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "‐",
+      "name": "吉田茂",
+      "cabinet": "第2次吉田内閣",
+      "took_office": "1948年 10月15日 臨時代理",
+      "affiliation": "自由党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "10",
+      "name": "周東英雄",
+      "cabinet": "第2次吉田内閣",
+      "took_office": "1948年 10月19日",
+      "affiliation": "自由党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "11",
+      "name": "森幸太郎",
+      "cabinet": "第3次吉田内閣",
+      "took_office": "1949年 2月16日",
+      "affiliation": "自由党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "12",
+      "name": "廣川弘禅",
+      "cabinet": "第3次吉田第1次改造内閣",
+      "took_office": "1950年 6月28日",
+      "affiliation": "自由党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "13",
+      "name": "根本龍太郎",
+      "cabinet": "第3次吉田第2次改造内閣",
+      "took_office": "1951年 7月4日",
+      "affiliation": "自由党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "14",
+      "name": "廣川弘禅",
+      "cabinet": "第3次吉田第3次改造内閣",
+      "took_office": "1951年 12月26日",
+      "affiliation": "自由党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "15",
+      "name": "小笠原三九郎",
+      "cabinet": "第4次吉田内閣",
+      "took_office": "1952年 10月30日",
+      "affiliation": "自由党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "16",
+      "name": "廣川弘禅",
+      "cabinet": "第4次吉田内閣",
+      "took_office": "1952年 12月5日",
+      "affiliation": "自由党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "17",
+      "name": "田子一民",
+      "cabinet": "第4次吉田内閣",
+      "took_office": "1953年 3月3日",
+      "affiliation": "自由党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "18",
+      "name": "内田信也",
+      "cabinet": "第5次吉田内閣",
+      "took_office": "1953年 5月21日",
+      "affiliation": "自由党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "19",
+      "name": "保利茂",
+      "cabinet": "第5次吉田内閣",
+      "took_office": "1953年 6月22日",
+      "affiliation": "自由党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "20",
+      "name": "河野一郎",
+      "cabinet": "第1次鳩山内閣",
+      "took_office": "1954年 12月10日",
+      "affiliation": "日本民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "21",
+      "name": "河野一郎",
+      "cabinet": "第2次鳩山内閣",
+      "took_office": "1955年 3月19日",
+      "affiliation": "日本民主党→ 自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "22",
+      "name": "河野一郎",
+      "cabinet": "第3次鳩山内閣",
+      "took_office": "1955年 11月22日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "23",
+      "name": "井出一太郎",
+      "cabinet": "石橋内閣",
+      "took_office": "1956年 12月23日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "24",
+      "name": "井出一太郎",
+      "cabinet": "第1次岸内閣",
+      "took_office": "1957年 2月25日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "25",
+      "name": "赤城宗徳",
+      "cabinet": "第1次岸改造内閣",
+      "took_office": "1957年 7月10日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "26",
+      "name": "三浦一雄",
+      "cabinet": "第2次岸内閣",
+      "took_office": "1958年 6月12日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "27",
+      "name": "福田赳夫",
+      "cabinet": "第2次岸改造内閣",
+      "took_office": "1959年 7月19日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "28",
+      "name": "南条徳男",
+      "cabinet": "第1次池田内閣",
+      "took_office": "1960年 7月19日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "29",
+      "name": "周東英雄",
+      "cabinet": "第2次池田内閣",
+      "took_office": "1960年 12月8日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "30",
+      "name": "河野一郎",
+      "cabinet": "第2次池田第1次改造内閣",
+      "took_office": "1961年 7月18日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "31",
+      "name": "重政誠之",
+      "cabinet": "第2次池田第2次改造内閣",
+      "took_office": "1962年 7月18日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "32",
+      "name": "赤城宗徳",
+      "cabinet": "第2次池田第3次改造内閣",
+      "took_office": "1963年 7月18日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "33",
+      "name": "赤城宗徳",
+      "cabinet": "第3次池田内閣",
+      "took_office": "1963年 12月9日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "33",
+      "name": "赤城宗徳",
+      "cabinet": "第3次池田改造内閣",
+      "took_office": "1964年 7月18日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "34",
+      "name": "赤城宗徳",
+      "cabinet": "第1次佐藤内閣",
+      "took_office": "1964年 11月9日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "35",
+      "name": "坂田英一",
+      "cabinet": "第1次佐藤第1次改造内閣",
+      "took_office": "1965年 6月3日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "36",
+      "name": "松野頼三",
+      "cabinet": "第1次佐藤第2次改造内閣",
+      "took_office": "1966年 8月1日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "37",
+      "name": "倉石忠雄",
+      "cabinet": "第1次佐藤第3次改造内閣",
+      "took_office": "1966年 12月3日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "38",
+      "name": "倉石忠雄",
+      "cabinet": "第2次佐藤内閣",
+      "took_office": "1967年 2月17日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "38",
+      "name": "倉石忠雄",
+      "cabinet": "第2次佐藤第1次改造内閣",
+      "took_office": "1967年 11月25日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "39",
+      "name": "西村直己",
+      "cabinet": "第2次佐藤第1次改造内閣",
+      "took_office": "1968年 2月23日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "40",
+      "name": "長谷川四郎",
+      "cabinet": "第2次佐藤第2次改造内閣",
+      "took_office": "1968年 11月30日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "41",
+      "name": "倉石忠雄",
+      "cabinet": "第3次佐藤内閣",
+      "took_office": "1970年 1月14日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "42",
+      "name": "赤城宗徳",
+      "cabinet": "第3次佐藤改造内閣",
+      "took_office": "1971年 7月5日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "43",
+      "name": "足立篤郎",
+      "cabinet": "第1次田中角榮内閣",
+      "took_office": "1972年 7月7日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "44",
+      "name": "桜内義雄",
+      "cabinet": "第2次田中角榮内閣",
+      "took_office": "1972年 12月22日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "45",
+      "name": "倉石忠雄",
+      "cabinet": "第2次田中角榮第1次改造内閣",
+      "took_office": "1973年 11月25日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "45",
+      "name": "倉石忠雄",
+      "cabinet": "第2次田中角榮第2次改造内閣",
+      "took_office": "1974年 11月11日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "46",
+      "name": "安倍晋太郎",
+      "cabinet": "三木内閣",
+      "took_office": "1974年 12月9日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "47",
+      "name": "大石武一",
+      "cabinet": "三木改造内閣",
+      "took_office": "1976年 9月15日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "48",
+      "name": "鈴木善幸",
+      "cabinet": "福田赳夫内閣",
+      "took_office": "1976年 12月24日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林大臣",
+      "number": "49",
+      "name": "中川一郎",
+      "cabinet": "福田赳夫改造内閣",
+      "took_office": "1977年 11月28日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "1",
+      "name": "中川一郎",
+      "cabinet": "福田赳夫改造内閣",
+      "took_office": "1978年 7月5日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "2",
+      "name": "渡邉美智雄",
+      "cabinet": "第1次大平内閣",
+      "took_office": "1978年 12月7日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "3",
+      "name": "武藤嘉文",
+      "cabinet": "第2次大平内閣",
+      "took_office": "1979年 11月9日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "4",
+      "name": "亀岡高夫",
+      "cabinet": "鈴木善幸内閣",
+      "took_office": "1980年 7月17日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "5",
+      "name": "田澤吉郎",
+      "cabinet": "鈴木善幸改造内閣",
+      "took_office": "1981年 11月30日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "6",
+      "name": "金子岩三",
+      "cabinet": "第1次中曽根内閣",
+      "took_office": "1982年 11月27日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "7",
+      "name": "山村新治郎",
+      "cabinet": "第2次中曽根内閣",
+      "took_office": "1983年 12月27日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "8",
+      "name": "佐藤守良",
+      "cabinet": "第2次中曽根第1次改造内閣",
+      "took_office": "1984年 11月1日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "9",
+      "name": "羽田孜",
+      "cabinet": "第2次中曽根第2次改造内閣",
+      "took_office": "1985年 12月28日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "10",
+      "name": "加藤六月",
+      "cabinet": "第3次中曽根内閣",
+      "took_office": "1986年 7月22日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "11",
+      "name": "佐藤隆",
+      "cabinet": "竹下内閣",
+      "took_office": "1987年 11月6日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "12",
+      "name": "羽田孜",
+      "cabinet": "竹下改造内閣",
+      "took_office": "1988年 12月27日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "13",
+      "name": "堀之内久男",
+      "cabinet": "宇野内閣",
+      "took_office": "1989年 6月3日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "14",
+      "name": "鹿野道彦",
+      "cabinet": "第1次海部内閣",
+      "took_office": "1989年 8月10日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "15",
+      "name": "山本富雄",
+      "cabinet": "第2次海部内閣",
+      "took_office": "1990年 2月28日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "16",
+      "name": "近藤元次",
+      "cabinet": "第2次海部改造内閣",
+      "took_office": "1990年 12月29日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "17",
+      "name": "田名部匡省",
+      "cabinet": "宮澤内閣",
+      "took_office": "1991年 11月5日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "17",
+      "name": "田名部匡省",
+      "cabinet": "宮澤改造内閣",
+      "took_office": "1992年 12月12日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "18",
+      "name": "宮澤喜一",
+      "cabinet": "宮澤改造内閣",
+      "took_office": "1993年 8月4日 内閣総理大臣兼任",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "19",
+      "name": "畑英次郎",
+      "cabinet": "細川内閣",
+      "took_office": "1993年 8月9日",
+      "affiliation": "新生党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "‐",
+      "name": "羽田孜",
+      "cabinet": "羽田内閣",
+      "took_office": "1994年 4月28日 臨時代理",
+      "affiliation": "新生党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "20",
+      "name": "加藤六月",
+      "cabinet": "羽田内閣",
+      "took_office": "1994年4月28日",
+      "affiliation": "新生党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "21",
+      "name": "大河原太一郎",
+      "cabinet": "村山内閣",
+      "took_office": "1994年 6月30日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "22",
+      "name": "野呂田芳成",
+      "cabinet": "村山改造内閣",
+      "took_office": "1995年 8月8日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "23",
+      "name": "大原一三",
+      "cabinet": "第1次橋本内閣",
+      "took_office": "1996年 1月11日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "24",
+      "name": "藤本孝雄",
+      "cabinet": "第2次橋本内閣",
+      "took_office": "1996年 11月7日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "25",
+      "name": "越智伊平",
+      "cabinet": "第2次橋本改造内閣",
+      "took_office": "1997年 9月11日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "26",
+      "name": "島村宜伸",
+      "cabinet": "第2次橋本改造内閣",
+      "took_office": "1997年 9月26日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "27",
+      "name": "中川昭一",
+      "cabinet": "小渕内閣",
+      "took_office": "1998年 7月30日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "27",
+      "name": "中川昭一",
+      "cabinet": "小渕第1次改造内閣",
+      "took_office": "1999年 1月14日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "28",
+      "name": "玉澤徳一郎",
+      "cabinet": "小渕第2次改造内閣",
+      "took_office": "1999年 10月5日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "29",
+      "name": "玉澤徳一郎",
+      "cabinet": "第1次森内閣",
+      "took_office": "2000年 4月5日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "30",
+      "name": "谷洋一",
+      "cabinet": "第2次森内閣",
+      "took_office": "2000年 7月4日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "31",
+      "name": "谷津義男",
+      "cabinet": "第2次森改造内閣",
+      "took_office": "2000年 12月5日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "31",
+      "name": "谷津義男",
+      "cabinet": "第2次森改造内閣 (中央省庁再編後)",
+      "took_office": "2001年 1月6日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "32",
+      "name": "武部勤",
+      "cabinet": "第1次小泉内閣",
+      "took_office": "2001年 4月26日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "33",
+      "name": "大島理森",
+      "cabinet": "第1次小泉第1次改造内閣",
+      "took_office": "2002年 9月30日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "34",
+      "name": "亀井善之",
+      "cabinet": "第1次小泉第1次改造内閣",
+      "took_office": "2003年 4月1日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "34",
+      "name": "亀井善之",
+      "cabinet": "第1次小泉第2次改造内閣",
+      "took_office": "2003年 9月22日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "35",
+      "name": "亀井善之",
+      "cabinet": "第2次小泉内閣",
+      "took_office": "2003年 11月19日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "36",
+      "name": "島村宜伸",
+      "cabinet": "第2次小泉改造内閣",
+      "took_office": "2004年 9月27日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "37",
+      "name": "小泉純一郎",
+      "cabinet": "第2次小泉改造内閣",
+      "took_office": "2005年 8月8日 内閣総理大臣兼任",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "38",
+      "name": "岩永峯一",
+      "cabinet": "第2次小泉改造内閣",
+      "took_office": "2005年 8月11日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "39",
+      "name": "岩永峯一",
+      "cabinet": "第3次小泉内閣",
+      "took_office": "2005年 9月21日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "40",
+      "name": "中川昭一",
+      "cabinet": "第3次小泉改造内閣",
+      "took_office": "2005年 10月31日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "41",
+      "name": "松岡利勝",
+      "cabinet": "第1次安倍内閣",
+      "took_office": "2006年 9月26日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "-",
+      "name": "若林正俊",
+      "cabinet": "第1次安倍内閣",
+      "took_office": "2007年 5月28日 臨時代理",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "42",
+      "name": "赤城徳彦",
+      "cabinet": "第1次安倍内閣",
+      "took_office": "2007年 6月1日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "43",
+      "name": "若林正俊",
+      "cabinet": "第1次安倍内閣",
+      "took_office": "2007年 8月1日 環境大臣兼任",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "44",
+      "name": "遠藤武彦",
+      "cabinet": "第1次安倍改造内閣",
+      "took_office": "2007年 8月27日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "-",
+      "name": "甘利明",
+      "cabinet": "第1次安倍改造内閣",
+      "took_office": "2007年 9月3日 臨時代理",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "45",
+      "name": "若林正俊",
+      "cabinet": "第1次安倍改造内閣",
+      "took_office": "2007年 9月4日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "46",
+      "name": "若林正俊",
+      "cabinet": "福田康夫内閣",
+      "took_office": "2007年 9月26日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "47",
+      "name": "太田誠一",
+      "cabinet": "福田康夫改造内閣",
+      "took_office": "2008年 8月2日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "-",
+      "name": "町村信孝",
+      "cabinet": "福田康夫改造内閣",
+      "took_office": "2008年 9月19日 臨時代理",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "48",
+      "name": "石破茂",
+      "cabinet": "麻生内閣",
+      "took_office": "2008年 9月24日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "49",
+      "name": "赤松広隆",
+      "cabinet": "鳩山由紀夫内閣",
+      "took_office": "2009年 9月16日",
+      "affiliation": "民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "50",
+      "name": "山田正彦",
+      "cabinet": "菅直人内閣",
+      "took_office": "2010年 6月8日",
+      "affiliation": "民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "51",
+      "name": "鹿野道彦",
+      "cabinet": "菅直人第1次改造内閣",
+      "took_office": "2010年 9月17日",
+      "affiliation": "民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "51",
+      "name": "鹿野道彦",
+      "cabinet": "菅直人第2次改造内閣",
+      "took_office": "2011年 1月14日",
+      "affiliation": "民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "52",
+      "name": "鹿野道彦",
+      "cabinet": "野田内閣",
+      "took_office": "2011年 9月2日",
+      "affiliation": "民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "52",
+      "name": "鹿野道彦",
+      "cabinet": "野田第1次改造内閣",
+      "took_office": "2012年 1月13日",
+      "affiliation": "民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "53",
+      "name": "郡司彰",
+      "cabinet": "野田第2次改造内閣",
+      "took_office": "2012年 6月4日",
+      "affiliation": "民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "53",
+      "name": "郡司彰",
+      "cabinet": "野田第3次改造内閣",
+      "took_office": "2012年 10月1日",
+      "affiliation": "民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "54",
+      "name": "林芳正",
+      "cabinet": "第2次安倍内閣",
+      "took_office": "2012年 12月26日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "55",
+      "name": "西川公也",
+      "cabinet": "第2次安倍改造内閣",
+      "took_office": "2014年 9月3日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "56",
+      "name": "西川公也",
+      "cabinet": "第3次安倍内閣",
+      "took_office": "2014年 12月24日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "57",
+      "name": "林芳正",
+      "cabinet": "第3次安倍内閣",
+      "took_office": "2015年 2月23日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "58",
+      "name": "森山裕",
+      "cabinet": "第3次安倍第1次改造内閣",
+      "took_office": "2015年 10月7日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "59",
+      "name": "山本有二",
+      "cabinet": "第3次安倍第2次改造内閣",
+      "took_office": "2016年 8月3日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "60",
+      "name": "齋藤健",
+      "cabinet": "第3次安倍第3次改造内閣",
+      "took_office": "2017年 8月3日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "61",
+      "name": "齋藤健",
+      "cabinet": "第4次安倍内閣",
+      "took_office": "2017年 11月1日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "62",
+      "name": "吉川貴盛",
+      "cabinet": "第4次安倍第1次改造内閣",
+      "took_office": "2018年 10月2日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "63",
+      "name": "江藤拓",
+      "cabinet": "第4次安倍第2次改造内閣",
+      "took_office": "2019年 9月11日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "64",
+      "name": "野上浩太郎",
+      "cabinet": "菅義偉内閣",
+      "took_office": "2020年 9月16日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "65",
+      "name": "金子原二郎",
+      "cabinet": "第1次岸田内閣",
+      "took_office": "2021年 10月4日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "66",
+      "name": "金子原二郎",
+      "cabinet": "第2次岸田内閣",
+      "took_office": "2021年 11月10日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "67",
+      "name": "野村哲郎",
+      "cabinet": "第2次岸田第1次改造内閣",
+      "took_office": "2022年 8月10日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "68",
+      "name": "宮下一郎",
+      "cabinet": "第2次岸田第2次改造内閣",
+      "took_office": "2023年 9月13日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "69",
+      "name": "坂本哲志",
+      "cabinet": "第2次岸田第2次改造内閣",
+      "took_office": "2023年 12月14日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "70",
+      "name": "小里泰弘",
+      "cabinet": "第1次石破内閣",
+      "took_office": "2024年 10月1日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "71",
+      "name": "江藤拓",
+      "cabinet": "第2次石破内閣",
+      "took_office": "2024年 11月11日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "-",
+      "name": "浅尾慶一郎",
+      "cabinet": "第2次石破内閣",
+      "took_office": "2025年 5月21日 臨時代理",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "72",
+      "name": "小泉進次郎",
+      "cabinet": "第2次石破内閣",
+      "took_office": "2025年 5月21日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "73",
+      "name": "鈴木憲和",
+      "cabinet": "第1次高市内閣",
+      "took_office": "2025年 10月21日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "74",
+      "name": "鈴木憲和",
+      "cabinet": "第2次高市内閣",
+      "took_office": "2026年 2月18日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "75",
+      "name": "簗和生",
+      "cabinet": "第2次高市改造内閣",
+      "took_office": "2026年 9月17日",
+      "affiliation": "自由民主党"
+    },
+    {
+      "title": "農林水産大臣",
+      "number": "76",
+      "name": "武部新",
+      "cabinet": "第2次高市改造内閣",
+      "took_office": "2026年 10月15日",
+      "affiliation": "自由民主党"
+    }
+  ],
+  "meta": {
+    "title": "歴代農林大臣・農林水産大臣一覧 - Free Download",
+    "description": "1925年の農林省設置以降の歴代農林大臣および農林水産大臣の一覧（代数、氏名、内閣、就任日、出身党派）。 Contains 167 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "歴代農林大臣・農林水産大臣一覧 | ListBase",
+    "seo_description": "Download 歴代農林大臣・農林水産大臣一覧 — 167 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 167 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/農林水産大臣"
+    ]
+  }
+}

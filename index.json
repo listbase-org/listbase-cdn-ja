@@ -1,12 +1,12 @@
 {
   "lang": "ja",
-  "generated": "2026-11-15T02:18:50.899Z",
-  "total_datasets": 608,
-  "total_records": 465779,
+  "generated": "2026-11-15T02:19:02.240Z",
+  "total_datasets": 609,
+  "total_records": 465946,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "culture",
@@ -311,6 +311,33 @@
         "xlsx": {
           "name": "ja-nogyo-shikaku_JA.xlsx",
           "size": 8431
+        }
+      }
+    },
+    {
+      "id": "ja-rekidai-norin-suisan-daijin",
+      "name": "歴代農林大臣・農林水産大臣一覧",
+      "category": "agriculture",
+      "record_count": 167,
+      "columns": [
+        "title",
+        "number",
+        "name",
+        "cabinet",
+        "took_office",
+        "affiliation"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/農林水産大臣",
+      "updated": "2026-11",
+      "size": 39025,
+      "files": {
+        "csv": {
+          "name": "ja-rekidai-norin-suisan-daijin_JA.csv",
+          "size": 16868
+        },
+        "xlsx": {
+          "name": "ja-rekidai-norin-suisan-daijin_JA.xlsx",
+          "size": 14242
         }
       }
     },
