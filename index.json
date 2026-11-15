@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-14T02:16:08.050Z",
-  "total_datasets": 606,
-  "total_records": 464434,
+  "generated": "2026-11-15T02:18:39.124Z",
+  "total_datasets": 607,
+  "total_records": 465634,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "education",
@@ -741,6 +741,32 @@
         "xlsx": {
           "name": "ja-chiiki-dantai-shohyo_JA.xlsx",
           "size": 83839
+        }
+      }
+    },
+    {
+      "id": "ja-chiikibetsu-saitei-chingin-suii",
+      "name": "地域別最低賃金の推移（都道府県別・2002〜2026年度）",
+      "category": "economy",
+      "record_count": 1200,
+      "columns": [
+        "prefecture",
+        "fiscal_year",
+        "fiscal_year_label",
+        "minimum_wage_yen",
+        "effective_date"
+      ],
+      "source": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/minimumichiran/",
+      "updated": "2026-11",
+      "size": 222664,
+      "files": {
+        "csv": {
+          "name": "ja-chiikibetsu-saitei-chingin-suii_JA.csv",
+          "size": 63425
+        },
+        "xlsx": {
+          "name": "ja-chiikibetsu-saitei-chingin-suii_JA.xlsx",
+          "size": 34510
         }
       }
     },
