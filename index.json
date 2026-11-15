@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-15T02:18:39.124Z",
-  "total_datasets": 607,
-  "total_records": 465634,
+  "generated": "2026-11-15T02:18:50.899Z",
+  "total_datasets": 608,
+  "total_records": 465779,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "education",
@@ -842,6 +842,33 @@
         "xlsx": {
           "name": "ja-nikkei225-kosei-meigara_JA.xlsx",
           "size": 14042
+        }
+      }
+    },
+    {
+      "id": "ja-rekidai-zaimu-okura-daijin",
+      "name": "歴代大蔵大臣・財務大臣一覧",
+      "category": "economy",
+      "record_count": 145,
+      "columns": [
+        "title",
+        "number",
+        "name",
+        "cabinet",
+        "term",
+        "affiliation"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/財務大臣_(日本)",
+      "updated": "2026-11",
+      "size": 42759,
+      "files": {
+        "csv": {
+          "name": "ja-rekidai-zaimu-okura-daijin_JA.csv",
+          "size": 24284
+        },
+        "xlsx": {
+          "name": "ja-rekidai-zaimu-okura-daijin_JA.xlsx",
+          "size": 15239
         }
       }
     },
