@@ -1,0 +1,360 @@
+{
+  "id": "ja-senmonshoku-daigaku",
+  "name": "日本の専門職大学・専門職学科一覧",
+  "title": "日本の専門職大学・専門職学科一覧",
+  "description": "日本の専門職大学（公立・私立）および専門職学科の一覧。学部・学科、学科設置年、授与される学位を記載。",
+  "category": "education",
+  "source": "https://ja.wikipedia.org/wiki/日本の専門職大学一覧",
+  "source_url": "https://ja.wikipedia.org/wiki/日本の専門職大学一覧",
+  "updated": "2026-11",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "university",
+      "label": "University",
+      "type": "string"
+    },
+    {
+      "key": "faculty",
+      "label": "Faculty",
+      "type": "string"
+    },
+    {
+      "key": "department",
+      "label": "Department",
+      "type": "string"
+    },
+    {
+      "key": "established",
+      "label": "Established",
+      "type": "string"
+    },
+    {
+      "key": "degree",
+      "label": "Degree",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "university": "静岡県立農林環境専門職大学",
+      "faculty": "生産環境経営学部",
+      "department": "生産環境経営学科",
+      "established": "2020年",
+      "degree": "農林業学士（専門職）",
+      "type": "公立専門職大学"
+    },
+    {
+      "university": "芸術文化観光専門職大学",
+      "faculty": "芸術文化・観光学部",
+      "department": "芸術文化・観光学科",
+      "established": "2021年",
+      "degree": "芸術文化学士（専門職）",
+      "type": "公立専門職大学"
+    },
+    {
+      "university": "芸術文化観光専門職大学",
+      "faculty": "芸術文化・観光学部",
+      "department": "芸術文化・観光学科",
+      "established": "2021年",
+      "degree": "観光学士（専門職）",
+      "type": "公立専門職大学"
+    },
+    {
+      "university": "東北農林専門職大学",
+      "faculty": "農林業経営学部",
+      "department": "農業経営学科 森林業経営学科",
+      "established": "2024年",
+      "degree": "農業学士（専門職）",
+      "type": "公立専門職大学"
+    },
+    {
+      "university": "東北農林専門職大学",
+      "faculty": "農林業経営学部",
+      "department": "農業経営学科 森林業経営学科",
+      "established": "2024年",
+      "degree": "森林業学士（専門職）",
+      "type": "公立専門職大学"
+    },
+    {
+      "university": "電動モビリティシステム専門職大学",
+      "faculty": "電気自動車システム工学部",
+      "department": "電気自動車システム工学科",
+      "established": "2023年",
+      "degree": "電気自動車システム工学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "東京情報デザイン専門職大学",
+      "faculty": "情報デザイン学部",
+      "department": "情報デザイン学科",
+      "established": "2023年",
+      "degree": "情報学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "グローバルBiz専門職大学",
+      "faculty": "グローバルビジネス学部",
+      "department": "グローバルビジネス学科",
+      "established": "2023年",
+      "degree": "グローバルビジネス学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "ビューティ&ウェルネス専門職大学",
+      "faculty": "ビューティ&ウェルネス学部",
+      "department": "ビューティ&ウェルネス学科",
+      "established": "2023年",
+      "degree": "ビューティ&ウェルネス学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "アール医療専門職大学",
+      "faculty": "リハビリテーション学部",
+      "department": "理学療法 学科",
+      "established": "2022年",
+      "degree": "理学療法学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "アール医療専門職大学",
+      "faculty": "リハビリテーション学部",
+      "department": "作業療法 学科",
+      "established": "2022年",
+      "degree": "作業療法学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "国際ファッション専門職大学",
+      "faculty": "国際ファッション学部",
+      "department": "ファッションクリエイション学科",
+      "established": "2019年",
+      "degree": "ファッションクリエイション学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "国際ファッション専門職大学",
+      "faculty": "国際ファッション学部",
+      "department": "ファッションビジネス学科",
+      "established": "2019年",
+      "degree": "ファッションビジネス学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "国際ファッション専門職大学",
+      "faculty": "国際ファッション学部",
+      "department": "大阪ファッションクリエイション・ビジネス学科",
+      "established": "2019年",
+      "degree": "ファッションクリエイション・ビジネス学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "国際ファッション専門職大学",
+      "faculty": "国際ファッション学部",
+      "department": "名古屋ファッションクリエイション・ビジネス学科",
+      "established": "2019年",
+      "degree": "ファッションクリエイション・ビジネス学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "情報経営イノベーション専門職大学",
+      "faculty": "情報経営イノベーション学部",
+      "department": "情報経営イノベーション学科",
+      "established": "2020年",
+      "degree": "情報経営イノベーション学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "東京国際工科専門職大学",
+      "faculty": "工科学部",
+      "department": "情報工学科",
+      "established": "2020年",
+      "degree": "情報工学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "東京国際工科専門職大学",
+      "faculty": "工科学部",
+      "department": "デジタルエンタテインメント学科",
+      "established": "2020年",
+      "degree": "デジタルエンタテインメント学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "東京保健医療専門職大学",
+      "faculty": "リハビリテーション学部",
+      "department": "理学療法学科",
+      "established": "2020年",
+      "degree": "理学療法学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "東京保健医療専門職大学",
+      "faculty": "リハビリテーション学部",
+      "department": "作業療法学科",
+      "established": "2020年",
+      "degree": "作業療法学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "開志専門職大学",
+      "faculty": "事業創造学部",
+      "department": "事業創造学科",
+      "established": "2020年",
+      "degree": "事業創造学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "開志専門職大学",
+      "faculty": "情報学部",
+      "department": "情報学科",
+      "established": "2020年",
+      "degree": "情報学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "開志専門職大学",
+      "faculty": "アニメ・マンガ学部",
+      "department": "アニメ・マンガ学科",
+      "established": "2021年",
+      "degree": "アニメ・マンガ学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "かなざわ食マネジメント専門職大学",
+      "faculty": "フードサービスマネジメント学部",
+      "department": "フードサービスマネジメント学科",
+      "established": "2021年",
+      "degree": "フードサービスマネジメント学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "名古屋国際工科専門職大学",
+      "faculty": "工科学部",
+      "department": "情報工学科",
+      "established": "2021年",
+      "degree": "情報工学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "名古屋国際工科専門職大学",
+      "faculty": "工科学部",
+      "department": "デジタルエンタテインメント学科",
+      "established": "2021年",
+      "degree": "デジタルエンタテインメント学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "びわこリハビリテーション専門職大学",
+      "faculty": "リハビリテーション学部",
+      "department": "理学療法学科",
+      "established": "2020年",
+      "degree": "理学療法学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "びわこリハビリテーション専門職大学",
+      "faculty": "リハビリテーション学部",
+      "department": "作業療法学科",
+      "established": "2020年",
+      "degree": "作業療法学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "大阪国際工科専門職大学",
+      "faculty": "工科学部",
+      "department": "情報工学科",
+      "established": "2021年",
+      "degree": "情報工学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "大阪国際工科専門職大学",
+      "faculty": "工科学部",
+      "department": "デジタルエンタテインメント学科",
+      "established": "2021年",
+      "degree": "デジタルエンタテインメント学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "和歌山リハビリテーション専門職大学",
+      "faculty": "健康科学部",
+      "department": "リハビリテーション学科",
+      "established": "2021年",
+      "degree": "理学療法学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "和歌山リハビリテーション専門職大学",
+      "faculty": "健康科学部",
+      "department": "リハビリテーション学科",
+      "established": "2021年",
+      "degree": "作業療法学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "岡山医療専門職大学",
+      "faculty": "健康科学部",
+      "department": "理学療法学科",
+      "established": "2020年",
+      "degree": "理学療法学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "岡山医療専門職大学",
+      "faculty": "健康科学部",
+      "department": "作業療法学科",
+      "established": "2020年",
+      "degree": "作業療法学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "高知リハビリテーション専門職大学",
+      "faculty": "リハビリテーション学部",
+      "department": "リハビリテーション学科",
+      "established": "2019年",
+      "degree": "理学療法学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "高知リハビリテーション専門職大学",
+      "faculty": "リハビリテーション学部",
+      "department": "リハビリテーション学科",
+      "established": "2019年",
+      "degree": "作業療法学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "高知リハビリテーション専門職大学",
+      "faculty": "リハビリテーション学部",
+      "department": "リハビリテーション学科",
+      "established": "2019年",
+      "degree": "言語聴覚学士（専門職）",
+      "type": "私立専門職大学"
+    },
+    {
+      "university": "名古屋産業大学",
+      "faculty": "現代ビジネス学部",
+      "department": "経営専門職学科",
+      "established": "2021年",
+      "degree": "学士（経営専門職）",
+      "type": "通常の私立大学に設置された専門職学科の一覧"
+    }
+  ],
+  "meta": {
+    "title": "日本の専門職大学・専門職学科一覧 - Free Download",
+    "description": "日本の専門職大学（公立・私立）および専門職学科の一覧。学部・学科、学科設置年、授与される学位を記載。 Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の専門職大学・専門職学科一覧 | ListBase",
+    "seo_description": "Download 日本の専門職大学・専門職学科一覧 — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/日本の専門職大学一覧"
+    ]
+  }
+}

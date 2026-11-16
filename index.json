@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-16T02:21:31.947Z",
-  "total_datasets": 612,
-  "total_records": 466684,
+  "generated": "2026-11-16T02:21:44.114Z",
+  "total_datasets": 613,
+  "total_records": 466722,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "entertainment",
@@ -1184,6 +1184,33 @@
         "xlsx": {
           "name": "ja-rekidai-monbu-daijin_JA.xlsx",
           "size": 16907
+        }
+      }
+    },
+    {
+      "id": "ja-senmonshoku-daigaku",
+      "name": "日本の専門職大学・専門職学科一覧",
+      "category": "education",
+      "record_count": 38,
+      "columns": [
+        "university",
+        "faculty",
+        "department",
+        "established",
+        "degree",
+        "type"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/日本の専門職大学一覧",
+      "updated": "2026-11",
+      "size": 13516,
+      "files": {
+        "csv": {
+          "name": "ja-senmonshoku-daigaku_JA.csv",
+          "size": 6900
+        },
+        "xlsx": {
+          "name": "ja-senmonshoku-daigaku_JA.xlsx",
+          "size": 8631
         }
       }
     },
