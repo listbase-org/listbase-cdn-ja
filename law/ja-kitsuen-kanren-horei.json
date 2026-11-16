@@ -1,0 +1,1120 @@
+{
+  "id": "ja-kitsuen-kanren-horei",
+  "name": "日本の喫煙・たばこに関する現行法令一覧",
+  "title": "日本の喫煙・たばこに関する現行法令一覧",
+  "description": "喫煙・たばこに関する日本の現行法令（法律・政令・省令等）の一覧。公布日、法令番号、制定題名・略称、元号区分を記載。",
+  "category": "law",
+  "source": "https://ja.wikipedia.org/wiki/日本の喫煙に関する法令一覧",
+  "source_url": "https://ja.wikipedia.org/wiki/日本の喫煙に関する法令一覧",
+  "updated": "2026-11",
+  "record_count": 133,
+  "columns": [
+    {
+      "key": "law",
+      "label": "Law",
+      "type": "string"
+    },
+    {
+      "key": "promulgated",
+      "label": "Promulgated",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "law_number",
+      "label": "Law Number",
+      "type": "string"
+    },
+    {
+      "key": "alias_or_original_title",
+      "label": "Alias Or Original Title",
+      "type": "string"
+    },
+    {
+      "key": "era",
+      "label": "Era",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "law": "二十歳未満ノ者ノ喫煙ノ禁止ニ関スル法律",
+      "promulgated": "明治33年（1900年）3月7日",
+      "year": 1900,
+      "law_number": "法律第33号",
+      "alias_or_original_title": "",
+      "era": "明治"
+    },
+    {
+      "law": "鉄道営業法",
+      "promulgated": "明治33年3月16日",
+      "year": "",
+      "law_number": "法律第65号",
+      "alias_or_original_title": "",
+      "era": "明治"
+    },
+    {
+      "law": "軌道運輸規程",
+      "promulgated": "大正12年（1923年）12月29日",
+      "year": 1923,
+      "law_number": "鉄道省令第4号",
+      "alias_or_original_title": "",
+      "era": "大正"
+    },
+    {
+      "law": "消防法",
+      "promulgated": "昭和23年（1948年）7月24日",
+      "year": 1948,
+      "law_number": "法律第186号",
+      "alias_or_original_title": "",
+      "era": "昭和"
+    },
+    {
+      "law": "日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴うたばこ事業法等の臨時特例に関する法律",
+      "promulgated": "昭和27年（1952年）4月28日",
+      "year": 1952,
+      "law_number": "法律第114号",
+      "alias_or_original_title": "日本国とアメリカ合衆国との間の安全保障条約第三条に基く行政協定の実施に伴うたばこ専売法等の臨時特例に関する法律",
+      "era": "昭和"
+    },
+    {
+      "law": "たばこ専売法",
+      "promulgated": "昭和24年（1949年）5月28日",
+      "year": 1949,
+      "law_number": "法律第111号",
+      "alias_or_original_title": "",
+      "era": "昭和"
+    },
+    {
+      "law": "地方税法",
+      "promulgated": "昭和25年（1950年）7月31日",
+      "year": 1950,
+      "law_number": "法律第226号",
+      "alias_or_original_title": "",
+      "era": "昭和"
+    },
+    {
+      "law": "奄美群島の復帰に伴うたばこ専売法等の適用の暫定措置等に関する政令",
+      "promulgated": "昭和28年（1953年）12月24日",
+      "year": 1953,
+      "law_number": "政令第406号",
+      "alias_or_original_title": "",
+      "era": "昭和"
+    },
+    {
+      "law": "労働者災害補償保険法施行規則",
+      "promulgated": "昭和30年（1955年）9月1日",
+      "year": 1955,
+      "law_number": "労働省令第22号",
+      "alias_or_original_title": "",
+      "era": "昭和"
+    },
+    {
+      "law": "旅客自動車運送事業運輸規則",
+      "promulgated": "昭和31年（1956年）8月1日",
+      "year": 1956,
+      "law_number": "運輸省令第44号",
+      "alias_or_original_title": "",
+      "era": "昭和"
+    },
+    {
+      "law": "たばこ耕作組合法",
+      "promulgated": "昭和33年（1958年）5月2日",
+      "year": 1958,
+      "law_number": "法律第135号",
+      "alias_or_original_title": "",
+      "era": "昭和"
+    },
+    {
+      "law": "たばこ耕作組合法施行規則",
+      "promulgated": "昭和33年（1958年）5月2日",
+      "year": 1958,
+      "law_number": "大蔵省令第22号",
+      "alias_or_original_title": "",
+      "era": "昭和"
+    },
+    {
+      "law": "たばこ耕作組合が不動産の所有権を取得する場合における登録税の免除に関する省令",
+      "promulgated": "昭和33年（1958年）5月2日",
+      "year": 1958,
+      "law_number": "大蔵省令第23号",
+      "alias_or_original_title": "",
+      "era": "昭和"
+    },
+    {
+      "law": "沖縄のたばこ製造廃止業者等に対する特別の交付金の交付に関する省令",
+      "promulgated": "昭和47年（1972年）5月11日",
+      "year": 1972,
+      "law_number": "大蔵省令第40号",
+      "alias_or_original_title": "",
+      "era": "昭和"
+    },
+    {
+      "law": "沖縄のたばこ製造廃止業者等に対する特別の交付金の交付に関する政令",
+      "promulgated": "昭和47年（1972年）4月27日",
+      "year": 1972,
+      "law_number": "政令第97号",
+      "alias_or_original_title": "",
+      "era": "昭和"
+    },
+    {
+      "law": "たばこ事業法",
+      "promulgated": "昭和59年（1984年）8月10日",
+      "year": 1984,
+      "law_number": "法律第68号",
+      "alias_or_original_title": "",
+      "era": "昭和"
+    },
+    {
+      "law": "たばこ事業法施行令",
+      "promulgated": "昭和60年（1985年）3月5日",
+      "year": 1985,
+      "law_number": "政令第21号",
+      "alias_or_original_title": "",
+      "era": "昭和"
+    },
+    {
+      "law": "たばこ事業法施行規則",
+      "promulgated": "昭和60年（1985年）3月5日",
+      "year": 1985,
+      "law_number": "大蔵省令第5号",
+      "alias_or_original_title": "",
+      "era": "昭和"
+    },
+    {
+      "law": "たばこ事業法等の施行に伴う関係法律の整備等に関する法律",
+      "promulgated": "昭和59年（1984年）8月10日",
+      "year": 1984,
+      "law_number": "法律第71号",
+      "alias_or_original_title": "",
+      "era": "昭和"
+    },
+    {
+      "law": "たばこ事業法等の施行に伴う関係政令の整備等に関する政令",
+      "promulgated": "昭和60年（1985年）3月5日",
+      "year": 1985,
+      "law_number": "政令第24号",
+      "alias_or_original_title": "",
+      "era": "昭和"
+    },
+    {
+      "law": "たばこ事業法等の施行に伴う関係省令の整備等に関する省令",
+      "promulgated": "昭和60年（1985年）3月5日",
+      "year": 1985,
+      "law_number": "大蔵省令第7号",
+      "alias_or_original_title": "",
+      "era": "昭和"
+    },
+    {
+      "law": "日本たばこ産業株式会社法",
+      "promulgated": "昭和59年（1984年）8月10日",
+      "year": 1984,
+      "law_number": "法律第69号",
+      "alias_or_original_title": "JT法",
+      "era": "昭和"
+    },
+    {
+      "law": "たばこ税法",
+      "promulgated": "昭和59年（1984年）8月10日",
+      "year": 1984,
+      "law_number": "法律第72号",
+      "alias_or_original_title": "たばこ消費税法",
+      "era": "昭和"
+    },
+    {
+      "law": "たばこ税法施行令",
+      "promulgated": "昭和60年（1985年）1月25日",
+      "year": 1985,
+      "law_number": "政令第5号",
+      "alias_or_original_title": "たばこ消費税法施行令",
+      "era": "昭和"
+    },
+    {
+      "law": "たばこ税法施行規則",
+      "promulgated": "昭和60年（1985年）1月25日",
+      "year": 1985,
+      "law_number": "大蔵省令第1号",
+      "alias_or_original_title": "",
+      "era": "昭和"
+    },
+    {
+      "law": "日本たばこ産業株式会社法施行令",
+      "promulgated": "昭和60年（1985年）3月5日",
+      "year": 1985,
+      "law_number": "政令第22号",
+      "alias_or_original_title": "JT法施行令",
+      "era": "昭和"
+    },
+    {
+      "law": "日本たばこ産業株式会社法施行規則",
+      "promulgated": "昭和60年（1985年）4月1日",
+      "year": 1985,
+      "law_number": "大蔵省令第18号",
+      "alias_or_original_title": "JT法施行規則",
+      "era": "昭和"
+    },
+    {
+      "law": "たばこ煙中に含まれるタール量及びニコチン量の測定方法",
+      "promulgated": "平成元年（1989年）10月12日",
+      "year": 1989,
+      "law_number": "",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "国の所有に係る日本たばこ産業株式会社の株式の処分に関する政令",
+      "promulgated": "平成6年（1994年）7月20日",
+      "year": 1994,
+      "law_number": "政令第248号",
+      "alias_or_original_title": "JT株処分政令",
+      "era": "平成"
+    },
+    {
+      "law": "たばこ事業法施行規則に基づき財務大臣が定める事項",
+      "promulgated": "平成10年（1998年）3月17日",
+      "year": 1998,
+      "law_number": "",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "たばこ特別税に関する省令",
+      "promulgated": "平成10年（1998年）10月28日",
+      "year": 1998,
+      "law_number": "大蔵省令第122号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "たばこ特別税に関する政令",
+      "promulgated": "平成10年（1998年）10月28日",
+      "year": 1998,
+      "law_number": "政令第345号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "財務省設置法",
+      "promulgated": "平成11年（1999年）7月16日",
+      "year": 1999,
+      "law_number": "法律第95号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "健康増進法",
+      "promulgated": "平成14年（2002年）8月2日",
+      "year": 2002,
+      "law_number": "法律第103号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "健康増進法施行規則",
+      "promulgated": "平成15年（2003年）4月30日",
+      "year": 2003,
+      "law_number": "厚生労働省令第86号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "タール量及びニコチン量の測定が著しく困難であるとして財務大臣が定める紙巻等たばこ",
+      "promulgated": "平成15年（2003年）11月13日",
+      "year": 2003,
+      "law_number": "",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "たばこ事業法施行規則第三十六条第七項に基づき財務大臣が定める事項",
+      "promulgated": "平成15年（2003年）12月25日",
+      "year": 2003,
+      "law_number": "",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "たばこ事業法施行規則第三十六条第十一項に基づき財務大臣が定める事項",
+      "promulgated": "平成15年（2003年）12月25日",
+      "year": 2003,
+      "law_number": "",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "たばこの規制に関する世界保健機関枠組条約",
+      "promulgated": "平成17年（2005年）2月2日",
+      "year": 2005,
+      "law_number": "",
+      "alias_or_original_title": "たばこ規制枠組み条約、たばこ規制枠組条約",
+      "era": "平成"
+    },
+    {
+      "law": "たばこの規制に関する世界保健機関枠組条約の当事国等",
+      "promulgated": "平成17年（2005年）2月2日",
+      "year": 2005,
+      "law_number": "",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "地方税法第四百八十五条の十三第一項に規定する全国の市町村たばこ税の額の合計額",
+      "promulgated": "平成17年（2005年）4月1日",
+      "year": 2005,
+      "law_number": "",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "地方税法施行規則第十六条の四の四第一項に規定する平成十六年度の全国の市町村たばこ税の額の合計額として総務大臣が定める額",
+      "promulgated": "平成18年（2006年）4月3日",
+      "year": 2006,
+      "law_number": "",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "がん対策基本法",
+      "promulgated": "平成18年（2006年）6月23日",
+      "year": 2006,
+      "law_number": "法律第98号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "特定健康診査及び特定保健指導の実施に関する基準",
+      "promulgated": "平成19年（2007年）12月28日",
+      "year": 2007,
+      "law_number": "厚生労働省令第157号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴う関税法等の臨時特例に関する法律",
+      "promulgated": "昭和27年（1952年）4月28日",
+      "year": 1952,
+      "law_number": "法律第112号",
+      "alias_or_original_title": "日本国とアメリカ合衆国との間の安全保障条約第三条に基く行政協定の実施に伴う関税法等の臨時特例に関する法律",
+      "era": "平成"
+    },
+    {
+      "law": "[[日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴う関税法等の臨時特例に関する法律施行令]]",
+      "promulgated": "昭和27年（1952年）4月28日",
+      "year": 1952,
+      "law_number": "政令第125号",
+      "alias_or_original_title": "日本国とアメリカ合衆国との間の安全保障条約第三条に基く行政協定の実施に伴う関税法等の臨時特例に関する法律施行令",
+      "era": "平成"
+    },
+    {
+      "law": "日本国における国際連合の軍隊の地位に関する協定の実施に伴う所得税法等の臨時特例に関する法律",
+      "promulgated": "昭和29年（1954年）6月1日",
+      "year": 1954,
+      "law_number": "法律第149号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "小笠原諸島の復帰に伴う大蔵省関係法令の適用の暫定措置等に関する政令",
+      "promulgated": "昭和43年（1968年）6月24日",
+      "year": 1968,
+      "law_number": "政令第202号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "沖縄の復帰に伴う特別措置に関する法律",
+      "promulgated": "昭和46年（1971年）12月31日",
+      "year": 1971,
+      "law_number": "",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "沖縄の復帰に伴う国税関係以外の大蔵省関係法令の適用の特別措置等に関する政令",
+      "promulgated": "昭和47年（1972年）5月1日",
+      "year": 1972,
+      "law_number": "政令第150号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "沖縄の復帰に伴う国税関係法令の適用の特別措置等に関する政令",
+      "promulgated": "",
+      "year": "",
+      "law_number": "政令第151号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "医療法施行規則",
+      "promulgated": "昭和23年（1948年）11月5日",
+      "year": 1948,
+      "law_number": "厚生省令第50号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "薬機法施行規則",
+      "promulgated": "昭和36年（1961年）2月1日",
+      "year": 1961,
+      "law_number": "厚生省令第1号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "労働安全衛生規則",
+      "promulgated": "昭和47年（1972年）9月30日",
+      "year": 1972,
+      "law_number": "労働省令第32号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "鉛中毒予防規則",
+      "promulgated": "昭和47年（1972年）9月30日",
+      "year": 1972,
+      "law_number": "労働省令第37号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "特定化学物質障害予防規則",
+      "promulgated": "昭和47年（1972年）9月30日",
+      "year": 1972,
+      "law_number": "労働省令第39号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "石綿障害予防規則",
+      "promulgated": "平成17年（2005年）2月24日",
+      "year": 2005,
+      "law_number": "厚生労働省令第21号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "火薬類取締法",
+      "promulgated": "昭和25年（1950年）5月4日",
+      "year": 1950,
+      "law_number": "法律第149号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "火薬類取締法施行令",
+      "promulgated": "昭和25年（1950年）10月31日",
+      "year": 1950,
+      "law_number": "政令第323号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "火薬類の運搬に関する内閣府令",
+      "promulgated": "昭和35年（1960年）12月28日",
+      "year": 1960,
+      "law_number": "総理府令第65号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "火薬類運送規則",
+      "promulgated": "昭和36年（1961年）1月24日",
+      "year": 1961,
+      "law_number": "運輸省令第1号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "一般高圧ガス保安規則",
+      "promulgated": "昭和41年（1966年）5月25日",
+      "year": 1966,
+      "law_number": "通商産業省令第53号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "特定排出者の事業活動に伴う温室効果ガスの排出量の算定に関する省令",
+      "promulgated": "平成18年（2006年）3月29日",
+      "year": 2006,
+      "law_number": "経済産業省・環境省令第3号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "核原料物質又は核燃料物質の製錬の事業に関する規則",
+      "promulgated": "昭和32年（1957年）12月9日",
+      "year": 1957,
+      "law_number": "総理府・通商産業省令第1号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "試験研究の用に供する原子炉等の設置、運転等に関する規則",
+      "promulgated": "昭和32年（1957年）12月9日",
+      "year": 1957,
+      "law_number": "総理府令第83号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "核燃料物質の使用等に関する規則",
+      "promulgated": "昭和32年（1957年）12月9日",
+      "year": 1957,
+      "law_number": "総理府令第84号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "放射性同位元素等による放射線障害の防止に関する法律施行規則",
+      "promulgated": "昭和35年（1960年）9月30日",
+      "year": 1960,
+      "law_number": "総理府令第56号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "放射性医薬品の製造及び取扱規則",
+      "promulgated": "昭和36年（1961年）2月1日",
+      "year": 1961,
+      "law_number": "厚生省令第4号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "人事院規則一〇―五",
+      "promulgated": "昭和38年（1963年）9月25日",
+      "year": 1963,
+      "law_number": "",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "核燃料物質の加工の事業に関する規則",
+      "promulgated": "昭和41年（1966年）7月19日",
+      "year": 1966,
+      "law_number": "総理府令第37号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "核原料物質の使用に関する規則",
+      "promulgated": "昭和43年（1968年）7月20日",
+      "year": 1968,
+      "law_number": "総理府令第46号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "使用済燃料の再処理の事業に関する規則",
+      "promulgated": "昭和46年（1969年）3月27日",
+      "year": 1969,
+      "law_number": "総理府令第10号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "家内労働法施行規則",
+      "promulgated": "昭和45年（1970年）9月30日",
+      "year": 1970,
+      "law_number": "労働省令第23号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "電離放射線障害防止規則",
+      "promulgated": "昭和47年（1972年）9月30日",
+      "year": 1972,
+      "law_number": "労働省令第41号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "実用舶用原子炉の設置、運転等に関する規則",
+      "promulgated": "昭和53年（1978年）12月28日",
+      "year": 1978,
+      "law_number": "運輸省令第70号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "実用発電用原子炉の設置、運転等に関する規則",
+      "promulgated": "昭和53年（1978年）12月28日",
+      "year": 1978,
+      "law_number": "通商産業省令第77号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "核燃料物質又は核燃料物質によつて汚染された物の第二種廃棄物埋設の事業に関する規則",
+      "promulgated": "昭和63年（1988年）1月13日",
+      "year": 1988,
+      "law_number": "総理府令第1号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "核燃料物質又は核燃料物質によつて汚染された物の廃棄物管理の事業に関する規則",
+      "promulgated": "昭和63年（1988年）11月7日",
+      "year": 1988,
+      "law_number": "総理府令第47号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "獣医療法施行規則",
+      "promulgated": "平成4年（1992年）8月25日",
+      "year": 1992,
+      "law_number": "農林水産省令第44号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "使用済燃料の貯蔵の事業に関する規則",
+      "promulgated": "平成12年（2000年）6月16日",
+      "year": 2000,
+      "law_number": "通商産業省令第112号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "核燃料物質の受託貯蔵に関する規則",
+      "promulgated": "平成12年（2000年）11月6日",
+      "year": 2000,
+      "law_number": "総理府令第125号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "鉱山保安法施行規則",
+      "promulgated": "平成16年（2004年）9月27日",
+      "year": 2004,
+      "law_number": "経済産業省令第96号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "核燃料物質又は核燃料物質によって汚染された物の第一種廃棄物埋設の事業に関する規則",
+      "promulgated": "",
+      "year": "",
+      "law_number": "経済産業省令第23号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "東日本大震災により生じた放射性物質により汚染された土壌等を除染するための業務等に係る電離放射線障害防止規則",
+      "promulgated": "平成23年（2011年）12月22日",
+      "year": 2011,
+      "law_number": "厚生労働省令第152号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "船員法",
+      "promulgated": "昭和22年（1947年）9月1日",
+      "year": 1947,
+      "law_number": "法律第100号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "港則法",
+      "promulgated": "昭和23年（1948年）7月15日",
+      "year": 1948,
+      "law_number": "法律第174号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "海上運送法施行規則",
+      "promulgated": "昭和24年（1949年）8月31日",
+      "year": 1949,
+      "law_number": "運輸省令第49号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "空港管理規則",
+      "promulgated": "昭和27年（1952年）7月3日",
+      "year": 1952,
+      "law_number": "運輸省令第44号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "航空法",
+      "promulgated": "昭和27年（1952年）7月15日",
+      "year": 1952,
+      "law_number": "法律第231号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "船員労働安全衛生規則",
+      "promulgated": "昭和39年（1964年）7月31日",
+      "year": 1964,
+      "law_number": "運輸省令第53号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "船員電離放射線障害防止規則",
+      "promulgated": "昭和48年（1973年）6月23日",
+      "year": 1973,
+      "law_number": "運輸省令第21号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "会計検査院事務総局事務分掌及び分課規則",
+      "promulgated": "昭和22年（1947年）5月3日",
+      "year": 1947,
+      "law_number": "",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "地方財政法",
+      "promulgated": "昭和23年（1948年）7月7日",
+      "year": 1948,
+      "law_number": "法律第109号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "補助金等に係る予算の執行の適正化に関する法律施行令",
+      "promulgated": "昭和30年（1955年）9月26日",
+      "year": 1955,
+      "law_number": "政令第255号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "昭和四十五年国富調査のための家計資産調査規則",
+      "promulgated": "昭和45年（1970年）11月10日",
+      "year": 1970,
+      "law_number": "総理府令第43号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "一般会計における債務の承継等に伴い必要な財源の確保に係る特別措置に関する法律",
+      "promulgated": "平成10年（1998年）10月19日",
+      "year": 1998,
+      "law_number": "法律第137号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "経済産業省組織令",
+      "promulgated": "平成12年（2000年）6月7日",
+      "year": 2000,
+      "law_number": "政令第254号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "特別会計に関する法律",
+      "promulgated": "平成19年（2007年）3月31日",
+      "year": 2007,
+      "law_number": "法律第23号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "関税定率法",
+      "promulgated": "明治43年（1910年）4月15日",
+      "year": 1910,
+      "law_number": "法律第54号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "災害被害者に対する租税の減免、徴収猶予等に関する法律",
+      "promulgated": "昭和22年（1947年）12月13日",
+      "year": 1947,
+      "law_number": "法律第175号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "相続税法",
+      "promulgated": "昭和25年（1950年）3月31日",
+      "year": 1950,
+      "law_number": "法律第73号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "関税法",
+      "promulgated": "昭和29年（1954年）4月2日",
+      "year": 1954,
+      "law_number": "法律第61号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "輸入品に対する内国消費税の徴収等に関する法律",
+      "promulgated": "昭和30年（1955年）6月30日",
+      "year": 1955,
+      "law_number": "法律第37号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "国税徴収法",
+      "promulgated": "昭和34年（1959年）4月20日",
+      "year": 1959,
+      "law_number": "法律第147号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "国税通則法",
+      "promulgated": "昭和37年（1962年）4月2日",
+      "year": 1962,
+      "law_number": "法律第66号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "普通交付税に関する省令",
+      "promulgated": "昭和37年（1962年）8月20日",
+      "year": 1962,
+      "law_number": "自治省令第17号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "関税定率法施行規則",
+      "promulgated": "昭和44年（1969年）3月31日",
+      "year": 1969,
+      "law_number": "大蔵省令第16号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "風俗営業等の規制及び業務の適正化等に関する法律",
+      "promulgated": "昭和23年（1948年）7月10日",
+      "year": 1948,
+      "law_number": "法律第122号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "身体障害者福祉法",
+      "promulgated": "昭和24年（1949年）12月26日",
+      "year": 1949,
+      "law_number": "法律第283号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "母子及び父子並びに寡婦福祉法",
+      "promulgated": "昭和39年（1964年）7月1日",
+      "year": 1964,
+      "law_number": "法律第129号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "輸入の促進及び対内投資事業の円滑化に関する臨時措置法施行令第四条の事業を定める省令",
+      "promulgated": "平成4年7月15日",
+      "year": "",
+      "law_number": "厚生省・農林水産省・通商産業省・運輸省令第2号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "特定国際種事業に係る届出等に関する省令",
+      "promulgated": "平成7年（1995年）6月14日",
+      "year": 1995,
+      "law_number": "総理府・通商産業省令第2号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "小売業に属する事業を行う者の容器包装の使用の合理化による容器包装廃棄物の排出の抑制の促進に関する判断の基準となるべき事項を定める省令",
+      "promulgated": "平成18年（2006年）12月1日",
+      "year": 2006,
+      "law_number": "財務省・厚生労働省・農林水産省・経済産業省令第1号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "意匠法施行規則",
+      "promulgated": "昭和35年（1960年）3月8日",
+      "year": 1960,
+      "law_number": "通商産業省令第12号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "商標法施行令",
+      "promulgated": "昭和35年（1960年）3月8日",
+      "year": 1960,
+      "law_number": "政令第19号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "絶滅のおそれのある野生動植物の種の保存に関する法律施行規則",
+      "promulgated": "平成5年（1993年）3月29日",
+      "year": 1993,
+      "law_number": "総理府令第9号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "容器包装に係る分別収集及び再商品化の促進等に関する法律施行令",
+      "promulgated": "平成7年（1995年）12月14日",
+      "year": 1995,
+      "law_number": "政令第411号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "人事院規則九―四〇",
+      "promulgated": "昭和38年（1963年）12月20日",
+      "year": 1963,
+      "law_number": "",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "人事院規則一七―〇",
+      "promulgated": "昭和41年（1966年）7月9日",
+      "year": 1966,
+      "law_number": "",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "国家公務員及び公共企業体職員に係る共済組合制度の統合に伴う国家公務員共済組合法の長期給付の特例に関する政令",
+      "promulgated": "昭和59年（1984年）3月17日",
+      "year": 1984,
+      "law_number": "政令第36号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "日本学術会議傍聴規則",
+      "promulgated": "昭和61年（1986年）4月26日",
+      "year": 1986,
+      "law_number": "",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "行刑累進処遇令",
+      "promulgated": "昭和8年（1933年）10月25日",
+      "year": 1933,
+      "law_number": "司法省令第35号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "アルコール売捌規則",
+      "promulgated": "昭和12年（1937年）4月1日",
+      "year": 1937,
+      "law_number": "大蔵省令第11号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "警察庁組織令",
+      "promulgated": "昭和29年（1954年）6月30日",
+      "year": 1954,
+      "law_number": "政令第180号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "被疑者留置規則",
+      "promulgated": "昭和32年（1957年）8月22日",
+      "year": 1957,
+      "law_number": "",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "被収容者処遇規則",
+      "promulgated": "昭和56年（1981年）11月10日",
+      "year": 1981,
+      "law_number": "法務省令第59号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "少年警察活動規則",
+      "promulgated": "平成14年（2002年）9月27日",
+      "year": 2002,
+      "law_number": "",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "公益通報者保護法別表第八号の法律を定める政令",
+      "promulgated": "平成17年（2005年）4月1日",
+      "year": 2005,
+      "law_number": "政令第146号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "警察留置場における受刑者の処遇に関する命令",
+      "promulgated": "平成18年（2006年）5月23日",
+      "year": 2006,
+      "law_number": "内閣府・法務省令第6号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "刑事施設及び被収容者の処遇に関する規則",
+      "promulgated": "平成18年（2006年）5月23日",
+      "year": 2006,
+      "law_number": "法務省令第57号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "海上保安留置施設及び海上保安被留置者の処遇に関する規則",
+      "promulgated": "平成19年（2007年）5月25日",
+      "year": 2007,
+      "law_number": "国土交通省令第61号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "国家公安委員会関係刑事収容施設及び被収容者等の処遇に関する法律施行規則",
+      "promulgated": "平成19年（2007年）5月25日",
+      "year": 2007,
+      "law_number": "内閣府令第42号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    },
+    {
+      "law": "インターネット異性紹介事業を利用して児童を誘引する行為の規制等に関する法律施行令",
+      "promulgated": "平成20年（2008年）11月7日",
+      "year": 2008,
+      "law_number": "政令第346号",
+      "alias_or_original_title": "",
+      "era": "平成"
+    }
+  ],
+  "meta": {
+    "title": "日本の喫煙・たばこに関する現行法令一覧 - Free Download",
+    "description": "喫煙・たばこに関する日本の現行法令（法律・政令・省令等）の一覧。公布日、法令番号、制定題名・略称、元号区分を記載。 Contains 133 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の喫煙・たばこに関する現行法令一覧 | ListBase",
+    "seo_description": "Download 日本の喫煙・たばこに関する現行法令一覧 — 133 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 133 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/日本の喫煙に関する法令一覧"
+    ]
+  }
+}
