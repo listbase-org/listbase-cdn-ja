@@ -1,0 +1,576 @@
+{
+  "id": "ja-gekkan-ichiran",
+  "name": "日本の月間（啓発月間・強調月間）一覧",
+  "title": "日本の月間（啓発月間・強調月間）一覧",
+  "description": "国や団体が定める日本の「月間」（啓発月間・強調月間・キャンペーン）を月別にまとめた一覧。期間が月をまたぐものは期間も記載。",
+  "category": "time",
+  "source": "https://ja.wikipedia.org/wiki/日本の月間一覧",
+  "source_url": "https://ja.wikipedia.org/wiki/日本の月間一覧",
+  "updated": "2026-11",
+  "record_count": 107,
+  "columns": [
+    {
+      "key": "month",
+      "label": "Month",
+      "type": "string"
+    },
+    {
+      "key": "campaign",
+      "label": "Campaign",
+      "type": "string"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "month": "1月",
+      "campaign": "食を考える月間",
+      "period": ""
+    },
+    {
+      "month": "1月",
+      "campaign": "「はたちの献血」キャンペーン",
+      "period": "～2月28日"
+    },
+    {
+      "month": "2月",
+      "campaign": "省エネルギー月間",
+      "period": ""
+    },
+    {
+      "month": "2月",
+      "campaign": "北方領土返還運動全国強調月間",
+      "period": ""
+    },
+    {
+      "month": "3月",
+      "campaign": "建設業年度末労働災害防止強調月間",
+      "period": "3月1日～3月31日"
+    },
+    {
+      "month": "3月",
+      "campaign": "雑誌の月",
+      "period": "3月4日～4月30日"
+    },
+    {
+      "month": "4月",
+      "campaign": "河川美化月間",
+      "period": ""
+    },
+    {
+      "month": "4月",
+      "campaign": "未成年者飲酒防止強調月間",
+      "period": ""
+    },
+    {
+      "month": "4月",
+      "campaign": "雑誌の月",
+      "period": "3月4日～4月30日"
+    },
+    {
+      "month": "4月",
+      "campaign": "みどりの月間",
+      "period": "4月15日～5月14日"
+    },
+    {
+      "month": "5月",
+      "campaign": "消費者月間",
+      "period": ""
+    },
+    {
+      "month": "5月",
+      "campaign": "原子力エネルギー安全月間",
+      "period": ""
+    },
+    {
+      "month": "5月",
+      "campaign": "水防月間",
+      "period": ""
+    },
+    {
+      "month": "5月",
+      "campaign": "自転車月間",
+      "period": ""
+    },
+    {
+      "month": "5月",
+      "campaign": "赤十字運動月間",
+      "period": ""
+    },
+    {
+      "month": "5月",
+      "campaign": "不正大麻・けし撲滅運動",
+      "period": "～6月30日"
+    },
+    {
+      "month": "5月",
+      "campaign": "情報通信月間",
+      "period": "5月15日～6月15日"
+    },
+    {
+      "month": "6月",
+      "campaign": "特区、地域再生、規制改革・民間開放集中受付月間",
+      "period": ""
+    },
+    {
+      "month": "6月",
+      "campaign": "男女雇用機会均等月間",
+      "period": ""
+    },
+    {
+      "month": "6月",
+      "campaign": "外国人労働者問題啓発月間",
+      "period": ""
+    },
+    {
+      "month": "6月",
+      "campaign": "不法就労外国人対策キャンペーン",
+      "period": ""
+    },
+    {
+      "month": "6月",
+      "campaign": "リウマチ月間",
+      "period": ""
+    },
+    {
+      "month": "6月",
+      "campaign": "まちづくり月間",
+      "period": ""
+    },
+    {
+      "month": "6月",
+      "campaign": "「不正改造車を排除する運動」強化月間",
+      "period": ""
+    },
+    {
+      "month": "6月",
+      "campaign": "暴走族取締強化月間",
+      "period": ""
+    },
+    {
+      "month": "6月",
+      "campaign": "環境月間",
+      "period": ""
+    },
+    {
+      "month": "6月",
+      "campaign": "食育月間",
+      "period": ""
+    },
+    {
+      "month": "6月",
+      "campaign": "土砂災害防止月間",
+      "period": ""
+    },
+    {
+      "month": "6月",
+      "campaign": "農薬危害防止運動月間",
+      "period": ""
+    },
+    {
+      "month": "7月",
+      "campaign": "青少年の非行問題に取り組む全国強調月間",
+      "period": ""
+    },
+    {
+      "month": "7月",
+      "campaign": "暴走族等追放強化活動期間",
+      "period": ""
+    },
+    {
+      "month": "7月",
+      "campaign": "「社会を明るくする運動」強調月間",
+      "period": ""
+    },
+    {
+      "month": "7月",
+      "campaign": "海外安全キャンペーン",
+      "period": ""
+    },
+    {
+      "month": "7月",
+      "campaign": "「愛の血液助け合い運動」月間",
+      "period": ""
+    },
+    {
+      "month": "7月",
+      "campaign": "海の月間",
+      "period": ""
+    },
+    {
+      "month": "7月",
+      "campaign": "河川愛護月間",
+      "period": ""
+    },
+    {
+      "month": "7月",
+      "campaign": "海岸愛護月間",
+      "period": ""
+    },
+    {
+      "month": "7月",
+      "campaign": "林材業労働災害防止強化月間",
+      "period": ""
+    },
+    {
+      "month": "7月",
+      "campaign": "山岳遭難の防止",
+      "period": "～8月31日"
+    },
+    {
+      "month": "7月",
+      "campaign": "青い羽根募金活動強調月間",
+      "period": "～8月31日"
+    },
+    {
+      "month": "7月",
+      "campaign": "夏の省エネキャンペーン",
+      "period": "～9月30日"
+    },
+    {
+      "month": "8月",
+      "campaign": "人権強調月間",
+      "period": ""
+    },
+    {
+      "month": "8月",
+      "campaign": "北方領土返還運動全国強調月間",
+      "period": ""
+    },
+    {
+      "month": "8月",
+      "campaign": "食品衛生月間",
+      "period": ""
+    },
+    {
+      "month": "8月",
+      "campaign": "電気使用安全月間",
+      "period": ""
+    },
+    {
+      "month": "8月",
+      "campaign": "道路ふれあい月間",
+      "period": ""
+    },
+    {
+      "month": "9月",
+      "campaign": "がん征圧月間",
+      "period": ""
+    },
+    {
+      "month": "9月",
+      "campaign": "心身障害者雇用促進月間",
+      "period": ""
+    },
+    {
+      "month": "9月",
+      "campaign": "知的障害福祉月間",
+      "period": ""
+    },
+    {
+      "month": "9月",
+      "campaign": "健康増進普及月間",
+      "period": ""
+    },
+    {
+      "month": "9月",
+      "campaign": "船員労働安全衛生月間",
+      "period": ""
+    },
+    {
+      "month": "9月",
+      "campaign": "オゾン層保護対策推進月間",
+      "period": ""
+    },
+    {
+      "month": "9月",
+      "campaign": "緑の募金（秋）",
+      "period": "～10月31日"
+    },
+    {
+      "month": "9月",
+      "campaign": "統計調査票提出促進月間",
+      "period": "～11月30日"
+    },
+    {
+      "month": "10月",
+      "campaign": "食品ロス削減月間",
+      "period": ""
+    },
+    {
+      "month": "10月",
+      "campaign": "高年齢者雇用促進月間",
+      "period": ""
+    },
+    {
+      "month": "10月",
+      "campaign": "体力づくり強化月間",
+      "period": ""
+    },
+    {
+      "month": "10月",
+      "campaign": "環境にやさしい買い物キャンペーン",
+      "period": ""
+    },
+    {
+      "month": "10月",
+      "campaign": "健康強調月間",
+      "period": ""
+    },
+    {
+      "month": "10月",
+      "campaign": "食生活改善普及月間",
+      "period": ""
+    },
+    {
+      "month": "10月",
+      "campaign": "仕事と家庭を考える月間",
+      "period": ""
+    },
+    {
+      "month": "10月",
+      "campaign": "母子保健強調月間",
+      "period": ""
+    },
+    {
+      "month": "10月",
+      "campaign": "里親月間",
+      "period": ""
+    },
+    {
+      "month": "10月",
+      "campaign": "国民年金制度推進月間",
+      "period": ""
+    },
+    {
+      "month": "10月",
+      "campaign": "臓器移植普及推進月間",
+      "period": ""
+    },
+    {
+      "month": "10月",
+      "campaign": "骨髄バンク推進月間",
+      "period": ""
+    },
+    {
+      "month": "10月",
+      "campaign": "3R（リデュース・リユース・リサイクル）推進月間",
+      "period": ""
+    },
+    {
+      "month": "10月",
+      "campaign": "情報化月間",
+      "period": ""
+    },
+    {
+      "month": "10月",
+      "campaign": "工業標準化月間",
+      "period": ""
+    },
+    {
+      "month": "10月",
+      "campaign": "土地の日・土地月間",
+      "period": ""
+    },
+    {
+      "month": "10月",
+      "campaign": "都市緑化月間",
+      "period": ""
+    },
+    {
+      "month": "10月",
+      "campaign": "住宅月間",
+      "period": ""
+    },
+    {
+      "month": "10月",
+      "campaign": "自動車点検整備推進強化月間",
+      "period": ""
+    },
+    {
+      "month": "10月",
+      "campaign": "全国・自然歩道を歩こう月間",
+      "period": ""
+    },
+    {
+      "month": "10月",
+      "campaign": "公正競争規約普及月間",
+      "period": ""
+    },
+    {
+      "month": "10月",
+      "campaign": "木づかい推進月間",
+      "period": ""
+    },
+    {
+      "month": "10月",
+      "campaign": "労働保険適用促進月間",
+      "period": ""
+    },
+    {
+      "month": "10月",
+      "campaign": "港湾労働衛生強調月間",
+      "period": "10月1日～10月31日"
+    },
+    {
+      "month": "10月",
+      "campaign": "麻薬・覚せい剤乱用防止運動",
+      "period": "～11月30日"
+    },
+    {
+      "month": "10月",
+      "campaign": "共同募金運動",
+      "period": "～12月31日"
+    },
+    {
+      "month": "10月",
+      "campaign": "間伐推進強化月間",
+      "period": "～11月30日"
+    },
+    {
+      "month": "11月",
+      "campaign": "テレワーク月間",
+      "period": ""
+    },
+    {
+      "month": "11月",
+      "campaign": "全国青少年健全育成強調月間",
+      "period": ""
+    },
+    {
+      "month": "11月",
+      "campaign": "過労死防止啓発月間",
+      "period": ""
+    },
+    {
+      "month": "11月",
+      "campaign": "下請取引適正化推進月間",
+      "period": ""
+    },
+    {
+      "month": "11月",
+      "campaign": "乳幼児突然死症候群（SIDS）対策強化月間",
+      "period": ""
+    },
+    {
+      "month": "11月",
+      "campaign": "ゆとり創造月間",
+      "period": ""
+    },
+    {
+      "month": "11月",
+      "campaign": "職業能力開発促進月間",
+      "period": ""
+    },
+    {
+      "month": "11月",
+      "campaign": "標準営業約款普及登録促進月間",
+      "period": ""
+    },
+    {
+      "month": "11月",
+      "campaign": "児童虐待防止推進月間",
+      "period": ""
+    },
+    {
+      "month": "11月",
+      "campaign": "快適通勤推進月間",
+      "period": ""
+    },
+    {
+      "month": "11月",
+      "campaign": "賃金不払残業解消キャンペーン月間",
+      "period": ""
+    },
+    {
+      "month": "11月",
+      "campaign": "建設雇用改善推進月間",
+      "period": ""
+    },
+    {
+      "month": "11月",
+      "campaign": "新規就農啓発強化月間",
+      "period": ""
+    },
+    {
+      "month": "11月",
+      "campaign": "JAS普及推進月間",
+      "period": ""
+    },
+    {
+      "month": "11月",
+      "campaign": "伝統的工芸品月間",
+      "period": ""
+    },
+    {
+      "month": "11月",
+      "campaign": "エコドライブ推進月間",
+      "period": ""
+    },
+    {
+      "month": "11月",
+      "campaign": "品質月間",
+      "period": ""
+    },
+    {
+      "month": "11月",
+      "campaign": "素形材月間",
+      "period": ""
+    },
+    {
+      "month": "12月",
+      "campaign": "歳末たすけあい運動 NHK 歳末たすけあい ・ 海外たすけあい",
+      "period": ""
+    },
+    {
+      "month": "12月",
+      "campaign": "大気汚染防止推進月間",
+      "period": ""
+    },
+    {
+      "month": "12月",
+      "campaign": "脱スパイクタイヤ推進月間",
+      "period": ""
+    },
+    {
+      "month": "12月",
+      "campaign": "地球温暖化防止月間",
+      "period": ""
+    },
+    {
+      "month": "12月",
+      "campaign": "冬の省エネキャンペーン",
+      "period": "～3月31日"
+    },
+    {
+      "month": "12月",
+      "campaign": "年末年始輸送の安全総点検",
+      "period": "10日～1月10日"
+    },
+    {
+      "month": "12月",
+      "campaign": "建設業年末年始労働災害防止期間",
+      "period": "12月～1月"
+    },
+    {
+      "month": "12月",
+      "campaign": "寄付月間",
+      "period": ""
+    }
+  ],
+  "meta": {
+    "title": "日本の月間（啓発月間・強調月間）一覧 - Free Download",
+    "description": "国や団体が定める日本の「月間」（啓発月間・強調月間・キャンペーン）を月別にまとめた一覧。期間が月をまたぐものは期間も記載。 Contains 107 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の月間（啓発月間・強調月間）一覧 | ListBase",
+    "seo_description": "Download 日本の月間（啓発月間・強調月間）一覧 — 107 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 107 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/日本の月間一覧"
+    ]
+  }
+}

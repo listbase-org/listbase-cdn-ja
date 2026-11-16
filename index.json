@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-16T02:21:07.981Z",
-  "total_datasets": 610,
-  "total_records": 466444,
+  "generated": "2026-11-16T02:21:20.686Z",
+  "total_datasets": 611,
+  "total_records": 466551,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "tourism",
@@ -16325,6 +16325,30 @@
         "xlsx": {
           "name": "ja-uchuki-ichiran_JA.xlsx",
           "size": 24076
+        }
+      }
+    },
+    {
+      "id": "ja-gekkan-ichiran",
+      "name": "日本の月間（啓発月間・強調月間）一覧",
+      "category": "time",
+      "record_count": 107,
+      "columns": [
+        "month",
+        "campaign",
+        "period"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/日本の月間一覧",
+      "updated": "2026-11",
+      "size": 13397,
+      "files": {
+        "csv": {
+          "name": "ja-gekkan-ichiran_JA.csv",
+          "size": 4894
+        },
+        "xlsx": {
+          "name": "ja-gekkan-ichiran_JA.xlsx",
+          "size": 9985
         }
       }
     },
