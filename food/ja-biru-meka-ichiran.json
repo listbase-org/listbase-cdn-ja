@@ -1,0 +1,4543 @@
+{
+  "id": "ja-biru-meka-ichiran",
+  "name": "日本のビールメーカー・地ビール醸造所一覧",
+  "title": "日本のビールメーカー・地ビール醸造所一覧",
+  "description": "日本の大手ビールメーカーと各都道府県の地ビール（クラフトビール）醸造所の一覧。所在地、主な銘柄、現役・製造終了の区分を記載。",
+  "category": "food",
+  "source": "https://ja.wikipedia.org/wiki/日本のビールメーカー一覧",
+  "source_url": "https://ja.wikipedia.org/wiki/日本のビールメーカー一覧",
+  "updated": "2026-11",
+  "record_count": 498,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "main_brands",
+      "label": "Main Brands",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "アサヒビール",
+      "location": "アサヒグループホールディングス 、東京都 墨田区",
+      "prefecture": "",
+      "main_brands": "",
+      "category": "大手",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "麒麟麦酒",
+      "location": "キリンホールディングス 、 東京都 中野区",
+      "prefecture": "",
+      "main_brands": "",
+      "category": "大手",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "サントリービール （東京都 港区 〈 サントリーホールディングス (大阪市 北区)〉）",
+      "location": "",
+      "prefecture": "",
+      "main_brands": "",
+      "category": "大手",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "サッポロビール",
+      "location": "サッポロホールディングス 、東京都 渋谷区",
+      "prefecture": "",
+      "main_brands": "",
+      "category": "大手",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "オリオンビール",
+      "location": "沖縄県 豊見城市",
+      "prefecture": "",
+      "main_brands": "",
+      "category": "大手",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "北海道ワイン（株）",
+      "location": "小樽市",
+      "prefecture": "北海道",
+      "main_brands": "天使の雫",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "（株）耕人舎",
+      "location": "千歳市",
+      "prefecture": "北海道",
+      "main_brands": "北海道ビール ピリカワッカ",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "（有）唯我独尊/富良野地麦酒館",
+      "location": "富良野市",
+      "prefecture": "北海道",
+      "main_brands": "独尊の富良野地麦酒",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "えぞ麦酒（株）",
+      "location": "札幌市中央区",
+      "prefecture": "北海道",
+      "main_brands": "丹頂鶴麦酒、北狐レッド麦酒、ひぐま濃い麦酒",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "網走ビール第二工場",
+      "location": "札幌市",
+      "prefecture": "北海道",
+      "main_brands": "ブルーヘイジー IPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)札幌開拓使麦酒醸造所",
+      "location": "札幌市",
+      "prefecture": "北海道",
+      "main_brands": "開拓使ピルスナー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "薄野地麦酒（株）",
+      "location": "札幌市 中央区",
+      "prefecture": "北海道",
+      "main_brands": "ススキノビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "SUSUKINO BREWING",
+      "location": "札幌市",
+      "prefecture": "北海道",
+      "main_brands": "すすきのえーる",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "澄川麦酒 西岡工場",
+      "location": "札幌市",
+      "prefecture": "北海道",
+      "main_brands": "澄川ヴァイス",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "月と太陽 BREWING (株)",
+      "location": "札幌市中央区",
+      "prefecture": "北海道",
+      "main_brands": "IPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Streetlight Brewing",
+      "location": "札幌市",
+      "prefecture": "北海道",
+      "main_brands": "Standard Line-LAGER",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "TRANS BREWING",
+      "location": "札幌市",
+      "prefecture": "北海道",
+      "main_brands": "平岸 LAGER",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Tobetsu Seven's Brewing",
+      "location": "当別町",
+      "prefecture": "北海道",
+      "main_brands": "当別 Weisse",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "SOC ブルーイング(株) ノースアイランドビール",
+      "location": "江別市",
+      "prefecture": "北海道",
+      "main_brands": "ノースアイランドビール[ピルスナー]",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "そらとしば by よなよなエール",
+      "location": "北広島市",
+      "prefecture": "北海道",
+      "main_brands": "そらとしば Play Ball！Ale",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "小樽ビール小樽倉庫 No.1",
+      "location": "小樽市",
+      "prefecture": "北海道",
+      "main_brands": "小樽ビール ピルスナー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "（株）アレフ /小樽ビール 銭函醸造所",
+      "location": "小樽市",
+      "prefecture": "北海道",
+      "main_brands": "小樽ビール ピルスナー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "北海道麦酒醸造 高島工場",
+      "location": "小樽市",
+      "prefecture": "北海道",
+      "main_brands": "フルーツブルーイング メロンエール、小樽麦酒",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "NIKIYA FARM&BREWERY",
+      "location": "仁木町",
+      "prefecture": "北海道",
+      "main_brands": "NIKIYA PALE ALE",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "余市ビール",
+      "location": "積丹町",
+      "prefecture": "北海道",
+      "main_brands": "サワマチエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Black Fox Beer",
+      "location": "倶知安町",
+      "prefecture": "北海道",
+      "main_brands": "ファースト トラック IPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ニセコブルワリー ニセコビール醸造所/ニセコブルワリー・クラフトビアレストラン二階（ 虻田郡 ニセコ町 ）",
+      "location": "ニセコ町",
+      "prefecture": "北海道",
+      "main_brands": "ニセコビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "LUPICIA BREWERY",
+      "location": "ニセコ町",
+      "prefecture": "北海道",
+      "main_brands": "NISECOISE",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ヨーテイブルーイング",
+      "location": "ニセコ町",
+      "prefecture": "北海道",
+      "main_brands": "エクスペディション",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "京極麦酒",
+      "location": "京極町",
+      "prefecture": "北海道",
+      "main_brands": "ペールエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "IWANAI BREWERY&HOTEL",
+      "location": "岩内町",
+      "prefecture": "北海道",
+      "main_brands": "ホップマシマシ",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "（株）マルカツ興産/はこだてビール",
+      "location": "函館市",
+      "prefecture": "北海道",
+      "main_brands": "函館ヴァイツェン、 はこだてビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "函館湯川ブリュワリー",
+      "location": "函館市",
+      "prefecture": "北海道",
+      "main_brands": "(代表銘柄未記載)",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ozigibrewing 函館麦酒醸造所",
+      "location": "函館市",
+      "prefecture": "北海道",
+      "main_brands": "白すだち",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "（株）ブロイハウス大沼/大沼ビール",
+      "location": "亀田郡 七飯町",
+      "prefecture": "北海道",
+      "main_brands": "ケルシュ、 大沼ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "北海道乙部ブリューイング",
+      "location": "乙部町",
+      "prefecture": "北海道",
+      "main_brands": "(代表銘柄未記載)",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "（株）わかさいも本舗 （本社: 虻田郡 洞爺湖町 ）/のぼりべつ地ビール館",
+      "location": "登別市",
+      "prefecture": "北海道",
+      "main_brands": "鬼伝説 金鬼ペールエール（鬼伝説ビール）",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Lake Toya Beer",
+      "location": "洞爺湖町",
+      "prefecture": "北海道",
+      "main_brands": "TOYA SessionIPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "The Old Grey Brewery",
+      "location": "白老町",
+      "prefecture": "北海道",
+      "main_brands": "オロオロ・ブラック",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "北海道ブルワリー苫小牧工場",
+      "location": "苫小牧市",
+      "prefecture": "北海道",
+      "main_brands": "カムイゲイル",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "帯広ビール/ランチョ･エルパソ",
+      "location": "帯広市",
+      "prefecture": "北海道",
+      "main_brands": "麦日和",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Brasserie Knot",
+      "location": "鶴居村",
+      "prefecture": "北海道",
+      "main_brands": "DOTO",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "滝川クラフトビール工房",
+      "location": "滝川市",
+      "prefecture": "北海道",
+      "main_brands": "りんご&ドライ",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "富良野地麦酒館",
+      "location": "富良野市",
+      "prefecture": "北海道",
+      "main_brands": "気まぐれ地麦酒",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "NAKAFURANO BREWERY",
+      "location": "中富良野町",
+      "prefecture": "北海道",
+      "main_brands": "Nostalgia",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "忽布古丹醸造",
+      "location": "上富良野町",
+      "prefecture": "北海道",
+      "main_brands": "upopo",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "大雪地ビール（株） /大雪地ビール館",
+      "location": "旭川市",
+      "prefecture": "北海道",
+      "main_brands": "大雪ピルスナー（大雪地ビール）",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "士別サムライブルワリー",
+      "location": "士別市",
+      "prefecture": "北海道",
+      "main_brands": "雅",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "美深白樺ブルワリー",
+      "location": "美深町",
+      "prefecture": "北海道",
+      "main_brands": "トイタピウカ",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "しもかわ森のブルワリー",
+      "location": "下川町",
+      "prefecture": "北海道",
+      "main_brands": "シリウス（ペールエール）",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "オホーツクビール（株） /オホーツクビアファクトリー",
+      "location": "北見市",
+      "prefecture": "北海道",
+      "main_brands": "オホーツクエール(オホーツクビール)",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "網走ビール",
+      "location": "網走市",
+      "prefecture": "北海道",
+      "main_brands": "流氷ドラフト、網走ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "そうま屋米酒店（ 南津軽郡 大鰐町 ）/製造はサンケーヘルス（株）（ 宮城県 黒川郡 大郷町 ）へ委託",
+      "location": "",
+      "prefecture": "青森県",
+      "main_brands": "津軽路ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Aomori Brew Pub(BURNS GARETH ANSON)",
+      "location": "青森市",
+      "prefecture": "青森県",
+      "main_brands": "クラフトビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(有)丸山銃砲火薬店 蛍火醸造 KEIKA BREWING",
+      "location": "青森市",
+      "prefecture": "青森県",
+      "main_brands": "蛍火",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Be Easy Brewing(BURNS GARETH ANSON)/ギャレスのアジト",
+      "location": "弘前市 松ヶ枝",
+      "prefecture": "青森県",
+      "main_brands": "青森ALE(青森エール)",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "GARUTSU(株) GARUTSU醸造所",
+      "location": "弘前市",
+      "prefecture": "青森県",
+      "main_brands": "ALE",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)カネク醸造 KANEKU BREWERY",
+      "location": "八戸市",
+      "prefecture": "青森県",
+      "main_brands": "ゴールデンライトエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)A-WORLD OIRASE Brewery",
+      "location": "十和田市",
+      "prefecture": "青森県",
+      "main_brands": "奥入瀬ビール クラシック ピルスナー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(有)中居酒店 金星醸造",
+      "location": "三沢市",
+      "prefecture": "青森県",
+      "main_brands": "Pistol Bear",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "バイコードリンクB・S(佐々木眞萠)/梅香山崇徳寺・下北初地ビール工房",
+      "location": "下北郡 大間町",
+      "prefecture": "青森県",
+      "main_brands": "卍・麦雫、恐山ビール、あおもりカシスドラフト、あおもりアップルドラフト",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "東京パワーテクノロジー(株) ノークブルワリー",
+      "location": "東通村",
+      "prefecture": "青森県",
+      "main_brands": "クラフトビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "BREWCCOLY(筒井智成)",
+      "location": "秋田市",
+      "prefecture": "秋田県",
+      "main_brands": "Pale ale",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "秋田ノーザンハピネッツ(株) 秋田あくらビール",
+      "location": "秋田市",
+      "prefecture": "秋田県",
+      "main_brands": "秋田あくらビール(あくらビール)",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "HOPDOG BREWING(同) HOPDOG BREWING",
+      "location": "秋田市",
+      "prefecture": "秋田県",
+      "main_brands": "ホップドッグブルーイング",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Brasserie Ogresse Quete(平潟秀俊)",
+      "location": "男鹿市",
+      "prefecture": "秋田県",
+      "main_brands": "OGA SALT ALE",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)うるかしこと sunao brewery",
+      "location": "横手市",
+      "prefecture": "秋田県",
+      "main_brands": "sunao brewery",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)羽後麦酒",
+      "location": "羽後町",
+      "prefecture": "秋田県",
+      "main_brands": "ゴールデンエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)トースト 湖畔の杜ビール/ORAE",
+      "location": "仙北市",
+      "prefecture": "秋田県",
+      "main_brands": "味わい天空R、湖畔の杜ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)あきた芸術村",
+      "location": "仙北市",
+      "prefecture": "秋田県",
+      "main_brands": "田沢湖ビール アルト",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "あきたブリューイングカンパニー(同)",
+      "location": "大仙市",
+      "prefecture": "秋田県",
+      "main_brands": "ヘバエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "（株）宮城マイクロブルワリー/夢花まき麦酒醸造所",
+      "location": "花巻市",
+      "prefecture": "岩手県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)ベアレン醸造所",
+      "location": "盛岡市",
+      "prefecture": "岩手県",
+      "main_brands": "ベアレンビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)ベアレン醸造所 菜園マイクロブルワリー",
+      "location": "盛岡市",
+      "prefecture": "岩手県",
+      "main_brands": "菜園クラフト",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)あさ開 (/ステラモンテ)",
+      "location": "盛岡市",
+      "prefecture": "岩手県",
+      "main_brands": "ホワイトステラ",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)グッドワンリフォーム NANBU CRAFT BREWERY",
+      "location": "盛岡市",
+      "prefecture": "岩手県",
+      "main_brands": "NANBU CRAFT PALE ALE",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ヘリオス酒造(株) ブルーイングラボ",
+      "location": "盛岡市",
+      "prefecture": "岩手県",
+      "main_brands": "みちのく六福ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)太極舎 暁ブルワリー八幡平ファクトリー",
+      "location": "八幡平市",
+      "prefecture": "岩手県",
+      "main_brands": "オーガニックビール ドラゴンアイ<スカイ>",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)ベアレン醸造所 雫石工場",
+      "location": "雫石町",
+      "prefecture": "岩手県",
+      "main_brands": "ベアレンビール ザ・デイ",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "315BEER(岩淵俊)",
+      "location": "奥州市",
+      "prefecture": "岩手県",
+      "main_brands": "IPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)トルクスト Brew Beast Brewery",
+      "location": "花巻市",
+      "prefecture": "岩手県",
+      "main_brands": "IMPACT(HAZY IPA)、BREW BEAST",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "さくらブルワリー(Butland Stephen Michael)",
+      "location": "北上市",
+      "prefecture": "岩手県",
+      "main_brands": "展勝地 さくらエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ヘリオス酒造(株) 沢内醸造所",
+      "location": "和賀郡 西和賀町",
+      "prefecture": "岩手県",
+      "main_brands": "ユキノチカラ 白ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "世嬉の一酒造(株)",
+      "location": "一関市",
+      "prefecture": "岩手県",
+      "main_brands": "いわて蔵ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ノイモンドブルーイング(佐藤あさ子)",
+      "location": "一関市",
+      "prefecture": "岩手県",
+      "main_brands": "Inprogress IPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "両磐酒造(株) 平泉工場",
+      "location": "平泉町",
+      "prefecture": "岩手県",
+      "main_brands": "ふく力",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "陸前高田マイクロブルワリー(熊谷克郎)",
+      "location": "陸前高田市",
+      "prefecture": "岩手県",
+      "main_brands": "りんごエールりくぜんたかた",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)遠野醸造",
+      "location": "遠野市",
+      "prefecture": "岩手県",
+      "main_brands": "ペールエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)BrewGood GOOD HOPS",
+      "location": "遠野市",
+      "prefecture": "岩手県",
+      "main_brands": "発泡酒",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "上閉伊酒造(株)",
+      "location": "遠野市",
+      "prefecture": "岩手県",
+      "main_brands": "遠野麦酒 ZUMONAズモナ",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "泉金ホールディングス(株) 龍泉洞わっか",
+      "location": "岩泉町",
+      "prefecture": "岩手県",
+      "main_brands": "ヴィベール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "天童果実村ブルワリー",
+      "location": "",
+      "prefecture": "山形県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "山里菜(有) ZAO BREWERY",
+      "location": "山形市",
+      "prefecture": "山形県",
+      "main_brands": "ZAO CLASSIC IPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)一楽荘 天童ブルワリー/湯坊いちらく TENDO SPA & BREWERY",
+      "location": "天童市",
+      "prefecture": "山形県",
+      "main_brands": "天使のさくらんぼ",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Brewlab.108(加藤克明)",
+      "location": "天童市",
+      "prefecture": "山形県",
+      "main_brands": "#008 Date(デーツ)",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "西川町総合開発(株)",
+      "location": "西川町",
+      "prefecture": "山形県",
+      "main_brands": "月山ビール ピルスナー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "HAKUTO BREWING(結城孝文)",
+      "location": "村山市",
+      "prefecture": "山形県",
+      "main_brands": "ROSE RED ALE",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "米沢ジャックスブルワリー(槙山秀登)",
+      "location": "米沢市",
+      "prefecture": "山形県",
+      "main_brands": "ジャックスビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(同)萩志会クラフトマン 長井ブルワリークラフトマン",
+      "location": "長井市",
+      "prefecture": "山形県",
+      "main_brands": "ひょうペールエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "パイプ・ラインエンジニアリング(株) 酒田トラディショナルビール",
+      "location": "酒田市",
+      "prefecture": "山形県",
+      "main_brands": "ペールエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "（株）加工連",
+      "location": "角田市",
+      "prefecture": "宮城県",
+      "main_brands": "仙南クラフトビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "穀町ビール(今野高広)",
+      "location": "仙台市",
+      "prefecture": "宮城県",
+      "main_brands": "穀町エール10",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)トリプルビー BATSUJI BREWING",
+      "location": "仙台市",
+      "prefecture": "宮城県",
+      "main_brands": "秋辻セゾン",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Great Dane Brewing(株)",
+      "location": "仙台市",
+      "prefecture": "宮城県",
+      "main_brands": "GREAT LAGER",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)宮城マイクロブルワリー 宮城ゆりあげ麦酒醸造所",
+      "location": "名取市",
+      "prefecture": "宮城県",
+      "main_brands": "ピルスナー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)利久 希望の丘醸造所 岩沼工場",
+      "location": "岩沼市",
+      "prefecture": "宮城県",
+      "main_brands": "Knuckle 167A",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)ファロ Falo Brewing",
+      "location": "山元町",
+      "prefecture": "宮城県",
+      "main_brands": "ツバメ ドラフト",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Argon Brewing(武藤純)",
+      "location": "塩竈市",
+      "prefecture": "宮城県",
+      "main_brands": "ペールエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)イーチ・アザー ISHINOMAKI HOP WORKS",
+      "location": "石巻市",
+      "prefecture": "宮城県",
+      "main_brands": "巻風エール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ガル屋(木村優佑)",
+      "location": "女川町",
+      "prefecture": "宮城県",
+      "main_brands": "女川ペールエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "BLACK TIDE BREWING(同)",
+      "location": "気仙沼市",
+      "prefecture": "宮城県",
+      "main_brands": "KESENNUMA PRIDE、FROM THE DEEP…、DAYS OVER、NAIWAN AWAKE",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)角星 白山製造場",
+      "location": "気仙沼市",
+      "prefecture": "宮城県",
+      "main_brands": "月の吟(つき・の・うた)",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "大地と海のカンパネラBrewing(株) 奥松島醸造所",
+      "location": "東松島市",
+      "prefecture": "宮城県",
+      "main_brands": "東松島ドルトムンダーデメテル",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)オニコウベ/鳴子温泉ブルワリー・レストラン鳴子の風",
+      "location": "大崎市",
+      "prefecture": "宮城県",
+      "main_brands": "鳴子の風",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)加美町振興公社 地ビール製造所",
+      "location": "加美郡 加美町",
+      "prefecture": "宮城県",
+      "main_brands": "やくらいビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)利久 希望の丘醸造所 仙南工場",
+      "location": "角田市",
+      "prefecture": "宮城県",
+      "main_brands": "クーレット",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ハイパーグラフィック(株) Forest Brewing",
+      "location": "川崎町",
+      "prefecture": "宮城県",
+      "main_brands": "GERMAN PILSNER",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(有)福島路ビール",
+      "location": "福島市",
+      "prefecture": "福島県",
+      "main_brands": "ピルスナー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)カトウファーム イエロービアワークス",
+      "location": "福島市",
+      "prefecture": "福島県",
+      "main_brands": "The yellow",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)カトウファーム イエロービアワークス醸造所",
+      "location": "福島市",
+      "prefecture": "福島県",
+      "main_brands": "Juicy Pop",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)Tファクトリー 半田銀山ブルワリー",
+      "location": "桑折町",
+      "prefecture": "福島県",
+      "main_brands": "王林ペールエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(同)ピロノ PIRONO BEER",
+      "location": "郡山市",
+      "prefecture": "福島県",
+      "main_brands": "PIRONO SAISON",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)ホップジャパン ホップガーデンブルワリー",
+      "location": "田村市",
+      "prefecture": "福島県",
+      "main_brands": "HOP JAPAN IPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ハイランドポートブルワリー(大谷辰夫)",
+      "location": "西郷村",
+      "prefecture": "福島県",
+      "main_brands": "三本槍岳IPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ななくさナノブルワリー(関元弘)",
+      "location": "二本松市",
+      "prefecture": "福島県",
+      "main_brands": "ななくさビーヤ",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)あぶくまビール Abukuma Riverside Brewery",
+      "location": "玉川村",
+      "prefecture": "福島県",
+      "main_brands": "乙な麦 Session IPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "SANDi BREWERY(三戸大輔)",
+      "location": "相馬市",
+      "prefecture": "福島県",
+      "main_brands": "カワマエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "親正産業(株) 猪苗代ビール醸造所",
+      "location": "猪苗代町",
+      "prefecture": "福島県",
+      "main_brands": "猪苗代地ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)サウンドイート REC CIDER BEER WORKS",
+      "location": "喜多方市",
+      "prefecture": "福島県",
+      "main_brands": "ゆらゆらハードサイダー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "関根木材工業(株) 南会津マウンテンブルーイング",
+      "location": "南会津町",
+      "prefecture": "福島県",
+      "main_brands": "南会津IPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "しもつまブルワリー",
+      "location": "下妻市",
+      "prefecture": "茨城県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "大子ブルワリー",
+      "location": "大子町",
+      "prefecture": "茨城県",
+      "main_brands": "やみぞ森林のビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "木内酒造 (資) 額田醸造所",
+      "location": "那珂市",
+      "prefecture": "茨城県",
+      "main_brands": "常陸野ネストビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ビーチ カルチャー ブルーイング",
+      "location": "大洗町",
+      "prefecture": "茨城県",
+      "main_brands": "海街ゴールデンエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "結城麦酒醸造",
+      "location": "結城市",
+      "prefecture": "茨城県",
+      "main_brands": "ゆうきスタイル IPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "さかい河岸ブルワリー",
+      "location": "境町",
+      "prefecture": "茨城県",
+      "main_brands": "さかい河岸ブルワリー さしま茶エール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "TSUKUBA BREWERY",
+      "location": "つくば市",
+      "prefecture": "茨城県",
+      "main_brands": "金色姫 IPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "パラダイスビアファクトリー",
+      "location": "鹿嶋市",
+      "prefecture": "茨城県",
+      "main_brands": "弥栄楽園",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "プレストンエール",
+      "location": "",
+      "prefecture": "栃木県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "那須高原ビール (株)",
+      "location": "那須町",
+      "prefecture": "栃木県",
+      "main_brands": "那須高原ビール愛",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "那須ガーデンブルワリー",
+      "location": "那須塩原市",
+      "prefecture": "栃木県",
+      "main_brands": "なすですな",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "マァマー",
+      "location": "日光市",
+      "prefecture": "栃木県",
+      "main_brands": "(代表銘柄未記載)",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "三本松茶屋 ニッコー・ブルーイング",
+      "location": "日光市",
+      "prefecture": "栃木県",
+      "main_brands": "ザ・ニッコー・モンキーズ・ピルスナー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ろまんちっく村 ブルワリー",
+      "location": "宇都宮市",
+      "prefecture": "栃木県",
+      "main_brands": "麦太郎",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "栃木マイクロブルワリー",
+      "location": "宇都宮市",
+      "prefecture": "栃木県",
+      "main_brands": "栃木プレミアム",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "宇都宮ブルワリー",
+      "location": "宇都宮市",
+      "prefecture": "栃木県",
+      "main_brands": "ブルーマジックエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "うしとらブルワリー",
+      "location": "下野市",
+      "prefecture": "栃木県",
+      "main_brands": "三十苦",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "808ブルワリー(ヤオヤブルワリー)",
+      "location": "小山市",
+      "prefecture": "栃木県",
+      "main_brands": "オヤマエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "龍神酒造",
+      "location": "オゼノユキドケ",
+      "prefecture": "群馬県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "オクトワンブルーイング",
+      "location": "みなかみ町",
+      "prefecture": "群馬県",
+      "main_brands": "オクトネ・エール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "月夜野クラフトビール",
+      "location": "みなかみ町",
+      "prefecture": "群馬県",
+      "main_brands": "Princess March RONA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "四万温泉エールファクトリー",
+      "location": "中之条町",
+      "prefecture": "群馬県",
+      "main_brands": "四万温泉エール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)田園プラザ川場",
+      "location": "川場村",
+      "prefecture": "群馬県",
+      "main_brands": "川場ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "嬬恋高原ブルワリー",
+      "location": "嬬恋村",
+      "prefecture": "群馬県",
+      "main_brands": "嬬恋ペールエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "上州富岡ブリュワリー",
+      "location": "富岡市",
+      "prefecture": "群馬県",
+      "main_brands": "黒(スタウト)",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ファークライ ブルーイング",
+      "location": "桐生市",
+      "prefecture": "群馬県",
+      "main_brands": "キリュウ・ユー/ファークライ・ラガー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)夢麦酒太田",
+      "location": "太田市",
+      "prefecture": "群馬県",
+      "main_brands": "クロア タンバリン",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ビアースマイル",
+      "location": "伊勢崎市",
+      "prefecture": "群馬県",
+      "main_brands": "DEEEPER LAGER",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "麻原酒造（越生ブリュワリー）",
+      "location": "入間郡 越生町",
+      "prefecture": "埼玉県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "水研クリエイト株式会社",
+      "location": "十条すいけんブルワリー",
+      "prefecture": "埼玉県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "HopGear Brewing",
+      "location": "本庄市",
+      "prefecture": "埼玉県",
+      "main_brands": "アメリカン IPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "秩父麦酒醸造所",
+      "location": "秩父市",
+      "prefecture": "埼玉県",
+      "main_brands": "Pale ale 華",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "麦雑穀工房マイクロブルワリー",
+      "location": "小川町",
+      "prefecture": "埼玉県",
+      "main_brands": "彩 セゾン",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "COEDO クラフトビール醸造所",
+      "location": "東松山市",
+      "prefecture": "埼玉県",
+      "main_brands": "COEDO Labo Series",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "加須麦酒(カゾバクシュ)",
+      "location": "加須市",
+      "prefecture": "埼玉県",
+      "main_brands": "(代表銘柄未記載)",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "CARVAAN BREWERY(カールヴァーン ブルワリー)",
+      "location": "飯能市",
+      "prefecture": "埼玉県",
+      "main_brands": "アラビアンライム・エール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "株式会社 協同商事 コエドブルワリー",
+      "location": "川越市",
+      "prefecture": "埼玉県",
+      "main_brands": "コエドビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)氷川ブリュワリー",
+      "location": "さいたま市",
+      "prefecture": "埼玉県",
+      "main_brands": "氷川の杜",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "SHIKI BEER",
+      "location": "志木市",
+      "prefecture": "埼玉県",
+      "main_brands": "SAISON",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "所沢ビール",
+      "location": "所沢市",
+      "prefecture": "埼玉県",
+      "main_brands": "Bitches Brew",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ビール工房所沢",
+      "location": "所沢市",
+      "prefecture": "埼玉県",
+      "main_brands": "狭山茶エール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "サクラブルワリー",
+      "location": "所沢市",
+      "prefecture": "埼玉県",
+      "main_brands": "桜ヴァイツェン",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ネイバー＆ブラザーズ株式会社(GROW BREW HOUSE)",
+      "location": "川口市",
+      "prefecture": "埼玉県",
+      "main_brands": "アイアン ゲート",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "合同会社ぬとり（ ぬとりブルーイング ）",
+      "location": "川口市",
+      "prefecture": "埼玉県",
+      "main_brands": "(代表銘柄未記載)",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "新井商店株式会社（ 川口ブルワリー ）",
+      "location": "川口市",
+      "prefecture": "埼玉県",
+      "main_brands": "川口御成道エール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "有限会社星野製作所（ 星野製作所（麦） ）",
+      "location": "川口市",
+      "prefecture": "埼玉県",
+      "main_brands": "We Love Weizen",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "隅田川ブルーイング",
+      "location": "",
+      "prefecture": "東京都",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "羽田ブルワリー",
+      "location": "ビーエルジャパン株式会社",
+      "prefecture": "東京都",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "和泉ブルワリー合同会社",
+      "location": "",
+      "prefecture": "東京都",
+      "main_brands": "和泉ブルワリー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "さかづきBrewing",
+      "location": "足立区",
+      "prefecture": "東京都",
+      "main_brands": "shy girl",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "あだちブルワリー",
+      "location": "足立区",
+      "prefecture": "東京都",
+      "main_brands": "あだちビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "きちブルーイング",
+      "location": "葛飾区",
+      "prefecture": "東京都",
+      "main_brands": "ホージーシット",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "大泉学園クラフトビール工房",
+      "location": "練馬区",
+      "prefecture": "東京都",
+      "main_brands": "練馬レッドエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "アガルタブリューイング",
+      "location": "練馬区",
+      "prefecture": "東京都",
+      "main_brands": "セゾン アガルタ",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Tokyo Aleworks",
+      "location": "板橋区",
+      "prefecture": "東京都",
+      "main_brands": "板橋ヒイルラガー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Inkhorn Brewing",
+      "location": "豊島区",
+      "prefecture": "東京都",
+      "main_brands": "めじろ",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "本郷菊坂町かもす",
+      "location": "文京区",
+      "prefecture": "東京都",
+      "main_brands": "本GO Pub Rock",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "BUZZED LAMB BREWING",
+      "location": "台東区",
+      "prefecture": "東京都",
+      "main_brands": "(代表銘柄未記載)",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ベクターブルーイング",
+      "location": "台東区",
+      "prefecture": "東京都",
+      "main_brands": "ねこぱんち",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "東京ブッチャーズ",
+      "location": "台東区",
+      "prefecture": "東京都",
+      "main_brands": "おかちまち えーる",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "PHERMENT BREWING COMPANY",
+      "location": "台東区",
+      "prefecture": "東京都",
+      "main_brands": "Pale Ale",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "麦酒工房 浅草醸造所",
+      "location": "台東区",
+      "prefecture": "東京都",
+      "main_brands": "BITTER",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "一伍一醸造所",
+      "location": "江東区",
+      "prefecture": "東京都",
+      "main_brands": "一道",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "江戸東京ビール",
+      "location": "江東区",
+      "prefecture": "東京都",
+      "main_brands": "江戸小紋",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ガハハビール",
+      "location": "江東区",
+      "prefecture": "東京都",
+      "main_brands": "ダンチエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "DAWN BREWS",
+      "location": "江東区",
+      "prefecture": "東京都",
+      "main_brands": "ファーマーズブレイク",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "BEER VISTA BREWERY",
+      "location": "江東区",
+      "prefecture": "東京都",
+      "main_brands": "いつもの",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "BALDYS GOOD BEER",
+      "location": "中央区",
+      "prefecture": "東京都",
+      "main_brands": "BLACK MAMBA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "オルカ銀座醸造所",
+      "location": "中央区",
+      "prefecture": "東京都",
+      "main_brands": "銀座IPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "國澤酒造",
+      "location": "港区",
+      "prefecture": "東京都",
+      "main_brands": "新橋クラシックラガー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "芝浦ブルーイング",
+      "location": "港区",
+      "prefecture": "東京都",
+      "main_brands": "スカイ・ペールエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "TYSONS & COMPANY / T.Y.HARBOR BREWERY",
+      "location": "品川区",
+      "prefecture": "東京都",
+      "main_brands": "いんぺりあるすたうと",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ハニカム&ホップワークス",
+      "location": "新宿区",
+      "prefecture": "東京都",
+      "main_brands": "ハニカムバレット",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "OUR DAYs Brewery&Clubhouse",
+      "location": "渋谷区",
+      "prefecture": "東京都",
+      "main_brands": "泡日々アイピーエー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "エビスブルワリー トーキョー",
+      "location": "渋谷区",
+      "prefecture": "東京都",
+      "main_brands": "エビス インフィニティ",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Mountain River Brewery",
+      "location": "杉並区",
+      "prefecture": "東京都",
+      "main_brands": "マウンテンホワイト",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ファイブツリーズ",
+      "location": "目黒区",
+      "prefecture": "東京都",
+      "main_brands": "UNITE",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "RIKRI BREWING",
+      "location": "目黒区",
+      "prefecture": "東京都",
+      "main_brands": "(代表銘柄未記載)",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "プラオハウス目黒",
+      "location": "目黒区",
+      "prefecture": "東京都",
+      "main_brands": "オリジナルラガー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "アフタースクールブルワリー",
+      "location": "世田谷区",
+      "prefecture": "東京都",
+      "main_brands": "三鷹ビール ラガー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "株式会社ふたこ麦麦公社 ふたこビール瀬田醸造所",
+      "location": "世田谷区",
+      "prefecture": "東京都",
+      "main_brands": "ふたこビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Logram Brewing",
+      "location": "世田谷区",
+      "prefecture": "東京都",
+      "main_brands": "(代表銘柄未記載)",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "21 Brew Cave",
+      "location": "西東京市",
+      "prefecture": "東京都",
+      "main_brands": "WEST TOKYO IPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "26Kブルワリー",
+      "location": "武蔵野市",
+      "prefecture": "東京都",
+      "main_brands": "シューティングスター吉祥寺",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "OGA BREWING",
+      "location": "三鷹市",
+      "prefecture": "東京都",
+      "main_brands": "三鷹ペールエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ブレッドエールブルワリー",
+      "location": "調布市",
+      "prefecture": "東京都",
+      "main_brands": "ブレッドエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "TEGAMISHA BREWERY",
+      "location": "調布市",
+      "prefecture": "東京都",
+      "main_brands": "ペニーレイン",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ホッピービバレッジ",
+      "location": "調布市",
+      "prefecture": "東京都",
+      "main_brands": "深大寺ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "中央線ビアワークス",
+      "location": "小金井市",
+      "prefecture": "東京都",
+      "main_brands": "ゴールデンエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Distant Shores 東京ブルワリー",
+      "location": "東村山市",
+      "prefecture": "東京都",
+      "main_brands": "ジュース竜巻",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "スリーアローズブルーイング",
+      "location": "府中市",
+      "prefecture": "東京都",
+      "main_brands": "ブライトボア アイピーエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "KUNITACHI BREWERY",
+      "location": "国立市",
+      "prefecture": "東京都",
+      "main_brands": "1926",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "立飛麦酒醸造所",
+      "location": "立川市",
+      "prefecture": "東京都",
+      "main_brands": "立飛ピルスナー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "イサナブルーイング",
+      "location": "昭島市",
+      "prefecture": "東京都",
+      "main_brands": "とりあえずビター",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "武相ブリュワリー",
+      "location": "町田市",
+      "prefecture": "東京都",
+      "main_brands": "JIYU-じゆう-",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Fat Barley Brewing",
+      "location": "福生市",
+      "prefecture": "東京都",
+      "main_brands": "クラフトビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "石川酒造",
+      "location": "福生市",
+      "prefecture": "東京都",
+      "main_brands": "多満自慢",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "シェアードブルワリー",
+      "location": "八王子市",
+      "prefecture": "東京都",
+      "main_brands": "Hazy Tropics",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "CRAFTROCK BREWING",
+      "location": "八王子市",
+      "prefecture": "東京都",
+      "main_brands": "オルタナティブIPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "和楽ブルワリー",
+      "location": "狛江市",
+      "prefecture": "東京都",
+      "main_brands": "3A ファームハウスエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "有限会社秋元商店 籠屋ブルワリー",
+      "location": "狛江市",
+      "prefecture": "東京都",
+      "main_brands": "和轍",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "VERTERE",
+      "location": "奥多摩町",
+      "prefecture": "東京都",
+      "main_brands": "Passiflora",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "日向麦酒",
+      "location": "神津島村",
+      "prefecture": "東京都",
+      "main_brands": "あんじい",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "寒菊銘醸",
+      "location": "山武市",
+      "prefecture": "千葉県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ロコビア",
+      "location": "佐倉市",
+      "prefecture": "千葉県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "こまいぬブルワリー",
+      "location": "柏市",
+      "prefecture": "千葉県",
+      "main_brands": "柏ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "のろし醸造",
+      "location": "流山市",
+      "prefecture": "千葉県",
+      "main_brands": "のろしセゾン",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ありのみブルワリー",
+      "location": "市川市",
+      "prefecture": "千葉県",
+      "main_brands": "ビーツでつくったIPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "舞浜地ビール工房ハーヴェスト・ムーン",
+      "location": "浦安市",
+      "prefecture": "千葉県",
+      "main_brands": "ピルスナー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "MATSURI BREWING／祭醸造",
+      "location": "浦安市",
+      "prefecture": "千葉県",
+      "main_brands": "祝祭",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "八千代ブルワリー",
+      "location": "八千代市",
+      "prefecture": "千葉県",
+      "main_brands": "かろやかIPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "伊能忠次郎商店",
+      "location": "香取市",
+      "prefecture": "千葉県",
+      "main_brands": "INOU白",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "おたこビール醸造場",
+      "location": "千葉市",
+      "prefecture": "千葉県",
+      "main_brands": "おたこペールエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "千葉稲毛ビール",
+      "location": "千葉市",
+      "prefecture": "千葉県",
+      "main_brands": "稲毛",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Rusty Nest Brewery",
+      "location": "大網白里市",
+      "prefecture": "千葉県",
+      "main_brands": "Rusty Nest IPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ながら木こりんブルワリー",
+      "location": "長柄町",
+      "prefecture": "千葉県",
+      "main_brands": "木こりんアルト",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "TOKYOベイ麦酒",
+      "location": "木更津市",
+      "prefecture": "千葉県",
+      "main_brands": "醸 オーガニックゴールデンエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ソングバードビール",
+      "location": "木更津市",
+      "prefecture": "千葉県",
+      "main_brands": "ブロンド",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "いすみブルワリー",
+      "location": "いすみ市",
+      "prefecture": "千葉県",
+      "main_brands": "いすみ",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "スリラービーチブルワリー",
+      "location": "勝浦市",
+      "prefecture": "千葉県",
+      "main_brands": "波と香りのセッション",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "カモガワブルワリー",
+      "location": "鴨川市",
+      "prefecture": "千葉県",
+      "main_brands": "Kamogawa IPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "安房麦酒",
+      "location": "南房総市",
+      "prefecture": "千葉県",
+      "main_brands": "ペールエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "海岸醸造所",
+      "location": "南房総市",
+      "prefecture": "千葉県",
+      "main_brands": "海岸エール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "有限会社足柄地ビール",
+      "location": "足柄地ビール",
+      "prefecture": "神奈川県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "熊澤酒造",
+      "location": "湘南ビール",
+      "prefecture": "神奈川県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "有限会社グローバルフュージョン",
+      "location": "横濱金沢ブルワリー",
+      "prefecture": "神奈川県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "黄金井酒造",
+      "location": "さがみビール",
+      "prefecture": "神奈川県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "サンクトガーレン",
+      "location": "",
+      "prefecture": "神奈川県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "十五麦酒醸造所",
+      "location": "フィフティーンブルワリー",
+      "prefecture": "神奈川県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "鈴廣",
+      "location": "箱根ビール",
+      "prefecture": "神奈川県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "たのし屋本舗",
+      "location": "横須賀ビール",
+      "prefecture": "神奈川県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ブリマーブルーイング株式会社",
+      "location": "",
+      "prefecture": "神奈川県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "横浜ビール",
+      "location": "",
+      "prefecture": "神奈川県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "株式会社リープ",
+      "location": "T.T BREWERY",
+      "prefecture": "神奈川県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "鍵屋醸造所",
+      "location": "",
+      "prefecture": "神奈川県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "BEERDOCK稲田堤",
+      "location": "川崎市",
+      "prefecture": "神奈川県",
+      "main_brands": "エクストラバガンザ",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "クラフトビア ムーンライト",
+      "location": "川崎市多摩区",
+      "prefecture": "神奈川県",
+      "main_brands": "多摩の流れ",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "OVER REV Brewing",
+      "location": "川崎市",
+      "prefecture": "神奈川県",
+      "main_brands": "とりあえずエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ペコラビール",
+      "location": "川崎市",
+      "prefecture": "神奈川県",
+      "main_brands": "ベコラ",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "TKBrewing",
+      "location": "川崎市川崎区",
+      "prefecture": "神奈川県",
+      "main_brands": "ドープネスアイピーエー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "東海道BEER川崎宿工場",
+      "location": "川崎市川崎区",
+      "prefecture": "神奈川県",
+      "main_brands": "1623",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Yellow Monkey Brewing",
+      "location": "横浜市",
+      "prefecture": "神奈川県",
+      "main_brands": "TORIAEZU",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ミツメビール醸造所",
+      "location": "横浜市",
+      "prefecture": "神奈川県",
+      "main_brands": "IPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "浦島ブルワリー",
+      "location": "横浜市",
+      "prefecture": "神奈川県",
+      "main_brands": "黄 English Pale Ale",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "THE BLISS BREWERY&DINING",
+      "location": "横浜市",
+      "prefecture": "神奈川県",
+      "main_brands": "Lighthouse",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "REVO BREWING",
+      "location": "横浜市",
+      "prefecture": "神奈川県",
+      "main_brands": "横浜家系IPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "TDM 1874 BREWERY",
+      "location": "横浜市",
+      "prefecture": "神奈川県",
+      "main_brands": "IPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "横浜ベイブルーイング 戸塚工場",
+      "location": "横浜市戸塚区",
+      "prefecture": "神奈川県",
+      "main_brands": "ベイピルスナー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "株式会社麦風堂 南横浜ビール研究所",
+      "location": "横浜市金沢区",
+      "prefecture": "神奈川県",
+      "main_brands": "看板ペールエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Better life with upcycle",
+      "location": "海老名市",
+      "prefecture": "神奈川県",
+      "main_brands": "Bread Crast",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "厚木ビール株式会社 厚木ビール",
+      "location": "厚木市",
+      "prefecture": "神奈川県",
+      "main_brands": "丹沢のしずく",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "RRAAP BREWERY",
+      "location": "藤沢市",
+      "prefecture": "神奈川県",
+      "main_brands": "湘南台ラガー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "藤沢ビール",
+      "location": "藤沢市",
+      "prefecture": "神奈川県",
+      "main_brands": "さざ波 ペールエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Aura Brewing",
+      "location": "藤沢市",
+      "prefecture": "神奈川県",
+      "main_brands": "First Light",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "AMATERASU醸造所",
+      "location": "藤沢市",
+      "prefecture": "神奈川県",
+      "main_brands": "SURF BLUE",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "辻ブルーイング",
+      "location": "茅ヶ崎市",
+      "prefecture": "神奈川県",
+      "main_brands": "ミクープIPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "MacKenDy Brewery",
+      "location": "茅ヶ崎市",
+      "prefecture": "神奈川県",
+      "main_brands": "クラフトビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "株式会社安藤商店 Barbaric WORKS",
+      "location": "茅ヶ崎市",
+      "prefecture": "神奈川県",
+      "main_brands": "Vamos!!",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Yggdrasil Brewing",
+      "location": "平塚市",
+      "prefecture": "神奈川県",
+      "main_brands": "Mashpit W-IPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "株式会社ヨロッコビール ヨロッコビール 岩瀬ブルワリー",
+      "location": "鎌倉市",
+      "prefecture": "神奈川県",
+      "main_brands": "スカイウォーカー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "鎌倉ビール醸造",
+      "location": "鎌倉市",
+      "prefecture": "神奈川県",
+      "main_brands": "鎌倉ビール、葉山ビール、江の島ビール、横須賀ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "WHITE DOG BREWING",
+      "location": "横須賀市",
+      "prefecture": "神奈川県",
+      "main_brands": "浦賀ペリーエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "小田原ガレージブリューイング",
+      "location": "小田原市",
+      "prefecture": "神奈川県",
+      "main_brands": "ガレージエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ヒューマンズビア醸造所",
+      "location": "湯河原町",
+      "prefecture": "神奈川県",
+      "main_brands": "湯河原温泉湯けむり ペールエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "スワンレイクビール",
+      "location": "",
+      "prefecture": "新潟県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "新潟麦酒",
+      "location": "",
+      "prefecture": "新潟県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "日本海夕陽ブルワリー",
+      "location": "",
+      "prefecture": "新潟県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "八海山泉ビール",
+      "location": "",
+      "prefecture": "新潟県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "荒井アンドアソシエイツ株式会社",
+      "location": "",
+      "prefecture": "新潟県",
+      "main_brands": "妙高高原アルペンブリックビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "胎内高原ビール園",
+      "location": "胎内市",
+      "prefecture": "新潟県",
+      "main_brands": "胎内高原ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "月岡ブルワリー",
+      "location": "新発田市",
+      "prefecture": "新潟県",
+      "main_brands": "月岡エメラルドエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)天朝閣 瓢湖屋敷の杜ブルワリー",
+      "location": "阿賀野市",
+      "prefecture": "新潟県",
+      "main_brands": "スワンレイクビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "沼垂ビール",
+      "location": "新潟市 中央区",
+      "prefecture": "新潟県",
+      "main_brands": "天の川ペールエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "レストラン薪小屋",
+      "location": "新潟市 西蒲区",
+      "prefecture": "新潟県",
+      "main_brands": "カーブドッチ ゴールド",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "エチゴビール",
+      "location": "新潟市 西蒲区",
+      "prefecture": "新潟県",
+      "main_brands": "エチゴビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "弥彦ブリューイング",
+      "location": "弥彦村",
+      "prefecture": "新潟県",
+      "main_brands": "伊彌彦エール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ミツケ ローカル ブルワリー",
+      "location": "見附市",
+      "prefecture": "新潟県",
+      "main_brands": "(代表銘柄未記載)",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "妻有ビール",
+      "location": "十日町市",
+      "prefecture": "新潟県",
+      "main_brands": "十日町そばエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "醸燻酒類研究所",
+      "location": "十日町市",
+      "prefecture": "新潟県",
+      "main_brands": "ジョークン IPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "猿倉山ビール醸造所",
+      "location": "十日町市",
+      "prefecture": "新潟県",
+      "main_brands": "ライディーンビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "妙高高原ビール「タトラ館」",
+      "location": "妙高市",
+      "prefecture": "新潟県",
+      "main_brands": "妙高高原ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "塩嶺麦酒（チロルの森）",
+      "location": "塩尻市",
+      "prefecture": "長野県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Anglo Japanese Brewing Company",
+      "location": "野沢温泉村",
+      "prefecture": "長野県",
+      "main_brands": "(代表銘柄未記載)",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Anglo Japanese Brewing Company LIBUSHI",
+      "location": "野沢温泉村",
+      "prefecture": "長野県",
+      "main_brands": "King Kong Knee Drop",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Hakuba Brewing Company",
+      "location": "白馬村",
+      "prefecture": "長野県",
+      "main_brands": "白馬ペール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)玉村本店",
+      "location": "山ノ内町",
+      "prefecture": "長野県",
+      "main_brands": "志賀高原ビール/山伏",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "TAMTAM ブリューイング",
+      "location": "高山村",
+      "prefecture": "長野県",
+      "main_brands": "(代表銘柄未記載)",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "クルークダイニング",
+      "location": "須坂市",
+      "prefecture": "長野県",
+      "main_brands": "フルーツエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "北アルプスブルワリー",
+      "location": "大町市",
+      "prefecture": "長野県",
+      "main_brands": "氷河ラガー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "エイワ 穂高ブルワリー",
+      "location": "安曇野市",
+      "prefecture": "長野県",
+      "main_brands": "アルト",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "オラホビール",
+      "location": "東御市",
+      "prefecture": "長野県",
+      "main_brands": "オラホビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "BACCA ブルーイング",
+      "location": "松本市",
+      "prefecture": "長野県",
+      "main_brands": "BACCA ペールエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "松本ブルワリー",
+      "location": "松本市",
+      "prefecture": "長野県",
+      "main_brands": "トラディショナル・ビター",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ヤッホーブルーイング 御代田田醸造所",
+      "location": "御代田町",
+      "prefecture": "長野県",
+      "main_brands": "よなよなエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ヤッホーブルーイング 佐久醸造所",
+      "location": "佐久市",
+      "prefecture": "長野県",
+      "main_brands": "よなよなエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "軽井沢ブルワリー 軽井沢工場",
+      "location": "佐久市",
+      "prefecture": "長野県",
+      "main_brands": "THE 軽井沢ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "池の平ホテル&リゾーツ 地ビール工場",
+      "location": "立科町",
+      "prefecture": "長野県",
+      "main_brands": "白樺 蓼科 ピルスナー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "麗人酒造(株)",
+      "location": "諏訪市",
+      "prefecture": "長野県",
+      "main_brands": "諏訪浪漫ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "エイトピークスブルーイング",
+      "location": "辰野町",
+      "prefecture": "長野県",
+      "main_brands": "ヤイヤベールエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ベッカリービール",
+      "location": "伊那市",
+      "prefecture": "長野県",
+      "main_brands": "ジェルミー・インペリアルスタウト",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "In a daze Brewing(イナデイズ ブルーイング)",
+      "location": "伊那市",
+      "prefecture": "長野県",
+      "main_brands": "伊那和ペールエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "南信州ビール駒ヶ岳醸造所",
+      "location": "宮田村",
+      "prefecture": "長野県",
+      "main_brands": "アップルホップ",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "甲斐ドラフトビール",
+      "location": "",
+      "prefecture": "山梨県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "宇宙カンパニー合同会社",
+      "location": "うちゅうブルーイング",
+      "prefecture": "山梨県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "八ヶ岳ブルワリー(八ヶ岳ビール)",
+      "location": "北杜市",
+      "prefecture": "山梨県",
+      "main_brands": "タッチダウン 清里ラガー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "万珍醸造",
+      "location": "北杜市",
+      "prefecture": "山梨県",
+      "main_brands": "ニューコロニー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "南アルプスビール",
+      "location": "南アルプス市",
+      "prefecture": "山梨県",
+      "main_brands": "ビアジャン 山梨のもも",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Outsider Brewing",
+      "location": "甲府市",
+      "prefecture": "山梨県",
+      "main_brands": "ピットブル",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ペルソナブルワリー",
+      "location": "甲府市",
+      "prefecture": "山梨県",
+      "main_brands": "二の堀アンバー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "BREW 笛吹",
+      "location": "笛吹市",
+      "prefecture": "山梨県",
+      "main_brands": "IPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "IWAI BREWERY",
+      "location": "甲州市",
+      "prefecture": "山梨県",
+      "main_brands": "IWAI LAGER",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "アンドビール",
+      "location": "甲州市",
+      "prefecture": "山梨県",
+      "main_brands": "ラウンドトリップ",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Wolves Brewing",
+      "location": "丹波山村",
+      "prefecture": "山梨県",
+      "main_brands": "ファーストトレック",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Far Yeast Brewing株式会社 Far Yeast Brewing 源流醸造所",
+      "location": "北都留郡小菅村",
+      "prefecture": "山梨県",
+      "main_brands": "ファー イースト ホワイト",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "AIM Brew LAB.",
+      "location": "富士河口湖市",
+      "prefecture": "山梨県",
+      "main_brands": "ザ・ビギニング",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "富士桜高原麦酒",
+      "location": "富士河口湖市",
+      "prefecture": "山梨県",
+      "main_brands": "富士桜高原麦酒",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ブライトブルーブルーイング",
+      "location": "富士吉田市",
+      "prefecture": "山梨県",
+      "main_brands": "おれっちのフレッシュホップビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ふじやまビール",
+      "location": "富士吉田市",
+      "prefecture": "山梨県",
+      "main_brands": "ビルス",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "CIN CIN 山中湖ブルワリー",
+      "location": "山中湖村",
+      "prefecture": "山梨県",
+      "main_brands": "CIN CIN HAZY IPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)浜松アクトビールコーポレーション浜松地ビール工場 マイン・シュロス",
+      "location": "浜松市中区",
+      "prefecture": "静岡県",
+      "main_brands": "ヴァイツェン",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "丸八不動産(株) Octagon Brewing",
+      "location": "浜松市中区",
+      "prefecture": "静岡県",
+      "main_brands": "Breakaway IPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "カケガワビール",
+      "location": "掛川市",
+      "prefecture": "静岡県",
+      "main_brands": "掛川産ほうじ茶エール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(同)ビアホップおおいがわ 193 VALLEY BREWING",
+      "location": "島田市",
+      "prefecture": "静岡県",
+      "main_brands": "(代表銘柄未記載)",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "池田屋麦酒醸造(株)",
+      "location": "牧之原市",
+      "prefecture": "静岡県",
+      "main_brands": "牧之原えーる",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Aoi Brewing",
+      "location": "静岡市葵区",
+      "prefecture": "静岡県",
+      "main_brands": "GOLDEN ALE",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)WEST COAST West Coast Brewing",
+      "location": "静岡市駿河区",
+      "prefecture": "静岡県",
+      "main_brands": "Star watcher",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "GARCIABEWING(株)",
+      "location": "静岡市清水区",
+      "prefecture": "静岡県",
+      "main_brands": "BUENABISTA 日本平",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "Bayern Meister Bier (有)(バイエルンマイスタービール)",
+      "location": "富士宮市",
+      "prefecture": "静岡県",
+      "main_brands": "(代表銘柄未記載)",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "加和太建設(株) Mt. Fuji Brewing",
+      "location": "富士宮市",
+      "prefecture": "静岡県",
+      "main_brands": "焼板富士",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)FARMENT FUJIYAMA HUNTERS BEER",
+      "location": "富士宮市",
+      "prefecture": "静岡県",
+      "main_brands": "年真",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)時之栖富士 富士かぐや蒸溜所",
+      "location": "富士市",
+      "prefecture": "静岡県",
+      "main_brands": "富麓麦酒",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "GKB(株)(御殿場高原ビール)",
+      "location": "御殿場市",
+      "prefecture": "静岡県",
+      "main_brands": "御殿場コシヒカリラガー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)ディーエイチシー DHCビール静岡工場",
+      "location": "御殿場市",
+      "prefecture": "静岡県",
+      "main_brands": "DHCラガービール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "柿田川ブリューイング(株) 沼津クラフト",
+      "location": "沼津市",
+      "prefecture": "静岡県",
+      "main_brands": "クリームラガー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "RePuBrew(同)",
+      "location": "沼津市",
+      "prefecture": "静岡県",
+      "main_brands": "(代表銘柄未記載)",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "日本ビール醸造(株)",
+      "location": "沼津市",
+      "prefecture": "静岡県",
+      "main_brands": "サムライサーファービール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "醸農王国(株)",
+      "location": "田方郡函南町",
+      "prefecture": "静岡県",
+      "main_brands": "風の谷のビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)蔵屋鳴沢 反射炉ビヤ(反射炉ビール)",
+      "location": "伊豆の国市",
+      "prefecture": "静岡県",
+      "main_brands": "太郎左衛門",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)時之栖 伊豆の国ビール",
+      "location": "伊豆の国市",
+      "prefecture": "静岡県",
+      "main_brands": "伊豆の国ビール ピルスナー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)ベアードブルーイング ベアードブルワリー(ベアードビール)",
+      "location": "伊豆市",
+      "prefecture": "静岡県",
+      "main_brands": "ライジングサン ペールエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "宇佐美酒造製造(株)",
+      "location": "伊東市",
+      "prefecture": "静岡県",
+      "main_brands": "Usami Golden Ale",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "伊豆高原ビール(株)",
+      "location": "伊東市",
+      "prefecture": "静岡県",
+      "main_brands": "大室",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "宇奈月麦酒館",
+      "location": "黒部市",
+      "prefecture": "富山県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "城端麦酒",
+      "location": "南砺市",
+      "prefecture": "富山県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "オオヤブラッスリー",
+      "location": "富山市",
+      "prefecture": "富山県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "白山わくわくビール",
+      "location": "",
+      "prefecture": "石川県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "越前福井ビール DIOS",
+      "location": "",
+      "prefecture": "福井県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "犬山ローラレイ",
+      "location": "",
+      "prefecture": "愛知県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(特非)志民連いちのみや 一宮ブルワリー",
+      "location": "一宮市",
+      "prefecture": "愛知県",
+      "main_brands": "138ブレンドいちのみや珈琲スタウト",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "盛田金しゃちビール(株)",
+      "location": "犬山市",
+      "prefecture": "愛知県",
+      "main_brands": "金しゃち名古屋赤味噌ラガー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)わっぱの会 BREWPUB OZONE",
+      "location": "名古屋市北区",
+      "prefecture": "愛知県",
+      "main_brands": "クラフトビール KENZO IPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)ワイマーケット Y.MARKET BREWING 名古屋西",
+      "location": "名古屋市西区",
+      "prefecture": "愛知県",
+      "main_brands": "ヒステリックIPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)ワイマーケット Y.MARKET BREWING",
+      "location": "名古屋市中村区",
+      "prefecture": "愛知県",
+      "main_brands": "ヒステリックIPA",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)PLUS OKD OKD KOMINKA BREWING",
+      "location": "知多市",
+      "prefecture": "愛知県",
+      "main_brands": "FIG ICHIJIKU WEIZEN",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "知多麦酒(株)ビアシティ南知多",
+      "location": "知多郡南知多町",
+      "prefecture": "愛知県",
+      "main_brands": "知多マリンビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "安城デンビール(株)",
+      "location": "安城市",
+      "prefecture": "愛知県",
+      "main_brands": "尚、慈悲深い虎の狩り言",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(資)PROGRESSIVE PARTNERSHIPS ヒャッパ・ブリューズ",
+      "location": "蒲郡市",
+      "prefecture": "愛知県",
+      "main_brands": "家康Ｂ",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "TOYOHASHI BREWING COMPANY(同)TOYS BREWERY",
+      "location": "豊橋市",
+      "prefecture": "愛知県",
+      "main_brands": "アメリカンペールエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "細川酒造（株）",
+      "location": "桑名市",
+      "prefecture": "三重県",
+      "main_brands": "上馬ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "長島観光開発(株)長島ビール園",
+      "location": "桑名市",
+      "prefecture": "三重県",
+      "main_brands": "長島地ビール ピルスナー",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "エール工房 de 伊賀",
+      "location": "伊賀市",
+      "prefecture": "三重県",
+      "main_brands": "忍泡伊賀",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株) 伊賀の里モクモク手作りファーム",
+      "location": "伊賀市",
+      "prefecture": "三重県",
+      "main_brands": "セブンホップラガー、レッドラガー、金色夏エール他",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(有)美杉観光開発 火の谷ビール",
+      "location": "津市",
+      "prefecture": "三重県",
+      "main_brands": "火の谷ビール（火の谷高原ビール）",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(有) 二軒茶屋餅 角屋本店 伊勢角屋麦酒 下野工場",
+      "location": "伊勢市",
+      "prefecture": "三重県",
+      "main_brands": "伊勢角屋麦酒",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(有)二軒茶屋餅餅屋本店 伊勢角屋麦酒 松下工場",
+      "location": "伊勢市",
+      "prefecture": "三重県",
+      "main_brands": "伊勢角屋麦酒 ペールエール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "長浜浪漫ビール （株）",
+      "location": "長浜市",
+      "prefecture": "滋賀県",
+      "main_brands": "長濱浪漫ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "滋賀酒造（株）/ビアレストラン寿賀蔵",
+      "location": "甲賀市",
+      "prefecture": "滋賀県",
+      "main_brands": "びわこいいみちビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "（株）ナギサビール/南紀白浜バーリィ",
+      "location": "西牟婁郡 白浜町",
+      "prefecture": "和歌山県",
+      "main_brands": "ナギサビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ボイジャーブルーイング（株）",
+      "location": "田辺市",
+      "prefecture": "和歌山県",
+      "main_brands": "ボイジャーブルーイング",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "（株）吉田/和歌山麦酒醸造所三代目",
+      "location": "和歌山市",
+      "prefecture": "和歌山県",
+      "main_brands": "和歌山麦酒醸造所三代目",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "平和酒造（株）",
+      "location": "海南市",
+      "prefecture": "和歌山県",
+      "main_brands": "HEIWA CRAFT",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "曽爾高原ビール",
+      "location": "",
+      "prefecture": "奈良県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ロート製薬（株） （本社は大阪市生野区）/宇陀サテライト工場",
+      "location": "宇陀市",
+      "prefecture": "奈良県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "一乗寺ブルワリー",
+      "location": "",
+      "prefecture": "京都府",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "黄桜酒造",
+      "location": "京都麦酒",
+      "prefecture": "京都府",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "キンシ正宗",
+      "location": "",
+      "prefecture": "京都府",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "周山街道ビール",
+      "location": "",
+      "prefecture": "京都府",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "京都醸造",
+      "location": "",
+      "prefecture": "京都府",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "家守堂",
+      "location": "",
+      "prefecture": "京都府",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "(株)丹後王国ブルワリー",
+      "location": "",
+      "prefecture": "京都府",
+      "main_brands": "丹後クラフトビール（ 京丹後市 ）",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "（株）堺ファーム/ 堺・緑のミュージアム ハーベストの丘 内",
+      "location": "堺市 南区",
+      "prefecture": "大阪府",
+      "main_brands": "堺収穫麦酒（ハーベストの丘）",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "エイ・ジェイ・アイ・ビア（有）/ 箕面ブリュワリー",
+      "location": "箕面市",
+      "prefecture": "大阪府",
+      "main_brands": "箕面ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "寿酒造 （株）",
+      "location": "高槻市",
+      "prefecture": "大阪府",
+      "main_brands": "國乃長ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "明石ブルワリー",
+      "location": "明石市",
+      "prefecture": "兵庫県",
+      "main_brands": "明石ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "あわぢびーる工房（ユーアールエー）",
+      "location": "淡路市",
+      "prefecture": "兵庫県",
+      "main_brands": "あわぢびーる",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "小西酒造",
+      "location": "伊丹市",
+      "prefecture": "兵庫県",
+      "main_brands": "白雪ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "TEN FORWARD",
+      "location": "岩美郡 岩美町",
+      "prefecture": "鳥取県",
+      "main_brands": "IWAMI BLUE BEER",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "（株）AKARI BREWING（ 鳥取市 鹿野町 ）/Beer Bonds AKARI",
+      "location": "鳥取市栄町",
+      "prefecture": "鳥取県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "タルマーリー醸造（株）",
+      "location": "八頭郡 智頭町",
+      "prefecture": "鳥取県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "倉吉ビール（株）",
+      "location": "倉吉市",
+      "prefecture": "鳥取県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "松井酒造（名）",
+      "location": "倉吉市",
+      "prefecture": "鳥取県",
+      "main_brands": "マツイビール倉吉",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "酒房 銀",
+      "location": "東伯郡 琴浦町",
+      "prefecture": "鳥取県",
+      "main_brands": "徳万尻日乃本麦酒",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "（有）THINK＆CO.（ 米子市 ）/JAP Brewery",
+      "location": "",
+      "prefecture": "鳥取県",
+      "main_brands": "475ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "久米桜麦酒（株）/大山ブルワリー・ビアホフガンバリウス",
+      "location": "西伯郡 伯耆町",
+      "prefecture": "鳥取県",
+      "main_brands": "大山Gビール、八郷",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "（資）多胡本家酒造場",
+      "location": "津山市",
+      "prefecture": "岡山県",
+      "main_brands": "作州津山ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "美作ビアワークス",
+      "location": "真庭市",
+      "prefecture": "岡山県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "宮下酒造（株）",
+      "location": "岡山市 中区",
+      "prefecture": "岡山県",
+      "main_brands": "独歩ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "吉備土手下麦酒醸造所（岡山市 北区 ）/普段呑み場蔵びあ亭",
+      "location": "",
+      "prefecture": "岡山県",
+      "main_brands": "吉備土手の麦酒 樽生",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "（株）アクシス（岡山市北区）/BrewPub ARMADILLO",
+      "location": "",
+      "prefecture": "岡山県",
+      "main_brands": "アルマジロビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "三石耐火煉瓦（株）/レ・マーニ（ 備前市 ）- Dream or Real Door",
+      "location": "",
+      "prefecture": "岡山県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "koti brewery",
+      "location": "備前市",
+      "prefecture": "岡山県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "（株）ファーム （本社は愛媛県）/ おかやまフォレストパーク ドイツの森",
+      "location": "赤磐市",
+      "prefecture": "岡山県",
+      "main_brands": "吉井高原ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "（株）島根ビール",
+      "location": "松江市",
+      "prefecture": "島根県",
+      "main_brands": "松江ビアへるん",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "（株）石見麦酒",
+      "location": "江津市",
+      "prefecture": "島根県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "（株）三島ファーム（ 浜田市 ）/FERMER'S BREWERY 穂波",
+      "location": "",
+      "prefecture": "島根県",
+      "main_brands": "穂波",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "宮島ビール",
+      "location": "廿日市市",
+      "prefecture": "広島県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ちょんまげビール",
+      "location": "",
+      "prefecture": "山口県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "やまぐち鳴滝高原ブルワリー",
+      "location": "",
+      "prefecture": "山口県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "梅錦山川 （ 四国中央市 ）- 梅錦ビール",
+      "location": "",
+      "prefecture": "愛媛県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "水口酒造",
+      "location": "松山市",
+      "prefecture": "愛媛県",
+      "main_brands": "道後ビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "（株）レクザム （本社は 大阪市 中央区 ）/香川ブルワリー",
+      "location": "高松市",
+      "prefecture": "香川県",
+      "main_brands": "さぬきビール",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ライズ&ウィン ブリューイング",
+      "location": "KAMIKATZビール 上勝町",
+      "prefecture": "徳島県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "土佐黒潮麦酒",
+      "location": "",
+      "prefecture": "高知県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "オークラブラッスリー",
+      "location": "",
+      "prefecture": "福岡県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "杉能舎",
+      "location": "",
+      "prefecture": "福岡県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ブルーマスター",
+      "location": "",
+      "prefecture": "福岡県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "門司港地ビール",
+      "location": "",
+      "prefecture": "福岡県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "有田麦酒",
+      "location": "",
+      "prefecture": "佐賀県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "阿蘇ビール",
+      "location": "",
+      "prefecture": "熊本県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ゆふいんビール",
+      "location": "",
+      "prefecture": "大分県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "雲海酒造",
+      "location": "",
+      "prefecture": "宮崎県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "霧島ビール",
+      "location": "",
+      "prefecture": "宮崎県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ひでじビール",
+      "location": "",
+      "prefecture": "宮崎県",
+      "main_brands": "2009年に「太陽のラガー」が2つの国内コンテストで金賞、2017年に「栗黒」がワールド・ビア・アワード2017で世界最高賞を受賞している 。",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "霧島高原ビール",
+      "location": "",
+      "prefecture": "鹿児島県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "薩摩ビール",
+      "location": "",
+      "prefecture": "鹿児島県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "城山ブルワリー",
+      "location": "",
+      "prefecture": "鹿児島県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "石垣島ビール",
+      "location": "",
+      "prefecture": "沖縄県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "ヘリオスクラフトビール",
+      "location": "ヘリオス酒造",
+      "prefecture": "沖縄県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "現役",
+      "note": ""
+    },
+    {
+      "name": "タカラビール",
+      "location": "",
+      "prefecture": "",
+      "main_brands": "",
+      "category": "大手",
+      "status": "製造終了",
+      "note": "（ 京都府 京都市 / 1957年 - 1967年 / 宝酒造 ）"
+    },
+    {
+      "name": "ジョナサンビール",
+      "location": "",
+      "prefecture": "北海道",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 江差町 / 1998年 - 2002年 / 檜山麦酒工房株式会社）"
+    },
+    {
+      "name": "ビロングスビール",
+      "location": "",
+      "prefecture": "北海道",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 函館市 / 1997年 - 2003年 / 株式会社函館麦酒工房）"
+    },
+    {
+      "name": "北斗高原ビール",
+      "location": "",
+      "prefecture": "北海道",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 上川町 / - 2002年 / 株式会社森のくまさん）"
+    },
+    {
+      "name": "かみふらのびいる",
+      "location": "",
+      "prefecture": "北海道",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 上富良野町 / - 2007年 / 株式会社みやま観光物産）"
+    },
+    {
+      "name": "十勝麥酒",
+      "location": "",
+      "prefecture": "北海道",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 帯広市 / 1997年 - 2007年 / 十勝麥酒醸造株式会社）"
+    },
+    {
+      "name": "女満別地ビール",
+      "location": "",
+      "prefecture": "北海道",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 大空町 / 1998年 - 2003年 / 株式会社女満別地ビール）"
+    },
+    {
+      "name": "エリモビールカムイ",
+      "location": "",
+      "prefecture": "北海道",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（えりも町 / 日高ビール株式会社）"
+    },
+    {
+      "name": "室蘭ビール",
+      "location": "",
+      "prefecture": "北海道",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 室蘭市 / 1999年 - 2002年 / プロヴィデンス・ブルワリー株式会社）"
+    },
+    {
+      "name": "海鮮丸ビール",
+      "location": "",
+      "prefecture": "北海道",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 小樽市 / 1995年 - 2004年 / 海鮮丸ビール株式会社）"
+    },
+    {
+      "name": "SKYビール",
+      "location": "",
+      "prefecture": "北海道",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 滝川市 / 1997年 - 2005年 / 株式会社滝川グリーンズ）"
+    },
+    {
+      "name": "いわみざわ地ビール",
+      "location": "",
+      "prefecture": "北海道",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 岩見沢市 / 1997年 - 2000年 / ストレークビーレン株式会社）"
+    },
+    {
+      "name": "手作り発泡酒醸造所",
+      "location": "",
+      "prefecture": "北海道",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 札幌市 / - 2004年 / BOP）"
+    },
+    {
+      "name": "札幌地麦酒",
+      "location": "",
+      "prefecture": "北海道",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（札幌市 / 1998年 - 2002年 / 札幌国際観光株式会社）"
+    },
+    {
+      "name": "時計台ビール",
+      "location": "",
+      "prefecture": "北海道",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（札幌市 / 1999年 - / 時計台ビール株式会社）"
+    },
+    {
+      "name": "松島ビール",
+      "location": "",
+      "prefecture": "宮城県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 大郷町 / - 2023年 / サンケーヘルス株式会社）"
+    },
+    {
+      "name": "牛久シャトー ビール",
+      "location": "",
+      "prefecture": "茨城県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 牛久市 /1996 - 2018年/ 合同酒精（株） ）"
+    },
+    {
+      "name": "玉原恋清水",
+      "location": "",
+      "prefecture": "群馬県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 沼田市 / 1997年 - 2002年頃 / 沼田ふるさと振興株式会社） ネイチャーランド 沼田ドイツ村 ケイニッヒ・クロルト （閉園）にて提供。"
+    },
+    {
+      "name": "株式会社羽生の里 羽生ブルワリー",
+      "location": "",
+      "prefecture": "埼玉県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "(羽生市) - こぶし花ビール"
+    },
+    {
+      "name": "台場地麦酒",
+      "location": "",
+      "prefecture": "東京都",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 港区 お台場 ） デックス東京ビーチ で製造されていた地ビール。同施設内の飲食店だけで飲むことが出来た（ 2006年 3月末で製造終了）。"
+    },
+    {
+      "name": "風上麦酒製造",
+      "location": "",
+      "prefecture": "神奈川県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 川崎市 幸区 /2016 - 2018年）"
+    },
+    {
+      "name": "新潟燦地麦酒",
+      "location": "",
+      "prefecture": "新潟県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 新潟市 （現： 西区 ）） 白根市 （現同市 南区 ）の醸造タンクメーカーが、 道の駅新潟ふるさと村 敷地内の醸造所で醸造を行っていた。"
+    },
+    {
+      "name": "天神蔵麦酒",
+      "location": "",
+      "prefecture": "静岡県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 浜松市 （現： 中央区 ）/1998 - 2015年/ 浜松酒造 （株））"
+    },
+    {
+      "name": "秘峡黒部ビール",
+      "location": "",
+      "prefecture": "富山県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 黒部市 /1996 - 2015年/ 銀盤酒造 （株））"
+    },
+    {
+      "name": "信濃ブルワリー",
+      "location": "",
+      "prefecture": "長野県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 上水内郡 信濃町 ） - ドラゴンエール、2012年に麻原酒造（埼玉県入間郡越生町）に経営譲渡・移転。"
+    },
+    {
+      "name": "木曽路ビール",
+      "location": "",
+      "prefecture": "長野県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（南木曽町） - 2018年3月末を以て事業終了。醸造設備の処分や事業譲渡等については2019年2月時点で未定。"
+    },
+    {
+      "name": "ブラウハウス藤が丘",
+      "location": "",
+      "prefecture": "愛知県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 名古屋市 名東区 /1996 - 2002年/ （株）コーミ ）"
+    },
+    {
+      "name": "くまのビール",
+      "location": "",
+      "prefecture": "和歌山県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 新宮市 /2000 - 2011年/くまのビール（株））"
+    },
+    {
+      "name": "木の国野半ビール",
+      "location": "",
+      "prefecture": "和歌山県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 伊都郡 かつらぎ町 /1996 - 2012年/（株）野半の里）- 2012年破産"
+    },
+    {
+      "name": "バスビィ",
+      "location": "",
+      "prefecture": "京都府",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 宇治市 /1997 - 2002年/ 京阪宇治交サービス ） バス事業者（ 京阪宇治交通 。 京阪バス との合併により会社解散）の子会社が副業としてビアレストラン併設の観光施設で地ビールの製造を行い、話題となった。開始からわずか5年後の 2002年 で終了。"
+    },
+    {
+      "name": "北白川麦酒",
+      "location": "",
+      "prefecture": "京都府",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 京都市 左京区 //（株）リカーマウンテン）"
+    },
+    {
+      "name": "周山街道ビール",
+      "location": "",
+      "prefecture": "京都府",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（京都市左京区/ - 2015年/羽田酒造（有）） - 民事再生手続きのため事業撤退。"
+    },
+    {
+      "name": "丹後地ビール",
+      "location": "",
+      "prefecture": "京都府",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 京丹後市 /1998 - 2014年/（株）ファーム） - （株）丹後王国に事業譲渡、「丹後王国の地ビール」として復活。"
+    },
+    {
+      "name": "ブナの森から",
+      "location": "",
+      "prefecture": "鳥取県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 江府町 / / 江府町地域振興公社）"
+    },
+    {
+      "name": "東伯麦酒",
+      "location": "",
+      "prefecture": "鳥取県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 琴浦町 / / 東伯食品販売株式会社）"
+    },
+    {
+      "name": "夢みなとビール",
+      "location": "",
+      "prefecture": "鳥取県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 境港市 / -2007年 / 夢みなとビール株式会社〈旧社名：千代むすびアンド足統ビール株式会社〉）、鬼太郎ビールの銘柄は久米桜麦酒へ譲渡。"
+    },
+    {
+      "name": "出雲いりすの丘",
+      "location": "",
+      "prefecture": "島根県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 出雲市 / 2000-2008年 /（株）湯の川ファーム）"
+    },
+    {
+      "name": "出雲路ビール",
+      "location": "",
+      "prefecture": "島根県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（出雲市 / -2010年 / エキナン） 「出雲路ビール ヴァイツェン」は2006年 ワールド・ビア・カップ で銀賞を獲得している。"
+    },
+    {
+      "name": "呉ビール",
+      "location": "",
+      "prefecture": "広島県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 呉市 / 1995-2021年 /呉ビール株式会社）"
+    },
+    {
+      "name": "阿波うず潮ビール",
+      "location": "",
+      "prefecture": "徳島県",
+      "main_brands": "",
+      "category": "地ビール",
+      "status": "製造終了",
+      "note": "（ 徳島市 ） 1998年 製造開始。食品包装機メーカー 四国化工機 が製造・販売していた。2009年7月に製造・販売を終了 。"
+    }
+  ],
+  "meta": {
+    "title": "日本のビールメーカー・地ビール醸造所一覧 - Free Download",
+    "description": "日本の大手ビールメーカーと各都道府県の地ビール（クラフトビール）醸造所の一覧。所在地、主な銘柄、現役・製造終了の区分を記載。 Contains 498 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本のビールメーカー・地ビール醸造所一覧 | ListBase",
+    "seo_description": "Download 日本のビールメーカー・地ビール醸造所一覧 — 498 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 498 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/日本のビールメーカー一覧"
+    ]
+  }
+}

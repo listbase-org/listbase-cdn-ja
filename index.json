@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-15T02:19:02.240Z",
-  "total_datasets": 609,
-  "total_records": 465946,
+  "generated": "2026-11-16T02:21:07.981Z",
+  "total_datasets": 610,
+  "total_records": 466444,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "geography",
@@ -2078,6 +2078,34 @@
         "xlsx": {
           "name": "ja-b1-grandprix-kamei-dantai_JA.xlsx",
           "size": 12336
+        }
+      }
+    },
+    {
+      "id": "ja-biru-meka-ichiran",
+      "name": "日本のビールメーカー・地ビール醸造所一覧",
+      "category": "food",
+      "record_count": 498,
+      "columns": [
+        "name",
+        "location",
+        "prefecture",
+        "main_brands",
+        "category",
+        "status",
+        "note"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/日本のビールメーカー一覧",
+      "updated": "2026-11",
+      "size": 128816,
+      "files": {
+        "csv": {
+          "name": "ja-biru-meka-ichiran_JA.csv",
+          "size": 57049
+        },
+        "xlsx": {
+          "name": "ja-biru-meka-ichiran_JA.xlsx",
+          "size": 36372
         }
       }
     },
