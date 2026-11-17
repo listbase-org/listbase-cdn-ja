@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-17T02:32:21.285Z",
-  "total_datasets": 616,
-  "total_records": 466762,
+  "generated": "2026-11-17T02:32:34.469Z",
+  "total_datasets": 617,
+  "total_records": 466772,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "law",
@@ -7541,6 +7541,44 @@
         "xlsx": {
           "name": "ja-orai-hyogen-nijijukugo_JA.xlsx",
           "size": 12846
+        }
+      }
+    },
+    {
+      "id": "ja-romaji-hoshiki-hyoki-hikaku",
+      "name": "ローマ字表記方式の比較（ヘボン式・訓令式・日本式など）",
+      "category": "language",
+      "record_count": 10,
+      "columns": [
+        "hoshiki",
+        "kubun",
+        "kana_e",
+        "kana_shi",
+        "kana_chi",
+        "kana_tsu",
+        "kana_fu",
+        "kana_ji_shi",
+        "kana_zu_su",
+        "kana_ji_chi",
+        "kana_zu_tsu",
+        "kana_ou",
+        "kana_oo",
+        "kana_n_boin",
+        "kana_n_ba",
+        "kana_tchi",
+        "kana_wo_joshi"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/ローマ字",
+      "updated": "2026-11",
+      "size": 8122,
+      "files": {
+        "csv": {
+          "name": "ja-romaji-hoshiki-hyoki-hikaku_JA.csv",
+          "size": 1424
+        },
+        "xlsx": {
+          "name": "ja-romaji-hoshiki-hyoki-hikaku_JA.xlsx",
+          "size": 7873
         }
       }
     },

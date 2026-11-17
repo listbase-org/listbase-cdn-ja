@@ -1,0 +1,301 @@
+{
+  "id": "ja-romaji-hoshiki-hyoki-hikaku",
+  "name": "ローマ字表記方式の比較（ヘボン式・訓令式・日本式など）",
+  "title": "ローマ字表記方式の比較（ヘボン式・訓令式・日本式など）",
+  "description": "和英語林集成のヘボン式各版、旅券・駅名標・道路標識のヘボン式、修正ヘボン式、令和7年「ローマ字のつづり方」、訓令式、日本式について、し・ち・つ・ふ・じ・ず・ぢ・づ・長音（おう・おお）・撥音・促音・助詞「を」などの表記の違いを比較した一覧です。",
+  "category": "language",
+  "source": "https://ja.wikipedia.org/wiki/ローマ字",
+  "source_url": "https://ja.wikipedia.org/wiki/ローマ字",
+  "updated": "2026-11",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "hoshiki",
+      "label": "Hoshiki",
+      "type": "string"
+    },
+    {
+      "key": "kubun",
+      "label": "Kubun",
+      "type": "string"
+    },
+    {
+      "key": "kana_e",
+      "label": "Kana E",
+      "type": "string"
+    },
+    {
+      "key": "kana_shi",
+      "label": "Kana Shi",
+      "type": "string"
+    },
+    {
+      "key": "kana_chi",
+      "label": "Kana Chi",
+      "type": "string"
+    },
+    {
+      "key": "kana_tsu",
+      "label": "Kana Tsu",
+      "type": "string"
+    },
+    {
+      "key": "kana_fu",
+      "label": "Kana Fu",
+      "type": "string"
+    },
+    {
+      "key": "kana_ji_shi",
+      "label": "Kana Ji Shi",
+      "type": "string"
+    },
+    {
+      "key": "kana_zu_su",
+      "label": "Kana Zu Su",
+      "type": "string"
+    },
+    {
+      "key": "kana_ji_chi",
+      "label": "Kana Ji Chi",
+      "type": "string"
+    },
+    {
+      "key": "kana_zu_tsu",
+      "label": "Kana Zu Tsu",
+      "type": "string"
+    },
+    {
+      "key": "kana_ou",
+      "label": "Kana Ou",
+      "type": "string"
+    },
+    {
+      "key": "kana_oo",
+      "label": "Kana Oo",
+      "type": "string"
+    },
+    {
+      "key": "kana_n_boin",
+      "label": "Kana N Boin",
+      "type": "string"
+    },
+    {
+      "key": "kana_n_ba",
+      "label": "Kana N Ba",
+      "type": "string"
+    },
+    {
+      "key": "kana_tchi",
+      "label": "Kana Tchi",
+      "type": "string"
+    },
+    {
+      "key": "kana_wo_joshi",
+      "label": "Kana Wo Joshi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "hoshiki": "ヘボン式（和英語林集成）",
+      "kubun": "第1版",
+      "kana_e": "ye",
+      "kana_shi": "shi",
+      "kana_chi": "chi",
+      "kana_tsu": "tsz",
+      "kana_fu": "fu",
+      "kana_ji_shi": "ji",
+      "kana_zu_su": "du",
+      "kana_ji_chi": "ji",
+      "kana_zu_tsu": "du",
+      "kana_ou": "ō",
+      "kana_oo": "ō",
+      "kana_n_boin": "",
+      "kana_n_ba": "nba",
+      "kana_tchi": "tchi",
+      "kana_wo_joshi": "o"
+    },
+    {
+      "hoshiki": "ヘボン式（和英語林集成）",
+      "kubun": "第2版",
+      "kana_e": "ye",
+      "kana_shi": "shi",
+      "kana_chi": "chi",
+      "kana_tsu": "tsu",
+      "kana_fu": "fu",
+      "kana_ji_shi": "ji",
+      "kana_zu_su": "dzu",
+      "kana_ji_chi": "ji",
+      "kana_zu_tsu": "dzu",
+      "kana_ou": "ō",
+      "kana_oo": "ō",
+      "kana_n_boin": "",
+      "kana_n_ba": "mba",
+      "kana_tchi": "tchi",
+      "kana_wo_joshi": "o"
+    },
+    {
+      "hoshiki": "ヘボン式（和英語林集成）",
+      "kubun": "第3版",
+      "kana_e": "e",
+      "kana_shi": "shi",
+      "kana_chi": "chi",
+      "kana_tsu": "tsu",
+      "kana_fu": "fu",
+      "kana_ji_shi": "ji",
+      "kana_zu_su": "zu",
+      "kana_ji_chi": "ji",
+      "kana_zu_tsu": "zu",
+      "kana_ou": "ō",
+      "kana_oo": "ō",
+      "kana_n_boin": "",
+      "kana_n_ba": "mba",
+      "kana_tchi": "tchi",
+      "kana_wo_joshi": "o"
+    },
+    {
+      "hoshiki": "旧ヘボン式",
+      "kubun": "旅券法施行規則",
+      "kana_e": "e",
+      "kana_shi": "shi",
+      "kana_chi": "chi",
+      "kana_tsu": "tsu",
+      "kana_fu": "fu",
+      "kana_ji_shi": "ji",
+      "kana_zu_su": "zu",
+      "kana_ji_chi": "ji",
+      "kana_zu_tsu": "zu",
+      "kana_ou": "o",
+      "kana_oo": "o・oo・oh",
+      "kana_n_boin": "na",
+      "kana_n_ba": "mba",
+      "kana_tchi": "tchi",
+      "kana_wo_joshi": "o"
+    },
+    {
+      "hoshiki": "旧ヘボン式",
+      "kubun": "駅名標ヘボン式",
+      "kana_e": "e",
+      "kana_shi": "shi",
+      "kana_chi": "chi",
+      "kana_tsu": "tsu",
+      "kana_fu": "fu",
+      "kana_ji_shi": "ji",
+      "kana_zu_su": "zu",
+      "kana_ji_chi": "ji",
+      "kana_zu_tsu": "zu",
+      "kana_ou": "ō",
+      "kana_oo": "ō",
+      "kana_n_boin": "n-a",
+      "kana_n_ba": "mba",
+      "kana_tchi": "tchi",
+      "kana_wo_joshi": ""
+    },
+    {
+      "hoshiki": "修正ヘボン式",
+      "kubun": "英米規格",
+      "kana_e": "e",
+      "kana_shi": "shi",
+      "kana_chi": "chi",
+      "kana_tsu": "tsu",
+      "kana_fu": "fu",
+      "kana_ji_shi": "ji",
+      "kana_zu_su": "zu",
+      "kana_ji_chi": "ji",
+      "kana_zu_tsu": "zu",
+      "kana_ou": "ō",
+      "kana_oo": "ō",
+      "kana_n_boin": "n'a",
+      "kana_n_ba": "nba",
+      "kana_tchi": "tchi",
+      "kana_wo_joshi": "o"
+    },
+    {
+      "hoshiki": "修正ヘボン式",
+      "kubun": "道路標識ヘボン式",
+      "kana_e": "e",
+      "kana_shi": "shi",
+      "kana_chi": "chi",
+      "kana_tsu": "tsu",
+      "kana_fu": "fu",
+      "kana_ji_shi": "ji",
+      "kana_zu_su": "zu",
+      "kana_ji_chi": "ji",
+      "kana_zu_tsu": "zu",
+      "kana_ou": "o",
+      "kana_oo": "o",
+      "kana_n_boin": "n-a",
+      "kana_n_ba": "nba",
+      "kana_tchi": "tchi",
+      "kana_wo_joshi": ""
+    },
+    {
+      "hoshiki": "令和7年『ローマ字のつづり方』",
+      "kubun": "",
+      "kana_e": "e",
+      "kana_shi": "shi",
+      "kana_chi": "chi",
+      "kana_tsu": "tsu",
+      "kana_fu": "fu",
+      "kana_ji_shi": "ji",
+      "kana_zu_su": "zu",
+      "kana_ji_chi": "ji",
+      "kana_zu_tsu": "zu",
+      "kana_ou": "ō (ô) ou",
+      "kana_oo": "ō (ô) oo",
+      "kana_n_boin": "n’a",
+      "kana_n_ba": "nba",
+      "kana_tchi": "cchi",
+      "kana_wo_joshi": "o"
+    },
+    {
+      "hoshiki": "訓令式",
+      "kubun": "",
+      "kana_e": "e",
+      "kana_shi": "si",
+      "kana_chi": "ti",
+      "kana_tsu": "tu",
+      "kana_fu": "hu",
+      "kana_ji_shi": "zi",
+      "kana_zu_su": "zu",
+      "kana_ji_chi": "zi",
+      "kana_zu_tsu": "zu",
+      "kana_ou": "ô",
+      "kana_oo": "ô",
+      "kana_n_boin": "n'a",
+      "kana_n_ba": "nba",
+      "kana_tchi": "tti",
+      "kana_wo_joshi": "o"
+    },
+    {
+      "hoshiki": "日本式",
+      "kubun": "",
+      "kana_e": "e",
+      "kana_shi": "si",
+      "kana_chi": "ti",
+      "kana_tsu": "tu",
+      "kana_fu": "hu",
+      "kana_ji_shi": "zi",
+      "kana_zu_su": "zu",
+      "kana_ji_chi": "di",
+      "kana_zu_tsu": "du",
+      "kana_ou": "ô・ō・ou",
+      "kana_oo": "ô・ō・oo",
+      "kana_n_boin": "n'a",
+      "kana_n_ba": "nba",
+      "kana_tchi": "tti",
+      "kana_wo_joshi": "wo"
+    }
+  ],
+  "meta": {
+    "title": "ローマ字表記方式の比較（ヘボン式・訓令式・日本式など） - Free Download",
+    "description": "和英語林集成のヘボン式各版、旅券・駅名標・道路標識のヘボン式、修正ヘボン式、令和7年「ローマ字のつづり方」、訓令式、日本式について、し・ち・つ・ふ・じ・ず・ぢ・づ・長音（おう・おお）・撥音・促音・助詞「を」などの表記の違いを比較した一覧です。 Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "ローマ字表記方式の比較（ヘボン式・訓令式・日本式など） | ListBase",
+    "seo_description": "Download ローマ字表記方式の比較（ヘボン式・訓令式・日本式など） — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 17 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/ローマ字"
+    ]
+  }
+}
