@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-17T02:31:50.969Z",
-  "total_datasets": 614,
-  "total_records": 466735,
+  "generated": "2026-11-17T02:32:04.994Z",
+  "total_datasets": 615,
+  "total_records": 466752,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "finance",
@@ -1688,6 +1688,34 @@
         "xlsx": {
           "name": "ja-kankyo-horei_JA.xlsx",
           "size": 14570
+        }
+      }
+    },
+    {
+      "id": "ja-kishocho-keiho-chuiho-shurui",
+      "name": "気象庁の注意報・警報・危険警報・特別警報の種類（現象別）",
+      "category": "environment",
+      "record_count": 17,
+      "columns": [
+        "gensho",
+        "soki_chui_joho",
+        "chuiho",
+        "keiho",
+        "kiken_keiho",
+        "tokubetsu_keiho",
+        "keikai_level_taio"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/警報_(気象庁)",
+      "updated": "2026-11",
+      "size": 6826,
+      "files": {
+        "csv": {
+          "name": "ja-kishocho-keiho-chuiho-shurui_JA.csv",
+          "size": 1691
+        },
+        "xlsx": {
+          "name": "ja-kishocho-keiho-chuiho-shurui_JA.xlsx",
+          "size": 7664
         }
       }
     },

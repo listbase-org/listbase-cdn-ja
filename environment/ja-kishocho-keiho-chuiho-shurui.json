@@ -1,0 +1,214 @@
+{
+  "id": "ja-kishocho-keiho-chuiho-shurui",
+  "name": "気象庁の注意報・警報・危険警報・特別警報の種類（現象別）",
+  "title": "気象庁の注意報・警報・危険警報・特別警報の種類（現象別）",
+  "description": "大雨・土砂災害・河川氾濫・高潮・風・大雪・波浪・雷など現象ごとに、気象庁が発表する早期注意情報、注意報、警報、危険警報、特別警報の標題と、警戒レベル（レベル2〜5）との対応の有無をまとめた一覧です。",
+  "category": "environment",
+  "source": "https://ja.wikipedia.org/wiki/警報_(気象庁)",
+  "source_url": "https://ja.wikipedia.org/wiki/警報_(気象庁)",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "gensho",
+      "label": "Gensho",
+      "type": "string"
+    },
+    {
+      "key": "soki_chui_joho",
+      "label": "Soki Chui Joho",
+      "type": "string"
+    },
+    {
+      "key": "chuiho",
+      "label": "Chuiho",
+      "type": "string"
+    },
+    {
+      "key": "keiho",
+      "label": "Keiho",
+      "type": "string"
+    },
+    {
+      "key": "kiken_keiho",
+      "label": "Kiken Keiho",
+      "type": "string"
+    },
+    {
+      "key": "tokubetsu_keiho",
+      "label": "Tokubetsu Keiho",
+      "type": "string"
+    },
+    {
+      "key": "keikai_level_taio",
+      "label": "Keikai Level Taio",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "gensho": "大雨",
+      "soki_chui_joho": "あり",
+      "chuiho": "レベル2大雨注意報",
+      "keiho": "レベル3大雨警報",
+      "kiken_keiho": "レベル4大雨危険警報",
+      "tokubetsu_keiho": "レベル5大雨特別警報",
+      "keikai_level_taio": "あり"
+    },
+    {
+      "gensho": "土砂災害",
+      "soki_chui_joho": "あり",
+      "chuiho": "レベル2土砂災害注意報",
+      "keiho": "レベル3土砂災害警報",
+      "kiken_keiho": "レベル4土砂災害危険警報",
+      "tokubetsu_keiho": "レベル5土砂災害特別警報",
+      "keikai_level_taio": "あり"
+    },
+    {
+      "gensho": "河川氾濫",
+      "soki_chui_joho": "（なし）",
+      "chuiho": "レベル2氾濫注意報",
+      "keiho": "レベル3氾濫警報",
+      "kiken_keiho": "レベル4氾濫危険警報",
+      "tokubetsu_keiho": "レベル5氾濫特別警報",
+      "keikai_level_taio": "あり"
+    },
+    {
+      "gensho": "高潮",
+      "soki_chui_joho": "あり",
+      "chuiho": "レベル2高潮注意報",
+      "keiho": "レベル3高潮警報",
+      "kiken_keiho": "レベル4高潮危険警報",
+      "tokubetsu_keiho": "レベル5高潮特別警報",
+      "keikai_level_taio": "あり"
+    },
+    {
+      "gensho": "風",
+      "soki_chui_joho": "あり",
+      "chuiho": "強風注意報",
+      "keiho": "暴風警報",
+      "kiken_keiho": "なし",
+      "tokubetsu_keiho": "暴風特別警報",
+      "keikai_level_taio": "なし"
+    },
+    {
+      "gensho": "風雪",
+      "soki_chui_joho": "（なし）",
+      "chuiho": "風雪注意報",
+      "keiho": "暴風雪警報",
+      "kiken_keiho": "なし",
+      "tokubetsu_keiho": "暴風雪特別警報",
+      "keikai_level_taio": "なし"
+    },
+    {
+      "gensho": "大雪",
+      "soki_chui_joho": "あり",
+      "chuiho": "大雪注意報",
+      "keiho": "大雪警報",
+      "kiken_keiho": "なし",
+      "tokubetsu_keiho": "大雪特別警報",
+      "keikai_level_taio": "なし"
+    },
+    {
+      "gensho": "波浪",
+      "soki_chui_joho": "あり",
+      "chuiho": "波浪注意報",
+      "keiho": "波浪警報",
+      "kiken_keiho": "なし",
+      "tokubetsu_keiho": "波浪特別警報",
+      "keikai_level_taio": "なし"
+    },
+    {
+      "gensho": "雷",
+      "soki_chui_joho": "—",
+      "chuiho": "雷注意報",
+      "keiho": "なし",
+      "kiken_keiho": "なし",
+      "tokubetsu_keiho": "なし",
+      "keikai_level_taio": "なし"
+    },
+    {
+      "gensho": "融雪",
+      "soki_chui_joho": "—",
+      "chuiho": "融雪注意報",
+      "keiho": "なし",
+      "kiken_keiho": "なし",
+      "tokubetsu_keiho": "なし",
+      "keikai_level_taio": "なし"
+    },
+    {
+      "gensho": "濃霧",
+      "soki_chui_joho": "—",
+      "chuiho": "濃霧注意報",
+      "keiho": "なし",
+      "kiken_keiho": "なし",
+      "tokubetsu_keiho": "なし",
+      "keikai_level_taio": "なし"
+    },
+    {
+      "gensho": "乾燥",
+      "soki_chui_joho": "—",
+      "chuiho": "乾燥注意報",
+      "keiho": "なし",
+      "kiken_keiho": "なし",
+      "tokubetsu_keiho": "なし",
+      "keikai_level_taio": "なし"
+    },
+    {
+      "gensho": "なだれ",
+      "soki_chui_joho": "—",
+      "chuiho": "なだれ注意報",
+      "keiho": "なし",
+      "kiken_keiho": "なし",
+      "tokubetsu_keiho": "なし",
+      "keikai_level_taio": "なし"
+    },
+    {
+      "gensho": "低温",
+      "soki_chui_joho": "—",
+      "chuiho": "低温注意報",
+      "keiho": "なし",
+      "kiken_keiho": "なし",
+      "tokubetsu_keiho": "なし",
+      "keikai_level_taio": "なし"
+    },
+    {
+      "gensho": "霜",
+      "soki_chui_joho": "—",
+      "chuiho": "霜注意報",
+      "keiho": "なし",
+      "kiken_keiho": "なし",
+      "tokubetsu_keiho": "なし",
+      "keikai_level_taio": "なし"
+    },
+    {
+      "gensho": "着氷",
+      "soki_chui_joho": "—",
+      "chuiho": "着氷注意報",
+      "keiho": "なし",
+      "kiken_keiho": "なし",
+      "tokubetsu_keiho": "なし",
+      "keikai_level_taio": "なし"
+    },
+    {
+      "gensho": "着雪",
+      "soki_chui_joho": "—",
+      "chuiho": "着雪注意報",
+      "keiho": "なし",
+      "kiken_keiho": "なし",
+      "tokubetsu_keiho": "なし",
+      "keikai_level_taio": "なし"
+    }
+  ],
+  "meta": {
+    "title": "気象庁の注意報・警報・危険警報・特別警報の種類（現象別） - Free Download",
+    "description": "大雨・土砂災害・河川氾濫・高潮・風・大雪・波浪・雷など現象ごとに、気象庁が発表する早期注意情報、注意報、警報、危険警報、特別警報の標題と、警戒レベル（レベル2〜5）との対応の有無をまとめた一覧です。 Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "気象庁の注意報・警報・危険警報・特別警報の種類（現象別） | ListBase",
+    "seo_description": "Download 気象庁の注意報・警報・危険警報・特別警報の種類（現象別） — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/警報_(気象庁)"
+    ]
+  }
+}
