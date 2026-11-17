@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-16T02:21:44.114Z",
-  "total_datasets": 613,
-  "total_records": 466722,
+  "generated": "2026-11-17T02:31:50.969Z",
+  "total_datasets": 614,
+  "total_records": 466735,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 9
+      "dataset_count": 10
     }
   ],
   "datasets": [
@@ -19180,6 +19180,34 @@
         "xlsx": {
           "name": "ja-yamanashi-unlocode_JA.xlsx",
           "size": 8849
+        }
+      }
+    },
+    {
+      "id": "ja-beaufort-furyoku-kaikyu",
+      "name": "ビューフォート風力階級（風力0〜12）",
+      "category": "units",
+      "record_count": 13,
+      "columns": [
+        "furyoku",
+        "meisho",
+        "meisho_eigo",
+        "fusoku_ms",
+        "fusoku_knot",
+        "rikujo_no_yosu",
+        "kaijo_no_yosu"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/ビューフォート風力階級",
+      "updated": "2026-11",
+      "size": 6986,
+      "files": {
+        "csv": {
+          "name": "ja-beaufort-furyoku-kaikyu_JA.csv",
+          "size": 2844
+        },
+        "xlsx": {
+          "name": "ja-beaufort-furyoku-kaikyu_JA.xlsx",
+          "size": 8491
         }
       }
     },

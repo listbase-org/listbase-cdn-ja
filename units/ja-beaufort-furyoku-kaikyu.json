@@ -1,0 +1,178 @@
+{
+  "id": "ja-beaufort-furyoku-kaikyu",
+  "name": "ビューフォート風力階級（風力0〜12）",
+  "title": "ビューフォート風力階級（風力0〜12）",
+  "description": "風力0（平穏・静穏）から風力12（颶風）までのビューフォート風力階級について、日本語の名称、相当風速（m/s・ノット）、陸上と海上の様子をまとめた一覧です。",
+  "category": "units",
+  "source": "https://ja.wikipedia.org/wiki/ビューフォート風力階級",
+  "source_url": "https://ja.wikipedia.org/wiki/ビューフォート風力階級",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "furyoku",
+      "label": "Furyoku",
+      "type": "number"
+    },
+    {
+      "key": "meisho",
+      "label": "Meisho",
+      "type": "string"
+    },
+    {
+      "key": "meisho_eigo",
+      "label": "Meisho Eigo",
+      "type": "string"
+    },
+    {
+      "key": "fusoku_ms",
+      "label": "Fusoku Ms",
+      "type": "string"
+    },
+    {
+      "key": "fusoku_knot",
+      "label": "Fusoku Knot",
+      "type": "number"
+    },
+    {
+      "key": "rikujo_no_yosu",
+      "label": "Rikujo No Yosu",
+      "type": "string"
+    },
+    {
+      "key": "kaijo_no_yosu",
+      "label": "Kaijo No Yosu",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "furyoku": 0,
+      "meisho": "平穏（へいおん）・静穏（せいおん）",
+      "meisho_eigo": "Calm",
+      "fusoku_ms": "0〜0.2",
+      "fusoku_knot": "0",
+      "rikujo_no_yosu": "煙はまっすぐ昇る。",
+      "kaijo_no_yosu": "水面は鏡のように穏やか。"
+    },
+    {
+      "furyoku": 1,
+      "meisho": "至軽風（しけいふう）",
+      "meisho_eigo": "Light air",
+      "fusoku_ms": "0.3〜1.5",
+      "fusoku_knot": "1〜3",
+      "rikujo_no_yosu": "煙は風向きが分かる程度にたなびく。",
+      "kaijo_no_yosu": "うろこのようなさざ波が立つ。"
+    },
+    {
+      "furyoku": 2,
+      "meisho": "軽風（けいふう）",
+      "meisho_eigo": "Light breeze",
+      "fusoku_ms": "1.6〜3.3",
+      "fusoku_knot": "4〜6",
+      "rikujo_no_yosu": "顔に風を感じる。木の葉が揺れる。",
+      "kaijo_no_yosu": "はっきりしたさざ波が立つ。"
+    },
+    {
+      "furyoku": 3,
+      "meisho": "軟風（なんぷう）",
+      "meisho_eigo": "Gentle breeze",
+      "fusoku_ms": "3.4〜5.4",
+      "fusoku_knot": "7〜10",
+      "rikujo_no_yosu": "木の葉や小枝が揺れる。",
+      "kaijo_no_yosu": "波頭が砕ける。白波が現れ始める。"
+    },
+    {
+      "furyoku": 4,
+      "meisho": "和風（わふう）",
+      "meisho_eigo": "Moderate breeze",
+      "fusoku_ms": "5.5〜7.9",
+      "fusoku_knot": "11〜16",
+      "rikujo_no_yosu": "砂埃が立ったり、小さなゴミや落ち葉が宙に舞ったりする。",
+      "kaijo_no_yosu": "小さな波が立つ。白波が増える。"
+    },
+    {
+      "furyoku": 5,
+      "meisho": "疾風（しっぷう）",
+      "meisho_eigo": "Fresh breeze",
+      "fusoku_ms": "8.0〜10.7",
+      "fusoku_knot": "17〜21",
+      "rikujo_no_yosu": "葉のある灌木が揺れ始める。",
+      "kaijo_no_yosu": "水面に波頭が立つ 。"
+    },
+    {
+      "furyoku": 6,
+      "meisho": "雄風（ゆうふう）",
+      "meisho_eigo": "Strong breeze",
+      "fusoku_ms": "10.8〜13.8",
+      "fusoku_knot": "22〜27",
+      "rikujo_no_yosu": "木の大枝が揺れ、傘がさしにくくなる。電線が唸る。",
+      "kaijo_no_yosu": "白く泡立った波頭が広がる。"
+    },
+    {
+      "furyoku": 7,
+      "meisho": "強風（きょうふう）",
+      "meisho_eigo": "High wind / Moderate gale / Near gale",
+      "fusoku_ms": "13.9〜17.1",
+      "fusoku_knot": "28〜33",
+      "rikujo_no_yosu": "大きな木の全体が揺れ、風に向かって歩きにくい。",
+      "kaijo_no_yosu": "波頭が砕けて白い泡が風に吹き流される。"
+    },
+    {
+      "furyoku": 8,
+      "meisho": "疾強風（しっきょうふう）",
+      "meisho_eigo": "Gale / Fresh gale",
+      "fusoku_ms": "17.2〜20.7",
+      "fusoku_knot": "34〜40",
+      "rikujo_no_yosu": "小枝が折れる。風に向かって歩けない。",
+      "kaijo_no_yosu": "大波のやや小さいもの。波頭が砕けて水煙となり、泡は筋を引いて吹き流される。"
+    },
+    {
+      "furyoku": 9,
+      "meisho": "大強風（だいきょうふう）",
+      "meisho_eigo": "Strong gale",
+      "fusoku_ms": "20.8〜24.4",
+      "fusoku_knot": "41〜47",
+      "rikujo_no_yosu": "屋根瓦が飛ぶ。人家に被害が出始める。",
+      "kaijo_no_yosu": "大波。泡が筋を引く。波頭が崩れて逆巻き始める。"
+    },
+    {
+      "furyoku": 10,
+      "meisho": "全強風（ぜんきょうふう）・暴風（ぼうふう）",
+      "meisho_eigo": "Storm / Whole gale",
+      "fusoku_ms": "24.5〜28.4",
+      "fusoku_knot": "48〜55",
+      "rikujo_no_yosu": "内陸部では稀。根こそぎ倒される木が出始める。人家に大きな被害が起こる。",
+      "kaijo_no_yosu": "のしかかるような大波。白い泡が筋を引いて海面は白く見え、波は激しく崩れて視界が悪くなる。"
+    },
+    {
+      "furyoku": 11,
+      "meisho": "暴風（ぼうふう）・烈風（れっぷう）",
+      "meisho_eigo": "Violent storm",
+      "fusoku_ms": "28.5〜32.6",
+      "fusoku_knot": "56〜63",
+      "rikujo_no_yosu": "めったに起こらない。広い範囲の被害を伴う。",
+      "kaijo_no_yosu": "山のような大波。海面は白い泡ですっかり覆われる。波頭は風に吹き飛ばされて水煙となり、視界は悪くなる。"
+    },
+    {
+      "furyoku": 12,
+      "meisho": "颶風（ぐふう）",
+      "meisho_eigo": "Hurricane",
+      "fusoku_ms": "32.7以上",
+      "fusoku_knot": "64以上",
+      "rikujo_no_yosu": "被害がさらに甚大になる。",
+      "kaijo_no_yosu": "大気は泡としぶきに満たされ、海面は完全に白くなる。視界は非常に悪くなる。"
+    }
+  ],
+  "meta": {
+    "title": "ビューフォート風力階級（風力0〜12） - Free Download",
+    "description": "風力0（平穏・静穏）から風力12（颶風）までのビューフォート風力階級について、日本語の名称、相当風速（m/s・ノット）、陸上と海上の様子をまとめた一覧です。 Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "ビューフォート風力階級（風力0〜12） | ListBase",
+    "seo_description": "Download ビューフォート風力階級（風力0〜12） — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/ビューフォート風力階級"
+    ]
+  }
+}
