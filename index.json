@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-18T02:26:41.730Z",
-  "total_datasets": 620,
-  "total_records": 466898,
+  "generated": "2026-11-18T02:26:56.268Z",
+  "total_datasets": 621,
+  "total_records": 466972,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "time",
@@ -16446,6 +16446,32 @@
         "xlsx": {
           "name": "ja-rekidai-dejitaru-daijin_JA.xlsx",
           "size": 7312
+        }
+      }
+    },
+    {
+      "id": "ja-rekidai-yusei-daijin",
+      "name": "歴代郵政大臣一覧（1949年〜2001年）",
+      "category": "tech",
+      "record_count": 74,
+      "columns": [
+        "dai",
+        "shimei",
+        "naikaku",
+        "shuninbi",
+        "biko"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/郵政大臣",
+      "updated": "2026-11",
+      "size": 15488,
+      "files": {
+        "csv": {
+          "name": "ja-rekidai-yusei-daijin_JA.csv",
+          "size": 6772
+        },
+        "xlsx": {
+          "name": "ja-rekidai-yusei-daijin_JA.xlsx",
+          "size": 10433
         }
       }
     },

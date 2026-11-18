@@ -1,0 +1,569 @@
+{
+  "id": "ja-rekidai-yusei-daijin",
+  "name": "歴代郵政大臣一覧（1949年〜2001年）",
+  "title": "歴代郵政大臣一覧（1949年〜2001年）",
+  "description": "1949年の郵政省設置から2001年の中央省庁再編までの歴代郵政大臣の一覧。代数、氏名、内閣、就任日、備考を収録。",
+  "category": "tech",
+  "source": "https://ja.wikipedia.org/wiki/郵政大臣",
+  "source_url": "https://ja.wikipedia.org/wiki/郵政大臣",
+  "updated": "2026-11",
+  "record_count": 74,
+  "columns": [
+    {
+      "key": "dai",
+      "label": "Dai",
+      "type": "number"
+    },
+    {
+      "key": "shimei",
+      "label": "Shimei",
+      "type": "string"
+    },
+    {
+      "key": "naikaku",
+      "label": "Naikaku",
+      "type": "string"
+    },
+    {
+      "key": "shuninbi",
+      "label": "Shuninbi",
+      "type": "string"
+    },
+    {
+      "key": "biko",
+      "label": "Biko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "dai": "1",
+      "shimei": "小沢佐重喜",
+      "naikaku": "第3次吉田内閣",
+      "shuninbi": "1949年（昭和24年）6月1日",
+      "biko": "電気通信大臣 を兼務"
+    },
+    {
+      "dai": "2",
+      "shimei": "田村文吉",
+      "naikaku": "第3次吉田第1次改造内閣",
+      "shuninbi": "1950年（昭和25年）6月28日",
+      "biko": "電気通信大臣を兼務"
+    },
+    {
+      "dai": "3",
+      "shimei": "佐藤栄作",
+      "naikaku": "第3次吉田第2次改造内閣",
+      "shuninbi": "1951年（昭和26年）7月4日",
+      "biko": "電気通信大臣を兼務 〜1952年（昭和27年）8月1日まで"
+    },
+    {
+      "dai": "3",
+      "shimei": "佐藤栄作",
+      "naikaku": "第3次吉田第3次改造内閣",
+      "shuninbi": "1951年（昭和26年）7月4日",
+      "biko": "電気通信大臣を兼務 〜1952年（昭和27年）8月1日まで"
+    },
+    {
+      "dai": "4",
+      "shimei": "高瀬荘太郎",
+      "naikaku": "第4次吉田内閣",
+      "shuninbi": "1952年（昭和27年）10月30日",
+      "biko": ""
+    },
+    {
+      "dai": "5",
+      "shimei": "塚田十一郎",
+      "naikaku": "第5次吉田内閣",
+      "shuninbi": "1953年（昭和28年）5月21日",
+      "biko": "行政管理庁長官、自治庁長官を兼務"
+    },
+    {
+      "dai": "6",
+      "shimei": "武知勇記",
+      "naikaku": "第1次鳩山一郎内閣",
+      "shuninbi": "1954年（昭和29年）12月10日",
+      "biko": ""
+    },
+    {
+      "dai": "7",
+      "shimei": "松田竹千代",
+      "naikaku": "第2次鳩山一郎内閣",
+      "shuninbi": "1955年（昭和30年）3月19日",
+      "biko": ""
+    },
+    {
+      "dai": "8",
+      "shimei": "村上勇",
+      "naikaku": "第3次鳩山一郎内閣",
+      "shuninbi": "1955年（昭和30年）11月22日",
+      "biko": ""
+    },
+    {
+      "dai": "–",
+      "shimei": "石橋湛山",
+      "naikaku": "石橋内閣",
+      "shuninbi": "1956年（昭和31年）12月23日",
+      "biko": "内閣総理大臣による臨時代理"
+    },
+    {
+      "dai": "9",
+      "shimei": "石橋湛山",
+      "naikaku": "石橋内閣",
+      "shuninbi": "1956年（昭和31年）12月23日",
+      "biko": "内閣総理大臣による兼務"
+    },
+    {
+      "dai": "10",
+      "shimei": "平井太郎",
+      "naikaku": "石橋内閣",
+      "shuninbi": "1956年（昭和31年）12月27日",
+      "biko": ""
+    },
+    {
+      "dai": "11",
+      "shimei": "平井太郎",
+      "naikaku": "第1次岸内閣",
+      "shuninbi": "1957年（昭和32年）2月25日",
+      "biko": ""
+    },
+    {
+      "dai": "12",
+      "shimei": "田中角栄",
+      "naikaku": "第1次岸改造内閣",
+      "shuninbi": "1957年（昭和32年）7月10日",
+      "biko": ""
+    },
+    {
+      "dai": "13",
+      "shimei": "寺尾豊",
+      "naikaku": "第2次岸内閣",
+      "shuninbi": "1958年（昭和33年）6月12日",
+      "biko": ""
+    },
+    {
+      "dai": "14",
+      "shimei": "植竹春彦",
+      "naikaku": "第2次岸改造内閣",
+      "shuninbi": "1959年（昭和34年）6月18日",
+      "biko": ""
+    },
+    {
+      "dai": "15",
+      "shimei": "鈴木善幸",
+      "naikaku": "第1次池田内閣",
+      "shuninbi": "1960年（昭和35年）7月19日",
+      "biko": ""
+    },
+    {
+      "dai": "16",
+      "shimei": "小金義照",
+      "naikaku": "第2次池田内閣",
+      "shuninbi": "1960年（昭和35年）12月8日",
+      "biko": ""
+    },
+    {
+      "dai": "17",
+      "shimei": "迫水久常",
+      "naikaku": "第2次池田第1次改造内閣",
+      "shuninbi": "1961年（昭和36年）7月18日",
+      "biko": ""
+    },
+    {
+      "dai": "18",
+      "shimei": "手島栄",
+      "naikaku": "第2次池田第2次改造内閣",
+      "shuninbi": "1962年（昭和37年）7月18日",
+      "biko": ""
+    },
+    {
+      "dai": "19",
+      "shimei": "小沢久太郎",
+      "naikaku": "第2次池田第2次改造内閣",
+      "shuninbi": "1963年（昭和38年）1月8日",
+      "biko": ""
+    },
+    {
+      "dai": "20",
+      "shimei": "古池信三",
+      "naikaku": "第2次池田第3次改造内閣",
+      "shuninbi": "1963年（昭和38年）7月18日",
+      "biko": ""
+    },
+    {
+      "dai": "21",
+      "shimei": "古池信三",
+      "naikaku": "第3次池田内閣",
+      "shuninbi": "1963年（昭和38年）12月9日",
+      "biko": ""
+    },
+    {
+      "dai": "22",
+      "shimei": "徳安実蔵",
+      "naikaku": "第3次池田改造内閣",
+      "shuninbi": "1964年（昭和39年）7月18日",
+      "biko": ""
+    },
+    {
+      "dai": "23",
+      "shimei": "徳安実蔵",
+      "naikaku": "第1次佐藤内閣",
+      "shuninbi": "1964年（昭和39年）11月9日",
+      "biko": ""
+    },
+    {
+      "dai": "24",
+      "shimei": "郡祐一",
+      "naikaku": "第1次佐藤第1次改造内閣",
+      "shuninbi": "1965年（昭和40年）6月3日",
+      "biko": ""
+    },
+    {
+      "dai": "25",
+      "shimei": "新谷寅三郎",
+      "naikaku": "第1次佐藤第2次改造内閣",
+      "shuninbi": "1966年（昭和41年）8月1日",
+      "biko": ""
+    },
+    {
+      "dai": "26",
+      "shimei": "小林武治",
+      "naikaku": "第1次佐藤第3次改造内閣",
+      "shuninbi": "1966年（昭和41年）12月3日",
+      "biko": ""
+    },
+    {
+      "dai": "27",
+      "shimei": "小林武治",
+      "naikaku": "第2次佐藤内閣",
+      "shuninbi": "1967年（昭和42年）2月17日",
+      "biko": ""
+    },
+    {
+      "dai": "27",
+      "shimei": "小林武治",
+      "naikaku": "第2次佐藤第1次改造内閣",
+      "shuninbi": "1967年（昭和42年）2月17日",
+      "biko": ""
+    },
+    {
+      "dai": "28",
+      "shimei": "河本敏夫",
+      "naikaku": "第2次佐藤第2次改造内閣",
+      "shuninbi": "1968年（昭和43年）11月30日",
+      "biko": ""
+    },
+    {
+      "dai": "29",
+      "shimei": "井出一太郎",
+      "naikaku": "第3次佐藤内閣",
+      "shuninbi": "1970年（昭和45年）1月14日",
+      "biko": ""
+    },
+    {
+      "dai": "30",
+      "shimei": "広瀬正雄",
+      "naikaku": "第3次佐藤改造内閣",
+      "shuninbi": "1971年（昭和46年）7月5日",
+      "biko": ""
+    },
+    {
+      "dai": "–",
+      "shimei": "田中角栄",
+      "naikaku": "第1次田中角栄内閣",
+      "shuninbi": "1972年（昭和47年）7月7日",
+      "biko": "内閣総理大臣による臨時代理"
+    },
+    {
+      "dai": "31",
+      "shimei": "三池信",
+      "naikaku": "第1次田中角栄内閣",
+      "shuninbi": "1972年（昭和47年）7月12日",
+      "biko": ""
+    },
+    {
+      "dai": "32",
+      "shimei": "久野忠治",
+      "naikaku": "第2次田中角栄内閣",
+      "shuninbi": "1972年（昭和47年）12月22日",
+      "biko": ""
+    },
+    {
+      "dai": "33",
+      "shimei": "原田憲",
+      "naikaku": "第2次田中角栄第1次改造内閣",
+      "shuninbi": "1973年（昭和48年）11月25日",
+      "biko": ""
+    },
+    {
+      "dai": "34",
+      "shimei": "鹿島俊雄",
+      "naikaku": "第2次田中角栄第2次改造内閣",
+      "shuninbi": "1974年（昭和49年）11月11日",
+      "biko": ""
+    },
+    {
+      "dai": "35",
+      "shimei": "村上勇",
+      "naikaku": "三木内閣",
+      "shuninbi": "1974年（昭和49年）12月9日",
+      "biko": ""
+    },
+    {
+      "dai": "36",
+      "shimei": "福田篤泰",
+      "naikaku": "三木改造内閣",
+      "shuninbi": "1976年（昭和51年）9月15日",
+      "biko": ""
+    },
+    {
+      "dai": "37",
+      "shimei": "小宮山重四郎",
+      "naikaku": "福田赳夫内閣",
+      "shuninbi": "1976年（昭和51年）12月14日",
+      "biko": ""
+    },
+    {
+      "dai": "38",
+      "shimei": "服部安司",
+      "naikaku": "福田赳夫改造内閣",
+      "shuninbi": "1977年（昭和52年）11月28日",
+      "biko": ""
+    },
+    {
+      "dai": "39",
+      "shimei": "白浜仁吉",
+      "naikaku": "第1次大平内閣",
+      "shuninbi": "1978年（昭和53年）12月7日",
+      "biko": ""
+    },
+    {
+      "dai": "40",
+      "shimei": "大西正男",
+      "naikaku": "第2次大平内閣",
+      "shuninbi": "1979年（昭和54年）11月9日",
+      "biko": ""
+    },
+    {
+      "dai": "41",
+      "shimei": "山内一郎",
+      "naikaku": "鈴木善幸内閣",
+      "shuninbi": "1980年（昭和55年）7月17日",
+      "biko": ""
+    },
+    {
+      "dai": "42",
+      "shimei": "箕輪登",
+      "naikaku": "鈴木善幸改造内閣",
+      "shuninbi": "1981年（昭和56年）11月30日",
+      "biko": ""
+    },
+    {
+      "dai": "43",
+      "shimei": "檜垣徳太郎",
+      "naikaku": "第1次中曽根内閣",
+      "shuninbi": "1982年（昭和57年）11月27日",
+      "biko": ""
+    },
+    {
+      "dai": "44",
+      "shimei": "奥田敬和",
+      "naikaku": "第2次中曽根内閣",
+      "shuninbi": "1983年（昭和58年）12月27日",
+      "biko": ""
+    },
+    {
+      "dai": "45",
+      "shimei": "左藤恵",
+      "naikaku": "第2次中曽根第1次改造内閣",
+      "shuninbi": "1984年（昭和59年）11月1日",
+      "biko": ""
+    },
+    {
+      "dai": "46",
+      "shimei": "佐藤文生",
+      "naikaku": "第2次中曽根第2次改造内閣",
+      "shuninbi": "1985年（昭和60年）12月28日",
+      "biko": ""
+    },
+    {
+      "dai": "47",
+      "shimei": "唐沢俊二郎",
+      "naikaku": "第3次中曽根内閣",
+      "shuninbi": "1986年（昭和61年）7月22日",
+      "biko": ""
+    },
+    {
+      "dai": "48",
+      "shimei": "中山正暉",
+      "naikaku": "竹下内閣",
+      "shuninbi": "1987年（昭和62年）11月6日",
+      "biko": ""
+    },
+    {
+      "dai": "49",
+      "shimei": "片岡清一",
+      "naikaku": "竹下改造内閣",
+      "shuninbi": "1988年（昭和63年）12月27日",
+      "biko": ""
+    },
+    {
+      "dai": "50",
+      "shimei": "村岡兼造",
+      "naikaku": "宇野内閣",
+      "shuninbi": "1989年（平成元年）6月3日",
+      "biko": ""
+    },
+    {
+      "dai": "51",
+      "shimei": "大石千八",
+      "naikaku": "第1次海部内閣",
+      "shuninbi": "1989年（平成元年）8月10日",
+      "biko": ""
+    },
+    {
+      "dai": "52",
+      "shimei": "深谷隆司",
+      "naikaku": "第2次海部内閣",
+      "shuninbi": "1990年（平成2年）2月28日",
+      "biko": ""
+    },
+    {
+      "dai": "53",
+      "shimei": "関谷勝嗣",
+      "naikaku": "第2次海部改造内閣",
+      "shuninbi": "1990年（平成2年）12月29日",
+      "biko": ""
+    },
+    {
+      "dai": "54",
+      "shimei": "渡辺秀央",
+      "naikaku": "宮澤内閣",
+      "shuninbi": "1991年（平成3年）11月5日",
+      "biko": ""
+    },
+    {
+      "dai": "55",
+      "shimei": "小泉純一郎",
+      "naikaku": "宮澤改造内閣",
+      "shuninbi": "1992年（平成4年）12月12日",
+      "biko": ""
+    },
+    {
+      "dai": "56",
+      "shimei": "宮澤喜一",
+      "naikaku": "宮澤改造内閣",
+      "shuninbi": "1993年（平成5年）7月20日",
+      "biko": "内閣総理大臣による兼務"
+    },
+    {
+      "dai": "57",
+      "shimei": "神崎武法",
+      "naikaku": "細川内閣",
+      "shuninbi": "1993年（平成5年）8月9日",
+      "biko": ""
+    },
+    {
+      "dai": "–",
+      "shimei": "羽田孜",
+      "naikaku": "羽田内閣",
+      "shuninbi": "1994年（平成6年）4月28日",
+      "biko": "内閣総理大臣による臨時代理"
+    },
+    {
+      "dai": "58",
+      "shimei": "日笠勝之",
+      "naikaku": "羽田内閣",
+      "shuninbi": "1994年（平成6年）4月28日",
+      "biko": ""
+    },
+    {
+      "dai": "59",
+      "shimei": "大出俊",
+      "naikaku": "村山内閣",
+      "shuninbi": "1994年（平成6年）6月30日",
+      "biko": ""
+    },
+    {
+      "dai": "60",
+      "shimei": "井上一成",
+      "naikaku": "村山改造内閣",
+      "shuninbi": "1995年（平成7年）8月8日",
+      "biko": ""
+    },
+    {
+      "dai": "61",
+      "shimei": "日野市朗",
+      "naikaku": "第1次橋本内閣",
+      "shuninbi": "1996年（平成8年）1月11日",
+      "biko": ""
+    },
+    {
+      "dai": "62",
+      "shimei": "堀之内久男",
+      "naikaku": "第2次橋本内閣",
+      "shuninbi": "1996年（平成8年）11月7日",
+      "biko": ""
+    },
+    {
+      "dai": "63",
+      "shimei": "自見庄三郎",
+      "naikaku": "第2次橋本改造内閣",
+      "shuninbi": "1997年（平成9年）9月11日",
+      "biko": ""
+    },
+    {
+      "dai": "64",
+      "shimei": "野田聖子",
+      "naikaku": "小渕内閣",
+      "shuninbi": "1998年（平成10年）7月30日",
+      "biko": ""
+    },
+    {
+      "dai": "64",
+      "shimei": "野田聖子",
+      "naikaku": "小渕第1次改造内閣",
+      "shuninbi": "1998年（平成10年）7月30日",
+      "biko": ""
+    },
+    {
+      "dai": "65",
+      "shimei": "前島英三郎 （八代英太）",
+      "naikaku": "小渕第2次改造内閣",
+      "shuninbi": "1999年（平成11年）10月5日",
+      "biko": ""
+    },
+    {
+      "dai": "66",
+      "shimei": "前島英三郎 （八代英太）",
+      "naikaku": "第1次森内閣",
+      "shuninbi": "2000年（平成12年）4月5日",
+      "biko": ""
+    },
+    {
+      "dai": "67",
+      "shimei": "平林鴻三",
+      "naikaku": "第2次森内閣",
+      "shuninbi": "2000年（平成12年）7月4日",
+      "biko": ""
+    },
+    {
+      "dai": "68",
+      "shimei": "片山虎之助",
+      "naikaku": "第2次森改造内閣",
+      "shuninbi": "2000年（平成12年）12月5日",
+      "biko": "自治大臣 、 総務庁長官 を兼務"
+    }
+  ],
+  "meta": {
+    "title": "歴代郵政大臣一覧（1949年〜2001年） - Free Download",
+    "description": "1949年の郵政省設置から2001年の中央省庁再編までの歴代郵政大臣の一覧。代数、氏名、内閣、就任日、備考を収録。 Contains 74 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "歴代郵政大臣一覧（1949年〜2001年） | ListBase",
+    "seo_description": "Download 歴代郵政大臣一覧（1949年〜2001年） — 74 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 74 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/郵政大臣"
+    ]
+  }
+}
