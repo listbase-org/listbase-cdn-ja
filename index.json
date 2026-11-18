@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-17T02:32:34.469Z",
-  "total_datasets": 617,
-  "total_records": 466772,
+  "generated": "2026-11-18T02:26:13.651Z",
+  "total_datasets": 618,
+  "total_records": 466782,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "time",
@@ -16362,6 +16362,33 @@
         "xlsx": {
           "name": "ja-nintendo-hardware-nenpyo_JA.xlsx",
           "size": 7606
+        }
+      }
+    },
+    {
+      "id": "ja-rekidai-dejitaru-daijin",
+      "name": "歴代デジタル大臣一覧",
+      "category": "tech",
+      "record_count": 10,
+      "columns": [
+        "dai",
+        "shimei",
+        "naikaku",
+        "shuninbi",
+        "taininbi",
+        "biko"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/デジタル大臣",
+      "updated": "2026-11",
+      "size": 3719,
+      "files": {
+        "csv": {
+          "name": "ja-rekidai-dejitaru-daijin_JA.csv",
+          "size": 882
+        },
+        "xlsx": {
+          "name": "ja-rekidai-dejitaru-daijin_JA.xlsx",
+          "size": 7312
         }
       }
     },

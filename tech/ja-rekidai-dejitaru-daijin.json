@@ -1,0 +1,136 @@
+{
+  "id": "ja-rekidai-dejitaru-daijin",
+  "name": "歴代デジタル大臣一覧",
+  "title": "歴代デジタル大臣一覧",
+  "description": "2021年のデジタル庁発足以降の歴代デジタル大臣の一覧。代数、氏名、内閣、就任日、退任日、党派、備考を収録。",
+  "category": "tech",
+  "source": "https://ja.wikipedia.org/wiki/デジタル大臣",
+  "source_url": "https://ja.wikipedia.org/wiki/デジタル大臣",
+  "updated": "2026-11",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "dai",
+      "label": "Dai",
+      "type": "number"
+    },
+    {
+      "key": "shimei",
+      "label": "Shimei",
+      "type": "string"
+    },
+    {
+      "key": "naikaku",
+      "label": "Naikaku",
+      "type": "string"
+    },
+    {
+      "key": "shuninbi",
+      "label": "Shuninbi",
+      "type": "string"
+    },
+    {
+      "key": "taininbi",
+      "label": "Taininbi",
+      "type": "string"
+    },
+    {
+      "key": "biko",
+      "label": "Biko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "dai": "1",
+      "shimei": "平井卓也",
+      "naikaku": "菅義偉内閣",
+      "shuninbi": "2021年9月1日",
+      "taininbi": "2021年10月4日",
+      "biko": "横滑り"
+    },
+    {
+      "dai": "2",
+      "shimei": "牧島かれん",
+      "naikaku": "第1次岸田内閣",
+      "shuninbi": "2021年10月4日",
+      "taininbi": "2021年11月10日",
+      "biko": "初入閣"
+    },
+    {
+      "dai": "3",
+      "shimei": "牧島かれん",
+      "naikaku": "第2次岸田内閣",
+      "shuninbi": "2021年11月10日",
+      "taininbi": "2022年8月10日",
+      "biko": "再任"
+    },
+    {
+      "dai": "4",
+      "shimei": "河野太郎",
+      "naikaku": "",
+      "shuninbi": "2022年8月10日",
+      "taininbi": "2023年9月13日",
+      "biko": "再入閣"
+    },
+    {
+      "dai": "4",
+      "shimei": "河野太郎",
+      "naikaku": "",
+      "shuninbi": "2023年9月13日",
+      "taininbi": "2024年10月1日",
+      "biko": "留任"
+    },
+    {
+      "dai": "5",
+      "shimei": "平将明",
+      "naikaku": "第1次石破内閣",
+      "shuninbi": "2024年10月1日",
+      "taininbi": "2024年11月11日",
+      "biko": "初入閣"
+    },
+    {
+      "dai": "6",
+      "shimei": "平将明",
+      "naikaku": "第2次石破内閣",
+      "shuninbi": "2024年11月11日",
+      "taininbi": "2025年10月21日",
+      "biko": "再任"
+    },
+    {
+      "dai": "7",
+      "shimei": "松本尚",
+      "naikaku": "第1次高市内閣",
+      "shuninbi": "2025年10月21日",
+      "taininbi": "2026年2月18日",
+      "biko": "初入閣"
+    },
+    {
+      "dai": "8",
+      "shimei": "松本尚",
+      "naikaku": "第2次高市内閣",
+      "shuninbi": "2026年2月18日",
+      "taininbi": "2026年9月17日",
+      "biko": "再任"
+    },
+    {
+      "dai": "9",
+      "shimei": "古川俊治",
+      "naikaku": "",
+      "shuninbi": "2026年9月17日",
+      "taininbi": "現職",
+      "biko": "初入閣"
+    }
+  ],
+  "meta": {
+    "title": "歴代デジタル大臣一覧 - Free Download",
+    "description": "2021年のデジタル庁発足以降の歴代デジタル大臣の一覧。代数、氏名、内閣、就任日、退任日、党派、備考を収録。 Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "歴代デジタル大臣一覧 | ListBase",
+    "seo_description": "Download 歴代デジタル大臣一覧 — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/デジタル大臣"
+    ]
+  }
+}
