@@ -1,0 +1,836 @@
+{
+  "id": "ja-rekidai-kankyo-daijin",
+  "name": "歴代環境庁長官・環境大臣一覧",
+  "title": "歴代環境庁長官・環境大臣一覧",
+  "description": "1971年の環境庁発足以降の歴代環境庁長官と、2001年の環境省発足以降の歴代環境大臣の一覧。代数、氏名、内閣、在任期間、兼務、政党を収録。",
+  "category": "environment",
+  "source": "https://ja.wikipedia.org/wiki/環境大臣",
+  "source_url": "https://ja.wikipedia.org/wiki/環境大臣",
+  "updated": "2026-11",
+  "record_count": 77,
+  "columns": [
+    {
+      "key": "yakushoku",
+      "label": "Yakushoku",
+      "type": "string"
+    },
+    {
+      "key": "dai",
+      "label": "Dai",
+      "type": "number"
+    },
+    {
+      "key": "shimei",
+      "label": "Shimei",
+      "type": "string"
+    },
+    {
+      "key": "naikaku",
+      "label": "Naikaku",
+      "type": "string"
+    },
+    {
+      "key": "shunin",
+      "label": "Shunin",
+      "type": "string"
+    },
+    {
+      "key": "tainin",
+      "label": "Tainin",
+      "type": "string"
+    },
+    {
+      "key": "kenmu",
+      "label": "Kenmu",
+      "type": "string"
+    },
+    {
+      "key": "seito",
+      "label": "Seito",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "1",
+      "shimei": "山中貞則",
+      "naikaku": "第3次佐藤内閣",
+      "shunin": "1971年7月1日",
+      "tainin": "1971年7月5日",
+      "kenmu": "総理府 総務長官",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "2",
+      "shimei": "大石武一",
+      "naikaku": "第3次佐藤内閣",
+      "shunin": "1971年7月5日",
+      "tainin": "1972年7月7日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "3",
+      "shimei": "小山長規",
+      "naikaku": "第1次田中角栄内閣",
+      "shunin": "1972年7月7日",
+      "tainin": "1972年12月22日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "4",
+      "shimei": "三木武夫",
+      "naikaku": "第2次田中角栄内閣",
+      "shunin": "1972年12月22日",
+      "tainin": "1974年7月12日",
+      "kenmu": "副総理 後に 内閣総理大臣",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "5",
+      "shimei": "毛利松平",
+      "naikaku": "第2次田中角栄内閣",
+      "shunin": "1974年7月12日",
+      "tainin": "1974年12月9日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "6",
+      "shimei": "小澤辰男",
+      "naikaku": "三木内閣",
+      "shunin": "1974年12月9日",
+      "tainin": "1976年9月15日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "7",
+      "shimei": "丸茂重貞",
+      "naikaku": "三木内閣",
+      "shunin": "1976年9月15日",
+      "tainin": "1976年12月24日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "8",
+      "shimei": "石原慎太郎",
+      "naikaku": "福田赳夫内閣",
+      "shunin": "1976年12月24日",
+      "tainin": "1977年11月28日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "9",
+      "shimei": "山田久就",
+      "naikaku": "福田赳夫内閣",
+      "shunin": "1977年11月28日",
+      "tainin": "1978年12月7日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "10",
+      "shimei": "上村千一郎",
+      "naikaku": "第1次大平内閣",
+      "shunin": "1978年12月7日",
+      "tainin": "1979年11月9日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "11",
+      "shimei": "土屋義彦",
+      "naikaku": "第2次大平内閣",
+      "shunin": "1979年11月9日",
+      "tainin": "1980年7月17日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "12",
+      "shimei": "鯨岡兵輔",
+      "naikaku": "鈴木善幸内閣",
+      "shunin": "1980年7月17日",
+      "tainin": "1981年11月30日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "13",
+      "shimei": "原文兵衛",
+      "naikaku": "鈴木善幸内閣",
+      "shunin": "1981年11月30日",
+      "tainin": "1982年11月27日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "14",
+      "shimei": "梶木又三",
+      "naikaku": "第1次中曽根内閣",
+      "shunin": "1982年11月27日",
+      "tainin": "1983年12月27日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "15",
+      "shimei": "上田稔",
+      "naikaku": "第2次中曽根内閣",
+      "shunin": "1983年12月27日",
+      "tainin": "1984年11月1日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "16",
+      "shimei": "石本茂",
+      "naikaku": "第2次中曽根内閣",
+      "shunin": "1984年11月1日",
+      "tainin": "1985年12月28日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "17",
+      "shimei": "森美秀",
+      "naikaku": "第2次中曽根内閣",
+      "shunin": "1985年12月28日",
+      "tainin": "1986年7月22日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "18",
+      "shimei": "稻村利幸",
+      "naikaku": "第3次中曽根内閣",
+      "shunin": "1986年7月22日",
+      "tainin": "1987年11月6日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "19",
+      "shimei": "堀内俊夫",
+      "naikaku": "竹下内閣",
+      "shunin": "1987年11月6日",
+      "tainin": "1988年12月27日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "20",
+      "shimei": "青木正久",
+      "naikaku": "竹下内閣",
+      "shunin": "1988年12月27日",
+      "tainin": "1989年6月3日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "21",
+      "shimei": "山崎竜男",
+      "naikaku": "宇野内閣",
+      "shunin": "1989年6月3日",
+      "tainin": "1989年8月10日",
+      "kenmu": "1989年7月11日以降、地球環境問題担当（以降、福田康夫内閣の鴨下一郎大臣まで同様）",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "22",
+      "shimei": "森山眞弓",
+      "naikaku": "第1次海部内閣",
+      "shunin": "1989年8月10日",
+      "tainin": "1989年8月25日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "23",
+      "shimei": "志賀節",
+      "naikaku": "第1次海部内閣",
+      "shunin": "1989年8月25日",
+      "tainin": "1990年2月28日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "24",
+      "shimei": "北川石松",
+      "naikaku": "第2次海部内閣",
+      "shunin": "1990年2月28日",
+      "tainin": "1990年12月29日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "25",
+      "shimei": "愛知和男",
+      "naikaku": "第2次海部内閣",
+      "shunin": "1990年12月29日",
+      "tainin": "1991年11月5日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "26",
+      "shimei": "中村正三郎",
+      "naikaku": "宮澤内閣",
+      "shunin": "1991年11月5日",
+      "tainin": "1992年12月12日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "27",
+      "shimei": "林大幹",
+      "naikaku": "宮澤内閣",
+      "shunin": "1992年12月12日",
+      "tainin": "1993年8月9日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "28",
+      "shimei": "廣中和歌子",
+      "naikaku": "細川内閣",
+      "shunin": "1993年8月9日",
+      "tainin": "1994年4月28日",
+      "kenmu": "",
+      "seito": "公明党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "-",
+      "shimei": "羽田孜",
+      "naikaku": "羽田内閣",
+      "shunin": "1994年4月28日",
+      "tainin": "",
+      "kenmu": "内閣総理大臣 による環境庁長官事務取扱（地球環境問題担当辞令なし）",
+      "seito": "新生党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "29",
+      "shimei": "浜四津敏子",
+      "naikaku": "羽田内閣",
+      "shunin": "1994年4月28日",
+      "tainin": "1994年6月30日",
+      "kenmu": "",
+      "seito": "公明党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "30",
+      "shimei": "櫻井新",
+      "naikaku": "村山内閣",
+      "shunin": "1994年6月30日",
+      "tainin": "1994年8月14日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "31",
+      "shimei": "宮下創平",
+      "naikaku": "村山内閣",
+      "shunin": "1994年8月14日",
+      "tainin": "1995年8月8日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "32",
+      "shimei": "大島理森",
+      "naikaku": "村山内閣",
+      "shunin": "1995年8月8日",
+      "tainin": "1996年1月11日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "33",
+      "shimei": "岩垂寿喜男",
+      "naikaku": "第1次橋本内閣",
+      "shunin": "1996年1月11日",
+      "tainin": "1996年11月7日",
+      "kenmu": "",
+      "seito": "日本社会党 → 社会民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "34",
+      "shimei": "石井道子",
+      "naikaku": "第2次橋本内閣",
+      "shunin": "1996年11月7日",
+      "tainin": "1997年9月11日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "35",
+      "shimei": "大木浩",
+      "naikaku": "第2次橋本内閣",
+      "shunin": "1997年9月11日",
+      "tainin": "1998年7月30日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "36",
+      "shimei": "真鍋賢二",
+      "naikaku": "小渕内閣",
+      "shunin": "1998年7月30日",
+      "tainin": "1999年10月5日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "37",
+      "shimei": "清水嘉与子",
+      "naikaku": "小渕内閣",
+      "shunin": "1999年10月5日",
+      "tainin": "2000年4月5日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "38",
+      "shimei": "清水嘉与子",
+      "naikaku": "第1次森内閣",
+      "shunin": "2000年4月5日",
+      "tainin": "2000年7月4日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境庁長官",
+      "dai": "39",
+      "shimei": "川口順子",
+      "naikaku": "第2次森内閣",
+      "shunin": "2000年7月4日",
+      "tainin": "2001年1月5日",
+      "kenmu": "",
+      "seito": "民間"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "1",
+      "shimei": "川口順子",
+      "naikaku": "第2次森内閣",
+      "shunin": "2001年1月6日",
+      "tainin": "2001年4月26日",
+      "kenmu": "",
+      "seito": "民間"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "2",
+      "shimei": "川口順子",
+      "naikaku": "第1次小泉内閣",
+      "shunin": "2001年4月26日",
+      "tainin": "2002年2月8日",
+      "kenmu": "外務大臣 （2002年 2月1日 以降）",
+      "seito": "民間"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "3",
+      "shimei": "大木浩",
+      "naikaku": "第1次小泉内閣",
+      "shunin": "2002年2月8日",
+      "tainin": "2002年9月30日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "4",
+      "shimei": "鈴木俊一",
+      "naikaku": "第1次小泉内閣",
+      "shunin": "2002年9月30日",
+      "tainin": "2003年9月22日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "5",
+      "shimei": "小池百合子",
+      "naikaku": "第1次小泉内閣",
+      "shunin": "2003年9月22日",
+      "tainin": "2003年11月19日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "6",
+      "shimei": "小池百合子",
+      "naikaku": "第2次小泉内閣",
+      "shunin": "2003年11月19日",
+      "tainin": "2005年9月21日",
+      "kenmu": "内閣府特命担当大臣（沖縄及び北方対策担当） （ 2004年 9月27日 以降）",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "7",
+      "shimei": "小池百合子",
+      "naikaku": "第3次小泉内閣",
+      "shunin": "2005年9月21日",
+      "tainin": "2006年9月26日",
+      "kenmu": "内閣府特命担当大臣（沖縄及び北方対策担当）",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "8",
+      "shimei": "若林正俊",
+      "naikaku": "第1次安倍内閣",
+      "shunin": "2006年9月26日",
+      "tainin": "2007年8月27日",
+      "kenmu": "農林水産大臣 臨時代理（2007年5月28日から6月1日まで・死亡欠員のため） 農林水産大臣（2007年8月1日以降）",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "9",
+      "shimei": "鴨下一郎",
+      "naikaku": "第1次安倍内閣",
+      "shunin": "2007年8月27日",
+      "tainin": "2007年9月26日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "10",
+      "shimei": "鴨下一郎",
+      "naikaku": "福田康夫内閣",
+      "shunin": "2007年9月26日",
+      "tainin": "2008年8月2日",
+      "kenmu": "",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "11",
+      "shimei": "斉藤鉄夫",
+      "naikaku": "福田康夫改造内閣",
+      "shunin": "2008年8月2日",
+      "tainin": "2008年9月24日",
+      "kenmu": "以降、地球環境問題担当辞令なし",
+      "seito": "公明党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "12",
+      "shimei": "斉藤鉄夫",
+      "naikaku": "麻生内閣",
+      "shunin": "2008年9月24日",
+      "tainin": "2009年9月16日",
+      "kenmu": "",
+      "seito": "公明党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "13",
+      "shimei": "小沢鋭仁",
+      "naikaku": "鳩山由紀夫内閣",
+      "shunin": "2009年9月16日",
+      "tainin": "2010年6月8日",
+      "kenmu": "",
+      "seito": "民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "14",
+      "shimei": "小沢鋭仁",
+      "naikaku": "菅直人内閣",
+      "shunin": "2010年6月8日",
+      "tainin": "2010年9月17日",
+      "kenmu": "",
+      "seito": "民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "15",
+      "shimei": "松本龍",
+      "naikaku": "菅直人第1次改造内閣 菅直人第2次改造内閣",
+      "shunin": "2010年9月17日",
+      "tainin": "2011年6月27日",
+      "kenmu": "内閣府特命担当大臣（防災担当）",
+      "seito": "民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "16",
+      "shimei": "江田五月",
+      "naikaku": "菅直人第2次改造内閣",
+      "shunin": "2011年6月27日",
+      "tainin": "2011年9月2日",
+      "kenmu": "法務大臣",
+      "seito": "民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "17",
+      "shimei": "細野豪志",
+      "naikaku": "野田内閣 野田第1次改造内閣 野田第2次改造内閣",
+      "shunin": "2011年9月2日",
+      "tainin": "2012年10月1日",
+      "kenmu": "内閣府特命担当大臣（原子力損害賠償支援機構担当） （2011年10月3日まで） 内閣府特命担当大臣（原子力行政担当） （2011年10月3日以降） 内閣府特命担当大臣（原子力防災担当） （2012年9月19日以降）",
+      "seito": "民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "18",
+      "shimei": "長浜博行",
+      "naikaku": "野田第3次改造内閣",
+      "shunin": "2012年10月1日",
+      "tainin": "2012年12月26日",
+      "kenmu": "内閣府特命担当大臣（原子力防災担当）",
+      "seito": "民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "19",
+      "shimei": "石原伸晃",
+      "naikaku": "第2次安倍内閣",
+      "shunin": "2012年12月26日",
+      "tainin": "2014年9月3日",
+      "kenmu": "内閣府特命担当大臣（原子力防災担当）",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "20",
+      "shimei": "望月義夫",
+      "naikaku": "第2次安倍改造内閣",
+      "shunin": "2014年9月3日",
+      "tainin": "2014年12月24日",
+      "kenmu": "内閣府特命担当大臣（原子力防災担当）",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "21",
+      "shimei": "望月義夫",
+      "naikaku": "第3次安倍内閣",
+      "shunin": "2014年12月24日",
+      "tainin": "2015年10月7日",
+      "kenmu": "内閣府特命担当大臣（原子力防災担当）",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "22",
+      "shimei": "丸川珠代",
+      "naikaku": "第3次安倍第1次改造内閣",
+      "shunin": "2015年10月7日",
+      "tainin": "2016年8月3日",
+      "kenmu": "内閣府特命担当大臣（原子力防災担当）",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "23",
+      "shimei": "山本公一",
+      "naikaku": "第3次安倍第2次改造内閣",
+      "shunin": "2016年8月3日",
+      "tainin": "2017年8月3日",
+      "kenmu": "内閣府特命担当大臣（原子力防災担当）",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "24",
+      "shimei": "中川雅治",
+      "naikaku": "第3次安倍第3次改造内閣",
+      "shunin": "2017年8月3日",
+      "tainin": "2017年11月1日",
+      "kenmu": "内閣府特命担当大臣（原子力防災担当）",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "25",
+      "shimei": "中川雅治",
+      "naikaku": "第4次安倍内閣",
+      "shunin": "2017年11月1日",
+      "tainin": "2018年10月2日",
+      "kenmu": "内閣府特命担当大臣（原子力防災担当）",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "26",
+      "shimei": "原田義昭",
+      "naikaku": "第4次安倍第1次改造内閣",
+      "shunin": "2018年10月2日",
+      "tainin": "2019年9月11日",
+      "kenmu": "内閣府特命担当大臣（原子力防災担当）",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "27",
+      "shimei": "小泉進次郎",
+      "naikaku": "第4次安倍第2次改造内閣",
+      "shunin": "2019年9月11日",
+      "tainin": "2020年9月16日",
+      "kenmu": "内閣府特命担当大臣（原子力防災担当）",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "28",
+      "shimei": "小泉進次郎",
+      "naikaku": "菅義偉内閣",
+      "shunin": "2020年9月16日",
+      "tainin": "2021年10月4日",
+      "kenmu": "内閣府特命担当大臣（原子力防災担当）",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "29",
+      "shimei": "山口壯",
+      "naikaku": "第1次岸田内閣",
+      "shunin": "2021年10月4日",
+      "tainin": "2021年11月10日",
+      "kenmu": "内閣府特命担当大臣（原子力防災担当）",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "30",
+      "shimei": "山口壯",
+      "naikaku": "第2次岸田内閣",
+      "shunin": "2021年11月10日",
+      "tainin": "2022年8月10日",
+      "kenmu": "内閣府特命担当大臣（原子力防災担当）",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "31",
+      "shimei": "西村明宏",
+      "naikaku": "第2次岸田第1次改造内閣",
+      "shunin": "2022年8月10日",
+      "tainin": "2023年9月13日",
+      "kenmu": "内閣府特命担当大臣（原子力防災担当）",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "32",
+      "shimei": "伊藤信太郎",
+      "naikaku": "第2次岸田第2次改造内閣",
+      "shunin": "2023年9月13日",
+      "tainin": "2024年10月1日",
+      "kenmu": "内閣府特命担当大臣（原子力防災担当）",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "33",
+      "shimei": "浅尾慶一郎",
+      "naikaku": "第1次石破内閣",
+      "shunin": "2024年10月1日",
+      "tainin": "2024年11月11日",
+      "kenmu": "内閣府特命担当大臣（原子力防災担当）",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "34",
+      "shimei": "浅尾慶一郎",
+      "naikaku": "第2次石破内閣",
+      "shunin": "2024年11月11日",
+      "tainin": "2025年10月21日",
+      "kenmu": "内閣府特命担当大臣（原子力防災担当）",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "35",
+      "shimei": "石原宏高",
+      "naikaku": "第1次高市内閣",
+      "shunin": "2025年10月21日",
+      "tainin": "2026年2月18日",
+      "kenmu": "内閣府特命担当大臣（原子力防災担当）",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "36",
+      "shimei": "石原宏高",
+      "naikaku": "第2次高市内閣",
+      "shunin": "2026年2月18日",
+      "tainin": "2026年9月17日",
+      "kenmu": "内閣府特命担当大臣（原子力防災担当）",
+      "seito": "自由民主党"
+    },
+    {
+      "yakushoku": "環境大臣",
+      "dai": "37",
+      "shimei": "笹川博義",
+      "naikaku": "第2次高市改造内閣",
+      "shunin": "2026年9月17日",
+      "tainin": "現職",
+      "kenmu": "内閣府特命担当大臣（原子力防災担当）",
+      "seito": "自由民主党"
+    }
+  ],
+  "meta": {
+    "title": "歴代環境庁長官・環境大臣一覧 - Free Download",
+    "description": "1971年の環境庁発足以降の歴代環境庁長官と、2001年の環境省発足以降の歴代環境大臣の一覧。代数、氏名、内閣、在任期間、兼務、政党を収録。 Contains 77 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "歴代環境庁長官・環境大臣一覧 | ListBase",
+    "seo_description": "Download 歴代環境庁長官・環境大臣一覧 — 77 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 77 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/環境大臣"
+    ]
+  }
+}

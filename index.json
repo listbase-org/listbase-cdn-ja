@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-18T02:26:13.651Z",
-  "total_datasets": 618,
-  "total_records": 466782,
+  "generated": "2026-11-18T02:26:27.855Z",
+  "total_datasets": 619,
+  "total_records": 466859,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "finance",
@@ -1823,6 +1823,35 @@
         "xlsx": {
           "name": "ja-ramsar-joyaku-torokuchi_JA.xlsx",
           "size": 27786
+        }
+      }
+    },
+    {
+      "id": "ja-rekidai-kankyo-daijin",
+      "name": "歴代環境庁長官・環境大臣一覧",
+      "category": "environment",
+      "record_count": 77,
+      "columns": [
+        "yakushoku",
+        "dai",
+        "shimei",
+        "naikaku",
+        "shunin",
+        "tainin",
+        "kenmu",
+        "seito"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/環境大臣",
+      "updated": "2026-11",
+      "size": 24482,
+      "files": {
+        "csv": {
+          "name": "ja-rekidai-kankyo-daijin_JA.csv",
+          "size": 11190
+        },
+        "xlsx": {
+          "name": "ja-rekidai-kankyo-daijin_JA.xlsx",
+          "size": 11326
         }
       }
     },
