@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-18T02:26:27.855Z",
-  "total_datasets": 619,
-  "total_records": 466859,
+  "generated": "2026-11-18T02:26:41.730Z",
+  "total_datasets": 620,
+  "total_records": 466898,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "sports",
@@ -15705,6 +15705,34 @@
         "xlsx": {
           "name": "ja-kokumin-eiyo-sho_JA.xlsx",
           "size": 12198
+        }
+      }
+    },
+    {
+      "id": "ja-rekidai-kosei-rodo-daijin",
+      "name": "歴代厚生労働大臣一覧",
+      "category": "society",
+      "record_count": 39,
+      "columns": [
+        "dai",
+        "shimei",
+        "naikaku",
+        "shunin",
+        "tainin",
+        "toha",
+        "biko"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/厚生労働大臣",
+      "updated": "2026-11",
+      "size": 11570,
+      "files": {
+        "csv": {
+          "name": "ja-rekidai-kosei-rodo-daijin_JA.csv",
+          "size": 4924
+        },
+        "xlsx": {
+          "name": "ja-rekidai-kosei-rodo-daijin_JA.xlsx",
+          "size": 8738
         }
       }
     },

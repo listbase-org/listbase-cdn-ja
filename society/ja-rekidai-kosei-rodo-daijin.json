@@ -1,0 +1,412 @@
+{
+  "id": "ja-rekidai-kosei-rodo-daijin",
+  "name": "歴代厚生労働大臣一覧",
+  "title": "歴代厚生労働大臣一覧",
+  "description": "2001年の中央省庁再編で発足した厚生労働省の歴代大臣の一覧。代数、氏名、内閣、在職期間、党派、備考を収録。",
+  "category": "society",
+  "source": "https://ja.wikipedia.org/wiki/厚生労働大臣",
+  "source_url": "https://ja.wikipedia.org/wiki/厚生労働大臣",
+  "updated": "2026-11",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "dai",
+      "label": "Dai",
+      "type": "number"
+    },
+    {
+      "key": "shimei",
+      "label": "Shimei",
+      "type": "string"
+    },
+    {
+      "key": "naikaku",
+      "label": "Naikaku",
+      "type": "string"
+    },
+    {
+      "key": "shunin",
+      "label": "Shunin",
+      "type": "string"
+    },
+    {
+      "key": "tainin",
+      "label": "Tainin",
+      "type": "string"
+    },
+    {
+      "key": "toha",
+      "label": "Toha",
+      "type": "string"
+    },
+    {
+      "key": "biko",
+      "label": "Biko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "dai": "1",
+      "shimei": "坂口力",
+      "naikaku": "第2次森内閣",
+      "shunin": "2001年（平成13年）1月6日",
+      "tainin": "2001年（平成13年）4月26日",
+      "toha": "公明党",
+      "biko": ""
+    },
+    {
+      "dai": "2",
+      "shimei": "坂口力",
+      "naikaku": "第1次小泉内閣",
+      "shunin": "2001年（平成13年）4月26日",
+      "tainin": "2003年（平成15年）11月19日",
+      "toha": "公明党",
+      "biko": "再任"
+    },
+    {
+      "dai": "2",
+      "shimei": "坂口力",
+      "naikaku": "",
+      "shunin": "2001年（平成13年）4月26日",
+      "tainin": "2003年（平成15年）11月19日",
+      "toha": "公明党",
+      "biko": "留任"
+    },
+    {
+      "dai": "2",
+      "shimei": "坂口力",
+      "naikaku": "",
+      "shunin": "2001年（平成13年）4月26日",
+      "tainin": "2003年（平成15年）11月19日",
+      "toha": "公明党",
+      "biko": "留任"
+    },
+    {
+      "dai": "3",
+      "shimei": "坂口力",
+      "naikaku": "第2次小泉内閣",
+      "shunin": "2003年（平成15年）11月19日",
+      "tainin": "2004年（平成16年）9月27日",
+      "toha": "公明党",
+      "biko": "再任"
+    },
+    {
+      "dai": "4",
+      "shimei": "尾辻秀久",
+      "naikaku": "",
+      "shunin": "2004年（平成16年）9月27日",
+      "tainin": "2005年（平成17年）9月21日",
+      "toha": "自由民主党",
+      "biko": ""
+    },
+    {
+      "dai": "5",
+      "shimei": "尾辻秀久",
+      "naikaku": "第3次小泉内閣",
+      "shunin": "2005年（平成17年）9月21日",
+      "tainin": "2005年（平成17年）10月31日",
+      "toha": "自由民主党",
+      "biko": "再任"
+    },
+    {
+      "dai": "6",
+      "shimei": "川崎二郎",
+      "naikaku": "",
+      "shunin": "2005年（平成17年）10月31日",
+      "tainin": "2006年（平成18年）9月26日",
+      "toha": "自由民主党",
+      "biko": ""
+    },
+    {
+      "dai": "7",
+      "shimei": "柳澤伯夫",
+      "naikaku": "第1次安倍内閣",
+      "shunin": "2006年（平成18年）9月26日",
+      "tainin": "2007年（平成19年）8月27日",
+      "toha": "自由民主党",
+      "biko": ""
+    },
+    {
+      "dai": "8",
+      "shimei": "舛添要一",
+      "naikaku": "",
+      "shunin": "2007年（平成19年）8月27日",
+      "tainin": "2007年（平成19年）9月26日",
+      "toha": "自由民主党",
+      "biko": ""
+    },
+    {
+      "dai": "9",
+      "shimei": "舛添要一",
+      "naikaku": "福田康夫内閣",
+      "shunin": "2007年（平成19年）9月26日",
+      "tainin": "2008年（平成20年）9月24日",
+      "toha": "自由民主党",
+      "biko": "再任"
+    },
+    {
+      "dai": "9",
+      "shimei": "舛添要一",
+      "naikaku": "",
+      "shunin": "2007年（平成19年）9月26日",
+      "tainin": "2008年（平成20年）9月24日",
+      "toha": "自由民主党",
+      "biko": "留任"
+    },
+    {
+      "dai": "10",
+      "shimei": "舛添要一",
+      "naikaku": "麻生内閣",
+      "shunin": "2008年（平成20年）9月24日",
+      "tainin": "2009年（平成21年）9月16日",
+      "toha": "自由民主党",
+      "biko": "再任"
+    },
+    {
+      "dai": "11",
+      "shimei": "長妻昭",
+      "naikaku": "鳩山由紀夫内閣",
+      "shunin": "2009年（平成21年）9月16日",
+      "tainin": "2010年（平成22年）6月8日",
+      "toha": "民主党",
+      "biko": ""
+    },
+    {
+      "dai": "12",
+      "shimei": "長妻昭",
+      "naikaku": "菅直人内閣",
+      "shunin": "2010年（平成22年）6月8日",
+      "tainin": "2010年（平成22年）9月17日",
+      "toha": "民主党",
+      "biko": "再任"
+    },
+    {
+      "dai": "13",
+      "shimei": "細川律夫",
+      "naikaku": "",
+      "shunin": "2010年（平成22年）9月17日",
+      "tainin": "2011年（平成23年）9月2日",
+      "toha": "民主党",
+      "biko": ""
+    },
+    {
+      "dai": "13",
+      "shimei": "細川律夫",
+      "naikaku": "",
+      "shunin": "2010年（平成22年）9月17日",
+      "tainin": "2011年（平成23年）9月2日",
+      "toha": "民主党",
+      "biko": "留任"
+    },
+    {
+      "dai": "14",
+      "shimei": "小宮山洋子",
+      "naikaku": "野田内閣",
+      "shunin": "2011年（平成23年）9月2日",
+      "tainin": "2012年（平成24年）10月1日",
+      "toha": "民主党",
+      "biko": ""
+    },
+    {
+      "dai": "14",
+      "shimei": "小宮山洋子",
+      "naikaku": "",
+      "shunin": "2011年（平成23年）9月2日",
+      "tainin": "2012年（平成24年）10月1日",
+      "toha": "民主党",
+      "biko": "留任"
+    },
+    {
+      "dai": "14",
+      "shimei": "小宮山洋子",
+      "naikaku": "",
+      "shunin": "2011年（平成23年）9月2日",
+      "tainin": "2012年（平成24年）10月1日",
+      "toha": "民主党",
+      "biko": "留任"
+    },
+    {
+      "dai": "15",
+      "shimei": "三井辨雄",
+      "naikaku": "",
+      "shunin": "2012年（平成24年）10月1日",
+      "tainin": "2012年（平成24年）12月26日",
+      "toha": "民主党",
+      "biko": ""
+    },
+    {
+      "dai": "16",
+      "shimei": "田村憲久",
+      "naikaku": "第2次安倍内閣",
+      "shunin": "2012年（平成24年）12月26日",
+      "tainin": "2014年（平成26年）9月3日",
+      "toha": "自由民主党",
+      "biko": ""
+    },
+    {
+      "dai": "17",
+      "shimei": "塩崎恭久",
+      "naikaku": "",
+      "shunin": "2014年（平成26年）9月3日",
+      "tainin": "2014年（平成26年）12月24日",
+      "toha": "自由民主党",
+      "biko": ""
+    },
+    {
+      "dai": "18",
+      "shimei": "塩崎恭久",
+      "naikaku": "第3次安倍内閣",
+      "shunin": "2014年（平成26年）12月24日",
+      "tainin": "2017年（平成29年）8月3日",
+      "toha": "自由民主党",
+      "biko": "再任"
+    },
+    {
+      "dai": "18",
+      "shimei": "塩崎恭久",
+      "naikaku": "",
+      "shunin": "2014年（平成26年）12月24日",
+      "tainin": "2017年（平成29年）8月3日",
+      "toha": "自由民主党",
+      "biko": "留任"
+    },
+    {
+      "dai": "18",
+      "shimei": "塩崎恭久",
+      "naikaku": "",
+      "shunin": "2014年（平成26年）12月24日",
+      "tainin": "2017年（平成29年）8月3日",
+      "toha": "自由民主党",
+      "biko": "留任"
+    },
+    {
+      "dai": "19",
+      "shimei": "加藤勝信",
+      "naikaku": "",
+      "shunin": "2017年（平成29年）8月3日",
+      "tainin": "2017年（平成29年）11月1日",
+      "toha": "自由民主党",
+      "biko": "横滑り"
+    },
+    {
+      "dai": "20",
+      "shimei": "加藤勝信",
+      "naikaku": "第4次安倍内閣",
+      "shunin": "2017年（平成29年）11月1日",
+      "tainin": "2018年（平成30年）10月2日",
+      "toha": "自由民主党",
+      "biko": "再任"
+    },
+    {
+      "dai": "21",
+      "shimei": "根本匠",
+      "naikaku": "",
+      "shunin": "2018年（平成30年）10月2日",
+      "tainin": "2019年（令和元年）9月11日",
+      "toha": "自由民主党",
+      "biko": ""
+    },
+    {
+      "dai": "22",
+      "shimei": "加藤勝信",
+      "naikaku": "",
+      "shunin": "2019年（令和元年）9月11日",
+      "tainin": "2020年（令和2年）9月16日",
+      "toha": "自由民主党",
+      "biko": ""
+    },
+    {
+      "dai": "23",
+      "shimei": "田村憲久",
+      "naikaku": "菅義偉内閣",
+      "shunin": "2020年（令和2年）9月16日",
+      "tainin": "2021年（令和3年）10月4日",
+      "toha": "自由民主党",
+      "biko": ""
+    },
+    {
+      "dai": "24",
+      "shimei": "後藤茂之",
+      "naikaku": "第1次岸田内閣",
+      "shunin": "2021年（令和3年）10月4日",
+      "tainin": "2021年（令和3年）11月10日",
+      "toha": "自由民主党",
+      "biko": ""
+    },
+    {
+      "dai": "25",
+      "shimei": "後藤茂之",
+      "naikaku": "第2次岸田内閣",
+      "shunin": "2021年（令和3年）11月10日",
+      "tainin": "2022年（令和4年）8月10日",
+      "toha": "自由民主党",
+      "biko": "再任"
+    },
+    {
+      "dai": "26",
+      "shimei": "加藤勝信",
+      "naikaku": "",
+      "shunin": "2022年（令和4年）8月10日",
+      "tainin": "2023年（令和5年）9月13日",
+      "toha": "自由民主党",
+      "biko": ""
+    },
+    {
+      "dai": "27",
+      "shimei": "武見敬三",
+      "naikaku": "",
+      "shunin": "2023年（令和5年）9月13日",
+      "tainin": "2024年（令和6年）10月1日",
+      "toha": "自由民主党",
+      "biko": ""
+    },
+    {
+      "dai": "28",
+      "shimei": "福岡資麿",
+      "naikaku": "第1次石破内閣",
+      "shunin": "2024年（令和6年）10月1日",
+      "tainin": "2024年（令和6年）11月11日",
+      "toha": "自由民主党",
+      "biko": ""
+    },
+    {
+      "dai": "29",
+      "shimei": "福岡資麿",
+      "naikaku": "第2次石破内閣",
+      "shunin": "2024年（令和6年）11月11日",
+      "tainin": "2025年（令和7年）10月21日",
+      "toha": "自由民主党",
+      "biko": "再任"
+    },
+    {
+      "dai": "30",
+      "shimei": "上野賢一郎",
+      "naikaku": "第1次高市内閣",
+      "shunin": "2025年（令和7年）10月21日",
+      "tainin": "2026年（令和8年）2月18日",
+      "toha": "自由民主党",
+      "biko": ""
+    },
+    {
+      "dai": "31",
+      "shimei": "上野賢一郎",
+      "naikaku": "第2次高市内閣",
+      "shunin": "2026年（令和8年）2月18日",
+      "tainin": "現職",
+      "toha": "自由民主党",
+      "biko": "再任"
+    }
+  ],
+  "meta": {
+    "title": "歴代厚生労働大臣一覧 - Free Download",
+    "description": "2001年の中央省庁再編で発足した厚生労働省の歴代大臣の一覧。代数、氏名、内閣、在職期間、党派、備考を収録。 Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "歴代厚生労働大臣一覧 | ListBase",
+    "seo_description": "Download 歴代厚生労働大臣一覧 — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/厚生労働大臣"
+    ]
+  }
+}
