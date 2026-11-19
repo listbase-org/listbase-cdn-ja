@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-19T02:31:10.388Z",
-  "total_datasets": 622,
-  "total_records": 467016,
+  "generated": "2026-11-19T02:31:25.543Z",
+  "total_datasets": 623,
+  "total_records": 467065,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 126
+      "dataset_count": 127
     },
     {
       "id": "health",
@@ -6114,6 +6114,33 @@
         "xlsx": {
           "name": "ja-tochigi-shikuchoson-kyoukai_JA.xlsx",
           "size": 45746
+        }
+      }
+    },
+    {
+      "id": "ja-todofuken-saiko-biru",
+      "name": "各都道府県で最も高いビルの一覧",
+      "category": "geography",
+      "record_count": 49,
+      "columns": [
+        "todofuken",
+        "toshi",
+        "meisho",
+        "takasa_m",
+        "kaisu",
+        "shunko_nen"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/各都道府県で最も高いビルの一覧",
+      "updated": "2026-11",
+      "size": 11244,
+      "files": {
+        "csv": {
+          "name": "ja-todofuken-saiko-biru_JA.csv",
+          "size": 3785
+        },
+        "xlsx": {
+          "name": "ja-todofuken-saiko-biru_JA.xlsx",
+          "size": 9677
         }
       }
     },

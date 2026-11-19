@@ -1,0 +1,448 @@
+{
+  "id": "ja-todofuken-saiko-biru",
+  "name": "各都道府県で最も高いビルの一覧",
+  "title": "各都道府県で最も高いビルの一覧",
+  "description": "47都道府県それぞれで最も高い建築物（ビル）の名称、所在都市、高さ（m）、階数、竣工年の一覧。",
+  "category": "geography",
+  "source": "https://ja.wikipedia.org/wiki/各都道府県で最も高いビルの一覧",
+  "source_url": "https://ja.wikipedia.org/wiki/各都道府県で最も高いビルの一覧",
+  "updated": "2026-11",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "todofuken",
+      "label": "Todofuken",
+      "type": "string"
+    },
+    {
+      "key": "toshi",
+      "label": "Toshi",
+      "type": "string"
+    },
+    {
+      "key": "meisho",
+      "label": "Meisho",
+      "type": "string"
+    },
+    {
+      "key": "takasa_m",
+      "label": "Takasa M",
+      "type": "number"
+    },
+    {
+      "key": "kaisu",
+      "label": "Kaisu",
+      "type": "number"
+    },
+    {
+      "key": "shunko_nen",
+      "label": "Shunko Nen",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "todofuken": "北海道",
+      "toshi": "札幌市",
+      "meisho": "ONE札幌ステーションタワー",
+      "takasa_m": 175.2,
+      "kaisu": 48,
+      "shunko_nen": 2023
+    },
+    {
+      "todofuken": "青森県",
+      "toshi": "青森市",
+      "meisho": "青森県観光物産館アスパム",
+      "takasa_m": 76,
+      "kaisu": 15,
+      "shunko_nen": 1986
+    },
+    {
+      "todofuken": "岩手県",
+      "toshi": "盛岡市",
+      "meisho": "マリオス",
+      "takasa_m": 92,
+      "kaisu": 20,
+      "shunko_nen": 1997
+    },
+    {
+      "todofuken": "宮城県",
+      "toshi": "仙台市",
+      "meisho": "仙台トラストタワー",
+      "takasa_m": 180,
+      "kaisu": 37,
+      "shunko_nen": 2010
+    },
+    {
+      "todofuken": "秋田県",
+      "toshi": "秋田市",
+      "meisho": "ベルドゥムール ランドマーク秋田",
+      "takasa_m": 95.33,
+      "kaisu": 30,
+      "shunko_nen": 2003
+    },
+    {
+      "todofuken": "山形県",
+      "toshi": "上山市",
+      "meisho": "スカイタワー41",
+      "takasa_m": 133.95,
+      "kaisu": 41,
+      "shunko_nen": 1999
+    },
+    {
+      "todofuken": "福島県",
+      "toshi": "郡山市",
+      "meisho": "郡山ビッグアイ",
+      "takasa_m": 132.6,
+      "kaisu": 24,
+      "shunko_nen": 2001
+    },
+    {
+      "todofuken": "茨城県",
+      "toshi": "水戸市",
+      "meisho": "茨城県庁舎",
+      "takasa_m": 116,
+      "kaisu": 25,
+      "shunko_nen": 1999
+    },
+    {
+      "todofuken": "栃木県",
+      "toshi": "宇都宮市",
+      "meisho": "宇都宮ピークス",
+      "takasa_m": 108.45,
+      "kaisu": 31,
+      "shunko_nen": 2019
+    },
+    {
+      "todofuken": "群馬県",
+      "toshi": "前橋市",
+      "meisho": "群馬県庁舎",
+      "takasa_m": 153.8,
+      "kaisu": 33,
+      "shunko_nen": 1999
+    },
+    {
+      "todofuken": "埼玉県",
+      "toshi": "川口市",
+      "meisho": "エルザタワー55",
+      "takasa_m": 185.8,
+      "kaisu": 55,
+      "shunko_nen": 1998
+    },
+    {
+      "todofuken": "千葉県",
+      "toshi": "千葉市",
+      "meisho": "アパホテル&リゾート東京ベイ幕張",
+      "takasa_m": 180.82,
+      "kaisu": 50,
+      "shunko_nen": 1993
+    },
+    {
+      "todofuken": "東京都",
+      "toshi": "港区",
+      "meisho": "麻布台ヒルズ森JPタワー",
+      "takasa_m": 325.2,
+      "kaisu": 64,
+      "shunko_nen": 2023
+    },
+    {
+      "todofuken": "神奈川県",
+      "toshi": "横浜市",
+      "meisho": "横浜ランドマークタワー",
+      "takasa_m": 296.33,
+      "kaisu": 70,
+      "shunko_nen": 1993
+    },
+    {
+      "todofuken": "新潟県",
+      "toshi": "新潟市",
+      "meisho": "万代島ビル",
+      "takasa_m": 140.5,
+      "kaisu": 31,
+      "shunko_nen": 2003
+    },
+    {
+      "todofuken": "富山県",
+      "toshi": "富山市",
+      "meisho": "タワー111",
+      "takasa_m": 111,
+      "kaisu": 22,
+      "shunko_nen": 1994
+    },
+    {
+      "todofuken": "石川県",
+      "toshi": "金沢市",
+      "meisho": "ポルテ金沢",
+      "takasa_m": 130.5,
+      "kaisu": 30,
+      "shunko_nen": 1994
+    },
+    {
+      "todofuken": "福井県",
+      "toshi": "福井市",
+      "meisho": "コートヤード･バイ･マリオット福井",
+      "takasa_m": 120,
+      "kaisu": 28,
+      "shunko_nen": 2024
+    },
+    {
+      "todofuken": "山梨県",
+      "toshi": "甲府市",
+      "meisho": "セインツ.25",
+      "takasa_m": 94,
+      "kaisu": 25,
+      "shunko_nen": 2007
+    },
+    {
+      "todofuken": "長野県",
+      "toshi": "長野市",
+      "meisho": "NTTドコモ 長野ビル",
+      "takasa_m": 75,
+      "kaisu": 16,
+      "shunko_nen": 2000
+    },
+    {
+      "todofuken": "岐阜県",
+      "toshi": "岐阜市",
+      "meisho": "岐阜シティ・タワー43",
+      "takasa_m": 162.82,
+      "kaisu": 43,
+      "shunko_nen": 2007
+    },
+    {
+      "todofuken": "静岡県",
+      "toshi": "浜松市",
+      "meisho": "浜松アクトタワー",
+      "takasa_m": 212.77,
+      "kaisu": 45,
+      "shunko_nen": 1994
+    },
+    {
+      "todofuken": "愛知県",
+      "toshi": "名古屋市",
+      "meisho": "ミッドランドスクエア",
+      "takasa_m": 247,
+      "kaisu": 47,
+      "shunko_nen": 2006
+    },
+    {
+      "todofuken": "三重県",
+      "toshi": "四日市市",
+      "meisho": "四日市港ポートビル",
+      "takasa_m": 100,
+      "kaisu": 14,
+      "shunko_nen": 1999
+    },
+    {
+      "todofuken": "滋賀県",
+      "toshi": "大津市",
+      "meisho": "びわ湖大津プリンスホテル",
+      "takasa_m": 136.67,
+      "kaisu": 38,
+      "shunko_nen": 1989
+    },
+    {
+      "todofuken": "京都府",
+      "toshi": "京都市",
+      "meisho": "ニデック 本社ビル",
+      "takasa_m": 100.6,
+      "kaisu": 21,
+      "shunko_nen": 2003
+    },
+    {
+      "todofuken": "大阪府",
+      "toshi": "大阪市",
+      "meisho": "あべのハルカス",
+      "takasa_m": 300,
+      "kaisu": 60,
+      "shunko_nen": 2014
+    },
+    {
+      "todofuken": "兵庫県",
+      "toshi": "神戸市",
+      "meisho": "シティタワー神戸三宮",
+      "takasa_m": 190,
+      "kaisu": 54,
+      "shunko_nen": 2013
+    },
+    {
+      "todofuken": "奈良県",
+      "toshi": "橿原市",
+      "meisho": "ミグランス",
+      "takasa_m": 47.71,
+      "kaisu": 10,
+      "shunko_nen": 2018
+    },
+    {
+      "todofuken": "和歌山県",
+      "toshi": "和歌山市",
+      "meisho": "和歌山マリーナシティ･シエルヴィータ",
+      "takasa_m": 102.4,
+      "kaisu": 28,
+      "shunko_nen": 2007
+    },
+    {
+      "todofuken": "鳥取県",
+      "toshi": "鳥取市",
+      "meisho": "鳥取県立中央病院",
+      "takasa_m": 55.5,
+      "kaisu": 11,
+      "shunko_nen": 2018
+    },
+    {
+      "todofuken": "島根県",
+      "toshi": "松江市",
+      "meisho": "山陰合同銀行 本店ビル",
+      "takasa_m": 75,
+      "kaisu": 14,
+      "shunko_nen": 1997
+    },
+    {
+      "todofuken": "岡山県",
+      "toshi": "岡山市",
+      "meisho": "杜の街グレース 岡山 ザ・タワー",
+      "takasa_m": 134,
+      "kaisu": 37,
+      "shunko_nen": 2021
+    },
+    {
+      "todofuken": "広島県",
+      "toshi": "広島市",
+      "meisho": "シティタワー広島",
+      "takasa_m": 197.5,
+      "kaisu": 52,
+      "shunko_nen": 2016
+    },
+    {
+      "todofuken": "山口県",
+      "toshi": "下関市",
+      "meisho": "ヴェルタワー下関",
+      "takasa_m": 72.65,
+      "kaisu": 22,
+      "shunko_nen": 2007
+    },
+    {
+      "todofuken": "徳島県",
+      "toshi": "徳島市",
+      "meisho": "徳島駅 ビル",
+      "takasa_m": 73,
+      "kaisu": 18,
+      "shunko_nen": 1993
+    },
+    {
+      "todofuken": "香川県",
+      "toshi": "高松市",
+      "meisho": "高松シンボルタワー",
+      "takasa_m": 151.3,
+      "kaisu": 30,
+      "shunko_nen": 2004
+    },
+    {
+      "todofuken": "愛媛県",
+      "toshi": "今治市",
+      "meisho": "今治国際ホテル",
+      "takasa_m": 101.7,
+      "kaisu": 22,
+      "shunko_nen": 1996
+    },
+    {
+      "todofuken": "高知県",
+      "toshi": "高知市",
+      "meisho": "トップワン四国",
+      "takasa_m": 100,
+      "kaisu": 29,
+      "shunko_nen": 1993
+    },
+    {
+      "todofuken": "福岡県",
+      "toshi": "福岡市",
+      "meisho": "アイランドシティ オーシャン＆フォレスト タワーレジデンス WEST",
+      "takasa_m": 161.25,
+      "kaisu": 48,
+      "shunko_nen": 2022
+    },
+    {
+      "todofuken": "福岡県",
+      "toshi": "福岡市",
+      "meisho": "アイランドシティ オーシャン&フォレスト タワーレジデンス EAST",
+      "takasa_m": 161.25,
+      "kaisu": 48,
+      "shunko_nen": 2023
+    },
+    {
+      "todofuken": "佐賀県",
+      "toshi": "鳥栖市",
+      "meisho": "ザ・鳥栖タワー20",
+      "takasa_m": 59.9,
+      "kaisu": 20,
+      "shunko_nen": 2016
+    },
+    {
+      "todofuken": "長崎県",
+      "toshi": "長崎市",
+      "meisho": "ライオンズタワー新大工町",
+      "takasa_m": 98.2,
+      "kaisu": 26,
+      "shunko_nen": 2022
+    },
+    {
+      "todofuken": "熊本県",
+      "toshi": "熊本市",
+      "meisho": "ザ・熊本タワー",
+      "takasa_m": 126.83,
+      "kaisu": 35,
+      "shunko_nen": 2012
+    },
+    {
+      "todofuken": "大分県",
+      "toshi": "大分市",
+      "meisho": "OASISひろば21",
+      "takasa_m": 101.17,
+      "kaisu": 21,
+      "shunko_nen": 1998
+    },
+    {
+      "todofuken": "宮崎県",
+      "toshi": "宮崎市",
+      "meisho": "シェラトン・グランデ・オーシャンリゾート",
+      "takasa_m": 154,
+      "kaisu": 43,
+      "shunko_nen": 1994
+    },
+    {
+      "todofuken": "鹿児島県",
+      "toshi": "鹿児島市",
+      "meisho": "鹿児島中央タワー",
+      "takasa_m": 99.98,
+      "kaisu": 24,
+      "shunko_nen": 2021
+    },
+    {
+      "todofuken": "沖縄県",
+      "toshi": "那覇市",
+      "meisho": "RYU:X TOWER The West",
+      "takasa_m": 104.8,
+      "kaisu": 30,
+      "shunko_nen": 2013
+    },
+    {
+      "todofuken": "沖縄県",
+      "toshi": "那覇市",
+      "meisho": "RYU:X TOWER The East",
+      "takasa_m": 104.8,
+      "kaisu": 30,
+      "shunko_nen": 2015
+    }
+  ],
+  "meta": {
+    "title": "各都道府県で最も高いビルの一覧 - Free Download",
+    "description": "47都道府県それぞれで最も高い建築物（ビル）の名称、所在都市、高さ（m）、階数、竣工年の一覧。 Contains 49 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "各都道府県で最も高いビルの一覧 | ListBase",
+    "seo_description": "Download 各都道府県で最も高いビルの一覧 — 49 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 49 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/各都道府県で最も高いビルの一覧"
+    ]
+  }
+}
