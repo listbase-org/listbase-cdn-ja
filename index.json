@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-18T02:26:56.268Z",
-  "total_datasets": 621,
-  "total_records": 466972,
+  "generated": "2026-11-19T02:31:10.388Z",
+  "total_datasets": 622,
+  "total_records": 467016,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "tech",
@@ -15927,6 +15927,33 @@
         "xlsx": {
           "name": "ja-j-league-nendo-betsu-nyujoshasu_JA.xlsx",
           "size": 8375
+        }
+      }
+    },
+    {
+      "id": "ja-kogohai-joshi-ekiden-rekidai-yusho",
+      "name": "全国都道府県対抗女子駅伝 歴代優勝・上位都道府県一覧",
+      "category": "sports",
+      "record_count": 44,
+      "columns": [
+        "kai",
+        "kaisai_bi",
+        "yusho",
+        "yusho_time",
+        "ni_i",
+        "san_i"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/皇后盃全国都道府県対抗女子駅伝競走大会",
+      "updated": "2026-11",
+      "size": 10986,
+      "files": {
+        "csv": {
+          "name": "ja-kogohai-joshi-ekiden-rekidai-yusho_JA.csv",
+          "size": 3857
+        },
+        "xlsx": {
+          "name": "ja-kogohai-joshi-ekiden-rekidai-yusho_JA.xlsx",
+          "size": 8728
         }
       }
     },

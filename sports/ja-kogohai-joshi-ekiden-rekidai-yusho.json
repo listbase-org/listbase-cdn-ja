@@ -1,0 +1,408 @@
+{
+  "id": "ja-kogohai-joshi-ekiden-rekidai-yusho",
+  "name": "全国都道府県対抗女子駅伝 歴代優勝・上位都道府県一覧",
+  "title": "全国都道府県対抗女子駅伝 歴代優勝・上位都道府県一覧",
+  "description": "皇后盃全国都道府県対抗女子駅伝競走大会（都道府県対抗女子駅伝）の第1回（1983年）以降の開催日、優勝都道府県と通算優勝回数、優勝タイム、2位・3位の都道府県。",
+  "category": "sports",
+  "source": "https://ja.wikipedia.org/wiki/皇后盃全国都道府県対抗女子駅伝競走大会",
+  "source_url": "https://ja.wikipedia.org/wiki/皇后盃全国都道府県対抗女子駅伝競走大会",
+  "updated": "2026-11",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "kai",
+      "label": "Kai",
+      "type": "number"
+    },
+    {
+      "key": "kaisai_bi",
+      "label": "Kaisai Bi",
+      "type": "string"
+    },
+    {
+      "key": "yusho",
+      "label": "Yusho",
+      "type": "string"
+    },
+    {
+      "key": "yusho_time",
+      "label": "Yusho Time",
+      "type": "string"
+    },
+    {
+      "key": "ni_i",
+      "label": "Ni I",
+      "type": "string"
+    },
+    {
+      "key": "san_i",
+      "label": "San I",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kai": 1,
+      "kaisai_bi": "1983年1月23日",
+      "yusho": "千葉県",
+      "yusho_time": "2時間29分02秒",
+      "ni_i": "京都府",
+      "san_i": "兵庫県"
+    },
+    {
+      "kai": 2,
+      "kaisai_bi": "1984年1月22日",
+      "yusho": "京都府",
+      "yusho_time": "2時間27分14秒",
+      "ni_i": "千葉県",
+      "san_i": "兵庫県"
+    },
+    {
+      "kai": 3,
+      "kaisai_bi": "1985年1月20日",
+      "yusho": "千葉県",
+      "yusho_time": "2時間25分32秒",
+      "ni_i": "茨城県",
+      "san_i": "鹿児島県"
+    },
+    {
+      "kai": 4,
+      "kaisai_bi": "1986年1月19日",
+      "yusho": "鹿児島県",
+      "yusho_time": "2時間22分59秒",
+      "ni_i": "大阪府",
+      "san_i": "神奈川県"
+    },
+    {
+      "kai": 5,
+      "kaisai_bi": "1987年1月18日",
+      "yusho": "神奈川県",
+      "yusho_time": "2時間23分05秒",
+      "ni_i": "熊本県",
+      "san_i": "鹿児島県"
+    },
+    {
+      "kai": 6,
+      "kaisai_bi": "1988年1月17日",
+      "yusho": "京都府",
+      "yusho_time": "2時間20分25秒",
+      "ni_i": "神奈川県",
+      "san_i": "鹿児島県"
+    },
+    {
+      "kai": 7,
+      "kaisai_bi": "1989年1月16日",
+      "yusho": "京都府",
+      "yusho_time": "2時間18分41秒",
+      "ni_i": "鹿児島県",
+      "san_i": "熊本県"
+    },
+    {
+      "kai": 8,
+      "kaisai_bi": "1990年1月14日",
+      "yusho": "京都府",
+      "yusho_time": "2時間17分17秒",
+      "ni_i": "熊本県",
+      "san_i": "福岡県"
+    },
+    {
+      "kai": 9,
+      "kaisai_bi": "1991年1月13日",
+      "yusho": "京都府",
+      "yusho_time": "2時間16分01秒",
+      "ni_i": "千葉県",
+      "san_i": "熊本県"
+    },
+    {
+      "kai": 10,
+      "kaisai_bi": "1992年1月12日",
+      "yusho": "京都府",
+      "yusho_time": "2時間17分55秒",
+      "ni_i": "千葉県",
+      "san_i": "広島県"
+    },
+    {
+      "kai": 11,
+      "kaisai_bi": "1993年1月17日",
+      "yusho": "大阪府",
+      "yusho_time": "2時間19分15秒",
+      "ni_i": "京都府",
+      "san_i": "広島県"
+    },
+    {
+      "kai": 12,
+      "kaisai_bi": "1994年1月16日",
+      "yusho": "千葉県",
+      "yusho_time": "2時間18分04秒",
+      "ni_i": "宮城県",
+      "san_i": "熊本県"
+    },
+    {
+      "kai": 13,
+      "kaisai_bi": "1995年1月16日",
+      "yusho": "宮城県",
+      "yusho_time": "2時間17分50秒",
+      "ni_i": "京都府",
+      "san_i": "千葉県"
+    },
+    {
+      "kai": 14,
+      "kaisai_bi": "1996年1月14日",
+      "yusho": "京都府",
+      "yusho_time": "2時間17分19秒",
+      "ni_i": "宮城県",
+      "san_i": "熊本県"
+    },
+    {
+      "kai": 15,
+      "kaisai_bi": "1997年1月12日",
+      "yusho": "熊本県",
+      "yusho_time": "2時間15分19秒",
+      "ni_i": "京都府",
+      "san_i": "福岡県"
+    },
+    {
+      "kai": 16,
+      "kaisai_bi": "1998年1月11日",
+      "yusho": "埼玉県",
+      "yusho_time": "2時間16分54秒",
+      "ni_i": "京都府",
+      "san_i": "熊本県"
+    },
+    {
+      "kai": 17,
+      "kaisai_bi": "1999年1月17日",
+      "yusho": "福岡県",
+      "yusho_time": "2時間18分16秒",
+      "ni_i": "兵庫県",
+      "san_i": "埼玉県"
+    },
+    {
+      "kai": 18,
+      "kaisai_bi": "2000年1月16日",
+      "yusho": "長崎県",
+      "yusho_time": "2時間17分19秒",
+      "ni_i": "愛知県",
+      "san_i": "福岡県"
+    },
+    {
+      "kai": 19,
+      "kaisai_bi": "2001年1月14日",
+      "yusho": "兵庫県",
+      "yusho_time": "2時間17分57秒",
+      "ni_i": "千葉県",
+      "san_i": "京都府"
+    },
+    {
+      "kai": 20,
+      "kaisai_bi": "2002年1月13日",
+      "yusho": "京都府",
+      "yusho_time": "2時間15分55秒",
+      "ni_i": "長崎県",
+      "san_i": "福岡県"
+    },
+    {
+      "kai": 21,
+      "kaisai_bi": "2003年1月12日",
+      "yusho": "兵庫県",
+      "yusho_time": "2時間16分02秒",
+      "ni_i": "京都府",
+      "san_i": "長崎県"
+    },
+    {
+      "kai": 22,
+      "kaisai_bi": "2004年1月11日",
+      "yusho": "兵庫県",
+      "yusho_time": "2時間16分18秒",
+      "ni_i": "神奈川県",
+      "san_i": "京都府"
+    },
+    {
+      "kai": 23,
+      "kaisai_bi": "2005年1月16日",
+      "yusho": "京都府",
+      "yusho_time": "2時間16分22秒",
+      "ni_i": "兵庫県",
+      "san_i": "山形県"
+    },
+    {
+      "kai": 24,
+      "kaisai_bi": "2006年1月15日",
+      "yusho": "京都府",
+      "yusho_time": "2時間15分26秒",
+      "ni_i": "埼玉県",
+      "san_i": "長崎県"
+    },
+    {
+      "kai": 25,
+      "kaisai_bi": "2007年1月14日",
+      "yusho": "京都府",
+      "yusho_time": "2時間17分03秒",
+      "ni_i": "岡山県",
+      "san_i": "兵庫県"
+    },
+    {
+      "kai": 26,
+      "kaisai_bi": "2008年1月13日",
+      "yusho": "京都府",
+      "yusho_time": "2時間14分58秒",
+      "ni_i": "兵庫県",
+      "san_i": "岡山県"
+    },
+    {
+      "kai": 27,
+      "kaisai_bi": "2009年1月11日",
+      "yusho": "京都府",
+      "yusho_time": "2時間15分39秒",
+      "ni_i": "岡山県",
+      "san_i": "兵庫県"
+    },
+    {
+      "kai": 28,
+      "kaisai_bi": "2010年1月17日",
+      "yusho": "岡山県",
+      "yusho_time": "2時間16分24秒",
+      "ni_i": "千葉県",
+      "san_i": "京都府"
+    },
+    {
+      "kai": 29,
+      "kaisai_bi": "2011年1月16日",
+      "yusho": "京都府",
+      "yusho_time": "2時間17分16秒",
+      "ni_i": "岡山県",
+      "san_i": "福岡県"
+    },
+    {
+      "kai": 30,
+      "kaisai_bi": "2012年1月15日",
+      "yusho": "大阪府",
+      "yusho_time": "2時間16分37秒",
+      "ni_i": "京都府",
+      "san_i": "千葉県"
+    },
+    {
+      "kai": 31,
+      "kaisai_bi": "2013年1月13日",
+      "yusho": "神奈川県",
+      "yusho_time": "2時間14分55秒",
+      "ni_i": "兵庫県",
+      "san_i": "大阪府"
+    },
+    {
+      "kai": 32,
+      "kaisai_bi": "2014年1月12日",
+      "yusho": "京都府",
+      "yusho_time": "2時間15分32秒",
+      "ni_i": "群馬県",
+      "san_i": "岡山県"
+    },
+    {
+      "kai": 33,
+      "kaisai_bi": "2015年1月11日",
+      "yusho": "大阪府",
+      "yusho_time": "2時間17分26秒",
+      "ni_i": "京都府",
+      "san_i": "兵庫県"
+    },
+    {
+      "kai": 34,
+      "kaisai_bi": "2016年1月17日",
+      "yusho": "愛知県",
+      "yusho_time": "2時間16分02秒",
+      "ni_i": "兵庫県",
+      "san_i": "群馬県"
+    },
+    {
+      "kai": 35,
+      "kaisai_bi": "2017年1月15日",
+      "yusho": "京都府",
+      "yusho_time": "2時間17分45秒",
+      "ni_i": "岡山県",
+      "san_i": "千葉県"
+    },
+    {
+      "kai": 36,
+      "kaisai_bi": "2018年1月14日",
+      "yusho": "兵庫県",
+      "yusho_time": "2時間15分28秒",
+      "ni_i": "京都府",
+      "san_i": "長崎県"
+    },
+    {
+      "kai": 37,
+      "kaisai_bi": "2019年1月13日",
+      "yusho": "愛知県",
+      "yusho_time": "2時間15分43秒",
+      "ni_i": "京都府",
+      "san_i": "大阪府"
+    },
+    {
+      "kai": 38,
+      "kaisai_bi": "2020年1月12日",
+      "yusho": "京都府",
+      "yusho_time": "2時間16分15秒",
+      "ni_i": "宮城県",
+      "san_i": "東京都"
+    },
+    {
+      "kai": 39,
+      "kaisai_bi": "2021年1月17日",
+      "yusho": "新型コロナウイルス による感染拡大防止のため大会中止",
+      "yusho_time": "新型コロナウイルス による感染拡大防止のため大会中止",
+      "ni_i": "新型コロナウイルス による感染拡大防止のため大会中止",
+      "san_i": "新型コロナウイルス による感染拡大防止のため大会中止"
+    },
+    {
+      "kai": 40,
+      "kaisai_bi": "2022年1月16日",
+      "yusho": "京都府",
+      "yusho_time": "2時間15分05秒",
+      "ni_i": "福岡県",
+      "san_i": "宮城県"
+    },
+    {
+      "kai": 41,
+      "kaisai_bi": "2023年1月15日",
+      "yusho": "大阪府",
+      "yusho_time": "2時間15分48秒",
+      "ni_i": "京都府",
+      "san_i": "福岡県"
+    },
+    {
+      "kai": 42,
+      "kaisai_bi": "2024年1月14日",
+      "yusho": "宮城県",
+      "yusho_time": "2時間16分30秒",
+      "ni_i": "京都府",
+      "san_i": "広島県"
+    },
+    {
+      "kai": 43,
+      "kaisai_bi": "2025年1月12日",
+      "yusho": "京都府",
+      "yusho_time": "2時間15分26秒",
+      "ni_i": "大阪府",
+      "san_i": "福岡県"
+    },
+    {
+      "kai": 44,
+      "kaisai_bi": "2026年1月11日",
+      "yusho": "大阪府",
+      "yusho_time": "2時間18分19秒",
+      "ni_i": "兵庫県",
+      "san_i": "長野県"
+    }
+  ],
+  "meta": {
+    "title": "全国都道府県対抗女子駅伝 歴代優勝・上位都道府県一覧 - Free Download",
+    "description": "皇后盃全国都道府県対抗女子駅伝競走大会（都道府県対抗女子駅伝）の第1回（1983年）以降の開催日、優勝都道府県と通算優勝回数、優勝タイム、2位・3位の都道府県。 Contains 44 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "全国都道府県対抗女子駅伝 歴代優勝・上位都道府県一覧 | ListBase",
+    "seo_description": "Download 全国都道府県対抗女子駅伝 歴代優勝・上位都道府県一覧 — 44 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 44 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/皇后盃全国都道府県対抗女子駅伝競走大会"
+    ]
+  }
+}
