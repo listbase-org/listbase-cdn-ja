@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-19T02:31:25.543Z",
-  "total_datasets": 623,
-  "total_records": 467065,
+  "generated": "2026-11-19T02:35:02.310Z",
+  "total_datasets": 624,
+  "total_records": 467112,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 52
+      "dataset_count": 53
     },
     {
       "id": "units",
@@ -19019,6 +19019,32 @@
         "xlsx": {
           "name": "ja-tochigi-unlocode_JA.xlsx",
           "size": 8907
+        }
+      }
+    },
+    {
+      "id": "ja-todofuken-tozai-nanboku-tan-eki",
+      "name": "都道府県別 東西南北端の駅一覧",
+      "category": "transport",
+      "record_count": 47,
+      "columns": [
+        "todofuken",
+        "saitotan_eki",
+        "saiseitan_eki",
+        "sainantan_eki",
+        "saihokutan_eki"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/日本の都道府県の東西南北端の駅の一覧",
+      "updated": "2026-11",
+      "size": 14796,
+      "files": {
+        "csv": {
+          "name": "ja-todofuken-tozai-nanboku-tan-eki_JA.csv",
+          "size": 7005
+        },
+        "xlsx": {
+          "name": "ja-todofuken-tozai-nanboku-tan-eki_JA.xlsx",
+          "size": 10739
         }
       }
     },

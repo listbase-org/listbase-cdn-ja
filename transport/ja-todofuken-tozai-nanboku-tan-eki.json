@@ -1,0 +1,380 @@
+{
+  "id": "ja-todofuken-tozai-nanboku-tan-eki",
+  "name": "都道府県別 東西南北端の駅一覧",
+  "title": "都道府県別 東西南北端の駅一覧",
+  "description": "47都道府県それぞれの最東端・最西端・最南端・最北端にある鉄道駅と所在市町村の一覧。",
+  "category": "transport",
+  "source": "https://ja.wikipedia.org/wiki/日本の都道府県の東西南北端の駅の一覧",
+  "source_url": "https://ja.wikipedia.org/wiki/日本の都道府県の東西南北端の駅の一覧",
+  "updated": "2026-11",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "todofuken",
+      "label": "Todofuken",
+      "type": "string"
+    },
+    {
+      "key": "saitotan_eki",
+      "label": "Saitotan Eki",
+      "type": "string"
+    },
+    {
+      "key": "saiseitan_eki",
+      "label": "Saiseitan Eki",
+      "type": "string"
+    },
+    {
+      "key": "sainantan_eki",
+      "label": "Sainantan Eki",
+      "type": "string"
+    },
+    {
+      "key": "saihokutan_eki",
+      "label": "Saihokutan Eki",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "todofuken": "北海道",
+      "saitotan_eki": "根室駅（根室市）",
+      "saiseitan_eki": "八雲駅（二海郡八雲町）",
+      "sainantan_eki": "木古内駅（上磯郡木古内町）",
+      "saihokutan_eki": "稚内駅（稚内市）"
+    },
+    {
+      "todofuken": "青森県",
+      "saitotan_eki": "階上駅（三戸郡階上町）",
+      "saiseitan_eki": "艫作駅（西津軽郡深浦町）",
+      "sainantan_eki": "目時駅（三戸郡三戸町）",
+      "saihokutan_eki": "下北駅（むつ市）"
+    },
+    {
+      "todofuken": "岩手県",
+      "saitotan_eki": "岩手船越駅（下閉伊郡山田町）",
+      "saiseitan_eki": "ゆだ高原駅（和賀郡西和賀町）",
+      "sainantan_eki": "油島駅（一関市）",
+      "saihokutan_eki": "角の浜駅（九戸郡洋野町）"
+    },
+    {
+      "todofuken": "宮城県",
+      "saitotan_eki": "気仙沼駅（気仙沼市）",
+      "saiseitan_eki": "奥新川駅（仙台市青葉区）",
+      "sainantan_eki": "あぶくま駅（伊具郡丸森町）",
+      "saihokutan_eki": "気仙沼駅（気仙沼市）"
+    },
+    {
+      "todofuken": "秋田県",
+      "saitotan_eki": "湯瀬温泉駅（鹿角市）",
+      "saiseitan_eki": "男鹿駅（男鹿市）",
+      "sainantan_eki": "院内駅（湯沢市）",
+      "saihokutan_eki": "岩館駅（山本郡八峰町）"
+    },
+    {
+      "todofuken": "山形県",
+      "saitotan_eki": "堺田駅（最上郡最上町）",
+      "saiseitan_eki": "鼠ケ関駅（鶴岡市）",
+      "sainantan_eki": "板谷駅（米沢市）",
+      "saihokutan_eki": "女鹿駅（飽海郡遊佐町）"
+    },
+    {
+      "todofuken": "福島県",
+      "saitotan_eki": "富岡駅（双葉郡富岡町）",
+      "saiseitan_eki": "只見駅（南会津郡只見町）",
+      "sainantan_eki": "矢祭山駅（東白川郡矢祭町）",
+      "saihokutan_eki": "貝田駅（伊達郡国見町）"
+    },
+    {
+      "todofuken": "茨城県",
+      "saitotan_eki": "大津港駅（北茨城市）",
+      "saiseitan_eki": "古河駅（古河市）",
+      "sainantan_eki": "取手駅（取手市）",
+      "saihokutan_eki": "大津港駅（北茨城市）"
+    },
+    {
+      "todofuken": "栃木県",
+      "saitotan_eki": "茂木駅（芳賀郡茂木町）",
+      "saiseitan_eki": "小俣駅（足利市）",
+      "sainantan_eki": "野木駅（下都賀郡野木町）",
+      "saihokutan_eki": "豊原駅（那須郡那須町）"
+    },
+    {
+      "todofuken": "群馬県",
+      "saitotan_eki": "板倉東洋大前駅（邑楽郡板倉町）",
+      "saiseitan_eki": "大前駅（吾妻郡嬬恋村）",
+      "sainantan_eki": "川俣駅（邑楽郡明和町）",
+      "saihokutan_eki": "土合駅（利根郡みなかみ町）"
+    },
+    {
+      "todofuken": "埼玉県",
+      "saitotan_eki": "三郷駅（三郷市）",
+      "saiseitan_eki": "三峰口駅（秩父市）",
+      "sainantan_eki": "西武園ゆうえんち駅（所沢市）",
+      "saihokutan_eki": "神保原駅（児玉郡上里町）"
+    },
+    {
+      "todofuken": "千葉県",
+      "saitotan_eki": "海鹿島駅（銚子市）",
+      "saiseitan_eki": "浜金谷駅（富津市）",
+      "sainantan_eki": "千倉駅（南房総市）",
+      "saihokutan_eki": "川間駅（野田市）"
+    },
+    {
+      "todofuken": "東京都",
+      "saitotan_eki": "篠崎駅（江戸川区）",
+      "saiseitan_eki": "奥多摩駅（西多摩郡奥多摩町）",
+      "sainantan_eki": "南町田グランベリーパーク駅（町田市）",
+      "saihokutan_eki": "古里駅（西多摩郡奥多摩町）"
+    },
+    {
+      "todofuken": "神奈川県",
+      "saitotan_eki": "浮島町駅（川崎市川崎区）",
+      "saiseitan_eki": "早雲山駅（足柄下郡箱根町）",
+      "sainantan_eki": "湯河原駅（足柄下郡湯河原町）",
+      "saihokutan_eki": "京王稲田堤駅（川崎市多摩区）"
+    },
+    {
+      "todofuken": "新潟県",
+      "saitotan_eki": "越後金丸駅（岩船郡関川村）",
+      "saiseitan_eki": "市振駅（糸魚川市）",
+      "sainantan_eki": "妙高高原駅（妙高市）",
+      "saihokutan_eki": "府屋駅（村上市）"
+    },
+    {
+      "todofuken": "富山県",
+      "saitotan_eki": "黒部湖駅（中新川郡立山町）",
+      "saiseitan_eki": "石動駅（小矢部市）",
+      "sainantan_eki": "猪谷駅（富山市）",
+      "saihokutan_eki": "越中宮崎駅（下新川郡朝日町）"
+    },
+    {
+      "todofuken": "石川県",
+      "saitotan_eki": "七尾駅（七尾市）",
+      "saiseitan_eki": "大聖寺駅（加賀市）",
+      "sainantan_eki": "大聖寺駅（加賀市）",
+      "saihokutan_eki": "穴水駅（鳳珠郡穴水町）"
+    },
+    {
+      "todofuken": "福井県",
+      "saitotan_eki": "九頭竜湖駅（大野市）",
+      "saiseitan_eki": "青郷駅（大飯郡高浜町）",
+      "sainantan_eki": "上中駅（三方上中郡若狭町）",
+      "saihokutan_eki": "牛ノ谷駅（あわら市）"
+    },
+    {
+      "todofuken": "山梨県",
+      "saitotan_eki": "上野原駅（上野原市）",
+      "saiseitan_eki": "小淵沢駅（北杜市）",
+      "sainantan_eki": "十島駅（南巨摩郡南部町）",
+      "saihokutan_eki": "清里駅（北杜市）"
+    },
+    {
+      "todofuken": "長野県",
+      "saitotan_eki": "軽井沢駅（北佐久郡軽井沢町）",
+      "saiseitan_eki": "田立駅（木曽郡南木曽町）",
+      "sainantan_eki": "中井侍駅（下伊那郡天龍村）",
+      "saihokutan_eki": "森宮野原駅（下水内郡栄村）"
+    },
+    {
+      "todofuken": "岐阜県",
+      "saitotan_eki": "坂下駅（中津川市）",
+      "saiseitan_eki": "関ケ原駅（不破郡関ケ原町）",
+      "sainantan_eki": "美濃松山駅（海津市）",
+      "saihokutan_eki": "杉原駅（飛騨市）"
+    },
+    {
+      "todofuken": "静岡県",
+      "saitotan_eki": "富戸駅（伊東市）",
+      "saiseitan_eki": "新所原駅（湖西市）",
+      "sainantan_eki": "伊豆急下田駅（下田市）",
+      "saihokutan_eki": "駿河小山駅（駿東郡小山町）"
+    },
+    {
+      "todofuken": "愛知県",
+      "saitotan_eki": "東栄駅（北設楽郡東栄町）",
+      "saiseitan_eki": "五ノ三駅（弥富市）",
+      "sainantan_eki": "三河田原駅（田原市）",
+      "saihokutan_eki": "犬山遊園駅（犬山市）"
+    },
+    {
+      "todofuken": "三重県",
+      "saitotan_eki": "加茂駅（鳥羽市）",
+      "saiseitan_eki": "鵜殿駅（南牟婁郡紀宝町）",
+      "sainantan_eki": "鵜殿駅（南牟婁郡紀宝町）",
+      "saihokutan_eki": "西藤原駅（いなべ市）"
+    },
+    {
+      "todofuken": "滋賀県",
+      "saitotan_eki": "柏原駅（米原市）",
+      "saiseitan_eki": "追分駅（大津市）",
+      "sainantan_eki": "信楽駅（甲賀市）",
+      "saihokutan_eki": "近江塩津駅（長浜市）"
+    },
+    {
+      "todofuken": "京都府",
+      "saitotan_eki": "月ケ瀬口駅（相楽郡南山城村）",
+      "saiseitan_eki": "久美浜駅（京丹後市）",
+      "sainantan_eki": "木津駅（木津川市）",
+      "saihokutan_eki": "網野駅（京丹後市）"
+    },
+    {
+      "todofuken": "大阪府",
+      "saitotan_eki": "長尾駅（枚方市）",
+      "saiseitan_eki": "多奈川駅（泉南郡岬町）",
+      "sainantan_eki": "孝子駅（泉南郡岬町）",
+      "saihokutan_eki": "妙見口駅（豊能郡豊能町）"
+    },
+    {
+      "todofuken": "兵庫県",
+      "saitotan_eki": "園田駅（尼崎市）",
+      "saiseitan_eki": "上月駅（佐用郡佐用町）",
+      "sainantan_eki": "東垂水駅（神戸市垂水区）",
+      "saihokutan_eki": "佐津駅（三方郡香美町）"
+    },
+    {
+      "todofuken": "奈良県",
+      "saitotan_eki": "三本松駅（宇陀市）",
+      "saiseitan_eki": "関屋駅（香芝市）",
+      "sainantan_eki": "大和二見駅（五條市）",
+      "saihokutan_eki": "学研奈良登美ヶ丘駅（奈良市）"
+    },
+    {
+      "todofuken": "和歌山県",
+      "saitotan_eki": "新宮駅（新宮市）",
+      "saiseitan_eki": "加太駅（和歌山市）",
+      "sainantan_eki": "串本駅（東牟婁郡串本町）",
+      "saihokutan_eki": "紀見峠駅（橋本市）"
+    },
+    {
+      "todofuken": "鳥取県",
+      "saitotan_eki": "若桜駅（八頭郡若桜町）",
+      "saiseitan_eki": "境港駅（境港市）",
+      "sainantan_eki": "上石見駅（日野郡日南町）",
+      "saihokutan_eki": "東浜駅（岩美郡岩美町）"
+    },
+    {
+      "todofuken": "島根県",
+      "saitotan_eki": "安来駅（安来市）",
+      "saiseitan_eki": "飯浦駅（益田市）",
+      "sainantan_eki": "津和野駅（鹿足郡津和野町）",
+      "saihokutan_eki": "朝日ヶ丘駅（松江市）"
+    },
+    {
+      "todofuken": "岡山県",
+      "saitotan_eki": "あわくら温泉駅（英田郡西粟倉村）",
+      "saiseitan_eki": "野馳駅（新見市）",
+      "sainantan_eki": "児島駅（倉敷市）",
+      "saihokutan_eki": "美作河井駅（津山市）"
+    },
+    {
+      "todofuken": "広島県",
+      "saitotan_eki": "大門駅（福山市）",
+      "saiseitan_eki": "大竹駅（大竹市）",
+      "sainantan_eki": "大竹駅（大竹市）",
+      "saihokutan_eki": "油木駅（庄原市）"
+    },
+    {
+      "todofuken": "山口県",
+      "saitotan_eki": "和木駅（玖珂郡和木町）",
+      "saiseitan_eki": "梅ケ峠駅（下関市）",
+      "sainantan_eki": "宇部岬駅（宇部市）",
+      "saihokutan_eki": "江崎駅（萩市）"
+    },
+    {
+      "todofuken": "徳島県",
+      "saitotan_eki": "見能林駅（阿南市）",
+      "saiseitan_eki": "阿波川口駅（三好市）",
+      "sainantan_eki": "宍喰駅（海部郡海陽町）",
+      "saihokutan_eki": "鳴門駅（鳴門市）"
+    },
+    {
+      "todofuken": "香川県",
+      "saitotan_eki": "讃岐相生駅（東かがわ市）",
+      "saiseitan_eki": "箕浦駅（観音寺市）",
+      "sainantan_eki": "箕浦駅（観音寺市）",
+      "saihokutan_eki": "八栗山上駅（高松市）"
+    },
+    {
+      "todofuken": "愛媛県",
+      "saitotan_eki": "川之江駅（四国中央市）",
+      "saiseitan_eki": "八幡浜駅（八幡浜市）",
+      "sainantan_eki": "真土駅（北宇和郡松野町）",
+      "saihokutan_eki": "波止浜駅（今治市）"
+    },
+    {
+      "todofuken": "高知県",
+      "saitotan_eki": "奈半利駅（安芸郡奈半利町）",
+      "saiseitan_eki": "宿毛駅（宿毛市）",
+      "sainantan_eki": "宿毛駅（宿毛市）",
+      "saihokutan_eki": "土佐岩原駅（長岡郡大豊町）"
+    },
+    {
+      "todofuken": "福岡県",
+      "saitotan_eki": "吉富駅（築上郡吉富町）",
+      "saiseitan_eki": "鹿家駅（糸島市）",
+      "sainantan_eki": "大牟田駅（大牟田市）",
+      "saihokutan_eki": "関門海峡めかり駅（北九州市門司区）"
+    },
+    {
+      "todofuken": "佐賀県",
+      "saitotan_eki": "立野駅（三養基郡基山町）",
+      "saiseitan_eki": "福島口駅（伊万里市）",
+      "sainantan_eki": "肥前大浦駅（藤津郡太良町）",
+      "saihokutan_eki": "西唐津駅（唐津市）"
+    },
+    {
+      "todofuken": "長崎県",
+      "saitotan_eki": "島原船津駅（島原市）",
+      "saiseitan_eki": "たびら平戸口駅（平戸市）",
+      "sainantan_eki": "石橋停留場（長崎市）",
+      "saihokutan_eki": "御厨駅（松浦市）"
+    },
+    {
+      "todofuken": "熊本県",
+      "saitotan_eki": "滝水駅（阿蘇市）",
+      "saiseitan_eki": "袋駅（水俣市）",
+      "sainantan_eki": "矢岳駅（人吉市）",
+      "saihokutan_eki": "荒尾駅（荒尾市）"
+    },
+    {
+      "todofuken": "大分県",
+      "saitotan_eki": "浅海井駅（佐伯市）",
+      "saiseitan_eki": "夜明駅（日田市）",
+      "sainantan_eki": "宗太郎駅（佐伯市）",
+      "saihokutan_eki": "中津駅（中津市）"
+    },
+    {
+      "todofuken": "宮崎県",
+      "saitotan_eki": "市棚駅（延岡市）",
+      "saiseitan_eki": "真幸駅（えびの市）",
+      "sainantan_eki": "福島今町駅（串間市）",
+      "saihokutan_eki": "市棚駅（延岡市）"
+    },
+    {
+      "todofuken": "鹿児島県",
+      "saitotan_eki": "大隅夏井駅（志布志市）",
+      "saiseitan_eki": "阿久根駅（阿久根市）",
+      "sainantan_eki": "西大山駅（指宿市）",
+      "saihokutan_eki": "米ノ津駅（出水市）"
+    },
+    {
+      "todofuken": "沖縄県",
+      "saitotan_eki": "てだこ浦西駅（浦添市）",
+      "saiseitan_eki": "那覇空港駅（那覇市）",
+      "sainantan_eki": "赤嶺駅（那覇市）",
+      "saihokutan_eki": "浦添前田駅（浦添市）"
+    }
+  ],
+  "meta": {
+    "title": "都道府県別 東西南北端の駅一覧 - Free Download",
+    "description": "47都道府県それぞれの最東端・最西端・最南端・最北端にある鉄道駅と所在市町村の一覧。 Contains 47 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "都道府県別 東西南北端の駅一覧 | ListBase",
+    "seo_description": "Download 都道府県別 東西南北端の駅一覧 — 47 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 47 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/日本の都道府県の東西南北端の駅の一覧"
+    ]
+  }
+}
