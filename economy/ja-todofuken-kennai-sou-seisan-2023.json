@@ -1,0 +1,440 @@
+{
+  "id": "ja-todofuken-kennai-sou-seisan-2023",
+  "name": "都道府県別 県内総生産・1人当たり県民所得（2023年度）",
+  "title": "都道府県別 県内総生産・1人当たり県民所得（2023年度）",
+  "description": "内閣府の県民経済計算に基づく2023年度（令和5年度）の都道府県別の県内総生産（名目、百万円）とその構成比、1人当たり県民所得（千円）、人口とその構成比。",
+  "category": "economy",
+  "source": "https://ja.wikipedia.org/wiki/県民経済計算",
+  "source_url": "https://ja.wikipedia.org/wiki/県民経済計算",
+  "updated": "2026-11",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "gpp_million_yen",
+      "label": "Gpp Million Yen",
+      "type": "number"
+    },
+    {
+      "key": "gpp_share_pct",
+      "label": "Gpp Share Pct",
+      "type": "number"
+    },
+    {
+      "key": "per_capita_income_thousand_yen",
+      "label": "Per Capita Income Thousand Yen",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "population_share_pct",
+      "label": "Population Share Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "prefecture": "全県計",
+      "gpp_million_yen": 621662801,
+      "gpp_share_pct": 100,
+      "per_capita_income_thousand_yen": 3639,
+      "population": 124351877,
+      "population_share_pct": 100
+    },
+    {
+      "prefecture": "北海道",
+      "gpp_million_yen": 21504186,
+      "gpp_share_pct": 3.5,
+      "per_capita_income_thousand_yen": 3000,
+      "population": 5092453,
+      "population_share_pct": 4.1
+    },
+    {
+      "prefecture": "青森県",
+      "gpp_million_yen": 4624410,
+      "gpp_share_pct": 0.7,
+      "per_capita_income_thousand_yen": 2879,
+      "population": 1184374,
+      "population_share_pct": 1
+    },
+    {
+      "prefecture": "岩手県",
+      "gpp_million_yen": 4897288,
+      "gpp_share_pct": 0.8,
+      "per_capita_income_thousand_yen": 2835,
+      "population": 1163212,
+      "population_share_pct": 0.9
+    },
+    {
+      "prefecture": "宮城県",
+      "gpp_million_yen": 10050939,
+      "gpp_share_pct": 1.6,
+      "per_capita_income_thousand_yen": 3054,
+      "population": 2264433,
+      "population_share_pct": 1.8
+    },
+    {
+      "prefecture": "秋田県",
+      "gpp_million_yen": 3739591,
+      "gpp_share_pct": 0.6,
+      "per_capita_income_thousand_yen": 2889,
+      "population": 913601,
+      "population_share_pct": 0.7
+    },
+    {
+      "prefecture": "山形県",
+      "gpp_million_yen": 4765009,
+      "gpp_share_pct": 0.8,
+      "per_capita_income_thousand_yen": 3271,
+      "population": 1026207,
+      "population_share_pct": 0.8
+    },
+    {
+      "prefecture": "福島県",
+      "gpp_million_yen": 8395029,
+      "gpp_share_pct": 1.4,
+      "per_capita_income_thousand_yen": 3215,
+      "population": 1766645,
+      "population_share_pct": 1.4
+    },
+    {
+      "prefecture": "茨城県",
+      "gpp_million_yen": 14735500,
+      "gpp_share_pct": 2.4,
+      "per_capita_income_thousand_yen": 3526,
+      "population": 2824595,
+      "population_share_pct": 2.3
+    },
+    {
+      "prefecture": "栃木県",
+      "gpp_million_yen": 9827871,
+      "gpp_share_pct": 1.6,
+      "per_capita_income_thousand_yen": 3550,
+      "population": 1897415,
+      "population_share_pct": 1.5
+    },
+    {
+      "prefecture": "群馬県",
+      "gpp_million_yen": 9898757,
+      "gpp_share_pct": 1.6,
+      "per_capita_income_thousand_yen": 3523,
+      "population": 1901772,
+      "population_share_pct": 1.5
+    },
+    {
+      "prefecture": "埼玉県",
+      "gpp_million_yen": 25886720,
+      "gpp_share_pct": 4.2,
+      "per_capita_income_thousand_yen": 3286,
+      "population": 7331377,
+      "population_share_pct": 5.9
+    },
+    {
+      "prefecture": "千葉県",
+      "gpp_million_yen": 22174933,
+      "gpp_share_pct": 3.6,
+      "per_capita_income_thousand_yen": 3275,
+      "population": 6256665,
+      "population_share_pct": 5
+    },
+    {
+      "prefecture": "東京都",
+      "gpp_million_yen": 125018533,
+      "gpp_share_pct": 20.1,
+      "per_capita_income_thousand_yen": 6368,
+      "population": 14085890,
+      "population_share_pct": 11.3
+    },
+    {
+      "prefecture": "神奈川県",
+      "gpp_million_yen": 37331308,
+      "gpp_share_pct": 6,
+      "per_capita_income_thousand_yen": 3349,
+      "population": 9228870,
+      "population_share_pct": 7.4
+    },
+    {
+      "prefecture": "新潟県",
+      "gpp_million_yen": 9462168,
+      "gpp_share_pct": 1.5,
+      "per_capita_income_thousand_yen": 3156,
+      "population": 2126345,
+      "population_share_pct": 1.7
+    },
+    {
+      "prefecture": "富山県",
+      "gpp_million_yen": 5064496,
+      "gpp_share_pct": 0.8,
+      "per_capita_income_thousand_yen": 3504,
+      "population": 1006739,
+      "population_share_pct": 0.8
+    },
+    {
+      "prefecture": "石川県",
+      "gpp_million_yen": 4871117,
+      "gpp_share_pct": 0.8,
+      "per_capita_income_thousand_yen": 3081,
+      "population": 1108957,
+      "population_share_pct": 0.9
+    },
+    {
+      "prefecture": "福井県",
+      "gpp_million_yen": 3954227,
+      "gpp_share_pct": 0.6,
+      "per_capita_income_thousand_yen": 3642,
+      "population": 744405,
+      "population_share_pct": 0.6
+    },
+    {
+      "prefecture": "山梨県",
+      "gpp_million_yen": 3678910,
+      "gpp_share_pct": 0.6,
+      "per_capita_income_thousand_yen": 3259,
+      "population": 795843,
+      "population_share_pct": 0.6
+    },
+    {
+      "prefecture": "長野県",
+      "gpp_million_yen": 9036857,
+      "gpp_share_pct": 1.5,
+      "per_capita_income_thousand_yen": 3164,
+      "population": 2003918,
+      "population_share_pct": 1.6
+    },
+    {
+      "prefecture": "岐阜県",
+      "gpp_million_yen": 8386243,
+      "gpp_share_pct": 1.3,
+      "per_capita_income_thousand_yen": 3264,
+      "population": 1931212,
+      "population_share_pct": 1.6
+    },
+    {
+      "prefecture": "静岡県",
+      "gpp_million_yen": 19118151,
+      "gpp_share_pct": 3.1,
+      "per_capita_income_thousand_yen": 3822,
+      "population": 3555288,
+      "population_share_pct": 2.9
+    },
+    {
+      "prefecture": "愛知県",
+      "gpp_million_yen": 46091073,
+      "gpp_share_pct": 7.4,
+      "per_capita_income_thousand_yen": 4150,
+      "population": 7476692,
+      "population_share_pct": 6
+    },
+    {
+      "prefecture": "三重県",
+      "gpp_million_yen": 8995504,
+      "gpp_share_pct": 1.4,
+      "per_capita_income_thousand_yen": 3444,
+      "population": 1726812,
+      "population_share_pct": 1.4
+    },
+    {
+      "prefecture": "滋賀県",
+      "gpp_million_yen": 7362505,
+      "gpp_share_pct": 1.2,
+      "per_capita_income_thousand_yen": 3461,
+      "population": 1406630,
+      "population_share_pct": 1.1
+    },
+    {
+      "prefecture": "京都府",
+      "gpp_million_yen": 11510399,
+      "gpp_share_pct": 1.9,
+      "per_capita_income_thousand_yen": 3216,
+      "population": 2535224,
+      "population_share_pct": 2
+    },
+    {
+      "prefecture": "大阪府",
+      "gpp_million_yen": 44992432,
+      "gpp_share_pct": 7.2,
+      "per_capita_income_thousand_yen": 3450,
+      "population": 8762857,
+      "population_share_pct": 7
+    },
+    {
+      "prefecture": "兵庫県",
+      "gpp_million_yen": 23989541,
+      "gpp_share_pct": 3.9,
+      "per_capita_income_thousand_yen": 3277,
+      "population": 5369888,
+      "population_share_pct": 4.3
+    },
+    {
+      "prefecture": "奈良県",
+      "gpp_million_yen": 3954971,
+      "gpp_share_pct": 0.6,
+      "per_capita_income_thousand_yen": 2898,
+      "population": 1295525,
+      "population_share_pct": 1
+    },
+    {
+      "prefecture": "和歌山県",
+      "gpp_million_yen": 4010734,
+      "gpp_share_pct": 0.6,
+      "per_capita_income_thousand_yen": 3456,
+      "population": 891820,
+      "population_share_pct": 0.7
+    },
+    {
+      "prefecture": "鳥取県",
+      "gpp_million_yen": 1993048,
+      "gpp_share_pct": 0.3,
+      "per_capita_income_thousand_yen": 2611,
+      "population": 537426,
+      "population_share_pct": 0.4
+    },
+    {
+      "prefecture": "島根県",
+      "gpp_million_yen": 2961032,
+      "gpp_share_pct": 0.5,
+      "per_capita_income_thousand_yen": 3350,
+      "population": 649563,
+      "population_share_pct": 0.5
+    },
+    {
+      "prefecture": "岡山県",
+      "gpp_million_yen": 8259966,
+      "gpp_share_pct": 1.3,
+      "per_capita_income_thousand_yen": 3034,
+      "population": 1846707,
+      "population_share_pct": 1.5
+    },
+    {
+      "prefecture": "広島県",
+      "gpp_million_yen": 12608090,
+      "gpp_share_pct": 2,
+      "per_capita_income_thousand_yen": 3316,
+      "population": 2737848,
+      "population_share_pct": 2.2
+    },
+    {
+      "prefecture": "山口県",
+      "gpp_million_yen": 6725437,
+      "gpp_share_pct": 1.1,
+      "per_capita_income_thousand_yen": 3336,
+      "population": 1297572,
+      "population_share_pct": 1
+    },
+    {
+      "prefecture": "徳島県",
+      "gpp_million_yen": 3451372,
+      "gpp_share_pct": 0.6,
+      "per_capita_income_thousand_yen": 3388,
+      "population": 694927,
+      "population_share_pct": 0.6
+    },
+    {
+      "prefecture": "香川県",
+      "gpp_million_yen": 4094107,
+      "gpp_share_pct": 0.7,
+      "per_capita_income_thousand_yen": 3111,
+      "population": 925588,
+      "population_share_pct": 0.7
+    },
+    {
+      "prefecture": "愛媛県",
+      "gpp_million_yen": 5264699,
+      "gpp_share_pct": 0.8,
+      "per_capita_income_thousand_yen": 2865,
+      "population": 1291356,
+      "population_share_pct": 1
+    },
+    {
+      "prefecture": "高知県",
+      "gpp_million_yen": 2453490,
+      "gpp_share_pct": 0.4,
+      "per_capita_income_thousand_yen": 2749,
+      "population": 666422,
+      "population_share_pct": 0.5
+    },
+    {
+      "prefecture": "福岡県",
+      "gpp_million_yen": 21238732,
+      "gpp_share_pct": 3.4,
+      "per_capita_income_thousand_yen": 2974,
+      "population": 5102730,
+      "population_share_pct": 4.1
+    },
+    {
+      "prefecture": "佐賀県",
+      "gpp_million_yen": 3436281,
+      "gpp_share_pct": 0.6,
+      "per_capita_income_thousand_yen": 3044,
+      "population": 794859,
+      "population_share_pct": 0.6
+    },
+    {
+      "prefecture": "長崎県",
+      "gpp_million_yen": 4990487,
+      "gpp_share_pct": 0.8,
+      "per_capita_income_thousand_yen": 2782,
+      "population": 1267152,
+      "population_share_pct": 1
+    },
+    {
+      "prefecture": "熊本県",
+      "gpp_million_yen": 6723701,
+      "gpp_share_pct": 1.1,
+      "per_capita_income_thousand_yen": 2928,
+      "population": 1708834,
+      "population_share_pct": 1.4
+    },
+    {
+      "prefecture": "大分県",
+      "gpp_million_yen": 5088664,
+      "gpp_share_pct": 0.8,
+      "per_capita_income_thousand_yen": 3042,
+      "population": 1096299,
+      "population_share_pct": 0.9
+    },
+    {
+      "prefecture": "宮崎県",
+      "gpp_million_yen": 3985339,
+      "gpp_share_pct": 0.6,
+      "per_capita_income_thousand_yen": 2695,
+      "population": 1042223,
+      "population_share_pct": 0.8
+    },
+    {
+      "prefecture": "鹿児島県",
+      "gpp_million_yen": 6415994,
+      "gpp_share_pct": 1,
+      "per_capita_income_thousand_yen": 2936,
+      "population": 1548744,
+      "population_share_pct": 1.2
+    },
+    {
+      "prefecture": "沖縄県",
+      "gpp_million_yen": 4642960,
+      "gpp_share_pct": 0.7,
+      "per_capita_income_thousand_yen": 2315,
+      "population": 1467963,
+      "population_share_pct": 1.2
+    }
+  ],
+  "meta": {
+    "title": "都道府県別 県内総生産・1人当たり県民所得（2023年度） - Free Download",
+    "description": "内閣府の県民経済計算に基づく2023年度（令和5年度）の都道府県別の県内総生産（名目、百万円）とその構成比、1人当たり県民所得（千円）、人口とその構成比。 Contains 48 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "都道府県別 県内総生産・1人当たり県民所得（2023年度） | ListBase",
+    "seo_description": "Download 都道府県別 県内総生産・1人当たり県民所得（2023年度） — 48 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 48 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/県民経済計算"
+    ]
+  }
+}

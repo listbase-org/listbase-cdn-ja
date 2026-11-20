@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-20T02:18:09.852Z",
-  "total_datasets": 626,
-  "total_records": 467249,
+  "generated": "2026-11-20T02:26:50.283Z",
+  "total_datasets": 627,
+  "total_records": 467297,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "education",
@@ -1001,6 +1001,33 @@
         "xlsx": {
           "name": "ja-supermarket-ichiran_JA.xlsx",
           "size": 30224
+        }
+      }
+    },
+    {
+      "id": "ja-todofuken-kennai-sou-seisan-2023",
+      "name": "都道府県別 県内総生産・1人当たり県民所得（2023年度）",
+      "category": "economy",
+      "record_count": 48,
+      "columns": [
+        "prefecture",
+        "gpp_million_yen",
+        "gpp_share_pct",
+        "per_capita_income_thousand_yen",
+        "population",
+        "population_share_pct"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/県民経済計算",
+      "updated": "2026-11",
+      "size": 12657,
+      "files": {
+        "csv": {
+          "name": "ja-todofuken-kennai-sou-seisan-2023_JA.csv",
+          "size": 2563
+        },
+        "xlsx": {
+          "name": "ja-todofuken-kennai-sou-seisan-2023_JA.xlsx",
+          "size": 9062
         }
       }
     },
