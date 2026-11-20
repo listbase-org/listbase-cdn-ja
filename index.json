@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-19T02:35:02.310Z",
-  "total_datasets": 624,
-  "total_records": 467112,
+  "generated": "2026-11-20T02:17:56.677Z",
+  "total_datasets": 625,
+  "total_records": 467201,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 13
+      "dataset_count": 14
     },
     {
       "id": "economy",
@@ -687,6 +687,35 @@
         "xlsx": {
           "name": "ja-sekai-isan_JA.xlsx",
           "size": 15080
+        }
+      }
+    },
+    {
+      "id": "ja-shogi-meijinsen-rekidai",
+      "name": "将棋 名人戦 歴代七番勝負の結果",
+      "category": "culture",
+      "record_count": 89,
+      "columns": [
+        "term",
+        "year",
+        "meijin",
+        "challenger",
+        "game_results",
+        "meijin_wins",
+        "challenger_wins",
+        "title_holder_after"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/名人戦_(将棋)",
+      "updated": "2026-11",
+      "size": 25306,
+      "files": {
+        "csv": {
+          "name": "ja-shogi-meijinsen-rekidai_JA.csv",
+          "size": 7920
+        },
+        "xlsx": {
+          "name": "ja-shogi-meijinsen-rekidai_JA.xlsx",
+          "size": 10824
         }
       }
     },

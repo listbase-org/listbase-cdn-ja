@@ -1,0 +1,956 @@
+{
+  "id": "ja-shogi-meijinsen-rekidai",
+  "name": "将棋 名人戦 歴代七番勝負の結果",
+  "title": "将棋 名人戦 歴代七番勝負の結果",
+  "description": "1937年以降の将棋名人戦の期・年度ごとに、名人（防衛側）、挑戦者、七番勝負の勝敗記号（名人側から見た○●）と勝数、および勝負後の名人を収録。",
+  "category": "culture",
+  "source": "https://ja.wikipedia.org/wiki/名人戦_(将棋)",
+  "source_url": "https://ja.wikipedia.org/wiki/名人戦_(将棋)",
+  "updated": "2026-11",
+  "record_count": 89,
+  "columns": [
+    {
+      "key": "term",
+      "label": "Term",
+      "type": "number"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "meijin",
+      "label": "Meijin",
+      "type": "string"
+    },
+    {
+      "key": "challenger",
+      "label": "Challenger",
+      "type": "string"
+    },
+    {
+      "key": "game_results",
+      "label": "Game Results",
+      "type": "string"
+    },
+    {
+      "key": "meijin_wins",
+      "label": "Meijin Wins",
+      "type": "number"
+    },
+    {
+      "key": "challenger_wins",
+      "label": "Challenger Wins",
+      "type": "number"
+    },
+    {
+      "key": "title_holder_after",
+      "label": "Title Holder After",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "term": 1,
+      "year": 1937,
+      "meijin": "木村義雄",
+      "challenger": "",
+      "game_results": "",
+      "meijin_wins": "",
+      "challenger_wins": "",
+      "title_holder_after": "木村義雄"
+    },
+    {
+      "term": 1,
+      "year": 1938,
+      "meijin": "木村義雄",
+      "challenger": "",
+      "game_results": "",
+      "meijin_wins": "",
+      "challenger_wins": "",
+      "title_holder_after": "木村義雄"
+    },
+    {
+      "term": 2,
+      "year": 1939,
+      "meijin": "木村義雄",
+      "challenger": "土居市太郎",
+      "game_results": "○ ○ 千 千 ● ○ ○ － －",
+      "meijin_wins": 4,
+      "challenger_wins": 1,
+      "title_holder_after": "木村義雄"
+    },
+    {
+      "term": 2,
+      "year": 1940,
+      "meijin": "木村義雄",
+      "challenger": "土居市太郎",
+      "game_results": "○ ○ 千 千 ● ○ ○ － －",
+      "meijin_wins": 4,
+      "challenger_wins": 1,
+      "title_holder_after": "木村義雄"
+    },
+    {
+      "term": 3,
+      "year": 1941,
+      "meijin": "木村義雄",
+      "challenger": "神田辰之助",
+      "game_results": "○○○○－－－",
+      "meijin_wins": 4,
+      "challenger_wins": 0,
+      "title_holder_after": "木村義雄"
+    },
+    {
+      "term": 3,
+      "year": 1942,
+      "meijin": "木村義雄",
+      "challenger": "神田辰之助",
+      "game_results": "○○○○－－－",
+      "meijin_wins": 4,
+      "challenger_wins": 0,
+      "title_holder_after": "木村義雄"
+    },
+    {
+      "term": 4,
+      "year": 1943,
+      "meijin": "木村義雄",
+      "challenger": "",
+      "game_results": "",
+      "meijin_wins": "",
+      "challenger_wins": "",
+      "title_holder_after": "木村義雄"
+    },
+    {
+      "term": 4,
+      "year": 1944,
+      "meijin": "木村義雄",
+      "challenger": "",
+      "game_results": "",
+      "meijin_wins": "",
+      "challenger_wins": "",
+      "title_holder_after": "木村義雄"
+    },
+    {
+      "term": 5,
+      "year": 1945,
+      "meijin": "木村義雄 永",
+      "challenger": "",
+      "game_results": "",
+      "meijin_wins": "",
+      "challenger_wins": "",
+      "title_holder_after": "木村義雄 永"
+    },
+    {
+      "term": 5,
+      "year": 1946,
+      "meijin": "木村義雄 永",
+      "challenger": "",
+      "game_results": "",
+      "meijin_wins": "",
+      "challenger_wins": "",
+      "title_holder_after": "木村義雄 永"
+    },
+    {
+      "term": 6,
+      "year": 1947,
+      "meijin": "木村義雄",
+      "challenger": "塚田正夫",
+      "game_results": "○○ 持 ●● 千 ● 千 ● －",
+      "meijin_wins": 2,
+      "challenger_wins": 4,
+      "title_holder_after": "塚田正夫"
+    },
+    {
+      "term": 7,
+      "year": 1948,
+      "meijin": "塚田正夫",
+      "challenger": "大山康晴",
+      "game_results": "● ○ ○ ● 千 ○ ○ －",
+      "meijin_wins": 4,
+      "challenger_wins": 2,
+      "title_holder_after": "塚田正夫"
+    },
+    {
+      "term": 8,
+      "year": 1949,
+      "meijin": "塚田正夫",
+      "challenger": "木村義雄",
+      "game_results": "○●○●● （五番勝負）",
+      "meijin_wins": 2,
+      "challenger_wins": 3,
+      "title_holder_after": "木村義雄"
+    },
+    {
+      "term": 9,
+      "year": 1950,
+      "meijin": "木村義雄",
+      "challenger": "大山康晴",
+      "game_results": "○○●●○○－",
+      "meijin_wins": 4,
+      "challenger_wins": 2,
+      "title_holder_after": "木村義雄"
+    },
+    {
+      "term": 10,
+      "year": 1951,
+      "meijin": "木村義雄",
+      "challenger": "升田幸三",
+      "game_results": "○●○○●○－",
+      "meijin_wins": 4,
+      "challenger_wins": 2,
+      "title_holder_after": "木村義雄"
+    },
+    {
+      "term": 11,
+      "year": 1952,
+      "meijin": "木村義雄 ▽",
+      "challenger": "大山康晴",
+      "game_results": "○●●●●－－",
+      "meijin_wins": 1,
+      "challenger_wins": 4,
+      "title_holder_after": "大山康晴"
+    },
+    {
+      "term": 12,
+      "year": 1953,
+      "meijin": "大山康晴",
+      "challenger": "升田幸三",
+      "game_results": "○○●○○－－",
+      "meijin_wins": 4,
+      "challenger_wins": 1,
+      "title_holder_after": "大山康晴"
+    },
+    {
+      "term": 13,
+      "year": 1954,
+      "meijin": "大山康晴",
+      "challenger": "升田幸三",
+      "game_results": "千 ○ ○○●○－－",
+      "meijin_wins": 4,
+      "challenger_wins": 1,
+      "title_holder_after": "大山康晴"
+    },
+    {
+      "term": 14,
+      "year": 1955,
+      "meijin": "大山康晴",
+      "challenger": "高島一岐代",
+      "game_results": "○●○○●○－",
+      "meijin_wins": 4,
+      "challenger_wins": 2,
+      "title_holder_after": "大山康晴"
+    },
+    {
+      "term": 15,
+      "year": 1956,
+      "meijin": "大山康晴 永",
+      "challenger": "花村元司",
+      "game_results": "○○○○－－－",
+      "meijin_wins": 4,
+      "challenger_wins": 0,
+      "title_holder_after": "大山康晴 永"
+    },
+    {
+      "term": 16,
+      "year": 1957,
+      "meijin": "大山康晴",
+      "challenger": "升田幸三",
+      "game_results": "●○●●○●－",
+      "meijin_wins": 2,
+      "challenger_wins": 4,
+      "title_holder_after": "升田幸三"
+    },
+    {
+      "term": 17,
+      "year": 1958,
+      "meijin": "升田幸三",
+      "challenger": "大山康晴",
+      "game_results": "○○○持●●○－",
+      "meijin_wins": 4,
+      "challenger_wins": 2,
+      "title_holder_after": "升田幸三"
+    },
+    {
+      "term": 18,
+      "year": 1959,
+      "meijin": "升田幸三",
+      "challenger": "大山康晴",
+      "game_results": "千 ○ ●●●●－－",
+      "meijin_wins": 1,
+      "challenger_wins": 4,
+      "title_holder_after": "大山康晴"
+    },
+    {
+      "term": 19,
+      "year": 1960,
+      "meijin": "大山康晴",
+      "challenger": "加藤一二三",
+      "game_results": "●○○○ 千 ○ －－",
+      "meijin_wins": 4,
+      "challenger_wins": 1,
+      "title_holder_after": "大山康晴"
+    },
+    {
+      "term": 20,
+      "year": 1961,
+      "meijin": "大山康晴",
+      "challenger": "丸田祐三",
+      "game_results": "○○○●○－－",
+      "meijin_wins": 4,
+      "challenger_wins": 1,
+      "title_holder_after": "大山康晴"
+    },
+    {
+      "term": 21,
+      "year": 1962,
+      "meijin": "大山康晴",
+      "challenger": "二上達也",
+      "game_results": "○○○○－－－",
+      "meijin_wins": 4,
+      "challenger_wins": 0,
+      "title_holder_after": "大山康晴"
+    },
+    {
+      "term": 22,
+      "year": 1963,
+      "meijin": "大山康晴",
+      "challenger": "升田幸三",
+      "game_results": "○○○●○－－",
+      "meijin_wins": 4,
+      "challenger_wins": 1,
+      "title_holder_after": "大山康晴"
+    },
+    {
+      "term": 23,
+      "year": 1964,
+      "meijin": "大山康晴",
+      "challenger": "二上達也",
+      "game_results": "●○○●○○－",
+      "meijin_wins": 4,
+      "challenger_wins": 2,
+      "title_holder_after": "大山康晴"
+    },
+    {
+      "term": 24,
+      "year": 1965,
+      "meijin": "大山康晴",
+      "challenger": "山田道美",
+      "game_results": "○○○●○－－",
+      "meijin_wins": 4,
+      "challenger_wins": 1,
+      "title_holder_after": "大山康晴"
+    },
+    {
+      "term": 25,
+      "year": 1966,
+      "meijin": "大山康晴",
+      "challenger": "升田幸三",
+      "game_results": "●●○○○○－",
+      "meijin_wins": 4,
+      "challenger_wins": 2,
+      "title_holder_after": "大山康晴"
+    },
+    {
+      "term": 26,
+      "year": 1967,
+      "meijin": "大山康晴",
+      "challenger": "二上達也",
+      "game_results": "○○○●○－－",
+      "meijin_wins": 4,
+      "challenger_wins": 1,
+      "title_holder_after": "大山康晴"
+    },
+    {
+      "term": 27,
+      "year": 1968,
+      "meijin": "大山康晴",
+      "challenger": "升田幸三",
+      "game_results": "○○○○－－－",
+      "meijin_wins": 4,
+      "challenger_wins": 0,
+      "title_holder_after": "大山康晴"
+    },
+    {
+      "term": 28,
+      "year": 1969,
+      "meijin": "大山康晴",
+      "challenger": "有吉道夫",
+      "game_results": "●○○●●○○",
+      "meijin_wins": 4,
+      "challenger_wins": 3,
+      "title_holder_after": "大山康晴"
+    },
+    {
+      "term": 29,
+      "year": 1970,
+      "meijin": "大山康晴",
+      "challenger": "灘蓮照",
+      "game_results": "○●○○○－－",
+      "meijin_wins": 4,
+      "challenger_wins": 1,
+      "title_holder_after": "大山康晴"
+    },
+    {
+      "term": 30,
+      "year": 1971,
+      "meijin": "大山康晴",
+      "challenger": "升田幸三",
+      "game_results": "○●●○●○○",
+      "meijin_wins": 4,
+      "challenger_wins": 3,
+      "title_holder_after": "大山康晴"
+    },
+    {
+      "term": 31,
+      "year": 1972,
+      "meijin": "大山康晴",
+      "challenger": "中原誠",
+      "game_results": "●○○●○●●",
+      "meijin_wins": 3,
+      "challenger_wins": 4,
+      "title_holder_after": "中原誠"
+    },
+    {
+      "term": 32,
+      "year": 1973,
+      "meijin": "中原誠",
+      "challenger": "加藤一二三",
+      "game_results": "○○○○－－－",
+      "meijin_wins": 4,
+      "challenger_wins": 0,
+      "title_holder_after": "中原誠"
+    },
+    {
+      "term": 33,
+      "year": 1974,
+      "meijin": "中原誠",
+      "challenger": "大山康晴",
+      "game_results": "●○○●○●○",
+      "meijin_wins": 4,
+      "challenger_wins": 3,
+      "title_holder_after": "中原誠"
+    },
+    {
+      "term": 34,
+      "year": 1975,
+      "meijin": "中原誠",
+      "challenger": "大内延介",
+      "game_results": "●○○ 千 ● ●○ 持 ○",
+      "meijin_wins": 4,
+      "challenger_wins": 3,
+      "title_holder_after": "中原誠"
+    },
+    {
+      "term": 35,
+      "year": 1976,
+      "meijin": "中原誠 永",
+      "challenger": "米長邦雄",
+      "game_results": "○●●○○●○",
+      "meijin_wins": 4,
+      "challenger_wins": 3,
+      "title_holder_after": "中原誠 永"
+    },
+    {
+      "term": 36,
+      "year": 1978,
+      "meijin": "中原誠",
+      "challenger": "森雞二",
+      "game_results": "● ○ ● ○ 千 ○ ○ －",
+      "meijin_wins": 4,
+      "challenger_wins": 2,
+      "title_holder_after": "中原誠"
+    },
+    {
+      "term": 37,
+      "year": 1979,
+      "meijin": "中原誠",
+      "challenger": "米長邦雄",
+      "game_results": "●●○○○○－",
+      "meijin_wins": 4,
+      "challenger_wins": 2,
+      "title_holder_after": "中原誠"
+    },
+    {
+      "term": 38,
+      "year": 1980,
+      "meijin": "中原誠",
+      "challenger": "米長邦雄",
+      "game_results": "○●持○○○－－",
+      "meijin_wins": 4,
+      "challenger_wins": 1,
+      "title_holder_after": "中原誠"
+    },
+    {
+      "term": 39,
+      "year": 1981,
+      "meijin": "中原誠",
+      "challenger": "桐山清澄",
+      "game_results": "○○○●○－－",
+      "meijin_wins": 4,
+      "challenger_wins": 1,
+      "title_holder_after": "中原誠"
+    },
+    {
+      "term": 40,
+      "year": 1982,
+      "meijin": "中原誠",
+      "challenger": "加藤一二三",
+      "game_results": "持 ○●○● 千 ● ○ 千 ●",
+      "meijin_wins": 3,
+      "challenger_wins": 4,
+      "title_holder_after": "加藤一二三"
+    },
+    {
+      "term": 41,
+      "year": 1983,
+      "meijin": "加藤一二三",
+      "challenger": "谷川浩司",
+      "game_results": "●●●○○●－",
+      "meijin_wins": 2,
+      "challenger_wins": 4,
+      "title_holder_after": "谷川浩司"
+    },
+    {
+      "term": 42,
+      "year": 1984,
+      "meijin": "谷川浩司",
+      "challenger": "森安秀光",
+      "game_results": "○○○●○－－",
+      "meijin_wins": 4,
+      "challenger_wins": 1,
+      "title_holder_after": "谷川浩司"
+    },
+    {
+      "term": 43,
+      "year": 1985,
+      "meijin": "谷川浩司",
+      "challenger": "中原誠",
+      "game_results": "●●●○○●－",
+      "meijin_wins": 2,
+      "challenger_wins": 4,
+      "title_holder_after": "中原誠"
+    },
+    {
+      "term": 44,
+      "year": 1986,
+      "meijin": "中原誠",
+      "challenger": "大山康晴",
+      "game_results": "○○●○○－－",
+      "meijin_wins": 4,
+      "challenger_wins": 1,
+      "title_holder_after": "中原誠"
+    },
+    {
+      "term": 45,
+      "year": 1987,
+      "meijin": "中原誠",
+      "challenger": "米長邦雄",
+      "game_results": "●●○○○○－",
+      "meijin_wins": 4,
+      "challenger_wins": 2,
+      "title_holder_after": "中原誠"
+    },
+    {
+      "term": 46,
+      "year": 1988,
+      "meijin": "中原誠",
+      "challenger": "谷川浩司",
+      "game_results": "○●●●○●－",
+      "meijin_wins": 2,
+      "challenger_wins": 4,
+      "title_holder_after": "谷川浩司"
+    },
+    {
+      "term": 47,
+      "year": 1989,
+      "meijin": "谷川浩司",
+      "challenger": "米長邦雄",
+      "game_results": "○○○○－－－",
+      "meijin_wins": 4,
+      "challenger_wins": 0,
+      "title_holder_after": "谷川浩司"
+    },
+    {
+      "term": 48,
+      "year": 1990,
+      "meijin": "谷川浩司",
+      "challenger": "中原誠",
+      "game_results": "●○●○●●－",
+      "meijin_wins": 2,
+      "challenger_wins": 4,
+      "title_holder_after": "中原誠"
+    },
+    {
+      "term": 49,
+      "year": 1991,
+      "meijin": "中原誠",
+      "challenger": "米長邦雄",
+      "game_results": "○○○●○－－",
+      "meijin_wins": 4,
+      "challenger_wins": 1,
+      "title_holder_after": "中原誠"
+    },
+    {
+      "term": 50,
+      "year": 1992,
+      "meijin": "中原誠",
+      "challenger": "高橋道雄",
+      "game_results": "●●○●○○○",
+      "meijin_wins": 4,
+      "challenger_wins": 3,
+      "title_holder_after": "中原誠"
+    },
+    {
+      "term": 51,
+      "year": 1993,
+      "meijin": "中原誠",
+      "challenger": "米長邦雄",
+      "game_results": "●●●●－－－",
+      "meijin_wins": 0,
+      "challenger_wins": 4,
+      "title_holder_after": "米長邦雄"
+    },
+    {
+      "term": 52,
+      "year": 1994,
+      "meijin": "米長邦雄",
+      "challenger": "羽生善治",
+      "game_results": "●●●○○●－",
+      "meijin_wins": 2,
+      "challenger_wins": 4,
+      "title_holder_after": "羽生善治"
+    },
+    {
+      "term": 53,
+      "year": 1995,
+      "meijin": "羽生善治",
+      "challenger": "森下卓",
+      "game_results": "○○●○○－－",
+      "meijin_wins": 4,
+      "challenger_wins": 1,
+      "title_holder_after": "羽生善治"
+    },
+    {
+      "term": 54,
+      "year": 1996,
+      "meijin": "羽生善治",
+      "challenger": "森内俊之",
+      "game_results": "○○○●○－－",
+      "meijin_wins": 4,
+      "challenger_wins": 1,
+      "title_holder_after": "羽生善治"
+    },
+    {
+      "term": 55,
+      "year": 1997,
+      "meijin": "羽生善治",
+      "challenger": "谷川浩司 永",
+      "game_results": "●○●●○●－",
+      "meijin_wins": 2,
+      "challenger_wins": 4,
+      "title_holder_after": "谷川浩司 永"
+    },
+    {
+      "term": 56,
+      "year": 1998,
+      "meijin": "谷川浩司",
+      "challenger": "佐藤康光",
+      "game_results": "○●○●○●●",
+      "meijin_wins": 3,
+      "challenger_wins": 4,
+      "title_holder_after": "佐藤康光"
+    },
+    {
+      "term": 57,
+      "year": 1999,
+      "meijin": "佐藤康光",
+      "challenger": "谷川浩司",
+      "game_results": "○○●●●○○",
+      "meijin_wins": 4,
+      "challenger_wins": 3,
+      "title_holder_after": "佐藤康光"
+    },
+    {
+      "term": 58,
+      "year": 2000,
+      "meijin": "佐藤康光",
+      "challenger": "丸山忠久",
+      "game_results": "●●○○○●●",
+      "meijin_wins": 3,
+      "challenger_wins": 4,
+      "title_holder_after": "丸山忠久"
+    },
+    {
+      "term": 59,
+      "year": 2001,
+      "meijin": "丸山忠久",
+      "challenger": "谷川浩司",
+      "game_results": "○● 千 ● ○●○○",
+      "meijin_wins": 4,
+      "challenger_wins": 3,
+      "title_holder_after": "丸山忠久"
+    },
+    {
+      "term": 60,
+      "year": 2002,
+      "meijin": "丸山忠久",
+      "challenger": "森内俊之",
+      "game_results": "●●●●－－－",
+      "meijin_wins": 0,
+      "challenger_wins": 4,
+      "title_holder_after": "森内俊之"
+    },
+    {
+      "term": 61,
+      "year": 2003,
+      "meijin": "森内俊之",
+      "challenger": "羽生善治",
+      "game_results": "●●● 千 ● －－－",
+      "meijin_wins": 0,
+      "challenger_wins": 4,
+      "title_holder_after": "羽生善治"
+    },
+    {
+      "term": 62,
+      "year": 2004,
+      "meijin": "羽生善治",
+      "challenger": "森内俊之",
+      "game_results": "●●○●○●－",
+      "meijin_wins": 2,
+      "challenger_wins": 4,
+      "title_holder_after": "森内俊之"
+    },
+    {
+      "term": 63,
+      "year": 2005,
+      "meijin": "森内俊之",
+      "challenger": "羽生善治",
+      "game_results": "●○○○●●○",
+      "meijin_wins": 4,
+      "challenger_wins": 3,
+      "title_holder_after": "森内俊之"
+    },
+    {
+      "term": 64,
+      "year": 2006,
+      "meijin": "森内俊之",
+      "challenger": "谷川浩司",
+      "game_results": "○○●○●○－",
+      "meijin_wins": 4,
+      "challenger_wins": 2,
+      "title_holder_after": "森内俊之"
+    },
+    {
+      "term": 65,
+      "year": 2007,
+      "meijin": "森内俊之 永",
+      "challenger": "郷田真隆",
+      "game_results": "●●○○○●○",
+      "meijin_wins": 4,
+      "challenger_wins": 3,
+      "title_holder_after": "森内俊之 永"
+    },
+    {
+      "term": 66,
+      "year": 2008,
+      "meijin": "森内俊之",
+      "challenger": "羽生善治 永",
+      "game_results": "○●●●○●－",
+      "meijin_wins": 2,
+      "challenger_wins": 4,
+      "title_holder_after": "羽生善治 永"
+    },
+    {
+      "term": 67,
+      "year": 2009,
+      "meijin": "羽生善治",
+      "challenger": "郷田真隆",
+      "game_results": "○●○●●○○",
+      "meijin_wins": 4,
+      "challenger_wins": 3,
+      "title_holder_after": "羽生善治"
+    },
+    {
+      "term": 68,
+      "year": 2010,
+      "meijin": "羽生善治",
+      "challenger": "三浦弘行",
+      "game_results": "○○○○－－－",
+      "meijin_wins": 4,
+      "challenger_wins": 0,
+      "title_holder_after": "羽生善治"
+    },
+    {
+      "term": 69,
+      "year": 2011,
+      "meijin": "羽生善治",
+      "challenger": "森内俊之",
+      "game_results": "●●●○○○●",
+      "meijin_wins": 3,
+      "challenger_wins": 4,
+      "title_holder_after": "森内俊之"
+    },
+    {
+      "term": 70,
+      "year": 2012,
+      "meijin": "森内俊之",
+      "challenger": "羽生善治",
+      "game_results": "○●○●○○－",
+      "meijin_wins": 4,
+      "challenger_wins": 2,
+      "title_holder_after": "森内俊之"
+    },
+    {
+      "term": 71,
+      "year": 2013,
+      "meijin": "森内俊之",
+      "challenger": "羽生善治",
+      "game_results": "○○●○○－－",
+      "meijin_wins": 4,
+      "challenger_wins": 1,
+      "title_holder_after": "森内俊之"
+    },
+    {
+      "term": 72,
+      "year": 2014,
+      "meijin": "森内俊之",
+      "challenger": "羽生善治",
+      "game_results": "●●●●－－－",
+      "meijin_wins": 0,
+      "challenger_wins": 4,
+      "title_holder_after": "羽生善治"
+    },
+    {
+      "term": 73,
+      "year": 2015,
+      "meijin": "羽生善治",
+      "challenger": "行方尚史",
+      "game_results": "○●○○○－－",
+      "meijin_wins": 4,
+      "challenger_wins": 1,
+      "title_holder_after": "羽生善治"
+    },
+    {
+      "term": 74,
+      "year": 2016,
+      "meijin": "羽生善治",
+      "challenger": "佐藤天彦",
+      "game_results": "○●●●●－－",
+      "meijin_wins": 1,
+      "challenger_wins": 4,
+      "title_holder_after": "佐藤天彦"
+    },
+    {
+      "term": 75,
+      "year": 2017,
+      "meijin": "佐藤天彦",
+      "challenger": "稲葉陽",
+      "game_results": "●○●○○○－",
+      "meijin_wins": 4,
+      "challenger_wins": 2,
+      "title_holder_after": "佐藤天彦"
+    },
+    {
+      "term": 76,
+      "year": 2018,
+      "meijin": "佐藤天彦",
+      "challenger": "羽生善治",
+      "game_results": "●○●○○○－",
+      "meijin_wins": 4,
+      "challenger_wins": 2,
+      "title_holder_after": "佐藤天彦"
+    },
+    {
+      "term": 77,
+      "year": 2019,
+      "meijin": "佐藤天彦",
+      "challenger": "豊島将之",
+      "game_results": "千 ● ●●●－－－",
+      "meijin_wins": 0,
+      "challenger_wins": 4,
+      "title_holder_after": "豊島将之"
+    },
+    {
+      "term": 78,
+      "year": 2020,
+      "meijin": "豊島将之",
+      "challenger": "渡辺明",
+      "game_results": "●○○●●●－",
+      "meijin_wins": 2,
+      "challenger_wins": 4,
+      "title_holder_after": "渡辺明"
+    },
+    {
+      "term": 79,
+      "year": 2021,
+      "meijin": "渡辺明",
+      "challenger": "斎藤慎太郎",
+      "game_results": "●○○○○－－",
+      "meijin_wins": 4,
+      "challenger_wins": 1,
+      "title_holder_after": "渡辺明"
+    },
+    {
+      "term": 80,
+      "year": 2022,
+      "meijin": "渡辺明",
+      "challenger": "斎藤慎太郎",
+      "game_results": "○○●○○－－",
+      "meijin_wins": 4,
+      "challenger_wins": 1,
+      "title_holder_after": "渡辺明"
+    },
+    {
+      "term": 81,
+      "year": 2023,
+      "meijin": "渡辺明",
+      "challenger": "藤井聡太",
+      "game_results": "●●○●●－－",
+      "meijin_wins": 1,
+      "challenger_wins": 4,
+      "title_holder_after": "藤井聡太"
+    },
+    {
+      "term": 82,
+      "year": 2024,
+      "meijin": "藤井聡太",
+      "challenger": "豊島将之",
+      "game_results": "○○○●○－－",
+      "meijin_wins": 4,
+      "challenger_wins": 1,
+      "title_holder_after": "藤井聡太"
+    },
+    {
+      "term": 83,
+      "year": 2025,
+      "meijin": "藤井聡太",
+      "challenger": "永瀬拓矢",
+      "game_results": "○○○ 千 ● 千 ○ －－",
+      "meijin_wins": 4,
+      "challenger_wins": 1,
+      "title_holder_after": "藤井聡太"
+    },
+    {
+      "term": 84,
+      "year": 2026,
+      "meijin": "藤井聡太",
+      "challenger": "糸谷哲郎",
+      "game_results": "○○○○－－－",
+      "meijin_wins": 4,
+      "challenger_wins": 0,
+      "title_holder_after": "藤井聡太"
+    }
+  ],
+  "meta": {
+    "title": "将棋 名人戦 歴代七番勝負の結果 - Free Download",
+    "description": "1937年以降の将棋名人戦の期・年度ごとに、名人（防衛側）、挑戦者、七番勝負の勝敗記号（名人側から見た○●）と勝数、および勝負後の名人を収録。 Contains 89 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "将棋 名人戦 歴代七番勝負の結果 | ListBase",
+    "seo_description": "Download 将棋 名人戦 歴代七番勝負の結果 — 89 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 89 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/名人戦_(将棋)"
+    ]
+  }
+}
