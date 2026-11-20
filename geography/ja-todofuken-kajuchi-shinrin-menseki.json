@@ -1,0 +1,546 @@
+{
+  "id": "ja-todofuken-kajuchi-shinrin-menseki",
+  "name": "都道府県別 総面積・可住地面積・森林面積",
+  "title": "都道府県別 総面積・可住地面積・森林面積",
+  "description": "都道府県ごとの総面積、可住地面積とその比率、森林面積とその比率、および総面積・可住地面積あたりの人口密度の一覧。",
+  "category": "geography",
+  "source": "https://ja.wikipedia.org/wiki/都道府県の面積一覧",
+  "source_url": "https://ja.wikipedia.org/wiki/都道府県の面積一覧",
+  "updated": "2026-11",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "total_area_km2",
+      "label": "Total Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population_density",
+      "label": "Population Density",
+      "type": "number"
+    },
+    {
+      "key": "habitable_area_km2",
+      "label": "Habitable Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "habitable_ratio_pct",
+      "label": "Habitable Ratio Pct",
+      "type": "number"
+    },
+    {
+      "key": "habitable_density",
+      "label": "Habitable Density",
+      "type": "number"
+    },
+    {
+      "key": "forest_area_km2",
+      "label": "Forest Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "forest_ratio_pct",
+      "label": "Forest Ratio Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "prefecture": "北海道",
+      "total_area_km2": 83424,
+      "population_density": 65,
+      "habitable_area_km2": 22373,
+      "habitable_ratio_pct": 27,
+      "habitable_density": 241,
+      "forest_area_km2": 53217,
+      "forest_ratio_pct": 64
+    },
+    {
+      "prefecture": "岩手県",
+      "total_area_km2": 15275,
+      "population_density": 84,
+      "habitable_area_km2": 3714,
+      "habitable_ratio_pct": 24,
+      "habitable_density": 345,
+      "forest_area_km2": 11440,
+      "forest_ratio_pct": 75
+    },
+    {
+      "prefecture": "福島県",
+      "total_area_km2": 13784,
+      "population_density": 139,
+      "habitable_area_km2": 4217,
+      "habitable_ratio_pct": 31,
+      "habitable_density": 454,
+      "forest_area_km2": 9365,
+      "forest_ratio_pct": 68
+    },
+    {
+      "prefecture": "長野県",
+      "total_area_km2": 13562,
+      "population_density": 155,
+      "habitable_area_km2": 3226,
+      "habitable_ratio_pct": 24,
+      "habitable_density": 651,
+      "forest_area_km2": 10234,
+      "forest_ratio_pct": 75
+    },
+    {
+      "prefecture": "新潟県",
+      "total_area_km2": 12584,
+      "population_density": 183,
+      "habitable_area_km2": 4535,
+      "habitable_ratio_pct": 36,
+      "habitable_density": 508,
+      "forest_area_km2": 7993,
+      "forest_ratio_pct": 64
+    },
+    {
+      "prefecture": "秋田県",
+      "total_area_km2": 11638,
+      "population_density": 88,
+      "habitable_area_km2": 3204,
+      "habitable_ratio_pct": 28,
+      "habitable_density": 319,
+      "forest_area_km2": 8201,
+      "forest_ratio_pct": 70
+    },
+    {
+      "prefecture": "岐阜県",
+      "total_area_km2": 10621,
+      "population_density": 191,
+      "habitable_area_km2": 2211,
+      "habitable_ratio_pct": 21,
+      "habitable_density": 919,
+      "forest_area_km2": 8389,
+      "forest_ratio_pct": 79
+    },
+    {
+      "prefecture": "青森県",
+      "total_area_km2": 9646,
+      "population_density": 136,
+      "habitable_area_km2": 3230,
+      "habitable_ratio_pct": 33,
+      "habitable_density": 405,
+      "forest_area_km2": 6157,
+      "forest_ratio_pct": 64
+    },
+    {
+      "prefecture": "山形県",
+      "total_area_km2": 9323,
+      "population_density": 121,
+      "habitable_area_km2": 2885,
+      "habitable_ratio_pct": 31,
+      "habitable_density": 390,
+      "forest_area_km2": 6405,
+      "forest_ratio_pct": 69
+    },
+    {
+      "prefecture": "鹿児島県",
+      "total_area_km2": 9187,
+      "population_density": 179,
+      "habitable_area_km2": 3313,
+      "habitable_ratio_pct": 36,
+      "habitable_density": 498,
+      "forest_area_km2": 5824,
+      "forest_ratio_pct": 63
+    },
+    {
+      "prefecture": "広島県",
+      "total_area_km2": 8479,
+      "population_density": 335,
+      "habitable_area_km2": 2311,
+      "habitable_ratio_pct": 27,
+      "habitable_density": 1231,
+      "forest_area_km2": 6088,
+      "forest_ratio_pct": 72
+    },
+    {
+      "prefecture": "兵庫県",
+      "total_area_km2": 8401,
+      "population_density": 659,
+      "habitable_area_km2": 2783,
+      "habitable_ratio_pct": 33,
+      "habitable_density": 1989,
+      "forest_area_km2": 5607,
+      "forest_ratio_pct": 67
+    },
+    {
+      "prefecture": "静岡県",
+      "total_area_km2": 7777,
+      "population_density": 476,
+      "habitable_area_km2": 2749,
+      "habitable_ratio_pct": 35,
+      "habitable_density": 1346,
+      "forest_area_km2": 4909,
+      "forest_ratio_pct": 63
+    },
+    {
+      "prefecture": "宮崎県",
+      "total_area_km2": 7735,
+      "population_density": 143,
+      "habitable_area_km2": 1850,
+      "habitable_ratio_pct": 24,
+      "habitable_density": 597,
+      "forest_area_km2": 5865,
+      "forest_ratio_pct": 76
+    },
+    {
+      "prefecture": "熊本県",
+      "total_area_km2": 7409,
+      "population_density": 241,
+      "habitable_area_km2": 2796,
+      "habitable_ratio_pct": 38,
+      "habitable_density": 639,
+      "forest_area_km2": 4476,
+      "forest_ratio_pct": 60
+    },
+    {
+      "prefecture": "宮城県",
+      "total_area_km2": 7282,
+      "population_density": 320,
+      "habitable_area_km2": 3155,
+      "habitable_ratio_pct": 43,
+      "habitable_density": 740,
+      "forest_area_km2": 4069,
+      "forest_ratio_pct": 56
+    },
+    {
+      "prefecture": "岡山県",
+      "total_area_km2": 7115,
+      "population_density": 270,
+      "habitable_area_km2": 2219,
+      "habitable_ratio_pct": 31,
+      "habitable_density": 866,
+      "forest_area_km2": 4838,
+      "forest_ratio_pct": 68
+    },
+    {
+      "prefecture": "高知県",
+      "total_area_km2": 7104,
+      "population_density": 103,
+      "habitable_area_km2": 1163,
+      "habitable_ratio_pct": 16,
+      "habitable_density": 626,
+      "forest_area_km2": 5918,
+      "forest_ratio_pct": 83
+    },
+    {
+      "prefecture": "島根県",
+      "total_area_km2": 6708,
+      "population_density": 104,
+      "habitable_area_km2": 1299,
+      "habitable_ratio_pct": 19,
+      "habitable_density": 535,
+      "forest_area_km2": 5199,
+      "forest_ratio_pct": 77
+    },
+    {
+      "prefecture": "栃木県",
+      "total_area_km2": 6408,
+      "population_density": 308,
+      "habitable_area_km2": 2983,
+      "habitable_ratio_pct": 47,
+      "habitable_density": 662,
+      "forest_area_km2": 3408,
+      "forest_ratio_pct": 53
+    },
+    {
+      "prefecture": "群馬県",
+      "total_area_km2": 6362,
+      "population_density": 310,
+      "habitable_area_km2": 2279,
+      "habitable_ratio_pct": 36,
+      "habitable_density": 866,
+      "forest_area_km2": 4058,
+      "forest_ratio_pct": 64
+    },
+    {
+      "prefecture": "大分県",
+      "total_area_km2": 6341,
+      "population_density": 184,
+      "habitable_area_km2": 1799,
+      "habitable_ratio_pct": 28,
+      "habitable_density": 648,
+      "forest_area_km2": 4480,
+      "forest_ratio_pct": 71
+    },
+    {
+      "prefecture": "山口県",
+      "total_area_km2": 6112,
+      "population_density": 230,
+      "habitable_area_km2": 1707,
+      "habitable_ratio_pct": 28,
+      "habitable_density": 823,
+      "forest_area_km2": 4375,
+      "forest_ratio_pct": 72
+    },
+    {
+      "prefecture": "茨城県",
+      "total_area_km2": 6097,
+      "population_density": 478,
+      "habitable_area_km2": 3975,
+      "habitable_ratio_pct": 65,
+      "habitable_density": 734,
+      "forest_area_km2": 1890,
+      "forest_ratio_pct": 31
+    },
+    {
+      "prefecture": "三重県",
+      "total_area_km2": 5774,
+      "population_density": 314,
+      "habitable_area_km2": 2059,
+      "habitable_ratio_pct": 36,
+      "habitable_density": 882,
+      "forest_area_km2": 3712,
+      "forest_ratio_pct": 64
+    },
+    {
+      "prefecture": "愛媛県",
+      "total_area_km2": 5676,
+      "population_density": 244,
+      "habitable_area_km2": 1673,
+      "habitable_ratio_pct": 29,
+      "habitable_density": 828,
+      "forest_area_km2": 3993,
+      "forest_ratio_pct": 70
+    },
+    {
+      "prefecture": "愛知県",
+      "total_area_km2": 5172,
+      "population_density": 1447,
+      "habitable_area_km2": 2988,
+      "habitable_ratio_pct": 58,
+      "habitable_density": 2505,
+      "forest_area_km2": 2183,
+      "forest_ratio_pct": 42
+    },
+    {
+      "prefecture": "千葉県",
+      "total_area_km2": 5158,
+      "population_density": 1206,
+      "habitable_area_km2": 3554,
+      "habitable_ratio_pct": 69,
+      "habitable_density": 1751,
+      "forest_area_km2": 1565,
+      "forest_ratio_pct": 30
+    },
+    {
+      "prefecture": "福岡県",
+      "total_area_km2": 4986,
+      "population_density": 1023,
+      "habitable_area_km2": 2761,
+      "habitable_ratio_pct": 55,
+      "habitable_density": 1847,
+      "forest_area_km2": 2220,
+      "forest_ratio_pct": 45
+    },
+    {
+      "prefecture": "和歌山県",
+      "total_area_km2": 4725,
+      "population_density": 204,
+      "habitable_area_km2": 1115,
+      "habitable_ratio_pct": 24,
+      "habitable_density": 864,
+      "forest_area_km2": 3609,
+      "forest_ratio_pct": 76
+    },
+    {
+      "prefecture": "京都府",
+      "total_area_km2": 4612,
+      "population_density": 566,
+      "habitable_area_km2": 1174,
+      "habitable_ratio_pct": 25,
+      "habitable_density": 2224,
+      "forest_area_km2": 3424,
+      "forest_ratio_pct": 74
+    },
+    {
+      "prefecture": "山梨県",
+      "total_area_km2": 4465,
+      "population_density": 187,
+      "habitable_area_km2": 954,
+      "habitable_ratio_pct": 21,
+      "habitable_density": 875,
+      "forest_area_km2": 3472,
+      "forest_ratio_pct": 78
+    },
+    {
+      "prefecture": "富山県",
+      "total_area_km2": 4248,
+      "population_density": 251,
+      "habitable_area_km2": 1843,
+      "habitable_ratio_pct": 43,
+      "habitable_density": 579,
+      "forest_area_km2": 2405,
+      "forest_ratio_pct": 57
+    },
+    {
+      "prefecture": "福井県",
+      "total_area_km2": 4190,
+      "population_density": 188,
+      "habitable_area_km2": 1077,
+      "habitable_ratio_pct": 26,
+      "habitable_density": 730,
+      "forest_area_km2": 3097,
+      "forest_ratio_pct": 74
+    },
+    {
+      "prefecture": "石川県",
+      "total_area_km2": 4186,
+      "population_density": 276,
+      "habitable_area_km2": 1392,
+      "habitable_ratio_pct": 33,
+      "habitable_density": 829,
+      "forest_area_km2": 2764,
+      "forest_ratio_pct": 66
+    },
+    {
+      "prefecture": "徳島県",
+      "total_area_km2": 4147,
+      "population_density": 182,
+      "habitable_area_km2": 1010,
+      "habitable_ratio_pct": 24,
+      "habitable_density": 748,
+      "forest_area_km2": 3120,
+      "forest_ratio_pct": 75
+    },
+    {
+      "prefecture": "長崎県",
+      "total_area_km2": 4132,
+      "population_density": 333,
+      "habitable_area_km2": 1676,
+      "habitable_ratio_pct": 41,
+      "habitable_density": 822,
+      "forest_area_km2": 2415,
+      "forest_ratio_pct": 58
+    },
+    {
+      "prefecture": "滋賀県",
+      "total_area_km2": 4017,
+      "population_density": 352,
+      "habitable_area_km2": 1307,
+      "habitable_ratio_pct": 33,
+      "habitable_density": 1081,
+      "forest_area_km2": 2028,
+      "forest_ratio_pct": 50
+    },
+    {
+      "prefecture": "埼玉県",
+      "total_area_km2": 3798,
+      "population_density": 1913,
+      "habitable_area_km2": 2585,
+      "habitable_ratio_pct": 68,
+      "habitable_density": 2811,
+      "forest_area_km2": 1210,
+      "forest_ratio_pct": 32
+    },
+    {
+      "prefecture": "奈良県",
+      "total_area_km2": 3691,
+      "population_density": 370,
+      "habitable_area_km2": 856,
+      "habitable_ratio_pct": 23,
+      "habitable_density": 1595,
+      "forest_area_km2": 2835,
+      "forest_ratio_pct": 77
+    },
+    {
+      "prefecture": "鳥取県",
+      "total_area_km2": 3507,
+      "population_density": 164,
+      "habitable_area_km2": 901,
+      "habitable_ratio_pct": 26,
+      "habitable_density": 637,
+      "forest_area_km2": 2571,
+      "forest_ratio_pct": 73
+    },
+    {
+      "prefecture": "佐賀県",
+      "total_area_km2": 2441,
+      "population_density": 341,
+      "habitable_area_km2": 1336,
+      "habitable_ratio_pct": 55,
+      "habitable_density": 624,
+      "forest_area_km2": 1104,
+      "forest_ratio_pct": 45
+    },
+    {
+      "prefecture": "神奈川県",
+      "total_area_km2": 2416,
+      "population_density": 3778,
+      "habitable_area_km2": 1471,
+      "habitable_ratio_pct": 61,
+      "habitable_density": 6206,
+      "forest_area_km2": 938,
+      "forest_ratio_pct": 39
+    },
+    {
+      "prefecture": "沖縄県",
+      "total_area_km2": 2281,
+      "population_density": 628,
+      "habitable_area_km2": 1169,
+      "habitable_ratio_pct": 51,
+      "habitable_density": 1226,
+      "forest_area_km2": 1053,
+      "forest_ratio_pct": 46
+    },
+    {
+      "prefecture": "東京都",
+      "total_area_km2": 2191,
+      "population_density": 6169,
+      "habitable_area_km2": 1418,
+      "habitable_ratio_pct": 65,
+      "habitable_density": 9529,
+      "forest_area_km2": 763,
+      "forest_ratio_pct": 35
+    },
+    {
+      "prefecture": "大阪府",
+      "total_area_km2": 1905,
+      "population_density": 4640,
+      "habitable_area_km2": 1331,
+      "habitable_ratio_pct": 70,
+      "habitable_density": 6643,
+      "forest_area_km2": 573,
+      "forest_ratio_pct": 30
+    },
+    {
+      "prefecture": "香川県",
+      "total_area_km2": 1877,
+      "population_density": 520,
+      "habitable_area_km2": 1006,
+      "habitable_ratio_pct": 54,
+      "habitable_density": 971,
+      "forest_area_km2": 870,
+      "forest_ratio_pct": 46
+    },
+    {
+      "prefecture": "全国",
+      "total_area_km2": 377971,
+      "population_density": 336,
+      "habitable_area_km2": 122631,
+      "habitable_ratio_pct": 32,
+      "habitable_density": 1036,
+      "forest_area_km2": 244328,
+      "forest_ratio_pct": 65
+    }
+  ],
+  "meta": {
+    "title": "都道府県別 総面積・可住地面積・森林面積 - Free Download",
+    "description": "都道府県ごとの総面積、可住地面積とその比率、森林面積とその比率、および総面積・可住地面積あたりの人口密度の一覧。 Contains 48 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "都道府県別 総面積・可住地面積・森林面積 | ListBase",
+    "seo_description": "Download 都道府県別 総面積・可住地面積・森林面積 — 48 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 48 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/都道府県の面積一覧"
+    ]
+  }
+}

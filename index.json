@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-20T02:17:56.677Z",
-  "total_datasets": 625,
-  "total_records": 467201,
+  "generated": "2026-11-20T02:18:09.852Z",
+  "total_datasets": 626,
+  "total_records": 467249,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 127
+      "dataset_count": 128
     },
     {
       "id": "health",
@@ -6143,6 +6143,35 @@
         "xlsx": {
           "name": "ja-tochigi-shikuchoson-kyoukai_JA.xlsx",
           "size": 45746
+        }
+      }
+    },
+    {
+      "id": "ja-todofuken-kajuchi-shinrin-menseki",
+      "name": "都道府県別 総面積・可住地面積・森林面積",
+      "category": "geography",
+      "record_count": 48,
+      "columns": [
+        "prefecture",
+        "total_area_km2",
+        "population_density",
+        "habitable_area_km2",
+        "habitable_ratio_pct",
+        "habitable_density",
+        "forest_area_km2",
+        "forest_ratio_pct"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/都道府県の面積一覧",
+      "updated": "2026-11",
+      "size": 15188,
+      "files": {
+        "csv": {
+          "name": "ja-todofuken-kajuchi-shinrin-menseki_JA.csv",
+          "size": 2828
+        },
+        "xlsx": {
+          "name": "ja-todofuken-kajuchi-shinrin-menseki_JA.xlsx",
+          "size": 9360
         }
       }
     },
