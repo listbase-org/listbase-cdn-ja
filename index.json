@@ -1,12 +1,12 @@
 {
   "lang": "ja",
-  "generated": "2026-11-20T02:26:50.283Z",
-  "total_datasets": 627,
-  "total_records": 467297,
+  "generated": "2026-11-23T02:27:28.072Z",
+  "total_datasets": 628,
+  "total_records": 467325,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "culture",
@@ -261,6 +261,34 @@
         "xlsx": {
           "name": "ja-kyo-yasai_JA.xlsx",
           "size": 12558
+        }
+      }
+    },
+    {
+      "id": "ja-nihon-nogyo-isan",
+      "name": "日本農業遺産 認定地域一覧",
+      "category": "agriculture",
+      "record_count": 28,
+      "columns": [
+        "fiscal_year",
+        "prefecture",
+        "area",
+        "municipalities",
+        "system",
+        "council",
+        "forestry_heritage"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/日本農業遺産",
+      "updated": "2026-11",
+      "size": 12097,
+      "files": {
+        "csv": {
+          "name": "ja-nihon-nogyo-isan_JA.csv",
+          "size": 5817
+        },
+        "xlsx": {
+          "name": "ja-nihon-nogyo-isan_JA.xlsx",
+          "size": 9929
         }
       }
     },
