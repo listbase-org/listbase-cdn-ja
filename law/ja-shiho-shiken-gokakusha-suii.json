@@ -1,0 +1,224 @@
+{
+  "id": "ja-shiho-shiken-gokakusha-suii",
+  "name": "司法試験 受験者数・合格者数・合格率の推移（新司法試験）",
+  "title": "司法試験 受験者数・合格者数・合格率の推移（新司法試験）",
+  "description": "2006年度以降の日本の司法試験（新司法試験）の年度別受験者数、合格者数、合格率および司法修習期の一覧。",
+  "category": "law",
+  "source": "https://ja.wikipedia.org/wiki/司法試験_(日本)",
+  "source_url": "https://ja.wikipedia.org/wiki/司法試験_(日本)",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "fiscal_year",
+      "label": "Fiscal Year",
+      "type": "number"
+    },
+    {
+      "key": "era_year",
+      "label": "Era Year",
+      "type": "string"
+    },
+    {
+      "key": "examinees",
+      "label": "Examinees",
+      "type": "number"
+    },
+    {
+      "key": "passed",
+      "label": "Passed",
+      "type": "number"
+    },
+    {
+      "key": "pass_rate_pct",
+      "label": "Pass Rate Pct",
+      "type": "number"
+    },
+    {
+      "key": "training_term",
+      "label": "Training Term",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "fiscal_year": 2006,
+      "era_year": "平成18年(2006年)度",
+      "examinees": 2091,
+      "passed": 1009,
+      "pass_rate_pct": 48.25,
+      "training_term": "新60期"
+    },
+    {
+      "fiscal_year": 2007,
+      "era_year": "平成19年(2007年)度",
+      "examinees": 4607,
+      "passed": 1851,
+      "pass_rate_pct": 40.18,
+      "training_term": "新61期"
+    },
+    {
+      "fiscal_year": 2008,
+      "era_year": "平成20年(2008年)度",
+      "examinees": 6261,
+      "passed": 2065,
+      "pass_rate_pct": 32.98,
+      "training_term": "新62期"
+    },
+    {
+      "fiscal_year": 2009,
+      "era_year": "平成21年(2009年)度",
+      "examinees": 7392,
+      "passed": 2043,
+      "pass_rate_pct": 27.64,
+      "training_term": "新63期"
+    },
+    {
+      "fiscal_year": 2010,
+      "era_year": "平成22年(2010年)度",
+      "examinees": 8163,
+      "passed": 2074,
+      "pass_rate_pct": 25.41,
+      "training_term": "新64期"
+    },
+    {
+      "fiscal_year": 2011,
+      "era_year": "平成23年(2011年)度",
+      "examinees": 8765,
+      "passed": 2063,
+      "pass_rate_pct": 23.54,
+      "training_term": "新65期"
+    },
+    {
+      "fiscal_year": 2012,
+      "era_year": "平成24年(2012年)度",
+      "examinees": 8387,
+      "passed": 2102,
+      "pass_rate_pct": 25.06,
+      "training_term": "66期"
+    },
+    {
+      "fiscal_year": 2013,
+      "era_year": "平成25年(2013年)度",
+      "examinees": 7653,
+      "passed": 2049,
+      "pass_rate_pct": 26.77,
+      "training_term": "67期"
+    },
+    {
+      "fiscal_year": 2014,
+      "era_year": "平成26年(2014年)度",
+      "examinees": 8015,
+      "passed": 1810,
+      "pass_rate_pct": 22.58,
+      "training_term": "68期"
+    },
+    {
+      "fiscal_year": 2015,
+      "era_year": "平成27年(2015年)度",
+      "examinees": 8016,
+      "passed": 1850,
+      "pass_rate_pct": 23.08,
+      "training_term": "69期"
+    },
+    {
+      "fiscal_year": 2016,
+      "era_year": "平成28年(2016年)度",
+      "examinees": 6899,
+      "passed": 1583,
+      "pass_rate_pct": 22.94,
+      "training_term": "70期"
+    },
+    {
+      "fiscal_year": 2017,
+      "era_year": "平成29年(2017年)度",
+      "examinees": 5967,
+      "passed": 1543,
+      "pass_rate_pct": 25.86,
+      "training_term": "71期"
+    },
+    {
+      "fiscal_year": 2018,
+      "era_year": "平成30年(2018年)度",
+      "examinees": 5238,
+      "passed": 1525,
+      "pass_rate_pct": 29.11,
+      "training_term": "72期"
+    },
+    {
+      "fiscal_year": 2019,
+      "era_year": "令和元年(2019年)度",
+      "examinees": 4466,
+      "passed": 1502,
+      "pass_rate_pct": 33.66,
+      "training_term": "73期"
+    },
+    {
+      "fiscal_year": 2020,
+      "era_year": "令和2年(2020年)度",
+      "examinees": 3703,
+      "passed": 1450,
+      "pass_rate_pct": 39.15,
+      "training_term": "74期"
+    },
+    {
+      "fiscal_year": 2021,
+      "era_year": "令和3年(2021年)度",
+      "examinees": 3424,
+      "passed": 1421,
+      "pass_rate_pct": 41.5,
+      "training_term": "75期"
+    },
+    {
+      "fiscal_year": 2022,
+      "era_year": "令和4年(2022年)度",
+      "examinees": 3082,
+      "passed": 1403,
+      "pass_rate_pct": 45.52,
+      "training_term": "76期"
+    },
+    {
+      "fiscal_year": 2023,
+      "era_year": "令和5年(2023年)度",
+      "examinees": 3928,
+      "passed": 1781,
+      "pass_rate_pct": 45.34,
+      "training_term": "77期"
+    },
+    {
+      "fiscal_year": 2024,
+      "era_year": "令和6年(2024年)度",
+      "examinees": 3779,
+      "passed": 1592,
+      "pass_rate_pct": 42.13,
+      "training_term": "78期"
+    },
+    {
+      "fiscal_year": 2025,
+      "era_year": "令和7年(2025年)度",
+      "examinees": 3837,
+      "passed": 1581,
+      "pass_rate_pct": 41.2,
+      "training_term": "79期"
+    },
+    {
+      "fiscal_year": 2026,
+      "era_year": "令和8年(2026年)度",
+      "examinees": 3871,
+      "passed": 1595,
+      "pass_rate_pct": 41.2,
+      "training_term": "80期"
+    }
+  ],
+  "meta": {
+    "title": "司法試験 受験者数・合格者数・合格率の推移（新司法試験） - Free Download",
+    "description": "2006年度以降の日本の司法試験（新司法試験）の年度別受験者数、合格者数、合格率および司法修習期の一覧。 Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "司法試験 受験者数・合格者数・合格率の推移（新司法試験） | ListBase",
+    "seo_description": "Download 司法試験 受験者数・合格者数・合格率の推移（新司法試験） — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/司法試験_(日本)"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-23T02:27:28.072Z",
-  "total_datasets": 628,
-  "total_records": 467325,
+  "generated": "2026-11-23T02:27:38.686Z",
+  "total_datasets": 629,
+  "total_records": 467346,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "music",
@@ -8048,6 +8048,33 @@
         "xlsx": {
           "name": "ja-seirei-ichiran_JA.xlsx",
           "size": 277893
+        }
+      }
+    },
+    {
+      "id": "ja-shiho-shiken-gokakusha-suii",
+      "name": "司法試験 受験者数・合格者数・合格率の推移（新司法試験）",
+      "category": "law",
+      "record_count": 21,
+      "columns": [
+        "fiscal_year",
+        "era_year",
+        "examinees",
+        "passed",
+        "pass_rate_pct",
+        "training_term"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/司法試験_(日本)",
+      "updated": "2026-11",
+      "size": 6123,
+      "files": {
+        "csv": {
+          "name": "ja-shiho-shiken-gokakusha-suii_JA.csv",
+          "size": 1412
+        },
+        "xlsx": {
+          "name": "ja-shiho-shiken-gokakusha-suii_JA.xlsx",
+          "size": 7764
         }
       }
     },
