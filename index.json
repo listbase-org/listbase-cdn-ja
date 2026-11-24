@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-23T02:27:38.686Z",
-  "total_datasets": 629,
-  "total_records": 467346,
+  "generated": "2026-11-24T02:14:56.729Z",
+  "total_datasets": 630,
+  "total_records": 467591,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 14
+      "dataset_count": 15
     },
     {
       "id": "economy",
@@ -655,6 +655,31 @@
         "xlsx": {
           "name": "ja-nihon-no-iro_JA.xlsx",
           "size": 20687
+        }
+      }
+    },
+    {
+      "id": "ja-nihon-sandai-ichiran",
+      "name": "日本三大一覧",
+      "category": "culture",
+      "record_count": 245,
+      "columns": [
+        "name",
+        "members",
+        "section",
+        "field"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/日本三大一覧",
+      "updated": "2026-11",
+      "size": 59140,
+      "files": {
+        "csv": {
+          "name": "ja-nihon-sandai-ichiran_JA.csv",
+          "size": 38157
+        },
+        "xlsx": {
+          "name": "ja-nihon-sandai-ichiran_JA.xlsx",
+          "size": 24739
         }
       }
     },
