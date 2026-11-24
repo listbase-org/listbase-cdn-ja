@@ -1,0 +1,1969 @@
+{
+  "id": "ja-tanki-daigaku-ichiran",
+  "name": "日本の短期大学一覧",
+  "title": "日本の短期大学一覧",
+  "description": "日本の公立・私立短期大学（専門職短期大学を含む）の一覧。設置区分、所在都道府県、設置学科、共学化や募集停止などの備考を収録。",
+  "category": "education",
+  "source": "https://ja.wikipedia.org/wiki/日本の短期大学一覧",
+  "source_url": "https://ja.wikipedia.org/wiki/日本の短期大学一覧",
+  "updated": "2026-11",
+  "record_count": 274,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "establishment",
+      "label": "Establishment",
+      "type": "string"
+    },
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "departments",
+      "label": "Departments",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "旭川市立大学短期大学部",
+      "establishment": "公立",
+      "prefecture": "北海道",
+      "departments": "食物栄養学科・こども地域学科",
+      "note": ""
+    },
+    {
+      "name": "岩手県立大学宮古短期大学部",
+      "establishment": "公立",
+      "prefecture": "岩手県",
+      "departments": "経営情報学科",
+      "note": ""
+    },
+    {
+      "name": "岩手県立大学盛岡短期大学部",
+      "establishment": "公立",
+      "prefecture": "岩手県",
+      "departments": "生活科学科・国際文化学科",
+      "note": ""
+    },
+    {
+      "name": "山形県立米沢女子短期大学",
+      "establishment": "公立",
+      "prefecture": "山形県",
+      "departments": "国語国文学科・英語英文学科・日本史学科・社会情報学科",
+      "note": "2027年度より共学化、山形県立米沢短期大学に改称予定；女子のみ"
+    },
+    {
+      "name": "会津大学短期大学部",
+      "establishment": "公立",
+      "prefecture": "福島県",
+      "departments": "産業情報学科・食物栄養学科・幼児教育・福祉学科",
+      "note": ""
+    },
+    {
+      "name": "大月短期大学",
+      "establishment": "公立",
+      "prefecture": "山梨県",
+      "departments": "経済科",
+      "note": ""
+    },
+    {
+      "name": "岐阜市立女子短期大学",
+      "establishment": "公立",
+      "prefecture": "岐阜県",
+      "departments": "国際コミュニケーション学科・健康栄養学科・デザイン環境学科",
+      "note": "2029年度以降の学生募集停止、岐阜薬科大学と統合し岐阜市立大学（仮）へ移行予定"
+    },
+    {
+      "name": "静岡県立大学短期大学部",
+      "establishment": "公立",
+      "prefecture": "静岡県",
+      "departments": "歯科衛生学科・社会福祉学科・こども学科",
+      "note": ""
+    },
+    {
+      "name": "津市立三重短期大学",
+      "establishment": "公立",
+      "prefecture": "三重県",
+      "departments": "法経科・法経科2部・生活科学科・食物栄養学科",
+      "note": ""
+    },
+    {
+      "name": "島根県立大学短期大学部",
+      "establishment": "公立",
+      "prefecture": "島根県",
+      "departments": "保育学科・文化情報学科",
+      "note": ""
+    },
+    {
+      "name": "倉敷市立短期大学",
+      "establishment": "公立",
+      "prefecture": "岡山県",
+      "departments": "保育学科・服飾美術学科",
+      "note": ""
+    },
+    {
+      "name": "大分県立芸術文化短期大学",
+      "establishment": "公立",
+      "prefecture": "大分県",
+      "departments": "美術科・音楽科・国際総合学科・情報コミュニケーション学科",
+      "note": ""
+    },
+    {
+      "name": "鹿児島県立短期大学",
+      "establishment": "公立",
+      "prefecture": "鹿児島県",
+      "departments": "文学科・生活学科・商経学科・第二部商経学科",
+      "note": ""
+    },
+    {
+      "name": "帯広大谷短期大学",
+      "establishment": "私立",
+      "prefecture": "北海道",
+      "departments": "社会福祉科・看護学科",
+      "note": ""
+    },
+    {
+      "name": "釧路短期大学",
+      "establishment": "私立",
+      "prefecture": "北海道",
+      "departments": "生活科学科・幼児教育学科",
+      "note": "2026年度以降の学生募集停止、公立化して釧路公立大学短期大学部と改称予定"
+    },
+    {
+      "name": "光塩学園短期大学",
+      "establishment": "私立",
+      "prefecture": "北海道",
+      "departments": "食物栄養科",
+      "note": "2027年度以降の学生募集停止"
+    },
+    {
+      "name": "國學院大學北海道短期大学部",
+      "establishment": "私立",
+      "prefecture": "北海道",
+      "departments": "国文学科・総合教養学科・幼児・児童教育学科",
+      "note": ""
+    },
+    {
+      "name": "札幌大谷大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "北海道",
+      "departments": "こども学科",
+      "note": "2027年度より札幌大谷短期大学に校名変更"
+    },
+    {
+      "name": "札幌国際大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "北海道",
+      "departments": "総合生活キャリア学科・幼児教育保育学科",
+      "note": "2026年度以降の学生募集停止"
+    },
+    {
+      "name": "拓殖大学北海道短期大学",
+      "establishment": "私立",
+      "prefecture": "北海道",
+      "departments": "農学ビジネス科・保育科",
+      "note": "2026年度以降の学生募集停止"
+    },
+    {
+      "name": "函館大谷短期大学",
+      "establishment": "私立",
+      "prefecture": "北海道",
+      "departments": "ビジネス情報学科・こども学科",
+      "note": ""
+    },
+    {
+      "name": "函館短期大学",
+      "establishment": "私立",
+      "prefecture": "北海道",
+      "departments": "保育学科・食物栄養学科",
+      "note": "2027年度以降の学生募集停止"
+    },
+    {
+      "name": "北翔大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "北海道",
+      "departments": "こども学科",
+      "note": ""
+    },
+    {
+      "name": "北星学園大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "北海道",
+      "departments": "英文学科・生活創造学科",
+      "note": "2025年度以降の学生募集停止"
+    },
+    {
+      "name": "北海道武蔵女子短期大学",
+      "establishment": "私立",
+      "prefecture": "北海道",
+      "departments": "教養学科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "青森明の星短期大学",
+      "establishment": "私立",
+      "prefecture": "青森県",
+      "departments": "子ども福祉未来学科",
+      "note": "2026年度以降の学生募集停止"
+    },
+    {
+      "name": "青森中央短期大学",
+      "establishment": "私立",
+      "prefecture": "青森県",
+      "departments": "食物栄養学科・幼児保育学科",
+      "note": ""
+    },
+    {
+      "name": "柴田学園大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "青森県",
+      "departments": "生活科・保育科",
+      "note": ""
+    },
+    {
+      "name": "八戸学院大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "青森県",
+      "departments": "こども教育学科・介護福祉学科",
+      "note": ""
+    },
+    {
+      "name": "弘前医療福祉大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "青森県",
+      "departments": "口腔衛生学科・救命救急学科・調理師養成1年課程(別科",
+      "note": ""
+    },
+    {
+      "name": "修紅短期大学",
+      "establishment": "私立",
+      "prefecture": "岩手県",
+      "departments": "幼児教育学科",
+      "note": ""
+    },
+    {
+      "name": "盛岡大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "岩手県",
+      "departments": "幼児教育科",
+      "note": ""
+    },
+    {
+      "name": "聖和学園短期大学",
+      "establishment": "私立",
+      "prefecture": "宮城県",
+      "departments": "キャリア開発総合学科・保育学科",
+      "note": ""
+    },
+    {
+      "name": "仙台青葉学院短期大学",
+      "establishment": "私立",
+      "prefecture": "宮城県",
+      "departments": "ビジネスキャリア学科・こども学科・歯科衛生学科・栄養学科・観光ビジネス学科・現代英語学科・言語聴覚学科・救急救命学科",
+      "note": ""
+    },
+    {
+      "name": "仙台赤門短期大学",
+      "establishment": "私立",
+      "prefecture": "宮城県",
+      "departments": "看護学科・鍼灸手技療法学科",
+      "note": ""
+    },
+    {
+      "name": "東北生活文化大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "宮城県",
+      "departments": "生活文化学科",
+      "note": "2027年度以降の学生募集停止"
+    },
+    {
+      "name": "宮城誠真短期大学",
+      "establishment": "私立",
+      "prefecture": "宮城県",
+      "departments": "保育科",
+      "note": ""
+    },
+    {
+      "name": "秋田栄養短期大学",
+      "establishment": "私立",
+      "prefecture": "秋田県",
+      "departments": "栄養学科",
+      "note": ""
+    },
+    {
+      "name": "聖霊女子短期大学",
+      "establishment": "私立",
+      "prefecture": "秋田県",
+      "departments": "生活文化科",
+      "note": "2027年度より共学化、精霊短期大学と改称予定"
+    },
+    {
+      "name": "日本赤十字東北看護大学介護福祉短期大学部",
+      "establishment": "私立",
+      "prefecture": "秋田県",
+      "departments": "介護福祉学科",
+      "note": "2027年度以降の学生募集停止"
+    },
+    {
+      "name": "聖園学園短期大学",
+      "establishment": "私立",
+      "prefecture": "秋田県",
+      "departments": "保育科",
+      "note": ""
+    },
+    {
+      "name": "羽陽学園短期大学",
+      "establishment": "私立",
+      "prefecture": "山形県",
+      "departments": "幼児教育科",
+      "note": ""
+    },
+    {
+      "name": "東北文教大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "山形県",
+      "departments": "子ども学科・留学生別科",
+      "note": ""
+    },
+    {
+      "name": "いわき短期大学",
+      "establishment": "私立",
+      "prefecture": "福島県",
+      "departments": "子ども未来科",
+      "note": ""
+    },
+    {
+      "name": "郡山女子大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "福島県",
+      "departments": "健康栄養学科・幼児教育学科・地域創生学科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "桜の聖母短期大学",
+      "establishment": "私立",
+      "prefecture": "福島県",
+      "departments": "生活科学科・キャリア教養学科",
+      "note": ""
+    },
+    {
+      "name": "福島学院大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "福島県",
+      "departments": "保育科",
+      "note": ""
+    },
+    {
+      "name": "茨城女子短期大学",
+      "establishment": "私立",
+      "prefecture": "茨城県",
+      "departments": "こども学科・表現文化学科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "つくば国際短期大学",
+      "establishment": "私立",
+      "prefecture": "茨城県",
+      "departments": "保育科",
+      "note": ""
+    },
+    {
+      "name": "常磐短期大学",
+      "establishment": "私立",
+      "prefecture": "茨城県",
+      "departments": "幼児教育保育学科",
+      "note": ""
+    },
+    {
+      "name": "宇都宮短期大学",
+      "establishment": "私立",
+      "prefecture": "栃木県",
+      "departments": "音楽科・人間福祉学科・食物栄養学科",
+      "note": ""
+    },
+    {
+      "name": "國學院大學栃木短期大学",
+      "establishment": "私立",
+      "prefecture": "栃木県",
+      "departments": "日本文化学科・人間教育学科",
+      "note": "2026年度以降の学生募集停止"
+    },
+    {
+      "name": "作新学院大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "栃木県",
+      "departments": "幼児教育科",
+      "note": ""
+    },
+    {
+      "name": "佐野日本大学短期大学",
+      "establishment": "私立",
+      "prefecture": "栃木県",
+      "departments": "総合キャリア教育学科",
+      "note": ""
+    },
+    {
+      "name": "那須短期大学",
+      "establishment": "私立",
+      "prefecture": "栃木県",
+      "departments": "看護学科",
+      "note": ""
+    },
+    {
+      "name": "育英短期大学",
+      "establishment": "私立",
+      "prefecture": "群馬県",
+      "departments": "保育学科・現代コミュニケーション学科",
+      "note": ""
+    },
+    {
+      "name": "共愛学園前橋国際大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "群馬県",
+      "departments": "生活学科",
+      "note": "2026年度以降の学生募集停止"
+    },
+    {
+      "name": "群馬医療福祉大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "群馬県",
+      "departments": "医療福祉学科",
+      "note": ""
+    },
+    {
+      "name": "ぐんま未来大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "群馬県",
+      "departments": "アート・デザイン学科",
+      "note": ""
+    },
+    {
+      "name": "高崎商科大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "群馬県",
+      "departments": "経営学科",
+      "note": "2028年度以降の学生募集停止"
+    },
+    {
+      "name": "新島学園短期大学",
+      "establishment": "私立",
+      "prefecture": "群馬県",
+      "departments": "キャリアデザイン学科・コミュニティ子ども学科",
+      "note": ""
+    },
+    {
+      "name": "秋草学園短期大学",
+      "establishment": "私立",
+      "prefecture": "埼玉県",
+      "departments": "幼児教育学科・文化表現学科・地域保育学科・幼児教育第三部",
+      "note": "女子のみ"
+    },
+    {
+      "name": "川口短期大学",
+      "establishment": "私立",
+      "prefecture": "埼玉県",
+      "departments": "こども学科・ビジネス実務学科",
+      "note": ""
+    },
+    {
+      "name": "国際学院埼玉短期大学",
+      "establishment": "私立",
+      "prefecture": "埼玉県",
+      "departments": "幼児保育学科・健康栄養学科",
+      "note": ""
+    },
+    {
+      "name": "埼玉医科大学短期大学",
+      "establishment": "私立",
+      "prefecture": "埼玉県",
+      "departments": "看護学科",
+      "note": ""
+    },
+    {
+      "name": "埼玉純真短期大学",
+      "establishment": "私立",
+      "prefecture": "埼玉県",
+      "departments": "こども学科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "埼玉女子短期大学",
+      "establishment": "私立",
+      "prefecture": "埼玉県",
+      "departments": "商学科・国際コミュニケーション学科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "埼玉東萌短期大学",
+      "establishment": "私立",
+      "prefecture": "埼玉県",
+      "departments": "幼児保育学科",
+      "note": ""
+    },
+    {
+      "name": "武蔵丘短期大学",
+      "establishment": "私立",
+      "prefecture": "埼玉県",
+      "departments": "健康生活学科",
+      "note": ""
+    },
+    {
+      "name": "武蔵野短期大学",
+      "establishment": "私立",
+      "prefecture": "埼玉県",
+      "departments": "幼児教育学科",
+      "note": ""
+    },
+    {
+      "name": "山村学園短期大学",
+      "establishment": "私立",
+      "prefecture": "埼玉県",
+      "departments": "子ども学科",
+      "note": "2027年度以降の学生募集停止"
+    },
+    {
+      "name": "敬愛短期大学",
+      "establishment": "私立",
+      "prefecture": "千葉県",
+      "departments": "現代子ども学科",
+      "note": ""
+    },
+    {
+      "name": "昭和学院短期大学",
+      "establishment": "私立",
+      "prefecture": "千葉県",
+      "departments": "人間生活学科・ヘルスケア栄養学科",
+      "note": ""
+    },
+    {
+      "name": "聖徳大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "千葉県",
+      "departments": "保育科・保育科第二部・総合文化学科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "清和大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "千葉県",
+      "departments": "こども学科",
+      "note": ""
+    },
+    {
+      "name": "千葉経済大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "千葉県",
+      "departments": "ビジネスライフ学科・こども学科",
+      "note": ""
+    },
+    {
+      "name": "千葉明徳短期大学",
+      "establishment": "私立",
+      "prefecture": "千葉県",
+      "departments": "保育創造学科",
+      "note": ""
+    },
+    {
+      "name": "日本大学短期大学部 船橋校舎",
+      "establishment": "私立",
+      "prefecture": "千葉県",
+      "departments": "建築・生活デザイン学科・ものづくり・サイエンス総合学科",
+      "note": ""
+    },
+    {
+      "name": "愛国学園短期大学",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "家政科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "有明教育芸術短期大学",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "子ども教育学科",
+      "note": "2027年度以降の学生募集停止"
+    },
+    {
+      "name": "上野学園短期大学",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "音楽科",
+      "note": ""
+    },
+    {
+      "name": "大妻女子大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "家政科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "共立女子短期大学",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "生活科学科・文科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "国際短期大学",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "国際コミュニケーション学科",
+      "note": ""
+    },
+    {
+      "name": "駒沢女子短期大学",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "保育科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "自由が丘産能短期大学",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "能率科(通信教育",
+      "note": ""
+    },
+    {
+      "name": "女子美術大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "造形科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "白梅学園短期大学",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "保育科",
+      "note": ""
+    },
+    {
+      "name": "星美学園短期大学",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "幼児保育学科",
+      "note": "2025年度以降の学生募集停止"
+    },
+    {
+      "name": "創価女子短期大学",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "国際ビジネス学科",
+      "note": "女子のみ；2026年度以降の学生募集停止"
+    },
+    {
+      "name": "帝京大学短期大学",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "人間文化学科・現代ビジネス学科",
+      "note": ""
+    },
+    {
+      "name": "帝京短期大学",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "こども教育学科・生活科学科・ライフケア学科・ライフケア学科第二部",
+      "note": ""
+    },
+    {
+      "name": "貞静学園短期大学",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "保育学科",
+      "note": "2026年度以降の学生募集停止"
+    },
+    {
+      "name": "戸板女子短期大学",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "ファッション・ビューティ総合学科・国際コミュニケーション学科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "東京家政大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "栄養科・保育科",
+      "note": "2026年度以降の学生募集停止"
+    },
+    {
+      "name": "東京交通短期大学",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "運輸科第二部",
+      "note": ""
+    },
+    {
+      "name": "東京歯科大学短期大学",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "歯科衛生学科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "東京女子体育短期大学",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "こどもスポーツ教育学科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "東京成徳短期大学",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "幼児教育科",
+      "note": "2028年度以降の学生募集停止"
+    },
+    {
+      "name": "東京立正短期大学",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "現代コミュニケーション学科",
+      "note": ""
+    },
+    {
+      "name": "東邦音楽短期大学",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "音楽科",
+      "note": ""
+    },
+    {
+      "name": "桐朋学園芸術短期大学",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "芸術科",
+      "note": ""
+    },
+    {
+      "name": "新渡戸文化短期大学",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "フードデザイン学科・臨床検査学科",
+      "note": ""
+    },
+    {
+      "name": "日本栄養大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "食物栄養学科",
+      "note": ""
+    },
+    {
+      "name": "日本歯科大学東京短期大学",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "歯科衛生学科・歯科技工学科",
+      "note": ""
+    },
+    {
+      "name": "フェリシアこども短期大学",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "国際こども教育学科",
+      "note": ""
+    },
+    {
+      "name": "目白大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "ビジネス社会学科・歯科衛生学科・製菓学科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "山野美容芸術短期大学",
+      "establishment": "私立",
+      "prefecture": "東京都",
+      "departments": "美容総合学科",
+      "note": ""
+    },
+    {
+      "name": "和泉短期大学",
+      "establishment": "私立",
+      "prefecture": "神奈川県",
+      "departments": "児童福祉学科",
+      "note": ""
+    },
+    {
+      "name": "小田原短期大学",
+      "establishment": "私立",
+      "prefecture": "神奈川県",
+      "departments": "保育学科・食物栄養学科・ライフデザイン総合学科",
+      "note": ""
+    },
+    {
+      "name": "神奈川歯科大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "神奈川県",
+      "departments": "歯科衛生学科・看護学科",
+      "note": ""
+    },
+    {
+      "name": "鎌倉女子大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "神奈川県",
+      "departments": "初等教育学科",
+      "note": "女子のみ；2029年度より共学化、鎌倉大学短期大学部に改称予定"
+    },
+    {
+      "name": "相模女子大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "神奈川県",
+      "departments": "食物栄養学科",
+      "note": "女子のみ；2026年度以降の学生募集停止"
+    },
+    {
+      "name": "湘北短期大学",
+      "establishment": "私立",
+      "prefecture": "神奈川県",
+      "departments": "生活プロデュース学科・保育学科・総合ビジネス・情報学科",
+      "note": ""
+    },
+    {
+      "name": "昭和音楽大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "神奈川県",
+      "departments": "音楽科",
+      "note": ""
+    },
+    {
+      "name": "洗足こども短期大学",
+      "establishment": "私立",
+      "prefecture": "神奈川県",
+      "departments": "幼児教育保育科",
+      "note": "2027年度以降の学生募集停止"
+    },
+    {
+      "name": "鶴見大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "神奈川県",
+      "departments": "保育科・歯科衛生科",
+      "note": ""
+    },
+    {
+      "name": "横浜女子短期大学",
+      "establishment": "私立",
+      "prefecture": "神奈川県",
+      "departments": "保育科",
+      "note": "女子のみ；2026年度以降の学生募集停止"
+    },
+    {
+      "name": "新潟工業短期大学",
+      "establishment": "私立",
+      "prefecture": "新潟県",
+      "departments": "自動車工業科・専攻科",
+      "note": "2026年度以降の学生募集停止"
+    },
+    {
+      "name": "新潟青陵大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "新潟県",
+      "departments": "人間総合学科・幼児教育学科",
+      "note": ""
+    },
+    {
+      "name": "新潟中央短期大学",
+      "establishment": "私立",
+      "prefecture": "新潟県",
+      "departments": "幼児教育学科",
+      "note": ""
+    },
+    {
+      "name": "日本歯科大学新潟短期大学",
+      "establishment": "私立",
+      "prefecture": "新潟県",
+      "departments": "歯科衛生学科・歯科技工学科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "明倫短期大学",
+      "establishment": "私立",
+      "prefecture": "新潟県",
+      "departments": "歯科技工士学科・歯科衛生士学科",
+      "note": ""
+    },
+    {
+      "name": "富山短期大学",
+      "establishment": "私立",
+      "prefecture": "富山県",
+      "departments": "食物栄養学科・幼児教育学科・経営情報学科",
+      "note": ""
+    },
+    {
+      "name": "富山福祉短期大学",
+      "establishment": "私立",
+      "prefecture": "富山県",
+      "departments": "社会福祉学科・看護学科・幼児教育学科",
+      "note": ""
+    },
+    {
+      "name": "金沢学院短期大学",
+      "establishment": "私立",
+      "prefecture": "石川県",
+      "departments": "現代教養学科・食物栄養学科・幼児教育学科",
+      "note": ""
+    },
+    {
+      "name": "金沢星稜大学女子短期大学部",
+      "establishment": "私立",
+      "prefecture": "石川県",
+      "departments": "経営実務科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "金城大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "石川県",
+      "departments": "ビジネス実務学科・美術学科",
+      "note": ""
+    },
+    {
+      "name": "仁愛女子短期大学",
+      "establishment": "私立",
+      "prefecture": "福井県",
+      "departments": "生活科学学科・幼児教育学科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "帝京学園短期大学",
+      "establishment": "私立",
+      "prefecture": "山梨県",
+      "departments": "こども学科",
+      "note": "2027年度より帝京科学大学短期大学部に名称変更"
+    },
+    {
+      "name": "山梨学院短期大学",
+      "establishment": "私立",
+      "prefecture": "山梨県",
+      "departments": "食物栄養学科・保育科",
+      "note": ""
+    },
+    {
+      "name": "飯田短期大学",
+      "establishment": "私立",
+      "prefecture": "長野県",
+      "departments": "生活科学学科・幼児教育学科・看護学科",
+      "note": ""
+    },
+    {
+      "name": "上田短期大学",
+      "establishment": "私立",
+      "prefecture": "長野県",
+      "departments": "幼児教育学科・総合文化学科",
+      "note": ""
+    },
+    {
+      "name": "佐久大学信州短期大学部",
+      "establishment": "私立",
+      "prefecture": "長野県",
+      "departments": "福祉学科",
+      "note": "2026年度以降の学生募集停止"
+    },
+    {
+      "name": "信州豊南短期大学",
+      "establishment": "私立",
+      "prefecture": "長野県",
+      "departments": "言語コミュニケーション学科",
+      "note": ""
+    },
+    {
+      "name": "清泉大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "長野県",
+      "departments": "こども学科",
+      "note": ""
+    },
+    {
+      "name": "長野短期大学",
+      "establishment": "私立",
+      "prefecture": "長野県",
+      "departments": "生活科学科・幼児教育学科",
+      "note": ""
+    },
+    {
+      "name": "松本大学松商短期大学部",
+      "establishment": "私立",
+      "prefecture": "長野県",
+      "departments": "商学科・経営情報学科",
+      "note": ""
+    },
+    {
+      "name": "松本短期大学",
+      "establishment": "私立",
+      "prefecture": "長野県",
+      "departments": "幼児保育学科・介護福祉学科",
+      "note": ""
+    },
+    {
+      "name": "大垣女子短期大学",
+      "establishment": "私立",
+      "prefecture": "岐阜県",
+      "departments": "幼児教育学科・デザイン美術学科・音楽総合学科・歯科衛生学科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "正眼短期大学",
+      "establishment": "私立",
+      "prefecture": "岐阜県",
+      "departments": "禅・人間学科",
+      "note": ""
+    },
+    {
+      "name": "高山自動車短期大学",
+      "establishment": "私立",
+      "prefecture": "岐阜県",
+      "departments": "自動車工学科",
+      "note": ""
+    },
+    {
+      "name": "中京学院大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "岐阜県",
+      "departments": "保育科",
+      "note": ""
+    },
+    {
+      "name": "中部学院大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "岐阜県",
+      "departments": "幼児教育学科・社会福祉学科",
+      "note": ""
+    },
+    {
+      "name": "東海学院大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "岐阜県",
+      "departments": "幼児教育学科",
+      "note": "2029年度以降の学生募集停止"
+    },
+    {
+      "name": "中日本自動車短期大学",
+      "establishment": "私立",
+      "prefecture": "岐阜県",
+      "departments": "自動車工学科・モータースポーツエンジニアリング学科",
+      "note": ""
+    },
+    {
+      "name": "平成医療短期大学",
+      "establishment": "私立",
+      "prefecture": "岐阜県",
+      "departments": "看護学科・リハビリテーション学科",
+      "note": ""
+    },
+    {
+      "name": "静岡英和学院大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "静岡県",
+      "departments": "現代コミュニケーション学科",
+      "note": ""
+    },
+    {
+      "name": "常葉大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "静岡県",
+      "departments": "日本語日本文学科・保育科",
+      "note": ""
+    },
+    {
+      "name": "日本大学短期大学部三島校舎",
+      "establishment": "私立",
+      "prefecture": "静岡県",
+      "departments": "ビジネス教養学科",
+      "note": ""
+    },
+    {
+      "name": "浜松学院大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "静岡県",
+      "departments": "幼児教育科",
+      "note": ""
+    },
+    {
+      "name": "愛知学院大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "愛知県",
+      "departments": "歯科衛生学科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "愛知学泉大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "愛知県",
+      "departments": "生活デザイン総合学科・食物栄養学科・幼児教育学科",
+      "note": "2028年度以降の学生募集停止"
+    },
+    {
+      "name": "愛知工科大学自動車短期大学",
+      "establishment": "私立",
+      "prefecture": "愛知県",
+      "departments": "自動車工業学科",
+      "note": "2027年度以降の学生募集停止"
+    },
+    {
+      "name": "愛知産業大学短期大学",
+      "establishment": "私立",
+      "prefecture": "愛知県",
+      "departments": "通信教育部国際コミュニケーション学科",
+      "note": ""
+    },
+    {
+      "name": "愛知大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "愛知県",
+      "departments": "ライフデザイン総合学科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "愛知文教女子短期大学",
+      "establishment": "私立",
+      "prefecture": "愛知県",
+      "departments": "生活文化学科・幼児教育学科・幼児教育第3部",
+      "note": "女子のみ；2026年度以降の学生募集を停止"
+    },
+    {
+      "name": "愛知みずほ短期大学",
+      "establishment": "私立",
+      "prefecture": "愛知県",
+      "departments": "生活学科・現代幼児教育学科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "岡崎短期大学",
+      "establishment": "私立",
+      "prefecture": "愛知県",
+      "departments": "幼児教育学科・幼児教育第三部",
+      "note": ""
+    },
+    {
+      "name": "修文大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "愛知県",
+      "departments": "幼児教育第三部・生活文化学科",
+      "note": ""
+    },
+    {
+      "name": "豊橋創造大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "愛知県",
+      "departments": "キャリアプランニング学科（女子のみ",
+      "note": "・幼児教育・保育科"
+    },
+    {
+      "name": "名古屋経営短期大学",
+      "establishment": "私立",
+      "prefecture": "愛知県",
+      "departments": "未来キャリア学科・介護福祉学科・子ども学科",
+      "note": ""
+    },
+    {
+      "name": "名古屋女子大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "愛知県",
+      "departments": "保育第三部",
+      "note": "女子のみ；2025年度以降の学生募集停止"
+    },
+    {
+      "name": "名古屋短期大学",
+      "establishment": "私立",
+      "prefecture": "愛知県",
+      "departments": "保育科・現代教養学科",
+      "note": ""
+    },
+    {
+      "name": "名古屋文化短期大学",
+      "establishment": "私立",
+      "prefecture": "愛知県",
+      "departments": "生活文化学科",
+      "note": ""
+    },
+    {
+      "name": "名古屋文理大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "愛知県",
+      "departments": "食物栄養学科",
+      "note": "2027年度以降の学生募集停止"
+    },
+    {
+      "name": "名古屋柳城短期大学",
+      "establishment": "私立",
+      "prefecture": "愛知県",
+      "departments": "保育科",
+      "note": ""
+    },
+    {
+      "name": "高田短期大学",
+      "establishment": "私立",
+      "prefecture": "三重県",
+      "departments": "子ども学科・キャリア育成学科",
+      "note": ""
+    },
+    {
+      "name": "ユマニテク短期大学",
+      "establishment": "私立",
+      "prefecture": "三重県",
+      "departments": "幼児保育学科",
+      "note": ""
+    },
+    {
+      "name": "滋賀短期大学",
+      "establishment": "私立",
+      "prefecture": "滋賀県",
+      "departments": "幼児教育保育学科・デジタルライフビジネス学科",
+      "note": "2028年度以降の学生募集停止"
+    },
+    {
+      "name": "びわこ学院大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "滋賀県",
+      "departments": "ライフデザイン学科",
+      "note": "2027年度以降の学生募集停止"
+    },
+    {
+      "name": "滋賀文教短期大学",
+      "establishment": "私立",
+      "prefecture": "滋賀県",
+      "departments": "国文学科・子ども学科",
+      "note": "2026年度以降の学生募集停止"
+    },
+    {
+      "name": "華頂短期大学",
+      "establishment": "私立",
+      "prefecture": "京都府",
+      "departments": "総合文化学科・幼児教育学科",
+      "note": "2027年度以降の学生募集停止"
+    },
+    {
+      "name": "京都外国語短期大学",
+      "establishment": "私立",
+      "prefecture": "京都府",
+      "departments": "キャリア英語科第二部",
+      "note": "2027年度以降の学生募集停止"
+    },
+    {
+      "name": "京都経済短期大学",
+      "establishment": "私立",
+      "prefecture": "京都府",
+      "departments": "経営情報学科",
+      "note": ""
+    },
+    {
+      "name": "京都光華大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "京都府",
+      "departments": "ライフデザイン学科・歯科衛生学科",
+      "note": ""
+    },
+    {
+      "name": "京都西山短期大学",
+      "establishment": "私立",
+      "prefecture": "京都府",
+      "departments": "社会共生学科",
+      "note": ""
+    },
+    {
+      "name": "京都文教短期大学",
+      "establishment": "私立",
+      "prefecture": "京都府",
+      "departments": "ライフデザイン学科・食物栄養学科・幼児教育学科",
+      "note": "2026年度以降の学生募集停止"
+    },
+    {
+      "name": "嵯峨美術短期大学",
+      "establishment": "私立",
+      "prefecture": "京都府",
+      "departments": "美術学科",
+      "note": ""
+    },
+    {
+      "name": "藍野大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "大阪府",
+      "departments": "第一看護学科・第二看護学科",
+      "note": ""
+    },
+    {
+      "name": "大阪音楽大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "大阪府",
+      "departments": "音楽科",
+      "note": ""
+    },
+    {
+      "name": "大阪学院大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "大阪府",
+      "departments": "経営実務科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "大阪キリスト教短期大学",
+      "establishment": "私立",
+      "prefecture": "大阪府",
+      "departments": "幼児教育学科",
+      "note": ""
+    },
+    {
+      "name": "大阪芸術大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "大阪府",
+      "departments": "メディア・芸術学科・デザイン美術学科",
+      "note": ""
+    },
+    {
+      "name": "大阪健康福祉短期大学",
+      "establishment": "私立",
+      "prefecture": "大阪府",
+      "departments": "介護福祉学科・子ども福祉学科",
+      "note": ""
+    },
+    {
+      "name": "大阪国際大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "大阪府",
+      "departments": "ライフデザイン学科・幼児保育学科",
+      "note": ""
+    },
+    {
+      "name": "大阪女学院短期大学",
+      "establishment": "私立",
+      "prefecture": "大阪府",
+      "departments": "国際コミュニケーション学科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "大阪成蹊短期大学",
+      "establishment": "私立",
+      "prefecture": "大阪府",
+      "departments": "幼児教育学科・生活デザイン学科・栄養学科・調理・製菓学科・経営会計学科",
+      "note": ""
+    },
+    {
+      "name": "大阪総合保育大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "大阪府",
+      "departments": "総合保育学科",
+      "note": ""
+    },
+    {
+      "name": "大阪千代田短期大学",
+      "establishment": "私立",
+      "prefecture": "大阪府",
+      "departments": "幼児教育科",
+      "note": ""
+    },
+    {
+      "name": "大阪常磐会大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "大阪府",
+      "departments": "乳幼児教育学科",
+      "note": ""
+    },
+    {
+      "name": "大阪夕陽丘学園短期大学",
+      "establishment": "私立",
+      "prefecture": "大阪府",
+      "departments": "食物栄養学科・キャリア創造学科",
+      "note": ""
+    },
+    {
+      "name": "関西外国語大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "大阪府",
+      "departments": "英米語学科・未来キャリア英語科",
+      "note": ""
+    },
+    {
+      "name": "関西女子短期大学",
+      "establishment": "私立",
+      "prefecture": "大阪府",
+      "departments": "医療秘書学科・保育学科・養護保健学科・歯科衛生学科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "近畿大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "大阪府",
+      "departments": "商経科第二部",
+      "note": ""
+    },
+    {
+      "name": "堺女子短期大学",
+      "establishment": "私立",
+      "prefecture": "大阪府",
+      "departments": "美容生活文化学科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "四條畷学園短期大学",
+      "establishment": "私立",
+      "prefecture": "大阪府",
+      "departments": "ライフデザイン総合学科・保育学科",
+      "note": ""
+    },
+    {
+      "name": "四天王寺大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "大阪府",
+      "departments": "保育科",
+      "note": ""
+    },
+    {
+      "name": "東大阪大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "大阪府",
+      "departments": "実践食物学科・介護福祉学科",
+      "note": ""
+    },
+    {
+      "name": "大手前短期大学",
+      "establishment": "私立",
+      "prefecture": "兵庫県",
+      "departments": "歯科衛生学科・ライフデザイン総合学科・医療事務総合学科",
+      "note": ""
+    },
+    {
+      "name": "関西学院短期大学",
+      "establishment": "私立",
+      "prefecture": "兵庫県",
+      "departments": "保育科",
+      "note": ""
+    },
+    {
+      "name": "甲子園短期大学",
+      "establishment": "私立",
+      "prefecture": "兵庫県",
+      "departments": "生活環境学科・幼児教育保育学科",
+      "note": "2026年度以降の学生募集停止"
+    },
+    {
+      "name": "神戸教育短期大学",
+      "establishment": "私立",
+      "prefecture": "兵庫県",
+      "departments": "こども学科",
+      "note": ""
+    },
+    {
+      "name": "神戸女子短期大学",
+      "establishment": "私立",
+      "prefecture": "兵庫県",
+      "departments": "総合生活学科・食物栄養学科・幼児教育学科",
+      "note": "女子のみ；2026年度以降の学生募集停止"
+    },
+    {
+      "name": "産業技術短期大学",
+      "establishment": "私立",
+      "prefecture": "兵庫県",
+      "departments": "機械工学科・電気電子工学科・情報処理工学科・ものづくり創造工学科",
+      "note": "2026年度以降の学生募集停止"
+    },
+    {
+      "name": "頌栄短期大学",
+      "establishment": "私立",
+      "prefecture": "兵庫県",
+      "departments": "保育科",
+      "note": ""
+    },
+    {
+      "name": "園田学園女子大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "兵庫県",
+      "departments": "生活文化学科・幼児教育学科",
+      "note": "女子のみ；2025年度以降の学生募集停止"
+    },
+    {
+      "name": "東洋食品工業短期大学",
+      "establishment": "私立",
+      "prefecture": "兵庫県",
+      "departments": "包装食品工学科",
+      "note": ""
+    },
+    {
+      "name": "豊岡短期大学",
+      "establishment": "私立",
+      "prefecture": "兵庫県",
+      "departments": "こども学科",
+      "note": ""
+    },
+    {
+      "name": "姫路日ノ本短期大学",
+      "establishment": "私立",
+      "prefecture": "兵庫県",
+      "departments": "幼児教育科",
+      "note": "2025年度以降の学生募集停止"
+    },
+    {
+      "name": "兵庫大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "兵庫県",
+      "departments": "保育科・保育科第三部",
+      "note": ""
+    },
+    {
+      "name": "湊川短期大学",
+      "establishment": "私立",
+      "prefecture": "兵庫県",
+      "departments": "人間健康教育学科・幼児教育保育学科",
+      "note": ""
+    },
+    {
+      "name": "奈良芸術短期大学",
+      "establishment": "私立",
+      "prefecture": "奈良県",
+      "departments": "美術学科",
+      "note": ""
+    },
+    {
+      "name": "大和大学白鳳短期大学部",
+      "establishment": "私立",
+      "prefecture": "奈良県",
+      "departments": "総合人間学科",
+      "note": ""
+    },
+    {
+      "name": "和歌山信愛短期大学",
+      "establishment": "私立",
+      "prefecture": "和歌山県",
+      "departments": "生活文化学科・保育科",
+      "note": "2026年度以降の学生募集停止"
+    },
+    {
+      "name": "鳥取短期大学",
+      "establishment": "私立",
+      "prefecture": "鳥取県",
+      "departments": "生活学科・地域コミュニケーション学科・幼児教育保育学科",
+      "note": ""
+    },
+    {
+      "name": "岡山短期大学",
+      "establishment": "私立",
+      "prefecture": "岡山県",
+      "departments": "幼児教育学科",
+      "note": ""
+    },
+    {
+      "name": "川崎医療短期大学",
+      "establishment": "私立",
+      "prefecture": "岡山県",
+      "departments": "看護学科・医療介護福祉学科",
+      "note": ""
+    },
+    {
+      "name": "作陽短期大学",
+      "establishment": "私立",
+      "prefecture": "岡山県",
+      "departments": "音楽学科",
+      "note": ""
+    },
+    {
+      "name": "山陽学園短期大学",
+      "establishment": "私立",
+      "prefecture": "岡山県",
+      "departments": "健康栄養学科・こども育成学科",
+      "note": ""
+    },
+    {
+      "name": "中国短期大学",
+      "establishment": "私立",
+      "prefecture": "岡山県",
+      "departments": "総合生活学科・保育学科・情報ビジネス学科",
+      "note": ""
+    },
+    {
+      "name": "山陽女子短期大学",
+      "establishment": "私立",
+      "prefecture": "広島県",
+      "departments": "臨床検査学科・人間生活学科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "比治山大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "広島県",
+      "departments": "総合生活デザイン学科・幼児教育科・美術科",
+      "note": "2027年度以降の学生募集停止"
+    },
+    {
+      "name": "広島文化学園短期大学",
+      "establishment": "私立",
+      "prefecture": "広島県",
+      "departments": "コミュニティ生活学科・健康デザイン学科・保育学科",
+      "note": ""
+    },
+    {
+      "name": "岩国短期大学",
+      "establishment": "私立",
+      "prefecture": "山口県",
+      "departments": "幼児教育科",
+      "note": ""
+    },
+    {
+      "name": "宇部フロンティア大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "山口県",
+      "departments": "保育学科・食物栄養学科",
+      "note": "2028年度以降の学生募集停止"
+    },
+    {
+      "name": "下関短期大学",
+      "establishment": "私立",
+      "prefecture": "山口県",
+      "departments": "保育学科",
+      "note": ""
+    },
+    {
+      "name": "山口芸術短期大学",
+      "establishment": "私立",
+      "prefecture": "山口県",
+      "departments": "保育学科・芸術表現学科",
+      "note": ""
+    },
+    {
+      "name": "山口短期大学",
+      "establishment": "私立",
+      "prefecture": "山口県",
+      "departments": "児童教育学科・情報メディア学科",
+      "note": ""
+    },
+    {
+      "name": "四国大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "徳島県",
+      "departments": "ビジネス・コミュニケーション科・幼児教育保育科",
+      "note": ""
+    },
+    {
+      "name": "徳島工業短期大学",
+      "establishment": "私立",
+      "prefecture": "徳島県",
+      "departments": "自動車工業学科",
+      "note": ""
+    },
+    {
+      "name": "徳島文理大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "徳島県",
+      "departments": "商科・生活科学科・保育科",
+      "note": ""
+    },
+    {
+      "name": "香川短期大学",
+      "establishment": "私立",
+      "prefecture": "香川県",
+      "departments": "食物栄養学科・子ども学科・子ども学科第Ⅲ部・経営情報・デザイン学科",
+      "note": ""
+    },
+    {
+      "name": "高松短期大学",
+      "establishment": "私立",
+      "prefecture": "香川県",
+      "departments": "保育学科・ビジネスデザイン学科",
+      "note": ""
+    },
+    {
+      "name": "今治明徳短期大学",
+      "establishment": "私立",
+      "prefecture": "愛媛県",
+      "departments": "ライフデザイン学科・幼児教育学科",
+      "note": ""
+    },
+    {
+      "name": "聖カタリナ大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "愛媛県",
+      "departments": "保育学科",
+      "note": "2028年度以降の学生募集停止"
+    },
+    {
+      "name": "松山東雲短期大学",
+      "establishment": "私立",
+      "prefecture": "愛媛県",
+      "departments": "保育科・食物栄養科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "松山短期大学",
+      "establishment": "私立",
+      "prefecture": "愛媛県",
+      "departments": "地域マネジメント学科",
+      "note": ""
+    },
+    {
+      "name": "高知学園短期大学",
+      "establishment": "私立",
+      "prefecture": "高知県",
+      "departments": "幼児保育学科・歯科衛生学科・看護学科",
+      "note": ""
+    },
+    {
+      "name": "折尾愛真短期大学",
+      "establishment": "私立",
+      "prefecture": "福岡県",
+      "departments": "経済科",
+      "note": ""
+    },
+    {
+      "name": "九州大谷短期大学",
+      "establishment": "私立",
+      "prefecture": "福岡県",
+      "departments": "表現学科・幼児教育学科・仏教学科",
+      "note": ""
+    },
+    {
+      "name": "九州女子短期大学",
+      "establishment": "私立",
+      "prefecture": "福岡県",
+      "departments": "子ども健康学科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "九州産業大学造形短期大学部",
+      "establishment": "私立",
+      "prefecture": "福岡県",
+      "departments": "造形芸術学科",
+      "note": ""
+    },
+    {
+      "name": "近畿大学九州短期大学",
+      "establishment": "私立",
+      "prefecture": "福岡県",
+      "departments": "生活福祉情報科・保育科",
+      "note": ""
+    },
+    {
+      "name": "香蘭女子短期大学",
+      "establishment": "私立",
+      "prefecture": "福岡県",
+      "departments": "ファッション総合学科・食物栄養学科・保育学科・ライフプランニング総合学科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "精華女子短期大学",
+      "establishment": "私立",
+      "prefecture": "福岡県",
+      "departments": "幼児保育学科・生活科学科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "西南女学院大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "福岡県",
+      "departments": "保育科",
+      "note": "女子のみ；2025年度以降の学生募集停止"
+    },
+    {
+      "name": "中村学園大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "福岡県",
+      "departments": "食物栄養学科・キャリア開発学科・幼児保育学科",
+      "note": ""
+    },
+    {
+      "name": "西日本短期大学",
+      "establishment": "私立",
+      "prefecture": "福岡県",
+      "departments": "ビジネス法学科・緑地環境学科・社会福祉学科・保育学科・メディアプロモーション学科",
+      "note": ""
+    },
+    {
+      "name": "東筑紫短期大学",
+      "establishment": "私立",
+      "prefecture": "福岡県",
+      "departments": "保育学科・食物栄養学科",
+      "note": ""
+    },
+    {
+      "name": "福岡医療短期大学",
+      "establishment": "私立",
+      "prefecture": "福岡県",
+      "departments": "歯科衛生学科",
+      "note": ""
+    },
+    {
+      "name": "福岡工業大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "福岡県",
+      "departments": "情報メディア学科",
+      "note": "2027年度以降の学生募集停止"
+    },
+    {
+      "name": "福岡こども短期大学",
+      "establishment": "私立",
+      "prefecture": "福岡県",
+      "departments": "こども教育学科",
+      "note": ""
+    },
+    {
+      "name": "福岡短期大学",
+      "establishment": "私立",
+      "prefecture": "福岡県",
+      "departments": "健康栄養学科",
+      "note": ""
+    },
+    {
+      "name": "九州龍谷短期大学",
+      "establishment": "私立",
+      "prefecture": "佐賀県",
+      "departments": "人間コミュニティ学科・保育学科",
+      "note": "2025年度以降の学生募集停止"
+    },
+    {
+      "name": "佐賀女子短期大学",
+      "establishment": "私立",
+      "prefecture": "佐賀県",
+      "departments": "地域みらい学科・こども未来学科",
+      "note": ""
+    },
+    {
+      "name": "西九州大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "佐賀県",
+      "departments": "地域生活支援学科・幼児保育学科",
+      "note": ""
+    },
+    {
+      "name": "長崎女子短期大学",
+      "establishment": "私立",
+      "prefecture": "長崎県",
+      "departments": "生活創造科・幼児教育学科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "長崎短期大学",
+      "establishment": "私立",
+      "prefecture": "長崎県",
+      "departments": "保育学科・地域共生学科",
+      "note": ""
+    },
+    {
+      "name": "尚絅大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "熊本県",
+      "departments": "食物栄養学科・幼児教育学科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "大分短期大学",
+      "establishment": "私立",
+      "prefecture": "大分県",
+      "departments": "園芸科",
+      "note": ""
+    },
+    {
+      "name": "東九州短期大学",
+      "establishment": "私立",
+      "prefecture": "大分県",
+      "departments": "幼児教育学科",
+      "note": ""
+    },
+    {
+      "name": "別府大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "大分県",
+      "departments": "初等教育科・食物栄養科",
+      "note": ""
+    },
+    {
+      "name": "別府溝部学園短期大学",
+      "establishment": "私立",
+      "prefecture": "大分県",
+      "departments": "ライフデザイン総合学科・食物栄養学科・幼児教育学科・介護福祉学科",
+      "note": ""
+    },
+    {
+      "name": "南九州大学短期大学部",
+      "establishment": "私立",
+      "prefecture": "宮崎県",
+      "departments": "国際教養学科",
+      "note": "2026年度以降の学生募集停止"
+    },
+    {
+      "name": "宮崎学園短期大学",
+      "establishment": "私立",
+      "prefecture": "宮崎県",
+      "departments": "保育科・現代ビジネス科",
+      "note": ""
+    },
+    {
+      "name": "鹿児島純心女子短期大学",
+      "establishment": "私立",
+      "prefecture": "鹿児島県",
+      "departments": "生活学科・英語科",
+      "note": "女子のみ；2026年度以降の学生募集停止"
+    },
+    {
+      "name": "鹿児島女子短期大学",
+      "establishment": "私立",
+      "prefecture": "鹿児島県",
+      "departments": "児童教育学科・生活科学科・教養学科",
+      "note": "女子のみ"
+    },
+    {
+      "name": "第一幼児教育短期大学",
+      "establishment": "私立",
+      "prefecture": "鹿児島県",
+      "departments": "幼児教育科",
+      "note": ""
+    },
+    {
+      "name": "沖縄キリスト教短期大学",
+      "establishment": "私立",
+      "prefecture": "沖縄県",
+      "departments": "地域子ども保育科",
+      "note": ""
+    },
+    {
+      "name": "沖縄女子短期大学",
+      "establishment": "私立",
+      "prefecture": "沖縄県",
+      "departments": "総合ビジネス学科・児童教育学科",
+      "note": ""
+    },
+    {
+      "name": "静岡県立農林環境専門職大学短期大学部",
+      "establishment": "公立（専門職）",
+      "prefecture": "静岡県",
+      "departments": "生産科学科",
+      "note": ""
+    },
+    {
+      "name": "ヤマザキ動物看護専門職短期大学",
+      "establishment": "私立（専門職）",
+      "prefecture": "東京都",
+      "departments": "動物トータルケア看護学科",
+      "note": ""
+    },
+    {
+      "name": "せとうち観光専門職短期大学",
+      "establishment": "私立（専門職）",
+      "prefecture": "香川県",
+      "departments": "観光振興学科",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "日本の短期大学一覧 - Free Download",
+    "description": "日本の公立・私立短期大学（専門職短期大学を含む）の一覧。設置区分、所在都道府県、設置学科、共学化や募集停止などの備考を収録。 Contains 274 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の短期大学一覧 | ListBase",
+    "seo_description": "Download 日本の短期大学一覧 — 274 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 274 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/日本の短期大学一覧"
+    ]
+  }
+}
