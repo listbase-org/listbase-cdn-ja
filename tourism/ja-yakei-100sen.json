@@ -1,0 +1,571 @@
+{
+  "id": "ja-yakei-100sen",
+  "name": "日本の夜景100選",
+  "title": "日本の夜景100選",
+  "description": "「日本の夜景100選」に選ばれた夜景スポットの一覧（都道府県・選定地・区市町村）。",
+  "category": "tourism",
+  "source": "https://ja.wikipedia.org/wiki/日本の夜景100選",
+  "source_url": "https://ja.wikipedia.org/wiki/日本の夜景100選",
+  "updated": "2026-11",
+  "record_count": 106,
+  "columns": [
+    {
+      "key": "prefecture",
+      "label": "Prefecture",
+      "type": "string"
+    },
+    {
+      "key": "spot",
+      "label": "Spot",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "prefecture": "北海道",
+      "spot": "函館山",
+      "municipality": "函館市"
+    },
+    {
+      "prefecture": "北海道",
+      "spot": "藻岩山",
+      "municipality": "札幌市"
+    },
+    {
+      "prefecture": "北海道",
+      "spot": "JRタワー 展望室T38",
+      "municipality": "札幌市"
+    },
+    {
+      "prefecture": "北海道",
+      "spot": "天狗山",
+      "municipality": "小樽市"
+    },
+    {
+      "prefecture": "北海道",
+      "spot": "測量山",
+      "municipality": "室蘭市"
+    },
+    {
+      "prefecture": "青森県",
+      "spot": "釜臥山",
+      "municipality": "むつ市"
+    },
+    {
+      "prefecture": "岩手県",
+      "spot": "岩山公園",
+      "municipality": "盛岡市"
+    },
+    {
+      "prefecture": "宮城県",
+      "spot": "SS30",
+      "municipality": "仙台市"
+    },
+    {
+      "prefecture": "宮城県",
+      "spot": "安波山",
+      "municipality": "気仙沼市"
+    },
+    {
+      "prefecture": "秋田県",
+      "spot": "セリオン",
+      "municipality": "秋田市"
+    },
+    {
+      "prefecture": "山形県",
+      "spot": "舞鶴公園",
+      "municipality": "天童市"
+    },
+    {
+      "prefecture": "山形県",
+      "spot": "眺海の森",
+      "municipality": "酒田市"
+    },
+    {
+      "prefecture": "福島県",
+      "spot": "信夫山",
+      "municipality": "福島市"
+    },
+    {
+      "prefecture": "茨城県",
+      "spot": "筑波山 ・ 表筑波スカイライン",
+      "municipality": "つくば市 石岡市"
+    },
+    {
+      "prefecture": "栃木県",
+      "spot": "太平山",
+      "municipality": "栃木市"
+    },
+    {
+      "prefecture": "栃木県",
+      "spot": "織姫公園",
+      "municipality": "足利市"
+    },
+    {
+      "prefecture": "群馬県",
+      "spot": "群馬県庁展望ホール",
+      "municipality": "前橋市"
+    },
+    {
+      "prefecture": "群馬県",
+      "spot": "大パノラマ夜景展望台",
+      "municipality": "前橋市"
+    },
+    {
+      "prefecture": "埼玉県",
+      "spot": "美の山公園",
+      "municipality": "秩父市"
+    },
+    {
+      "prefecture": "千葉県",
+      "spot": "きみさらずタワー",
+      "municipality": "木更津市"
+    },
+    {
+      "prefecture": "千葉県",
+      "spot": "飯岡刑部岬",
+      "municipality": "旭市"
+    },
+    {
+      "prefecture": "千葉県",
+      "spot": "アイ・リンクタウン展望室",
+      "municipality": "市川市"
+    },
+    {
+      "prefecture": "東京都",
+      "spot": "東京タワー",
+      "municipality": "港区"
+    },
+    {
+      "prefecture": "東京都",
+      "spot": "六本木ヒルズ",
+      "municipality": "港区"
+    },
+    {
+      "prefecture": "東京都",
+      "spot": "都庁",
+      "municipality": "新宿区"
+    },
+    {
+      "prefecture": "東京都",
+      "spot": "サンシャイン60 （スカイサーカス）",
+      "municipality": "豊島区"
+    },
+    {
+      "prefecture": "東京都",
+      "spot": "渋谷スクランブルスクエア SHIBUYA SKY",
+      "municipality": "渋谷区"
+    },
+    {
+      "prefecture": "神奈川県",
+      "spot": "横浜ランドマークタワー",
+      "municipality": "横浜市"
+    },
+    {
+      "prefecture": "神奈川県",
+      "spot": "横浜港大さん橋国際客船ターミナル",
+      "municipality": "横浜市"
+    },
+    {
+      "prefecture": "神奈川県",
+      "spot": "川崎市役所 スカイデッキ",
+      "municipality": "川崎市"
+    },
+    {
+      "prefecture": "神奈川県",
+      "spot": "湘南平",
+      "municipality": "平塚市"
+    },
+    {
+      "prefecture": "神奈川県",
+      "spot": "菜の花台",
+      "municipality": "秦野市"
+    },
+    {
+      "prefecture": "新潟県",
+      "spot": "朱鷺メッセ展望室",
+      "municipality": "新潟市"
+    },
+    {
+      "prefecture": "新潟県",
+      "spot": "弥彦山",
+      "municipality": "長岡市 弥彦村"
+    },
+    {
+      "prefecture": "富山県",
+      "spot": "富山市役所",
+      "municipality": "富山市"
+    },
+    {
+      "prefecture": "富山県",
+      "spot": "二上山",
+      "municipality": "高岡市"
+    },
+    {
+      "prefecture": "石川県",
+      "spot": "卯辰山",
+      "municipality": "金沢市"
+    },
+    {
+      "prefecture": "石川県",
+      "spot": "石川県庁",
+      "municipality": "金沢市"
+    },
+    {
+      "prefecture": "石川県",
+      "spot": "獅子吼高原",
+      "municipality": "白山市"
+    },
+    {
+      "prefecture": "福井県",
+      "spot": "村国山",
+      "municipality": "越前市"
+    },
+    {
+      "prefecture": "山梨県",
+      "spot": "笛吹川フルーツ公園",
+      "municipality": "山梨市"
+    },
+    {
+      "prefecture": "山梨県",
+      "spot": "新倉山浅間公園",
+      "municipality": "富士吉田市"
+    },
+    {
+      "prefecture": "山梨県",
+      "spot": "八代ふるさと公園",
+      "municipality": "笛吹市"
+    },
+    {
+      "prefecture": "山梨県",
+      "spot": "みたまの湯",
+      "municipality": "市川三郷町"
+    },
+    {
+      "prefecture": "長野県",
+      "spot": "姨捨SA",
+      "municipality": "千曲市"
+    },
+    {
+      "prefecture": "長野県",
+      "spot": "城山公園",
+      "municipality": "松本市"
+    },
+    {
+      "prefecture": "長野県",
+      "spot": "立石公園",
+      "municipality": "諏訪市"
+    },
+    {
+      "prefecture": "岐阜県",
+      "spot": "金華山",
+      "municipality": "岐阜市"
+    },
+    {
+      "prefecture": "岐阜県",
+      "spot": "池田山",
+      "municipality": "池田町"
+    },
+    {
+      "prefecture": "静岡県",
+      "spot": "伊豆スカイライン",
+      "municipality": "伊豆エリア"
+    },
+    {
+      "prefecture": "静岡県",
+      "spot": "熱海城",
+      "municipality": "熱海市"
+    },
+    {
+      "prefecture": "静岡県",
+      "spot": "富士川SA",
+      "municipality": "富士市"
+    },
+    {
+      "prefecture": "愛知県",
+      "spot": "東山スカイタワー",
+      "municipality": "名古屋市"
+    },
+    {
+      "prefecture": "愛知県",
+      "spot": "蔵王山展望台",
+      "municipality": "田原市"
+    },
+    {
+      "prefecture": "三重県",
+      "spot": "垂坂公園・羽津山緑地",
+      "municipality": "四日市市"
+    },
+    {
+      "prefecture": "滋賀県",
+      "spot": "比叡山ドライブウェイ",
+      "municipality": "大津市"
+    },
+    {
+      "prefecture": "京都府",
+      "spot": "比叡山ドライブウェイ",
+      "municipality": "京都市"
+    },
+    {
+      "prefecture": "京都府",
+      "spot": "将軍塚 （東山山頂公園）",
+      "municipality": "京都市"
+    },
+    {
+      "prefecture": "京都府",
+      "spot": "万灯呂山展望台",
+      "municipality": "井手町"
+    },
+    {
+      "prefecture": "大阪府",
+      "spot": "あべのハルカス ハルカス300",
+      "municipality": "大阪市"
+    },
+    {
+      "prefecture": "大阪府",
+      "spot": "梅田スカイビル 空中庭園",
+      "municipality": "大阪市"
+    },
+    {
+      "prefecture": "大阪府",
+      "spot": "コスモタワー 大阪府咲洲庁舎 展望台",
+      "municipality": "大阪市"
+    },
+    {
+      "prefecture": "大阪府",
+      "spot": "信貴生駒スカイライン",
+      "municipality": "東大阪市 八尾市"
+    },
+    {
+      "prefecture": "大阪府",
+      "spot": "東大阪市役所",
+      "municipality": "東大阪市"
+    },
+    {
+      "prefecture": "大阪府",
+      "spot": "五月山",
+      "municipality": "池田市"
+    },
+    {
+      "prefecture": "大阪府",
+      "spot": "泉大津PA",
+      "municipality": "泉大津市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "spot": "摩耶山",
+      "municipality": "神戸市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "spot": "六甲ガーデンテラス",
+      "municipality": "神戸市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "spot": "ビーナスブリッジ",
+      "municipality": "神戸市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "spot": "神戸ポートタワー",
+      "municipality": "神戸市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "spot": "芦有ドライブウェイ 東六甲展望台",
+      "municipality": "西宮市"
+    },
+    {
+      "prefecture": "兵庫県",
+      "spot": "淡路SA",
+      "municipality": "淡路市"
+    },
+    {
+      "prefecture": "奈良県",
+      "spot": "若草山",
+      "municipality": "奈良市"
+    },
+    {
+      "prefecture": "奈良県",
+      "spot": "信貴生駒スカイライン",
+      "municipality": "生駒市 平群町"
+    },
+    {
+      "prefecture": "和歌山県",
+      "spot": "紀ノ川SA",
+      "municipality": "和歌山市"
+    },
+    {
+      "prefecture": "和歌山県",
+      "spot": "鷲ヶ峰コスモスパーク",
+      "municipality": "有田川町"
+    },
+    {
+      "prefecture": "島根県",
+      "spot": "星上峠展望台",
+      "municipality": "松江市"
+    },
+    {
+      "prefecture": "岡山県",
+      "spot": "鷲羽山スカイライン",
+      "municipality": "倉敷市"
+    },
+    {
+      "prefecture": "岡山県",
+      "spot": "遙照山 総合公園",
+      "municipality": "浅口市"
+    },
+    {
+      "prefecture": "広島県",
+      "spot": "黄金山",
+      "municipality": "広島市"
+    },
+    {
+      "prefecture": "広島県",
+      "spot": "灰ヶ峰",
+      "municipality": "呉市"
+    },
+    {
+      "prefecture": "広島県",
+      "spot": "千光寺展望台",
+      "municipality": "尾道市"
+    },
+    {
+      "prefecture": "山口県",
+      "spot": "火の山",
+      "municipality": "下関市"
+    },
+    {
+      "prefecture": "山口県",
+      "spot": "竜王山公園",
+      "municipality": "山陽小野田市"
+    },
+    {
+      "prefecture": "徳島県",
+      "spot": "眉山",
+      "municipality": "徳島市"
+    },
+    {
+      "prefecture": "香川県",
+      "spot": "屋島 獅子の霊巌",
+      "municipality": "高松市"
+    },
+    {
+      "prefecture": "香川県",
+      "spot": "天使のすむ丘 サンアンジェリーナ展望台",
+      "municipality": "宇多津町"
+    },
+    {
+      "prefecture": "香川県",
+      "spot": "ゴールドタワー",
+      "municipality": "宇多津町"
+    },
+    {
+      "prefecture": "愛媛県",
+      "spot": "松山総合公園",
+      "municipality": "松山市"
+    },
+    {
+      "prefecture": "愛媛県",
+      "spot": "具定展望台",
+      "municipality": "四国中央市"
+    },
+    {
+      "prefecture": "高知県",
+      "spot": "五台山公園",
+      "municipality": "高知市"
+    },
+    {
+      "prefecture": "福岡県",
+      "spot": "皿倉山",
+      "municipality": "北九州市"
+    },
+    {
+      "prefecture": "福岡県",
+      "spot": "福岡タワー",
+      "municipality": "福岡市"
+    },
+    {
+      "prefecture": "福岡県",
+      "spot": "油山 片江展望台",
+      "municipality": "福岡市"
+    },
+    {
+      "prefecture": "福岡県",
+      "spot": "米の山展望広場",
+      "municipality": "篠栗町"
+    },
+    {
+      "prefecture": "佐賀県",
+      "spot": "道の駅吉野ヶ里",
+      "municipality": "吉野ヶ里町"
+    },
+    {
+      "prefecture": "長崎県",
+      "spot": "稲佐山",
+      "municipality": "長崎市"
+    },
+    {
+      "prefecture": "長崎県",
+      "spot": "弓張岳展望台",
+      "municipality": "佐世保市"
+    },
+    {
+      "prefecture": "熊本県",
+      "spot": "花岡山",
+      "municipality": "熊本市"
+    },
+    {
+      "prefecture": "熊本県",
+      "spot": "金峰山",
+      "municipality": "熊本市"
+    },
+    {
+      "prefecture": "大分県",
+      "spot": "十文字原展望台",
+      "municipality": "別府市"
+    },
+    {
+      "prefecture": "宮崎県",
+      "spot": "愛宕山公園",
+      "municipality": "延岡市"
+    },
+    {
+      "prefecture": "宮崎県",
+      "spot": "金御岳公園",
+      "municipality": "都城市"
+    },
+    {
+      "prefecture": "鹿児島県",
+      "spot": "城山展望台",
+      "municipality": "鹿児島市"
+    },
+    {
+      "prefecture": "鹿児島県",
+      "spot": "城山公園",
+      "municipality": "霧島市"
+    },
+    {
+      "prefecture": "沖縄県",
+      "spot": "浦添大公園",
+      "municipality": "浦添市"
+    }
+  ],
+  "meta": {
+    "title": "日本の夜景100選 - Free Download",
+    "description": "「日本の夜景100選」に選ばれた夜景スポットの一覧（都道府県・選定地・区市町村）。 Contains 106 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本の夜景100選 | ListBase",
+    "seo_description": "Download 日本の夜景100選 — 106 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 106 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/日本の夜景100選"
+    ]
+  }
+}
