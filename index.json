@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-25T02:19:32.019Z",
-  "total_datasets": 633,
-  "total_records": 468015,
+  "generated": "2026-11-25T02:19:44.033Z",
+  "total_datasets": 634,
+  "total_records": 468049,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "food",
@@ -2016,6 +2016,37 @@
         "xlsx": {
           "name": "ja-banks_JA.xlsx",
           "size": 77350
+        }
+      }
+    },
+    {
+      "id": "ja-dai-ni-chiho-ginko",
+      "name": "第二地方銀行一覧",
+      "category": "finance",
+      "record_count": 34,
+      "columns": [
+        "bank",
+        "former_name",
+        "holding_company",
+        "headquarters",
+        "finance_bureau",
+        "branches",
+        "deposits_oku_yen",
+        "loans_oku_yen",
+        "capital_ratio_pct",
+        "bank_code"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/第二地方銀行",
+      "updated": "2026-11",
+      "size": 14997,
+      "files": {
+        "csv": {
+          "name": "ja-dai-ni-chiho-ginko_JA.csv",
+          "size": 4828
+        },
+        "xlsx": {
+          "name": "ja-dai-ni-chiho-ginko_JA.xlsx",
+          "size": 9912
         }
       }
     },

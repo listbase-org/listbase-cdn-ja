@@ -1,0 +1,484 @@
+{
+  "id": "ja-dai-ni-chiho-ginko",
+  "name": "第二地方銀行一覧",
+  "title": "第二地方銀行一覧",
+  "description": "第二地方銀行の一覧（2026年1月現在、数値は2025年3月末）。旧名称（相互銀行時代）、親会社、本店所在地、登録先財務局、店舗数、預金・貸出金（億円）、自己資本比率、金融機関コードを掲載。",
+  "category": "finance",
+  "source": "https://ja.wikipedia.org/wiki/第二地方銀行",
+  "source_url": "https://ja.wikipedia.org/wiki/第二地方銀行",
+  "updated": "2026-11",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "former_name",
+      "label": "Former Name",
+      "type": "string"
+    },
+    {
+      "key": "holding_company",
+      "label": "Holding Company",
+      "type": "string"
+    },
+    {
+      "key": "headquarters",
+      "label": "Headquarters",
+      "type": "string"
+    },
+    {
+      "key": "finance_bureau",
+      "label": "Finance Bureau",
+      "type": "string"
+    },
+    {
+      "key": "branches",
+      "label": "Branches",
+      "type": "number"
+    },
+    {
+      "key": "deposits_oku_yen",
+      "label": "Deposits Oku Yen",
+      "type": "number"
+    },
+    {
+      "key": "loans_oku_yen",
+      "label": "Loans Oku Yen",
+      "type": "number"
+    },
+    {
+      "key": "capital_ratio_pct",
+      "label": "Capital Ratio Pct",
+      "type": "number"
+    },
+    {
+      "key": "bank_code",
+      "label": "Bank Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "北洋銀行",
+      "former_name": "北洋相互銀行",
+      "holding_company": "",
+      "headquarters": "北海道 札幌市 中央区",
+      "finance_bureau": "北海道財務局",
+      "branches": 171,
+      "deposits_oku_yen": 111039,
+      "loans_oku_yen": 79192,
+      "capital_ratio_pct": 12.66,
+      "bank_code": "0501"
+    },
+    {
+      "bank": "きらやか銀行",
+      "former_name": "殖産相互銀行",
+      "holding_company": "じもとホールディングス",
+      "headquarters": "山形県 山形市",
+      "finance_bureau": "東北財務局",
+      "branches": 117,
+      "deposits_oku_yen": 10946,
+      "loans_oku_yen": 9620,
+      "capital_ratio_pct": 8.49,
+      "bank_code": "0508"
+    },
+    {
+      "bank": "北日本銀行",
+      "former_name": "北日本相互銀行",
+      "holding_company": "",
+      "headquarters": "岩手県 盛岡市",
+      "finance_bureau": "東北財務局",
+      "branches": 77,
+      "deposits_oku_yen": 14220,
+      "loans_oku_yen": 11094,
+      "capital_ratio_pct": 9.75,
+      "bank_code": "0509"
+    },
+    {
+      "bank": "仙台銀行",
+      "former_name": "振興相互銀行",
+      "holding_company": "じもとホールディングス",
+      "headquarters": "宮城県 仙台市 青葉区",
+      "finance_bureau": "東北財務局",
+      "branches": 72,
+      "deposits_oku_yen": 10376,
+      "loans_oku_yen": 9636,
+      "capital_ratio_pct": 7.81,
+      "bank_code": "0512"
+    },
+    {
+      "bank": "福島銀行",
+      "former_name": "福島相互銀行",
+      "holding_company": "",
+      "headquarters": "福島県 福島市",
+      "finance_bureau": "東北財務局",
+      "branches": 54,
+      "deposits_oku_yen": 7626,
+      "loans_oku_yen": 5760,
+      "capital_ratio_pct": 8.67,
+      "bank_code": "0513"
+    },
+    {
+      "bank": "大東銀行",
+      "former_name": "大東相互銀行",
+      "holding_company": "",
+      "headquarters": "福島県 郡山市",
+      "finance_bureau": "東北財務局",
+      "branches": 56,
+      "deposits_oku_yen": 7327,
+      "loans_oku_yen": 6674,
+      "capital_ratio_pct": 10.83,
+      "bank_code": "0514"
+    },
+    {
+      "bank": "東和銀行",
+      "former_name": "大生相互銀行",
+      "holding_company": "",
+      "headquarters": "群馬県 前橋市",
+      "finance_bureau": "関東財務局",
+      "branches": 91,
+      "deposits_oku_yen": 21563,
+      "loans_oku_yen": 16092,
+      "capital_ratio_pct": 9.71,
+      "bank_code": "0516"
+    },
+    {
+      "bank": "栃木銀行",
+      "former_name": "栃木相互銀行",
+      "holding_company": "",
+      "headquarters": "栃木県 宇都宮市",
+      "finance_bureau": "関東財務局",
+      "branches": 83,
+      "deposits_oku_yen": 31211,
+      "loans_oku_yen": 21928,
+      "capital_ratio_pct": 9.85,
+      "bank_code": "0517"
+    },
+    {
+      "bank": "京葉銀行",
+      "former_name": "千葉相互銀行",
+      "holding_company": "",
+      "headquarters": "千葉県 千葉市 中央区",
+      "finance_bureau": "関東財務局",
+      "branches": 122,
+      "deposits_oku_yen": 55411,
+      "loans_oku_yen": 43631,
+      "capital_ratio_pct": 10.75,
+      "bank_code": "0522"
+    },
+    {
+      "bank": "東日本銀行",
+      "former_name": "ときわ相互銀行",
+      "holding_company": "横浜フィナンシャルグループ",
+      "headquarters": "東京都 中央区",
+      "finance_bureau": "関東財務局",
+      "branches": 87,
+      "deposits_oku_yen": 15078,
+      "loans_oku_yen": 16287,
+      "capital_ratio_pct": 8.77,
+      "bank_code": "0525"
+    },
+    {
+      "bank": "東京スター銀行",
+      "former_name": "（ 東京相和銀行 ）",
+      "holding_company": "中國信託商業銀行 股份有限公司（ 台湾 の銀行）",
+      "headquarters": "東京都 港区",
+      "finance_bureau": "関東財務局",
+      "branches": 38,
+      "deposits_oku_yen": 18676,
+      "loans_oku_yen": 15994,
+      "capital_ratio_pct": 11.38,
+      "bank_code": "0526"
+    },
+    {
+      "bank": "神奈川銀行",
+      "former_name": "神奈川相互銀行",
+      "holding_company": "横浜銀行 （横浜フィナンシャルグループ傘下）",
+      "headquarters": "神奈川県 横浜市 中区",
+      "finance_bureau": "関東財務局",
+      "branches": 34,
+      "deposits_oku_yen": 4680,
+      "loans_oku_yen": 4095,
+      "capital_ratio_pct": 9.69,
+      "bank_code": "0530"
+    },
+    {
+      "bank": "大光銀行",
+      "former_name": "大光相互銀行",
+      "holding_company": "",
+      "headquarters": "新潟県 長岡市",
+      "finance_bureau": "関東財務局",
+      "branches": 71,
+      "deposits_oku_yen": 14304,
+      "loans_oku_yen": 11711,
+      "capital_ratio_pct": 8.56,
+      "bank_code": "0532"
+    },
+    {
+      "bank": "富山第一銀行",
+      "former_name": "富山相互銀行",
+      "holding_company": "",
+      "headquarters": "富山県 富山市",
+      "finance_bureau": "北陸財務局",
+      "branches": 66,
+      "deposits_oku_yen": 13787,
+      "loans_oku_yen": 10239,
+      "capital_ratio_pct": 11.71,
+      "bank_code": "0534"
+    },
+    {
+      "bank": "静岡中央銀行",
+      "former_name": "静岡相互銀行",
+      "holding_company": "",
+      "headquarters": "静岡県 沼津市",
+      "finance_bureau": "東海財務局",
+      "branches": 43,
+      "deposits_oku_yen": 7438,
+      "loans_oku_yen": 6249,
+      "capital_ratio_pct": 13.29,
+      "bank_code": "0538"
+    },
+    {
+      "bank": "あいち銀行",
+      "former_name": "中央相互銀行",
+      "holding_company": "あいちフィナンシャルグループ",
+      "headquarters": "愛知県 名古屋市 中区",
+      "finance_bureau": "東海財務局",
+      "branches": 193,
+      "deposits_oku_yen": 59457,
+      "loans_oku_yen": 48547,
+      "capital_ratio_pct": 7.79,
+      "bank_code": "0542"
+    },
+    {
+      "bank": "名古屋銀行",
+      "former_name": "名古屋相互銀行",
+      "holding_company": "",
+      "headquarters": "愛知県 名古屋市 中区",
+      "finance_bureau": "東海財務局",
+      "branches": 114,
+      "deposits_oku_yen": 47972,
+      "loans_oku_yen": 40055,
+      "capital_ratio_pct": 11.47,
+      "bank_code": "0543"
+    },
+    {
+      "bank": "みなと銀行",
+      "former_name": "阪神相互銀行",
+      "holding_company": "りそなホールディングス",
+      "headquarters": "兵庫県 神戸市 中央区",
+      "finance_bureau": "近畿財務局",
+      "branches": 104,
+      "deposits_oku_yen": 38673,
+      "loans_oku_yen": 32717,
+      "capital_ratio_pct": 10.06,
+      "bank_code": "0562"
+    },
+    {
+      "bank": "島根銀行",
+      "former_name": "松江相互銀行",
+      "holding_company": "",
+      "headquarters": "島根県 松江市",
+      "finance_bureau": "中国財務局",
+      "branches": 34,
+      "deposits_oku_yen": 5273,
+      "loans_oku_yen": 3911,
+      "capital_ratio_pct": 7.56,
+      "bank_code": "0565"
+    },
+    {
+      "bank": "トマト銀行",
+      "former_name": "山陽相互銀行",
+      "holding_company": "",
+      "headquarters": "岡山県 岡山市 北区",
+      "finance_bureau": "中国財務局",
+      "branches": 61,
+      "deposits_oku_yen": 12523,
+      "loans_oku_yen": 10626,
+      "capital_ratio_pct": 8.89,
+      "bank_code": "0566"
+    },
+    {
+      "bank": "もみじ銀行",
+      "former_name": "広島相互銀行",
+      "holding_company": "山口フィナンシャルグループ",
+      "headquarters": "広島県 広島市 中区",
+      "finance_bureau": "中国財務局",
+      "branches": 103,
+      "deposits_oku_yen": 32383,
+      "loans_oku_yen": 25516,
+      "capital_ratio_pct": 10.49,
+      "bank_code": "0569"
+    },
+    {
+      "bank": "西京銀行",
+      "former_name": "山口相互銀行",
+      "holding_company": "",
+      "headquarters": "山口県 周南市",
+      "finance_bureau": "中国財務局",
+      "branches": 61,
+      "deposits_oku_yen": 21393,
+      "loans_oku_yen": 17853,
+      "capital_ratio_pct": 7.4,
+      "bank_code": "0570"
+    },
+    {
+      "bank": "徳島大正銀行",
+      "former_name": "徳島相互銀行",
+      "holding_company": "トモニホールディングス",
+      "headquarters": "徳島県 徳島市",
+      "finance_bureau": "四国財務局",
+      "branches": 98,
+      "deposits_oku_yen": 23864,
+      "loans_oku_yen": 20326,
+      "capital_ratio_pct": 8.62,
+      "bank_code": "0572"
+    },
+    {
+      "bank": "香川銀行",
+      "former_name": "香川相互銀行",
+      "holding_company": "トモニホールディングス",
+      "headquarters": "香川県 高松市",
+      "finance_bureau": "四国財務局",
+      "branches": 90,
+      "deposits_oku_yen": 20411,
+      "loans_oku_yen": 16655,
+      "capital_ratio_pct": 10.07,
+      "bank_code": "0573"
+    },
+    {
+      "bank": "愛媛銀行",
+      "former_name": "愛媛相互銀行",
+      "holding_company": "",
+      "headquarters": "愛媛県 松山市",
+      "finance_bureau": "四国財務局",
+      "branches": 111,
+      "deposits_oku_yen": 25477,
+      "loans_oku_yen": 19826,
+      "capital_ratio_pct": 8.1,
+      "bank_code": "0576"
+    },
+    {
+      "bank": "高知銀行",
+      "former_name": "高知相互銀行",
+      "holding_company": "",
+      "headquarters": "高知県 高知市",
+      "finance_bureau": "四国財務局",
+      "branches": 72,
+      "deposits_oku_yen": 9997,
+      "loans_oku_yen": 7489,
+      "capital_ratio_pct": 8.82,
+      "bank_code": "0578"
+    },
+    {
+      "bank": "福岡中央銀行",
+      "former_name": "正金相互銀行",
+      "holding_company": "ふくおかフィナンシャルグループ",
+      "headquarters": "福岡県 福岡市 中央区",
+      "finance_bureau": "福岡財務支局",
+      "branches": 41,
+      "deposits_oku_yen": 4655,
+      "loans_oku_yen": 4264,
+      "capital_ratio_pct": 8.96,
+      "bank_code": "0582"
+    },
+    {
+      "bank": "佐賀共栄銀行",
+      "former_name": "佐賀相互銀行",
+      "holding_company": "",
+      "headquarters": "佐賀県 佐賀市",
+      "finance_bureau": "福岡財務支局",
+      "branches": 34,
+      "deposits_oku_yen": 2349,
+      "loans_oku_yen": 1953,
+      "capital_ratio_pct": 9.62,
+      "bank_code": "0583"
+    },
+    {
+      "bank": "長崎銀行",
+      "former_name": "長崎相互銀行",
+      "holding_company": "西日本フィナンシャルホールディングス",
+      "headquarters": "長崎県 長崎市",
+      "finance_bureau": "福岡財務支局",
+      "branches": 24,
+      "deposits_oku_yen": 2813,
+      "loans_oku_yen": 2761,
+      "capital_ratio_pct": 10.12,
+      "bank_code": "0585"
+    },
+    {
+      "bank": "熊本銀行",
+      "former_name": "熊本相互銀行",
+      "holding_company": "ふくおかフィナンシャルグループ",
+      "headquarters": "熊本県 熊本市 中央区",
+      "finance_bureau": "九州財務局",
+      "branches": 70,
+      "deposits_oku_yen": 16692,
+      "loans_oku_yen": 21227,
+      "capital_ratio_pct": 10.75,
+      "bank_code": "0587"
+    },
+    {
+      "bank": "豊和銀行",
+      "former_name": "豊和相互銀行",
+      "holding_company": "",
+      "headquarters": "大分県 大分市",
+      "finance_bureau": "九州財務局",
+      "branches": 42,
+      "deposits_oku_yen": 5596,
+      "loans_oku_yen": 4293,
+      "capital_ratio_pct": 10.67,
+      "bank_code": "0590"
+    },
+    {
+      "bank": "宮崎太陽銀行",
+      "former_name": "宮崎相互銀行",
+      "holding_company": "",
+      "headquarters": "宮崎県 宮崎市",
+      "finance_bureau": "九州財務局",
+      "branches": 53,
+      "deposits_oku_yen": 7623,
+      "loans_oku_yen": 5585,
+      "capital_ratio_pct": 8.23,
+      "bank_code": "0591"
+    },
+    {
+      "bank": "南日本銀行",
+      "former_name": "旭相互銀行",
+      "holding_company": "",
+      "headquarters": "鹿児島県 鹿児島市",
+      "finance_bureau": "九州財務局",
+      "branches": 64,
+      "deposits_oku_yen": 7761,
+      "loans_oku_yen": 5922,
+      "capital_ratio_pct": 9.49,
+      "bank_code": "0594"
+    },
+    {
+      "bank": "沖縄海邦銀行",
+      "former_name": "沖縄相互銀行",
+      "holding_company": "",
+      "headquarters": "沖縄県 那覇市",
+      "finance_bureau": "内閣府 沖縄総合事務局 財務部",
+      "branches": 50,
+      "deposits_oku_yen": 7182,
+      "loans_oku_yen": 5653,
+      "capital_ratio_pct": 10.03,
+      "bank_code": "0596"
+    }
+  ],
+  "meta": {
+    "title": "第二地方銀行一覧 - Free Download",
+    "description": "第二地方銀行の一覧（2026年1月現在、数値は2025年3月末）。旧名称（相互銀行時代）、親会社、本店所在地、登録先財務局、店舗数、預金・貸出金（億円）、自己資本比率、金融機関コードを掲載。 Contains 34 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "第二地方銀行一覧 | ListBase",
+    "seo_description": "Download 第二地方銀行一覧 — 34 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 34 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/第二地方銀行"
+    ]
+  }
+}
