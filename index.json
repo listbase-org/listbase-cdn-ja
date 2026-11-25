@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-24T02:15:19.171Z",
-  "total_datasets": 632,
-  "total_records": 467971,
+  "generated": "2026-11-25T02:19:32.019Z",
+  "total_datasets": 633,
+  "total_records": 468015,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "tourism",
@@ -17074,6 +17074,32 @@
         "xlsx": {
           "name": "ja-wafu-getsumei_JA.xlsx",
           "size": 7638
+        }
+      }
+    },
+    {
+      "id": "ja-zassetsu-hizuke",
+      "name": "雑節の日付一覧（2024〜2027年）",
+      "category": "time",
+      "record_count": 44,
+      "columns": [
+        "year",
+        "name",
+        "date",
+        "solar_longitude_deg",
+        "time_jst"
+      ],
+      "source": "https://eco.mtk.nao.ac.jp/koyomi/yoko/",
+      "updated": "2026-11",
+      "size": 8349,
+      "files": {
+        "csv": {
+          "name": "ja-zassetsu-hizuke_JA.csv",
+          "size": 1949
+        },
+        "xlsx": {
+          "name": "ja-zassetsu-hizuke_JA.xlsx",
+          "size": 8151
         }
       }
     },

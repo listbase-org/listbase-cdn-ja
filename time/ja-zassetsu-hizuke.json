@@ -1,0 +1,359 @@
+{
+  "id": "ja-zassetsu-hizuke",
+  "name": "雑節の日付一覧（2024〜2027年）",
+  "title": "雑節の日付一覧（2024〜2027年）",
+  "description": "国立天文台暦計算室の暦要項に基づく、雑節（節分・彼岸の入り・土用の入り・八十八夜・入梅・半夏生・二百十日）の年別の日付一覧。土用・入梅・半夏生は太陽黄経と中央標準時の時刻も掲載。",
+  "category": "time",
+  "source": "https://eco.mtk.nao.ac.jp/koyomi/yoko/",
+  "source_url": "https://eco.mtk.nao.ac.jp/koyomi/yoko/",
+  "updated": "2026-11",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "solar_longitude_deg",
+      "label": "Solar Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "time_jst",
+      "label": "Time Jst",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2024,
+      "name": "土用",
+      "date": "2024-01-18",
+      "solar_longitude_deg": 297,
+      "time_jst": "0時24分"
+    },
+    {
+      "year": 2024,
+      "name": "節分",
+      "date": "2024-02-03",
+      "solar_longitude_deg": "",
+      "time_jst": ""
+    },
+    {
+      "year": 2024,
+      "name": "彼岸",
+      "date": "2024-03-17",
+      "solar_longitude_deg": "",
+      "time_jst": ""
+    },
+    {
+      "year": 2024,
+      "name": "土用",
+      "date": "2024-04-16",
+      "solar_longitude_deg": 27,
+      "time_jst": "21時20分"
+    },
+    {
+      "year": 2024,
+      "name": "八十八夜",
+      "date": "2024-05-01",
+      "solar_longitude_deg": "",
+      "time_jst": ""
+    },
+    {
+      "year": 2024,
+      "name": "入梅",
+      "date": "2024-06-10",
+      "solar_longitude_deg": 80,
+      "time_jst": "18時33分"
+    },
+    {
+      "year": 2024,
+      "name": "半夏生",
+      "date": "2024-07-01",
+      "solar_longitude_deg": 100,
+      "time_jst": "17時31分"
+    },
+    {
+      "year": 2024,
+      "name": "土用",
+      "date": "2024-07-19",
+      "solar_longitude_deg": 117,
+      "time_jst": "13時17分"
+    },
+    {
+      "year": 2024,
+      "name": "二百十日",
+      "date": "2024-08-31",
+      "solar_longitude_deg": "",
+      "time_jst": ""
+    },
+    {
+      "year": 2024,
+      "name": "彼岸",
+      "date": "2024-09-19",
+      "solar_longitude_deg": "",
+      "time_jst": ""
+    },
+    {
+      "year": 2024,
+      "name": "土用",
+      "date": "2024-10-20",
+      "solar_longitude_deg": 207,
+      "time_jst": "6時51分"
+    },
+    {
+      "year": 2025,
+      "name": "土用",
+      "date": "2025-01-17",
+      "solar_longitude_deg": 297,
+      "time_jst": "6時16分"
+    },
+    {
+      "year": 2025,
+      "name": "節分",
+      "date": "2025-02-02",
+      "solar_longitude_deg": "",
+      "time_jst": ""
+    },
+    {
+      "year": 2025,
+      "name": "彼岸",
+      "date": "2025-03-17",
+      "solar_longitude_deg": "",
+      "time_jst": ""
+    },
+    {
+      "year": 2025,
+      "name": "土用",
+      "date": "2025-04-17",
+      "solar_longitude_deg": 27,
+      "time_jst": "3時16分"
+    },
+    {
+      "year": 2025,
+      "name": "八十八夜",
+      "date": "2025-05-01",
+      "solar_longitude_deg": "",
+      "time_jst": ""
+    },
+    {
+      "year": 2025,
+      "name": "入梅",
+      "date": "2025-06-11",
+      "solar_longitude_deg": 80,
+      "time_jst": "0時24分"
+    },
+    {
+      "year": 2025,
+      "name": "半夏生",
+      "date": "2025-07-01",
+      "solar_longitude_deg": 100,
+      "time_jst": "23時13分"
+    },
+    {
+      "year": 2025,
+      "name": "土用",
+      "date": "2025-07-19",
+      "solar_longitude_deg": 117,
+      "time_jst": "19時05分"
+    },
+    {
+      "year": 2025,
+      "name": "二百十日",
+      "date": "2025-08-31",
+      "solar_longitude_deg": "",
+      "time_jst": ""
+    },
+    {
+      "year": 2025,
+      "name": "彼岸",
+      "date": "2025-09-20",
+      "solar_longitude_deg": "",
+      "time_jst": ""
+    },
+    {
+      "year": 2025,
+      "name": "土用",
+      "date": "2025-10-20",
+      "solar_longitude_deg": 207,
+      "time_jst": "12時29分"
+    },
+    {
+      "year": 2026,
+      "name": "土用",
+      "date": "2026-01-17",
+      "solar_longitude_deg": 297,
+      "time_jst": "12時03分"
+    },
+    {
+      "year": 2026,
+      "name": "節分",
+      "date": "2026-02-03",
+      "solar_longitude_deg": "",
+      "time_jst": ""
+    },
+    {
+      "year": 2026,
+      "name": "彼岸",
+      "date": "2026-03-17",
+      "solar_longitude_deg": "",
+      "time_jst": ""
+    },
+    {
+      "year": 2026,
+      "name": "土用",
+      "date": "2026-04-17",
+      "solar_longitude_deg": 27,
+      "time_jst": "9時01分"
+    },
+    {
+      "year": 2026,
+      "name": "八十八夜",
+      "date": "2026-05-02",
+      "solar_longitude_deg": "",
+      "time_jst": ""
+    },
+    {
+      "year": 2026,
+      "name": "入梅",
+      "date": "2026-06-11",
+      "solar_longitude_deg": 80,
+      "time_jst": "6時14分"
+    },
+    {
+      "year": 2026,
+      "name": "半夏生",
+      "date": "2026-07-02",
+      "solar_longitude_deg": 100,
+      "time_jst": "5時04分"
+    },
+    {
+      "year": 2026,
+      "name": "土用",
+      "date": "2026-07-20",
+      "solar_longitude_deg": 117,
+      "time_jst": "0時48分"
+    },
+    {
+      "year": 2026,
+      "name": "二百十日",
+      "date": "2026-09-01",
+      "solar_longitude_deg": "",
+      "time_jst": ""
+    },
+    {
+      "year": 2026,
+      "name": "彼岸",
+      "date": "2026-09-20",
+      "solar_longitude_deg": "",
+      "time_jst": ""
+    },
+    {
+      "year": 2026,
+      "name": "土用",
+      "date": "2026-10-20",
+      "solar_longitude_deg": 207,
+      "time_jst": "18時13分"
+    },
+    {
+      "year": 2027,
+      "name": "土用",
+      "date": "2027-01-17",
+      "solar_longitude_deg": 297,
+      "time_jst": "17時46分"
+    },
+    {
+      "year": 2027,
+      "name": "節分",
+      "date": "2027-02-03",
+      "solar_longitude_deg": "",
+      "time_jst": ""
+    },
+    {
+      "year": 2027,
+      "name": "彼岸",
+      "date": "2027-03-18",
+      "solar_longitude_deg": "",
+      "time_jst": ""
+    },
+    {
+      "year": 2027,
+      "name": "土用",
+      "date": "2027-04-17",
+      "solar_longitude_deg": 27,
+      "time_jst": "14時36分"
+    },
+    {
+      "year": 2027,
+      "name": "八十八夜",
+      "date": "2027-05-02",
+      "solar_longitude_deg": "",
+      "time_jst": ""
+    },
+    {
+      "year": 2027,
+      "name": "入梅",
+      "date": "2027-06-11",
+      "solar_longitude_deg": 80,
+      "time_jst": "11時50分"
+    },
+    {
+      "year": 2027,
+      "name": "半夏生",
+      "date": "2027-07-02",
+      "solar_longitude_deg": 100,
+      "time_jst": "10時49分"
+    },
+    {
+      "year": 2027,
+      "name": "土用",
+      "date": "2027-07-20",
+      "solar_longitude_deg": 117,
+      "time_jst": "6時37分"
+    },
+    {
+      "year": 2027,
+      "name": "二百十日",
+      "date": "2027-09-01",
+      "solar_longitude_deg": "",
+      "time_jst": ""
+    },
+    {
+      "year": 2027,
+      "name": "彼岸",
+      "date": "2027-09-20",
+      "solar_longitude_deg": "",
+      "time_jst": ""
+    },
+    {
+      "year": 2027,
+      "name": "土用",
+      "date": "2027-10-21",
+      "solar_longitude_deg": 207,
+      "time_jst": "0時10分"
+    }
+  ],
+  "meta": {
+    "title": "雑節の日付一覧（2024〜2027年） - Free Download",
+    "description": "国立天文台暦計算室の暦要項に基づく、雑節（節分・彼岸の入り・土用の入り・八十八夜・入梅・半夏生・二百十日）の年別の日付一覧。土用・入梅・半夏生は太陽黄経と中央標準時の時刻も掲載。 Contains 44 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "雑節の日付一覧（2024〜2027年） | ListBase",
+    "seo_description": "Download 雑節の日付一覧（2024〜2027年） — 44 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 44 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://eco.mtk.nao.ac.jp/koyomi/yoko/"
+    ]
+  }
+}
