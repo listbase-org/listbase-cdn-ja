@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-25T02:19:44.033Z",
-  "total_datasets": 634,
-  "total_records": 468049,
+  "generated": "2026-11-26T02:15:29.557Z",
+  "total_datasets": 635,
+  "total_records": 468101,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "society",
@@ -15764,6 +15764,32 @@
         "xlsx": {
           "name": "ja-kokuritsu-kenkyu-kaihatsu-hojin_JA.xlsx",
           "size": 7270
+        }
+      }
+    },
+    {
+      "id": "ja-nihon-geopark-ichiran",
+      "name": "日本ジオパーク一覧（認定・退会を含む）",
+      "category": "science",
+      "record_count": 52,
+      "columns": [
+        "ジオパーク名",
+        "日本ジオパーク加盟",
+        "ユネスコ世界ジオパーク加盟",
+        "状態",
+        "備考"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/ジオパーク",
+      "updated": "2026-11",
+      "size": 14930,
+      "files": {
+        "csv": {
+          "name": "ja-nihon-geopark-ichiran_JA.csv",
+          "size": 4461
+        },
+        "xlsx": {
+          "name": "ja-nihon-geopark-ichiran_JA.xlsx",
+          "size": 8795
         }
       }
     },
