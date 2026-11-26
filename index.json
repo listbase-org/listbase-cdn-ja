@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-26T02:15:29.557Z",
-  "total_datasets": 635,
-  "total_records": 468101,
+  "generated": "2026-11-26T02:15:41.645Z",
+  "total_datasets": 636,
+  "total_records": 468279,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "finance",
@@ -1987,6 +1987,31 @@
         "xlsx": {
           "name": "ja-rekidai-kankyo-daijin_JA.xlsx",
           "size": 11326
+        }
+      }
+    },
+    {
+      "id": "ja-shokubutsuen-ichiran",
+      "name": "日本の植物園一覧（薬用植物園・大学附属・閉鎖施設を含む）",
+      "category": "environment",
+      "record_count": 178,
+      "columns": [
+        "名称",
+        "種別",
+        "都道府県",
+        "所在地"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/日本の植物園一覧",
+      "updated": "2026-11",
+      "size": 32744,
+      "files": {
+        "csv": {
+          "name": "ja-shokubutsuen-ichiran_JA.csv",
+          "size": 15022
+        },
+        "xlsx": {
+          "name": "ja-shokubutsuen-ichiran_JA.xlsx",
+          "size": 13828
         }
       }
     },
