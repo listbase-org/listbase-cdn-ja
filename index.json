@@ -1,12 +1,12 @@
 {
   "lang": "ja",
-  "generated": "2026-11-26T02:15:41.645Z",
-  "total_datasets": 636,
-  "total_records": 468279,
+  "generated": "2026-11-26T02:15:53.917Z",
+  "total_datasets": 637,
+  "total_records": 468379,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "culture",
@@ -391,6 +391,32 @@
         "xlsx": {
           "name": "ja-ringo-hinshu_JA.xlsx",
           "size": 13401
+        }
+      }
+    },
+    {
+      "id": "ja-tameike-hyakusen",
+      "name": "ため池百選一覧",
+      "category": "agriculture",
+      "record_count": 100,
+      "columns": [
+        "番号",
+        "ため池名",
+        "都道府県",
+        "市町村",
+        "特記事項"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/ため池百選",
+      "updated": "2026-11",
+      "size": 20407,
+      "files": {
+        "csv": {
+          "name": "ja-tameike-hyakusen_JA.csv",
+          "size": 7184
+        },
+        "xlsx": {
+          "name": "ja-tameike-hyakusen_JA.xlsx",
+          "size": 12143
         }
       }
     },
