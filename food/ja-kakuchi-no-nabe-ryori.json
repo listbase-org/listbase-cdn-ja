@@ -1,0 +1,491 @@
+{
+  "id": "ja-kakuchi-no-nabe-ryori",
+  "name": "日本各地の鍋料理一覧",
+  "title": "日本各地の鍋料理一覧",
+  "description": "日本各地に伝わる郷土の鍋料理（汁物を含む）を、名称・主な地域（都道府県）・五十音の行別にまとめた一覧。",
+  "category": "food",
+  "source": "https://ja.wikipedia.org/wiki/鍋料理",
+  "source_url": "https://ja.wikipedia.org/wiki/鍋料理",
+  "updated": "2026-11",
+  "record_count": 90,
+  "columns": [
+    {
+      "key": "namae",
+      "label": "Namae",
+      "type": "string"
+    },
+    {
+      "key": "chiiki",
+      "label": "Chiiki",
+      "type": "string"
+    },
+    {
+      "key": "gyo",
+      "label": "Gyo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "namae": "飛鳥鍋",
+      "chiiki": "奈良県",
+      "gyo": "あ行"
+    },
+    {
+      "namae": "赤から鍋",
+      "chiiki": "愛知県",
+      "gyo": "あ行"
+    },
+    {
+      "namae": "あなご鍋",
+      "chiiki": "大阪府",
+      "gyo": "あ行"
+    },
+    {
+      "namae": "あんこう鍋",
+      "chiiki": "茨城県、福島県",
+      "gyo": "あ行"
+    },
+    {
+      "namae": "石狩鍋",
+      "chiiki": "北海道",
+      "gyo": "あ行"
+    },
+    {
+      "namae": "石焼き鍋",
+      "chiiki": "秋田県・静岡県",
+      "gyo": "あ行"
+    },
+    {
+      "namae": "いしる鍋",
+      "chiiki": "石川県",
+      "gyo": "あ行"
+    },
+    {
+      "namae": "猪鍋",
+      "chiiki": "群馬県、静岡県",
+      "gyo": "あ行"
+    },
+    {
+      "namae": "芋煮",
+      "chiiki": "青森県を除く東北地方および新潟県",
+      "gyo": "あ行"
+    },
+    {
+      "namae": "伊予さつま",
+      "chiiki": "愛媛県",
+      "gyo": "あ行"
+    },
+    {
+      "namae": "鰯のちり鍋",
+      "chiiki": "福岡県",
+      "gyo": "あ行"
+    },
+    {
+      "namae": "魚すき",
+      "chiiki": "大阪府",
+      "gyo": "あ行"
+    },
+    {
+      "namae": "打ち込み汁",
+      "chiiki": "香川県",
+      "gyo": "あ行"
+    },
+    {
+      "namae": "うどんすき",
+      "chiiki": "大阪府",
+      "gyo": "あ行"
+    },
+    {
+      "namae": "うなべ",
+      "chiiki": "京都府",
+      "gyo": "あ行"
+    },
+    {
+      "namae": "ええじゃん鍋",
+      "chiiki": "広島県",
+      "gyo": "あ行"
+    },
+    {
+      "namae": "お狩場鍋",
+      "chiiki": "熊本県",
+      "gyo": "あ行"
+    },
+    {
+      "namae": "オハウ",
+      "chiiki": "北海道",
+      "gyo": "あ行"
+    },
+    {
+      "namae": "かしわ鍋",
+      "chiiki": "愛知県",
+      "gyo": "か行"
+    },
+    {
+      "namae": "かにちり",
+      "chiiki": "福井県、兵庫県",
+      "gyo": "か行"
+    },
+    {
+      "namae": "鴨鍋",
+      "chiiki": "滋賀県、千葉県、埼玉県",
+      "gyo": "か行"
+    },
+    {
+      "namae": "キジ鍋",
+      "chiiki": "日本各地",
+      "gyo": "か行"
+    },
+    {
+      "namae": "キビナゴ鍋",
+      "chiiki": "長崎県",
+      "gyo": "か行"
+    },
+    {
+      "namae": "きりたんぽ鍋",
+      "chiiki": "秋田県",
+      "gyo": "か行"
+    },
+    {
+      "namae": "牛汁",
+      "chiiki": "沖縄県",
+      "gyo": "か行"
+    },
+    {
+      "namae": "クエ鍋",
+      "chiiki": "高知県",
+      "gyo": "か行"
+    },
+    {
+      "namae": "くじら鍋",
+      "chiiki": "和歌山県",
+      "gyo": "か行"
+    },
+    {
+      "namae": "具雑煮",
+      "chiiki": "長崎県",
+      "gyo": "か行"
+    },
+    {
+      "namae": "げんげ鍋",
+      "chiiki": "富山県",
+      "gyo": "か行"
+    },
+    {
+      "namae": "けんちゃん汁",
+      "chiiki": "宮崎県",
+      "gyo": "か行"
+    },
+    {
+      "namae": "源平汁",
+      "chiiki": "香川県",
+      "gyo": "か行"
+    },
+    {
+      "namae": "ごり汁",
+      "chiiki": "石川県",
+      "gyo": "か行"
+    },
+    {
+      "namae": "桜鍋",
+      "chiiki": "東京都・長野県・熊本県",
+      "gyo": "さ行"
+    },
+    {
+      "namae": "さつま汁",
+      "chiiki": "鹿児島県",
+      "gyo": "さ行"
+    },
+    {
+      "namae": "さわ鍋",
+      "chiiki": "岡山県",
+      "gyo": "さ行"
+    },
+    {
+      "namae": "山菜味噌炊き鍋",
+      "chiiki": "岐阜県",
+      "gyo": "さ行"
+    },
+    {
+      "namae": "三平汁",
+      "chiiki": "北海道",
+      "gyo": "さ行"
+    },
+    {
+      "namae": "しし鍋",
+      "chiiki": "兵庫県・奈良県・石川県",
+      "gyo": "さ行"
+    },
+    {
+      "namae": "しっぽく鍋",
+      "chiiki": "大阪府",
+      "gyo": "さ行"
+    },
+    {
+      "namae": "地鶏鍋",
+      "chiiki": "大分県",
+      "gyo": "さ行"
+    },
+    {
+      "namae": "じゃっぱ汁",
+      "chiiki": "青森県",
+      "gyo": "さ行"
+    },
+    {
+      "namae": "じゅんじゅん",
+      "chiiki": "滋賀県",
+      "gyo": "さ行"
+    },
+    {
+      "namae": "しょっつる鍋",
+      "chiiki": "秋田県",
+      "gyo": "さ行"
+    },
+    {
+      "namae": "ジンギスカン鍋",
+      "chiiki": "北海道",
+      "gyo": "さ行"
+    },
+    {
+      "namae": "水軍鍋",
+      "chiiki": "愛媛県",
+      "gyo": "さ行"
+    },
+    {
+      "namae": "すすぎ鍋",
+      "chiiki": "鳥取県",
+      "gyo": "さ行"
+    },
+    {
+      "namae": "船場汁",
+      "chiiki": "大阪府",
+      "gyo": "さ行"
+    },
+    {
+      "namae": "せんべい汁",
+      "chiiki": "青森県八戸市",
+      "gyo": "さ行"
+    },
+    {
+      "namae": "せり鍋",
+      "chiiki": "宮城県仙台市.正式名は仙台せり鍋",
+      "gyo": "さ行"
+    },
+    {
+      "namae": "そずり鍋",
+      "chiiki": "岡山県",
+      "gyo": "さ行"
+    },
+    {
+      "namae": "そばかっけ鍋",
+      "chiiki": "岩手県",
+      "gyo": "さ行"
+    },
+    {
+      "namae": "そば米雑炊",
+      "chiiki": "徳島県",
+      "gyo": "さ行"
+    },
+    {
+      "namae": "鯖の煮食い",
+      "chiiki": "島根県・高知県",
+      "gyo": "さ行"
+    },
+    {
+      "namae": "鯛ちり",
+      "chiiki": "徳島県",
+      "gyo": "た行"
+    },
+    {
+      "namae": "だご汁",
+      "chiiki": "だんご汁",
+      "gyo": "た行"
+    },
+    {
+      "namae": "だまこ鍋",
+      "chiiki": "秋田県",
+      "gyo": "た行"
+    },
+    {
+      "namae": "たら汁",
+      "chiiki": "富山県",
+      "gyo": "た行"
+    },
+    {
+      "namae": "ちりとり鍋",
+      "chiiki": "大阪府",
+      "gyo": "た行"
+    },
+    {
+      "namae": "てっちり",
+      "chiiki": "大阪府、山口県、福岡県",
+      "gyo": "た行"
+    },
+    {
+      "namae": "土手鍋",
+      "chiiki": "広島県",
+      "gyo": "た行"
+    },
+    {
+      "namae": "どぜう鍋",
+      "chiiki": "東京都",
+      "gyo": "た行"
+    },
+    {
+      "namae": "どぶ汁",
+      "chiiki": "茨城県、福島県",
+      "gyo": "た行"
+    },
+    {
+      "namae": "とり野菜",
+      "chiiki": "石川県",
+      "gyo": "た行"
+    },
+    {
+      "namae": "どんがら汁",
+      "chiiki": "山形県",
+      "gyo": "た行"
+    },
+    {
+      "namae": "どんこ汁",
+      "chiiki": "岩手県",
+      "gyo": "た行"
+    },
+    {
+      "namae": "なんこ鍋",
+      "chiiki": "北海道",
+      "gyo": "な行"
+    },
+    {
+      "namae": "葱鮪鍋",
+      "chiiki": "東京都",
+      "gyo": "な行"
+    },
+    {
+      "namae": "のっぺい汁",
+      "chiiki": "新潟県",
+      "gyo": "な行"
+    },
+    {
+      "namae": "はも鍋",
+      "chiiki": "京都府、大阪府、兵庫県、和歌山県",
+      "gyo": "は行"
+    },
+    {
+      "namae": "はりはり鍋",
+      "chiiki": "大阪府",
+      "gyo": "は行"
+    },
+    {
+      "namae": "半助鍋",
+      "chiiki": "大阪府",
+      "gyo": "は行"
+    },
+    {
+      "namae": "番屋鍋",
+      "chiiki": "新潟県",
+      "gyo": "は行"
+    },
+    {
+      "namae": "ひきとおし",
+      "chiiki": "長崎県",
+      "gyo": "は行"
+    },
+    {
+      "namae": "美酒鍋",
+      "chiiki": "広島県",
+      "gyo": "は行"
+    },
+    {
+      "namae": "ひっぱりうどん",
+      "chiiki": "山形県",
+      "gyo": "は行"
+    },
+    {
+      "namae": "日の丸鍋",
+      "chiiki": "秋田県",
+      "gyo": "は行"
+    },
+    {
+      "namae": "ひるぜん鍋",
+      "chiiki": "岡山県",
+      "gyo": "は行"
+    },
+    {
+      "namae": "弁慶の菜汁",
+      "chiiki": "香川県",
+      "gyo": "は行"
+    },
+    {
+      "namae": "ぼたん鍋",
+      "chiiki": "神奈川県、兵庫県、岐阜県",
+      "gyo": "は行"
+    },
+    {
+      "namae": "又兵衛鍋",
+      "chiiki": "岩手県",
+      "gyo": "ま行"
+    },
+    {
+      "namae": "まる鍋",
+      "chiiki": "京都府",
+      "gyo": "ま行"
+    },
+    {
+      "namae": "水炊き",
+      "chiiki": "福岡県",
+      "gyo": "ま行"
+    },
+    {
+      "namae": "味噌煮込みうどん",
+      "chiiki": "愛知県",
+      "gyo": "ま行"
+    },
+    {
+      "namae": "もつ鍋",
+      "chiiki": "福岡県",
+      "gyo": "ま行"
+    },
+    {
+      "namae": "もみじ鍋",
+      "chiiki": "愛知県",
+      "gyo": "ま行"
+    },
+    {
+      "namae": "山羊汁",
+      "chiiki": "沖縄県",
+      "gyo": "や行"
+    },
+    {
+      "namae": "柳川鍋",
+      "chiiki": "東京都",
+      "gyo": "や行"
+    },
+    {
+      "namae": "湯豆腐",
+      "chiiki": "京都府",
+      "gyo": "や行"
+    },
+    {
+      "namae": "六兵衛汁",
+      "chiiki": "長崎県",
+      "gyo": "ら行"
+    },
+    {
+      "namae": "若草鍋",
+      "chiiki": "奈良県",
+      "gyo": "わ行"
+    }
+  ],
+  "meta": {
+    "title": "日本各地の鍋料理一覧 - Free Download",
+    "description": "日本各地に伝わる郷土の鍋料理（汁物を含む）を、名称・主な地域（都道府県）・五十音の行別にまとめた一覧。 Contains 90 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "日本各地の鍋料理一覧 | ListBase",
+    "seo_description": "Download 日本各地の鍋料理一覧 — 90 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 90 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ja.wikipedia.org/wiki/鍋料理"
+    ]
+  }
+}

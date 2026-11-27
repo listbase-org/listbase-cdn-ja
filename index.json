@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-27T02:17:29.022Z",
-  "total_datasets": 638,
-  "total_records": 470559,
+  "generated": "2026-11-27T02:17:40.864Z",
+  "total_datasets": 639,
+  "total_records": 470649,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "geography",
@@ -2456,6 +2456,30 @@
         "xlsx": {
           "name": "ja-gotochi-ramen_JA.xlsx",
           "size": 20297
+        }
+      }
+    },
+    {
+      "id": "ja-kakuchi-no-nabe-ryori",
+      "name": "日本各地の鍋料理一覧",
+      "category": "food",
+      "record_count": 90,
+      "columns": [
+        "namae",
+        "chiiki",
+        "gyo"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/鍋料理",
+      "updated": "2026-11",
+      "size": 10340,
+      "files": {
+        "csv": {
+          "name": "ja-kakuchi-no-nabe-ryori_JA.csv",
+          "size": 3593
+        },
+        "xlsx": {
+          "name": "ja-kakuchi-no-nabe-ryori_JA.xlsx",
+          "size": 9250
         }
       }
     },
