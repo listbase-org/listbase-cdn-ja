@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-27T02:17:40.864Z",
-  "total_datasets": 639,
-  "total_records": 470649,
+  "generated": "2026-11-27T02:17:52.768Z",
+  "total_datasets": 640,
+  "total_records": 470946,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "reference",
-      "dataset_count": 183
+      "dataset_count": 184
     },
     {
       "id": "science",
@@ -13287,6 +13287,31 @@
         "xlsx": {
           "name": "ja-nara-postal-codes_JA.xlsx",
           "size": 157860
+        }
+      }
+    },
+    {
+      "id": "ja-nihon-ichi-ichiran",
+      "name": "日本一の一覧（分野別）",
+      "category": "reference",
+      "record_count": 297,
+      "columns": [
+        "bunya",
+        "shobunya",
+        "komoku",
+        "naiyo"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/日本一の一覧",
+      "updated": "2026-11",
+      "size": 87673,
+      "files": {
+        "csv": {
+          "name": "ja-nihon-ichi-ichiran_JA.csv",
+          "size": 62277
+        },
+        "xlsx": {
+          "name": "ja-nihon-ichi-ichiran_JA.xlsx",
+          "size": 34921
         }
       }
     },
