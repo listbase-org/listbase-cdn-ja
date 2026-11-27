@@ -1,8 +1,8 @@
 {
   "lang": "ja",
-  "generated": "2026-11-26T02:15:53.917Z",
-  "total_datasets": 637,
-  "total_records": 468379,
+  "generated": "2026-11-27T02:17:29.022Z",
+  "total_datasets": 638,
+  "total_records": 470559,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "politics",
@@ -8258,6 +8258,32 @@
         "xlsx": {
           "name": "ja-gold-disc-taisho-jusho-kaisu_JA.xlsx",
           "size": 7049
+        }
+      }
+    },
+    {
+      "id": "ja-gotochi-song",
+      "name": "日本のご当地ソング一覧（地方・都道府県別）",
+      "category": "music",
+      "record_count": 2180,
+      "columns": [
+        "kyokumei",
+        "kashu_biko",
+        "chiiki",
+        "basho",
+        "chiho"
+      ],
+      "source": "https://ja.wikipedia.org/wiki/北海道のご当地ソング一覧",
+      "updated": "2026-11",
+      "size": 412130,
+      "files": {
+        "csv": {
+          "name": "ja-gotochi-song_JA.csv",
+          "size": 189881
+        },
+        "xlsx": {
+          "name": "ja-gotochi-song_JA.xlsx",
+          "size": 97884
         }
       }
     },
